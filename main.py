@@ -42,9 +42,9 @@ if response.status_code == 200:
         # Find the date of the news item (was previously called source)
         date = item.find('div', class_='source').text.strip() if item.find('div', class_='source') else 'Unknown date'
 
-        # Find the source of the news item (located in specific <a> tag in div structure)
-        source_tag = item.find('div', class_='news-card').find('a')
-        source = source_tag.text.strip() if source_tag else 'Unknown source'
+        # Find the source of the news item (located in 'data-author' attribute in class 't_t')
+        source_tag = item.find('div', class_='t_t').find('a', attrs={'data-author': True})
+        source = source_tag['data-author'].strip() if source_tag else 'Unknown source'
         
         # Append the news item details to the list
         news_list.append({
@@ -54,7 +54,7 @@ if response.status_code == 200:
             'image_url': image_url,
             'category': category,  # Add category to JSON
             'date': date,          # Renamed from source to date
-            'source': source       # Extracted from specific <a> tag
+            'source': source       # Extracted from 'data-author' attribute in 't_t' class
         })
     
     # Define the file path for the JSON file
