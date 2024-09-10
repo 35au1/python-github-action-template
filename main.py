@@ -10,13 +10,12 @@ search_terms = ['ufo', 'ai+app', 'paranormal']
 base_url = 'https://www.bing.com'
 
 def clean_text(text):
-    """Replace special characters with a space and strip leading/trailing whitespace."""
+    """Replace specific Unicode characters with a single quote and strip leading/trailing whitespace."""
     if text:
-        # Decode Unicode characters
-        text = text.encode('latin1').decode('utf8', 'ignore')
-        # Replace specific Unicode characters
-        text = text.replace('\u201c', '"').replace('\u201d', '"')
-        text = re.sub(r'\s+', ' ', text)  # Replace multiple spaces with a single space
+        # Replace specific Unicode characters with a single quote
+        text = text.replace('\u201c', "'").replace('\u201d', "'")
+        # Replace newlines, tabs, and multiple spaces with a single space
+        text = re.sub(r'\s+', ' ', text)
         return text.strip()
     return text
 
