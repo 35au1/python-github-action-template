@@ -1,9 +1,14 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+import re
 
 # URL of the Bing News search page
 url = 'https://www.bing.com/news/search?q=ufo&qft=interval%3d%227%22&form=PTFTNR'
+
+# Extract the category from the URL (between 'q=' and the first '&')
+category_match = re.search(r'q=([^&]+)', url)
+category = category_match.group(1) if category_match else 'Unknown'
 
 # Send a GET request to the URL
 response = requests.get(url)
@@ -34,12 +39,21 @@ if response.status_code == 200:
         image_tag = item.find('img')
         image_url = image_tag.get('src') or image_tag.get('data-src') if image_tag else 'No image'
         
+        # Find the source of the news item
+        source = item.find('div', class_='source').text.strip() if item.find('div', class_='source') else 'Unknown source'
+
+        # Find the date posted of the news item
+        date_posted = item.find('span', class_='date').text.strip() if item.find('span', class_='date') else 'Unknown date'
+        
         # Append the news item details to the list
         news_list.append({
             'title': title,
             'link': link,
             'description': description,
-            'image_url': image_url
+            'image_url': image_url,
+            'category': category,  # Add category to JSON
+            'source': source,      # Add source to JSON
+            'date_posted': date_posted  # Add date posted to JSON
         })
     
     # Define the file path for the JSON file
