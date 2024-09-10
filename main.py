@@ -9,6 +9,14 @@ search_terms = ['ufo', 'ai+app', 'paranormal']
 # Base URL for concatenating incomplete image URLs
 base_url = 'https://www.bing.com'
 
+def clean_text(text):
+    """Replace special characters with a space and strip leading/trailing whitespace."""
+    if text:
+        # Replace newlines, tabs, and multiple spaces with a single space
+        cleaned_text = re.sub(r'\s+', ' ', text)
+        return cleaned_text.strip()
+    return text
+
 def scrape_news(search_term):
     # URL of the Bing News search page with the search term
     url = f'https://www.bing.com/news/search?q={search_term}&qft=interval%3d%227%22&form=PTFTNR'
@@ -44,14 +52,14 @@ def scrape_news(search_term):
 
         # Find the title of the news item
         title_tag = item.find('a', class_='title')
-        title = title_tag.text.strip() if title_tag else 'No title'
+        title = clean_text(title_tag.text) if title_tag else 'No title'
 
         # Find the URL of the news item
         link = title_tag['href'] if title_tag and 'href' in title_tag.attrs else 'No link'
 
         # Find the description of the news item
         description_tag = item.find('div', class_='snippet')
-        description = description_tag.text.strip() if description_tag else 'No description'
+        description = clean_text(description_tag.text) if description_tag else 'No description'
 
         # Find the image URL of the news item (checking for both 'src' and 'data-src')
         image_tag = item.find('img')
@@ -63,11 +71,11 @@ def scrape_news(search_term):
 
         # Find the date of the news item (previously called source)
         date_tag = item.find('div', class_='source')
-        date = date_tag.text.strip() if date_tag else 'Unknown date'
+        date = clean_text(date_tag.text) if date_tag else 'Unknown date'
 
         # Find the source of the news item (located in 'data-author' attribute in class 't_t')
         source_tag = item.find('div', class_='t_t').find('a', attrs={'data-author': True}) if item.find('div', class_='t_t') else None
-        source = source_tag['data-author'].strip() if source_tag else 'Unknown source'
+        source = clean_text(source_tag['data-author']) if source_tag else 'Unknown source'
 
         # Append the news item details to the list
         news_list.append({
