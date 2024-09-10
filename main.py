@@ -2,16 +2,12 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import re
-from transformers import pipeline
 
 # List of search terms
 search_terms = ['ufo', 'ai+app', 'paranormal']
 
 # Base URL for concatenating incomplete image URLs
 base_url = 'https://www.bing.com'
-
-# Initialize the summarization pipeline
-summarizer = pipeline("summarization")
 
 def clean_text(text):
     """Replace specific Unicode characters with a single quote and strip leading/trailing whitespace."""
@@ -23,28 +19,6 @@ def clean_text(text):
         return text.strip()
     return text
 
-def fetch_article_content(url):
-    """Fetch and return the full content of the article from the given URL."""
-    try:
-        response = requests.get(url, timeout=10)
-        response.raise_for_status()
-    except requests.exceptions.RequestException as e:
-        print(f"Failed to retrieve the article content from URL '{url}': {e}")
-        return "Content unavailable"
-
-    soup = BeautifulSoup(response.text, 'html.parser')
-    # Extract the main content from the article
-    # This part may need to be customized based on the structure of the article page
-    paragraphs = soup.find_all('p')
-    content = ' '.join([p.get_text() for p in paragraphs])
-    return content
-
-def summarize_content(content):
-    """Summarize the given content using the summarization model."""
-    if len(content) > 1000:  # If content is too long, split into chunks
-        return summarizer(content[:1000])[0]['summary_text']
-    return summarizer(content)[0]['summary_text']
-
 def scrape_news(search_term):
     # URL of the Bing News search page with the search term
     url = f'https://www.bing.com/news/search?q={search_term}&qft=interval%3d%227%22&form=PTFTNR'
@@ -55,7 +29,7 @@ def scrape_news(search_term):
     # Send a GET request to the URL with a timeout
     try:
         response = requests.get(url, timeout=10)
-        response.raise_for_status()
+        response.raise_for_status()  # Raise an error for bad status codes (e.g., 404)
     except requests.exceptions.RequestException as e:
         print(f"Failed to retrieve the page for search term '{search_term}': {e}")
         return []
@@ -85,12 +59,6 @@ def scrape_news(search_term):
         # Find the URL of the news item
         link = title_tag['href'] if title_tag and 'href' in title_tag.attrs else 'No link'
 
-        # Fetch the full content of the article
-        article_content = fetch_article_content(link)
-        
-        # Summarize the article content
-        summary = summarize_content(article_content)
-
         # Find the description of the news item
         description_tag = item.find('div', class_='snippet')
         description = clean_text(description_tag.text) if description_tag else 'No description'
@@ -119,8 +87,7 @@ def scrape_news(search_term):
             'image_url': image_url,
             'category': category,  # Add category to JSON
             'date': date,          # Renamed from source to date
-            'source': source,      # Extracted from 'data-author' attribute in 't_t' class
-            'summary': summary     # Added summary field
+            'source': source       # Extracted from 'data-author' attribute in 't_t' class
         })
 
     return news_list
