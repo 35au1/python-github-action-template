@@ -39,11 +39,12 @@ if response.status_code == 200:
         image_tag = item.find('img')
         image_url = image_tag.get('src') or image_tag.get('data-src') if image_tag else 'No image'
         
-        # Find the source of the news item
-        source = item.find('div', class_='source').text.strip() if item.find('div', class_='source') else 'Unknown source'
+        # Find the date of the news item (was previously called source)
+        date = item.find('div', class_='source').text.strip() if item.find('div', class_='source') else 'Unknown date'
 
-        # Find the date posted of the news item
-        date_posted = item.find('span', class_='date').text.strip() if item.find('span', class_='date') else 'Unknown date'
+        # Find the source of the news item (located in class 't_t' with aria-label)
+        source_tag = item.find('div', class_='t_t')
+        source = source_tag['aria-label'].strip() if source_tag and source_tag.has_attr('aria-label') else 'Unknown source'
         
         # Append the news item details to the list
         news_list.append({
@@ -52,8 +53,8 @@ if response.status_code == 200:
             'description': description,
             'image_url': image_url,
             'category': category,  # Add category to JSON
-            'source': source,      # Add source to JSON
-            'date_posted': date_posted  # Add date posted to JSON
+            'date': date,          # Renamed from source to date
+            'source': source       # Extracted from aria-label of 't_t'
         })
     
     # Define the file path for the JSON file
@@ -67,3 +68,4 @@ if response.status_code == 200:
     
 else:
     print(f"Failed to retrieve the page. Status code: {response.status_code}")
+
