@@ -82,17 +82,20 @@ def scrape_news(search_term):
 
     return news_list
 
-# Process each search term and save results to a JSON file
+# List to accumulate news data from all search terms
+all_news_data = []
+
+# Process each search term and accumulate results
 for search_term in search_terms:
     news_data = scrape_news(search_term)
     if news_data:
-        # Define the file path for the JSON file
-        json_file_path = f'ufonews_{search_term}.json'
-        
-        # Write the news data to the JSON file (overwriting the file)
-        with open(json_file_path, 'w') as json_file:
-            json.dump(news_data, json_file, indent=4)
-        
-        print(f"News data for '{search_term}' successfully written to {json_file_path}")
+        all_news_data.extend(news_data)  # Add news data for current search term to the list
 
+# Define the file path for the JSON file
+json_file_path = 'ufonews.json'
 
+# Write the accumulated news data to the JSON file (overwriting the file)
+with open(json_file_path, 'w') as json_file:
+    json.dump(all_news_data, json_file, indent=4)
+
+print(f"News data successfully written to {json_file_path}")
