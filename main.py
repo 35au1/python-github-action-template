@@ -12,9 +12,12 @@ base_url = 'https://www.bing.com'
 def clean_text(text):
     """Replace special characters with a space and strip leading/trailing whitespace."""
     if text:
-        # Replace newlines, tabs, and multiple spaces with a single space
-        cleaned_text = re.sub(r'\s+', ' ', text)
-        return cleaned_text.strip()
+        # Decode Unicode characters
+        text = text.encode('latin1').decode('utf8', 'ignore')
+        # Replace specific Unicode characters
+        text = text.replace('\u201c', '"').replace('\u201d', '"')
+        text = re.sub(r'\s+', ' ', text)  # Replace multiple spaces with a single space
+        return text.strip()
     return text
 
 def scrape_news(search_term):
