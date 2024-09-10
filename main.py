@@ -10,6 +10,9 @@ url = 'https://www.bing.com/news/search?q=ufo&qft=interval%3d%227%22&form=PTFTNR
 category_match = re.search(r'q=([^&]+)', url)
 category = category_match.group(1) if category_match else 'Unknown'
 
+# Base URL for concatenating incomplete image URLs
+base_url = 'https://www.bing.com'
+
 # Send a GET request to the URL
 response = requests.get(url)
 
@@ -38,6 +41,10 @@ if response.status_code == 200:
         # Find the image URL of the news item (checking for both 'src' and 'data-src')
         image_tag = item.find('img')
         image_url = image_tag.get('src') or image_tag.get('data-src') if image_tag else 'No image'
+
+        # If the image URL is relative, prepend the base URL
+        if image_url and not image_url.startswith('http'):
+            image_url = base_url + image_url
         
         # Find the date of the news item (was previously called source)
         date = item.find('div', class_='source').text.strip() if item.find('div', class_='source') else 'Unknown date'
@@ -68,4 +75,5 @@ if response.status_code == 200:
     
 else:
     print(f"Failed to retrieve the page. Status code: {response.status_code}")
+
 
