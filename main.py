@@ -1,9 +1,4 @@
-import logging
-import logging.handlers
-import os
-
 import requests
-
 from bs4 import BeautifulSoup
 import json
 
@@ -35,9 +30,9 @@ if response.status_code == 200:
         # Find the description of the news item
         description = item.find('div', class_='snippet').text.strip() if item.find('div', class_='snippet') else 'No description'
         
-        # Find the image URL of the news item
+        # Find the image URL of the news item (checking for both 'src' and 'data-src')
         image_tag = item.find('img')
-        image_url = image_tag['src'] if image_tag else 'No image'
+        image_url = image_tag.get('src') or image_tag.get('data-src') if image_tag else 'No image'
         
         # Append the news item details to the list
         news_list.append({
