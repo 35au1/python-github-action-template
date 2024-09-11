@@ -2,16 +2,12 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import re
-from googletrans import Translator  # Import Google Translator
 
 # List of search terms
 search_terms = ['ufo', 'ai+app', 'paranormal']
 
 # Base URL for concatenating incomplete image URLs
 base_url = 'https://www.bing.com'
-
-# Initialize Google Translate translator
-translator = Translator()
 
 def clean_text(text):
     """Replace specific Unicode characters with a single quote and strip leading/trailing whitespace."""
@@ -22,15 +18,6 @@ def clean_text(text):
         text = re.sub(r'\s+', ' ', text)
         return text.strip()
     return text
-
-def translate_to_polish(text):
-    """Translate the provided text into Polish using Google Translate."""
-    try:
-        translated = translator.translate(text, dest='pl').text
-        return translated
-    except Exception as e:
-        print(f"Translation failed: {e}")
-        return text  # Return the original text if translation fails
 
 def scrape_news(search_term):
     # URL of the Bing News search page with the search term
@@ -68,7 +55,6 @@ def scrape_news(search_term):
         # Find the title of the news item
         title_tag = item.find('a', class_='title')
         title = clean_text(title_tag.text) if title_tag else 'No title'
-        titlePL = translate_to_polish(title)  # Translate title to Polish
 
         # Find the URL of the news item
         link = title_tag['href'] if title_tag and 'href' in title_tag.attrs else 'No link'
@@ -76,7 +62,6 @@ def scrape_news(search_term):
         # Find the description of the news item
         description_tag = item.find('div', class_='snippet')
         description = clean_text(description_tag.text) if description_tag else 'No description'
-        descriptionPL = translate_to_polish(description)  # Translate description to Polish
 
         # Find the image URL of the news item (checking for both 'src' and 'data-src')
         image_tag = item.find('img')
@@ -97,10 +82,8 @@ def scrape_news(search_term):
         # Append the news item details to the list
         news_list.append({
             'title': title,
-            'titlePL': titlePL,  # Add translated title
             'link': link,
             'description': description,
-            'descriptionPL': descriptionPL,  # Add translated description
             'image_url': image_url,
             'category': category,  # Add category to JSON
             'date': date,          # Renamed from source to date
