@@ -4,7 +4,7 @@ import json
 import re
 
 # List of search terms
-search_terms = ['ufo', 'ai+app', 'paranormal']
+search_terms = ['ufo', 'ai+app', 'paranormal', 'science+discovery', 'it+startup', 'technology+breakthrough']
 
 # Base URL for concatenating incomplete image URLs
 base_url = 'https://www.bing.com'
