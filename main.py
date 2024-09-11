@@ -2,6 +2,9 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import re
+from sumy.parsers.plaintext import PlaintextParser
+from sumy.nlp.tokenizers import Tokenizer
+from sumy.summarizers.lsa import LsaSummarizer
 
 # List of search terms
 search_terms = ['ufo', 'ai+app', 'paranormal']
@@ -19,7 +22,31 @@ def clean_text(text):
         return text.strip()
     return text
 
+def summarize_content(url):
+    """Fetch the HTML content and summarize it."""
+    try:
+        response = requests.get(url, timeout=10)
+        response.raise_for_status()
+    except requests.exceptions.RequestException as e:
+        print(f"Failed to retrieve content for URL '{url}': {e}")
+        return 'Summary not available'
+
+    soup = BeautifulSoup(response.text, 'html.parser')
+    paragraphs = soup.find_all('p')
+    text = ' '.join(p.get_text() for p in paragraphs)
+    
+    if not text:
+        return 'Summary not available'
+
+    # Summarize the content
+    parser = PlaintextParser.from_string(text, Tokenizer('english'))
+    summarizer = LsaSummarizer()
+    summary = summarizer(parser.document, 2)  # Summarize to 2 sentences
+
+    return ' '.join(str(sentence) for sentence in summary)
+
 def scrape_news(search_term):
+    """Scrape news for a specific search term from Bing News."""
     # URL of the Bing News search page with the search term
     url = f'https://www.bing.com/news/search?q={search_term}&qft=interval%3d%227%22&form=PTFTNR'
 
@@ -79,6 +106,9 @@ def scrape_news(search_term):
         source_tag = item.find('div', class_='t_t').find('a', attrs={'data-author': True}) if item.find('div', class_='t_t') else None
         source = clean_text(source_tag['data-author']) if source_tag else 'Unknown source'
 
+        # Get the summary of the news article
+        summary = summarize_content(link)
+
         # Append the news item details to the list
         news_list.append({
             'title': title,
@@ -87,7 +117,8 @@ def scrape_news(search_term):
             'image_url': image_url,
             'category': category,  # Add category to JSON
             'date': date,          # Renamed from source to date
-            'source': source       # Extracted from 'data-author' attribute in 't_t' class
+            'source': source,      # Extracted from 'data-author' attribute in 't_t' class
+            'summary': summary     # Summarized content of the article
         })
 
     return news_list
