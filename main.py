@@ -3,8 +3,11 @@ from bs4 import BeautifulSoup
 import json
 import re
 
-# List of search terms
-search_terms = ['ufo', 'ai+app', 'paranormal', 'science+discovery', 'nocode', 'it+startup', 'software+trend']
+# List of search terms that will scrape 5 news items
+search_terms_5_news = ['ufo', 'ai+app', 'paranormal', 'science+discovery']
+
+# List of search terms that will scrape only 2 news items
+search_terms_2_news = ['nocode', 'it+startup', 'software+trend']
 
 # Base URL for concatenating incomplete image URLs
 base_url = 'https://www.bing.com'
@@ -19,7 +22,7 @@ def clean_text(text):
         return text.strip()
     return text
 
-def scrape_news(search_term):
+def scrape_news(search_term, max_news_items):
     # URL of the Bing News search page with the search term
     url = f'https://www.bing.com/news/search?q={search_term}&qft=interval%3d%227%22&form=PTFTNR'
 
@@ -47,9 +50,9 @@ def scrape_news(search_term):
         print(f"No news items found for search term '{search_term}', please check the HTML structure.")
         return []
 
-    # Loop through the news items and gather details, limiting to first 5 items
+    # Loop through the news items and gather details, limiting to the specified number of items
     for i, item in enumerate(news_items):
-        if i >= 5:
+        if i >= max_news_items:
             break
 
         # Find the title of the news item
@@ -71,11 +74,11 @@ def scrape_news(search_term):
         if image_url and not image_url.startswith('http'):
             image_url = base_url + image_url
 
-        # Find the date of the news item (previously called source)
+        # Find the date of the news item
         date_tag = item.find('div', class_='source')
         date = clean_text(date_tag.text) if date_tag else 'Unknown date'
 
-        # Find the source of the news item (located in 'data-author' attribute in class 't_t')
+        # Find the source of the news item
         source_tag = item.find('div', class_='t_t').find('a', attrs={'data-author': True}) if item.find('div', class_='t_t') else None
         source = clean_text(source_tag['data-author']) if source_tag else 'Unknown source'
 
@@ -95,11 +98,17 @@ def scrape_news(search_term):
 # List to accumulate news data from all search terms
 all_news_data = []
 
-# Process each search term and accumulate results
-for search_term in search_terms:
-    news_data = scrape_news(search_term)
+# Process each search term in search_terms_5_news (scrape 5 news)
+for search_term in search_terms_5_news:
+    news_data = scrape_news(search_term, max_news_items=5)
     if news_data:
-        all_news_data.extend(news_data)  # Add news data for current search term to the list
+        all_news_data.extend(news_data)
+
+# Process each search term in search_terms_2_news (scrape 2 news)
+for search_term in search_terms_2_news:
+    news_data = scrape_news(search_term, max_news_items=2)
+    if news_data:
+        all_news_data.extend(news_data)
 
 # Define the file path for the JSON file
 json_file_path = 'ufonews.json'
