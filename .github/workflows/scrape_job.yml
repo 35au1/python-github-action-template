@@ -22,20 +22,16 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install requests lxml  # Install necessary packages
+        pip install requests lxml
 
     - name: Run scraping script
       run: python scrape_jobs.py
 
-    - name: Check if file exists and commit changes
+    - name: Commit changes
       run: |
-        if [ -f titles.json ]; then
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add oferty.json
-          git commit -m "Update titles.json with latest job listings" || echo "No changes to commit"
-          git push
-        else
-          echo "No file to commit"
-        fi
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add titles.json
+        git commit -m "Update titles.json with latest job listings"
+        git push
       continue-on-error: true
