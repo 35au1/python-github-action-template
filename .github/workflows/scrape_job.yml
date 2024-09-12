@@ -29,11 +29,11 @@ jobs:
 
     - name: Check if file exists and commit changes
       run: |
-        if [ -f oferty.json ]; then
+        if [ -f titles.json ]; then
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add oferty.json
-          git commit -m "Update oferty.json with latest job listings" || echo "No changes to commit"
+          git commit -m "Update titles.json with latest job listings" || echo "No changes to commit"
           git push
         else
           echo "No file to commit"
