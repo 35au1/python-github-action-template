@@ -3,12 +3,6 @@ import requests
 from lxml import html
 import json
 
-def get_xpath_for_index(index):
-    """Return the appropriate XPath for the title based on the job element index."""
-    div_number = index + 1  # Convert zero-based index to one-based for XPath
-    # Adjust the XPath based on your IMPORTXML structure
-    return f'//div[{div_number}]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div/div[2]/div[1]'
-
 def scrape_titles():
     url = "https://www.pracuj.pl/praca/fujitsu;kw"
     response = requests.get(url)
@@ -21,25 +15,17 @@ def scrape_titles():
     # Parse the page content
     tree = html.fromstring(response.content)
 
-    # Determine the number of job listings (divs) on the page by counting the divs
-    num_jobs = len(tree.xpath('//div'))  # Adjust this if needed based on the correct job listing div structure
+    # Use the provided XPath to locate job titles
+    titles_xpath = '//*[@id="offers-list"]/div/div[1]/div[2]/div/div[1]/div[2]/h2'
+    title_elements = tree.xpath(titles_xpath)
 
-    if num_jobs == 0:
-        print("No job listings found on the page.")
-        return []
+    # Extract and clean the job titles
+    titles = [title.text_content().strip() for title in title_elements if title.text_content()]
 
-    titles = []
-
-    for index in range(num_jobs):
-        # Generate the XPath for the job title based on index
-        title_xpath = get_xpath_for_index(index)
-
-        # Extract the title using the dynamically generated XPath
-        title_elements = tree.xpath(title_xpath)
-        title = title_elements[0].strip() if title_elements else 'No title found'
-
-        print(f"Title for job {index+1}: {title}")
-        titles.append(title)
+    if titles:
+        print(f"Found {len(titles)} job titles.")
+    else:
+        print("No job titles found.")
 
     return titles
 
