@@ -25,3 +25,12 @@ jobs:
     - name: Run scraping script
       run: |
         python scrape_jobs.py  # Replace with your actual script name
+
+- name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add oferty.json
+        git commit -m "Update oferty.json with latest items"
+        git push
+      continue-on-error: true
