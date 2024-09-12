@@ -39,16 +39,20 @@ def scrape_titles():
     return titles
 
 def main():
+    # Print the working directory for debugging
+    print(f"Current working directory: {os.getcwd()}")
+
     titles = scrape_titles()
 
+    # Print the titles for debugging
+    print(f"Scraped titles: {titles}")
+
     if titles:
-        # Get the directory where this script is located
-        script_dir = os.path.dirname(os.path.realpath(__file__))
-        file_path = os.path.join(script_dir, 'titles.json')
+        # Write the job titles to 'titles.json' in the current directory
+        file_path = 'titles.json'
         
         print(f"Writing to {file_path}...")
 
-        # Write the job titles to 'titles.json', overwriting if it exists
         try:
             with open(file_path, 'w', encoding='utf-8') as f:
                 json.dump(titles, f, ensure_ascii=False, indent=4)
