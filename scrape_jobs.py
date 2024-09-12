@@ -2,53 +2,37 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
-# Define the URLs to scrape
-urls = [
-    'https://it.pracuj.pl/praca?pn=2',
-    'https://it.pracuj.pl/praca?pn=3'
-]
-
-def scrape_job_data(url):
-    job_data = []
+def scrape_jobs(page_num):
+    url = f"https://it.pracuj.pl/praca?pn={page_num}"
     response = requests.get(url)
-    
-    if response.status_code == 200:
-        soup = BeautifulSoup(response.text, 'html.parser')
-        
-        # Find all job listings
-        job_listings = soup.find_all('div', class_='offer-item')
-        
-        for job in job_listings:
-            title = job.find('a', class_='offer-item__title').get_text(strip=True)
-            company = job.find('div', class_='offer-item__company').get_text(strip=True)
-            location = job.find('div', class_='offer-item__location').get_text(strip=True)
-            
-            job_data.append({
-                'title': title,
-                'company': company,
-                'location': location
-            })
-    else:
-        print(f"Failed to retrieve data from {url}")
-    
-    return job_data
+    soup = BeautifulSoup(response.text, 'html.parser')
 
-def save_to_json(job_data, filename='oferty.json'):
-    # Open the file in write mode and overwrite the content
-    with open(filename, 'w', encoding='utf-8') as file:
-        # Write data to JSON file with utf-8 encoding and indent for readability
-        json.dump(job_data, file, ensure_ascii=False, indent=4)
+    job_listings = []
+    
+    for job_card in soup.find_all('div', class_='listing-item'):
+        title_element = job_card.find('h2')
+        company_element = job_card.find('span', class_='listing-item__company')
+        location_element = job_card.find('span', class_='listing-item__location')
+        
+        if title_element and company_element and location_element:
+            job = {
+                'title': title_element.text.strip(),
+                'company': company_element.text.strip(),
+                'location': location_element.text.strip(),
+            }
+            job_listings.append(job)
+    
+    return job_listings
 
 def main():
-    all_job_data = []
+    all_jobs = []
     
-    # Scrape job data from each URL
-    for url in urls:
-        job_data = scrape_job_data(url)
-        all_job_data.extend(job_data)
-    
-    # Save the collected data to a JSON file
-    save_to_json(all_job_data)
+    for page_num in range(2, 4):  # Scrape pages 2 and 3
+        jobs = scrape_jobs(page_num)
+        all_jobs.extend(jobs)
 
-if __name__ == '__main__':
+    with open('oferty.json', 'w', encoding='utf-8') as f:
+        json.dump(all_jobs, f, ensure_ascii=False, indent=4)
+
+if __name__ == "__main__":
     main()
