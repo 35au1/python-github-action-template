@@ -27,6 +27,14 @@ jobs:
     - name: Run scraping script
       run: python scrape_jobs.py
 
+    - name: Check if titles.json exists
+      run: |
+        if [ -f titles.json ]; then
+          echo "titles.json exists!"
+        else
+          echo "titles.json is missing!" && exit 1
+        fi
+
     - name: Commit changes
       run: |
         git config --local user.email "action@github.com"
@@ -34,4 +42,7 @@ jobs:
         git add titles.json
         git commit -m "Update titles.json with latest job listings"
         git push
-      continue-on-error: true
+      continue-on-error: true  # Prevent failure if nothing to commit
+
+    - name: List files in the directory
+      run: ls -la
