@@ -1,27 +1,28 @@
 import requests
-from bs4 import BeautifulSoup
+from lxml import html
 import json
 
 def scrape_jobs(page_num):
     url = f"https://it.pracuj.pl/praca?pn={page_num}"
     response = requests.get(url)
-    soup = BeautifulSoup(response.text, 'html.parser')
+    tree = html.fromstring(response.content)
 
     job_listings = []
-    
-    for job_card in soup.find_all('div', class_='listing-item'):
-        title_element = job_card.find('h2')
-        company_element = job_card.find('span', class_='listing-item__company')
-        location_element = job_card.find('span', class_='listing-item__location')
-        
-        if title_element and company_element and location_element:
-            job = {
-                'title': title_element.text.strip(),
-                'company': company_element.text.strip(),
-                'location': location_element.text.strip(),
-            }
-            job_listings.append(job)
-    
+
+    # XPath queries for the title, company, and location
+    titles = tree.xpath('/html/body/div[1]/div[5]/div[2]/div[3]/div[1]/div[5]/div[1]/div[2]/div/div[1]/div[2]/div[1]/div/h2/a/text()')
+    companies = tree.xpath('/html/body/div[1]/div[5]/div[2]/div[3]/div[1]/div[5]/div[1]/div[2]/div/div[1]/div[2]/div[2]/div/span/text()')
+    locations = tree.xpath('/html/body/div[1]/div[5]/div[2]/div[3]/div[1]/div[5]/div[1]/div[2]/div/div[1]/div[2]/div[3]/div/span/text()')
+
+    # Combine the data into job listings
+    for title, company, location in zip(titles, companies, locations):
+        job = {
+            'title': title.strip(),
+            'company': company.strip(),
+            'location': location.strip(),
+        }
+        job_listings.append(job)
+
     return job_listings
 
 def main():
@@ -31,8 +32,11 @@ def main():
         jobs = scrape_jobs(page_num)
         all_jobs.extend(jobs)
 
-    with open('oferty.json', 'w', encoding='utf-8') as f:
-        json.dump(all_jobs, f, ensure_ascii=False, indent=4)
+    if all_jobs:
+        with open('oferty.json', 'w', encoding='utf-8') as f:
+            json.dump(all_jobs, f, ensure_ascii=False, indent=4)
+    else:
+        print("No job listings found.")
 
 if __name__ == "__main__":
     main()
