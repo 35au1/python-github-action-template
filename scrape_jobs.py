@@ -6,19 +6,23 @@ import json
 def get_xpath_for_index(index):
     """Return the appropriate XPath for the title based on the job element index."""
     div_number = index + 1  # Convert zero-based index to one-based for XPath
-    return f'/html/body/div[1]/div[5]/div[2]/div[3]/div[1]/div[5]/div[{div_number}]/div[2]/div/div[1]/div[2]/div[1]/div/h2/a/text()'
+    # Adjust the XPath based on your IMPORTXML structure
+    return f'//div[{div_number}]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div/div[2]/div[1]'
 
 def scrape_titles():
     url = "https://www.pracuj.pl/praca/fujitsu;kw"
     response = requests.get(url)
+    
+    # Check if the response is successful
     if response.status_code != 200:
         print(f"Failed to retrieve page. Status code: {response.status_code}")
         return []
 
+    # Parse the page content
     tree = html.fromstring(response.content)
 
-    # Determine the number of job listings (divs) on the page
-    num_jobs = len(tree.xpath('/html/body/div[1]/div[5]/div[2]/div[3]/div[1]/div[5]/div'))
+    # Determine the number of job listings (divs) on the page by counting the divs
+    num_jobs = len(tree.xpath('//div'))  # Adjust this if needed based on the correct job listing div structure
 
     if num_jobs == 0:
         print("No job listings found on the page.")
@@ -32,27 +36,20 @@ def scrape_titles():
 
         # Extract the title using the dynamically generated XPath
         title_elements = tree.xpath(title_xpath)
-        title = title_elements[0].strip() if title_elements else 'No title'
+        title = title_elements[0].strip() if title_elements else 'No title found'
 
+        print(f"Title for job {index+1}: {title}")
         titles.append(title)
 
     return titles
 
 def main():
-    # Print the working directory for debugging
-    print(f"Current working directory: {os.getcwd()}")
-
     titles = scrape_titles()
-
-    # Print the titles for debugging
-    print(f"Scraped titles: {titles}")
 
     if titles:
         # Write the job titles to 'titles.json' in the current directory
         file_path = 'titles.json'
         
-        print(f"Writing to {file_path}...")
-
         try:
             with open(file_path, 'w', encoding='utf-8') as f:
                 json.dump(titles, f, ensure_ascii=False, indent=4)
