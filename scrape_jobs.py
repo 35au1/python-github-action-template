@@ -1,3 +1,4 @@
+import os
 import requests
 from lxml import html
 import json
@@ -19,6 +20,10 @@ def scrape_titles():
     # Determine the number of job listings (divs) on the page
     num_jobs = len(tree.xpath('/html/body/div[1]/div[5]/div[2]/div[3]/div[1]/div[5]/div'))
 
+    if num_jobs == 0:
+        print("No job listings found on the page.")
+        return []
+
     titles = []
 
     for index in range(num_jobs):
@@ -36,11 +41,19 @@ def scrape_titles():
 def main():
     titles = scrape_titles()
 
-    # Write the job titles to 'titles.json', overwriting if it exists
-    with open('titles.json', 'w', encoding='utf-8') as f:
-        json.dump(titles, f, ensure_ascii=False, indent=4)
+    if titles:
+        file_path = os.path.join(os.getcwd(), 'titles.json')
+        print(f"Writing to {file_path}...")
 
-    print(f"Job titles successfully written to titles.json")
+        # Write the job titles to 'titles.json', overwriting if it exists
+        try:
+            with open(file_path, 'w', encoding='utf-8') as f:
+                json.dump(titles, f, ensure_ascii=False, indent=4)
+            print(f"Job titles successfully written to {file_path}")
+        except IOError as e:
+            print(f"Error writing file: {e}")
+    else:
+        print("No titles found to write.")
 
 if __name__ == "__main__":
     main()
