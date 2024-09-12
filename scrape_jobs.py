@@ -3,7 +3,7 @@ from lxml import html
 import json
 
 def scrape_jobs(page_num):
-    url = f"https://it.pracuj.pl/praca?pn={page_num}"
+    url = f"https://it.pracuj.pl/praca/lodz;wp?rd=0&its=product-management%2Cproject-management%2Cagile%2Cbusiness-analytics"
     response = requests.get(url)
     tree = html.fromstring(response.content)
 
@@ -37,9 +37,9 @@ def scrape_jobs(page_num):
 def main():
     all_jobs = []
     
-    for page_num in range(2, 4):  # Scrape pages 2 and 3
-        jobs = scrape_jobs(page_num)
-        all_jobs.extend(jobs)
+    #for page_num in range(2, 4):  # Scrape pages 2 and 3
+    #    jobs = scrape_jobs(page_num)
+     #   all_jobs.extend(jobs)
 
     # Debug output to ensure data is being gathered
     print(f"All jobs: {all_jobs}")
