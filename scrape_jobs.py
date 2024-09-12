@@ -42,7 +42,10 @@ def main():
     titles = scrape_titles()
 
     if titles:
-        file_path = os.path.join(os.getcwd(), 'titles.json')
+        # Get the directory where this script is located
+        script_dir = os.path.dirname(os.path.realpath(__file__))
+        file_path = os.path.join(script_dir, 'titles.json')
+        
         print(f"Writing to {file_path}...")
 
         # Write the job titles to 'titles.json', overwriting if it exists
