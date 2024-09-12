@@ -15,11 +15,11 @@ def scrape_titles():
     # Parse the page content
     tree = html.fromstring(response.content)
 
-    # Use the provided XPath to locate job titles
-    titles_xpath = '//*[@id="offers-list"]/div/div[1]/div[2]/div/div[1]/div[2]/h2'
+    # Use the provided XPath to locate the job title elements
+    titles_xpath = '//*[@id="offers-list"]/div[3]/div[1]/div[2]/div/div[1]/div[2]/h2'
     title_elements = tree.xpath(titles_xpath)
 
-    # Extract and clean the job titles
+    # Extract and clean the job titles by using .text_content() to get the text inside the <h2> tag
     titles = [title.text_content().strip() for title in title_elements if title.text_content()]
 
     if titles:
