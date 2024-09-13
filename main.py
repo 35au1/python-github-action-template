@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import re
+from newspaper import Article
 
 # List of search terms that will scrape 5 news items
 search_terms_5_news = ['ufo', 'ai+app', 'paranormal', 'science+discovery']
@@ -21,6 +22,18 @@ def clean_text(text):
         text = re.sub(r'\s+', ' ', text)
         return text.strip()
     return text
+
+def get_article_content(article_url):
+    """Fetch the full article content from the article's URL using newspaper3k."""
+    try:
+        # Use newspaper3k to download and parse the article content
+        article = Article(article_url)
+        article.download()
+        article.parse()
+        return article.text
+    except Exception as e:
+        print(f"Failed to fetch article content from {article_url}: {e}")
+        return "Content not available"
 
 def scrape_news(search_term, max_news_items):
     # URL of the Bing News search page with the search term
@@ -82,7 +95,10 @@ def scrape_news(search_term, max_news_items):
         source_tag = item.find('div', class_='t_t').find('a', attrs={'data-author': True}) if item.find('div', class_='t_t') else None
         source = clean_text(source_tag['data-author']) if source_tag else 'Unknown source'
 
-        # Append the news item details to the list
+        # Get the full article content using the 'get_article_content' function
+        article_content = get_article_content(link) if link != 'No link' else 'No article content'
+
+        # Append the news item details to the list, including article content
         news_list.append({
             'title': title,
             'link': link,
@@ -90,7 +106,8 @@ def scrape_news(search_term, max_news_items):
             'image_url': image_url,
             'category': category,  # Add category to JSON
             'date': date,          # Renamed from source to date
-            'source': source       # Extracted from 'data-author' attribute in 't_t' class
+            'source': source,      # Extracted from 'data-author' attribute in 't_t' class
+            'article_content': article_content  # Add the article content here
         })
 
     return news_list
