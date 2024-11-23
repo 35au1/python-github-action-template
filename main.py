@@ -135,3 +135,34 @@ with open(json_file_path, 'w') as json_file:
     json.dump(all_news_data, json_file, indent=4)
 
 print(f"News data successfully written to {json_file_path}")
+
+# Additional Logic: Format for Supabase-compatible JSON
+supabase_json_file_path = 'supabase_formatted.json'
+
+# Prepare data in Supabase format
+supabase_requests = []
+for article in all_news_data:
+    request = {
+        "method": "POST",  # Adjust based on Supabase endpoint requirements
+        "url": "https://your-supabase-endpoint.com/news",  # Replace with your Supabase endpoint
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": article.get("title", "No title"),
+            "link": article.get("link", "No link"),
+            "description": article.get("description", "No description"),
+            "image_url": article.get("image_url", "No image"),
+            "category": article.get("category", "Unknown category"),
+            "date": article.get("date", "Unknown date"),
+            "source": article.get("source", "Unknown source"),
+            "article_content": article.get("article_content", "No content")
+        }
+    }
+    supabase_requests.append(request)
+
+# Write the Supabase-compatible JSON to a new file
+with open(supabase_json_file_path, 'w') as supabase_file:
+    json.dump(supabase_requests, supabase_file, indent=4)
+
+print(f"Supabase-compatible JSON saved to {supabase_json_file_path}")
