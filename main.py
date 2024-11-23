@@ -100,14 +100,21 @@ def scrape_news(search_term, max_news_items):
 
         # Append the news item details to the list, including article content
         news_list.append({
-            'title': title,
-            'link': link,
-            'description': description,
-            'image_url': image_url,
-            'category': category,  # Add category to JSON
-            'date': date,          # Renamed from source to date
-            'source': source,      # Extracted from 'data-author' attribute in 't_t' class
-            'article_content': article_content  # Add the article content here
+            "method": "POST",  # Define the method for Supabase-compatible format
+            "url": "https://your-supabase-endpoint.com/news",  # Replace with your Supabase endpoint
+            "headers": {
+                "Content-Type": "application/json"
+            },
+            "body": {
+                "title": title,
+                "link": link,
+                "description": description,
+                "image_url": image_url,
+                "category": category,
+                "date": date,
+                "source": source,
+                "article_content": article_content
+            }
         })
 
     return news_list
@@ -130,43 +137,8 @@ for search_term in search_terms_2_news:
 # Define the file path for the JSON file
 json_file_path = 'ufonews.json'
 
-# Write the accumulated news data to the JSON file (overwriting the file)
+# Write the accumulated news data to the JSON file in Supabase-compatible format
 with open(json_file_path, 'w') as json_file:
     json.dump(all_news_data, json_file, indent=4)
 
-print(f"News data successfully written to {json_file_path}")
-
-# Additional Logic: Convert to Supabase-compatible JSON
-supabase_json_file_path = 'ufonews_supabase.json'
-
-# Load the data from the original JSON file
-with open(json_file_path, 'r') as infile:
-    original_data = json.load(infile)
-
-# Prepare Supabase-compatible JSON format
-supabase_requests = []
-for article in original_data:
-    request = {
-        "method": "POST",  # Adjust based on Supabase endpoint requirements
-        "url": "https://your-supabase-endpoint.com/news",  # Replace with your Supabase endpoint
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": article.get("title", "No title"),
-            "link": article.get("link", "No link"),
-            "description": article.get("description", "No description"),
-            "image_url": article.get("image_url", "No image"),
-            "category": article.get("category", "Unknown category"),
-            "date": article.get("date", "Unknown date"),
-            "source": article.get("source", "Unknown source"),
-            "article_content": article.get("article_content", "No content")
-        }
-    }
-    supabase_requests.append(request)
-
-# Write the Supabase-compatible JSON to a separate file
-with open(supabase_json_file_path, 'w') as supabase_file:
-    json.dump(supabase_requests, supabase_file, indent=4)
-
-print(f"Supabase-compatible JSON saved to {supabase_json_file_path}")
+print(f"Supabase-compatible JSON saved to {json_file_path}")
