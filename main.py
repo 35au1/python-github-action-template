@@ -136,12 +136,16 @@ with open(json_file_path, 'w') as json_file:
 
 print(f"News data successfully written to {json_file_path}")
 
-# Additional Logic: Format for Supabase-compatible JSON
-supabase_json_file_path = 'supabase_formatted.json'
+# Additional Logic: Convert to Supabase-compatible JSON
+supabase_json_file_path = 'ufonews_supabase.json'
 
-# Prepare data in Supabase format
+# Load the data from the original JSON file
+with open(json_file_path, 'r') as infile:
+    original_data = json.load(infile)
+
+# Prepare Supabase-compatible JSON format
 supabase_requests = []
-for article in all_news_data:
+for article in original_data:
     request = {
         "method": "POST",  # Adjust based on Supabase endpoint requirements
         "url": "https://your-supabase-endpoint.com/news",  # Replace with your Supabase endpoint
@@ -161,7 +165,7 @@ for article in all_news_data:
     }
     supabase_requests.append(request)
 
-# Write the Supabase-compatible JSON to a new file
+# Write the Supabase-compatible JSON to a separate file
 with open(supabase_json_file_path, 'w') as supabase_file:
     json.dump(supabase_requests, supabase_file, indent=4)
 
