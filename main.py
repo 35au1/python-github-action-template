@@ -101,7 +101,6 @@ def scrape_news(search_term, max_news_items):
         # Append the news item details to the list, including article content
         news_list.append({
             "method": "POST",  # Define the method for Supabase-compatible format
-            "url": "https://your-supabase-endpoint.com/news",  # Replace with your Supabase endpoint
             "headers": {
                 "Content-Type": "application/json"
             },
