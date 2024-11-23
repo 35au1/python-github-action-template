@@ -1,7 +1,6 @@
 [
     {
         "method": "POST",
-        "url": "https://your-supabase-endpoint.com/news",
         "headers": {
             "Content-Type": "application/json"
         },
@@ -18,7 +17,6 @@
     },
     {
         "method": "POST",
-        "url": "https://your-supabase-endpoint.com/news",
         "headers": {
             "Content-Type": "application/json"
         },
@@ -28,14 +26,13 @@
             "description": "Patrick discusses George Knapp's details on UFO whistle blower Michael Herrera. #aliens #uap #ufonews #ufos #ufo #disclosure ...",
             "image_url": "https://www.bing.com/th?id=OVF.xf9Jt3q4OnZ91TNpODUQ0A&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "ufo",
-            "date": "Vetted on MSN6h",
+            "date": "Vetted on MSN7h",
             "source": "Vetted on MSN",
             "article_content": ""
         }
     },
     {
         "method": "POST",
-        "url": "https://your-supabase-endpoint.com/news",
         "headers": {
             "Content-Type": "application/json"
         },
@@ -52,7 +49,22 @@
     },
     {
         "method": "POST",
-        "url": "https://your-supabase-endpoint.com/news",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "That time a jet disappeared chasing a UFO over Lake Superior",
+            "link": "https://www.clickondetroit.com/features/2024/11/23/that-time-a-jet-disappeared-chasing-a-ufo-over-lake-superior-2/",
+            "description": "The U.S. Air Force reported that the jet crashed while pursuing a Canadian aircraft that was off course as it was flying to ...",
+            "image_url": "https://www.bing.com/th?id=OVFT.jkLOOKhFWycud58-7GWq9C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "ufo",
+            "date": "clickondetroit.com43m",
+            "source": "clickondetroit.com",
+            "article_content": "DETROIT \u2013 As with most things, Michigan has had its hand in the UFO cookie jar a few times.\n\nRelated: \u2018I\u2019ll believe this to the day I die\u2019: The Michigan UFO craze of 1966\n\nAn Unidentified Flying Object is defined as any aerial object or optical phenomenon not readily identifiable to the observer. Feds now refer to them as Unidentified Anomalous Phenomena or UAPs.\n\nOn Nov. 23, 1953, radar operators stationed at Sault Ste. Marie were reportedly alerted to an unknown object flying in restricted airspace over Lake Superior, near the Soo Locks. An interceptor aircraft took off from the nearby Kincheloe Air Force Base to investigate. It was piloted by Felix Moncla and had Robert L. Wilson as a radar operator.\n\nFor whatever reason, the radar on the F-89C was having problems tracking the object, which allegedly kept changing course, so Ground Control gave Moncla directions.\n\nMoncla pursued the object for a half hour at speeds of up to 500 miles per hour.\n\nGround Control watched the two blips on the radar screen -- representing the F89-C jet and the unknown object -- get closer until they became one blip, roughly 70 miles off the Keweenaw Peninsula. The single blip continued on the course it was flying before vanishing from the radar screen.\n\nAttempts made to contact the jet were unsuccessful. A search and rescue operation by the United States and Canadian Air Forces failed to find any trace of the aircraft or its occupants.\n\nThe disappearance is known as the Kinross Incident.\n\nThe U.S. Air Force reported that the jet crashed while pursuing a Canadian aircraft that was off course as it was flying to Sudbury, Ontario. The Royal Canadian Air Force has denied this. Subury\u2019s airport was under construction at the time and didn\u2019t open until the next year.\n\nThe Open Skies Project, a nonprofit that is working to restore the Calumet Air Force Station, has a breakdown of theories, as well as an in-depth and well-researched version of what likely happened -- it crashed during a snowstorm pursuing an aircraft that went off course.\n\nThat being said, Moncla\u2019s gravestone states he disappeared \u201cintercepting a UFO over Canadian Border.\u201d\n\nI want that on my gravestone regardless of how I go."
+        }
+    },
+    {
+        "method": "POST",
         "headers": {
             "Content-Type": "application/json"
         },
@@ -69,24 +81,6 @@
     },
     {
         "method": "POST",
-        "url": "https://your-supabase-endpoint.com/news",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "That time a jet disappeared chasing a UFO over Lake Superior",
-            "link": "https://www.clickondetroit.com/features/2024/11/23/that-time-a-jet-disappeared-chasing-a-ufo-over-lake-superior-2/",
-            "description": "The U.S. Air Force reported that the jet crashed while pursuing a Canadian aircraft that was off course as it was flying to ...",
-            "image_url": "https://www.bing.com/th?id=OVFT.jkLOOKhFWycud58-7GWq9C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "ufo",
-            "date": "clickondetroit.com25m",
-            "source": "clickondetroit.com",
-            "article_content": "DETROIT \u2013 As with most things, Michigan has had its hand in the UFO cookie jar a few times.\n\nRelated: \u2018I\u2019ll believe this to the day I die\u2019: The Michigan UFO craze of 1966\n\nAn Unidentified Flying Object is defined as any aerial object or optical phenomenon not readily identifiable to the observer. Feds now refer to them as Unidentified Anomalous Phenomena or UAPs.\n\nOn Nov. 23, 1953, radar operators stationed at Sault Ste. Marie were reportedly alerted to an unknown object flying in restricted airspace over Lake Superior, near the Soo Locks. An interceptor aircraft took off from the nearby Kincheloe Air Force Base to investigate. It was piloted by Felix Moncla and had Robert L. Wilson as a radar operator.\n\nFor whatever reason, the radar on the F-89C was having problems tracking the object, which allegedly kept changing course, so Ground Control gave Moncla directions.\n\nMoncla pursued the object for a half hour at speeds of up to 500 miles per hour.\n\nGround Control watched the two blips on the radar screen -- representing the F89-C jet and the unknown object -- get closer until they became one blip, roughly 70 miles off the Keweenaw Peninsula. The single blip continued on the course it was flying before vanishing from the radar screen.\n\nAttempts made to contact the jet were unsuccessful. A search and rescue operation by the United States and Canadian Air Forces failed to find any trace of the aircraft or its occupants.\n\nThe disappearance is known as the Kinross Incident.\n\nThe U.S. Air Force reported that the jet crashed while pursuing a Canadian aircraft that was off course as it was flying to Sudbury, Ontario. The Royal Canadian Air Force has denied this. Subury\u2019s airport was under construction at the time and didn\u2019t open until the next year.\n\nThe Open Skies Project, a nonprofit that is working to restore the Calumet Air Force Station, has a breakdown of theories, as well as an in-depth and well-researched version of what likely happened -- it crashed during a snowstorm pursuing an aircraft that went off course.\n\nThat being said, Moncla\u2019s gravestone states he disappeared \u201cintercepting a UFO over Canadian Border.\u201d\n\nI want that on my gravestone regardless of how I go."
-        }
-    },
-    {
-        "method": "POST",
-        "url": "https://your-supabase-endpoint.com/news",
         "headers": {
             "Content-Type": "application/json"
         },
@@ -103,7 +97,6 @@
     },
     {
         "method": "POST",
-        "url": "https://your-supabase-endpoint.com/news",
         "headers": {
             "Content-Type": "application/json"
         },
@@ -113,14 +106,29 @@
             "description": "There's a new iPhone camera app that uses AI to make your photos look like they have been taken out of Minecraft.",
             "image_url": "https://www.bing.com/th?id=OVFT.vSpqcLxSjx7esuxgwIvsDi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "ai+app",
-            "date": "20h",
+            "date": "21h",
             "source": "BGR",
             "article_content": "There\u2019s no shortage of AI applications for iPhones. While iPhone 15 Pro and iPhone 16 users can take advantage of Apple Intelligence and the upcoming Image Playground and Genmoji features, several other apps and software offer more creative ideas.\n\nThis is why a developer recently created a new iPhone camera app that uses AI to make photos look like Minecraft or other popular animations. It\u2019s called Lentil AI: Photo Art Generator, and it can make your images look like they were taken from your favorite anime, cartoon, and gaming universes.\n\nThe app is very straightforward to use. You can take a photo or select one from your gallery, select a style, and start blending artwork right away. Lentil photos work like holographic cards. By tilting your phone, you can see the photo shift between real life and your newly created AI world.\n\nThe developer writes: \u201cTransport cosplay portraits to different anime universes, turn meal pics into anime food, put your cat inside a pixel world, turn your landscape shots into works of art. Don\u2019t just edit your photos \u2014 blend them.\u201d\n\nTech. Entertainment. Science. Your inbox. Sign up for the most interesting tech & entertainment news out there. Email: SIGN UP By signing up, I agree to the Terms of Use and have reviewed the Privacy Notice.\n\nWith that, this iPhone camera app can make your photos look right from Minecraft using AI. The app is free to use and doesn\u2019t offer in-app purchases. However, it\u2019s important to note that you must create an account to use this app.\n\nSome Redditors noted that the app collects your name, phone number, username, and other information. That being said, the app might use some of your data for marketing purposes or to resell that information to others.\n\nThat said, while this isn\u2019t wrong, it\u2019s how the developer decided to maintain the app, as they don\u2019t offer in-app purchases or ads. You can find it in the App Store here.\n\nWrap up\n\nBelow, you can learn more about Apple\u2019s efforts to improve AI features for iPhone, iPad, and Mac models."
         }
     },
     {
         "method": "POST",
-        "url": "https://your-supabase-endpoint.com/news",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Why the US Patent Office Banned Generative AI Tools for Staff",
+            "link": "https://www.eweek.com/news/us-patent-office-bans-generative-ai-tools/",
+            "description": "Find out why the US Patent Office is banning generative AI tools for employees and the implications behind this controversial ...",
+            "image_url": "https://www.bing.com/th?id=OVFT.KsIRMuxbuVVBywjkyU1lry&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "ai+app",
+            "date": "eWeek39m",
+            "source": "eWeek",
+            "article_content": "eWEEK content and product recommendations are editorially independent. We may make money when you click on links to our partners. Learn More.\n\nThe U.S. Patent and Trademark Office (USPTO) banned staff from using generative AI tools like ChatGPT and Anthropic\u2019s Claude in 2023, citing security concerns and risks associated with bias, unpredictability, and malicious behavior. USPTO\u2019s Chief Information Officer Jamie Holcombe emphasized the agency\u2019s commitment to innovation but stressed the need for responsible integration of AI technologies. Despite the ban, the USPTO continues to explore generative AI applications within controlled settings, ensuring they align with the agency\u2019s goals and responsibilities. This decision was detailed in an internal memo obtained by WIRED via a public records request.\n\nThe Scope of the Ban\n\nUnder the directive, USPTO employees are prohibited from using generative AI tools for work tasks or relying on their outputs, including text, images, and videos. The memo also outlined the potential dangers of these technologies, from inaccuracies in critical patent data to broader ethical implications.\n\nHowever, generative AI is not entirely off-limits at the USPTO. Employees can experiment with these tools in the agency\u2019s AI Lab, a controlled testing environment designed to assess AI\u2019s potential and limitations.\n\n\u201cInnovators from across the USPTO are now using the AI Lab to better understand generative AI\u2019s capabilities and prototype AI-powered solutions to critical business needs,\u201d said USPTO\u2019s press secretary Paul Fucito.\n\nAI in Patent Examination\n\nWhile banning generative AI for routine tasks, the USPTO leverages artificial intelligence in other ways. Its internal tools, such as the Patents End-to-End Search system, utilize machine learning to help examiners perform prior art searches. These features, like \u201cMore Like This Document\u201d and \u201cSimilarity Search,\u201d aid in the review of millions of patent applications annually.\n\nThe agency also acknowledges the growing role of AI in patent submissions. Although applicants are not required to disclose their use of generative AI, tools like ChatGPT have been employed to draft patent documents. The USPTO is working to adapt its systems to handle these emerging trends responsibly.\n\nGenerative AI Across Government Agencies\n\nThe USPTO is not alone in navigating generative AI. Other agencies, such as NASA and the Department of Energy, are exploring AI\u2019s potential while grappling with funding and resource challenges. The National Archives and Records Administration has taken a mixed approach, banning ChatGPT on work devices while developing AI-powered chatbots for public access.\n\nThe inconsistent adoption across federal agencies reflects broader uncertainties about AI\u2019s risks and benefits. For the USPTO, however, its ban is a clear step to protect its critical mission while laying the groundwork for future innovations.\n\nAs Holcombe stated, \u201cThe USPTO recognizes the need, through technical mitigations and human governance, to cabin the risks arising from the use of AI in practice.\u201d"
+        }
+    },
+    {
+        "method": "POST",
         "headers": {
             "Content-Type": "application/json"
         },
@@ -137,24 +145,6 @@
     },
     {
         "method": "POST",
-        "url": "https://your-supabase-endpoint.com/news",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Google is prepping Gemini to take action inside of apps",
-            "link": "https://www.msn.com/en-us/money/other/google-is-prepping-gemini-to-take-action-inside-of-apps/ar-AA1uAmRO?ocid=BingNewsVerp",
-            "description": "One of its promises for the smarter Siri we\u2019ll supposedly get in iOS 18 is that it will be able to take action in apps for ...",
-            "image_url": "https://www.bing.com/th?id=OVFT._kDImEu9lu-438aTpnHESy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "ai+app",
-            "date": "17hon MSN",
-            "source": "The Verge on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "url": "https://your-supabase-endpoint.com/news",
         "headers": {
             "Content-Type": "application/json"
         },
@@ -171,7 +161,6 @@
     },
     {
         "method": "POST",
-        "url": "https://your-supabase-endpoint.com/news",
         "headers": {
             "Content-Type": "application/json"
         },
@@ -188,7 +177,6 @@
     },
     {
         "method": "POST",
-        "url": "https://your-supabase-endpoint.com/news",
         "headers": {
             "Content-Type": "application/json"
         },
@@ -198,14 +186,13 @@
             "description": "Business owner says at least five deaths have occurred at former slaughterhouse, built in 1929, including suicides, goring ...",
             "image_url": "https://www.bing.com/th?id=OVFT._Epi4HyUChTvk3tL9zWXXi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "paranormal",
-            "date": "orilliamatters6m",
+            "date": "orilliamatters24m",
             "source": "orilliamatters",
             "article_content": "Business owner says at least five deaths have occurred at former slaughterhouse, built in 1929, including suicides, goring and an explosion\n\nParanormal investigators Raif Boric and Krista Maryk of Walking Among Us recently filmed an episode of their popular YouTube series Walking Among us at Sanford and Son Emporium in Barrie.\n\n1 / 1 Paranormal investigators Raif Boric and Krista Maryk of Walking Among Us recently filmed an episode of their popular YouTube series Walking Among us at Sanford and Son Emporium in Barrie. Advertisement\n\nIn the more than 95 years since it was built, 272 Innisfil St. has been home to a slaughterhouse and an antique market, but according to the team from a popular YouTube series, it\u2019s also home to several ghosts.\n\nRaif Boric and Krista Maryk, who make up two-thirds of the paranormal investigative team of Walking Among Us, spent three hours inside the 25,000-square-foot building near Essa Road earlier this month after they heard about some of the not-so-normal things that have taken place there.\n\nShirley Sanford, owner of Sanford and Son Emporium which is located inside the building, said the team came for a visit on Nov. 2.\n\n\u201cOne of my employees was talking to one of the customers and something was brought up about the spirits that are in that building,\" she said. \"The woman said she knew some people that do the paranormal thing, so she asked if it would be OK if they phone me.\n\n\u201cIt was really interesting to see what was going on.\u201d\n\nIn the five years that she\u2019s been in the building, Sanford said she\u2019s seen plenty of \u201cunexplainable\u201d things take place.\n\n\u201cAbout three weeks ago, I was up in a booth. Everybody had left and I was doing my rounds at night for closing,\" she said. \"I went into this booth and was looking to see what new things they\u2019d brought in. I could hear a woman and a man's voice \u2026 I thought maybe there was a radio in the booth and it was on low and they\u2019d forgotten to turn it off, but there was no radio.\u201d\n\nSanford poked around a little more, but couldn\u2019t find any source for the noise. And despite being late and alone, she wasn\u2019t fearful.\n\nThe next week while doing her closing routine, Sanford said an Elvis clock started singing.\n\n\u201cThere is an Elvis clock hanging on the wall \u2026 so I thought OK, it\u2019s a motion-sensor thing. I went into the booth and I was singing and dancing and then all of a sudden it shut off,\" she said. \"I went back and forth three times that night into where I had triggered it and nothing.\n\nShirley Sanford is the owner of Sanford and Sons Emporium on Innisfil Street in Barrie. | Nikki Cole/BarrieToday files\n\n\"The next morning when I came into work, I went to try it and nothing. I pulled the clock off the wall and you have to push a button for it to go off,\u201d she said.\n\nShe remembers another incident which included a ladder that was found in the middle of the floor; despite the shop having been closed, it was nearby a spot where she said a man had hanged himself.\n\nThe building has been the scene of five separate deaths, Sanford said, including two suicides, one person who was gored by a cow, and two who were killed in a boiler-room explosion.\n\nAs for what occurred on the property prior to the building\u2019s construction in 1929, she has no idea and said it could very well play a role in the site\u2019s haunting.\n\nRaif Boric, lead investigator for Walking Among Us, said that going into their visit, they didn\u2019t know too much about the structure's history, nor were they aware of what had occurred there over the years.\n\n\u201cIt was just kind of like let\u2019s go and see what happens,\u201d he said. \u201cWe met up with Shirley \u2026 and we both went to different spots \u2026 to see what happens.\u201d\n\nWhile he was by himself with the spouse of one of the store\u2019s employees on one side of the building, he says he was drawn to a doll on a shelf, saying he is a collector of \u201chaunted artifacts.\u201d\n\n\u201cI have six haunted dolls and a haunted teddy bear at home. This doll just drew me in,\" Boric said. \"When it was time to start, I went up to the doll and set up some motion-sensored cat balls, a REM pod (which is a piece of ghost-hunting equipment that indicates changes in ambient temperature) and had my cameras going. This thing would not stop with the motion-sensored cat balls and there were noises going on all in the area,\u201d he said.\n\n\u201cAt one point, I was standing there asking questions and we heard a little girl call out. We looked at each other like \u2018what the (heck) was that!?\u2019\u201d\n\nBoric said they went to explore where the sound came from, which is when he heard Maryk yelling from where she was in the building.\n\n\u201cWe started running back and she was where the doll was \u2026 and asked what all the banging was about,\u201d he said, adding neither he nor the employee\u2019s wife knew what his partner was talking about. \"We\u2019d just heard the kid\u2019s voice, which is where Shirley had heard disembodied voices in the area previously.\u201d\n\nBoric said it felt like a game of cat and mouse trying to track down the spirits.\n\n\u201cWe\u2019ve encountered that a lot, and it sometimes gets a little annoying because you go thinking you\u2019re going to experience something and it just leads you around the building,\" he said. \u201cIt was a good experience and there was a plethora of (paranormal) activity.\"\n\nBoric ended up bringing the \u201chaunted doll\u201d home to add to his collection.\n\n\u201cI have her in the room with the other ones,\" he said. \"I am pretty sure her arm moved the other night, so I am setting up a security camera in the haunted room.\u201d\n\nSanford says she found the entire experience \u201cfascinating,\u201d adding she \"absolutely\" believes in ghosts.\n\n\u201cI don\u2019t get scared over any of this stuff that happens. I am all for it,\u201d she said. \u201cWhen these guys came in, I saw it for myself. The white orbs and the one gentleman at the very end had forgotten something upstairs \u2026 When we got up there, one of the revolving showcases was on and (it) hadn\u2019t been on 15 minutes early when we\u2019d been up there.\u201d\n\nThe episode is expected to air on the Walking Among Us YouTube channel in January 2025."
         }
     },
     {
         "method": "POST",
-        "url": "https://your-supabase-endpoint.com/news",
         "headers": {
             "Content-Type": "application/json"
         },
@@ -222,7 +209,6 @@
     },
     {
         "method": "POST",
-        "url": "https://your-supabase-endpoint.com/news",
         "headers": {
             "Content-Type": "application/json"
         },
@@ -239,24 +225,22 @@
     },
     {
         "method": "POST",
-        "url": "https://your-supabase-endpoint.com/news",
         "headers": {
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Visiting Swindon\u2019s \u2018haunted\u2019 training ground \u2013 \u2018Oh, that\u2019s the ghost saying hello\u2019",
-            "link": "https://www.nytimes.com/athletic/5940396/2024/11/23/ian-holloway-swindon-supernatural/",
-            "description": "Holloway says staff who work at Beversbrook Sports and Community facility in Wiltshire have CCTV footage of strange, ...",
-            "image_url": "https://www.bing.com/th?id=OVFT.slcatvpi-WM4d3NfwRRt8y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "I visited 'phantom stretch' of M5 where drivers see the 'ghost monks' near monastery",
+            "link": "https://www.birminghammail.co.uk/black-country/visited-phantom-stretch-m5-drivers-30370509",
+            "description": "Unsuspecting drivers have reportedly been forced to 'swerve' around monk-link figures near the M5's junction 1 West Bromwich ...",
+            "image_url": "https://www.bing.com/th?id=OVFT.zupqn3SDQ4UkZRMoqvqf1i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "paranormal",
-            "date": "3h",
-            "source": "The New York Times",
-            "article_content": "There was certainly something eerie about Beversbrook Sports and Community facility when The Athletic arrived. Deathly quiet, there was no one in sight, except a few shadowy figures in red, floating in the distance.\n\nTurns out that\u2019s just Ian Holloway and his Swindon Town side, preparing for a big game against Morecambe on Saturday.\n\nAdvertisement\n\nThe Athletic has come here to Swindon\u2019s temporary training base in Calne, Wiltshire, to investigate reports of strange, unexplainable events.\n\nThe person who has been reporting those events most publicly is Holloway, Swindon\u2019s manager, who\u2019s spent 44 years in professional football, 28 of those as a manager at nine different clubs. In that time, he has no doubt seen tea cups thrown, probably doors slammed, chairs tipped, and maybe even a glass window pane being broken. But at his latest club, these things have been happening with no obvious suspect in sight.\n\n\u201cI actually did my first team talk and the door swung open,\u201d Holloway tells The Athletic. \u201cIf you see the door, no one could open that. There was everybody in the room. There was nobody out in the other room, and the door swung open, and I went, \u2018Come in\u2019. And I looked, and they all started laughing.\n\n\u201cThey said. \u2018Oh, that\u2019s the ghost saying \u201cHello, Gaffer.\u201d\u2019 I went, \u2018What do you mean?\u2019 And they told me the things that have happened.\u201d\n\nHolloway says staff who work at Beversbrook have CCTV footage of peculiar incidents occurring \u2014 including a glass falling, and on Tuesday he entered the building to find one of the inside panes of glass of a double-glazed door overlooking the pitches was smashed.\n\nBeversbrook, where bizarre things are happening (Rob Tanner/The Athletic)\n\n\u201cThe site manager is a lovely bloke and he was on duty the night before,\u201d Holloway says. \u201cHe said, \u2018Ollie, look at that\u2019. One of the doors was broken on the inside, going into the one on the outside, and it was leaning on it. How could it be broken on the inside?\n\n\u201cHe said, \u2018I can\u2019t prove it, but look at it, it doesn\u2019t make sense. There was nobody here last night\u2019.\u201d\n\nHolloway certainly believes Swindon have been cursed with some bad luck when it comes to injuries, including a serious ankle tendon injury that captain Ollie Clarke picked up in innocuous fashion during training last week.\n\nAdvertisement\n\n\u201cWe\u2019ve had some weird injuries, strange injuries around the place,\u201d Holloway says. \u201cI saw a horrendous injury that didn\u2019t look normal. He (Clarke) jumped up, he headed it, and when he landed, he thought he broke his leg. And the pitch is perfect. It was a weird scenario.\u201d\n\nHolloway says he has been told the facility is built close to an Anglo-Saxon burial ground. Local historian Nick Baxter could find no record of a burial site but told The Athletic there was once a lost Medieval village of Beversbrook nearby, while an archaeological dig in 1999 discovered evidence of a Roman settlement.\n\nNonetheless, Holloway says his wife, Kim, who is a practising pagan and a fan of Caspersight \u2014 a YouTuber (whose real name is Ben Hendy) who reacts to videos of paranormal activity \u2014 will be cleansing the training ground of the spirit with sage.\n\nWhen The Athletic asks Hendy about the goings on at Beversbrook, he says: \u201cOne of my catchphrases is, \u2018It was built on a graveyard\u2019. The reason I say that is because the videos of ghosts I review sometimes have a back story that the building was built on a graveyard. I do know that sage is said to warn off any negative or evil spirits that may be in that location. It\u2019s called cleansing.\n\n\u201cHearing about the window breaking and no living person being responsible, it could point in the direction of a poltergeist. From what I know, communicating with it is the wrong thing to do, cleansing is a good idea. Never ever do an Ouija board. You never know what will come through.\u201d\n\nSwindon are currently third-bottom in League Two, but Holloway bristles at any link between his team\u2019s struggles on the pitch and the odd activity around the training ground.\n\n\u201cI\u2019ve read some things like, \u2018Ian Holloway is saying his team are losing because of a ghost,\u2019\u201d he says. \u201cThat\u2019s not my intention \u2014 and it is just absolutely stupid and pathetic.\n\nAdvertisement\n\n\u201cAt the end of the day, I\u2019m trying to help in every way I can, every single per cent of anything and even if I help the people in the building by my wife coming up and actually clearing the area, it might change how they feel about coming to work.\n\n\u201cIf they\u2019re scared of the building, and my lads keep talking about it\u2026 if I clear that out of their heads, it might help, mightn\u2019t it?\n\n\u201cAll I\u2019m saying is it might be total utter coincidence (the injuries), but if I make an offering and I say \u2014 and you never know, do you? \u2014 if I can help in any one per cent, I will. It might be nonsense, but who cares? But then you\u2019ve done all you can. I\u2019m going to try.\n\n\u201cI don\u2019t know if it\u2019s evil, but I\u2019ve been to a lot of places, Glastonbury and all that, with my lovely wife and, at the end of the day, I don\u2019t mock anything. Who am I? I don\u2019t know everything, do I?\u201d\n\nHolloway is hoping the cleanse might help Swindon Town (Cameron Smith/Getty Images)\n\nHolloway is the eighth manager since the departure of Richie Wellens in 2020 to take on the challenge of resurrecting Swindon on the pitch. In the past four years, there have been issues with unpaid wages and unpaid rent on the County Ground, their home stadium. The temporary switch to Beversbrook is while the club searches for a new training ground.\n\nThere is also dissatisfaction among some supporters over the ownership under previous chairman Lee Power and then Australian businessman Clem Morfuni, who was the subject of an open letter from the Swindon Town FC Trust calling for him to sell the club at the end of last season following another disappointing League Two campaign.\n\nIn Holloway, they have a manager whose personality and energetic approach may lift the spirits of a beleaguered fanbase and the morale of his players, reconnecting the club and the supporters.\n\n\u201cI think there\u2019s been a bit of a fundamental disconnect between club and the community in some areas and the club have probably understandably become a little bit insular and a bit defensive at times, in the way in which they dealt with that,\u201d says Sam Morshead, a Swindon supporter and editor of The Moonraker, a website for news about the club.\n\nAdvertisement\n\n\u201cIt\u2019s not a particularly happy place, and I think that\u2019s why Holloway\u2019s doing what he\u2019s doing. He\u2019s trying to bring humour, he\u2019s trying to bring energy to create some sort of atmosphere that allows for the fun to come back, because I think the general view for just about anyone associated with this club, with the exception of the academy and the women\u2019s teams who have done well in the last couple of years, is that it has been a dark time.\n\n\u201cFrom a senior men\u2019s perspective, anyone who works around the squad, anyone who goes on Saturday, sponsors, fans, management, whoever it is, it\u2019s just not been fun, and I think that he\u2019s recognised that and that\u2019s where he\u2019s trying to change things.\n\n\u201cBut there\u2019s a long way to go for the whole club to feel a community once again, but it hasn\u2019t felt a community for more than 10 years.\u201d\n\nIt isn\u2019t just a poltergeist Holloway is trying to cleanse. He is also trying to rid Swindon Town of the club\u2019s malaise and bring a fresh start.\n\n\u201cThere is a lack of confidence but I know what I\u2019m doing, and I know what I\u2019m trying to get through,\u201d Holloway says. \u201cI\u2019m gonna help absolutely everybody in and around the place, and that includes the staff who don\u2019t even work for me.\n\n\u201cIf you ask everybody in this football club and anybody who works in the training ground, if I have done that every day and helped them, then I think the answer would be yes.\n\n\u201cYou pick up every stone, you clear it out and you start again, and that\u2019s what I\u2019m doing.\u201d\n\nThe only spectre that Swindon should be truly afraid of is the prospect of relegation from the Football League, where they have played their football since being elected to the professional ranks 104 years ago.\n\nHolloway is determined to do everything in his power \u2014 and his wife\u2019s power \u2014 to avoid that fate.\n\n(Top photo: Mike Egerton/PA Images via Getty Images)"
+            "date": "10h",
+            "source": "Birmingham Mail",
+            "article_content": "Our community members are treated to special offers, promotions and adverts from us and our partners. You can check out at any time. More info\n\nStepping out of my car, I was immediately greeted by the loud roar of the M5. I was surrounded by trees and fields, but make no mistake, this was not the countryside.\n\nI'd travelled to Sandwell Valley Country Park, a hidden slice of greenery situated in the heart of the Black Country. For a 1.5 mile stretch, the M5 passes through this green corridor, leaving behind the masses of towering buildings, factories and housing estates that make up the West Midlands conurbation.\n\nNear this small section of motorway, hidden from view by the line of trees, are the remains of a Christian monastery built 900 years ago. But you won't be able to see Sandwell Priory from your car window; it's located a five-minute walk into Priory Woods in West Bromwich.\n\nREAD MORE: New 455-mile train service will link Wales, England and Scotland direct - and it stops in Birmingham\n\nGet breaking news on BirminghamLive WhatsApp , click the link to join\n\nIf you do manage to find it, all that remains of the monastery, which was founded in 1190AD by a man named William Fitz Guy, are several feet of stonework. The bricks appear in rectangular shapes on the ground, the foundations of where the ancient buildings once stood.\n\nBut while only a relic of the Sandwell Priory monastery remains today, there's been rumours that the monks who once resided there still haunt the land. Drivers claim to have witnessed such figures as far as the M5 - even being forced to swerve around them on the carriageway.\n\nWith such strange reports occurring in the area, I decided to set out and explore further. From where I'd parked up at Sandwell Valley, the ruins were only a 10-minute walk away via a small, green footbridge over the M5.\n\nThe only unusual thing I'd spotted so far was a woman walking three-legged across the car park. There were also a number of peculiar 'MJ' graffiti tags. But alas, the area seemed quiet and untroubled. Turning left from my car, I embarked on a narrow footpath into a set of woods, with the footbridge just up ahead.\n\nOn the other side, a shower of golden leaves were floating to the ground from the towering trees. It was a picturesque autumn scene. Save for a man who came speeding past on an electric bike, there was no one about.\n\nThen a little robin came to say hello, flitting through the trees as I walked along the path next to a pristine-looking golf course. Further down the path, a man was perched on a mobility scooter with a long camera lens fixed up on the tree canopies above.\n\nFinally, just beyond him emerged the old ruins. There wasn't much to them. A number of information boards stood overlooking the medieval site, informing passers-by of its history. But there was a touching little memorial placed in the corner of the brickwork in memory of someone's mother.\n\nIt was hard to fathom how old the priory ruins actually were, standing amongst the stones. This dates back to the medieval period, not long after the Norman conquest of England.\n\nHaving taken in all that I could, I started heading back to my car. As I passed the man with the camera again, I asked: \"Have you ever seen anything spooky around here?\"\n\n\"No,\" he laughed. \"I don't believe in anything like that. But I hope I don't see anything out here,\" he added in a more stern tone. Just like Cannock Chase, this was another wooded area seeped in mystery. And I could see why it attracted wonder and intrigue.\n\nPast research by the paranormal group West Midlands Ghost Club had gathered together accounts of sightings believed to have been connected to the priory ruins. One motorist reported seeing a 'monk-like' figure walking along an unnamed road in the area before the entity simply 'vanished'.\n\n\"The person concerned was not alone but they happened to have been in the car with three other family members, with everyone sharing in the encounter,\" a spokesperson for the ghost club said. On other occasions, motorists had even reported their experiences to the police, such was their level of concern.\n\nThe paranormal group's spokesperson added: \"It seems, and usually entails people - using the section of motorway nearest to the priory ruins - either seeing monk-like figures in the cutting or sometimes having to swerve to avoid such phantoms. It is frequently claimed that the people concerned are not locals - and do not know of any spooky reputation to the area - and that a number of these experiences are reported to the police.\""
         }
     },
     {
         "method": "POST",
-        "url": "https://your-supabase-endpoint.com/news",
         "headers": {
             "Content-Type": "application/json"
         },
@@ -266,14 +250,13 @@
             "description": "New gecko species discovered in Venezuela's Paria Peninsula exhibits unique anatomical features, highlighting the area's ...",
             "image_url": "https://www.bing.com/th?id=OVFT.dYacs_hIKMmqvsPZBg3eny&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "science+discovery",
-            "date": "16h",
+            "date": "17h",
             "source": "SciTech Daily",
             "article_content": "Content not available"
         }
     },
     {
         "method": "POST",
-        "url": "https://your-supabase-endpoint.com/news",
         "headers": {
             "Content-Type": "application/json"
         },
@@ -290,7 +273,6 @@
     },
     {
         "method": "POST",
-        "url": "https://your-supabase-endpoint.com/news",
         "headers": {
             "Content-Type": "application/json"
         },
@@ -307,7 +289,6 @@
     },
     {
         "method": "POST",
-        "url": "https://your-supabase-endpoint.com/news",
         "headers": {
             "Content-Type": "application/json"
         },
@@ -317,14 +298,13 @@
             "description": "Have you ever read about a scientific discovery and felt like it was written in a foreign language? If you're like most Americans, new scientific information can prove challenging to understand -; ...",
             "image_url": "https://www.bing.com/th?id=ODF.wTzFRLrnHCXMO3gKqyXx3g&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "science+discovery",
-            "date": "News Medical on MSN16h",
+            "date": "News Medical on MSN17h",
             "source": "News Medical on MSN",
             "article_content": ""
         }
     },
     {
         "method": "POST",
-        "url": "https://your-supabase-endpoint.com/news",
         "headers": {
             "Content-Type": "application/json"
         },
@@ -341,7 +321,6 @@
     },
     {
         "method": "POST",
-        "url": "https://your-supabase-endpoint.com/news",
         "headers": {
             "Content-Type": "application/json"
         },
@@ -358,7 +337,6 @@
     },
     {
         "method": "POST",
-        "url": "https://your-supabase-endpoint.com/news",
         "headers": {
             "Content-Type": "application/json"
         },
@@ -375,7 +353,6 @@
     },
     {
         "method": "POST",
-        "url": "https://your-supabase-endpoint.com/news",
         "headers": {
             "Content-Type": "application/json"
         },
@@ -392,24 +369,22 @@
     },
     {
         "method": "POST",
-        "url": "https://your-supabase-endpoint.com/news",
         "headers": {
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Y Combinator often backs startups that duplicate other YC companies, data shows \u2014 it\u2019s not just AI code editors",
-            "link": "https://www.msn.com/en-us/money/companies/y-combinator-often-backs-startups-that-duplicate-other-yc-companies-data-shows-it-s-not-just-ai-code-editors/ar-AA1uAzeB?ocid=BingNewsVerp",
-            "description": "An analysis of all nearly 5,000 companies YC has backed to date reveals a surprising truth: YC startups don\u2019t have to be ...",
-            "image_url": "https://www.bing.com/th?id=OVFT.kESnQkXY4_VyPAonaVBW8C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "How many vendors are at the Downtown Winter Farmers' Market? Here's when it starts",
+            "link": "https://www.msn.com/en-us/money/companies/how-many-vendors-are-at-the-downtown-winter-farmers-market-heres-when-it-starts/ar-AA1uz17o?ocid=BingNewsVerp",
+            "description": "The Downtown Winter Farmers' Market will offer many of the vendors seen during the summer and some with a holiday spin.",
+            "image_url": "https://www.bing.com/th?id=OVFT.3_B9YUhH4j9yOzPKhtFNqy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "it+startup",
-            "date": "18hon MSN",
-            "source": "TechCrunch on MSN",
+            "date": "20hon MSN",
+            "source": "Des Moines Register on MSN",
             "article_content": ""
         }
     },
     {
         "method": "POST",
-        "url": "https://your-supabase-endpoint.com/news",
         "headers": {
             "Content-Type": "application/json"
         },
@@ -426,7 +401,6 @@
     },
     {
         "method": "POST",
-        "url": "https://your-supabase-endpoint.com/news",
         "headers": {
             "Content-Type": "application/json"
         },
