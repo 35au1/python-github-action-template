@@ -5,10 +5,11 @@ import re
 from newspaper import Article
 
 # List of search terms that will scrape 5 news items
-search_terms_5_news = ['ufo', 'ai+app', 'paranormal', 'science+discovery']
+search_terms_5_news = ['ufo', 'ai+app', 'paranormal', 'science+discovery', 'openai', 'code+trends', 'physics+discovery']
 
 # List of search terms that will scrape only 2 news items
-search_terms_2_news = ['nocode', 'it+startup', 'software+trend']
+search_terms_2_news = ['nocode', 'it+startup', 'software+trend', 'openai+competitor', 'machine+learning', 'ukraine+russia', 'war+conflict', 'stocks+plunge',
+                       'market+share', 'economy+disaster', 'pc+manufacturer', 'cloud+architecture', 'bible+discovery', 'aliens+theory', 'ufo+spotted', 'physics+discovery', 'quantum+physics', 'science+revolution']
 
 # Base URL for concatenating incomplete image URLs
 base_url = 'https://www.bing.com'
