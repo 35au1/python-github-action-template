@@ -24,13 +24,13 @@ jobs:
         pip install requests beautifulsoup4 newspaper3k lxml_html_clean
 
     - name: Run Python script
-      run: python main.py
+      run: python influencerzy.py
 
     - name: Commit changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add ufonews.json
+        git add influencerzy.json
         git commit -m "Update influencerzy.json with latest influencer news"
         git push
       continue-on-error: true
