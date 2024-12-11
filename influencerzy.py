@@ -5,10 +5,10 @@ import re
 from newspaper import Article
 
 # List of search terms that will scrape 5 news items
-search_terms_5_news = ['hotel+paradise', 'influencer+afera', 'influencerka', 'instagram+afera', 'youtuber', 'skandal+celebryta', 'polskie+reality+show', 'skandal+polak', 'pudelek+gwiazda', 'przesadził+afera']
+search_terms_5_news = ['starocie', 'stare+monety', 'stara+porcelana', 'targ+staroci', 'relikty', 'zabytkowe+przedmioty', 'odnowiona+staroć', 'stare+numizmatyka']
 
 # List of search terms that will scrape only 2 news items
-search_terms_2_news = ['niesłychane+gwiazda', 'co+on+zrobił', 'wszyscy+osłupieli']
+search_terms_2_news = ['wykopano+zabytkowe', 'odkrycie+zabytkowe+przedmiot']
 
 # Base URL for concatenating incomplete image URLs
 base_url = 'https://www.bing.pl'
