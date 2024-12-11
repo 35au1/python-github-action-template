@@ -11,7 +11,7 @@ search_terms_5_news = ['hotel+paradise', 'influencer+afera', 'influencerka', 'in
 search_terms_2_news = ['niesłychane+gwiazda', 'co+on+zrobił', 'wszyscy+osłupieli']
 
 # Base URL for concatenating incomplete image URLs
-base_url = 'https://www.bing.com'
+base_url = 'https://www.bing.pl'
 
 def clean_text(text):
     """Replace specific Unicode characters with a single quote and strip leading/trailing whitespace."""
@@ -37,7 +37,7 @@ def get_article_content(article_url):
 
 def scrape_news(search_term, max_news_items):
     # URL of the Bing News search page with the search term
-    url = f'https://www.bing.com/news/search?q={search_term}&qft=interval%3d%227%22&form=PTFTNR'
+    url = f'https://www.bing.pl/news/search?q={search_term}&qft=interval%3d%227%22&form=PTFTNR'
 
     # Extract the category from the search term
     category = search_term
