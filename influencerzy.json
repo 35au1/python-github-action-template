@@ -5,14 +5,30 @@
             "Content-Type": "application/json"
         },
         "body": {
+            "title": "Nowy sklep w nowej soli",
+            "link": "https://gazetalubuska.pl/tag/nowy-sklep-w-nowej-soli",
+            "description": "W sobot\u0119, 9 kwietnia w Nowej Soli zn\u00f3w odb\u0119dzie si\u0119 Nowosolska Wyprzeda\u017c Gara\u017cowa. Mieszka\u0144cy wyci\u0105gn\u0105 przer\u00f3\u017cne cude\u0144ka z ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.t7UOLPDTEvwMsFyKTSdybC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Gazeta Lubuska2 godz.",
+            "source": "Gazeta Lubuska",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
             "title": "Nowy sklep z antykami na mapie Wroc\u0142awia. W asortymencie prawdziwe cuda. Zobaczcie, co mo\u017cna tam kupi\u0107",
-            "link": "https://gazetawroclawska.pl/nowy-sklep-z-antykami-na-mapie-wroclawia-w-asortymencie-prawdziwe-cuda-zobaczcie-co-mozna-tam-kupic/ar/c11p2-27084509",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/nowy-sklep-z-antykami-na-mapie-wroc%C5%82awia-w-asortymencie-prawdziwe-cuda-zobaczcie-co-mo%C5%BCna-tam-kupi%C4%87/ar-AA1vL9VA?ocid=BingNewsVerp",
             "description": "Na wroc\u0142awskim osiedlu O\u0142bin otworzy\u0142 si\u0119 nowy sklep z antykami i starociami z Polski i Europy. Znajdziecie tam unikatowe przedmioty, najstarsze \"skarby\" pochodz\u0105 z XVIII wieku. Zajrzeli\u015bmy do \u015brodka.",
             "image_url": "https://www.bing.pl/th?id=ODF.p9YO103MXreScWBGsL62IA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "gazetawroclawska.pl12 godz.",
-            "source": "gazetawroclawska.pl",
-            "article_content": "Content not available"
+            "date": "Gazeta Wroc\u0142awska on MSN15 godz.",
+            "source": "Gazeta Wroc\u0142awska on MSN",
+            "article_content": ""
         }
     },
     {
@@ -26,25 +42,9 @@
             "description": "\u015awietlne ozdoby zamontowano na miejskich latarniach w \u015bcis\u0142ym centrum, m.in. wok\u00f3\u0142 Rynku, a tak\u017ce wzd\u0142u\u017c ulic Solnej, Plac ...",
             "image_url": "https://www.bing.pl/th?id=OVF.XjxHTLrsYStLpmczJjtGqA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Gazeta Krakowska16 godz.",
+            "date": "Gazeta Krakowska20 godz.",
             "source": "Gazeta Krakowska",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Stare meble, zegary, porcelana, bi\u017cuteria, lustra warte fortun\u0119. Na takich antykach mo\u017cna si\u0119 wzbogaci\u0107",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/stare-meble-zegary-porcelana-bi%C5%BCuteria-lustra-warte-fortun%C4%99-na-takich-antykach-mo%C5%BCna-si%C4%99-wzbogaci%C4%87/ar-AA1vB3CE?ocid=BingNewsVerp",
-            "description": "Boom na wystr\u00f3j lub elementy wn\u0119trz z dawnych lat nieprzerwanie trwa. Do \u0142ask wr\u00f3ci\u0142y nie tylko peerelowskie meble i ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT._kzfVkROQGaXp1ePBTzYxC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "Gazeta Pomorska on MSN23 godz.",
-            "source": "Gazeta Pomorska on MSN",
-            "article_content": ""
         }
     },
     {
@@ -58,7 +58,7 @@
             "description": "Takie kryszta\u0142y to dzi\u015b nie tylko pi\u0119kne, historyczne przedmioty, ale tak\u017ce cenna inwestycja. Wzrost popularno\u015bci stylu vintage, retro i designu z tamtego okresu sprawia, \u017ce coraz wi\u0119cej os\u00f3b ...",
             "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "Pomorska15 godz.",
+            "date": "Pomorska19 godz.",
             "source": "Pomorska",
             "article_content": "Content not available"
         }
@@ -74,7 +74,7 @@
             "description": "Mo\u017cliwe, \u017ce w zakamarkach swojego domu trzymasz prawdziwy skarb. B\u0119dziesz zaskoczony za jakie kwoty mo\u017cna sprzeda\u0107 stare ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.tx-iTFofCAUCIAJPyjFrSi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "gk24.pl3 godz.",
+            "date": "gk24.pl7 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -85,13 +85,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Rzadkie monety z PRL poszukiwane przez kolekcjoner\u00f3w. Sprawd\u017a, kt\u00f3re s\u0105 najdro\u017csze i ile mo\u017cna za nie zarobi\u0107! 13.12.2024",
-            "link": "https://nto.pl/rzadkie-monety-z-prl-poszukiwane-przez-kolekcjonerow-sprawdz-ktore-sa-najdrozsze-i-ile-mozna-za-nie-zarobic-13122024/ar/c3-17275689",
-            "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.lRrD2U%2bR3FD5%2bZS3exAlfg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Stare pieni\u0105dze z czas\u00f3w PRL",
+            "link": "https://nowosci.com.pl/banknoty-i-monety-prl-ceny-zdjecia-tyle-w-2024-roku-trzeba-zaplacic-za-stare-pieniadze-13-12-2024/ar/c3p2-27055655",
+            "description": "Stare pieni\u0105dze z czas\u00f3w PRL w 2024 roku ciesz\u0105 si\u0119 rosn\u0105cym zainteresowaniem. Niekt\u00f3re egzemplarze mog\u0105 by\u0107 dzi\u015b bardzo ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.Lt9aBaCf7NQKV5Ah0hDANw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "nto.pl1 godz.",
-            "source": "nto.pl",
+            "date": "nowosci.com.pl5 godz.",
+            "source": "nowosci.com.pl",
             "article_content": "Content not available"
         }
     },
@@ -106,9 +106,25 @@
             "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet zwyk\u0142a pi\u0119cioz\u0142ot\u00f3wka mo\u017ce mie\u0107 wielokrotnie wi\u0119ksz\u0105 warto\u015b\u0107 ni\u017c nomina\u0142.",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "gk24.pl3 godz.",
+            "date": "gk24.pl8 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Rzadkie monety z PRL poszukiwane przez kolekcjoner\u00f3w. Sprawd\u017a, kt\u00f3re s\u0105 najdro\u017csze i ile mo\u017cna za nie zarobi\u0107! 13.12.2024",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/rzadkie-monety-z-prl-poszukiwane-przez-kolekcjoner%C3%B3w-sprawd%C5%BA-kt%C3%B3re-s%C4%85-najdro%C5%BCsze-i-ile-mo%C5%BCna-za-nie-zarobi%C4%87-13-12-2024/ar-AA1vMPm1?ocid=BingNewsVerp",
+            "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.lRrD2U%2bR3FD5%2bZS3exAlfg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "Express Ilustrowany on MSN4 godz.",
+            "source": "Express Ilustrowany on MSN",
+            "article_content": ""
         }
     },
     {
@@ -122,7 +138,7 @@
             "description": "Stara bi\u017cuteria z PRL-u po latach wraca do \u0142ask, a jej ceny na serwisach aukcyjnych szybuj\u0105 w g\u00f3r\u0119. Unikalnych wzor\u00f3w ...",
             "image_url": "https://www.bing.pl/th?id=OVF.la2xZ5HOaO17xC86rUkSdg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Gazeta Wroc\u0142awska on MSN1 godz.",
+            "date": "Gazeta Wroc\u0142awska on MSN5 godz.",
             "source": "Gazeta Wroc\u0142awska on MSN",
             "article_content": ""
         }
@@ -133,13 +149,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Meble z PRL-u poszukiwane przez kolekcjoner\u00f3w - aktualne ceny, zdj\u0119cia. Stare fotele, stoliki i komody to wn\u0119trzarskie hity warte fortun\u0119",
-            "link": "https://pomorska.pl/meble-z-prl-u-poszukiwane-przez-kolekcjonerow-aktualne-ceny-zdjecia-stare-fotele-stoliki-i-komody-to-wnetrzarskie-hity-warte-fortune/ar/c9p2-27082783",
-            "description": "Meble z PRL s\u0105 dzi\u015b niezwykle cenione zar\u00f3wno za ich wyj\u0105tkowy design, trwa\u0142o\u015b\u0107 i funkcjonalno\u015b\u0107. Wsp\u00f3\u0142cze\u015bnie zyskuj\u0105 na ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.%2fXOKxdv47pfnUsCya5D4RQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "Pomorska2 godz.",
-            "source": "Pomorska",
+            "title": "Porcelana PRL poszukiwana przez kolekcjoner\u00f3w. Na takich starych naczyniach, wazonach i figurkach mo\u017cna zarobi\u0107 [13.12.2024]",
+            "link": "https://nowosci.com.pl/porcelana-prl-poszukiwana-przez-kolekcjonerow-na-takich-starych-naczyniach-wazonach-i-figurkach-mozna-zarobic-13-12-2024/ar/c9p2-27074895",
+            "description": "Najwa\u017cniejszym czynnikiem wp\u0142ywaj\u0105cym na warto\u015b\u0107 porcelany jest jej stan. Naczynia bez uszkodze\u0144, p\u0119kni\u0119\u0107 czy obt\u0142ucze\u0144 s\u0105 ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.9Lp0s3xAMXMXtB29hRVMNA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stara+porcelana",
+            "date": "nowosci.com.pl5 godz.",
+            "source": "nowosci.com.pl",
             "article_content": "Content not available"
         }
     },
@@ -154,7 +170,7 @@
             "description": "Stara bi\u017cuteria z PRL-u po latach wraca do \u0142ask, a jej ceny na serwisach aukcyjnych szybuj\u0105 w g\u00f3r\u0119. Unikalnych wzor\u00f3w ...",
             "image_url": "https://www.bing.pl/th?id=OVF.la2xZ5HOaO17xC86rUkSdg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Wroc\u0142awska on MSN1 godz.",
+            "date": "Gazeta Wroc\u0142awska on MSN5 godz.",
             "source": "Gazeta Wroc\u0142awska on MSN",
             "article_content": ""
         }
@@ -170,9 +186,25 @@
             "description": "Obecnie zwracamy olbrzymi\u0105 uwag\u0119 na wystr\u00f3j swoich dom\u00f3w czy mieszka\u0144, a w\u0142a\u015bnie takie przedmioty, unikatowe, wyr\u00f3\u017cniaj\u0105ce si\u0119 barwami, motywami i wzorami, jak porcelana czy ceramika z czas\u00f3w PRL, ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "G\u0142os Koszali\u0144ski on MSN2 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN6 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Stare pieni\u0105dze z czas\u00f3w PRL",
+            "link": "https://nowosci.com.pl/banknoty-i-monety-prl-ceny-zdjecia-tyle-w-2024-roku-trzeba-zaplacic-za-stare-pieniadze-13-12-2024/ar/c3p2-27055655",
+            "description": "Stare pieni\u0105dze z czas\u00f3w PRL w 2024 roku ciesz\u0105 si\u0119 rosn\u0105cym zainteresowaniem. Niekt\u00f3re egzemplarze mog\u0105 by\u0107 dzi\u015b bardzo ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.Lt9aBaCf7NQKV5Ah0hDANw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stara+porcelana",
+            "date": "nowosci.com.pl5 godz.",
+            "source": "nowosci.com.pl",
+            "article_content": "Content not available"
         }
     },
     {
@@ -186,25 +218,9 @@
             "description": "Ta porcelana z PRL jest warta maj\u0105tek! Unikatowe zestawy, talerze, fili\u017canki z PRL. Tych przedmiot\u00f3w szukaj\u0105 kolekcjonerzy! Z pewno\u015bci\u0105 wiele os\u00f3b nie zdaje sobie sprawy, \u017ce mo\u017ce posiada\u0107 w swoim domu ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "gk24.pl3 godz.",
+            "date": "gk24.pl7 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Stare meble, zegary, porcelana, bi\u017cuteria, lustra warte fortun\u0119. Na takich antykach mo\u017cna si\u0119 wzbogaci\u0107",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/stare-meble-zegary-porcelana-bi%C5%BCuteria-lustra-warte-fortun%C4%99-na-takich-antykach-mo%C5%BCna-si%C4%99-wzbogaci%C4%87/ar-AA1vB3CE?ocid=BingNewsVerp",
-            "description": "Boom na wystr\u00f3j lub elementy wn\u0119trz z dawnych lat nieprzerwanie trwa. Do \u0142ask wr\u00f3ci\u0142y nie tylko peerelowskie meble i ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT._kzfVkROQGaXp1ePBTzYxC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN23 godz.",
-            "source": "Gazeta Pomorska on MSN",
-            "article_content": ""
         }
     },
     {
@@ -218,7 +234,7 @@
             "description": "Unikalne antyki poszukiwane przez kolekcjoner\u00f3w mog\u0105 zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na nich zarobi\u0107 fortun\u0119. Cz\u0119sto nie ...",
             "image_url": "https://www.bing.pl/th?id=OVF.GntS4yly8l%2f%2f99nxN5%2bgNw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "dziennikzachodni.pl1 godz.",
+            "date": "dziennikzachodni.pl5 godz.",
             "source": "dziennikzachodni.pl",
             "article_content": "Content not available"
         }
@@ -234,8 +250,40 @@
             "description": "Unikalne antyki poszukiwane przez kolekcjoner\u00f3w mog\u0105 zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na nich zarobi\u0107 fortun\u0119. Cz\u0119sto nie ...",
             "image_url": "https://www.bing.pl/th?id=OVF.gTdAPFWDCbZaT%2b9VOtPLtg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Poranny1 godz.",
+            "date": "Poranny5 godz.",
             "source": "Poranny",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pchli Targ przy galerii Avenida w Poznaniu. Mo\u017cna by\u0142o kupi\u0107 antyki i obrazy! Zobaczcie na zdj\u0119ciach [13.12.2024]",
+            "link": "https://gloswielkopolski.pl/pchli-targ-przy-galerii-avenida-w-poznaniu-mozna-bylo-kupic-antyki-i-obrazy-zobaczcie-na-zdjeciach-13-12-2024/ar/c1p2-27019777",
+            "description": "W Poznaniu, tu\u017c obok dworca Pozna\u0144 G\u0142\u00f3wny i galerii handlowej Avenida, ponownie zago\u015bci\u0142 \"Niedzielny Targ Pozna\u0144\". 24 ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.rOE9TUvahcy5yBviqUtwww&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "gloswielkopolski5 godz.",
+            "source": "gloswielkopolski",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pchli targ przy dworcu w Poznaniu",
+            "link": "https://poznan.naszemiasto.pl/pchli-targ-przy-galerii-avenida-w-poznaniu-mozna-bylo-kupic-antyki-i-obrazy-zobaczcie-na-zdjeciach-13-12-2024/ar/c1p2-27019777",
+            "description": "W Poznaniu, tu\u017c obok dworca Pozna\u0144 G\u0142\u00f3wny i galerii handlowej Avenida, ponownie zago\u015bci\u0142 \"Niedzielny Targ Pozna\u0144\". 24 ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.clhJXs9JrrOKuZZagzP2Nw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "poznan.naszemiasto4 godz.",
+            "source": "poznan.naszemiasto",
             "article_content": "Content not available"
         }
     },
@@ -250,7 +298,7 @@
             "description": "Wa\u017cna chwila dla pacjent\u00f3w i personelu \u017carskiego Szpitala na Wyspie. Po d\u0142ugich oczekiwaniach przeniesiono zak\u0142ad ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.qR6mOI85CkqjkmuPtgdhzC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "zachod19 godz.",
+            "date": "zachod23 godz.",
             "source": "zachod",
             "article_content": "Wa\u017cna chwila dla pacjent\u00f3w i personelu \u017carskiego Szpitala na Wyspie. Po d\u0142ugich oczekiwaniach przeniesiono zak\u0142ad rehabilitacji do nowo wybudowanego skrzyd\u0142a lecznicy. Przechodz\u0105cy rekonwalescencj\u0119 maj\u0105 teraz do dyspozycji nowoczesny sprz\u0119t i przestrzenne pomieszczenia. Szpital otrzyma\u0142 tak\u017ce laser wysokoenergetyczny, kt\u00f3ry kupi\u0142a i przekaza\u0142a jedna z lokalnych firm.\n\nUrz\u0105dzenie b\u0119dzie wspomaga\u0107 proces leczenia po kontuzjach i stanach b\u00f3lowych. W\u0142adze plac\u00f3wki planuj\u0105 uruchomi\u0107 terapi\u0119 laserow\u0105 w przysz\u0142ym tygodniu. Koszt zakupu tego sprz\u0119tu to 130 tysi\u0119cy z\u0142otych. \u2013 Z my\u015bl\u0105 o naszych pacjentach chcemy inwestowa\u0107 w najnowocze\u015bniejsze rozwi\u0105zania. Mamy ju\u017c idealne warunki, bowiem oddajemy do u\u017cytku now\u0105 cz\u0119\u015b\u0107 szpitala. Niebawem przeniesiemy tu r\u00f3wnie\u017c oddzia\u0142 wewn\u0119trzny, geriatri\u0119 i izb\u0119 przyj\u0119\u0107. Wszystko po to, aby zapewni\u0107 hospitalizowanym jak najlepsze warunki \u2013 m\u00f3wi prezes szpitala Jolanta Dankiewicz:"
         }
@@ -266,9 +314,25 @@
             "description": "Stara bi\u017cuteria z PRL-u po latach wraca do \u0142ask, a jej ceny na serwisach aukcyjnych szybuj\u0105 w g\u00f3r\u0119. Unikalnych wzor\u00f3w ...",
             "image_url": "https://www.bing.pl/th?id=OVF.la2xZ5HOaO17xC86rUkSdg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Gazeta Wroc\u0142awska on MSN1 godz.",
+            "date": "Gazeta Wroc\u0142awska on MSN5 godz.",
             "source": "Gazeta Wroc\u0142awska on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Nowe atrakcje turystyczne w Ma\u0142opolsce. \"To tereny pi\u0119kne i ciekawe\"",
+            "link": "https://www.se.pl/krakow/nowe-atrakcje-turystyczne-w-malopolsce-to-tereny-piekne-i-ciekawe-aa-eq5m-pV6n-qJMd.html",
+            "description": "W Ma\u0142opolsce powsta\u0142y cztery nowe rezerwaty przyrody. \u0141\u0105cznie maj\u0105 one powierzchni\u0119 prawie 219 ha i znajduj\u0105 si\u0119 w zarz\u0105dzie ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.LODIV%2bTJOZXSN183aZc3rQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "SE3 godz.",
+            "source": "SE",
+            "article_content": "W wojew\u00f3dztwie ma\u0142opolskim powsta\u0142y cztery nowe rezerwaty przyrody. Znajduj\u0105 si\u0119 one w po\u0142udniowo-wschodniej cz\u0119\u015bci wojew\u00f3dztwa ma\u0142opolskiego, w Beskidzie Niskim. Nowe rezerwaty wype\u0142niaj\u0105 luk\u0119 w obszarach o najwy\u017cszym re\u017cimie ochronnym mi\u0119dzy bogatym w rezerwaty Beskidem S\u0105deckim, a znajduj\u0105cym si\u0119 na granicy wojew\u00f3dztwa Magurskim Parkiem Narodowym. Tym samym lista rezerwat\u00f3w przyrody w Ma\u0142opolsce obejmuje obecnie 90 pozycji.\n\n- Ma\u0142opolska ze wzgl\u0119du na swoje po\u0142o\u017cenie i warunki geograficzne jest bardzo bogata w tereny zielone. Mamy \u015bwiadomo\u015b\u0107, \u017ce w dzisiejszym \u015bwiecie, kt\u00f3ry szybko si\u0119 urbanizuje, w\u0142a\u015bnie obszary le\u015bne, obszary zielone wymagaj\u0105 szczeg\u00f3lnej opieki. Cztery nowe rezerwaty przyrody obejmuj\u0119 tereny w du\u017cej mierze nienaruszone wi\u0119ksz\u0105 dzia\u0142alno\u015bci\u0105 cz\u0142owieka. To tereny pi\u0119kne i ciekawe. Dzi\u0119kuj\u0119 za podj\u0119cie dzia\u0142a\u0144, aby obj\u0105\u0107 je t\u0105 szczeg\u00f3ln\u0105 form\u0105 ochrony, gwarantuj\u0105c tym samym, \u017ce b\u0119d\u0105 one dziedzictwem ciesz\u0105cym kolejne pokolenia mieszka\u0144c\u00f3w naszego wojew\u00f3dztwa i turyst\u00f3w \u2013 m\u00f3wi Krzysztof Jan Kl\u0119czar, wojewoda ma\u0142opolski.\n\nLista nowych rezerwat\u00f3w przyrody w Ma\u0142opolsce:\n\nCisy w Wyskitnej\n\nRezerwat przyrody Cisy w Wyskitnej obejmuje powierzchni\u0119 5,22 ha i znajduje si\u0119 w granicach gminy Gryb\u00f3w. Celem ochrony w rezerwacie jest zachowanie ze wzgl\u0119d\u00f3w przyrodniczych i naukowych populacji cisa pospolitego w pa\u015bmie Ma\u015blanej G\u00f3ry w Beskidzie Niskim. Propozycja utworzenia tego rezerwatu pojawi\u0142a si\u0119 ju\u017c 10 lat temu. Teren ten by\u0142 w przesz\u0142o\u015bci lasem prywatnym, kt\u00f3ry zosta\u0142 wykupiony przez Lasy Pa\u0144stwowe w ramach realizacji projektu ochrony cisa. Wed\u0142ug przeprowadzonych w\u00f3wczas bada\u0144 w rezerwacie stwierdzono ok. 1250 doros\u0142ych osobnik\u00f3w cisa pospolitego \u2013 drzewa obj\u0119tego ochron\u0105 gatunkow\u0105. Wed\u0142ug obecnej wiedzy jest to jedno z najwi\u0119kszych skupisk cisa pospolitego w Polsce.\n\nG\u00f3ra Che\u0142m\n\nRezerwat przyrody Jaworzyna na Che\u0142mie zajmuje obszar o powierzchni 36,36 ha na terenie gminy Ropa. Rezerwat tworzy si\u0119 dla zachowania ze wzgl\u0119d\u00f3w przyrodniczych i naukowych zespo\u0142u jaworzyny ze stanowiskami j\u0119zycznika zwyczajnego wraz z ods\u0142oni\u0119ciami skalnymi i rumowiskami na G\u00f3rze Che\u0142m w Beskidzie Niskim. Wyznaczenie na tym obszarze rezerwatu zosta\u0142o zaproponowane przez Nadle\u015bnictwo \u0141osie. W rezerwacie wyst\u0119puj\u0105 du\u017ce p\u0142aty zespo\u0142u jaworzyny z j\u0119zycznikiem, kt\u00f3ra jest priorytetowym siedliskiem Natura 2000. Zbiorowisku temu towarzyszy poka\u017ana populacja j\u0119zycznika zwyczajnego \u2013 paproci obj\u0119tej \u015bcis\u0142\u0105 ochron\u0105 gatunkow\u0105.\n\nKozie \u017bebro i Markowiec-Gr\u00f3dek\n\nRezerwaty przyrody Kozie \u017bebro i Markowiec-Gr\u00f3dek po\u0142o\u017cone s\u0105 na terenie gminy U\u015bcie Gorlickie i zajmuj\u0105 powierzchni\u0119 odpowiednio 105,51 ha i 71,87 ha. W obu rezerwatach celem ochrony jest zachowanie ze wzgl\u0119d\u00f3w przyrodniczych, naukowych i dydaktycznych ekosystem\u00f3w le\u015bnych o charakterze zbli\u017conym do naturalnego wraz z zespo\u0142em reliktowych gatunk\u00f3w organizm\u00f3w. Wniosek o powo\u0142anie rezerwat\u00f3w zosta\u0142 pierwotnie z\u0142o\u017cony przez Og\u00f3lnopolskie Towarzystwo Ochrony Ptak\u00f3w, a p\u00f3\u017aniej ich powstanie w\u0142\u0105czono do inicjatywy 100 rezerwat\u00f3w przyrody na 100-lecie Las\u00f3w Pa\u0144stwowych. W rezerwatach wyst\u0119puje zbiorowisko \u017cyznej buczyny karpackiej, kt\u00f3ra w miejscach niedost\u0119pnych \u2013 na grzbietach, stromych stokach, rumowiskach skalnych i w dolinach ciek\u00f3w \u2013 ma charakter zbli\u017cony do naturalnego. Na tych terenach zidentyfikowano kilkadziesi\u0105t gatunk\u00f3w grzyb\u00f3w, porost\u00f3w i chrz\u0105szczy, spo\u015br\u00f3d kt\u00f3rych kilkana\u015bcie uznawanych jest za tzw. relikty puszcza\u0144skie. W\u015br\u00f3d nich wymieni\u0107 mo\u017cna: chrz\u0105szcze wynurta i z\u0119boszyjk\u0119 ognist\u0105, porosty koral\u00f3weczk\u0119 \u015bluzowat\u0105 i z\u0142ociszka jaskrawego oraz grzyby \u015bwiecznic\u0119 rozga\u0142\u0119zion\u0105 i korzaka r\u00f3\u017cnokszta\u0142tnego.\n\nWigilia na pl. Inwalid\u00f3w w Krakowie Rozwijamy nasz serwis dzi\u0119ki wy\u015bwietlaniu reklam. Blokuj\u0105c reklamy, nie pozwalasz nam tworzy\u0107 warto\u015bciowych tre\u015bci. Wy\u0142\u0105cz AdBlock i od\u015bwie\u017c stron\u0119.\n\nQUIZ. Ma\u0142opolska gwara. M\u00f3wi\u0105 tak w twoim regionie? Pytanie 1 z 10 1. Charakterystyczn\u0105 odmian\u0105 polszczyzny u\u017cywan\u0105 zw\u0142aszcza w Krakowie i w okolicach jest gwara: krakowska ma\u0142opolska krakus\u00f3w Nast\u0119pne pytanie\n\n\u015awi\u0119ta Bo\u017cego Narodzenia. Ceny u Ewy Wachowicz"
         }
     },
     {
@@ -282,7 +346,7 @@
             "description": "Ulice (Biskupia, Salwator, Na Stoku, Zaro\u015blak) zyska\u0142y nowe nawierzchnie z kostki brukowej (wcze\u015bniej by\u0142a to tak\u017ce ul. G\u00f3rka ...",
             "image_url": "https://www.bing.pl/th?id=OVF.%2f7PVAk91YMf2b7gb6D0EgA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Dziennik Ba\u0142tycki on MSN2 godz.",
+            "date": "Dziennik Ba\u0142tycki on MSN6 godz.",
             "source": "Dziennik Ba\u0142tycki on MSN",
             "article_content": ""
         }
@@ -298,7 +362,7 @@
             "description": "Zanim wyruszysz w tras\u0119, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 14 grudnia w O\u015bwi\u0119cimiu ma by\u0107 1\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.PCDGSsV6Lts0DAmLHLpzly&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "oswiecim.naszemiasto18 godz.",
+            "date": "oswiecim.naszemiasto22 godz.",
             "source": "oswiecim.naszemiasto",
             "article_content": "Content not available"
         }
@@ -314,25 +378,9 @@
             "description": "Latarnia morska - wysoko\u015b\u0107 26 metr\u00f3w, zasi\u0119g \u015bwiat\u0142a 16 mil morskich, wybudowana w 1945 roku na miejscu Fortu Uj\u015bcie, kt\u00f3ry w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.djG9Tt6mubEpjYTGuOBa8S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "kolobrzeg.naszemiasto18 godz.",
+            "date": "kolobrzeg.naszemiasto22 godz.",
             "source": "kolobrzeg.naszemiasto",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Sk\u0105d wzi\u0105\u0142 si\u0119 karp na polskich sto\u0142ach w Wigili\u0119? To nieprawda, \u017ce trafi\u0142 tam dopiero w czasach PRL-u",
-            "link": "https://www.national-geographic.pl/przyroda/skad-wzial-sie-karp-na-polskich-stolach-w-wigilie-to-nieprawda-ze-trafil-tam-dopiero-w-czasach-prl-u/",
-            "description": "Czy karp jest ryb\u0105 kt\u00f3r\u0105 jedzono ju\u017c setki lat temu, czy raczej produktem, kt\u00f3ry lansowa\u0142a propaganda PRL? Oto, jak naprawd\u0119 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.LFPKdGQom-NmIF19xZvyiy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "national-geographic21 godz.",
-            "source": "national-geographic",
-            "article_content": "Spis tre\u015bci:\n\nReklama\n\nWsp\u00f3\u0142czesne kulinarne zwyczaje wigilijne s\u0105 echem wielowiekowej, chrze\u015bcija\u0144skiej tradycji postu. W dawnej Rzeczypospolitej post by\u0142 wyj\u0105tkowo d\u0142ugi i wyj\u0105tkowo restrykcyjny, a obowi\u0105zywa\u0142 w sumie niemal przez p\u00f3\u0142 roku. G\u0142\u00f3wnymi gastronomicznymi bohaterami na sto\u0142ach XVI- i XVII-wiecznych dwor\u00f3w by\u0142y ryby s\u0142odkowodne. A karp zajmowa\u0142 w\u015br\u00f3d nich bardzo wa\u017cne miejsce.\n\nSk\u0105d wzi\u0105\u0142 si\u0119 karp w Polsce?\n\nKarp (Cyprinus carpio) naturalnie wyst\u0119powa\u0142 w rzekach uchodz\u0105cych do Morza Czarnego, Kaspijskiego oraz Aralskiego. Ju\u017c w staro\u017cytno\u015bci by\u0142 cenion\u0105 ryb\u0105 konsumpcyjn\u0105, nie tylko \u0142owion\u0105 ale i udomowion\u0105 a potem hodowan\u0105 na mi\u0119so oraz dla ozdoby. Najwcze\u015bniej, bo ju\u017c oko\u0142o V wieku p.n.e. karpie hodowali Chi\u0144czycy. Tak\u017ce w Chinach powsta\u0142a barwna ozdobna odmiana \u2013 karp koi, dost\u0119pny dzi\u015b w ca\u0142ej gamie kolor\u00f3w.\n\nW Europie epoki \u015bredniowiecza by\u0142 cz\u0119sto hodowany w stawach nale\u017c\u0105cych do klasztor\u00f3w i maj\u0105tk\u00f3w kr\u00f3lewskich i magnackich. Takie te\u017c s\u0105 pocz\u0105tki obecno\u015bci karpia w Polsce. By\u0142 ryb\u0105 cenion\u0105 mi\u0119dzy innymi za sw\u0105 t\u0142usto\u015b\u0107.\n\nKarp w polskiej historii \u2013 jeden z wielu bohater\u00f3w postu\n\nKsi\u0119ga szafarska dworu Jana III Sobieskiego, wydana przez Muzeum Pa\u0142acu Kr\u00f3la Jana w Wilanowie kataloguje jad\u0142ospis kr\u00f3lewskiego dworu w latach 1695\u20131696. W\u015br\u00f3d ryb podawanych na kolacj\u0119 wigilijn\u0105 najwa\u017cniejsz\u0105 rol\u0119 pe\u0142ni\u0105 karp i szczupak. Opr\u00f3cz tego podawano \u0142ososie, okonie, leszcze, sterlety (inaczej czeczugi \u2013 to ryby jesiotrowate), a tak\u017ce ryby solone z beczki.\n\nNajwi\u0119kszy karp na \u015bwiecie fot. Schellhorn/ullstein bild via Getty Images\n\nZ kolei najstarsza wydana drukiem po polsku ksi\u0105\u017cka kucharska \u2013 \u201eCompendium Ferculorum\u201d Stanis\u0142awa Czernieckiego (1682) \u2013 zawiera osiem przepis\u00f3w na karpia, ale du\u017co wi\u0119cej przepis\u00f3w na dowolne ryby, gdzie tak\u017ce mo\u017cna karpia wykorzysta\u0107. Uwag\u0119 zwraca potrawa z j\u0119zyczk\u00f3w karpiowych oraz dwie zupy z wykorzystaniem karpia \u2013 ros\u00f3\u0142 kr\u00f3lewski i rodzaj barszczu. Nie brakuje potraw z dodatkiem aromatycznych przypraw (np. cynamonu), rodzynek, migda\u0142\u00f3w i s\u0142odkich bakalii. Wida\u0107 tu pocz\u0105tki popularnych i dzi\u015b przepis\u00f3w na ryb\u0119 faszerowan\u0105 i karpia po \u017cydowsku.\n\nZatem wbrew obiegowej opinii karp ju\u017c od kilkuset lat zajmuje poczesne miejsce na polskich sto\u0142ach w czasie postu. Od czas\u00f3w wsp\u00f3\u0142czesnych r\u00f3\u017cni dzisiejsz\u0105 wigilijn\u0105 tradycje raczej to, \u017ce jest znacznie mniej r\u00f3\u017cnorodna w kwestii ryb, zw\u0142aszcza je\u015bli por\u00f3wnujemy j\u0105 z kuchni\u0105 dworsk\u0105, opisywan\u0105 np. przez Czernieckiego. Dzi\u015b ryby kupujemy w sklepie i jeste\u015bmy zale\u017cni od wielkich producent\u00f3w i \u0142a\u0144cuch\u00f3w dostaw. W czasach Czernieckiego ryby tylko w niewielkiej cz\u0119\u015bci hodowano w stawach. Ogromn\u0105 r\u00f3\u017cnorodno\u015b\u0107 gatunk\u00f3w ryb s\u0142odkowodnych pozyskiwano z natury \u2013 wi\u015blane \u0142ososie, jesiotry, szczupaki, w\u0119gorze, liny, leszcze, karasie. Ryby morskie jadano tylko blisko wybrze\u017ca Ba\u0142tyku.\n\nLucyna \u0106wierczakiewiczowa w s\u0142ynnej ksi\u0105\u017cce kucharskiej \u201e365 obiad\u00f3w\u201d, wydanej po raz pierwszy w 1860 r., na Wigili\u0119 proponuje tylko jedn\u0105 potraw\u0119 z karpia \u2013 z rodzynkami, \u201ena szaro\u201d, zaznaczaj\u0105c \u017ce mo\u017ce to by\u0107 tak\u017ce leszcz. Wymienia du\u017co wi\u0119cej potraw z innych ryb: szczupaka, lina, sandacza i karasia. P\u00f3\u017aniejsza \u201eKucharka litewska\u201d Wincenty Zawadzkiej, z 1938 roku, na 73 potrawy z ryb zawiera 5 potraw z karpia. W tej ksi\u0105\u017cce wyra\u017anie ju\u017c wida\u0107 lepsz\u0105 dost\u0119pno\u015b\u0107 ryb morskich \u2013 pojawia si\u0119 sola, turbot i \u015bled\u017a, a tak\u017ce sztokfisz, czyli solony dorsz.\n\nPRL, czyli jak to by\u0142o z \u201ekarpiem na ka\u017cdym wigilijnym stole\u201d\n\nWed\u0142ug popularnej anegdoty, we wczesnym okresie PRL, jeszcze w latach 40., \u00f3wczesny minister przemys\u0142u i handlu oraz przewodnicz\u0105cy Pa\u0144stwowej Komisji Planowania Gospodarczego uku\u0142 has\u0142o \u201ekarp na ka\u017cdym wigilijnym stole w Polsce\u201d. Ta powszechnie powtarzana informacja prowadzi niekt\u00f3rych do jeszcze dalej id\u0105cych wniosk\u00f3w: \u017ce karpia na sto\u0142y wprowadzili dopiero komuni\u015bci.\n\nProblem w tym, \u017ce nikt jak dot\u0105d nie znalaz\u0142 \u017ar\u00f3d\u0142a, w kt\u00f3rym ten slogan pada, ani dowodu na to, \u017ce wypowiedzia\u0142 go kiedykolwiek minister Minc. O braku \u017ar\u00f3de\u0142 w tej kwestii m\u00f3wi\u0142 wielokrotnie m.in. historyk jedzenia, prof. Jaros\u0142aw Dumanowski, na przyk\u0142ad w wywiadzie-rzece pt. \u201eKap\u0142ony i szcze\u017cuje. Opowie\u015b\u0107 o zapomnianej kuchni polskiej\u201d.\n\nCzasy PRL niew\u0105tpliwie w ogromnej mierze ukszta\u0142towa\u0142y dzisiejsz\u0105 polsk\u0105 kultur\u0119 kulinarn\u0105. Ale raczej j\u0105 zuba\u017caj\u0105c, ni\u017c wprowadzaj\u0105c nowe produkty. W czasach komunizmu nie uda\u0142o si\u0119 tak\u017ce narzuci\u0107 \u017cadnej nowej, zunifikowanej tradycji ani wykorzeni\u0107 tej zwi\u0105zanej z religijn\u0105 obrz\u0119dowo\u015bci\u0105. Kulinarn\u0105 rzeczywisto\u015bci\u0105 PRL by\u0142y puste p\u00f3\u0142ki i ogromne zubo\u017cenie ilo\u015bci dost\u0119pnych produkt\u00f3w. Centralnie sterowana gospodarka by\u0142a niewydolna, co doskonale by\u0142o wida\u0107 m.in. w dost\u0119pno\u015bci ryb.\n\nKarp fot. Shutterstock\n\nPodobnie, jak inne produkty spo\u017cywcze, tak\u017ce karpia w pewnym okresie obj\u0119to reglamentacj\u0105 i sprzedawano tylko na kartki. B\u0119d\u0105cy ryb\u0105 hodowlan\u0105 karp, wraz ze \u015bledziem i dorszem, osta\u0142y si\u0119 niczym relikty z dawnej r\u00f3\u017cnorodno\u015bci dost\u0119pnych gatunk\u00f3w ryb. A nieetyczny zwyczaj sprzedawania \u017cywych ryb wi\u0105za\u0142 si\u0119 raczej z brakiem ch\u0142odni do transportu ni\u017c ch\u0119ci\u0105 zapewnienia \u015bwie\u017co\u015bci.\n\nProdukcja i konsumpcja karpia dzi\u015b\n\nCo roku przed Bo\u017cym Narodzeniem internet zalewaj\u0105 publikacje radz\u0105ce, jak pozby\u0107 si\u0119 posmaku mu\u0142u z karpia. Oraz tr zalecaj\u0105ce inne, lepiej smakuj\u0105ce i zdrowsze ryby, by go zast\u0105pi\u0107. Sklepy maksymalnie u\u0142atwiaj\u0105 konsumentom przyrz\u0105dzenie i jedzenie karpia, oferuj\u0105c tzw. filety nacinane, czyli z maszynowo rozdrobnionymi o\u015b\u0107mi. Technik\u0119 t\u0119 wymy\u015blono w Morskim Instytucie Rybackim w Gdyni, a od roku 2014 jest stosowana w handlu.\n\nReklama\n\nWed\u0142ug danych Krajowego O\u015brodka Wsparcia Rolnictwa \u015brednia roczna konsumpcja karpia w Polsce to zaledwie oko\u0142o p\u00f3\u0142 kilograma rocznie na osob\u0119. To tylko 4% wszystkich ryb, jakie statystyczny Polak zjada w ca\u0142ym roku. Ponad 90% rocznej krajowej produkcji karpia sprzedaje si\u0119 w dwa ostatnie tygodnie grudnia \u2013 tu\u017c przed Bo\u017cym Narodzeniem. A produkcja ta to oko\u0142o 18 tysi\u0119cy ton. Wszystko to dowodzi jednego: tak naprawd\u0119 karpia nie lubimy. Jemy go tylko dlatego, \u017ce tak nakazuje tradycja i tylko raz do roku.\n\nNasza autorka"
         }
     },
     {
@@ -346,7 +394,7 @@
             "description": "Pracownicy ate\u0144skiej Galerii Narodowej odkryli w piwnicy sklepu jubilersko-artystycznego cenne zabytki. Pochodz\u0105 one nawet z ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.-umkEXj9eCm-YunCEdL1rC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Onet Podr\u00f3\u017ce on MSN13 godz.",
+            "date": "Onet Podr\u00f3\u017ce on MSN17 godz.",
             "source": "Onet Podr\u00f3\u017ce on MSN",
             "article_content": ""
         }
@@ -357,13 +405,45 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "The Lord of the Rings: Return to Moria za darmo w sklepie Epica",
-            "link": "https://polter.pl/gry/The-Lord-of-the-Rings-Return-to-Moria-za-darmo-w-sklepie-Epica-w102969",
-            "description": "U\u017cytkownicy sklepu Epic Games Store mog\u0105 teraz doda\u0107 za darmo do swoich kolekcji kolejn\u0105 produkcj\u0119 \u2013 tym razem gracze ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.NgKydznEUxuQihhVWhOFtS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Quiz. Dzi\u015b pi\u0105tek trzynastego. Sp\u00f3jrz przes\u0105dom prosto w oczy i odpowiedz na pytania",
+            "link": "https://www.o2.pl/quiz/informacje/7102811836487297/start",
+            "description": "Pi\u0105tek trzynastego od dawna uchodzi za dzie\u0144 pechowy w wielu kulturach na ca\u0142ym \u015bwiecie. Przes\u0105d ten jest szczeg\u00f3lnie silny w ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.mySfgnIKyfBfYlGFAUeSQi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "polter.pl1 godz.",
-            "source": "polter.pl",
+            "date": "o22 godz.",
+            "source": "o2",
+            "article_content": "Pi\u0105tek trzynastego od dawna uchodzi za dzie\u0144 pechowy w wielu kulturach na ca\u0142ym \u015bwiecie. Przes\u0105d ten jest szczeg\u00f3lnie silny w krajach angloj\u0119zycznych, francuskoj\u0119zycznych oraz w Polsce i ma swoje korzenie w historii, religii i tradycjach ludowych, co sprawia, \u017ce pi\u0105tek trzynastego budzi zar\u00f3wno l\u0119k, jak i fascynacj\u0119. Poni\u017cszy quiz pozwoli Ci sprawdzi\u0107 swoj\u0105 wiedz\u0119 na temat przes\u0105d\u00f3w zwi\u0105zanych z tym dniem.\n\nPoka\u017c mniej Poka\u017c wi\u0119cej\n\nPobieranie, zwielokrotnianie, przechowywanie lub jakiekolwiek inne wykorzystywanie tre\u015bci dost\u0119pnych w niniejszym serwisie - bez wzgl\u0119du na ich charakter i spos\u00f3b wyra\u017cenia (w szczeg\u00f3lno\u015bci lecz nie wy\u0142\u0105cznie: s\u0142owne, s\u0142owno-muzyczne, muzyczne, audiowizualne, audialne, tekstowe, graficzne i zawarte w nich dane i informacje, bazy danych i zawarte w nich dane) oraz form\u0119 (np. literackie, publicystyczne, naukowe, kartograficzne, programy komputerowe, plastyczne, fotograficzne) wymaga uprzedniej i jednoznacznej zgody Wirtualna Polska Media Sp\u00f3\u0142ka Akcyjna z siedzib\u0105 w Warszawie, b\u0119d\u0105cej w\u0142a\u015bcicielem niniejszego serwisu, bez wzgl\u0119du na spos\u00f3b ich eksploracji i wykorzystan\u0105 metod\u0119 (manualn\u0105 lub zautomatyzowan\u0105 technik\u0119, w tym z u\u017cyciem program\u00f3w uczenia maszynowego lub sztucznej inteligencji). Powy\u017csze zastrze\u017cenie nie dotyczy wykorzystywania jedynie w celu u\u0142atwienia ich wyszukiwania przez wyszukiwarki internetowe oraz korzystania w ramach stosunk\u00f3w umownych lub dozwolonego u\u017cytku okre\u015blonego przez w\u0142a\u015bciwe przepisy prawa.\n\nSzczeg\u00f3\u0142owa tre\u015b\u0107 dotycz\u0105ca niniejszego zastrze\u017cenia znajduje si\u0119 tutaj."
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Psy za darmo olx",
+            "link": "https://dziennikbaltycki.pl/tag/psy-za-darmo-olx",
+            "description": "Ju\u017c po raz 17. OLX zach\u0119ca swoich u\u017cytkownik\u00f3w do w\u0142\u0105czenia si\u0119 w akcj\u0119 pomagania czworonogom. W tegorocznej edycji wsparcie ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.C-ttrPOSnaVR78WxHuZEZi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "dziennikbaltycki.pl1 godz.",
+            "source": "dziennikbaltycki.pl",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Olx psy",
+            "link": "https://dziennikbaltycki.pl/tag/olx-psy",
+            "description": "Przesy\u0142ka OLX zdobywa coraz wi\u0119ksz\u0105 popularno\u015b\u0107 w\u015br\u00f3d u\u017cytkownik\u00f3w platformy. Dzi\u0119ki uproszczonemu procesowi nadawania i ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.C-ttrPOSnaVR78WxHuZEZi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "dziennikbaltycki.pl1 godz.",
+            "source": "dziennikbaltycki.pl",
             "article_content": "Content not available"
         }
     },
@@ -378,41 +458,9 @@
             "description": "Grupa historyczno-eksploracyjna Weles odkry\u0142a skarb z XVII wieku w pobli\u017cu Bydgoszczy. To kilkadziesi\u0105t monet z okresu ...",
             "image_url": "https://www.bing.pl/th?id=ODF.5FF9TIMbtckYBP2O8iw9JA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "wp2 godz.",
+            "date": "wp6 godz.",
             "source": "wp",
             "article_content": "Pobieranie, zwielokrotnianie, przechowywanie lub jakiekolwiek inne wykorzystywanie tre\u015bci dost\u0119pnych w niniejszym serwisie - bez wzgl\u0119du na ich charakter i spos\u00f3b wyra\u017cenia (w szczeg\u00f3lno\u015bci lecz nie wy\u0142\u0105cznie: s\u0142owne, s\u0142owno-muzyczne, muzyczne, audiowizualne, audialne, tekstowe, graficzne i zawarte w nich dane i informacje, bazy danych i zawarte w nich dane) oraz form\u0119 (np. literackie, publicystyczne, naukowe, kartograficzne, programy komputerowe, plastyczne, fotograficzne) wymaga uprzedniej i jednoznacznej zgody Wirtualna Polska Media Sp\u00f3\u0142ka Akcyjna z siedzib\u0105 w Warszawie, b\u0119d\u0105cej w\u0142a\u015bcicielem niniejszego serwisu, bez wzgl\u0119du na spos\u00f3b ich eksploracji i wykorzystan\u0105 metod\u0119 (manualn\u0105 lub zautomatyzowan\u0105 technik\u0119, w tym z u\u017cyciem program\u00f3w uczenia maszynowego lub sztucznej inteligencji). Powy\u017csze zastrze\u017cenie nie dotyczy wykorzystywania jedynie w celu u\u0142atwienia ich wyszukiwania przez wyszukiwarki internetowe oraz korzystania w ramach stosunk\u00f3w umownych lub dozwolonego u\u017cytku okre\u015blonego przez w\u0142a\u015bciwe przepisy prawa.Szczeg\u00f3\u0142owa tre\u015b\u0107 dotycz\u0105ca niniejszego zastrze\u017cenia znajduje si\u0119 tutaj."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Trzynastolatek zapobieg\u0142 tragedii. Dostrzeg\u0142 kompletnie pijanego kierowc\u0119, zadzwoni\u0142 na policj\u0119",
-            "link": "https://tvn24.pl/lodz/lodzkie-trzynastolatek-zapobiegl-tragedii-dostrzegl-kompletnie-pijanego-kierowce-zadzwonil-na-policje-st8220332",
-            "description": "Czujno\u015bci\u0105 wykaza\u0142 si\u0119 trzynastolatek, kt\u00f3ry w okolicach Piotrkowa Trybunalskiego, zauwa\u017cy\u0142 pijanego kierowc\u0119 lawety.",
-            "image_url": "https://www.bing.pl/th?id=OVFT.CBukgiz2Pw_cjhN5Zm9qOy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "TVN241 godz.",
-            "source": "TVN24",
-            "article_content": "czytaj dalej\n\nUbywa mieszka\u0144 komunalnych. Pokazuje to raport, z kt\u00f3rego wynika, \u017ce s\u0105 samorz\u0105dy, kt\u00f3re w ci\u0105gu ostatnich lat sprzeda\u0142y prawie dwukrotnie wi\u0119cej mieszka\u0144 ni\u017c wybudowa\u0142y. \u015aredni czas oczekiwania na takie mieszkanie to trzy lata, nie jest o nie \u0142atwo, ale patrz\u0105c na ceny i rzeczywisto\u015b\u0107, to cz\u0119sto jedyna szansa dla tych, kt\u00f3rych nie sta\u0107 na w\u0142asne cztery k\u0105ty kupione na wolnym rynku. Materia\u0142 \u0141ukasza \u0141ubiana z magazynu \"Polska i \u015bwiat\"."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Tragiczny po\u017car w \u015brodku nocy. Nie \u017cyj\u0105 ojciec i tr\u00f3jka dzieci",
-            "link": "https://tvn24.pl/lublin/idalin-tragiczny-pozar-w-srodku-nocy-nie-zyje-ojciec-i-trojka-dzieci-st8220345",
-            "description": "W miejcowo\u015bci Idalin (woj. lubelskie) w ogniu stan\u0105\u0142 dom jednorodzinny. Do akcji w \u015brodku nocy wys\u0142ano 70 stra\u017cak\u00f3w. W ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.TnqIYb5QubRie6oHG4zX9C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "TVN241 godz.",
-            "source": "TVN24",
-            "article_content": "czytaj dalej\n\nUbywa mieszka\u0144 komunalnych. Pokazuje to raport, z kt\u00f3rego wynika, \u017ce s\u0105 samorz\u0105dy, kt\u00f3re w ci\u0105gu ostatnich lat sprzeda\u0142y prawie dwukrotnie wi\u0119cej mieszka\u0144 ni\u017c wybudowa\u0142y. \u015aredni czas oczekiwania na takie mieszkanie to trzy lata, nie jest o nie \u0142atwo, ale patrz\u0105c na ceny i rzeczywisto\u015b\u0107, to cz\u0119sto jedyna szansa dla tych, kt\u00f3rych nie sta\u0107 na w\u0142asne cztery k\u0105ty kupione na wolnym rynku. Materia\u0142 \u0141ukasza \u0141ubiana z magazynu \"Polska i \u015bwiat\"."
         }
     },
     {
@@ -426,8 +474,24 @@
             "description": "Mo\u017cliwe, \u017ce w zakamarkach swojego domu trzymasz prawdziwy skarb. B\u0119dziesz zaskoczony za jakie kwoty mo\u017cna sprzeda\u0107 stare ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.tx-iTFofCAUCIAJPyjFrSi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "gk24.pl3 godz.",
+            "date": "gk24.pl7 godz.",
             "source": "gk24.pl",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Stare pieni\u0105dze z czas\u00f3w PRL",
+            "link": "https://nowosci.com.pl/banknoty-i-monety-prl-ceny-zdjecia-tyle-w-2024-roku-trzeba-zaplacic-za-stare-pieniadze-13-12-2024/ar/c3p2-27055655",
+            "description": "Stare pieni\u0105dze z czas\u00f3w PRL w 2024 roku ciesz\u0105 si\u0119 rosn\u0105cym zainteresowaniem. Niekt\u00f3re egzemplarze mog\u0105 by\u0107 dzi\u015b bardzo ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.Lt9aBaCf7NQKV5Ah0hDANw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+numizmatyka",
+            "date": "nowosci.com.pl5 godz.",
+            "source": "nowosci.com.pl",
             "article_content": "Content not available"
         }
     },
@@ -442,7 +506,7 @@
             "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet zwyk\u0142a pi\u0119cioz\u0142ot\u00f3wka mo\u017ce mie\u0107 wielokrotnie wi\u0119ksz\u0105 warto\u015b\u0107 ni\u017c nomina\u0142.",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "gk24.pl3 godz.",
+            "date": "gk24.pl8 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -458,7 +522,7 @@
             "description": "Na 12 i 13 grudnia zaplanowano w Toruniu wydarzenia z okazji 43. rocznicy wprowadzenia w Polsce stanu wojennego. To cz\u0119\u015b\u0107 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.5Eqmn0hoQsx7tlG6OoizSS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "nowosci.com.pl12 godz.",
+            "date": "nowosci.com.pl16 godz.",
             "source": "nowosci.com.pl",
             "article_content": "Content not available"
         }
@@ -474,9 +538,9 @@
             "description": "W piwnicy sklepu jubilersko-artystycznego w Atenach znaleziono zabytki pochodz\u0105ce nawet z VII wieku p.n.e. W\u0142adze twierdz\u0105, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.2JeYibldD9k7vGWL8zXuly&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "wykopano+zabytkowe",
-            "date": "TVN242 godz.",
+            "date": "TVN246 godz.",
             "source": "TVN24",
-            "article_content": "W piwnicy sklepu jubilersko-artystycznego w Atenach znaleziono zabytki pochodz\u0105ce nawet z VII wieku p.n.e. W\u0142adze twierdz\u0105, \u017ce wiele z nich zosta\u0142o pozyskanych nielegalnie.\n\nPogoda D\u0142ugoterminowa Weekend\n\nW\u015br\u00f3d odnalezionych przedmiot\u00f3w znajduj\u0105 si\u0119 wazy, monety, dzbany oraz 102 misy, figurki, amfory i inne artefakty, kt\u00f3re datowane s\u0105 od okresu geometrycznego do hellenistycznego. Okryto r\u00f3wnie\u017c 36 ikon i przedmiot\u00f3w kultu z okresu postbizantyjskiego oraz 3247 monet, medali i piecz\u0119ci, kt\u00f3re obejmuj\u0105 okres od staro\u017cytno\u015bci po czasy wsp\u00f3\u0142czesne.\n\nZabytki by\u0142y zapakowane w stare kartony, a cz\u0119\u015b\u0107 z nich by\u0142a owini\u0119ta gazetami z lat 40. XX wieku. Zdaniem greckich w\u0142adz, wiele z tych przedmiot\u00f3w pochodzi z nielegalnych transakcji. Piwnica znajdowa\u0142a si\u0119 za zamaskowanymi drzwiami.\n\nArtefakty odkryte w piwnicy sklepu w Atenach Ministerstwo Kultury Grecji\n\nTrafi\u0142y do muze\u00f3w\n\n- Opr\u00f3cz repatriacji d\u00f3br kultury nielegalnie wywiezionych z naszego kraju, zdarzaj\u0105 si\u0119 r\u00f3wnie\u017c przypadki nielegalnego nabywania d\u00f3br na naszym terytorium. Jeden taki przypadek zosta\u0142 zidentyfikowany w sercu Aten - powiedzia\u0142a ministra kultury Lina Mendoni.\n\nMinisterstwo kultury przekaza\u0142o we wtorek, \u017ce odkrycia dokonano w lutym, ale dopiero teraz publicznie o tym poinformowano.\n\nZnalezione skarby zosta\u0142y przekazane do magazyn\u00f3w muzealnych, gdzie pozostan\u0105 do czasu zako\u0144czenia \u015bledztwa.\n\nArtefakty odkryte w piwnicy sklepu w Atenach Ministerstwo Kultury Grecji\n\nAutorka/Autor:ps\n\n\u0179r\u00f3d\u0142o: PAP, greekreporter.com"
+            "article_content": "W piwnicy sklepu jubilersko-artystycznego w Atenach znaleziono zabytki pochodz\u0105ce nawet z VII wieku p.n.e. W\u0142adze twierdz\u0105, \u017ce wiele z nich zosta\u0142o pozyskanych nielegalnie.\n\nPogoda D\u0142ugoterminowa Weekend\n\nW\u015br\u00f3d odnalezionych przedmiot\u00f3w znajduj\u0105 si\u0119 wazy, monety, dzbany oraz 102 misy, figurki, amfory i inne artefakty, kt\u00f3re datowane s\u0105 od okresu geometrycznego do hellenistycznego. Odkryto r\u00f3wnie\u017c 36 ikon i przedmiot\u00f3w kultu z okresu postbizantyjskiego oraz 3247 monet, medali i piecz\u0119ci, kt\u00f3re obejmuj\u0105 okres od staro\u017cytno\u015bci po czasy wsp\u00f3\u0142czesne.\n\nZabytki by\u0142y zapakowane w stare kartony, a cz\u0119\u015b\u0107 z nich by\u0142a owini\u0119ta gazetami z lat 40. XX wieku. Zdaniem greckich w\u0142adz, wiele z tych przedmiot\u00f3w pochodzi z nielegalnych transakcji. Piwnica znajdowa\u0142a si\u0119 za zamaskowanymi drzwiami.\n\nArtefakty odkryte w piwnicy sklepu w Atenach Ministerstwo Kultury Grecji\n\nTrafi\u0142y do muze\u00f3w\n\n- Opr\u00f3cz repatriacji d\u00f3br kultury nielegalnie wywiezionych z naszego kraju, zdarzaj\u0105 si\u0119 r\u00f3wnie\u017c przypadki nielegalnego nabywania d\u00f3br na naszym terytorium. Jeden taki przypadek zosta\u0142 zidentyfikowany w sercu Aten - powiedzia\u0142a ministra kultury Lina Mendoni.\n\nMinisterstwo kultury przekaza\u0142o we wtorek, \u017ce odkrycia dokonano w lutym, ale dopiero teraz publicznie o tym poinformowano.\n\nZnalezione skarby zosta\u0142y przekazane do magazyn\u00f3w muzealnych, gdzie pozostan\u0105 do czasu zako\u0144czenia \u015bledztwa.\n\nArtefakty odkryte w piwnicy sklepu w Atenach Ministerstwo Kultury Grecji\n\nAutorka/Autor:ps\n\n\u0179r\u00f3d\u0142o: PAP, greekreporter.com"
         }
     },
     {
@@ -485,14 +549,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Sensacyjne odkrycie na Podkarpaciu. Rzymianie w lesie pod Baligrodem?",
-            "link": "https://www.o2.pl/informacje/sensacyjne-odkrycie-na-podkarpaciu-rzymianie-w-lesie-pod-baligrodem-7102769339906688a",
-            "description": "Cz\u0142onkowie Stowarzyszenia Eksploracyjno-Historycznego \"Galicja\" dokonali sensacyjnego odkrycia na terenie Nadle\u015bnictwa Baligr\u00f3d (woj. podkarpackie). Podczas przeszukiwania bieszczadzkich las\u00f3w odnale\u017a ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.GhWejP0dMFTzOkSqze5iTA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Niezwyk\u0142e odkrycie archeologiczne pod placem w Szczecinie. \"Ziemia kryje \u015blady\"",
+            "link": "https://wiadomosci.radiozet.pl/szczecin/niezwykle-odkrycie-archeologiczne-pod-placem-w-szczecinie-ziemia-kryje-slady",
+            "description": "Od kilku miesi\u0119cy trwa przebudowa placu Or\u0142a Bia\u0142ego w Szczecinie. Podczas prac odkryto ju\u017c m.in. podziemny kana\u0142 z XVIII ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.hM0AHDOcA3LGOrBxjbzoRy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "o21 godz.",
-            "source": "o2",
-            "article_content": "Cz\u0142onkowie Stowarzyszenia \"Galicja\" od lat, za zgod\u0105 urz\u0119d\u00f3w konserwatorskich i przy wsp\u00f3\u0142pracy z nadle\u015bnictwami, poszukuj\u0105 historycznych artefakt\u00f3w w bieszczadzkich lasach.\n\nJak podkre\u015blaj\u0105 cz\u0142onkowie Stowarzyszenia p\u00f3\u017ana jesie\u0144 w Bieszczadach to dobry moment na prowadzenie poszukiwa\u0144, szczeg\u00f3lnie po pierwszych przymrozkach, wtedy przyroda ods\u0142ania nieco zielon\u0105 pokryw\u0119, pozwalaj\u0105c dotrze\u0107 do historii ukrytych w le\u015bnych ost\u0119pach i przedmiot\u00f3w zalegaj\u0105cych w ziemi.\n\n- Tego odkrycia dokona\u0142 cz\u0142onek naszego stowarzyszenia Piotr Chmiel, kt\u00f3ry w tym roku odnalaz\u0142 ju\u017c \u015bredniowieczny pugina\u0142 \u2013 opowiada Artur Hejnar ze Stowarzyszenia \"Galicja\", cyt. przez Lasy Pa\u0144stwowe.\n\nDalsza cz\u0119\u015b\u0107 artyku\u0142u pod materia\u0142em wideo\n\n\"Rzymski\" grot o d\u0142ugo\u015bci 23 cm nie jest jedynym zabytkiem przekazanym w ostatnim czasie do urz\u0119du konserwatorskiego. Kilka tygodni wcze\u015bniej zosta\u0142 przekazany tak\u017ce grot w\u0142\u00f3czni, kt\u00f3rego pochodzenie zosta\u0142o ustalone na okres \u015bredniowiecza. Odkrywc\u0105 grotu \u015bredniowiecznego by\u0142 Piotr Kubit, kt\u00f3ry r\u00f3wnie\u017c ma na swoim koncie znaleziony dwa lata temu \u015bredniowieczny toporek.\n\nOstatnie odkrycia wzbogacaj\u0105 wiedz\u0119 o kolejne informacje, dotycz\u0105ce przemieszczania si\u0119 ludno\u015bci setki i tysi\u0105ce lat temu w tym trudnym i g\u00f3rzystym terenie.\n\nGrot spod Baligrodu zosta\u0142 przekazany kilka dni temu do siedziby WUOZ Delegatura w Kro\u015bnie, bardzo mo\u017cliwe, \u017ce trafi on niebawem do Muzeum Historycznego w Sanoku.\n\n- Grot w\u0142\u00f3czni odkryty przez Stowarzyszenie Eksploracyjno-Historyczne Galicja w s\u0105siedztwie Prze\u0142\u0119czy \u017bebrak najprawdopodobniej nale\u017cy \u0142\u0105czy\u0107 z okresem wp\u0142yw\u00f3w rzymskich. Po przekazaniu przez Urz\u0105d Konserwatorski grot trafi do konserwacji, a nast\u0119pnie b\u0119dziemy chcieli go zaprezentowa\u0107 na wystawie archeologicznej w naszym muzeum \u2013 potwierdza dr Piotr Kotowicz, archeolog z Muzeum Historycznego w Sanoku.\n\n- Nie jest to oczywi\u015bcie pierwsze znalezisko z tych czas\u00f3w w Bieszczadach, ale nadal nale\u017cy do nielicznych. W\u015br\u00f3d ciekawszych przedmiot\u00f3w odkrytych w ostatnich latach na tym terenie nale\u017cy wspomnie\u0107 o dw\u00f3ch grotach w\u0142\u00f3czni z Os\u0142awicy, br\u0105zowej sprz\u0105czce od pasa z Balnicy czy fantastycznym z\u0142otym solidzie Teodozjusza II z Pre\u0142uk - doda\u0142 dr Kotowicz.\n\nPoszukiwacze s\u0105 przekonani, \u017ce element rzymskiej w\u0142\u00f3czni nie jest te\u017c ostatnim znaleziskiem, bo g\u00f3rskie prze\u0142\u0119cze i lesiste doliny, umo\u017cliwiaj\u0105ce w dalekiej przesz\u0142o\u015bci przemieszczanie si\u0119 ludziom, kryj\u0105 jeszcze wiele tajemnic."
+            "date": "Radio ZET4 godz.",
+            "source": "Radio ZET",
+            "article_content": "Podczas prac budowlanych na placu Or\u0142a Bia\u0142ego w Szczecinie natrafiono na nowe znaleziska\n\nRobotnicy odkryli m.in. drewnian\u0105 rur\u0119 wodoci\u0105gow\u0105\n\nOdkryte elementy mog\u0105 by\u0107 cz\u0119\u015bci\u0105 dawnej fontanny\n\nNowe znaleziska na placu Or\u0142a Bia\u0142ego w Szczecinie\n\nRejon placu Or\u0142a Bia\u0142ego przechodzi w ostatnich miesi\u0105cach gruntown\u0105 renowacj\u0119. To jedno z najwa\u017cniejszych miejsc znajduj\u0105cych si\u0119 w obszarze zabudowy starego miasta w Szczecinie. Ju\u017c na pocz\u0105tku prac budowlanych odkryto na jego terenie XVIII-wieczny kana\u0142. Teraz archeolodzy b\u0119d\u0105 musieli zbada\u0107 nowe znaleziska. - Ziemia kryje \u015blady dzia\u0142alno\u015bci cz\u0142owieka si\u0119gaj\u0105ce wielu lat wstecz. W miejskiej zabudowie, zw\u0142aszcza tej, kt\u00f3ra na przestrzeni lat czy wiek\u00f3w zmienia\u0142a si\u0119 kilkukrotnie, niczym nowym s\u0105 odkrycia pami\u0105tek z zamierzch\u0142ej przesz\u0142o\u015bci - t\u0142umaczy Piotr Zieli\u0144ski, rzecznik Szczecina ds. inwestycji.\n\nPodczas ostatnich prac m.in. odkopano ceglany fundament, b\u0119d\u0105cy najprawdopodobniej pozosta\u0142o\u015bci\u0105 po dawnej fontannie. Nieopodal fundamentu robotnicy trafili na podw\u00f3jn\u0105 rur\u0119 wodoci\u0105gow\u0105 wykonan\u0105 z drewna oraz fragment nowo\u017cytnej zabudowy. Okazuje si\u0119, \u017ce wszystkie te znaleziska mog\u0105 by\u0107 cz\u0119\u015bci\u0105 systemu wodno-kanalizacyjnego powi\u0105zanego funkcjonalnie z dawn\u0105 zabudow\u0105 i fontann\u0105. - Aktualnie wszystkie odkryte elementy s\u0105 przedmiotem wnikliwej analizy i bada\u0144 prowadzonych przez nadz\u00f3r archeologiczny, kt\u00f3ry koordynowany jest przez archeologa architektury Przemys\u0142awa Ko\u0142osowskiego. Wszystkie znaleziska w ramach nadzoru archeologicznego musz\u0105 zosta\u0107 teraz szczeg\u00f3\u0142owo opisane i zinwentaryzowane. Wykonana b\u0119dzie dokumentacja geodezyjna, skanowanie czy przeprowadzona zostanie analiza por\u00f3wnawcza z zachowan\u0105 dokumentacj\u0105 archiwaln\u0105 - dodaje Piotr Zieli\u0144ski. Na ten moment wstrzymano wszelkie prace budowlane w obszarze znalezisk.\n\nCo wiadomo o budowie na placu Or\u0142a Bia\u0142ego?\n\nInwestycja pod nazw\u0105 \"Nowe \u017bycie Placu\" ma na celu przebudow\u0119 nawierzchni placu Or\u0142a Bia\u0142ego, fragment\u00f3w ulic Ko\u0144ski Kierat, Starom\u0142y\u0144skiej oraz chodnika i zjazd\u00f3w ul. Grodzkiej. Wykonane zostan\u0105 prace sieciowe zwi\u0105zane z budow\u0105 kanalizacji deszczowej, sieci wodoci\u0105gowej, gazoci\u0105gu, linii zasilaj\u0105cych i instalacji o\u015bwietlenia terenu. Nowy obszar placu Or\u0142a Bia\u0142ego ma by\u0107 przede wszystkim nowym miejscem spotka\u0144 szczecinian. - Plac b\u0119dzie o\u015bwietlony przez 25 stylizowanych latarni w cz\u0119\u015bci utwardzonej oraz 6 latarni drewnianych w cz\u0119\u015bci zielonej. W miejscu dawnego m\u0142yna kieratowego urz\u0105dzona zostanie ma\u0142a scena s\u0142u\u017c\u0105ca do organizacji kameralnych wydarze\u0144 artystycznych. Na placu pojawi\u0105 si\u0119 te\u017c ogr\u00f3dki kawiarniane - bez podest\u00f3w i trwa\u0142ych wygrodze\u0144 - t\u0142umaczy Piotr Zieli\u0144ski.\n\nOdpowiednio zagospodarowane zostan\u0105 r\u00f3wnie\u017c elementy historyczne. Na plac powr\u00f3c\u0105 pos\u0105g Flory oraz dwie wazy, kt\u00f3re dawniej zdobi\u0142y fasad\u0119 Pa\u0142acu Grumbkowa, aktualnie znajduj\u0105ce si\u0119 na dziedzi\u0144cu Akademii Sztuki w Szczecinie. - Zabytkowa fontanna pozostanie w obecnym miejscu, a na posadzce oznaczony zostanie przebieg wodoci\u0105gu drewnianego, kt\u00f3ry w XVIII wieku dostarcza\u0142 wod\u0119 ze Wzg\u00f3rz Warszewickich do Zamku - dodaje rzecznik miasta ds. inwestycji. Wykonawc\u0105 inwestycji jest Firma Budowlano-Drogowa MTM S.A, a koszt zadania to 16 426 480,48 z\u0142 brutto.\n\nDo\u0142\u0105cz do grupy \"Szczecin, Pomorze Zachodnie. Informacje i wydarzenia\"\n\n\u0179r\u00f3d\u0142o: Radio ZET/ UM Szczecin\n\n(8)\n\nzobacz galeri\u0119"
         }
     },
     {
@@ -506,7 +570,7 @@
             "description": "Jak dodaje, nie jest to pierwsze znalezisko z tych czas\u00f3w w Bieszczadach, ale nadal nale\u017cy do rzadko\u015bci. Do ciekawszych przedmiot\u00f3w odkrytych w ostatnich latach na tym terenie mo\u017cna zaliczy\u0107 dwa groty ...",
             "image_url": "https://www.bing.pl/th?id=ODF.f1I8bJbwcln8vUrU0W00ww&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Nowiny on MSN15 godz.",
+            "date": "Nowiny on MSN19 godz.",
             "source": "Nowiny on MSN",
             "article_content": ""
         }
