@@ -10,7 +10,7 @@
             "description": "W Polsce w PRL dzia\u0142a\u0142o kilka znakomitych zak\u0142ad\u00f3w porcelany, w tym Bogucice, \u0106miel\u00f3w i Chodzie\u017c, kt\u00f3re zas\u0142yn\u0119\u0142y z produkcji ...",
             "image_url": "https://www.bing.pl/th?id=OVF.UseHk5vmpMKREM%2f5mpt9Aw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Pomorska3 godz.",
+            "date": "Pomorska7 godz.",
             "source": "Pomorska",
             "article_content": "Content not available"
         }
@@ -26,7 +26,7 @@
             "description": "Mo\u017cliwe, \u017ce w zakamarkach swojego domu trzymasz prawdziwy skarb. B\u0119dziesz zaskoczony za jakie kwoty mo\u017cna sprzeda\u0107 stare banknoty i monety z czas\u00f3w PRL-u. Kolekcjonerzy s\u0105 w stanie zap\u0142aci\u0107 za te ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "gk24.pl7 godz.",
+            "date": "gk24.pl10 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -42,8 +42,24 @@
             "description": "Wycena monet z PRL-u zale\u017cy od rzadko\u015bci wyst\u0119powania, jako\u015bci wybicia oraz gradingu, czyli stanu jej zachowania. W Polsce znajdziemy wiele okaz\u00f3w wartych kilkaset z\u0142otych, ale s\u0105 te\u017c takie, na ...",
             "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "G\u0142os Szczeci\u0144ski on MSN2 godz.",
+            "date": "G\u0142os Szczeci\u0144ski on MSN6 godz.",
             "source": "G\u0142os Szczeci\u0144ski on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Rzadkie monety z PRL poszukiwane przez kolekcjoner\u00f3w. Sprawd\u017a, kt\u00f3re s\u0105 najdro\u017csze i ile mo\u017cna za nie zarobi\u0107! 14.12.2024",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/rzadkie-monety-z-prl-poszukiwane-przez-kolekcjoner%C3%B3w-sprawd%C5%BA-kt%C3%B3re-s%C4%85-najdro%C5%BCsze-i-ile-mo%C5%BCna-za-nie-zarobi%C4%87-14-12-2024/ar-AA1vQsGh?ocid=BingNewsVerp",
+            "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ich pojawienia si\u0119 na rynku. Najcz\u0119\u015bciej poszukiwane monety przez kolekcjone ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.U7tHWt6afQwcI4sCY6tjaA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stare+monety",
+            "date": "Hostowane na MSN8 godz.",
+            "source": "MSN",
             "article_content": ""
         }
     },
@@ -58,7 +74,7 @@
             "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet zwyk\u0142a pi\u0119cioz\u0142ot\u00f3wka mo\u017ce mie\u0107 wielokrotnie wi\u0119ksz\u0105 warto\u015b\u0107 ni\u017c nomina\u0142.",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski on MSN6 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN10 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
@@ -69,29 +85,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Rzadkie monety z PRL poszukiwane przez kolekcjoner\u00f3w. Sprawd\u017a, kt\u00f3re s\u0105 najdro\u017csze i ile mo\u017cna za nie zarobi\u0107! 14.12.2024",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/rzadkie-monety-z-prl-poszukiwane-przez-kolekcjoner%C3%B3w-sprawd%C5%BA-kt%C3%B3re-s%C4%85-najdro%C5%BCsze-i-ile-mo%C5%BCna-za-nie-zarobi%C4%87-14122024/ar-AA1vQlv0?ocid=BingNewsVerp",
-            "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.u1QUwpbRube0uIMOAxMx7Q&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Masz te banknoty? To prawdziwe skarby! Za jeden mo\u017cesz otrzyma\u0107 kilka tysi\u0119cy z\u0142otych! [ZDJ\u0118CIA] 14.12.2024",
+            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/masz-te-banknoty-to-prawdziwe-skarby-za-jeden-mo%C5%BCesz-otrzyma%C4%87-kilka-tysi%C4%99cy-z%C5%82otych-zdj%C4%99cia-14122024/ar-AA1vQFXr?ocid=BingNewsVerp",
+            "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.o4EwlAsIz5rMM3h8kMS_wi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Express Ilustrowany on MSN5 godz.",
-            "source": "Express Ilustrowany on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Stara bi\u017cuteria z PRL-u: Bi\u017cuteria na OLX. Unikalne ozdoby vintage warte wi\u0119cej ni\u017c my\u015blisz - zobacz aktualne ceny bi\u017cuterii",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/stara-bi%C5%BCuteria-z-prl-u-bi%C5%BCuteria-na-olx-unikalne-ozdoby-vintage-warte-wi%C4%99cej-ni%C5%BC-my%C5%9Blisz-zobacz-aktualne-ceny-bi%C5%BCuterii-9122024/ar-AA1vhxGb?ocid=BingNewsVerp",
-            "description": "Stara bi\u017cuteria z PRL-u po latach wraca do \u0142ask, a jej ceny na serwisach aukcyjnych szybuj\u0105 w g\u00f3r\u0119. Unikalnych wzor\u00f3w ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.W5yfAoy8Q4glBiV2LWqkQA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "Gazeta Wroc\u0142awska on MSN5 godz.",
-            "source": "Gazeta Wroc\u0142awska on MSN",
+            "date": "G\u0142os Szczeci\u0144ski on MSN6 godz.",
+            "source": "G\u0142os Szczeci\u0144ski on MSN",
             "article_content": ""
         }
     },
@@ -106,7 +106,7 @@
             "description": "Obecnie zwracamy olbrzymi\u0105 uwag\u0119 na wystr\u00f3j swoich dom\u00f3w czy mieszka\u0144, a w\u0142a\u015bnie takie przedmioty, unikatowe, wyr\u00f3\u017cniaj\u0105ce ...",
             "image_url": "https://www.bing.pl/th?id=OVF.QsgW4cdF5UT4ahibloeP0Q&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "gk24.pl7 godz.",
+            "date": "gk24.pl10 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -122,7 +122,7 @@
             "description": "Stara bi\u017cuteria z PRL-u po latach wraca do \u0142ask, a jej ceny na serwisach aukcyjnych szybuj\u0105 w g\u00f3r\u0119. Unikalnych wzor\u00f3w ...",
             "image_url": "https://www.bing.pl/th?id=OVF.W5yfAoy8Q4glBiV2LWqkQA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Wroc\u0142awska on MSN5 godz.",
+            "date": "Gazeta Wroc\u0142awska on MSN9 godz.",
             "source": "Gazeta Wroc\u0142awska on MSN",
             "article_content": ""
         }
@@ -138,7 +138,7 @@
             "description": "Ta porcelana z PRL jest warta maj\u0105tek! Unikatowe zestawy, talerze, fili\u017canki z PRL. Tych przedmiot\u00f3w szukaj\u0105 kolekcjonerzy! Z pewno\u015bci\u0105 wiele os\u00f3b nie zdaje sobie sprawy, \u017ce mo\u017ce posiada\u0107 w swoim domu ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "gk24.pl7 godz.",
+            "date": "gk24.pl10 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -154,7 +154,7 @@
             "description": "Unikalne antyki poszukiwane przez kolekcjoner\u00f3w mog\u0105 zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na nich zarobi\u0107 fortun\u0119. Cz\u0119sto nie ...",
             "image_url": "https://www.bing.pl/th?id=OVF.UqqEaLRmPAUwsoB4nQ7vGQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "dziennikzachodni.pl6 godz.",
+            "date": "dziennikzachodni.pl10 godz.",
             "source": "dziennikzachodni.pl",
             "article_content": "Content not available"
         }
@@ -170,9 +170,25 @@
             "description": "Unikalne antyki poszukiwane przez kolekcjoner\u00f3w mog\u0105 zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na nich zarobi\u0107 fortun\u0119. Cz\u0119sto nie mamy \u015bwiadomo\u015bci, \u017ce przedmioty posiadane w domu warte s\u0105 du\u017co pieni\u0119dzy.",
             "image_url": "https://www.bing.pl/th?id=ODF.z8szwJPfOZTDo97HvHYzSw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Poranny6 godz.",
+            "date": "Poranny10 godz.",
             "source": "Poranny",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Gie\u0142da kolekcjonerska w Kielcach zachwyca histori\u0105 i pasj\u0105 wystawc\u00f3w. Wyj\u0105tkowe antyki, meble z po\u0142udnia Francji i sztuka sakralna",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/gie%C5%82da-kolekcjonerska-w-kielcach-zachwyca-histori%C4%85-i-pasj%C4%85-wystawc%C3%B3w-wyj%C4%85tkowe-antyki-meble-z-po%C5%82udnia-francji-i-sztuka-sakralna/ar-AA1vRilB?ocid=BingNewsVerp",
+            "description": "Ka\u017cda druga sobota miesi\u0105ca w Kielcach to \u015bwi\u0119to historii i pasji. Gie\u0142da Kolekcjonerska pod Wojew\u00f3dzkim Domem Kultury ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.ghxkzkqQsgHhA0YG5pAwBC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "Kielce Naszemiasto on MSN3 godz.",
+            "source": "Kielce Naszemiasto on MSN",
+            "article_content": ""
         }
     },
     {
@@ -186,9 +202,25 @@
             "description": "W po\u0142owie grudnia na gie\u0142dzie w Sandomierzu przed\u015bwi\u0105teczny ruch. Na placu targowym festiwal r\u00f3\u017cnorodno\u015bci, gdzie mo\u017cna znale\u017a\u0107 nie tylko owoce, warzywa, \u017cywno\u015b\u0107, odzie\u017c, choinki, bo\u017conarodzeniowe ...",
             "image_url": "https://www.bing.pl/th?id=ODF.xmtGTJHQSE_v4D-CWxbvsQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "echodnia3 godz.",
+            "date": "echodnia6 godz.",
             "source": "echodnia",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Wojskowi wsadzili pociski z my\u015bliwc\u00f3w do sowieckiej Osy. Efekty przeros\u0142y oczekiwania",
+            "link": "https://www.chip.pl/2024/12/ukraina-wojna-wojsko-modernizacja-os-r-73",
+            "description": "Wykorzystywanie starych system\u00f3w uzbrojenia na wojnie nie jest niczym nowym, ale niekt\u00f3re przyk\u0142ady recyklingu w wojskowym ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.VkZsJpRX7kYwMzt9LjzU8y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "chip.pl4 godz.",
+            "source": "chip.pl",
+            "article_content": "Pociski R-73 na platformie SA-8 Gecko, czyli jak Ukraina przekszta\u0142ca sowieckie relikty w nowoczesne systemy obrony\n\nUkraina zaprezentowa\u0142a w\u0142a\u015bnie bardzo ciekawe ulepszenie swoich zdolno\u015bci obrony powietrznej w postaci zmodernizowanej wersji systemu 9K33 Osa (SA-8 Gecko) z czas\u00f3w sowieckich. W ramach tej krajowej inicjatywy system zosta\u0142 wyposa\u017cony w pocisk powietrze-powietrze R-73 (AA-11 Archer) z naprowadzaniem na podczerwie\u0144, co samo w sobie stanowi bardzo kreatywne rozwi\u0105zanie, maj\u0105ce na celu wzmocnienie obrony przed zagro\u017ceniami z powietrza. Okre\u015blany mianem FrankenSAM, ten projekt \u0142\u0105czy technologi\u0119 z czas\u00f3w zimnej wojny z wymogami wsp\u00f3\u0142czesnego pola walki.\n\nCzytaj te\u017c: Skontrowali jedno z najwi\u0119kszych osi\u0105gnie\u0107 ludzko\u015bci. Nawet wojsko to odczuje\n\nSystem Osa, zaprojektowany pierwotnie do obrony powietrznej kr\u00f3tkiego zasi\u0119gu (SHORAD), od lat stanowi\u0142 kluczowy element infrastruktury militarnej Ukrainy, jako \u017ce integruje w sobie radar do pozyskiwania i \u015bledzenia cel\u00f3w, co pozwala na autonomiczne operowanie bez wsparcia zewn\u0119trznych radar\u00f3w. Standardowo jest uzbrojony w pociski 9M33M3, dzi\u0119ki kt\u00f3rym zwalcza zagro\u017cenia w zasi\u0119gu do 15 kilometr\u00f3w i na pu\u0142apie do 12000 metr\u00f3w, a cho\u0107 spisuje si\u0119 w tej roli po prostu dobrze, to intensywne starcia z rosyjskimi dronami i pociskami manewruj\u0105cymi doprowadzi\u0142y do wyczerpania zapas\u00f3w tych pocisk\u00f3w. Zmusi\u0142o to ukrai\u0144sk\u0105 armi\u0119 do poszukiwania alternatywy i znalaz\u0142y j\u0105 w\u0142a\u015bnie w pocisku R-73.\n\nCzytaj te\u017c: Chi\u0144ski ko\u0144 troja\u0144ski? Wojsko USA cieszy si\u0119 technologi\u0105, kt\u00f3ra mo\u017ce by\u0107 problemem\n\nPociski R-73 powsta\u0142y z my\u015bl\u0105 o samolotach MiG-29 i Su-27 oraz zwalczaniu cel\u00f3w powietrznych. Wygl\u0105da jednak na to, \u017ce takie 105-kg pociski powietrze-powietrze z 7,4-kg g\u0142owicami bojowymi mog\u0105 te\u017c dzia\u0142a\u0107 bez wi\u0119kszego problemu z platform naziemnych, wykorzystuj\u0105c podczas lotu do celu powietrznego silnik rakietowy na paliwo sta\u0142e. Ich zasi\u0119g operacyjny wynosi do 40 km (zale\u017cnie od wersji), maksymalna rozwijana pr\u0119dko\u015b\u0107 dobija do 2,5 Mach, a o precyzj\u0119 dba naprowadzanie na \u017ar\u00f3d\u0142o ciep\u0142a. Dzi\u0119ki temu mog\u0105 atakowa\u0107 cele z dowolnego kierunku i w r\u00f3\u017cnych warunkach pogodowych, co czyni je wysoce wszechstronn\u0105 i skuteczn\u0105 broni\u0105. Zw\u0142aszcza \u017ce R-73 to pocisk \u201cwystrzel i zapomnij\u201d, kt\u00f3rego wystarczy po prostu wystrzeli\u0107 w kierunku zagro\u017cenia, na kt\u00f3re skieruje si\u0119 automatycznie.\n\nCzytaj te\u017c: Wojskowi otworzyli szampana. Korea Po\u0142udniowa ma nowego pogromc\u0119 lotniczych zagro\u017ce\u0144\n\nZdj\u0119cia udost\u0119pnione przez ukrai\u0144sk\u0105 fundacj\u0119 Come Back Alive ukazuj\u0105 zmodyfikowany system Osa (koszt tej procedury ma wynosi\u0107 oko\u0142o 310000 euro) z pojedynczym pociskiem R-73 zamontowanym na wie\u017cyczce. Istnieje szansa na rozszerzenie tej niestandardowej konfiguracji o \u0142\u0105cznie dwa pociski, kt\u00f3re s\u0105 czym\u015b wi\u0119cej, ni\u017c tylko tymczasowym rozwi\u0105zaniem. W praktyce to strategiczna odpowied\u017a na ograniczenia zasob\u00f3w i wymagania operacyjne, bo R-73 s\u0105 powszechne na Ukrainie, a na dodatek ich kluczowe komponenty, takie jak g\u0142owice naprowadzaj\u0105ce na podczerwie\u0144, s\u0105 produkowane lokalnie. Dzi\u0119ki temu Ukraina mo\u017ce zapewni\u0107 sobie stabilne dostawy niezale\u017cne od zachodniej pomocy wojskowej."
         }
     },
     {
@@ -202,7 +234,7 @@
             "description": "Stara bi\u017cuteria z PRL-u po latach wraca do \u0142ask, a jej ceny na serwisach aukcyjnych szybuj\u0105 w g\u00f3r\u0119. Unikalnych wzor\u00f3w ...",
             "image_url": "https://www.bing.pl/th?id=OVF.W5yfAoy8Q4glBiV2LWqkQA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Gazeta Wroc\u0142awska on MSN5 godz.",
+            "date": "Gazeta Wroc\u0142awska on MSN9 godz.",
             "source": "Gazeta Wroc\u0142awska on MSN",
             "article_content": ""
         }
@@ -213,12 +245,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "\u015acie\u017cki nordic walking do 6 km od Ko\u0142obrzegu. Urokliwe trasy na weekend 14 - 15 grudnia",
-            "link": "https://kolobrzeg.naszemiasto.pl/sciezki-nordic-walking-do-6-km-od-kolobrzegu-urokliwe-trasy-na-weekend-14-15-grudnia/ar/c7p1-22319027",
-            "description": "W sobot\u0119 14 grudnia wed\u0142ug prognozy pogody ma by\u0107 2\u00b0C. Prawdopodobie\u0144stwo wyst\u0105pienia deszczu wynosi 24%. W niedziel\u0119 15 grudnia zgodnie z najnowszymi prognozami pogody ma by\u0107 5\u00b0C w najcieplejszym ...",
+            "title": "\u015acie\u017cki spacerowe do 6 km od Ko\u0142obrzegu. Sposoby na sp\u0119dzenie czasu - weekend 14 - 15 grudnia",
+            "link": "https://kolobrzeg.naszemiasto.pl/sciezki-spacerowe-do-6-km-od-kolobrzegu-sposoby-na-spedzenie-czasu-weekend-14-15-grudnia/ar/c7p1-22115647",
+            "description": "Zanim wyruszysz w tras\u0119, sprawd\u017a, jaka b\u0119dzie pogoda. W sobot\u0119 14 grudnia w Ko\u0142obrzegu ma by\u0107 2\u00b0C. Prawdopodobie\u0144stwo wyst\u0105pienia deszczu wynosi 25%. W niedziel\u0119 15 grudnia w Ko\u0142obrzegu ma by\u0107 6\u00b0C.",
             "image_url": "https://www.bing.pl/th?id=ODF.xGyVXoJ9b0zlcu2rTPA_6w&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "kolobrzeg.naszemiasto22 godz.",
+            "date": "kolobrzeg.naszemiasto2 godz.",
             "source": "kolobrzeg.naszemiasto",
             "article_content": "Content not available"
         }
@@ -229,13 +261,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Trasy na rower do 8 km od Jaworzna. Pomys\u0142y na jednodniowy wypad. Gdzie w weekend 14 - 15 grudnia?",
-            "link": "https://jaworzno.naszemiasto.pl/trasy-na-rower-do-8-km-od-jaworzna-pomysly-na-jednodniowy-wypad-gdzie-w-weekend-14-15-grudnia/ar/c7p1-21831473",
-            "description": "Zanim wyruszysz na wypraw\u0119, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 14 grudnia w Jaworznie ma by\u0107 1\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 15 grudnia w Jaworznie ma by\u0107 2\u00b0C. Prawdopodobie\u0144stwo pojawienia si\u0119 ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.xuxuzDoKTo_KUVbVG-PJkA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Wycieczki rowerowe do 34 km od Pleszewa. Podpowiedzi jednodniowych wypraw. Gdzie w weekend 14 - 15 grudnia?",
+            "link": "https://pleszew.naszemiasto.pl/wycieczki-rowerowe-do-34-km-od-pleszewa-podpowiedzi-jednodniowych-wypraw-gdzie-w-weekend-14-15-grudnia/ar/c7p1-21831917",
+            "description": "Zanim wyruszysz na wypraw\u0119, sprawd\u017a, jaka b\u0119dzie pogoda. W sobot\u0119 14 grudnia w Pleszewie ma by\u0107 1\u00b0C. Nie powinno pada\u0107. W ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.4BveEhA2He4OFQ0U-ar3-S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "jaworzno.naszemiasto22 godz.",
-            "source": "jaworzno.naszemiasto",
+            "date": "pleszew.naszemiasto1 godz.",
+            "source": "pleszew.naszemiasto",
             "article_content": "Content not available"
         }
     },
@@ -245,14 +277,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Trasy spacerowe do 6 km od Ko\u0142obrzegu. Urokliwe \u015bcie\u017cki na weekend 14 - 15 grudnia",
-            "link": "https://kolobrzeg.naszemiasto.pl/trasy-spacerowe-do-6-km-od-kolobrzegu-urokliwe-sciezki-na-weekend-14-15-grudnia/ar/c7p1-22115647",
-            "description": "Zanim wyruszysz w drog\u0119, sprawd\u017a, jaka b\u0119dzie pogoda. W sobot\u0119 14 grudnia w Ko\u0142obrzegu ma by\u0107 2\u00b0C. Prawdopodobie\u0144stwo wyst\u0105pienia deszczu wynosi 24%. W niedziel\u0119 15 grudnia w Ko\u0142obrzegu ma by\u0107 5\u00b0C.",
-            "image_url": "https://www.bing.pl/th?id=ODF.xGyVXoJ9b0zlcu2rTPA_6w&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "relikty",
-            "date": "kolobrzeg.naszemiasto22 godz.",
-            "source": "kolobrzeg.naszemiasto",
-            "article_content": "Content not available"
+            "title": "\u015al\u0105skie wydobycie cynku \u2014 Muzeum Hutnictwa Cynku \"WALCOWNIA\" w Katowicach",
+            "link": "https://rudaslaska.com.pl/p,s,informacje_turystyka,page,1,item,slaskie-wydobycie-cynku--muzeum-hutnictwa-cynku-walcownia-w-katowicach-7448.html",
+            "description": "Portal RudaSlaska.com.pl prezentuje kolejn\u0105 atrakcj\u0119 turystyczn\u0105 \u015al\u0105ska. G\u00f3rny \u015al\u0105sk to region bogaty w z\u0142o\u017ca surowc\u00f3w ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.wylv3ePKtmf6CtUXxR1Bai&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "rudaslaska6 godz.",
+            "source": "rudaslaska",
+            "article_content": "G\u00f3rny \u015al\u0105sk to region bogaty w z\u0142o\u017ca surowc\u00f3w naturalnych, kt\u00f3rych wydobycie by\u0142o g\u0142\u00f3wn\u0105 osi\u0105 prowadzonego w wojew\u00f3dztwie przemys\u0142u. Jednym z najpopularniejszych surowc\u00f3w by\u0142 cynk, wyst\u0119puj\u0105cy najcz\u0119\u015bciej w postaci galmanu. Dzi\u015b dzia\u0142alno\u015b\u0107 wydobywcza rud cynku na \u015al\u0105sku jest zako\u0144czona, a zak\u0142ady zajmuj\u0105ce si\u0119 jego przetwarzaniem stanowi\u0105 historyczne pomniki i muzea. W Katowicach od wielu lat funkcjonuje Muzeum Hutnictwa Cynku \"WALCOWNIA\".\n\nWalcownia \u2014 wa\u017cny zak\u0142ad obr\u00f3bki cynku\n\nWalcownia cynku wchodzi\u0142a w sk\u0142ad inwestycji koncernu \"Georg von Giesches Erben\". Zak\u0142ad znajduj\u0105cy si\u0119 w Szopienicach przerabia\u0142 g\u0142\u00f3wnie cynk pochodz\u0105cy z okolicznej huty. Wyposa\u017ceniem walcowni by\u0142y m.in. dwa piece topielne, piec grzewczy przeznaczony do p\u0142yt, karuzela odlewnicza, czy walcarki. Za ich pomoc\u0105 wykonywano przedmioty takie jak blachy cynkowe, szyny cynkowe, druty i ta\u015bmy. Zamkni\u0119cie walcowni nast\u0105pi\u0142o na pocz\u0105tku XX wieku. W 2002 roku huta zako\u0144czy\u0142a produkcj\u0119 cynku, likwiduj\u0105c zak\u0142ad.\n\nRok po zako\u0144czeniu funkcjonowania walcowni w 2003 roku do rejestru zabytk\u00f3w wpisane zosta\u0142y urz\u0105dzenia walcownicze, znajduj\u0105ce si\u0119 w zak\u0142adzie. W 2010 roku do tego samego rejestru wpisano ca\u0142y kompleks. Muzeum w miejscu dawnej walcowni otworzono w 2015 roku, a od 2017 roku znajduje si\u0119 na Szlaku Zabytk\u00f3w Techniki.\n\nMuzealne wystawy \"WALCOWNI\"\n\nMuzeum przedstawia bogat\u0105 histori\u0119 hutnictwa cynku na \u015al\u0105sku. Liczne wystawy opisuj\u0105 rozw\u00f3j hutniczej ga\u0142\u0119zi przemys\u0142u, znajduj\u0105c si\u0119 przy tym w najwi\u0119kszej poprzemys\u0142owej hali w ca\u0142ym regionie. Ekspozycja oparta o oryginalne, ponad stuletnie maszyny jest prawdziw\u0105 pami\u0105tk\u0105 dawnych, industrialnych czas\u00f3w. Wi\u0119kszo\u015b\u0107 urz\u0105dze\u0144 prezentowana jest jako nieczynne zabytki techniki, jednak cz\u0119\u015b\u0107 zosta\u0142a odrestaurowana i podczas weekend\u00f3w i wybranych \u015bwi\u0105t zwiedzaj\u0105cy, maj\u0105 okazj\u0119, obejrze\u0107 maszyny w ruchu.\n\nMuzeum posiada jedn\u0105 z najwi\u0119kszych w Polsce kolekcji zabytkowych silnik\u00f3w stacjonarnych, pochodz\u0105cych z wytw\u00f3rni takich jak Lister, Hornsby, czy Deutz. Zbi\u00f3r w fascynuj\u0105cy i praktyczny spos\u00f3b ukazuje proces projektowania silnik\u00f3w, a tak\u017ce ich rozw\u00f3j na przestrzeni lat.\n\nW katowickim muzeum prezentowana jest r\u00f3wnie\u017c kolekcja zabytkowych motocykli firmy Harley-Davidson. Ekspozycja b\u0119d\u0105ca specjaln\u0105 motoryzacyjn\u0105 atrakcj\u0105 przedstawia jak za spraw\u0105 technologicznych rewolucji, zmienia\u0142 si\u0119 rynek motocykli, pokazuj\u0105c wiele wyj\u0105tkowych modeli. Wystaw\u0119 obejmuje m.in. Model F z 1924 roku uznawany dzisiaj za pierwszy model Harley'a w historii, Model WLA42 z 1942 roku tworzony g\u0142\u00f3wnie w okresie II wojny \u015bwiatowej, Sportser XLCH z 1968 roku, czy produkowany przez blisko 43 lata tr\u00f3jko\u0142owy Harley Servi-car z 1946 roku. Motocykle Harley-Davidson to g\u0142\u00f3wna cz\u0119\u015b\u0107 motoryzacyjnej wystawy, jednak w jej sk\u0142ad wchodz\u0105 r\u00f3wnie\u017c polskie motocykle \u2014 takie jak przedwojenny Sok\u00f3\u0142 czy powojenny Junak, a tak\u017ce ameryka\u0144skie motocykle Indian. Wystawa Harley-Davidson jest fascynuj\u0105cym udokumentowaniem \u015bwiatowego rozwoju motocykli.\n\nOferta edukacyjna muzeum\n\nW Muzeum Hutnictwa Cynku prowadzone s\u0105 lekcje i warsztaty przeznaczone g\u0142\u00f3wnie dla uczni\u00f3w szk\u00f3\u0142 podstawowych. Bogata oferta zaj\u0119\u0107 pozwala na odpowiedni dob\u00f3r tematyki lekcji, kt\u00f3ra odpowiada\u0107 b\u0119dzie indywidualnym potrzebom uczni\u00f3w. Warsztaty takie jak \"Ma\u0142y Muzealnik\" wprowadz\u0105 uczestnik\u00f3w do \u015bwiata muzeum, przybli\u017caj\u0105c czym ono jest, a tak\u017ce czym jest zabytek. \"Cz\u0142owiek i Maszyna\" to z kolei lekcja o rozwoju nap\u0119du, oraz historii silnika. \"Przemys\u0142 w obrazie miasta\" odpowie na pytania czym jest przemys\u0142 i kiedy si\u0119 narodzi\u0142. \"Rewolucja przemys\u0142owa\" to zaj\u0119cia skupiaj\u0105ce si\u0119 na okresie historycznym, w kt\u00f3rym rozpocz\u0119\u0142a si\u0119 \u015bwiatowa industrializacja, a warsztaty \"Montownia. Zr\u00f3b sobie motocykl\" oparte s\u0105 o zwiedzanie kolekcji motocykli Harley-Davidson, po kt\u00f3rym uczestnicy maj\u0105 okazj\u0119 zbudowa\u0107 sw\u00f3j w\u0142asny model motocykla.\n\nZwiedzanie muzeum \u2014 cennik i godziny otwarcia\n\nCennik bilet\u00f3w w Muzeum Hutnictwa Cynku \"WALCOWNIA\" w Katowicach prezentuje si\u0119 nast\u0119puj\u0105co:\n\nBilet normalny \u2014 35 z\u0142/os\n\nBilet ulgowy \u2014 30 z\u0142/os\n\nBilet dla senior\u00f3w \u2014 30 z\u0142/os\n\nBilet rodzinny (2 osoby doros\u0142e + 2 dzieci) \u2014 105 z\u0142\n\nGodziny otwarcia muzeum:\n\nWtorek-pi\u0105tek \u2014 10:00-16:00\n\nWeekendy i wybrane \u015bwi\u0119ta \u2014 10:00-16:00\n\nWej\u015bcia z przewodnikiem \u2014 10:00, 11:30, 13:00, 14:30\n\nMuzeum Hutnictwa Cynku \u2014 przemys\u0142owy pomnik \u015al\u0105ska\n\nMuzeum Hutnictwa Cynku \"WALCOWNIA\" przedstawia histori\u0119 hutnictwa cynku w wojew\u00f3dztwie, oraz post\u0119p technologiczny silnik\u00f3w spalinowych oraz motocykli. Zabytki znajduj\u0105ce si\u0119 w muzeum s\u0105 interesuj\u0105cym pomnikiem dawnych czas\u00f3w, przybli\u017caj\u0105c zwiedzaj\u0105cym realia panuj\u0105ce w przemys\u0142owym regionie. Muzeum le\u017c\u0105ce na Szlaku Zabytk\u00f3w Technologicznych jest wa\u017cnym punktem na turystyczno-historycznej mapie wojew\u00f3dztwa \u015bl\u0105skiego!"
         }
     },
     {
@@ -261,61 +293,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "\"Warto wiedzie\u0107\". Tusk ostrzega Schreiber i Ostatnie Pokolenie",
-            "link": "https://dorzeczy.pl/kraj/668198/tusk-ostrzega-marianne-schreiber-i-ostatnie-pokolenie.html",
-            "description": "Idiotyczne ataki z u\u017cyciem ga\u015bnicy czy r\u00f3wnie idiotyczne oblewanie zabytk\u00f3w farb\u0105 s\u0105 i b\u0119d\u0105 traktowane z ca\u0142\u0105 surowo\u015bci\u0105 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.dj0MCLzOvxQTB2It3RE-qy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Gie\u0142da kolekcjonerska w Kielcach zachwyca histori\u0105 i pasj\u0105 wystawc\u00f3w. Wyj\u0105tkowe antyki, meble z po\u0142udnia Francji i sztuka sakralna",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/gie%C5%82da-kolekcjonerska-w-kielcach-zachwyca-histori%C4%85-i-pasj%C4%85-wystawc%C3%B3w-wyj%C4%85tkowe-antyki-meble-z-po%C5%82udnia-francji-i-sztuka-sakralna/ar-AA1vRilB?ocid=BingNewsVerp",
+            "description": "Ka\u017cda druga sobota miesi\u0105ca w Kielcach to \u015bwi\u0119to historii i pasji. Gie\u0142da Kolekcjonerska pod Wojew\u00f3dzkim Domem Kultury ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.ghxkzkqQsgHhA0YG5pAwBC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "dorzeczy22 godz.",
-            "source": "dorzeczy",
-            "article_content": "G\u0142os w sprawie czwartkowego wybryku Marianny Schreiber oraz blokad organizowanych przez Ostatnie Pokolenie szef rz\u0105du zabra\u0142 w pi\u0105tek za po\u015brednictwem medi\u00f3w spo\u0142eczno\u015bciowych.\n\nTusk ostrzega: To b\u0119dzie traktowane z ca\u0142\u0105 surowo\u015bci\u0105 prawa\n\n\"Idiotyczne ataki z u\u017cyciem ga\u015bnicy czy r\u00f3wnie idiotyczne oblewanie zabytk\u00f3w farb\u0105 s\u0105 i b\u0119d\u0105 traktowane z ca\u0142\u0105 surowo\u015bci\u0105 prawa\" \u2013 napisa\u0142 Donald Tusk na platformie X. Jak doda\u0142, blokowanie dr\u00f3g wed\u0142ug Europejskiego Trybuna\u0142u Praw Cz\u0142owieka (!) narusza prawa innych obywateli i mo\u017ce by\u0107 traktowane jako przest\u0119pstwo. \"Warto wiedzie\u0107\" \u2013 podkre\u015bli\u0142.\n\ntwitter\n\nPrzypomnijmy, \u017ce Marianna Schreiber zaatakowa\u0142 w czwartek ga\u015bnic\u0105 aktywist\u0119 Ostatniego Pokolenia. Do zdarzenia dosz\u0142o w siedzibie organizacji przy ul. Kruczej w Warszawie., Celebrytka uzasadni\u0142a sw\u00f3j czyn sprzeciwem wobec blokad dr\u00f3g organizowanych w ostatnim czasie przez aktywist\u00f3w.\n\n\"Tak si\u0119 powinno traktowa\u0107 terro***st\u00f3w z ostatniego pokolenia, kt\u00f3rzy ka\u017cdego dnia blokuj\u0105c ulice blokuj\u0105 przejazd karetek, do lekarzy, nara\u017caj\u0105 nas na \u015bmier\u0107. A potem \u015bmiej\u0105 nam si\u0119 w twarz. Dok\u0105d mamy czeka\u0107? A\u017c kto\u015b zginie?\" \u2013 napisa\u0142a w mediach spo\u0142eczno\u015bciowych.\n\nOstatnie Pokolenie zapowiada \"najwi\u0119ksz\u0105 blokad\u0119 w historii\"\n\nW sprawie tej wp\u0142yn\u0119\u0142o zawiadomienie do prokuratury. Celebrytka nie powiedzia\u0142a jednak jeszcze ostatniego s\u0142owa i zapowiedzia\u0142a swoj\u0105 obecno\u015b\u0107 na pi\u0105tkowej blokadzie aktywist\u00f3w. Do \"najwi\u0119kszej blokady w historii\" ma doj\u015b\u0107 dzi\u015b o godzinie 17.00 na sto\u0142ecznej Wis\u0142ostradzie.\n\n\u2013 Zapraszamy wszystkich pa\u0144stwa 13 grudnia o godz. 17 na Wis\u0142ostrad\u0119, poniewa\u017c op\u00f3r trwa. Premier polskiego rz\u0105du nie pozostawia nam wyboru, nie spotykaj\u0105c si\u0119 z nami, nie rozmawiaj\u0105c o tym, co dla naszego pokolenia jest najwa\u017cniejsze. My dalej b\u0119dziemy robi\u0107 swoje \u2013 powiedzia\u0142 przedstawiciel aktywist\u00f3w na spotkaniu z dziennikarzami.\n\nOstatnie Pokolenie zapowiadaj\u0105c wydarzenie, podkre\u015bla, \u017ce b\u0119dzie to \"najwi\u0119ksza blokada w historii\". \"Skoro Premier nie wychodzi do obywateli, oni wyjd\u0105 na ulice\" \u2013 pisz\u0105 przedstawiciele organizacji.\n\ntwitterCzytaj te\u017c:\n\nOto najwi\u0119ksza s\u0142abo\u015b\u0107 rz\u0105du Tuska? \"Jest wyj\u0105tkowo bezradny\"Czytaj te\u017c:\n\nAtak ga\u015bnic\u0105 na aktywist\u00f3w. Dziennikarka ostro o Schreiber: Powa\u017cne zaburzenieCzytaj te\u017c:\n\nSpi\u0119cie na antenie Polsatu. Pospieszalski: Przyklej si\u0119 z nimi do tego asfaltu"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Orkan zdewastowa\u0142 lasy, sprz\u0105tanie zajmie \"troch\u0119 czasu\"",
-            "link": "https://tvn24.pl/tvnmeteo/swiat/orkan-zdewastowal-lasy-sprzatanie-zajmie-troche-czasu-st8222122",
-            "description": "Orkan Darragh zniszczy\u0142 walijskie lasy, a w\u0142adze zaapelowa\u0142y o nie wchodzenie do nich. Wiele kilometr\u00f3w dr\u00f3g, szlak\u00f3w i ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.1nCmYQ0owbraSn8bblnRvS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "TVN241 godz.",
-            "source": "TVN24",
-            "article_content": "Orkan Darragh zniszczy\u0142 walijskie lasy, a w\u0142adze zaapelowa\u0142y o nie wchodzenie do nich. Wiele kilometr\u00f3w dr\u00f3g, szlak\u00f3w i \u015bcie\u017cek rowerowych wci\u0105\u017c jest zablokowane przez powalone drzewa i po\u0142amane konary. Sprz\u0105tanie trwa te\u017c w wielu miastach i miejscowo\u015bciach.\n\nPogoda D\u0142ugoterminowa Weekend\n\nTydzie\u0144 temu nad Wyspami Brytyjskimi przeszed\u0142 orkan Darragh. \u017bywio\u0142 ni\u00f3s\u0142 ze sob\u0105 podmuchy wiatru osi\u0105gaj\u0105cego pr\u0119dko\u015b\u0107 do 150 kilometr\u00f3w na godzin\u0119, kt\u00f3re wyrz\u0105dzi\u0142y szczeg\u00f3lnie powa\u017cne szkody wzd\u0142u\u017c po\u0142udniowo-zachodniego wybrze\u017ca. Co najmniej dwie osoby straci\u0142y \u017cycie, a dziesi\u0105tki tysi\u0119cy gospodarstw domowych pozosta\u0142o bez dost\u0119pu do pr\u0105du - w Walii niekt\u00f3rzy nie mieli go nawet przez pi\u0119\u0107 dni.\n\nOdbudowa potrwa wiele lat\n\nJak poda\u0142a stacja BBC, Walijska Dyrekcja ds. Zasob\u00f3w Naturalnych (NRW) zaapelowa\u0142a do mieszka\u0144c\u00f3w i turyst\u00f3w o unikanie le\u015bnych wycieczek do momentu zako\u0144czenia prac porz\u0105dkowych. Na zdj\u0119ciach udost\u0119pnionych w mediach spo\u0142eczno\u015bciowych wida\u0107 zdewastowane tereny le\u015bne z setkami po\u0142amanych drzew.\n\n\"Odradzamy wst\u0119pu do naszych las\u00f3w i rezerwat\u00f3w przyrody\" - napisali przedstawiciele s\u0142u\u017cb. \"Po burzy Darragh wiele kilometr\u00f3w le\u015bnych dr\u00f3g, szlak\u00f3w i tras rowerowych zosta\u0142o zablokowanych przez powalone drzewa i ga\u0142\u0119zie\" - dodali.\n\nRozwi\u0144\n\nGavin Bown z NRW wyja\u015bni\u0142, \u017ce przy tak powa\u017cnej utracie drzewostanu odnowa ekosystemu mo\u017ce potrwa\u0107 wiele lat. B\u0119dzie to mia\u0142o powa\u017cne skutki nie tylko dla \u015brodowiska, ale i kwestii ekonomicznych, w tym pozyskiwania drewna.\n\nW sobot\u0119 sprz\u0105tanie trwa\u0142o nie tylko w lasach. Usuwanie szk\u00f3d prowadzone by\u0142o w wielu walijskich i angielskich hrabstwach, w tym w Herefordshire, Worcestershire czy Staffordshire, gdzie po burzy wiele dr\u00f3g wci\u0105\u017c by\u0142o nieprzejezdnych. W\u0142adze miasta Wolverhampton przyzna\u0142y, \u017ce sprz\u0105tanie zajmie \"troch\u0119 czasu\".\n\nAutorka/Autor:as\n\n\u0179r\u00f3d\u0142o: BBC, tvnmeteo.pl"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "46 stopni wiosn\u0105, fale upa\u0142\u00f3w jedna po drugiej. Ma by\u0107 jeszcze gorzej",
-            "link": "https://tvn24.pl/tvnmeteo/swiat/rpa-46-stopni-wiosna-fale-upalow-jedna-po-drugiej-ma-byc-jeszcze-gorzej-st8222029",
-            "description": "Rok 2025 zapowiada si\u0119 jako jeden z najgor\u0119tszych w po\u0142udniowej Afryce, gdzie lada dzie\u0144 rozpocznie si\u0119 lato. W RPA ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.-BjTH2xb5py8k6FcXIQJKi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "TVN242 godz.",
-            "source": "TVN24",
-            "article_content": "Rok 2025 zapowiada si\u0119 jako jeden z najgor\u0119tszych w po\u0142udniowej Afryce, gdzie lada dzie\u0144 rozpocznie si\u0119 lato. W RPA meteorolog\u00f3w niepokoj\u0105 p\u00f3\u017anowiosenne fale gor\u0105ca, kt\u00f3re od tygodni nawiedzaj\u0105 wi\u0119kszo\u015b\u0107 kraju. ONZ ostrzeg\u0142, \u017ce upalne warunki stanowi\u0105 powa\u017cne zagro\u017cenie dla i tak s\u0142abego bezpiecze\u0144stwa \u017cywno\u015bciowego na kontynencie.\n\nPogoda D\u0142ugoterminowa Weekend\n\nW po\u0142udniowej cz\u0119\u015bci Afryki ko\u0144czy si\u0119 wiosna, kt\u00f3ra w tym roku przynios\u0142o ze sob\u0105 fal\u0119 upa\u0142\u00f3w. W pi\u0105tek najgor\u0119tszym miastem na Ziemi by\u0142a turystyczna Skukuza w Republice Po\u0142udniowej Afryki, le\u017c\u0105ca przy granicy z Mozambikiem, gdzie odnotowano 46,4 st. C. Dwa dni wcze\u015bniej 45,9 st. C. pokaza\u0142y termometry w mie\u015bcie Twee Riviere w po\u0142udniowej cz\u0119\u015bci RPA.\n\n- Te obecne upa\u0142y i trwaj\u0105cy trend globalnego ocieplenia sugeruj\u0105, \u017ce nadchodz\u0105ce lato mo\u017ce by\u0107 rzeczywi\u015bcie jednym z najgor\u0119tszych w historii - prognozowa\u0142a w pi\u0105tek Annette Botha, g\u0142\u00f3wna meteorolog z po\u0142udniowoafryka\u0144skiej stacji Vox Weather.\n\nBotha wyja\u015bni\u0142a, \u017ce chocia\u017c fale gor\u0105ca nie s\u0105 niczym nowym, ich cz\u0119stotliwo\u015b\u0107, intensywno\u015b\u0107 i czas trwania znacznie wzros\u0142y w ostatnich latach. W o\u015bmiu z dziewi\u0119ciu prowincji RPA obecn\u0105 fal\u0119 upa\u0142\u00f3w poprzedza\u0142a inna, trwaj\u0105ca dwa tygodnie, co nie jest cz\u0119stym zjawiskiem na wiosn\u0119.\n\n- Fala gor\u0105ca przypomina nam bole\u015bnie o wzajemnie powi\u0105zanych czynnikach wywo\u0142uj\u0105cych ekstremalne zjawiska pogodowe na ca\u0142ym \u015bwiecie - doda\u0142a.\n\nSusza i nieurodzaj\n\nPo\u0142udniowoafryka\u0144ska S\u0142u\u017cba Meteorologiczna (Saws) ostrzeg\u0142a, \u017ce gor\u0105cy koniec obecnego roku to dopiero zapowied\u017a tego, co czeka Afryk\u0119 w 2025 r. Najnowsze prognozy Organizacji Narod\u00f3w Zjednoczonych przewiduj\u0105, \u017ce w nadchodz\u0105cym roku upa\u0142y szczeg\u00f3lnie dotkn\u0105 mieszka\u0144c\u00f3w le\u017c\u0105cego wzd\u0142u\u017c po\u0142udniowej Sahary Sahelu - Burkina Faso, Mali i Senegalu oraz po\u0142udniowej cz\u0119\u015bci Afryki - Botswany, Namibii, RPA, Zambii i Zimbabwe, pogarszaj\u0105c ju\u017c i tak kruche bezpiecze\u0144stwo \u017cywno\u015bciowe.\n\nWi\u0119kszo\u015b\u0107 z tych kraj\u00f3w nadal odczuwa\u0107 b\u0119dzie skutki suszy, kt\u00f3ra nawiedzi\u0142a je na pocz\u0105tku 2024 r. Spowodowa\u0142a ona nieurodzaje w Zimbabwe i Zambii, pozostawiaj\u0105c 30 milion\u00f3w ludzi zale\u017cnych od pomocy \u017cywno\u015bciowej. Pozbawi\u0142a te\u017c mieszka\u0144c\u00f3w tych kraj\u00f3w pr\u0105du, poniewa\u017c poziom wody w jeziorze Kariba, gdzie znajduje si\u0119 elektrownia wodna jest tak niski, \u017ce obecnie dzia\u0142a tylko jedna z sze\u015bciu turbin.\n\nAutorka/Autor:as\n\n\u0179r\u00f3d\u0142o: PAP, Daily Maverick"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Ostatnie Pokolenie na Wis\u0142ostradzie. \"Najwi\u0119ksza blokada w historii\" trwa\u0142a chwil\u0119",
-            "link": "https://www.msn.com/pl-pl/historia-i-kultura-spo%C5%82ecze%C5%84stwa/problemy-spo%C5%82eczne/ostatnie-pokolenie-na-wis%C5%82ostradzie-najwi%C4%99ksza-blokada-w-historii-trwa%C5%82a-chwil%C4%99/ar-AA1vOMEh?ocid=BingNewsVerp",
-            "description": "\"Aktywi\u015bci klimatyczni\" z Ostatniego Pokolenia zablokowali Wis\u0142ostrad\u0119 pod Mostem Gda\u0144skim w Warszawie. Szybko zareagowa\u0142a ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.l3BVlfg69JUVG0frep8VCi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "DoRzeczy on MSN19 godz.",
-            "source": "DoRzeczy on MSN",
+            "date": "Kielce Naszemiasto on MSN3 godz.",
+            "source": "Kielce Naszemiasto on MSN",
             "article_content": ""
         }
     },
@@ -325,14 +309,46 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Ciekawe trasy do spacerowania w woj. \u0142\u00f3dzkim. Gdzie warto i\u015b\u0107 w weekend 14 - 15 grudnia? 10 najlepszych tras",
-            "link": "https://dzienniklodzki.pl/ciekawe-trasy-do-spacerowania-w-woj-lodzkim-gdzie-warto-isc-w-weekend-14-15-grudnia-10-najlepszych-tras/ar/c7p1-22116469",
-            "description": "Zanim wyruszysz, sprawd\u017a, jaka b\u0119dzie pogoda. W sobot\u0119 14 grudnia w woj. \u0142\u00f3dzkim ma by\u0107 od -1\u00b0C do 1\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 15 grudnia w woj. \u0142\u00f3dzkim ma by\u0107 od 2\u00b0C do 2\u00b0C.",
-            "image_url": "https://www.bing.pl/th?id=ODF.uJelon1vmcKYEKRidTlMcA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "\"Pogoda rozwinie szeroki wachlarz zjawisk, cz\u0119sto niebezpiecznych\"",
+            "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-rozwinie-szeroki-wachlarz-zjawisk-czesto-niebezpiecznych-nadciagaja-wichury-st8222550",
+            "description": "Nadchodz\u0105ce dni przynios\u0105 niespokojn\u0105 aur\u0119 za spraw\u0105 atlantyckich ni\u017c\u00f3w. Sprawi\u0105 one, \u017ce w wielu regionach mocno b\u0119dzie wia\u0142 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.dmr7ocLiitkcrNaxNgvH8y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "dzienniklodzki22 godz.",
-            "source": "dzienniklodzki",
-            "article_content": "Content not available"
+            "date": "TVN241 godz.",
+            "source": "TVN24",
+            "article_content": "Nadchodz\u0105ce dni przynios\u0105 niespokojn\u0105 aur\u0119 za spraw\u0105 atlantyckich ni\u017c\u00f3w. Sprawi\u0105 one, \u017ce w wielu regionach mocno b\u0119dzie wia\u0142 wiatr. W porywach mo\u017ce osi\u0105ga\u0107 nawet do 100 kilometr\u00f3w na godzin\u0119. Poza tym spodziewane s\u0105 opady \u015bniegu, deszczu ze \u015bniegiem i deszczu.\n\nPogoda D\u0142ugoterminowa Weekend\n\nPolska dosta\u0142a si\u0119 w strumie\u0144 polarnych, morskich mas powietrza, kt\u00f3re szybko przemieszczaj\u0105 si\u0119 znad p\u00f3\u0142nocnego Atlantyku na wsch\u00f3d Europy.\n\n- Cyrkulacja zachodnia pcha w stron\u0119 Europy \u015arodkowej fronty atmosferyczne, strefy opad\u00f3w \u015bniegu i deszczu zwi\u0105zane z wirami ni\u017cowymi. Ni\u017c Yara ulokuje swoje centrum w niedziel\u0119 nad p\u00f3\u0142nocno-zachodni\u0105 Rosj\u0105, a ni\u017c Ziva nad Morzem Norweskim - poinformowa\u0142a synoptyk tvnmeteo.pl Arleta Unton-Pyzio\u0142ek. Doda\u0142a, \u017ce zimne powietrze arktyczne b\u0119dzie wypierane znad Polski przez \u0142agodniejsze masy powietrza polarnego.\n\nW poniedzia\u0142ek i wtorek pogod\u0119 kszta\u0142towa\u0107 b\u0119d\u0105 pochmurne i wietrzne ni\u017ce atlantyckie. Dopiero w \u015brod\u0119 rozwinie si\u0119 na chwil\u0119 klin wy\u017cowy, a ci\u015bnienie lekko wzro\u015bnie. W czwartek jednak kolejny front z opadami deszczu wkroczy od zachodu do Polski. - Pogoda rozwinie szeroki wachlarz zjawisk, cz\u0119sto niebezpiecznych, jak opady marzn\u0105ce i silny wiatr - podkre\u015bli\u0142a synoptyk tvnmeteo.pl.\n\nPogoda na niedziel\u0119\n\nNiedziela przyniesie pochmurn\u0105 aur\u0119 z przeja\u015bnieniami i przelotnymi opadami mokrego \u015bniegu do 2-5 centymetr\u00f3w i \u015bniegu z deszczem o sumie 1-5 litr\u00f3w na metr kwadratowy. Tylko na Pomorzu Zachodnim i Ziemi Lubuskiej spodziewane s\u0105 opady deszczu, kt\u00f3re pojawi\u0105 si\u0119 po po\u0142udniu i wieczorem. Temperatura maksymalna wyniesie od 2-3 stopni Celsjusza na przewa\u017caj\u0105cym obszarze kraju, przez 4-5 st. C na zachodzie, do 6 st. C na Pomorzu Zachodnim. Wiatr zachodni, umiarkowany i do\u015b\u0107 silny, w porywach b\u0119dzie rozp\u0119dza\u0142 si\u0119 do 50-70 kilometr\u00f3w na godzin\u0119. Nad morzem mo\u017ce osi\u0105ga\u0107 pr\u0119dko\u015b\u0107 do 80 km/h.\n\nPrognoza poryw\u00f3w wiatru na kolejne dni ventusky.com\n\nPogoda na poniedzia\u0142ek i wtorek\n\nPoniedzia\u0142ek zapowiada si\u0119 pochmurnie. Okresami popada deszcz o nat\u0119\u017ceniu 5 l/mkw., na po\u0142udniowym wschodzie - do 10 l/mkw. W g\u00f3rach wyst\u0105pi\u0105 opady deszczu ze \u015bniegiem. Termometry poka\u017c\u0105 maksymalnie od 7-8 st. C na wschodzie i po\u0142udniowym wschodzie, przez 9 st. C w centrum kraju, do 10-11 st. C na zachodzie. Powieje zachodni, silny wiatr, kt\u00f3ry w porywach osi\u0105gnie pr\u0119dko\u015b\u0107 do 70-90 km/h, a na p\u00f3\u0142nocy do 100 km/h. Na wtorek prognozuje si\u0119 pochmurn\u0105 aur\u0119. Na p\u00f3\u0142nocy, wschodzie i w centrum Polski okresami popada deszcz o sumie do 1-5 l/mkw. Temperatura w najcieplejszym momencie dnia wyniesie od 6 st. C na Podlasiu i Lubelszczy\u017anie, przez 8 st. C w centrum kraju, do 9 st. C na po\u0142udniowym zachodzie. Wiatr zachodni, umiarkowany i do\u015b\u0107 silny, w porywach rozp\u0119dzi si\u0119 do 60-80 km/h.\n\nPrognoza temperatury na kolejne dni ventusky.com\n\nPogoda na \u015brod\u0119 i czwartek\n\nW \u015brod\u0119 b\u0119dzie pochmurno, na p\u00f3\u0142nocy i w centrum kraju pojawi\u0105 si\u0119 s\u0142abe opady deszczu do dw\u00f3ch l/mkw. Na termometrach zobaczymy maksymalnie od 4 st. C na Podlasiu, przez 6 st. C w centrum kraju, do 8 st. C na po\u0142udniowym zachodzie. Wiatr powieje z kierunk\u00f3w zachodnich, b\u0119dzie umiarkowany.\n\nCzwartek up\u0142ynie pod znakiem pochmurnej aury. Na p\u00f3\u0142nocy i w centrum spodziewane s\u0105 s\u0142abe opady deszczu o nat\u0119\u017ceniu do dw\u00f3ch l/mkw. Termometry wska\u017c\u0105 maksymalnie od 4 st. C na Podlasiu, przez 6 st. C w centrum kraju, do 8 st. C na po\u0142udniowym zachodzie. Umiarkowany wiatr b\u0119dzie wia\u0142 z kierunk\u00f3w zachodnich.\n\nPrognoza opad\u00f3w na kolejne dni ventusky.com\n\nAutorka/Autor:anw/dd\n\n\u0179r\u00f3d\u0142o: tvnmeteo.pl"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Nadci\u0105gaj\u0105 wichury. Na horyzoncie alarmy drugiego stopnia",
+            "link": "https://tvn24.pl/tvnmeteo/prognoza/nadciagaja-wichury-ostrzezenia-imgw-powieje-silny-wiatr-w-kolejnych-dniach-bedzie-groznie-st8221957",
+            "description": "IMGW ostrzega przed silnymi porywami wiatru. Z prognozy zagro\u017ce\u0144 wynika, \u017ce mocno wia\u0107 ma r\u00f3wnie\u017c w kolejnych dniach. W ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.cQ7Y-Mro42gw10o7fXtQOy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "TVN2426 min",
+            "source": "TVN24",
+            "article_content": "IMGW ostrzega przed silnymi porywami wiatru. Z prognozy zagro\u017ce\u0144 wynika, \u017ce mocno wia\u0107 ma r\u00f3wnie\u017c w kolejnych dniach. W poniedzia\u0142ek alarmy, miejscami nawet drugiego stopnia, mog\u0105 obj\u0105\u0107 ca\u0142y kraj. Sprawd\u017a, gdzie aura b\u0119dzie gro\u017ana.\n\nPogoda D\u0142ugoterminowa Weekend\n\nInstytut Meteorologii i Gospodarki Wodnej wyda\u0142 ostrze\u017cenia meteorologiczne przed silnym wiatrem, a z prognozy zagro\u017ce\u0144 wynika, \u017ce w kolejnych dniach b\u0119dzie ich przybywa\u0107.\n\nOstrze\u017cenia IMGW - silny wiatr\n\nPierwsze \u017c\u00f3\u0142te ostrze\u017cenia przed silnym wiatrem obowi\u0105zuj\u0105 ju\u017c w sobot\u0119. Zosta\u0142y wydane w wojew\u00f3dztwach:\n\npomorskim , w powiatach: puckim, wejherowskim, l\u0119borskim, s\u0142upskim, , w powiatach: puckim, wejherowskim, l\u0119borskim, s\u0142upskim, S\u0142upsk\n\nzachodniopomorskim, w powiatach: s\u0142awie\u0144skim, koszali\u0144skim, , w powiatach: s\u0142awie\u0144skim, koszali\u0144skim, Koszalin , ko\u0142obrzeskim, gryfickim.\n\nW regionach tych prognozowane s\u0105 silne porywy wiatru o \u015bredniej pr\u0119dko\u015bci do 40-50 kilometr\u00f3w na godzin\u0119, w porywach osi\u0105gaj\u0105ce do 75-80 km/h. Niebezpiecznie b\u0119dzie od godz. 18 w sobot\u0119 do godz. 12 w niedziel\u0119.\n\nOstrze\u017cenia meteorologiczne IMGW\n\nPrognoza zagro\u017ce\u0144 IMGW na niedziel\u0119\n\nW niedziel\u0119 na p\u00f3\u0142nocy kraju spodziewany jest bardzo silny wiatr. Alarmy drugiego stopnia przed tym pogodowym zagro\u017ceniem mog\u0105 pojawi\u0107 si\u0119 w powiatach nadmorskich woj. zachodniopomorskiego i pomorskiego. Ostrze\u017cenia ni\u017cszego stopnia przed silnym wiatrem mog\u0105 obowi\u0105zywa\u0107 w wojew\u00f3dztwach: pomorskim (poza powiatami p\u00f3\u0142nocnymi), zachodniopomorskim (poza powiatami p\u00f3\u0142nocnymi), warmi\u0144sko-mazurskim, podlaskim, mazowieckim, lubelskim, \u0142\u00f3dzkim, kujawsko-pomorskim, wielkopolskim, lubuskim.\n\nIMGW planuje te\u017c wyda\u0107 ostrze\u017cenia pierwszego stopnia przed opadami marzn\u0105cymi w wojew\u00f3dztwach ma\u0142opolskim (w powiatach: nowotarskim, nowos\u0105deckim, gorlickim) i podkarpackim (w powiatach: bieszczadzkim, leskim, sanockim, kro\u015bnie\u0144skim, jasielskim).\n\nPrognoza zagro\u017ce\u0144 IMGW na niedziel\u0119 IMGW\n\nPrognoza zagro\u017ce\u0144 IMGW na poniedzia\u0142ek\n\nNiebezpiecznie silny wiatr w poniedzia\u0142ek prognozowany jest dla ca\u0142ego kraju. Ostrze\u017cenia drugiego stopnia mog\u0105 pojawi\u0107 si\u0119 w wojew\u00f3dztwach: pomorskim (powiatach nadmorskich), zachodniopomorskim (w powiatach nadmorskim), warmi\u0144sko-mazurskim (poza powiatami: i\u0142awskim, nowomiejskim, nidzickim, dzia\u0142dowskim, szczycie\u0144skim), podlaskim (w p\u00f3\u0142nocnej po\u0142owie regionu).\n\nW pozosta\u0142ych regionach planowane jest wydanie alarm\u00f3w pierwszego stopnia.\n\nPrognoza zagro\u017ce\u0144 IMGW na poniedzia\u0142ek IMGW\n\nPrognoza zagro\u017ce\u0144 IMGW na wtorek\n\nWe wtorek r\u00f3wnie\u017c mo\u017ce silnie wia\u0107. Ostrze\u017cenia pierwszego stopnia przed tym zjawiskiem mog\u0105 pojawi\u0107 si\u0119 w wojew\u00f3dztwach: pomorskim (w powiatach nadmorskich), zachodniopomorskim (w powiatach p\u00f3\u0142nocnych), podlaskim, lubelskim i mazowieckim.\n\nPrognoza zagro\u017ce\u0144 IMGW na wtorek IMGW\n\nCzym jest ostrze\u017cenie meteorologiczne drugiego stopnia\n\nOstrze\u017cenie drugiego stopnia przewiduje wyst\u0105pienie niebezpiecznych zjawisk meteorologicznych, powoduj\u0105cych du\u017ce straty materialne oraz zagro\u017cenie zdrowia i \u017cycia. Niebezpieczne zjawiska lub skutki ich wyst\u0105pienia w silnym stopniu ograniczaj\u0105 prowadzenie dzia\u0142alno\u015bci. Spodziewaj si\u0119 zak\u0142\u00f3ce\u0144 w codziennym funkcjonowaniu. Zalecana du\u017ca ostro\u017cno\u015b\u0107, potrzeba \u015bledzenia komunikat\u00f3w i rozwoju sytuacji pogodowej. Przestrzegaj wszystkich zalece\u0144 wydanych przez s\u0142u\u017cby ratownicze w sytuacji zagro\u017cenia. Dostosuj swoje plany do warunk\u00f3w pogodowych.\n\nCzym jest ostrze\u017cenie meteorologiczne pierwszego stopnia\n\nWed\u0142ug definicji IMGW ostrze\u017cenie pierwszego stopnia przewiduje warunki sprzyjaj\u0105ce wyst\u0105pieniu niebezpiecznych zjawisk meteorologicznych, kt\u00f3re mog\u0105 powodowa\u0107 straty materialne oraz zagro\u017cenie zdrowia i \u017cycia. Prowadzenie dzia\u0142alno\u015bci w warunkach nara\u017cenia na te czynniki jest utrudnione i niebezpieczne. Spodziewaj si\u0119 utrudnie\u0144 wynikaj\u0105cych z prowadzenia dzia\u0142a\u0144 w obszarze wyst\u0119powania zagro\u017cenia, w tym op\u00f3\u017anie\u0144 spowodowanych utrudnieniami w ruchu drogowym, zak\u0142\u00f3ce\u0144 w przebiegu imprez plenerowych lub mo\u017cliwo\u015bci ich odwo\u0142ania. Zalecana ostro\u017cno\u015b\u0107, potrzeba \u015bledzenia komunikat\u00f3w i rozwoju sytuacji pogodowej.\n\nCzym jest prognoza zagro\u017ce\u0144\n\nZgodnie z definicj\u0105 IMGW prognoza zagro\u017ce\u0144 to orientacyjna prognoza pogody, s\u0142u\u017c\u0105ca wczesnemu informowaniu spo\u0142ecze\u0144stwa o mo\u017cliwo\u015bci wyst\u0105pienia niebezpiecznego zjawiska meteorologicznego.\n\nZasady bezpiecze\u0144stwa w czasie wichury RCB\n\nAutorka/Autor:ps,as,anw\n\n\u0179r\u00f3d\u0142o: tvnmeteo.pl, IMGW"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Masz te banknoty? To prawdziwe skarby! Za jeden mo\u017cesz otrzyma\u0107 kilka tysi\u0119cy z\u0142otych! [ZDJ\u0118CIA] 14.12.2024",
+            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/masz-te-banknoty-to-prawdziwe-skarby-za-jeden-mo%C5%BCesz-otrzyma%C4%87-kilka-tysi%C4%99cy-z%C5%82otych-zdj%C4%99cia-14122024/ar-AA1vQFXr?ocid=BingNewsVerp",
+            "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.o4EwlAsIz5rMM3h8kMS_wi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "G\u0142os Szczeci\u0144ski on MSN6 godz.",
+            "source": "G\u0142os Szczeci\u0144ski on MSN",
+            "article_content": ""
         }
     },
     {
@@ -346,7 +362,7 @@
             "description": "Mo\u017cliwe, \u017ce w zakamarkach swojego domu trzymasz prawdziwy skarb. B\u0119dziesz zaskoczony za jakie kwoty mo\u017cna sprzeda\u0107 stare banknoty i monety z czas\u00f3w PRL-u. Kolekcjonerzy s\u0105 w stanie zap\u0142aci\u0107 za te ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "gk24.pl7 godz.",
+            "date": "gk24.pl10 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -362,7 +378,7 @@
             "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet zwyk\u0142a pi\u0119cioz\u0142ot\u00f3wka mo\u017ce mie\u0107 wielokrotnie wi\u0119ksz\u0105 warto\u015b\u0107 ni\u017c nomina\u0142.",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Koszali\u0144ski on MSN6 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN10 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
@@ -378,24 +394,8 @@
             "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
             "image_url": "https://www.bing.pl/th?id=OVF.wawMZLA%2fw%2bGx8GjMLBoS9Q&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Express Ilustrowany on MSN5 godz.",
+            "date": "Express Ilustrowany on MSN9 godz.",
             "source": "Express Ilustrowany on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Rzymianie na Podkarpaciu? Sensacyjne odkrycie w bieszczadzkim lesie",
-            "link": "https://www.msn.com/pl-pl/historia-i-kultura-spo%C5%82ecze%C5%84stwa/historia/rzymianie-na-podkarpaciu-sensacyjne-odkrycie-w-bieszczadzkim-lesie/ar-AA1vNTVL?ocid=BingNewsVerp",
-            "description": "Cz\u0142onkowie Stowarzyszenia Eksploracyjno-Historycznego \"Galicja\" ju\u017c od lat, za zgod\u0105 urz\u0119d\u00f3w konserwatorskich i przy ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.WI0pLemkgfnncX-ZX5uKHi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Hostowane na MSN23 godz.",
-            "source": "MSN",
             "article_content": ""
         }
     },
@@ -410,9 +410,25 @@
             "description": "Fundacja Na Rzecz Odzyskania Zaginionych Dzie\u0142 Sztuki \"Latebra\" regularnie przeszukuje Wysp\u0119 Sobieszewsk\u0105. Do dzi\u015b odnajdywane tam s\u0105 pami\u0105tki pod II wojnie \u015bwiatowej. Dlatego to miejsce nazywane jest ...",
             "image_url": "https://www.bing.pl/th?id=ODF.fb36SL_7Rxm5XapIe8o-YQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "wp2 godz.",
+            "date": "wp6 godz.",
             "source": "wp",
             "article_content": "Fundacja Na Rzecz Odzyskania Zaginionych Dzie\u0142 Sztuki \"Latebra\" regularnie przeszukuje Wysp\u0119 Sobieszewsk\u0105. Do dzi\u015b odnajdywane tam s\u0105 pami\u0105tki pod II wojnie \u015bwiatowej. Dlatego to miejsce nazywane jest \"mekk\u0105 poszukiwaczy\".\n\n- Nasza kole\u017canka, kt\u00f3ra jest jeszcze \u015bwie\u017cym poszukiwaczem, mia\u0142a nosa. Porusza\u0142a si\u0119 po pewnych miejscach, kt\u00f3re my dawno ju\u017c sprawdzili\u015bmy i nie zwr\u00f3cili\u015bmy uwagi na pewne sygna\u0142y, ona ich nie przeoczy\u0142a. W ziemiance znalaz\u0142a jeden z rotor\u00f3w, jeden z tych b\u0119bn\u00f3w szyfruj\u0105cych Enigm\u0119. Wszystkim szcz\u0119ki spad\u0142y - relacjonowa\u0142 w rozmowie z RMF FM Dominik Markiewicz, cz\u0142onek zarz\u0105du Fundacji \"Latebra\".\n\nFundacja zamie\u015bci\u0142a w sieci nagranie z poszukiwa\u0144.\n\nDalsza cz\u0119\u015b\u0107 artyku\u0142u pod materia\u0142em wideo\n\nSensacyjne odkrycie Latebry! Enigma odnaleziona\n\nEnigma na Wyspie Sobieszewskiej. Co si\u0119 stanie z zabytkiem?\n\nZnaleziono 8 rotor\u00f3w, lampy elektronowe, elektronik\u0119, akumulatory, cz\u0119\u015bci obudowy i drobne cz\u0119\u015bci klawiatury. - Wida\u0107, \u017ce Niemcy celowo zniszczyli urz\u0105dzenie. Nie tylko to zreszt\u0105. To by\u0142o centrum dowodzenia \u0142\u0105czno\u015bci i zosta\u0142o celowo zniszczone przez Niemc\u00f3w, aby nie dosta\u0142o si\u0119 w r\u0119ce Rosjan - wyja\u015bni\u0142 Markiewicz.\n\nO tym co si\u0119 stanie z odnalezion\u0105 Enigm\u0105, zadecyduje Wojew\u00f3dzki Konserwator Zabytk\u00f3w.\n\nHistoria Enigmy. Jej szyfr z\u0142amali Polacy\n\nEnigma to niemiecka maszyna szyfruj\u0105ca, kt\u00f3ra odegra\u0142a kluczow\u0105 rol\u0119 w komunikacji wojskowej podczas II wojny \u015bwiatowej. Zosta\u0142a opracowana w latach 20. XX wieku przez niemieck\u0105 firm\u0119 Chiffriermaschinen AG, a jej u\u017cycie w armii niemieckiej rozpocz\u0119\u0142o si\u0119 na pocz\u0105tku lat 30.\n\nEnigma wykorzystywa\u0142a skomplikowany system wirnik\u00f3w, kt\u00f3ry generowa\u0142 r\u00f3\u017cne kody dla ka\u017cdej wiadomo\u015bci, co czyni\u0142o szyfrowanie niezwykle trudnym do z\u0142amania. Niemcy wykorzystywali t\u0119 maszyn\u0119 w r\u00f3\u017cnych aspektach wojny, od komunikacji wojskowej po koordynacj\u0119 operacji morskich, co dawa\u0142o im znaczn\u0105 przewag\u0119 strategiczn\u0105.\n\nJednak\u017ce, w miar\u0119 jak wojna post\u0119powa\u0142a, alianccy kryptolodzy zacz\u0119li podejmowa\u0107 wysi\u0142ki maj\u0105ce na celu z\u0142amanie kod\u00f3w Enigmy. Kluczowym momentem w tej walce by\u0142 1939 rok, kiedy to polski wywiad, w szczeg\u00f3lno\u015bci zesp\u00f3\u0142 pod kierownictwem Mariana Rejewskiego, opracowa\u0142 techniki, kt\u00f3re pozwoli\u0142y na odczytywanie wiadomo\u015bci szyfrowanych przez Enigm\u0119.\n\nW 1940 roku, po wybuchu II wojny \u015bwiatowej, Brytyjczycy kontynuowali te prace w Bletchley Park, gdzie Alan Turing i jego zesp\u00f3\u0142 stworzyli maszyn\u0119 o nazwie Bombe, kt\u00f3ra automatyzowa\u0142a proces \u0142amania kod\u00f3w. Dzi\u0119ki tym wysi\u0142kom, alianci byli w stanie uzyska\u0107 cenne informacje wywiadowcze, co mia\u0142o istotny wp\u0142yw na przebieg wojny, w tym na zwyci\u0119stwo w bitwie o Atlantyk."
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Enigma na Wyspie Sobieszewskiej. Zaskakuj\u0105ce odkrycie",
+            "link": "https://www.rmf24.pl/regiony/trojmiasto/news-enigma-na-wyspie-sobieszewskiej-zaskakujace-odkrycie,nId,7875057",
+            "description": "Elementy maszyny szyfruj\u0105cej Enigma, kt\u00f3ra zmieni\u0142a bieg historii, znale\u017ali na Wyspie Sobieszewskiej cz\u0142onkowie Fundacji \"Latebra\". \"To jedno z wi\u0119kszych odkry\u0107. Takich artefakt\u00f3w nie zdarza si\u0119 znale ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.y9W0OfaSoc9CqJ9-9nUB_w&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "odkrycie+zabytkowe+przedmiot",
+            "date": "RMF 248 godz.",
+            "source": "RMF 24",
+            "article_content": "Elementy maszyny szyfruj\u0105cej Enigma, kt\u00f3ra zmieni\u0142a bieg historii, znale\u017ali na Wyspie Sobieszewskiej cz\u0142onkowie Fundacji \"Latebra\". \"To jedno z wi\u0119kszych odkry\u0107. Takich artefakt\u00f3w nie zdarza si\u0119 znale\u017a\u0107 na co dzie\u0144\" \u2013 m\u00f3wi w rozmowie z reporterem RMF FM Dominik Markiewicz.\n\n/ Fundacja \"Latebra\". / Materia\u0142y prasowe\n\nFundacja Na Rzecz Odzyskania Zaginionych Dzie\u0142 Sztuki \"Latebra\" od kilku lat prowadzi badania na Wyspie Sobieszewskiej. Ma pozwolenie konserwatora i w\u0142a\u015bciciela terenu, czyli Las\u00f3w Pa\u0144stwowych. Co tydzie\u0144 badacze przeszukuj\u0105 okolic\u0119 i badaj\u0105 teren.\n\nNiespodziewane odkrycie w mekce poszukiwaczy\n\nTo by\u0142o miejsce praktycznej kapitulacji wojsk niemieckich i najwi\u0119kszej ewakuacji cywil\u00f3w, kt\u00f3rzy w tym miejscu porzucali sw\u00f3j dobytek i udawali si\u0119 drog\u0105 morsk\u0105, je\u017celi zd\u0105\u017cyli, do ojczyzny. W tym miejscu st\u0142oczonych by\u0142o kilkana\u015bcie, a nawet kilkadziesi\u0105t tysi\u0119cy os\u00f3b, kt\u00f3re mieszka\u0142y w ziemiankach - t\u0142umaczy Dominik Markiewicz, cz\u0142onek zarz\u0105du Fundacji \"Latebra\".\n\nJak m\u00f3wi, do dzi\u015b na Wyspie Sobieszewskiej s\u0105 pami\u0105tki z czas\u00f3w II wojny \u015bwiatowej, dlatego to miejsce jest nazywane \"mekk\u0105 poszukiwaczy\". Lasy by\u0142y ju\u017c wiele razy przeszukiwane, dlatego nikt nie spodziewa\u0142 si\u0119 takiego odkrycia.\n\nNasza kole\u017canka, kt\u00f3ra jest jeszcze \u015bwie\u017cym poszukiwaczem, mia\u0142a nosa. Porusza\u0142a si\u0119 po pewnych miejscach, kt\u00f3re my dawno ju\u017c sprawdzili\u015bmy i nie zwr\u00f3cili\u015bmy uwagi na pewne sygna\u0142y, ona ich nie przeoczy\u0142a. W ziemiance znalaz\u0142a jeden z rotor\u00f3w, jeden z tych b\u0119bn\u00f3w szyfruj\u0105cych Enigm\u0119. Wszystkim szcz\u0119ki spad\u0142y - przyznaje Markiewicz.\n\nWideo youtube\n\nOsiem rotor\u00f3w\n\nEmocji by\u0142o du\u017co, tak jak wida\u0107 na filmiku, kt\u00f3ry jest dost\u0119pny w sieci. Ka\u017cdy pr\u00f3bowa\u0142 znale\u017a\u0107 jaki\u015b element Enigmy i tego by\u0142o mas\u0119. Wida\u0107, \u017ce Niemcy celowo zniszczyli urz\u0105dzenie. Nie tylko to zreszt\u0105. To by\u0142o centrum dowodzenia \u0142\u0105czno\u015bci i zosta\u0142o celowo zniszczone przez Niemc\u00f3w, aby nie dosta\u0142o si\u0119 w r\u0119ce Rosjan - opowiada.\n\nMaszyna zosta\u0142a kompletnie zniszczona. Poszukiwacze z \"Latebry\" znale\u017ali: 8 rotor\u00f3w, lampy elektronowe, elektronik\u0119, akumulatory, cz\u0119\u015bci obudowy i drobne cz\u0119\u015bci klawiatury.\n\nPodejrzewamy, \u017ce by\u0142a to jedna z dywizji pancernych. Znale\u017ali\u015bmy laryngofony (mikrofony wykorzystywane jako wyposa\u017cenie wojskowe - red.), co znakomicie \u015bwiadczy o tym, \u017ce by\u0142y to wojska, kt\u00f3re u\u017cywa\u0142y tego w pojazdach pancernych. By\u0142y tam te\u017c inne elementy radiostacji i telefon\u00f3w polowych. By\u0142o to miejsce \u0142\u0105czno\u015bci i dowodzenia. Zosta\u0142o to porzucone w tym miejscu, bo by\u0142o to najbli\u017cej morza, najbli\u017cej Wis\u0142y i by\u0142o to miejsce ewakuacji i poddania si\u0119 wojsk niemieckich. Ostatnie ich godziny - m\u00f3wi Markiewicz.\n\nWojew\u00f3dzki Konserwator Zabytk\u00f3w zdecyduje, co stanie si\u0119 z odnalezion\u0105 Enigm\u0105. Cz\u0142onkowie fundacji licz\u0105, \u017ce znalezisko zostanie w Gda\u0144sku.\n\nW gruncie rzeczy bawimy si\u0119. To nasza pasja, jak w\u0119dkarstwo, jak ka\u017cda inna. Raz w tygodniu gdzie\u015b jedziemy, gdzie mamy pozwolenia. Wsp\u00f3\u0142pracujemy te\u017c z muzeami. Nie do\u015b\u0107, \u017ce \u015bwietnie si\u0119 bawimy, to spe\u0142niamy historyczn\u0105 misj\u0119, zaopatruj\u0105c muzea i ucz\u0105c si\u0119 historii - opowiada z u\u015bmiechem Markiewicz.\n\nHistoria Enigmy\n\nEnigma by\u0142a jedn\u0105 z najpilniej strze\u017conych tajemnic Trzeciej Rzeszy. Dzi\u0119ki skomplikowanemu mechanizmowi, urz\u0105dzenie umo\u017cliwia\u0142o tworzenie ogromnej liczby kombinacji szyfr\u00f3w, co na pocz\u0105tku II wojny czyni\u0142o je praktycznie nie do z\u0142amania.\n\nZ\u0142amanie kod\u00f3w Enigmy, w czym kluczow\u0105 rol\u0119 odegrali polscy kryptolodzy, uwa\u017cane jest za jeden z prze\u0142omowych moment\u00f3w wojny.\n\nJak wyja\u015bnia zast\u0119pca dyrektora Narodowego Muzeum Morskiego dr Marcin Westphal Enigma powsta\u0142a pod koniec I wojny \u015bwiatowej jako maszyna do u\u017cytku cywilnego. Stosowana by\u0142a w latach dwudziestych XX wieku w Niemczech do przesy\u0142ania wiadomo\u015bci handlowych tych, kt\u00f3re mia\u0142y by\u0107 tajne.\n\nW roku 1928 urz\u0105dzeniem zainteresowa\u0142a si\u0119 niemiecka marynarka wojenna, p\u00f3\u017aniej inne rodzaje niemieckich si\u0142 zbrojnych i w\u00f3wczas wesz\u0142a w u\u017cycie wojsk Republiki Weimarskiej. By\u0142a te\u017c stosowana przez niemieckie Ministerstwo Spraw Zagranicznych do kontaktu z plac\u00f3wkami dyplomatycznymi na ca\u0142ym \u015bwiecie.\n\nMaszyna w czasie II wojny \u015bwiatowej zosta\u0142a przez wojsko udoskonalona, a Niemcy uwa\u017cali, \u017ce kod Enigmy jest nie do z\u0142amania.\n\nPierwsze, skuteczne pr\u00f3by jego odszyfrowania podj\u0119li polscy kryptolodzy i ju\u017c na pocz\u0105tku lat 30. XX wieku, przed doj\u015bciem Adolfa Hitlera do w\u0142adzy, byli w stanie odszyfrowa\u0107 proste depesze, cho\u0107 zajmowa\u0142o to jeszcze sporo czasu.Trzy s\u0142ynne nazwiska: Rejewski, R\u00f3\u017cycki, Zygalski to s\u0105 ci polscy matematycy, m\u0142odzi, genialni ludzie, kt\u00f3rzy nie stosuj\u0105c \u017cadnych skomplikowanych urz\u0105dze\u0144, byli w stanie te pierwsze proste komunikaty Enigmy odczytywa\u0107. Tu\u017c przed wybuchem II wojny \u015bwiatowej przekazali t\u0105 swoj\u0105 brytyjskim i francuskim s\u0142u\u017cbom specjalnym, kt\u00f3re potem kontynuowa\u0142y to zadanie - przypomina dr Marcin Westphal. Po upadku Francji ten ci\u0119\u017car spad\u0142 na Brytyjczyk\u00f3w. Pod Londynem funkcjonowa\u0142 s\u0142ynny o\u015brodek Bletchley Park, w kt\u00f3rym pracowa\u0142 wybitny brytyjski matematyk Alan Turing - prekursor opracowania pierwszego komputera.\n\nNie ma w\u0105tpliwo\u015bci, \u017ce to Enigma\n\nMoim zdaniem, to, co znaleziono, to szcz\u0105tki maszyny szyfruj\u0105ce Enigma i szcz\u0105tki radiostacji. W momencie, kiedy wojska musia\u0142y si\u0119 wycofa\u0107 albo i\u015b\u0107 do niewoli niszczy\u0142y ten tajny, cenny sprz\u0119t, \u017ceby nie wpad\u0142 w r\u0119ce Sowiet\u00f3w - wyja\u015bnia Marcin Westphal. Szcz\u0105tki, kt\u00f3re wydobyto, nosz\u0105 \u015blady eksplozji, czyli prawdopodobnie za\u0142o\u017cono \u0142adunki wybuchowe b\u0105d\u017a wrzucono granat i w ten spos\u00f3b zniszczono sprz\u0119t do szyfrowania i nadawania wiadomo\u015bci.\n\nWicedyrektor Narodowego Muzeum Morskiego podkre\u015bli\u0142, \u017ce oznaczenia na odnalezionych elementach \"nie budz\u0105 \u017cadnych w\u0105tpliwo\u015bci, \u017ce s\u0105 to cz\u0119\u015bci sk\u0142adowe Enigmy\".\n\nWersja maszyny, u\u017cywana przez wojska l\u0105dowe, mia\u0142a sze\u015b\u0107 wirnik\u00f3w, kt\u00f3re by\u0142y oznaczone liczbami rzymskimi od I do VI. To, co zosta\u0142o odkryte, nosi w\u0142a\u015bnie takie oznaczenia - m\u00f3wi\u0142 wicedyrektor.\n\nJak zaznaczy\u0142 sama maszyna szyfruj\u0105ca Enigma nie jest czym\u015b wyj\u0105tkowym. Takie urz\u0105dzenia s\u0105 w zbiorach r\u00f3\u017cnych polskich muze\u00f3w i instytucji i od czasu do czasu pojawiaj\u0105 si\u0119 na aukcjach.\n\nNie jest to wielki wyj\u0105tek, tym bardziej, \u017ce mamy do czynienia ze szcz\u0105tkami maszyny szyfruj\u0105ce. Bardzo interesuj\u0105cy jest natomiast kontekst, bo wiemy, gdzie urz\u0105dzenie zosta\u0142o odkryte i mo\u017cemy przypuszcza\u0107, jaka niemiecka jednostka go u\u017cywa\u0142a. Mamy \u015blady te\u017c zniszczenia maszyny. To pokazuje pewien dramatyzm sytuacji i potwierdza wydarzenia oraz relacje, kt\u00f3re znamy z r\u00f3\u017cnych \u017ar\u00f3de\u0142 historycznych - powiedzia\u0142 Westphal. Wydawa\u0142oby si\u0119, \u017ce Wyspa Sobieszewska jest naprawd\u0119 dobrze przebadana, a jednak okazuje si\u0119, \u017ce ziemia ci\u0105gle kryje jakie\u015b niespodzianki.\n\n\n\n"
         }
     }
 ]
