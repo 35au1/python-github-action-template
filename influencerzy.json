@@ -5,12 +5,28 @@
             "Content-Type": "application/json"
         },
         "body": {
+            "title": "Choinki, warzywa, starocie, wypieki. Sprawd\u017a, co mo\u017cna znale\u017a\u0107 w niedziel\u0119 na gie\u0142dzie przy Andersa",
+            "link": "https://poranny.pl/choinki-warzywa-starocie-wypieki-sprawdz-co-mozna-znalezc-w-niedziele-na-gieldzie-przy-andersa/ar/c1p2-27091683",
+            "description": "Warzywa, owoce, choinki, starocie, wypieki to tylko przyk\u0142adowe rzeczy jakie mo\u017cna znale\u017a\u0107 na bia\u0142ostockiej gie\u0142dzie przy ulicy Andersa. Niedzielna gie\u0142da przyci\u0105gn\u0119\u0142a t\u0142umy ludzi. Wszyscy ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.z8szwJPfOZTDo97HvHYzSw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "starocie",
+            "date": "Poranny2 godz.",
+            "source": "Poranny",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
             "title": "Czacz, czyli wie\u015b, kt\u00f3ra sta\u0142a si\u0119 targowiskiem. Antyki, porcelana, sprz\u0119t AGD - przed \u015bwi\u0119tami s\u0105 tu t\u0142umy",
             "link": "https://www.msn.com/pl-pl/wiadomosci/other/czacz-czyli-wie%C5%9B-kt%C3%B3ra-sta%C5%82a-si%C4%99-targowiskiem-antyki-porcelana-sprz%C4%99t-agd-przed-%C5%9Bwi%C4%99tami-s%C4%85-tu-t%C5%82umy/ar-AA1vSP5s?ocid=BingNewsVerp",
             "description": "Wie\u015b Czacz to miejsce wyj\u0105tkowe. Bibelotami, antykami, meblami i elementami wyposa\u017cenia domu i ogrodu handluje tu niemal ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.HP5ra-D4ng0pDuyAerGNGi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "G\u0142os Wielkopolski on MSN25 min",
+            "date": "G\u0142os Wielkopolski on MSN4 godz.",
             "source": "G\u0142os Wielkopolski on MSN",
             "article_content": ""
         }
@@ -26,7 +42,7 @@
             "description": "Znany malarz jednej z najstarszych i najpopularniejszych grup na \u015al\u0105sku, Marcin Pogrzeba, prowadzi niepozorny antykwariat w ...",
             "image_url": "https://www.bing.pl/th?id=OVF.Dcz7ZV6T9Vs3ufK2OkNm5w&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Dziennik Zachodni on MSN1 godz.",
+            "date": "Dziennik Zachodni on MSN5 godz.",
             "source": "Dziennik Zachodni on MSN",
             "article_content": ""
         }
@@ -42,7 +58,7 @@
             "description": "Polski design czas\u00f3w PRL to prawdziwa pere\u0142ka. Boom na wystr\u00f3j lub elementy wn\u0119trz z tamtych lat nieprzerwanie trwa. Szczeg\u00f3lnym zainteresowaniem ciesz\u0105 si\u0119 w 2024 roku kryszta\u0142owe, porcelanowe i te z ...",
             "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "Pomorska1 godz.",
+            "date": "Pomorska5 godz.",
             "source": "Pomorska",
             "article_content": "Content not available"
         }
@@ -58,7 +74,23 @@
             "description": "Mo\u017cliwe, \u017ce w zakamarkach swojego domu trzymasz prawdziwy skarb. B\u0119dziesz zaskoczony za jakie kwoty mo\u017cna sprzeda\u0107 stare banknoty i monety z czas\u00f3w PRL-u. Kolekcjonerzy s\u0105 w stanie zap\u0142aci\u0107 za te ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "gk24.pl2 godz.",
+            "date": "gk24.pl7 godz.",
+            "source": "gk24.pl",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Te monety s\u0105 warte du\u017co wi\u0119cej ni\u017c my\u015blisz. Zobacz czego szukaj\u0105 numizmatycy [15.12.2024]",
+            "link": "https://gk24.pl/te-monety-sa-warte-duzo-wiecej-niz-myslisz-zobacz-czego-szukaja-numizmatycy-15122024/ar/c1-18941089",
+            "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet zwyk\u0142a pi\u0119cioz\u0142ot\u00f3wka mo\u017ce mie\u0107 wielokrotnie wi\u0119ksz\u0105 warto\u015b\u0107 ni\u017c nomina\u0142.",
+            "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stare+monety",
+            "date": "gk24.pl7 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -74,24 +106,8 @@
             "description": "Wycena monet z PRL-u zale\u017cy od rzadko\u015bci wyst\u0119powania, jako\u015bci wybicia oraz gradingu, czyli stanu jej zachowania. W Polsce znajdziemy wiele okaz\u00f3w wartych kilkaset z\u0142otych, ale s\u0105 te\u017c takie, na ...",
             "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "gs24.pl1 godz.",
+            "date": "gs24.pl5 godz.",
             "source": "gs24.pl",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Te monety s\u0105 warte du\u017co wi\u0119cej ni\u017c my\u015blisz. Zobacz czego szukaj\u0105 numizmatycy [15.12.2024]",
-            "link": "https://gk24.pl/te-monety-sa-warte-duzo-wiecej-niz-myslisz-zobacz-czego-szukaja-numizmatycy-15122024/ar/c1-18941089",
-            "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet zwyk\u0142a pi\u0119cioz\u0142ot\u00f3wka mo\u017ce mie\u0107 wielokrotnie wi\u0119ksz\u0105 warto\u015b\u0107 ni\u017c nomina\u0142.",
-            "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stare+monety",
-            "date": "gk24.pl3 godz.",
-            "source": "gk24.pl",
             "article_content": "Content not available"
         }
     },
@@ -106,7 +122,7 @@
             "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.o4EwlAsIz5rMM3h8kMS_wi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "gs24.pl1 godz.",
+            "date": "gs24.pl5 godz.",
             "source": "gs24.pl",
             "article_content": "Content not available"
         }
@@ -117,13 +133,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Takich pieni\u0119dzy sklep nie przyjmie. Oto aktualne przepisy",
-            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/takich-pieni%C4%99dzy-sklep-nie-przyjmie-oto-aktualne-przepisy/ar-AA1vK9tV?ocid=BingNewsVerp",
-            "description": "Spis tre\u015bciKiedy wymieni\u0107 pieni\u0105dze? Pieni\u0105dze, kt\u00f3re straci\u0142y warto\u015b\u0107Jakimi banknotami nie zap\u0142acimy? Gdzie wymieni\u0107 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.mMXS7tWxayJCTn_EIrmR3C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Najlepsze MEMY o PRL. Saturator, kartki na \u017cywno\u015b\u0107 i absurdalne sytuacje. Wspomnienia o PRL i humor w formie satyry. MEMY o PRL [15.12.2024]",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/najlepsze-memy-o-prl-saturator-kartki-na-%C5%BCywno%C5%9B%C4%87-i-absurdalne-sytuacje-wspomnienia-o-prl-i-humor-w-formie-satyry-memy-o-prl-15122024/ar-AA1rmdo1?ocid=BingNewsVerp",
+            "description": "Czy najlepsze MEMY o PRL mog\u0105 ukazywa\u0107 istot\u0119 \u017cycia w Polskiej Rzeczpospolitej Ludowej? Z pewno\u015bci\u0105 nie by\u0142y to \u0142atwe czasy, ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.vPr3VRYvhkCOP2eqb1cEbS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "W\u0142oc\u0142awek Naszemiasto on MSN1 godz.",
-            "source": "W\u0142oc\u0142awek Naszemiasto on MSN",
+            "date": "Nowa Trybuna Opolska on MSN6 godz.",
+            "source": "Nowa Trybuna Opolska on MSN",
             "article_content": ""
         }
     },
@@ -138,7 +154,7 @@
             "description": "Obecnie zwracamy olbrzymi\u0105 uwag\u0119 na wystr\u00f3j swoich dom\u00f3w czy mieszka\u0144, a w\u0142a\u015bnie takie przedmioty, unikatowe, wyr\u00f3\u017cniaj\u0105ce si\u0119 barwami, motywami i wzorami, jak porcelana czy ceramika z czas\u00f3w PRL, ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "gk24.pl2 godz.",
+            "date": "gk24.pl7 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -154,7 +170,7 @@
             "description": "Ta porcelana z PRL jest warta maj\u0105tek! Unikatowe zestawy, talerze, fili\u017canki z PRL. Tych przedmiot\u00f3w szukaj\u0105 kolekcjonerzy! Z pewno\u015bci\u0105 wiele os\u00f3b nie zdaje sobie sprawy, \u017ce mo\u017ce posiada\u0107 w swoim domu ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "gk24.pl2 godz.",
+            "date": "gk24.pl7 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -169,8 +185,40 @@
             "link": "https://www.msn.com/pl-pl/historia-i-kultura-spo%C5%82ecze%C5%84stwa/pop-kultura/w-starociach-widzi-prawdziwe-z%C5%82oto-malarz-marcin-pogrzeba-ratuje-antyki-jak-to-robi-po-trupach-do-celu/ar-AA1vSOgu?ocid=BingNewsVerp",
             "description": "Znany malarz jednej z najstarszych i najpopularniejszych grup na \u015al\u0105sku, Marcin Pogrzeba, prowadzi niepozorny antykwariat w ...",
             "image_url": "https://www.bing.pl/th?id=OVF.Dcz7ZV6T9Vs3ufK2OkNm5w&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stara+porcelana",
+            "date": "Dziennik Zachodni on MSN5 godz.",
+            "source": "Dziennik Zachodni on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Choinki, ozdoby i wiele wi\u0119cej! Pchli Targ przy galerii Avenida w Poznaniu w \u015bwi\u0105tecznym wydaniu. Zobacz zdj\u0119cia!",
+            "link": "https://poznan.naszemiasto.pl/choinki-ozdoby-i-wiele-wiecej-pchli-targ-przy-galerii-avenida-w-poznaniu-w-swiatecznym-wydaniu-zobacz-zdjecia/ar/c11p2-27092077",
+            "description": "Pchli targ przy Avenidzie odbywa si\u0119 w ka\u017cd\u0105 niedziel\u0119, od godziny 7 do 14. Na niedzielnym targu ka\u017cdy znajdzie co\u015b dla ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.5Fo2gkmFGHVwaI5kPSoz8i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Dziennik Zachodni on MSN1 godz.",
+            "date": "poznan.naszemiasto24 min",
+            "source": "poznan.naszemiasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "W starociach widzi prawdziwe \"z\u0142oto\". \u015al\u0105ski malarz Marcin Pogrzeba ratuje antyki. \"Robi\u0119 to ju\u017c od dziecka\"",
+            "link": "https://www.msn.com/pl-pl/historia-i-kultura-spo%C5%82ecze%C5%84stwa/pop-kultura/w-starociach-widzi-prawdziwe-z%C5%82oto-malarz-marcin-pogrzeba-ratuje-antyki-jak-to-robi-po-trupach-do-celu/ar-AA1vSOgu?ocid=BingNewsVerp",
+            "description": "Znany malarz jednej z najstarszych i najpopularniejszych grup na \u015al\u0105sku, Marcin Pogrzeba, prowadzi niepozorny antykwariat w ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.Dcz7ZV6T9Vs3ufK2OkNm5w&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "Dziennik Zachodni on MSN5 godz.",
             "source": "Dziennik Zachodni on MSN",
             "article_content": ""
         }
@@ -182,12 +230,12 @@
         },
         "body": {
             "title": "Czacz, czyli wie\u015b, kt\u00f3ra sta\u0142a si\u0119 targowiskiem. Antyki, porcelana, sprz\u0119t AGD - przed \u015bwi\u0119tami s\u0105 tu t\u0142umy",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/czacz-czyli-wie%C5%9B-kt%C3%B3ra-sta%C5%82a-si%C4%99-targowiskiem-antyki-porcelana-sprz%C4%99t-agd-przed-%C5%9Bwi%C4%99tami-s%C4%85-tu-t%C5%82umy/ar-AA1vT16k?ocid=BingNewsVerp",
-            "description": "Wie\u015b Czacz to miejsce wyj\u0105tkowe. Bibelotami, antykami, meblami i elementami wyposa\u017cenia domu i ogrodu handluje tu niemal ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.fz3WpJCVDJ1xXR66fkJNLi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/czacz-czyli-wie%C5%9B-kt%C3%B3ra-sta%C5%82a-si%C4%99-targowiskiem-antyki-porcelana-sprz%C4%99t-agd-przed-%C5%9Bwi%C4%99tami-s%C4%85-tu-t%C5%82umy/ar-AA1vSP5s?ocid=BingNewsVerp",
+            "description": "Zainteresowanie u\u017cywanymi towarami z zachodu zdaje si\u0119 prze\u017cywa\u0107 renesans. Wci\u0105\u017c mo\u017cna trafi\u0107 tu prawdziwe pere\u0142ki, kt\u00f3re wysz\u0142y spod r\u0119ki znanych projektant\u00f3w. Mimo to dzi\u015b i tak handluje mniej os\u00f3b ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.U-Vp0xK7SYVhjnH4oToWdw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Gazeta Wroc\u0142awska on MSN25 min",
-            "source": "Gazeta Wroc\u0142awska on MSN",
+            "date": "G\u0142os Wielkopolski on MSN4 godz.",
+            "source": "G\u0142os Wielkopolski on MSN",
             "article_content": ""
         }
     },
@@ -202,7 +250,7 @@
             "description": "Ka\u017cda druga sobota miesi\u0105ca w Kielcach to \u015bwi\u0119to historii i pasji. Gie\u0142da Kolekcjonerska pod Wojew\u00f3dzkim Domem Kultury ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.ghxkzkqQsgHhA0YG5pAwBC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Kielce Naszemiasto on MSN19 godz.",
+            "date": "Kielce Naszemiasto on MSN23 godz.",
             "source": "Kielce Naszemiasto on MSN",
             "article_content": ""
         }
@@ -213,14 +261,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Na gie\u0142dzie w Sandomierzu przed\u015bwi\u0105teczny ruch. Tak wygl\u0105daj\u0105 zakupy i handel w sobot\u0119 14 grudnia",
-            "link": "https://echodnia.eu/podkarpackie/na-gieldzie-w-sandomierzu-przedswiateczny-ruch-tak-wygladaja-zakupy-i-handel-w-sobote-14-grudnia/ar/c1-18995814",
-            "description": "W po\u0142owie grudnia na gie\u0142dzie w Sandomierzu przed\u015bwi\u0105teczny ruch. Na placu targowym festiwal r\u00f3\u017cnorodno\u015bci, gdzie mo\u017cna znale\u017a\u0107 nie tylko owoce, warzywa, \u017cywno\u015b\u0107, odzie\u017c, choinki, bo\u017conarodzeniowe ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.xmtGTJHQSE_v4D-CWxbvsQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "targ+staroci",
-            "date": "echodnia22 godz.",
-            "source": "echodnia",
-            "article_content": "Content not available"
+            "title": "Pure Retro #17 - Star Wars: Dark Forces. Kyle Katarn na ratunek, czyli o grze wyj\u0105tkowej nie tylko w odleg\u0142ej galaktyce",
+            "link": "https://www.purepc.pl/pure-retro-17-star-wars-dark-forces-kyle-katarn-na-ratunek-czyli-o-grze-wyjatkowej-nie-tylko-w-odleglej-galaktyce",
+            "description": "Ostatni w 2024 odcinek cyklu Pure Retro skupia si\u0119 na grze LucasArts z 1995 roku. Oto gar\u015b\u0107 refleksji na temat znakomitego ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.huYkFxWfZ4jGQazT2pmPVA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "purepc2 godz.",
+            "source": "purepc",
+            "article_content": "Chyba ka\u017cdy ma jakie\u015b serie sk\u0142adaj\u0105ce si\u0119 na opok\u0119 jego dzieci\u0144stwa. Co\u015b, co przypomina dawne, bardziej beztroskie czasy, pozwala na chwil\u0119 poczu\u0107 si\u0119 niemal jak dziecko, kt\u00f3re w naiwny, nieska\u017cony cynizmem spos\u00f3b konsumuje popkultur\u0119. Je\u015bli chodzi o mnie, na absolutnym podium znajduj\u0105 si\u0119 Gwiezdne Wojny. Nie to, co w tej chwili produkuje Disney, a pochodz\u0105ce z innego okresu relikty poprzedniego kanonu, oficjalnie okre\u015blane jako Legendy. I jasne, nie ma co na si\u0142\u0119 ich idealizowa\u0107, bo i one mia\u0142y swoje niesp\u00f3jno\u015bci i s\u0142abe punkty, natomiast nie spos\u00f3b zapomnie\u0107 o konkretnych pere\u0142kach. Znajdziemy je bez problemu tak\u017ce i w grach wideo, a Dark Forces to jeden z wdzi\u0119czniejszych przyk\u0142ad\u00f3w.\n\nAutor: Szymon G\u00f3raj\n\nLata 80. i 90. ubieg\u0142ego wieku to by\u0142y pi\u0119kne czasy dla fan\u00f3w Gwiezdnych Wojen. Sam pami\u0119tam ledwie schy\u0142kowy okres tego z\u0142otego wieku, i to do\u015b\u0107 fragmentarycznie, ale nigdy nie zapomn\u0119 zg\u0142\u0119biania kompendi\u00f3w SW, wywalania kieszonkowego na komiksy z Bob\u0105 Fettem, czy Karmazynowe Imperium. Ale najwi\u0119kszym szokiem by\u0142y chyba jednak gry wideo z tego \u015bwiata (zapewne w du\u017cej mierze dlatego, \u017ce dopiero co zaczyna\u0142em by\u0107 graczem, st\u0105d te\u017c wra\u017cenie by\u0142o spot\u0119gowane). By\u0142em oszo\u0142omiony Super Star Wars, gdzie maszerowa\u0142em przez wydmy jako Luke Skywalker, op\u0119dzaj\u0105c si\u0119 od lokalnej zwierzyny i wbijaj\u0105c si\u0119 Jawom do ich piaskoczo\u0142gu. Jednak najbardziej pami\u0119tam, gdy bezradnie odbija\u0142em si\u0119 od korytarzy pierwszego poziomu w Dark Forces, szukaj\u0105c wyj\u015bcia z sytuacji. Nawet po tylu latach, gdy przeszed\u0142em ju\u017c tamten moment niejednokrotnie, pozosta\u0142 on w mojej g\u0142owie, staj\u0105c si\u0119 cz\u0119\u015bci\u0105 swoistego nostalgicznego kanonu. Uzna\u0142em zatem, \u017ce to temat w sam raz na przed\u015bwi\u0105teczny czas, gdy czynnik nostalgiczny dzia\u0142a nieco silniej ni\u017c zwykle. Zw\u0142aszcza, \u017ce naprawd\u0119 warto troch\u0119 sobie przypomnie\u0107 o tym klasyku, bo w 1995 roku LucasArts stworzy\u0142o co\u015b znacznie wi\u0119cej ni\u017c zaledwie przyjemn\u0105 strzelank\u0105 do powspominania raz na x lat.\n\nW ramach ostatniego odcinka felietonowego cyklu w tym roku kalendarzowym za cel obra\u0142em sobie Dark Forces - gr\u0119, kt\u00f3ra z wielu wzgl\u0119d\u00f3w nigdy nie powinna zosta\u0107 zapomniana.\n\nJak to zazwyczaj bywa\u0142o w tamtym okresie, gdy tematyka kr\u0119ci si\u0119 wok\u00f3\u0142 has\u0142a \"first person shooter\", temat w jakim\u015b stopniu musi przynajmniej na chwil\u0119 zaczepi\u0107 si\u0119 o projekty Carmacka i sp\u00f3\u0142ki. Wolfenstein 3D by\u0142 naturalnie kamieniem milowym, pradziadem gatunku - jak to cz\u0119sto lubi si\u0119 okre\u015bla\u0107. Jakkolwiek dzi\u015b poczynania niestrudzenie poluj\u0105cego na nazist\u00f3w Williama \u201eB.J.\u201d Blazkowicza, genialna w swej prostocie formu\u0142a sta\u0142a si\u0119 podstaw\u0105 praktycznie ka\u017cdego przysz\u0142ego FPS-a. Tworzony na silniku id Tech 1 Doom okaza\u0142 si\u0119 jej kluczowym rozwini\u0119ciem i rewolucj\u0105 dla niejednego aspektu rozgrywki - tyczy si\u0119 to tak\u017ce sceny moderskiej. Po zauwa\u017ceniu, \u017ce ludzie nader cz\u0119sto tworz\u0105 w\u0142asne wariacje leveli w Wolfensteinie, Carmack zadba\u0142 o to, by w Doomie by\u0142o o wiele wi\u0119cej narz\u0119dzi do modyfikacji. I nie zawi\u00f3d\u0142 si\u0119, bo do\u015b\u0107 szybko pojawi\u0142o si\u0119 ich ca\u0142e zatrz\u0119sienie. A jeden z nich umiejscowiono na pok\u0142adzie Gwiazdy \u015amierci, co wywo\u0142a\u0142o spory szum, bo dot\u0105d nikt nigdy na co\u015b takiego nie wpad\u0142. Tak si\u0119 akurat sk\u0142ada, \u017ce ju\u017c wtedy, dzi\u0119ki pewnym zapalonym fanom Wolfka, Dark Forces powstawa\u0142o.\n\nPrzez jaki\u015b czas potencjaln\u0105 opcj\u0105 mia\u0142o by\u0107 uniwersum Indiany Jonesa, ale lwia cz\u0119\u015b\u0107 \u00f3wczesnej za\u0142ogi z LucasArts by\u0142a zagorza\u0142ymi zwolennikami Gwiezdnych Wojen. Ponadto przeniesienie gry do odleg\u0142ej galaktyki dawa\u0142o do\u015b\u0107 oczywiste pole do popisu dla przedstawiciela tego gatunku. Niepor\u00f3wnywalnie wi\u0119cej scenariuszy na histori\u0119, nie wspominaj\u0105c o liczbie broni czy przeciwnik\u00f3w. To by\u0142o po prostu lepsze \u015brodowisko dla przysz\u0142ego projektu. W ten spos\u00f3b jako\u015b na pocz\u0105tku 1993 roku rozpocz\u0119to prace. Ekipa - w kt\u00f3rej prym wiedli m.in. Daron Stinnet i Justin Chin - od pocz\u0105tku mia\u0142a spore ambicje. Nie zadowala\u0142 ich na przyk\u0142ad jaki\u015b wt\u00f3rny wycinek historii z trylogii Lucasa, ani te\u017c cokolwiek wchodz\u0105cego w sk\u0142ad pr\u0119\u017cnie rozwijaj\u0105cego si\u0119 wtedy Expanded Universe. Dlatego te\u017c koniec ko\u0144c\u00f3w w Dark Forces nie wchodzili\u015bmy w sk\u00f3r\u0119 Luke'a, Hana Solo, czy jakiegokolwiek innego powszechnie rozpoznawalnego bohatera (Skywalker co prawda by\u0142 rozwa\u017cany, ale szybko temat porzucono).\n\nNa potrzeby intrygi wprowadzony Kyle'a Katarna. By\u0142 on niegdy\u015b imperialnym oficerem, pa\u0142aj\u0105cym nienawi\u015bci\u0105 do Rebelii jako \u017ce jego prze\u0142o\u017ceni wm\u00f3wili mu, \u017ce zabili mu ojca - podczas gdy w rzeczywisto\u015bci zrobili to oni sami. Ale w ko\u0144cu Kyle trafi\u0142 na Jan Orso. Podw\u00f3jna agentka wyjawi\u0142a mu prawd\u0119, co z czasem sk\u0142oni\u0142o m\u0119\u017cczyzn\u0119 do zbuntowania si\u0119 przeciwko Imperium i stania si\u0119 najemnikiem (wszystko to zosta\u0142o opisane w ksi\u0105\u017cce \"Dark Forces: Soldier for the Empire\" Williama C. Detza). Po nied\u0142ugim okresie i przyj\u0105\u0142 robot\u0119 od rebeliant\u00f3w. I to nie byle jak\u0105, bo zwi\u0105zan\u0105 z kradzie\u017c\u0105 wa\u017cnej cz\u0119\u015bci plan\u00f3w pierwszej Gwiazdy \u015amierci. To zreszt\u0105 nasza pierwsza, wprowadzaj\u0105ca misja - jedyna rozgrywaj\u0105ca si\u0119 przed bitw\u0105 o Yavin. Kolejne dziej\u0105 si\u0119 po d\u0142u\u017cszym przeskoku czasowym i tycz\u0105 si\u0119 pewnej arcygro\u017anej broni, kt\u00f3ra mo\u017ce by\u0107 prawdziwym nemezis dla Nowej Republiki...\n\nCho\u0107 po raz pierwszy natkn\u0105\u0142em si\u0119 na Dark Forces w bardzo m\u0142odym wieku, ju\u017c wtedy dostrzega\u0142em w tej grze co\u015b wi\u0119cej ni\u017c w innych tytu\u0142ach z tego nurtu, na jakie si\u0119 natyka\u0142em w p\u00f3\u017anych latach dziewi\u0119\u0107dziesi\u0105tych. Po wielu latach spotka\u0142em si\u0119 na kt\u00f3rym\u015b materiale z bardzo ciekawym okre\u015bleniem, kt\u00f3re zapami\u0119ta\u0142em do dzi\u015b. Gry typu Doom czy Wolfenstein to klasyczne na tamte czasy tytu\u0142y \"labirynth driven\", a w przeciwie\u0144stwie do nich Dark Forces jest \"narrative/story driven\" - co znacz\u0105co wyr\u00f3\u017cnia\u0142o go po\u015br\u00f3d \u00f3wczesnych FPS-\u00f3w. Tocz\u0105c boje jako Blazkowicz, Doomguy, czy jakikolwiek ich bezpo\u015bredni na\u015bladowca mamy prostolinijn\u0105 drog\u0119 do celu. Owszem, zostaje nakre\u015blony jako taki fabularny zarys (przede wszystkim cel, do kt\u00f3rego d\u0105\u017cymy), ale wszystko sprowadza si\u0119 ostatecznie do dynamicznego eksterminowania fal wrog\u00f3w z drobnymi odst\u0119pstwami w postaci opcjonalnego rzucania okiem na sekrety na konkretnych mapach. LucasArts znacz\u0105co wysz\u0142o poza ten koncept.\n\nTak odwa\u017cny, odchodz\u0105cy od normy pomys\u0142 potrzebowa\u0142 specyficznego tworzywa. A sta\u0142 si\u0119 nim autorski silnik, okre\u015blany po prostu jako Jedi Engine. To pod\u0142o\u017ce nie tylko dla prze\u0142omowego projektu rozp\u0119dzaj\u0105cego i tak pr\u0119\u017cnie rozwijaj\u0105c\u0105 si\u0119 machin\u0119 gier z uniwersum SW, ale i dla ca\u0142ego rynku. To nie by\u0142 jaki\u015b klon Dooma w gwiezdnowojennej otoczce - cho\u0107 przypuszczam, \u017ce nawet gdyby tak by\u0142o, fani bez wi\u0119kszego problemu z przyjemno\u015bci\u0105 zap\u0142aciliby za przyjemno\u015b\u0107 bezrefleksyjnego ostrzeliwania szturmowc\u00f3w, imperialnych oficer\u00f3w i reszty paczki. LucasArts zainwestowa\u0142o w level design, wskutek czego z czasem do ekipy do\u0142\u0105czyli studenci architektury. By\u0142 to arcywa\u017cny krok, poniewa\u017c w\u0142a\u015bnie dzi\u0119ki nim poziomy w Dark Forces s\u0105 znacznie bogatsze od chyba ka\u017cdego tytu\u0142u z tego gatunku tamtych czas\u00f3w (a przynajmniej nie by\u0142bym w stanie wymieni\u0107 gry, kt\u00f3ra sta\u0142aby na podobnym poziomie, nie wspominaj\u0105c o wyprzedzeniu jej). Chyba po raz pierwszy zwracano uwag\u0119 na otoczenie w kolejnych poziomach - i nie m\u00f3wimy jedynie o niezobowi\u0105zuj\u0105cym wystroju wn\u0119trz, cho\u0107 i pod tym wzgl\u0119dem tw\u00f3rcy b\u0142yszczeli. Na papierze zwiedzamy zaledwie 14 poziom\u00f3w (pierwotny zamys\u0142 to bodaj\u017ce 32), ale b\u0119dziemy mieli do obskoczenia industrialne imperialne konstrukty, uliczki Nar Shaddaa, zwanego Ksi\u0119\u017cycem Przemytnik\u00f3w, nie braknie r\u00f3wnie\u017c lodowych krain. To Dark Forces jako pierwsze pozwoli\u0142o graczom poczu\u0107 si\u0119 cz\u0119\u015bci\u0105 tej wielkiej galaktyki, zwiedza\u0107 jej zakamarki.\n\nW\u015br\u00f3d usprawnie\u0144 Jedi Engine wyliczy\u0107 mo\u017cna widok 360 stopni, mo\u017cliwo\u015b\u0107 swobodnego patrzenia w g\u00f3r\u0119 i w d\u00f3\u0142, wykonywanie skok\u00f3w, kucania, jak r\u00f3wnie\u017c zast\u0105pienie statycznych modeli poruszaj\u0105cymi si\u0119 tr\u00f3jwymiarowymi strukturami (najlepszym tego przyk\u0142adem jest statek Katarna i Orso, nasz zwyczajowy transport na misje). A to raptem fasada. Poziomy w Dark Forces by\u0142y \u015bwietnie przemy\u015blane. Nie stanowi\u0142y tylko efekciarskich zestaw\u00f3w korytarzy. Logika zaprojektowanych odcink\u00f3w - od pocz\u0105tkowych leveli po te p\u00f3\u017aniejsze - znacz\u0105co ust\u0119puje chyba ju\u017c dopiero pierwszej cz\u0119\u015bci Half-Life, kt\u00f3r\u0105 nale\u017cy wr\u0119cz okre\u015bla\u0107 jako pocz\u0105tek zupe\u0142nie nowej ery w FPS-ach. Ju\u017c pierwsza misja, do kt\u00f3rej co jaki\u015b czas wracam, prezentuje niewielki, wr\u0119cz klaustrofobiczny, ale misterny zestaw przej\u015b\u0107, prowadz\u0105cych ostatecznie do zgarni\u0119cia plan\u00f3w Imperium, daj\u0105c wyra\u017any sygna\u0142, \u017ce trudno m\u00f3wi\u0107 o sztampie. A m\u00f3wimy nawet o takich atrakcjach, jak zagadki \u015brodowiskowe. Ustawienie pod odpowiednim k\u0105tem wind, zarz\u0105dzanie przep\u0142ywem \u015bciek\u00f3w, by dosta\u0107 si\u0119 do pewnej wa\u017cnej persony (dzi\u015b si\u0119 tym zachwycam, ale ile to w swoim czasie mnie kosztowa\u0142o nerw\u00f3w...) - do wyboru, do koloru. Funkcjonalno\u015b\u0107 poszczeg\u00f3lnych element\u00f3w otoczenia i wertykalny charakter poziom\u00f3w harmonijnie po\u0142\u0105czono z r\u00f3\u017cnorodno\u015bci\u0105 cel\u00f3w ka\u017cdego wypadu. Misje rozpoczyna klimatyczny briefing wraz z podanymi w punktach zaleceniami - i na tym przewa\u017cnie podobie\u0144stwa dobiegaj\u0105 ko\u0144ca.\n\nTym sposobem musz\u0119 si\u0119 jeszcze dok\u0142adniej zatrzyma\u0107 przy czynnikach, kt\u00f3re w tym nurcie by\u0142y do pewnego czasu traktowane po macoszemu. Deweloperzy chcieli, \u017ceby szeroko pojmowana filmowo\u015b\u0107 Dark Forces by\u0142a poparta tak\u017ce niebanaln\u0105 histori\u0105. Pobie\u017cnie opisany przeze mnie prolog gry mo\u017ce wst\u0119pnie zapowiada\u0107 si\u0119 na standardowy pretekst do ostrzelania kolejnych fal szturmowc\u00f3w, znalezienia McGuffina i powrotu do macierzystego statku. Nic bardziej mylnego. Scenariusz nie jest oczywi\u015bcie jakim\u015b wielopoziomowym arcydzie\u0142em, ale niejeden dzisiejszy hollywoodzki tw\u00f3rca pozwoli\u0142by sobie wyd\u0142uba\u0107 oko i powiesi\u0107 si\u0119 na drzewie na siedem dni, \u017ceby m\u00f3c regularnie pisa\u0107 takie rzeczy. Mamy d\u0142ugofalowy cel w postaci odkrycia projektu Dark Trooper - zaawansowanych droid\u00f3w, kt\u00f3re po wprowadzeniu do masowej produkcji mog\u0142yby odwr\u00f3ci\u0107 losy galaktycznej wojny (kto widzia\u0142 2. sezon serialu The Mandalorian, wie, \u017ce Disney silnie do tego motywu nawi\u0105zuje) - a pomi\u0119dzy nimi od groma ubogacaj\u0105cych ca\u0142o\u015b\u0107 pomniejszych w\u0105tk\u00f3w. A to trzeba kogo\u015b wyrwa\u0107 z imperialnego wi\u0119zienia, innym razem sami mamy si\u0119 wykaraska\u0107 z nie lada k\u0142opot\u00f3w w postaci problem\u00f3w z Jabb\u0105 i jego agresywnym personelem, cz\u0119sto niezwykle wymagaj\u0105cym. Do tego przebogaty, rosn\u0105cy wraz z progresem arsena\u0142 broni, w tym niespotykana do tamtej pory opcja rzucania granatami. A za wisienk\u0119 na torcie mo\u017cna uzna\u0107 znakomite ud\u017awi\u0119kowienie. Motywy nawi\u0105zuj\u0105 do gwiezdnej sagi, ponadto zmieniaj\u0105 si\u0119 w zale\u017cno\u015bci od sytuacji - np. gdy przeciwnik wpada na nasz trop.\n\nWcze\u015bniej by\u0142 X-Wing, p\u00f3\u017aniej - kolejne ods\u0142ony Jedi Knighta. Ale to Dark Forces by\u0142o w stanie rozpocz\u0105\u0107 bardzo wa\u017cny rozdzia\u0142 w rozwoju gier ze \u015bwiata Gwiezdnych Wojen, jak i nie\u017ale namiesza\u0107 na rynku FPS-\u00f3w.\n\nPierwsze Doomy s\u0105 nie\u015bmiertelne, ale to Dark Forces jest prehalf-life'owym FPS-em. Jasne, wielu wspomina jeszcze o Marathonie od Bungie, maj\u0105cym premier\u0119 zaledwie kilka miesi\u0119cy wcze\u015bniej. I rzeczywi\u015bcie tam tak\u017ce pojawi\u0142o si\u0119 kilka mechanik wyprzedzaj\u0105cych swoje czasy, a level design wyr\u00f3\u017cnia\u0142 si\u0119 na tle konkurencji, ale nie a\u017c tak, jak prze\u0142omowy projekt LucasArts. Prze\u0142o\u017cy\u0142o si\u0119 to na sukces zar\u00f3wno artystyczny, jak i komercyjny, a troch\u0119 uznania sp\u0142yn\u0119\u0142o nawet ze strony George'a Lucasa. Nawet je\u015bli to by\u0142a kurtuazja, co\u015b znaczy\u0142a. Te ma\u0142e wspominki na koniec roku stanowi\u0105 zarazem zach\u0119t\u0119 do powrotu - a by\u0107 mo\u017ce nawet nadrobienia klasyka. Do stosunkowo niedawna to by\u0142oby bardzo trudne (chyba, \u017ce kto\u015b mia\u0142 np. star\u0105 p\u0142yt\u0119 CD z gr\u0105), ale dzi\u015b jest na to co najmniej par\u0119 sposob\u00f3w. Na pocz\u0105tku tego roku Nightdive Studios wprowadzi\u0142o na rynek bardzo udany remaster (z kt\u00f3rego zreszt\u0105 dla wygody wprowadzi\u0142em screeny), usprawniaj\u0105cy wiele aspekt\u00f3w takich jak wyg\u0142adzenie grafiki, wy\u017csza rozdzielczo\u015b\u0107 i tak dalej. Z drugiej strony nie warto wykosztowywa\u0107 si\u0119 na to bez dobrej obni\u017cki, a \u015bci\u0105gn\u0105\u0107 mo\u017cna The Force Engine - fanowskiej roboty zremasterowany pakiet, wprowadzaj\u0105cy nawet save'y (wszak orygina\u0142 nie pozwala\u0142 na zapis w trakcie przechodzenia poziom\u00f3w). Gor\u0105co polecam."
         }
     },
     {
@@ -234,7 +282,7 @@
             "description": "Ulice (Biskupia, Salwator, Na Stoku, Zaro\u015blak) zyska\u0142y nowe nawierzchnie z kostki brukowej (wcze\u015bniej by\u0142a to tak\u017ce ul. G\u00f3rka ...",
             "image_url": "https://www.bing.pl/th?id=OVF.OgX12IPGchaFSNHwWi%2b0DQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Dziennik Ba\u0142tycki on MSN1 godz.",
+            "date": "Dziennik Ba\u0142tycki on MSN5 godz.",
             "source": "Dziennik Ba\u0142tycki on MSN",
             "article_content": ""
         }
@@ -245,14 +293,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Wojskowi wsadzili pociski z my\u015bliwc\u00f3w do sowieckiej Osy. Efekty przeros\u0142y oczekiwania",
-            "link": "https://www.chip.pl/2024/12/ukraina-wojna-wojsko-modernizacja-os-r-73",
-            "description": "Wykorzystywanie starych system\u00f3w uzbrojenia na wojnie nie jest niczym nowym, ale niekt\u00f3re przyk\u0142ady recyklingu w wojskowym ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.VkZsJpRX7kYwMzt9LjzU8y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Kujawsko-Pomorskie. Pi\u0119kne ko\u015bcio\u0142y we wsiach i miasteczkach wojew\u00f3dztwa na unikalnych zdj\u0119ciach",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/kujawsko-pomorskie-pi%C4%99kne-ko%C5%9Bcio%C5%82y-we-wsiach-i-miasteczkach-wojew%C3%B3dztwa-na-unikalnych-zdj%C4%99ciach/ar-AA1vSZuc?ocid=BingNewsVerp",
+            "description": "Wyb\u00f3r najpi\u0119kniejszego ko\u015bcio\u0142a w pe\u0142nym zabytk\u00f3w wojew\u00f3dztwie kujawsko-pomorskim - czy nawet kilku ko\u015bcio\u0142\u00f3w - \u0142atwy nie ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.iYmwk64DgV9tTFV9KSitSC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "chip.pl20 godz.",
-            "source": "chip.pl",
-            "article_content": "Pociski R-73 na platformie SA-8 Gecko, czyli jak Ukraina przekszta\u0142ca sowieckie relikty w nowoczesne systemy obrony\n\nUkraina zaprezentowa\u0142a w\u0142a\u015bnie bardzo ciekawe ulepszenie swoich zdolno\u015bci obrony powietrznej w postaci zmodernizowanej wersji systemu 9K33 Osa (SA-8 Gecko) z czas\u00f3w sowieckich. W ramach tej krajowej inicjatywy system zosta\u0142 wyposa\u017cony w pocisk powietrze-powietrze R-73 (AA-11 Archer) z naprowadzaniem na podczerwie\u0144, co samo w sobie stanowi bardzo kreatywne rozwi\u0105zanie, maj\u0105ce na celu wzmocnienie obrony przed zagro\u017ceniami z powietrza. Okre\u015blany mianem FrankenSAM, ten projekt \u0142\u0105czy technologi\u0119 z czas\u00f3w zimnej wojny z wymogami wsp\u00f3\u0142czesnego pola walki.\n\nCzytaj te\u017c: Skontrowali jedno z najwi\u0119kszych osi\u0105gnie\u0107 ludzko\u015bci. Nawet wojsko to odczuje\n\nSystem Osa, zaprojektowany pierwotnie do obrony powietrznej kr\u00f3tkiego zasi\u0119gu (SHORAD), od lat stanowi\u0142 kluczowy element infrastruktury militarnej Ukrainy, jako \u017ce integruje w sobie radar do pozyskiwania i \u015bledzenia cel\u00f3w, co pozwala na autonomiczne operowanie bez wsparcia zewn\u0119trznych radar\u00f3w. Standardowo jest uzbrojony w pociski 9M33M3, dzi\u0119ki kt\u00f3rym zwalcza zagro\u017cenia w zasi\u0119gu do 15 kilometr\u00f3w i na pu\u0142apie do 12000 metr\u00f3w, a cho\u0107 spisuje si\u0119 w tej roli po prostu dobrze, to intensywne starcia z rosyjskimi dronami i pociskami manewruj\u0105cymi doprowadzi\u0142y do wyczerpania zapas\u00f3w tych pocisk\u00f3w. Zmusi\u0142o to ukrai\u0144sk\u0105 armi\u0119 do poszukiwania alternatywy i znalaz\u0142y j\u0105 w\u0142a\u015bnie w pocisku R-73.\n\nCzytaj te\u017c: Chi\u0144ski ko\u0144 troja\u0144ski? Wojsko USA cieszy si\u0119 technologi\u0105, kt\u00f3ra mo\u017ce by\u0107 problemem\n\nPociski R-73 powsta\u0142y z my\u015bl\u0105 o samolotach MiG-29 i Su-27 oraz zwalczaniu cel\u00f3w powietrznych. Wygl\u0105da jednak na to, \u017ce takie 105-kg pociski powietrze-powietrze z 7,4-kg g\u0142owicami bojowymi mog\u0105 te\u017c dzia\u0142a\u0107 bez wi\u0119kszego problemu z platform naziemnych, wykorzystuj\u0105c podczas lotu do celu powietrznego silnik rakietowy na paliwo sta\u0142e. Ich zasi\u0119g operacyjny wynosi do 40 km (zale\u017cnie od wersji), maksymalna rozwijana pr\u0119dko\u015b\u0107 dobija do 2,5 Mach, a o precyzj\u0119 dba naprowadzanie na \u017ar\u00f3d\u0142o ciep\u0142a. Dzi\u0119ki temu mog\u0105 atakowa\u0107 cele z dowolnego kierunku i w r\u00f3\u017cnych warunkach pogodowych, co czyni je wysoce wszechstronn\u0105 i skuteczn\u0105 broni\u0105. Zw\u0142aszcza \u017ce R-73 to pocisk \u201cwystrzel i zapomnij\u201d, kt\u00f3rego wystarczy po prostu wystrzeli\u0107 w kierunku zagro\u017cenia, na kt\u00f3re skieruje si\u0119 automatycznie.\n\nCzytaj te\u017c: Wojskowi otworzyli szampana. Korea Po\u0142udniowa ma nowego pogromc\u0119 lotniczych zagro\u017ce\u0144\n\nZdj\u0119cia udost\u0119pnione przez ukrai\u0144sk\u0105 fundacj\u0119 Come Back Alive ukazuj\u0105 zmodyfikowany system Osa (koszt tej procedury ma wynosi\u0107 oko\u0142o 310000 euro) z pojedynczym pociskiem R-73 zamontowanym na wie\u017cyczce. Istnieje szansa na rozszerzenie tej niestandardowej konfiguracji o \u0142\u0105cznie dwa pociski, kt\u00f3re s\u0105 czym\u015b wi\u0119cej, ni\u017c tylko tymczasowym rozwi\u0105zaniem. W praktyce to strategiczna odpowied\u017a na ograniczenia zasob\u00f3w i wymagania operacyjne, bo R-73 s\u0105 powszechne na Ukrainie, a na dodatek ich kluczowe komponenty, takie jak g\u0142owice naprowadzaj\u0105ce na podczerwie\u0144, s\u0105 produkowane lokalnie. Dzi\u0119ki temu Ukraina mo\u017ce zapewni\u0107 sobie stabilne dostawy niezale\u017cne od zachodniej pomocy wojskowej."
+            "date": "Nasze Miasto on MSN3 godz.",
+            "source": "Nasze Miasto on MSN",
+            "article_content": ""
         }
     },
     {
@@ -266,7 +314,7 @@
             "description": "Zanim wyruszysz w tras\u0119, sprawd\u017a, jaka b\u0119dzie pogoda. W sobot\u0119 14 grudnia w Ko\u0142obrzegu ma by\u0107 2\u00b0C. Prawdopodobie\u0144stwo wyst\u0105pienia deszczu wynosi 25%. W niedziel\u0119 15 grudnia w Ko\u0142obrzegu ma by\u0107 6\u00b0C.",
             "image_url": "https://www.bing.pl/th?id=ODF.xGyVXoJ9b0zlcu2rTPA_6w&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "kolobrzeg.naszemiasto18 godz.",
+            "date": "kolobrzeg.naszemiasto22 godz.",
             "source": "kolobrzeg.naszemiasto",
             "article_content": "Content not available"
         }
@@ -282,9 +330,41 @@
             "description": "Zanim wyruszysz na wypraw\u0119, sprawd\u017a, jaka b\u0119dzie pogoda. W sobot\u0119 14 grudnia w Pleszewie ma by\u0107 1\u00b0C. Nie powinno pada\u0107. W ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.4BveEhA2He4OFQ0U-ar3-S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "pleszew.naszemiasto17 godz.",
+            "date": "pleszew.naszemiasto22 godz.",
             "source": "pleszew.naszemiasto",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Byli\u015bmy w Muzeum Archidiecezjalnym na Ostrowie Tumskim. Obiekt otwarto po pi\u0119ciu latach remontu",
+            "link": "https://wroclaw.wyborcza.pl/wroclaw/7,35771,31542255,otwarto-muzeum-archidiecezjalne-na-ostrowie-tumskim.html",
+            "description": "Muzeum Archidiecezjalne za 55 mln z\u0142 przesz\u0142o gruntown\u0105 modernizacj\u0119. Teraz we wspania\u0142ej przestrzeni mo\u017cna ogl\u0105da\u0107 cenne ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.FNx4576u5ZpavJlXNvebxi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "wroclaw.wyborcza2 godz.",
+            "source": "wroclaw.wyborcza",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Portret pa\u0144stwa Matejk\u00f3w? Tajemnica gda\u0144skiego obrazu",
+            "link": "https://www.msn.com/pl-pl/historia-i-kultura-spo%C5%82ecze%C5%84stwa/historia/portret-pa%C5%84stwa-matejk%C3%B3w-tajemnica-gda%C5%84skiego-obrazu/ar-AA1vT7ru?ocid=BingNewsVerp",
+            "description": "Dzisiaj siod\u0142o zdobi zbiory Domu Matejki w Krakowie, bo mistrz nie odda\u0142 go Stryjowskiemu. O obecno\u015bci Matejki w Gda\u0144sku ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.HT6%2bHGDWiFMuzjMTEKbumw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Dziennik Ba\u0142tycki on MSN1 godz.",
+            "source": "Dziennik Ba\u0142tycki on MSN",
+            "article_content": ""
         }
     },
     {
@@ -298,25 +378,9 @@
             "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.o4EwlAsIz5rMM3h8kMS_wi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "gs24.pl1 godz.",
+            "date": "gs24.pl5 godz.",
             "source": "gs24.pl",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Pogoda wygra\u0142a z pioniersk\u0105 misj\u0105 po raz drugi",
-            "link": "https://tvn24.pl/tvnmeteo/swiat/kairos-2-pogoda-po-raz-drugi-wygrala-z-misja-kosmiczna-st8222658",
-            "description": "Start prywatnej rakiety Kairos 2 japo\u0144skiej firmy Space One zosta\u0142 prze\u0142o\u017cony - po raz drugi w ci\u0105gu 24 godzin. Misja ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.BkQZ7CB04mGXXzG0qso6QS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "TVN2429 min",
-            "source": "TVN24",
-            "article_content": "Start prywatnej rakiety Kairos 2 japo\u0144skiej firmy Space One zosta\u0142 prze\u0142o\u017cony - po raz drugi w ci\u0105gu 24 godzin. Misja pocz\u0105tkowo mia\u0142a ruszy\u0107 w sobot\u0119 przed po\u0142udniem, nast\u0119pnie jej pocz\u0105tek przesuni\u0119to na niedziel\u0119. Jak wyja\u015bnili przedstawiciele firmy, problem stanowi\u0142y trudne warunki pogodowe panuj\u0105ce w miejscu startu.\n\nPogoda D\u0142ugoterminowa Weekend\n\nRakieta Kairos 2 tokijskiej prywatnego przedsi\u0119biorstwa Space One mia\u0142a wystartowa\u0107 z bazy Space Port Kii w prefekturze Wakayama w niedziel\u0119 o godzinie 11 lokalnego czasu - oko\u0142o godz. 3 czasu \u015brodkowoeuropejskiego. Przedstawiciele firmy przekazali jednak w niedziel\u0119, \u017ce start zostanie prze\u0142o\u017cony.\n\n- Podobnie jak wczoraj ocenili\u015bmy, \u017ce warunki wietrzne na du\u017cej wysoko\u015bci nad stanowiskiem startowym nie s\u0105 optymalne. Podj\u0119li\u015bmy decyzj\u0119 o prze\u0142o\u017ceniu startu - przekaza\u0142 Kozo Abe, dyrektor wykonawczy Space One.\n\nPierwsze okno startowe otworzy si\u0119 w \u015brod\u0119 o godzinie 11.\n\nDrugie op\u00f3\u017anienie\n\nPocz\u0105tkowo misja mia\u0142a wystartowa\u0107 w sobot\u0119 o godzinie 11 lokalnego czasu. Jak poda\u0142a gazeta \"The Japan Times\", rozpocz\u0119cie misji odwo\u0142ano na oko\u0142o 30 minut przed planowanym startem.\n\n- Przeanalizowali\u015bmy warunki pogodowe i ustalili\u015bmy, \u017ce pr\u0119dko\u015b\u0107 wiatru powy\u017cej wysoko\u015bci 10 kilometr\u00f3w by\u0142a tak du\u017ca, \u017ce nie nadawa\u0142a si\u0119 do startu - powiedzia\u0142 w sobot\u0119 dziennikarzom Abe. - Do\u0142o\u017cymy wszelkich stara\u0144, aby przygotowa\u0107 si\u0119 do jutrzejszego startu - podkre\u015bli\u0142.\n\nJe\u015bli \u015brodowy start zako\u0144czy si\u0119 sukcesem, Kairos 2 sta\u0142aby si\u0119 pierwsz\u0105 rakiet\u0105 w Japonii, w ca\u0142o\u015bci opracowan\u0105 przez sektor prywatny, zdoln\u0105 umie\u015bci\u0107 satelit\u0119 na orbicie. Rakieta ma wynie\u015b\u0107 pi\u0119\u0107 satelit\u00f3w na orbit\u0119 oko\u0142oziemsk\u0105.\n\nKairos 2 czekaj\u0105ca na start Newscom/PAP/EPA\n\nKairos 2 czekaj\u0105ca na start Newscom/PAP/EPA\n\nEksplozja rakiety w marcu\n\nW marcu rakieta Kairos 1 eksplodowa\u0142a zaledwie pi\u0119\u0107 sekund po starcie. Jej szcz\u0105tki spad\u0142y na pobliski g\u00f3rski teren. Przyczyn\u0105 awarii by\u0142y problemy z pierwszym stopniem rakiety, a autonomiczny system lotu uruchomi\u0142 mechanizm samozniszczenia.\n\nSpace One zosta\u0142a za\u0142o\u017cona w 2018 roku przez du\u017ce firmy, w tym Canon Electronics, IHI Aerospace, firm\u0119 budowlan\u0105 Shimizu i rz\u0105dowy Development Bank of Japan. Firma ma nadziej\u0119 ugruntowa\u0107 swoj\u0105 pozycj\u0119 na konkurencyjnym polu mi\u0119dzynarodowym poprzez szybkie wystrzeliwanie ma\u0142ych rakiet firmom chc\u0105cych umie\u015bci\u0107 satelity w kosmosie.\n\nAutorka/Autor:anw,as/dd\n\n\u0179r\u00f3d\u0142o: AFP, The Japan Times, NHK"
         }
     },
     {
@@ -330,7 +394,7 @@
             "description": "Tornado spowodowa\u0142o w sobot\u0119 zniszczenia w \u015brodkowej Kalifornii. Chocia\u017c gro\u017ane zjawisko omin\u0119\u0142o centrum San Francisco, gdzie ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.ZiVEpiDNWfyaR86T1pHD8i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "TVN241 godz.",
+            "date": "TVN245 godz.",
             "source": "TVN24",
             "article_content": "Tornado spowodowa\u0142o w sobot\u0119 zniszczenia w \u015brodkowej Kalifornii. Chocia\u017c gro\u017ane zjawisko omin\u0119\u0142o centrum San Francisco, gdzie obowi\u0105zywa\u0142y pierwsze w historii ostrze\u017cenia przed tr\u0105b\u0105 powietrzn\u0105, wiatr rozp\u0119dzi\u0142 si\u0119 w okolicach San Jose. Lokalna policja opublikowa\u0142a zdj\u0119cia aut zmiecionych z drogi przez \u017cywio\u0142.\n\nPogoda D\u0142ugoterminowa Weekend\n\nW sobot\u0119 nad p\u00f3\u0142nocn\u0105 i \u015brodkow\u0105 Kaliforni\u0105 przechodzi\u0142y intensywne burze. Lokalny oddzia\u0142 Krajowej S\u0142u\u017cby Pogodowej (NWS) dla obszaru Zatoki San Francisco wyda\u0142 ostrze\u017cenia przed silnym wiatrem, ulewami, podtopieniami i wysokimi falami.\n\nNieprzyjemna niespodzianka spotka\u0142a mieszka\u0144c\u00f3w San Francisco, kt\u00f3rych przed 6 rano obudzi\u0142 d\u017awi\u0119k alertu bezpiecze\u0144stwa. W mie\u015bcie wydano pierwszy w historii alarm przed tornadami. Chocia\u017c ostatecznie nie dosz\u0142o do powstania tr\u0105by powietrznej, silny wiatr wyrz\u0105dzi\u0142 szkody w okolicach Parku Golden Gate i dzielnicy Richmond.\n\n\"Wyrzuci\u0142o kilka samochod\u00f3w z drogi\"\n\nPotwierdzone zosta\u0142o natomiast tornado w mie\u015bcie Scotts Valley, na po\u0142udnie od San Jose. Tr\u0105ba powietrzna przesz\u0142a wzd\u0142u\u017c ulicy Mt. Hermon Road w sobot\u0119 oko\u0142o godziny 13.40 czasu lokalnego. Jak ocenili meteorolodzy z NWS, \u017cywio\u0142 dotkn\u0105\u0142 ziemi na odcinku prawie p\u00f3\u0142 metra, a jego najsilniejsze podmuchy rozwin\u0119\u0142y pr\u0119dko\u015b\u0107 145 kilometr\u00f3w na godzin\u0119.\n\nRozwi\u0144\n\nSilny wiatr pozrywa\u0142 ga\u0142\u0119zie z drzew, po\u0142ama\u0142 linie wysokiego napi\u0119cia i przewr\u00f3ci\u0142 kilka samochod\u00f3w. Na miejsce szybko dotarli policjanci, kt\u00f3rzy pocz\u0105tkowo my\u015bleli, \u017ce dosz\u0142o do powa\u017cnego wypadku drogowego.\n\n- \u015awiadkowie twierdz\u0105, \u017ce to nie wypadek, tylko tornado, kt\u00f3re dotkn\u0119\u0142o ziemi w pobli\u017cu sklepu i wyrzuci\u0142o kilka samochod\u00f3w z drogi - przekazali funkcjonariusze w mediach spo\u0142eczno\u015bciowych. Lokalne media poda\u0142y, \u017ce pi\u0119\u0107 os\u00f3b zosta\u0142o rannych, dwie trafi\u0142y do szpitala.\n\nZ danych NWS wynika, \u017ce \u015brednio w Kalifornii dochodzi do 11 tornad rocznie, g\u0142\u00f3wnie w okresie jesiennym lub wiosennym. Najcz\u0119\u015bciej wyst\u0119puj\u0105 one w p\u00f3\u0142nocnej cz\u0119\u015bci stanu, w okolicach miast Sacramento i Redding.\n\nRozwi\u0144\n\nAutorka/Autor:as\n\n\u0179r\u00f3d\u0142o: CNN, NWS Bay Area"
         }
@@ -341,30 +405,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "\u015al\u0105skie wydobycie cynku \u2014 Muzeum Hutnictwa Cynku \"WALCOWNIA\" w Katowicach",
-            "link": "https://rudaslaska.com.pl/p,s,informacje_turystyka,page,1,item,slaskie-wydobycie-cynku--muzeum-hutnictwa-cynku-walcownia-w-katowicach-7448.html",
-            "description": "Portal RudaSlaska.com.pl prezentuje kolejn\u0105 atrakcj\u0119 turystyczn\u0105 \u015al\u0105ska. G\u00f3rny \u015al\u0105sk to region bogaty w z\u0142o\u017ca surowc\u00f3w ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.wylv3ePKtmf6CtUXxR1Bai&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Pogoda na 16 dni: co nas czeka w \u015bwi\u0119ta i sylwestra",
+            "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-16-dni-co-nas-czeka-w-swieta-i-sylwestra-prognoza-na-boze-narodzenie-prognoza-dlugoterminowa-st8223126",
+            "description": "Przed \u015bwi\u0119tami pogoda szykuje nam spor\u0105 niespodziank\u0119. Jakie warto\u015bci na termometrach pojawi\u0105 si\u0119 w Bo\u017ce Narodzenie i ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.UIBlGHbAd7NqwoEx3w4uky&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "rudaslaska22 godz.",
-            "source": "rudaslaska",
-            "article_content": "G\u00f3rny \u015al\u0105sk to region bogaty w z\u0142o\u017ca surowc\u00f3w naturalnych, kt\u00f3rych wydobycie by\u0142o g\u0142\u00f3wn\u0105 osi\u0105 prowadzonego w wojew\u00f3dztwie przemys\u0142u. Jednym z najpopularniejszych surowc\u00f3w by\u0142 cynk, wyst\u0119puj\u0105cy najcz\u0119\u015bciej w postaci galmanu. Dzi\u015b dzia\u0142alno\u015b\u0107 wydobywcza rud cynku na \u015al\u0105sku jest zako\u0144czona, a zak\u0142ady zajmuj\u0105ce si\u0119 jego przetwarzaniem stanowi\u0105 historyczne pomniki i muzea. W Katowicach od wielu lat funkcjonuje Muzeum Hutnictwa Cynku \"WALCOWNIA\".\n\nWalcownia \u2014 wa\u017cny zak\u0142ad obr\u00f3bki cynku\n\nWalcownia cynku wchodzi\u0142a w sk\u0142ad inwestycji koncernu \"Georg von Giesches Erben\". Zak\u0142ad znajduj\u0105cy si\u0119 w Szopienicach przerabia\u0142 g\u0142\u00f3wnie cynk pochodz\u0105cy z okolicznej huty. Wyposa\u017ceniem walcowni by\u0142y m.in. dwa piece topielne, piec grzewczy przeznaczony do p\u0142yt, karuzela odlewnicza, czy walcarki. Za ich pomoc\u0105 wykonywano przedmioty takie jak blachy cynkowe, szyny cynkowe, druty i ta\u015bmy. Zamkni\u0119cie walcowni nast\u0105pi\u0142o na pocz\u0105tku XX wieku. W 2002 roku huta zako\u0144czy\u0142a produkcj\u0119 cynku, likwiduj\u0105c zak\u0142ad.\n\nRok po zako\u0144czeniu funkcjonowania walcowni w 2003 roku do rejestru zabytk\u00f3w wpisane zosta\u0142y urz\u0105dzenia walcownicze, znajduj\u0105ce si\u0119 w zak\u0142adzie. W 2010 roku do tego samego rejestru wpisano ca\u0142y kompleks. Muzeum w miejscu dawnej walcowni otworzono w 2015 roku, a od 2017 roku znajduje si\u0119 na Szlaku Zabytk\u00f3w Techniki.\n\nMuzealne wystawy \"WALCOWNI\"\n\nMuzeum przedstawia bogat\u0105 histori\u0119 hutnictwa cynku na \u015al\u0105sku. Liczne wystawy opisuj\u0105 rozw\u00f3j hutniczej ga\u0142\u0119zi przemys\u0142u, znajduj\u0105c si\u0119 przy tym w najwi\u0119kszej poprzemys\u0142owej hali w ca\u0142ym regionie. Ekspozycja oparta o oryginalne, ponad stuletnie maszyny jest prawdziw\u0105 pami\u0105tk\u0105 dawnych, industrialnych czas\u00f3w. Wi\u0119kszo\u015b\u0107 urz\u0105dze\u0144 prezentowana jest jako nieczynne zabytki techniki, jednak cz\u0119\u015b\u0107 zosta\u0142a odrestaurowana i podczas weekend\u00f3w i wybranych \u015bwi\u0105t zwiedzaj\u0105cy, maj\u0105 okazj\u0119, obejrze\u0107 maszyny w ruchu.\n\nMuzeum posiada jedn\u0105 z najwi\u0119kszych w Polsce kolekcji zabytkowych silnik\u00f3w stacjonarnych, pochodz\u0105cych z wytw\u00f3rni takich jak Lister, Hornsby, czy Deutz. Zbi\u00f3r w fascynuj\u0105cy i praktyczny spos\u00f3b ukazuje proces projektowania silnik\u00f3w, a tak\u017ce ich rozw\u00f3j na przestrzeni lat.\n\nW katowickim muzeum prezentowana jest r\u00f3wnie\u017c kolekcja zabytkowych motocykli firmy Harley-Davidson. Ekspozycja b\u0119d\u0105ca specjaln\u0105 motoryzacyjn\u0105 atrakcj\u0105 przedstawia jak za spraw\u0105 technologicznych rewolucji, zmienia\u0142 si\u0119 rynek motocykli, pokazuj\u0105c wiele wyj\u0105tkowych modeli. Wystaw\u0119 obejmuje m.in. Model F z 1924 roku uznawany dzisiaj za pierwszy model Harley'a w historii, Model WLA42 z 1942 roku tworzony g\u0142\u00f3wnie w okresie II wojny \u015bwiatowej, Sportser XLCH z 1968 roku, czy produkowany przez blisko 43 lata tr\u00f3jko\u0142owy Harley Servi-car z 1946 roku. Motocykle Harley-Davidson to g\u0142\u00f3wna cz\u0119\u015b\u0107 motoryzacyjnej wystawy, jednak w jej sk\u0142ad wchodz\u0105 r\u00f3wnie\u017c polskie motocykle \u2014 takie jak przedwojenny Sok\u00f3\u0142 czy powojenny Junak, a tak\u017ce ameryka\u0144skie motocykle Indian. Wystawa Harley-Davidson jest fascynuj\u0105cym udokumentowaniem \u015bwiatowego rozwoju motocykli.\n\nOferta edukacyjna muzeum\n\nW Muzeum Hutnictwa Cynku prowadzone s\u0105 lekcje i warsztaty przeznaczone g\u0142\u00f3wnie dla uczni\u00f3w szk\u00f3\u0142 podstawowych. Bogata oferta zaj\u0119\u0107 pozwala na odpowiedni dob\u00f3r tematyki lekcji, kt\u00f3ra odpowiada\u0107 b\u0119dzie indywidualnym potrzebom uczni\u00f3w. Warsztaty takie jak \"Ma\u0142y Muzealnik\" wprowadz\u0105 uczestnik\u00f3w do \u015bwiata muzeum, przybli\u017caj\u0105c czym ono jest, a tak\u017ce czym jest zabytek. \"Cz\u0142owiek i Maszyna\" to z kolei lekcja o rozwoju nap\u0119du, oraz historii silnika. \"Przemys\u0142 w obrazie miasta\" odpowie na pytania czym jest przemys\u0142 i kiedy si\u0119 narodzi\u0142. \"Rewolucja przemys\u0142owa\" to zaj\u0119cia skupiaj\u0105ce si\u0119 na okresie historycznym, w kt\u00f3rym rozpocz\u0119\u0142a si\u0119 \u015bwiatowa industrializacja, a warsztaty \"Montownia. Zr\u00f3b sobie motocykl\" oparte s\u0105 o zwiedzanie kolekcji motocykli Harley-Davidson, po kt\u00f3rym uczestnicy maj\u0105 okazj\u0119 zbudowa\u0107 sw\u00f3j w\u0142asny model motocykla.\n\nZwiedzanie muzeum \u2014 cennik i godziny otwarcia\n\nCennik bilet\u00f3w w Muzeum Hutnictwa Cynku \"WALCOWNIA\" w Katowicach prezentuje si\u0119 nast\u0119puj\u0105co:\n\nBilet normalny \u2014 35 z\u0142/os\n\nBilet ulgowy \u2014 30 z\u0142/os\n\nBilet dla senior\u00f3w \u2014 30 z\u0142/os\n\nBilet rodzinny (2 osoby doros\u0142e + 2 dzieci) \u2014 105 z\u0142\n\nGodziny otwarcia muzeum:\n\nWtorek-pi\u0105tek \u2014 10:00-16:00\n\nWeekendy i wybrane \u015bwi\u0119ta \u2014 10:00-16:00\n\nWej\u015bcia z przewodnikiem \u2014 10:00, 11:30, 13:00, 14:30\n\nMuzeum Hutnictwa Cynku \u2014 przemys\u0142owy pomnik \u015al\u0105ska\n\nMuzeum Hutnictwa Cynku \"WALCOWNIA\" przedstawia histori\u0119 hutnictwa cynku w wojew\u00f3dztwie, oraz post\u0119p technologiczny silnik\u00f3w spalinowych oraz motocykli. Zabytki znajduj\u0105ce si\u0119 w muzeum s\u0105 interesuj\u0105cym pomnikiem dawnych czas\u00f3w, przybli\u017caj\u0105c zwiedzaj\u0105cym realia panuj\u0105ce w przemys\u0142owym regionie. Muzeum le\u017c\u0105ce na Szlaku Zabytk\u00f3w Technologicznych jest wa\u017cnym punktem na turystyczno-historycznej mapie wojew\u00f3dztwa \u015bl\u0105skiego!"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Gie\u0142da kolekcjonerska w Kielcach zachwyca histori\u0105 i pasj\u0105 wystawc\u00f3w. Wyj\u0105tkowe antyki, meble z po\u0142udnia Francji i sztuka sakralna",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/gie%C5%82da-kolekcjonerska-w-kielcach-zachwyca-histori%C4%85-i-pasj%C4%85-wystawc%C3%B3w-wyj%C4%85tkowe-antyki-meble-z-po%C5%82udnia-francji-i-sztuka-sakralna/ar-AA1vRilB?ocid=BingNewsVerp",
-            "description": "Ka\u017cda druga sobota miesi\u0105ca w Kielcach to \u015bwi\u0119to historii i pasji. Gie\u0142da Kolekcjonerska pod Wojew\u00f3dzkim Domem Kultury ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.ghxkzkqQsgHhA0YG5pAwBC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Kielce Naszemiasto on MSN19 godz.",
-            "source": "Kielce Naszemiasto on MSN",
-            "article_content": ""
+            "date": "TVN241 godz.",
+            "source": "TVN24",
+            "article_content": "Przed \u015bwi\u0119tami pogoda szykuje nam spor\u0105 niespodziank\u0119. Jakie warto\u015bci na termometrach pojawi\u0105 si\u0119 w Bo\u017ce Narodzenie i sylwester? Sprawd\u017a d\u0142ugoterminow\u0105 prognoz\u0119 temperatury na 16 dni, przygotowan\u0105 przez prezentera i synoptyka tvnmeteo.pl Tomasza Wasilewskiego.\n\nPogoda D\u0142ugoterminowa Weekend\n\nPogod\u0105 w naszej cz\u0119\u015bci Europy b\u0119d\u0105 teraz rz\u0105dzi\u0107 kolejne ni\u017ce i fronty atmosferyczne, kt\u00f3re przemieszczaj\u0105 si\u0119 z zachodu na wsch\u00f3d kontynentu. Z tego powodu w najbli\u017cszych dniach aura b\u0119dzie zmienna, wietrzna i nietypowo ciep\u0142a jak na po\u0142ow\u0119 grudnia, bo wspomniane ni\u017ce cz\u0119sto b\u0119d\u0105 kierowa\u0107 do centrum Europy ciep\u0142e powietrze z po\u0142udnia i z zachodu. Z kolei zimne masy powietrza b\u0119d\u0105 przemieszcza\u0107 si\u0119 g\u0142\u00f3wnie nad p\u00f3\u0142nocn\u0105 cz\u0119\u015bci\u0105 kontynentu i na razie tylko sporadycznie maj\u0105 pojawia\u0107 si\u0119 u nas, szybko wypierane st\u0105d przez kolejne fale atlantyckiego ciep\u0142a (patrz poni\u017csza mapa).\n\nIdzie du\u017ce ocieplenie tvnmeteo.pl\n\nPogoda na 16 dni\n\nPrzed nami ciep\u0142e dni jak na grudzie\u0144 - od poniedzia\u0142ku do czwartku temperatura b\u0119dzie osi\u0105ga\u0107 10 stopni Celsjusza, a na po\u0142udniu Polski mo\u017ce doj\u015b\u0107 nawet do 14 st. C. P\u00f3\u017aniej, od najbli\u017cszego pi\u0105tku, zrobi si\u0119 ch\u0142odniej, ale mimo to temperatura b\u0119dzie daleka od zimowej, bo na zachodzie kraju ma by\u0107 5-6 stopni, a na wschodzie 1-2 stopnie. Podobnej temperatury mo\u017cemy spodziewa\u0107 si\u0119 w czasie \u015bwi\u0105t, bo wtedy b\u0119dzie od 1 do 6 st. C i r\u00f3wnie\u017c do ko\u0144ca roku nie wida\u0107 w obliczeniach modeli meteorologicznych istotnych zmian temperatury. Nast\u0119pna 16-dniowa prognoza temperatury w najbli\u017csz\u0105 niedziel\u0119.\n\nAutorka/Autor:Tomasz Wasilewski\n\n\u0179r\u00f3d\u0142o: tvnmeteo.pl"
         }
     },
     {
@@ -378,7 +426,7 @@
             "description": "Mo\u017cliwe, \u017ce w zakamarkach swojego domu trzymasz prawdziwy skarb. B\u0119dziesz zaskoczony za jakie kwoty mo\u017cna sprzeda\u0107 stare banknoty i monety z czas\u00f3w PRL-u. Kolekcjonerzy s\u0105 w stanie zap\u0142aci\u0107 za te ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "gk24.pl2 godz.",
+            "date": "gk24.pl7 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -394,7 +442,7 @@
             "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet zwyk\u0142a pi\u0119cioz\u0142ot\u00f3wka mo\u017ce mie\u0107 wielokrotnie wi\u0119ksz\u0105 warto\u015b\u0107 ni\u017c nomina\u0142.",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "gk24.pl3 godz.",
+            "date": "gk24.pl7 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -405,14 +453,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Zdumiewaj\u0105ce odkrycie. Znale\u017ali cz\u0119\u015bci Enigmy",
-            "link": "https://wiadomosci.wp.pl/zdumiewajace-odkrycie-znalezli-czesci-enigmy-7103174678248160a",
-            "description": "Fundacja Na Rzecz Odzyskania Zaginionych Dzie\u0142 Sztuki \"Latebra\" regularnie przeszukuje Wysp\u0119 Sobieszewsk\u0105. Do dzi\u015b odnajdywane tam s\u0105 pami\u0105tki pod II wojnie \u015bwiatowej. Dlatego to miejsce nazywane jest ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.fb36SL_7Rxm5XapIe8o-YQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Felczerzy archeologii. \u201eNiekt\u00f3rzy detektory\u015bci chcieliby przekaza\u0107 pa\u0144stwu znaleziska, nie ryzykuj\u0105c sprawy karnej'",
+            "link": "https://www.polityka.pl/tygodnikpolityka/nauka/2281085,1,felczerzy-archeologii-niektorzy-detektorysci-chcieliby-przekazac-panstwu-znaleziska-nie-ryzykujac-sprawy-karnej.read",
+            "description": "Amatorzy tak\u017ce powinni mie\u0107 mo\u017cliwo\u015b\u0107 poszukiwania zabytk\u00f3w, a pa\u0144stwo powinno wykorzysta\u0107 ich potencja\u0142 \u2013 przekonuje jeden z ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.6sFe5KyfJ1U00FXHkpKM9i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "wp22 godz.",
-            "source": "wp",
-            "article_content": "Fundacja Na Rzecz Odzyskania Zaginionych Dzie\u0142 Sztuki \"Latebra\" regularnie przeszukuje Wysp\u0119 Sobieszewsk\u0105. Do dzi\u015b odnajdywane tam s\u0105 pami\u0105tki pod II wojnie \u015bwiatowej. Dlatego to miejsce nazywane jest \"mekk\u0105 poszukiwaczy\".\n\n- Nasza kole\u017canka, kt\u00f3ra jest jeszcze \u015bwie\u017cym poszukiwaczem, mia\u0142a nosa. Porusza\u0142a si\u0119 po pewnych miejscach, kt\u00f3re my dawno ju\u017c sprawdzili\u015bmy i nie zwr\u00f3cili\u015bmy uwagi na pewne sygna\u0142y, ona ich nie przeoczy\u0142a. W ziemiance znalaz\u0142a jeden z rotor\u00f3w, jeden z tych b\u0119bn\u00f3w szyfruj\u0105cych Enigm\u0119. Wszystkim szcz\u0119ki spad\u0142y - relacjonowa\u0142 w rozmowie z RMF FM Dominik Markiewicz, cz\u0142onek zarz\u0105du Fundacji \"Latebra\".\n\nFundacja zamie\u015bci\u0142a w sieci nagranie z poszukiwa\u0144.\n\nDalsza cz\u0119\u015b\u0107 artyku\u0142u pod materia\u0142em wideo\n\nSensacyjne odkrycie Latebry! Enigma odnaleziona\n\nEnigma na Wyspie Sobieszewskiej. Co si\u0119 stanie z zabytkiem?\n\nZnaleziono 8 rotor\u00f3w, lampy elektronowe, elektronik\u0119, akumulatory, cz\u0119\u015bci obudowy i drobne cz\u0119\u015bci klawiatury. - Wida\u0107, \u017ce Niemcy celowo zniszczyli urz\u0105dzenie. Nie tylko to zreszt\u0105. To by\u0142o centrum dowodzenia \u0142\u0105czno\u015bci i zosta\u0142o celowo zniszczone przez Niemc\u00f3w, aby nie dosta\u0142o si\u0119 w r\u0119ce Rosjan - wyja\u015bni\u0142 Markiewicz.\n\nO tym co si\u0119 stanie z odnalezion\u0105 Enigm\u0105, zadecyduje Wojew\u00f3dzki Konserwator Zabytk\u00f3w.\n\nHistoria Enigmy. Jej szyfr z\u0142amali Polacy\n\nEnigma to niemiecka maszyna szyfruj\u0105ca, kt\u00f3ra odegra\u0142a kluczow\u0105 rol\u0119 w komunikacji wojskowej podczas II wojny \u015bwiatowej. Zosta\u0142a opracowana w latach 20. XX wieku przez niemieck\u0105 firm\u0119 Chiffriermaschinen AG, a jej u\u017cycie w armii niemieckiej rozpocz\u0119\u0142o si\u0119 na pocz\u0105tku lat 30.\n\nEnigma wykorzystywa\u0142a skomplikowany system wirnik\u00f3w, kt\u00f3ry generowa\u0142 r\u00f3\u017cne kody dla ka\u017cdej wiadomo\u015bci, co czyni\u0142o szyfrowanie niezwykle trudnym do z\u0142amania. Niemcy wykorzystywali t\u0119 maszyn\u0119 w r\u00f3\u017cnych aspektach wojny, od komunikacji wojskowej po koordynacj\u0119 operacji morskich, co dawa\u0142o im znaczn\u0105 przewag\u0119 strategiczn\u0105.\n\nJednak\u017ce, w miar\u0119 jak wojna post\u0119powa\u0142a, alianccy kryptolodzy zacz\u0119li podejmowa\u0107 wysi\u0142ki maj\u0105ce na celu z\u0142amanie kod\u00f3w Enigmy. Kluczowym momentem w tej walce by\u0142 1939 rok, kiedy to polski wywiad, w szczeg\u00f3lno\u015bci zesp\u00f3\u0142 pod kierownictwem Mariana Rejewskiego, opracowa\u0142 techniki, kt\u00f3re pozwoli\u0142y na odczytywanie wiadomo\u015bci szyfrowanych przez Enigm\u0119.\n\nW 1940 roku, po wybuchu II wojny \u015bwiatowej, Brytyjczycy kontynuowali te prace w Bletchley Park, gdzie Alan Turing i jego zesp\u00f3\u0142 stworzyli maszyn\u0119 o nazwie Bombe, kt\u00f3ra automatyzowa\u0142a proces \u0142amania kod\u00f3w. Dzi\u0119ki tym wysi\u0142kom, alianci byli w stanie uzyska\u0107 cenne informacje wywiadowcze, co mia\u0142o istotny wp\u0142yw na przebieg wojny, w tym na zwyci\u0119stwo w bitwie o Atlantyk."
+            "date": "POLITYKA20 godz.",
+            "source": "POLITYKA",
+            "article_content": "Amatorzy tak\u017ce powinni mie\u0107 mo\u017cliwo\u015b\u0107 poszukiwania zabytk\u00f3w, a pa\u0144stwo powinno wykorzysta\u0107 ich potencja\u0142 \u2013 przekonuje jeden z detektoryst\u00f3w w reakcji na tekst Agnieszki Krzemi\u0144skiej.\n\nJestem jednym z tych poszukiwaczy, kt\u00f3rzy dobrze odnajduj\u0105 si\u0119 w obecnym wymagaj\u0105cym uzyskiwania pozwole\u0144 administracyjnych porz\u0105dku prawnym. Detektorystyk\u0105 zajmuj\u0119 si\u0119 z \u017con\u0105 od wielu lat. Staramy si\u0119, aby nasze odkrycia zostawia\u0142y \u015blad nie tylko w postaci sprawozda\u0144, ale tak\u017ce publikacji. Wspieramy te\u017c znajomych archeolog\u00f3w w prowadzonych przez nich badaniach, wi\u0119c miejsc do realizowania hobby w spos\u00f3b legalny mamy wystarczaj\u0105co wiele. Dzia\u0142ania Polskiego Zwi\u0105zku Eksplorator\u00f3w (PZE) zmierzaj\u0105ce do liberalizacji przepis\u00f3w, jak i kolejne fazy coraz ostrzejszej jego debaty ze \u015brodowiskiem naukowym obserwowa\u0142em z boku. Nie oznacza to jednak, \u017ce nie dostrzegam pewnych mankament\u00f3w obecnego systemu prawnego, a tak\u017ce uproszcze\u0144 pojawiaj\u0105cych si\u0119 w wymianie zda\u0144 na ten temat.\n\nSie\u0107 na odkrycia\n\nAgnieszka Krzemi\u0144ska w tek\u015bcie \u201eNasi ju\u017c tu byli\u201d (POLITYKA 46) przytacza argumenty przedstawicieli ministerstwa o rzekomo miliardowych kwotach, kt\u00f3re b\u0119d\u0105 w wyniku przygotowywanej nowelizacji ustawy o ochronie dziedzictwa przeznaczane na nagrody dla poszukiwaczy. Naukowcom towarzyszy obawa, \u017ce poszukiwacze b\u0119d\u0105 zarabia\u0107 na polskim dziedzictwie. Ale mo\u017cliwo\u015b\u0107 nagradzania takich intencjonalnie dzia\u0142aj\u0105cych os\u00f3b od dawna istnieje w polskim prawie i nowela jedynie przenosi j\u0105 z rozporz\u0105dzenia do ustawy. I co? I nic. Bo takie nagrody pieni\u0119\u017cne nie s\u0105 i nie by\u0142yby obligatoryjne. Konserwator nadal mia\u0142by narz\u0119dzie w postaci dyplomu. \u0141atwo zgadn\u0105\u0107, z kt\u00f3rej mo\u017cliwo\u015bci korzysta\u0142by cz\u0119\u015bciej.\n\nZdecydowana wi\u0119kszo\u015b\u0107 detektoryst\u00f3w do swojego hobby dop\u0142aca i nie traktuje go zarobkowo, chocia\u017c nieliczni \u201emonetyzuj\u0105\u201d pasj\u0119, zak\u0142adaj\u0105c kana\u0142y na YouTube, prowadz\u0105c sklepy ze sprz\u0119tem do poszukiwa\u0144 itd. Tak czy inaczej uwa\u017cam, \u017ce mo\u017cliwo\u015b\u0107 wyp\u0142acania nagr\u00f3d finansowych powinna zosta\u0107 utrzymana, cho\u0107 nie jako regu\u0142a, ale jako docenienie prawdziwie wyj\u0105tkowych odkry\u0107."
         }
     }
 ]
