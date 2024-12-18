@@ -5,12 +5,28 @@
             "Content-Type": "application/json"
         },
         "body": {
+            "title": "Mata czas na granie?",
+            "link": "https://www.gry-online.pl/S043.asp?ID=16644680",
+            "description": "TEMATY OG\u00d3LNE. Ja gram 4-5 godzin dziennie, w wakacje nakurczam po nockach i dobrze mi z tym. Ogrywam tytu\u0142y z lat 2015-2020. Jeste\u015bcie zaharowani i nie macie czasu si\u0119 po ty\u0142ku podrapa\u0107, czy raczej z ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.SlkachxxdRcMFI-CbWu_lg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "starocie",
+            "date": "gry-online.pl4 godz.",
+            "source": "gry-online.pl",
+            "article_content": "Tak \u015brednio wyjd\u0105 z 2h dziennie w okresie zimowo-jesiennym (1,5h do 2h w tygodniu, w weekendy d\u0142u\u017cej). Latem i p\u00f3\u017an\u0105 wiosn\u0105 kr\u00f3cej bo mam wi\u0119cej ciekawych rzeczy do roboty i w weekendy w zasadzie wtedy nie gram, wi\u0119c zani\u017ca to \u015bredni\u0105 do powiedzmy nieca\u0142e 1,5h.\n\n\u015arednia spada je\u017celi znajd\u0119 co\u015b do ogl\u0105dania i nie chce mi si\u0119 gra\u0107, lub akurat co\u015b moduj\u0119 akurat co\u015b (cho\u0107 w tym roku ma\u0142o tego by\u0142o), wtedy czas na granie schodzi na inn\u0105 form\u0119 rekreacji przy kompie. Wiec czas mam bo nie ogl\u0105dam ju\u017c sportu a filmy niemal tylko rodzinnie (sam raptem nowe sezony Vox machiny i Lower Decks tylko w tym roku).\n\nRaz na miesi\u0105c albo dwa jednak robi\u0119 sobie takie zarwanie nocki jak za dzieciaka albo LAN party z ekip\u0105 raz na p\u00f3\u0142 roku w starocie (UT, Starcraft, etc.)"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
             "title": "Biecz galeria barbara rudzi\u0144ska",
             "link": "https://gazetakrakowska.pl/tag/biecz-galeria-barbara-rudzinska",
             "description": "M\u00f3wi, \u017ce z malowania mo\u017cna \u017cy\u0107, bo gdyby tak nie by\u0142o, poszuka\u0142aby innej pracy. Z drugiej strony, czasem, jak si\u0119 mocno ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.EE8eKH0m6NZZoG4vLL9Qby&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Gazeta Krakowska20 godz.",
+            "date": "Gazeta Krakowska23 godz.",
             "source": "Gazeta Krakowska",
             "article_content": "Content not available"
         }
@@ -26,7 +42,7 @@
             "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.rXY4IFBt9hVZAYwsRbQrPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "gk24.pl7 godz.",
+            "date": "gk24.pl11 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -42,7 +58,7 @@
             "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.t1QK1sAR9iO3s-WDsfSnTS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "gs24.pl7 godz.",
+            "date": "gs24.pl11 godz.",
             "source": "gs24.pl",
             "article_content": "Content not available"
         }
@@ -58,7 +74,7 @@
             "description": "Wiele os\u00f3b mo\u017ce nawet nie zdawa\u0107 sobie sprawy z tego, \u017ce posiadaj\u0105 w domu skarb farty fortun\u0119. Chodzi tu konkretnie o monety ...",
             "image_url": "https://www.bing.pl/th?id=OVF.%2f%2bi9bqDu5GvicvZA93YYbA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Biznesinfo on MSN4 godz.",
+            "date": "Biznesinfo on MSN8 godz.",
             "source": "Biznesinfo on MSN",
             "article_content": ""
         }
@@ -74,7 +90,7 @@
             "description": "Ta porcelana z PRL jest warta maj\u0105tek! Unikatowe zestawy, talerze, fili\u017canki z PRL. Tych przedmiot\u00f3w szukaj\u0105 kolekcjonerzy! Z pewno\u015bci\u0105 wiele os\u00f3b nie zdaje sobie sprawy, \u017ce mo\u017ce posiada\u0107 w swoim domu ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "gk24.pl7 godz.",
+            "date": "gk24.pl11 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -90,7 +106,7 @@
             "description": "Oto banknoty, kt\u00f3re strac\u0105 wa\u017cno\u015b\u0107 w 2024 roku. Mo\u017ce si\u0119 okaza\u0107, \u017ce w portfelu posiadasz banknoty, kt\u00f3rymi nie mo\u017cna p\u0142aci\u0107. Mowa tutaj o pieni\u0105dzach zniszczonych i uszkodzonych. Trac\u0105 one wa\u017cno\u015b\u0107 i ...",
             "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "gs24.pl6 godz.",
+            "date": "gs24.pl10 godz.",
             "source": "gs24.pl",
             "article_content": "Content not available"
         }
@@ -106,7 +122,7 @@
             "description": "Stara porcelana z czas\u00f3w PRL, w 2024 roku cieszy si\u0119 rosn\u0105cym zainteresowaniem. Niekt\u00f3re egzemplarze mog\u0105 by\u0107 dzi\u015b bardzo ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.eujsUo8yckH2_dLmPKBIFi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN18 godz.",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN22 godz.",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
             "article_content": ""
         }
@@ -122,7 +138,7 @@
             "description": "Obecnie zwracamy olbrzymi\u0105 uwag\u0119 na wystr\u00f3j swoich dom\u00f3w czy mieszka\u0144, a w\u0142a\u015bnie takie przedmioty, unikatowe, wyr\u00f3\u017cniaj\u0105ce si\u0119 barwami, motywami i wzorami, jak porcelana czy ceramika z czas\u00f3w PRL, ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "gk24.pl7 godz.",
+            "date": "gk24.pl10 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -138,7 +154,7 @@
             "description": "Pier\u015bcionki ze srebra z kamieniami p\u00f3\u0142szlachetnymi, np. bursztynem czy agatem, mog\u0105 kosztowa\u0107 od 200 do 800 z\u0142, w zale\u017cno\u015bci ...",
             "image_url": "https://www.bing.pl/th?id=OVF.8a10CV8KgmtKMv3VWJ6b3g&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Pomorska4 godz.",
+            "date": "Pomorska8 godz.",
             "source": "Pomorska",
             "article_content": "Content not available"
         }
@@ -154,7 +170,7 @@
             "description": "Ta porcelana z PRL jest warta maj\u0105tek! Unikatowe zestawy, talerze, fili\u017canki z PRL. Tych przedmiot\u00f3w szukaj\u0105 kolekcjonerzy! Z pewno\u015bci\u0105 wiele os\u00f3b nie zdaje sobie sprawy, \u017ce mo\u017ce posiada\u0107 w swoim domu ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "gk24.pl7 godz.",
+            "date": "gk24.pl11 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -170,7 +186,7 @@
             "description": "W Poznaniu, tu\u017c obok dworca Pozna\u0144 G\u0142\u00f3wny i galerii handlowej Avenida, ponownie zago\u015bci\u0142 \"Niedzielny Targ Pozna\u0144\". 24 listopada, odby\u0142a si\u0119 kolejna edycja wydarzenia, kt\u00f3re przyci\u0105gn\u0119\u0142o t\u0142umy ...",
             "image_url": "https://www.bing.pl/th?id=ODF.U-Vp0xK7SYVhjnH4oToWdw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "gloswielkopolski5 godz.",
+            "date": "gloswielkopolski9 godz.",
             "source": "gloswielkopolski",
             "article_content": "Content not available"
         }
@@ -186,7 +202,7 @@
             "description": "Nie wszyscy wiedz\u0105, \u017ce Romuald Lipko za\u0142o\u017cyciel Budki Suflera przed \u015bmierci\u0105 przez wiele lat mieszka\u0142 w domu przy ulicy S\u0142onecznej w Kazimierzu Dolnym. Teraz posiad\u0142o\u015b\u0107 trafi\u0142a pod m\u0142otek, a will\u0119 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.lto-jgjLT22CJn-xbZRKjA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Kurier Lubelski on MSN4 godz.",
+            "date": "Kurier Lubelski on MSN8 godz.",
             "source": "Kurier Lubelski on MSN",
             "article_content": ""
         }
@@ -202,7 +218,7 @@
             "description": "M\u00f3wi, \u017ce z malowania mo\u017cna \u017cy\u0107, bo gdyby tak nie by\u0142o, poszuka\u0142aby innej pracy. Z drugiej strony, czasem, jak si\u0119 mocno ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.EE8eKH0m6NZZoG4vLL9Qby&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Gazeta Krakowska20 godz.",
+            "date": "Gazeta Krakowska23 godz.",
             "source": "Gazeta Krakowska",
             "article_content": "Content not available"
         }
@@ -213,44 +229,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Ameryko, posu\u0144 si\u0119 i zr\u00f3b miejsce Hiszpanii. \"Synonim pora\u017cki\" wyrwa\u0142 si\u0119 ze spirali \u015bmierci i prze\u015bcign\u0105\u0142 USA",
-            "link": "https://wiadomosci.onet.pl/swiat/kryzys-jaki-kryzys-hiszpania-na-drodze-do-bycia-najlepsza-gospodarka-swiata/ffr7x0m",
-            "description": "Jeszcze niedawno Hiszpania by\u0142a synonimem kryzysu i gospodarczej pora\u017cki. Hiszpa\u0144ski rz\u0105d i banki wydawa\u0142y si\u0119 by\u0107 zamkni\u0119te w spirali \u015bmierci i uzale\u017cnione od pomocy finansowej. M\u0142odzi ludzie wyje\u017cd\u017c ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.qVZJCEn4Awd3TcXwomvMuQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Gdzie na nordic walking do 69 km od Koszalina. Pomys\u0142y na odrobin\u0119 ruchu - weekend 21 - 22 grudnia",
+            "link": "https://koszalin.naszemiasto.pl/gdzie-na-nordic-walking-do-69-km-od-koszalina-pomysly-na-odrobine-ruchu-weekend-21-22-grudnia/ar/c7p1-22318903",
+            "description": "W sobot\u0119 21 grudnia wed\u0142ug prognozy pogody ma by\u0107 5\u00b0C. Prawdopodobie\u0144stwo wyst\u0105pienia deszczu wynosi 70%. W niedziel\u0119 22 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.CYRdFFncK7WzktJg2Eqh6S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Onet Wiadomosci21 godz.",
-            "source": "Onet Wiadomosci",
-            "article_content": "Analiza brytyjskiego tygodnika zosta\u0142a oparta o szereg miar, w tym wzrost PKB, inflacj\u0119, bezrobocie, polityk\u0119 fiskaln\u0105 i wyniki gie\u0142dowe. Zar\u00f3wno og\u00f3lny wzrost gospodarczy, jak i tempo tworzenia miejsc pracy w Hiszpanii s\u0105 szybsze ni\u017c w Ameryce, kt\u00f3ra d\u0142ugo by\u0142a obiektem zazdro\u015bci bogatego \u015bwiata.\n\nGrecja i Irlandia, kt\u00f3re r\u00f3wnie\u017c by\u0142y dotkni\u0119te kryzysem dekad\u0119 temu, te\u017c radzi\u0142y sobie dobrze w 2024 r. Podobnie jak Dania, gdzie gospodarka zosta\u0142a pobudzona przez sukces lek\u00f3w Novo Nordisk przeciwko oty\u0142o\u015bci. Ale to Hiszpania stanowi najlepsz\u0105 odpowied\u017a dla tych, kt\u00f3rzy twierdz\u0105, \u017ce Europa jest skazana na stagnacj\u0119. Jej gospodarka czerpie korzy\u015bci z wcze\u015bniejszych reform. Daje to lekcje dla reszty kontynentu, ale powinno r\u00f3wnie\u017c s\u0142u\u017cy\u0107 jako ostrze\u017cenie dla hiszpa\u0144skich decydent\u00f3w politycznych.\n\nLekcja nr 1: skupienie si\u0119 na us\u0142ugach\n\nJedn\u0105 z lekcji jest skupienie si\u0119 na us\u0142ugach i niefetyszyzowanie produkcji. Chocia\u017c produkcja przemys\u0142owa w Hiszpanii nie spada\u0142a tak szybko jak w Niemczech, cz\u0119\u015bciowo dzi\u0119ki ni\u017cszym kosztom energii, to jednak nadal znajdowa\u0142a si\u0119 w stagnacji.\n\nAle turystyka odbi\u0142a si\u0119 od pandemicznego minimum, a kraj przesuwa si\u0119 w g\u00f3r\u0119 \u0142a\u0144cucha warto\u015bci, coraz cz\u0119\u015bciej eksportuj\u0105c us\u0142ugi konsultingowe i wiedz\u0119 technologiczn\u0105, tak jak s\u0142o\u0144ce i sangri\u0119. Us\u0142ugi nieturystyczne wzros\u0142y z oko\u0142o 5,5 proc. PKB przed pandemi\u0105 do 7-8 proc. obecnie, twierdzi bank BBVA.\n\nLekcja nr 2: otwarcie na imigracj\u0119\n\nKolejn\u0105 lekcj\u0105 jest bycie otwartym. Podczas gdy m\u0142odzi ludzie kiedy\u015b opuszczali Hiszpani\u0119 w poszukiwaniu mo\u017cliwo\u015bci, teraz zamiast tego przyje\u017cd\u017caj\u0105. Od 2019 r. liczba pracownik\u00f3w urodzonych za granic\u0105 wzros\u0142a o oko\u0142o 1,2 mln, g\u0142\u00f3wnie z Ameryki \u0141aci\u0144skiej.\n\nWielu z tych migrant\u00f3w pracuje na nisko p\u0142atnych stanowiskach wymagaj\u0105cych niewielkich kwalifikacji, co oznacza, \u017ce cho\u0107 gospodarka jest o siedem proc. wi\u0119ksza ni\u017c w 2019 r., to po skorygowaniu o wzrost liczby ludno\u015bci jest to tylko wzrost o trzy proc. Nadal to lepszy wynik ni\u017c w krajach takich jak Wielka Brytania i Kanada, kt\u00f3re odnotowa\u0142y podobny boom imigracyjny, ale spadek PKB na osob\u0119.\n\nLekcja nr 3: wsp\u00f3\u0142praca z Chinami\n\nHiszpania z zadowoleniem przyj\u0119\u0142a r\u00f3wnie\u017c inwestycje chi\u0144skich firm. 10 grudnia Stellantis, producent samochod\u00f3w, i CATL, chi\u0144ski producent akumulator\u00f3w, og\u0142osi\u0142y, \u017ce zbuduj\u0105 now\u0105 fabryk\u0119 akumulator\u00f3w w Saragossie (najwi\u0119kszy udzia\u0142owiec Stellantis, Exor, jest wsp\u00f3\u0142w\u0142a\u015bcicielem sp\u00f3\u0142ki-matki \"The Economist\"). Chery International, chi\u0144ski producent samochod\u00f3w, wybra\u0142 Barcelon\u0119 na lokalizacj\u0119 swojego pierwszego europejskiego zak\u0142adu produkcyjnego.\n\nDalszy ci\u0105g materia\u0142u pod wideo\n\nLekcja nr 4: korzystne reformy\n\nCo najwa\u017cniejsze, Hiszpania pokazuje, \u017ce reformy strukturalne przynosz\u0105 d\u0142ugoterminowe korzy\u015bci. Wiele z jej ostatnich sukces\u00f3w odzwierciedla decyzje podj\u0119te po kryzysie finansowym w celu zreformowania bank\u00f3w i rynku pracy.\n\nSektor finansowy uleg\u0142 konsolidacji, a reformy rynku pracy u\u0142atwi\u0142y renegocjacj\u0119 um\u00f3w i zach\u0119ci\u0142y szef\u00f3w do zatrudniania wi\u0119kszej liczby sta\u0142ych pracownik\u00f3w. Pakiet \u015brodk\u00f3w maj\u0105cych na celu pobudzenie odnawialnych \u017ar\u00f3de\u0142 energii, w tym zniesienie \"podatku s\u0142onecznego\", kt\u00f3ry nak\u0142ada\u0142 dodatkowe op\u0142aty na energi\u0119 s\u0142oneczn\u0105, pom\u00f3g\u0142 w rozkwicie zielonej energii.\n\nOstrze\u017cenie\n\nHiszpania nie mo\u017ce jednak spa\u0107 spokojnie. Turystyka i imigracja podbijaj\u0105 ceny mieszka\u0144, inwestycje i wzrost wydajno\u015bci pozostaj\u0105 nieuchwytne. Kruchy rz\u0105d koalicyjny zmierza w z\u0142ym kierunku. Nie jest w stanie przeprowadzi\u0107 dalszych reform niezb\u0119dnych do pobudzenia d\u0142ugoterminowego wzrostu, w tym w dziedzinie edukacji i us\u0142ug. Przyjmuje skomplikowane regulacje, podnosz\u0105c koszty dla przedsi\u0119biorstw.\n\nKraj b\u0119dzie r\u00f3wnie\u017c musia\u0142 znale\u017a\u0107 pieni\u0105dze na zwi\u0119kszenie wydatk\u00f3w na obronno\u015b\u0107, kt\u00f3re na poziomie zaledwie 1,3 proc. PKB s\u0105 zdecydowanie zbyt niskie. Mimo to Hiszpania pokazuje, \u017ce europejskie gospodarki mog\u0105 przezwyci\u0119\u017cy\u0107 pozornie niemo\u017cliwe do pokonania wyzwania. Musi jednak uwa\u017ca\u0107, aby nie sta\u0107 si\u0119 ilustracj\u0105 niebezpiecze\u0144stwa stania w miejscu."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Prymas Polski przewodniczy\u0142 Mszy \u015bw. roratniej dla m\u0142odych",
-            "link": "https://www.ekai.pl/prymas-polski-przewodniczyl-mszy-sw-roratniej-dla-mlodych/",
-            "description": "Drabina jako metafora ludzkiego \u017cycia by\u0142a motywem przewodnim wtorkowych rorat w podziemiach katedry gnie\u017anie\u0144skiej, kt\u00f3re ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.Hny9WMVBDt_7O7OnC-fT-y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "procesja Bo\u017cego21 godz.",
-            "source": "procesja Bo\u017cego",
-            "article_content": "Drabina jako metafora ludzkiego \u017cycia by\u0142a motywem przewodnim wtorkowych rorat w podziemiach katedry gnie\u017anie\u0144skiej, kt\u00f3re wsp\u00f3lnie z m\u0142odzie\u017c\u0105 prze\u017cy\u0142 abp Wojciech Polak. \u201eNa ka\u017cdym szczeblu tej drabiny mo\u017cemy spotka\u0107 Boga, je\u015bli pi\u0105\u0107 si\u0119 po niej b\u0119dziemy z wiar\u0105 i ufno\u015bci\u0105\u201d \u2013 m\u00f3wi\u0142 Prymas.\n\nRoraty w katedralnych podziemiach odbywaj\u0105 si\u0119 w ka\u017cdy wtorek i pi\u0105tek gromadz\u0105c m\u0142odzie\u017c, ale i wszystkich ch\u0119tnych. Msze \u015bw. celebruj\u0105 i homilie g\u0142osz\u0105 kap\u0142ani zwi\u0105zani z duszpasterstwem m\u0142odych i parafi\u0105 katedraln\u0105. We wtorek 17 grudnia z m\u0142odymi modli\u0142 si\u0119 Prymas Polski abp Wojciech Polak, kt\u00f3ry przypomnia\u0142, \u017ce B\u00f3g chce nam towarzyszy\u0107 na ka\u017cdym etapie naszego \u017cycia.\n\n\u201eMy idziemy w g\u00f3r\u0119, a On schodzi do nas w d\u00f3\u0142 i na ka\u017cdym szczeblu tej drabiny mo\u017cemy Go spotka\u0107, je\u015bli pi\u0105\u0107 si\u0119 po niej b\u0119dziemy z wiar\u0105 i ufno\u015bci\u0105\u201d \u2013 m\u00f3wi\u0142 Prymas nawi\u0105zuj\u0105c do homilii wyg\u0142oszonej wcze\u015bniej przez diecezjalnego duszpasterza powo\u0142a\u0144 ks. Marcina Wawrzyniaka. Wykorzystuj\u0105c motyw drabiny kap\u0142an m\u00f3wi\u0142 o w\u0142\u0105czaniu si\u0119 Boga w \u017cycie cz\u0142owieka, ale i naszym si\u0119ganiu ku Bogu.\n\n\u201eStary Testament wielokrotnie pokazuje tak\u0105 zale\u017cno\u015b\u0107, \u017ce im jeste\u015bmy wy\u017cej tym bli\u017cej Boga. Dlatego wspinanie si\u0119 ku g\u00f3rze mo\u017cemy odczyta\u0107 jako wspinanie si\u0119 do Boga. Taki ma by\u0107 kierunek naszego \u017cycia, nastawiony na Boga, na d\u0105\u017cenie w Jego stron\u0119\u201d \u2013 wskaza\u0142 przestrzegaj\u0105c jednocze\u015bnie przed nadmiernym po\u015bpiechem i pokus\u0105, by przeskoczy\u0107 kolejne szczeble.\n\n\u201ePotrzeba i\u015b\u0107 krok po kroku. Ryzykowne mo\u017ce by\u0107 przyspieszanie i wchodzenie przeskakuj\u0105c co drugi szczebelek. Mo\u017cna si\u0119 wtedy potkn\u0105\u0107. Podobnie i w naszym \u017cyciu, kiedy wybiegamy za bardzo naprz\u00f3d, kiedy tracimy grunt pod nogami, zaczynamy czu\u0107 przera\u017cenie. Warto skupi\u0107 si\u0119 na kroku, kt\u00f3ry masz postawi\u0107 teraz. Warto zastanowi\u0107 si\u0119, co dzisiaj przyniesie Ci twoje \u017cycie. Ka\u017cdy dzie\u0144, dobrze prze\u017cyty, to kolejny wa\u017cny krok naszego \u017cycia\u201d \u2013 m\u00f3wi\u0142 m\u0142odym ks. Wawrzyniak.\n\nW czasie Mszy \u015bw. roratniej modlono si\u0119 za papie\u017ca Franciszka, kt\u00f3ry \u2013 jak przypomnia\u0142 abp Polak \u2013 obchodzi 17 grudnia 88. urodziny. To w\u0142a\u015bnie or\u0119dzie Ojca \u015awi\u0119tego do m\u0142odych na tegoroczny \u015awiatowy Dzie\u0144 M\u0142odzie\u017cy sta\u0142o si\u0119 inspiracj\u0105 roratnich rozwa\u017ca\u0144, kt\u00f3rym towarzyszy wsp\u00f3lne has\u0142o \u201eZaufaj\u201d. Miejsce modlitwy r\u00f3wnie\u017c jest szczeg\u00f3lne \u2013 kaplica b\u0142. Radzyma Gaudentego, pierwszego arcybiskupa metropolity gnie\u017anie\u0144skiego w podziemiach katedry gnie\u017anie\u0144skiej, gdzie znajduj\u0105 si\u0119 relikty najstarszych \u015bwi\u0105ty\u0144 z czas\u00f3w Mieszka I i Boles\u0142awa Chrobrego. Nawi\u0105zanie do historii jest nieprzypadkowe \u2013 archidiecezja gnie\u017anie\u0144ska b\u0119dzie w 2025 roku obchodzi\u0107 1000-lecie pierwszych koronacji kr\u00f3lewskich w katedrze gnie\u017anie\u0144skiej i 1025-lecie istnienia.\n\nPo roratach m\u0142odzi jak zawsze zjedli wsp\u00f3lnie \u015bniadania w Lamusie czyli domu Diecezjalnego Duszpasterstwa M\u0142odych \u2013 tym razem tak\u017ce w towarzystwie abp. Wojciecha Polaka."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Gdzie na nordic walking do 69 km od Koszalina. Podpowiadamy, gdzie warto si\u0119 wybra\u0107 w weekend 21 - 22 grudnia",
-            "link": "https://koszalin.naszemiasto.pl/gdzie-na-nordic-walking-do-69-km-od-koszalina-podpowiadamy-gdzie-warto-sie-wybrac-w-weekend-21-22-grudnia/ar/c7p1-22318903",
-            "description": "W sobot\u0119 21 grudnia wed\u0142ug prognozy pogody ma by\u0107 6\u00b0C. Prawdopodobie\u0144stwo wyst\u0105pienia deszczu wynosi 62%. W niedziel\u0119 22 grudnia zgodnie z najnowszymi prognozami pogody ma by\u0107 7\u00b0C w najcieplejszym ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.2lnLIQe5bnM9ixvXVTSDQg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "relikty",
-            "date": "koszalin.naszemiasto21 godz.",
+            "date": "koszalin.naszemiasto1 godz.",
             "source": "koszalin.naszemiasto",
             "article_content": "Content not available"
         }
@@ -261,13 +245,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "\u015acie\u017cki rowerowe do 19 km od O\u015bwi\u0119cimia. Podpowiedzi jednodniowych wypraw. Gdzie w weekend 21 - 22 grudnia?",
-            "link": "https://oswiecim.naszemiasto.pl/sciezki-rowerowe-do-19-km-od-oswiecimia-podpowiedzi-jednodniowych-wypraw-gdzie-w-weekend-21-22-grudnia/ar/c7p1-21831633",
-            "description": "Nim wyruszysz w drog\u0119, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 21 grudnia w O\u015bwi\u0119cimiu ma by\u0107 4\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 22 grudnia w O\u015bwi\u0119cimiu ma by\u0107 5\u00b0C. Prawdopodobie\u0144stwo pojawienia ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.hU9b0B80CrRL-uqx7ot5XQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Rowerem do 18 km od Grodziska Mazowieckiego. Pomys\u0142y na jednodniowy wypad. Gdzie w weekend 21 - 22 grudnia?",
+            "link": "https://grodziskmazowiecki.naszemiasto.pl/rowerem-do-18-km-od-grodziska-mazowieckiego-pomysly-na-jednodniowy-wypad-gdzie-w-weekend-21-22-grudnia/ar/c7p1-21831681",
+            "description": "Zanim wyruszysz w drog\u0119, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 21 grudnia w Grodzisku Mazowieckim ma by\u0107 4\u00b0C. Nie powinno ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.DSMebaf5WRfLEp3MlS0lRC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "oswiecim.naszemiasto22 godz.",
-            "source": "oswiecim.naszemiasto",
+            "date": "grodziskmazowiecki.naszemiasto3 godz.",
+            "source": "grodziskmazowiecki.naszemiasto",
             "article_content": "Content not available"
         }
     },
@@ -277,13 +261,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Wycieczki rowerowe do 34 km od Pleszewa. Pomys\u0142y na jednodniowy wypad. Gdzie w weekend 21 - 22 grudnia?",
-            "link": "https://pleszew.naszemiasto.pl/wycieczki-rowerowe-do-34-km-od-pleszewa-pomysly-na-jednodniowy-wypad-gdzie-w-weekend-21-22-grudnia/ar/c7p1-21831917",
-            "description": "Zanim wyruszysz w tras\u0119, sprawd\u017a, jaka b\u0119dzie pogoda. W sobot\u0119 21 grudnia w Pleszewie ma by\u0107 5\u00b0C. Prawdopodobie\u0144stwo wyst\u0105pienia deszczu wynosi 25%. W niedziel\u0119 22 grudnia w Pleszewie ma by\u0107 6\u00b0C.",
-            "image_url": "https://www.bing.pl/th?id=ODF.I2rfHusTno6Ysu_YcxuMRg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "\u015acie\u017cki nordic walking do 6 km od Ko\u0142obrzegu. Podpowiedzi ciekawych tras na weekend 21 - 22 grudnia",
+            "link": "https://kolobrzeg.naszemiasto.pl/sciezki-nordic-walking-do-6-km-od-kolobrzegu-podpowiedzi-ciekawych-tras-na-weekend-21-22-grudnia/ar/c7p1-22319027",
+            "description": "W sobot\u0119 21 grudnia wed\u0142ug prognozy pogody ma by\u0107 6\u00b0C. Prawdopodobie\u0144stwo wyst\u0105pienia deszczu wynosi 62%. W niedziel\u0119 22 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.vMjrvTtmrLLvcjpR4elFky&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "pleszew.naszemiasto22 godz.",
-            "source": "pleszew.naszemiasto",
+            "date": "kolobrzeg.naszemiasto2 godz.",
+            "source": "kolobrzeg.naszemiasto",
             "article_content": "Content not available"
         }
     },
@@ -293,14 +277,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Dworzec PKP w Cz\u0119stochowie do wyburzenia. Spo\u0142ecznicy stanowczo si\u0119 temu sprzeciwiaj\u0105. \"To marnotrawstwo, powinien by\u0107 wyremontowany\"",
-            "link": "https://www.msn.com/pl-pl/news/other/dworzec-pkp-w-cz%C4%99stochowie-do-wyburzenia-spo%C5%82ecznicy-stanowczo-si%C4%99-temu-sprzeciwiaj%C4%85-to-marnotrawstwo-powinien-by%C4%87-wyremontowany/ar-AA1w5aP5?ocid=BingNewsVerp",
-            "description": "Jak bumerang powraca temat plan\u00f3w PKP dotycz\u0105cych wyburzenia dworca w Cz\u0119stochowie i wybudowania w tym miejscu nowego obiektu ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.9cTbFGLvyqXIK_mQfGDE2C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Konrad Fijo\u0142ek o braku bud\u017cetu Rzeszowa na przysz\u0142y rok: \"Tragedia, armagedon\". O co tak naprawd\u0119 chodzi opozycji?",
+            "link": "https://rzeszow.wyborcza.pl/rzeszow/7,34962,31555636,konrad-fijolek-o-braku-budzetu-rzeszowa-na-przyszly-rok-tragedia.html",
+            "description": "Totalny chaos, kary liczone w milionach z\u0142otych i brak mo\u017cliwo\u015bci dzia\u0142ania przez miasto przez kilka lat - tak o nieprzyj\u0119ciu ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.xM4tGfQR_M3mTASHQL7ltS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "dziennikzachodni.pl on MSN38 min",
-            "source": "dziennikzachodni.pl on MSN",
+            "date": "rzeszow.wyborcza1 godz.",
+            "source": "rzeszow.wyborcza",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Tanie wakacje all inclusive? Od 1 stycznia tury\u015bci ju\u017c nie zrobi\u0105 tu jednej rzeczy",
+            "link": "https://www.fakt.pl/hobby/turystyka/co-jest-potrzebne-do-wjazdu-do-tunezji-zmiany-nie-uciesza-turystow-z-polski/sqd0jkx",
+            "description": "Wakacje all inclusive w popularnym kraju od przysz\u0142ego roku nie b\u0119d\u0105 ju\u017c takie same. Tury\u015bci z Polski planuj\u0105cy wczasy po 1 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.qH6ENuAYgd9le9B5rhgCvy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Fakt.pl1 godz.",
+            "source": "Fakt.pl",
+            "article_content": "Polacy uwielbiaj\u0105 lata\u0107 na wczasy do tzw. ciep\u0142ych kraj\u00f3w. Szczeg\u00f3ln\u0105 popularno\u015bci\u0105 ciesz\u0105 si\u0119 wyjazdy w formule all inclusive do pa\u0144stw, takich jak: Egipt, Turcja, Grecja czy Tunezja. Wjazd do tego ostatniego kraju od przysz\u0142ego roku b\u0119dzie si\u0119 odbywa\u0142 na nieco innych warunkach. Dla wielu os\u00f3b nie b\u0119dzie to dobra wiadomo\u015b\u0107.\n\nTunezja to czwarty pod wzgl\u0119dem popularno\u015bci kierunek wakacyjny w\u015br\u00f3d turyst\u00f3w z Polski. W sierpniu tego roku podr\u00f3\u017cni otrzymali dobr\u0105 wiadomo\u015b\u0107. W\u0142adze afryka\u0144skiego pa\u0144stwa znios\u0142y obowi\u0105zek posiadania przy sobie paszportu, w zwi\u0105zku z czym Polacy mogli wje\u017cd\u017ca\u0107 na teren kraju, okazuj\u0105c si\u0119 dowodem osobistym. Jedynym warunkiem by\u0142 bilet powrotny oraz zakwaterowanie na czas pobytu.\n\nOd samego pocz\u0105tku Tunezja podkre\u015bla\u0142a jednak, \u017ce jest to rozwi\u0105zanie tymczasowe, obowi\u0105zuj\u0105ce do ko\u0144ca 2024 r. Mimo to wielu wczasowicz\u00f3w po cichu liczy\u0142o, \u017ce wjazd na dow\u00f3d osobisty zostanie przed\u0142u\u017cony r\u00f3wnie\u017c na przysz\u0142y rok. Tak si\u0119 niestety nie sta\u0142o.\n\nProcedura akceptowania wjazdu do Tunezji na podstawie dowodu osobistego dla obywateli Unii Europejskiej zostanie zako\u0144czona 31 grudnia 2024 roku. Od 1 stycznia wymaganym dokumentem do wjazdu do Tunezji b\u0119dzie paszport\n\n\u2014 przekaza\u0142 Naoufel Gannouni, dyrektor Tunezyjskiego Urz\u0119du ds. Turystyki na Polsk\u0119, w rozmowie z serwisem fly4free.pl.\n\nZ czego s\u0142ynie Tunezja?\n\nTunezja le\u017cy w p\u00f3\u0142nocnej Afryce, nad Morzem \u015ar\u00f3dziemnym. Pa\u0144stwo to s\u0142ynie przede wszystkim ze s\u0142onecznej pogody, kurort\u00f3w turystycznych, bia\u0142ych piaszczystych pla\u017c nad turkusow\u0105 wod\u0105 oraz pi\u0119knych widok\u00f3w.\n\nZnajdziemy tam zar\u00f3wno zielone gaje oliwne, dzikie pustynie, jak i majestatyczne G\u00f3ry Atlas. B\u0119d\u0105c na miejscu, warto odwiedzi\u0107 m.in. zabytkowy Amfiteatr w El Jem, oazy g\u00f3rskie Chebika i Tamerza, wpisan\u0105 na List\u0119 \u015awiatowego Dziedzictwa UNESCO Kartagin\u0119 oraz pustynne miasteczko Tatooine, gdzie kr\u0119cono \"Gwiezdne Wojny\".\n\n\u0179r\u00f3d\u0142o: fly4free.pl\n\nPrzeczytaj r\u00f3wnie\u017c:\n\nLecisz na wakacje? Koniecznie sprawd\u017a te cyfry w twoim paszporcie. Inaczej nici z urlopu\n\n\"Lec\u0119 do Dubaju, mog\u0119 na paszporcie tymczasowym?\". Bolesna nauczka polskiej turystki. I to dzie\u0144 przed wylotem!\n\nMia\u0142a to w paszporcie, dlatego nie wpuszczono jej do samolotu. Sprawd\u017acie sw\u00f3j dokument. Ka\u017cdy mo\u017ce to mie\u0107"
         }
     },
     {
@@ -314,9 +314,25 @@
             "description": "Dzi\u015b na Lotnisku Chopina podczas rutynowej kontroli baga\u017cu podr\u0119cznego, jeden z podr\u00f3\u017cnych mia\u0142 przy sobie przedmiot ...",
             "image_url": "https://www.bing.pl/th?id=OVF.X9VQRusVJN%2fbuOfDyG4PeQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Warszawa Naszemiasto on MSN2 godz.",
+            "date": "Warszawa Naszemiasto on MSN6 godz.",
             "source": "Warszawa Naszemiasto on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "\u015acie\u017cki na spacer w woj. wielkopolskim. Gdzie wybra\u0107 si\u0119 w weekend 21 - 22 grudnia? 10 najciekawszych tras",
+            "link": "https://gloswielkopolski.pl/sciezki-na-spacer-w-woj-wielkopolskim-gdzie-wybrac-sie-w-weekend-21-22-grudnia-10-najciekawszych-tras/ar/c7p1-22116473",
+            "description": "Zanim wyruszysz, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 21 grudnia w woj. wielkopolskim ma by\u0107 od 3\u00b0C do 6\u00b0C. Nie powinno ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.jlSW5FYkQ5_7bwn0VP-jNS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "gloswielkopolski2 godz.",
+            "source": "gloswielkopolski",
+            "article_content": "Content not available"
         }
     },
     {
@@ -330,41 +346,9 @@
             "description": "Zabawki towarzysz\u0105 ludziom od wiek\u00f3w, b\u0119d\u0105c jednocze\u015bnie \u017ar\u00f3d\u0142em rado\u015bci dla dzieci i lustrem odbijaj\u0105cym rzeczywisto\u015b\u0107 epok, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.BPs2cfl7RpJwEZTkppXryy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Radio Krak\u00f3w S.A.30 min",
+            "date": "Radio Krak\u00f3w S.A.4 godz.",
             "source": "Radio Krak\u00f3w S.A.",
             "article_content": "Pocz\u0105tki kolekcji rodziny Sosenk\u00f3w\n\nHistoria kolekcji zaczyna si\u0119 w latach siedemdziesi\u0105tych, gdy Marek Sosenko zaanga\u017cowa\u0142 si\u0119 w prac\u0119 nad serialem \"Parada oszust\u00f3w\". W ramach projektu poszukiwa\u0142 unikalnych rekwizyt\u00f3w, kt\u00f3re wydawa\u0142y si\u0119 ju\u017c dawno zapomniane. Te poszukiwania sta\u0142y si\u0119 okazj\u0105 do poznania ludzi, kt\u00f3rzy pomagali mu dotrze\u0107 do przedmiot\u00f3w o ogromnej warto\u015bci historycznej.\n\nW serialu \"Parada oszust\u00f3w\" zajmowa\u0142em si\u0119 kwesti\u0105 doradztwa i znajdowania najr\u00f3\u017cniejszych rekwizyt\u00f3w, g\u0142\u00f3wnie takich, kt\u00f3re wydawa\u0142oby si\u0119, \u017ce ju\u017c przesta\u0142y istnie\u0107. Pozna\u0142em bardzo wiele os\u00f3b \u017cyczliwych, a jedn\u0105 z nich by\u0142a pani, kt\u00f3ra postanowi\u0142a wyprowadzi\u0107 si\u0119 z Polski na sta\u0142e i musia\u0142a zlikwidowa\u0107 wielopokoleniowe zasoby mieszkaniowe. Tam by\u0142y w\u0142a\u015bciwie wszelkiego typu przedmioty, w tym mn\u00f3stwo zabawek \u2013 wspomina Marek Sosenko.\n\nW latach sze\u015b\u0107dziesi\u0105tych i siedemdziesi\u0105tych, gdy w Polsce przeprowadzano tzw. akcje porz\u0105dkowe, wiele cennych zabytk\u00f3w i pami\u0105tek zosta\u0142o bezpowrotnie zniszczonych. Jednak dzi\u0119ki determinacji Marka Sosenki uda\u0142o si\u0119 uratowa\u0107 niekt\u00f3re z tych przedmiot\u00f3w. Na pocz\u0105tku jego kolekcja zabawek by\u0142a skromna \u2013 zawiera\u0142a zaledwie kilka lalek. Sytuacja zmieni\u0142a si\u0119, gdy w latach osiemdziesi\u0105tych zorganizowa\u0142 wystaw\u0119 w krakowskim klubie kolekcjoner\u00f3w. Zainteresowanie spo\u0142eczne pomog\u0142o w szybkim powi\u0119kszeniu zbior\u00f3w. Ludzie zacz\u0119li dostrzega\u0107 warto\u015b\u0107 historyczn\u0105 zabawek i ch\u0119tnie przekazywali swoje rodzinne skarby do kolekcji.\n\nKolekcja Fundacji Sosenk\u00f3w to nie tylko zas\u0142uga Marka i jego \u017cony, ale tak\u017ce ich dzieci. Katarzyna Sosenko, najstarsza c\u00f3rka, odziedziczy\u0142a pasj\u0119 rodzic\u00f3w i z czasem sta\u0142a si\u0119 kluczow\u0105 postaci\u0105 w rozwijaniu i profesjonalizowaniu dzia\u0142alno\u015bci fundacji. Dzi\u0119ki jej wykszta\u0142ceniu historycznemu i artystycznemu oraz pracy przy boku ojca, kolekcja zosta\u0142a zdigitalizowana i zinwentaryzowana. Katarzyna organizuje wystawy kuratorskie, kt\u00f3re promuj\u0105 unikatowe zbiory na szerok\u0105 skal\u0119."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Spo\u0142ecznicy w sprawie dworca PKP w Cz\u0119stochowie: powinien by\u0107 przebudowany i wyremontowany, a nie wyburzony",
-            "link": "https://www.msn.com/pl-pl/infrastruktura-miejska/infrastruktura-transportowa/spo%C5%82ecznicy-w-sprawie-dworca-pkp-w-cz%C4%99stochowie-powinien-by%C4%87-przebudowany-i-wyremontowany-a-nie-wyburzony/ar-AA1w5i36?ocid=BingNewsVerp",
-            "description": "\u015al\u0105ski Wojew\u00f3dzki Konserwator Zabytk\u00f3w w Katowicach zauwa\u017ca, \u017ce dworzec w Cz\u0119stochowie oddano do u\u017cytku w 1996 roku, a prace ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.8nT1Nm2mgYwAcaj8enP1BQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Cz\u0119stochowa Naszemiasto on MSN1 godz.",
-            "source": "Cz\u0119stochowa Naszemiasto on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Ewakuacja na Lotnisku Chopina w Warszawie. Nowe informacje",
-            "link": "https://wiadomosci.dziennik.pl/wydarzenia/artykuly/9695188,ewakuacja-na-lotnisku-chopina-w-warszawie-nowe-informacje.html",
-            "description": "Rzeczniczka lotniska, Anna Dermont, potwierdzi\u0142a w rozmowie z TVN24.pl, \u017ce o godzinie 10:00 s\u0142u\u017cby by\u0142y ju\u017c na miejscu.",
-            "image_url": "https://www.bing.pl/th?id=OVFT.A9Z7Sr5nuNoFcxGcXIYz2i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Dziennik2 godz.",
-            "source": "Dziennik",
-            "article_content": "Reklama\n\nNa Lotnisku Chopina trwa ewakuacja po wykryciu podejrzanego przedmiotu w baga\u017cu podr\u0119cznym.\n\nJak informuje portal tvn24.pl, w\u0142\u0105czono alarm, a podr\u00f3\u017cni zostali skierowani w stron\u0119 \"gat\u00f3w\" (pisownia oryginalna).\n\nEwakuacja na Lotnisku Chopina w Warszawie. \"Trwaj\u0105 dzia\u0142ania s\u0142u\u017cb\"\n\nRzeczniczka lotniska, Anna Dermont, potwierdzi\u0142a w rozmowie z TVN24.pl, \u017ce o godzinie 10:00 s\u0142u\u017cby by\u0142y ju\u017c na miejscu. Kontrola bezpiecze\u0144stwa w strefie CDE ujawni\u0142a podejrzany przedmiot, w zwi\u0105zku z czym og\u0142oszono ewakuacj\u0119 strefy. Trwaj\u0105 dzia\u0142ania s\u0142u\u017cb \u2013 powiedzia\u0142a Dermont.\n\nO godzinie 10.45 rzeczniczka Lotniska Chopina poinformowa\u0142a tvn24.pl, \u017ce operacje lotnicze zosta\u0142y wznowione. Jak doda\u0142a, w tej chwili nie ma \u017cadnych odwo\u0142anych ani op\u00f3\u017anionych lot\u00f3w zwi\u0105zanych z ewakuacj\u0105 strefy.\n\n\u0179r\u00f3d\u0142o: TVN24.PL, MEDIA"
         }
     },
     {
@@ -378,9 +362,25 @@
             "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.rXY4IFBt9hVZAYwsRbQrPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "gk24.pl7 godz.",
+            "date": "gk24.pl11 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Rzadkie monety z PRL poszukiwane przez kolekcjoner\u00f3w. Sprawd\u017a, kt\u00f3re s\u0105 najdro\u017csze i ile mo\u017cna za nie zarobi\u0107! 18.12.2024",
+            "link": "https://www.msn.com/pl-pl/finanse/og%C3%B3lne/rzadkie-monety-z-prl-poszukiwane-przez-kolekcjoner%C3%B3w-sprawd%C5%BA-kt%C3%B3re-s%C4%85-najdro%C5%BCsze-i-ile-mo%C5%BCna-za-nie-zarobi%C4%87-18-12-2024/ar-AA1w47uy?ocid=BingNewsVerp",
+            "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.uMNyhMimRqIWw%2fQnZ69H%2fQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+numizmatyka",
+            "date": "Express Ilustrowany on MSN9 godz.",
+            "source": "Express Ilustrowany on MSN",
+            "article_content": ""
         }
     },
     {
@@ -394,7 +394,7 @@
             "description": "W bocznym budynku MOCAK-u, obok Czytelni, znajduje si\u0119 sala, w kt\u00f3rej jest eksponowana Biblioteka Mieczys\u0142awa Por\u0119bskiego. Profesor Mieczys\u0142aw Por\u0119bski ju\u017c wiele lat temu wyrazi\u0142 ch\u0119\u0107 przekazania swoj ...",
             "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "krakow3 godz.",
+            "date": "krakow7 godz.",
             "source": "krakow",
             "article_content": "Krak\u00f3w \u2013 czas okupacji 1939-1945\n\nWystawa mie\u015bci si\u0119 w dawnym budynku administracyjnym Fabryki Emalia Oskara Schindlera przy ul. Lipowej 4 i jest opowie\u015bci\u0105 o Krakowie i losach jego polskich i \u017cydowskich mieszka\u0144c\u00f3w w czasie II wojny \u015bwiatowej, ale te\u017c o Niemcach \u2013 okupantach,..."
         }
@@ -410,7 +410,7 @@
             "description": "Ceremonialny czekan z epoki br\u0105zu, z drugiego tysi\u0105clecia przed Chrystusem, odnaleziono na terenie Bia\u0142o\u0142\u0119ki. To pierwsze ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.C_a9VIVugPYqTqAZIw0CIS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Hostowane na MSN5 godz.",
+            "date": "Hostowane na MSN9 godz.",
             "source": "MSN",
             "article_content": ""
         }
@@ -421,14 +421,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Archeolodzy odkryli niezwyk\u0142e \u015blady w jaskini. To \u015bwiadectwa kultu sprzed 35 tys. lat",
-            "link": "https://www.national-geographic.pl/historia/archeolodzy-odkryli-niezwykle-slady-w-jaskini-to-swiadectwa-kultu-sprzed-35-tys-lat/",
-            "description": "W najciemniejszych zakamarkach olbrzymiej jaskini Manot w Galilei kilkadziesi\u0105t tysi\u0119cy lat temu odbywa\u0142y si\u0119 zagadkowe rytua\u0142y. Ludzie gromadzili si\u0119 wok\u00f3\u0142 kamiennego totemu.",
-            "image_url": "https://www.bing.pl/th?id=ODF.GraCsDDFpARZJlDXW3KSZA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Nic o nim nie wiedzieli. Wa\u017cne odkrycie w Lubelskiem",
+            "link": "https://www.dziennikwschodni.pl/tomaszow-lubelski/odkryto-nowe-stanowisko-archeologiczne-w-woj-lubelskim,n,1000354535.html",
+            "description": "Lubelski Wojew\u00f3dzki Konserwator Zabytk\u00f3w informuje, \u017ce w powiecie tomaszowskim odkryte zosta\u0142o nieznane dot\u0105d stanowisko ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.Tw93st9H6Sd5rqoB5iYeoC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "national-geographic4 godz.",
-            "source": "national-geographic",
-            "article_content": "Spis tre\u015bci:\n\nReklama\n\nJaskinie od dziesi\u0105tk\u00f3w tysi\u0119cy lat przyci\u0105ga\u0142y uwag\u0119 cz\u0142owieka. Najbardziej znane s\u0105 te z Hiszpanii i Francji, gdzie od oko\u0142o 40 do 14 tys. lat temu ludzie pozostawili wielobarwne malowid\u0142a naskalne.\n\nOkazuje si\u0119, \u017ce w innych rejonach \u015bwiata aktywno\u015b\u0107 ludzi w jaskiniach dziesi\u0105tki tysi\u0119cy lat temu wcale nie by\u0142a mniejsza. Grupa naukowc\u00f3w opublikowa\u0142a w\u0142a\u015bnie na \u0142amach periodyku \u201ePNAS\u201d wyniki bada\u0144 w jaskini Manot w Izraelu. Ich zdaniem uda\u0142o si\u0119 im tam znale\u017a\u0107 najstarsze dowody na rytualne zgromadzenia na kontynencie azjatyckim.\n\nKult w ciemnej jaskini\n\nW najg\u0142\u0119bszej i najciemniejszej cz\u0119\u015bci pieczary archeolodzy znale\u017ali rze\u017abiony kamie\u0144, celowo umieszczony w niszy w jaskini. Jego wz\u00f3r przypomina archeologom tr\u00f3jwymiarow\u0105 skorup\u0119 \u017c\u00f3\u0142wia. To dzie\u0142o sztuki pochodzi sprzed 35 tysi\u0119cy lat, wi\u0119c jest wsp\u00f3\u0142czesne z malowid\u0142ami naskalnymi w zachodniej Europie.\n\n\u2013 M\u00f3g\u0142 on [kamie\u0144 \u2013 przyp. red.] reprezentowa\u0107 totem lub posta\u0107 duchow\u0105 \u2013 powiedzia\u0142 szef zespo\u0142u badaczy Omry Barzilai z Uniwersytetu w Hajfie i Izraelskiej S\u0142u\u017cby Zabytk\u00f3w. Totemem nazywamy zwierz\u0119 czy przedmiot otaczany szczeg\u00f3ln\u0105 czci\u0105 przez spo\u0142eczno\u015bci zbieracko-\u0142owieckie. Niekt\u00f3rzy archeolodzy s\u0105dz\u0105, \u017ce by\u0142o swego rodzaju \u201egod\u0142em\u201d danej grupy i obowi\u0105zywa\u0142 zakaz polowania na totemowe zwierz\u0119.\n\nDlaczego badacze uwa\u017caj\u0105, \u017ce stylizowana kamienna skorupa \u017c\u00f3\u0142wia by\u0142a przedmiotem kultu? Ze wzgl\u0119du na szczeg\u00f3ln\u0105 lokalizacj\u0119, w g\u0142\u0119bi jaskini, z dala od materialnych \u015blad\u00f3w \u015bwiadcz\u0105cych o codziennych zadaniach.\n\nW ocenie badaczy nowe znalezisko poszerza nasze rozumienie okresu g\u00f3rnego paleolitu poza jego kultur\u0119 materialn\u0105. Umo\u017cliwia zag\u0142\u0119bienie si\u0119 w bardziej efemeryczn\u0105 sfer\u0119 duchowego \u017cycia ludzi, kt\u00f3ra wyra\u017ca\u0142a si\u0119 w odprawianych przez nich rytua\u0142ach.\n\nJaskinia ma \u015bwietne w\u0142a\u015bciwo\u015bci akustyczne sprzyjaj\u0105ce du\u017cym zgromadzeniom. O tym, \u017ce wi\u0119ksze grupy ludzi gromadzi\u0142y si\u0119 obok przypuszczalnego totemu z pochodniami, maj\u0105 \u015bwiadczy\u0107 \u015blady popio\u0142u drzewnego na pobliskich stalagmitach.\n\nCuda z jaskini Manot \u2013 nie tylko rytua\u0142y\n\nJaskinia Manot zosta\u0142a odkryta przypadkowo w czasie rob\u00f3t budowlanych w 2008 roku. Szybko wkroczyli do niej archeolodzy. O tym miejscu sta\u0142o si\u0119 g\u0142o\u015bno ju\u017c dziesi\u0119\u0107 lat temu. W 2015 r. naukowcy z Uniwersytetu Case Western Reserve w USA pomogli zidentyfikowa\u0107 czaszk\u0119 sprzed 55 000 lat. Dostarczy\u0142a fizycznych dowod\u00f3w na krzy\u017cowanie si\u0119 neandertalczyk\u00f3w i homo sapiens.\n\nPoza tym wewn\u0105trz jaskini uda\u0142o si\u0119 odkry\u0107 \u015blady przebywania tych dw\u00f3ch gatunk\u00f3w cz\u0142owieka. Natrafiono w niej na liczne narz\u0119dzia krzemienne i ko\u015bci upolowanych zwierz\u0105t, m.in. gazel, koni, nied\u017awiedzia czy jeleni. W przeciwie\u0144stwie do przedmiot\u00f3w zwi\u0105zanych z kultem te zabytki odkryto w zewn\u0119trznej cz\u0119\u015bci schroniska skalnego, tu\u017c przy wej\u015bciu.\n\nDentysta w jaskini na tropie naszych przodk\u00f3w\n\nW wykopaliskach w jaskini uczestnicz\u0105 od lat studenci stomatologii z Case Western Reserve University School of Dental Medicine w USA pod kierunkiem prof. Marka Hansa.\n\n\u2013 Wi\u0119kszo\u015b\u0107 ludzi nie przypuszcza\u0142aby, \u017ce szko\u0142a dentystyczna b\u0119dzie zaanga\u017cowana w wykopaliska archeologiczne. Ale jedn\u0105 z rzeczy bardzo dobrze zachowanych w kopalnych szkieletach s\u0105 z\u0119by, poniewa\u017c s\u0105 twardsze ni\u017c ko\u015bci. (\u2026) Jako ortodonta interesuj\u0119 si\u0119 wzrostem i rozwojem ludzkiej twarzy, co, jak si\u0119 okazuje, jest dok\u0142adnie tym, co jest potrzebne do identyfikacji okaz\u00f3w antropologicznych \u2013 opowiada naukowiec.\n\nW ci\u0105gu ostatnich dziesi\u0119ciu lat uczelnia Case Western Reserve ka\u017cdego lata wysy\u0142a\u0142a od 10 do 20 student\u00f3w stomatologii do pomocy przy wykopaliskach w jaskini Manot. Odbywaj\u0105ce si\u0119 latem badania sta\u0142y si\u0119 tak popularne, \u017ce \u017cacy z innych szk\u00f3\u0142 stomatologicznych i medycznych r\u00f3wnie\u017c chc\u0105 bra\u0107 w nich udzia\u0142.\n\nReklama\n\n\u0179r\u00f3d\u0142o: PNAS\n\nNasz autor"
+            "date": "Dziennik Wschodni22 godz.",
+            "source": "Dziennik Wschodni",
+            "article_content": "Przegl\u0105darka, z kt\u00f3rej korzystasz jest przestarza\u0142a.\n\nStarsze przegl\u0105darki internetowe takie jak Internet Explorer 6, 7 i 8 posiadaj\u0105 udokumentowane luki bezpiecze\u0144stwa, ograniczon\u0105 funkcjonalno\u015b\u0107 oraz nie s\u0105 zgodne z najnowszymi standardami.\n\nProsimy o zainstalowanie nowszej przegl\u0105darki, kt\u00f3ra pozwoli Ci skorzysta\u0107 z pe\u0142ni mo\u017cliwo\u015bci oferowanych przez nasz portal, jak r\u00f3wnie\u017c znacznie u\u0142atwi Ci przegl\u0105danie internetu w przysz\u0142o\u015bci :)"
         }
     }
 ]
