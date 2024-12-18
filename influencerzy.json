@@ -10,24 +10,8 @@
             "description": "M\u00f3wi, \u017ce z malowania mo\u017cna \u017cy\u0107, bo gdyby tak nie by\u0142o, poszuka\u0142aby innej pracy. Z drugiej strony, czasem, jak si\u0119 mocno ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.EE8eKH0m6NZZoG4vLL9Qby&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Gazeta Krakowska16 godz.",
+            "date": "Gazeta Krakowska20 godz.",
             "source": "Gazeta Krakowska",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Jarmark Bo\u017conarodzeniowy we Wroc\u0142awiu. Tu kupisz oryginalne prezenty pod choink\u0119 | ZDJ\u0118CIA, CENY",
-            "link": "https://gazetawroclawska.pl/jarmark-bozonarodzeniowy-we-wroclawiu-tu-kupisz-oryginalne-prezenty-pod-choinke-zdjecia-ceny/ar/c1p2-27044599",
-            "description": "Jarmark Bo\u017conarodzeniowy przyci\u0105ga t\u0142umy. Na wroc\u0142awskim Rynku znajdziemy oko\u0142o 200 stoisk z ozdobami \u015bwi\u0105tecznymi, bi\u017cuteri\u0105 ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.o9zT2n4wevLDWvGgPAogNg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "gazetawroclawska.pl20 godz.",
-            "source": "gazetawroclawska.pl",
             "article_content": "Content not available"
         }
     },
@@ -42,7 +26,7 @@
             "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.rXY4IFBt9hVZAYwsRbQrPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "gk24.pl3 godz.",
+            "date": "gk24.pl7 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -58,9 +42,25 @@
             "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.t1QK1sAR9iO3s-WDsfSnTS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "gs24.pl3 godz.",
+            "date": "gs24.pl7 godz.",
             "source": "gs24.pl",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Ta moneta z PRL-u jest warta fortun\u0119. Kolekcjonerzy zap\u0142ac\u0105 za ni\u0105 ogromn\u0105 sum\u0119",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/ta-moneta-z-prl-u-jest-warta-fortun%C4%99-kolekcjonerzy-zap%C5%82ac%C4%85-za-ni%C4%85-ogromn%C4%85-sum%C4%99/ar-AA1w4BhL?ocid=BingNewsVerp",
+            "description": "Wiele os\u00f3b mo\u017ce nawet nie zdawa\u0107 sobie sprawy z tego, \u017ce posiadaj\u0105 w domu skarb farty fortun\u0119. Chodzi tu konkretnie o monety ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.%2f%2bi9bqDu5GvicvZA93YYbA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "Biznesinfo on MSN4 godz.",
+            "source": "Biznesinfo on MSN",
+            "article_content": ""
         }
     },
     {
@@ -74,7 +74,7 @@
             "description": "Ta porcelana z PRL jest warta maj\u0105tek! Unikatowe zestawy, talerze, fili\u017canki z PRL. Tych przedmiot\u00f3w szukaj\u0105 kolekcjonerzy! Z pewno\u015bci\u0105 wiele os\u00f3b nie zdaje sobie sprawy, \u017ce mo\u017ce posiada\u0107 w swoim domu ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "gk24.pl3 godz.",
+            "date": "gk24.pl7 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -90,25 +90,9 @@
             "description": "Oto banknoty, kt\u00f3re strac\u0105 wa\u017cno\u015b\u0107 w 2024 roku. Mo\u017ce si\u0119 okaza\u0107, \u017ce w portfelu posiadasz banknoty, kt\u00f3rymi nie mo\u017cna p\u0142aci\u0107. Mowa tutaj o pieni\u0105dzach zniszczonych i uszkodzonych. Trac\u0105 one wa\u017cno\u015b\u0107 i ...",
             "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "gs24.pl2 godz.",
+            "date": "gs24.pl6 godz.",
             "source": "gs24.pl",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Najlepsze MEMY o PRL. Saturator, kartki na \u017cywno\u015b\u0107 i absurdalne sytuacje. Wspomnienia o PRL i humor w formie satyry. MEMY o PRL [18.12.2024]",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/najlepsze-memy-o-prl-saturator-kartki-na-%C5%BCywno%C5%9B%C4%87-i-absurdalne-sytuacje-wspomnienia-o-prl-i-humor-w-formie-satyry-memy-o-prl-18122024/ar-AA1rh1Kg?ocid=BingNewsVerp",
-            "description": "Czy najlepsze MEMY o PRL mog\u0105 ukazywa\u0107 istot\u0119 \u017cycia w Polskiej Rzeczpospolitej Ludowej? Z pewno\u015bci\u0105 nie by\u0142y to \u0142atwe czasy, ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.vPr3VRYvhkCOP2eqb1cEbS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski on MSN2 godz.",
-            "source": "G\u0142os Koszali\u0144ski on MSN",
-            "article_content": ""
         }
     },
     {
@@ -122,7 +106,7 @@
             "description": "Stara porcelana z czas\u00f3w PRL, w 2024 roku cieszy si\u0119 rosn\u0105cym zainteresowaniem. Niekt\u00f3re egzemplarze mog\u0105 by\u0107 dzi\u015b bardzo ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.eujsUo8yckH2_dLmPKBIFi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN14 godz.",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN18 godz.",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
             "article_content": ""
         }
@@ -138,8 +122,24 @@
             "description": "Obecnie zwracamy olbrzymi\u0105 uwag\u0119 na wystr\u00f3j swoich dom\u00f3w czy mieszka\u0144, a w\u0142a\u015bnie takie przedmioty, unikatowe, wyr\u00f3\u017cniaj\u0105ce si\u0119 barwami, motywami i wzorami, jak porcelana czy ceramika z czas\u00f3w PRL, ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "gk24.pl3 godz.",
+            "date": "gk24.pl7 godz.",
             "source": "gk24.pl",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Bi\u017cuteria PRL warta fortun\u0119 - ceny. Tyle w 2024 roku trzeba zap\u0142aci\u0107 za stare kolczyki, pier\u015bcionki, naszyjniki, bransoletki",
+            "link": "https://pomorska.pl/bizuteria-prl-warta-fortune-ceny-tyle-w-2024-roku-trzeba-zaplacic-za-stare-kolczyki-pierscionki-naszyjniki-bransoletki/ar/c6p2-27097473",
+            "description": "Pier\u015bcionki ze srebra z kamieniami p\u00f3\u0142szlachetnymi, np. bursztynem czy agatem, mog\u0105 kosztowa\u0107 od 200 do 800 z\u0142, w zale\u017cno\u015bci ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.8a10CV8KgmtKMv3VWJ6b3g&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stara+porcelana",
+            "date": "Pomorska4 godz.",
+            "source": "Pomorska",
             "article_content": "Content not available"
         }
     },
@@ -154,7 +154,7 @@
             "description": "Ta porcelana z PRL jest warta maj\u0105tek! Unikatowe zestawy, talerze, fili\u017canki z PRL. Tych przedmiot\u00f3w szukaj\u0105 kolekcjonerzy! Z pewno\u015bci\u0105 wiele os\u00f3b nie zdaje sobie sprawy, \u017ce mo\u017ce posiada\u0107 w swoim domu ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "gk24.pl3 godz.",
+            "date": "gk24.pl7 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -165,13 +165,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Bi\u017cuteria PRL warta fortun\u0119 - ceny. Tyle w 2024 roku trzeba zap\u0142aci\u0107 za stare kolczyki, pier\u015bcionki, naszyjniki, bransoletki [18.12.2024]",
-            "link": "https://pomorska.pl/bizuteria-prl-warta-fortune-ceny-tyle-w-2024-roku-trzeba-zaplacic-za-stare-kolczyki-pierscionki-naszyjniki-bransoletki-18-12-2024/ar/c6p2-27097473",
-            "description": "Kolczyki z PRL, zw\u0142aszcza te z geometrycznymi wzorami, wykonane ze srebra lub z\u0142ota, s\u0105 wyceniane na poziomie od 150 do 700 ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.yNQLoGSn601KG6%2bJQjbL0A&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stara+porcelana",
-            "date": "Pomorska4 godz.",
-            "source": "Pomorska",
+            "title": "Pchli Targ przy dworcu Pozna\u0144 G\u0142\u00f3wny. Mo\u017cna by\u0142o kupi\u0107 antyki i obrazy! Zobaczcie na zdj\u0119ciach [18.12.2024]",
+            "link": "https://gloswielkopolski.pl/pchli-targ-przy-dworcu-poznan-glowny-mozna-bylo-kupic-antyki-i-obrazy-zobaczcie-na-zdjeciach-18-12-2024/ar/c1p2-27019777",
+            "description": "W Poznaniu, tu\u017c obok dworca Pozna\u0144 G\u0142\u00f3wny i galerii handlowej Avenida, ponownie zago\u015bci\u0142 \"Niedzielny Targ Pozna\u0144\". 24 listopada, odby\u0142a si\u0119 kolejna edycja wydarzenia, kt\u00f3re przyci\u0105gn\u0119\u0142o t\u0142umy ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.U-Vp0xK7SYVhjnH4oToWdw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "targ+staroci",
+            "date": "gloswielkopolski5 godz.",
+            "source": "gloswielkopolski",
             "article_content": "Content not available"
         }
     },
@@ -181,13 +181,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Kolekcjonerzy poszukuj\u0105 tych antyk\u00f3w. Unikalne przedmioty do kupienia w internecie. Masz je w domu? 17.12.2024",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/kolekcjonerzy-poszukuj%C4%85-tych-antyk%C3%B3w-unikalne-przedmioty-do-kupienia-w-internecie-masz-je-w-domu-17122024/ar-AA1w0nRm?ocid=BingNewsVerp",
-            "description": "Unikalne antyki poszukiwane przez kolekcjoner\u00f3w mog\u0105 zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na nich zarobi\u0107 fortun\u0119. Cz\u0119sto nie ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.g08axO32bw3IGcSyq0akxS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Dom Romualda Lipki z Budki Suflera nadal czeka na kupca. Luksusowa willa w Kazimierzu Dolnym jest na sprzeda\u017c za 17 milion\u00f3w z\u0142",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/dom-romualda-lipki-z-budki-suflera-nadal-czeka-na-kupca-luksusowa-willa-w-kazimierzu-dolnym-jest-na-sprzeda%C5%BC-za-17-milion%C3%B3w-z%C5%82/ar-AA1w4nhu?ocid=BingNewsVerp",
+            "description": "Nie wszyscy wiedz\u0105, \u017ce Romuald Lipko za\u0142o\u017cyciel Budki Suflera przed \u015bmierci\u0105 przez wiele lat mieszka\u0142 w domu przy ulicy S\u0142onecznej w Kazimierzu Dolnym. Teraz posiad\u0142o\u015b\u0107 trafi\u0142a pod m\u0142otek, a will\u0119 ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.lto-jgjLT22CJn-xbZRKjA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "G\u0142os Wielkopolski on MSN23 godz.",
-            "source": "G\u0142os Wielkopolski on MSN",
+            "date": "Kurier Lubelski on MSN4 godz.",
+            "source": "Kurier Lubelski on MSN",
             "article_content": ""
         }
     },
@@ -202,7 +202,7 @@
             "description": "M\u00f3wi, \u017ce z malowania mo\u017cna \u017cy\u0107, bo gdyby tak nie by\u0142o, poszuka\u0142aby innej pracy. Z drugiej strony, czasem, jak si\u0119 mocno ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.EE8eKH0m6NZZoG4vLL9Qby&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Gazeta Krakowska16 godz.",
+            "date": "Gazeta Krakowska20 godz.",
             "source": "Gazeta Krakowska",
             "article_content": "Content not available"
         }
@@ -218,7 +218,7 @@
             "description": "Jeszcze niedawno Hiszpania by\u0142a synonimem kryzysu i gospodarczej pora\u017cki. Hiszpa\u0144ski rz\u0105d i banki wydawa\u0142y si\u0119 by\u0107 zamkni\u0119te w spirali \u015bmierci i uzale\u017cnione od pomocy finansowej. M\u0142odzi ludzie wyje\u017cd\u017c ...",
             "image_url": "https://www.bing.pl/th?id=ODF.qVZJCEn4Awd3TcXwomvMuQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Onet Wiadomosci17 godz.",
+            "date": "Onet Wiadomosci21 godz.",
             "source": "Onet Wiadomosci",
             "article_content": "Analiza brytyjskiego tygodnika zosta\u0142a oparta o szereg miar, w tym wzrost PKB, inflacj\u0119, bezrobocie, polityk\u0119 fiskaln\u0105 i wyniki gie\u0142dowe. Zar\u00f3wno og\u00f3lny wzrost gospodarczy, jak i tempo tworzenia miejsc pracy w Hiszpanii s\u0105 szybsze ni\u017c w Ameryce, kt\u00f3ra d\u0142ugo by\u0142a obiektem zazdro\u015bci bogatego \u015bwiata.\n\nGrecja i Irlandia, kt\u00f3re r\u00f3wnie\u017c by\u0142y dotkni\u0119te kryzysem dekad\u0119 temu, te\u017c radzi\u0142y sobie dobrze w 2024 r. Podobnie jak Dania, gdzie gospodarka zosta\u0142a pobudzona przez sukces lek\u00f3w Novo Nordisk przeciwko oty\u0142o\u015bci. Ale to Hiszpania stanowi najlepsz\u0105 odpowied\u017a dla tych, kt\u00f3rzy twierdz\u0105, \u017ce Europa jest skazana na stagnacj\u0119. Jej gospodarka czerpie korzy\u015bci z wcze\u015bniejszych reform. Daje to lekcje dla reszty kontynentu, ale powinno r\u00f3wnie\u017c s\u0142u\u017cy\u0107 jako ostrze\u017cenie dla hiszpa\u0144skich decydent\u00f3w politycznych.\n\nLekcja nr 1: skupienie si\u0119 na us\u0142ugach\n\nJedn\u0105 z lekcji jest skupienie si\u0119 na us\u0142ugach i niefetyszyzowanie produkcji. Chocia\u017c produkcja przemys\u0142owa w Hiszpanii nie spada\u0142a tak szybko jak w Niemczech, cz\u0119\u015bciowo dzi\u0119ki ni\u017cszym kosztom energii, to jednak nadal znajdowa\u0142a si\u0119 w stagnacji.\n\nAle turystyka odbi\u0142a si\u0119 od pandemicznego minimum, a kraj przesuwa si\u0119 w g\u00f3r\u0119 \u0142a\u0144cucha warto\u015bci, coraz cz\u0119\u015bciej eksportuj\u0105c us\u0142ugi konsultingowe i wiedz\u0119 technologiczn\u0105, tak jak s\u0142o\u0144ce i sangri\u0119. Us\u0142ugi nieturystyczne wzros\u0142y z oko\u0142o 5,5 proc. PKB przed pandemi\u0105 do 7-8 proc. obecnie, twierdzi bank BBVA.\n\nLekcja nr 2: otwarcie na imigracj\u0119\n\nKolejn\u0105 lekcj\u0105 jest bycie otwartym. Podczas gdy m\u0142odzi ludzie kiedy\u015b opuszczali Hiszpani\u0119 w poszukiwaniu mo\u017cliwo\u015bci, teraz zamiast tego przyje\u017cd\u017caj\u0105. Od 2019 r. liczba pracownik\u00f3w urodzonych za granic\u0105 wzros\u0142a o oko\u0142o 1,2 mln, g\u0142\u00f3wnie z Ameryki \u0141aci\u0144skiej.\n\nWielu z tych migrant\u00f3w pracuje na nisko p\u0142atnych stanowiskach wymagaj\u0105cych niewielkich kwalifikacji, co oznacza, \u017ce cho\u0107 gospodarka jest o siedem proc. wi\u0119ksza ni\u017c w 2019 r., to po skorygowaniu o wzrost liczby ludno\u015bci jest to tylko wzrost o trzy proc. Nadal to lepszy wynik ni\u017c w krajach takich jak Wielka Brytania i Kanada, kt\u00f3re odnotowa\u0142y podobny boom imigracyjny, ale spadek PKB na osob\u0119.\n\nLekcja nr 3: wsp\u00f3\u0142praca z Chinami\n\nHiszpania z zadowoleniem przyj\u0119\u0142a r\u00f3wnie\u017c inwestycje chi\u0144skich firm. 10 grudnia Stellantis, producent samochod\u00f3w, i CATL, chi\u0144ski producent akumulator\u00f3w, og\u0142osi\u0142y, \u017ce zbuduj\u0105 now\u0105 fabryk\u0119 akumulator\u00f3w w Saragossie (najwi\u0119kszy udzia\u0142owiec Stellantis, Exor, jest wsp\u00f3\u0142w\u0142a\u015bcicielem sp\u00f3\u0142ki-matki \"The Economist\"). Chery International, chi\u0144ski producent samochod\u00f3w, wybra\u0142 Barcelon\u0119 na lokalizacj\u0119 swojego pierwszego europejskiego zak\u0142adu produkcyjnego.\n\nDalszy ci\u0105g materia\u0142u pod wideo\n\nLekcja nr 4: korzystne reformy\n\nCo najwa\u017cniejsze, Hiszpania pokazuje, \u017ce reformy strukturalne przynosz\u0105 d\u0142ugoterminowe korzy\u015bci. Wiele z jej ostatnich sukces\u00f3w odzwierciedla decyzje podj\u0119te po kryzysie finansowym w celu zreformowania bank\u00f3w i rynku pracy.\n\nSektor finansowy uleg\u0142 konsolidacji, a reformy rynku pracy u\u0142atwi\u0142y renegocjacj\u0119 um\u00f3w i zach\u0119ci\u0142y szef\u00f3w do zatrudniania wi\u0119kszej liczby sta\u0142ych pracownik\u00f3w. Pakiet \u015brodk\u00f3w maj\u0105cych na celu pobudzenie odnawialnych \u017ar\u00f3de\u0142 energii, w tym zniesienie \"podatku s\u0142onecznego\", kt\u00f3ry nak\u0142ada\u0142 dodatkowe op\u0142aty na energi\u0119 s\u0142oneczn\u0105, pom\u00f3g\u0142 w rozkwicie zielonej energii.\n\nOstrze\u017cenie\n\nHiszpania nie mo\u017ce jednak spa\u0107 spokojnie. Turystyka i imigracja podbijaj\u0105 ceny mieszka\u0144, inwestycje i wzrost wydajno\u015bci pozostaj\u0105 nieuchwytne. Kruchy rz\u0105d koalicyjny zmierza w z\u0142ym kierunku. Nie jest w stanie przeprowadzi\u0107 dalszych reform niezb\u0119dnych do pobudzenia d\u0142ugoterminowego wzrostu, w tym w dziedzinie edukacji i us\u0142ug. Przyjmuje skomplikowane regulacje, podnosz\u0105c koszty dla przedsi\u0119biorstw.\n\nKraj b\u0119dzie r\u00f3wnie\u017c musia\u0142 znale\u017a\u0107 pieni\u0105dze na zwi\u0119kszenie wydatk\u00f3w na obronno\u015b\u0107, kt\u00f3re na poziomie zaledwie 1,3 proc. PKB s\u0105 zdecydowanie zbyt niskie. Mimo to Hiszpania pokazuje, \u017ce europejskie gospodarki mog\u0105 przezwyci\u0119\u017cy\u0107 pozornie niemo\u017cliwe do pokonania wyzwania. Musi jednak uwa\u017ca\u0107, aby nie sta\u0107 si\u0119 ilustracj\u0105 niebezpiecze\u0144stwa stania w miejscu."
         }
@@ -234,41 +234,9 @@
             "description": "Drabina jako metafora ludzkiego \u017cycia by\u0142a motywem przewodnim wtorkowych rorat w podziemiach katedry gnie\u017anie\u0144skiej, kt\u00f3re ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.Hny9WMVBDt_7O7OnC-fT-y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "procesja Bo\u017cego17 godz.",
+            "date": "procesja Bo\u017cego21 godz.",
             "source": "procesja Bo\u017cego",
             "article_content": "Drabina jako metafora ludzkiego \u017cycia by\u0142a motywem przewodnim wtorkowych rorat w podziemiach katedry gnie\u017anie\u0144skiej, kt\u00f3re wsp\u00f3lnie z m\u0142odzie\u017c\u0105 prze\u017cy\u0142 abp Wojciech Polak. \u201eNa ka\u017cdym szczeblu tej drabiny mo\u017cemy spotka\u0107 Boga, je\u015bli pi\u0105\u0107 si\u0119 po niej b\u0119dziemy z wiar\u0105 i ufno\u015bci\u0105\u201d \u2013 m\u00f3wi\u0142 Prymas.\n\nRoraty w katedralnych podziemiach odbywaj\u0105 si\u0119 w ka\u017cdy wtorek i pi\u0105tek gromadz\u0105c m\u0142odzie\u017c, ale i wszystkich ch\u0119tnych. Msze \u015bw. celebruj\u0105 i homilie g\u0142osz\u0105 kap\u0142ani zwi\u0105zani z duszpasterstwem m\u0142odych i parafi\u0105 katedraln\u0105. We wtorek 17 grudnia z m\u0142odymi modli\u0142 si\u0119 Prymas Polski abp Wojciech Polak, kt\u00f3ry przypomnia\u0142, \u017ce B\u00f3g chce nam towarzyszy\u0107 na ka\u017cdym etapie naszego \u017cycia.\n\n\u201eMy idziemy w g\u00f3r\u0119, a On schodzi do nas w d\u00f3\u0142 i na ka\u017cdym szczeblu tej drabiny mo\u017cemy Go spotka\u0107, je\u015bli pi\u0105\u0107 si\u0119 po niej b\u0119dziemy z wiar\u0105 i ufno\u015bci\u0105\u201d \u2013 m\u00f3wi\u0142 Prymas nawi\u0105zuj\u0105c do homilii wyg\u0142oszonej wcze\u015bniej przez diecezjalnego duszpasterza powo\u0142a\u0144 ks. Marcina Wawrzyniaka. Wykorzystuj\u0105c motyw drabiny kap\u0142an m\u00f3wi\u0142 o w\u0142\u0105czaniu si\u0119 Boga w \u017cycie cz\u0142owieka, ale i naszym si\u0119ganiu ku Bogu.\n\n\u201eStary Testament wielokrotnie pokazuje tak\u0105 zale\u017cno\u015b\u0107, \u017ce im jeste\u015bmy wy\u017cej tym bli\u017cej Boga. Dlatego wspinanie si\u0119 ku g\u00f3rze mo\u017cemy odczyta\u0107 jako wspinanie si\u0119 do Boga. Taki ma by\u0107 kierunek naszego \u017cycia, nastawiony na Boga, na d\u0105\u017cenie w Jego stron\u0119\u201d \u2013 wskaza\u0142 przestrzegaj\u0105c jednocze\u015bnie przed nadmiernym po\u015bpiechem i pokus\u0105, by przeskoczy\u0107 kolejne szczeble.\n\n\u201ePotrzeba i\u015b\u0107 krok po kroku. Ryzykowne mo\u017ce by\u0107 przyspieszanie i wchodzenie przeskakuj\u0105c co drugi szczebelek. Mo\u017cna si\u0119 wtedy potkn\u0105\u0107. Podobnie i w naszym \u017cyciu, kiedy wybiegamy za bardzo naprz\u00f3d, kiedy tracimy grunt pod nogami, zaczynamy czu\u0107 przera\u017cenie. Warto skupi\u0107 si\u0119 na kroku, kt\u00f3ry masz postawi\u0107 teraz. Warto zastanowi\u0107 si\u0119, co dzisiaj przyniesie Ci twoje \u017cycie. Ka\u017cdy dzie\u0144, dobrze prze\u017cyty, to kolejny wa\u017cny krok naszego \u017cycia\u201d \u2013 m\u00f3wi\u0142 m\u0142odym ks. Wawrzyniak.\n\nW czasie Mszy \u015bw. roratniej modlono si\u0119 za papie\u017ca Franciszka, kt\u00f3ry \u2013 jak przypomnia\u0142 abp Polak \u2013 obchodzi 17 grudnia 88. urodziny. To w\u0142a\u015bnie or\u0119dzie Ojca \u015awi\u0119tego do m\u0142odych na tegoroczny \u015awiatowy Dzie\u0144 M\u0142odzie\u017cy sta\u0142o si\u0119 inspiracj\u0105 roratnich rozwa\u017ca\u0144, kt\u00f3rym towarzyszy wsp\u00f3lne has\u0142o \u201eZaufaj\u201d. Miejsce modlitwy r\u00f3wnie\u017c jest szczeg\u00f3lne \u2013 kaplica b\u0142. Radzyma Gaudentego, pierwszego arcybiskupa metropolity gnie\u017anie\u0144skiego w podziemiach katedry gnie\u017anie\u0144skiej, gdzie znajduj\u0105 si\u0119 relikty najstarszych \u015bwi\u0105ty\u0144 z czas\u00f3w Mieszka I i Boles\u0142awa Chrobrego. Nawi\u0105zanie do historii jest nieprzypadkowe \u2013 archidiecezja gnie\u017anie\u0144ska b\u0119dzie w 2025 roku obchodzi\u0107 1000-lecie pierwszych koronacji kr\u00f3lewskich w katedrze gnie\u017anie\u0144skiej i 1025-lecie istnienia.\n\nPo roratach m\u0142odzi jak zawsze zjedli wsp\u00f3lnie \u015bniadania w Lamusie czyli domu Diecezjalnego Duszpasterstwa M\u0142odych \u2013 tym razem tak\u017ce w towarzystwie abp. Wojciecha Polaka."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Zaskakuj\u0105ce odkrycie w sercu Warszawy. Ods\u0142oni\u0119to mury XVIII-wiecznego szpitala. Archeolodzy licz\u0105 na kolejne znaleziska",
-            "link": "https://www.msn.com/pl-pl/news/other/zaskakuj%C4%85ce-odkrycie-w-sercu-warszawy-ods%C5%82oni%C4%99to-mury-xviii-wiecznego-szpitala-archeolodzy-licz%C4%85-na-kolejne-znaleziska/ar-AA1w0EJa?ocid=BingNewsVerp",
-            "description": "- Podczas prac przy budowie Nowego Centrum Warszawy, na ul. Sienkiewicza, natkn\u0119li\u015bmy si\u0119 na mury dawnego Szpitala ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.sDKnOur4sLdAyh2Puj4raw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "warszawa.naszemiasto on MSN22 godz.",
-            "source": "warszawa.naszemiasto on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "\u015acie\u017cki rowerowe do 19 km od O\u015bwi\u0119cimia. Podpowiedzi jednodniowych wypraw. Gdzie w weekend 21 - 22 grudnia?",
-            "link": "https://oswiecim.naszemiasto.pl/sciezki-rowerowe-do-19-km-od-oswiecimia-podpowiedzi-jednodniowych-wypraw-gdzie-w-weekend-21-22-grudnia/ar/c7p1-21831633",
-            "description": "Nim wyruszysz w drog\u0119, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 21 grudnia w O\u015bwi\u0119cimiu ma by\u0107 4\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 22 grudnia w O\u015bwi\u0119cimiu ma by\u0107 5\u00b0C. Prawdopodobie\u0144stwo pojawienia ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.hU9b0B80CrRL-uqx7ot5XQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "relikty",
-            "date": "oswiecim.naszemiasto18 godz.",
-            "source": "oswiecim.naszemiasto",
-            "article_content": "Content not available"
         }
     },
     {
@@ -282,7 +250,7 @@
             "description": "W sobot\u0119 21 grudnia wed\u0142ug prognozy pogody ma by\u0107 6\u00b0C. Prawdopodobie\u0144stwo wyst\u0105pienia deszczu wynosi 62%. W niedziel\u0119 22 grudnia zgodnie z najnowszymi prognozami pogody ma by\u0107 7\u00b0C w najcieplejszym ...",
             "image_url": "https://www.bing.pl/th?id=ODF.2lnLIQe5bnM9ixvXVTSDQg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "koszalin.naszemiasto17 godz.",
+            "date": "koszalin.naszemiasto21 godz.",
             "source": "koszalin.naszemiasto",
             "article_content": "Content not available"
         }
@@ -293,13 +261,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Masz te banknoty? To prawdziwe skarby! Za jeden mo\u017cesz otrzyma\u0107 kilka tysi\u0119cy z\u0142otych! [ZDJ\u0118CIA] 18.12.2024",
-            "link": "https://gs24.pl/masz-te-banknoty-to-prawdziwe-skarby-za-jeden-mozesz-otrzymac-kilka-tysiecy-zlotych-zdjecia-18122024/ar/c1-17930573",
-            "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.t1QK1sAR9iO3s-WDsfSnTS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "gs24.pl3 godz.",
-            "source": "gs24.pl",
+            "title": "\u015acie\u017cki rowerowe do 19 km od O\u015bwi\u0119cimia. Podpowiedzi jednodniowych wypraw. Gdzie w weekend 21 - 22 grudnia?",
+            "link": "https://oswiecim.naszemiasto.pl/sciezki-rowerowe-do-19-km-od-oswiecimia-podpowiedzi-jednodniowych-wypraw-gdzie-w-weekend-21-22-grudnia/ar/c7p1-21831633",
+            "description": "Nim wyruszysz w drog\u0119, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 21 grudnia w O\u015bwi\u0119cimiu ma by\u0107 4\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 22 grudnia w O\u015bwi\u0119cimiu ma by\u0107 5\u00b0C. Prawdopodobie\u0144stwo pojawienia ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.hU9b0B80CrRL-uqx7ot5XQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "relikty",
+            "date": "oswiecim.naszemiasto22 godz.",
+            "source": "oswiecim.naszemiasto",
             "article_content": "Content not available"
         }
     },
@@ -309,13 +277,29 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Cenna, gliniana noga z muzeum w Tarnowie na \"badaniach\" tomografem. Chc\u0105 pozna\u0107 tajemnice zabytku, kt\u00f3ry liczy ponad siedem tysi\u0119cy lat",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/cenna-gliniana-noga-z-muzeum-w-tarnowie-na-badaniach-tomografem-chc%C4%85-pozna%C4%87-tajemnice-zabytku-kt%C3%B3ry-liczy-ponad-siedem-tysi%C4%99cy-lat/ar-AA1w2jj1?ocid=BingNewsVerp",
-            "description": "Fragment glinianej nogi sprzed siedmiu tysi\u0119cy lat, prezentowany na sta\u0142e w Muzeum Historii Tarnowa i Regionu trafi\u0142 na ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.xjQF-5FBqhnLOutFMQMCpC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Wycieczki rowerowe do 34 km od Pleszewa. Pomys\u0142y na jednodniowy wypad. Gdzie w weekend 21 - 22 grudnia?",
+            "link": "https://pleszew.naszemiasto.pl/wycieczki-rowerowe-do-34-km-od-pleszewa-pomysly-na-jednodniowy-wypad-gdzie-w-weekend-21-22-grudnia/ar/c7p1-21831917",
+            "description": "Zanim wyruszysz w tras\u0119, sprawd\u017a, jaka b\u0119dzie pogoda. W sobot\u0119 21 grudnia w Pleszewie ma by\u0107 5\u00b0C. Prawdopodobie\u0144stwo wyst\u0105pienia deszczu wynosi 25%. W niedziel\u0119 22 grudnia w Pleszewie ma by\u0107 6\u00b0C.",
+            "image_url": "https://www.bing.pl/th?id=ODF.I2rfHusTno6Ysu_YcxuMRg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "relikty",
+            "date": "pleszew.naszemiasto22 godz.",
+            "source": "pleszew.naszemiasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Dworzec PKP w Cz\u0119stochowie do wyburzenia. Spo\u0142ecznicy stanowczo si\u0119 temu sprzeciwiaj\u0105. \"To marnotrawstwo, powinien by\u0107 wyremontowany\"",
+            "link": "https://www.msn.com/pl-pl/news/other/dworzec-pkp-w-cz%C4%99stochowie-do-wyburzenia-spo%C5%82ecznicy-stanowczo-si%C4%99-temu-sprzeciwiaj%C4%85-to-marnotrawstwo-powinien-by%C4%87-wyremontowany/ar-AA1w5aP5?ocid=BingNewsVerp",
+            "description": "Jak bumerang powraca temat plan\u00f3w PKP dotycz\u0105cych wyburzenia dworca w Cz\u0119stochowie i wybudowania w tym miejscu nowego obiektu ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.9cTbFGLvyqXIK_mQfGDE2C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Tarn\u00f3w Naszemiasto on MSN14 godz.",
-            "source": "Tarn\u00f3w Naszemiasto on MSN",
+            "date": "dziennikzachodni.pl on MSN38 min",
+            "source": "dziennikzachodni.pl on MSN",
             "article_content": ""
         }
     },
@@ -325,14 +309,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Wn\u0119trza domu Krystyny Jandy przypominaj\u0105 sceneri\u0119 ze starych film\u00f3w. Zagl\u0105damy do kuchni, sypialni i salonu gwiazdy",
-            "link": "https://stronakobiet.pl/wnetrza-domu-krystyny-jandy-przypominaja-scenerie-ze-starych-filmow-zagladamy-do-kuchni-sypialni-i-salonu-gwiazdy/ar/c6p2-27098461",
-            "description": "Krystyna Janda to niekwestionowana gwiazda i dama polskiej sceny filmowej. Jak mieszka aktorka? Zdecydowanie nie s\u0105 to nowoczesne wn\u0119trza, ale nie mo\u017cna odm\u00f3wi\u0107 im stylu i klasy. W kuchni s\u0105 30-letnie ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.sCeGPQA0liDLkeNf2ot4ew&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Lotnisko Chopina zamkni\u0119te. Podejrzane przedmioty w baga\u017cu podr\u00f3\u017cnego. Kilka stref jest nieczynnych",
+            "link": "https://www.msn.com/pl-pl/bezpiecze%C5%84stwo-publiczne-i-sytuacje-kryzysowe/og%C3%B3lne/lotnisko-chopina-zamkni%C4%99te-podejrzane-przedmioty-w-baga%C5%BCu-podr%C3%B3%C5%BCnego-kilka-stref-jest-nieczynnych/ar-AA1w53tX?ocid=BingNewsVerp",
+            "description": "Dzi\u015b na Lotnisku Chopina podczas rutynowej kontroli baga\u017cu podr\u0119cznego, jeden z podr\u00f3\u017cnych mia\u0142 przy sobie przedmiot ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.X9VQRusVJN%2fbuOfDyG4PeQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "stronakobiet13 godz.",
-            "source": "stronakobiet",
-            "article_content": "Krystyna Janda to niezwykle ciekawa posta\u0107 w polskim show-biznesie. Jej historia \u017cycia jest inspiruj\u0105ca, tak jaj jej dom, w kt\u00f3rym mieszka.\n\nKrystyna Janda to niezwykle ciekawa posta\u0107 w polskim show-biznesie. Jej historia \u017cycia jest inspiruj\u0105ca, tak jaj jej dom, w kt\u00f3rym mieszka. AKPA/GA\u0141\u0104ZKA\n\nKrystyna Janda to niekwestionowana gwiazda i dama polskiej sceny filmowej. Jak mieszka aktorka? Zdecydowanie nie s\u0105 to nowoczesne wn\u0119trza, ale nie mo\u017cna odm\u00f3wi\u0107 im stylu i klasy. W kuchni s\u0105 30-letnie meble, do kt\u00f3rych artystka ma ogromny sentyment. Oto jak mieszka gwiazda.\n\nKrystyna Janda od wielu lat jest posiadaczk\u0105 pi\u0119knego domu, kt\u00f3ry ma niezwykle ciekaw\u0105 przesz\u0142o\u015b\u0107. Niekt\u00f3rzy ze wzgl\u0119du na t\u0119 trudn\u0105 histori\u0119 nigdy nie chcieliby tam mieszka\u0107, ale aktorka postawi\u0142a wraz z m\u0119\u017cem wyremontowa\u0107 posiad\u0142o\u015b\u0107 i zamieszka\u0107 w niej razem z rodzin\u0105.\n\nAran\u017cacyjny miszmasz, czyli z\u0142oto, glamour i luksusowe meble. Oto dom Beaty Kozidrak Dom Beaty Kozidrak to przestrze\u0144, w kt\u00f3rej elegancja spotyka si\u0119 z osobistym stylem artystki. Przyjrzymy si\u0119 wn\u0119trzom pe\u0142nym z\u0142otych akcent\u00f3w, stylowym dekoracjom z pchlich targ\u00f3w oraz przestronnym ga... Katarzyna D\u0119bek\n\nGdzie mieszka Krystyna Janda?\n\nKrystyna Janda mieszka w podwarszawskim Milan\u00f3wku. To niezwykle malownicza miejscowo\u015b\u0107, w kt\u00f3rej znajduje si\u0119 wiele zabytkowych dom\u00f3w, a jednym z nich jest ten nale\u017c\u0105cy w\u0142a\u015bnie do jednej z najbardziej utalentowanych polskich aktorek. Zakupi\u0142a go razem z m\u0119\u017cem, Edwardem K\u0142osi\u0144skim, ponad 30 lat temu. Ma\u0142\u017ce\u0144stwo postanowi\u0142o odremontowa\u0107 nieruchomo\u015b\u0107 i stworzy\u0107 miejsce do \u017cycia i wychowywania swoich dw\u00f3ch syn\u00f3w.\n\n\u2013 Razem z m\u0119\u017cem, a g\u0142\u00f3wnie m\u00f3j m\u0105\u017c, uratowali\u015bmy od ca\u0142kowitego zniszczenia, przywr\u00f3cili\u015bmy mu dawny kszta\u0142t, funkcje poszczeg\u00f3lnych pomieszcze\u0144 itd., bo w momencie kiedy go kupili\u015bmy, by\u0142 nieogrzewan\u0105 ruin\u0105 z dziwnymi przebudowaniami \u2013 opisywa\u0142a aktorka w jednym z wywiad\u00f3w.\n\nPosiad\u0142o\u015b\u0107 otoczona jest przez ogr\u00f3d ze starymi drzewami, kt\u00f3re chroni\u0105 prywatno\u015b\u0107 artystki.\n\nRozwi\u0144\n\nNiezwyk\u0142a historia domu Krystyny Jandy. Ta posiad\u0142o\u015b\u0107 skrywa wiele tajemnic\n\nWilla Krystyny Jandy to dom z dusz\u0105 i ciekaw\u0105 histori\u0105. Artystka na swojej stronie internetowej zdradzi\u0142a jego tajemnice:\n\nZbudowa\u0142 go wielki \u015bpiewak operowy Gruszczy\u0144ski. Nie, nie ten Gruszczy\u0144ski niewidomy, ten wcze\u015bniejszy. Przyjaciel Kiepury. Mia\u0142 nadzwyczajny g\u0142os. Kiedy budowa\u0142 ten dom by\u0142 Bogiem, \u015bpiewa\u0142 w Metropolitan. Ju\u017c po roku kontraktu rozpi\u0142 si\u0119, straci\u0142 g\u0142os. Na wakacjach by\u0142 tu po zbudowaniu tego domu jeden raz, miasto z tej okazji zrobi\u0142o bram\u0119 wjazdow\u0105 z kwiat\u00f3w, z napisem WITAMY MISTRZA. P\u00f3\u017aniej zamieszka\u0142 tu na sta\u0142e, pi\u0142, przepi\u0142 dom, czy przegra\u0142 w karty, Kiepura mu go podobno wykupi\u0142, zn\u00f3w przepi\u0142. \u015apiewa\u0142 potem za kieliszek w\u00f3dki. Umar\u0142 tu, niedaleko, obok tego domu, w takiej kom\u00f3rce, na kupie w\u0119gla. To nie jest szcz\u0119\u015bliwy dom.\n\nDom przechodzi\u0142 z r\u0105k do r\u0105k. Wuj m\u0119\u017ca Jandy wykupi\u0142 go od banku. Podobno wiele lat temu znajdowa\u0142 si\u0119 w nim szpital. Chodzi\u0142y s\u0142uchy, \u017ce cia\u0142a zmar\u0142ych zakopywano w ogrodzie, a w samym domu straszy:\n\n\u2013 O samym domu i ogrodzie kr\u0105\u017c\u0105 legendy, koleje losu samego domu s\u0105 dramatyczne, \u015bci\u015ble zwi\u0105zane z powstaniem warszawskim i obozem przej\u015bciowym w Pruszkowie, z kolejnymi w\u0142a\u015bcicielami i ich rodzinami, a p\u00f3\u0142 cmentarza milanowskiego zajmuje kwatera bia\u0142ych betonowych krzy\u017cy, to groby ludzi, kt\u00f3rzy umarli w mojej dzi\u015b sypialni, a wtedy tzw. \u201eumieralni\u201d, sali szpitala, gdzie le\u017celi najci\u0119\u017cej ranni \u2013 wspomina\u0142a Janda.\n\nPo wojnie budynek przekszta\u0142cono w szko\u0142\u0119. Dzisiaj jest pi\u0119knym domem, w kt\u00f3rym gromadzi si\u0119 ca\u0142a rodzina artystki.\n\nRozwi\u0144\n\nW domu Krystyny Jandy nie brakuje antyk\u00f3w i starych mebli\n\nDom Krystyny Jandy zachwyca nie tylko histori\u0105 i zewn\u0119trznym wygl\u0105dem. R\u00f3wnie zjawiskowo jest i w \u015brodku. Duch dawnych lat wci\u0105\u017c w nim jest, a wida\u0107 to m.in. w obrazach na \u015bcianach, antycznych meblach, w ciekawych ozdobach i o\u015bwietleniu. W salonie znajduj\u0105 si\u0119 przeszklone drzwi, kt\u00f3re prezentuj\u0105 wn\u0119trza jednego z pomieszcze\u0144:\n\nRozwi\u0144\n\nJest tu troch\u0119 mrocznie, ale i stylowo. Pi\u0119knie zawieszone zas\u0142ony na dekoracyjnych karniszach s\u0105 t\u0142em dla bibelot\u00f3w postawionych na parapecie. Zachwycaj\u0105ce w tym pomieszczeniu jest o\u015bwietlenie \u2013 zw\u0142aszcza to g\u00f3rne, kt\u00f3re daje delikatne \u015bwiat\u0142o na ca\u0142y pok\u00f3j.\n\nAch, jak przytulnie! Edyta Bartosiewicz mieszka i tworzy w pi\u0119knych wn\u0119trzach Edyta Bartosiewicz od lat cieszy si\u0119 ogromn\u0105 sympati\u0105 Polak\u00f3w. Jej hity z lat 90. i pocz\u0105tku lat 2000 by\u0142y znane i niezwykle lubiane, w szczeg\u00f3lno\u015bci przez \u00f3wczesnych nastolatk\u00f3w. Wokalistka wci\u0105\u017c nag... Anna Moyseowicz\n\nJaki\u015b czas temu Janda zaprezentowa\u0142a r\u00f3wnie\u017c swoj\u0105 sypialni\u0119, kt\u00f3ra wygl\u0105da jak pomieszczenie ze starych film\u00f3w mi\u0142osnych. Znajduje si\u0119 tu ogromne \u0142\u00f3\u017cko, stara toaletka i fotel ze stojakiem, kt\u00f3re tworz\u0105 niezwyk\u0142y klimat.\n\nRozwi\u0144\n\nKuchnia Krystyny Jandy \u2013 staromodna, ale z klimatem. Gwiazda nie remontowa\u0142a jej od 30 lat\n\nStary klimat domu wida\u0107 r\u00f3wnie\u017c w kuchni aktorki. Artystka opublikowa\u0142a zdj\u0119cie tego wn\u0119trza i przyzna\u0142a, \u017ce nie remontowa\u0142a jej od 30 lat.\n\nRozwi\u0144\n\nMeble zaprojektowa\u0142 jej przyjaciel, kt\u00f3ry zajmowa\u0142 si\u0119 malarstwem i stolarstwem, wi\u0119c na pr\u00f3\u017cno takich szuka\u0107 w sklepach. Na \u015bcianach wisz\u0105 relingi, na kt\u00f3rych znajduj\u0105 si\u0119 akcesoria kuchenne. Niekt\u00f3re z g\u00f3rnych szafek maj\u0105 przeszklenia, dzi\u0119ki kt\u00f3rym wy\u0142aniaj\u0105 si\u0119 rzeczy codziennego u\u017cytku. Ciekawym elementem w kuchni Krystyny Jandy jest pod\u0142oga, kt\u00f3ra mocno si\u0119 wyr\u00f3\u017cnia. Chocia\u017c aran\u017cacja tego wn\u0119trza jest w starym stylu, to w tym pomieszczeniu nie brakuje nowoczesnych urz\u0105dze\u0144 AGD.\n\nJeste\u015bmy na Google News. Do\u0142\u0105cz do nas i \u015bled\u017a Stron\u0119 Kobiet codziennie.\n\n\n\n\n\n\n\n"
+            "date": "Warszawa Naszemiasto on MSN2 godz.",
+            "source": "Warszawa Naszemiasto on MSN",
+            "article_content": ""
         }
     },
     {
@@ -341,14 +325,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Czym dociepla\u0107 \u015bciany w domu? 3 sprawdzone metody",
-            "link": "https://www.bielsko.info/wiadomosci/41614-czym-docieplac-sciany-w-domu-3-sprawdzone-metody",
-            "description": "Marzniesz we w\u0142asnym domu pomimo odkr\u0119conych grzejnik\u00f3w? W takiej sytuacji mo\u017ce Ci pom\u00f3c ocieplenie budynku. Jednak na kt\u00f3r\u0105 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.wQUvx7ciD2j5YVyU7duLRy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Posiadaj\u0105 jedn\u0105 z najwi\u0119kszych kolekcji historycznych zabawek na \u015bwiecie. Oto rodzina Sosenk\u00f3w",
+            "link": "https://www.radiokrakow.pl/audycje/posiadaja-jedna-z-najwiekszych-kolekcji-historycznych-zabawek-na-swiecie-oto-rodzina-sosenkow/",
+            "description": "Zabawki towarzysz\u0105 ludziom od wiek\u00f3w, b\u0119d\u0105c jednocze\u015bnie \u017ar\u00f3d\u0142em rado\u015bci dla dzieci i lustrem odbijaj\u0105cym rzeczywisto\u015b\u0107 epok, ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.BPs2cfl7RpJwEZTkppXryy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "bielsko18 godz.",
-            "source": "bielsko",
-            "article_content": "Metody ocieplania \u015bcian - od tradycyjnych po nowoczesne\n\nFolia grzewcza na \u015bcian\u0119 - innowacyjne rozwi\u0105zanie\n\nr\u00f3wnomiernie ogrzewa pomieszczenie;\n\nmo\u017ce dzia\u0142a\u0107 jako g\u0142\u00f3wne lub dodatkowe \u017ar\u00f3d\u0142o ciep\u0142a;\n\nmonta\u017c jest szybki i prosty;\n\npasuje do r\u00f3\u017cnych wyko\u0144cze\u0144, np. farb czy tapet.\n\nIzolacja zewn\u0119trzna - klasyczne rozwi\u0105zanie\n\nStyropian - jest lekki, \u0142atwy w monta\u017cu i skuteczny.\n\n- jest lekki, \u0142atwy w monta\u017cu i skuteczny. We\u0142na mineralna - zapewnia nie tylko izolacj\u0119 termiczn\u0105, ale i akustyczn\u0105.\n\n- zapewnia nie tylko izolacj\u0119 termiczn\u0105, ale i akustyczn\u0105. P\u0142yty warstwowe - s\u0105 wytrzyma\u0142e i wszechstronne.\n\nIzolacja wewn\u0119trzna - kiedy zewn\u0119trzna jest niemo\u017cliwa\n\np\u0142yty gipsowo-kartonowe z warstw\u0105 izolacji;\n\np\u0142yty PIR lub PUR;\n\nwe\u0142na mineralna.\n\nNa co zwr\u00f3ci\u0107 uwag\u0119 przy wyborze metody ocieplenia?\n\nRodzaj budynku - W domach drewnianych najlepiej sprawdza si\u0119 izolacja z we\u0142ny mineralnej lub celulozy. W budynkach murowanych preferowane s\u0105 styropian, we\u0142na mineralna lub pianki poliuretanowe.\n\n- W domach drewnianych najlepiej sprawdza si\u0119 izolacja z we\u0142ny mineralnej lub celulozy. W budynkach murowanych preferowane s\u0105 styropian, we\u0142na mineralna lub pianki poliuretanowe. Klimat - w regionach o ostrych zimach, konieczna mo\u017ce okaza\u0107 si\u0119 grubsza warstwa izolacji.\n\n- w regionach o ostrych zimach, konieczna mo\u017ce okaza\u0107 si\u0119 grubsza warstwa izolacji. Normy budowlane - upewnij si\u0119, \u017ce wybrane rozwi\u0105zanie spe\u0142nia wszystkie wymogi techniczne.\n\n- upewnij si\u0119, \u017ce wybrane rozwi\u0105zanie spe\u0142nia wszystkie wymogi techniczne. Trwa\u0142o\u015b\u0107 - postaw na rozwi\u0105zania, kt\u00f3re pos\u0142u\u017c\u0105 przez wiele lat.\n\nWyb\u00f3r odpowiedniej metody ocieplenia to spore wyzwanie, zw\u0142aszcza je\u015bli chcesz po\u0142\u0105czy\u0107 komfort, trwa\u0142o\u015b\u0107 i estetyk\u0119. Na szcz\u0119\u015bcie mo\u017cliwo\u015bci jest wiele. Od tradycyjnych materia\u0142\u00f3w, takich jak styropian, po nowoczesne technologie, kt\u00f3re mog\u0105 zaskoczy\u0107 swoj\u0105 funkcjonalno\u015bci\u0105. Co warto rozwa\u017cy\u0107?Zacznijmy od czego\u015b nowoczesnego. Folia grzewcza na \u015bcian\u0119 to \u015bwietny spos\u00f3b na po\u0142\u0105czenie izolacji z aktywnym ogrzewaniem. Jak to dzia\u0142a? Na \u015bcianie montuje si\u0119 cienkie, elastyczne maty, kt\u00f3re emituj\u0105 ciep\u0142o. Jest to idealne rozwi\u0105zanie dla os\u00f3b, kt\u00f3re ceni\u0105 sobie nowoczesno\u015b\u0107 i estetyk\u0119 - po wyko\u0144czeniu folia jest zupe\u0142nie niewidoczna.Najwi\u0119ksze zalety tego rozwi\u0105zania to:Zaciekawi\u0142o Ci\u0119 to rozwi\u0105zanie? Folia grzewcza doskonale sprawdza si\u0119 w nowych budynkach, ale te\u017c w remontowanych wn\u0119trzach, gdzie liczy si\u0119 ka\u017cdy centymetr przestrzeni.Najbardziej popularna i cz\u0119sto stosowana metoda to. Dzi\u0119ki niej \u015bciany s\u0105 chronione przed zimnem, wiatrem i wilgoci\u0105. Co wi\u0119cej, daje mo\u017cliwo\u015b\u0107 od\u015bwie\u017cenia elewacji i nadania jej nowego wygl\u0105du.Jakie materia\u0142y s\u0105 wykorzystywane do izolacji zewn\u0119trznej?Izolacja zewn\u0119trzna najcz\u0119\u015bciej stosowana jest w przypadku dom\u00f3w jednorodzinnych lub budynk\u00f3w, kt\u00f3re potrzebuj\u0105 solidnej ochrony przed zmiennymi warunkami atmosferycznymi.A co, je\u015bli ocieplenie od zewn\u0105trz nie wchodzi w gr\u0119? W takich sytuacjach z pomoc\u0105 przychodzi. Jest to cz\u0119sty wyb\u00f3r w budynkach zabytkowych albo tam, gdzie elewacja musi pozosta\u0107 nienaruszona.Najcz\u0119\u015bciej stosowane materia\u0142y to:Pami\u0119taj jednak, \u017ce ta metoda mo\u017ce nieco zmniejszy\u0107 przestrze\u0144 w pomieszczeniu. Dlatego dobrze jest poradzi\u0107 si\u0119 specjalisty przed rozpocz\u0119ciem prac.Nie wiesz, kt\u00f3ra metoda b\u0119dzie najlepsza dla Twojego domu? Oto kilka rzeczy, kt\u00f3re warto przemy\u015ble\u0107.Ocieplenie \u015bcian to inwestycja, kt\u00f3ra szybko si\u0119 zwr\u00f3ci. Dzi\u0119ki odpowiedniej izolacji nie tylko zwi\u0119kszysz sw\u00f3j komfort, a tak\u017ce zaoszcz\u0119dzisz na ogrzewaniu. Niezale\u017cnie od tego, czy wybierzesz tradycyjne metody, czy postawisz na innowacyjne rozwi\u0105zania, takie jak, pami\u0119taj, by dok\u0142adnie dopasowa\u0107 je do swoich potrzeb i charakterystyki budynku. W ko\u0144cu ciep\u0142y dom to szcz\u0119\u015bliwy dom!"
+            "date": "Radio Krak\u00f3w S.A.30 min",
+            "source": "Radio Krak\u00f3w S.A.",
+            "article_content": "Pocz\u0105tki kolekcji rodziny Sosenk\u00f3w\n\nHistoria kolekcji zaczyna si\u0119 w latach siedemdziesi\u0105tych, gdy Marek Sosenko zaanga\u017cowa\u0142 si\u0119 w prac\u0119 nad serialem \"Parada oszust\u00f3w\". W ramach projektu poszukiwa\u0142 unikalnych rekwizyt\u00f3w, kt\u00f3re wydawa\u0142y si\u0119 ju\u017c dawno zapomniane. Te poszukiwania sta\u0142y si\u0119 okazj\u0105 do poznania ludzi, kt\u00f3rzy pomagali mu dotrze\u0107 do przedmiot\u00f3w o ogromnej warto\u015bci historycznej.\n\nW serialu \"Parada oszust\u00f3w\" zajmowa\u0142em si\u0119 kwesti\u0105 doradztwa i znajdowania najr\u00f3\u017cniejszych rekwizyt\u00f3w, g\u0142\u00f3wnie takich, kt\u00f3re wydawa\u0142oby si\u0119, \u017ce ju\u017c przesta\u0142y istnie\u0107. Pozna\u0142em bardzo wiele os\u00f3b \u017cyczliwych, a jedn\u0105 z nich by\u0142a pani, kt\u00f3ra postanowi\u0142a wyprowadzi\u0107 si\u0119 z Polski na sta\u0142e i musia\u0142a zlikwidowa\u0107 wielopokoleniowe zasoby mieszkaniowe. Tam by\u0142y w\u0142a\u015bciwie wszelkiego typu przedmioty, w tym mn\u00f3stwo zabawek \u2013 wspomina Marek Sosenko.\n\nW latach sze\u015b\u0107dziesi\u0105tych i siedemdziesi\u0105tych, gdy w Polsce przeprowadzano tzw. akcje porz\u0105dkowe, wiele cennych zabytk\u00f3w i pami\u0105tek zosta\u0142o bezpowrotnie zniszczonych. Jednak dzi\u0119ki determinacji Marka Sosenki uda\u0142o si\u0119 uratowa\u0107 niekt\u00f3re z tych przedmiot\u00f3w. Na pocz\u0105tku jego kolekcja zabawek by\u0142a skromna \u2013 zawiera\u0142a zaledwie kilka lalek. Sytuacja zmieni\u0142a si\u0119, gdy w latach osiemdziesi\u0105tych zorganizowa\u0142 wystaw\u0119 w krakowskim klubie kolekcjoner\u00f3w. Zainteresowanie spo\u0142eczne pomog\u0142o w szybkim powi\u0119kszeniu zbior\u00f3w. Ludzie zacz\u0119li dostrzega\u0107 warto\u015b\u0107 historyczn\u0105 zabawek i ch\u0119tnie przekazywali swoje rodzinne skarby do kolekcji.\n\nKolekcja Fundacji Sosenk\u00f3w to nie tylko zas\u0142uga Marka i jego \u017cony, ale tak\u017ce ich dzieci. Katarzyna Sosenko, najstarsza c\u00f3rka, odziedziczy\u0142a pasj\u0119 rodzic\u00f3w i z czasem sta\u0142a si\u0119 kluczow\u0105 postaci\u0105 w rozwijaniu i profesjonalizowaniu dzia\u0142alno\u015bci fundacji. Dzi\u0119ki jej wykszta\u0142ceniu historycznemu i artystycznemu oraz pracy przy boku ojca, kolekcja zosta\u0142a zdigitalizowana i zinwentaryzowana. Katarzyna organizuje wystawy kuratorskie, kt\u00f3re promuj\u0105 unikatowe zbiory na szerok\u0105 skal\u0119."
         }
     },
     {
@@ -357,14 +341,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Rowerem do 33 km od Buska-Zdroju. Podpowiedzi jednodniowych wypraw. Gdzie w weekend 21 - 22 grudnia?",
-            "link": "https://buskozdroj.naszemiasto.pl/rowerem-do-33-km-od-buska-zdroju-podpowiedzi-jednodniowych-wypraw-gdzie-w-weekend-21-22-grudnia/ar/c7p1-21831973",
-            "description": "Rozwa\u017casz tras\u0119 rowerow\u0105 w pobli\u017cu Buska-Zdroju? Proponujemy, gdzie warto si\u0119 wybra\u0107. Przygotowali\u015bmy 5 ciekawych tras. S\u0105 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.svSUI2cLMu42mozb_cPiOC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Spo\u0142ecznicy w sprawie dworca PKP w Cz\u0119stochowie: powinien by\u0107 przebudowany i wyremontowany, a nie wyburzony",
+            "link": "https://www.msn.com/pl-pl/infrastruktura-miejska/infrastruktura-transportowa/spo%C5%82ecznicy-w-sprawie-dworca-pkp-w-cz%C4%99stochowie-powinien-by%C4%87-przebudowany-i-wyremontowany-a-nie-wyburzony/ar-AA1w5i36?ocid=BingNewsVerp",
+            "description": "\u015al\u0105ski Wojew\u00f3dzki Konserwator Zabytk\u00f3w w Katowicach zauwa\u017ca, \u017ce dworzec w Cz\u0119stochowie oddano do u\u017cytku w 1996 roku, a prace ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.8nT1Nm2mgYwAcaj8enP1BQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "buskozdroj.naszemiasto17 godz.",
-            "source": "buskozdroj.naszemiasto",
-            "article_content": "Content not available"
+            "date": "Cz\u0119stochowa Naszemiasto on MSN1 godz.",
+            "source": "Cz\u0119stochowa Naszemiasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Ewakuacja na Lotnisku Chopina w Warszawie. Nowe informacje",
+            "link": "https://wiadomosci.dziennik.pl/wydarzenia/artykuly/9695188,ewakuacja-na-lotnisku-chopina-w-warszawie-nowe-informacje.html",
+            "description": "Rzeczniczka lotniska, Anna Dermont, potwierdzi\u0142a w rozmowie z TVN24.pl, \u017ce o godzinie 10:00 s\u0142u\u017cby by\u0142y ju\u017c na miejscu.",
+            "image_url": "https://www.bing.pl/th?id=OVFT.A9Z7Sr5nuNoFcxGcXIYz2i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Dziennik2 godz.",
+            "source": "Dziennik",
+            "article_content": "Reklama\n\nNa Lotnisku Chopina trwa ewakuacja po wykryciu podejrzanego przedmiotu w baga\u017cu podr\u0119cznym.\n\nJak informuje portal tvn24.pl, w\u0142\u0105czono alarm, a podr\u00f3\u017cni zostali skierowani w stron\u0119 \"gat\u00f3w\" (pisownia oryginalna).\n\nEwakuacja na Lotnisku Chopina w Warszawie. \"Trwaj\u0105 dzia\u0142ania s\u0142u\u017cb\"\n\nRzeczniczka lotniska, Anna Dermont, potwierdzi\u0142a w rozmowie z TVN24.pl, \u017ce o godzinie 10:00 s\u0142u\u017cby by\u0142y ju\u017c na miejscu. Kontrola bezpiecze\u0144stwa w strefie CDE ujawni\u0142a podejrzany przedmiot, w zwi\u0105zku z czym og\u0142oszono ewakuacj\u0119 strefy. Trwaj\u0105 dzia\u0142ania s\u0142u\u017cb \u2013 powiedzia\u0142a Dermont.\n\nO godzinie 10.45 rzeczniczka Lotniska Chopina poinformowa\u0142a tvn24.pl, \u017ce operacje lotnicze zosta\u0142y wznowione. Jak doda\u0142a, w tej chwili nie ma \u017cadnych odwo\u0142anych ani op\u00f3\u017anionych lot\u00f3w zwi\u0105zanych z ewakuacj\u0105 strefy.\n\n\u0179r\u00f3d\u0142o: TVN24.PL, MEDIA"
         }
     },
     {
@@ -378,7 +378,7 @@
             "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.rXY4IFBt9hVZAYwsRbQrPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "gk24.pl3 godz.",
+            "date": "gk24.pl7 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -389,30 +389,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Rzadkie monety z PRL poszukiwane przez kolekcjoner\u00f3w. Sprawd\u017a, kt\u00f3re s\u0105 najdro\u017csze i ile mo\u017cna za nie zarobi\u0107! 18.12.2024",
-            "link": "https://www.msn.com/pl-pl/finanse/og%C3%B3lne/rzadkie-monety-z-prl-poszukiwane-przez-kolekcjoner%C3%B3w-sprawd%C5%BA-kt%C3%B3re-s%C4%85-najdro%C5%BCsze-i-ile-mo%C5%BCna-za-nie-zarobi%C4%87-18-12-2024/ar-AA1w47uy?ocid=BingNewsVerp",
-            "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.uMNyhMimRqIWw%2fQnZ69H%2fQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "18 GRUDNIA 2024",
+            "link": "https://www.krakow.pl/kalendarium/1919,shw,2024-12-18,7,day.html",
+            "description": "W bocznym budynku MOCAK-u, obok Czytelni, znajduje si\u0119 sala, w kt\u00f3rej jest eksponowana Biblioteka Mieczys\u0142awa Por\u0119bskiego. Profesor Mieczys\u0142aw Por\u0119bski ju\u017c wiele lat temu wyrazi\u0142 ch\u0119\u0107 przekazania swoj ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "Express Ilustrowany on MSN1 godz.",
-            "source": "Express Ilustrowany on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Historyczne odkrycie w Polsce. Artefakty jak z gry Diablo",
-            "link": "https://www.planeta.pl/nauka/historyczne-odkrycie-w-polsce-artefakty-jak-z-gry-diablo",
-            "description": "Historia Polski i niezwyk\u0142e odkrycie archeologiczne. W Wierzbicy ko\u0142o Tomaszowa Lubelskiego, archeolodzy odnale\u017ali artefakty ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.xRWq9AtF0FA_Cs6KksIbIC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Planet23 godz.",
-            "source": "Planet",
-            "article_content": "Historia Polski i niezwyk\u0142e odkrycie archeologiczne. W Wierzbicy ko\u0142o Tomaszowa Lubelskiego, archeolodzy odnale\u017ali artefakty sprzed wiek\u00f3w. Badacze historii s\u0105 zaskoczeni, bo szukali tam zupe\u0142nie innego historycznego skarbu.\n\nHistoryczne odkrycie w Polsce. Artefakty jak z gry Diablo\n\nArcheologiczna sensacja w Polsce. W Wierzbicy ko\u0142o Tomaszowa Lubelskiego (powiat tomaszowski) natrafiono na historyczny skarb. Wojew\u00f3dzki Konserwator Zabytk\u00f3w przekaza\u0142, \u017ce archeolodzy szukali pami\u0105tek na szlaku bojowym z okresu II wojny \u015bwiatowej i wrze\u015bnia 1939 roku. Natrafili jednak na co\u015b zupe\u0142nie innego. Cz\u0142onkowie Stowarzyszenia Pami\u0119ci 1 Pu\u0142ku Piechoty Korpusu Ochrony Pogranicza z Lubyczy Kr\u00f3lewskiej znale\u017ali artefakty sprzed wiek\u00f3w. Pochodz\u0105 z wczesnego \u015bredniowiecza, \u015bredniowiecza i okresu staropolskiego. Neolityczny top\u00f3r, narz\u0119dzia i ozdoby - pisze rmf24.pl.\n\nKamienny top\u00f3r odkryty w Polsce Fot: archiwum WUOZ w Lublinie Delegatura Zamo\u015b\u0107\n\nWojew\u00f3dzki Konserwator Zabytk\u00f3w informuje, \u017ce odnaleziono \u201ezaskakuj\u0105c\u0105 du\u017c\u0105 ilo\u015b\u0107 metalowych zabytk\u00f3w archeologicznych oraz metalowy top\u00f3r\u201d. Artefakty odkryto poza obszarem znanych stanowisk archeologicznych. Miejsce odkrycia znalezisk obejrzeli eksperci z urz\u0119du konserwatorskiego w Zamo\u015bciu, przeprowadzono r\u00f3wnie\u017c ogl\u0119dziny terenowe. Wszystkie znaleziska zabytk\u00f3w metalowych posiadaj\u0105 lokalizacj\u0119 GPS, o co zadbali poszukiwacze.\n\nQuiz: Test wiedzy z historii Polski - bitwy, daty, najwa\u017cniejsze wydarzenia 1/22 Jak\u0105 bitw\u0119 przedstawi\u0142 na tym obrazie Jan Krzysztof Damel? Bitwa pod Cedyni\u0105 Cud nad Wis\u0142\u0105 Bitwa pod Wiedniem Obl\u0119\u017cenie Cz\u0119stochowy Dalej\n\nJedno ze znalezisk to kamienny top\u00f3r cztero\u015bcienny, wykonany prawdopodobnie z bazaltu, z wyg\u0142adzeniem wszystkich \u015bcian i \u0142agodnie zaokr\u0105glonymi kraw\u0119dziami. Zachowana d\u0142ugo\u015b\u0107 ok. 14 cm, szeroko\u015b\u0107 ok. 8 cm, grubo\u015b\u0107 ok. 4,5 cm, ostrze ok. 5,5 cm. Chronologi\u0119 topora mo\u017cna okre\u015bli\u0107 na epok\u0119 neolitu (ok. 2500-2000 lat p.n.e.) i przypisa\u0107 do kultury ceramiki sznurowej.\n\nZnaleziono r\u00f3wnie\u017c fragment fibuli z br\u0105zu, datowanej na okres rzymski i wi\u0105zanej z osadnictwem ludno\u015bci kultury wielbarskiej.\n\nFragment fibuli z br\u0105zu Fot: Lubelski Wojew\u00f3dzki Konserwator Zabytk\u00f3w\n\nMamy tu do czynienia z nowym, dotychczas nieznanym stanowiskiem archeologicznym, wyj\u0105tkowo warto\u015bciowym pod wzgl\u0119dem naukowym, poznawczym i konserwatorskim, zawieraj\u0105cym zesp\u00f3\u0142 zabytk\u00f3w archeologicznych, kt\u00f3re bardzo rzadko wyst\u0119puj\u0105 w tak du\u017cych ilo\u015bciach i pochodz\u0105 z r\u00f3\u017cnych okres\u00f3w pradziej\u00f3w, wczesnego \u015bredniowiecza, \u015bredniowiecza i okresu staropolskiego- informuje Lubelski Wojew\u00f3dzki Konserwator Zabytk\u00f3w.\n\n\u0179r\u00f3d\u0142o: Radio ZET, Lubelski Wojew\u00f3dzki Konserwator Zabytk\u00f3w\n\nDzi\u0119kujemy za przeczytanie artyku\u0142u do ko\u0144ca. B\u0105d\u017a na bie\u017c\u0105co! Polub nasz\u0105 stron\u0119 na Facebooku"
+            "date": "krakow3 godz.",
+            "source": "krakow",
+            "article_content": "Krak\u00f3w \u2013 czas okupacji 1939-1945\n\nWystawa mie\u015bci si\u0119 w dawnym budynku administracyjnym Fabryki Emalia Oskara Schindlera przy ul. Lipowej 4 i jest opowie\u015bci\u0105 o Krakowie i losach jego polskich i \u017cydowskich mieszka\u0144c\u00f3w w czasie II wojny \u015bwiatowej, ale te\u017c o Niemcach \u2013 okupantach,..."
         }
     },
     {
@@ -426,9 +410,25 @@
             "description": "Ceremonialny czekan z epoki br\u0105zu, z drugiego tysi\u0105clecia przed Chrystusem, odnaleziono na terenie Bia\u0142o\u0142\u0119ki. To pierwsze ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.C_a9VIVugPYqTqAZIw0CIS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Hostowane na MSN1 godz.",
+            "date": "Hostowane na MSN5 godz.",
             "source": "MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Archeolodzy odkryli niezwyk\u0142e \u015blady w jaskini. To \u015bwiadectwa kultu sprzed 35 tys. lat",
+            "link": "https://www.national-geographic.pl/historia/archeolodzy-odkryli-niezwykle-slady-w-jaskini-to-swiadectwa-kultu-sprzed-35-tys-lat/",
+            "description": "W najciemniejszych zakamarkach olbrzymiej jaskini Manot w Galilei kilkadziesi\u0105t tysi\u0119cy lat temu odbywa\u0142y si\u0119 zagadkowe rytua\u0142y. Ludzie gromadzili si\u0119 wok\u00f3\u0142 kamiennego totemu.",
+            "image_url": "https://www.bing.pl/th?id=ODF.GraCsDDFpARZJlDXW3KSZA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "odkrycie+zabytkowe+przedmiot",
+            "date": "national-geographic4 godz.",
+            "source": "national-geographic",
+            "article_content": "Spis tre\u015bci:\n\nReklama\n\nJaskinie od dziesi\u0105tk\u00f3w tysi\u0119cy lat przyci\u0105ga\u0142y uwag\u0119 cz\u0142owieka. Najbardziej znane s\u0105 te z Hiszpanii i Francji, gdzie od oko\u0142o 40 do 14 tys. lat temu ludzie pozostawili wielobarwne malowid\u0142a naskalne.\n\nOkazuje si\u0119, \u017ce w innych rejonach \u015bwiata aktywno\u015b\u0107 ludzi w jaskiniach dziesi\u0105tki tysi\u0119cy lat temu wcale nie by\u0142a mniejsza. Grupa naukowc\u00f3w opublikowa\u0142a w\u0142a\u015bnie na \u0142amach periodyku \u201ePNAS\u201d wyniki bada\u0144 w jaskini Manot w Izraelu. Ich zdaniem uda\u0142o si\u0119 im tam znale\u017a\u0107 najstarsze dowody na rytualne zgromadzenia na kontynencie azjatyckim.\n\nKult w ciemnej jaskini\n\nW najg\u0142\u0119bszej i najciemniejszej cz\u0119\u015bci pieczary archeolodzy znale\u017ali rze\u017abiony kamie\u0144, celowo umieszczony w niszy w jaskini. Jego wz\u00f3r przypomina archeologom tr\u00f3jwymiarow\u0105 skorup\u0119 \u017c\u00f3\u0142wia. To dzie\u0142o sztuki pochodzi sprzed 35 tysi\u0119cy lat, wi\u0119c jest wsp\u00f3\u0142czesne z malowid\u0142ami naskalnymi w zachodniej Europie.\n\n\u2013 M\u00f3g\u0142 on [kamie\u0144 \u2013 przyp. red.] reprezentowa\u0107 totem lub posta\u0107 duchow\u0105 \u2013 powiedzia\u0142 szef zespo\u0142u badaczy Omry Barzilai z Uniwersytetu w Hajfie i Izraelskiej S\u0142u\u017cby Zabytk\u00f3w. Totemem nazywamy zwierz\u0119 czy przedmiot otaczany szczeg\u00f3ln\u0105 czci\u0105 przez spo\u0142eczno\u015bci zbieracko-\u0142owieckie. Niekt\u00f3rzy archeolodzy s\u0105dz\u0105, \u017ce by\u0142o swego rodzaju \u201egod\u0142em\u201d danej grupy i obowi\u0105zywa\u0142 zakaz polowania na totemowe zwierz\u0119.\n\nDlaczego badacze uwa\u017caj\u0105, \u017ce stylizowana kamienna skorupa \u017c\u00f3\u0142wia by\u0142a przedmiotem kultu? Ze wzgl\u0119du na szczeg\u00f3ln\u0105 lokalizacj\u0119, w g\u0142\u0119bi jaskini, z dala od materialnych \u015blad\u00f3w \u015bwiadcz\u0105cych o codziennych zadaniach.\n\nW ocenie badaczy nowe znalezisko poszerza nasze rozumienie okresu g\u00f3rnego paleolitu poza jego kultur\u0119 materialn\u0105. Umo\u017cliwia zag\u0142\u0119bienie si\u0119 w bardziej efemeryczn\u0105 sfer\u0119 duchowego \u017cycia ludzi, kt\u00f3ra wyra\u017ca\u0142a si\u0119 w odprawianych przez nich rytua\u0142ach.\n\nJaskinia ma \u015bwietne w\u0142a\u015bciwo\u015bci akustyczne sprzyjaj\u0105ce du\u017cym zgromadzeniom. O tym, \u017ce wi\u0119ksze grupy ludzi gromadzi\u0142y si\u0119 obok przypuszczalnego totemu z pochodniami, maj\u0105 \u015bwiadczy\u0107 \u015blady popio\u0142u drzewnego na pobliskich stalagmitach.\n\nCuda z jaskini Manot \u2013 nie tylko rytua\u0142y\n\nJaskinia Manot zosta\u0142a odkryta przypadkowo w czasie rob\u00f3t budowlanych w 2008 roku. Szybko wkroczyli do niej archeolodzy. O tym miejscu sta\u0142o si\u0119 g\u0142o\u015bno ju\u017c dziesi\u0119\u0107 lat temu. W 2015 r. naukowcy z Uniwersytetu Case Western Reserve w USA pomogli zidentyfikowa\u0107 czaszk\u0119 sprzed 55 000 lat. Dostarczy\u0142a fizycznych dowod\u00f3w na krzy\u017cowanie si\u0119 neandertalczyk\u00f3w i homo sapiens.\n\nPoza tym wewn\u0105trz jaskini uda\u0142o si\u0119 odkry\u0107 \u015blady przebywania tych dw\u00f3ch gatunk\u00f3w cz\u0142owieka. Natrafiono w niej na liczne narz\u0119dzia krzemienne i ko\u015bci upolowanych zwierz\u0105t, m.in. gazel, koni, nied\u017awiedzia czy jeleni. W przeciwie\u0144stwie do przedmiot\u00f3w zwi\u0105zanych z kultem te zabytki odkryto w zewn\u0119trznej cz\u0119\u015bci schroniska skalnego, tu\u017c przy wej\u015bciu.\n\nDentysta w jaskini na tropie naszych przodk\u00f3w\n\nW wykopaliskach w jaskini uczestnicz\u0105 od lat studenci stomatologii z Case Western Reserve University School of Dental Medicine w USA pod kierunkiem prof. Marka Hansa.\n\n\u2013 Wi\u0119kszo\u015b\u0107 ludzi nie przypuszcza\u0142aby, \u017ce szko\u0142a dentystyczna b\u0119dzie zaanga\u017cowana w wykopaliska archeologiczne. Ale jedn\u0105 z rzeczy bardzo dobrze zachowanych w kopalnych szkieletach s\u0105 z\u0119by, poniewa\u017c s\u0105 twardsze ni\u017c ko\u015bci. (\u2026) Jako ortodonta interesuj\u0119 si\u0119 wzrostem i rozwojem ludzkiej twarzy, co, jak si\u0119 okazuje, jest dok\u0142adnie tym, co jest potrzebne do identyfikacji okaz\u00f3w antropologicznych \u2013 opowiada naukowiec.\n\nW ci\u0105gu ostatnich dziesi\u0119ciu lat uczelnia Case Western Reserve ka\u017cdego lata wysy\u0142a\u0142a od 10 do 20 student\u00f3w stomatologii do pomocy przy wykopaliskach w jaskini Manot. Odbywaj\u0105ce si\u0119 latem badania sta\u0142y si\u0119 tak popularne, \u017ce \u017cacy z innych szk\u00f3\u0142 stomatologicznych i medycznych r\u00f3wnie\u017c chc\u0105 bra\u0107 w nich udzia\u0142.\n\nReklama\n\n\u0179r\u00f3d\u0142o: PNAS\n\nNasz autor"
         }
     }
 ]
