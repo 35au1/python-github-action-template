@@ -10,25 +10,9 @@
             "description": "TEMATY OG\u00d3LNE. Ja gram 4-5 godzin dziennie, w wakacje nakurczam po nockach i dobrze mi z tym. Ogrywam tytu\u0142y z lat 2015-2020. Jeste\u015bcie zaharowani i nie macie czasu si\u0119 po ty\u0142ku podrapa\u0107, czy raczej z ...",
             "image_url": "https://www.bing.pl/th?id=ODF.SlkachxxdRcMFI-CbWu_lg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "gry-online.pl4 godz.",
+            "date": "gry-online.pl8 godz.",
             "source": "gry-online.pl",
             "article_content": "Tak \u015brednio wyjd\u0105 z 2h dziennie w okresie zimowo-jesiennym (1,5h do 2h w tygodniu, w weekendy d\u0142u\u017cej). Latem i p\u00f3\u017an\u0105 wiosn\u0105 kr\u00f3cej bo mam wi\u0119cej ciekawych rzeczy do roboty i w weekendy w zasadzie wtedy nie gram, wi\u0119c zani\u017ca to \u015bredni\u0105 do powiedzmy nieca\u0142e 1,5h.\n\n\u015arednia spada je\u017celi znajd\u0119 co\u015b do ogl\u0105dania i nie chce mi si\u0119 gra\u0107, lub akurat co\u015b moduj\u0119 akurat co\u015b (cho\u0107 w tym roku ma\u0142o tego by\u0142o), wtedy czas na granie schodzi na inn\u0105 form\u0119 rekreacji przy kompie. Wiec czas mam bo nie ogl\u0105dam ju\u017c sportu a filmy niemal tylko rodzinnie (sam raptem nowe sezony Vox machiny i Lower Decks tylko w tym roku).\n\nRaz na miesi\u0105c albo dwa jednak robi\u0119 sobie takie zarwanie nocki jak za dzieciaka albo LAN party z ekip\u0105 raz na p\u00f3\u0142 roku w starocie (UT, Starcraft, etc.)"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Biecz galeria barbara rudzi\u0144ska",
-            "link": "https://gazetakrakowska.pl/tag/biecz-galeria-barbara-rudzinska",
-            "description": "M\u00f3wi, \u017ce z malowania mo\u017cna \u017cy\u0107, bo gdyby tak nie by\u0142o, poszuka\u0142aby innej pracy. Z drugiej strony, czasem, jak si\u0119 mocno ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.EE8eKH0m6NZZoG4vLL9Qby&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "Gazeta Krakowska23 godz.",
-            "source": "Gazeta Krakowska",
-            "article_content": "Content not available"
         }
     },
     {
@@ -42,9 +26,25 @@
             "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.rXY4IFBt9hVZAYwsRbQrPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "gk24.pl11 godz.",
+            "date": "gk24.pl15 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Rzadkie monety z PRL poszukiwane przez kolekcjoner\u00f3w. Sprawd\u017a, kt\u00f3re s\u0105 najdro\u017csze i ile mo\u017cna za nie zarobi\u0107! 18.12.2024",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/rzadkie-monety-z-prl-poszukiwane-przez-kolekcjoner%C3%B3w-sprawd%C5%BA-kt%C3%B3re-s%C4%85-najdro%C5%BCsze-i-ile-mo%C5%BCna-za-nie-zarobi%C4%87-18-12-2024/ar-AA1w47Bv?ocid=BingNewsVerp",
+            "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.H5xzmA8ZQN7aNok4oKrHnS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "Hostowane na MSN13 godz.",
+            "source": "MSN",
+            "article_content": ""
         }
     },
     {
@@ -58,7 +58,7 @@
             "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.t1QK1sAR9iO3s-WDsfSnTS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "gs24.pl11 godz.",
+            "date": "gs24.pl15 godz.",
             "source": "gs24.pl",
             "article_content": "Content not available"
         }
@@ -74,7 +74,7 @@
             "description": "Wiele os\u00f3b mo\u017ce nawet nie zdawa\u0107 sobie sprawy z tego, \u017ce posiadaj\u0105 w domu skarb farty fortun\u0119. Chodzi tu konkretnie o monety ...",
             "image_url": "https://www.bing.pl/th?id=OVF.%2f%2bi9bqDu5GvicvZA93YYbA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Biznesinfo on MSN8 godz.",
+            "date": "Biznesinfo on MSN12 godz.",
             "source": "Biznesinfo on MSN",
             "article_content": ""
         }
@@ -90,24 +90,8 @@
             "description": "Ta porcelana z PRL jest warta maj\u0105tek! Unikatowe zestawy, talerze, fili\u017canki z PRL. Tych przedmiot\u00f3w szukaj\u0105 kolekcjonerzy! Z pewno\u015bci\u0105 wiele os\u00f3b nie zdaje sobie sprawy, \u017ce mo\u017ce posiada\u0107 w swoim domu ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "gk24.pl11 godz.",
+            "date": "gk24.pl15 godz.",
             "source": "gk24.pl",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Te polskie banknoty strac\u0105 wa\u017cno\u015b\u0107 w 2024 roku. Oto pieni\u0105dze, kt\u00f3rymi nie zap\u0142acisz za zakupy, rachunki czy mandaty! 18.12.2024",
-            "link": "https://gs24.pl/te-polskie-banknoty-straca-waznosc-w-2024-roku-oto-pieniadze-ktorymi-nie-zaplacisz-za-zakupy-rachunki-czy-mandaty-18122024/ar/c3-18603327",
-            "description": "Oto banknoty, kt\u00f3re strac\u0105 wa\u017cno\u015b\u0107 w 2024 roku. Mo\u017ce si\u0119 okaza\u0107, \u017ce w portfelu posiadasz banknoty, kt\u00f3rymi nie mo\u017cna p\u0142aci\u0107. Mowa tutaj o pieni\u0105dzach zniszczonych i uszkodzonych. Trac\u0105 one wa\u017cno\u015b\u0107 i ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stare+monety",
-            "date": "gs24.pl10 godz.",
-            "source": "gs24.pl",
             "article_content": "Content not available"
         }
     },
@@ -122,7 +106,7 @@
             "description": "Stara porcelana z czas\u00f3w PRL, w 2024 roku cieszy si\u0119 rosn\u0105cym zainteresowaniem. Niekt\u00f3re egzemplarze mog\u0105 by\u0107 dzi\u015b bardzo ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.eujsUo8yckH2_dLmPKBIFi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN22 godz.",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN2 godz.",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
             "article_content": ""
         }
@@ -138,7 +122,7 @@
             "description": "Obecnie zwracamy olbrzymi\u0105 uwag\u0119 na wystr\u00f3j swoich dom\u00f3w czy mieszka\u0144, a w\u0142a\u015bnie takie przedmioty, unikatowe, wyr\u00f3\u017cniaj\u0105ce si\u0119 barwami, motywami i wzorami, jak porcelana czy ceramika z czas\u00f3w PRL, ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "gk24.pl10 godz.",
+            "date": "gk24.pl14 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -149,14 +133,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Bi\u017cuteria PRL warta fortun\u0119 - ceny. Tyle w 2024 roku trzeba zap\u0142aci\u0107 za stare kolczyki, pier\u015bcionki, naszyjniki, bransoletki",
-            "link": "https://pomorska.pl/bizuteria-prl-warta-fortune-ceny-tyle-w-2024-roku-trzeba-zaplacic-za-stare-kolczyki-pierscionki-naszyjniki-bransoletki/ar/c6p2-27097473",
-            "description": "Pier\u015bcionki ze srebra z kamieniami p\u00f3\u0142szlachetnymi, np. bursztynem czy agatem, mog\u0105 kosztowa\u0107 od 200 do 800 z\u0142, w zale\u017cno\u015bci ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.8a10CV8KgmtKMv3VWJ6b3g&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Wazony PRL z lat 60., 70. i 80. warte fortun\u0119. Tyle w 2024 roku trzeba zap\u0142aci\u0107 za szklane i porcelanowe stare wazony [19.12.2024]",
+            "link": "https://pomorska.pl/wazony-prl-z-lat-60-70-i-80-warte-fortune-tyle-w-2024-roku-trzeba-zaplacic-za-szklane-i-porcelanowe-stare-wazony-19122024/ar/c1-18879549",
+            "description": "Te niegdy\u015b codzienne elementy wyposa\u017cenia wn\u0119trz zyska\u0142y nowe \u017cycie w XXI wieku. Ciesz\u0105 si\u0119 du\u017c\u0105 popularno\u015bci\u0105, szczeg\u00f3lnie ze wzgl\u0119du na wyj\u0105tkowe wzornictwo, kunszt rzemie\u015blniczy i unikalno\u015b\u0107, kt\u00f3ra ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "Pomorska8 godz.",
+            "date": "Pomorska4 godz.",
             "source": "Pomorska",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Kryszta\u0142y PRL poszukiwane przez kolekcjoner\u00f3w - ceny, zdj\u0119cia. Tyle w 2024 roku kosztuj\u0105 kryszta\u0142owe misy, wazony i inne [19.12.2024]",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/tyle-w-2024-roku-trzeba-zap%C5%82aci%C4%87-za-kryszta%C5%82owe-naczynia-i-wazony-kryszta%C5%82y-prl-z-lat-60-70-80-19122024/ar-AA1w6oJu?ocid=BingNewsVerp",
+            "description": "Stare kryszta\u0142y z lat 60., 70., 80. to obecnie rarytas dla kolekcjoner\u00f3w staroci. W 2024 roku wr\u00f3ci\u0142y do \u0142ask, a niekt\u00f3re s\u0105 ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.o1yIJC%2b5oIumjtPJePOfpQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stara+porcelana",
+            "date": "Gazeta Pomorska on MSN3 godz.",
+            "source": "Gazeta Pomorska on MSN",
+            "article_content": ""
         }
     },
     {
@@ -170,7 +170,7 @@
             "description": "Ta porcelana z PRL jest warta maj\u0105tek! Unikatowe zestawy, talerze, fili\u017canki z PRL. Tych przedmiot\u00f3w szukaj\u0105 kolekcjonerzy! Z pewno\u015bci\u0105 wiele os\u00f3b nie zdaje sobie sprawy, \u017ce mo\u017ce posiada\u0107 w swoim domu ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "gk24.pl11 godz.",
+            "date": "gk24.pl15 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -181,13 +181,29 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Pchli Targ przy dworcu Pozna\u0144 G\u0142\u00f3wny. Mo\u017cna by\u0142o kupi\u0107 antyki i obrazy! Zobaczcie na zdj\u0119ciach [18.12.2024]",
-            "link": "https://gloswielkopolski.pl/pchli-targ-przy-dworcu-poznan-glowny-mozna-bylo-kupic-antyki-i-obrazy-zobaczcie-na-zdjeciach-18-12-2024/ar/c1p2-27019777",
-            "description": "W Poznaniu, tu\u017c obok dworca Pozna\u0144 G\u0142\u00f3wny i galerii handlowej Avenida, ponownie zago\u015bci\u0142 \"Niedzielny Targ Pozna\u0144\". 24 listopada, odby\u0142a si\u0119 kolejna edycja wydarzenia, kt\u00f3re przyci\u0105gn\u0119\u0142o t\u0142umy ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.U-Vp0xK7SYVhjnH4oToWdw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Pchli Targ przy dworcu Pozna\u0144 G\u0142\u00f3wny. Mo\u017cna by\u0142o kupi\u0107 antyki i obrazy! Zobaczcie na zdj\u0119ciach [19.12.2024]",
+            "link": "https://gloswielkopolski.pl/pchli-targ-przy-dworcu-poznan-glowny-mozna-bylo-kupic-antyki-i-obrazy-zobaczcie-na-zdjeciach-19-12-2024/ar/c1p2-27019777",
+            "description": "W Poznaniu, tu\u017c obok dworca Pozna\u0144 G\u0142\u00f3wny i galerii handlowej Avenida, ponownie zago\u015bci\u0142 \"Niedzielny Targ Pozna\u0144\". 24 ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.sxYSpCValQaqkbIEGgtHaQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "gloswielkopolski9 godz.",
+            "date": "gloswielkopolski5 godz.",
             "source": "gloswielkopolski",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pchli targ przy dworcu w Poznaniu",
+            "link": "https://poznan.naszemiasto.pl/pchli-targ-przy-dworcu-poznan-glowny-mozna-bylo-kupic-antyki-i-obrazy-zobaczcie-na-zdjeciach-19-12-2024/ar/c1p2-27019777",
+            "description": "W Poznaniu, tu\u017c obok dworca Pozna\u0144 G\u0142\u00f3wny i galerii handlowej Avenida, ponownie zago\u015bci\u0142 \"Niedzielny Targ Pozna\u0144\". 24 listopada, odby\u0142a si\u0119 kolejna edycja wydarzenia, kt\u00f3re przyci\u0105gn\u0119\u0142o t\u0142umy ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.Cya7j59Rws2Si6qfmk5ljw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "targ+staroci",
+            "date": "poznan.naszemiasto4 godz.",
+            "source": "poznan.naszemiasto",
             "article_content": "Content not available"
         }
     },
@@ -202,7 +218,7 @@
             "description": "Nie wszyscy wiedz\u0105, \u017ce Romuald Lipko za\u0142o\u017cyciel Budki Suflera przed \u015bmierci\u0105 przez wiele lat mieszka\u0142 w domu przy ulicy S\u0142onecznej w Kazimierzu Dolnym. Teraz posiad\u0142o\u015b\u0107 trafi\u0142a pod m\u0142otek, a will\u0119 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.lto-jgjLT22CJn-xbZRKjA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Kurier Lubelski on MSN8 godz.",
+            "date": "Kurier Lubelski on MSN12 godz.",
             "source": "Kurier Lubelski on MSN",
             "article_content": ""
         }
@@ -213,13 +229,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Biecz galeria barbara rudzi\u0144ska",
-            "link": "https://gazetakrakowska.pl/tag/biecz-galeria-barbara-rudzinska",
-            "description": "M\u00f3wi, \u017ce z malowania mo\u017cna \u017cy\u0107, bo gdyby tak nie by\u0142o, poszuka\u0142aby innej pracy. Z drugiej strony, czasem, jak si\u0119 mocno ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.EE8eKH0m6NZZoG4vLL9Qby&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "targ+staroci",
-            "date": "Gazeta Krakowska23 godz.",
-            "source": "Gazeta Krakowska",
+            "title": "Rowerem do 18 km od Grodziska Mazowieckiego. Pomys\u0142y na jednodniowy wypad. Gdzie w weekend 21 - 22 grudnia?",
+            "link": "https://grodziskmazowiecki.naszemiasto.pl/rowerem-do-18-km-od-grodziska-mazowieckiego-pomysly-na-jednodniowy-wypad-gdzie-w-weekend-21-22-grudnia/ar/c7p1-21831681",
+            "description": "Zanim wyruszysz w drog\u0119, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 21 grudnia w Grodzisku Mazowieckim ma by\u0107 4\u00b0C. Nie powinno ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.DSMebaf5WRfLEp3MlS0lRC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "grodziskmazowiecki.naszemiasto7 godz.",
+            "source": "grodziskmazowiecki.naszemiasto",
             "article_content": "Content not available"
         }
     },
@@ -234,24 +250,8 @@
             "description": "W sobot\u0119 21 grudnia wed\u0142ug prognozy pogody ma by\u0107 5\u00b0C. Prawdopodobie\u0144stwo wyst\u0105pienia deszczu wynosi 70%. W niedziel\u0119 22 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.CYRdFFncK7WzktJg2Eqh6S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "koszalin.naszemiasto1 godz.",
+            "date": "koszalin.naszemiasto5 godz.",
             "source": "koszalin.naszemiasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Rowerem do 18 km od Grodziska Mazowieckiego. Pomys\u0142y na jednodniowy wypad. Gdzie w weekend 21 - 22 grudnia?",
-            "link": "https://grodziskmazowiecki.naszemiasto.pl/rowerem-do-18-km-od-grodziska-mazowieckiego-pomysly-na-jednodniowy-wypad-gdzie-w-weekend-21-22-grudnia/ar/c7p1-21831681",
-            "description": "Zanim wyruszysz w drog\u0119, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 21 grudnia w Grodzisku Mazowieckim ma by\u0107 4\u00b0C. Nie powinno ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.DSMebaf5WRfLEp3MlS0lRC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "grodziskmazowiecki.naszemiasto3 godz.",
-            "source": "grodziskmazowiecki.naszemiasto",
             "article_content": "Content not available"
         }
     },
@@ -266,7 +266,7 @@
             "description": "W sobot\u0119 21 grudnia wed\u0142ug prognozy pogody ma by\u0107 6\u00b0C. Prawdopodobie\u0144stwo wyst\u0105pienia deszczu wynosi 62%. W niedziel\u0119 22 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.vMjrvTtmrLLvcjpR4elFky&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "kolobrzeg.naszemiasto2 godz.",
+            "date": "kolobrzeg.naszemiasto6 godz.",
             "source": "kolobrzeg.naszemiasto",
             "article_content": "Content not available"
         }
@@ -277,14 +277,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Konrad Fijo\u0142ek o braku bud\u017cetu Rzeszowa na przysz\u0142y rok: \"Tragedia, armagedon\". O co tak naprawd\u0119 chodzi opozycji?",
-            "link": "https://rzeszow.wyborcza.pl/rzeszow/7,34962,31555636,konrad-fijolek-o-braku-budzetu-rzeszowa-na-przyszly-rok-tragedia.html",
-            "description": "Totalny chaos, kary liczone w milionach z\u0142otych i brak mo\u017cliwo\u015bci dzia\u0142ania przez miasto przez kilka lat - tak o nieprzyj\u0119ciu ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.xM4tGfQR_M3mTASHQL7ltS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Marsja\u0144skie zabytki. Badacze uwa\u017caj\u0105, \u017ce warto dba\u0107 o te rzeczy",
+            "link": "https://antyweb.pl/mars-dziedzictwo-archeologia",
+            "description": "Mamy ju\u017c na Marsie \u015blady naszych pierwszych eksploracji. Czy te obiekty to kosmiczne \u015bmieci, kt\u00f3re za\u015bmiecaj\u0105 obc\u0105 planet\u0119, ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.4QtR3DCY5Lysb0yiXT2MTy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "rzeszow.wyborcza1 godz.",
-            "source": "rzeszow.wyborcza",
-            "article_content": ""
+            "date": "AntyWeb3 godz.",
+            "source": "AntyWeb",
+            "article_content": "Mamy ju\u017c na Marsie \u015blady naszych pierwszych eksploracji. Czy te obiekty to kosmiczne \u015bmieci, kt\u00f3re za\u015bmiecaj\u0105 obc\u0105 planet\u0119, czy mo\u017ce bezcenne artefakty dokumentuj\u0105ce pocz\u0105tki mi\u0119dzyplanetarnej przygody ludzko\u015bci? Niekt\u00f3rzy naukowcy postuluj\u0105 ochron\u0119 i ich katalogowanie tych \u015blad\u00f3w. Dlaczego?\n\nCz\u0142owiek od zarania dziej\u00f3w pozostawia za sob\u0105 \u015blady \u2013 od punkt\u00f3w Clovis w Ameryce po... wysypiska \u015bmieci dawnych cywilizacji. Dzi\u015b jednak nasza historia zaczyna wykracza\u0107 poza Ziemi\u0119. Mars, Ksi\u0119\u017cyc i inne planety staj\u0105 si\u0119 nowymi \"ziemiami obiecanymi\" a ka\u017cde l\u0105dowanie \u0142azika czy zrzut sondy pozostawia materialny zapis naszej obecno\u015bci. Antropolog Justin Holcomb z Uniwersytetu Kansas w swoim artykule w Nature Astronomy argumentuje, \u017ce te pozosta\u0142o\u015bci to nie \u015bmieci, ale... dziedzictwo, kt\u00f3re powinno by\u0107 chronione. Badacz oszala\u0142, czy mo\u017ce jednak... ma racj\u0119?\n\nReklama\n\nNiczym \u015blad podeszwy skafandra na Ksi\u0119\u017cycu\n\nFragmenty sond, \u0142azik\u00f3w i innych urz\u0105dze\u0144 pozostawionych na Marsie stanowi\u0105 pierwsze dowody naszej obecno\u015bci na obcych planetach. Pierwszym z nich by\u0142a katastrofa radzieckiego \u0142azika Mars 2 w 1971 roku \u2013 wydarzenie, kt\u00f3re zapocz\u0105tkowa\u0142o archeologiczny zapis ludzkiej eksploracji kosmosu.\n\nPodobnie jak archeolodzy badaj\u0105 staro\u017cytne wysypiska na Ziemi, przysz\u0142e pokolenia mog\u0105 analizowa\u0107 te artefakty, aby pozna\u0107 nasze pierwsze kroki w kosmosie. Mog\u0105 to by\u0107 r\u00f3wnie\u017c fragmenty \u0142azika Spirit, kt\u00f3re nied\u0142ugo zostan\u0105 zasypane marsja\u0144skimi piaskami, lub cz\u0119\u015bci helikoptera Ingenuity, pierwszego pojazdu zdolnego do lotu na obcej planecie. O Ingenuity pisali\u015bmy bardzo niedawno - polecamy zapozna\u0107 si\u0119 z tre\u015bci\u0105 naszego artyku\u0142u.\n\nHolcomb podkre\u015bla, \u017ce Mars to wyj\u0105tkowe \"laboratorium\" geoarcheologii. Warunki na tej planecie znacz\u0105co wp\u0142ywaj\u0105 na degradacj\u0119 materia\u0142\u00f3w. W miejscach bogatych w \u017celazo, procesy korozji mog\u0105 przebiega\u0107 szybciej, co czyni ochron\u0119 tych artefakt\u00f3w jeszcze bardziej istotn\u0105.\n\nJak to w ko\u0144cu jest? Na\u015bmiecili\u015bmy, czy ustanowili\u015bmy co\u015b w stylu zabytk\u00f3w?\n\nNarracja o \"kosmicznych \u015bmieciach\" mo\u017ce prowadzi\u0107 do radykalnego podej\u015bcia do materia\u0142\u00f3w pozostawionych na innych planetach. \u015amieci co prawda si\u0119 usuwa, ale dziedzictwo nale\u017cy chroni\u0107. To fundamentalna r\u00f3\u017cnica, kt\u00f3ra wymaga zmiany perspektywy w planowaniu przysz\u0142ych misji.\n\nNie oznacza to jednak, \u017ce ochrona tych \u015blad\u00f3w nie wi\u0105\u017ce si\u0119 z rzeczami koniecznymi do zrobienia. Z jednej strony, katalogowanie i monitorowanie artefakt\u00f3w wymaga zaawansowanych narz\u0119dzi, baz danych i katalog\u00f3w. Sp\u00f3jrzmy jednak na temat z drugiej strony: ochrona miejsc pierwszych l\u0105dowa\u0144 mo\u017ce ogranicza\u0107 eksploracj\u0119 nowych obszar\u00f3w Marsa. Z Marsem \u2014 przynajmniej na razie \u2014 nie jest jak z Ziemi\u0105: je\u017celi nie to konkretne lotnisko, to wyl\u0105dujemy na innym i na miejsce dotrzemy w inny spos\u00f3b. Logistyka jak na razie jest rzecz\u0105, od kt\u00f3rej zale\u017cy nie tylko powodzenie misji, ale i \u017cycie astronaut\u00f3w.\n\nNiemniej, owe \"artefakty\" stanowi\u0105 bezcenne \u015bwiadectwo naszych pocz\u0105tk\u00f3w w eksploracji mi\u0119dzyplanetarnej \u2013 podobnie jak punkty Clovis dokumentuj\u0105 pierwszych ludzi w Ameryce.\n\nTrudno powiedzie\u0107, co zrobimy z pierwszymi \u015bladami naszej obecno\u015bci na Marsie\n\nEksploracja Marsa i innych planet to nie tylko wy\u015bcig technologiczny, ale r\u00f3wnie\u017c tworzenie nowych rozdzia\u0142\u00f3w naszej historii (zabrzmia\u0142o troch\u0119 jak z youtuberem Budd\u0105). Dla ludzi w przysz\u0142o\u015bci mog\u0105 to by\u0107 naprawd\u0119 przydatne rzeczy w kontek\u015bcie dokumentowania dziej\u00f3w ludzkiej aktywno\u015bci poza Ziemi\u0105.\n\nReklama\n\nCzy powinni\u015bmy zmieni\u0107 nasze podej\u015bcie do planowania misji i zacz\u0105\u0107 traktowa\u0107 Marsa jako przestrze\u0144 kluczow\u0105 dla przysz\u0142ej archeologii? Nie ma co \u2014 Holcomb w\u0142o\u017cy\u0142 w\u0142a\u015bnie kij w mrowisko i... spowodowa\u0142 wielk\u0105 wrzaw\u0119 w \u015brodowisku naukowym. Nie ma jednoznacznego stanowiska ze strony tej grupy ludzi i trudno oczekiwa\u0107, by ono si\u0119 wyklarowa\u0142o."
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Miejsca, gdzie czas si\u0119 zatrzyma\u0142. Najbardziej klimatyczne skanseny na Mazowszu",
+            "link": "https://www.eska.pl/podroze/miejsca-gdzie-czas-sie-zatrzymal-najbardziej-klimatyczne-skanseny-na-mazowszu-18-12-aa-F9ag-p1hr-t6k5.html",
+            "description": "Odwiedziny w skansenie to wspania\u0142a lekcja dla dzieci i doros\u0142ych i mo\u017cliwo\u015b\u0107 zobaczenia na w\u0142asne oczy, jak wygl\u0105da\u0142o \u017cycie ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.CEAtbnVzZWP5SYBUhtadDA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "ESKA5 godz.",
+            "source": "ESKA",
+            "article_content": "Skanseny to rodzaj muze\u00f3w, kt\u00f3re gromadz\u0105 i prezentuj\u0105 zabytkowe budynki, narz\u0119dzia i przedmioty codziennego u\u017cytku, charakterystyczne dla danego regionu lub okresu historycznego. Ich celem jest zachowanie dziedzictwa kulturowego i umo\u017cliwienie zwiedzaj\u0105cym zanurzenia si\u0119 w atmosfer\u0119 dawnych czas\u00f3w. Skanseny na Mazowszu to prawdziwe pere\u0142ki, gdzie czas wydaje si\u0119 sta\u0107 w miejscu, a ka\u017cdy krok po terenie tych muze\u00f3w przybli\u017ca nas do \u017cycia naszych poprzednich pokole\u0144. Co wa\u017cne, te miejsca s\u0105 otwarte dla zwiedzaj\u0105cych przez ca\u0142y rok, oferuj\u0105c szereg atrakcji i wydarze\u0144 tematycznych, od warsztat\u00f3w rzemie\u015blniczych po historyczne inscenizacje.\n\nSENIORZY REAGUJ\u0104 NA RAP | ESKA REAKCJE Rozwijamy nasz serwis dzi\u0119ki wy\u015bwietlaniu reklam. Blokuj\u0105c reklamy, nie pozwalasz nam tworzy\u0107 warto\u015bciowych tre\u015bci. Wy\u0142\u0105cz AdBlock i od\u015bwie\u017c stron\u0119.\n\nSpis tre\u015bci\n\nSkansen Kultury Ludowej i Ziemia\u0144skiej w Kuligowie nad Bugiem\n\nSkansen w Kuligowie nad Bugiem to magiczne miejsce, kt\u00f3re przenosi zwiedzaj\u0105cych w klimat mazowieckiej wsi z prze\u0142omu XIX i XX wieku. Zosta\u0142 za\u0142o\u017cony przez Wojciecha Urmanowskiego, kt\u00f3ry rozpocz\u0105\u0142 swoj\u0105 kolekcj\u0119 od rodzinnych pami\u0105tek. To one sta\u0142y si\u0119 fundamentem dla ca\u0142ego przedsi\u0119wzi\u0119cia. Dzi\u015b na terenie skansenu mo\u017cna podziwia\u0107 pe\u0142en przekr\u00f3j zabudowy dawnej wsi \u2013 od dworku szlacheckiego, przez wiejsk\u0105 chat\u0119, a\u017c po przydro\u017cn\u0105 ku\u017ani\u0119 i stodo\u0142\u0119. Na szczeg\u00f3ln\u0105 uwag\u0119 zas\u0142uguj\u0105 rze\u017aby Marka Go\u0142aszewskiego, kt\u00f3re, wykonane przy u\u017cyciu pi\u0142y spalinowej, dodaj\u0105 temu miejscu artystycznego charakteru.\n\nJednym z najbardziej widowiskowych wydarze\u0144 w skansenie jest coroczna inscenizacja historyczna \u201eHuzarzy w Kuligowie\u201d, kt\u00f3ra przenosi uczestnik\u00f3w w realia wojny polsko-bolszewickiej 1920 roku. To tak\u017ce miejsce, kt\u00f3re przyci\u0105ga mi\u0142o\u015bnik\u00f3w polskiego kina \u2013 na terenie skansenu kr\u0119cono takie filmy jak \u201eJasminum\u201d Jana Jakuba Kolskiego czy ekranizacj\u0119 \u201eZemsty\u201d w re\u017cyserii Andrzeja Wajdy. Ponadto organizowane s\u0105 tu warsztaty kulinarne, takie jak \u201eKuligowskie Specja\u0142y \u2013 Nadbu\u017ca\u0144skie dziedzictwo kulinarne\u201d, gdzie uczestnicy mog\u0105 nauczy\u0107 si\u0119 przyrz\u0105dzania tradycyjnych potraw regionalnych.\n\nSkansen Osadnictwa Nadwi\u015bla\u0144skiego w Wi\u0105czeminie Polskim\n\nDrugim skansenem, kt\u00f3ry warto odwiedzi\u0107 na Mazowszu, jest Skansen Osadnictwa Nadwi\u015bla\u0144skiego w Wi\u0105czeminie Polskim, po\u0142o\u017cony w malowniczej dolinie Wis\u0142y. Powsta\u0142, aby upami\u0119tni\u0107 dziedzictwo olendr\u00f3w \u2013 osadnik\u00f3w, kt\u00f3rzy przybyli na tereny Mazowsza w XVII wieku z Fryzji, Flandrii i Niemiec. Ich \u017cycie, styl architektoniczny i tradycje zosta\u0142y odtworzone w tym wyj\u0105tkowym muzeum.\n\nNa terenie skansenu mo\u017cna zobaczy\u0107 m.in. budynki mieszkalne, stodo\u0142y i powidlarni\u0119, kt\u00f3re zosta\u0142y odrestaurowane i wyposa\u017cone w oryginalne meble oraz narz\u0119dzia u\u017cywane przez olendr\u00f3w. Jednym z najwa\u017cniejszych obiekt\u00f3w jest dawny ko\u015bci\u00f3\u0142 ewangelicko-augsburski, kt\u00f3ry po latach zosta\u0142 odnowiony i udost\u0119pniony zwiedzaj\u0105cym. Odbywaj\u0105 si\u0119 tu liczne wydarzenia kulturalne, m. in. \u015awi\u0119to Jana, kt\u00f3re corocznie gromadzi mieszka\u0144c\u00f3w i turyst\u00f3w zainteresowanych histori\u0105 osadnictwa nadwi\u015bla\u0144skiego.\n\nMuzeum Wsi Mazowieckiej w Sierpcu\n\nOstatnim, ale nie mniej wa\u017cnym miejscem na naszej li\u015bcie, jest Muzeum Wsi Mazowieckiej w Sierpcu. Za\u0142o\u017cone w 1971 roku, to najwi\u0119kszy skansen na Mazowszu, zajmuj\u0105cy powierzchni\u0119 a\u017c 60,5 ha. Muzeum prezentuje ponad 80 zabytkowych budynk\u00f3w, w tym ch\u0142opskie zagrody, dworki szlacheckie, wiatraki oraz drewniany ko\u015bci\u00f3\u0142 z XVIII wieku. Ekspozycja na terenie skansenu wiernie odtwarza uk\u0142ad typowej polskiej wsi z prze\u0142omu XIX i XX wieku.\n\nNa szczeg\u00f3ln\u0105 uwag\u0119 zas\u0142uguj\u0105 zagr\u00f3dki ch\u0142opskie oraz rekonstrukcje typowych dla mazowieckiej wsi budynk\u00f3w gospodarczych, takich jak obory, spichlerze i wozownie. Zwiedzaj\u0105cy mog\u0105 zobaczy\u0107, jak wygl\u0105da\u0142o codzienne \u017cycie na wsi \u2013 od prac w polu, przez warsztaty rzemie\u015blnicze, a\u017c po wn\u0119trza dom\u00f3w, kt\u00f3re zosta\u0142y wiernie odtworzone. Muzeum organizuje liczne wydarzenia tematyczne, takie jak \u201eMazowieckie \u017bniwa\u201d czy \u201eDo\u017cynki\u201d, kt\u00f3re przyci\u0105gaj\u0105 t\u0142umy turyst\u00f3w i mieszka\u0144c\u00f3w pobliskich wsi oraz miast."
         }
     },
     {
@@ -298,7 +314,7 @@
             "description": "Wakacje all inclusive w popularnym kraju od przysz\u0142ego roku nie b\u0119d\u0105 ju\u017c takie same. Tury\u015bci z Polski planuj\u0105cy wczasy po 1 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.qH6ENuAYgd9le9B5rhgCvy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Fakt.pl1 godz.",
+            "date": "Fakt.pl5 godz.",
             "source": "Fakt.pl",
             "article_content": "Polacy uwielbiaj\u0105 lata\u0107 na wczasy do tzw. ciep\u0142ych kraj\u00f3w. Szczeg\u00f3ln\u0105 popularno\u015bci\u0105 ciesz\u0105 si\u0119 wyjazdy w formule all inclusive do pa\u0144stw, takich jak: Egipt, Turcja, Grecja czy Tunezja. Wjazd do tego ostatniego kraju od przysz\u0142ego roku b\u0119dzie si\u0119 odbywa\u0142 na nieco innych warunkach. Dla wielu os\u00f3b nie b\u0119dzie to dobra wiadomo\u015b\u0107.\n\nTunezja to czwarty pod wzgl\u0119dem popularno\u015bci kierunek wakacyjny w\u015br\u00f3d turyst\u00f3w z Polski. W sierpniu tego roku podr\u00f3\u017cni otrzymali dobr\u0105 wiadomo\u015b\u0107. W\u0142adze afryka\u0144skiego pa\u0144stwa znios\u0142y obowi\u0105zek posiadania przy sobie paszportu, w zwi\u0105zku z czym Polacy mogli wje\u017cd\u017ca\u0107 na teren kraju, okazuj\u0105c si\u0119 dowodem osobistym. Jedynym warunkiem by\u0142 bilet powrotny oraz zakwaterowanie na czas pobytu.\n\nOd samego pocz\u0105tku Tunezja podkre\u015bla\u0142a jednak, \u017ce jest to rozwi\u0105zanie tymczasowe, obowi\u0105zuj\u0105ce do ko\u0144ca 2024 r. Mimo to wielu wczasowicz\u00f3w po cichu liczy\u0142o, \u017ce wjazd na dow\u00f3d osobisty zostanie przed\u0142u\u017cony r\u00f3wnie\u017c na przysz\u0142y rok. Tak si\u0119 niestety nie sta\u0142o.\n\nProcedura akceptowania wjazdu do Tunezji na podstawie dowodu osobistego dla obywateli Unii Europejskiej zostanie zako\u0144czona 31 grudnia 2024 roku. Od 1 stycznia wymaganym dokumentem do wjazdu do Tunezji b\u0119dzie paszport\n\n\u2014 przekaza\u0142 Naoufel Gannouni, dyrektor Tunezyjskiego Urz\u0119du ds. Turystyki na Polsk\u0119, w rozmowie z serwisem fly4free.pl.\n\nZ czego s\u0142ynie Tunezja?\n\nTunezja le\u017cy w p\u00f3\u0142nocnej Afryce, nad Morzem \u015ar\u00f3dziemnym. Pa\u0144stwo to s\u0142ynie przede wszystkim ze s\u0142onecznej pogody, kurort\u00f3w turystycznych, bia\u0142ych piaszczystych pla\u017c nad turkusow\u0105 wod\u0105 oraz pi\u0119knych widok\u00f3w.\n\nZnajdziemy tam zar\u00f3wno zielone gaje oliwne, dzikie pustynie, jak i majestatyczne G\u00f3ry Atlas. B\u0119d\u0105c na miejscu, warto odwiedzi\u0107 m.in. zabytkowy Amfiteatr w El Jem, oazy g\u00f3rskie Chebika i Tamerza, wpisan\u0105 na List\u0119 \u015awiatowego Dziedzictwa UNESCO Kartagin\u0119 oraz pustynne miasteczko Tatooine, gdzie kr\u0119cono \"Gwiezdne Wojny\".\n\n\u0179r\u00f3d\u0142o: fly4free.pl\n\nPrzeczytaj r\u00f3wnie\u017c:\n\nLecisz na wakacje? Koniecznie sprawd\u017a te cyfry w twoim paszporcie. Inaczej nici z urlopu\n\n\"Lec\u0119 do Dubaju, mog\u0119 na paszporcie tymczasowym?\". Bolesna nauczka polskiej turystki. I to dzie\u0144 przed wylotem!\n\nMia\u0142a to w paszporcie, dlatego nie wpuszczono jej do samolotu. Sprawd\u017acie sw\u00f3j dokument. Ka\u017cdy mo\u017ce to mie\u0107"
         }
@@ -314,7 +330,7 @@
             "description": "Dzi\u015b na Lotnisku Chopina podczas rutynowej kontroli baga\u017cu podr\u0119cznego, jeden z podr\u00f3\u017cnych mia\u0142 przy sobie przedmiot ...",
             "image_url": "https://www.bing.pl/th?id=OVF.X9VQRusVJN%2fbuOfDyG4PeQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Warszawa Naszemiasto on MSN6 godz.",
+            "date": "Warszawa Naszemiasto on MSN10 godz.",
             "source": "Warszawa Naszemiasto on MSN",
             "article_content": ""
         }
@@ -325,30 +341,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "\u015acie\u017cki na spacer w woj. wielkopolskim. Gdzie wybra\u0107 si\u0119 w weekend 21 - 22 grudnia? 10 najciekawszych tras",
-            "link": "https://gloswielkopolski.pl/sciezki-na-spacer-w-woj-wielkopolskim-gdzie-wybrac-sie-w-weekend-21-22-grudnia-10-najciekawszych-tras/ar/c7p1-22116473",
-            "description": "Zanim wyruszysz, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 21 grudnia w woj. wielkopolskim ma by\u0107 od 3\u00b0C do 6\u00b0C. Nie powinno ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.jlSW5FYkQ5_7bwn0VP-jNS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Konrad Fijo\u0142ek o braku bud\u017cetu Rzeszowa na przysz\u0142y rok: \"Tragedia, armagedon\". O co tak naprawd\u0119 chodzi opozycji?",
+            "link": "https://rzeszow.wyborcza.pl/rzeszow/7,34962,31555636,konrad-fijolek-o-braku-budzetu-rzeszowa-na-przyszly-rok-tragedia.html",
+            "description": "Totalny chaos, kary liczone w milionach z\u0142otych i brak mo\u017cliwo\u015bci dzia\u0142ania przez miasto przez kilka lat - tak o nieprzyj\u0119ciu ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.xM4tGfQR_M3mTASHQL7ltS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "gloswielkopolski2 godz.",
-            "source": "gloswielkopolski",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Posiadaj\u0105 jedn\u0105 z najwi\u0119kszych kolekcji historycznych zabawek na \u015bwiecie. Oto rodzina Sosenk\u00f3w",
-            "link": "https://www.radiokrakow.pl/audycje/posiadaja-jedna-z-najwiekszych-kolekcji-historycznych-zabawek-na-swiecie-oto-rodzina-sosenkow/",
-            "description": "Zabawki towarzysz\u0105 ludziom od wiek\u00f3w, b\u0119d\u0105c jednocze\u015bnie \u017ar\u00f3d\u0142em rado\u015bci dla dzieci i lustrem odbijaj\u0105cym rzeczywisto\u015b\u0107 epok, ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.BPs2cfl7RpJwEZTkppXryy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Radio Krak\u00f3w S.A.4 godz.",
-            "source": "Radio Krak\u00f3w S.A.",
-            "article_content": "Pocz\u0105tki kolekcji rodziny Sosenk\u00f3w\n\nHistoria kolekcji zaczyna si\u0119 w latach siedemdziesi\u0105tych, gdy Marek Sosenko zaanga\u017cowa\u0142 si\u0119 w prac\u0119 nad serialem \"Parada oszust\u00f3w\". W ramach projektu poszukiwa\u0142 unikalnych rekwizyt\u00f3w, kt\u00f3re wydawa\u0142y si\u0119 ju\u017c dawno zapomniane. Te poszukiwania sta\u0142y si\u0119 okazj\u0105 do poznania ludzi, kt\u00f3rzy pomagali mu dotrze\u0107 do przedmiot\u00f3w o ogromnej warto\u015bci historycznej.\n\nW serialu \"Parada oszust\u00f3w\" zajmowa\u0142em si\u0119 kwesti\u0105 doradztwa i znajdowania najr\u00f3\u017cniejszych rekwizyt\u00f3w, g\u0142\u00f3wnie takich, kt\u00f3re wydawa\u0142oby si\u0119, \u017ce ju\u017c przesta\u0142y istnie\u0107. Pozna\u0142em bardzo wiele os\u00f3b \u017cyczliwych, a jedn\u0105 z nich by\u0142a pani, kt\u00f3ra postanowi\u0142a wyprowadzi\u0107 si\u0119 z Polski na sta\u0142e i musia\u0142a zlikwidowa\u0107 wielopokoleniowe zasoby mieszkaniowe. Tam by\u0142y w\u0142a\u015bciwie wszelkiego typu przedmioty, w tym mn\u00f3stwo zabawek \u2013 wspomina Marek Sosenko.\n\nW latach sze\u015b\u0107dziesi\u0105tych i siedemdziesi\u0105tych, gdy w Polsce przeprowadzano tzw. akcje porz\u0105dkowe, wiele cennych zabytk\u00f3w i pami\u0105tek zosta\u0142o bezpowrotnie zniszczonych. Jednak dzi\u0119ki determinacji Marka Sosenki uda\u0142o si\u0119 uratowa\u0107 niekt\u00f3re z tych przedmiot\u00f3w. Na pocz\u0105tku jego kolekcja zabawek by\u0142a skromna \u2013 zawiera\u0142a zaledwie kilka lalek. Sytuacja zmieni\u0142a si\u0119, gdy w latach osiemdziesi\u0105tych zorganizowa\u0142 wystaw\u0119 w krakowskim klubie kolekcjoner\u00f3w. Zainteresowanie spo\u0142eczne pomog\u0142o w szybkim powi\u0119kszeniu zbior\u00f3w. Ludzie zacz\u0119li dostrzega\u0107 warto\u015b\u0107 historyczn\u0105 zabawek i ch\u0119tnie przekazywali swoje rodzinne skarby do kolekcji.\n\nKolekcja Fundacji Sosenk\u00f3w to nie tylko zas\u0142uga Marka i jego \u017cony, ale tak\u017ce ich dzieci. Katarzyna Sosenko, najstarsza c\u00f3rka, odziedziczy\u0142a pasj\u0119 rodzic\u00f3w i z czasem sta\u0142a si\u0119 kluczow\u0105 postaci\u0105 w rozwijaniu i profesjonalizowaniu dzia\u0142alno\u015bci fundacji. Dzi\u0119ki jej wykszta\u0142ceniu historycznemu i artystycznemu oraz pracy przy boku ojca, kolekcja zosta\u0142a zdigitalizowana i zinwentaryzowana. Katarzyna organizuje wystawy kuratorskie, kt\u00f3re promuj\u0105 unikatowe zbiory na szerok\u0105 skal\u0119."
+            "date": "rzeszow.wyborcza5 godz.",
+            "source": "rzeszow.wyborcza",
+            "article_content": ""
         }
     },
     {
@@ -362,7 +362,7 @@
             "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.rXY4IFBt9hVZAYwsRbQrPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "gk24.pl11 godz.",
+            "date": "gk24.pl15 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -378,7 +378,7 @@
             "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
             "image_url": "https://www.bing.pl/th?id=OVF.uMNyhMimRqIWw%2fQnZ69H%2fQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Express Ilustrowany on MSN9 godz.",
+            "date": "Express Ilustrowany on MSN13 godz.",
             "source": "Express Ilustrowany on MSN",
             "article_content": ""
         }
@@ -394,9 +394,9 @@
             "description": "W bocznym budynku MOCAK-u, obok Czytelni, znajduje si\u0119 sala, w kt\u00f3rej jest eksponowana Biblioteka Mieczys\u0142awa Por\u0119bskiego. Profesor Mieczys\u0142aw Por\u0119bski ju\u017c wiele lat temu wyrazi\u0142 ch\u0119\u0107 przekazania swoj ...",
             "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "krakow7 godz.",
+            "date": "krakow11 godz.",
             "source": "krakow",
-            "article_content": "Krak\u00f3w \u2013 czas okupacji 1939-1945\n\nWystawa mie\u015bci si\u0119 w dawnym budynku administracyjnym Fabryki Emalia Oskara Schindlera przy ul. Lipowej 4 i jest opowie\u015bci\u0105 o Krakowie i losach jego polskich i \u017cydowskich mieszka\u0144c\u00f3w w czasie II wojny \u015bwiatowej, ale te\u017c o Niemcach \u2013 okupantach,..."
+            "article_content": "Szlak \u017cywego Muzeum Witra\u017cu\n\nW Muzeum Witra\u017cu przestrzenie ekspozycyjne przeplataj\u0105 si\u0119 z mieszcz\u0105ca si\u0119 tu od 1902 roku pracowni\u0105 witra\u017cy. Podczas zwiedzania mo\u017cna obserwowa\u0107 niezmieniony od setek lat proces powstawania witra\u017cy. Struktura kamienicy, w kt\u00f3rej..."
         }
     },
     {
@@ -410,7 +410,7 @@
             "description": "Ceremonialny czekan z epoki br\u0105zu, z drugiego tysi\u0105clecia przed Chrystusem, odnaleziono na terenie Bia\u0142o\u0142\u0119ki. To pierwsze ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.C_a9VIVugPYqTqAZIw0CIS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Hostowane na MSN9 godz.",
+            "date": "Hostowane na MSN13 godz.",
             "source": "MSN",
             "article_content": ""
         }
@@ -421,14 +421,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Nic o nim nie wiedzieli. Wa\u017cne odkrycie w Lubelskiem",
-            "link": "https://www.dziennikwschodni.pl/tomaszow-lubelski/odkryto-nowe-stanowisko-archeologiczne-w-woj-lubelskim,n,1000354535.html",
-            "description": "Lubelski Wojew\u00f3dzki Konserwator Zabytk\u00f3w informuje, \u017ce w powiecie tomaszowskim odkryte zosta\u0142o nieznane dot\u0105d stanowisko ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.Tw93st9H6Sd5rqoB5iYeoC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Archeolodzy odkryli niezwyk\u0142e \u015blady w jaskini. To \u015bwiadectwa kultu sprzed 35 tys. lat",
+            "link": "https://www.national-geographic.pl/historia/archeolodzy-odkryli-niezwykle-slady-w-jaskini-to-swiadectwa-kultu-sprzed-35-tys-lat/",
+            "description": "W najciemniejszych zakamarkach olbrzymiej jaskini Manot w Galilei kilkadziesi\u0105t tysi\u0119cy lat temu odbywa\u0142y si\u0119 zagadkowe rytua\u0142y. Ludzie gromadzili si\u0119 wok\u00f3\u0142 kamiennego totemu.",
+            "image_url": "https://www.bing.pl/th?id=ODF.GraCsDDFpARZJlDXW3KSZA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Dziennik Wschodni22 godz.",
-            "source": "Dziennik Wschodni",
-            "article_content": "Przegl\u0105darka, z kt\u00f3rej korzystasz jest przestarza\u0142a.\n\nStarsze przegl\u0105darki internetowe takie jak Internet Explorer 6, 7 i 8 posiadaj\u0105 udokumentowane luki bezpiecze\u0144stwa, ograniczon\u0105 funkcjonalno\u015b\u0107 oraz nie s\u0105 zgodne z najnowszymi standardami.\n\nProsimy o zainstalowanie nowszej przegl\u0105darki, kt\u00f3ra pozwoli Ci skorzysta\u0107 z pe\u0142ni mo\u017cliwo\u015bci oferowanych przez nasz portal, jak r\u00f3wnie\u017c znacznie u\u0142atwi Ci przegl\u0105danie internetu w przysz\u0142o\u015bci :)"
+            "date": "national-geographic12 godz.",
+            "source": "national-geographic",
+            "article_content": "Spis tre\u015bci:\n\nReklama\n\nJaskinie od dziesi\u0105tk\u00f3w tysi\u0119cy lat przyci\u0105ga\u0142y uwag\u0119 cz\u0142owieka. Najbardziej znane s\u0105 te z Hiszpanii i Francji, gdzie od oko\u0142o 40 do 14 tys. lat temu ludzie pozostawili wielobarwne malowid\u0142a naskalne.\n\nOkazuje si\u0119, \u017ce w innych rejonach \u015bwiata aktywno\u015b\u0107 ludzi w jaskiniach dziesi\u0105tki tysi\u0119cy lat temu wcale nie by\u0142a mniejsza. Grupa naukowc\u00f3w opublikowa\u0142a w\u0142a\u015bnie na \u0142amach periodyku \u201ePNAS\u201d wyniki bada\u0144 w jaskini Manot w Izraelu. Ich zdaniem uda\u0142o si\u0119 im tam znale\u017a\u0107 najstarsze dowody na rytualne zgromadzenia na kontynencie azjatyckim.\n\nKult w ciemnej jaskini\n\nW najg\u0142\u0119bszej i najciemniejszej cz\u0119\u015bci pieczary archeolodzy znale\u017ali rze\u017abiony kamie\u0144, celowo umieszczony w niszy w jaskini. Jego wz\u00f3r przypomina archeologom tr\u00f3jwymiarow\u0105 skorup\u0119 \u017c\u00f3\u0142wia. To dzie\u0142o sztuki pochodzi sprzed 35 tysi\u0119cy lat, wi\u0119c jest wsp\u00f3\u0142czesne z malowid\u0142ami naskalnymi w zachodniej Europie.\n\n\u2013 M\u00f3g\u0142 on [kamie\u0144 \u2013 przyp. red.] reprezentowa\u0107 totem lub posta\u0107 duchow\u0105 \u2013 powiedzia\u0142 szef zespo\u0142u badaczy Omry Barzilai z Uniwersytetu w Hajfie i Izraelskiej S\u0142u\u017cby Zabytk\u00f3w. Totemem nazywamy zwierz\u0119 czy przedmiot otaczany szczeg\u00f3ln\u0105 czci\u0105 przez spo\u0142eczno\u015bci zbieracko-\u0142owieckie. Niekt\u00f3rzy archeolodzy s\u0105dz\u0105, \u017ce by\u0142o swego rodzaju \u201egod\u0142em\u201d danej grupy i obowi\u0105zywa\u0142 zakaz polowania na totemowe zwierz\u0119.\n\nDlaczego badacze uwa\u017caj\u0105, \u017ce stylizowana kamienna skorupa \u017c\u00f3\u0142wia by\u0142a przedmiotem kultu? Ze wzgl\u0119du na szczeg\u00f3ln\u0105 lokalizacj\u0119, w g\u0142\u0119bi jaskini, z dala od materialnych \u015blad\u00f3w \u015bwiadcz\u0105cych o codziennych zadaniach.\n\nW ocenie badaczy nowe znalezisko poszerza nasze rozumienie okresu g\u00f3rnego paleolitu poza jego kultur\u0119 materialn\u0105. Umo\u017cliwia zag\u0142\u0119bienie si\u0119 w bardziej efemeryczn\u0105 sfer\u0119 duchowego \u017cycia ludzi, kt\u00f3ra wyra\u017ca\u0142a si\u0119 w odprawianych przez nich rytua\u0142ach.\n\nJaskinia ma \u015bwietne w\u0142a\u015bciwo\u015bci akustyczne sprzyjaj\u0105ce du\u017cym zgromadzeniom. O tym, \u017ce wi\u0119ksze grupy ludzi gromadzi\u0142y si\u0119 obok przypuszczalnego totemu z pochodniami, maj\u0105 \u015bwiadczy\u0107 \u015blady popio\u0142u drzewnego na pobliskich stalagmitach.\n\nCuda z jaskini Manot \u2013 nie tylko rytua\u0142y\n\nJaskinia Manot zosta\u0142a odkryta przypadkowo w czasie rob\u00f3t budowlanych w 2008 roku. Szybko wkroczyli do niej archeolodzy. O tym miejscu sta\u0142o si\u0119 g\u0142o\u015bno ju\u017c dziesi\u0119\u0107 lat temu. W 2015 r. naukowcy z Uniwersytetu Case Western Reserve w USA pomogli zidentyfikowa\u0107 czaszk\u0119 sprzed 55 000 lat. Dostarczy\u0142a fizycznych dowod\u00f3w na krzy\u017cowanie si\u0119 neandertalczyk\u00f3w i homo sapiens.\n\nPoza tym wewn\u0105trz jaskini uda\u0142o si\u0119 odkry\u0107 \u015blady przebywania tych dw\u00f3ch gatunk\u00f3w cz\u0142owieka. Natrafiono w niej na liczne narz\u0119dzia krzemienne i ko\u015bci upolowanych zwierz\u0105t, m.in. gazel, koni, nied\u017awiedzia czy jeleni. W przeciwie\u0144stwie do przedmiot\u00f3w zwi\u0105zanych z kultem te zabytki odkryto w zewn\u0119trznej cz\u0119\u015bci schroniska skalnego, tu\u017c przy wej\u015bciu.\n\nDentysta w jaskini na tropie naszych przodk\u00f3w\n\nW wykopaliskach w jaskini uczestnicz\u0105 od lat studenci stomatologii z Case Western Reserve University School of Dental Medicine w USA pod kierunkiem prof. Marka Hansa.\n\n\u2013 Wi\u0119kszo\u015b\u0107 ludzi nie przypuszcza\u0142aby, \u017ce szko\u0142a dentystyczna b\u0119dzie zaanga\u017cowana w wykopaliska archeologiczne. Ale jedn\u0105 z rzeczy bardzo dobrze zachowanych w kopalnych szkieletach s\u0105 z\u0119by, poniewa\u017c s\u0105 twardsze ni\u017c ko\u015bci. (\u2026) Jako ortodonta interesuj\u0119 si\u0119 wzrostem i rozwojem ludzkiej twarzy, co, jak si\u0119 okazuje, jest dok\u0142adnie tym, co jest potrzebne do identyfikacji okaz\u00f3w antropologicznych \u2013 opowiada naukowiec.\n\nW ci\u0105gu ostatnich dziesi\u0119ciu lat uczelnia Case Western Reserve ka\u017cdego lata wysy\u0142a\u0142a od 10 do 20 student\u00f3w stomatologii do pomocy przy wykopaliskach w jaskini Manot. Odbywaj\u0105ce si\u0119 latem badania sta\u0142y si\u0119 tak popularne, \u017ce \u017cacy z innych szk\u00f3\u0142 stomatologicznych i medycznych r\u00f3wnie\u017c chc\u0105 bra\u0107 w nich udzia\u0142.\n\nReklama\n\n\u0179r\u00f3d\u0142o: PNAS\n\nNasz autor"
         }
     }
 ]
