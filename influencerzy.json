@@ -5,12 +5,28 @@
             "Content-Type": "application/json"
         },
         "body": {
+            "title": "Krzysztof Jackowski odkry\u0142 wn\u0119trza swojego mieszkania. P\u00f3\u0142ki a\u017c si\u0119 uginaj\u0105",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/krzysztof-jackowski-odkry%C5%82-wn%C4%99trza-swojego-mieszkania-p%C3%B3%C5%82ki-a%C5%BC-si%C4%99-uginaj%C4%85/ar-AA1wdEtT?ocid=BingNewsVerp",
+            "description": "Krzysztof Jackowski, znany jasnowidz, postanowi\u0142 pochwali\u0107 si\u0119 wn\u0119trzem swojego mieszkania. Pomieszczenia obfituj\u0105 w szeregi ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.YZGiyZ2fpPPdOQXYNAAo4g&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Pomponik.pl on MSN50 min",
+            "source": "Pomponik.pl on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
             "title": "Stare banknoty i monety u monety z PRL-u. Nie uwierzysz, ile mog\u0105 kosztowa\u0107 pieni\u0105dze z lat 60., 70. i 80. [ZDJ\u0118CIA] 20.12.2024",
-            "link": "https://www.msn.com/pl-pl/finanse/og%C3%B3lne/stare-banknoty-i-monety-u-monety-z-prl-u-nie-uwierzysz-ile-mog%C4%85-kosztowa%C4%87-pieni%C4%85dze-z-lat-60-70-i-80-zdj%C4%99cia-20-12-2024/ar-AA1wcHxs?ocid=BingNewsVerp",
+            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/stare-banknoty-i-monety-u-monety-z-prl-u-nie-uwierzysz-ile-mog%C4%85-kosztowa%C4%87-pieni%C4%85dze-z-lat-60-70-i-80-zdj%C4%99cia-20-12-2024/ar-AA1wcHxs?ocid=BingNewsVerp",
             "description": "Mo\u017cliwe, \u017ce w zakamarkach swojego domu trzymasz prawdziwy skarb. B\u0119dziesz zaskoczony za jakie kwoty mo\u017cna sprzeda\u0107 stare ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.D9r96jQ9yn7crstkA-FmQy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Hostowane na MSN1 godz.",
+            "date": "Hostowane na MSN6 godz.",
             "source": "MSN",
             "article_content": ""
         }
@@ -26,25 +42,9 @@
             "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.rXY4IFBt9hVZAYwsRbQrPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski on MSN2 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN6 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Ta bi\u017cuteria z PRL jest warta maj\u0105tek! Pi\u0119kne pier\u015bcionki, naszyjniki, ozdoby z PRL na sprzeda\u017c. Ich szukaj\u0105 kolekcjonerzy 20.12.2024",
-            "link": "https://gk24.pl/ta-bizuteria-z-prl-jest-warta-majatek-piekne-pierscionki-naszyjniki-ozdoby-z-prl-na-sprzedaz-ich-szukaja-kolekcjonerzy-20122024/ar/c9-18813191",
-            "description": "Ta porcelana z PRL jest warta maj\u0105tek! Unikatowe zestawy, talerze, fili\u017canki z PRL. Tych przedmiot\u00f3w szukaj\u0105 kolekcjonerzy! Z pewno\u015bci\u0105 wiele os\u00f3b nie zdaje sobie sprawy, \u017ce mo\u017ce posiada\u0107 w swoim domu ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stare+monety",
-            "date": "gk24.pl2 godz.",
-            "source": "gk24.pl",
-            "article_content": "Content not available"
         }
     },
     {
@@ -58,7 +58,7 @@
             "description": "Niezwyk\u0142e rzeczy zwi\u0105zane z histori\u0105 Dar\u0142owa, S\u0142upska naby\u0142 mieszkaniec gminy Dar\u0142owo, kt\u00f3re to rzeczy wzbogaci\u0142y jego ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.Ed3OO5LvXCzi4Bzimj5acS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "slawno.naszemiasto19 godz.",
+            "date": "slawno.naszemiasto23 godz.",
             "source": "slawno.naszemiasto",
             "article_content": "Content not available"
         }
@@ -69,14 +69,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Bycze sygna\u0142y dla SOL i XRP: Czy Solana osi\u0105gnie 400 dolar\u00f3w, a XRP 10 dolar\u00f3w? Czy XYZVerse zdominuje rajd memecoin\u00f3w w 2025 roku?",
-            "link": "https://comparic.pl/bycze-sygnaly-dla-sol-i-xrp-czy-solana-osiagnie-400-dolarow-a-xrp-10-dolarow-czy-xyzverse-zdominuje-rajd-memecoinow-w-2025-roku/",
-            "description": "Tre\u015b\u0107 artyku\u0142u dostarczona przez Partnera w ramach wsp\u00f3\u0142pracy komercyjnej. Rynek kryptowalut kipi now\u0105 energi\u0105, poniewa\u017c ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.5mueeD8nxvWgf-m29ecxLi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Ta bi\u017cuteria z PRL jest warta maj\u0105tek! Pi\u0119kne pier\u015bcionki, naszyjniki, ozdoby z PRL na sprzeda\u017c. Ich szukaj\u0105 kolekcjonerzy 20.12.2024",
+            "link": "https://gk24.pl/ta-bizuteria-z-prl-jest-warta-majatek-piekne-pierscionki-naszyjniki-ozdoby-z-prl-na-sprzedaz-ich-szukaja-kolekcjonerzy-20122024/ar/c9-18813191",
+            "description": "Ta porcelana z PRL jest warta maj\u0105tek! Unikatowe zestawy, talerze, fili\u017canki z PRL. Tych przedmiot\u00f3w szukaj\u0105 kolekcjonerzy! Z pewno\u015bci\u0105 wiele os\u00f3b nie zdaje sobie sprawy, \u017ce mo\u017ce posiada\u0107 w swoim domu ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "comparic10 godz.",
-            "source": "comparic",
-            "article_content": "Tre\u015b\u0107 artyku\u0142u dostarczona przez Partnera w ramach wsp\u00f3\u0142pracy komercyjnej.\n\nRynek kryptowalut kipi now\u0105 energi\u0105, poniewa\u017c najlepsze tokeny sygnalizuj\u0105 potencjalne wyniki prze\u0142omu. Solana i XRP przyci\u0105gaj\u0105 uwag\u0119 odwa\u017cnymi celami cenowymi, podczas gdy wschodz\u0105cy gracze w sektorze monet memowych sugeruj\u0105, \u017ce wstrz\u0105saj\u0105 status quo. Wraz z pojawianiem si\u0119 trend\u00f3w wzrostowych, spekulacje na temat tego, kt\u00f3re aktywa poprowadz\u0105 nast\u0119pny rajd i przynios\u0105 niezwyk\u0142e zyski, s\u0105 powszechne.\n\nW\u015br\u00f3d tego podekscytowania XYZVerse wy\u0142ania si\u0119 jako pierwszy memcoin all-sport, jednocz\u0105cy fan\u00f3w r\u00f3\u017cnych dyscyplin sportowych i d\u0105\u017c\u0105cy do niezwyk\u0142ego rozwoju dzi\u0119ki unikalnemu po\u0142\u0105czeniu kultury mem\u00f3w i entuzjazmu sportowego.\n\nZwyci\u0119stwo Trumpa wywo\u0142uje krypto chaos: $XYZ Meme Coin gotowy na nokaut\n\nWyborcze zwyci\u0119stwo Donalda Trumpa wywo\u0142a\u0142o sejsmiczn\u0105 zmian\u0119 na rynku kryptowalut, przygotowuj\u0105c grunt pod hoss\u0119, jakiej nie by\u0142o nigdy wcze\u015bniej. Gdy kurz opada, g\u0142\u00f3wne monety kulej\u0105 do przodu z ma\u0142o inspiruj\u0105cymi dwucyfrowymi zyskami, podczas gdy monety memowe kradn\u0105 show.\n\nOstatni wzrost PNUT o 4500%? Eksplozja FRED o 6000%? Dawna historia, pogrzebana w popio\u0142ach kr\u00f3tkotrwa\u0142ego szumu. Te monety ugi\u0119\u0142y si\u0119 pod presj\u0105 sprzeda\u017cy, pozostawiaj\u0105c inwestor\u00f3w z FOMO li\u017c\u0105cych rany. Ale krypto-bitwa nie czeka na s\u0142abych \u2014 pojawi\u0142 si\u0119 nowy tytan z planami zniszczenia rekord\u00f3w i zapewnienia wstrz\u0105saj\u0105cego rozwoju.\n\n\n\n\n\nDalsza cz\u0119\u015b\u0107 artyku\u0142u pod filmem\n\n\n\n\n\n\n\n\n\n\n\nSta\u0144 po stronie XYZ \u2014 niekwestionowanego mistrza monet memowych\n\n$XYZ wkracza na ring, by znokautowa\u0107 legendy monet memowych\n\nPoznaj $XYZ \u2014 pierwsze w historii memcoiny sportowe dla prawdziwych krypto-degen\u00f3w g\u0142odnych ryzyka i zysk\u00f3w. To token dla tych, kt\u00f3rzy lubi\u0105 dreszczyk emocji zwi\u0105zany z rywalizacj\u0105.\n\nGdy Trump przejmuje stery, rynek kryptowalut jest gotowy do wybuchu, wi\u0119c konkurencja staje si\u0119 zaci\u0119ta. Tylko najsilniejsze tokeny mog\u0105 przetrwa\u0107 na tej arenie bez lito\u015bci. Oto nadchodzi \u015bwit ery kryptowalut dla tych ze stalowymi jajami \u2014 facet\u00f3w takich jak Joe Rogan i Dana White \u2014 kt\u00f3rzy z dum\u0105 stan\u0119liby za zespo\u0142em Trumpa. Maj\u0105c na pok\u0142adzie takich prawdziwych ludzi biznesu, nie ma miejsca na stare monety mem\u00f3w z cipkami, nadszed\u0142 czas na prawdziwe brutalne monety.\n\nNap\u0119dzany sportow\u0105 mentalno\u015bci\u0105 token $XYZ wy\u0142oni\u0142 si\u0119 jako ostateczny pretendent gotowy zmia\u017cd\u017cy\u0107 konkurent\u00f3w i wystrzeli\u0107 rakiet\u0119 na ksi\u0119\u017cyc w ramach misji Elona Muska. $XYZ zmierza na podium zwyci\u0119zc\u00f3w, aby sta\u0107 si\u0119 odznak\u0105 honorow\u0105 dla tych, kt\u00f3rzy \u017cyj\u0105 i oddychaj\u0105 sportem i kryptowalutami.\n\n$XYZ ju\u017c dostarcza, zanim trafi na rynek\n\nPrzedsprzeda\u017c $XYZ jest w toku, zapewniaj\u0105c dost\u0119p do tokena po specjalnej cenie przed debiutem.\n\nCena startowa przedsprzeda\u017cy : 0,0001 USD\n\n: 0,0001 USD Cena aktualna : 0,001 USD\n\n: 0,001 USD Nast\u0119pny etap przedsprzeda\u017cy : 0,001333 USD\n\n: 0,001333 USD Ostateczny cel nokautu: 0,1 USD\n\nOd startu do wydarzenia generowania token\u00f3w, $XYZ ma na celu dalszy rozw\u00f3j!\n\nJe\u015bli nie jeste\u015b w \u015brodku, to jeste\u015b poza. Przedsprzeda\u017c $XYZ ju\u017c przechodzi przez etapy z pr\u0119dko\u015bci\u0105 nokautu mistrza.\n\nDo\u0142\u0105cz teraz do przedsprzeda\u017cy $XYZ i zobacz!\n\nSolana (SOL)\n\nW ci\u0105gu ostatnich sze\u015bciu miesi\u0119cy Solana (SOL) wzros\u0142a o 62,92%. Natomiast w ostatnim miesi\u0105cu nast\u0105pi\u0142 spadek o 8,33%, co wskazuje na pewn\u0105 zmienno\u015b\u0107. W zesz\u0142ym tygodniu nast\u0105pi\u0142 skromny wzrost o 1,81%. Obecna cena waha si\u0119 mi\u0119dzy 205,85 a 239,87 USD, zbli\u017caj\u0105c si\u0119 do kluczowych poziom\u00f3w wsparcia i oporu.\n\nNajbli\u017cszy poziom wsparcia to 187,60 USD. Je\u015bli cena spadnie poni\u017cej tego poziomu, mo\u017ce spa\u015b\u0107 do drugiego wsparcia przy 153,58 USD, co oznacza spadek o oko\u0142o 25%. Z drugiej strony najbli\u017cszy op\u00f3r wynosi 255,64 USD. Prze\u0142amanie go mo\u017ce spowodowa\u0107 wzrost ceny do 289,66 USD, czyli o oko\u0142o 21% wi\u0119cej ni\u017c obecnie.\n\nWska\u017aniki techniczne s\u0105 mieszane. 10-dniowe i 100-dniowe proste \u015brednie krocz\u0105ce s\u0105 zbli\u017cone, na poziomie 216,40 USD i 219,50 USD. RSI wynosi 47,04, co wskazuje na warunki neutralne. MACD wynosi -1,256, a Stochastic 31,02, co sugeruje niewielki nied\u017awiedzi impet. Na podstawie tych danych Solana mo\u017ce do\u015bwiadczy\u0107 \u0142agodnej presji spadkowej, ale mo\u017ce znale\u017a\u0107 wsparcie i potencjalnie odbi\u0107 si\u0119.\n\nXRP (XRP)\n\nW ci\u0105gu ostatniego miesi\u0105ca XRP (XRP) do\u015bwiadczy\u0142o znacznego wzrostu, a jego cena wzros\u0142a o 134,53%. Obecnie obracaj\u0105c si\u0119 w przedziale od 2,03 do 2,73 USD, kryptowaluta utrzyma\u0142a dynamik\u0119 wzrostow\u0105. Tylko w ci\u0105gu ostatniego tygodnia cena wzros\u0142a o 4,22%, co odzwierciedla rosn\u0105ce zainteresowanie i inwestycje.\n\nImponuj\u0105ca wydajno\u015b\u0107 monety trwa od ostatnich sze\u015bciu miesi\u0119cy, szczyc\u0105c si\u0119 niezwyk\u0142ym wzrostem o 406,22%. Wska\u017aniki techniczne pokazuj\u0105, \u017ce proste \u015brednie krocz\u0105ce z 10 i 100 dni s\u0105 zbli\u017cone, odpowiednio na poziomie 2,52 USD i 2,47 USD, co sugeruje potencjaln\u0105 stabilno\u015b\u0107. Wska\u017anik si\u0142y wzgl\u0119dnej wynosi 38,90, a oscylator stochastyczny 24,40, co mo\u017ce wskazywa\u0107, \u017ce XRP zbli\u017ca si\u0119 do terytorium wyprzedania.\n\nPatrz\u0105c w przysz\u0142o\u015b\u0107, XRP napotyka najbli\u017cszy poziom oporu na poziomie 3,02 USD. Je\u015bli zostanie przebity, kolejnym celem mo\u017ce by\u0107 3,73 USD. Osi\u0105gni\u0119cie pierwszego oporu oznacza\u0142oby wzrost o oko\u0142o 10% od obecnego g\u00f3rnego przedzia\u0142u cenowego. Z drugiej strony najbli\u017cszy poziom wsparcia wynosi 1,61 USD, a spadek do tego poziomu oznacza\u0142by spadek o oko\u0142o 20% od obecnego dolnego przedzia\u0142u cenowego. Traderzy uwa\u017cnie obserwuj\u0105 te poziomy, aby oceni\u0107 nast\u0119pny ruch XRP.\n\nWniosek\n\nHossa w 2024 r. podkre\u015bla silne perspektywy dla SOL i XRP, podczas gdy XYZVerse wyr\u00f3\u017cnia si\u0119 ambitnymi planami rozwoju i unikalnym po\u0142\u0105czeniem sportu i kultury mem\u00f3w.\n\nWi\u0119cej informacji o XYZVersus (XYZ) mo\u017cna znale\u017a\u0107 tutaj:\n\nStrona, Telegram, X\n\nWy\u0142\u0105czenie odpowiedzialno\u015bci: Niniejszy materia\u0142 ma charakter wy\u0142\u0105cznie promocyjny i nie stanowi oferty sprzeda\u017cy ani zaproszenia do nabycia kryptowalut, token\u00f3w i NFT ani w \u017cadnym wypadku nie powinien stanowi\u0107 podstawy do podejmowania decyzji o nabyciu kryptowalut, token\u00f3w lub NFT.\n\nPami\u0119taj, inwestowanie w projekty, firmy i startupy, akcje, tokeny, kryptowaluty, NFT a w szczeg\u00f3lno\u015bci w nowe podmioty, wi\u0105\u017ce si\u0119 z wysokim ryzykiem. Inwestycje takie mog\u0105 prowadzi\u0107 do utraty cz\u0119\u015bci lub ca\u0142o\u015bci zainwestowanych \u015brodk\u00f3w. Inwestorzy powinni posiada\u0107 wystarczaj\u0105c\u0105 wiedz\u0119, aby zrozumie\u0107 ryzyko i \u015bwiadomie podejmowa\u0107 decyzje. W przypadku jakichkolwiek w\u0105tpliwo\u015bci zasi\u0119gnij porady niezale\u017cnego doradcy inwestycyjnego."
+            "date": "gk24.pl7 godz.",
+            "source": "gk24.pl",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Cena GPB/PLN dzisiaj. Ile trzeba zap\u0142aci\u0107 za funta 20 grudnia 2024 r.?",
+            "link": "https://www.msn.com/pl-pl/bezpiecze%C5%84stwo-publiczne-i-sytuacje-kryzysowe/og%C3%B3lne/nie-%C5%BCyje-maciej-lewandowski-to-by%C5%82y-komendant-policji-w-toruniu/ar-AA1wdEeG?ocid=BingNewsVerp",
+            "description": "Cena funta 20 grudnia 2024 r. Ile dzi\u015b musimy zap\u0142aci\u0107 za funta szterlinga? Kurs GBP/PLN dzisiaj o godzinie 12 w po\u0142udnie ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.sBMxt5NavEeOUUFZ5jIyWi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "Onet Wiadomo\u015bci on MSN15 min",
+            "source": "Onet Wiadomo\u015bci on MSN",
+            "article_content": ""
         }
     },
     {
@@ -90,7 +106,7 @@
             "description": "Stara porcelana z czas\u00f3w PRL, w 2024 roku cieszy si\u0119 rosn\u0105cym zainteresowaniem. Niekt\u00f3re egzemplarze mog\u0105 by\u0107 dzi\u015b bardzo ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.eujsUo8yckH2_dLmPKBIFi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN1 godz.",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN5 godz.",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
             "article_content": ""
         }
@@ -106,7 +122,7 @@
             "description": "Obecnie zwracamy olbrzymi\u0105 uwag\u0119 na wystr\u00f3j swoich dom\u00f3w czy mieszka\u0144, a w\u0142a\u015bnie takie przedmioty, unikatowe, wyr\u00f3\u017cniaj\u0105ce si\u0119 barwami, motywami i wzorami, jak porcelana czy ceramika z czas\u00f3w PRL, ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "gk24.pl2 godz.",
+            "date": "gk24.pl7 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -122,25 +138,9 @@
             "description": "Ta porcelana z PRL jest warta maj\u0105tek! Unikatowe zestawy, talerze, fili\u017canki z PRL. Tych przedmiot\u00f3w szukaj\u0105 kolekcjonerzy! Z pewno\u015bci\u0105 wiele os\u00f3b nie zdaje sobie sprawy, \u017ce mo\u017ce posiada\u0107 w swoim domu ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "gk24.pl2 godz.",
+            "date": "gk24.pl7 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Wazony PRL z lat 60., 70. i 80. warte fortun\u0119. Tyle w 2024 roku trzeba zap\u0142aci\u0107 za szklane i porcelanowe stare wazony",
-            "link": "https://www.msn.com/pl-pl/moda-i-styl/moda-damska/wazony-prl-z-lat-60-70-i-80-warte-fortun%C4%99-tyle-w-2024-roku-trzeba-zap%C5%82aci%C4%87-za-szklane-i-porcelanowe-stare-wazony/ar-AA1w9dQ4?ocid=BingNewsVerp",
-            "description": "Te niegdy\u015b codzienne elementy wyposa\u017cenia wn\u0119trz zyska\u0142y nowe \u017cycie w XXI wieku. Ciesz\u0105 si\u0119 du\u017c\u0105 popularno\u015bci\u0105, szczeg\u00f3lnie ze wzgl\u0119du na wyj\u0105tkowe wzornictwo, kunszt rzemie\u015blniczy i unikalno\u015b\u0107, kt\u00f3ra ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN22 godz.",
-            "source": "Gazeta Pomorska on MSN",
-            "article_content": ""
         }
     },
     {
@@ -154,9 +154,25 @@
             "description": "Stare kryszta\u0142y z lat 60., 70., 80. to obecnie rarytas dla kolekcjoner\u00f3w staroci. W 2024 roku wr\u00f3ci\u0142y do \u0142ask, a niekt\u00f3re s\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=OVF.wfAW5mEi6fp5ytMsufiL3w&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN15 godz.",
+            "date": "Gazeta Pomorska on MSN19 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pchli Targ przy dworcu Pozna\u0144 G\u0142\u00f3wny. Mo\u017cna by\u0142o kupi\u0107 antyki i obrazy! Zobaczcie zdj\u0119cia [20.12.2024]",
+            "link": "https://gloswielkopolski.pl/pchli-targ-przy-dworcu-poznan-glowny-mozna-bylo-kupic-antyki-i-obrazy-zobaczcie-zdjecia-20-12-2024/ar/c1p2-27019777",
+            "description": "W Poznaniu, tu\u017c obok dworca Pozna\u0144 G\u0142\u00f3wny i galerii handlowej Avenida, ponownie zago\u015bci\u0142 \"Niedzielny Targ Pozna\u0144\". 24 ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.K4WM7Tp2XUPvfM0wcZGvnQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "gloswielkopolski5 godz.",
+            "source": "gloswielkopolski",
+            "article_content": "Content not available"
         }
     },
     {
@@ -170,7 +186,7 @@
             "description": "Unikalne antyki poszukiwane przez kolekcjoner\u00f3w mog\u0105 zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na nich zarobi\u0107 fortun\u0119. Cz\u0119sto nie ...",
             "image_url": "https://www.bing.pl/th?id=OVF.jz20Sz2JdDRs5SkTyjEprw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "dziennikzachodni.pl2 godz.",
+            "date": "dziennikzachodni.pl6 godz.",
             "source": "dziennikzachodni.pl",
             "article_content": "Content not available"
         }
@@ -181,14 +197,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Kolekcjonerzy poszukuj\u0105 tych antyk\u00f3w. Unikalne przedmioty do kupienia w internecie. Masz je w domu? 20.12.2024",
-            "link": "https://gazetakrakowska.pl/kolekcjonerzy-poszukuja-tych-antykow-unikalne-przedmioty-do-kupienia-w-internecie-masz-je-w-domu-20122024/ar/c9-17262255",
-            "description": "Unikalne antyki poszukiwane przez kolekcjoner\u00f3w mog\u0105 zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na nich zarobi\u0107 fortun\u0119. Cz\u0119sto nie mamy \u015bwiadomo\u015bci, \u017ce przedmioty posiadane w domu warte s\u0105 du\u017co pieni\u0119dzy.",
-            "image_url": "https://www.bing.pl/th?id=ODF.XL5bGs_n6w06Ok0ARb1y3Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Place targowe w Krakowie sprzed dekady. Tu czas si\u0119 zatrzyma\u0142. Zobacz zdj\u0119cia",
+            "link": "https://www.msn.com/pl-pl/shopping/og%C3%B3lne/place-targowe-w-krakowie-sprzed-dekady-tu-czas-si%C4%99-zatrzyma%C5%82-zobacz-zdj%C4%99cia/ar-AA1wdwQ2?ocid=BingNewsVerp",
+            "description": "Plac Imbramowski, najwi\u0119ksze targowisko miejskie, le\u017cy na terenie dawnej gminy Pr\u0105dnik Bia\u0142y \u2013 obecnie dzielnicy Krakowa.",
+            "image_url": "https://www.bing.pl/th?id=OVF.RgPoM7cM5HDQ1EThb1GG%2fQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Gazeta Krakowska2 godz.",
-            "source": "Gazeta Krakowska",
-            "article_content": "Content not available"
+            "date": "Krak\u00f3w Naszemiasto on MSN3 godz.",
+            "source": "Krak\u00f3w Naszemiasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pi\u0119kne ozdoby i zwierz\u0119ta. \u017bywa szopka Barbary i Grzegorza Lata\u0144skich ze Starego Ole\u015bca to \u015bwi\u0105teczna atrakcja dla ca\u0142ych rodzin",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/pi%C4%99kne-ozdoby-i-zwierz%C4%99ta-%C5%BCywa-szopka-barbary-i-grzegorza-lata%C5%84skich-ze-starego-ole%C5%9Bca-to-%C5%9Bwi%C4%85teczna-atrakcja-dla-ca%C5%82ych-rodzin/ar-AA1wdjrB?ocid=BingNewsVerp",
+            "description": "W Polsce szopki bo\u017conarodzeniowe s\u0105 obowi\u0105zkowym elementem wystroju ko\u015bcio\u0142\u00f3w w okresie \u015bwi\u0105t Bo\u017cego Narodzenia. Coraz ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.yuPFNP1oA48QV4N6TlvC%2fA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "Pleszew Naszemiasto on MSN2 godz.",
+            "source": "Pleszew Naszemiasto on MSN",
+            "article_content": ""
         }
     },
     {
@@ -202,25 +234,9 @@
             "description": "Wi\u0119cej szcz\u0119\u015bcia mia\u0142a Fabryka Porcelany w Katowicach. Dzi\u015b miejsce barwne i \u017cywe. Zaprasza na koncerty, wystawy i warsztaty, ...",
             "image_url": "https://www.bing.pl/th?id=OVF.jBXwQTSXydPWOKv%2bHOl%2brw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Dziennik Zachodni on MSN1 godz.",
+            "date": "Dziennik Zachodni on MSN5 godz.",
             "source": "Dziennik Zachodni on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Pchli Targ przy dworcu Pozna\u0144 G\u0142\u00f3wny. Mo\u017cna by\u0142o kupi\u0107 antyki i obrazy! Mamy zdj\u0119cia [19.12.2024]",
-            "link": "https://poznan.naszemiasto.pl/pchli-targ-przy-dworcu-poznan-glowny-mozna-bylo-kupic-antyki-i-obrazy-mamy-zdjecia-19-12-2024/ar/c1p2-27019777",
-            "description": "W Poznaniu, tu\u017c obok dworca Pozna\u0144 G\u0142\u00f3wny i galerii handlowej Avenida, ponownie zago\u015bci\u0142 \"Niedzielny Targ Pozna\u0144\". 24 ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.IYA4pg9Y6rsEyFi7%2fXEz%2bA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "targ+staroci",
-            "date": "poznan.naszemiasto23 godz.",
-            "source": "poznan.naszemiasto",
-            "article_content": "Content not available"
         }
     },
     {
@@ -234,7 +250,7 @@
             "description": "Nim wyruszysz w drog\u0119, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 21 grudnia w Pleszewie ma by\u0107 5\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 22 ...",
             "image_url": "https://www.bing.pl/th?id=OVF.b8vRyeDuwEB4lNnFb16Irg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "pleszew.naszemiasto17 godz.",
+            "date": "pleszew.naszemiasto22 godz.",
             "source": "pleszew.naszemiasto",
             "article_content": "Content not available"
         }
@@ -250,7 +266,7 @@
             "description": "Nim wyruszysz w drog\u0119, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 21 grudnia w O\u015bwi\u0119cimiu ma by\u0107 4\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 ...",
             "image_url": "https://www.bing.pl/th?id=OVF.H68Ha6cTF%2bCkNKU9i15Vug&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "oswiecim.naszemiasto18 godz.",
+            "date": "oswiecim.naszemiasto22 godz.",
             "source": "oswiecim.naszemiasto",
             "article_content": "Content not available"
         }
@@ -266,9 +282,25 @@
             "description": "Zbigniew \u0141asek w drodze do pracy codziennie mija ogrodzony teren przy ko\u015bciele \u015bw. Miko\u0142aja w Gda\u0144sku. Przechodzi ulic\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.C-ttrPOSnaVR78WxHuZEZi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "dziennikbaltycki.pl13 godz.",
+            "date": "dziennikbaltycki.pl17 godz.",
             "source": "dziennikbaltycki.pl",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Przemy\u015bl - city break na wschodzie Polski",
+            "link": "https://www.polskieradio.pl/10/11048/artykul/3461610,przemysl-city-break-na-wschodzie-polski",
+            "description": "Ju\u017c w niedziel\u0119 wybierzemy si\u0119 pod sam\u0105 granic\u0119 z Ukrain\u0105 do bardzo klimatycznego miasta. Oprowadz\u0105 nas po nim Agata Hemon i ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.k7OW63tSfjXWEfKTbDmCRy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "PolskieRadio1 godz.",
+            "source": "PolskieRadio",
+            "article_content": "Siedziba w\u0119gierskiego parlamentu Foto: Matteo Gabrieli/ Shutterstock\n\nJeszcze do drugiej po\u0142owy XIX wieku to by\u0142y dwa niezale\u017cne miasta. Do dzi\u015b wida\u0107 r\u00f3\u017cnic\u0119 mi\u0119dzy prawobrze\u017cn\u0105 Bud\u0105 a dwa razy wi\u0119kszym lewobrze\u017cnym Pesztem. - Mieszka\u0144cy m\u00f3wi\u0105, \u017ce Buda jest jak stara ciotka, kt\u00f3ra dba o porz\u0105dek, chodzi spa\u0107 z kurami i kt\u00f3r\u0105 odwiedza si\u0119 tylko w imieniny - m\u00f3wi autorka cyklu Oliwia Krettek. - Natomiast Peszt to ha\u0142a\u015bliwy m\u0142odzieniaszek, kt\u00f3ry dzie\u0144 w dzie\u0144 imprezuje do bia\u0142ego rana.\n\nTransport i nocleg\n\nDo stolicy W\u0119gier dotrzemy na wiele sposob\u00f3w. Z Polski mo\u017cna pojecha\u0107 poci\u0105giem, a tak\u017ce polecie\u0107 tanimi liniami lotniczymi. W obydwu przypadkach bilety kosztuj\u0105 oko\u0142o 100 z\u0142. Wiele os\u00f3b decyduje si\u0119 tak\u017ce na podr\u00f3\u017c samochodem. Odleg\u0142o\u015b\u0107 z Warszawy wynosi oko\u0142o 800 km, a przy okazji mo\u017cna te\u017c odwiedzi\u0107 inne ciekawe miasta, takie jak Bratys\u0142awa, Brno czy Praga.\n\n- Je\u017celi chodzi o noclegi w Budapeszcie, to wszystko zale\u017cy od tego, w jakim standardzie chcemy mieszka\u0107. Szukaj\u0105c z wyprzedzeniem, mo\u017cna spokojnie znale\u017a\u0107 nocleg za 100 z\u0142 za bardzo ekonomiczny, dwuosobowy pok\u00f3j - m\u00f3wi Mateusz Jakubowski, autor strony taniezwiedzanie.com. - Je\u017celi chcemy, za 75 z\u0142 za noc mo\u017cemy si\u0119 przespa\u0107 w pokojach wieloosobowych w hostelach.\n\nKomunikacja w Budapeszcie\n\nPo mie\u015bcie najlepiej porusza\u0107 si\u0119 komunikacj\u0105 miejsk\u0105; je\u015bli planujemy du\u017co je\u017adzi\u0107, najkorzystniej jest kupi\u0107 bilet dobowy. - Komunikacja miejska w Budapeszcie jest do\u015b\u0107 ciekawa. Mamy na przyk\u0142ad kolejk\u0119 na zamek Buda, kt\u00f3ra wje\u017cd\u017ca po bardzo stromym stoku szczytu - opowiada rozm\u00f3wca Oliwii Krettek. - Drug\u0105 rzecz\u0105, na kt\u00f3r\u0105 powinni\u015bmy zwr\u00f3ci\u0107 uwag\u0119, jest tramwaj wodny. Po Dunaju kursuj\u0105 a\u017c trzy jego linie. Dzi\u0119ki temu za ok. 20 z\u0142 mo\u017cemy z wody zobaczy\u0107 star\u00f3wk\u0119, kt\u00f3ra wpisana jest na list\u0119 UNESCO.\n\n\u0179r. YouTube/Co warto zobaczy\u0107 w Budapeszcie?\n\nZwiedzanie i atrakcje\n\nW Budapeszcie jest co ogl\u0105da\u0107. Wi\u0119kszo\u015b\u0107 atrakcji znajduje si\u0119 w centrum miasta. Do \u017celaznych punkt\u00f3w programu nale\u017c\u0105 Wzg\u00f3rze Zamkowe i zamek Buda, Baszta Rybacka, ko\u015bci\u00f3\u0142 Macieja, budynek parlamentu, plac Bohater\u00f3w z pomnikiem Tysi\u0105clecia, bazylika \u015bw. Stefana oraz Wielka Synagoga.\n\n- Warto te\u017c odwiedzi\u0107 Wysp\u0119 Ma\u0142gorzaty na Dunaju. Jest tam mn\u00f3stwo zieleni, a tak\u017ce znajduj\u0105 si\u0119 sanatoria, k\u0105pieliska oraz ruiny \u015bredniowiecznych klasztor\u00f3w - poleca youtuber. - Obowi\u0105zkowym punktem jest Wzg\u00f3rze Gellerta z cytadel\u0105, sk\u0105d rozpo\u015bciera si\u0119 widok na panoram\u0119 miasta. Ch\u0119tni mog\u0105 zrelaksowa\u0107 si\u0119 w s\u0142ynnych \u0142a\u017aniach utrzymanych w stylu secesyjnym.\n\nPos\u0142uchaj 07:35 Czw\u00f3rka/ Budapeszt city_break 21.04.2023.mp3 Zapraszamy na city break w Budapeszcie (Najlepszy dzie\u0144 tygodnia/Czw\u00f3rka)\n\nBudapeszt jest miastem pe\u0142nym kultury. Znajduj\u0105 si\u0119 w nim 223 muzea i galerie, jest kilkadziesi\u0105t teatr\u00f3w, sze\u015b\u0107 sal koncertowych i opera. Nie brakuje festiwali i koncert\u00f3w. Po trudach zwiedzania warto co\u015b przek\u0105si\u0107 - do przysmak\u00f3w kuchni w\u0119gierskiej nale\u017c\u0105 zupa gulaszowa, langosze czy nadziewana papryka.\n\n***\n\nTytu\u0142 audycji: Najlepszy dzie\u0144 tygodnia\n\nProwadzi: Kamil Jasie\u0144ski\n\nMateria\u0142: Oliwia Krettek\n\nData emisji: 21.04.2023\n\nGodzina emisji: 7.15\n\naw"
         }
     },
     {
@@ -278,28 +310,12 @@
         },
         "body": {
             "title": "Tajemnice ratusza w Gda\u0144sku. Dzisiaj muzeum, wcze\u015bniej m.in. wyszynk i winiarnia",
-            "link": "https://dziennikbaltycki.pl/tajemnice-ratusza-w-gdansku-dzisiaj-muzeum-wczesniej-m-in-wyszynk-i-winiarnia/ar/c1p2-26956129",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/tajemnice-ratusza-w-gda%C5%84sku-dzisiaj-muzeum-wcze%C5%9Bniej-min-wyszynk-i-winiarnia/ar-AA1wdeET?ocid=BingNewsVerp",
             "description": "- Piwnice w ratuszu pe\u0142ni\u0142y kilka funkcji, mi\u0119dzy innymi by\u0142a tutaj winiarnia, wyszynk dost\u0119pny od ulicy Kramarskiej. Ludzie ...",
             "image_url": "https://www.bing.pl/th?id=OVF.crZa%2bHdu8KDIJhry%2fJUE4Q&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "dziennikbaltycki.pl1 godz.",
-            "source": "dziennikbaltycki.pl",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Wrzawa wok\u00f3\u0142 dworca. Spo\u0142ecznicy w sprawie budynku PKP w Cz\u0119stochowie: powinien by\u0107 przebudowany i wyremontowany, a nie wyburzony",
-            "link": "https://www.msn.com/pl-pl/infrastruktura-miejska/infrastruktura-transportowa/spo%C5%82ecznicy-w-sprawie-dworca-pkp-w-cz%C4%99stochowie-powinien-by%C4%87-przebudowany-i-wyremontowany-a-nie-wyburzony/ar-AA1w5i36?ocid=BingNewsVerp",
-            "description": "\u015al\u0105ski Wojew\u00f3dzki Konserwator Zabytk\u00f3w w Katowicach zauwa\u017ca, \u017ce dworzec w Cz\u0119stochowie oddano do u\u017cytku w 1996 roku, a prace wyko\u0144czeniowe prowadzono jeszcze w 1997. Nie jest to wi\u0119c dzie\u0142o minionej ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.No7_U4SgTd7YF-2SGy7RlQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "zabytkowe+przedmioty",
-            "date": "Cz\u0119stochowa Naszemiasto on MSN1 godz.",
-            "source": "Cz\u0119stochowa Naszemiasto on MSN",
+            "date": "Dziennik Ba\u0142tycki on MSN4 godz.",
+            "source": "Dziennik Ba\u0142tycki on MSN",
             "article_content": ""
         }
     },
@@ -314,7 +330,7 @@
             "description": "Jednym z najciekawszych i niezwyk\u0142ych znalezisk by\u0142a wrzucona do zasypiska ca\u0142a drewniana \u0142awka. Dawne meble, cho\u0107 znane z ...",
             "image_url": "https://www.bing.pl/th?id=OVF.gsSUD9Alf5dtOvNmty18Eg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Dziennik Ba\u0142tycki on MSN13 godz.",
+            "date": "Dziennik Ba\u0142tycki on MSN17 godz.",
             "source": "Dziennik Ba\u0142tycki on MSN",
             "article_content": ""
         }
@@ -325,14 +341,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Dzieje i skarby cysters\u00f3w z Mogi\u0142y. Osiem wiek\u00f3w historii teraz na wyci\u0105gni\u0119cie r\u0119ki",
-            "link": "https://gazetakrakowska.pl/dzieje-i-skarby-cystersow-z-mogily-osiem-wiekow-historii-teraz-na-wyciagniecie-reki/ar/c7p2-27103601",
-            "description": "800-letnie Opactwo Cysters\u00f3w w krakowskiej Mogile od trzech lat zaprasza do poznawania jego historii i skarb\u00f3w w klasztornym ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.PzzYUUW7qKPoqToBoLXwcg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Piotr Ciastek: Przysz\u0142e pokolenia mog\u0105 nam nie wybaczy\u0107 zburzenia dworca w Cz\u0119stochowie",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/piotr-ciastek-przysz%C5%82e-pokolenia-mog%C4%85-nam-nie-wybaczy%C4%87-zburzenia-dworca-w-cz%C4%99stochowie/ar-AA1wdsDz?ocid=BingNewsVerp",
+            "description": "Rozmachu mo\u017ce w Cz\u0119stochowie nie potrzebujemy, ale uk\u0142onu w stron\u0119 kolejowej tradycji i szacunku do dorobku pokole\u0144 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.cdvo2JMLFV4fKI1Wt9DKii&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Krakowska3 godz.",
-            "source": "Gazeta Krakowska",
-            "article_content": "Content not available"
+            "date": "Dziennik Zachodni on MSN3 godz.",
+            "source": "Dziennik Zachodni on MSN",
+            "article_content": ""
         }
     },
     {
@@ -341,14 +357,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "\u015anie\u017cne warsztaty, bitwa Nerf, wielka Fabryka Elf\u00f3w, czytanie bajek. Mn\u00f3stwo atrakcji przed \u015bwi\u0119tami",
-            "link": "https://www.trojmiasto.pl/dziecko/Sniezne-warsztaty-bitwa-Nerf-wielka-Fabryka-Elfow-czytanie-bajek-Mnostwo-atrakcji-przed-swietami-n197187.html",
-            "description": "Przed nami kolejny grudniowy weekend i za chwil\u0119 \u015awi\u0119ta Bo\u017cego Narodzenia. Jak go sp\u0119dzi\u0107 z dzie\u0107mi by poczu\u0107 atmosfer\u0119 \u015bwi\u0105t ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.nImViRZkyO5DW8auoPvUYS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "NASA zbada wn\u0119trze Ksi\u0119\u017cyca. \u0141adunek ju\u017c przygotowany",
+            "link": "https://antyweb.pl/nasa-ksiezyc-lister-artemis-kosmos",
+            "description": "Ksi\u0119\u017cyc nadal skrywa przed nami wiele tajemnic. NASA planuje rozwi\u0105za\u0107 jedn\u0105 z nich. Chodzi tu o zbadanie przep\u0142ywu ciep\u0142a ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.11uhKRbWQnn4NsScgwWL_S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Trojmiasto2 godz.",
-            "source": "Trojmiasto",
-            "article_content": "Content not available"
+            "date": "AntyWeb23 godz.",
+            "source": "AntyWeb",
+            "article_content": "Ksi\u0119\u017cyc nadal skrywa przed nami wiele tajemnic. NASA planuje rozwi\u0105za\u0107 jedn\u0105 z nich. Chodzi tu o zbadanie przep\u0142ywu ciep\u0142a pod powierzchni\u0105 Srebrnego Globu.\n\nKsi\u0119\u017cyc, najbli\u017cszy s\u0105siad Ziemi w Uk\u0142adzie S\u0142onecznym, wci\u0105\u017c skrywa wiele tajemnic. Cho\u0107 od dekad jest obiektem fascynacji naukowc\u00f3w, do tej pory zbadano jedynie 5% jego powierzchni. W 2023 roku, dzi\u0119ki analizom danych z misji GRAIL oraz wcze\u015bniejszych bada\u0144 z ery Apollo, uda\u0142o si\u0119 potwierdzi\u0107 istnienie p\u0142ynnego zewn\u0119trznego j\u0105dra otaczaj\u0105cego sta\u0142e j\u0105dro wewn\u0119trzne Ksi\u0119\u017cyca. Teraz NASA, w ramach programu Artemis, stawia kolejny krok w kierunku lepszego poznania i zrozumienia historii i struktury naszego naturalnego satelity.\n\nReklama\n\nNASA zbada wn\u0119trze Ksi\u0119\u017cyca\n\nJednym z kluczowych element\u00f3w nadchodz\u0105cych misji ksi\u0119\u017cycowych jest instrument LISTER (Lunar Instrumentation for Subsurface Thermal Exploration with Rapidity). Urz\u0105dzenie to, opracowane przez Texas Tech University oraz Honeybee Robotics, zostanie dostarczone na powierzchni\u0119 Ksi\u0119\u017cyca za pomoc\u0105 l\u0105downika Blue Ghost 1 firmy Firefly Aerospace. LISTER ma za zadanie mierzy\u0107 przep\u0142yw ciep\u0142a z wn\u0119trza Ksi\u0119\u017cyca, co pozwoli lepiej zrozumie\u0107 procesy geologiczne, kt\u00f3re ukszta\u0142towa\u0142y jego struktur\u0119.\n\nDzi\u0119ki nowoczesnemu wiert\u0142u pneumatycznemu LISTER b\u0119dzie m\u00f3g\u0142 wnika\u0107 w ksi\u0119\u017cycowy regolit na g\u0142\u0119boko\u015b\u0107 trzech metr\u00f3w. Na ka\u017cdym p\u00f3\u0142metrowym odcinku urz\u0105dzenie zatrzyma si\u0119, aby wprowadzi\u0107 termiczn\u0105 sond\u0119 badawcz\u0105, mierz\u0105c gradient termiczny (zmiany temperatury na r\u00f3\u017cnych g\u0142\u0119boko\u015bciach) oraz przewodno\u015b\u0107 ciepln\u0105 (zdolno\u015b\u0107 materia\u0142u do przewodzenia ciep\u0142a).\n\nJak potwierdza kierownik projektu dr Seiichi Nagihara, w ca\u0142ym przedsi\u0119wzi\u0119ciu chodzi o to, by przeprowadzi\u0107 pomiary w kilku r\u00f3\u017cnych miejscach jednocze\u015bnie, co mo\u017ce pozwoli\u0107 na odtworzenie ewolucji termicznej Ksi\u0119\u017cyca.\n\nProgram CLPS (Commercial Lunar Payload Services), w ramach kt\u00f3rego realizowana jest misja, wspiera rozw\u00f3j komercyjnych us\u0142ug transportowych na Ksi\u0119\u017cyc. NASA, jako g\u0142\u00f3wny klient tych us\u0142ug, planuje w przysz\u0142o\u015bci umo\u017cliwi\u0107 korzystanie z nich r\u00f3wnie\u017c innym podmiotom. Zarz\u0105dzaniem siedmioma z dziesi\u0119ciu \u0142adunk\u00f3w CLPS, w tym LISTER, zajmuje si\u0119 Centrum Lot\u00f3w Kosmicznych Marshalla w Huntsville."
         }
     },
     {
@@ -358,11 +374,11 @@
         },
         "body": {
             "title": "Stare banknoty i monety u monety z PRL-u. Nie uwierzysz, ile mog\u0105 kosztowa\u0107 pieni\u0105dze z lat 60., 70. i 80. [ZDJ\u0118CIA] 20.12.2024",
-            "link": "https://www.msn.com/pl-pl/finanse/og%C3%B3lne/stare-banknoty-i-monety-u-monety-z-prl-u-nie-uwierzysz-ile-mog%C4%85-kosztowa%C4%87-pieni%C4%85dze-z-lat-60-70-i-80-zdj%C4%99cia-20-12-2024/ar-AA1wcHxs?ocid=BingNewsVerp",
+            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/stare-banknoty-i-monety-u-monety-z-prl-u-nie-uwierzysz-ile-mog%C4%85-kosztowa%C4%87-pieni%C4%85dze-z-lat-60-70-i-80-zdj%C4%99cia-20-12-2024/ar-AA1wcHxs?ocid=BingNewsVerp",
             "description": "Mo\u017cliwe, \u017ce w zakamarkach swojego domu trzymasz prawdziwy skarb. B\u0119dziesz zaskoczony za jakie kwoty mo\u017cna sprzeda\u0107 stare ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.D9r96jQ9yn7crstkA-FmQy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Hostowane na MSN1 godz.",
+            "date": "Hostowane na MSN6 godz.",
             "source": "MSN",
             "article_content": ""
         }
@@ -378,7 +394,7 @@
             "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.rXY4IFBt9hVZAYwsRbQrPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Koszali\u0144ski on MSN2 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN6 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
@@ -394,7 +410,7 @@
             "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
             "image_url": "https://www.bing.pl/th?id=OVF.43F1WzkY66yT9%2ffm3hrtlg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Express Ilustrowany on MSN9 godz.",
+            "date": "Express Ilustrowany on MSN13 godz.",
             "source": "Express Ilustrowany on MSN",
             "article_content": ""
         }
@@ -410,7 +426,7 @@
             "description": "Sta\u0142a ekspozycja mie\u015bci si\u0119 w domu rodzinnym Jana Matejki (1838-1893) najwybitniejszego polskiego malarza nurtu historyzmu, kolekcjonera, mi\u0142o\u015bnika zabytk\u00f3w w szczeg\u00f3lno\u015bci Krakowa. Stara, krakowska k ...",
             "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "krakow7 godz.",
+            "date": "krakow12 godz.",
             "source": "krakow",
             "article_content": "Szlak \u017cywego Muzeum Witra\u017cu\n\nW Muzeum Witra\u017cu przestrzenie ekspozycyjne przeplataj\u0105 si\u0119 z mieszcz\u0105ca si\u0119 tu od 1902 roku pracowni\u0105 witra\u017cy. Podczas zwiedzania mo\u017cna obserwowa\u0107 niezmieniony od setek lat proces powstawania witra\u017cy. Struktura kamienicy, w kt\u00f3rej..."
         }
@@ -426,7 +442,7 @@
             "description": "Ceremonialny czekan z epoki br\u0105zu, z drugiego tysi\u0105clecia przed Chrystusem, odnaleziono na terenie Bia\u0142o\u0142\u0119ki. To pierwsze ...",
             "image_url": "https://www.bing.pl/th?id=OVF.Bj46RjaIaWs%2bdH7us9n2iw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Warszawa Naszemiasto on MSN1 godz.",
+            "date": "Warszawa Naszemiasto on MSN5 godz.",
             "source": "Warszawa Naszemiasto on MSN",
             "article_content": ""
         }
@@ -442,7 +458,7 @@
             "description": "Czy drobna rzecz jest w stanie zmieni\u0107 nasze my\u015blenie o historii? Pewien artefakt, kt\u00f3ry odnaleziono w trakcie wykopalisk na terenie Niemiec, udowadnia, \u017ce tak. Srebrny amulet z III w. n.e. okaza\u0142 si\u0119 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.y9W0OfaSoc9CqJ9-9nUB_w&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "RMF 2414 godz.",
+            "date": "RMF 2418 godz.",
             "source": "RMF 24",
             "article_content": "Czy drobna rzecz jest w stanie zmieni\u0107 nasze my\u015blenie o historii? Pewien artefakt, kt\u00f3ry odnaleziono w trakcie wykopalisk na terenie Niemiec, udowadnia, \u017ce tak. Srebrny amulet z III w. n.e. okaza\u0142 si\u0119 dowodem rozprzestrzeniania si\u0119 chrze\u015bcija\u0144stwa w czasach wczesnego Imperium Rzymskiego. Zdaniem naukowc\u00f3w, to najwcze\u015bniejszy \u015blad wiary w Chrystusa na p\u00f3\u0142noc od Alp.\n\nZdj\u0119cie ilustracyjne / Shutterstock\n\nPrawie 1800-letni amulet, mierz\u0105cy zaledwie 3,5 cm, odnaleziono w trakcie wykopalisk z lat 2017-18. W \u015brodku znajdowa\u0142 si\u0119 miniaturowy srebrny zw\u00f3j z \u0142aci\u0144sk\u0105 inskrypcj\u0105.\n\nO sprawie pisze m.in. portal Independent.\n\nPrzedmiot zosta\u0142 znaleziony w grobie m\u0119\u017cczyzny, maj\u0105cego mi\u0119dzy 25 a 35 lat. Zosta\u0142 on pochowany na cmentarzu na obrze\u017cach Frankfurtu, gdzie w czasach rzymskich by\u0142o miasto Nida. Amulet by\u0142 najprawdopodobniej noszony na sznurku zawieszonym wok\u00f3\u0142 szyi.\n\nSrebrny amulet znaleziony w Niemczech / U. Dettmar, AMF / Materia\u0142y prasowe\n\nAmulety takie jak ten znaleziony w Niemczech, zwane r\u00f3wnie\u017c filakteriami, noszono w celach leczniczych lub ochrony przed nieszcz\u0119\u015bciami - chorobami, b\u00f3lami cia\u0142a, bezp\u0142odno\u015bci\u0105, a nawet si\u0142ami demonicznymi. Przeznaczenie przedmiot\u00f3w t\u0142umaczy archeolog biblijna Tine Rassale, kt\u00f3r\u0105 cytuje Independent.\n\nW epoce bez zaawansowanej wiedzy medycznej takie przedmioty by\u0142y istotnym \u017ar\u00f3d\u0142em komfortu i bezpiecze\u0144stwa dla nosz\u0105cego i jego bliskich - wskaza\u0142a Rassale.\n\nJako \u017ce u\u017cycie takich amulet\u00f3w by\u0142o rzadkie na zachodzie Imperium Rzymskiego, odkrycie jednego z nich w Niemczech sugeruje, \u017ce idee chrze\u015bcija\u0144skie zacz\u0119\u0142y ju\u017c w\u00f3wczas przenika\u0107 na obszary oddalone od wczesnych o\u015brodk\u00f3w rozwoju tej religii.\n\nGr\u00f3b, w kt\u00f3rym znaleziono amulet / Biuro Pomnik\u00f3w Miasta Frankfurt nad Menem/Michael Obst / Materia\u0142y prasowe\n\nBadania amuletu nie by\u0142y \u0142atwe\n\nNiemieccy naukowcy z Leibniz-Zentrum f\u00fcr Arch\u00e4ologie w Moguncji po\u015bwi\u0119cili kilka lat na konserwacj\u0119, renowacj\u0119 i analiz\u0119 artefaktu, nim finalnie podzielono si\u0119 wnioskami.\n\nWyzwaniem by\u0142 fakt, \u017ce srebrna blaszka by\u0142a zwini\u0119ta, a po ok. 1800 latach r\u00f3wnie\u017c zagi\u0119ta i sprasowana - powiedzia\u0142 Ivan Calandra z zespo\u0142u naukowego.\n\nBadacze u\u017cyli tomografii komputerowej do zeskanowania znaleziska w niezwykle wysokiej rozdzielczo\u015bci i stworzenia jego modelu 3D, tak, aby nie trzeba by\u0142o nawet wyci\u0105ga\u0107 kruchej blaszki z wn\u0119trza pojemnika.\n\n3D model srerbnego zwoju z inskrypcj\u0105 / Leibniz-Zentrum f\u00fcr Arch\u00e4ologie w Moguncji / Materia\u0142y prasowe\n\nProces ujawni\u0142 ich oczom kilkana\u015bcie linijek tekstu, nazwanego Frankfurck\u0105 srebrn\u0105 inskrypcj\u0105.\n\nZapis zosta\u0142 odczytany przez profesora Markusa Scholza, archeologa z Uniwersytetu Goethego we Frankfurcie. Zawiera on odniesienia do \u015bw. Tytusa, ucznia i powiernika Paw\u0142a Aposto\u0142a.\n\nCzasem potrzebowa\u0142em tygodni, a nawet miesi\u0119cy, by wpa\u015b\u0107 na now\u0105 my\u015bl (dotycz\u0105c\u0105 t\u0142umaczenia - red.) - t\u0142umaczy prof. Scholz. Badacz zaprosi\u0142 do wsp\u00f3\u0142pracy m.in. ekspert\u00f3w z historii teologii. Krok po kroku, tekst odkry\u0142 swoj\u0105 tajemnic\u0119.\n\nTekst inskrypcji\n\n(W imieniu ?) \u015bwi\u0119tego Tytusa\n\n\u015awi\u0119ty, \u015bwi\u0119ty, \u015bwi\u0119ty!\n\nW imieniu Jezusa Chrystusa, Syna Bo\u017cego!\n\nW\u0142adca \u015bwiata\n\nopiera si\u0119 najlepiej jak potrafi (?)\n\nwszystkim napadom(?)/pora\u017ckom(?).\n\nB\u00f3g(?) zapewnia\n\nwst\u0119p do dobrego samopoczucia.\n\nTo urz\u0105dzenie ratunkowe(?) chroni\n\nosob\u0119, kt\u00f3ra\n\npoddaje si\u0119 woli\n\nPana Jezusa Chrystusa, Syna Bo\u017cego,\n\nponiewa\u017c przed Jezusem Chrystusem\n\nzginaj\u0105 si\u0119 wszystkie kolana: niebieskie,\n\nziemskie i\n\npodziemne, i ka\u017cdy j\u0119zyk\n\nwyznaje (Jezusowi Chrystusowi).\n\nTre\u015b\u0107 inskrypcji badanej przez prof. Scholza / Prof. Dr Markus Scholz / Materia\u0142y prasowe\n\nPrze\u0142omowo\u015b\u0107 znaleziska\n\nJednym z istotnych aspekt\u00f3w tekstu, na kt\u00f3ry zwr\u00f3cili uwag\u0119 naukowcy, a o kt\u00f3rym pisze portal Times of Israel, jest u\u017cyte sformu\u0142owanie \"\u015awi\u0119ty, \u015bwi\u0119ty, \u015bwi\u0119ty\" - zaczerpni\u0119te z liturgii \u017cydowskiej, ale \"w\u0142a\u015bciwie nieznane w liturgii chrze\u015bcija\u0144skiej a\u017c do IV w. n.e.\".\n\nNiezwyk\u0142e ma by\u0107 r\u00f3wnie\u017c odniesienie do \u015bw. Tytusa, wczesnego misjonarza i ucznia \u015bw. Paw\u0142a. Zwi\u0105zek z aposto\u0142em jest wzmocniony przez ostatnie wersy zwoju, kt\u00f3re s\u0105 \"prawie dos\u0142ownym cytatem z tak zwanego hymnu o Chrystusie z listu do Filipian\".\n\nGr\u00f3b, w kt\u00f3rym znaleziono amulet, jest datowany na lata 230-270 n.e., co czyni go - wed\u0142ug naukowc\u00f3w - pierwszym przyk\u0142adem \"tak autentycznego dowodu czystego chrze\u015bcija\u0144stwa na p\u00f3\u0142noc od Alp\" w tym okresie.\n\nDo tej pory najwcze\u015bniejsze wiarygodne dowody \u017cycia chrze\u015bcija\u0144skiego w p\u00f3\u0142nocnych regionach alpejskich Cesarstwa Rzymskiego datowane by\u0142y na og\u00f3\u0142 na IV wiek n.e., co najmniej 50 lat p\u00f3\u017aniej ni\u017c odkryty amulet.\n\nW latach prawdopodobnego powstania amuletu chrze\u015bcija\u0144stwo by\u0142o w Imperium Rzymskim zakazane. Zmieni\u0142o si\u0119 to dopiero w 313 r. po Chrystusie, wraz z wydaniem Edyktu mediola\u0144skiego."
         }
