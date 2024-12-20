@@ -5,12 +5,44 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Krzysztof Jackowski odkry\u0142 wn\u0119trza swojego mieszkania. P\u00f3\u0142ki a\u017c si\u0119 uginaj\u0105",
+            "title": "Koszmarny powr\u00f3t z jarmarku w Dre\u017anie. Stu pasa\u017cer\u00f3w utkn\u0119\u0142o na dworcu w Zgorzelcu",
+            "link": "https://www.msn.com/pl-pl/podroze/news/koszmarny-powr%C3%B3t-z-jarmarku-w-dre%C5%BAnie-stu-pasa%C5%BCer%C3%B3w-utkn%C4%99%C5%82o-na-dworcu-w-zgorzelcu/ar-AA1weHIE?ocid=BingNewsVerp",
+            "description": "Do redakcji Gazety Wroc\u0142awskiej wp\u0142yn\u0105\u0142 list od czytelnika o sytuacji, jaka mia\u0142a miejsce w niedziel\u0119 (15 grudnia).",
+            "image_url": "https://www.bing.pl/th?id=OVF.R3eEwQH7Q5abyZ5iwkCpyA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Gazeta Wroc\u0142awska on MSN34 min",
+            "source": "Gazeta Wroc\u0142awska on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "III Wigilia dla Potrzebuj\u0105cych i wiele wydarze\u0144 przed\u015bwi\u0105tecznych w Bochni w ten weekend",
+            "link": "https://bochnia.naszemiasto.pl/iii-wigilia-dla-potrzebujacych-i-wiele-wydarzen-przedswiatecznych-w-bochni-w-ten-weekend/ar/c1p2-27110571",
+            "description": "W weekend w Bochni odb\u0119dzie si\u0119 cykl wydarze\u0144 zwi\u0105zanych ze zbli\u017caj\u0105cym si\u0119 Bo\u017cym Narodzeniem. W\u015br\u00f3d nich b\u0119dzie kiermasz ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.SixPa8jZ9YPcS%2fet%2fbmy%2fQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "bochnia.naszemiasto2 godz.",
+            "source": "bochnia.naszemiasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Krzysztof Jackowski odkry\u0142 wn\u0119trza swojego mieszkania. Bogactwo antyk\u00f3w to ma\u0142o powiedziane",
             "link": "https://www.msn.com/pl-pl/wiadomosci/other/krzysztof-jackowski-odkry%C5%82-wn%C4%99trza-swojego-mieszkania-p%C3%B3%C5%82ki-a%C5%BC-si%C4%99-uginaj%C4%85/ar-AA1wdEtT?ocid=BingNewsVerp",
             "description": "Krzysztof Jackowski, znany jasnowidz, postanowi\u0142 pochwali\u0107 si\u0119 wn\u0119trzem swojego mieszkania. Pomieszczenia obfituj\u0105 w szeregi ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.YZGiyZ2fpPPdOQXYNAAo4g&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "image_url": "https://www.bing.pl/th?id=OVF.6zklHWMGH%2fWipNJwMGk0aw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Pomponik.pl on MSN50 min",
+            "date": "Pomponik.pl on MSN4 godz.",
             "source": "Pomponik.pl on MSN",
             "article_content": ""
         }
@@ -26,7 +58,7 @@
             "description": "Mo\u017cliwe, \u017ce w zakamarkach swojego domu trzymasz prawdziwy skarb. B\u0119dziesz zaskoczony za jakie kwoty mo\u017cna sprzeda\u0107 stare ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.D9r96jQ9yn7crstkA-FmQy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Hostowane na MSN6 godz.",
+            "date": "Hostowane na MSN9 godz.",
             "source": "MSN",
             "article_content": ""
         }
@@ -42,25 +74,9 @@
             "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.rXY4IFBt9hVZAYwsRbQrPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski on MSN6 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN10 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Stare banknoty s\u0105 warte fortun\u0119. Zobacz, czy je masz. Zdj\u0119cia",
-            "link": "https://slawno.naszemiasto.pl/stare-banknoty-sa-warte-fortune-zobacz-czy-je-masz-zdjecia/ar/c1-9284575",
-            "description": "Niezwyk\u0142e rzeczy zwi\u0105zane z histori\u0105 Dar\u0142owa, S\u0142upska naby\u0142 mieszkaniec gminy Dar\u0142owo, kt\u00f3re to rzeczy wzbogaci\u0142y jego ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.Ed3OO5LvXCzi4Bzimj5acS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "slawno.naszemiasto23 godz.",
-            "source": "slawno.naszemiasto",
-            "article_content": "Content not available"
         }
     },
     {
@@ -74,7 +90,7 @@
             "description": "Ta porcelana z PRL jest warta maj\u0105tek! Unikatowe zestawy, talerze, fili\u017canki z PRL. Tych przedmiot\u00f3w szukaj\u0105 kolekcjonerzy! Z pewno\u015bci\u0105 wiele os\u00f3b nie zdaje sobie sprawy, \u017ce mo\u017ce posiada\u0107 w swoim domu ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "gk24.pl7 godz.",
+            "date": "gk24.pl10 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -85,14 +101,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Cena GPB/PLN dzisiaj. Ile trzeba zap\u0142aci\u0107 za funta 20 grudnia 2024 r.?",
-            "link": "https://www.msn.com/pl-pl/bezpiecze%C5%84stwo-publiczne-i-sytuacje-kryzysowe/og%C3%B3lne/nie-%C5%BCyje-maciej-lewandowski-to-by%C5%82y-komendant-policji-w-toruniu/ar-AA1wdEeG?ocid=BingNewsVerp",
-            "description": "Cena funta 20 grudnia 2024 r. Ile dzi\u015b musimy zap\u0142aci\u0107 za funta szterlinga? Kurs GBP/PLN dzisiaj o godzinie 12 w po\u0142udnie ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.sBMxt5NavEeOUUFZ5jIyWi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Litecoin ma na celu $300, PENGU wskakuje do pierwszej setki, a Catzilla szykuje si\u0119 do wybuchu o 1000% w g\u00f3r\u0119 w przysz\u0142ym roku",
+            "link": "https://bithub.pl/reklamy/partnerzy/litecoin-ma-na-celu-300-pengu-wskakuje-do-pierwszej-setki-a-catzilla-szykuje-sie-do-wybuchu-o-1000-w-gore-w-przyszlym-roku/",
+            "description": "Catzilla jest gotowa na niezwyk\u0142y wzrost, z oczekiwaniami tysi\u0105ckrotnego wzrostu w przysz\u0142ym roku. Oto jej zalety i cechy.",
+            "image_url": "https://www.bing.pl/th?id=OVFT.DOq8BQ-iOG7ga5XIa-rgsC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Onet Wiadomo\u015bci on MSN15 min",
-            "source": "Onet Wiadomo\u015bci on MSN",
-            "article_content": ""
+            "date": "bithub4 godz.",
+            "source": "bithub",
+            "article_content": "Litecoin ma na celu $300, PENGU wskakuje do pierwszej setki, a Catzilla szykuje si\u0119 do wybuchu o 1000% w g\u00f3r\u0119 w przysz\u0142ym roku\n\nArtyku\u0142 zosta\u0142 nades\u0142any przez partnera i ma charakter sponsorowany.\n\nRynki kryptowalut t\u0119tni\u0105 \u017cyciem. Litecoin znajduje si\u0119 na \u015bcie\u017cce wzrostowej w kierunku znacz\u0105cych poziom\u00f3w cenowych, co wskazuje na powa\u017cne wybicie. PENGU w imponuj\u0105cy spos\u00f3b wszed\u0142 do 100 najlepszych cyfrowych monet, przyci\u0105gaj\u0105c uwag\u0119 entuzjast\u00f3w. Tymczasem Catzilla jest gotowa na niezwyk\u0142y wzrost, z oczekiwaniami tysi\u0105ckrotnego wzrostu w przysz\u0142ym roku. Wydarzenia te wzbudzaj\u0105 oczekiwanie w\u015br\u00f3d inwestor\u00f3w spragnionych kolejnej wielkiej okazji.\n\nCatzilla nisczy chaos: memecoin dla wojownik\u00f3w kryptowalut\n\nW \u015bwiecie, w kt\u00f3rym wolno\u015b\u0107 finansowa wydaje si\u0119 poza zasi\u0119giem, pojawia si\u0119 nowa szansa \u2013 Catzilla! Zrodzona z sza\u0142u kultury mem\u00f3w i nastawiona na gwa\u0142towny wzrost, jest to memecoin, na kt\u00f3r\u0105 czekali inwestorzy!\n\nfot. materia\u0142y partnera\n\n14 etap\u00f3w. Nieograniczony potencja\u0142\n\nCatzilla, legendarny koci wojownik z \u017cyciem do stracenia, oferuje 14 szans na zdobycie pot\u0119\u017cnego tokena $CATZILLA, zanim zostanie on upubliczniony. Wyobra\u017a sobie, \u017ce awansujesz z etapu 1 do etapu 14, w kt\u00f3rym Twoje zyski wzrosn\u0105 nawet o 700%! Catzilla ewoluuje wraz z post\u0119pem przedsprzeda\u017cy, przybli\u017caj\u0105c ci\u0119 do finansowego zwyci\u0119stwa z ka\u017cdym krokiem.\n\nAle strze\u017ccie si\u0119, inni wojownicy \u2013 zegar tyka, a tylko szybcy i odwa\u017cni zapewni\u0105 sobie udzia\u0142 w niepowstrzymanej pot\u0119dze Catzilli.\n\nZdob\u0105d\u017a sw\u00f3j udzia\u0142, zanim Catzilla zmiecie konkurencj\u0119 z powierzchni ziemi!\n\nKoty przejmuj\u0105 kontrol\u0119: Zapomnij o psach \u2013 chodzi o miaucz\u0105ce pieni\u0105dze\n\n\u015awiat kryptowalut oszala\u0142 przez lata, ale teraz nadszed\u0142 czas, aby koty wspi\u0119\u0142y si\u0119 na szczyt. MEW i Popcat to najnowsze kocie sensacje udowadniaj\u0105ce, \u017ce psy mog\u0105 przyci\u0105ga\u0107 nag\u0142\u00f3wki, ale koty przynosz\u0105 do domu zyski.\n\nMEW: Mrucz\u0105c do 15 najlepszych memecoin\u00f3w, ten sprytny kotek wspi\u0105\u0142 si\u0119 o 103,7% w ci\u0105gu zaledwie trzech miesi\u0119cy.\n\nPopcat: Ten kot nie tylko rzuci\u0142 si\u0119 do ataku, ale poszybowa\u0142 w g\u00f3r\u0119, zapewniaj\u0105c osza\u0142amiaj\u0105cy wzrost o 157,44%.\n\nTo nie s\u0105 tylko jednorazowe przypadki. Koty grasuj\u0105 po kr\u00f3lestwie memecoin\u00f3w. A je\u015bli uwa\u017casz, \u017ce MEW i Popcat s\u0105 imponuj\u0105ce, poczekaj, a\u017c Catzilla wkroczy na scen\u0119. Zapomnij o gonieniu za ogonem \u2013 to tutaj jest prawdziwa akcja.\n\nfot. materia\u0142y partnera\n\nMisja: Rozbi\u0107 rynek. Przepisa\u0107 zasady\n\nCatzilla jest tutaj, aby zniszczy\u0107 stare systemy, kt\u00f3re ci\u0119 powstrzymuj\u0105. Nadszed\u0142 czas, aby zbudowa\u0107 nowy \u015bwiat, w kt\u00f3rym wy, wojownicy przestrzeni kryptowalutowej, powstaniecie i odbierzecie to, co do was nale\u017cy. Z ka\u017cdym etapem tej przedsprzeda\u017cy si\u0142y zysku rosn\u0105 w si\u0142\u0119.\n\nCzas ucieka, a mo\u017cliwo\u015b\u0107 do\u0142\u0105czenia do armii Catzilli nie b\u0119dzie trwa\u0107 wiecznie. Zyski eksploduj\u0105 i tylko ci, kt\u00f3rzy b\u0119d\u0105 na tyle odwa\u017cni, by wykorzysta\u0107 ten moment, zobacz\u0105, jak ich zyski rosn\u0105 niczym poziom mocy prawdziwego bohatera anime.\n\nWejd\u017a teraz, obserwuj, jak Catzilla niszczy rynek i wprowadza chaos w\u015br\u00f3d konkurencji!\n\nLitecoin (LTC): szybsze transakcje i wi\u0119ksza prywatno\u015b\u0107\n\nLitecoin (LTC), stworzony w 2011 roku przez by\u0142ego in\u017cyniera Google Charliego Lee, jest kryptowalut\u0105 zaprojektowan\u0105 w celu oferowania szybszych i bardziej skalowalnych transakcji ni\u017c Bitcoin. Wykorzystuje ona algorytm haszuj\u0105cy Scrypt, kt\u00f3ry pozwala na szybsze generowanie blok\u00f3w na poziomie 2,5 minuty i ma na celu zapobieganie centralizacji wydobycia. Dzi\u0119ki wi\u0119kszej poda\u017cy 84 milion\u00f3w monet Litecoin nadaje si\u0119 do codziennych transakcji i mikrop\u0142atno\u015bci. W maju 2022 r. wprowadzono aktualizacj\u0119 MimbleWimble Extension Block (MWEB), zwi\u0119kszaj\u0105c\u0105 prywatno\u015b\u0107 i skalowalno\u015b\u0107. Litecoin koncentruje si\u0119 na szybko\u015bci, ni\u017cszych op\u0142atach i ci\u0105g\u0142ych ulepszeniach, co daje mu wyj\u0105tkow\u0105 pozycj\u0119 w cyfrowym krajobrazie finansowym. Cechy te mog\u0105 uczyni\u0107 go atrakcyjn\u0105 opcj\u0105 w obecnym cyklu rynkowym.\n\nPENGU Coin: Nowa kryptowaluta mem\u00f3w z potencja\u0142em spo\u0142eczno\u015bciowym\n\nPENGU Coin to nowa kryptowaluta inspirowana pingwinami, pod\u0105\u017caj\u0105ca za trendem monet mem\u00f3w obserwowanym w przypadku Dogecoin i Shiba Inu. Ma ona na celu zbudowanie silnej spo\u0142eczno\u015bci wok\u00f3\u0142 swojego tokena, wykorzystuj\u0105c zaanga\u017cowanie medi\u00f3w spo\u0142eczno\u015bciowych w celu zwi\u0119kszenia bazy u\u017cytkownik\u00f3w. Moneta dzia\u0142a w oparciu o technologi\u0119 blockchain, zapewniaj\u0105c przejrzysto\u015b\u0107 i bezpiecze\u0144stwo transakcji. W obecnym cyklu rynkowym, w kt\u00f3rym monety memowe mog\u0105 szybko zyska\u0107 popularno\u015b\u0107, PENGU Coin mo\u017ce przyci\u0105gn\u0105\u0107 inwestor\u00f3w poszukuj\u0105cych kolejnego modnego aktywa. Jego skupienie si\u0119 na prostocie i zaanga\u017cowaniu spo\u0142eczno\u015bci sprawia, \u017ce si\u0119 wyr\u00f3\u017cnia. Przy wystarczaj\u0105cym wsparciu i przyj\u0119ciu, PENGU Coin ma potencja\u0142 do rozwoju na rynku kryptowalut.\n\nWnioski\n\nLTC i PENGU wykazuj\u0105 ograniczony potencja\u0142 kr\u00f3tkoterminowy, ale Catzilla wy\u0142ania si\u0119 jako ostateczny bohater mem\u00f3w, kt\u00f3rego celem jest wolno\u015b\u0107 finansowa dla wszystkich. Oferuj\u0105c 700% ROI podczas przedsprzeda\u017cy od 0,0002 USD do 0,0016 USD w 14 etapach oraz potr\u00f3jn\u0105 u\u017cyteczno\u015b\u0107 w zarz\u0105dzaniu, zach\u0119tach i stakowaniu, Catzilla jednoczy entuzjast\u00f3w, aby rzuci\u0107 wyzwanie toksycznym systemom i osi\u0105gn\u0105\u0107 nowe wy\u017cyny.\n\nStrona: Catzilla ($CATZILLA)\n\nTwitter: https://x.com/CatzillaToken\n\nTelegram: Telegram Chat\n\nTelegram News\n\nDzi\u0119kujemy, \u017ce przeczyta\u0142e\u015b/a\u015b nasz artyku\u0142 do ko\u0144ca. Obserwuj nas w Wiadomo\u015bciach Google i b\u0105d\u017a na bie\u017c\u0105co!"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Bycze sygna\u0142y dla SOL i XRP: Czy Solana osi\u0105gnie 400 dolar\u00f3w, a XRP 10 dolar\u00f3w? Czy XYZVerse zdominuje rajd memecoin\u00f3w w 2025 roku?",
+            "link": "https://comparic.pl/bycze-sygnaly-dla-sol-i-xrp-czy-solana-osiagnie-400-dolarow-a-xrp-10-dolarow-czy-xyzverse-zdominuje-rajd-memecoinow-w-2025-roku/",
+            "description": "Tre\u015b\u0107 artyku\u0142u dostarczona przez Partnera w ramach wsp\u00f3\u0142pracy komercyjnej. Rynek kryptowalut kipi now\u0105 energi\u0105, poniewa\u017c ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.5mueeD8nxvWgf-m29ecxLi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "comparic18 godz.",
+            "source": "comparic",
+            "article_content": "Tre\u015b\u0107 artyku\u0142u dostarczona przez Partnera w ramach wsp\u00f3\u0142pracy komercyjnej.\n\nRynek kryptowalut kipi now\u0105 energi\u0105, poniewa\u017c najlepsze tokeny sygnalizuj\u0105 potencjalne wyniki prze\u0142omu. Solana i XRP przyci\u0105gaj\u0105 uwag\u0119 odwa\u017cnymi celami cenowymi, podczas gdy wschodz\u0105cy gracze w sektorze monet memowych sugeruj\u0105, \u017ce wstrz\u0105saj\u0105 status quo. Wraz z pojawianiem si\u0119 trend\u00f3w wzrostowych, spekulacje na temat tego, kt\u00f3re aktywa poprowadz\u0105 nast\u0119pny rajd i przynios\u0105 niezwyk\u0142e zyski, s\u0105 powszechne.\n\nW\u015br\u00f3d tego podekscytowania XYZVerse wy\u0142ania si\u0119 jako pierwszy memcoin all-sport, jednocz\u0105cy fan\u00f3w r\u00f3\u017cnych dyscyplin sportowych i d\u0105\u017c\u0105cy do niezwyk\u0142ego rozwoju dzi\u0119ki unikalnemu po\u0142\u0105czeniu kultury mem\u00f3w i entuzjazmu sportowego.\n\nZwyci\u0119stwo Trumpa wywo\u0142uje krypto chaos: $XYZ Meme Coin gotowy na nokaut\n\nWyborcze zwyci\u0119stwo Donalda Trumpa wywo\u0142a\u0142o sejsmiczn\u0105 zmian\u0119 na rynku kryptowalut, przygotowuj\u0105c grunt pod hoss\u0119, jakiej nie by\u0142o nigdy wcze\u015bniej. Gdy kurz opada, g\u0142\u00f3wne monety kulej\u0105 do przodu z ma\u0142o inspiruj\u0105cymi dwucyfrowymi zyskami, podczas gdy monety memowe kradn\u0105 show.\n\nOstatni wzrost PNUT o 4500%? Eksplozja FRED o 6000%? Dawna historia, pogrzebana w popio\u0142ach kr\u00f3tkotrwa\u0142ego szumu. Te monety ugi\u0119\u0142y si\u0119 pod presj\u0105 sprzeda\u017cy, pozostawiaj\u0105c inwestor\u00f3w z FOMO li\u017c\u0105cych rany. Ale krypto-bitwa nie czeka na s\u0142abych \u2014 pojawi\u0142 si\u0119 nowy tytan z planami zniszczenia rekord\u00f3w i zapewnienia wstrz\u0105saj\u0105cego rozwoju.\n\n\n\n\n\nDalsza cz\u0119\u015b\u0107 artyku\u0142u pod filmem\n\n\n\n\n\n\n\n\n\n\n\nSta\u0144 po stronie XYZ \u2014 niekwestionowanego mistrza monet memowych\n\n$XYZ wkracza na ring, by znokautowa\u0107 legendy monet memowych\n\nPoznaj $XYZ \u2014 pierwsze w historii memcoiny sportowe dla prawdziwych krypto-degen\u00f3w g\u0142odnych ryzyka i zysk\u00f3w. To token dla tych, kt\u00f3rzy lubi\u0105 dreszczyk emocji zwi\u0105zany z rywalizacj\u0105.\n\nGdy Trump przejmuje stery, rynek kryptowalut jest gotowy do wybuchu, wi\u0119c konkurencja staje si\u0119 zaci\u0119ta. Tylko najsilniejsze tokeny mog\u0105 przetrwa\u0107 na tej arenie bez lito\u015bci. Oto nadchodzi \u015bwit ery kryptowalut dla tych ze stalowymi jajami \u2014 facet\u00f3w takich jak Joe Rogan i Dana White \u2014 kt\u00f3rzy z dum\u0105 stan\u0119liby za zespo\u0142em Trumpa. Maj\u0105c na pok\u0142adzie takich prawdziwych ludzi biznesu, nie ma miejsca na stare monety mem\u00f3w z cipkami, nadszed\u0142 czas na prawdziwe brutalne monety.\n\nNap\u0119dzany sportow\u0105 mentalno\u015bci\u0105 token $XYZ wy\u0142oni\u0142 si\u0119 jako ostateczny pretendent gotowy zmia\u017cd\u017cy\u0107 konkurent\u00f3w i wystrzeli\u0107 rakiet\u0119 na ksi\u0119\u017cyc w ramach misji Elona Muska. $XYZ zmierza na podium zwyci\u0119zc\u00f3w, aby sta\u0107 si\u0119 odznak\u0105 honorow\u0105 dla tych, kt\u00f3rzy \u017cyj\u0105 i oddychaj\u0105 sportem i kryptowalutami.\n\n$XYZ ju\u017c dostarcza, zanim trafi na rynek\n\nPrzedsprzeda\u017c $XYZ jest w toku, zapewniaj\u0105c dost\u0119p do tokena po specjalnej cenie przed debiutem.\n\nCena startowa przedsprzeda\u017cy : 0,0001 USD\n\n: 0,0001 USD Cena aktualna : 0,001 USD\n\n: 0,001 USD Nast\u0119pny etap przedsprzeda\u017cy : 0,001333 USD\n\n: 0,001333 USD Ostateczny cel nokautu: 0,1 USD\n\nOd startu do wydarzenia generowania token\u00f3w, $XYZ ma na celu dalszy rozw\u00f3j!\n\nJe\u015bli nie jeste\u015b w \u015brodku, to jeste\u015b poza. Przedsprzeda\u017c $XYZ ju\u017c przechodzi przez etapy z pr\u0119dko\u015bci\u0105 nokautu mistrza.\n\nDo\u0142\u0105cz teraz do przedsprzeda\u017cy $XYZ i zobacz!\n\nSolana (SOL)\n\nW ci\u0105gu ostatnich sze\u015bciu miesi\u0119cy Solana (SOL) wzros\u0142a o 62,92%. Natomiast w ostatnim miesi\u0105cu nast\u0105pi\u0142 spadek o 8,33%, co wskazuje na pewn\u0105 zmienno\u015b\u0107. W zesz\u0142ym tygodniu nast\u0105pi\u0142 skromny wzrost o 1,81%. Obecna cena waha si\u0119 mi\u0119dzy 205,85 a 239,87 USD, zbli\u017caj\u0105c si\u0119 do kluczowych poziom\u00f3w wsparcia i oporu.\n\nNajbli\u017cszy poziom wsparcia to 187,60 USD. Je\u015bli cena spadnie poni\u017cej tego poziomu, mo\u017ce spa\u015b\u0107 do drugiego wsparcia przy 153,58 USD, co oznacza spadek o oko\u0142o 25%. Z drugiej strony najbli\u017cszy op\u00f3r wynosi 255,64 USD. Prze\u0142amanie go mo\u017ce spowodowa\u0107 wzrost ceny do 289,66 USD, czyli o oko\u0142o 21% wi\u0119cej ni\u017c obecnie.\n\nWska\u017aniki techniczne s\u0105 mieszane. 10-dniowe i 100-dniowe proste \u015brednie krocz\u0105ce s\u0105 zbli\u017cone, na poziomie 216,40 USD i 219,50 USD. RSI wynosi 47,04, co wskazuje na warunki neutralne. MACD wynosi -1,256, a Stochastic 31,02, co sugeruje niewielki nied\u017awiedzi impet. Na podstawie tych danych Solana mo\u017ce do\u015bwiadczy\u0107 \u0142agodnej presji spadkowej, ale mo\u017ce znale\u017a\u0107 wsparcie i potencjalnie odbi\u0107 si\u0119.\n\nXRP (XRP)\n\nW ci\u0105gu ostatniego miesi\u0105ca XRP (XRP) do\u015bwiadczy\u0142o znacznego wzrostu, a jego cena wzros\u0142a o 134,53%. Obecnie obracaj\u0105c si\u0119 w przedziale od 2,03 do 2,73 USD, kryptowaluta utrzyma\u0142a dynamik\u0119 wzrostow\u0105. Tylko w ci\u0105gu ostatniego tygodnia cena wzros\u0142a o 4,22%, co odzwierciedla rosn\u0105ce zainteresowanie i inwestycje.\n\nImponuj\u0105ca wydajno\u015b\u0107 monety trwa od ostatnich sze\u015bciu miesi\u0119cy, szczyc\u0105c si\u0119 niezwyk\u0142ym wzrostem o 406,22%. Wska\u017aniki techniczne pokazuj\u0105, \u017ce proste \u015brednie krocz\u0105ce z 10 i 100 dni s\u0105 zbli\u017cone, odpowiednio na poziomie 2,52 USD i 2,47 USD, co sugeruje potencjaln\u0105 stabilno\u015b\u0107. Wska\u017anik si\u0142y wzgl\u0119dnej wynosi 38,90, a oscylator stochastyczny 24,40, co mo\u017ce wskazywa\u0107, \u017ce XRP zbli\u017ca si\u0119 do terytorium wyprzedania.\n\nPatrz\u0105c w przysz\u0142o\u015b\u0107, XRP napotyka najbli\u017cszy poziom oporu na poziomie 3,02 USD. Je\u015bli zostanie przebity, kolejnym celem mo\u017ce by\u0107 3,73 USD. Osi\u0105gni\u0119cie pierwszego oporu oznacza\u0142oby wzrost o oko\u0142o 10% od obecnego g\u00f3rnego przedzia\u0142u cenowego. Z drugiej strony najbli\u017cszy poziom wsparcia wynosi 1,61 USD, a spadek do tego poziomu oznacza\u0142by spadek o oko\u0142o 20% od obecnego dolnego przedzia\u0142u cenowego. Traderzy uwa\u017cnie obserwuj\u0105 te poziomy, aby oceni\u0107 nast\u0119pny ruch XRP.\n\nWniosek\n\nHossa w 2024 r. podkre\u015bla silne perspektywy dla SOL i XRP, podczas gdy XYZVerse wyr\u00f3\u017cnia si\u0119 ambitnymi planami rozwoju i unikalnym po\u0142\u0105czeniem sportu i kultury mem\u00f3w.\n\nWi\u0119cej informacji o XYZVersus (XYZ) mo\u017cna znale\u017a\u0107 tutaj:\n\nStrona, Telegram, X\n\nWy\u0142\u0105czenie odpowiedzialno\u015bci: Niniejszy materia\u0142 ma charakter wy\u0142\u0105cznie promocyjny i nie stanowi oferty sprzeda\u017cy ani zaproszenia do nabycia kryptowalut, token\u00f3w i NFT ani w \u017cadnym wypadku nie powinien stanowi\u0107 podstawy do podejmowania decyzji o nabyciu kryptowalut, token\u00f3w lub NFT.\n\nPami\u0119taj, inwestowanie w projekty, firmy i startupy, akcje, tokeny, kryptowaluty, NFT a w szczeg\u00f3lno\u015bci w nowe podmioty, wi\u0105\u017ce si\u0119 z wysokim ryzykiem. Inwestycje takie mog\u0105 prowadzi\u0107 do utraty cz\u0119\u015bci lub ca\u0142o\u015bci zainwestowanych \u015brodk\u00f3w. Inwestorzy powinni posiada\u0107 wystarczaj\u0105c\u0105 wiedz\u0119, aby zrozumie\u0107 ryzyko i \u015bwiadomie podejmowa\u0107 decyzje. W przypadku jakichkolwiek w\u0105tpliwo\u015bci zasi\u0119gnij porady niezale\u017cnego doradcy inwestycyjnego."
         }
     },
     {
@@ -106,7 +138,7 @@
             "description": "Stara porcelana z czas\u00f3w PRL, w 2024 roku cieszy si\u0119 rosn\u0105cym zainteresowaniem. Niekt\u00f3re egzemplarze mog\u0105 by\u0107 dzi\u015b bardzo ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.eujsUo8yckH2_dLmPKBIFi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN5 godz.",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN8 godz.",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
             "article_content": ""
         }
@@ -122,7 +154,7 @@
             "description": "Obecnie zwracamy olbrzymi\u0105 uwag\u0119 na wystr\u00f3j swoich dom\u00f3w czy mieszka\u0144, a w\u0142a\u015bnie takie przedmioty, unikatowe, wyr\u00f3\u017cniaj\u0105ce si\u0119 barwami, motywami i wzorami, jak porcelana czy ceramika z czas\u00f3w PRL, ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "gk24.pl7 godz.",
+            "date": "gk24.pl10 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -138,7 +170,7 @@
             "description": "Ta porcelana z PRL jest warta maj\u0105tek! Unikatowe zestawy, talerze, fili\u017canki z PRL. Tych przedmiot\u00f3w szukaj\u0105 kolekcjonerzy! Z pewno\u015bci\u0105 wiele os\u00f3b nie zdaje sobie sprawy, \u017ce mo\u017ce posiada\u0107 w swoim domu ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "gk24.pl7 godz.",
+            "date": "gk24.pl10 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -154,7 +186,7 @@
             "description": "Stare kryszta\u0142y z lat 60., 70., 80. to obecnie rarytas dla kolekcjoner\u00f3w staroci. W 2024 roku wr\u00f3ci\u0142y do \u0142ask, a niekt\u00f3re s\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=OVF.wfAW5mEi6fp5ytMsufiL3w&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN19 godz.",
+            "date": "Gazeta Pomorska on MSN23 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -170,7 +202,7 @@
             "description": "W Poznaniu, tu\u017c obok dworca Pozna\u0144 G\u0142\u00f3wny i galerii handlowej Avenida, ponownie zago\u015bci\u0142 \"Niedzielny Targ Pozna\u0144\". 24 ...",
             "image_url": "https://www.bing.pl/th?id=OVF.K4WM7Tp2XUPvfM0wcZGvnQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "gloswielkopolski5 godz.",
+            "date": "gloswielkopolski9 godz.",
             "source": "gloswielkopolski",
             "article_content": "Content not available"
         }
@@ -186,7 +218,7 @@
             "description": "Unikalne antyki poszukiwane przez kolekcjoner\u00f3w mog\u0105 zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na nich zarobi\u0107 fortun\u0119. Cz\u0119sto nie ...",
             "image_url": "https://www.bing.pl/th?id=OVF.jz20Sz2JdDRs5SkTyjEprw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "dziennikzachodni.pl6 godz.",
+            "date": "dziennikzachodni.pl10 godz.",
             "source": "dziennikzachodni.pl",
             "article_content": "Content not available"
         }
@@ -202,7 +234,7 @@
             "description": "Plac Imbramowski, najwi\u0119ksze targowisko miejskie, le\u017cy na terenie dawnej gminy Pr\u0105dnik Bia\u0142y \u2013 obecnie dzielnicy Krakowa.",
             "image_url": "https://www.bing.pl/th?id=OVF.RgPoM7cM5HDQ1EThb1GG%2fQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Krak\u00f3w Naszemiasto on MSN3 godz.",
+            "date": "Krak\u00f3w Naszemiasto on MSN7 godz.",
             "source": "Krak\u00f3w Naszemiasto on MSN",
             "article_content": ""
         }
@@ -216,9 +248,9 @@
             "title": "Pi\u0119kne ozdoby i zwierz\u0119ta. \u017bywa szopka Barbary i Grzegorza Lata\u0144skich ze Starego Ole\u015bca to \u015bwi\u0105teczna atrakcja dla ca\u0142ych rodzin",
             "link": "https://www.msn.com/pl-pl/wiadomosci/polska/pi%C4%99kne-ozdoby-i-zwierz%C4%99ta-%C5%BCywa-szopka-barbary-i-grzegorza-lata%C5%84skich-ze-starego-ole%C5%9Bca-to-%C5%9Bwi%C4%85teczna-atrakcja-dla-ca%C5%82ych-rodzin/ar-AA1wdjrB?ocid=BingNewsVerp",
             "description": "W Polsce szopki bo\u017conarodzeniowe s\u0105 obowi\u0105zkowym elementem wystroju ko\u015bcio\u0142\u00f3w w okresie \u015bwi\u0105t Bo\u017cego Narodzenia. Coraz ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.yuPFNP1oA48QV4N6TlvC%2fA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "image_url": "https://www.bing.pl/th?id=OVFT.nkqmVtl4ZpRi9VNTjejnCi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Pleszew Naszemiasto on MSN2 godz.",
+            "date": "Pleszew Naszemiasto on MSN6 godz.",
             "source": "Pleszew Naszemiasto on MSN",
             "article_content": ""
         }
@@ -234,7 +266,7 @@
             "description": "Wi\u0119cej szcz\u0119\u015bcia mia\u0142a Fabryka Porcelany w Katowicach. Dzi\u015b miejsce barwne i \u017cywe. Zaprasza na koncerty, wystawy i warsztaty, ...",
             "image_url": "https://www.bing.pl/th?id=OVF.jBXwQTSXydPWOKv%2bHOl%2brw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Dziennik Zachodni on MSN5 godz.",
+            "date": "Dziennik Zachodni on MSN9 godz.",
             "source": "Dziennik Zachodni on MSN",
             "article_content": ""
         }
@@ -245,13 +277,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Trasy rowerowe do 34 km od Pleszewa. Pomys\u0142y na jednodniowy wypad. Gdzie w weekend 21 - 22 grudnia?",
-            "link": "https://pleszew.naszemiasto.pl/trasy-rowerowe-do-34-km-od-pleszewa-pomysly-na-jednodniowy-wypad-gdzie-w-weekend-21-22-grudnia/ar/c7p1-21831917",
-            "description": "Nim wyruszysz w drog\u0119, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 21 grudnia w Pleszewie ma by\u0107 5\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 22 ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.b8vRyeDuwEB4lNnFb16Irg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Gdzie na spacer do 6 km od Ko\u0142obrzegu. Podpowiadamy, gdzie warto si\u0119 wybra\u0107 w weekend 21 - 22 grudnia",
+            "link": "https://kolobrzeg.naszemiasto.pl/gdzie-na-spacer-do-6-km-od-kolobrzegu-podpowiadamy-gdzie-warto-sie-wybrac-w-weekend-21-22-grudnia/ar/c7p1-22115647",
+            "description": "Zanim wyruszysz w tras\u0119, sprawd\u017a, jaka b\u0119dzie pogoda. W sobot\u0119 21 grudnia w Ko\u0142obrzegu ma by\u0107 6\u00b0C. Prawdopodobie\u0144stwo wyst\u0105pienia deszczu wynosi 62%. W niedziel\u0119 22 grudnia w Ko\u0142obrzegu ma by\u0107 7\u00b0C.",
+            "image_url": "https://www.bing.pl/th?id=ODF.xGyVXoJ9b0zlcu2rTPA_6w&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "pleszew.naszemiasto22 godz.",
-            "source": "pleszew.naszemiasto",
+            "date": "kolobrzeg.naszemiasto2 godz.",
+            "source": "kolobrzeg.naszemiasto",
             "article_content": "Content not available"
         }
     },
@@ -261,14 +293,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Wycieczki rowerowe do 19 km od O\u015bwi\u0119cimia. Podpowiedzi jednodniowych wypraw. Gdzie w weekend 21 - 22 grudnia?",
-            "link": "https://oswiecim.naszemiasto.pl/wycieczki-rowerowe-do-19-km-od-oswiecimia-podpowiedzi-jednodniowych-wypraw-gdzie-w-weekend-21-22-grudnia/ar/c7p1-21831633",
-            "description": "Nim wyruszysz w drog\u0119, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 21 grudnia w O\u015bwi\u0119cimiu ma by\u0107 4\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.H68Ha6cTF%2bCkNKU9i15Vug&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Trasy nordic walking w pobli\u017cu Koszalina",
+            "link": "https://koszalin.naszemiasto.pl/trasy-nordic-walking-do-69-km-od-koszalina-pomysly-na-odrobine-ruchu-na-powietrzu-w-weekend-21-22-grudnia/ar/c7p1-22318903",
+            "description": "Zauroczeni w\u0119dr\u00f3wkami przez piaszczyste g\u00f3ry wybrze\u017ca, tym razem wyruszyli\u015bmy na spotkanie z madwinami rozci\u0105gaj\u0105cymi si\u0119 mi\u0119dzy Rowami a Czo\u0142pinem. 23,5 kilometrowa trasa pozwoli\u0142a zobaczy\u0107 ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.2lnLIQe5bnM9ixvXVTSDQg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "oswiecim.naszemiasto22 godz.",
-            "source": "oswiecim.naszemiasto",
+            "date": "koszalin.naszemiasto1 godz.",
+            "source": "koszalin.naszemiasto",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Ulice Ko\u015bciuszki i Zwierzyniecka wracaj\u0105 do ruchu",
+            "link": "https://www.krakow.pl/get_html.php?dok_id=290104",
+            "description": "Po miesi\u0105cach intensywnych prac, w sobot\u0119, 21 grudnia ruch samochodowy i tramwajowy wraca na ulice Ko\u015bciuszki i Zwierzynieck\u0105. To koniec d\u0142ugo wyczekiwanej przez mieszka\u0144c\u00f3w inwestycji, kt\u00f3ra odmieni\u0142 ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "relikty",
+            "date": "krakow2 godz.",
+            "source": "krakow",
+            "article_content": "Ulice Ko\u015bciuszki i Zwierzyniecka wracaj\u0105 do ruchu\n\nPo miesi\u0105cach intensywnych prac, w sobot\u0119, 21 grudnia ruch samochodowy i tramwajowy wraca na ulice Ko\u015bciuszki i Zwierzynieck\u0105. To koniec d\u0142ugo wyczekiwanej przez mieszka\u0144c\u00f3w inwestycji, kt\u00f3ra odmieni\u0142a ten fragment Krakowa. Nowe torowisko, jezdnie i chodniki to jednak dopiero pocz\u0105tek zmian \u2013 od wiosny ulice zaprezentuj\u0105 si\u0119 w pe\u0142nej krasie, z now\u0105 zieleni\u0105 i estetycznym wyko\u0144czeniem.\n\nW ramach inwestycji zaplanowano nowe torowisko, jezdnie oraz chodniki. W kwestii zieleni przewidziano posadzenie drzew, krzew\u00f3w i traw ozdobnych \u2013 b\u0119d\u0105 one sp\u00f3jne gatunkowo oraz odporne na miejskie warunki. Wykonane prace sprawi\u0105, \u017ce tramwaje b\u0119d\u0105 je\u017adzi\u0142y ciszej i nie b\u0119d\u0105 powodowa\u0142y silnych drga\u0144. Dodatkowo modernizacja pozwoli zwi\u0119kszy\u0107 dost\u0119pno\u015b\u0107 tego obszaru i przystosowa\u0107 go do potrzeb os\u00f3b z ograniczon\u0105 mobilno\u015bci\u0105. Mieszka\u0144cy zyskali now\u0105, estetyczn\u0105 i funkcjonaln\u0105 przestrze\u0144, a wybrzuszaj\u0105ce si\u0119 szyny przejd\u0105 do historii.\n\nPrzed przebudow\u0105 na ulicach znajdowa\u0142o si\u0119 jedno z najbardziej wyeksploatowanych torowisk tramwajowych w mie\u015bcie. Jego modernizacj\u0119 planowano ju\u017c kilka lat temu, jednak z uwagi na szereg problem\u00f3w, m.in. bankructwo firmy projektowej, zadanie wesz\u0142o do realizacji dopiero w 2023 r.\n\nPrzebudowa ulic nie by\u0142a \u0142atwym zadaniem. Ju\u017c na pocz\u0105tku prac okaza\u0142o si\u0119, \u017ce skala rob\u00f3t musi zosta\u0107 poszerzona. Modernizacja infrastruktury podziemnej, w tym wodoci\u0105g\u00f3w, sieci gazowej i ciep\u0142owniczej, by\u0142a konieczna, aby ulice s\u0142u\u017cy\u0142y krakowianom przez kolejne dekady. W trakcie rob\u00f3t odkryto tak\u017ce niezinwentaryzowane kable oraz relikty wymagaj\u0105ce konsultacji ze s\u0142u\u017cbami konserwatorskimi. Gazownia wskaza\u0142a na konieczno\u015b\u0107 remontu swojej sieci, co nie by\u0142o planowane. Na mo\u015bcie nad Rudaw\u0105 trzeba by\u0142o przebudowa\u0107 wodoci\u0105g o \u015brednicy 800 mm, aby zapewni\u0107 dostawy wody dla Zwierzy\u0144ca i Starego Miasta. Niezb\u0119dnym okaza\u0142a si\u0119 budowa nowego odcinek sieci ciep\u0142owniczej o d\u0142ugo\u015bci 265 metr\u00f3w. Tym co jednak najbardziej zaskoczy\u0142o prowadz\u0105cych inwestycje by\u0142a konieczno\u015b\u0107 wykonania 96 przy\u0142\u0105czy kanalizacji deszczowej, kt\u00f3re wcze\u015bniej by\u0142y pod\u0142\u0105czone nieprawid\u0142owo.\n\nUlice Ko\u015bciuszki i Zwierzyniecka nie tylko zyska\u0142y na funkcjonalno\u015bci, ale r\u00f3wnie\u017c na wygl\u0105dzie. Dzi\u0119ki zastosowaniu prefabrykowanych betonowych p\u0142yt torowych tramwaje b\u0119d\u0105 porusza\u0107 si\u0119 ciszej, a mieszka\u0144cy po\u017cegnaj\u0105 problem drga\u0144 i wybrzuszaj\u0105cych si\u0119 szyn. To technologia stosowana w najwi\u0119kszych polskich miastach, takich jak Warszawa czy Wroc\u0142aw.\n\nNowe chodniki wykonano z betonowych p\u0142yt o rozmiarze 50\u00d750 cm \u2013 s\u0105 estetyczne, wygodne dla pieszych i zgodne z wytycznymi konserwatora zabytk\u00f3w.\n\nCho\u0107 od 21 grudnia ulice b\u0119d\u0105 dost\u0119pne dla ruchu, odbi\u00f3r techniczny inwestycji potrwa do stycznia. Pracownicy ZDMK dok\u0142adnie sprawdz\u0105 ka\u017cdy element: od chodnik\u00f3w po oznakowanie i nasadzenia. Wszelkie ewentualne niedoci\u0105gni\u0119cia zostan\u0105 szybko poprawione.\n\nOdnowione ulice Ko\u015bciuszki i Zwierzyniecka to przestrze\u0144, kt\u00f3ra \u0142\u0105czy funkcjonalno\u015b\u0107 z estetyk\u0105. Mieszka\u0144cy i tury\u015bci mog\u0105 ju\u017c teraz korzysta\u0107 z nowoczesnej infrastruktury, a wiosn\u0105 cieszy\u0107 si\u0119 jej pe\u0142nym, zielonym obliczem.\n\nZobacz tak\u017ce:"
         }
     },
     {
@@ -282,7 +330,7 @@
             "description": "Zbigniew \u0141asek w drodze do pracy codziennie mija ogrodzony teren przy ko\u015bciele \u015bw. Miko\u0142aja w Gda\u0144sku. Przechodzi ulic\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.C-ttrPOSnaVR78WxHuZEZi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "dziennikbaltycki.pl17 godz.",
+            "date": "dziennikbaltycki.pl21 godz.",
             "source": "dziennikbaltycki.pl",
             "article_content": "Content not available"
         }
@@ -293,29 +341,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Przemy\u015bl - city break na wschodzie Polski",
-            "link": "https://www.polskieradio.pl/10/11048/artykul/3461610,przemysl-city-break-na-wschodzie-polski",
-            "description": "Ju\u017c w niedziel\u0119 wybierzemy si\u0119 pod sam\u0105 granic\u0119 z Ukrain\u0105 do bardzo klimatycznego miasta. Oprowadz\u0105 nas po nim Agata Hemon i ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.k7OW63tSfjXWEfKTbDmCRy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Rosyjski atak na Kij\u00f3w. Zniszczono zabytkowy ko\u015bci\u00f3\u0142",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/rosyjski-atak-na-kij%C3%B3w-zniszczono-staro%C5%BCytny-ko%C5%9Bci%C3%B3%C5%82/ar-AA1weAuR?ocid=BingNewsVerp",
+            "description": "Kolejny rosyjski atak rakietowy na Kij\u00f3w. Uszkodzony zosta\u0142 zabytkowy ko\u015bci\u00f3\u0142 \u015bw. Miko\u0142aja, znajduj\u0105cy si\u0119 w centrum miasta.",
+            "image_url": "https://www.bing.pl/th?id=OVFT.wN2vKiUshFtZSV22IIpSni&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "PolskieRadio1 godz.",
-            "source": "PolskieRadio",
-            "article_content": "Siedziba w\u0119gierskiego parlamentu Foto: Matteo Gabrieli/ Shutterstock\n\nJeszcze do drugiej po\u0142owy XIX wieku to by\u0142y dwa niezale\u017cne miasta. Do dzi\u015b wida\u0107 r\u00f3\u017cnic\u0119 mi\u0119dzy prawobrze\u017cn\u0105 Bud\u0105 a dwa razy wi\u0119kszym lewobrze\u017cnym Pesztem. - Mieszka\u0144cy m\u00f3wi\u0105, \u017ce Buda jest jak stara ciotka, kt\u00f3ra dba o porz\u0105dek, chodzi spa\u0107 z kurami i kt\u00f3r\u0105 odwiedza si\u0119 tylko w imieniny - m\u00f3wi autorka cyklu Oliwia Krettek. - Natomiast Peszt to ha\u0142a\u015bliwy m\u0142odzieniaszek, kt\u00f3ry dzie\u0144 w dzie\u0144 imprezuje do bia\u0142ego rana.\n\nTransport i nocleg\n\nDo stolicy W\u0119gier dotrzemy na wiele sposob\u00f3w. Z Polski mo\u017cna pojecha\u0107 poci\u0105giem, a tak\u017ce polecie\u0107 tanimi liniami lotniczymi. W obydwu przypadkach bilety kosztuj\u0105 oko\u0142o 100 z\u0142. Wiele os\u00f3b decyduje si\u0119 tak\u017ce na podr\u00f3\u017c samochodem. Odleg\u0142o\u015b\u0107 z Warszawy wynosi oko\u0142o 800 km, a przy okazji mo\u017cna te\u017c odwiedzi\u0107 inne ciekawe miasta, takie jak Bratys\u0142awa, Brno czy Praga.\n\n- Je\u017celi chodzi o noclegi w Budapeszcie, to wszystko zale\u017cy od tego, w jakim standardzie chcemy mieszka\u0107. Szukaj\u0105c z wyprzedzeniem, mo\u017cna spokojnie znale\u017a\u0107 nocleg za 100 z\u0142 za bardzo ekonomiczny, dwuosobowy pok\u00f3j - m\u00f3wi Mateusz Jakubowski, autor strony taniezwiedzanie.com. - Je\u017celi chcemy, za 75 z\u0142 za noc mo\u017cemy si\u0119 przespa\u0107 w pokojach wieloosobowych w hostelach.\n\nKomunikacja w Budapeszcie\n\nPo mie\u015bcie najlepiej porusza\u0107 si\u0119 komunikacj\u0105 miejsk\u0105; je\u015bli planujemy du\u017co je\u017adzi\u0107, najkorzystniej jest kupi\u0107 bilet dobowy. - Komunikacja miejska w Budapeszcie jest do\u015b\u0107 ciekawa. Mamy na przyk\u0142ad kolejk\u0119 na zamek Buda, kt\u00f3ra wje\u017cd\u017ca po bardzo stromym stoku szczytu - opowiada rozm\u00f3wca Oliwii Krettek. - Drug\u0105 rzecz\u0105, na kt\u00f3r\u0105 powinni\u015bmy zwr\u00f3ci\u0107 uwag\u0119, jest tramwaj wodny. Po Dunaju kursuj\u0105 a\u017c trzy jego linie. Dzi\u0119ki temu za ok. 20 z\u0142 mo\u017cemy z wody zobaczy\u0107 star\u00f3wk\u0119, kt\u00f3ra wpisana jest na list\u0119 UNESCO.\n\n\u0179r. YouTube/Co warto zobaczy\u0107 w Budapeszcie?\n\nZwiedzanie i atrakcje\n\nW Budapeszcie jest co ogl\u0105da\u0107. Wi\u0119kszo\u015b\u0107 atrakcji znajduje si\u0119 w centrum miasta. Do \u017celaznych punkt\u00f3w programu nale\u017c\u0105 Wzg\u00f3rze Zamkowe i zamek Buda, Baszta Rybacka, ko\u015bci\u00f3\u0142 Macieja, budynek parlamentu, plac Bohater\u00f3w z pomnikiem Tysi\u0105clecia, bazylika \u015bw. Stefana oraz Wielka Synagoga.\n\n- Warto te\u017c odwiedzi\u0107 Wysp\u0119 Ma\u0142gorzaty na Dunaju. Jest tam mn\u00f3stwo zieleni, a tak\u017ce znajduj\u0105 si\u0119 sanatoria, k\u0105pieliska oraz ruiny \u015bredniowiecznych klasztor\u00f3w - poleca youtuber. - Obowi\u0105zkowym punktem jest Wzg\u00f3rze Gellerta z cytadel\u0105, sk\u0105d rozpo\u015bciera si\u0119 widok na panoram\u0119 miasta. Ch\u0119tni mog\u0105 zrelaksowa\u0107 si\u0119 w s\u0142ynnych \u0142a\u017aniach utrzymanych w stylu secesyjnym.\n\nPos\u0142uchaj 07:35 Czw\u00f3rka/ Budapeszt city_break 21.04.2023.mp3 Zapraszamy na city break w Budapeszcie (Najlepszy dzie\u0144 tygodnia/Czw\u00f3rka)\n\nBudapeszt jest miastem pe\u0142nym kultury. Znajduj\u0105 si\u0119 w nim 223 muzea i galerie, jest kilkadziesi\u0105t teatr\u00f3w, sze\u015b\u0107 sal koncertowych i opera. Nie brakuje festiwali i koncert\u00f3w. Po trudach zwiedzania warto co\u015b przek\u0105si\u0107 - do przysmak\u00f3w kuchni w\u0119gierskiej nale\u017c\u0105 zupa gulaszowa, langosze czy nadziewana papryka.\n\n***\n\nTytu\u0142 audycji: Najlepszy dzie\u0144 tygodnia\n\nProwadzi: Kamil Jasie\u0144ski\n\nMateria\u0142: Oliwia Krettek\n\nData emisji: 21.04.2023\n\nGodzina emisji: 7.15\n\naw"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Tajemnice ratusza w Gda\u0144sku. Dzisiaj muzeum, wcze\u015bniej m.in. wyszynk i winiarnia",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/tajemnice-ratusza-w-gda%C5%84sku-dzisiaj-muzeum-wcze%C5%9Bniej-min-wyszynk-i-winiarnia/ar-AA1wdeET?ocid=BingNewsVerp",
-            "description": "- Piwnice w ratuszu pe\u0142ni\u0142y kilka funkcji, mi\u0119dzy innymi by\u0142a tutaj winiarnia, wyszynk dost\u0119pny od ulicy Kramarskiej. Ludzie ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.crZa%2bHdu8KDIJhry%2fJUE4Q&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Dziennik Ba\u0142tycki on MSN4 godz.",
-            "source": "Dziennik Ba\u0142tycki on MSN",
+            "date": "DoRzeczy on MSN46 min",
+            "source": "DoRzeczy on MSN",
             "article_content": ""
         }
     },
@@ -325,13 +357,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Czas fascynuj\u0105cych odkry\u0107 w Skarszewach. Wiadomo, jak \u017cy\u0142o si\u0119 dawniej",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/czas-fascynuj%C4%85cych-odkry%C4%87-w-skarszewach-wiadomo-jak-%C5%BCy%C5%82o-si%C4%99-dawniej/ar-AA1wb8Za?ocid=BingNewsVerp",
-            "description": "Jednym z najciekawszych i niezwyk\u0142ych znalezisk by\u0142a wrzucona do zasypiska ca\u0142a drewniana \u0142awka. Dawne meble, cho\u0107 znane z ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.gsSUD9Alf5dtOvNmty18Eg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Odkopi\u0105 gr\u00f3d piastowski sprzed tysi\u0105ca lat i zbuduj\u0105 nad nim pawilon. Historia osady si\u0119ga czas\u00f3w Mieszka I",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/odkopi%C4%85-gr%C3%B3d-piastowski-sprzed-tysi%C4%85ca-lat-i-zbuduj%C4%85-nad-nim-pawilon-historia-osady-si%C4%99ga-czas%C3%B3w-mieszka-i/ar-AA1wep8I?ocid=BingNewsVerp",
+            "description": "Na archeologicznej mapie Polski Opole jest wymieniane jednym tchem obok takich pere\u0142 historii, jak Biskupin czy Ostr\u00f3w Tumski. Opr\u00f3cz ostatnich g\u0142o\u015bnych odkry\u0107 w katedrze, stolica naszego regionu mo\u017ce ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.U7tHWt6afQwcI4sCY6tjaA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "Dziennik Ba\u0142tycki on MSN17 godz.",
-            "source": "Dziennik Ba\u0142tycki on MSN",
+            "date": "Nowa Trybuna Opolska on MSN1 godz.",
+            "source": "Nowa Trybuna Opolska on MSN",
             "article_content": ""
         }
     },
@@ -341,13 +373,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Piotr Ciastek: Przysz\u0142e pokolenia mog\u0105 nam nie wybaczy\u0107 zburzenia dworca w Cz\u0119stochowie",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/piotr-ciastek-przysz%C5%82e-pokolenia-mog%C4%85-nam-nie-wybaczy%C4%87-zburzenia-dworca-w-cz%C4%99stochowie/ar-AA1wdsDz?ocid=BingNewsVerp",
-            "description": "Rozmachu mo\u017ce w Cz\u0119stochowie nie potrzebujemy, ale uk\u0142onu w stron\u0119 kolejowej tradycji i szacunku do dorobku pokole\u0144 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.cdvo2JMLFV4fKI1Wt9DKii&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Kaczy\u0144ski: Radz\u0119 pa\u0144stwu wzi\u0105\u0107 \"Do Rzeczy\"",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/kaczy%C5%84ski-skomentowa%C5%82-spraw%C4%99-romanowskiego-zagro%C5%BCony-w-spos%C3%B3b-skrajny/ar-AA1wdhQF?ocid=BingNewsVerp",
+            "description": "\u2013 To wszystko jest nielegalne \u2013 powiedzia\u0142 Jaros\u0142aw Kaczy\u0144ski, komentuj\u0105c dzia\u0142ania w\u0142adzy wymierzone w Marcina Romanowskiego ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.yPDzITDM5XO-Vc0X35qdfi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Dziennik Zachodni on MSN3 godz.",
-            "source": "Dziennik Zachodni on MSN",
+            "date": "DoRzeczy on MSN5 godz.",
+            "source": "DoRzeczy on MSN",
             "article_content": ""
         }
     },
@@ -357,14 +389,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "NASA zbada wn\u0119trze Ksi\u0119\u017cyca. \u0141adunek ju\u017c przygotowany",
-            "link": "https://antyweb.pl/nasa-ksiezyc-lister-artemis-kosmos",
-            "description": "Ksi\u0119\u017cyc nadal skrywa przed nami wiele tajemnic. NASA planuje rozwi\u0105za\u0107 jedn\u0105 z nich. Chodzi tu o zbadanie przep\u0142ywu ciep\u0142a ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.11uhKRbWQnn4NsScgwWL_S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Archeolodzy badaj\u0105 tajemnicze katakumby w woj. podlaskim. \"Dwa interesuj\u0105ce odkrycia\"",
+            "link": "https://wiadomosci.radiozet.pl/polska/archeolodzy-badaja-tajemnicze-katakumby-w-woj-podlaskim-dwa-interesujace-odkrycia",
+            "description": "Archeolodzy prowadz\u0105 badania w katakumbach Monasteru w Supra\u015blu w wojew\u00f3dztwie podlaskim. Podziemna konstrukcja zosta\u0142a ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.YXMpfmbT85zyz4g_vNcBMS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "AntyWeb23 godz.",
-            "source": "AntyWeb",
-            "article_content": "Ksi\u0119\u017cyc nadal skrywa przed nami wiele tajemnic. NASA planuje rozwi\u0105za\u0107 jedn\u0105 z nich. Chodzi tu o zbadanie przep\u0142ywu ciep\u0142a pod powierzchni\u0105 Srebrnego Globu.\n\nKsi\u0119\u017cyc, najbli\u017cszy s\u0105siad Ziemi w Uk\u0142adzie S\u0142onecznym, wci\u0105\u017c skrywa wiele tajemnic. Cho\u0107 od dekad jest obiektem fascynacji naukowc\u00f3w, do tej pory zbadano jedynie 5% jego powierzchni. W 2023 roku, dzi\u0119ki analizom danych z misji GRAIL oraz wcze\u015bniejszych bada\u0144 z ery Apollo, uda\u0142o si\u0119 potwierdzi\u0107 istnienie p\u0142ynnego zewn\u0119trznego j\u0105dra otaczaj\u0105cego sta\u0142e j\u0105dro wewn\u0119trzne Ksi\u0119\u017cyca. Teraz NASA, w ramach programu Artemis, stawia kolejny krok w kierunku lepszego poznania i zrozumienia historii i struktury naszego naturalnego satelity.\n\nReklama\n\nNASA zbada wn\u0119trze Ksi\u0119\u017cyca\n\nJednym z kluczowych element\u00f3w nadchodz\u0105cych misji ksi\u0119\u017cycowych jest instrument LISTER (Lunar Instrumentation for Subsurface Thermal Exploration with Rapidity). Urz\u0105dzenie to, opracowane przez Texas Tech University oraz Honeybee Robotics, zostanie dostarczone na powierzchni\u0119 Ksi\u0119\u017cyca za pomoc\u0105 l\u0105downika Blue Ghost 1 firmy Firefly Aerospace. LISTER ma za zadanie mierzy\u0107 przep\u0142yw ciep\u0142a z wn\u0119trza Ksi\u0119\u017cyca, co pozwoli lepiej zrozumie\u0107 procesy geologiczne, kt\u00f3re ukszta\u0142towa\u0142y jego struktur\u0119.\n\nDzi\u0119ki nowoczesnemu wiert\u0142u pneumatycznemu LISTER b\u0119dzie m\u00f3g\u0142 wnika\u0107 w ksi\u0119\u017cycowy regolit na g\u0142\u0119boko\u015b\u0107 trzech metr\u00f3w. Na ka\u017cdym p\u00f3\u0142metrowym odcinku urz\u0105dzenie zatrzyma si\u0119, aby wprowadzi\u0107 termiczn\u0105 sond\u0119 badawcz\u0105, mierz\u0105c gradient termiczny (zmiany temperatury na r\u00f3\u017cnych g\u0142\u0119boko\u015bciach) oraz przewodno\u015b\u0107 ciepln\u0105 (zdolno\u015b\u0107 materia\u0142u do przewodzenia ciep\u0142a).\n\nJak potwierdza kierownik projektu dr Seiichi Nagihara, w ca\u0142ym przedsi\u0119wzi\u0119ciu chodzi o to, by przeprowadzi\u0107 pomiary w kilku r\u00f3\u017cnych miejscach jednocze\u015bnie, co mo\u017ce pozwoli\u0107 na odtworzenie ewolucji termicznej Ksi\u0119\u017cyca.\n\nProgram CLPS (Commercial Lunar Payload Services), w ramach kt\u00f3rego realizowana jest misja, wspiera rozw\u00f3j komercyjnych us\u0142ug transportowych na Ksi\u0119\u017cyc. NASA, jako g\u0142\u00f3wny klient tych us\u0142ug, planuje w przysz\u0142o\u015bci umo\u017cliwi\u0107 korzystanie z nich r\u00f3wnie\u017c innym podmiotom. Zarz\u0105dzaniem siedmioma z dziesi\u0119ciu \u0142adunk\u00f3w CLPS, w tym LISTER, zajmuje si\u0119 Centrum Lot\u00f3w Kosmicznych Marshalla w Huntsville."
+            "date": "Radio ZET1 godz.",
+            "source": "Radio ZET",
+            "article_content": "Archeolodzy w katakumbach w Supra\u015blu\n\nMury katakumb w Supra\u015blu pochodz\u0105 jeszcze z XVI wieku. Konstrukcj\u0119 odkopano nieco ponad dekad\u0119 temu. Od tego czasu by\u0142a nara\u017cona na m.in. na dzia\u0142anie warunk\u00f3w atmosferycznych, kt\u00f3re negatywnie wp\u0142ywa\u0142y na jej stan. Dlatego te\u017c jeszcze w 2021 roku trzy bia\u0142ostockie uczelnie wraz z Chrze\u015bcija\u0144sk\u0105 Akademi\u0105 Teologiczn\u0105 w Warszawie podj\u0119\u0142y wsp\u00f3\u0142prac\u0119, kt\u00f3ra mia\u0142a na celu uratowanie zabytkowych mur\u00f3w przed dalszym niszczeniem. W kolejnych latach do inicjatywy do\u0142\u0105czy\u0142y tak\u017ce Wojskowa Akademia Techniczna oraz Uniwersytet Miko\u0142aja Kopernika w Toruniu.\n\n- Prace zwi\u0105zane z ratowaniem katakumb nabieraj\u0105 tempa. Pracownicy Politechniki Bia\u0142ostockiej przyst\u0119puj\u0105 do bada\u0144 wytrzyma\u0142o\u015bciowych, bada\u0144 zasolenia mur\u00f3w, bada\u0144 mykologicznych, a tak\u017ce zamierzamy bardzo dok\u0142adnie analizowa\u0107 mikrostruktur\u0119 starych zapraw i historycznych cegie\u0142 - podkre\u015bli\u0142a rektor Politechniki Bia\u0142ostockiej dr hab. in\u017c. Marta Kosior-Kazberuk i doda\u0142a: - To bardzo wa\u017cne, po pierwsze dla ratowania tego obiektu, dla zrozumienia jak powstawa\u0142 i jak nale\u017cy go zatem zabezpieczy\u0107, ale wa\u017cne te\u017c z punktu widzenia historii rozwoju materia\u0142\u00f3w budowlanych. To korzy\u015b\u0107 przede wszystkim dla obiektu historycznego, ale r\u00f3wnie\u017c bardzo wa\u017cne dzia\u0142ania poznawcze dla naszych pracownik\u00f3w. My\u015bl\u0119, \u017ce b\u0119d\u0105 owocowa\u0142y interesuj\u0105cymi publikacjami naukowymi.\n\nZabezpieczenie zabytku b\u0119dzie wymaga\u0142o ca\u0142ego szeregu bada\u0144, w tym archeologicznych czy architektonicznych. Naukowcy opracowali dokumentacj\u0119 projektow\u0105 zabezpiecze\u0144, a na wykonanie prac uda\u0142o si\u0119 pozyska\u0107 \u015brodki. Monaster Zwiastowania Przenaj\u015bwi\u0119tszej Bogarodzicy w Supra\u015blu wiosn\u0105 tego roku uzyska\u0142 na ten cel dofinansowanie z Polskiego \u0141adu. Zatrzymanie degradacji katakumb nie b\u0119dzie jednak proste. Badacze b\u0119d\u0105 musieli wprowadzi\u0107 w uszkodzone mury specjalne substancje chemiczne, a przekry\u0107 stalow\u0105 konstrukcj\u0105.\n\nOdkrycia archeologiczne w Supra\u015blu\n\nW trakcie prac archeolodzy dokonuj\u0105 kolejnych odkry\u0107. - W tej chwili wykopaliska prowadzone s\u0105 na zewn\u0105trz katakumb po stronie p\u00f3\u0142nocno-zachodniej. Uda\u0142o nam si\u0119 ods\u0142oni\u0107 zewn\u0119trzne lico muru, ale mamy te\u017c dodatkowe dwa bardzo interesuj\u0105ce odkrycia. Pierwsze to jest nieznana czy niezarejestrowana do tej pory w \u017caden spos\u00f3b pozosta\u0142o\u015b\u0107 najprawdopodobniej ceglanej pod\u0142ogi z ceg\u0142y gotyckiej, czyli r\u00f3wnoczasowej katakumbom pewnie jakie\u015b dobud\u00f3wki, kt\u00f3ra po prostu uleg\u0142a zniszczeniu zanim j\u0105 odnotowano w \u017ar\u00f3d\u0142ach. Znale\u017ali\u015bmy wykop archeologiczny sprzed 40 lat, o kt\u00f3rym by\u0142o wiadomo, \u017ce by\u0142, ale nie by\u0142o wiadomo, gdzie zosta\u0142 zrobiony - wyja\u015bni\u0142 dr hab. Maciej Karczewski, jeden z pracuj\u0105cych na miejscu archeolog\u00f3w.\n\n- Wykop przysypywa\u0142a du\u017ca ha\u0142da gruzu, ale te\u017c PRL-owskich \u015bmieci, kt\u00f3re zosta\u0142y w po\u0142owie lat 80. XX wieku wydobyte z wn\u0119trza katakumb w ramach \u00f3wczesnych prac przygotowuj\u0105cych ten zabytek do prac renowacyjnych, kt\u00f3re niestety nigdy si\u0119 nie odby\u0142y. Sko\u0144czy\u0142o si\u0119 wy\u0142\u0105cznie na archeologii i dlatego degradacja tej unikatowej budowli post\u0119powa\u0142a a\u017c do dzisiaj - wyja\u015bni\u0142 naukowiec.\n\nArcheolodzy badaj\u0105 poch\u00f3wki w katakumbach\n\nBadacze licz\u0105 na poznanie nowych fakt\u00f3w zwi\u0105zanych z histori\u0105 katakumb. Najprawdopodobniej jednak nie uda si\u0119 zdoby\u0107 zbyt wielu informacji na temat tutejszych poch\u00f3wk\u00f3w. - Od drugiej po\u0142owy XX wieku katakumby by\u0142y regularnie pl\u0105drowane. Warto przypomnie\u0107, \u017ce osoby tam pochowane to nie tylko mnisi z klasztoru supraskiego, ale to jest ca\u0142a elita Rzeczpospolitej Obojga Narod\u00f3w z naciskiem na Wielkie Ksi\u0119stwo Litewskie - doda\u0142 dr hab. Maciej Karczewski. Archeolog podkre\u015bli\u0142, \u017ce wi\u0119kszo\u015b\u0107 szcz\u0105tk\u00f3w zosta\u0142a w r\u00f3\u017cnych okresach wyj\u0119ta, a w cz\u0119\u015bci nisz zachowa\u0142y si\u0119 jedynie niekompletne szkielety.\n\n- Je\u017celi si\u0119 nam poszcz\u0119\u015bci, to by\u0107 mo\u017ce przy tych zachowanych szcz\u0105tkach znajdziemy r\u00f3wnie\u017c przedmioty. To nie b\u0119d\u0105 spektakularne przedmioty, to mog\u0105 by\u0107 cz\u0119\u015bci odzie\u017cy, to mog\u0105 by\u0107 jakie\u015b osobiste przedmioty kultu. Przede wszystkim pewnie krzy\u017cyki - wyja\u015bni\u0142. Wiadomo ju\u017c te\u017c, \u017ce nawet, je\u015bli co\u015b uda si\u0119 odnale\u017a\u0107, to nie trafi to na wystaw\u0119 do muzeum. Wszelkie przedmioty oraz szcz\u0105tki wr\u00f3c\u0105 do poch\u00f3wk\u00f3w jako przedmioty przynale\u017cne zmar\u0142ym.\n\nArcheolodzy czas na zabezpieczenie konstrukcji maj\u0105 niespe\u0142na rok. - Pracy jest na lata, ale trzeba j\u0105 wykona\u0107 do jesieni przysz\u0142ego roku, bo na to s\u0105 pieni\u0105dze, by zabezpieczy\u0107 katakumby. To b\u0119dzie koniec tego najistotniejszego etapu. Potem mo\u017cna adaptowa\u0107, rekonstruowa\u0107, wykonywa\u0107 inne dzia\u0142ania po to, \u017ceby katakumbom nada\u0107 t\u0119 funkcj\u0119, kt\u00f3r\u0105 zaproponowa\u0142 ekscelencja Biskup Supraski Andrzej, czyli utrzymanie funkcji sakralnej z jednoczesnym udost\u0119pnieniem wszystkim zainteresowanym cz\u0119\u015bci tego pomnika historii - doda\u0142 archeolog.\n\n\u0179r\u00f3d\u0142o: Radio ZET / Politechnika Bia\u0142ostocka\n\n(5)\n\nzobacz galeri\u0119"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Kolekcjonerzy poszukuj\u0105 tych antyk\u00f3w. Unikalne przedmioty do kupienia w internecie. Masz je w domu? 20.12.2024",
+            "link": "https://gazetakrakowska.pl/kolekcjonerzy-poszukuja-tych-antykow-unikalne-przedmioty-do-kupienia-w-internecie-masz-je-w-domu-20122024/ar/c9-17262255",
+            "description": "Unikalne antyki poszukiwane przez kolekcjoner\u00f3w mog\u0105 zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na nich zarobi\u0107 fortun\u0119. Cz\u0119sto nie mamy \u015bwiadomo\u015bci, \u017ce przedmioty posiadane w domu warte s\u0105 du\u017co pieni\u0119dzy.",
+            "image_url": "https://www.bing.pl/th?id=ODF.XL5bGs_n6w06Ok0ARb1y3Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "zabytkowe+przedmioty",
+            "date": "Gazeta Krakowska10 godz.",
+            "source": "Gazeta Krakowska",
+            "article_content": "Content not available"
         }
     },
     {
@@ -378,7 +426,7 @@
             "description": "Mo\u017cliwe, \u017ce w zakamarkach swojego domu trzymasz prawdziwy skarb. B\u0119dziesz zaskoczony za jakie kwoty mo\u017cna sprzeda\u0107 stare ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.D9r96jQ9yn7crstkA-FmQy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Hostowane na MSN6 godz.",
+            "date": "Hostowane na MSN9 godz.",
             "source": "MSN",
             "article_content": ""
         }
@@ -394,7 +442,7 @@
             "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.rXY4IFBt9hVZAYwsRbQrPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Koszali\u0144ski on MSN6 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN10 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
@@ -410,7 +458,7 @@
             "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
             "image_url": "https://www.bing.pl/th?id=OVF.43F1WzkY66yT9%2ffm3hrtlg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Express Ilustrowany on MSN13 godz.",
+            "date": "Express Ilustrowany on MSN17 godz.",
             "source": "Express Ilustrowany on MSN",
             "article_content": ""
         }
@@ -426,7 +474,7 @@
             "description": "Sta\u0142a ekspozycja mie\u015bci si\u0119 w domu rodzinnym Jana Matejki (1838-1893) najwybitniejszego polskiego malarza nurtu historyzmu, kolekcjonera, mi\u0142o\u015bnika zabytk\u00f3w w szczeg\u00f3lno\u015bci Krakowa. Stara, krakowska k ...",
             "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "krakow12 godz.",
+            "date": "krakow15 godz.",
             "source": "krakow",
             "article_content": "Szlak \u017cywego Muzeum Witra\u017cu\n\nW Muzeum Witra\u017cu przestrzenie ekspozycyjne przeplataj\u0105 si\u0119 z mieszcz\u0105ca si\u0119 tu od 1902 roku pracowni\u0105 witra\u017cy. Podczas zwiedzania mo\u017cna obserwowa\u0107 niezmieniony od setek lat proces powstawania witra\u017cy. Struktura kamienicy, w kt\u00f3rej..."
         }
@@ -442,7 +490,7 @@
             "description": "Ceremonialny czekan z epoki br\u0105zu, z drugiego tysi\u0105clecia przed Chrystusem, odnaleziono na terenie Bia\u0142o\u0142\u0119ki. To pierwsze ...",
             "image_url": "https://www.bing.pl/th?id=OVF.Bj46RjaIaWs%2bdH7us9n2iw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Warszawa Naszemiasto on MSN5 godz.",
+            "date": "Warszawa Naszemiasto on MSN9 godz.",
             "source": "Warszawa Naszemiasto on MSN",
             "article_content": ""
         }
@@ -453,14 +501,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Tajemnica srebrnego amuletu odczytana. Pochodzi z czas\u00f3w Rzymian",
-            "link": "https://www.rmf24.pl/ciekawostki/news-tajemnica-srebrnego-amuletu-odczytana-pochodzi-z-czasow-rzym,nId,7878895",
-            "description": "Czy drobna rzecz jest w stanie zmieni\u0107 nasze my\u015blenie o historii? Pewien artefakt, kt\u00f3ry odnaleziono w trakcie wykopalisk na terenie Niemiec, udowadnia, \u017ce tak. Srebrny amulet z III w. n.e. okaza\u0142 si\u0119 ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.y9W0OfaSoc9CqJ9-9nUB_w&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Archeolodzy badaj\u0105 tajemnicze katakumby w woj. podlaskim. \"Dwa interesuj\u0105ce odkrycia\"",
+            "link": "https://wiadomosci.radiozet.pl/polska/archeolodzy-badaja-tajemnicze-katakumby-w-woj-podlaskim-dwa-interesujace-odkrycia",
+            "description": "Archeolodzy prowadz\u0105 badania w katakumbach Monasteru w Supra\u015blu w wojew\u00f3dztwie podlaskim. Podziemna konstrukcja zosta\u0142a ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.YXMpfmbT85zyz4g_vNcBMS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "RMF 2418 godz.",
-            "source": "RMF 24",
-            "article_content": "Czy drobna rzecz jest w stanie zmieni\u0107 nasze my\u015blenie o historii? Pewien artefakt, kt\u00f3ry odnaleziono w trakcie wykopalisk na terenie Niemiec, udowadnia, \u017ce tak. Srebrny amulet z III w. n.e. okaza\u0142 si\u0119 dowodem rozprzestrzeniania si\u0119 chrze\u015bcija\u0144stwa w czasach wczesnego Imperium Rzymskiego. Zdaniem naukowc\u00f3w, to najwcze\u015bniejszy \u015blad wiary w Chrystusa na p\u00f3\u0142noc od Alp.\n\nZdj\u0119cie ilustracyjne / Shutterstock\n\nPrawie 1800-letni amulet, mierz\u0105cy zaledwie 3,5 cm, odnaleziono w trakcie wykopalisk z lat 2017-18. W \u015brodku znajdowa\u0142 si\u0119 miniaturowy srebrny zw\u00f3j z \u0142aci\u0144sk\u0105 inskrypcj\u0105.\n\nO sprawie pisze m.in. portal Independent.\n\nPrzedmiot zosta\u0142 znaleziony w grobie m\u0119\u017cczyzny, maj\u0105cego mi\u0119dzy 25 a 35 lat. Zosta\u0142 on pochowany na cmentarzu na obrze\u017cach Frankfurtu, gdzie w czasach rzymskich by\u0142o miasto Nida. Amulet by\u0142 najprawdopodobniej noszony na sznurku zawieszonym wok\u00f3\u0142 szyi.\n\nSrebrny amulet znaleziony w Niemczech / U. Dettmar, AMF / Materia\u0142y prasowe\n\nAmulety takie jak ten znaleziony w Niemczech, zwane r\u00f3wnie\u017c filakteriami, noszono w celach leczniczych lub ochrony przed nieszcz\u0119\u015bciami - chorobami, b\u00f3lami cia\u0142a, bezp\u0142odno\u015bci\u0105, a nawet si\u0142ami demonicznymi. Przeznaczenie przedmiot\u00f3w t\u0142umaczy archeolog biblijna Tine Rassale, kt\u00f3r\u0105 cytuje Independent.\n\nW epoce bez zaawansowanej wiedzy medycznej takie przedmioty by\u0142y istotnym \u017ar\u00f3d\u0142em komfortu i bezpiecze\u0144stwa dla nosz\u0105cego i jego bliskich - wskaza\u0142a Rassale.\n\nJako \u017ce u\u017cycie takich amulet\u00f3w by\u0142o rzadkie na zachodzie Imperium Rzymskiego, odkrycie jednego z nich w Niemczech sugeruje, \u017ce idee chrze\u015bcija\u0144skie zacz\u0119\u0142y ju\u017c w\u00f3wczas przenika\u0107 na obszary oddalone od wczesnych o\u015brodk\u00f3w rozwoju tej religii.\n\nGr\u00f3b, w kt\u00f3rym znaleziono amulet / Biuro Pomnik\u00f3w Miasta Frankfurt nad Menem/Michael Obst / Materia\u0142y prasowe\n\nBadania amuletu nie by\u0142y \u0142atwe\n\nNiemieccy naukowcy z Leibniz-Zentrum f\u00fcr Arch\u00e4ologie w Moguncji po\u015bwi\u0119cili kilka lat na konserwacj\u0119, renowacj\u0119 i analiz\u0119 artefaktu, nim finalnie podzielono si\u0119 wnioskami.\n\nWyzwaniem by\u0142 fakt, \u017ce srebrna blaszka by\u0142a zwini\u0119ta, a po ok. 1800 latach r\u00f3wnie\u017c zagi\u0119ta i sprasowana - powiedzia\u0142 Ivan Calandra z zespo\u0142u naukowego.\n\nBadacze u\u017cyli tomografii komputerowej do zeskanowania znaleziska w niezwykle wysokiej rozdzielczo\u015bci i stworzenia jego modelu 3D, tak, aby nie trzeba by\u0142o nawet wyci\u0105ga\u0107 kruchej blaszki z wn\u0119trza pojemnika.\n\n3D model srerbnego zwoju z inskrypcj\u0105 / Leibniz-Zentrum f\u00fcr Arch\u00e4ologie w Moguncji / Materia\u0142y prasowe\n\nProces ujawni\u0142 ich oczom kilkana\u015bcie linijek tekstu, nazwanego Frankfurck\u0105 srebrn\u0105 inskrypcj\u0105.\n\nZapis zosta\u0142 odczytany przez profesora Markusa Scholza, archeologa z Uniwersytetu Goethego we Frankfurcie. Zawiera on odniesienia do \u015bw. Tytusa, ucznia i powiernika Paw\u0142a Aposto\u0142a.\n\nCzasem potrzebowa\u0142em tygodni, a nawet miesi\u0119cy, by wpa\u015b\u0107 na now\u0105 my\u015bl (dotycz\u0105c\u0105 t\u0142umaczenia - red.) - t\u0142umaczy prof. Scholz. Badacz zaprosi\u0142 do wsp\u00f3\u0142pracy m.in. ekspert\u00f3w z historii teologii. Krok po kroku, tekst odkry\u0142 swoj\u0105 tajemnic\u0119.\n\nTekst inskrypcji\n\n(W imieniu ?) \u015bwi\u0119tego Tytusa\n\n\u015awi\u0119ty, \u015bwi\u0119ty, \u015bwi\u0119ty!\n\nW imieniu Jezusa Chrystusa, Syna Bo\u017cego!\n\nW\u0142adca \u015bwiata\n\nopiera si\u0119 najlepiej jak potrafi (?)\n\nwszystkim napadom(?)/pora\u017ckom(?).\n\nB\u00f3g(?) zapewnia\n\nwst\u0119p do dobrego samopoczucia.\n\nTo urz\u0105dzenie ratunkowe(?) chroni\n\nosob\u0119, kt\u00f3ra\n\npoddaje si\u0119 woli\n\nPana Jezusa Chrystusa, Syna Bo\u017cego,\n\nponiewa\u017c przed Jezusem Chrystusem\n\nzginaj\u0105 si\u0119 wszystkie kolana: niebieskie,\n\nziemskie i\n\npodziemne, i ka\u017cdy j\u0119zyk\n\nwyznaje (Jezusowi Chrystusowi).\n\nTre\u015b\u0107 inskrypcji badanej przez prof. Scholza / Prof. Dr Markus Scholz / Materia\u0142y prasowe\n\nPrze\u0142omowo\u015b\u0107 znaleziska\n\nJednym z istotnych aspekt\u00f3w tekstu, na kt\u00f3ry zwr\u00f3cili uwag\u0119 naukowcy, a o kt\u00f3rym pisze portal Times of Israel, jest u\u017cyte sformu\u0142owanie \"\u015awi\u0119ty, \u015bwi\u0119ty, \u015bwi\u0119ty\" - zaczerpni\u0119te z liturgii \u017cydowskiej, ale \"w\u0142a\u015bciwie nieznane w liturgii chrze\u015bcija\u0144skiej a\u017c do IV w. n.e.\".\n\nNiezwyk\u0142e ma by\u0107 r\u00f3wnie\u017c odniesienie do \u015bw. Tytusa, wczesnego misjonarza i ucznia \u015bw. Paw\u0142a. Zwi\u0105zek z aposto\u0142em jest wzmocniony przez ostatnie wersy zwoju, kt\u00f3re s\u0105 \"prawie dos\u0142ownym cytatem z tak zwanego hymnu o Chrystusie z listu do Filipian\".\n\nGr\u00f3b, w kt\u00f3rym znaleziono amulet, jest datowany na lata 230-270 n.e., co czyni go - wed\u0142ug naukowc\u00f3w - pierwszym przyk\u0142adem \"tak autentycznego dowodu czystego chrze\u015bcija\u0144stwa na p\u00f3\u0142noc od Alp\" w tym okresie.\n\nDo tej pory najwcze\u015bniejsze wiarygodne dowody \u017cycia chrze\u015bcija\u0144skiego w p\u00f3\u0142nocnych regionach alpejskich Cesarstwa Rzymskiego datowane by\u0142y na og\u00f3\u0142 na IV wiek n.e., co najmniej 50 lat p\u00f3\u017aniej ni\u017c odkryty amulet.\n\nW latach prawdopodobnego powstania amuletu chrze\u015bcija\u0144stwo by\u0142o w Imperium Rzymskim zakazane. Zmieni\u0142o si\u0119 to dopiero w 313 r. po Chrystusie, wraz z wydaniem Edyktu mediola\u0144skiego."
+            "date": "Radio ZET1 godz.",
+            "source": "Radio ZET",
+            "article_content": "Archeolodzy w katakumbach w Supra\u015blu\n\nMury katakumb w Supra\u015blu pochodz\u0105 jeszcze z XVI wieku. Konstrukcj\u0119 odkopano nieco ponad dekad\u0119 temu. Od tego czasu by\u0142a nara\u017cona na m.in. na dzia\u0142anie warunk\u00f3w atmosferycznych, kt\u00f3re negatywnie wp\u0142ywa\u0142y na jej stan. Dlatego te\u017c jeszcze w 2021 roku trzy bia\u0142ostockie uczelnie wraz z Chrze\u015bcija\u0144sk\u0105 Akademi\u0105 Teologiczn\u0105 w Warszawie podj\u0119\u0142y wsp\u00f3\u0142prac\u0119, kt\u00f3ra mia\u0142a na celu uratowanie zabytkowych mur\u00f3w przed dalszym niszczeniem. W kolejnych latach do inicjatywy do\u0142\u0105czy\u0142y tak\u017ce Wojskowa Akademia Techniczna oraz Uniwersytet Miko\u0142aja Kopernika w Toruniu.\n\n- Prace zwi\u0105zane z ratowaniem katakumb nabieraj\u0105 tempa. Pracownicy Politechniki Bia\u0142ostockiej przyst\u0119puj\u0105 do bada\u0144 wytrzyma\u0142o\u015bciowych, bada\u0144 zasolenia mur\u00f3w, bada\u0144 mykologicznych, a tak\u017ce zamierzamy bardzo dok\u0142adnie analizowa\u0107 mikrostruktur\u0119 starych zapraw i historycznych cegie\u0142 - podkre\u015bli\u0142a rektor Politechniki Bia\u0142ostockiej dr hab. in\u017c. Marta Kosior-Kazberuk i doda\u0142a: - To bardzo wa\u017cne, po pierwsze dla ratowania tego obiektu, dla zrozumienia jak powstawa\u0142 i jak nale\u017cy go zatem zabezpieczy\u0107, ale wa\u017cne te\u017c z punktu widzenia historii rozwoju materia\u0142\u00f3w budowlanych. To korzy\u015b\u0107 przede wszystkim dla obiektu historycznego, ale r\u00f3wnie\u017c bardzo wa\u017cne dzia\u0142ania poznawcze dla naszych pracownik\u00f3w. My\u015bl\u0119, \u017ce b\u0119d\u0105 owocowa\u0142y interesuj\u0105cymi publikacjami naukowymi.\n\nZabezpieczenie zabytku b\u0119dzie wymaga\u0142o ca\u0142ego szeregu bada\u0144, w tym archeologicznych czy architektonicznych. Naukowcy opracowali dokumentacj\u0119 projektow\u0105 zabezpiecze\u0144, a na wykonanie prac uda\u0142o si\u0119 pozyska\u0107 \u015brodki. Monaster Zwiastowania Przenaj\u015bwi\u0119tszej Bogarodzicy w Supra\u015blu wiosn\u0105 tego roku uzyska\u0142 na ten cel dofinansowanie z Polskiego \u0141adu. Zatrzymanie degradacji katakumb nie b\u0119dzie jednak proste. Badacze b\u0119d\u0105 musieli wprowadzi\u0107 w uszkodzone mury specjalne substancje chemiczne, a przekry\u0107 stalow\u0105 konstrukcj\u0105.\n\nOdkrycia archeologiczne w Supra\u015blu\n\nW trakcie prac archeolodzy dokonuj\u0105 kolejnych odkry\u0107. - W tej chwili wykopaliska prowadzone s\u0105 na zewn\u0105trz katakumb po stronie p\u00f3\u0142nocno-zachodniej. Uda\u0142o nam si\u0119 ods\u0142oni\u0107 zewn\u0119trzne lico muru, ale mamy te\u017c dodatkowe dwa bardzo interesuj\u0105ce odkrycia. Pierwsze to jest nieznana czy niezarejestrowana do tej pory w \u017caden spos\u00f3b pozosta\u0142o\u015b\u0107 najprawdopodobniej ceglanej pod\u0142ogi z ceg\u0142y gotyckiej, czyli r\u00f3wnoczasowej katakumbom pewnie jakie\u015b dobud\u00f3wki, kt\u00f3ra po prostu uleg\u0142a zniszczeniu zanim j\u0105 odnotowano w \u017ar\u00f3d\u0142ach. Znale\u017ali\u015bmy wykop archeologiczny sprzed 40 lat, o kt\u00f3rym by\u0142o wiadomo, \u017ce by\u0142, ale nie by\u0142o wiadomo, gdzie zosta\u0142 zrobiony - wyja\u015bni\u0142 dr hab. Maciej Karczewski, jeden z pracuj\u0105cych na miejscu archeolog\u00f3w.\n\n- Wykop przysypywa\u0142a du\u017ca ha\u0142da gruzu, ale te\u017c PRL-owskich \u015bmieci, kt\u00f3re zosta\u0142y w po\u0142owie lat 80. XX wieku wydobyte z wn\u0119trza katakumb w ramach \u00f3wczesnych prac przygotowuj\u0105cych ten zabytek do prac renowacyjnych, kt\u00f3re niestety nigdy si\u0119 nie odby\u0142y. Sko\u0144czy\u0142o si\u0119 wy\u0142\u0105cznie na archeologii i dlatego degradacja tej unikatowej budowli post\u0119powa\u0142a a\u017c do dzisiaj - wyja\u015bni\u0142 naukowiec.\n\nArcheolodzy badaj\u0105 poch\u00f3wki w katakumbach\n\nBadacze licz\u0105 na poznanie nowych fakt\u00f3w zwi\u0105zanych z histori\u0105 katakumb. Najprawdopodobniej jednak nie uda si\u0119 zdoby\u0107 zbyt wielu informacji na temat tutejszych poch\u00f3wk\u00f3w. - Od drugiej po\u0142owy XX wieku katakumby by\u0142y regularnie pl\u0105drowane. Warto przypomnie\u0107, \u017ce osoby tam pochowane to nie tylko mnisi z klasztoru supraskiego, ale to jest ca\u0142a elita Rzeczpospolitej Obojga Narod\u00f3w z naciskiem na Wielkie Ksi\u0119stwo Litewskie - doda\u0142 dr hab. Maciej Karczewski. Archeolog podkre\u015bli\u0142, \u017ce wi\u0119kszo\u015b\u0107 szcz\u0105tk\u00f3w zosta\u0142a w r\u00f3\u017cnych okresach wyj\u0119ta, a w cz\u0119\u015bci nisz zachowa\u0142y si\u0119 jedynie niekompletne szkielety.\n\n- Je\u017celi si\u0119 nam poszcz\u0119\u015bci, to by\u0107 mo\u017ce przy tych zachowanych szcz\u0105tkach znajdziemy r\u00f3wnie\u017c przedmioty. To nie b\u0119d\u0105 spektakularne przedmioty, to mog\u0105 by\u0107 cz\u0119\u015bci odzie\u017cy, to mog\u0105 by\u0107 jakie\u015b osobiste przedmioty kultu. Przede wszystkim pewnie krzy\u017cyki - wyja\u015bni\u0142. Wiadomo ju\u017c te\u017c, \u017ce nawet, je\u015bli co\u015b uda si\u0119 odnale\u017a\u0107, to nie trafi to na wystaw\u0119 do muzeum. Wszelkie przedmioty oraz szcz\u0105tki wr\u00f3c\u0105 do poch\u00f3wk\u00f3w jako przedmioty przynale\u017cne zmar\u0142ym.\n\nArcheolodzy czas na zabezpieczenie konstrukcji maj\u0105 niespe\u0142na rok. - Pracy jest na lata, ale trzeba j\u0105 wykona\u0107 do jesieni przysz\u0142ego roku, bo na to s\u0105 pieni\u0105dze, by zabezpieczy\u0107 katakumby. To b\u0119dzie koniec tego najistotniejszego etapu. Potem mo\u017cna adaptowa\u0107, rekonstruowa\u0107, wykonywa\u0107 inne dzia\u0142ania po to, \u017ceby katakumbom nada\u0107 t\u0119 funkcj\u0119, kt\u00f3r\u0105 zaproponowa\u0142 ekscelencja Biskup Supraski Andrzej, czyli utrzymanie funkcji sakralnej z jednoczesnym udost\u0119pnieniem wszystkim zainteresowanym cz\u0119\u015bci tego pomnika historii - doda\u0142 archeolog.\n\n\u0179r\u00f3d\u0142o: Radio ZET / Politechnika Bia\u0142ostocka\n\n(5)\n\nzobacz galeri\u0119"
         }
     }
 ]
