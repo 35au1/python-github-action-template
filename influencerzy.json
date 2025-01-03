@@ -5,28 +5,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Kultowy sklep w centrum Wroc\u0142awia zamkni\u0119ty. Dzia\u0142a\u0142 tam od lat 90. XX wieku",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/kultowy-sklep-w-centrum-wroc%C5%82awia-zamkni%C4%99ty-dzia%C5%82a%C5%82-tam-od-lat-90-xx-wieku/ar-AA1wRjuZ?ocid=BingNewsVerp",
-            "description": "Budynek, w kt\u00f3rym na parterze dzia\u0142a\u0142 sklep Spo\u0142em, nale\u017cy do Wroc\u0142awskiej Sp\u00f3\u0142dzielni Spo\u017cywc\u00f3w Spo\u0142em od 1946 roku. W 1992 ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.BZUwFMorEnyNDSKQ6J19uQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "Gazeta Wroc\u0142awska on MSN21 godz.",
-            "source": "Gazeta Wroc\u0142awska on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
             "title": "Stare banknoty i monety u monety z PRL-u. Nie uwierzysz, ile mog\u0105 kosztowa\u0107 pieni\u0105dze z lat 60., 70. i 80. [ZDJ\u0118CIA] 3.01.2025",
             "link": "https://gk24.pl/stare-banknoty-i-monety-u-monety-z-prlu-nie-uwierzysz-ile-moga-kosztowac-pieniadze-z-lat-60-70-i-80-zdjecia-3012025/ar/c3-18784441",
             "description": "Mo\u017cliwe, \u017ce w zakamarkach swojego domu trzymasz prawdziwy skarb. B\u0119dziesz zaskoczony za jakie kwoty mo\u017cna sprzeda\u0107 stare banknoty i monety z czas\u00f3w PRL-u. Kolekcjonerzy s\u0105 w stanie zap\u0142aci\u0107 za te ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "gk24.pl7 godz.",
+            "date": "gk24.pl10 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -42,25 +26,9 @@
             "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet zwyk\u0142a pi\u0119cioz\u0142ot\u00f3wka mo\u017ce mie\u0107 wielokrotnie wi\u0119ksz\u0105 warto\u015b\u0107 ni\u017c nomina\u0142.",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski on MSN7 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN11 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Masz te banknoty? To prawdziwe skarby! Za jeden mo\u017cesz otrzyma\u0107 kilka tysi\u0119cy z\u0142otych! [ZDJ\u0118CIA] 03.01.2025",
-            "link": "https://gs24.pl/masz-te-banknoty-to-prawdziwe-skarby-za-jeden-mozesz-otrzymac-kilka-tysiecy-zlotych-zdjecia-03012025/ar/c1-17930573",
-            "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.o4EwlAsIz5rMM3h8kMS_wi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "gs24.pl4 godz.",
-            "source": "gs24.pl",
-            "article_content": "Content not available"
         }
     },
     {
@@ -74,8 +42,24 @@
             "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
             "image_url": "https://www.bing.pl/th?id=OVF.HM8qTcLIEm63n%2bo1iL74Pw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "nto.pl5 godz.",
+            "date": "nto.pl8 godz.",
             "source": "nto.pl",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Masz te banknoty? To prawdziwe skarby! Za jeden mo\u017cesz otrzyma\u0107 kilka tysi\u0119cy z\u0142otych! [ZDJ\u0118CIA] 03.01.2025",
+            "link": "https://gs24.pl/masz-te-banknoty-to-prawdziwe-skarby-za-jeden-mozesz-otrzymac-kilka-tysiecy-zlotych-zdjecia-03012025/ar/c1-17930573",
+            "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.o4EwlAsIz5rMM3h8kMS_wi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "gs24.pl8 godz.",
+            "source": "gs24.pl",
             "article_content": "Content not available"
         }
     },
@@ -90,7 +74,7 @@
             "description": "Wycena monet z PRL-u zale\u017cy od rzadko\u015bci wyst\u0119powania, jako\u015bci wybicia oraz gradingu, czyli stanu jej zachowania. W Polsce znajdziemy wiele okaz\u00f3w wartych kilkaset z\u0142otych, ale s\u0105 te\u017c takie, na ...",
             "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "gs24.pl4 godz.",
+            "date": "gs24.pl8 godz.",
             "source": "gs24.pl",
             "article_content": "Content not available"
         }
@@ -106,7 +90,23 @@
             "description": "W 2025 roku stare naczynia, wazony i figurki ze kolorowego i kryszta\u0142owego szk\u0142a, a tak\u017ce porcelany ciesz\u0105 si\u0119 ogromnym ...",
             "image_url": "https://www.bing.pl/th?id=OVF.ipyFiPxHgzUtkR8ZmTgJPw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Pomorska19 godz.",
+            "date": "Pomorska23 godz.",
+            "source": "Pomorska",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Najcenniejsze przedmioty z czas\u00f3w PRL - ceny, lista, zdj\u0119cia. Tego poszukuj\u0105 kolekcjonerzy w 2025 roku [3.01.2025]",
+            "link": "https://pomorska.pl/najcenniejsze-przedmioty-z-czasow-prl-ceny-lista-zdjecia-tego-poszukuja-kolekcjonerzy-w-2025-roku-3-01-2025/ar/c1p2-27134719",
+            "description": "P\u0142yty winylowe i kasety magnetofonowe - rzadkie wydania muzyczne z PRL, szczeg\u00f3lnie zwi\u0105zane z jazzem i polskim rockiem, s\u0105 bardzo cenione. Najbardziej po\u017c\u0105dane s\u0105 debiutanckie wydania kultowych ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stara+porcelana",
+            "date": "Pomorska3 godz.",
             "source": "Pomorska",
             "article_content": "Content not available"
         }
@@ -122,24 +122,8 @@
             "description": "Ta porcelana z PRL jest warta maj\u0105tek! Unikatowe zestawy, talerze, fili\u017canki z PRL. Tych przedmiot\u00f3w szukaj\u0105 kolekcjonerzy! Z pewno\u015bci\u0105 wiele os\u00f3b nie zdaje sobie sprawy, \u017ce mo\u017ce posiada\u0107 w swoim domu ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "gk24.pl7 godz.",
+            "date": "gk24.pl10 godz.",
             "source": "gk24.pl",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Najcenniejsze przedmioty z czas\u00f3w PRL - ceny, lista, zdj\u0119cia. Tego poszukuj\u0105 kolekcjonerzy w 2025 roku",
-            "link": "https://pomorska.pl/najcenniejsze-przedmioty-z-czasow-prl-ceny-lista-zdjecia-tego-poszukuja-kolekcjonerzy-w-2025-roku/ar/c1p2-27134719",
-            "description": "P\u0142yty winylowe i kasety magnetofonowe - rzadkie wydania muzyczne z PRL, szczeg\u00f3lnie zwi\u0105zane z jazzem i polskim rockiem, s\u0105 bardzo cenione. Najbardziej po\u017c\u0105dane s\u0105 debiutanckie wydania kultowych ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stara+porcelana",
-            "date": "Pomorska5 godz.",
-            "source": "Pomorska",
             "article_content": "Content not available"
         }
     },
@@ -154,7 +138,7 @@
             "description": "Przedmioty z czas\u00f3w PRL na nowo ciesz\u0105 si\u0119 popularno\u015bci\u0105 w\u015br\u00f3d Polak\u00f3w i s\u0105 coraz cz\u0119\u015bciej poszukiwane na portalach aukcyjnych. Nie tylko przez kolekcjoner\u00f3w, ale r\u00f3wnie\u017c zwyk\u0142ych mieszka\u0144c\u00f3w naszego ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "G\u0142os Koszali\u0144ski on MSN5 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN9 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
@@ -170,7 +154,7 @@
             "description": "Gdzie mo\u017cna si\u0119 spodziewa\u0107 wy\u0142\u0105czenia pr\u0105du w dolno\u015bl\u0105skim 3.01? Pokazujemy spis miejsc, w kt\u00f3rych planowany jest brak pr\u0105du w dolno\u015bl\u0105skim. Warto wiedzie\u0107, kiedy i gdzie nast\u0105pi przerwa w dostawie pr ...",
             "image_url": "https://www.bing.pl/th?id=ODF.p9YO103MXreScWBGsL62IA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "gazetawroclawska.pl5 godz.",
+            "date": "gazetawroclawska.pl9 godz.",
             "source": "gazetawroclawska.pl",
             "article_content": "Content not available"
         }
@@ -186,7 +170,7 @@
             "description": "Unikalne antyki poszukiwane przez kolekcjoner\u00f3w mog\u0105 zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na nich zarobi\u0107 fortun\u0119. Cz\u0119sto nie mamy \u015bwiadomo\u015bci, \u017ce przedmioty posiadane w domu warte s\u0105 du\u017co pieni\u0119dzy.",
             "image_url": "https://www.bing.pl/th?id=ODF.z8szwJPfOZTDo97HvHYzSw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Poranny6 godz.",
+            "date": "Poranny9 godz.",
             "source": "Poranny",
             "article_content": "Content not available"
         }
@@ -202,7 +186,7 @@
             "description": "Unikalne antyki poszukiwane przez kolekcjoner\u00f3w mog\u0105 zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na nich zarobi\u0107 fortun\u0119. Cz\u0119sto nie mamy \u015bwiadomo\u015bci, \u017ce przedmioty posiadane w domu warte s\u0105 du\u017co pieni\u0119dzy.",
             "image_url": "https://www.bing.pl/th?id=ODF.73GKiv_kwPXUhIas-a0ZXQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "dziennikzachodni.pl6 godz.",
+            "date": "dziennikzachodni.pl9 godz.",
             "source": "dziennikzachodni.pl",
             "article_content": "Content not available"
         }
@@ -213,44 +197,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Prze\u017cyli po\u017car, samodzielne stawianie stoisk i k\u0142\u00f3dki na w\u0142asnych bramach. Targ przy ul. Ruskiej przesta\u0142 istnie\u0107 [ZDJ\u0118CIA]",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/prze%C5%BCyli-po%C5%BCar-samodzielne-stawianie-stoisk-i-k%C5%82%C3%B3dki-na-w%C5%82asnych-bramach-targ-przy-ul-ruskiej-przesta%C5%82-istnie%C4%87-zdj%C4%99cia/ar-AA1wRdsO?ocid=BingNewsVerp",
-            "description": "W ostatnie dni 2024 r. handluj\u0105cy na targu z ubraniami przy ul. Ruskiej te\u017c dokonuj\u0105 podsumowa\u0144. Co prawda nie mijaj\u0105cego roku, ale minionych kilkunastu lat, kt\u00f3re sp\u0119dzili w pracy: rozmawiaj\u0105 z ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.lto-jgjLT22CJn-xbZRKjA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "targ+staroci",
-            "date": "Kurier Lubelski on MSN1 godz.",
-            "source": "Kurier Lubelski on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Dom Romualda Lipki z Budki Suflera wci\u0105\u017c jest na sprzeda\u017c. Warta 17 mln z\u0142 willa w Kazimierzu Dolnym czeka na kupca. Zobacz zdj\u0119cia",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/dom-romualda-lipki-z-budki-suflera-wci%C4%85%C5%BC-jest-na-sprzeda%C5%BC-warta-17-mln-z%C5%82-willa-w-kazimierzu-dolnym-czeka-na-kupca-zobacz-zdj%C4%99cia/ar-AA1wRrj5?ocid=BingNewsVerp",
-            "description": "Nie wszyscy wiedz\u0105, \u017ce Romuald Lipko za\u0142o\u017cyciel Budki Suflera przed \u015bmierci\u0105 przez wiele lat mieszka\u0142 w domu przy ulicy S\u0142onecznej w Kazimierzu Dolnym. W maju posiad\u0142o\u015b\u0107 trafi\u0142a pod m\u0142otek, a willa za ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.lto-jgjLT22CJn-xbZRKjA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "targ+staroci",
-            "date": "Kurier Lubelski on MSN1 godz.",
-            "source": "Kurier Lubelski on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "\u015acie\u017cki nordic walking w woj. zachodniopomorskim. Gdzie i\u015b\u0107 w weekend 4 - 5 stycznia. 3 najlepsze trasy",
-            "link": "https://gs24.pl/sciezki-nordic-walking-w-woj-zachodniopomorskim-gdzie-isc-w-weekend-4-5-stycznia-3-najlepsze-trasy/ar/c7p1-22323645",
+            "title": "\u015acie\u017cki na spacer w woj. zachodniopomorskim. Gdzie wybra\u0107 si\u0119 w weekend 4 - 5 stycznia? TOP 10 tras",
+            "link": "https://gs24.pl/sciezki-na-spacer-w-woj-zachodniopomorskim-gdzie-wybrac-sie-w-weekend-4-5-stycznia-top-10-tras/ar/c7p1-22116477",
             "description": "Nim wyruszysz, sprawd\u017a, jaka b\u0119dzie pogoda. W sobot\u0119 04 stycznia w woj. zachodniopomorskim ma by\u0107 od -1\u00b0C do 1\u00b0C. Nie powinno ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.QqvFZTIUjezEaEFGYC8iaC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "image_url": "https://www.bing.pl/th?id=OVF.9w4XUaeE%2b9b2r%2by54bHRpQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "gs24.pl22 godz.",
+            "date": "gs24.pl2 godz.",
             "source": "gs24.pl",
             "article_content": "Content not available"
         }
@@ -261,13 +213,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Gdzie na spacer w woj. zachodniopomorskim. Gdzie i\u015b\u0107 w weekend 4 - 5 stycznia? 10 najciekawszych tras",
-            "link": "https://gs24.pl/gdzie-na-spacer-w-woj-zachodniopomorskim-gdzie-isc-w-weekend-4-5-stycznia-10-najciekawszych-tras/ar/c7p1-22116477",
-            "description": "Nim wyruszysz, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 04 stycznia w woj. zachodniopomorskim ma by\u0107 od -1\u00b0C do 1\u00b0C. Nie powinno ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.xPkH0ZhsmbYXfF1xIW-Pzy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Wycieczki rowerowe do 34 km od Pleszewa. Pomys\u0142y na jednodniow\u0105 wypraw\u0119. Gdzie w weekend 4 - 5 stycznia?",
+            "link": "https://pleszew.naszemiasto.pl/wycieczki-rowerowe-do-34-km-od-pleszewa-pomysly-na-jednodniowa-wyprawe-gdzie-w-weekend-4-5-stycznia/ar/c7p1-21831917",
+            "description": "Ca\u0142\u0105 trasa prowadzi g\u0142\u00f3wnie granic\u0105 polno-le\u015bn\u0105 oraz w terenie le\u015bnym. Mo\u017cna obejrze\u0107 suche parowy w lesie Zdrojki, pomnik ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.V6hkZSNZUPBJn9W8HMvqky&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "gs24.pl22 godz.",
-            "source": "gs24.pl",
+            "date": "pleszew.naszemiasto1 godz.",
+            "source": "pleszew.naszemiasto",
             "article_content": "Content not available"
         }
     },
@@ -277,12 +229,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Trasy rowerowe do 19 km od O\u015bwi\u0119cimia. Pomys\u0142y na jednodniowy wypad. Gdzie w weekend 4 - 5 stycznia?",
-            "link": "https://oswiecim.naszemiasto.pl/trasy-rowerowe-do-19-km-od-oswiecimia-pomysly-na-jednodniowy-wypad-gdzie-w-weekend-4-5-stycznia/ar/c7p1-21831633",
-            "description": "Nim wyruszysz w drog\u0119, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 04 stycznia w O\u015bwi\u0119cimiu ma by\u0107 0\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 05 stycznia w O\u015bwi\u0119cimiu ma by\u0107 0\u00b0C. Prawdopodobie\u0144stwo pojawienia si\u0119 ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.hU9b0B80CrRL-uqx7ot5XQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Trasy na rower do 19 km od O\u015bwi\u0119cimia. Podpowiedzi jednodniowych wypraw. Gdzie w weekend 4 - 5 stycznia?",
+            "link": "https://oswiecim.naszemiasto.pl/trasy-na-rower-do-19-km-od-oswiecimia-podpowiedzi-jednodniowych-wypraw-gdzie-w-weekend-4-5-stycznia/ar/c7p1-21831633",
+            "description": "Zanim wyruszysz na wypraw\u0119, sprawd\u017a, jaka b\u0119dzie pogoda. W sobot\u0119 04 stycznia w O\u015bwi\u0119cimiu ma by\u0107 0\u00b0C. Nie powinno pada\u0107. W ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.7t9J4C3mfLXyyCCTUYDKZA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "oswiecim.naszemiasto22 godz.",
+            "date": "oswiecim.naszemiasto2 godz.",
             "source": "oswiecim.naszemiasto",
             "article_content": "Content not available"
         }
@@ -293,13 +245,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Pan latarnik",
-            "link": "https://gazetawroclawska.pl/tag/pan-latarnik",
-            "description": "Czarna peleryna i stylowy kapelusz, w r\u0119kach 2,5-metrowa sztyca, nazywana te\u017c \"polityk\u0105\". W takim odzieniu Wroc\u0142awski ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.wqJqK1IiCqYD5dwhPO-Hby&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Trasy nordic walking do 65 km od Gryfic. Urokliwe \u015bcie\u017cki na weekend 4 - 5 stycznia",
+            "link": "https://gryfice.naszemiasto.pl/trasy-nordic-walking-do-65-km-od-gryfic-urokliwe-sciezki-na-weekend-4-5-stycznia/ar/c7p1-22319401",
+            "description": "W sobot\u0119 4 stycznia wed\u0142ug prognozy pogody ma by\u0107 0\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 5 stycznia zgodnie z najnowszymi ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.Z-gIIHIPlO3JZh66icsApC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "gazetawroclawska.pl15 godz.",
-            "source": "gazetawroclawska.pl",
+            "date": "gryfice.naszemiasto1 godz.",
+            "source": "gryfice.naszemiasto",
             "article_content": "Content not available"
         }
     },
@@ -309,14 +261,78 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Wroc\u0142awski latarnik",
-            "link": "https://gazetawroclawska.pl/tag/wroclawski-latarnik",
-            "description": "Czarna peleryna i stylowy kapelusz, w r\u0119kach 2,5-metrowa sztyca, nazywana te\u017c \"polityk\u0105\". W takim odzieniu Wroc\u0142awski ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.wqJqK1IiCqYD5dwhPO-Hby&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Trasy nordic walking do 69 km od Koszalina. Pomys\u0142y na odrobin\u0119 ruchu - weekend 4 - 5 stycznia",
+            "link": "https://koszalin.naszemiasto.pl/trasy-nordic-walking-do-69-km-od-koszalina-pomysly-na-odrobine-ruchu-weekend-4-5-stycznia/ar/c7p1-22318903",
+            "description": "Binda\u017c grabowy - urokliwa aleja \u015bci\u015ble obsadzona grabami, kt\u00f3rych korony splataj\u0105 si\u0119 ze sob\u0105 tworz\u0105c rodzaj sklepienia. Pierwotne za\u0142o\u017cenie przestrzenne powsta\u0142o ju\u017c w XIX wieku, na przestrzeni ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.2lnLIQe5bnM9ixvXVTSDQg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "gazetawroclawska.pl15 godz.",
-            "source": "gazetawroclawska.pl",
+            "date": "koszalin.naszemiasto1 godz.",
+            "source": "koszalin.naszemiasto",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Nordic walking do 66 km od Pszowa. Pomys\u0142y na odrobin\u0119 ruchu - weekend 4 - 5 stycznia",
+            "link": "https://pszow.naszemiasto.pl/nordic-walking-do-66-km-od-pszowa-pomysly-na-odrobine-ruchu-weekend-4-5-stycznia/ar/c7p1-22319477",
+            "description": "Szukasz ciekawych \u015bcie\u017cek nordic walking w okolicy Pszowa? Wsp\u00f3lnie z Traseo mamy dla Ciebie kilka pomys\u0142\u00f3w na najbli\u017cszy ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.jGRCcHDOu0G74wZ_Cs0WGi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "pszow.naszemiasto1 godz.",
+            "source": "pszow.naszemiasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Nordic walking w woj. warmi\u0144sko-mazurskim. Gdzie wybra\u0107 si\u0119 w weekend 4 - 5 stycznia. 3 najlepsze trasy",
+            "link": "https://wspolczesna.pl/nordic-walking-w-woj-warminsko-mazurskim-gdzie-wybrac-sie-w-weekend-4-5-stycznia-3-najlepsze-trasy/ar/c7p1-22327327",
+            "description": "Nim wyruszysz, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 04 stycznia w woj. warmi\u0144sko-mazurskim ma by\u0107 od -2\u00b0C do -2\u00b0C. Nie ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.ZtM1pEXOY4TvIAptxW56Wi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "wspolczesna.pl2 godz.",
+            "source": "wspolczesna.pl",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Ciekawe trasy do spacerowania w woj. \u0142\u00f3dzkim. Gdzie warto si\u0119 wybra\u0107 w weekend 4 - 5 stycznia? 10 najciekawszych tras",
+            "link": "https://dzienniklodzki.pl/ciekawe-trasy-do-spacerowania-w-woj-lodzkim-gdzie-warto-sie-wybrac-w-weekend-4-5-stycznia-10-najciekawszych-tras/ar/c7p1-22116469",
+            "description": "Zanim wyruszysz, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 04 stycznia w woj. \u0142\u00f3dzkim ma by\u0107 od -2\u00b0C do -0\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 05 stycznia w woj. \u0142\u00f3dzkim ma by\u0107 od -3\u00b0C do -0\u00b0C. Nie powinno ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.uJelon1vmcKYEKRidTlMcA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "zabytkowe+przedmioty",
+            "date": "dzienniklodzki2 godz.",
+            "source": "dzienniklodzki",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Ukrainka zorganizowa\u0142a przemyt do Polski wart 500 tys. z\u0142. Interweniowa\u0142y s\u0142u\u017cby",
+            "link": "https://www.o2.pl/informacje/ukrainka-zorganizowala-przemyt-wart-500-tys-zl-do-polski-interweniowaly-sluzby-7110285459290880a",
+            "description": "Zuchwa\u0142ego przemytu ponad 1,5 kg z\u0142ota pr\u00f3bowa\u0142a dokona\u0107 para z Ukrainy. Procederem zarz\u0105dza\u0142a 37-latka z Doniecka. Po zatrzymaniu przez ukrai\u0144sk\u0105 stra\u017c graniczn\u0105, kobieta i jej 67-letni towarzysz nie ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.GhWejP0dMFTzOkSqze5iTA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "zabytkowe+przedmioty",
+            "date": "o22 godz.",
+            "source": "o2",
+            "article_content": "Do kontroli granicznej dw\u00f3jki obywateli Ukrainy dosz\u0142o 2 stycznia 2025 r. Wiadomo, \u017ce ukrai\u0144ska stra\u017c graniczna dokona\u0142a rutynowego sprawdzenia auta i natrafi\u0142a na przemyt z\u0142ota w punkcie kontrolnym \"Nyzhankovychy\" w obwodzie lwowskim.\n\nPara Ukrai\u0144c\u00f3w ukry\u0142a 1,5 kg z\u0142ota w pod\u0142okietniku swojego auta marki Toyota. \u0141\u0105cznie 37-latka i jej 67-letni towarzysz chcieli przewie\u017a\u0107 do Polski 61 sztabek z\u0142ota pr\u00f3by 999. To najczystsza forma z\u0142ota dost\u0119pna na rynku.\n\nDalsza cz\u0119\u015b\u0107 artyku\u0142u pod materia\u0142em wideo\n\nZobacz tak\u017ce: Z\u0142ota moneta odkryta na polu w Anglii. Historyczny skarb sprzedany za fortun\u0119\n\nCo dalej ze znalezionym z\u0142otem?\n\nZatrzymani nie potrafili wyja\u015bni\u0107 pochodzenia sztabek. Nie wykazali tak\u017ce dokument\u00f3w, kt\u00f3re mog\u0142y \u015bwiadczy\u0107 o zakupie z\u0142ota lub innej formie nabycia cennego kruszcu.\n\nZ\u0142oto, kt\u00f3re pr\u00f3bowali przemyci\u0107 Ukrai\u0144cy ma ogromn\u0105 warto\u015b\u0107. \u0141\u0105czna kwota zosta\u0142a okre\u015blona przez s\u0142u\u017cby na ok. 6 mln hrywien, czyli ponad 500 tys. z\u0142otych. Aktualnie z\u0142oto zosta\u0142o zatrzymane w celu wyja\u015bnienia sprawy.\n\nTrwa \u0142adowanie wpisu: twitter ROZWI\u0143\n\nFunkcjonariusze ukrai\u0144skiej stra\u017cy granicznej sporz\u0105dzili kompleksowy raport ze zdarzenia. Teraz spraw\u0119 przejmie S\u0142u\u017cba Bezpiecze\u0144stwa Ukrainy. Rol\u0105 s\u0142u\u017cb jest sprawdzenie pochodzenia z\u0142ota i jego legalno\u015bci, a tak\u017ce celu przemytu. Ukrai\u0144com, kt\u00f3rzy pr\u00f3bowali wwie\u017a\u0107 z\u0142oto do Polski, na ten moment nie postawiono jeszcze \u017cadnych zarzut\u00f3w.\n\nUkrai\u0144ski portal \"UNN\" podaje, \u017ce to nie pierwszy raz, gdy obywatele Ukrainy chc\u0105 przewie\u017a\u0107 do Polski drogocenne przedmioty lub kruszec inwestycyjny. Kilka miesi\u0119cy temu 21-letnia Ukrainka chcia\u0142a przemyci\u0107 zabytkowy miecz."
         }
     },
     {
@@ -330,73 +346,9 @@
             "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.o4EwlAsIz5rMM3h8kMS_wi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "gs24.pl4 godz.",
+            "date": "gs24.pl8 godz.",
             "source": "gs24.pl",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Toru\u0144 jeszcze nigdy nie by\u0142 taki magiczny - komentuje Justyna Wojciechowska-Narloch",
-            "link": "https://www.msn.com/pl-pl/historia-i-kultura-spo%C5%82ecze%C5%84stwa/pop-kultura/toru%C5%84-jeszcze-nigdy-nie-by%C5%82-taki-magiczny-komentuje-justyna-wojciechowska-narloch/ar-AA1wTuxk?ocid=BingNewsVerp",
-            "description": "Sylwestrowa Moc Przeboj\u00f3w telewizji Polsat za nami. Nie ukrywam, \u017ce mocno trzyma\u0142am kciuki za to miasto, za jego sukces.",
-            "image_url": "https://www.bing.pl/th?id=OVFT.VDyZSotnQwRfBrCsF3b1bC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Hostowane na MSN5 godz.",
-            "source": "MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Naddniestrze wy\u0142\u0105cza ogrzewanie i dostawy ciep\u0142ej wody",
-            "link": "https://kresy.pl/wydarzenia/naddniestrze-wylacza-ogrzewanie-i-dostawy-cieplej-wody/",
-            "description": "Oderwany mo\u0142dawski region Naddniestrza przerwa\u0142 w \u015brod\u0119 dostawy ciep\u0142a i ciep\u0142ej wody do gospodarstw domowych. Jak przekaza\u0142a ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.KDFq4dZg5KrzA7NjzHLOpC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "kresy.pl4 godz.",
-            "source": "kresy.pl",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Hotele w woj. pomorskim. Gdzie si\u0119 zatrzyma\u0107? Lista hoteli 2025",
-            "link": "https://dziennikbaltycki.pl/hotele-w-woj-pomorskim-gdzie-sie-zatrzymac-lista-hoteli-2025/ar/c7p1-24664661",
-            "description": "W jakim hotelu warto zatrzyma\u0107 si\u0119 w woj. pomorskim? Podpowiadamy, jakie miejsca s\u0105 warte uwagi na hotelowej mapie w woj. pomorskim. Poszukujesz noclegu na jedn\u0105 noc, by zatrzyma\u0107 si\u0119 przejazdem? A mo ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.5s2nDicEFNR6T9e5rt0xCA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "zabytkowe+przedmioty",
-            "date": "dziennikbaltycki.pl8 godz.",
-            "source": "dziennikbaltycki.pl",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Komentarz: Toru\u0144 jeszcze nigdy nie by\u0142 taki magiczny!",
-            "link": "https://www.msn.com/pl-pl/rozrywka/muzyka/komentarz-toru%C5%84-jeszcze-nigdy-nie-by%C5%82-taki-magiczny/ar-AA1wQKAG?ocid=BingNewsVerp",
-            "description": "Sylwestrowa Moc Przeboj\u00f3w telewizji Polsat za nami. Nie ukrywam, \u017ce mocno trzyma\u0142am kciuki za to miasto, za jego sukces.",
-            "image_url": "https://www.bing.pl/th?id=OVFT.hzkZKZ1jKSiXlzpZtZWBTy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Hostowane na MSN23 godz.",
-            "source": "MSN",
-            "article_content": ""
         }
     },
     {
@@ -410,7 +362,7 @@
             "description": "Mo\u017cliwe, \u017ce w zakamarkach swojego domu trzymasz prawdziwy skarb. B\u0119dziesz zaskoczony za jakie kwoty mo\u017cna sprzeda\u0107 stare banknoty i monety z czas\u00f3w PRL-u. Kolekcjonerzy s\u0105 w stanie zap\u0142aci\u0107 za te ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "gk24.pl7 godz.",
+            "date": "gk24.pl10 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -426,7 +378,7 @@
             "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet zwyk\u0142a pi\u0119cioz\u0142ot\u00f3wka mo\u017ce mie\u0107 wielokrotnie wi\u0119ksz\u0105 warto\u015b\u0107 ni\u017c nomina\u0142.",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Koszali\u0144ski on MSN7 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN11 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
@@ -437,12 +389,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Najcenniejsze przedmioty z czas\u00f3w PRL - ceny, lista, zdj\u0119cia. Tego poszukuj\u0105 kolekcjonerzy w 2025 roku",
-            "link": "https://pomorska.pl/najcenniejsze-przedmioty-z-czasow-prl-ceny-lista-zdjecia-tego-poszukuja-kolekcjonerzy-w-2025-roku/ar/c1p2-27134719",
+            "title": "Najcenniejsze przedmioty z czas\u00f3w PRL - ceny, lista, zdj\u0119cia. Tego poszukuj\u0105 kolekcjonerzy w 2025 roku [3.01.2025]",
+            "link": "https://pomorska.pl/najcenniejsze-przedmioty-z-czasow-prl-ceny-lista-zdjecia-tego-poszukuja-kolekcjonerzy-w-2025-roku-3-01-2025/ar/c1p2-27134719",
             "description": "P\u0142yty winylowe i kasety magnetofonowe - rzadkie wydania muzyczne z PRL, szczeg\u00f3lnie zwi\u0105zane z jazzem i polskim rockiem, s\u0105 bardzo cenione. Najbardziej po\u017c\u0105dane s\u0105 debiutanckie wydania kultowych ...",
             "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "Pomorska5 godz.",
+            "date": "Pomorska3 godz.",
             "source": "Pomorska",
             "article_content": "Content not available"
         }
@@ -458,7 +410,7 @@
             "description": "Prawie 200 \u015blad\u00f3w dinozaur\u00f3w odkryto tego lata w kamienio\u0142omach w hrabstwie Oxfordshire w po\u0142udniowo-wschodniej Anglii - ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.yNQc-7k7dghigdtRDQ_9Ni&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "wykopano+zabytkowe",
-            "date": "TVN2416 godz.",
+            "date": "TVN2420 godz.",
             "source": "TVN24",
             "article_content": "Prawie 200 \u015blad\u00f3w dinozaur\u00f3w odkryto tego lata w kamienio\u0142omach w hrabstwie Oxfordshire w po\u0142udniowo-wschodniej Anglii - poinformowali w czwartek naukowcy. Jest to najwi\u0119ksze stanowisko tego typu znalezione w Wielkiej Brytanii. Badacze nie s\u0105 pewni, co pomog\u0142o zachowa\u0107 \u015blady w skamienia\u0142ym b\u0142ocie.\n\nPogoda D\u0142ugoterminowa Weekend\n\n\u015alady zosta\u0142y pozostawione 166 milion\u00f3w lat temu przez pi\u0119\u0107 dinozaur\u00f3w i zosta\u0142y odkryte w kamienio\u0142omie Dewars Farm. Niekt\u00f3re ze \u015bcie\u017cek, na kt\u00f3rych odkryto odciski, rozci\u0105gaj\u0105 si\u0119 na 150 metr\u00f3w. Wed\u0142ug naukowc\u00f3w miejsce to jest \"prawdziw\u0105 autostrad\u0105 dinozaur\u00f3w\", w okresie \u015brodkowej jury krzy\u017cowa\u0142y si\u0119 tam bowiem \u015bcie\u017cki ro\u015blino\u017cerc\u00f3w i mi\u0119so\u017cerc\u00f3w.\n\n- Bardzo rzadko mo\u017cna znale\u017a\u0107 \u015blady w tak du\u017cej liczbie w jednym miejscu i na tak du\u017cym terenie - powiedzia\u0142a Emma Nicholls, paleontolo\u017cka kr\u0119gowc\u00f3w z Muzeum Historii Naturalnej Uniwersytetu Oksfordzkiego. Jej zdaniem mo\u017ce to by\u0107 r\u00f3wnie\u017c jedno z najwi\u0119kszych miejsc tego typu na \u015bwiecie.\n\n- Mo\u017cna cofn\u0105\u0107 si\u0119 w czasie i wyobrazi\u0107 sobie, jak to by\u0142o, gdy te ogromne stworzenia w\u0119drowa\u0142y - powiedzia\u0142a Kirsty Edgar z Uniwersytetu w Birmingham, zajmuj\u0105ca si\u0119 mikropaleontologi\u0105.\n\n\"To by\u0142o nierealne\"\n\nPierwsze ze \u015blad\u00f3w odkry\u0142 w czerwcu Gary Johnson, operator koparki w kamienio\u0142omie nale\u017c\u0105cym do firmy Smiths Bletchington. - Zda\u0142em sobie spraw\u0119, \u017ce by\u0142em pierwsz\u0105 osob\u0105, kt\u00f3ra je widzia\u0142a. To by\u0142o nierealne - powiedzia\u0142 w rozmowie z BBC. W ci\u0105gu kolejnych dni oko\u0142o 100 os\u00f3b wzi\u0119\u0142o udzia\u0142 w wykopaliskach nadzorowanych przez uniwersytety w Oksfordzie i Birmingham.\n\nWed\u0142ug Richarda Butlera z Uniwersytetu w Birmingham \u015blady w skamienia\u0142ym b\u0142ocie pom\u00f3g\u0142 zachowa\u0107 nag\u0142y mr\u00f3z, kt\u00f3ry zakonserwowa\u0142 odciski.\n\n\u015alady dinozaur\u00f3w odkryte w hrabstwie Oxforshire Reuters\n\nZauropody i megalozaur\n\nCztery dinozaury, kt\u00f3re pozostawi\u0142y \u015blady, to zauropody, ro\u015blino\u017cerne dinozaury o d\u0142ugiej szyi, osi\u0105gaj\u0105ce d\u0142ugo\u015b\u0107 do 18 metr\u00f3w. Ich odciski przypominaj\u0105 \u015blady s\u0142onia, s\u0105 jednak znacznie wi\u0119ksze.\n\nPi\u0105ty z dinozaur\u00f3w to prawdopodobnie megalozaur, najwi\u0119kszy drapie\u017cnik okresu jurajskiego w Anglii, kt\u00f3ry chodzi\u0142 na dw\u00f3ch nogach i kt\u00f3rego trzy pazury s\u0105 wyra\u017anie odci\u015bni\u0119te w ziemi.\n\n\u015alady dinozaur\u00f3w odkryte w hrabstwie Oxfordshire Reutes\n\nJak pisze agencja AFP, w 1997 roku w tym samym rejonie odkryto inne stanowisko z oko\u0142o 40 \u015bladami dinozaur\u00f3w, jednak obecnie nie jest ono dost\u0119pne, a zebrane w\u00f3wczas informacje nie zosta\u0142y podane do publicznej wiadomo\u015bci.\n\nGoogle Maps\n\nAutorka/Autor:ps\n\n\u0179r\u00f3d\u0142o: PAP, BBC"
         }
@@ -474,7 +426,7 @@
             "description": "Ceremonialny czekan z epoki br\u0105zu, z drugiego tysi\u0105clecia przed Chrystusem, odnaleziono na terenie Bia\u0142o\u0142\u0119ki. To pierwsze tego rodzaju odkrycie w centralnej Polsce - do tej pory natrafiano na takie ob ...",
             "image_url": "https://www.bing.pl/th?id=ODF.RiSZ6cVK2kGKUBp4PkSDCg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "warszawa.naszemiasto6 godz.",
+            "date": "warszawa.naszemiasto10 godz.",
             "source": "warszawa.naszemiasto",
             "article_content": "Content not available"
         }
@@ -485,13 +437,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Nie lada gratka dla archeolog\u00f3w w woj. wielkopolskim. Ten skarb mo\u017ce by\u0107 bezcenny",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/nie-lada-gratka-dla-archeolog%C3%B3w-w-woj-wielkopolskim-ten-skarb-mo%C5%BCe-by%C4%87-bezcenny/ar-AA1wR7WR?ocid=BingNewsVerp",
-            "description": "Pod koniec roku prywatna osoba odkry\u0142a na terenie gminy Jarocin w Wielkopolsce br\u0105zow\u0105 figurk\u0119 rzymskiego boga Marsa. Je\u015bli ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.Jjb9EfniceY4qcnM8sBCiy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Ch\u0142opiec trafi\u0142 na cenny artefakt. Naukowcy o \u201emistrzowskim rzemio\u015ble'",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/ch%C5%82opiec-trafi%C5%82-na-cenny-artefakt-naukowcy-o-mistrzowskim-rzemio%C5%9Ble/ar-AA1wRReX?ocid=BingNewsVerp",
+            "description": "Podczas szkolnej wycieczki do malowniczej miejscowo\u015bci Ein Karem w Jerozolimie, 10-letni ch\u0142opiec dokona\u0142 niezwyk\u0142ego ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.tg3VqOR4vPLAiQ-NALwT8S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Radiozet.pl on MSN21 godz.",
-            "source": "Radiozet.pl on MSN",
+            "date": "Wprost on MSN21 godz.",
+            "source": "Wprost on MSN",
             "article_content": ""
         }
     }
