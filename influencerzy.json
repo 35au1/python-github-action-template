@@ -5,12 +5,28 @@
             "Content-Type": "application/json"
         },
         "body": {
+            "title": "Ten fotel z PRL-u kosztuje teraz krocie. Niekt\u00f3rzy nadal maj\u0105 go w piwnicy",
+            "link": "https://www.msn.com/pl-pl/dom-i-ogr%C3%B3d/dekorowanie-wn%C4%99trz/ten-fotel-z-prl-u-kosztuje-teraz-krocie-niekt%C3%B3rzy-nadal-maj%C4%85-go-w-piwnicy/ar-AA1xapbi?ocid=BingNewsVerp",
+            "description": "Meble z czas\u00f3w PRL-u odzyska\u0142y sw\u00f3j dawny blask i sta\u0142y si\u0119 jednym z najgor\u0119tszych trend\u00f3w wn\u0119trzarskich ostatnich lat. Unikalny design ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.W5Y4MI3IF_FGCvkznSbrPQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "starocie",
+            "date": "Biznesinfo on MSN1 godz.",
+            "source": "Biznesinfo on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
             "title": "Stare banknoty i monety u monety z PRL-u. Nie uwierzysz, ile mog\u0105 kosztowa\u0107 pieni\u0105dze z lat 60., 70. i 80. [ZDJ\u0118CIA] 8.01.2025",
             "link": "https://www.msn.com/pl-pl/finanse/og%C3%B3lne/stare-banknoty-i-monety-u-monety-z-prl-u-nie-uwierzysz-ile-mog%C4%85-kosztowa%C4%87-pieni%C4%85dze-z-lat-60-70-i-80-zdj%C4%99cia-8-01-2025/ar-AA1x9dhs?ocid=BingNewsVerp",
             "description": "Mo\u017cliwe, \u017ce w zakamarkach swojego domu trzymasz prawdziwy skarb. B\u0119dziesz zaskoczony za jakie kwoty mo\u017cna sprzeda\u0107 stare banknoty i monety z czas\u00f3w PRL-u. Kolekcjonerzy s\u0105 w stanie zap\u0142aci\u0107 za te ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski on MSN2 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN6 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
@@ -21,14 +37,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Rzadkie monety z PRL poszukiwane przez kolekcjoner\u00f3w. Sprawd\u017a, kt\u00f3re s\u0105 najdro\u017csze i ile mo\u017cna za nie zarobi\u0107! 08.01.2025",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/rzadkie-monety-z-prl-poszukiwane-przez-kolekcjoner%C3%B3w-sprawd%C5%BA-kt%C3%B3re-s%C4%85-najdro%C5%BCsze-i-ile-mo%C5%BCna-za-nie-zarobi%C4%87-08-01-2025/ar-AA1x9Eu9?ocid=BingNewsVerp",
-            "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.H5xzmA8ZQN7aNok4oKrHnS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Te monety s\u0105 warte du\u017co wi\u0119cej ni\u017c my\u015blisz. Zobacz czego szukaj\u0105 numizmatycy 8.01.2025",
+            "link": "https://gk24.pl/te-monety-sa-warte-duzo-wiecej-niz-myslisz-zobacz-czego-szukaja-numizmatycy-8012025/ar/c1-18941089",
+            "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet zwyk\u0142a pi\u0119cioz\u0142ot\u00f3wka mo\u017ce mie\u0107 wielokrotnie wi\u0119ksz\u0105 warto\u015b\u0107 ni\u017c nomina\u0142.",
+            "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "Hostowane na MSN1 godz.",
-            "source": "MSN",
-            "article_content": ""
+            "date": "gk24.pl7 godz.",
+            "source": "gk24.pl",
+            "article_content": "Content not available"
         }
     },
     {
@@ -42,7 +58,7 @@
             "description": "Wycena monet z PRL-u zale\u017cy od rzadko\u015bci wyst\u0119powania, jako\u015bci wybicia oraz gradingu, czyli stanu jej zachowania. W Polsce znajdziemy wiele okaz\u00f3w wartych kilkaset z\u0142otych, ale s\u0105 te\u017c takie, na ...",
             "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "gs24.pl3 godz.",
+            "date": "gs24.pl7 godz.",
             "source": "gs24.pl",
             "article_content": "Content not available"
         }
@@ -58,7 +74,7 @@
             "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.o4EwlAsIz5rMM3h8kMS_wi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "gs24.pl3 godz.",
+            "date": "gs24.pl7 godz.",
             "source": "gs24.pl",
             "article_content": "Content not available"
         }
@@ -69,14 +85,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Jedyny taki skarb w Polsce. Wykopano go na polu w 1983 roku. Jest bezcenny",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/to-prawdziwy-unikat-jedyny-taki-skarb-w-polsce-wykopano-go-na-polu-w-1983-roku-jest-bezcenny/ar-AA1x5B9h?ocid=BingNewsVerp",
-            "description": "To polski skarb. Wykopano go na polu w 1983 roku. Wybity przez Boles\u0142awa Chrobrego srebrny denar z lat 992-997, b\u0119d\u0105cy w ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.CaIE5VX7i2pqXW8qwgqzdS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "To prawdziwy unikat, jedyny taki skarb w Polsce. Wykopano go na polu w 1983 roku. Jest bezcenny",
+            "link": "https://dziennikzachodni.pl/to-prawdziwy-unikat-jedyny-taki-skarb-w-polsce-wykopano-go-na-polu-w-1983-roku-jest-bezcenny/ar/c1-17349275",
+            "description": "To polski skarb. Wykopano go na polu w 1983 roku. Wybity przez Boles\u0142awa Chrobrego srebrny denar z lat 992-997, b\u0119d\u0105cy w posiadaniu Muzeum Pomorza \u015arodkowego w S\u0142upsku, jest bezcenny. Zachowa\u0142y si\u0119 ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.73GKiv_kwPXUhIas-a0ZXQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "Dziennik Ba\u0142tycki on MSN46 min",
-            "source": "Dziennik Ba\u0142tycki on MSN",
-            "article_content": ""
+            "date": "dziennikzachodni.pl5 godz.",
+            "source": "dziennikzachodni.pl",
+            "article_content": "Content not available"
         }
     },
     {
@@ -90,7 +106,7 @@
             "description": "Obecnie zwracamy olbrzymi\u0105 uwag\u0119 na wystr\u00f3j swoich dom\u00f3w czy mieszka\u0144, a w\u0142a\u015bnie takie przedmioty, unikatowe, wyr\u00f3\u017cniaj\u0105ce ...",
             "image_url": "https://www.bing.pl/th?id=OVF.7nKcedsDlLi%2fI1cmYgsbqw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "gk24.pl3 godz.",
+            "date": "gk24.pl7 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -106,7 +122,7 @@
             "description": "Ta porcelana z PRL jest warta maj\u0105tek! Unikatowe zestawy, talerze, fili\u017canki z PRL. Tych przedmiot\u00f3w szukaj\u0105 kolekcjonerzy! Z pewno\u015bci\u0105 wiele os\u00f3b nie zdaje sobie sprawy, \u017ce mo\u017ce posiada\u0107 w swoim domu ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "gk24.pl3 godz.",
+            "date": "gk24.pl7 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -122,7 +138,7 @@
             "description": "Przedmioty z czas\u00f3w PRL w 2025 roku zyskuj\u0105 na warto\u015bci. S\u0105 poszukiwane zar\u00f3wno przez kolekcjoner\u00f3w, jak i mi\u0142o\u015bnik\u00f3w retro, a ich ceny na rynku stale rosn\u0105. Je\u015bli masz w swoim domu przedmioty z PRL, ...",
             "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "Pomorska2 godz.",
+            "date": "Pomorska6 godz.",
             "source": "Pomorska",
             "article_content": "Content not available"
         }
@@ -138,7 +154,7 @@
             "description": "W niedziel\u0119, 5 stycznia, przed centrum handlowym Auchan w Komornikach odby\u0142a si\u0119 pierwsza w nowym roku gie\u0142da staroci. Mimo ...",
             "image_url": "https://www.bing.pl/th?id=OVF.MMpUmRWs%2fp59OPq9DF%2f3GQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "gloswielkopolski3 godz.",
+            "date": "gloswielkopolski7 godz.",
             "source": "gloswielkopolski",
             "article_content": "Content not available"
         }
@@ -154,8 +170,24 @@
             "description": "Unikalne antyki poszukiwane przez kolekcjoner\u00f3w mog\u0105 zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na nich zarobi\u0107 fortun\u0119. Cz\u0119sto nie ...",
             "image_url": "https://www.bing.pl/th?id=OVF.BYaC0k9NxfRlDQ3kImguoA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Poranny1 godz.",
+            "date": "Poranny5 godz.",
             "source": "Poranny",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Kolekcjonerzy poszukuj\u0105 wyj\u0105tkowych antyk\u00f3w. Unikalne przedmioty do kupienia w internecie. Masz je w domu?",
+            "link": "https://dziennikzachodni.pl/kolekcjonerzy-poszukuja-tych-antykow-unikalne-przedmioty-do-kupienia-w-internecie-masz-je-w-domu-08012025/ar/c9-17262255",
+            "description": "Unikalne antyki poszukiwane przez kolekcjoner\u00f3w mog\u0105 zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na nich zarobi\u0107 fortun\u0119. Cz\u0119sto nie mamy \u015bwiadomo\u015bci, \u017ce przedmioty posiadane w domu warte s\u0105 du\u017co pieni\u0119dzy.",
+            "image_url": "https://www.bing.pl/th?id=ODF.73GKiv_kwPXUhIas-a0ZXQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "targ+staroci",
+            "date": "dziennikzachodni.pl5 godz.",
+            "source": "dziennikzachodni.pl",
             "article_content": "Content not available"
         }
     },
@@ -170,25 +202,9 @@
             "description": "Eko Centrum Gie\u0142da przy ul. Andersa to wyj\u0105tkowe miejsce, nieustannie ciesz\u0105ce si\u0119 ogromnym zainteresowaniem w\u015br\u00f3d klient\u00f3w.",
             "image_url": "https://www.bing.pl/th?id=OVFT.nlm_nycW1pTWYlvBUFObdS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "praca19 godz.",
+            "date": "praca23 godz.",
             "source": "praca",
             "article_content": "Eko Centrum Gie\u0142da przy ul. Andersa to wyj\u0105tkowe miejsce, nieustannie ciesz\u0105ce si\u0119 ogromnym zainteresowaniem w\u015br\u00f3d klient\u00f3w. Dzieje si\u0119 tak za spraw\u0105 zar\u00f3wno du\u017cej ilo\u015bci lokalnych producent\u00f3w oferuj\u0105cych zr\u00f3\u017cnicowany asortyment jak r\u00f3wnie\u017c ciekawych wydarze\u0144 przyci\u0105gaj\u0105cych wystawc\u00f3w z ca\u0142ej Polski.\n\nW 2024 roku Gie\u0142da na Andersa w Bia\u0142ymstoku sta\u0142a si\u0119 miejscem wydarze\u0144 plenerowych, w kt\u00f3rych go\u015bci\u0142o kilkudziesi\u0119ciu wystawc\u00f3w z ca\u0142ej Polski. Weekendowe wydarzenia takie jak Targi Ogrodnictwa, Staroci, Motoryzacyjne, Budownictwa oraz Pokaz Mody -przyci\u0105gn\u0119\u0142y na Gie\u0142d\u0119 ponad 1,5 mln klient\u00f3w, czyni\u0105c j\u0105 jednym z najpopularniejszych miejsc zakup\u00f3w w regionie. Z danych o ruchu pojazd\u00f3w wynika, i\u017c w weekendy na teren Gie\u0142dy wje\u017cd\u017ca\u0142o a\u017c 6 ty\u015b. samochod\u00f3w dziennie. To pokazuje jak wa\u017cnym miejscem na mapie handlowej jest Gie\u0142da na Andersa. W bie\u017c\u0105cym roku od kwietnia organizowane b\u0119d\u0105 na terenie Gie\u0142dy Targi oraz \u015bwi\u0105teczne Kiermasze z jeszcze wi\u0119ksz\u0105 intensywno\u015bci\u0105 - zobacz kalendarz wydarze\u0144 https://podlaskiecentrum.pl/2024/11/07/kalendarz-wydarzen-na-gieldzie-2025/\n\n\n\nGie\u0142da przy ul. Andersa jest tak\u017ce miejscem przyjaznym dla przedsi\u0119biorc\u00f3w, chc\u0105cych rozwin\u0105\u0107 sw\u00f3j biznes i poszukuj\u0105cych lokali, kt\u00f3re umo\u017cliwi im dotarcie do szerokiego grona klient\u00f3w. W minionym roku do grona najemc\u00f3w Gie\u0142dy do\u0142\u0105czy\u0142o ponad 30 nowych sprzedawc\u00f3w, kt\u00f3rzy wzbogacili ofert\u0119 Eko Centrum.\n\n\n\nGie\u0142da dysponuje powierzchniami do wynaj\u0119cia w dw\u00f3ch lokalizacjach. W Bia\u0142ymstoku przy ul. Andersa 40 oferuje nowoczesne lokale handlowe w nowej hali od 33m2 oraz lokal magazynowy w starej hali o powierzchni 256 m2. Drugi obiekt zlokalizowany jest w Wasilkowie, nieopodal Bia\u0142egostoku przy ul. Nadrzecznej 22 w postaci du\u017cych hal produkcyjno-magazynowych o powierzchni od 400 m2. Obszar, kt\u00f3ry dysponuje du\u017cym parkingiem, jest dostosowany dla kierowc\u00f3w ci\u0119\u017car\u00f3wek i innych pojazd\u00f3w dostawczych.\n\n\n\nJe\u017celi masz pomys\u0142 na biznes, chcesz zaprezentowa\u0107 swoje produkty w najwi\u0119kszym punkcie handlowym na Podlasiu skontaktuj si\u0119 z biurem Gie\u0142dy www.podlaskiecentrum.pl.\n\n\n\n[ARTYKU\u0141 SPONSOROWANY]\n\n"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Trasy spacerowe do 6 km od Ko\u0142obrzegu. Podpowiadamy, gdzie warto si\u0119 wybra\u0107 w weekend 11 - 12 stycznia",
-            "link": "https://kolobrzeg.naszemiasto.pl/trasy-spacerowe-do-6-km-od-kolobrzegu-podpowiadamy-gdzie-warto-sie-wybrac-w-weekend-11-12-stycznia/ar/c7p1-22115647",
-            "description": "Zanim wyruszysz w tras\u0119, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 11 stycznia w Ko\u0142obrzegu ma by\u0107 1\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 12 stycznia w Ko\u0142obrzegu ma by\u0107 3\u00b0C. Nie b\u0119dzie pada\u0107.",
-            "image_url": "https://www.bing.pl/th?id=ODF.xGyVXoJ9b0zlcu2rTPA_6w&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "relikty",
-            "date": "kolobrzeg.naszemiasto18 godz.",
-            "source": "kolobrzeg.naszemiasto",
-            "article_content": "Content not available"
         }
     },
     {
@@ -202,8 +218,24 @@
             "description": "Zanim wyruszysz w tras\u0119, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 11 stycznia w \u0141asku ma by\u0107 0\u00b0C. Prawdopodobie\u0144stwo ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.RdaKet4NcqcP0PpGjIa3si&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "lask.naszemiasto17 godz.",
+            "date": "lask.naszemiasto22 godz.",
             "source": "lask.naszemiasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Trasy spacerowe do 6 km od Ko\u0142obrzegu. Podpowiadamy, gdzie warto si\u0119 wybra\u0107 w weekend 11 - 12 stycznia",
+            "link": "https://kolobrzeg.naszemiasto.pl/trasy-spacerowe-do-6-km-od-kolobrzegu-podpowiadamy-gdzie-warto-sie-wybrac-w-weekend-11-12-stycznia/ar/c7p1-22115647",
+            "description": "Zanim wyruszysz w tras\u0119, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 11 stycznia w Ko\u0142obrzegu ma by\u0107 1\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 12 stycznia w Ko\u0142obrzegu ma by\u0107 3\u00b0C. Nie b\u0119dzie pada\u0107.",
+            "image_url": "https://www.bing.pl/th?id=ODF.xGyVXoJ9b0zlcu2rTPA_6w&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "relikty",
+            "date": "kolobrzeg.naszemiasto22 godz.",
+            "source": "kolobrzeg.naszemiasto",
             "article_content": "Content not available"
         }
     },
@@ -218,9 +250,41 @@
             "description": "We wsp\u00f3\u0142pracy z Traseo przygotowali\u015bmy dla Was 3 trasy spacerowe w odleg\u0142o\u015bci do 65 km od Gryfic, kt\u00f3re pokonali inni ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.I2yn3gqJX0KZgLUNqh8cAi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "gryfice.naszemiasto17 godz.",
+            "date": "gryfice.naszemiasto21 godz.",
             "source": "gryfice.naszemiasto",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Muzeum Pa\u0142acu Kr\u00f3la Jana III w Wilanowie. Miejsce, gdzie kultura \u0142\u0105czy si\u0119 z natur\u0105",
+            "link": "https://www.polskieradio.pl/8/404/Artykul/3468094,muzeum-palacu-krola-jana-iii-w-wilanowie-miejsce-gdzie-kultura-laczy-sie-z-natura",
+            "description": "- Muzeum poprzez emocje ma wzbudza\u0107 zainteresowanie tym, co si\u0119 tutaj dzieje: stanem zabytk\u00f3w, stanem przyrody. Bo ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.vVeEidGnbyCE1FB0729hyg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "PolskieRadio5 godz.",
+            "source": "PolskieRadio",
+            "article_content": "Hanna Wr\u00f3blewska powo\u0142a\u0142a Paw\u0142a Jaskanisa na stanowisko dyrektora Muzeum Pa\u0142acu Kr\u00f3la Jana III w Wilanowie. Tym samym historyk sztuki i specjalista z zakresu opieki nad zabytkami, ich ochrony i dokumentacji oraz muzealnictwa b\u0119dzie pe\u0142ni\u0107 t\u0119 funkcj\u0119 nieprzerwanie od 2002 roku.\n\nPos\u0142uchaj 06:33 Poranek Dw\u00f3jki Jaskanis 2025_01_08-07-16-38.mp3 Pawe\u0142 Jaskanis o planach Muzeum Pa\u0142acu w Wilanowie (Poranek Dw\u00f3jki)\n\nPawe\u0142 Jaskanis kontynuuje misj\u0119 w Wilanowie\n\nMimo \u017ce Pawe\u0142 Jaskanis kieruje instytucj\u0105 od ponad dwudziestu lat, nie czuje si\u0119 niezast\u0105piony. Jak podkre\u015bla, wci\u0105\u017c przed nim pojawiaj\u0105 si\u0119 nowe wyzwania.\n\n- Du\u017cym przedsi\u0119wzi\u0119ciem na najbli\u017csze lata jest zako\u0144czenie prac konserwatorskich w p\u00f3\u0142nocnym skrzydle pa\u0142acu, gdzie mamy dekoracje z po\u0142owy XIX wieku oraz z lat dwudziestych XX wieku. Powsta\u0142y one w zwi\u0105zku z galeri\u0105 muzealn\u0105, kt\u00f3r\u0105 rodzina Potockich otworzy\u0142a w 1805 roku. I w tym kszta\u0142cie ogl\u0105damy j\u0105 dzisiaj. Mog\u0119 zapowiedzie\u0107 odtworzenie tej galerii obraz\u00f3w i rzemios\u0142a ju\u017c w bardziej naukowym kszta\u0142cie w 2026 roku - m\u00f3wi\u0142 dyrektor muzeum.\n\nCzytaj te\u017c:\n\nMiejsce, gdzie kultura \u0142\u0105czy si\u0119 z natur\u0105\n\nMuzeum Pa\u0142acu Kr\u00f3la Jana III w Wilanowie to nie tylko miejsce, kt\u00f3re sprawuje opiek\u0119 nad zabytkowymi obiektami, ale r\u00f3wnie\u017c nad przyrod\u0105, zwi\u0105zan\u0105 pa\u0142acem. - Coraz bardziej ewoluujemy w tym kierunku, po to, by w wiarygodny spos\u00f3b sprawowa\u0107 opiek\u0119 nad zabytkami kultury i natury i po to, \u017ceby wiarygodnie edukowa\u0107. Za tym stoi wychowanie obywatelskie i patriotyczne.\n\nZ Wilanowem \u0142\u0105czy si\u0119 r\u00f3wnie\u017c Gucin Gaj, czyli za\u0142o\u017cenie parkowe z lat 1817\u20131821 na terenie historycznych d\u00f3br wilanowskich, podobnie jak Natolin czy Morysin. Te dawne miejsca niegdy\u015b przypomina\u0142y o \u015bwietno\u015bci Wilanowa. Dzi\u015b jednak wymagaj\u0105 starannej opieki i renowacji.\n\n- Postulat udost\u0119pnienia w ca\u0142o\u015bci d\u00f3br wilanowskich, zw\u0142aszcza tych z pocz\u0105tku XIX wieku, jest podstaw\u0105. Zamierzam przedstawi\u0107 moim prze\u0142o\u017conym wieloletni program rewitalizacji zabytk\u00f3w i regeneracji \u015brodowiskowej, tak \u017ceby spi\u0105\u0107 te wszystkie elementy - zapowiedzia\u0142 Pawe\u0142 Jaskanis.\n\n***\n\nRozmawia\u0142a: Ma\u0142gorzata Nieciecka-Mac\n\nGo\u015b\u0107: Pawe\u0142 Jaskanis (dyrektor Muzeum Pa\u0142acu Kr\u00f3la Jana III w Wilanowie)\n\nData emisji: 8.01.2025\n\nGodzina emisji: 7.15\n\nMateria\u0142 wyemitowano w audycji \"Poranek Dw\u00f3jki\".\n\nam/dz"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Luna szokuj\u0105co o maj\u0105tku rodzic\u00f3w. Ich status materialny przeszkadza jej w karierze!",
+            "link": "https://www.eska.pl/news/luna-szokujaco-o-majatku-rodzicow-ich-status-materialny-przeszkadza-jej-w-karierze-aa-yVTZ-eGyL-CQno.html",
+            "description": "Nie jest tajemnic\u0105, \u017ce Luna, reprezentantka Polski na Eurowizji 2024, ma wp\u0142ywowych i bogatych rodzic\u00f3w. Piosenkarka twierdzi ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.yxn2egQQUZ7ygpA7ipTkIi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "ESKA3 godz.",
+            "source": "ESKA",
+            "article_content": "Luna dzia\u0142a na polskim rynku muzycznym ju\u017c od kilku lat, jednak ca\u0142a Polska pozna\u0142a j\u0105 w lutym ubieg\u0142ego roku, gdy to w\u0142a\u015bnie ona wygra\u0142a wewn\u0119trzne preselekcje i zosta\u0142a wybrana reprezentantk\u0105 naszego kraju na Eurowizji z utworem \"The Tower\". Rodzime media szybko odkry\u0142y, \u017ce Luna, a jeszcze do niedawna Aleksandra Wielgomas, to c\u00f3rka w\u0142a\u015bciciela firmy Dawtona. Artystka nie odziedziczy\u0142a jednak po rodzicach smyka\u0142ki do biznesu i postawi\u0142a na rozwijanie kariery wokalnej. Fakt, i\u017c jest c\u00f3rk\u0105 milioner\u00f3w, wywo\u0142a\u0142 wysyp z\u0142o\u015bliwych komentarzy, jakoby sukces w bran\u017cy fonograficznej zawdzi\u0119cza\u0142a ona jedynie statusowi materialnemu swoich rodzic\u00f3w. W najnowszym wywiadzie Luna po raz kolejny odpar\u0142a zarzuty, \u017ce to tata \"kupi\u0142 jej karier\u0119\", sugeruj\u0105c, i\u017c wbrew pozorom maj\u0105tek rodzic\u00f3w przyni\u00f3s\u0142 jej wi\u0119cej k\u0142opot\u00f3w, ani\u017celi po\u017cytku, je\u015bli chodzi o dzia\u0142alno\u015b\u0107 zawodow\u0105.\n\nZobacz: Kuba Badach \"ksi\u0105\u017c\u0119 kefir\u00f3w\". Artysta ma wp\u0142ywowego ojca. Rozkr\u0119ci\u0142 bardzo dochodowy biznes!\n\nLuna ani razu nie obejrza\u0142a swojego wyst\u0119pu na Eurowizji. Tak skomentowa\u0142a brak awansu! Rozwijamy nasz serwis dzi\u0119ki wy\u015bwietlaniu reklam. Blokuj\u0105c reklamy, nie pozwalasz nam tworzy\u0107 warto\u015bciowych tre\u015bci. Wy\u0142\u0105cz AdBlock i od\u015bwie\u017c stron\u0119.\n\nLuna o maj\u0105tku rodzic\u00f3w. Twierdzi, \u017ce jej przeszkadza\n\nW wywiadzie dla Newseria Lifestyle Luna po raz kolejny wypowiedzia\u0142a si\u0119 na temat sytuacji materialnej swoich rodzic\u00f3w, jasno daj\u0105c do zrozumienia, i\u017c nie mia\u0142a ona wp\u0142ywu na jej karier\u0119 muzyczn\u0105. Artystka zapewni\u0142a nawet, \u017ce posiadanie bogatych rodzic\u00f3w przeszkadza, a nie pomaga w budowaniu marki.\n\nMy\u015bl\u0119, \u017ce status materialny moich rodzic\u00f3w przeszkadza w mojej karierze, wcale nie traktuj\u0119 tego jako co\u015b, co mi pomog\u0142o. Ludzie wysnuwaj\u0105 jakie\u015b teorie, \u017ce rzekomo moi rodzice pomogli mi osi\u0105gn\u0105\u0107 sukces, a ja na przyk\u0142ad na swojej sk\u00f3rze widz\u0119 to na odwr\u00f3t. W momencie, kiedy wszyscy zacz\u0119li si\u0119 interesowa\u0107 moim \u017cyciem, moj\u0105 rodzin\u0105 i szukali na ten temat r\u00f3\u017cnych informacji, to mi to utrudni\u0142o wiele rzeczy.\n\n25-latka doda\u0142a, \u017ce postrzeganie jej w kategoriach \"c\u00f3rki milionera\" uwa\u017ca za krzywdz\u0105ce."
         }
     },
     {
@@ -234,7 +298,7 @@
             "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.o4EwlAsIz5rMM3h8kMS_wi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "gs24.pl3 godz.",
+            "date": "gs24.pl7 godz.",
             "source": "gs24.pl",
             "article_content": "Content not available"
         }
@@ -245,44 +309,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Wa\u017c\u0105 si\u0119 losy zabytkowej kamienicy. \"Wykwaterowali lokator\u00f3w\"",
-            "link": "https://finanse.wp.pl/waza-sie-losy-zabytkowej-kamienicy-wykwaterowali-lokatorow-7111960407829248a",
-            "description": "Olszty\u0144ska kamienica przy ulicy Mickiewicza 27, zwana \"kamienic\u0105 ze stra\u017cnikiem\", od ponad roku stoi pusta. Lokatorzy ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.5FF9TIMbtckYBP2O8iw9JA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "zabytkowe+przedmioty",
-            "date": "wp2 godz.",
-            "source": "wp",
-            "article_content": "Pobieranie, zwielokrotnianie, przechowywanie lub jakiekolwiek inne wykorzystywanie tre\u015bci dost\u0119pnych w niniejszym serwisie - bez wzgl\u0119du na ich charakter i spos\u00f3b wyra\u017cenia (w szczeg\u00f3lno\u015bci lecz nie wy\u0142\u0105cznie: s\u0142owne, s\u0142owno-muzyczne, muzyczne, audiowizualne, audialne, tekstowe, graficzne i zawarte w nich dane i informacje, bazy danych i zawarte w nich dane) oraz form\u0119 (np. literackie, publicystyczne, naukowe, kartograficzne, programy komputerowe, plastyczne, fotograficzne) wymaga uprzedniej i jednoznacznej zgody Wirtualna Polska Media Sp\u00f3\u0142ka Akcyjna z siedzib\u0105 w Warszawie, b\u0119d\u0105cej w\u0142a\u015bcicielem niniejszego serwisu, bez wzgl\u0119du na spos\u00f3b ich eksploracji i wykorzystan\u0105 metod\u0119 (manualn\u0105 lub zautomatyzowan\u0105 technik\u0119, w tym z u\u017cyciem program\u00f3w uczenia maszynowego lub sztucznej inteligencji). Powy\u017csze zastrze\u017cenie nie dotyczy wykorzystywania jedynie w celu u\u0142atwienia ich wyszukiwania przez wyszukiwarki internetowe oraz korzystania w ramach stosunk\u00f3w umownych lub dozwolonego u\u017cytku okre\u015blonego przez w\u0142a\u015bciwe przepisy prawa.Szczeg\u00f3\u0142owa tre\u015b\u0107 dotycz\u0105ca niniejszego zastrze\u017cenia znajduje si\u0119 tutaj."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "To prawdziwy unikat, jedyny taki skarb w Polsce. Wykopano go na polu w 1983 roku. Jest bezcenny",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/jedyny-taki-skarb-w-polsce-wykopano-go-na-polu-w-1983-roku-jest-bezcenny/ar-AA1x5B9h?ocid=BingNewsVerp",
-            "description": "To polski skarb. Wykopano go na polu w 1983 roku. Wybity przez Boles\u0142awa Chrobrego srebrny denar z lat 992-997, b\u0119d\u0105cy w posiadaniu Muzeum Pomorza \u015arodkowego w S\u0142upsku, jest bezcenny. Zachowa\u0142y si\u0119 ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.5s2nDicEFNR6T9e5rt0xCA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "zabytkowe+przedmioty",
-            "date": "Dziennik Ba\u0142tycki on MSN46 min",
-            "source": "Dziennik Ba\u0142tycki on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "\u0141\u00f3d\u017a jak Warszawa, te\u017c ma wielkiego klocka. Nowy dworzec \u0141\u00f3d\u017a Kaliska wywo\u0142uje wrzenie",
+            "title": "\u0141\u00f3d\u017a jak Warszawa, te\u017c ma sw\u00f3j wielki klocek. Nowy dworzec \u0141\u00f3d\u017a Kaliska wywo\u0142uje wrzenie",
             "link": "https://lodz.wyborcza.pl/lodz/7,35136,31594266,lodz-jak-warszawa-tez-ma-swoj-klocek-nowy-dworzec-lodz-kaliska.html",
             "description": "Warszawa ma Muzeum Sztuki Nowoczesnej. \u0141\u00f3d\u017a b\u0119dzie mie\u0107 nowy dworzec \u0141\u00f3d\u017a Kaliska. Jedno i drugie zamkni\u0119te w formie klocka.",
             "image_url": "https://www.bing.pl/th?id=OVFT.7FLTVTrhWAkI2R4NvxIMey&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "lodz.wyborcza3 godz.",
+            "date": "lodz.wyborcza7 godz.",
             "source": "lodz.wyborcza",
             "article_content": ""
         }
@@ -293,12 +325,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Najlepsze miejsce na urlop? Sprawd\u017a, ranking nowych hoteli na 2025 rok",
-            "link": "https://stronapodrozy.pl/najlepsze-miejsce-na-urlop-sprawdz-ranking-nowych-hoteli-na-2025-rok/ar/c7p2-27147441",
-            "description": "Planujesz wyj\u0105tkowy urlop w 2025 roku? Odkryj najbardziej ekscytuj\u0105ce nowe hotele wed\u0142ug presti\u017cowego rankingu The Times. Od odnowionych historycznych budynk\u00f3w w Wielkiej Brytanii po luksusowe kurorty ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.uWSgCOuCIdP2C1AZMOMBmw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Termy \u2013 co to w\u0142a\u015bciwie jest?",
+            "link": "https://stronapodrozy.pl/termy-na-zimowy-weekend-19-najlepszych-miejsc-z-goracymi-zrodlami-w-polsce-jak-wplywaja-na-zdrowie-ile-kosztuja-bilety/ar/c7-17046559",
+            "description": "Lista term to gotowy zestaw pomys\u0142\u00f3w na zabaw\u0119 i relaks w gor\u0105cych \u017ar\u00f3d\u0142ach. Wycieczka do term to \u015bwietny pomys\u0142 na weekend ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.HjD%2b58rzzMX95GpzZjIgTQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "stronapodrozy1 godz.",
+            "date": "stronapodrozy3 godz.",
             "source": "stronapodrozy",
             "article_content": "Content not available"
         }
@@ -314,7 +346,7 @@
             "description": "Mo\u017cliwe, \u017ce w zakamarkach swojego domu trzymasz prawdziwy skarb. B\u0119dziesz zaskoczony za jakie kwoty mo\u017cna sprzeda\u0107 stare banknoty i monety z czas\u00f3w PRL-u. Kolekcjonerzy s\u0105 w stanie zap\u0142aci\u0107 za te ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Koszali\u0144ski on MSN2 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN6 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
@@ -330,7 +362,7 @@
             "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet zwyk\u0142a pi\u0119cioz\u0142ot\u00f3wka mo\u017ce mie\u0107 wielokrotnie wi\u0119ksz\u0105 warto\u015b\u0107 ni\u017c nomina\u0142.",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "gk24.pl3 godz.",
+            "date": "gk24.pl7 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -343,10 +375,10 @@
         "body": {
             "title": "To prawdziwy unikat, jedyny taki skarb w Polsce. Wykopano go na polu w 1983 roku. Jest bezcenny",
             "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/jedyny-taki-skarb-w-polsce-wykopano-go-na-polu-w-1983-roku-jest-bezcenny/ar-AA1x5B9h?ocid=BingNewsVerp",
-            "description": "- Srebrny denar Boles\u0142awa Chrobrego to jeden z naszych najcenniejszych eksponat\u00f3w. Prawdziwy unikat. W Polsce zachowa\u0142y si\u0119 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.bl7Yv6yw8x4wVyv5QEYz_S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "description": "To polski skarb. Wykopano go na polu w 1983 roku. Wybity przez Boles\u0142awa Chrobrego srebrny denar z lat 992-997, b\u0119d\u0105cy w posiadaniu Muzeum Pomorza \u015arodkowego w S\u0142upsku, jest bezcenny. Zachowa\u0142y si\u0119 ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.5s2nDicEFNR6T9e5rt0xCA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "Dziennik Ba\u0142tycki on MSN46 min",
+            "date": "Dziennik Ba\u0142tycki on MSN4 godz.",
             "source": "Dziennik Ba\u0142tycki on MSN",
             "article_content": ""
         }
@@ -362,7 +394,7 @@
             "description": "Przedmioty z czas\u00f3w PRL w 2025 roku zyskuj\u0105 na warto\u015bci. S\u0105 poszukiwane zar\u00f3wno przez kolekcjoner\u00f3w, jak i mi\u0142o\u015bnik\u00f3w retro, a ich ceny na rynku stale rosn\u0105. Je\u015bli masz w swoim domu przedmioty z PRL, ...",
             "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "Pomorska2 godz.",
+            "date": "Pomorska6 godz.",
             "source": "Pomorska",
             "article_content": "Content not available"
         }
@@ -373,14 +405,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Tymi pieni\u0119dzmi nie zap\u0142acisz od listopada! Te banknoty trac\u0105 wa\u017cno\u015b\u0107 ju\u017c za chwil\u0119 08.01.2025",
-            "link": "https://gs24.pl/tymi-pieniedzmi-nie-zaplacisz-od-listopada-te-banknoty-traca-waznosc-juz-za-chwile-08012025/ar/c1-17690367",
-            "description": "Jakie banknoty trzeba wymieni\u0107 w 2024 roku? Banknoty, kt\u00f3re posiadamy w swoich portfelach nie zawsze zachowuj\u0105 swoj\u0105 wa\u017cno\u015b\u0107, a tak\u017ce warto\u015b\u0107. To na posiadaczu banknotu ci\u0105\u017cy obowi\u0105zek jego wymiany.",
-            "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Rzadkie monety z PRL poszukiwane przez kolekcjoner\u00f3w. Sprawd\u017a, kt\u00f3re s\u0105 najdro\u017csze i ile mo\u017cna za nie zarobi\u0107! 08.01.2025",
+            "link": "https://www.msn.com/pl-pl/finanse/og%C3%B3lne/rzadkie-monety-z-prl-poszukiwane-przez-kolekcjoner%C3%B3w-sprawd%C5%BA-kt%C3%B3re-s%C4%85-najdro%C5%BCsze-i-ile-mo%C5%BCna-za-nie-zarobi%C4%87-08-01-2025/ar-AA1x9Eu9?ocid=BingNewsVerp",
+            "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ich pojawienia si\u0119 na rynku. Najcz\u0119\u015bciej poszukiwane monety przez kolekcjone ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.A9xqYWX22R6wJlvUbZ9SPQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "gs24.pl3 godz.",
-            "source": "gs24.pl",
-            "article_content": "Content not available"
+            "date": "Express Ilustrowany on MSN5 godz.",
+            "source": "Express Ilustrowany on MSN",
+            "article_content": ""
         }
     },
     {
@@ -391,10 +423,10 @@
         "body": {
             "title": "To prawdziwy unikat, jedyny taki skarb w Polsce. Wykopano go na polu w 1983 roku. Jest bezcenny",
             "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/jedyny-taki-skarb-w-polsce-wykopano-go-na-polu-w-1983-roku-jest-bezcenny/ar-AA1x5B9h?ocid=BingNewsVerp",
-            "description": "- Srebrny denar Boles\u0142awa Chrobrego to jeden z naszych najcenniejszych eksponat\u00f3w. Prawdziwy unikat. W Polsce zachowa\u0142y si\u0119 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.bl7Yv6yw8x4wVyv5QEYz_S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "description": "To polski skarb. Wykopano go na polu w 1983 roku. Wybity przez Boles\u0142awa Chrobrego srebrny denar z lat 992-997, b\u0119d\u0105cy w posiadaniu Muzeum Pomorza \u015arodkowego w S\u0142upsku, jest bezcenny. Zachowa\u0142y si\u0119 ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.5s2nDicEFNR6T9e5rt0xCA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "wykopano+zabytkowe",
-            "date": "Dziennik Ba\u0142tycki on MSN46 min",
+            "date": "Dziennik Ba\u0142tycki on MSN4 godz.",
             "source": "Dziennik Ba\u0142tycki on MSN",
             "article_content": ""
         }
@@ -410,7 +442,7 @@
             "description": "W neolitycznych kopalniach w Krzemionkach (woj. \u015bwi\u0119tokrzyskie), jednym z najwa\u017cniejszych stanowisk archeologicznych w Polsce ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.HPBIRBZDQH9-Hg8Y4wLwKi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Radio ZET1 godz.",
+            "date": "Radio ZET5 godz.",
             "source": "Radio ZET",
             "article_content": "W Krzemionkach rozpoczn\u0105 si\u0119 badania nad neolitycznymi naskalnymi rysunkami\n\nTechnologia reflektografii w podczerwieni pomo\u017ce odkry\u0107 niewidoczne detale\n\nTo stanowisko archeologiczne zosta\u0142o wpisane na List\u0119 \u015awiatowego Dziedzictwa UNESCO w 2019 roku\n\nNaukowcy zbadaj\u0105 neolityczne rysunki w Krzemionkach\n\nProjekt \u201eWi\u0119cej \u015bwiat\u0142a!\u201d realizowany jest przez Muzeum Historyczno- Archeologiczne w Ostrowcu \u015awi\u0119tokrzyskim i Instytut Archeologii i Etnologii Polskiej Akademii Nauk. Prace rozpoczn\u0105 si\u0119 w drugiej po\u0142owie stycznia. W zwi\u0105zku z tym cz\u0119\u015b\u0107 trasy turystycznej mo\u017ce zosta\u0107 czasowo zamkni\u0119ta. Celem bada\u0144 w neolitycznych kopalniach jest odkrycie niewidocznych detali malowide\u0142 oraz zrozumienie intencji ich tw\u00f3rc\u00f3w. Naukowcy z pomoc\u0105 reflektografii w podczerwieni zamierzaj\u0105 przeanalizowa\u0107 zachowane piktogramy. - W Krzemionkach zachowa\u0142o si\u0119 oko\u0142o 60 \u015blad\u00f3w naskalnych, z czego kilkana\u015bcie mo\u017cna interpretowa\u0107 jako proste rysunki - m\u00f3wi PAP archeolog Artur Jedynak, kustosz i koordynator ds. UNESCO w Muzeum Historyczno-Archeologicznym.\n\nRysunki wykonane by\u0142y g\u0142\u00f3wnie za pomoc\u0105 w\u0119gla drzewnego pochodz\u0105cego z \u0142uczywa u\u017cywanego do o\u015bwietlenia tuneli kopalni. Odkryte obrazy mog\u0142y pe\u0142ni\u0107 funkcje praktyczne, ostrzegawcze czy symboliczne. Znajdziemy w\u015br\u00f3d nich takie wizerunki jak tzw. Wielka Matka, kt\u00f3re \u015bwiadcz\u0105 o duchowej stronie \u017cycia pradawnych g\u00f3rnik\u00f3w. - Chcemy sprawdzi\u0107, czy mo\u017ce w miejscach z rysunkami istniej\u0105 warstwy niewidoczne dla ludzkiego oka lub wykonane z innych materia\u0142\u00f3w ni\u017c w\u0119giel drzewny \u2013 zaznacza Artur Jedynak. Jednym z g\u0142\u00f3wnych cel\u00f3w projektu jest zabezpieczenie zachowanych rysunk\u00f3w. Wyniki analiz pos\u0142u\u017c\u0105 do opracowania programu konserwacji tych neolitycznych zabytk\u00f3w. Naukowcy maj\u0105 nadziej\u0119, \u017ce odkrycie szczeg\u00f3\u0142owych detali malowide\u0142 i ich pierwotnego wygl\u0105du rzuci nowe \u015bwiat\u0142o na \u017cycie i wierzenia ludzi epoki neolitu. Badania obejm\u0105 tak\u017ce analiz\u0119 \u015blad\u00f3w \u017ar\u00f3de\u0142 \u015bwiat\u0142a, takich jak t\u0142uste okopcenia na stropach, kt\u00f3re mog\u0105 potwierdzi\u0107 hipotez\u0119 o u\u017cywaniu w kopalniach kagank\u00f3w na t\u0142uszcz zwierz\u0119cy.\n\nDziedzictwo prehistorycznych kopal\u0144 w \u015awi\u0119tokrzyskiem\n\nSpektakularne malowid\u0142a w Krzemionkach odkry\u0142 pod koniec lat 20. XX wieku archeolog Stefan Krukowski. By\u0142y to rysunki przedstawiaj\u0105ce g\u0142ow\u0119 byka, stopy oraz \u0142\u00f3dk\u0119. Malowid\u0142a te nie przetrwa\u0142y do naszych czas\u00f3w. - Niestety, ta cz\u0119\u015b\u0107 kopalni ju\u017c nie istnieje - dodaje Jedynak. Reprodukcje tych rysunk\u00f3w dost\u0119pne s\u0105 w monografii Krzemionek z 1939 roku. Po drugiej wojnie \u015bwiatowej profesor Zygmunt Krzak odkry\u0142 kolejne cenne malowid\u0142o, znane jako \"Wielka Matka\" lub \"pramatka\". Jest to wizerunek, kt\u00f3ry przypuszczalnie przedstawia neolityczne b\u00f3stwo i do dzi\u015b zdobi logo Muzeum Historyczno-Archeologicznego w Ostrowcu \u015awi\u0119tokrzyskim.\n\nWpisane w 2019 roku na List\u0119 \u015awiatowego Dziedzictwa UNESCO Krzemionki s\u0105 znane jako najwi\u0119kszy na \u015bwiecie kompleks prehistorycznych kopal\u0144 krzemienia pasiastego. Powsta\u0142y one oko\u0142o 5 tys. lat temu, w okresie neolitu i wczesnej epoki br\u0105zu. Neolityczne pole g\u00f3rnicze odkryto w 1922 roku dzi\u0119ki geologowi Janowi Samsonowiczowi. Ma ono powierzchni\u0119 80 hektar\u00f3w i zawiera oko\u0142o 4 tysi\u0105ce szyb\u00f3w. Z krzemienia wyrabiano g\u0142\u00f3wnie polerowane siekiery, kt\u00f3re rozsy\u0142ano na odleg\u0142o\u015b\u0107 660 kilometr\u00f3w.\n\n\u0179r\u00f3d\u0142o: Radio ZET/PAP\n\n(7)\n\nzobacz galeri\u0119"
         }
@@ -426,7 +458,7 @@
             "description": "Przez ostatnie lata odkryto wiele pozosta\u0142o\u015bci po naszych przodkach, nawet tych, kt\u00f3rzy zasiedlali te ziemie jeszcze przed ...",
             "image_url": "https://www.bing.pl/th?id=OVF.eMatKpCz7Gxbofo%2bFOi5dw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Gazeta Lubuska19 godz.",
+            "date": "Gazeta Lubuska23 godz.",
             "source": "Gazeta Lubuska",
             "article_content": "Content not available"
         }
