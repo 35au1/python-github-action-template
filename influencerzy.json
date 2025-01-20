@@ -10,7 +10,7 @@
             "description": "Niedzielna (19.01) gie\u0142da przy ul. Andersa w Bia\u0142ymstoku to wa\u017cne miejsce do robienia zakup\u00f3w w dni wolne. Na placu Podlaskiego Centrum Rolno-Towarowym mo\u017cna kupi\u0107 nie tylko artyku\u0142y \u017cywno\u015bciowe, w ...",
             "image_url": "https://www.bing.pl/th?id=ODF.z8szwJPfOZTDo97HvHYzSw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "Poranny18 godz.",
+            "date": "Poranny22 godz.",
             "source": "Poranny",
             "article_content": "Content not available"
         }
@@ -26,8 +26,40 @@
             "description": "W niedziel\u0119, 19 stycznia 2025 roku odby\u0142 si\u0119 tradycyjny Pchli Targ we W\u0142oc\u0142awku przy alei Kazimierza Wielkiego. Zobaczcie na zdj\u0119ciach, co oferowano na Pchlim Targu. Odzie\u017c, meble, kosmetyki, ...",
             "image_url": "https://www.bing.pl/th?id=ODF.Bm8piDnsAoinfeChI0AgCw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "W\u0142oc\u0142awek Nasze Miasto19 godz.",
+            "date": "W\u0142oc\u0142awek Nasze Miasto23 godz.",
             "source": "W\u0142oc\u0142awek Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Przegl\u0105d prasy 20.01.2025 W\u0142oc\u0142awek. Zobacz wczorajsz\u0105 pras\u00f3wk\u0119, poznaj najwa\u017cniejsze informacje z W\u0142oc\u0142awka",
+            "link": "https://wloclawek.naszemiasto.pl/przeglad-prasy-20-01-2025-wloclawek-zobacz-wczorajsza-prasowke-poznaj-najwazniejsze-informacje-z-wloclawka/ar/c1p1-19738625",
+            "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 19.01, we W\u0142oc\u0142awku. Sprawd\u017a, czy nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego. Czy czyta\u0142e\u015b artyku\u0142: ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.Bm8piDnsAoinfeChI0AgCw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "starocie",
+            "date": "W\u0142oc\u0142awek Nasze Miasto4 godz.",
+            "source": "W\u0142oc\u0142awek Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Przegl\u0105d prasy (20.01.2025). Zobacz pras\u00f3wk\u0119 z najwa\u017cniejszymi wydarzeniami z wczoraj. B\u0105d\u017a na bie\u017c\u0105co",
+            "link": "https://poranny.pl/przeglad-prasy-20-01-2025-zobacz-prasowke-z-najwazniejszymi-wydarzeniami-z-wczoraj-badz-na-biezaco/ar/c1p1-19960907",
+            "description": "18 stycznia 2025 roku zapisze si\u0119 w pami\u0119ci maturzyst\u00f3w XI Liceum Og\u00f3lnokszta\u0142c\u0105cego w Bia\u0142ymstoku jako dzie\u0144 pe\u0142en emocji, ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.GbyKt9nypiuJButByno-SS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Poranny4 godz.",
+            "source": "Poranny",
             "article_content": "Content not available"
         }
     },
@@ -42,7 +74,7 @@
             "description": "W niedziel\u0119 12 stycznia pchli targ przy ulicy Grudzi\u0105dzkiej storpedowa\u0142a pogoda. Inaczej by\u0142o w kolejn\u0105, 19 stycznia. Zjawi\u0142o si\u0119 wielu wystawc\u00f3w i klient\u00f3w - z Torunia i jego otoczenia, z innych ...",
             "image_url": "https://www.bing.pl/th?id=ODF.csLl8ZFonfuC8KKWalWEGg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN7 godz.",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN12 godz.",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
             "article_content": ""
         }
@@ -53,44 +85,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Przegl\u0105d tygodnia z 19.01.2025 w Warszawie. Najwa\u017cniejsze wydarzenia od 12.01 do 18.01.2025. Sprawd\u017a, czy nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego",
-            "link": "https://warszawa.naszemiasto.pl/przeglad-tygodnia-z-19-01-2025-w-warszawie-najwazniejsze-wydarzenia-od-12-01-do-18-01-2025-sprawdz-czy-nie-minelo-cie-nic-waznego/ar/c1p1-27183623",
-            "description": "Przygotowali\u015bmy dla Ciebie tygodniow\u0105 pras\u00f3wk\u0119. Je\u015bli w mijaj\u0105cym tygodniu by\u0142e\u015b zbyt zaj\u0119ty, by nad\u0105\u017cy\u0107 za informacjami z ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.hAWmjU7aSw6BHS9p9L%2fceg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "warszawa.naszemiasto21 godz.",
-            "source": "warszawa.naszemiasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Ceny paliwa w niemczech",
-            "link": "https://gazetawroclawska.pl/tag/ceny-paliwa-w-niemczech",
-            "description": "Dzi\u015b (22 grudnia) ostatni w tym roku niedziela handlowa \u2013 szczeg\u00f3lna, bo przed\u015bwi\u0105teczna. To idealna okazja, \u017ceby kupi\u0107 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.9xJ5A4dG5b4zb1EbO-dOwi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "gazetawroclawska.pl17 godz.",
-            "source": "gazetawroclawska.pl",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Stare banknoty i monety u monety z PRL-u. Nie uwierzysz, ile mog\u0105 kosztowa\u0107 pieni\u0105dze z lat 60., 70. i 80. [ZDJ\u0118CIA] 19.01.2025",
-            "link": "https://gk24.pl/stare-banknoty-i-monety-u-monety-z-prlu-nie-uwierzysz-ile-moga-kosztowac-pieniadze-z-lat-60-70-i-80-zdjecia-19012025/ar/c3-18784441",
-            "description": "Mo\u017cliwe, \u017ce w zakamarkach swojego domu trzymasz prawdziwy skarb. B\u0119dziesz zaskoczony za jakie kwoty mo\u017cna sprzeda\u0107 stare banknoty i monety z czas\u00f3w PRL-u. Kolekcjonerzy s\u0105 w stanie zap\u0142aci\u0107 za te ...",
+            "title": "Te monety s\u0105 warte du\u017co wi\u0119cej ni\u017c my\u015blisz. Zobacz czego szukaj\u0105 numizmatycy 20.01.2025",
+            "link": "https://gk24.pl/te-monety-sa-warte-duzo-wiecej-niz-myslisz-zobacz-czego-szukaja-numizmatycy-20012025/ar/c1-18941089",
+            "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet zwyk\u0142a pi\u0119cioz\u0142ot\u00f3wka mo\u017ce mie\u0107 wielokrotnie wi\u0119ksz\u0105 warto\u015b\u0107 ni\u017c nomina\u0142.",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "gk24.pl23 godz.",
+            "date": "gk24.pl3 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -101,13 +101,29 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Ta moneta z PRL mo\u017ce by\u0107 warta nawet 30 tys. z\u0142otych! Koniecznie zobacz swoje szuflady [ZDJ\u0118CIA] 19.01.2025",
-            "link": "https://gs24.pl/ta-moneta-z-prl-moze-byc-warta-nawet-30-tys-zlotych-koniecznie-zobacz-swoje-szuflady-zdjecia-19012025/ar/c1-17906435",
-            "description": "Wycena monet z PRL-u zale\u017cy od rzadko\u015bci wyst\u0119powania, jako\u015bci wybicia oraz gradingu, czyli stanu jej zachowania. W Polsce ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.pM531g1foWeOKq99qYJVCy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Ta moneta z PRL mo\u017ce by\u0107 warta nawet 30 tys. z\u0142otych! Koniecznie zobacz swoje szuflady [ZDJ\u0118CIA] 20.01.2025",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/ta-moneta-z-prl-mo%C5%BCe-by%C4%87-warta-nawet-30-tys-z%C5%82otych-koniecznie-zobacz-swoje-szuflady-zdj%C4%99cia-20012025/ar-AA1xuWzR?ocid=BingNewsVerp",
+            "description": "B\u0105d\u017a szczeg\u00f3lnie uwa\u017cny sprz\u0105taj\u0105c swoje szuflady. Cenne okazy mog\u0105 kurzy\u0107 si\u0119 w zapomnieniu, a monety z PRL mog\u0105 by\u0107 czasami ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.gWbYozHbRicy2bhCiysGkC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "gs24.pl23 godz.",
-            "source": "gs24.pl",
+            "date": "G\u0142os Szczeci\u0144ski on MSN56 min",
+            "source": "G\u0142os Szczeci\u0144ski on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Te banknoty trzeba wymieni\u0107, bo trac\u0105 warto\u015b\u0107. Zobacz, jakie uszkodzenia banknot\u00f3w zmniejszaj\u0105 ich wycen\u0119 20.01.2025",
+            "link": "https://gk24.pl/te-banknoty-trzeba-wymienic-bo-traca-wartosc-zobacz-jakie-uszkodzenia-banknotow-zmniejszaja-ich-wycene-20012025/ar/c1-18995014",
+            "description": "Zobacz, jakie banknoty strac\u0105 na nominale. Znajduje si\u0119 kilka przypadk\u00f3w, kiedy pieni\u0105dz mo\u017ce straci\u0107 wa\u017cno\u015b\u0107 i nale\u017cy go wymieni\u0107, a w niekt\u00f3rych przypadkach traci te\u017c cz\u0119\u015b\u0107 swojej warto\u015bci. Zobacz, ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stare+monety",
+            "date": "gk24.pl3 godz.",
+            "source": "gk24.pl",
             "article_content": "Content not available"
         }
     },
@@ -117,12 +133,28 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Te monety s\u0105 warte du\u017co wi\u0119cej ni\u017c my\u015blisz. Zobacz czego szukaj\u0105 numizmatycy 19.01.2025",
-            "link": "https://www.msn.com/pl-pl/finanse/og%C3%B3lne/te-monety-s%C4%85-warte-du%C5%BCo-wi%C4%99cej-ni%C5%BC-my%C5%9Blisz-zobacz-czego-szukaj%C4%85-numizmatycy-19-01-2025/ar-AA1xrLuj?ocid=BingNewsVerp",
-            "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet zwyk\u0142a pi\u0119cioz\u0142ot\u00f3wka mo\u017ce mie\u0107 wielokrotnie wi\u0119ksz\u0105 warto\u015b\u0107 ni\u017c nomina\u0142.",
-            "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Masz te banknoty? To prawdziwe skarby! Za jeden mo\u017cesz otrzyma\u0107 kilka tysi\u0119cy z\u0142otych! [ZDJ\u0118CIA] 20.01.2025",
+            "link": "https://www.msn.com/pl-pl/finanse/og%C3%B3lne/masz-te-banknoty-to-prawdziwe-skarby-za-jeden-mo%C5%BCesz-otrzyma%C4%87-kilka-tysi%C4%99cy-z%C5%82otych-zdj%C4%99cia-20-01-2025/ar-AA1xuPwy?ocid=BingNewsVerp",
+            "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.o4EwlAsIz5rMM3h8kMS_wi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski on MSN22 godz.",
+            "date": "G\u0142os Szczeci\u0144ski on MSN56 min",
+            "source": "G\u0142os Szczeci\u0144ski on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Te monety z PRL s\u0105 warte ogromne pieni\u0105dze! Zap\u0142acisz za nie nawet kilkana\u015bcie tysi\u0119cy z\u0142otych! Tyle kosztuj\u0105 monety z PRL 20.01.2025",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/te-monety-z-prl-s%C4%85-warte-ogromne-pieni%C4%85dze-zap%C5%82acisz-za-nie-nawet-kilkana%C5%9Bcie-tysi%C4%99cy-z%C5%82otych-tyle-kosztuj%C4%85-monety-z-prl-20012025/ar-AA1xpoqd?ocid=BingNewsVerp",
+            "description": "Czy monety z PRL mog\u0105 by\u0107 warte ogromne pieni\u0105dze? Oczywi\u015bcie! Przedmioty z okresu PRL ciesz\u0105 si\u0119 w naszym kraju rosn\u0105c\u0105 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.3OFU2AaCQdzafKJQeMobQi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "G\u0142os Koszali\u0144ski on MSN2 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
@@ -133,46 +165,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Rzadkie monety z PRL poszukiwane przez kolekcjoner\u00f3w. Sprawd\u017a, kt\u00f3re s\u0105 najdro\u017csze i ile mo\u017cna za nie zarobi\u0107! 19.01.2025",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/rzadkie-monety-z-prl-poszukiwane-przez-kolekcjoner%C3%B3w-sprawd%C5%BA-kt%C3%B3re-s%C4%85-najdro%C5%BCsze-i-ile-mo%C5%BCna-za-nie-zarobi%C4%87-19-01-2025/ar-AA1pJnrf?ocid=BingNewsVerp",
-            "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.w9on_zX-EwcbQY_snNn2BS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "Hostowane na MSN20 godz.",
-            "source": "MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Masz te banknoty? To prawdziwe skarby! Za jeden mo\u017cesz otrzyma\u0107 kilka tysi\u0119cy z\u0142otych! [ZDJ\u0118CIA] 19.01.2025",
-            "link": "https://gs24.pl/masz-te-banknoty-to-prawdziwe-skarby-za-jeden-mozesz-otrzymac-kilka-tysiecy-zlotych-zdjecia-19012025/ar/c1-17930573",
-            "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.o4EwlAsIz5rMM3h8kMS_wi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "gs24.pl23 godz.",
-            "source": "gs24.pl",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Ta porcelana z PRL jest warta maj\u0105tek! Unikatowe zestawy, talerze, fili\u017canki z PRL. Tych przedmiot\u00f3w szukaj\u0105 kolekcjonerzy! 19.01.2025",
-            "link": "https://gk24.pl/ta-porcelana-z-prl-jest-warta-majatek-unikatowe-zestawy-talerze-filizanki-z-prl-tych-przedmiotow-szukaja-kolekcjonerzy-19012025/ar/c9-18691509",
-            "description": "Z pewno\u015bci\u0105 wiele os\u00f3b posiada jeszcze w swoim domu przedmioty z PRL. Mog\u0105 znajdowa\u0107 si\u0119 w piwnicy, na strychu, w schowku, ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.nfg%2bCQ0bFeStvgWWChQ37g&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Ta porcelana z PRL jest warta maj\u0105tek! Unikatowe zestawy, talerze, fili\u017canki z PRL. Tych przedmiot\u00f3w szukaj\u0105 kolekcjonerzy! 20.01.2025",
+            "link": "https://gk24.pl/ta-porcelana-z-prl-jest-warta-majatek-unikatowe-zestawy-talerze-filizanki-z-prl-tych-przedmiotow-szukaja-kolekcjonerzy-20012025/ar/c9-18691509",
+            "description": "Warto r\u00f3wnie\u017c doda\u0107, \u017ce porcelana z okresu PRL charakteryzuje si\u0119 wysok\u0105 jako\u015bci\u0105 wykonania oraz dba\u0142o\u015bci\u0105 o detale. Nawet po ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.4%2blangL6SCbRPOmqgx058w&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "gk24.pl23 godz.",
+            "date": "gk24.pl3 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Ta bi\u017cuteria z PRL jest warta maj\u0105tek! Pi\u0119kne pier\u015bcionki, naszyjniki, ozdoby z PRL na sprzeda\u017c. Ich szukaj\u0105 kolekcjonerzy 20.01.2025",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/ta-bi%C5%BCuteria-z-prl-jest-warta-maj%C4%85tek-pi%C4%99kne-pier%C5%9Bcionki-naszyjniki-ozdoby-z-prl-na-sprzeda%C5%BC-ich-szukaj%C4%85-kolekcjonerzy-20012025/ar-AA1xuxjL?ocid=BingNewsVerp",
+            "description": "Przedmioty z czas\u00f3w PRL, w tym chocia\u017cby stara bi\u017cuteria, ciesz\u0105 si\u0119 w\u015br\u00f3d Polak\u00f3w ogromn\u0105 popularno\u015bci\u0105. \u015amia\u0142o mo\u017cna ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.GX7kWztdipvLZxrB3HJ0Xi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stara+porcelana",
+            "date": "G\u0142os Koszali\u0144ski on MSN2 godz.",
+            "source": "G\u0142os Koszali\u0144ski on MSN",
+            "article_content": ""
         }
     },
     {
@@ -186,8 +202,24 @@
             "description": "Wyburzenia w Wa\u0142brzychu 2025 - co zniknie z mapy miasta?Wyburzenia w Wa\u0142brzychu 2025: Co zniknie na Palestynie, a co na ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.znee6ZmRxr5K3z3zLTKTjy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Wa\u0142brzych Naszemiasto on MSN7 godz.",
+            "date": "Wa\u0142brzych Naszemiasto on MSN11 godz.",
             "source": "Wa\u0142brzych Naszemiasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Ta bi\u017cuteria z czas\u00f3w PRL mo\u017ce by\u0107 warta maj\u0105tek! Te przedmioty mo\u017cemy znale\u017a\u0107 na portalach aukcyjnych 20.01.2025",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/ta-bi%C5%BCuteria-z-czas%C3%B3w-prl-mo%C5%BCe-by%C4%87-warta-maj%C4%85tek-te-przedmioty-mo%C5%BCemy-znale%C5%BA%C4%87-na-portalach-aukcyjnych-20012025/ar-AA1xuCx2?ocid=BingNewsVerp",
+            "description": "Przedmioty z czas\u00f3w PRL na nowo ciesz\u0105 si\u0119 popularno\u015bci\u0105 w\u015br\u00f3d Polak\u00f3w i s\u0105 coraz cz\u0119\u015bciej poszukiwane na portalach aukcyjnych. Nie tylko przez kolekcjoner\u00f3w, ale r\u00f3wnie\u017c zwyk\u0142ych mieszka\u0144c\u00f3w naszego ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stara+porcelana",
+            "date": "G\u0142os Koszali\u0144ski on MSN1 godz.",
+            "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
     },
@@ -202,40 +234,8 @@
             "description": "Pr\u0105d elektryczny jest ukierunkowanym przep\u0142ywem \u0142adunk\u00f3w elektrycznych. Rozr\u00f3\u017cniamy pr\u0105d sta\u0142y, zmienny i przemienny. Pr\u0105d ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.Xzu5L9U_qnp9LKS2BDRxoS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "wspolczesna.pl4 godz.",
+            "date": "wspolczesna.pl8 godz.",
             "source": "wspolczesna.pl",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Bez pr\u0105du w warmi\u0144sko-mazurskim. Gdzie 20.01 s\u0105 awarie, a gdzie planowe wy\u0142\u0105czenia pr\u0105du?",
-            "link": "https://wspolczesna.pl/bez-pradu-w-warminsko-mazurskim-gdzie-20-01-sa-awarie-a-gdzie-planowe-wylaczenia-pradu/ar/c1p1-20589270",
-            "description": "Informacje o planowanych wy\u0142\u0105czeniach pr\u0105du i awariach pochodz\u0105 ze stron operator\u00f3w energii elektrycznej w Polsce: ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.o9z6K1g7VV4YvTKd1KtIZS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stara+porcelana",
-            "date": "wspolczesna.pl6 godz.",
-            "source": "wspolczesna.pl",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Ta bi\u017cuteria z PRL jest warta maj\u0105tek! Pi\u0119kne pier\u015bcionki, naszyjniki, ozdoby z PRL na sprzeda\u017c. Ich szukaj\u0105 kolekcjonerzy 19.01.2025",
-            "link": "https://gk24.pl/ta-bizuteria-z-prl-jest-warta-majatek-piekne-pierscionki-naszyjniki-ozdoby-z-prl-na-sprzedaz-ich-szukaja-kolekcjonerzy-19012025/ar/c9-18813191",
-            "description": "Ta porcelana z PRL jest warta maj\u0105tek! Unikatowe zestawy, talerze, fili\u017canki z PRL. Tych przedmiot\u00f3w szukaj\u0105 kolekcjonerzy! Z pewno\u015bci\u0105 wiele os\u00f3b nie zdaje sobie sprawy, \u017ce mo\u017ce posiada\u0107 w swoim domu ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stara+porcelana",
-            "date": "gk24.pl23 godz.",
-            "source": "gk24.pl",
             "article_content": "Content not available"
         }
     },
@@ -250,7 +250,7 @@
             "description": "W pi\u0105tek i sobot\u0119 17-18.01 odby\u0142 si\u0119 kolejny targ staroci w M1 przy Brzezie\u0144skiej w \u0141odzi. W zesz\u0142ym tygodniu odwiedzili\u015bmy z aparatem tzw. bazar pyszno\u015bci. Wydarzenia odbywaj\u0105 si\u0119 naprzemiennie w ...",
             "image_url": "https://www.bing.pl/th?id=ODF.UASKruzJ5EZV2KOOrppULQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "lodz.naszemiasto14 godz.",
+            "date": "lodz.naszemiasto18 godz.",
             "source": "lodz.naszemiasto",
             "article_content": "Content not available"
         }
@@ -266,7 +266,7 @@
             "description": "W niedziel\u0119, 19 stycznia 2025 roku odby\u0142 si\u0119 tradycyjny Pchli Targ we W\u0142oc\u0142awku przy alei Kazimierza Wielkiego. Zobaczcie na zdj\u0119ciach, co oferowano na Pchlim Targu. Odzie\u017c, meble, kosmetyki, ...",
             "image_url": "https://www.bing.pl/th?id=ODF.Bm8piDnsAoinfeChI0AgCw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "W\u0142oc\u0142awek Nasze Miasto19 godz.",
+            "date": "W\u0142oc\u0142awek Nasze Miasto23 godz.",
             "source": "W\u0142oc\u0142awek Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -277,12 +277,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Nie tylko skarby, ale i b\u0142oto! Taki by\u0142 Pchli Targ przy galerii Avenida w Poznaniu w niedziel\u0119, 19 stycznia. Zobacz zdj\u0119cia!",
-            "link": "https://poznan.naszemiasto.pl/nie-tylko-skarby-ale-i-bloto-taki-byl-pchli-targ-przy-galerii-avenida-w-poznaniu-w-niedziele-19-stycznia-zobacz-zdjecia/ar/c1p2-27183459",
-            "description": "Przy pozna\u0144skiej galerii Avenida, jak co tydzie\u0144, czeka na poznaniak\u00f3w Pchli Targ, kt\u00f3ry od samego pocz\u0105tku istnienia cieszy\u0142 si\u0119 du\u017cym zainteresowaniem zar\u00f3wno kupuj\u0105cych, jak i sprzedaj\u0105cych. Jak ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.Cya7j59Rws2Si6qfmk5ljw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Nie tylko skarby, ale i b\u0142oto! Taki by\u0142 Pchli Targ przy galerii Avenida w Poznaniu w niedziel\u0119, 19 stycznia 2025 roku. Zobacz zdj\u0119cia!",
+            "link": "https://poznan.naszemiasto.pl/nie-tylko-skarby-ale-i-bloto-taki-byl-pchli-targ-przy-galerii-avenida-w-poznaniu-w-niedziele-19-stycznia-2025-roku-zobacz-zdjecia/ar/c1p2-27183459",
+            "description": "Na pchlim targu w Poznaniu mo\u017cna znale\u017a\u0107 szerok\u0105 gam\u0119 przedmiot\u00f3w. W niedziel\u0119, 19 stycznia na gie\u0142dzie mo\u017cna by\u0142o kupi\u0107: ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.dlPlKYlSzsZVXthX41EfAQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "poznan.naszemiasto15 godz.",
+            "date": "poznan.naszemiasto1 godz.",
             "source": "poznan.naszemiasto",
             "article_content": "Content not available"
         }
@@ -293,14 +293,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Pchli targ w Toruniu ca\u0142y czas przyci\u0105ga kupuj\u0105cych. Tak by\u0142o na kolejnym w nowym roku",
-            "link": "https://www.msn.com/pl-pl/shopping/og%C3%B3lne/tak-by%C5%82o-w-niedziel%C4%99-na-pchlim-targu-w-toruniu-mamy-zdj%C4%99cia-z-19-stycznia-2025/ar-AA1xtAu0?ocid=BingNewsVerp",
+            "title": "Tak by\u0142o w niedziel\u0119 na Pchlim Targu w Toruniu. Mamy zdj\u0119cia z 19 stycznia 2025",
+            "link": "https://torun.naszemiasto.pl/tak-bylo-w-niedziele-na-pchlim-targu-w-toruniu-mamy-zdjecia/ar/c1-9855513",
             "description": "W niedziel\u0119 12 stycznia pchli targ przy ulicy Grudzi\u0105dzkiej storpedowa\u0142a pogoda. Inaczej by\u0142o w kolejn\u0105, 19 stycznia. Zjawi\u0142o si\u0119 wielu wystawc\u00f3w i klient\u00f3w - z Torunia i jego otoczenia, z innych ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.csLl8ZFonfuC8KKWalWEGg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "image_url": "https://www.bing.pl/th?id=ODF.liWL6w23oefxD6cfFEdIQA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN7 godz.",
-            "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
-            "article_content": ""
+            "date": "torun.naszemiasto2 godz.",
+            "source": "torun.naszemiasto",
+            "article_content": "Content not available"
         }
     },
     {
@@ -309,13 +309,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Ceny paliwa w niemczech",
-            "link": "https://gazetawroclawska.pl/tag/ceny-paliwa-w-niemczech",
-            "description": "Dzi\u015b (22 grudnia) ostatni w tym roku niedziela handlowa \u2013 szczeg\u00f3lna, bo przed\u015bwi\u0105teczna. To idealna okazja, \u017ceby kupi\u0107 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.9xJ5A4dG5b4zb1EbO-dOwi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Przegl\u0105d prasy 20.01.2025 W\u0142oc\u0142awek. Zobacz wczorajsz\u0105 pras\u00f3wk\u0119, poznaj najwa\u017cniejsze informacje z W\u0142oc\u0142awka",
+            "link": "https://wloclawek.naszemiasto.pl/przeglad-prasy-20-01-2025-wloclawek-zobacz-wczorajsza-prasowke-poznaj-najwazniejsze-informacje-z-wloclawka/ar/c1p1-19738625",
+            "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 19.01, we W\u0142oc\u0142awku. Sprawd\u017a, czy nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego. Czy czyta\u0142e\u015b artyku\u0142: ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.Bm8piDnsAoinfeChI0AgCw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "gazetawroclawska.pl17 godz.",
-            "source": "gazetawroclawska.pl",
+            "date": "W\u0142oc\u0142awek Nasze Miasto4 godz.",
+            "source": "W\u0142oc\u0142awek Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -330,7 +330,7 @@
             "description": "Nowo otwarta atrakcja niedaleko Warszawy zachwyci wszystkich mi\u0142o\u015bnik\u00f3w historii, architektury i kultury. Mowa o zamku w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.5SbaX2fQ8CVL4cpeAfQNcC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Wprost on MSN11 godz.",
+            "date": "Wprost on MSN15 godz.",
             "source": "Wprost on MSN",
             "article_content": ""
         }
@@ -342,12 +342,12 @@
         },
         "body": {
             "title": "Z\u0142ota Kamienica w Gda\u0144sku na sprzeda\u017c. Warta jest fortun\u0119, kiedy\u015b by\u0142a ruin\u0105. Obejrzyjcie zdj\u0119cia",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/pi%C4%99kna-z%C5%82ota-kamienica-w-sercu-gda%C5%84ska-na-sprzeda%C5%BC-warta-jest-fortun%C4%99-w%C5%82a%C5%9Bciciel-ma-wycen%C4%99-obejrzyjcie-te%C5%BC-archiwalne-zdj%C4%99cia/ar-AA1xrQj0?ocid=BingNewsVerp",
-            "description": "Z\u0142ota Kamienica to jednej z najbardziej rozpoznawalnych obiekt\u00f3w Gda\u0144ska. Zabytek znajduj\u0105cy si\u0119 przy D\u0142ugim Targu przyci\u0105ga bogat\u0105 fasad\u0105 i nietuzinkow\u0105 histori\u0105. Uniwersytet Morski w Gdyni, kt\u00f3ry ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.5s2nDicEFNR6T9e5rt0xCA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "link": "https://www.msn.com/pl-pl/historia-i-kultura-spo%C5%82ecze%C5%84stwa/historia/z%C5%82ota-kamienica-w-gda%C5%84sku-na-sprzeda%C5%BC-warta-jest-fortun%C4%99-kiedy%C5%9B-by%C5%82a-ruin%C4%85-obejrzyjcie-zdj%C4%99cia/ar-AA1xrQj0?ocid=BingNewsVerp",
+            "description": "Z\u0142ota Kamienica to jednej z najbardziej rozpoznawalnych obiekt\u00f3w Gda\u0144ska. Zabytek znajduj\u0105cy si\u0119 przy D\u0142ugim Targu przyci\u0105ga ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.x4zEsOGHNjw4cfGsZw2qLy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Dziennik Ba\u0142tycki on MSN17 godz.",
-            "source": "Dziennik Ba\u0142tycki on MSN",
+            "date": "Hostowane na MSN13 godz.",
+            "source": "MSN",
             "article_content": ""
         }
     },
@@ -362,8 +362,24 @@
             "description": "We wsp\u00f3\u0142pracy z Traseo wybrali\u015bmy dla Was 5 tras rowerowych w odleg\u0142o\u015bci do 18 km od Grodziska Mazowieckiego, kt\u00f3re ...",
             "image_url": "https://www.bing.pl/th?id=OVF.L3AOHbijmSSspNjuQ77ATw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "grodziskmazowiecki.naszemiasto15 godz.",
+            "date": "grodziskmazowiecki.naszemiasto19 godz.",
             "source": "grodziskmazowiecki.naszemiasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "\u015acie\u017cki spacerowe do 6 km od Ko\u0142obrzegu. Podpowiadamy, gdzie warto si\u0119 wybra\u0107 w weekend 18 - 19 stycznia",
+            "link": "https://kolobrzeg.naszemiasto.pl/sciezki-spacerowe-do-6-km-od-kolobrzegu-podpowiadamy-gdzie-warto-sie-wybrac-w-weekend-18-19-stycznia/ar/c7p1-22115647",
+            "description": "Budzistowo - miejscowo\u015b\u0107 przed wojn\u0105 nazywana Altstadt, uznawana za kolebk\u0119 miasta Ko\u0142obrzeg. To tu w po\u0142owie IX w. powsta\u0142 gr\u00f3d, kt\u00f3ry da\u0142 pocz\u0105tek silnemu miastu. W XIII wieku Ko\u0142obrzeg otrzyma\u0142 ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.xGyVXoJ9b0zlcu2rTPA_6w&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "relikty",
+            "date": "kolobrzeg.naszemiasto18 godz.",
+            "source": "kolobrzeg.naszemiasto",
             "article_content": "Content not available"
         }
     },
@@ -378,7 +394,7 @@
             "description": "Zanim wyruszysz w tras\u0119, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 25 stycznia w Gryficach ma by\u0107 6\u00b0C. Prawdopodobie\u0144stwo wyst\u0105pienia deszczu wynosi 33%.",
             "image_url": "https://www.bing.pl/th?id=ODF.JS3kPnL-cw_uVSguStd8Cg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "gryfice.naszemiasto13 godz.",
+            "date": "gryfice.naszemiasto17 godz.",
             "source": "gryfice.naszemiasto",
             "article_content": "Content not available"
         }
@@ -394,9 +410,57 @@
             "description": "Przewodnik turystyczny po I Rzeczypospolitej II Ruiny zamku w Besiekierach na wsch\u00f3d od Konina, malowniczo wpasowane w p\u0142ask\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.6CUNEdRmf6Dm51KX7_DIRi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "dorzeczy14 godz.",
+            "date": "dorzeczy18 godz.",
             "source": "dorzeczy",
             "article_content": "I jak zachowanie tych zabytk\u00f3w odmieni\u0142oby oblicze naszego kraju. Zamek po\u0142o\u017cony jest ciekawie, bo na sztucznej wyspie na jeziorze. Przypomina nam, \u017ce wi\u0119kszo\u015b\u0107 obronnych rezydencji i fortec z dawnych wiek\u00f3w otoczona by\u0142a wod\u0105 \u2013 szerokimi fosami cz\u0119sto po\u0142\u0105czonymi ze stawami i sadzawkami. Zazwyczaj nie przetrwa\u0142y one do dzi\u015b. Besiekiery zbudowane zosta\u0142y pod koniec XV w., prawdopodobnie przez kt\u00f3rego\u015b przedstawiciela rodu Soko\u0142owskich; by\u0107 mo\u017ce by\u0142 to stolnik brzeski Miko\u0142aj albo jego krewny \u2013 Wojciech."
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Masz te banknoty? To prawdziwe skarby! Za jeden mo\u017cesz otrzyma\u0107 kilka tysi\u0119cy z\u0142otych! [ZDJ\u0118CIA] 20.01.2025",
+            "link": "https://www.msn.com/pl-pl/finanse/og%C3%B3lne/masz-te-banknoty-to-prawdziwe-skarby-za-jeden-mo%C5%BCesz-otrzyma%C4%87-kilka-tysi%C4%99cy-z%C5%82otych-zdj%C4%99cia-20-01-2025/ar-AA1xuPwy?ocid=BingNewsVerp",
+            "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.o4EwlAsIz5rMM3h8kMS_wi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "G\u0142os Szczeci\u0144ski on MSN56 min",
+            "source": "G\u0142os Szczeci\u0144ski on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Karol Nawrocki w Wejherowie. \u201eCz\u0142owiek bez pami\u0119ci jest cz\u0142owiekiem chorym'",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/karol-nawrocki-w-wejherowie-cz%C5%82owiek-bez-pami%C4%99ci-jest-cz%C5%82owiekiem-chorym/ar-AA1xuW6M?ocid=BingNewsVerp",
+            "description": "Karol Nawrocki, kandydat na prezydenta RP, spotka\u0142 si\u0119 w niedziel\u0119 z mieszka\u0144cami w Wejherowie. Podczas wieczornego ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.%2b%2bYJXyrdFEA5OtHxZb5BeQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Dziennik Ba\u0142tycki on MSN1 godz.",
+            "source": "Dziennik Ba\u0142tycki on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Zapuszczona dzielnica Katowic sta\u0142a si\u0119 dobrym miejscem do \u017cycia. Co zosta\u0142o z programu \"Za\u0142\u0119\u017ce 2000\"",
+            "link": "https://katowice.wyborcza.pl/katowice/7,35063,31623809,jak-zapuszczona-dzielnica-stala-sie-dobrym-miejscem-do-zycia.html",
+            "description": "- Kt\u00f3ra dzielnica ma dzi\u015b dwa teatry, kino, modne lokale i basen? Kiedy\u015b nie by\u0142o tu nic - m\u00f3wi\u0105 mieszka\u0144cy jednej z ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.e-nWFbkIDPB2OwNDT-wP3y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "katowice.wyborcza4 godz.",
+            "source": "katowice.wyborcza",
+            "article_content": ""
         }
     },
     {
@@ -410,7 +474,7 @@
             "description": "W pi\u0105tek i sobot\u0119 17-18.01 odby\u0142 si\u0119 kolejny targ staroci w M1 przy Brzezie\u0144skiej w \u0141odzi. W zesz\u0142ym tygodniu odwiedzili\u015bmy z aparatem tzw. bazar pyszno\u015bci. Wydarzenia odbywaj\u0105 si\u0119 naprzemiennie w ...",
             "image_url": "https://www.bing.pl/th?id=ODF.UASKruzJ5EZV2KOOrppULQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "lodz.naszemiasto14 godz.",
+            "date": "lodz.naszemiasto18 godz.",
             "source": "lodz.naszemiasto",
             "article_content": "Content not available"
         }
@@ -421,60 +485,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Ciekawe trasy do spacerowania w woj. lubuskim. Gdzie warto i\u015b\u0107 w weekend 18 - 19 stycznia? TOP 10 tras",
-            "link": "https://gazetalubuska.pl/ciekawe-trasy-do-spacerowania-w-woj-lubuskim-gdzie-warto-isc-w-weekend-18-19-stycznia-top-10-tras/ar/c7p1-22116493",
-            "description": "W woj. lubuskim nie brakuje tras spacerowych. Przygotowali\u015bmy dla Was 10 sugestii. Mo\u017cecie nam\u00f3wi\u0107 bliskich i wsp\u00f3lnie ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.lrey6H5mPQv2VAww2TLxHi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Lubuska14 godz.",
-            "source": "Gazeta Lubuska",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Zakopane. Atrakcje i ciekawe miejsca o kt\u00f3rych nie wiesz",
-            "link": "https://www.planeta.pl/nauka/zakopane-najlepsze-atrakcje-i-ciekawe-miejsca-co-warto-zobaczyc",
-            "description": "Zakopane, atrakcje i ciekawe miejsca. Co warto odwiedzi\u0107 w Zakopanem? Co fajnego w Zakopanem mo\u017cna zobaczy\u0107 za darmo i co ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.s6EaGIo4pzQ8mLT6AvJZ7i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Planet17 godz.",
-            "source": "Planet",
-            "article_content": "Zakopane, atrakcje i ciekawe miejsca. Co warto odwiedzi\u0107 w Zakopanem? Co fajnego w Zakopanem mo\u017cna zobaczy\u0107 za darmo i co robi\u0107 gdy w g\u00f3rach pada? Wielu turyst\u00f3w nie wie o tych zakopia\u0144skich atrakcjach. Wiele z nich pozwoli lepiej pozna\u0107 histori\u0119 i kultur\u0119 stolicy Tatr.\n\nZakopane. Najlepsze atrakcje, ciekawe miejsca. Co warto zobaczy\u0107? Przewodnik po Zakopanem\n\nZakopane \u2013 s\u0105 takie dni, gdy pada albo zakwasy po g\u00f3rskich w\u0119dr\u00f3wkach nie pozwalaj\u0105 wyruszy\u0107 na szlaki. Co wtedy robi\u0107 w Zakopanem? S\u0105 atrakcje i miejsca w stolicy Tatr o kt\u00f3rych zapewne nie s\u0142yszeli\u015bcie, a powinni\u015bcie. Zakopane oferuje znacznie wi\u0119cej ni\u017c tylko Guba\u0142\u00f3wka, pami\u0105tki ze stragan\u00f3w, zdj\u0119cie z misiem, nowy dworzec i Krup\u00f3wki.\n\nZakopane, Krup\u00f3wki Fot: Pawel Murzyn/East News\n\nCo zobaczy\u0107 w Zakopanem? Gdzie w Zakopanem sp\u0119dzi\u0107 czas z dzieckiem? Zabytki, atrakcje, architektura, rozrywka, edukacja - te miejsca w Zakopanem trzeba zobaczy\u0107.\n\nCentrum Edukacji Przyrodniczej Tatrza\u0144skiego Parku Narodowego\n\nCentrum Edukacji Przyrodniczej w Zakopanem znajdziemy przy ulicy Cha\u0142ubi\u0144skiego 42 a. Oferuje ok. 1 godzin\u0119 zwiedzania. Podczas spaceru edukacyjnego zobaczymy m.in. najwi\u0119ksz\u0105 w Polsce makiet\u0119 Tatr oraz realistyczne dioramy, czyli tr\u00f3jwymiarowe makiety przedstawiaj\u0105ce \u0142\u0105k\u0119, jaskinie i las oraz wp\u0142yw cz\u0142owieka na tatrza\u0144skie ekosystemy. Zobaczymy tak\u017ce filmy przyrodnicze o tatrza\u0144skiej przyrodzie, tak\u017ce w technologii 3D. Nowoczesne sale kinowe zapewni\u0105 dodatkowe wra\u017cenia \u2013 podmuchy \u201ewiatru\u201d czy gwa\u0142towne ruchy fotela.\n\nTatrza\u0144skie Centrum Kultury i Sportu Jutrzenka\n\nTatrza\u0144skie Centrum Kultury i Sportu Jutrzenka, pod adresem ul. Grunwaldzka 3, dzia\u0142a od 1953 roku. To \"galeria dzieci\u0119cej i m\u0142odzie\u017cowej sztuki wszelakiej\". Swoj\u0105 siedzib\u0119 ma w zabytkowej willi w stylu zakopia\u0144skim, wybudowanej w 1900 roku. Oferuje m.in. zaj\u0119cia folklorystyczne w ramach zespo\u0142u \u201eZornica\u201d i kapelach g\u00f3ralskich oraz zespo\u0142ach dudziarskich.\n\nObecnie mie\u015bci si\u0119 tam Tatrza\u0144skie Centrum Kultury \"Jutrzenka\", Galeria ArtPark, Muzeum sztuki m\u0142odej i najm\u0142odszej oraz liczne ko\u0142a zainteresowa\u0144 dla dzieci i m\u0142odzie\u017cy. Organem za\u0142o\u017cycielskim oraz w\u0142a\u015bcicielem obiektu jest Powiat Tatrza\u0144ski- informuje serwis Zakopane.pl.\n\nMuzeum Oscypka w Zakopanem\n\nJak robi si\u0119 oscypki? Warto odwiedzi\u0107 Muzeum Oscypka przy ul. Jagiello\u0144skiej 28. Pod okiem bac\u00f3w mo\u017cna wzi\u0105\u0142 udzia\u0142 w pokazach wytwarzania g\u00f3ralskich ser\u00f3w.\n\nMuzeum Oscypka w Zakopanem Fot: MONKPRESS/East News\n\nQuiz: Znasz polskie zabytki? Test wiedzy o Polsce 1/19 Jaki polski zabytek jest na zdj\u0119ciu? Zamek Moszna Barbakan Zamek krzy\u017cacki w Malborku Zamek w Niedzicy Dalej\n\nChata Saba\u0142y w Zakopanem\n\nChata Saba\u0142y, zwana r\u00f3wnie\u017c Saba\u0142\u00f3wk\u0105, pod adresem ul. Stare Krzept\u00f3wki 17, to muzeum prowadzone przez potomk\u00f3w s\u0142ynnego na Podhalu rodu Krzeptowskich i zarazem najstarszy dom w Zakopanem z prze\u0142omu XVIII/XIX w. To w\u0142a\u015bnie w tej cha\u0142upie urodzi\u0142 si\u0119 s\u0142ynny gaw\u0119dziarz, muzykant Jan Krzeptowski Saba\u0142a. Cha\u0142upa jest pe\u0142na zabytkowych mebli, narz\u0119dzi i sprz\u0119t\u00f3w \u017cycia codziennego oraz starych fotografii rodzinnych. To znakomita lekcja historii Zakopanego.\n\nTermy Zakopia\u0144skie\n\nZm\u0119czeni w\u0119dr\u00f3wkami po g\u00f3rach i jedzeniem na Krup\u00f3wkach? Termy Zakopia\u0144skie (ul. Jagiello\u0144ska 31) to jedna z najpopularniejszych atrakcji. Oferuj\u0105 m.in. sauny, baseny termalne, kr\u0119gielnie, groty solne, centrum rehabilitacji i zdrowia oraz sale zabaw dla dzieci. Warto wcze\u015bniej sprawdzi\u0107 cennik Term Zakopia\u0144skich oraz sprawdzi\u0107 kt\u00f3rych bilet\u00f3w liczba jest ograniczona.\n\nTermy Zakopia\u0144skie Fot: Mateusz Grochocki/East News\n\nMuzeum Tatrza\u0144skie im. Dra Tytusa Cha\u0142ubi\u0144skiego w Zakopanem\n\nMuzeum Tatrza\u0144skie im. Dra Tytusa Cha\u0142ubi\u0144skiego w Zakopanem (ul. Krup\u00f3wki 10) oferuje liczne wystawy, kolekcje muzealne i dzie\u0142a sztuki. Dzia\u0142 etnograficzny i dzia\u0142 przyrodniczy to tysi\u0105ce obiekt\u00f3w. Bogate kolekcje Muzeum Tatrza\u0144skiego, za\u0142o\u017conego przez Towarzystwo Muzeum Tatrza\u0144skiego w roku 1889, to dzie\u0142a sztuki, okazy przyrodnicze, etnograficzne, materia\u0142y archiwalne i biblioteczne.\n\nMuzeum Karola Szymanowskiego w Willi Atma\n\nMuzeum Karola Szymanowskiego znajdziemy w zakopia\u0144skiej willi Atma przy ulicy Kasprusie 19. To jedyne na \u015bwiecie muzeum biograficzne Karola Szymanowskiego (1882-1937). Ten najwi\u0119kszy po Fryderyku Chopinie polski kompozytor od wczesnej m\u0142odo\u015bci ch\u0119tnie przebywa\u0142 w Zakopanem, gdzie w ko\u0144cu osiad\u0142 na sta\u0142e. W muzeum poznamy informacje o \u017cyciu i tw\u00f3rczo\u015bci kompozytora tak\u017ce w formie multimedialnej.\n\nMuzeum Karola Szymanowskiego w willi Atma w Zakopanem Fot: Albin Marciniak/East News\n\nCha\u0142upa G\u0105sienic\u00f3w Sobczak\u00f3w\n\nCha\u0142upa G\u0105sienic\u00f3w Sobczak\u00f3w to ekspozycja sta\u0142a pod adresem ul. Droga do Roj\u00f3w 6. Jak informuje Muzeum Tatrza\u0144skie im. Dra Tytusa Cha\u0142ubi\u0144skiego, \"celem jest pokazanie korzeni stylu zakopia\u0144skiego, kt\u00f3rymi by\u0142y: budownictwo ludowe, wyposa\u017cenie g\u00f3ralskich cha\u0142up, a tak\u017ce powstaj\u0105ce ko\u0144cem XIX wieku kolekcje etnograficzne, a zw\u0142aszcza zbi\u00f3r Marii i Bronis\u0142awa Dembowskich\".\n\nCha\u0142upa G\u0105sienic\u00f3w Sobczak\u00f3w w Zakopanem Fot: Pawel Murzyn/East News\n\nCha\u0142upa po\u0142o\u017cona jest nieopodal s\u0142ynnej z zabytkowej zabudowy ulicy Ko\u015bcieliskiej, nale\u017c\u0105ca w przesz\u0142o\u015bci do g\u00f3ralskiej rodziny G\u0105sienic\u00f3w Sobczak\u00f3w \u2013 to jeden z najcenniejszych zabytk\u00f3w budownictwa ludowego w Zakopanem. Najstarsza jej cz\u0119\u015b\u0107 zosta\u0142a wybudowana oko\u0142o 1830 roku, a jej stan obecny to efekt rozbudowy, kt\u00f3ra mia\u0142a miejsce pod koniec XIX wieku.\n\nStary Ko\u015bci\u00f3\u0142 w Zakopanem\n\nStary Ko\u015bci\u00f3\u0142 w Zakopanem czyli Ko\u015bci\u00f3\u0142 Matki Bo\u017cej Cz\u0119stochowskiej jest zlokalizowany przy Krup\u00f3wkach. Zosta\u0142 zbudowany w 1847 roku. Zabytkowa \u015bwi\u0105tynia z modrzewiowego drewna zosta\u0142a ufundowana przez w\u0142a\u015bcicielk\u0119 d\u00f3br zakopia\u0144skich Klementyn\u0119 Homolacsow\u0105.\n\nKo\u015bci\u00f3\u0142 znajduje si\u0119 na ma\u0142opolskim Szlaku Architektury Drewnianej. W pobli\u017cu ko\u015bcio\u0142a znajduje si\u0119 Cmentarz Zas\u0142u\u017conych na P\u0119ksowym Brzyzku oraz murowana kaplica \u015bw. \u015awierada i Benedykta z oko\u0142o 1810 roku b\u0119d\u0105ca najstarsz\u0105 budowl\u0105 sakraln\u0105 Zakopanego. W ko\u015bciele znajduj\u0105 si\u0119 8-g\u0142osowe organy zbudowane przez Fryderyka Szwarca w 1957 roku.\n\nQuiz: Historia Polski - te daty, bitwy i wydarzenia musi zna\u0107 ka\u017cdy 1/28 Kiedy Armia Czerwona wkroczy\u0142a na teren Rzeczypospolitej Polskiej? 15 sierpnia 1944 1 wrze\u015bnia 1939 17 wrze\u015bnia 1939 10 pa\u017adziernika 1939 Dalej\n\nGaleria W\u0142adys\u0142awa Hasiora \u2013 Muzeum Tatrza\u0144skie\n\nGaleria W\u0142adys\u0142awa Hasiora (wjazd od ul. Piaseckiego) to wystawa prac tego artysty. Zobaczy\u0107 mo\u017cna s\u0142awne sztandary, kompozycje przestrzenne oraz rze\u017aby.\n\nTworzywem s\u0105 r\u00f3\u017cnorakie materia\u0142y, zwyczajne przedmioty, cz\u0119sto rupiecie, kt\u00f3re w r\u0119kach artysty nabieraj\u0105 nowych znacze\u0144. Opatrzone metaforycznymi, dowcipnymi, przekornymi tytu\u0142ami sk\u0142aniaj\u0105 do zastanowienia nad \u015bwiatem wsp\u00f3\u0142czesnym i sztuk\u0105- informuje Muzeum Tatrza\u0144skie.\n\nMuzeum Jana Kasprowicza na Harendzie\n\nMuzeum Jana Kasprowicza na Harendzie (ul. Harenda 12a) znajduje si\u0119 w po\u0142owie drogi mi\u0119dzy Zakopanem a Poroninem. zobaczymy w nim m.in. meble zaprojektowane przez W\u0142adys\u0142awa Jarockiego, g\u00f3ralskie malowanki na szkle, zbierane przez Jana Kasprowicza, portrety jego \u017cony. Obok willi zobaczymy granitowe mauzoleum wzniesione z inicjatywy Marii Kasprowiczowej oraz drewniany ko\u015bci\u00f3\u0142ek powi\u0105zany z mieszka\u0144cami willi na Harendzie.\n\nMuzeum na Harendzie prowadzone jest od lat przez Stowarzyszenie Przyjaci\u00f3\u0142 Tw\u00f3rczo\u015bci Jana Kasprowicza.\n\nKaplica na Jaszczur\u00f3wce\n\nKaplica pw. Naj\u015bwi\u0119tszego Serca Pana Jezusa w Jaszczur\u00f3wce (Jaszczur\u00f3wka 38) to ko\u015bci\u00f3\u0142 filialny parafii rzymskokatolickiej w Toporowej Cyrhli. Odbywaj\u0105 si\u0119 tam msze i nabo\u017ce\u0144stwa, a do tego mo\u017cemy zobaczy\u0107 wystawy malarskie, wernisa\u017ce oraz wystawy malarskie na szkle.\n\nKaplica zosta\u0142a zaprojektowana przez Stanis\u0142awa Witkiewicza. Budow\u0119 rozpocz\u0119to w 1904, po\u015bwi\u0119cenia dokonano w 1907. Znajduje si\u0119 na ma\u0142opolskim Szlaku Architektury Drewnianej.\n\nMuzeum Kornela Makuszy\u0144skiego\n\nMuzeum Kornela Makuszy\u0144skiego to wystawa sta\u0142a pod adresem ul. Kazimierza Przerwy-Tetmajera 15 w willi \"Opolanka\". Jest drugim w Zakopanem muzeum biograficzno-literackim po Kasprowiczowskiej Harendzie. To tam pa\u0144stwo Makuszy\u0144scy mieszkali w czasie niemal corocznych letnich i zimowych pobyt\u00f3w w Zakopanem.\n\nMuzeum oferuje 3 pokoje dawnego mieszkania pa\u0144stwa Makuszy\u0144skich oraz 2 sale tematyczne: \u201e\u017bycie i tw\u00f3rczo\u015b\u0107 Kornela Makuszy\u0144skiego\u201d oraz \u201eLiterackie Zakopane\u201d.\n\nNa zbi\u00f3r dzie\u0142 sztuki znajduj\u0105cy si\u0119 w mieszkaniu sk\u0142adaj\u0105 si\u0119 obrazy i rze\u017aby znanych polskich artyst\u00f3w (m.in. obrazy Juliana Fa\u0142ata, W\u0142odzimierza Jarockiego, Kazimierza Sichulskiego, W\u0142adys\u0142awa Skoczylasa, Stanis\u0142awa Wyspia\u0144skiego, rze\u017aby Konstantego Laszczki i Henryka Kuny), projekty ilustracji do ksi\u0105\u017cek Makuszy\u0144skiego, zabytkowe meble przewa\u017cnie w stylu biedermeier, miniatury, dawna tkanina artystyczna (dywan wschodni, modlitewnik perski, parawan japo\u0144ski), liczne dzie\u0142a dawnej sztuki u\u017cytkowej, jak lampy, zegary, szk\u0142o polskie i francuskie, porcelana chi\u0144ska, angielska, saska, mi\u015bnie\u0144ska- informuje Muzeum Tatrza\u0144skie.\n\nSanktuarium na Krzept\u00f3wkach w Zakopanem\n\nSanktuarium na Krzept\u00f3wkach w Zakopanem (Sanktuarium Matki Bo\u017cej Fatimskiej na zakopia\u0144skich Krzept\u00f3wkach) to rzymskokatolickie sanktuarium maryjne w Polsce, wybudowane jako votum za ocalenie \u017cycia papie\u017ca Jana Paw\u0142a II. Obok ko\u015bcio\u0142a znajduje si\u0119 istniej\u0105ca od lat 50. XX wieku kaplica.\n\nCmentarz Zas\u0142u\u017conych na P\u0119ksowym Brzyzku (Krup\u00f3wki 1a)\n\nTo najstarszy zakopia\u0144ski cmentarz. Nazwa pochodzi od nazwiska darczy\u0144cy ziemi pod nekropoli\u0119, a \u201ebrzyz\u201d w gwarze g\u00f3ralskiej oznacza urwisko nad potokiem. Znajduj\u0105 si\u0119 groby Tytusa Cha\u0142ubi\u0144skiego, Kazimierza Przerwy-Tetmajera, Kornela Makuszy\u0144skiego czy s\u0142ynnego kuriera tatrza\u0144skiego, Stanis\u0142awa Marusarza.\n\n\u0179r\u00f3d\u0142o: Tatrza\u0144ski Park Narodowy (TPN), Radio ZET, Zakopane.pl, Muzeum Tatrza\u0144skie"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Masz te banknoty? To prawdziwe skarby! Za jeden mo\u017cesz otrzyma\u0107 kilka tysi\u0119cy z\u0142otych! [ZDJ\u0118CIA] 19.01.2025",
-            "link": "https://gs24.pl/masz-te-banknoty-to-prawdziwe-skarby-za-jeden-mozesz-otrzymac-kilka-tysiecy-zlotych-zdjecia-19012025/ar/c1-17930573",
-            "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.o4EwlAsIz5rMM3h8kMS_wi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "gs24.pl23 godz.",
-            "source": "gs24.pl",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Stare banknoty i monety u monety z PRL-u. Nie uwierzysz, ile mog\u0105 kosztowa\u0107 pieni\u0105dze z lat 60., 70. i 80. [ZDJ\u0118CIA] 19.01.2025",
-            "link": "https://gk24.pl/stare-banknoty-i-monety-u-monety-z-prlu-nie-uwierzysz-ile-moga-kosztowac-pieniadze-z-lat-60-70-i-80-zdjecia-19012025/ar/c3-18784441",
-            "description": "Mo\u017cliwe, \u017ce w zakamarkach swojego domu trzymasz prawdziwy skarb. B\u0119dziesz zaskoczony za jakie kwoty mo\u017cna sprzeda\u0107 stare banknoty i monety z czas\u00f3w PRL-u. Kolekcjonerzy s\u0105 w stanie zap\u0142aci\u0107 za te ...",
+            "title": "Te monety s\u0105 warte du\u017co wi\u0119cej ni\u017c my\u015blisz. Zobacz czego szukaj\u0105 numizmatycy 20.01.2025",
+            "link": "https://gk24.pl/te-monety-sa-warte-duzo-wiecej-niz-myslisz-zobacz-czego-szukaja-numizmatycy-20012025/ar/c1-18941089",
+            "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet zwyk\u0142a pi\u0119cioz\u0142ot\u00f3wka mo\u017ce mie\u0107 wielokrotnie wi\u0119ksz\u0105 warto\u015b\u0107 ni\u017c nomina\u0142.",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "gk24.pl23 godz.",
+            "date": "gk24.pl3 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -485,14 +501,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Te monety s\u0105 warte du\u017co wi\u0119cej ni\u017c my\u015blisz. Zobacz czego szukaj\u0105 numizmatycy 19.01.2025",
-            "link": "https://www.msn.com/pl-pl/finanse/og%C3%B3lne/te-monety-s%C4%85-warte-du%C5%BCo-wi%C4%99cej-ni%C5%BC-my%C5%9Blisz-zobacz-czego-szukaj%C4%85-numizmatycy-19-01-2025/ar-AA1xrLuj?ocid=BingNewsVerp",
-            "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet zwyk\u0142a pi\u0119cioz\u0142ot\u00f3wka mo\u017ce mie\u0107 wielokrotnie wi\u0119ksz\u0105 warto\u015b\u0107 ni\u017c nomina\u0142.",
+            "title": "Te banknoty trzeba wymieni\u0107, bo trac\u0105 warto\u015b\u0107. Zobacz, jakie uszkodzenia banknot\u00f3w zmniejszaj\u0105 ich wycen\u0119 20.01.2025",
+            "link": "https://gk24.pl/te-banknoty-trzeba-wymienic-bo-traca-wartosc-zobacz-jakie-uszkodzenia-banknotow-zmniejszaja-ich-wycene-20012025/ar/c1-18995014",
+            "description": "Zobacz, jakie banknoty strac\u0105 na nominale. Znajduje si\u0119 kilka przypadk\u00f3w, kiedy pieni\u0105dz mo\u017ce straci\u0107 wa\u017cno\u015b\u0107 i nale\u017cy go wymieni\u0107, a w niekt\u00f3rych przypadkach traci te\u017c cz\u0119\u015b\u0107 swojej warto\u015bci. Zobacz, ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Koszali\u0144ski on MSN22 godz.",
-            "source": "G\u0142os Koszali\u0144ski on MSN",
-            "article_content": ""
+            "date": "gk24.pl3 godz.",
+            "source": "gk24.pl",
+            "article_content": "Content not available"
         }
     },
     {
@@ -506,7 +522,7 @@
             "description": "Siekierka sprzed prawie 3 tysi\u0119cy lat oraz dwa kilkusetletnie \u017celazne topory, kt\u00f3re odkryli cz\u0142onkowie Stowarzyszenia Historyczno-Eksploracyjnego \u201eGrupa Jaros\u0142aw', trafi\u0142y ju\u017c do Muzeum w Jaros\u0142awiu ...",
             "image_url": "https://www.bing.pl/th?id=ODF.f1I8bJbwcln8vUrU0W00ww&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "nowiny24.pl19 godz.",
+            "date": "nowiny24.pl23 godz.",
             "source": "nowiny24.pl",
             "article_content": "Content not available"
         }
