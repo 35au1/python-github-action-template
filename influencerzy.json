@@ -5,44 +5,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Sery, warzywa, starocie, w\u0119dliny, futra albo wiatr\u00f3wki. Niedzielna oferta gie\u0142dy przy Andersa zawsze jest bogata",
-            "link": "https://poranny.pl/sery-warzywa-starocie-wedliny-futra-albo-wiatrowki-niedzielna-oferta-gieldy-przy-andersa-zawsze-jest-bogata/ar/c3-19044862",
-            "description": "Niedzielna (19.01) gie\u0142da przy ul. Andersa w Bia\u0142ymstoku to wa\u017cne miejsce do robienia zakup\u00f3w w dni wolne. Na placu Podlaskiego Centrum Rolno-Towarowym mo\u017cna kupi\u0107 nie tylko artyku\u0142y \u017cywno\u015bciowe, w ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.z8szwJPfOZTDo97HvHYzSw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "starocie",
-            "date": "Poranny22 godz.",
-            "source": "Poranny",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Pchli Targ - 19 stycznia 2025. Starocie, bi\u017cuteria, odzie\u017c. Zobacz zdj\u0119cia, wideo",
-            "link": "https://wloclawek.naszemiasto.pl/pchli-targ-19-stycznia-2025-starocie-bizuteria-odziez-zobacz-zdjecia-wideo/ar/c8p2-27184135",
-            "description": "W niedziel\u0119, 19 stycznia 2025 roku odby\u0142 si\u0119 tradycyjny Pchli Targ we W\u0142oc\u0142awku przy alei Kazimierza Wielkiego. Zobaczcie na zdj\u0119ciach, co oferowano na Pchlim Targu. Odzie\u017c, meble, kosmetyki, ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.Bm8piDnsAoinfeChI0AgCw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "starocie",
-            "date": "W\u0142oc\u0142awek Nasze Miasto23 godz.",
-            "source": "W\u0142oc\u0142awek Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
             "title": "Przegl\u0105d prasy 20.01.2025 W\u0142oc\u0142awek. Zobacz wczorajsz\u0105 pras\u00f3wk\u0119, poznaj najwa\u017cniejsze informacje z W\u0142oc\u0142awka",
             "link": "https://wloclawek.naszemiasto.pl/przeglad-prasy-20-01-2025-wloclawek-zobacz-wczorajsza-prasowke-poznaj-najwazniejsze-informacje-z-wloclawka/ar/c1p1-19738625",
             "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 19.01, we W\u0142oc\u0142awku. Sprawd\u017a, czy nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego. Czy czyta\u0142e\u015b artyku\u0142: ...",
             "image_url": "https://www.bing.pl/th?id=ODF.Bm8piDnsAoinfeChI0AgCw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "W\u0142oc\u0142awek Nasze Miasto4 godz.",
+            "date": "W\u0142oc\u0142awek Nasze Miasto8 godz.",
             "source": "W\u0142oc\u0142awek Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -58,8 +26,24 @@
             "description": "18 stycznia 2025 roku zapisze si\u0119 w pami\u0119ci maturzyst\u00f3w XI Liceum Og\u00f3lnokszta\u0142c\u0105cego w Bia\u0142ymstoku jako dzie\u0144 pe\u0142en emocji, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.GbyKt9nypiuJButByno-SS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Poranny4 godz.",
+            "date": "Poranny8 godz.",
             "source": "Poranny",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pras\u00f3wka 20.01.2025. Zobacz zestawienie najwa\u017cniejszych informacji z wczoraj z naszego wojew\u00f3dztwa",
+            "link": "https://wspolczesna.pl/prasowka-20-01-2025-zobacz-zestawienie-najwazniejszych-informacji-z-wczoraj-z-naszego-wojewodztwa/ar/c1p1-19960917",
+            "description": "Chrzest Pa\u0144ski to wielkie prawos\u0142awne \u015bwi\u0119to z liczby dwunastu. Obchodzone jest 19 stycznia. Nosi te\u017c nazw\u0119 Teofanii ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.sUZZ0RWuXTJi8dFZxRt_YS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "wspolczesna.pl8 godz.",
+            "source": "wspolczesna.pl",
             "article_content": "Content not available"
         }
     },
@@ -74,8 +58,40 @@
             "description": "W niedziel\u0119 12 stycznia pchli targ przy ulicy Grudzi\u0105dzkiej storpedowa\u0142a pogoda. Inaczej by\u0142o w kolejn\u0105, 19 stycznia. Zjawi\u0142o si\u0119 wielu wystawc\u00f3w i klient\u00f3w - z Torunia i jego otoczenia, z innych ...",
             "image_url": "https://www.bing.pl/th?id=ODF.csLl8ZFonfuC8KKWalWEGg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN12 godz.",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN16 godz.",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Rzadkie monety z PRL poszukiwane przez kolekcjoner\u00f3w. Sprawd\u017a, kt\u00f3re s\u0105 najdro\u017csze i ile mo\u017cna za nie zarobi\u0107! 20.01.2025",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/rzadkie-monety-z-prl-poszukiwane-przez-kolekcjoner%C3%B3w-sprawd%C5%BA-kt%C3%B3re-s%C4%85-najdro%C5%BCsze-i-ile-mo%C5%BCna-za-nie-zarobi%C4%87-20-01-2025/ar-AA1xv9KP?ocid=BingNewsVerp",
+            "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.H5xzmA8ZQN7aNok4oKrHnS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "Hostowane na MSN3 godz.",
+            "source": "MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Ta moneta z PRL mo\u017ce by\u0107 warta nawet 30 tys. z\u0142otych! Koniecznie zobacz swoje szuflady [ZDJ\u0118CIA] 20.01.2025",
+            "link": "https://www.msn.com/pl-pl/finanse/og%C3%B3lne/ta-moneta-z-prl-mo%C5%BCe-by%C4%87-warta-nawet-30-tys-z%C5%82otych-koniecznie-zobacz-swoje-szuflady-zdj%C4%99cia-20-01-2025/ar-AA1xuWzR?ocid=BingNewsVerp",
+            "description": "Wycena monet z PRL-u zale\u017cy od rzadko\u015bci wyst\u0119powania, jako\u015bci wybicia oraz gradingu, czyli stanu jej zachowania. W Polsce znajdziemy wiele okaz\u00f3w wartych kilkaset z\u0142otych, ale s\u0105 te\u017c takie, na ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stare+monety",
+            "date": "G\u0142os Szczeci\u0144ski on MSN5 godz.",
+            "source": "G\u0142os Szczeci\u0144ski on MSN",
             "article_content": ""
         }
     },
@@ -90,39 +106,7 @@
             "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet zwyk\u0142a pi\u0119cioz\u0142ot\u00f3wka mo\u017ce mie\u0107 wielokrotnie wi\u0119ksz\u0105 warto\u015b\u0107 ni\u017c nomina\u0142.",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "gk24.pl3 godz.",
-            "source": "gk24.pl",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Ta moneta z PRL mo\u017ce by\u0107 warta nawet 30 tys. z\u0142otych! Koniecznie zobacz swoje szuflady [ZDJ\u0118CIA] 20.01.2025",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/ta-moneta-z-prl-mo%C5%BCe-by%C4%87-warta-nawet-30-tys-z%C5%82otych-koniecznie-zobacz-swoje-szuflady-zdj%C4%99cia-20012025/ar-AA1xuWzR?ocid=BingNewsVerp",
-            "description": "B\u0105d\u017a szczeg\u00f3lnie uwa\u017cny sprz\u0105taj\u0105c swoje szuflady. Cenne okazy mog\u0105 kurzy\u0107 si\u0119 w zapomnieniu, a monety z PRL mog\u0105 by\u0107 czasami ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.gWbYozHbRicy2bhCiysGkC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "G\u0142os Szczeci\u0144ski on MSN56 min",
-            "source": "G\u0142os Szczeci\u0144ski on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Te banknoty trzeba wymieni\u0107, bo trac\u0105 warto\u015b\u0107. Zobacz, jakie uszkodzenia banknot\u00f3w zmniejszaj\u0105 ich wycen\u0119 20.01.2025",
-            "link": "https://gk24.pl/te-banknoty-trzeba-wymienic-bo-traca-wartosc-zobacz-jakie-uszkodzenia-banknotow-zmniejszaja-ich-wycene-20012025/ar/c1-18995014",
-            "description": "Zobacz, jakie banknoty strac\u0105 na nominale. Znajduje si\u0119 kilka przypadk\u00f3w, kiedy pieni\u0105dz mo\u017ce straci\u0107 wa\u017cno\u015b\u0107 i nale\u017cy go wymieni\u0107, a w niekt\u00f3rych przypadkach traci te\u017c cz\u0119\u015b\u0107 swojej warto\u015bci. Zobacz, ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stare+monety",
-            "date": "gk24.pl3 godz.",
+            "date": "gk24.pl7 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -138,7 +122,7 @@
             "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.o4EwlAsIz5rMM3h8kMS_wi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Szczeci\u0144ski on MSN56 min",
+            "date": "G\u0142os Szczeci\u0144ski on MSN5 godz.",
             "source": "G\u0142os Szczeci\u0144ski on MSN",
             "article_content": ""
         }
@@ -149,12 +133,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Te monety z PRL s\u0105 warte ogromne pieni\u0105dze! Zap\u0142acisz za nie nawet kilkana\u015bcie tysi\u0119cy z\u0142otych! Tyle kosztuj\u0105 monety z PRL 20.01.2025",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/te-monety-z-prl-s%C4%85-warte-ogromne-pieni%C4%85dze-zap%C5%82acisz-za-nie-nawet-kilkana%C5%9Bcie-tysi%C4%99cy-z%C5%82otych-tyle-kosztuj%C4%85-monety-z-prl-20012025/ar-AA1xpoqd?ocid=BingNewsVerp",
-            "description": "Czy monety z PRL mog\u0105 by\u0107 warte ogromne pieni\u0105dze? Oczywi\u015bcie! Przedmioty z okresu PRL ciesz\u0105 si\u0119 w naszym kraju rosn\u0105c\u0105 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.3OFU2AaCQdzafKJQeMobQi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Te banknoty trzeba wymieni\u0107, bo trac\u0105 warto\u015b\u0107. Zobacz, jakie uszkodzenia banknot\u00f3w zmniejszaj\u0105 ich wycen\u0119 20.01.2025",
+            "link": "https://www.msn.com/pl-pl/finanse/og%C3%B3lne/te-banknoty-trzeba-wymieni%C4%87-bo-trac%C4%85-warto%C5%9B%C4%87-zobacz-jakie-uszkodzenia-banknot%C3%B3w-zmniejszaj%C4%85-ich-wycen%C4%99/ar-AA1w6WUe?ocid=BingNewsVerp",
+            "description": "Zobacz, jakie banknoty strac\u0105 na nominale. Znajduje si\u0119 kilka przypadk\u00f3w, kiedy pieni\u0105dz mo\u017ce straci\u0107 wa\u017cno\u015b\u0107 i nale\u017cy go wymieni\u0107, a w niekt\u00f3rych przypadkach traci te\u017c cz\u0119\u015b\u0107 swojej warto\u015bci. Zobacz, ...",
+            "image_url": "https://www.bing.plNo image",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski on MSN2 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN7 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
@@ -170,7 +154,7 @@
             "description": "Warto r\u00f3wnie\u017c doda\u0107, \u017ce porcelana z okresu PRL charakteryzuje si\u0119 wysok\u0105 jako\u015bci\u0105 wykonania oraz dba\u0142o\u015bci\u0105 o detale. Nawet po ...",
             "image_url": "https://www.bing.pl/th?id=OVF.4%2blangL6SCbRPOmqgx058w&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "gk24.pl3 godz.",
+            "date": "gk24.pl7 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -186,24 +170,8 @@
             "description": "Przedmioty z czas\u00f3w PRL, w tym chocia\u017cby stara bi\u017cuteria, ciesz\u0105 si\u0119 w\u015br\u00f3d Polak\u00f3w ogromn\u0105 popularno\u015bci\u0105. \u015amia\u0142o mo\u017cna ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.GX7kWztdipvLZxrB3HJ0Xi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "G\u0142os Koszali\u0144ski on MSN2 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN6 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Wyburzenia w Wa\u0142brzychu 2025: Znikaj\u0105ca Palestyna i Bia\u0142y Kamie\u0144 - co jeszcze? Rozbi\u00f3rki z najbli\u017cszych miesi\u0119cy - lista i zdj\u0119cia",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/wyburzenia-w-wa%C5%82brzychu-2025-znikaj%C4%85ca-palestyna-i-bia%C5%82y-kamie%C5%84-co-jeszcze-rozbi%C3%B3rki-z-najbli%C5%BCszych-miesi%C4%99cy-lista-i-zdj%C4%99cia/ar-AA1xqnnK?ocid=BingNewsVerp",
-            "description": "Wyburzenia w Wa\u0142brzychu 2025 - co zniknie z mapy miasta?Wyburzenia w Wa\u0142brzychu 2025: Co zniknie na Palestynie, a co na ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.znee6ZmRxr5K3z3zLTKTjy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stara+porcelana",
-            "date": "Wa\u0142brzych Naszemiasto on MSN11 godz.",
-            "source": "Wa\u0142brzych Naszemiasto on MSN",
             "article_content": ""
         }
     },
@@ -218,9 +186,25 @@
             "description": "Przedmioty z czas\u00f3w PRL na nowo ciesz\u0105 si\u0119 popularno\u015bci\u0105 w\u015br\u00f3d Polak\u00f3w i s\u0105 coraz cz\u0119\u015bciej poszukiwane na portalach aukcyjnych. Nie tylko przez kolekcjoner\u00f3w, ale r\u00f3wnie\u017c zwyk\u0142ych mieszka\u0144c\u00f3w naszego ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "G\u0142os Koszali\u0144ski on MSN1 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN6 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Gdzie nie b\u0119dzie pr\u0105du w warmi\u0144sko-mazurskim 20.01? Sprawd\u017a planowane wy\u0142\u0105czenia pr\u0105du oraz awarie",
+            "link": "https://wspolczesna.pl/gdzie-nie-bedzie-pradu-w-warminsko-mazurskim-20-01-sprawdz-planowane-wylaczenia-pradu-oraz-awarie/ar/c1p1-20589270",
+            "description": "Piaski, 21, 29, Sajzy, od 1 do 1T, 28, ul. R\u00f3\u017cane Wzg\u00f3rze, ul. Polnej R\u00f3\u017cy Brak pr\u0105du mo\u017cesz zg\u0142osi\u0107 pod numerem 991.",
+            "image_url": "https://www.bing.pl/th?id=OVFT.dfQQrRqAgFfEuOx6tAr9NC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stara+porcelana",
+            "date": "wspolczesna.pl5 godz.",
+            "source": "wspolczesna.pl",
+            "article_content": "Content not available"
         }
     },
     {
@@ -234,7 +218,7 @@
             "description": "Pr\u0105d elektryczny jest ukierunkowanym przep\u0142ywem \u0142adunk\u00f3w elektrycznych. Rozr\u00f3\u017cniamy pr\u0105d sta\u0142y, zmienny i przemienny. Pr\u0105d ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.Xzu5L9U_qnp9LKS2BDRxoS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "wspolczesna.pl8 godz.",
+            "date": "wspolczesna.pl12 godz.",
             "source": "wspolczesna.pl",
             "article_content": "Content not available"
         }
@@ -250,24 +234,8 @@
             "description": "W pi\u0105tek i sobot\u0119 17-18.01 odby\u0142 si\u0119 kolejny targ staroci w M1 przy Brzezie\u0144skiej w \u0141odzi. W zesz\u0142ym tygodniu odwiedzili\u015bmy z aparatem tzw. bazar pyszno\u015bci. Wydarzenia odbywaj\u0105 si\u0119 naprzemiennie w ...",
             "image_url": "https://www.bing.pl/th?id=ODF.UASKruzJ5EZV2KOOrppULQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "lodz.naszemiasto18 godz.",
+            "date": "lodz.naszemiasto23 godz.",
             "source": "lodz.naszemiasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Pchli Targ - 19 stycznia 2025. Starocie, bi\u017cuteria, odzie\u017c. Zobacz zdj\u0119cia, wideo",
-            "link": "https://wloclawek.naszemiasto.pl/pchli-targ-19-stycznia-2025-starocie-bizuteria-odziez-zobacz-zdjecia-wideo/ar/c8p2-27184135",
-            "description": "W niedziel\u0119, 19 stycznia 2025 roku odby\u0142 si\u0119 tradycyjny Pchli Targ we W\u0142oc\u0142awku przy alei Kazimierza Wielkiego. Zobaczcie na zdj\u0119ciach, co oferowano na Pchlim Targu. Odzie\u017c, meble, kosmetyki, ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.Bm8piDnsAoinfeChI0AgCw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "targ+staroci",
-            "date": "W\u0142oc\u0142awek Nasze Miasto23 godz.",
-            "source": "W\u0142oc\u0142awek Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -282,7 +250,7 @@
             "description": "Na pchlim targu w Poznaniu mo\u017cna znale\u017a\u0107 szerok\u0105 gam\u0119 przedmiot\u00f3w. W niedziel\u0119, 19 stycznia na gie\u0142dzie mo\u017cna by\u0142o kupi\u0107: ...",
             "image_url": "https://www.bing.pl/th?id=OVF.dlPlKYlSzsZVXthX41EfAQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "poznan.naszemiasto1 godz.",
+            "date": "poznan.naszemiasto5 godz.",
             "source": "poznan.naszemiasto",
             "article_content": "Content not available"
         }
@@ -293,13 +261,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Tak by\u0142o w niedziel\u0119 na Pchlim Targu w Toruniu. Mamy zdj\u0119cia z 19 stycznia 2025",
-            "link": "https://torun.naszemiasto.pl/tak-bylo-w-niedziele-na-pchlim-targu-w-toruniu-mamy-zdjecia/ar/c1-9855513",
-            "description": "W niedziel\u0119 12 stycznia pchli targ przy ulicy Grudzi\u0105dzkiej storpedowa\u0142a pogoda. Inaczej by\u0142o w kolejn\u0105, 19 stycznia. Zjawi\u0142o si\u0119 wielu wystawc\u00f3w i klient\u00f3w - z Torunia i jego otoczenia, z innych ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.liWL6w23oefxD6cfFEdIQA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Nie tylko skarby, ale i b\u0142oto! Taki by\u0142 Pchli Targ przy galerii Avenida w Poznaniu w niedziel\u0119, 19 stycznia. Zobacz zdj\u0119cia!",
+            "link": "https://poznan.naszemiasto.pl/nie-tylko-skarby-ale-i-bloto-taki-byl-pchli-targ-przy-galerii-avenida-w-poznaniu-w-niedziele-19-stycznia-zobacz-zdjecia/ar/c1p2-27183459",
+            "description": "Przy pozna\u0144skiej galerii Avenida, jak co tydzie\u0144, czeka na poznaniak\u00f3w Pchli Targ, kt\u00f3ry od samego pocz\u0105tku istnienia cieszy\u0142 si\u0119 du\u017cym zainteresowaniem zar\u00f3wno kupuj\u0105cych, jak i sprzedaj\u0105cych. Jak ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.Cya7j59Rws2Si6qfmk5ljw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "torun.naszemiasto2 godz.",
-            "source": "torun.naszemiasto",
+            "date": "poznan.naszemiasto23 godz.",
+            "source": "poznan.naszemiasto",
             "article_content": "Content not available"
         }
     },
@@ -309,13 +277,45 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Przegl\u0105d prasy 20.01.2025 W\u0142oc\u0142awek. Zobacz wczorajsz\u0105 pras\u00f3wk\u0119, poznaj najwa\u017cniejsze informacje z W\u0142oc\u0142awka",
-            "link": "https://wloclawek.naszemiasto.pl/przeglad-prasy-20-01-2025-wloclawek-zobacz-wczorajsza-prasowke-poznaj-najwazniejsze-informacje-z-wloclawka/ar/c1p1-19738625",
-            "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 19.01, we W\u0142oc\u0142awku. Sprawd\u017a, czy nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego. Czy czyta\u0142e\u015b artyku\u0142: ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.Bm8piDnsAoinfeChI0AgCw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Kolekcjonerzy poszukuj\u0105 tych antyk\u00f3w. Unikalne przedmioty do kupienia w internecie. Masz je w domu? 20.01.2025",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/kolekcjonerzy-poszukuj%C4%85-tych-antyk%C3%B3w-unikalne-przedmioty-do-kupienia-w-internecie-masz-je-w-domu-20012025/ar-AA1xvdSu?ocid=BingNewsVerp",
+            "description": "Unikalne antyki poszukiwane przez kolekcjoner\u00f3w mog\u0105 zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na nich zarobi\u0107 fortun\u0119. Cz\u0119sto nie mamy \u015bwiadomo\u015bci, \u017ce przedmioty posiadane w domu warte s\u0105 du\u017co pieni\u0119dzy.",
+            "image_url": "https://www.bing.pl/th?id=ODF.f1I8bJbwcln8vUrU0W00ww&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "W\u0142oc\u0142awek Nasze Miasto4 godz.",
-            "source": "W\u0142oc\u0142awek Nasze Miasto",
+            "date": "Nowiny on MSN4 godz.",
+            "source": "Nowiny on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pchli targ w Toruniu ca\u0142y czas przyci\u0105ga kupuj\u0105cych. Tak by\u0142o na kolejnym w nowym roku",
+            "link": "https://www.msn.com/pl-pl/shopping/og%C3%B3lne/tak-by%C5%82o-w-niedziel%C4%99-na-pchlim-targu-w-toruniu-mamy-zdj%C4%99cia-z-19-stycznia-2025/ar-AA1xtAu0?ocid=BingNewsVerp",
+            "description": "W niedziel\u0119 12 stycznia pchli targ przy ulicy Grudzi\u0105dzkiej storpedowa\u0142a pogoda. Inaczej by\u0142o w kolejn\u0105, 19 stycznia. Zjawi\u0142o si\u0119 wielu wystawc\u00f3w i klient\u00f3w - z Torunia i jego otoczenia, z innych ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.csLl8ZFonfuC8KKWalWEGg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "targ+staroci",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN16 godz.",
+            "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Awantura podzamcze",
+            "link": "https://gs24.pl/tag/awantura-podzamcze",
+            "description": "19 stycznia na szczeci\u0144skim Podzamczu dosz\u0142o do k\u0142\u00f3tni, a nast\u0119pnie b\u00f3jki mi\u0119dzy kilkoma osobami. Policja wyja\u015bnia zdarzenie, ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.AW2R9qMm3Qiw2OmCtiU7tS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "gs24.pl2 godz.",
+            "source": "gs24.pl",
             "article_content": "Content not available"
         }
     },
@@ -330,7 +330,7 @@
             "description": "Nowo otwarta atrakcja niedaleko Warszawy zachwyci wszystkich mi\u0142o\u015bnik\u00f3w historii, architektury i kultury. Mowa o zamku w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.5SbaX2fQ8CVL4cpeAfQNcC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Wprost on MSN15 godz.",
+            "date": "Wprost on MSN19 godz.",
             "source": "Wprost on MSN",
             "article_content": ""
         }
@@ -346,7 +346,7 @@
             "description": "Z\u0142ota Kamienica to jednej z najbardziej rozpoznawalnych obiekt\u00f3w Gda\u0144ska. Zabytek znajduj\u0105cy si\u0119 przy D\u0142ugim Targu przyci\u0105ga ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.x4zEsOGHNjw4cfGsZw2qLy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Hostowane na MSN13 godz.",
+            "date": "Hostowane na MSN17 godz.",
             "source": "MSN",
             "article_content": ""
         }
@@ -362,7 +362,7 @@
             "description": "We wsp\u00f3\u0142pracy z Traseo wybrali\u015bmy dla Was 5 tras rowerowych w odleg\u0142o\u015bci do 18 km od Grodziska Mazowieckiego, kt\u00f3re ...",
             "image_url": "https://www.bing.pl/th?id=OVF.L3AOHbijmSSspNjuQ77ATw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "grodziskmazowiecki.naszemiasto19 godz.",
+            "date": "grodziskmazowiecki.naszemiasto23 godz.",
             "source": "grodziskmazowiecki.naszemiasto",
             "article_content": "Content not available"
         }
@@ -378,7 +378,7 @@
             "description": "Budzistowo - miejscowo\u015b\u0107 przed wojn\u0105 nazywana Altstadt, uznawana za kolebk\u0119 miasta Ko\u0142obrzeg. To tu w po\u0142owie IX w. powsta\u0142 gr\u00f3d, kt\u00f3ry da\u0142 pocz\u0105tek silnemu miastu. W XIII wieku Ko\u0142obrzeg otrzyma\u0142 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.xGyVXoJ9b0zlcu2rTPA_6w&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "kolobrzeg.naszemiasto18 godz.",
+            "date": "kolobrzeg.naszemiasto22 godz.",
             "source": "kolobrzeg.naszemiasto",
             "article_content": "Content not available"
         }
@@ -389,14 +389,46 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Trasy spacerowe do 65 km od Gryfic. Urokliwe trasy na weekend 18 - 19 stycznia",
-            "link": "https://gryfice.naszemiasto.pl/trasy-spacerowe-do-65-km-od-gryfic-urokliwe-trasy-na-weekend-18-19-stycznia/ar/c7p1-22116005",
-            "description": "Zanim wyruszysz w tras\u0119, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 25 stycznia w Gryficach ma by\u0107 6\u00b0C. Prawdopodobie\u0144stwo wyst\u0105pienia deszczu wynosi 33%.",
-            "image_url": "https://www.bing.pl/th?id=ODF.JS3kPnL-cw_uVSguStd8Cg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "relikty",
-            "date": "gryfice.naszemiasto17 godz.",
-            "source": "gryfice.naszemiasto",
+            "title": "\"Przera\u017caj\u0105cy widok\". Na polu le\u017ca\u0142y ludzkie ko\u015bci",
+            "link": "https://tczew.naszemiasto.pl/przerazajacy-widok-na-polu-lezaly-ludzkie-kosci/ar/c1p2-27186007",
+            "description": "Szcz\u0119ka z z\u0119bami, ko\u015b\u0107 udowa, czaszka \u2013 ludzkie ko\u015bci le\u017ca\u0142y na piasku pod lasem. Tego wstrz\u0105saj\u0105cego odkrycia dokonali ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.5a1lojqT18Ll34%2fgFpQV4Q&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "tczew.naszemiasto2 godz.",
+            "source": "tczew.naszemiasto",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Zako\u0144czy\u0142a si\u0119 rozbi\u00f3rka kamienicy. Mieszka\u0144cy s\u0105siednich budynk\u00f3w czekaj\u0105 na decyzj\u0119 o powrocie",
+            "link": "https://tvn24.pl/lublin/lublin-zakonczyla-sie-rozbiorka-kamienicy-przy-ulicy-bernardynskiej-10-doszlo-tam-do-katastrofy-budowlanej-st8267720",
+            "description": "Awaria wodoci\u0105gowa by\u0142a prawdopodobnie przyczyn\u0105 p\u0119kni\u0119cia, a nast\u0119pnie zawalenia cz\u0119\u015bci \u015bciany budynku przy ulicy ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.DXG5H8BhxBvzRtBRI-WW6y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "TVN241 godz.",
+            "source": "TVN24",
+            "article_content": "Zako\u0144czy\u0142a si\u0119 rozbi\u00f3rka pozosta\u0142o\u015bci po XIX-wiecznej kamienicy, kt\u00f3ra sta\u0142a przy ul. Bernardy\u0144skiej 10 w Lublinie. \u015aciana budynku najpierw zacz\u0119\u0142a p\u0119ka\u0107, a potem run\u0119\u0142a. Z tego budynku oraz s\u0105siednich ewakuowano \u0142\u0105cznie 28 os\u00f3b. Przygotowywana jest ekspertyza, kt\u00f3ra ma da\u0107 odpowied\u017a, jakie by\u0142y przyczyny katastrofy budowlanej. Prawdopodobnie by\u0142a to awaria wodoci\u0105gowa. Na szcz\u0119\u015bcie nikomu nic si\u0119 nie sta\u0142o. Mieszka\u0144cy dw\u00f3ch s\u0105siednich kamienic czekaj\u0105 na decyzj\u0119, czy b\u0119d\u0105 mogli wr\u00f3ci\u0107 do swoich mieszka\u0144. Tymczasem prokuratura wszcz\u0119\u0142a \u015bledztwo. Sprawdzane jest, czy nie dosz\u0142o do jakich\u015b zaniedba\u0144 ludzkich, kt\u00f3re mog\u0142y przyczyni\u0107 si\u0119 do katastrofy.\n\nRozbi\u00f3rka pozosta\u0142o\u015bci po budynku ju\u017c si\u0119 zako\u0144czy\u0142a. Trwa jeszcze usuwanie gruzowiska.\n\nChodzi o prywatn\u0105 kamienic\u0119 przy ul. Bernardy\u0144skiej 10 w Lublinie. W pi\u0105tek (17 stycznia) wieczorem, z powodu awarii wodoci\u0105gu, zalana zosta\u0142a piwnica budynku. W nocy stra\u017cacy dostali zg\u0142oszenie o p\u0119kni\u0119ciu jednej ze \u015bcian. Jeszcze przed przyjazdem s\u0142u\u017cb z budynku ewakuowa\u0142o si\u0119 siedem os\u00f3b. Stra\u017cacy od\u0142\u0105czyli dla bezpiecze\u0144stwa wszystkie media: gaz, pr\u0105d i wod\u0119.\n\nKamienic\u0119 trzeba by\u0142o rozebra\u0107 PAP/Wojtek Jargi\u0142o\n\nW nocy zawali\u0142a si\u0119 cz\u0119\u015b\u0107 \u015bciany\n\nPo godzinie 2 w nocy cz\u0119\u015b\u0107 \u015bciany oraz stropu nad piwnic\u0105 uleg\u0142a zawaleniu. Ze wzgl\u0119d\u00f3w bezpiecze\u0144stwa podj\u0119to decyzj\u0119 o ca\u0142o\u015bciowej rozbi\u00f3rce obiektu. Ewakuowano te\u017c kolejne siedem os\u00f3b - z cz\u0119\u015bci s\u0105siedniej kamienicy przy ul. Bernardy\u0144skiej 12. Wszyscy znale\u017ali schronienie u swoich bliskich. Stra\u017cacy odci\u0119li dop\u0142yw gazu do cz\u0119\u015bci terenu.\n\n- Prawdopodobn\u0105 przyczyn\u0105 zdarzenia mog\u0142a by\u0107 awaria wodoci\u0105gowa \u2013 informowa\u0142 w sobot\u0119 rzecznik Komendy Miejskiej PSP w Lublinie starszy kapitan Andrzej Szaco\u0144.\n\nMiasto oferuje pomoc\n\nJak podaje Justyna G\u00f3\u017ad\u017a, rzeczniczka prezydenta Lublina w sobot\u0119 w ci\u0105gu dnia, w zwi\u0105zku z rozbi\u00f3rk\u0105 kamienicy przy ul. Bernardy\u0144skiej 10, ewakuowano r\u00f3wnie\u017c 14 mieszka\u0144c\u00f3w z s\u0105siedniej \"\u00f3semki\".\n\n- Nie by\u0142a to ju\u017c ewakuacja w trybie pilnym. Podobnie jak mieszka\u0144cy pozosta\u0142ych budynk\u00f3w, osoby te s\u0105 u swoich bliskich \u2013 m\u00f3wi.\n\n\u0141\u0105cznie ewakuowano 28 os\u00f3b PAP/Wojtek Jargi\u0142o\n\nDodaje, \u017ce je\u015bli b\u0119dzie taka potrzeba, urz\u0105d miasta zapewni miejsca tymczasowego pobytu.\n\n- W takich miejscach mo\u017cna przebywa\u0107 tak d\u0142ugo, jak b\u0119dzie tego wymaga\u0142a sytuacja. Aktualnie pracownicy Miejskiego O\u015brodka Pomocy Rodzinie przeprowadzaj\u0105 wywiady \u015brodowiskowe z osobami, kt\u00f3re musia\u0142y opu\u015bci\u0107 swoje mieszkania. Po to, \u017ceby jak najlepiej przygotowa\u0107, skierowan\u0105 do nich, ofert\u0119 pomocy. M\u00f3wimy te\u017c o mo\u017cliwo\u015bci wsparcia psychologicznego, je\u015bli zajdzie taka potrzeba \u2013 zaznacza rzeczniczka.\n\nZdecyduj\u0105, czy mieszka\u0144cy s\u0105siednich budynk\u00f3w b\u0119d\u0105 mogli do nich wr\u00f3ci\u0107\n\nJak m\u00f3wi rzecznik Powiatowego Inspektoratu Nadzoru Budowalnego w Lublinie Pawe\u0142 Kwiecie\u0144, trwaj\u0105 prac\u0119 nad ekspertyz\u0105, kt\u00f3ra ma da\u0107 odpowied\u017a na pytanie, jaki by\u0142 pow\u00f3d zawalenia si\u0119 \u015bciany.\n\n- Na razie nic wi\u0119cej nie wiadomo \u2013 zaznacza.\n\nDodaje, \u017ce jutro ma by\u0107 sprawdzany stan kamienic pod numerem 12 i 8. \u2013 Wtedy te\u017c zapadnie decyzja, czy mieszka\u0144cy b\u0119d\u0105 mogli wr\u00f3ci\u0107 do tych budynk\u00f3w \u2013 podkre\u015bla rzecznik.\n\nKamienica pochodzi\u0142a z XIX wieku PAP/Wojtek Jargi\u0142o\n\nPrzed wiekami by\u0142 tu w\u0105w\u00f3z, kt\u00f3ry zbiera\u0142 wody opadowe\n\nPodczas konferencji prasowej, Hubert M\u0105cik, miejski konserwator zabytk\u00f3w informowa\u0142, \u017ce kamienic\u0119, w kt\u00f3rej dosz\u0142o do katastrofy, wzniesiono w XIX wieku. Zwr\u00f3ci\u0142 uwag\u0119, \u017ce w tym rejonie - jak wynika ze \u017ar\u00f3de\u0142 historycznych - by\u0142 w\u0105w\u00f3z, kt\u00f3ry zbiera\u0142 wody opadowe.\n\n- Charakterystyczne obni\u017cenie obszaru mi\u0119dzy ulicami Bernardy\u0144sk\u0105 a Kr\u00f3lewsk\u0105 powoduje, \u017ce w ca\u0142ym tym kwartale co jaki\u015b czas pojawia si\u0119 potrzeba wykonywania prac zabezpieczaj\u0105cych \u2013 stwierdzi\u0142 konserwator.\n\nPrace rozbi\u00f3rkowe ju\u017c si\u0119 zako\u0144czy\u0142y PAP/Wojtek Jargi\u0142o\n\nWszcz\u0119te zosta\u0142o \u015bledztwo\n\nRzeczniczka Prokuratury Okr\u0119gowej w Lublinie Agnieszka K\u0119pka poinformowa\u0142a w poniedzia\u0142ek, \u017ce Prokuratura Rejonowa Lublin-P\u00f3\u0142noc wszcz\u0119\u0142a \u015bledztwo w kierunku sprowadzenia niebezpiecze\u0144stwa katastrofy budowlanej.\n\n- B\u0119dziemy bada\u0107, jakie by\u0142y przyczyny tej katastrofy i czy dosz\u0142o do jakich\u015b zaniedba\u0144 ludzkich, kt\u00f3re mog\u0142y mie\u0107 na to wp\u0142yw \u2013 stwierdzi\u0142a prokurator K\u0119pka.\n\nSzykowana jest ekspertyza, kt\u00f3ra ma da\u0107 odpowied\u017a, jakie by\u0142y przyczyny katastrofy PAP\n\nZaznaczy\u0142a, \u017ce \u015bledztwo prowadzone jest w sprawie, a nie przeciwko komu\u015b. Przest\u0119pstwo prowadzenia niebezpiecze\u0144stwa katastrofy budowlanej zagro\u017cone jest kar\u0105 do 10 lat wi\u0119zienia.\n\nProkurator razem z bieg\u0142ym z zakresu budownictwa prowadz\u0105 w poniedzia\u0142ek ogl\u0119dziny miejsca zdarzenia. Zabezpieczono te\u017c dokumentacj\u0119.\n\nAutorka/Autor:tm\n\n\u0179r\u00f3d\u0142o: tvn24.pl, PAP"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Be\u0142chat\u00f3w tak\u017ce zagra z WO\u015aP. Atrakcji jak zwykle mn\u00f3stwo",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/be%C5%82chat%C3%B3w-tak%C5%BCe-zagra-z-wo%C5%9Bp-atrakcji-jak-zwykle-mn%C3%B3stwo/ar-AA1xvPr6?ocid=BingNewsVerp",
+            "description": "Be\u0142chatowskiemu fina\u0142owi WO\u015aP towarzyszy\u0107 b\u0119d\u0105 te\u017c imprezy sportowe. Klub Biegaczy Spartakus organizuje bieg \"Policz si\u0119 z cukrzyc\u0105\", Powiatowe Centrum Sportu zaprasza na halowy turniej pi\u0142ki no\u017cnej ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.YxBVpSkMMqkNuslpSmUTZA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "zabytkowe+przedmioty",
+            "date": "Be\u0142chat\u00f3w Naszemiasto on MSN1 godz.",
+            "source": "Be\u0142chat\u00f3w Naszemiasto on MSN",
+            "article_content": ""
         }
     },
     {
@@ -410,7 +442,7 @@
             "description": "Przewodnik turystyczny po I Rzeczypospolitej II Ruiny zamku w Besiekierach na wsch\u00f3d od Konina, malowniczo wpasowane w p\u0142ask\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.6CUNEdRmf6Dm51KX7_DIRi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "dorzeczy18 godz.",
+            "date": "dorzeczy22 godz.",
             "source": "dorzeczy",
             "article_content": "I jak zachowanie tych zabytk\u00f3w odmieni\u0142oby oblicze naszego kraju. Zamek po\u0142o\u017cony jest ciekawie, bo na sztucznej wyspie na jeziorze. Przypomina nam, \u017ce wi\u0119kszo\u015b\u0107 obronnych rezydencji i fortec z dawnych wiek\u00f3w otoczona by\u0142a wod\u0105 \u2013 szerokimi fosami cz\u0119sto po\u0142\u0105czonymi ze stawami i sadzawkami. Zazwyczaj nie przetrwa\u0142y one do dzi\u015b. Besiekiery zbudowane zosta\u0142y pod koniec XV w., prawdopodobnie przez kt\u00f3rego\u015b przedstawiciela rodu Soko\u0142owskich; by\u0107 mo\u017ce by\u0142 to stolnik brzeski Miko\u0142aj albo jego krewny \u2013 Wojciech."
         }
@@ -421,62 +453,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Masz te banknoty? To prawdziwe skarby! Za jeden mo\u017cesz otrzyma\u0107 kilka tysi\u0119cy z\u0142otych! [ZDJ\u0118CIA] 20.01.2025",
-            "link": "https://www.msn.com/pl-pl/finanse/og%C3%B3lne/masz-te-banknoty-to-prawdziwe-skarby-za-jeden-mo%C5%BCesz-otrzyma%C4%87-kilka-tysi%C4%99cy-z%C5%82otych-zdj%C4%99cia-20-01-2025/ar-AA1xuPwy?ocid=BingNewsVerp",
-            "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.o4EwlAsIz5rMM3h8kMS_wi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "G\u0142os Szczeci\u0144ski on MSN56 min",
-            "source": "G\u0142os Szczeci\u0144ski on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Karol Nawrocki w Wejherowie. \u201eCz\u0142owiek bez pami\u0119ci jest cz\u0142owiekiem chorym'",
+            "title": "Karol Nawrocki w Wejherowie. \u201eTylu ludzi pami\u0119ta ile z\u0142ego zrobili nam Niemcy'",
             "link": "https://www.msn.com/pl-pl/wiadomosci/polska/karol-nawrocki-w-wejherowie-cz%C5%82owiek-bez-pami%C4%99ci-jest-cz%C5%82owiekiem-chorym/ar-AA1xuW6M?ocid=BingNewsVerp",
             "description": "Karol Nawrocki, kandydat na prezydenta RP, spotka\u0142 si\u0119 w niedziel\u0119 z mieszka\u0144cami w Wejherowie. Podczas wieczornego ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.%2b%2bYJXyrdFEA5OtHxZb5BeQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "image_url": "https://www.bing.pl/th?id=OVF.YMGZQc7eA3OkRHVGLi52ag&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Dziennik Ba\u0142tycki on MSN1 godz.",
+            "date": "Dziennik Ba\u0142tycki on MSN5 godz.",
             "source": "Dziennik Ba\u0142tycki on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Zapuszczona dzielnica Katowic sta\u0142a si\u0119 dobrym miejscem do \u017cycia. Co zosta\u0142o z programu \"Za\u0142\u0119\u017ce 2000\"",
-            "link": "https://katowice.wyborcza.pl/katowice/7,35063,31623809,jak-zapuszczona-dzielnica-stala-sie-dobrym-miejscem-do-zycia.html",
-            "description": "- Kt\u00f3ra dzielnica ma dzi\u015b dwa teatry, kino, modne lokale i basen? Kiedy\u015b nie by\u0142o tu nic - m\u00f3wi\u0105 mieszka\u0144cy jednej z ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.e-nWFbkIDPB2OwNDT-wP3y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "katowice.wyborcza4 godz.",
-            "source": "katowice.wyborcza",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Targ staroci w M1 w \u0141odzi. Srebra, bi\u017cuteria, obrazy, ceramika z PRL-u i inne. ZDJ\u0118CIA",
-            "link": "https://lodz.naszemiasto.pl/targ-staroci-w-m1-w-lodzi-srebra-bizuteria-obrazy-ceramika-z-prl-u-i-inne-zdjecia/ar/c1p2-27184567",
-            "description": "W pi\u0105tek i sobot\u0119 17-18.01 odby\u0142 si\u0119 kolejny targ staroci w M1 przy Brzezie\u0144skiej w \u0141odzi. W zesz\u0142ym tygodniu odwiedzili\u015bmy z aparatem tzw. bazar pyszno\u015bci. Wydarzenia odbywaj\u0105 si\u0119 naprzemiennie w ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.UASKruzJ5EZV2KOOrppULQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "zabytkowe+przedmioty",
-            "date": "lodz.naszemiasto18 godz.",
-            "source": "lodz.naszemiasto",
-            "article_content": "Content not available"
         }
     },
     {
@@ -490,7 +474,7 @@
             "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet zwyk\u0142a pi\u0119cioz\u0142ot\u00f3wka mo\u017ce mie\u0107 wielokrotnie wi\u0119ksz\u0105 warto\u015b\u0107 ni\u017c nomina\u0142.",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "gk24.pl3 godz.",
+            "date": "gk24.pl7 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -502,29 +486,13 @@
         },
         "body": {
             "title": "Te banknoty trzeba wymieni\u0107, bo trac\u0105 warto\u015b\u0107. Zobacz, jakie uszkodzenia banknot\u00f3w zmniejszaj\u0105 ich wycen\u0119 20.01.2025",
-            "link": "https://gk24.pl/te-banknoty-trzeba-wymienic-bo-traca-wartosc-zobacz-jakie-uszkodzenia-banknotow-zmniejszaja-ich-wycene-20012025/ar/c1-18995014",
+            "link": "https://www.msn.com/pl-pl/finanse/og%C3%B3lne/te-banknoty-trzeba-wymieni%C4%87-bo-trac%C4%85-warto%C5%9B%C4%87-zobacz-jakie-uszkodzenia-banknot%C3%B3w-zmniejszaj%C4%85-ich-wycen%C4%99/ar-AA1w6WUe?ocid=BingNewsVerp",
             "description": "Zobacz, jakie banknoty strac\u0105 na nominale. Znajduje si\u0119 kilka przypadk\u00f3w, kiedy pieni\u0105dz mo\u017ce straci\u0107 wa\u017cno\u015b\u0107 i nale\u017cy go wymieni\u0107, a w niekt\u00f3rych przypadkach traci te\u017c cz\u0119\u015b\u0107 swojej warto\u015bci. Zobacz, ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "image_url": "https://www.bing.plNo image",
             "category": "stare+numizmatyka",
-            "date": "gk24.pl3 godz.",
-            "source": "gk24.pl",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Nowe znaleziska poszukiwaczy z Jaros\u0142awia. Wkr\u00f3tce zobaczymy je w muzeum [ZDJ\u0118CIA]",
-            "link": "https://nowiny24.pl/nowe-znaleziska-poszukiwaczy-z-jaroslawia-wkrotce-zobaczymy-je-w-muzeum-zdjecia/ar/c1-19044856",
-            "description": "Siekierka sprzed prawie 3 tysi\u0119cy lat oraz dwa kilkusetletnie \u017celazne topory, kt\u00f3re odkryli cz\u0142onkowie Stowarzyszenia Historyczno-Eksploracyjnego \u201eGrupa Jaros\u0142aw', trafi\u0142y ju\u017c do Muzeum w Jaros\u0142awiu ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.f1I8bJbwcln8vUrU0W00ww&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "nowiny24.pl23 godz.",
-            "source": "nowiny24.pl",
-            "article_content": "Content not available"
+            "date": "G\u0142os Koszali\u0144ski on MSN7 godz.",
+            "source": "G\u0142os Koszali\u0144ski on MSN",
+            "article_content": ""
         }
     }
 ]
