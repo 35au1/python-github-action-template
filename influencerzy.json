@@ -5,14 +5,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Odkryj sekrety serca Cz\u0119stochowy. Wystawa \u201e\u015ar\u00f3dmie\u015bcie. Z dziej\u00f3w cz\u0119stochowskiej dzielnicy' otwarta w Ratuszu",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/odkryj-sekrety-serca-cz%C4%99stochowy-wystawa-%C5%9Br%C3%B3dmie%C5%9Bcie-z-dziej%C3%B3w-cz%C4%99stochowskiej-dzielnicy-otwarta-w-ratuszu/ar-AA1xUPmm?ocid=BingNewsVerp",
-            "description": "Cz\u0119stochowa zaprasza do fascynuj\u0105cej podr\u00f3\u017cy w czasie. W Ratuszu mo\u017cna ju\u017c zwiedza\u0107 najnowsz\u0105 wystaw\u0119 Muzeum Cz\u0119stochowskiego ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.BnZOp8GN5PUJt8a%2f9nQNvA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Zimowe ro\u015bliny",
+            "link": "https://gazetawroclawska.pl/tag/zimowe-rosliny",
+            "description": "Zima to czas, kiedy ogrody botaniczne, co do zasady s\u0105 zamkni\u0119te. Jednak zdarzaj\u0105 si\u0119 wyj\u0105tki i ju\u017c nied\u0142ugo, b\u0119dzie okazja ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.9xJ5A4dG5b4zb1EbO-dOwi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Nasze Miasto on MSN22 godz.",
-            "source": "Nasze Miasto on MSN",
-            "article_content": ""
+            "date": "gazetawroclawska.pl14 godz.",
+            "source": "gazetawroclawska.pl",
+            "article_content": "Content not available"
         }
     },
     {
@@ -21,13 +21,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Zimowe ro\u015bliny",
-            "link": "https://gazetawroclawska.pl/tag/zimowe-rosliny",
-            "description": "Zima to czas, kiedy ogrody botaniczne, co do zasady s\u0105 zamkni\u0119te. Jednak zdarzaj\u0105 si\u0119 wyj\u0105tki i ju\u017c nied\u0142ugo, b\u0119dzie okazja ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.9xJ5A4dG5b4zb1EbO-dOwi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "gazetawroclawska.pl10 godz.",
-            "source": "gazetawroclawska.pl",
+            "title": "Banknoty i monety PRL w cenie z\u0142ota. Tyle w 2025 roku trzeba zap\u0142aci\u0107 za stare pieni\u0105dze",
+            "link": "https://pomorska.pl/banknoty-i-monety-prl-w-cenie-zlota-tyle-w-2025-roku-trzeba-zaplacic-za-stare-pieniadze/ar/c1p2-27205273",
+            "description": "W 2025 roku kolekcjonerzy nadal intensywnie interesuj\u0105 si\u0119 starymi pieni\u0119dzmi z okresu Polskiej Rzeczpospolitej Ludowej. Ceny ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.rWKq%2biidff0tyEkzxoBwuA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "Pomorska2 godz.",
+            "source": "Pomorska",
             "article_content": "Content not available"
         }
     },
@@ -42,7 +42,7 @@
             "description": "W 2025 roku kolekcjonerzy nadal intensywnie interesuj\u0105 si\u0119 starymi pieni\u0119dzmi z okresu Polskiej Rzeczpospolitej Ludowej. Ceny ...",
             "image_url": "https://www.bing.pl/th?id=OVF.hk0QwHWKWJKZFEnTdM9Yig&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Pomorska11 godz.",
+            "date": "Pomorska15 godz.",
             "source": "Pomorska",
             "article_content": "Content not available"
         }
@@ -53,45 +53,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Banknoty i monety PRL w cenie z\u0142ota. Tyle w 2025 roku trzeba zap\u0142aci\u0107 za stare pieni\u0105dze [27.01.2025]",
-            "link": "https://pomorska.pl/banknoty-i-monety-prl-w-cenie-zlota-tyle-w-2025-roku-trzeba-zaplacic-za-stare-pieniadze-27-01-2025/ar/c1p2-27205273",
-            "description": "W 2025 roku kolekcjonerzy nadal intensywnie interesuj\u0105 si\u0119 starymi pieni\u0119dzmi z okresu Polskiej Rzeczpospolitej Ludowej. Ceny ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.qoXHqEV0nCAtD9ih1x0VEA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "Pomorska22 godz.",
-            "source": "Pomorska",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Na tych starych banknotach i monetach mo\u017cna dobrze zarobi\u0107. Kosztuj\u0105 krocie! 27.01.25",
-            "link": "https://gazetakrakowska.pl/na-tych-starych-banknotach-i-monetach-mozna-dobrze-zarobic-kosztuja-krocie-27-01-25/ar/c1p2-27191075",
-            "description": "Szukasz starych banknot\u00f3w i monet? Niekt\u00f3re rzeczy z tego okresu to prawdziwe pere\u0142ki dla kolekcjoner\u00f3w. Poszukuj\u0105 ich na ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.LGgJEPzeQQ8I%2fXbIR7bl1g&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "Gazeta Krakowska23 godz.",
-            "source": "Gazeta Krakowska",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Rzadkie monety z PRL poszukiwane przez kolekcjoner\u00f3w. Sprawd\u017a, kt\u00f3re s\u0105 najdro\u017csze i ile mo\u017cna za nie zarobi\u0107! 27.01.2025",
-            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/rzadkie-monety-z-prl-poszukiwane-przez-kolekcjoner%C3%B3w-sprawd%C5%BA-kt%C3%B3re-s%C4%85-najdro%C5%BCsze-i-ile-mo%C5%BCna-za-nie-zarobi%C4%87-26012025/ar-AA1xHYvF?ocid=BingNewsVerp",
+            "title": "Rzadkie monety z PRL poszukiwane przez kolekcjoner\u00f3w. Sprawd\u017a, kt\u00f3re s\u0105 najdro\u017csze i ile mo\u017cna za nie zarobi\u0107! 28.01.2025",
+            "link": "https://www.msn.com/pl-pl/finanse/og%C3%B3lne/rzadkie-monety-z-prl-poszukiwane-przez-kolekcjoner%C3%B3w-sprawd%C5%BA-kt%C3%B3re-s%C4%85-najdro%C5%BCsze-i-ile-mo%C5%BCna-za-nie-zarobi%C4%87-28-01-2025/ar-AA1xYMCs?ocid=BingNewsVerp",
             "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.gXgAEIWYV7IRwrriZqHbLw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "image_url": "https://www.bing.pl/th?id=OVFT._V-rWLu6pRQ3UWKHtZMwMi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "gp24.pl on MSN21 godz.",
-            "source": "gp24.pl on MSN",
+            "date": "Express Ilustrowany on MSN32 min",
+            "source": "Express Ilustrowany on MSN",
             "article_content": ""
         }
     },
@@ -101,12 +69,28 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Ta moneta z PRL mo\u017ce by\u0107 warta nawet 30 tys. z\u0142otych! Koniecznie zobacz swoje szuflady [ZDJ\u0118CIA] 27.01.2025",
-            "link": "https://gs24.pl/ta-moneta-z-prl-moze-byc-warta-nawet-30-tys-zlotych-koniecznie-zobacz-swoje-szuflady-zdjecia-27012025/ar/c1-17906435",
-            "description": "Wycena monet z PRL-u zale\u017cy od rzadko\u015bci wyst\u0119powania, jako\u015bci wybicia oraz gradingu, czyli stanu jej zachowania. W Polsce znajdziemy wiele okaz\u00f3w wartych kilkaset z\u0142otych, ale s\u0105 te\u017c takie, na ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Te monety s\u0105 warte du\u017co wi\u0119cej ni\u017c my\u015blisz. Zobacz czego szukaj\u0105 numizmatycy 28.01.2025",
+            "link": "https://gk24.pl/te-monety-sa-warte-duzo-wiecej-niz-myslisz-zobacz-czego-szukaja-numizmatycy-28012025/ar/c1-18941089",
+            "description": "Czy posiadasz w portfelu monet\u0119 o nominalne 5 z\u0142? Mo\u017ce pojawi\u0142a si\u0119 szansa, aby\u015b sta\u0142 si\u0119 bogat\u0105 osob\u0105! S\u0105 takie monety, ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.rXY4IFBt9hVZAYwsRbQrPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "gs24.pl23 godz.",
+            "date": "gk24.pl4 godz.",
+            "source": "gk24.pl",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Ta moneta z PRL mo\u017ce by\u0107 warta nawet 30 tys. z\u0142otych! Koniecznie zobacz swoje szuflady [ZDJ\u0118CIA] 28.01.2025",
+            "link": "https://gs24.pl/ta-moneta-z-prl-moze-byc-warta-nawet-30-tys-zlotych-koniecznie-zobacz-swoje-szuflady-zdjecia-28012025/ar/c1-17906435",
+            "description": "B\u0105d\u017a szczeg\u00f3lnie uwa\u017cny sprz\u0105taj\u0105c swoje szuflady. Cenne okazy mog\u0105 kurzy\u0107 si\u0119 w zapomnieniu, a monety z PRL mog\u0105 by\u0107 czasami ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.pM531g1foWeOKq99qYJVCy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "gs24.pl4 godz.",
             "source": "gs24.pl",
             "article_content": "Content not available"
         }
@@ -122,8 +106,24 @@
             "description": "Porcelana produkowana w PRL-u jest obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli posiadasz ...",
             "image_url": "https://www.bing.pl/th?id=OVF.ngrmPZbsUiQlzvTdm0aO4A&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Pomorska11 godz.",
+            "date": "Pomorska15 godz.",
             "source": "Pomorska",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "To kwiaty najlepsze do domu! Te ro\u015bliny doniczkowe s\u0105 pi\u0119kne i wzbogac\u0105 twoje wn\u0119trze. Jakie kwiaty wybra\u0107 do domu? 28.01.2025",
+            "link": "https://gk24.pl/to-kwiaty-najlepsze-do-domu-te-rosliny-doniczkowe-sa-piekne-i-wzbogaca-twoje-wnetrze-jakie-kwiaty-wybrac-do-domu-28012025/ar/c9-18815989",
+            "description": "Obecnie pragniemy, by nasze domowe wn\u0119trza mia\u0142y sw\u00f3j unikatowy charakter, by\u0142y przytulne i kolorowe. Jednym z pomys\u0142\u00f3w na wzbogacenie naszego domowego wn\u0119trza z pewno\u015bci\u0105 s\u0105 kwiaty. Nie tylko dodaj\u0105 ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stara+porcelana",
+            "date": "gk24.pl4 godz.",
+            "source": "gk24.pl",
             "article_content": "Content not available"
         }
     },
@@ -138,7 +138,7 @@
             "description": "Czy komiksy z PRL mog\u0105 by\u0107 warte fortun\u0119? Oczywi\u015bcie! W naszym kraju wraca moda na przedmioty i pami\u0105tki z czas\u00f3w PRL.",
             "image_url": "https://www.bing.pl/th?id=OVFT.0LgvSeJLEJXRDHkSAsnFiy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Hostowane na MSN8 godz.",
+            "date": "Hostowane na MSN12 godz.",
             "source": "MSN",
             "article_content": ""
         }
@@ -154,7 +154,7 @@
             "description": "Spis tre\u015bciPopularno\u015b\u0107 przedmiot\u00f3w z PRLJakich przedmiot\u00f3w z PRL poszukujemy?Monety z PRL warte maj\u0105tek!Ile kosztuj\u0105 monety z ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.mmrf7V4zqE4FRhJP4k7GUy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "G\u0142os Koszali\u0144ski on MSN8 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN12 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
@@ -170,7 +170,7 @@
             "description": "Co tydzie\u0144, w ka\u017cd\u0105 niedziel\u0119, pchli targ przy dworcu Pozna\u0144 G\u0142\u00f3wny i galerii Avenida staje si\u0119 miejscem spotka\u0144 sprzedawc\u00f3w ...",
             "image_url": "https://www.bing.pl/th?id=OVF.RT%2bHkF1c5PYkBdsO3geCYw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "gloswielkopolski10 godz.",
+            "date": "gloswielkopolski14 godz.",
             "source": "gloswielkopolski",
             "article_content": "Content not available"
         }
@@ -181,62 +181,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Kolekcjonerzy poszukuj\u0105 tych antyk\u00f3w. Unikalne przedmioty do kupienia w internecie. Masz je w domu? 27.01.2025",
-            "link": "https://www.msn.com/pl-pl/og%C3%B3lne/og%C3%B3lne/kolekcjonerzy-poszukuj%C4%85-tych-antyk%C3%B3w-unikalne-przedmioty-do-kupienia-w-internecie-masz-je-w-domu-27-01-2025/ar-AA1xUZD4?ocid=BingNewsVerp",
-            "description": "Unikalne antyki poszukiwane przez kolekcjoner\u00f3w mog\u0105 zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na nich zarobi\u0107 fortun\u0119. Cz\u0119sto nie mamy \u015bwiadomo\u015bci, \u017ce przedmioty posiadane w domu warte s\u0105 du\u017co pieni\u0119dzy.",
-            "image_url": "https://www.bing.pl/th?id=ODF.f1I8bJbwcln8vUrU0W00ww&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Kolekcjonerzy poszukuj\u0105 tych antyk\u00f3w. Unikalne przedmioty do kupienia w internecie. Masz je w domu? 28.01.2025",
+            "link": "https://dzienniklodzki.pl/kolekcjonerzy-poszukuja-tych-antykow-unikalne-przedmioty-do-kupienia-w-internecie-masz-je-w-domu-28012025/ar/c9-17262255",
+            "description": "Wiek mebla - to bardzo wa\u017cne!. Wed\u0142ug ustawy z 2004 roku o podatku od towar\u00f3w i us\u0142ug, antyk to\u017csamy jest z przedmiotem ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.M2fw_kVEbAkv5zg2kvCAfS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Nowiny on MSN21 godz.",
-            "source": "Nowiny on MSN",
+            "date": "dzienniklodzki1 godz.",
+            "source": "dzienniklodzki",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Dworzec PKS na Podzamczu. Jest wiele pomys\u0142\u00f3w na teren przy al. Tysi\u0105clecia",
+            "link": "https://www.msn.com/pl-pl/infrastruktura-miejska/budynki-i-przestrzenie-publiczne/dworzec-pks-na-podzamczu-jest-wiele-pomys%C5%82%C3%B3w-na-teren-przy-al-tysi%C4%85clecia/ar-AA1xYGxG?ocid=BingNewsVerp",
+            "description": "28 lutego to ostatni dzie\u0144, kiedy z dworca PKS przy al. Tysi\u0105clecia b\u0119d\u0105 mog\u0142y odje\u017cd\u017ca\u0107 autobusy. Ta data zamknie histori\u0119 ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.6IWszWJuu1n0KyfeHnguOw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "Kurier Lubelski on MSN1 godz.",
+            "source": "Kurier Lubelski on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Dworce Kolejowe",
-            "link": "https://jeleniagora.naszemiasto.pl/tag/dworce-kolejowe",
-            "description": "Zobacz, jak wygl\u0105da\u0142y wroc\u0142awskie dworce kolejowe na przedwojennych poczt\u00f3wkach! Wroc\u0142awskie dworce kolejowe to \u015bwiadkowie ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.qYjRFCBRnyWZ_GVzwe3q5i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "jeleniagora.naszemiasto7 godz.",
-            "source": "jeleniagora.naszemiasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Wroc\u0142awskie dworce kolejowe",
-            "link": "https://gora.naszemiasto.pl/tag/wroclawskie-dworce-kolejowe",
-            "description": "Zobacz, jak wygl\u0105da\u0142y wroc\u0142awskie dworce kolejowe na przedwojennych poczt\u00f3wkach! Wroc\u0142awskie dworce kolejowe to \u015bwiadkowie ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.qYjRFCBRnyWZ_GVzwe3q5i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "gora.naszemiasto7 godz.",
-            "source": "gora.naszemiasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Przedwojenny wroc\u0142aw",
-            "link": "https://jeleniagora.naszemiasto.pl/tag/przedwojenny-wroclaw",
-            "description": "Zobacz, jak wygl\u0105da\u0142y wroc\u0142awskie dworce kolejowe na przedwojennych poczt\u00f3wkach! Wroc\u0142awskie dworce kolejowe to \u015bwiadkowie ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.qYjRFCBRnyWZ_GVzwe3q5i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "jeleniagora.naszemiasto7 godz.",
-            "source": "jeleniagora.naszemiasto",
-            "article_content": "Content not available"
         }
     },
     {
@@ -250,7 +218,7 @@
             "description": "Bielsko-Bia\u0142a, malownicze miasto po\u0142o\u017cone u st\u00f3p Beskid\u00f3w, jest pe\u0142ne fascynuj\u0105cych historii, kt\u00f3re kryj\u0105 si\u0119 w zakamarkach jego zabytkowego Rynku. Jednym z najbardziej intryguj\u0105cych obiekt\u00f3w, kt\u00f3re p ...",
             "image_url": "https://www.bing.pl/th?id=ODF.GoOrchWaYzcV5087yfhbgg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "bielsko17 godz.",
+            "date": "bielsko21 godz.",
             "source": "bielsko",
             "article_content": "fot. Polska ORG\n\nBeskidy.cafe - miejsce, gdzie g\u00f3ry spotykaj\u0105 si\u0119 z pasj\u0105. Zapraszamy!\n\nOdkryta podczas bada\u0144 archeologicznych w 1997 roku, Kamienna Studnia na Rynku w Bielsku-Bia\u0142ej stanowi wa\u017cny element bielskiej to\u017csamo\u015bci oraz \u015bwiadectwo dawnej architektury i \u017cycia mieszka\u0144c\u00f3w.Kamienna Studnia powsta\u0142a prawdopodobnie w XVII wieku, w czasach, gdy Bielsko-Bia\u0142a rozwija\u0142a si\u0119 jako istotny o\u015brodek handlowy. By\u0142a to studnia g\u0142\u0119binowa, zbudowana z otoczak\u00f3w rzecznych, kt\u00f3ra zaopatrywa\u0142a w wod\u0119 zar\u00f3wno lokalnych mieszka\u0144c\u00f3w, jak i przyjezdnych, kt\u00f3rzy t\u0142umnie odwiedzali miasto podczas targ\u00f3w i jarmark\u00f3w odbywaj\u0105cych si\u0119 na Rynku. Studnia by\u0142a nie tylko \u017ar\u00f3d\u0142em wody pitnej, ale tak\u017ce miejscem spotka\u0144 i towarzyskich relacji.Jednak\u017ce, jak to cz\u0119sto bywa, zmiany w infrastrukturze miejskiej oraz rozw\u00f3j technologii spowodowa\u0142y, \u017ce w XIX wieku studnia zosta\u0142a zasypana i popad\u0142a w zapomnienie. Na szcz\u0119\u015bcie, dzi\u0119ki pracom archeologicznym, uda\u0142o si\u0119 przywr\u00f3ci\u0107 j\u0105 do \u017cycia i ujawni\u0107 jej niezwyk\u0142e znaczenie dla lokalnej historii.Obok Kamiennej Studni, od strony po\u0142udniowej, znajduje si\u0119 podziemny, sklepiony zbiornik wodny, kt\u00f3ry powsta\u0142 na prze\u0142omie XVIII i XIX wieku. Ten tajemniczy zbiornik by\u0142 niegdy\u015b zasilany przez miejski wodoci\u0105g, kt\u00f3ry korzysta\u0142 z drewnianych rur. To fascynuj\u0105cy przyk\u0142ad in\u017cynieryjnych rozwi\u0105za\u0144 tamtych czas\u00f3w, kt\u00f3re \u015bwiadcz\u0105 o zaawansowanej my\u015bli technicznej mieszka\u0144c\u00f3w Bielska-Bia\u0142ej.W trakcie bada\u0144 archeologicznych odkryto r\u00f3wnie\u017c wcze\u015bniejszy, drewniany zbiornik wodny z XVI wieku, co rzuca nowe \u015bwiat\u0142o na rozw\u00f3j system\u00f3w zaopatrzenia w wod\u0119 w mie\u015bcie. Co wi\u0119cej, badania ujawni\u0142y prawdopodobne relikty najstarszego \u015bredniowiecznego ratusza, co czyni to miejsce jeszcze bardziej niezwyk\u0142ym.Dzi\u015b Kamienna Studnia jest nie tylko ciekawym punktem turystycznym, ale r\u00f3wnie\u017c symbolem bielskiej historii i kultury. Tury\u015bci mog\u0105 podziwia\u0107 jej unikaln\u0105 architektur\u0119 oraz pozna\u0107 fascynuj\u0105ce opowie\u015bci zwi\u0105zane z jej przesz\u0142o\u015bci\u0105. To idealne miejsce na chwil\u0119 refleksji i odkrywanie tajemnic, kt\u00f3re kryj\u0105 si\u0119 w sercu miasta.Bielsko-Bia\u0142a, z jej bogat\u0105 histori\u0105, zachwyca nie tylko pi\u0119knem architektury, ale tak\u017ce niezwyk\u0142ymi opowie\u015bciami, kt\u00f3re mo\u017cna odkry\u0107 na ka\u017cdym kroku. Kamienna Studnia na Rynku to z pewno\u015bci\u0105 jeden z takich skarb\u00f3w, kt\u00f3ry warto zobaczy\u0107 podczas wizyty w tym urokliwym mie\u015bcie."
         }
@@ -266,9 +234,105 @@
             "description": "Trasa pierwszej linii metra. Oto plany Dok\u0142adny przebieg pierwszej linii metra w Krakowie nadal pozostaje w fazie planowania.",
             "image_url": "https://www.bing.pl/th?id=OVFT.HPbXokvZU_zl-GMUIU5Ksi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Salon2417 godz.",
+            "date": "Salon2421 godz.",
             "source": "Salon24",
             "article_content": "27.01.2025\n\nMetro w Krakowie nabiera kszta\u0142t\u00f3w \u2013 centralny odcinek pierwszej linii ma po\u0142\u0105czy\u0107 AGH z Rondem M\u0142y\u0144skim, przechodz\u0105c w pobli\u017cu Starego Miasta. Cho\u0107 inwestycja niesie za sob\u0105 wyzwania zwi\u0105zane z ochron\u0105 zabytk\u00f3w i histori\u0105 miasta, w\u0142adze zapewniaj\u0105, \u017ce projektowana g\u0142\u0119boko\u015b\u0107 trasy pozwoli unikn\u0105\u0107 kolizji z reliktami przesz\u0142o\u015bci. Na decyzj\u0119 \u015brodowiskow\u0105 czeka teraz krakowski magistrat, a mieszka\u0144cy mog\u0105 zg\u0142asza\u0107 swoje uwagi do ko\u0144ca stycznia.\n\nTrasa pierwszej linii metra. Oto plany\n\n\n\nDok\u0142adny przebieg pierwszej linii metra w Krakowie nadal pozostaje w fazie planowania. Centralny odcinek ma jednak po\u0142\u0105czy\u0107 okolice Akademii G\u00f3rniczo-Hutniczej z Rondem M\u0142y\u0144skim. Wst\u0119pne plany wskazuj\u0105, \u017ce linia b\u0119dzie przebiega\u0107 w pobli\u017cu Starego Miasta, wzd\u0142u\u017c ulicy Basztowej.\n\nWed\u0142ug informacji przekazanych przez krakowski urz\u0105d, planowane stacje centralnego odcinka to:\n\nAGH \u2013 Stare Miasto \u2013 Dworzec G\u0142\u00f3wny \u2013 Rondo Mogilskie \u2013 Olsza \u2013 Rondo M\u0142y\u0144skie.\n\nZobacz tak\u017ceTrump nie bawi si\u0119 w p\u00f3\u0142\u015brodki i jedzie walcem. Chiny b\u0119d\u0105 w\u015bciek\u0142e\n\nW celu koordynacji inwestycji, jesieni\u0105 ubieg\u0142ego roku powo\u0142ano w Urz\u0119dzie Miasta Krakowa specjalny referat ds. metra oraz Rad\u0119 Naukowo-Techniczn\u0105 ds. Budowy Metra. Decyzje dotycz\u0105ce II i III etapu realizacji pierwszej linii maj\u0105 zapa\u015b\u0107 jeszcze w bie\u017c\u0105cym roku.\n\nZobacz tak\u017ceTrump nie bawi si\u0119 w p\u00f3\u0142\u015brodki i jedzie walcem. Chiny b\u0119d\u0105 w\u015bciek\u0142e\n\nZabytki i wyzwania archeologiczne\n\nPodczas budowy metra konieczne b\u0119dzie uwzgl\u0119dnienie historycznego charakteru Krakowa. Relikty dawnych zabudowa\u0144 znajduj\u0105 si\u0119 cz\u0119sto kilka metr\u00f3w pod ziemi\u0105, co stwarza wyzwania przy realizacji inwestycji.\n\n\u2013 Nawarstwienia mog\u0105 si\u0119ga\u0107 nawet kilkunastu metr\u00f3w \u2013 wyja\u015bnia Katarzyna Urba\u0144ska, Wojew\u00f3dzka Konserwator Zabytk\u00f3w.\n\nZ podobnymi wyzwaniami miasto mierzy\u0142o si\u0119 ju\u017c wcze\u015bniej. Przyk\u0142adem s\u0105 prace na ul. D\u0142ugiej, gdzie odkryto historyczny przebieg ulicy, pokrywaj\u0105cy si\u0119 z obecnymi budynkami.\n\nMimo tych trudno\u015bci, Urba\u0144ska podkre\u015bla, \u017ce projektowana g\u0142\u0119boko\u015b\u0107 metra ma zapobiec kolizjom z zabytkami oraz wodami podziemnymi. \u2013 Obawy o zabytki by\u0142y i b\u0119d\u0105, ale projekt zak\u0142ada g\u0142\u0119boko\u015b\u0107, kt\u00f3ra minimalizuje ryzyko.\n\nW\u0142adze miasta zapewniaj\u0105, \u017ce podejm\u0105 wszelkie dzia\u0142ania, by unikn\u0105\u0107 sytuacji podobnych do tej z \u0141odzi, gdzie w trakcie budowy tunelu \u015brednicowego dosz\u0142o do zawalenia si\u0119 kamienicy. \u2013 Takie wydarzenia jak w \u0141odzi nie mog\u0105 si\u0119 powt\u00f3rzy\u0107 \u2013 m\u00f3wi konserwator.\n\nZobacz tak\u017ceWezwania dla setek tysi\u0119cy Polak\u00f3w. Pisma lepiej nie bagatelizowa\u0107\n\nDecyzja \u015brodowiskowa i koszty\n\nObecnie krakowski magistrat czeka na decyzj\u0119 \u015brodowiskow\u0105, kt\u00f3r\u0105 wyda\u0107 maj\u0105 w\u0142adze O\u015bwi\u0119cimia. Wynika to z przepis\u00f3w wykluczaj\u0105cych rozpatrywanie sprawy przez organ, kt\u00f3rego interesy s\u0105 zwi\u0105zane z inwestycj\u0105. Mieszka\u0144cy mog\u0105 zg\u0142asza\u0107 uwagi do raportu oddzia\u0142ywania przedsi\u0119wzi\u0119cia na \u015brodowisko do 28 stycznia. Dokument jest dost\u0119pny na stronie BIP Krakowa, O\u015bwi\u0119cimia i w Wydziale Architektury i Urbanistyki w O\u015bwi\u0119cimiu.\n\nW\u0142adze Krakowa oczekuj\u0105 r\u00f3wnie\u017c na wyniki analiz finansowo-ekonomicznych oraz transportowych. Szacowany koszt budowy centralnego odcinka to 3 miliardy z\u0142otych. \u015arodki na realizacj\u0119 maj\u0105 pochodzi\u0107 z bud\u017cetu miejskiego oraz innych \u017ar\u00f3de\u0142 finansowania.\n\nMB\n\nFot. Krak\u00f3w, budowa. \u0179r\u00f3d\u0142o: Powiatowy Inspektorat Nadzoru Budowlanego w Krakowie \u2013 Powiat Grodzki\n\n"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Przedwojenny wroc\u0142aw",
+            "link": "https://jeleniagora.naszemiasto.pl/tag/przedwojenny-wroclaw",
+            "description": "Zobacz, jak wygl\u0105da\u0142y wroc\u0142awskie dworce kolejowe na przedwojennych poczt\u00f3wkach! Wroc\u0142awskie dworce kolejowe to \u015bwiadkowie ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.qYjRFCBRnyWZ_GVzwe3q5i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "jeleniagora.naszemiasto11 godz.",
+            "source": "jeleniagora.naszemiasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Dworce Kolejowe",
+            "link": "https://jeleniagora.naszemiasto.pl/tag/dworce-kolejowe",
+            "description": "Zobacz, jak wygl\u0105da\u0142y wroc\u0142awskie dworce kolejowe na przedwojennych poczt\u00f3wkach! Wroc\u0142awskie dworce kolejowe to \u015bwiadkowie ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.qYjRFCBRnyWZ_GVzwe3q5i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "jeleniagora.naszemiasto11 godz.",
+            "source": "jeleniagora.naszemiasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Masz te banknoty? To prawdziwe skarby! Za jeden mo\u017cesz otrzyma\u0107 kilka tysi\u0119cy z\u0142otych! [ZDJ\u0118CIA] 28.01.2025",
+            "link": "https://gs24.pl/masz-te-banknoty-to-prawdziwe-skarby-za-jeden-mozesz-otrzymac-kilka-tysiecy-zlotych-zdjecia-28012025/ar/c1-17930573",
+            "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.o4EwlAsIz5rMM3h8kMS_wi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "gs24.pl4 godz.",
+            "source": "gs24.pl",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Droga pod Reglami: \u0142atwa i pi\u0119kna trasa spacerowa w Zakopanem. Jak przebiega szlak, jak d\u0142ugo si\u0119 idzie, czy mo\u017cna zabra\u0107 psa?",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/podroze/droga-pod-reglami-%C5%82atwa-i-pi%C4%99kna-trasa-spacerowa-w-zakopanem-jak-przebiega-szlak-jak-d%C5%82ugo-si%C4%99-idzie-czy-mo%C5%BCna-zabra%C4%87-psa/ar-AA1xYXZP?ocid=BingNewsVerp",
+            "description": "Zakopane to \u015bwietne miejsce na weekend, urlop czy wakacje, nawet je\u015bli nie masz ochoty na forsown\u0105 w\u0119dr\u00f3wk\u0119 po Tatrach. Ale ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.w_m7zN5IAOPww6B8oovPZy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Strona Podr\u00f3\u017cy on MSN50 min",
+            "source": "Strona Podr\u00f3\u017cy on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "28 STYCZNIA 2025",
+            "link": "https://www.krakow.pl/kalendarium/1919,shw,2025-01-28,7,day.html",
+            "description": "Wystawa mie\u015bci si\u0119 w dawnym budynku administracyjnym Fabryki Emalia Oskara Schindlera przy ul. Lipowej 4 i jest opowie\u015bci\u0105 o Krakowie i losach jego polskich i \u017cydowskich mieszka\u0144c\u00f3w w czasie II wojny ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "zabytkowe+przedmioty",
+            "date": "krakow1 godz.",
+            "source": "krakow",
+            "article_content": "Krak\u00f3w \u2013 czas okupacji 1939-1945\n\nWystawa mie\u015bci si\u0119 w dawnym budynku administracyjnym Fabryki Emalia Oskara Schindlera przy ul. Lipowej 4 i jest opowie\u015bci\u0105 o Krakowie i losach jego polskich i \u017cydowskich mieszka\u0144c\u00f3w w czasie II wojny \u015bwiatowej, ale te\u017c o Niemcach \u2013 okupantach,..."
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Kiciu\u015b w gor\u0105cej wodzie k\u0105pany. Krystyna \u015awi\u0119cicka-W\u00f3jcik \u2013 wchodzi w \u00f3sm\u0105 dekad\u0119 i wci\u0105\u017c szaleje z radiowym mikrofonem",
+            "link": "https://www.radiokrakow.pl/aktualnosci/krakow/kicius-w-goracej-wodzie-kapany-krystyna-swiecicka-wojcik-wchodzi-w-osma-dekade-i-wciaz-szaleje-z-radiowym-mikrofonem/",
+            "description": "Wpada\u0142a do pokoju: \u201eEj, Tomek, s\u0142uchaj, to jest dobre, pu\u015b\u0107 to'. I zostawia\u0142a p\u0142yt\u0119. Mia\u0142a nosa, to by\u0142o dobre. Albo: \u201eTomek, ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.TR97UddI3p3H0q7v2uMNVi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Radio Krak\u00f3w S.A.3 godz.",
+            "source": "Radio Krak\u00f3w S.A.",
+            "article_content": "Plan by\u0142 taki, \u017ce b\u0119dzie studiowa\u0107 prawo, ale poleg\u0142a na egzaminie z geografii, rodzice stwierdzili wi\u0119c, \u017ce mo\u017ce by\u0107 filologia angielska. Na te studia Krysia si\u0119 dosta\u0142a.\n\nChodzi\u0142a do szko\u0142y podstawowej muzycznej, potem do liceum - by\u0142a tam anglistka, dzieciaki nazywa\u0142y j\u0105 \u201eciocia Wie\u017ca\u201d (tak, by\u0142a wysoka). Krysia pokocha\u0142a angielski, w domu rodzice s\u0142uchali Radia Wolna Europa, a Krysia znalaz\u0142a sobie Radio Luksemburg.\n\nKrysia: - Kiedy mia\u0142am pi\u0119\u0107 lat, mama zapisa\u0142a mnie do Eksperymentalnego Studium Muzycznego Krystyny Druszkiewicz przy ulicy Go\u0142\u0119biej. Na czym polega\u0142a ta eksperymentalno\u015b\u0107, nie wiem. Mia\u0142am dobre poczucie rytmu, chocia\u017c na zaj\u0119ciach z baletu sz\u0142o mi fatalnie. Tam po raz pierwszy si\u0119 zakocha\u0142am, ja - o\u015bmiolatka. On by\u0142 perkusist\u0105 i nie zwraca\u0142 na mnie uwagi, bywa.\n\nBabcia \u015awi\u0119cicka mieszka\u0142a przy Siennej - babcia, kt\u00f3rej si\u0119 nie przytula\u0142o, bo czasy by\u0142y inne, dzieciaki nie wiesza\u0142y si\u0119 na dziadkach, nie siada\u0142y babciom na kolanach. Wi\u0119c babcia \u015awi\u0119cicka robi\u0142a kakao i by\u0142o to kakao najlepsze; Krysia nigdy nie pozna\u0142a tego przepisu, chocia\u017c kombinowa\u0142a (a mo\u017ce ta pianka, to z bia\u0142ek? przecie\u017c nie bita \u015bmietana).\n\nMieszkali przy ulicy Smoczej, w ogromnym mieszkaniu z widokiem na Wawel, z Wis\u0142\u0105 po s\u0105siedzku (kiedy zamarza\u0142a, tata Jan bra\u0142 Krysi\u0119 za r\u0119k\u0119 i szli po lodzie na drugi brzeg).\n\nTata uprawia\u0142 boks, przychodzi\u0142 czasem z podbitym okiem, \u015brednio pasowa\u0142o do prawnika. Mama powiedzia\u0142a w ko\u0144cu, \u017ce albo boks albo rodzina. Wyboru nie mia\u0142.\n\nKrysia: Przysz\u0142a kiedy\u015b kobieta z jak\u0105\u015b spraw\u0105, przynios\u0142a zestaw nazywany potocznie bli\u017aniakami - koszulka i sweter; ka\u017cda dziewczynka chcia\u0142a mie\u0107 co\u015b takiego, modne, eleganckie, jak nie z peerelu. Tata t\u0119 kobiet\u0119 wyprosi\u0142, zabra\u0142a ze sob\u0105 ciuszki. Bola\u0142o. Nie odzywa\u0142am si\u0119 do tatusia dwa tygodnie.\n\nOjciec Krysi, Jan \u015awi\u0119cicki by\u0142 prawnikiem, pracowa\u0142 w skarb\u00f3wce. M\u00f3g\u0142 mie\u0107 wiele, bo ludzie przychodzili i prosili - pan za\u0142atwi, pan przymknie oko, dogadamy si\u0119. \u201ePan\u201d odmawia\u0142. Mo\u017ce nawet w og\u00f3le rozmowy nie by\u0142o.\n\nDom by\u0142 prawdziwie krakowski. Rodzina z tradycjami - prawnik, lekarz, filozof, ksi\u0105dz; patriotyzm, ale nie ten ze sztandar\u00f3w; przyzwoito\u015b\u0107, dobra szko\u0142a, zasady.\n\nOna to Krystyna \u015awi\u0119cicka-W\u00f3jcik \u2013 m\u00f3wi\u0105 o niej, \u017ce jest najstarsz\u0105 did\u017cejk\u0105 w Polsce, ale starsza jest przecie\u017c DJ Wika. Je\u017celi wi\u0119c did\u017cejka, to taka, kt\u00f3ra nie stoi za konsol\u0105 w dyskotece, muzyk\u0119 puszcza w radiu. W\u0142a\u015bnie zaczyna 80 lat.\n\nAle pojawi\u0142 si\u0119 cz\u0142owiek, kt\u00f3ry \u015bci\u0105gn\u0105\u0142 j\u0105 do radia. Nazywa\u0142 si\u0119 Antoni Krupa, pracowa\u0142 w Radiu Krak\u00f3w, zna\u0142a go ze starych czas\u00f3w.\n\nMog\u0142a siedzie\u0107 w domu, rozmy\u015bla\u0107 i p\u0142aka\u0107, bra\u0107 p\u0142yty, odk\u0142ada\u0107 je; czasem otwiera\u0107 wino albo okno (nie otwiera\u0107 drzwi, kiedy kto\u015b puka\u0142); s\u0142ucha\u0107 muzyki, tej, kt\u00f3r\u0105 razem robili.\n\nGdzie si\u0119 obr\u00f3ci\u0142a, tam on. P\u0142yty, zdj\u0119cia, drobiazgi, nuty; rzeczy przedwczorajsze, wczorajsze, dzisiejsze i te na jutro. Jak szczoteczka do z\u0119b\u00f3w, to dwie; kubki dwa, pantofli dwie pary. Jego ubrania w szafie, w\u0142os na swetrze, lekarstwa na stole.\n\nNie mog\u0142a patrze\u0107 na gitar\u0119, wcisn\u0119\u0142a j\u0105 w k\u0105t. Band\u017co te\u017c jej przeszkadza\u0142o.\n\nZamieszkali z matk\u0105 Jerzego w jej mieszkaniu (male\u0144kim a\u017c strach).\n\nKrysia mia\u0142a wyj\u015b\u0107 za prawnika, ewentualnie lekarza, wysz\u0142a za anglist\u0119 z gitar\u0105. Do \u015blubu jechali doro\u017ck\u0105 - powozi\u0142 Jan Kaczara (ten z poematu Ga\u0142czy\u0144skiego), mia\u0142a wiklinowy koszyk z kwiatkami zamiast bukietu. Mama \u0142zy wylewa\u0142a, bo przecie\u017c zi\u0119\u0107 mia\u0142 by\u0107 powa\u017cnym cz\u0142owiekiem, tata machn\u0105\u0142 r\u0119k\u0105: jak si\u0119 kochaj\u0105, niech si\u0119 kochaj\u0105.\n\nJerzy \u015bpiewa\u0142 Dylana tak, jak umia\u0142, a \u017ce umia\u0142 nie\u017ale, na jego kameralne koncerty (w sumie to koncerciki) przychodzi\u0142o p\u00f3\u0142 Krakowa.\n\nJerzy sko\u0144czy\u0142 Technikum Energetyczne przy Loreta\u0144skiej, ale nigdy elektrykiem nie zosta\u0142. Tak, jak Krysia nigdy nie zosta\u0142a magistrem filologii angielskiej.\n\nJacek Ukleja, z kt\u00f3rym Jerzy za\u0142o\u017cy\u0142 p\u00f3\u017aniej grup\u0119 Zdr\u00f3j Jana, wspomina\u0142 w opracowaniu (\u201eWidziane z naro\u017cnika I pi\u0119tra: Zdr\u00f3j Jana - Kiedy b\u0119d\u0119 \u017ca\u0142owa\u0142\u201d): \u201eKto\u015b zaprowadzi\u0142 Rycha i mnie do Paderevianum, gdzie Jerzy W\u00f3jcik, otoczony prze\u015blicznymi anglistkami w\u0142a\u015bnie dawa\u0142 recital dylanowski - nie pami\u0119tam, ale nigdy nie zapomn\u0119 tego widoku i mojego wra\u017cenia. Wkr\u00f3tce W\u00f3jcik by\u0142 nasz. Jego muzykalno\u015b\u0107, \u201emultiinstrumentalno\u015b\u0107\u201d, dobra angielszczyzna, obycie w muzyce anglosaskiej, bluesowe zaci\u0119cie, oraz niez\u0142e ego - uzupe\u0142ni\u0142y wszystkie nasze braki\u201d.\n\nOn zakochany w Dylanie, ona nie mniej. On gra\u0142 na gitarze, ona troch\u0119 na fortepianie. On \u015bpiewa\u0142, ona wzdycha\u0142a do niego. On jeszcze z jak\u0105\u015b dziewczyn\u0105, ona z jakim\u015b ch\u0142opakiem. A potem wszystko wskoczy\u0142o na swoje miejsce.\n\nI wtedy pozna\u0142a Jerzego W\u00f3jcika (te\u017c zacz\u0105\u0142 studiowa\u0107 anglistyk\u0119). Mia\u0142 br\u0105zowe oczy, d\u0142ugie w\u0142osy, by\u0142 wysportowany. Krysia przepad\u0142a.\n\nP\u00f3\u0142 roku p\u00f3\u017aniej wr\u00f3ci\u0142a do Krakowa. Miasto by\u0142o szare, smutne, a w Anglii przecie\u017c Beatlesi, puby, kolory, koncerty, jazz. Gdzie w tym Krakowie p\u00f3j\u015b\u0107? Gdzie przysi\u0105\u015b\u0107? Gdzie obala\u0107 system? W Hawe\u0142ce? Mo\u017cna by\u0142o w Rio, to oczywiste (i Krysia siedzia\u0142a tam od rana do wieczora). Wr\u00f3ci\u0142a na studia.\n\nKrysia: - Mama wpad\u0142a na pomys\u0142, \u017ceby wys\u0142a\u0107 mnie do Anglii, jako au pair. Taka troch\u0119 pomoc domowa, troch\u0119 opiekunka do dzieci. Jak to za\u0142atwi\u0142a? Poj\u0119cia nie mam. W Anglii trafi\u0142am do \u017cydowskiej rodziny, bardzo mi\u0142ej zreszt\u0105 (szyli p\u0142aszcze, kurtki); to by\u0142 znakomity pomys\u0142, bo angielskiego nauczy\u0142am si\u0119 szybciej i lepiej ni\u017c na uniwersytecie.\n\nAle to nie Dylan mia\u0142 sko\u0144czy\u0107 studia na Uniwersytecie Jagiello\u0144ski, tylko Krysia; niestety poleg\u0142a po pierwszym semestrze. Zamiast si\u0119 uczy\u0107, gra\u0142a w karty w jakiej\u015b kanciapie w Paderevianum. Przychodzili studenci z AGH, Krysia rozdawa\u0142a karty i ci\u0119li w bryd\u017ca. Rodzice zadowoleni nie byli, poj\u0119cia nie mieli o kartach; my\u015bleli, \u017ce c\u00f3rce po prostu nie posz\u0142o.\n\nJu\u017c s\u0142ysza\u0142a Boba Dylana, ju\u017c rozumia\u0142a o czym \u015bpiewa\u0142. A jak nie rozumia\u0142a, to si\u0119 domy\u015bla\u0142a. T\u0142umaczy\u0142a zdanie po zdaniu, a tam, gdzie by\u0142a dziura, dok\u0142ada\u0142a s\u0142owo, kt\u00f3re mog\u0142o pasowa\u0107 do kontekstu. Dylan w radiu skrzecza\u0142 (wed\u0142ug mamy Krysi), a \u017ce \u015bpiewa\u0142 o Ameryce, to Krysia uczy\u0142a si\u0119 Ameryki (wolnego \u015bwiata) od niego.\n\nZdr\u00f3j Jana\n\nWi\u0119c psychodelia.\n\nHippisi, ko\u0144c\u00f3wka lat 60. (w Ameryce Lato Mi\u0142o\u015bci w pe\u0142ni, do Polski w\u0142a\u015bnie dociera).\n\nPsychodelia to pobudzenie, wra\u017cliwo\u015b\u0107 na bod\u017a\u0107e, kolor, transy, wizje, (i LSD). By\u0142a psychodeliczna muzyka, psychodeliczne sztuki wizualne, moda, literatura, kino.\n\nW Krakowie psychodelia to Zdr\u00f3j Jana \u2013 grupa powsta\u0142a w 1968 roku w klubie Pod R\u0119k\u0105 (przy ASP). Ryszard Antoniszczak pisa\u0142 teksty, grali Jacek Ukleja, Piotr Walewski i Jerzy W\u00f3jcik (byli te\u017c inni \u2013 na chwil\u0119, na d\u0142u\u017cej).\n\nKrysia: - Mia\u0142 by\u0107 zesp\u00f3\u0142 muzyczny, by\u0142 kabaret. Co tam si\u0119 dzia\u0142o? A co si\u0119 nie dzia\u0142o? Pierwszy stroboskop rzucaj\u0105cy \u015bwiat\u0142o na \u015bcian\u0119, Lola Rozbieraczka, narysowana posta\u0107, z kt\u00f3rej zeskrobywano warstw\u0119 atramentu... Grali\u015bmy ballady rockowe i folkowe, by\u0142o troch\u0119 ta\u0144ca, teatru i filmu. Na rowerze peda\u0142owa\u0142 Jerzy Nowakowski (by\u0142 p\u00f3\u017aniej prorektorem ASP) i udawa\u0142, \u017ce zasila aparatur\u0119.\n\nUltrafioletowe \u015bwiat\u0142o, Zdr\u00f3j Jana w bia\u0142ych kitlach, w programie Tunel Aerodynamiczny (zestaw trzech anglosaskich kawa\u0142k\u00f3w, oczywi\u015bcie \u201eLike a Rolling Stones\u201d Dylana, \u015bpiewa\u0142 Jerzy). Nie by\u0142o bilet\u00f3w, ludzie wrzucali co mogli do kapelusza. \u017badnej polityki, kto chcia\u0142 interpretacji, interpretowa\u0142.\n\nJerzy napisa\u0142 prac\u0119 magistersk\u0105 o Dylanie (o Ameryce w jego tekstach). Profesorom UJ nie bardzo si\u0119 spodoba\u0142o, ale student si\u0119 upar\u0142 i co mu zrobisz.\n\nBy\u0142y jakie\u015b festiwale, nagrody, nagrania w radiu, ale ostatecznie p\u0142yty nie uda\u0142o si\u0119 wyda\u0107. Zdr\u00f3j Jana nie chcia\u0142 si\u0119 zgodzi\u0107 na zmiany. To, co robi\u0142a grupa, by\u0142o brudne, chropowate i takie mia\u0142o zosta\u0107.\n\nBand\u017co\n\nKrysia i Jerzy po raz pierwszy pojechali za granic\u0119 - Anglia, Belgia, Holandia. Chcieli zarobi\u0107, kupi\u0107 instrumenty, zobaczy\u0107, jak si\u0119 \u017cyje w \u015bwiecie, kt\u00f3ry ma wi\u0119cej wymiar\u00f3w ni\u017c peerelowska Polska. W 1978 roku byli na koncercie Dylana, Jerzy dosta\u0142 autograf \u2013 podsun\u0105\u0142 sekretarce artysty swoj\u0105 prac\u0119 magistersk\u0105, na kt\u00f3rej ten si\u0119 podpisa\u0142 (drugi egzemplarz mu podarowa\u0142).\n\nKiedy wr\u00f3cili, oprowadzali zagraniczne wycieczki po Krakowie. Tury\u015bci byli zachwyceni tym, co dobija\u0142o Krysi\u0119 i Jerzego - szaro\u015bci\u0105 i senno\u015bci\u0105. Zagraniczni tury\u015bci przysy\u0142ali im potem p\u0142yty i kasety (Dylana i innych), gazety, plakaty.\n\nJerzy t\u0142umaczy\u0142 z angielskiego, Krysia dosta\u0142a etat w Pracowni Konserwacji Zabytk\u00f3w.\n\nMieli dom otwarty, ludzie przychodzili, ludzie wychodzili. Pili, jedli omlety, kt\u00f3re sma\u017cy\u0142 Jerzy, grali, \u015bpiewali, \u017cyli.\n\nAle zat\u0119sknili za scen\u0105. Wr\u00f3cili na ni\u0105 jako Little Ole Opry, grali muzyk\u0119 bluegrassow\u0105 (w sk\u0142adzie, opr\u00f3cz Jerzego i Krysi \u2013 Jacek Ukleja, Piotr \u0141opalewski, czasem Marek Wilczy\u0144ski). Bluegrass to muzyka z ameryka\u0144skich Appalach\u00f3w, ma korzenie szkockie, irlandzkie (p\u00f3\u017aniej przypl\u0105ta\u0142 si\u0119 te\u017c jazz).\n\nW Polsce nikt tak jeszcze nie gra\u0142.\n\nKrysia: - Jest taka piosenka, \u201eEvengeline\u201d, pi\u0119kna\u2026 Pewna dziewczyna \u017cegna swojego ukochanego, strasznego karciarza, kt\u00f3ry p\u0142ynie w rejs. Czeka na niego, t\u0119skni. I on wraca, jego statek ju\u017c wida\u0107 na horyzoncie. Kiedy jest blisko portu, zaczyna ton\u0105\u0107. To jest bluegrass - rzewne, o \u017cyciu, prostych sprawach. Jurek zwariowa\u0142 na punkcie pi\u0119ciostrunowego band\u017co, chodzi\u0142 po domu i brzd\u0105ka\u0142. No nic do siebie nie pasowa\u0142o, bo te\u017c nikt nie wiedzia\u0142, jak na tym instrumencie gra\u0107. A\u017c kt\u00f3rego\u015b dnia wydoby\u0142 pierwszy sensowny akord. I posz\u0142o!\n\nJerzy, po raz drugi\n\nKochali si\u0119, k\u0142\u00f3cili. Lekko nie by\u0142o. Czasem Krysia schodzi\u0142a z drogi, Jerzy rzadziej.\n\nKrysia: - Zachorowa\u0142 na cukrzyc\u0119, a mo\u017ce zawsze j\u0105 mia\u0142. Cukier lecia\u0142 w d\u00f3\u0142, cukier wybija\u0142 w kosmos. Jurek \u017ale reagowa\u0142, ale wtedy wiedzia\u0142am ju\u017c, \u017ce to choroba, nie brak mi\u0142o\u015bci. By\u0142am dobra w karty, nauczy\u0142am si\u0119, \u017ceby z Jurkiem nie gra\u0107 tymi najwy\u017cszymi. Kto gra w karty, ten rozumie, co mam na my\u015bli.\n\nTrenowa\u0142 karate (sprowadzi\u0142 do Polski szko\u0142\u0119 karate kyokushin), mia\u0142 spore sukcesy. Ale Krysia mog\u0142a m\u00f3wi\u0107, \u017ceby uwa\u017ca\u0142, pilnowa\u0142 si\u0119. Nie dociera\u0142o.\n\nKiedy wyje\u017cd\u017cali zagranic\u0119, Krysia lecia\u0142a do apteki, kupowa\u0142a ig\u0142y - m\u00f3wi\u0142a, \u017ce jest z kraju, w kt\u00f3rym igie\u0142 u\u017cywa si\u0119 nie raz, nie dwa. W jej kraju ig\u0142y gotuje si\u0119, \u017ceby u\u017cy\u0107 ich ponownie.\n\nJeszcze pojechali do Rotterdamu na operacj\u0119 oka, jeszcze zd\u0105\u017cyli wr\u00f3ci\u0107. I od razu szpital.\n\nKt\u00f3rego\u015b popo\u0142udnia zadzwoni\u0142 lekarz \u2013 Krysia mia\u0142a przyjecha\u0107, szybko, od razu; wsi\u0105\u015b\u0107 w samoch\u00f3d i gna\u0107. Nie wsiad\u0142a w samoch\u00f3d, nie mog\u0142a. Ale zd\u0105\u017cy\u0142a.\n\nKrysia: - Wr\u00f3ci\u0142am do domu i popatrzy\u0142am na Jurkow\u0105 gitar\u0119. Cholera, nie zagra na niej; schowa\u0142am j\u0105.\n\nOtwiera\u0142a wino, wypija\u0142a wino, otwiera\u0142a. W ko\u0144cu wsta\u0142a z kanapy i posz\u0142a do radia.\n\nBy\u0142 rok 1992.\n\nKantorek\n\nKrysia: - Przysz\u0142am z pomys\u0142em, no mi si\u0119 podoba\u0142. Polska si\u0119 zmienia\u0142a, ludzie si\u0119 dorabiali, ale powoli. Jeden co\u015b wymienia\u0142, drugi wyrzuca\u0142, a trzeci szuka\u0142. Postanowi\u0142am ich spotka\u0107. Tak powsta\u0142 \u201eKantorek zamian\u201d. Antek Krupa uzna\u0142, \u017ce pomys\u0142 jest \u015bwietny i \u017cebym przysz\u0142a do niego, da mi kilka minut w swojej audycji. No to wpad\u0142am.\n\nPowiedzia\u0142a na antenie o co jej chodzi, poprosi\u0142a, \u017ceby ludzie dzwonili, niech powiedz\u0105, co mogliby odda\u0107 (a co nie jest im potrzebne); niech inni pomy\u015bl\u0105, co mogliby da\u0107 w zamian. I telefony si\u0119 rozdzwoni\u0142y: sto\u0142ek, mam sto\u0142ek; a ja kanap\u0119, w dobrym stanie; pani kochana, mam sedes, tak, mo\u017ce ze dwa razy u\u017cywany; potrzebuj\u0119 wann\u0119, oddam fotel; za dwie czekolady dam radio, no dobra, mo\u017ce za jedn\u0105, ale dobr\u0105.\n\nJan St\u0119pie\u0144 (dzi\u015b sekretarz redakcji w Radiu Krak\u00f3w): - Krysia by\u0142a internetem, w czasach, kiedy nie by\u0142o internetu. Marcin Pulit (dzi\u015b redaktor naczelny Radia Krak\u00f3w): - By\u0142em reporterem w Tarnowie, s\u0142ucha\u0142em Kantorka, ale nie mia\u0142em poj\u0119cia, kim jest Krysia. Zapyta\u0142em kogo\u015b i us\u0142ysza\u0142em: to jest Krysia, nie wiesz, kim jest Krysia? Nie dopytywa\u0142em, bo uzna\u0142em, \u017ce powinienem wiedzie\u0107, kim jest Krysia. Kantorek by\u0142 analogow\u0105 wersj\u0105 wsp\u00f3\u0142dzielenia, Krysia tworzy\u0142a spo\u0142eczno\u015b\u0107, mo\u017cna powiedzie\u0107, \u017ce budowa\u0142a kapita\u0142 spo\u0142eczny.\n\nI tak Kantorek hula\u0142 przez 20 lat. Potem wymy\u015blono internet i ludzie przenie\u015bli si\u0119 do internetu. Krysia w Radiu Krak\u00f3w zosta\u0142a. Razem z Antonim Krup\u0105 prowadzi\u0142a Radiow\u0105 kafejk\u0119.\n\nRobi\u0142a to, co wychodzi jej najlepiej: rozmawianie z lud\u017ami i puszczanie muzyki (a ju\u017c naprawd\u0119 najlepiej, to rozmawianie z lud\u017ami o muzyce).\n\nTomasz Buszewski (szef redakcji muzycznej w Radiu Krak\u00f3w): - Zakolegowali\u015bmy si\u0119 szybko. Powiedzia\u0142a: \u201eKry\u015bka jestem\u201d i tyle by\u0142o prezentacji. Nigdy nie czu\u0142em, \u017ce jest mi\u0119dzy nami r\u00f3\u017cnica wieku, by\u0107 mo\u017ce dlatego, \u017ce radio to eliksir m\u0142odo\u015bci, dobrze konserwuje. Krysia to kolorowy ptak, ona pierwsza pokaza\u0142 mi krakowsk\u0105 scen\u0119 muzyczn\u0105. Wpada\u0142a do pokoju: \u201eEj, Tomek, s\u0142uchaj, to jest dobre, pu\u015b\u0107 to\u201d. I zostawia\u0142a p\u0142yt\u0119. Mia\u0142a nosa, to by\u0142o dobre. Albo: \u201eTomek, rzu\u0107 uchem\u201d. No to rzuca\u0142em. Krysia jest po\u017ceraczk\u0105 muzyki, ma ogromn\u0105 wiedz\u0119, instynkt, umiej\u0119tno\u015b\u0107 kojarzenia. A, dzi\u0119ki niej pozna\u0142em Ett\u0119 James.\n\nJerzy, po raz trzeci\n\nCo pi\u0119\u0107 lat w Radiu Krak\u00f3w Krysia organizuje koncerty po\u015bwi\u0119cone Jerzemu. Przychodz\u0105 ci, kt\u00f3rzy Jerzego pami\u0119taj\u0105, ci, co s\u0142yszeli o nim (fakt, jest ich coraz mniej), m\u0142odzi, kt\u00f3rzy nagle Jerzego odkryli. Krysia prowadzi te spotkania, czasem za\u015bpiewa. Albo zaprosi muzyk\u00f3w, kt\u00f3rzy po swojemu interpretuj\u0105 muzyk\u0119 Jerzego. Zesp\u00f3\u0142 Krak\u00f3w Street Band nagra\u0142 w 2015 roku p\u0142yt\u0119 z kawa\u0142kami Little Ole Opry.\n\n\u0141ukasz Wi\u015bniewski (Krak\u00f3w Street Band): - Wybra\u0142a nas, bo wiedzia\u0142a, \u017ce si\u0119 do tego nadajemy, ale da\u0142a nam te\u017c du\u017co wolno\u015bci interpretacyjnej. My\u015bl\u0119, \u017ce p\u0142yta, kt\u00f3r\u0105 razem nagrali\u015bmy, bardzo j\u0105 wzruszy\u0142a. Buszewski: - Na te koncerty zawsze si\u0119 czeka. Krysia potrafi zarz\u0105dza\u0107 emocjami. Marta Szostkiewicz (szefowa publicystyki w Radiu Krak\u00f3w): - Zawsze widzia\u0142am ich razem \u2013 Krysi\u0119 i Jurka. Byli nieroz\u0142\u0105czni, niezwyk\u0142a para. Krysia potrafi\u0142a zamieni\u0107 \u017cyw\u0105 \u017ca\u0142ob\u0119 w \u017cyw\u0105 pami\u0119\u0107.\n\nRozmowy\n\nKrysia i Antoni Krupa \u2013 \u201eradiowe ma\u0142\u017ce\u0144stwo\u201d.\n\nKrupa zmar\u0142 w marcu 2024 roku, Krysia wspomina\u0142a go na antenie Radia Krak\u00f3w: \"Nauczy\u0142am si\u0119 od niego dziennikarstwa lekkiego, weso\u0142ego, bez sztuczno\u015bci\".\n\nAntoni Krupa pracowa\u0142 w radiu od 1977 roku (by\u0142 te\u017c muzykiem, pisa\u0142 ksi\u0105\u017cki), Krysia wci\u0105\u017c prowadzi Radiow\u0105 kafejk\u0119 (zawsze w soboty). Przychodz\u0105 do niej muzycy, opowiadaj\u0105 nie tylko o muzyce. Krysia nie pyta, Krysia z nimi rozmawia.\n\nPulit: - Ludzie po prostu j\u0105 interesuj\u0105, jest ich ciekawa. Krysia s\u0142ucha i s\u0142yszy. I jest w tym spontaniczna, a w radiu spontaniczno\u015b\u0107 jest najwa\u017cniejsza, bez tego nie ma dobrego radiowca.\n\nTylko u niej muzycy mog\u0105 zagra\u0107 na \u017cywo.\n\nBuszewski: - Zdarza jej si\u0119 nie dopilnowa\u0107 czasu, a wtedy realizatora szlag trafia, ale to jest Krysia, artystka. Pami\u0119tam, jak w radiu co\u015b si\u0119 zmienia\u0142o, audycje znika\u0142y, pojawi\u0142y si\u0119 nowe. Krysia przysz\u0142a i m\u00f3wi: \u201eCh\u0142opie, nie martw si\u0119, kto\u015b musi im to radio robi\u0107\u201d. Barbara Gawryluk (dziennikarka Radia Krak\u00f3w, pisarka, t\u0142umaczka): - Ludzie starzej\u0105 si\u0119 w r\u00f3\u017cny spos\u00f3b, niekt\u00f3rzy na staro\u015b\u0107 robi\u0105 si\u0119 zgorzkniali, a z Krysi\u0105 jest tak, \u017ce im starsza, tym pogodniejsza. To jest nie do wiary. Nigdy nie widzia\u0142am jej zachmurzonej. I mo\u017ce dlatego, jak spotyka si\u0119 j\u0105 na ulicy, to cz\u0142owiek zawsze podejdzie, przytuli si\u0119. Przed Krysi\u0105 nikt nie ucieka na drug\u0105 stron\u0119.\n\n\u017bywio\u0142\n\nZosta\u0142a soroptymistk\u0105 (Soroptimist International to, w najwi\u0119kszym skr\u00f3cie, organizacja zrzeszaj\u0105ca kobiety, kt\u00f3re pomagaj\u0105 innym kobietom), do\u0142\u0105czy\u0142a do krakowskiego klubu jako ostatnia z \u017ca\u0142o\u017cycielek. Rozsadza\u0142a j\u0105 energia, musia\u0142a co\u015b robi\u0107, co\u015b sensownego.\n\nKrakowskie soroptymistki, poza statutow\u0105 dzia\u0142alno\u015bci\u0105, organizowa\u0142y te\u017c rajdy samochodowe. Krysia stworzy\u0142a Rajd Baby Jagi (\u201eChodzi\u0142o o to, \u017ce to baba ma by\u0107 za kierownic\u0105\u201d). Wpad\u0142a na pomys\u0142, \u017ceby dziewczyny si\u0119 przebiera\u0142y (zak\u0142ada\u0142y co\u015b \u015bmiesznego), ona paradowa\u0142a w stroju nietoperza.\n\nSamoch\u00f3d zawsze prowadzi\u0142a kobieta, m\u0119\u017cczyzna m\u00f3g\u0142 by\u0107 pilotem, by\u0142y ustalone trasy, odcinki specjalne, nagrody.\n\nCzasami myli\u0142y drog\u0119 albo po prostu zje\u017cd\u017ca\u0142y z trasy, bo tak\u0105 mia\u0142y fantazj\u0119. To mia\u0142a by\u0107 zabawa \u2013 kobiety na rajdach si\u0119 bawi\u0105, m\u0119\u017cczy\u017ani \u015bcigaj\u0105.\n\nAnna Wszelaczy\u0144ska (przyjaci\u00f3\u0142ka Krysi, soroptymistka): - Wymy\u015bli\u0142y\u015bmy nagrod\u0119 za ostatnie miejsce. Pami\u0119tam tak\u0105 scen\u0119: m\u0105\u017c i \u017cona zaj\u0119li przedostatnie, wi\u0119c m\u0105\u017c robi awantur\u0119, \u017ce \u017cona nie potrafi zaj\u0105\u0107 nawet ostatniego miejsca. Krysia to \u017cywio\u0142, nie potrafi w \u017cyciu wyhamowa\u0107, a zreszt\u0105 - kto powiedzia\u0142, \u017ce jak si\u0119 ma 80 lat, to trzeba ju\u017c zjecha\u0107 na parking? Lubi\u0119 z ni\u0105 gra\u0107 w karty, pijemy wtedy cytryn\u00f3wk\u0119. A kierowc\u0105 Krysia zawsze by\u0142a \u015bwietnym.\n\nKiciu\u015b\n\nKt\u00f3rego\u015b dnia co\u015b w Krysi si\u0119 zaci\u0119\u0142o, straci\u0142a widzenie peryferyjne, nie wsiad\u0142a ju\u017c do samochodu. Swoj\u0105 malutk\u0105 toyot\u0119 odda\u0142a chrze\u015bniakowi, Andrzejowi Legutce.\n\nAndrzej Legutko: - Ciocia Krysia to Kiciu\u015b, zawsze tak j\u0105 nazywali\u015bmy. Jest Kiciusiem dla moich siostrzenic, uwielbiaj\u0105 j\u0105. Zreszt\u0105 wszystkie dzieciaki j\u0105 uwielbiaj\u0105 i tak by\u0142o od zawsze. Pami\u0119tam, jak organizowa\u0142a nasze urodziny, to by\u0142y naprawd\u0119 niesamowite imprezy, czego tam nie by\u0142o\u2026 By\u0142a wodzirejem, klaunem, did\u017cejem. To ona pierwsza pu\u015bci\u0142a mi piosenki Dylana, bo u nas w domu raczej nie s\u0142ucha\u0142o si\u0119 takiej muzyki. Kiedy straci\u0142em mam\u0119, Kiciu\u015b by\u0142a przy mnie bardzo intensywnie.\n\nKiedy chrze\u015bniak pozna\u0142 dziewczyn\u0119, Kiciu\u015b ju\u017c lecia\u0142a z porad\u0105, ju\u017c ustala\u0142a plan dzia\u0142ania. Chrze\u015bniak, na to: ciociu, poczekaj, to nie ten etap.\n\nAle co zrobi\u0107, jak Kiciu\u015b zawsze w gor\u0105cej wodzie k\u0105pany?"
         }
     },
     {
@@ -282,7 +346,7 @@
             "description": "80 lat temu, 27 stycznia 1945 roku, Armia Czerwona wkroczy\u0142a do \u00f3wczesnego Rastenburga. Rozpocz\u0105\u0142 si\u0119 nowy rozdzia\u0142 w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.Japew-6XaFmGFujRsmjuAS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "gazetaolsztynska15 godz.",
+            "date": "gazetaolsztynska19 godz.",
             "source": "gazetaolsztynska",
             "article_content": "80 lat temu, 27 stycznia 1945 roku, Armia Czerwona wkroczy\u0142a do \u00f3wczesnego Rastenburga. Rozpocz\u0105\u0142 si\u0119 nowy rozdzia\u0142 w historii miasta, kt\u00f3re w 1946 roku nazwano K\u0119trzynem.\n\n27 stycznia przed po\u0142udniem pierwsze oddzia\u0142y Armii Czerwonej wkroczy\u0142y do K\u0119trzyna. Do wi\u0119kszych star\u0107 z \u017co\u0142nierzami niemieckimi nie dosz\u0142o. Nie powstrzyma\u0142o to jednak Sowiet\u00f3w przed rzezi\u0105 i gwa\u0142tami na ludno\u015bci cywilnej.\n\nWarto przeczyta\u0107\n\nOp\u0142aty za egzaminy na prawo jazdy w Olsztynie id\u0105 w g\u00f3r\u0119\n\nWod\u0119 z wodoci\u0105gu w W\u0119gorzewie mo\u017cna pi\u0107 tylko po przegotowaniu...\n\nRekordowa kwota na koncie WO\u015aP\n\nRozkaz ewakuacji dotar\u0142 do Rastenburga dosy\u0107 p\u00f3\u017ano, bo dopiero 26 stycznia. W efekcie nie wszyscy zdo\u0142ali opu\u015bci\u0107 miasto. Wycofuj\u0105ce si\u0119 oddzia\u0142y niemieckie na obecnym pl. Armii Krajowej (dawniej Targ Lipowy) wysadzi\u0142y zgromadzon\u0105 amunicj\u0119. Zniszczyli te\u017c most kolejowy na rzece Guber, miejskie wodoci\u0105gi i elektrowni\u0119. Dzie\u0144 p\u00f3\u017aniej do miasta wkroczy\u0142y przybywaj\u0105ce od strony Gi\u017cycka oddzia\u0142y 62. dywizji piechoty p\u0142k. Lewina. By\u0142a to cz\u0119\u015b\u0107 44. korpusu armijnego gen. mjr. Klesznina, kt\u00f3ra wchodzi\u0142a w sk\u0142ad 31. Armii Piechoty gen. Piotra Grigoriewicza Szafranowa.\n\nPo czterech dniach koszmaru zafundowanego mieszka\u0144com \u00f3wczesnego Rastenburga czerwonoarmi\u015bci podpalili 31 stycznia zabudow\u0119 Starego Miasta i Nowego Rynku oraz po\u0142udniow\u0105 stron\u0119 obecnej ulicy Traugutta (dawniej Angeburgerstrasse) i ul. Pocztowej. Przez kilka kolejnych miesi\u0119cy skala i rodzaj zniszcze\u0144 uleg\u0142y zwi\u0119kszeniu.\n\nJednym z bardziej dramatycznych przyk\u0142ad\u00f3w post\u0119powania \u201ewyzwolicieli\u201d by\u0142 bestialski gwa\u0142t na piel\u0119gniarkach szpitala. Prawie 30 kobiet i dyrektora dr Ludwiga Diehla upami\u0119tnia obecnie pami\u0105tkowy kamie\u0144 postawiony w miejscu wcze\u015bniejszej zbiorowej mogi\u0142y. W\u015br\u00f3d aresztowanych i zamordowanych os\u00f3b znalaz\u0142 si\u0119 te\u017c proboszcz parafii \u015bw. Katarzyny, ksi\u0105dz Johann Lindenblatt. Liczba ofiar \u015bmiertelnych, g\u0142\u00f3wnie starc\u00f3w, dzieci i zgwa\u0142conych wcze\u015bniej kobiet si\u0119gn\u0119\u0142a w tym czasie ok. 200 os\u00f3b cywilnych. Bardzo szybko rozpocz\u0119to te\u017c wyw\u00f3zk\u0119 miejscowej ludno\u015bci w g\u0142\u0105b Rosji, kt\u00f3r\u0105 kontynuowano jeszcze w 1946 roku, co w efekcie zwi\u0119kszy\u0142o szacunkow\u0105 liczb\u0119 ofiar do ponad 3 tys.\n\nZ pierwszym dniem \u201ewyzwolonego\u201d K\u0119trzyna powi\u0105zywany jest pewien ciekawy epizod. Do pierwszych wkraczaj\u0105cych do Rastenburga \u017co\u0142nierzy radzieckich zg\u0142osi\u0142 si\u0119 Obersturmfuhrer Walter Wiesse, kt\u00f3ry pos\u0142uguj\u0105c si\u0119 fa\u0142szywymi dokumentami na nazwisko niemieckiego komunisty Walter Lencki zaofiarowa\u0142 im swoj\u0105 pomoc. Prawdziwy Walter Lencki zosta\u0142 wcze\u015bniej zamordowany w obozie koncentracyjnym. Specjali\u015bci z radzieckiego kontrwywiadu zabrali Waltera Wiesse do Gi\u017cycka i tam zosta\u0142 zdemaskowany. Jednak w K\u0119trzynie swoj\u0105 pomoc zaoferowa\u0142 inny Niemiec, weteran wojskowy o nazwisku Studenzki. Jako cz\u0142owiek obeznany w lokalnych sprawach zosta\u0142 ch\u0119tnie przyj\u0119ty przez wojennego komendanta miasta z ramienia Armii Czerwonej, majora Rosenfelda. Przypadek takiej wsp\u00f3\u0142pracy nie by\u0142 odosobniony. Cz\u0119sto Niemcy celowo zostawali i zdobywaj\u0105c zaufanie nowych w\u0142adz wskazywali b\u0142\u0119dne informacje i miejsca przechowywania broni czy materia\u0142\u00f3w budowlanych.\n\nBy\u0107 mo\u017ce w k\u0119trzy\u0144skim przypadku wi\u0105\u017ce si\u0119 to z faktem, \u017ce specjalne oddzia\u0142y NKWD po przybyciu do K\u0119trzyna czego\u015b usilnie poszukiwa\u0142y, m.in. ryj\u0105c posadzki w ko\u015bciele \u015bw. Jerzego. Jest to o tyle ciekawy i tajemniczy epizod, poniewa\u017c nie zainteresowa\u0142y ich bezcenne starodruki i egipskie papirusy przechowywane w ko\u015bcielnej wie\u017cy. Te zosta\u0142y wywiezione du\u017co p\u00f3\u017aniej przez tzw. s\u0142u\u017cby \u201etrofiejne\u201d. Czego w takim razie szukali \u017co\u0142nierze NKWD? Tego prawdopodobnie nigdy si\u0119 nie dowiemy.\n\nPewne jest, \u017ce Rosjanie zar\u00f3wno w naszym mie\u015bcie, jak i jego okolicy prowadzili bardzo szerokie dzia\u0142ania poszukiwawcze. S\u0105 one wi\u0105zane z r\u00f3\u017cnymi legendami dotycz\u0105cymi m.in. transportu Bursztynowej Komnaty, skarb\u00f3w i tajnych dokument\u00f3w pochodz\u0105cych z Wilczego Sza\u0144ca czy owianych r\u00f3wnie\u017c tajemnic\u0105 podziemnych przej\u015b\u0107, schron\u00f3w czy magazyn\u00f3w broni.\n\nWiele bezcennych rzeczy i zabytk\u00f3w przy tej okazji opu\u015bci\u0142o Rastenburg. To ju\u017c jednak jest ciekawy i obszerny temat na osobny artyku\u0142. Warto tylko przypomnie\u0107, \u017ce kiedy stacjonuj\u0105ca do wiosny 1946 w Karolewie Armia Czerwona opu\u015bci\u0142a t\u0105 miejscowo\u015b\u0107, to w piwnicy ko\u015bcio\u0142a znaleziono 33 skrzynie ze zbiorami archeologicznymi z Prussia Museum w Kr\u00f3lewcu.\n\nWojciech Caruk [tekst archiwalny z 2018 roku]"
         }
@@ -293,29 +357,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Z\u0142odzieje u\u017cyli materia\u0142\u00f3w wybuchowych, aby ukra\u015b\u0107 z\u0142ote arcydzie\u0142a z holenderskiego muzeum",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/z%C5%82odzieje-u%C5%BCyli-materia%C5%82%C3%B3w-wybuchowych-aby-ukra%C5%9B%C4%87-z%C5%82ote-arcydzie%C5%82a-z-holenderskiego-muzeum/ar-AA1xV4FN?ocid=BingNewsVerp",
-            "description": "Cztery staro\u017cytne z\u0142ote artefakty zosta\u0142y skradzione z holenderskiego muzeum podczas nocnego w\u0142amania. Z\u0142odzieje u\u017cyli ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.5LNw0ZiX_x80zMJUdnNtzi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Portal i.pl on MSN21 godz.",
-            "source": "Portal i.pl on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Ciekawe trasy do spacerowania w woj. lubelskim. Gdzie warto si\u0119 wybra\u0107 w weekend 1 - 2 lutego? 10 najlepszych tras",
-            "link": "https://kurierlubelski.pl/ciekawe-trasy-do-spacerowania-w-woj-lubelskim-gdzie-warto-sie-wybrac-w-weekend-1-2-lutego-10-najlepszych-tras/ar/c7p1-22116481",
-            "description": "Zanim wyruszysz, sprawd\u017a, jaka b\u0119dzie pogoda. W sobot\u0119 01 lutego w woj. lubelskim ma by\u0107 od 0\u00b0C do 3\u00b0C. Nie powinno pada\u0107. W ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.weNR14tkedYJkI3KFjhudw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Kurier Lubelski14 godz.",
-            "source": "Kurier Lubelski",
+            "title": "Te monety s\u0105 warte du\u017co wi\u0119cej ni\u017c my\u015blisz. Zobacz czego szukaj\u0105 numizmatycy 28.01.2025",
+            "link": "https://gk24.pl/te-monety-sa-warte-duzo-wiecej-niz-myslisz-zobacz-czego-szukaja-numizmatycy-28012025/ar/c1-18941089",
+            "description": "Czy posiadasz w portfelu monet\u0119 o nominalne 5 z\u0142? Mo\u017ce pojawi\u0142a si\u0119 szansa, aby\u015b sta\u0142 si\u0119 bogat\u0105 osob\u0105! S\u0105 takie monety, ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.rXY4IFBt9hVZAYwsRbQrPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+numizmatyka",
+            "date": "gk24.pl4 godz.",
+            "source": "gk24.pl",
             "article_content": "Content not available"
         }
     },
@@ -325,30 +373,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Tu nie b\u0119dzie pr\u0105du w Poznaniu i okolicach. Przygotuj si\u0119 na wy\u0142\u0105czenia pr\u0105du od 27 do 31 stycznia. Sprawd\u017a godziny i lokalizacje",
-            "link": "https://www.msn.com/pl-pl/bezpiecze%C5%84stwo-publiczne-i-sytuacje-kryzysowe/og%C3%B3lne/tu-nie-b%C4%99dzie-pr%C4%85du-w-poznaniu-i-okolicach-przygotuj-si%C4%99-na-wy%C5%82%C4%85czenia-pr%C4%85du-od-27-do-31-stycznia-sprawd%C5%BA-godziny-i-lokalizacje/ar-AA1xVyJH?ocid=BingNewsVerp",
-            "description": "Je\u015bli pr\u0105d zniknie niespodziewanie, warto zachowa\u0107 spok\u00f3j i sprawdzi\u0107 kilka rzeczy. Przede wszystkim, upewnijmy si\u0119, \u017ce ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.id49K%2bLYJMay2tjDli7gAw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "G\u0142os Wielkopolski on MSN19 godz.",
-            "source": "G\u0142os Wielkopolski on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Stradom House \u2013 najbardziej luksusowy hotel w Polsce",
-            "link": "https://podroze.wprost.pl/turystyka/11915469/stradom-house-najbardziej-luksusowy-hotel-w-polsce.html",
-            "description": "Wizyta w pi\u0119ciogwiazdkowym Stradom House Autograph Collection, najbardziej luksusowym hotelu miejskim w Polsce zachwyca ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.9_xMSZ5mVtCCPSBUaAeeVS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "podroze.wprost13 godz.",
-            "source": "podroze.wprost",
-            "article_content": "Spektakularny, zabytkowy budynek, kt\u00f3rego dzieje si\u0119gaj\u0105 \u015aredniowiecza, odkrywa przed go\u015b\u0107mi oraz mieszka\u0144cami Krakowa unikalne przestrzenie. Znajduj\u0105ce si\u0119 w s\u0105siedztwie Wawelu miejsce zosta\u0142o poddane starannej renowacji i dzi\u015b oferuje 125 luksusowych pokoi, kt\u00f3rych design odwo\u0142uje si\u0119 do krakowskiego dziedzictwa i pocz\u0105tk\u00f3w XX wieku. Stradom House zosta\u0142 stworzony z poszanowaniem historii przez \u015bwiatowej klasy architekt\u00f3w, artyst\u00f3w i rzemie\u015blnik\u00f3w. Jego wn\u0119trza urzekaj\u0105 ol\u015bniewaj\u0105cym dizajnem, lokalnymi akcentami i rzadko spotykan\u0105 dba\u0142o\u015bci\u0105 o detale. \u015aciany pomieszcze\u0144 zdobi zachwycaj\u0105ca, starannie dobrana kolekcja sztuki wsp\u00f3\u0142czesnej. Znajduj\u0105 si\u0119 w niej prace tak uznanych artyst\u00f3w, jak Wilhelm Sasnal, Anna G\u0142ogowska, Radek Szlaga, Dorota Buczkowska czy Tomasz Kowalski. W hotelowym patio mo\u017cna podziwia\u0107 wyj\u0105tkow\u0105 rze\u017ab\u0119 \u201eMuzykant\u201d autorstwa samego Bronis\u0142awa Chromego. Unikatowe wn\u0119trza, luksusowe pokoje, kultowe przestrzenie z klubem Hedwig\u2019s na czele oraz doskona\u0142a lokalizacja sprawiaj\u0105, \u017ce Stradom House jest najlepsz\u0105 baz\u0105 noclegow\u0105 i nowym centrum lifestyle\u2019u dawnej stolicy Polski. To miejsce, w kt\u00f3rym dziedzictwo Krakowa spotyka si\u0119 ze \u015bwiatowymi trendami.\n\n- Do niedawna sezon zimowy kojarzy\u0142 si\u0119 z turystyk\u0105 ukierunkowan\u0105 na kurorty \u2013 szczeg\u00f3lnie g\u00f3rskie. Dzi\u015b widzimy, jak zmieniaj\u0105 si\u0119 trendy, bo coraz wi\u0119cej os\u00f3b decyduje si\u0119 sp\u0119dza\u0107 ferie w miastach. Krak\u00f3w przyci\u0105ga turyst\u00f3w niezale\u017cnie od pory roku, a Stradom House stanowi doskona\u0142\u0105 baz\u0119 noclegow\u0105, bo st\u0105d wszystko jest na wyci\u0105gni\u0119cie r\u0119ki: Zamek Kr\u00f3lewski na Wawelu, rynek Starego Miasta, \u017cydowski Kazimierz. Po aktywnym wypoczynku nasi go\u015bcie wypoczywaj\u0105 w spa S\u00f3l, korzystaj\u0105 z basenu, delektuj\u0105 si\u0119 pysznym jedzeniem, a wieczorem bawi\u0105 si\u0119 przy muzyce w klubie Hedwig\u2019s, b\u0119d\u0105cych sercem hotelu \u2013 m\u00f3wi Jolanta Jamroz- Ko\u0144czak, dyrektorka sprzeda\u017cy i marketingu w Stradom House Autograph Collection by Marriott.\n\nStradom House to laureat mi\u0119dzynarodowych, presti\u017cowych konkurs\u00f3w, uznany za najbardziej luksusowy hotel miejski w Polsce. Jako jedyny polski obiekt zosta\u0142 nagrodzony w ramach ameryka\u0144skiego plebiscytu T&C Hotel Awards 2024 oraz znalaz\u0142 si\u0119 w rankingu szwajcarskiego czasopisma Bilanz Wirtschaftsmagazin. Zosta\u0142 r\u00f3wnie\u017c zwyci\u0119zc\u0105 18 edycji plebiscytu World Luxury Hotel Awards, w kt\u00f3rym otrzyma\u0142 a\u017c dwie nagrody: w kategorii \u201eNajbardziej Luksusowy Hotel w Polsce\u201d oraz \u201eNajbardziej Luksusowy Hotel Miejski w Polsce\u201d. Potwierdzaj\u0105 one, \u017ce Stradom House oferuje swoim go\u015bciom niepowtarzalne do\u015bwiadczenia, najwy\u017cszy standard oraz poczucie niepowtarzalnego poziomu luksusu. Uroczysta gala wr\u0119czenia nagr\u00f3d odby\u0142a si\u0119 w Ayana na Bali. Nagrod\u0105 za realizacj\u0119 Stradom House uhonorowany zosta\u0142 r\u00f3wnie\u017c jego inwestor \u2013 grupa Angel Poland, otrzymuj\u0105c w plebiscycie EuropaProperty CEE Investment Awards tytu\u0142 najlepszego dewelopera w segmencie hotelarstwa.\n\nUwielbiany przez turyst\u00f3w, celebryt\u00f3w oraz przedstawicieli sztuki i kultury Stradom House to jednak nie tylko idealne miejsce na city break, ale tak\u017ce przestrze\u0144 do organizacji niepowtarzalnych event\u00f3w i konferencji.\n\n- Mamy \u0142\u0105cznie 12 przestrzeni, w kt\u00f3rych mo\u017cemy zorganizowa\u0107 jedyne w swoim rodzaju wydarzenia. Ka\u017cde zapewnia niezale\u017cno\u015b\u0107, dyskrecj\u0119 i wyr\u00f3\u017cnia si\u0119 indywidualnym stylem i atmosfer\u0105. Codziennie odbywaj\u0105 si\u0119 w nich konferencje, szkolenia, firmowe spotkania integracyjne, warsztaty czy premiery produkt\u00f3w znanych marek. Stradom House przyci\u0105ga biznes, a ten z kolei, kiedy pozna nasze mo\u017cliwo\u015bci zostaje z nami na d\u0142u\u017cej. Go\u015bcie cz\u0119sto wracaj\u0105 do nas na rodzinne wydarzenia okoliczno\u015bciowe, organizuj\u0105 chrzciny czy wesela. Je\u015bli klient pragnie zorganizowa\u0107 wieczorn\u0105 imprez\u0119 firmow\u0105 w zamkni\u0119tej przestrzeni, nasz Playroom zamienia si\u0119 w klub taneczny. U nas nie ma rzeczy niemo\u017cliwych \u2013 podsumowuje Jolanta Jamroz-Ko\u0144czak, dyrektorka sprzeda\u017cy i marketingu w Stradom House Autograph Collection by Marriott."
+            "title": "Banknoty i monety PRL w cenie z\u0142ota. Tyle w 2025 roku trzeba zap\u0142aci\u0107 za stare pieni\u0105dze",
+            "link": "https://pomorska.pl/banknoty-i-monety-prl-w-cenie-zlota-tyle-w-2025-roku-trzeba-zaplacic-za-stare-pieniadze/ar/c1p2-27205273",
+            "description": "W 2025 roku kolekcjonerzy nadal intensywnie interesuj\u0105 si\u0119 starymi pieni\u0119dzmi z okresu Polskiej Rzeczpospolitej Ludowej. Ceny ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.rWKq%2biidff0tyEkzxoBwuA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+numizmatyka",
+            "date": "Pomorska2 godz.",
+            "source": "Pomorska",
+            "article_content": "Content not available"
         }
     },
     {
@@ -362,56 +394,8 @@
             "description": "W 2025 roku kolekcjonerzy nadal intensywnie interesuj\u0105 si\u0119 starymi pieni\u0119dzmi z okresu Polskiej Rzeczpospolitej Ludowej. Ceny ...",
             "image_url": "https://www.bing.pl/th?id=OVF.hk0QwHWKWJKZFEnTdM9Yig&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Pomorska11 godz.",
+            "date": "Pomorska15 godz.",
             "source": "Pomorska",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Banknoty i monety PRL w cenie z\u0142ota. Tyle w 2025 roku trzeba zap\u0142aci\u0107 za stare pieni\u0105dze [27.01.2025]",
-            "link": "https://pomorska.pl/banknoty-i-monety-prl-w-cenie-zlota-tyle-w-2025-roku-trzeba-zaplacic-za-stare-pieniadze-27-01-2025/ar/c1p2-27205273",
-            "description": "W 2025 roku kolekcjonerzy nadal intensywnie interesuj\u0105 si\u0119 starymi pieni\u0119dzmi z okresu Polskiej Rzeczpospolitej Ludowej. Ceny ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.qoXHqEV0nCAtD9ih1x0VEA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+numizmatyka",
-            "date": "Pomorska22 godz.",
-            "source": "Pomorska",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Rzadkie monety z PRL poszukiwane przez kolekcjoner\u00f3w. Sprawd\u017a, kt\u00f3re s\u0105 najdro\u017csze i ile mo\u017cna za nie zarobi\u0107! 27.01.2025",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/rzadkie-monety-z-prl-poszukiwane-przez-kolekcjoner%C3%B3w-sprawd%C5%BA-kt%C3%B3re-s%C4%85-najdro%C5%BCsze-i-ile-mo%C5%BCna-za-nie-zarobi%C4%87-27012025/ar-AA1xUZPb?ocid=BingNewsVerp",
-            "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.liz%2btLTL9UXB4TjXt7pCaQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+numizmatyka",
-            "date": "Express Ilustrowany on MSN21 godz.",
-            "source": "Express Ilustrowany on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Ta moneta z PRL mo\u017ce by\u0107 warta nawet 30 tys. z\u0142otych! Koniecznie zobacz swoje szuflady [ZDJ\u0118CIA] 27.01.2025",
-            "link": "https://gs24.pl/ta-moneta-z-prl-moze-byc-warta-nawet-30-tys-zlotych-koniecznie-zobacz-swoje-szuflady-zdjecia-27012025/ar/c1-17906435",
-            "description": "Wycena monet z PRL-u zale\u017cy od rzadko\u015bci wyst\u0119powania, jako\u015bci wybicia oraz gradingu, czyli stanu jej zachowania. W Polsce znajdziemy wiele okaz\u00f3w wartych kilkaset z\u0142otych, ale s\u0105 te\u017c takie, na ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stare+numizmatyka",
-            "date": "gs24.pl23 godz.",
-            "source": "gs24.pl",
             "article_content": "Content not available"
         }
     },
@@ -426,7 +410,7 @@
             "description": "Warszawska kamienica skrywa w sobie prawdziwy skarb. Mowa o wytwornej dekoracji wn\u0119trz, kt\u00f3r\u0105 odkryto na klatce schodowej.",
             "image_url": "https://www.bing.pl/th?id=OVF.e6UP2B9I6HpZqThvZLNuJw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Warszawa Naszemiasto on MSN17 godz.",
+            "date": "Warszawa Naszemiasto on MSN21 godz.",
             "source": "Warszawa Naszemiasto on MSN",
             "article_content": ""
         }
