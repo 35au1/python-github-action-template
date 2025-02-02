@@ -5,12 +5,60 @@
             "Content-Type": "application/json"
         },
         "body": {
+            "title": "Niedziela handlowa na gie\u0142dzie przy Andersa. Do nabycia auta, owoce, starocie. W pierwsz\u0105 niedziel\u0119 lutego 2025 roku",
+            "link": "https://www.msn.com/pl-pl/shopping/og%C3%B3lne/niedziela-handlowa-na-gie%C5%82dzie-przy-andersa-do-nabycia-auta-owoce-starocie-w-pierwsz%C4%85-niedziel%C4%99-lutego-2025-roku/ar-AA1ygOgH?ocid=BingNewsVerp",
+            "description": "Owoce, warzywa, regionalne przysmaki, pieczywo - to i wiele innych mo\u017cna by\u0142o kupi\u0107 w pierwsz\u0105 niedziel\u0119 2025 na na gie\u0142dzie ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.rcmZ0A5W9u9gN0BGlMgqvw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Kurier Poranny on MSN1 godz.",
+            "source": "Kurier Poranny on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Targowisko przy ul. Kaliskiej we W\u0142oc\u0142awku - 1 lutego 2025. Tanie warzywa, owoce, ubrania i nie tylko. Zdj\u0119cia, ceny",
+            "link": "https://wloclawek.naszemiasto.pl/targowisko-przy-ul-kaliskiej-we-wloclawku-1-lutego-2025-tanie-warzywa-owoce-ubrania-i-nie-tylko-zdjecia-ceny/ar/c8p2-27227009",
+            "description": "We W\u0142oc\u0142awku dzia\u0142aj\u0105 dwa miejskie targowiska oraz niedzielny pchli targ. Jedno z nich mie\u015bci si\u0119 przy ulicy Kaliskiej, ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.orhLrPLbivIiilp0w1uhfQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "W\u0142oc\u0142awek Nasze Miasto16 godz.",
+            "source": "W\u0142oc\u0142awek Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Na gie\u0142dzie w Sandomierzu du\u017cy ruch. Zobacz, co sprzedawa\u0142o si\u0119 w pierwsz\u0105 sobot\u0119 lutego",
+            "link": "https://echodnia.eu/podkarpackie/na-gieldzie-w-sandomierzu-duzy-ruch-zobacz-co-sprzedawalo-sie-w-pierwsza-sobote-lutego/ar/c1-19062024",
+            "description": "W pierwsz\u0105 sobot\u0119 lutego du\u017co os\u00f3b robi zakupy na sandomierskiej gie\u0142dzie. Na popularnym targowisku sprzedawcy oferuj\u0105 towary ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.M0tzB4wYOHMpquT8b6sGFw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "echodnia23 godz.",
+            "source": "echodnia",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
             "title": "Pras\u00f3wka z ca\u0142ego tygodnia 2.02.2025 we W\u0142oc\u0142awku. Zobacz przegl\u0105d prasy, by by\u0107 na bie\u017c\u0105co",
             "link": "https://wloclawek.naszemiasto.pl/prasowka-z-calego-tygodnia-2-02-2025-we-wloclawku-zobacz-przeglad-prasy-by-byc-na-biezaco/ar/c1p1-27228805",
             "description": "Przygotowali\u015bmy dla Ciebie tygodniow\u0105 pras\u00f3wk\u0119. Je\u015bli w mijaj\u0105cym tygodniu by\u0142e\u015b zbyt zaj\u0119ty, by nad\u0105\u017cy\u0107 za informacjami z ...",
             "image_url": "https://www.bing.pl/th?id=OVF.fpQXukaV87svZG2g8FCKKw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "W\u0142oc\u0142awek Nasze Miasto1 godz.",
+            "date": "W\u0142oc\u0142awek Nasze Miasto5 godz.",
             "source": "W\u0142oc\u0142awek Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -26,57 +74,9 @@
             "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 1.02.",
             "image_url": "https://www.bing.pl/th?id=OVFT.0gUlts1fzkAb1jNNiLi7ui&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "echodnia3 godz.",
+            "date": "echodnia7 godz.",
             "source": "echodnia",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Targowisko przy ul. Kaliskiej we W\u0142oc\u0142awku - 1 lutego 2025. Tanie warzywa, owoce, ubrania i nie tylko. Zdj\u0119cia, ceny. Zdj\u0119cia, ceny",
-            "link": "https://wloclawek.naszemiasto.pl/targowisko-przy-ul-kaliskiej-we-wloclawku-1-lutego-2025-tanie-warzywa-owoce-ubrania-i-nie-tylko-zdjecia-ceny-zdjecia-ceny/ar/c8p2-27227009",
-            "description": "We W\u0142oc\u0142awku dzia\u0142aj\u0105 dwa miejskie targowiska oraz niedzielny pchli targ. Jedno z nich mie\u015bci si\u0119 przy ulicy Kaliskiej, natomiast drugie znajduje si\u0119 przy ulicy Zwi\u0105zk\u00f3w Zawodowych. W pochmurn\u0105 sobot\u0119 ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.Bm8piDnsAoinfeChI0AgCw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "starocie",
-            "date": "W\u0142oc\u0142awek Nasze Miasto20 godz.",
-            "source": "W\u0142oc\u0142awek Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Na gie\u0142dzie w Sandomierzu du\u017cy ruch. Zobacz, co sprzedawa\u0142o si\u0119 w pierwsz\u0105 sobot\u0119 lutego",
-            "link": "https://echodnia.eu/podkarpackie/na-gieldzie-w-sandomierzu-duzy-ruch-zobacz-co-sprzedawalo-sie-w-pierwsza-sobote-lutego/ar/c1-19062024",
-            "description": "W pierwsz\u0105 sobot\u0119 lutego du\u017co os\u00f3b robi zakupy na sandomierskiej gie\u0142dzie. Na popularnym targowisku sprzedawcy oferuj\u0105 towary ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.M0tzB4wYOHMpquT8b6sGFw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "echodnia19 godz.",
-            "source": "echodnia",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Jarmark Staroci w Kiermusach. Sprawd\u017a, co mo\u017cna pojawi\u0142o si\u0119 na Czarciej Polanie w pierwsz\u0105 sobot\u0119 lutego",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/jarmark-staroci-w-kiermusach-sprawd%C5%BA-co-pojawi%C5%82o-si%C4%99-na-czarciej-polanie-w-pierwsz%C4%85-sobot%C4%99-lutego/ar-AA1yeX5O?ocid=BingNewsVerp",
-            "description": "Mimo niezach\u0119caj\u0105cej pogody, sprzedaj\u0105cy i kupuj\u0105cy, jak w ka\u017cdy pierwszy weekend miesi\u0105ca, pojawili si\u0119 w Kiermusach. Wejd\u017a ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.mAK4lcA0zaq2lAGxfFn3hy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "Kurier Poranny on MSN17 godz.",
-            "source": "Kurier Poranny on MSN",
-            "article_content": ""
         }
     },
     {
@@ -90,25 +90,9 @@
             "description": "W 2025 roku kolekcjonerzy nadal intensywnie interesuj\u0105 si\u0119 starymi pieni\u0119dzmi z okresu Polskiej Rzeczpospolitej Ludowej. Ceny ...",
             "image_url": "https://www.bing.pl/th?id=OVF.cmlZ3ksdcAIbFTIX2w7SGg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Gazeta Pomorska on MSN19 min",
+            "date": "Gazeta Pomorska on MSN4 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Ta moneta z PRL mo\u017ce by\u0107 warta nawet 30 tys. z\u0142otych! Koniecznie zobacz swoje szuflady [ZDJ\u0118CIA] 02.02.2025",
-            "link": "https://gs24.pl/ta-moneta-z-prl-moze-byc-warta-nawet-30-tys-zlotych-koniecznie-zobacz-swoje-szuflady-zdjecia-02022025/ar/c1-17906435",
-            "description": "Wycena monet z PRL-u zale\u017cy od rzadko\u015bci wyst\u0119powania, jako\u015bci wybicia oraz gradingu, czyli stanu jej zachowania. W Polsce znajdziemy wiele okaz\u00f3w wartych kilkaset z\u0142otych, ale s\u0105 te\u017c takie, na ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stare+monety",
-            "date": "gs24.pl3 godz.",
-            "source": "gs24.pl",
-            "article_content": "Content not available"
         }
     },
     {
@@ -122,8 +106,24 @@
             "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet zwyk\u0142a pi\u0119cioz\u0142ot\u00f3wka mo\u017ce mie\u0107 wielokrotnie wi\u0119ksz\u0105 warto\u015b\u0107 ni\u017c nomina\u0142.",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "gk24.pl3 godz.",
+            "date": "gk24.pl7 godz.",
             "source": "gk24.pl",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Ta moneta z PRL mo\u017ce by\u0107 warta nawet 30 tys. z\u0142otych! Koniecznie zobacz swoje szuflady [ZDJ\u0118CIA] 02.02.2025",
+            "link": "https://gs24.pl/ta-moneta-z-prl-moze-byc-warta-nawet-30-tys-zlotych-koniecznie-zobacz-swoje-szuflady-zdjecia-02022025/ar/c1-17906435",
+            "description": "Wycena monet z PRL-u zale\u017cy od rzadko\u015bci wyst\u0119powania, jako\u015bci wybicia oraz gradingu, czyli stanu jej zachowania. W Polsce znajdziemy wiele okaz\u00f3w wartych kilkaset z\u0142otych, ale s\u0105 te\u017c takie, na ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stare+monety",
+            "date": "gs24.pl7 godz.",
+            "source": "gs24.pl",
             "article_content": "Content not available"
         }
     },
@@ -134,13 +134,13 @@
         },
         "body": {
             "title": "Te monety z PRL s\u0105 warte ogromne pieni\u0105dze! Zap\u0142acisz za nie nawet kilkana\u015bcie tysi\u0119cy z\u0142otych! Tyle kosztuj\u0105 monety z PRL 2.02.2025",
-            "link": "https://gk24.pl/te-monety-z-prl-sa-warte-ogromne-pieniadze-zaplacisz-za-nie-nawet-kilkanascie-tysiecy-zlotych-tyle-kosztuja-monety-z-prl-2022025/ar/c3-19042098",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/te-monety-z-prl-s%C4%85-warte-ogromne-pieni%C4%85dze-zap%C5%82acisz-za-nie-nawet-kilkana%C5%9Bcie-tysi%C4%99cy-z%C5%82otych-tyle-kosztuj%C4%85-monety-z-prl-22012025/ar-AA1xF2s5?ocid=BingNewsVerp",
             "description": "Mo\u017cemy si\u0119 nawet nie spodziewa\u0107, \u017ce w swoich domach posiadamy przedmioty o ogromnej warto\u015bci. Z pewno\u015bci\u0105 cz\u0119\u015b\u0107 z nas znalaz\u0142a w swojej szufladzie stare monety z okresu PRL, nie zastanawiaj\u0105c si\u0119 ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "image_url": "https://www.bing.plNo image",
             "category": "stare+monety",
-            "date": "gk24.pl3 godz.",
-            "source": "gk24.pl",
-            "article_content": "Content not available"
+            "date": "G\u0142os Koszali\u0144ski on MSN7 godz.",
+            "source": "G\u0142os Koszali\u0144ski on MSN",
+            "article_content": ""
         }
     },
     {
@@ -149,14 +149,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Rzadkie monety z PRL poszukiwane przez kolekcjoner\u00f3w. Sprawd\u017a, kt\u00f3re s\u0105 najdro\u017csze i ile mo\u017cna za nie zarobi\u0107! 01.02.2025",
-            "link": "https://www.msn.com/pl-pl/finanse/og%C3%B3lne/rzadkie-monety-z-prl-poszukiwane-przez-kolekcjoner%C3%B3w-sprawd%C5%BA-kt%C3%B3re-s%C4%85-najdro%C5%BCsze-i-ile-mo%C5%BCna-za-nie-zarobi%C4%87-01-02-2025/ar-AA1ye4Mt?ocid=BingNewsVerp",
-            "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.H5xzmA8ZQN7aNok4oKrHnS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Kapita\u0142 instytucjonalny celuje w ETF na DOGE \u2014 co to oznacza dla XYZVerse (XYZ) i innych memecoin\u00f3w!",
+            "link": "https://comparic.pl/kapital-instytucjonalny-celuje-w-etf-na-doge-co-to-oznacza-dla-xyzverse-xyz-i-innych-memecoinow/",
+            "description": "Tre\u015b\u0107 artyku\u0142u dostarczona przez Partnera w ramach wsp\u00f3\u0142pracy komercyjnej. Inwestorzy instytucjonalni zwracaj\u0105 uwag\u0119 na nowy Dogecoin ETF, sygnalizuj\u0105c - Bitcoin ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.7XuGsgPDeEOKBRq3nTWokg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "Hostowane na MSN22 godz.",
-            "source": "MSN",
-            "article_content": ""
+            "date": "comparic1 godz.",
+            "source": "comparic",
+            "article_content": "Tre\u015b\u0107 artyku\u0142u dostarczona przez Partnera w ramach wsp\u00f3\u0142pracy komercyjnej.\n\nInwestorzy instytucjonalni zwracaj\u0105 uwag\u0119 na nowy Dogecoin ETF, sygnalizuj\u0105c zmian\u0119 w postrzeganiu kryptowalut opartych na memach. Ten ruch mo\u017ce mie\u0107 znacz\u0105ce implikacje dla projekt\u00f3w takich jak XYZVerse (XYZ) i innych podobnych token\u00f3w. Jak ten rozw\u00f3j wp\u0142ynie na przysz\u0142o\u015b\u0107 tych cyfrowych aktyw\u00f3w? Odpowiedzi mog\u0105 na nowo zdefiniowa\u0107 krajobraz monet memowych.\n\nZwyci\u0119stwo Trumpa wywo\u0142uje krypto chaos: $XYZ Memecoin gotowy na nokaut\n\nWyborcze zwyci\u0119stwo Donalda Trumpa wywo\u0142a\u0142o sejsmiczn\u0105 zmian\u0119 na rynku kryptowalut, przygotowuj\u0105c grunt pod hoss\u0119, jakiej nie by\u0142o nigdy wcze\u015bniej. Gdy kurz opada, g\u0142\u00f3wne monety kulej\u0105 do przodu z ma\u0142o inspiruj\u0105cymi dwucyfrowymi zyskami, podczas gdy monety memowe kradn\u0105 show.\n\nOstatni wzrost PNUT o 4500%? Eksplozja FRED o 6000%? Dawna historia, pogrzebana w popio\u0142ach kr\u00f3tkotrwa\u0142ego szumu. Te monety ugi\u0119\u0142y si\u0119 pod presj\u0105 sprzeda\u017cy, pozostawiaj\u0105c inwestor\u00f3w z FOMO li\u017c\u0105cych rany. Ale krypto-bitwa nie czeka na s\u0142abych \u2014 pojawi\u0142 si\u0119 nowy tytan z planami zniszczenia rekord\u00f3w i zapewnienia wstrz\u0105saj\u0105cego rozwoju.\n\nSta\u0144 po stronie XYZ \u2014 niekwestionowanego mistrza monet memowych\n\nZapisz si\u0119 do newslettera Comparic.pl >>\n\n\n\nDalsza cz\u0119\u015b\u0107 artyku\u0142u pod filmem\n\n\n\n\n\n\n\n\n\nDalsza cz\u0119\u015b\u0107 artyku\u0142u pod filmem\n\n$XYZ wkracza na ring, by znokautowa\u0107 legendy monet memowych\n\nPoznaj $XYZ \u2014 pierwsze w historii memcoiny sportowe dla prawdziwych krypto-degen\u00f3w g\u0142odnych ryzyka i zysk\u00f3w. To token dla tych, kt\u00f3rzy lubi\u0105 dreszczyk emocji zwi\u0105zany z rywalizacj\u0105.\n\nGdy Trump przejmuje stery, rynek kryptowalut jest gotowy do wybuchu, wi\u0119c konkurencja staje si\u0119 zaci\u0119ta. Tylko najsilniejsze tokeny mog\u0105 przetrwa\u0107 na tej arenie bez lito\u015bci. Oto nadchodzi \u015bwit ery kryptowalut dla tych ze stalowymi jajami \u2014 facet\u00f3w takich jak Joe Rogan i Dana White \u2014 kt\u00f3rzy z dum\u0105 stan\u0119liby za zespo\u0142em Trumpa. Maj\u0105c na pok\u0142adzie takich prawdziwych ludzi biznesu, nie ma miejsca na stare monety mem\u00f3w z cipkami, nadszed\u0142 czas na prawdziwe brutalne monety.\n\nNap\u0119dzany sportow\u0105 mentalno\u015bci\u0105 token $XYZ wy\u0142oni\u0142 si\u0119 jako ostateczny pretendent gotowy zmia\u017cd\u017cy\u0107 konkurent\u00f3w i wystrzeli\u0107 rakiet\u0119 na ksi\u0119\u017cyc w ramach misji Elona Muska. $XYZ zmierza na podium zwyci\u0119zc\u00f3w, aby sta\u0107 si\u0119 odznak\u0105 honorow\u0105 dla tych, kt\u00f3rzy \u017cyj\u0105 i oddychaj\u0105 sportem i kryptowalutami.\n\n$XYZ ju\u017c dostarcza, zanim trafi na rynek\n\nPrzedsprzeda\u017c $XYZ jest w toku, zapewniaj\u0105c dost\u0119p do tokena po specjalnej cenie przed debiutem.\n\nCena startowa przedsprzeda\u017cy : 0,0001 USD\n\n: 0,0001 USD Cena aktualna : 0,001 USD\n\n: 0,001 USD Nast\u0119pny etap przedsprzeda\u017cy : 0,001333 USD\n\n: 0,001333 USD Ostateczny cel nokautu: 0,1 USD\n\nOd startu do wydarzenia generowania token\u00f3w, $XYZ ma na celu dalszy rozw\u00f3j!\n\nJe\u015bli nie jeste\u015b w \u015brodku, to jeste\u015b poza. Przedsprzeda\u017c $XYZ ju\u017c przechodzi przez etapy z pr\u0119dko\u015bci\u0105 nokautu mistrza.\n\nDo\u0142\u0105cz teraz do przedsprzeda\u017cy $XYZ i zobacz!\n\nDogecoin: Od internetowego \u017cartu do krypto-supergwiazdy\n\nDogecoin zacz\u0105\u0142 si\u0119 jako \u017cart w 2013 roku, stworzony przez Billy\u2019ego Marcusa i Jacksona Palmera. Chcieli zabawnej alternatywy dla powa\u017cnych kryptowalut, takich jak Bitcoin. U\u017cywaj\u0105c psa Shiba Inu jako logo, Dogecoin przyci\u0105gn\u0105\u0142 uwag\u0119 ludzi online. W przeciwie\u0144stwie do ograniczonej poda\u017cy Bitcoina, Dogecoin nie ma maksymalnego limitu, a co minut\u0119 wydobywa si\u0119 10 000 nowych monet. Pocz\u0105tkowo postrzegany jako \u201ememecoin\u201d, jego warto\u015b\u0107 gwa\u0142townie wzros\u0142a w 2021 roku. Szum medi\u00f3w spo\u0142eczno\u015bciowych, zw\u0142aszcza tweety Elona Muska, umie\u015bci\u0142y Dogecoina w pierwszej dziesi\u0105tce kryptowalut, osi\u0105gaj\u0105c warto\u015b\u0107 rynkow\u0105 ponad 50 miliard\u00f3w dolar\u00f3w. Ten wzrost pokaza\u0142 si\u0142\u0119 spo\u0142eczno\u015bci i to, jak media spo\u0142eczno\u015bciowe mog\u0105 wp\u0142ywa\u0107 na rynki finansowe.\n\nDzisiaj przysz\u0142o\u015b\u0107 Dogecoina wydaje si\u0119 pe\u0142na potencja\u0142u. Jego technologia umo\u017cliwia szybkie i tanie transakcje, dzi\u0119ki czemu jest praktyczny w codziennym u\u017cytku. Nieograniczona poda\u017c oznacza, \u017ce \u200b\u200bjest go pod dostatkiem, co mo\u017ce pom\u00f3c w szerszej adopcji. W por\u00f3wnaniu do innych monet, takich jak Bitcoin i Ethereum, Dogecoin jest bardziej dost\u0119pny ze wzgl\u0119du na ni\u017csz\u0105 cen\u0119. Na obecnym rynku wielu inwestor\u00f3w szuka niedrogich kryptowalut z silnymi spo\u0142eczno\u015bciami. Dogecoin wpisuje si\u0119 w ten trend i wyr\u00f3\u017cnia si\u0119 jako wyj\u0105tkowa opcja. Cho\u0107 zacz\u0119\u0142o si\u0119 jako \u017cart, jego rosn\u0105ca akceptacja sugeruje, \u017ce mo\u017ce by\u0107 czym\u015b wi\u0119cej ni\u017c tylko chwilow\u0105 mod\u0105.\n\nShiba Inu: Nap\u0119dzana Ethereum moneta memowa, kt\u00f3ra robi furor\u0119\n\nShiba Inu (SHIB) to kryptowaluta, kt\u00f3ra zacz\u0119\u0142a si\u0119 jako zabawny rywal Dogecoina. Wprowadzona w sierpniu 2020 roku przez anonimowego tw\u00f3rc\u0119 o imieniu Ryoshi, SHIB dzia\u0142a w sieci Ethereum. Oznacza to, \u017ce mo\u017ce \u0142atwo \u0142\u0105czy\u0107 si\u0119 z innymi projektami w Ethereum. SHIB zacz\u0119\u0142o si\u0119 od ogromnej poda\u017cy jednego kwadryliona token\u00f3w. W zaskakuj\u0105cym posuni\u0119ciu po\u0142owa tych token\u00f3w zosta\u0142a wys\u0142ana do Vitalika Buterina, jednego z za\u0142o\u017cycieli Ethereum, w celu zbudowania zaufania. Buterin przekaza\u0142 znaczn\u0105 cz\u0119\u015b\u0107 na pomoc w walce z COVID-19 w Indiach i spali\u0142 40% ca\u0142kowitej poda\u017cy, zmniejszaj\u0105c liczb\u0119 token\u00f3w SHIB w obiegu.\n\nW przeciwie\u0144stwie do Dogecoin, po\u0142\u0105czenie SHIB z Ethereum pozwala mu oferowa\u0107 wi\u0119cej funkcji. Ma w\u0142asn\u0105 gie\u0142d\u0119 o nazwie ShibaSwap, na kt\u00f3rej u\u017cytkownicy mog\u0105 handlowa\u0107 tokenami bez centralnego organu. Istniej\u0105 r\u00f3wnie\u017c plany dotycz\u0105ce platformy NFT i systemu, w kt\u00f3rym posiadacze mog\u0105 g\u0142osowa\u0107 nad decyzjami. Te wydarzenia pokazuj\u0105, \u017ce SHIB d\u0105\u017cy do czego\u015b wi\u0119cej ni\u017c tylko bycia monet\u0105 memow\u0105. Na obecnym rynku SHIB wyr\u00f3\u017cnia si\u0119 ze wzgl\u0119du na rozwijaj\u0105cy si\u0119 ekosystem i aktywn\u0105 spo\u0142eczno\u015b\u0107. Podczas gdy niekt\u00f3re monety memowe zanikaj\u0105, SHIB buduje prawdziw\u0105 u\u017cyteczno\u015b\u0107. Mo\u017ce to uczyni\u0107 go atrakcyjn\u0105 opcj\u0105 dla tych, kt\u00f3rzy patrz\u0105 poza tradycyjne kryptowaluty, takie jak Bitcoin i Ethereum.\n\nOd mema do milionera: Wzrost monety PEPE\n\nPEPE Coin wywo\u0142uje poruszenie w \u015bwiecie kryptowalut, poniewa\u017c deflacyjny memcoin zosta\u0142 uruchomiony na Ethereum. Zainspirowany Pepe the Frog Matta Furie, memem, kt\u00f3ry podbi\u0142 internet na pocz\u0105tku XXI wieku, PEPE ma zamiar do\u0142\u0105czy\u0107 do grona popularnych kryptowalut opartych na memach, takich jak Dogecoin i Shiba Inu. W niezwyk\u0142ym wzro\u015bcie mi\u0119dzy kwietniem a majem 2023 r. kapitalizacja rynkowa PEPE wzros\u0142a do imponuj\u0105cych 1,6 miliarda dolar\u00f3w. Ten wybuchowy wzrost zamieni\u0142 wczesnych inwestor\u00f3w w milioner\u00f3w i zbudowa\u0142 pe\u0142n\u0105 pasji spo\u0142eczno\u015b\u0107 zwolennik\u00f3w gromadz\u0105cych si\u0119 wok\u00f3\u0142 monety z motywem \u017caby.\n\nTym, co wyr\u00f3\u017cnia PEPE, jest zaanga\u017cowanie w zachowanie prostoty. Dzi\u0119ki polityce braku podatku i jasnemu przekazowi, \u017ce chodzi o mem, PEPE nie udaje, \u017ce oferuje u\u017cyteczno\u015b\u0107 wykraczaj\u0105c\u0105 poza bycie cz\u0119\u015bci\u0105 zabawy. Jego plan dzia\u0142ania obejmuje ambitne cele, takie jak notowania na g\u0142\u00f3wnych gie\u0142dach i \u201eprzej\u0119cie mem\u00f3w\u201d w fazie ko\u0144cowej. Wzrost monety zapocz\u0105tkowa\u0142 to, co niekt\u00f3rzy nazywaj\u0105 \u201esezonem memecoin\u00f3w\u201d, w kt\u00f3rym pojawiaj\u0105 si\u0119 nowe tokeny i do\u015bwiadczaj\u0105 gwa\u0142townych waha\u0144 cen. Chocia\u017c nie jest pewne, czy PEPE osi\u0105gnie nowe szczyty, jego zwi\u0105zek z kultur\u0105 internetow\u0105 i nadchodz\u0105cy halving Bitcoina daj\u0105 wielu nadziej\u0119 na kolejny wzrost. Dla tych, kt\u00f3rych intryguje po\u0142\u0105czenie mem\u00f3w i kryptowalut, PEPE przedstawia interesuj\u0105c\u0105 okazj\u0119 na dzisiejszym rynku.\n\nBONK: Shiba Inu memecoin energetyzuj\u0105cy spo\u0142eczno\u015b\u0107 Solany\n\nBONK to nowy memecoin, kt\u00f3ry wywo\u0142uje poruszenie na blockchainie Solany. Z urocz\u0105 maskotk\u0105 Shiba Inu, BONK ma na celu wzmocnienie spo\u0142eczno\u015bci Solany, przejmuj\u0105c w\u0142adz\u0119 od du\u017cych token\u00f3w kapita\u0142u podwy\u017cszonego ryzyka. Po notowaniu na Coinbase, cena BONK wzros\u0142a o ponad 100%, przyci\u0105gaj\u0105c uwag\u0119 wielu entuzjast\u00f3w kryptowalut. Tym, co wyr\u00f3\u017cnia BONK, jest jego zaanga\u017cowanie w bycie prawdziw\u0105 \u201emonet\u0105 spo\u0142eczno\u015bciow\u0105\u201d. 50% ca\u0142kowitej poda\u017cy zosta\u0142o przekazane uczestnikom projekt\u00f3w NFT i DeFi Solany, rozdzielaj\u0105c bogactwo mi\u0119dzy aktywnych u\u017cytkownik\u00f3w.\n\nPomimo wysokiej poda\u017cy i zwyk\u0142ej zmienno\u015bci memecoin\u00f3w, BONK rokuje nadzieje w rozwijaj\u0105cym si\u0119 ekosystemie Solana. Jego integracja z r\u00f3\u017cnymi zdecentralizowanymi aplikacjami, takimi jak nadchodz\u0105ca gie\u0142da BonkSwap, dodaje prawdziwej u\u017cyteczno\u015bci do monety. W por\u00f3wnaniu z innymi memecoinami, kt\u00f3rym cz\u0119sto brakuje substancji, BONK buduje solidne podstawy w ramach dynamicznej sieci blockchain. W obecnym cyklu rynkowym, w kt\u00f3rym projekty nap\u0119dzane przez spo\u0142eczno\u015b\u0107 zyskuj\u0105 na popularno\u015bci, zaanga\u017cowanie BONK w ekosystem Solana sprawia, \u017ce \u200b\u200bjest to godny uwagi gracz, kt\u00f3rego warto obserwowa\u0107. Jednak ze wzgl\u0119du na nieod\u0142\u0105czne ryzyko zwi\u0105zane z memecoinami, wa\u017cne jest, aby ka\u017cdy zainteresowany przeprowadzi\u0142 dok\u0142adne badania przed podj\u0119ciem jakichkolwiek decyzji.\n\nWniosek\n\nPodczas gdy DOGE, SHIB, PEPE i BONK s\u0105 silne, XYZVerse (XYZ) prowadzi jako pierwszy memecoin przeznaczony wy\u0142\u0105cznie do sportu, d\u0105\u017c\u0105c do rozwoju dzi\u0119ki swojemu unikalnemu, nap\u0119dzanemu przez spo\u0142eczno\u015b\u0107 ekosystemowi sportowemu.\n\nWi\u0119cej informacji o XYZVerse (XYZ) znajdziesz tutaj:\n\nStrona, Telegram, X\n\nWy\u0142\u0105czenie odpowiedzialno\u015bci: Niniejszy materia\u0142 ma charakter wy\u0142\u0105cznie promocyjny i nie stanowi oferty sprzeda\u017cy ani zaproszenia do nabycia kryptowalut, token\u00f3w i NFT ani w \u017cadnym wypadku nie powinien stanowi\u0107 podstawy do podejmowania decyzji o nabyciu kryptowalut, token\u00f3w lub NFT.\n\nPami\u0119taj, inwestowanie w projekty, firmy i startupy, akcje, tokeny, kryptowaluty, NFT a w szczeg\u00f3lno\u015bci w nowe podmioty, wi\u0105\u017ce si\u0119 z wysokim ryzykiem. Inwestycje takie mog\u0105 prowadzi\u0107 do utraty cz\u0119\u015bci lub ca\u0142o\u015bci zainwestowanych \u015brodk\u00f3w. Inwestorzy powinni posiada\u0107 wystarczaj\u0105c\u0105 wiedz\u0119, aby zrozumie\u0107 ryzyko i \u015bwiadomie podejmowa\u0107 decyzje. W przypadku jakichkolwiek w\u0105tpliwo\u015bci zasi\u0119gnij porady niezale\u017cnego doradcy inwestycyjnego."
         }
     },
     {
@@ -170,7 +170,7 @@
             "description": "Ta porcelana z PRL jest warta maj\u0105tek! Unikatowe zestawy, talerze, fili\u017canki z PRL. Tych przedmiot\u00f3w szukaj\u0105 kolekcjonerzy!",
             "image_url": "https://www.bing.pl/th?id=OVFT.OWuhDCjuSGaIzMzkpP0vJS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "gk24.pl3 godz.",
+            "date": "gk24.pl7 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -182,13 +182,13 @@
         },
         "body": {
             "title": "Te monety z PRL s\u0105 warte ogromne pieni\u0105dze! Zap\u0142acisz za nie nawet kilkana\u015bcie tysi\u0119cy z\u0142otych! Tyle kosztuj\u0105 monety z PRL 2.02.2025",
-            "link": "https://gk24.pl/te-monety-z-prl-sa-warte-ogromne-pieniadze-zaplacisz-za-nie-nawet-kilkanascie-tysiecy-zlotych-tyle-kosztuja-monety-z-prl-2022025/ar/c3-19042098",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/te-monety-z-prl-s%C4%85-warte-ogromne-pieni%C4%85dze-zap%C5%82acisz-za-nie-nawet-kilkana%C5%9Bcie-tysi%C4%99cy-z%C5%82otych-tyle-kosztuj%C4%85-monety-z-prl-22012025/ar-AA1xF2s5?ocid=BingNewsVerp",
             "description": "Mo\u017cemy si\u0119 nawet nie spodziewa\u0107, \u017ce w swoich domach posiadamy przedmioty o ogromnej warto\u015bci. Z pewno\u015bci\u0105 cz\u0119\u015b\u0107 z nas znalaz\u0142a w swojej szufladzie stare monety z okresu PRL, nie zastanawiaj\u0105c si\u0119 ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "image_url": "https://www.bing.plNo image",
             "category": "stara+porcelana",
-            "date": "gk24.pl3 godz.",
-            "source": "gk24.pl",
-            "article_content": "Content not available"
+            "date": "G\u0142os Koszali\u0144ski on MSN7 godz.",
+            "source": "G\u0142os Koszali\u0144ski on MSN",
+            "article_content": ""
         }
     },
     {
@@ -197,12 +197,44 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Gie\u0142da staroci w Bytomiu. Tajemnice minionych epok czeka\u0142y na nowych w\u0142a\u015bcicieli. Zobaczcie co mo\u017cna tu by\u0142o upolowa\u0107",
+            "title": "Odwiedzili\u015bmy targ staroci w Mys\u0142owicach! Skarby z r\u00f3\u017cnych epok na wyci\u0105gni\u0119cie r\u0119ki - jest w czym wybiera\u0107. Zobacz ZDJ\u0118CIA",
+            "link": "https://www.msn.com/pl-pl/historia-i-kultura-spo%C5%82ecze%C5%84stwa/wydarzenia-kulturalne/odwiedzili%C5%9Bmy-targ-staroci-w-mys%C5%82owicach-skarby-z-r%C3%B3%C5%BCnych-epok-na-wyci%C4%85gni%C4%99cie-r%C4%99ki-jest-w-czym-wybiera%C4%87-zobacz-zdj%C4%99cia/ar-AA1ygHhw?ocid=BingNewsVerp",
+            "description": "WEEKEND. Mys\u0142owicki targ staroci 2 lutego przyci\u0105gn\u0105\u0142 t\u0142umy mi\u0142o\u015bnik\u00f3w rzeczy retro z minionej epoki. Mimo zimowej aury i ch\u0142odu, na terenie targowiska by\u0142o gwarnie i kolorowo. Wystawcy tego dnia ofer ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.I2hIzRg_rpldw1zo2qaeOw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "targ+staroci",
+            "date": "Hostowane na MSN1 godz.",
+            "source": "MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Gie\u0142da staroci w \u015awidnicy przyci\u0105gn\u0119\u0142a t\u0142umy. To najstarszy taki pchli targ w Polsce. Na stoiskach skarby i r\u00f3\u017cno\u015bci",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/gie%C5%82da-staroci-w-%C5%9Bwidnicy-przyci%C4%85gn%C4%99%C5%82a-t%C5%82umy-to-najstarszy-taki-pchli-targ-w-polsce-na-stoiskach-skarby-i-r%C3%B3%C5%BCno%C5%9Bci/ar-AA1ygFtH?ocid=BingNewsVerp",
+            "description": "\u015awidnicka Gie\u0142da Staroci, Numizmat\u00f3w i Osobliwo\u015bci ma d\u0142ug\u0105 tradycj\u0119. Jest jedn\u0105 z najstarszych i najwi\u0119kszych tego typu gie\u0142d w kraju. Targ odbywa si\u0119 w ka\u017cd\u0105 pierwsz\u0105 niedziel\u0119 miesi\u0105ca i zawsze prz ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.p9YO103MXreScWBGsL62IA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "targ+staroci",
+            "date": "Gazeta Wroc\u0142awska on MSN4 godz.",
+            "source": "Gazeta Wroc\u0142awska on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Kup pan szwarc, myd\u0142o i powid\u0142o, czyli gie\u0142da staroci w Bytomiu. Co mo\u017cna by\u0142o upolowa\u0107? Zobaczcie",
             "link": "https://www.msn.com/pl-pl/historia-i-kultura-spo%C5%82ecze%C5%84stwa/%C5%9Bwi%C4%99ta-i-uroczysto%C5%9Bci/kup-pan-szwarc-myd%C5%82o-i-powid%C5%82o-czyli-gie%C5%82da-staroci-w-bytomiu-co-mo%C5%BCna-by%C5%82o-upolowa%C4%87-zobaczcie/ar-AA1yeYX0?ocid=BingNewsVerp",
             "description": "Meble, naczynia, bibeloty, porcelana, obrazy, rze\u017aby \u2013 to wszystko mo\u017cna by\u0142o w sobot\u0119 znale\u017a\u0107 na comiesi\u0119cznym targu staroci przy ul. Modrzewskiego w Bytomiu. Co jeszcze? Zobaczcie w naszej galerii.",
             "image_url": "https://www.bing.pl/th?id=ODF.73GKiv_kwPXUhIas-a0ZXQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Dziennik Zachodni on MSN15 godz.",
+            "date": "Dziennik Zachodni on MSN19 godz.",
             "source": "Dziennik Zachodni on MSN",
             "article_content": ""
         }
@@ -213,44 +245,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Gie\u0142da staroci w Bytomiu zgromadzi\u0142a wielu poluj\u0105cych na okazj\u0119. Co mo\u017cna by\u0142o upolowa\u0107? Zobaczcie",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/gie%C5%82da-staroci-w-bytomiu-zgromadzi%C5%82a-wielu-poluj%C4%85cych-na-okazj%C4%99-co-mo%C5%BCna-by%C5%82o-upolowa%C4%87-zobaczcie/ar-AA1yfiIB?ocid=BingNewsVerp",
-            "description": "Porcelana, obrazy, meble, naczynia, bibeloty, rze\u017aby \u2013 to wszystko mo\u017cna by\u0142o w sobot\u0119 znale\u017a\u0107 na comiesi\u0119cznym targu staroci ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.7shSXWP0udRNEeIOvpZbGi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Niedziela handlowa na gie\u0142dzie przy Andersa. Do nabycia auta, owoce, starocie. W pierwsz\u0105 niedziel\u0119 lutego 2025 roku",
+            "link": "https://www.msn.com/pl-pl/shopping/og%C3%B3lne/niedziela-handlowa-na-gie%C5%82dzie-przy-andersa-do-nabycia-auta-owoce-starocie-w-pierwsz%C4%85-niedziel%C4%99-lutego-2025-roku/ar-AA1ygOgH?ocid=BingNewsVerp",
+            "description": "Owoce, warzywa, regionalne przysmaki, pieczywo - to i wiele innych mo\u017cna by\u0142o kupi\u0107 w pierwsz\u0105 niedziel\u0119 2025 na na gie\u0142dzie ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.rcmZ0A5W9u9gN0BGlMgqvw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Nasze Miasto on MSN14 godz.",
-            "source": "Nasze Miasto on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Targowisko przy ul. Kaliskiej we W\u0142oc\u0142awku - 1 lutego 2025. Tanie warzywa, owoce, ubrania i nie tylko. Zdj\u0119cia, ceny. Zdj\u0119cia, ceny",
-            "link": "https://wloclawek.naszemiasto.pl/targowisko-przy-ul-kaliskiej-we-wloclawku-1-lutego-2025-tanie-warzywa-owoce-ubrania-i-nie-tylko-zdjecia-ceny-zdjecia-ceny/ar/c8p2-27227009",
-            "description": "We W\u0142oc\u0142awku dzia\u0142aj\u0105 dwa miejskie targowiska oraz niedzielny pchli targ. Jedno z nich mie\u015bci si\u0119 przy ulicy Kaliskiej, natomiast drugie znajduje si\u0119 przy ulicy Zwi\u0105zk\u00f3w Zawodowych. W pochmurn\u0105 sobot\u0119 ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.Bm8piDnsAoinfeChI0AgCw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "targ+staroci",
-            "date": "W\u0142oc\u0142awek Nasze Miasto20 godz.",
-            "source": "W\u0142oc\u0142awek Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Jarmark Staroci w Kiermusach. Sprawd\u017a, co pojawi\u0142o si\u0119 na Czarciej Polanie w pierwsz\u0105 sobot\u0119 lutego",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/jarmark-staroci-w-kiermusach-sprawd%C5%BA-co-pojawi%C5%82o-si%C4%99-na-czarciej-polanie-w-pierwsz%C4%85-sobot%C4%99-lutego/ar-AA1yeX5O?ocid=BingNewsVerp",
-            "description": "Od ponad dwudziestu lat w Kiermusach ko\u0142o Tykocina organizowany jest Jarmark Staroci i R\u0119kodzie\u0142a Ludowego. W ka\u017cdy pierwszy weekend miesi\u0105ca na Czarciej Polanie swoje stoiska wystawi\u0105 mi\u0142o\u015bnicy ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.z8szwJPfOZTDo97HvHYzSw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "targ+staroci",
-            "date": "Kurier Poranny on MSN17 godz.",
+            "date": "Kurier Poranny on MSN1 godz.",
             "source": "Kurier Poranny on MSN",
             "article_content": ""
         }
@@ -261,14 +261,78 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Na gie\u0142dzie w Sandomierzu du\u017cy ruch. Zobacz, co sprzedawa\u0142o si\u0119 w pierwsz\u0105 sobot\u0119 lutego",
-            "link": "https://echodnia.eu/podkarpackie/na-gieldzie-w-sandomierzu-duzy-ruch-zobacz-co-sprzedawalo-sie-w-pierwsza-sobote-lutego/ar/c1-19062024",
-            "description": "W pierwsz\u0105 sobot\u0119 lutego du\u017co os\u00f3b robi zakupy na sandomierskiej gie\u0142dzie. Na popularnym targowisku sprzedawcy oferuj\u0105 towary ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.M0tzB4wYOHMpquT8b6sGFw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Targowisko przy ul. Kaliskiej we W\u0142oc\u0142awku - 1 lutego 2025. Tanie warzywa, owoce, ubrania i nie tylko. Zdj\u0119cia, ceny",
+            "link": "https://wloclawek.naszemiasto.pl/targowisko-przy-ul-kaliskiej-we-wloclawku-1-lutego-2025-tanie-warzywa-owoce-ubrania-i-nie-tylko-zdjecia-ceny/ar/c8p2-27227009",
+            "description": "We W\u0142oc\u0142awku dzia\u0142aj\u0105 dwa miejskie targowiska oraz niedzielny pchli targ. Jedno z nich mie\u015bci si\u0119 przy ulicy Kaliskiej, ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.orhLrPLbivIiilp0w1uhfQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "echodnia19 godz.",
-            "source": "echodnia",
+            "date": "W\u0142oc\u0142awek Nasze Miasto16 godz.",
+            "source": "W\u0142oc\u0142awek Nasze Miasto",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Sekrety ulicy Grzybowskiej. Archeolodzy odkrywaj\u0105 \u015blady dawnych kamienic. Co uda\u0142o si\u0119 ocali\u0107 spod warstw ziemi i betonu?",
+            "link": "https://www.msn.com/pl-pl/historia-i-kultura-spo%C5%82ecze%C5%84stwa/historia/sekrety-ulicy-grzybowskiej-archeolodzy-odkrywaj%C4%85-%C5%9Blady-dawnych-kamienic-co-uda%C5%82o-si%C4%99-ocali%C4%87-spod-warstw-ziemi-i-betonu/ar-AA1ygHeJ?ocid=BingNewsVerp",
+            "description": "Pod adresem Grzybowska 9 w Warszawie trwaj\u0105 badania archeologiczne, kt\u00f3re pozwalaj\u0105 zajrze\u0107 w g\u0142\u0105b historii stolicy. Teren dawnego parkingu skrywa\u0142 pozosta\u0142o\u015bci kamienic z drugiej po\u0142owy XIX wieku i ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.RiSZ6cVK2kGKUBp4PkSDCg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "relikty",
+            "date": "Nasze Miasto on MSN2 godz.",
+            "source": "Nasze Miasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pami\u0119\u0107 i niepami\u0119\u0107 o KL Plaszow. Nowe muzeum upami\u0119tni ofiary",
+            "link": "https://www.rmf24.pl/regiony/krakow/news-pamiec-i-niepamiec-o-kl-plaszow-nowe-muzeum-upamietni-ofiary,nId,7904335",
+            "description": "Historia i wsp\u00f3\u0142czesno\u015b\u0107, pami\u0119\u0107 i niepami\u0119\u0107, \u015bwiadectwo oraz przestroga o tym, co wydarzy\u0142o si\u0119 80 lat temu w miejscu, kt\u00f3re znajduje si\u0119 bardzo blisko centrum Krakowa. Przez lata starano si\u0119 zatrze\u0107 ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.y9W0OfaSoc9CqJ9-9nUB_w&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "relikty",
+            "date": "RMF 244 godz.",
+            "source": "RMF 24",
+            "article_content": "Historia i wsp\u00f3\u0142czesno\u015b\u0107, pami\u0119\u0107 i niepami\u0119\u0107, \u015bwiadectwo oraz przestroga o tym, co wydarzy\u0142o si\u0119 80 lat temu w miejscu, kt\u00f3re znajduje si\u0119 bardzo blisko centrum Krakowa. Przez lata starano si\u0119 zatrze\u0107 \u015blady makabrycznych wydarze\u0144, kt\u00f3re rozgra\u0142y si\u0119 w tym miejscu. Teraz na terenie by\u0142ego obozu KL Plaszow powstaje muzeum, kt\u00f3re upami\u0119tni ofiary, a tak\u017ce tych, kt\u00f3rzy przez niego przeszli. Do dzi\u015b uda\u0142o si\u0119 zidentyfikowa\u0107 tylko jedn\u0105 trzeci\u0105 z nich.\n\nPomnik Ofiar Faszyzmu / Jacek Sk\u00f3ra / RMF FM\n\n80 lat temu - w lutym 1945 roku - na terenie obozu koncentracyjnego KL Plaszow nie by\u0142o ju\u017c ani jednego wi\u0119\u017ania. Ostatnich 636 wi\u0119\u017ani\u00f3w 14 stycznia pieszo ruszy\u0142o do obozu Auschwitz Birkenau, kt\u00f3ry niespe\u0142na dwa tygodnie p\u00f3\u017aniej wyzwala\u0142a armia radziecka.\n\nTu w Krakowie najpierw niemieccy nazi\u015bci, potem w\u0142a\u015bnie Armia Czerwona, a po niej w\u0142adze PRL, rozpocz\u0119\u0142y zacieranie \u015blad\u00f3w pami\u0119ci mrocznej historii miejsca, kt\u00f3re znajduje si\u0119 bardzo blisko ruchliwego centrum miasta. Nie wszyscy pojawiaj\u0105cy si\u0119 w tym cichym miejscu otoczonym p\u0142aszowskimi wzg\u00f3rzami, pe\u0142nym zieleni i pustej przestrzeni, zdaj\u0105 sobie spraw\u0119 z tego, co wydarzy\u0142o si\u0119 tu ponad 80 lat temu.\n\nRozmowa Tomasza Staniszewskiego z Kamilem Karskim, g\u0142\u00f3wnym inwentaryzatorem Muzem KL Plaszow RMF FM\n\nPrzesz\u0142o\u015b\u0107\n\nNiemiecki nazistowski ob\u00f3z Plaszow zosta\u0142 utworzony przez Niemc\u00f3w w pa\u017adzierniku 1942 roku na terenie krakowskich dzielnic Podg\u00f3rze i Wola Duchacka. Pierwsze prace rozpocz\u0119to na obszarze zlokalizowanych w tym miejscu dw\u00f3ch cmentarzy \u017cydowskich. Plaszow - powsta\u0142 jako ob\u00f3z pracy (Zwangsarbeitslager Plaszow des SS- und Polizeif\u00fchrers im Distrikt Krakau - ZAL Plaszow) i by\u0142 przeznaczony dla \u017byd\u00f3w ze zlikwidowanego w marcu 1943 roku krakowskiego getta.\n\nW latach 1943-1944 osadzono w nim tak\u017ce \u017byd\u00f3w ocala\u0142ych z likwidowanych przez Niemc\u00f3w gett w Bochni, Tarnowie, Wieliczce, Rzeszowie, Przemy\u015blu oraz z obozu pracy w Szebniach. W lipcu 1943 roku Niemcy utworzyli na terenie ZAL tak\u017ce ob\u00f3z pracy wychowawczej dla Polak\u00f3w. Przetrzymywano w nim mieszka\u0144c\u00f3w Krakowa oraz ofiary pacyfikacji podkrakowskich miejscowo\u015bci. W styczniu 1944 roku ob\u00f3z pracy zosta\u0142 przekszta\u0142cony w ob\u00f3z koncentracyjny (Konzentrationslager Plaszow bei Krakau - KL Plaszow).\n\nW tym samym roku miejsce funkcjonowa\u0142o r\u00f3wnie\u017c jako ob\u00f3z przej\u015bciowy dla kierowanych do KL Auschwitz w\u0119gierskich \u017byd\u00f3w. Od wiosny 1944 roku do KL Plaszow przyje\u017cd\u017ca\u0142y transporty wi\u0119\u017ani\u00f3w z ewakuowanych oboz\u00f3w w dystryktach lubelskim i radomskim. Z KL Plaszow wywo\u017cono transporty do innych oboz\u00f3w pracy i koncentracyjnych. Szacuje si\u0119, \u017ce przez ca\u0142y okres funkcjonowania obozu przetrzymywano w nim ponad 35 tys. os\u00f3b, a liczba jego ofiar oceniana jest na ponad 6 tys.\n\nEgzekucje i poch\u00f3wki odbywa\u0142y si\u0119 w trzech miejscach strace\u0144 na terenie KL Plaszow - obok starego cmentarza \u017cydowskiego oraz na terenie dw\u00f3ch dawnych sza\u0144c\u00f3w artyleryjskich. Zosta\u0142y one wzniesione jeszcze w czasach zabor\u00f3w przez Austriak\u00f3w pod koniec XIX wieku, znajduj\u0105cych si\u0119 p\u00f3\u017aniej na terenie obozu - zwanych H-g\u00f3rk\u0105 i C-do\u0142kiem. To skr\u00f3ty wulgarnych nazw tych miejsc jakich u\u017cywali wi\u0119\u017aniowie KL Plaszow.\n\nRozmowa Tomasza Staniszewskiego z Kamilem Karskim, g\u0142\u00f3wnym inwentaryzatorem Muzem KL Plaszow RMF FM\n\n\"Hujowa G\u00f3rka\" nawi\u0105zuje do nazwiska SS-manna Alberta Hujara, kt\u00f3ry kierowa\u0142 egzekucjami. Wyra\u017ca\u0107 mia\u0142a r\u00f3wnie\u017c stosunek wi\u0119\u017ani\u00f3w obozu do \u015bwiata, niereaguj\u0105cego na dokonywane zbrodnie. 300 metr\u00f3w na zach\u00f3d od niej, kolejnym miejscem strace\u0144 by\u0142 \"Cipowy Do\u0142ek\". Jednak przez dziesi\u0119ciolecia teren dawnego obozu KL Plaszow pozostawa\u0142 miejscem nieobecnym w powszechnej \u015bwiadomo\u015bci mieszka\u0144c\u00f3w Krakowa, s\u0142abo oznakowanym, kojarzonym - mimo swojej mrocznej przesz\u0142o\u015bci - g\u0142\u00f3wnie jako miejsce spacer\u00f3w.\n\nW 1964 roku stan\u0105\u0142 tu Pomnik Ofiar Faszyzmu w Krakowie. Jego projektantem by\u0142 Witold C\u0119ckiewicz, kt\u00f3ry w latach 1955-1960 pe\u0142ni\u0142 funkcj\u0119 g\u0142\u00f3wnego architekta Krakowa. Rze\u017ab\u0119 z wapienia pi\u0144czowskiego na konstrukcji \u017celbetowej wykona\u0142 Ryszard Szczypi\u0144ski. Pomnik przedstawia pi\u0119\u0107 postaci stoj\u0105cych w szeregu, z g\u0142owami ugi\u0119tymi pod ci\u0119\u017carem kamiennego bloku i wyrw\u0105 w kamieniu na wysoko\u015bci piersi. Na ty\u0142ach tej rze\u017aby znajduje si\u0119 napis: \"W ho\u0142dzie m\u0119czennikom pomordowanym przez hitlerowskich ludob\u00f3jc\u00f3w w latach 1943-1945\".\n\nDrugi z pomnik\u00f3w po\u015bwi\u0119cony jest \u017cydowskim ofiarom tego miejsca, jak mo\u017cemy na nim przeczyta\u0107: \"Nie znamy nazwisk pomordowanych, zast\u0105pimy je jednym s\u0142owem - \u017bydzi\". I takim samym s\u0142owem podpisano tablic\u0119 pami\u0105tkow\u0105 znajduj\u0105c\u0105 si\u0119 na pomniku. W tym miejscu ka\u017cdego roku zatrzymuje si\u0119 Marsz \u017bywych, przypominaj\u0105cy o rocznicy likwidacji krakowskiego getta.\n\nRozmowa Tomasza Staniszewskiego z Kamilem Karskim, g\u0142\u00f3wnym inwentaryzatorem Muzem KL Plaszow RMF FM\n\nDopiero w 2017 roku na terenie poobozowym ustawiona zosta\u0142a wystawa plenerowa sk\u0142adaj\u0105ca si\u0119 z tablic informacyjnych, na kt\u00f3rych prezentowano archiwalne zdj\u0119cia, relacje wi\u0119\u017ani\u00f3w oraz informacje przybli\u017caj\u0105ce historie os\u00f3b oraz poszczeg\u00f3lnych obiekt\u00f3w.\n\nTera\u017aniejszo\u015b\u0107. Miejsce pami\u0119ci Muzeum KL Plaszow\n\nOd marca 2024 roku na terenie miejsca pami\u0119ci KL Plaszow znajduje si\u0119 nowa wystawa plenerowa \"KL Plaszow. Miejsce po, miejsce bez\". Na \"stra\u017cy pami\u0119ci\" o tysi\u0105cach ofiar by\u0142ego niemieckiego nazistowskiego obozu koncentracyjnego sta\u0107 ma wznoszony w\u0142a\u015bnie Memoria\u0142 - nowy budynek Muzeum KL Plaszow. Upami\u0119tniaj\u0105cy ob\u00f3z funkcjonuj\u0105cy w Krakowie w latach 1942-1945, przez kt\u00f3ry przesz\u0142o ok. 35 tys. wi\u0119\u017ani\u00f3w - \u017byd\u00f3w, Polak\u00f3w i os\u00f3b innych narodowo\u015bci.\n\n1 lipca 2024 roku oficjalnie rozpocz\u0119\u0142y si\u0119 prace nad budow\u0105 budynku Memoria\u0142u - Muzeum KL Plaszow. Jego oficjalny adres - ul. Henryka Kamie\u0144skiego 26.\n\nRozmowa Tomasza Staniszewskiego z Kamilem Karskim, g\u0142\u00f3wnym inwentaryzatorem Muzem KL Plaszow RMF FM\n\nWizualizacja Muzeum KL Plaszow / Materia\u0142y prasowe\n\nWizualizacja Muzeum KL Plaszow / Materia\u0142y prasowe\n\nW styczniu tego roku zako\u0144czono szalowanie stropu pod pi\u0119tro budynku Memoria\u0142u, gdzie b\u0119d\u0105 znajdowa\u0107 si\u0119 biura pracownik\u00f3w muzeum, biblioteka i sala spotka\u0144. R\u00f3wnocze\u015bnie powstaje tunel prowadz\u0105cy od Memoria\u0142u pod ulic\u0105 Swoszowick\u0105 bezpo\u015brednio na teren Miejsca Pami\u0119ci KL Plaszow.\n\nMapa wystawy plenerowej / Materia\u0142y prasowe\n\n\u015alady pami\u0119ci\n\nPod opiek\u0105 Muzeum KL Plaszow znajduje si\u0119 teren poobozowy, wpisany do rejestru zabytk\u00f3w oraz historyczny budynek - Szary Dom. Ten budynek przy ulicy Jerozolimskiej 3 pe\u0142ni\u0142 funkcj\u0119 budynku administracyjnego cmentarza Gminy Wyznaniowej \u017bydowskiej w Krakowie i siedziby Bractwa Przedpogrzebowego Chewra Kadisza. W czasie funkcjonowania KL Plaszow znajdowa\u0142 si\u0119 w jego centrum - mie\u015bci\u0142y si\u0119 w nim biura zarz\u0105du obozu, a w piwnicach areszt. Po wojnie w tym budynku mie\u015bci\u0142y si\u0119 na przyk\u0142ad mieszkania komunalne.\n\nRozmowa Tomasza Staniszewskiego z Kamilem Karskim, g\u0142\u00f3wnym inwentaryzatorem Muzem KL Plaszow RMF FM\n\nFunkcjonowanie Muzeum KL Plaszow jest nieroz\u0142\u0105cznie zwi\u0105zane z zachowaniem naturalnego, otwartego charakteru tego wyj\u0105tkowego miejsca. Na oko\u0142o 40 ha, w tym 37 ha terenu poobozowego, muzeum troszczy si\u0119 zar\u00f3wno o relikty przesz\u0142o\u015bci, jak i o przyrod\u0119, podejmuj\u0105c jedynie niezb\u0119dne dzia\u0142ania dla utrzymania ekologicznego charakteru tego obszaru. Po\u0142\u0105czenie funkcji muzealnych i historycznych Muzeum KL Plaszow - z jednoczesnym zachowaniem charakterystycznej dla tego miejsca zieleni - jest unikalnym przedsi\u0119wzi\u0119ciem muzealnym w skali mi\u0119dzynarodowej. Historia, pami\u0119\u0107, refleksja nad przesz\u0142o\u015bci\u0105 i wsp\u00f3\u0142czesno\u015bci\u0105 oraz opieka nad natur\u0105 - to g\u0142\u00f3wne za\u0142o\u017cenia i cele, jakie stawia sobie Muzeum KL Plaszow.\n\nUtrzymanie otwartego charakteru tego miejsca i jedynie minimalne ingerencje w przyrod\u0119 na terenie poobozowym, wynikaj\u0105 tak\u017ce z przyczyn natury prawnej i religijnej. Obszar by\u0142ego obozu jest wpisany do rejestru zabytk\u00f3w i otrzyma\u0142 ju\u017c kilkana\u015bcie lat temu status cmentarza wojennego. Ponadto \u017cydowskie prawo religijne nie zezwala na ingerencj\u0119 w grunt na obszarze cmentarzy i miejsc poch\u00f3wku ofiar.\n\nCmentarz Gminy \u017bydowskiej w Krakowie przed i po zniszczeniu / Archiwum Muzeum KL Plaszow/Muzeum Krakowa /\n\nWi\u0119\u017aniowie zmuszeni do pracy przy porz\u0105dkowaniu ruin hali przedpogrzebowej cmentarza Gminy \u017bydowskiej w Krakowie, 1944, ze zbior\u00f3w Gerharda Madritscha, syg. MKLP.CF.1.26 / Archiwum Muzeum KL Plaszow /\n\nO historii KL Plaszow 31 lat temu przypomnia\u0142 \u015bwiatu Steven Spielberg - swoim filmem \"Lista Schindlera\". Film nagrodzony siedmioma Oscarami zrealizowany zosta\u0142 w Krakowie i od lat pozostaje jednym z najwa\u017cniejszych i powszechnie znanych obraz\u00f3w odnosz\u0105cych si\u0119 do wojennej historii tego miejsca. Opowiada o niemieckim przedsi\u0119biorcy Oskarze Schindlerze, kt\u00f3ry otwiera w okupowanym Krakowie fabryk\u0119. Prosperuje ona w oparciu o tani\u0105 si\u0142\u0119 robocz\u0105 - przymuszonych do pracy \u017byd\u00f3w, mi\u0119dzy innymi wi\u0119\u017ani\u00f3w obozu KL Plaszow.\n\nWideo youtube\n\nFilm \"Lista Schindlera\" by\u0142 kr\u0119cony w krakowskim kamienio\u0142omie Libana, zlokalizowanym w bezpo\u015brednim s\u0105siedztwie obozu. Nazwa pochodzi od nazwiska jego w\u0142a\u015bciciela - krakowskiego przemys\u0142owca Bernarda Libana. W 1993 roku na obszarze kamienio\u0142omu pojawili si\u0119 tw\u00f3rcy \"Listy Schindlera\". W\u00f3wczas odtworzono realia obozu w P\u0142aszowie - 34 baraki, 7 wie\u017c stra\u017cniczych oraz wiernie odwzorowana willa komendanta Amona G\u00f6tha. Drogi wy\u0142o\u017cono betonowymi replikami macew. Do dzi\u015b w kamienio\u0142omie mo\u017cna znale\u017a\u0107 pozosta\u0142o\u015bci filmowej scenografii.\n\nPo dzi\u015b dzie\u0144 zachowa\u0142a si\u0119 tak\u017ce willa by\u0142ego komendanta KL Plaszow - tzw. Czerwony Dom - oryginalnie przed wojn\u0105 nazywany Will\u0105 Pod Ska\u0142\u0105. Ten zabytkowy budynek znajduje si\u0119 przy ulicy Wiktora Heltmana 22, 500 metr\u00f3w od Szarego Domu. Po premierze \"Listy Schindlera\" przypomniana historia Amona G\u00f6tha skoncentrowa\u0142a na nim uwag\u0119, odwracaj\u0105c j\u0105 od tych, kt\u00f3rych znany z okrucie\u0144stwa G\u00f6th uczyni\u0142 ofiarami.\n\n11 lutego 1943 roku powierzono mu budow\u0119 i organizacj\u0119 obozu dla \u017byd\u00f3w krakowskich i ma\u0142opolskich w P\u0142aszowie, kt\u00f3rego nast\u0119pnie zosta\u0142 komendantem. Skala rabowanego przez niego maj\u0105tku by\u0142a tak wielka, \u017ce mimo nieformalnego przyzwolenia na bogacenie si\u0119 kosztem ofiar - G\u00f6th zosta\u0142 za to aresztowany przez w\u0142adze niemieckie w 1944 roku.\n\nZosta\u0142 osadzony w wi\u0119zieniu Stadelheim w Monachium. Uda\u0142o mu si\u0119 unikn\u0105\u0107 procesu i trafi\u0142 do szpitala w Bad T\u00f6lz. 4 maja 1945 roku zosta\u0142 aresztowany przez armi\u0119 ameryka\u0144sk\u0105. Poda\u0142 fa\u0142szywe nazwisko licz\u0105c, \u017ce nikt go nie rozpozna jako by\u0142ego komendanta. Ameryka\u0144scy \u015bledczy po zeznaniach czterech by\u0142ych wi\u0119\u017ani\u00f3w z P\u0142aszowa odkryli, kim naprawd\u0119 by\u0142 G\u00f6th. 30 lipca 1946 roku przewieziono go do Krakowa, razem z Rudolfem H\u00f6\u00dfem, by\u0142ym komendantem obozu koncentracyjnego Auschwitz.\n\nNajwy\u017cszy Trybuna\u0142 Narodowy we wrze\u015bniu 1946 roku skaza\u0142 G\u00f6tha na \u015bmier\u0107 przez powieszenie. W czasie procesu by\u0142y komendant wszystkiemu zaprzecza\u0142. Wyrok wykonano 13 wrze\u015bnia 1946 roku w wi\u0119zieniu przy ulicy Montelupich w Krakowie.\n\nPrzysz\u0142o\u015b\u0107\n\nTeraz na terenie Miejsca Pami\u0119ci po by\u0142ym obozie koncentracyjnym w Krakowie stan\u0105\u0107 ma Pomnik D\u017awi\u0119kowy KL Plaszow - b\u0119dzie kompozycj\u0105 d\u017awi\u0119kow\u0105, stworzon\u0105 na podstawie koncepcji autorstwa Romy Sendyki oraz scenariusza Micha\u0142a Libery. Dla zwiedzaj\u0105cych b\u0119dzie dost\u0119pny wy\u0142\u0105cznie przez s\u0142uchawki z urz\u0105dze\u0144 przeno\u015bnych pobieranych w muzeum. Bez tych urz\u0105dze\u0144 Pomnik D\u017awi\u0119kowy nie b\u0119dzie s\u0142yszalny w przestrzeni poobozowej, a jedynym znakiem jego obecno\u015bci b\u0119d\u0105 osoby ze s\u0142uchawkami, przemierzaj\u0105ce teren obozu zgodnie ze struktur\u0105 kompozycji w wybranym przez siebie tempie i kierunku.\n\nTen d\u017awi\u0119kowy pomnik obj\u0105\u0107 ma takie formy muzyczne jak kompozycja oryginalna na organy wykonane z p\u0142aszowskiego wapienia, nagrania terenowe ziemi na obszarze obozu, nowe utwory do tekst\u00f3w piosenek wykonywanych w obozie oraz inne kompozycje dope\u0142niaj\u0105ce jego geometri\u0119.\n\nRozmowa Tomasza Staniszewskiego z Kamilem Karskim, g\u0142\u00f3wnym inwentaryzatorem Muzem KL Plaszow RMF FM\n\nDo ko\u0144ca 2025 roku zbudowany zostanie budynek g\u0142\u00f3wny, czyli Memoria\u0142. Potem rozpocznie si\u0119 w nim instalacja wystawy sta\u0142ej. Wed\u0142ug przewidywa\u0144 otwarta zostanie ona w drugiej po\u0142owie 2026 roku. Wtedy r\u00f3wnie\u017c przewidziano remont tzw. Szarego Domu. To jedyny zachowany budynek na obszarze dawnego obozu w\u0142\u0105czony w przestrze\u0144 muzeum KL Plaszow."
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Dworzec PKS przy al. Tysi\u0105clecia. Mn\u00f3stwo pomys\u0142\u00f3w na zagospodarowanie terenu na Podzamczu",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/dworzec-pks-przy-al-tysi%C4%85clecia-wiele-pomys%C5%82%C3%B3w-na-zagospodarowanie-terenu-na-podzamczu/ar-AA1ya9KJ?ocid=BingNewsVerp",
+            "description": "28 lutego to ostatni dzie\u0144, kiedy z dworca PKS przy al. Tysi\u0105clecia b\u0119d\u0105 mog\u0142y odje\u017cd\u017ca\u0107 autobusy. Ta data zamknie histori\u0119 dworca na Podzamczu, kt\u00f3ra rozpocz\u0119\u0142a si\u0119 18 grudnia 1967 r. Wtedy po godz.",
+            "image_url": "https://www.bing.pl/th?id=ODF.lto-jgjLT22CJn-xbZRKjA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "relikty",
+            "date": "Kurier Lubelski on MSN2 godz.",
+            "source": "Kurier Lubelski on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Rakiet\u0105 w g\u0142ow\u0119. Nie tylko chi\u0144skie spadaj\u0105, a problem przybierze na sile",
+            "link": "https://www.benchmark.pl/testy_i_recenzje/rakieta-w-glowe-nie-tylko-chinskie-spadaja.html",
+            "description": "Czy rakieta mo\u017ce spa\u015b\u0107 na nasz dom? Dlaczego tak cz\u0119sto s\u0142yszymy o chi\u0144skich rakietach? Czy ka\u017cda rakieta po wyniesieniu \u0142adunku na orbit\u0119 spada na Ziemi\u0119? Czy w najbli\u017cszych latach problem zniknie, c ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.bg5Ar1SGRv4yqi9k6GdXvg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "relikty",
+            "date": "benchmark7 godz.",
+            "source": "benchmark",
+            "article_content": "Czy rakieta mo\u017ce spa\u015b\u0107 na nasz dom? Dlaczego tak cz\u0119sto s\u0142yszymy o chi\u0144skich rakietach? Czy ka\u017cda rakieta po wyniesieniu \u0142adunku na orbit\u0119 spada na Ziemi\u0119? Czy w najbli\u017cszych latach problem zniknie, czy si\u0119 nasili? To ciekawe pytania, na kt\u00f3re mamy odpowied\u017a.\n\nSpaceX i jego rakiety Falcon 9 wprowadzi\u0142y bran\u017c\u0119 rakietow\u0105 w \u015bwiat, w kt\u00f3rym g\u0142\u00f3wne cz\u0142ony rakiet zdolne s\u0105 nie tylko startowa\u0107, ale i l\u0105dowa\u0107. Ameryka\u0144skie pomys\u0142y podchwycili nawet Chi\u0144czycy, tworz\u0105c prototyp rakiety Zhuque-3 podobnej do Falcona 9. SpaceX nie spoczywa na laurach. Kolejna rakieta - Starship, wci\u0105\u017c testowana, pozwala ju\u017c na l\u0105dowanie zar\u00f3wno g\u0142\u00f3wnego cz\u0142onu, jak i cz\u0119\u015bci towarowo-za\u0142ogowej.\n\nTaka przysz\u0142o\u015b\u0107 rakiet wielokrotnego u\u017cytku wygl\u0105da pi\u0119knie, ale to wci\u0105\u017c przysz\u0142o\u015b\u0107 - nawet Falcon 9 nie jest rakiet\u0105 w pe\u0142ni zdoln\u0105 do ponownego lotu, bo jej drugi cz\u0142on nap\u0119dowy jest u\u017cywany tylko raz i ulega (najcz\u0119\u015bciej) zniszczeniu w atmosferze po wyniesieniu \u0142adunku na orbit\u0119. Poza tym nawet pr\u0119\u017cne SpaceX w 2024 r. zdo\u0142a\u0142o obs\u0142u\u017cy\u0107 tylko (i a\u017c) po\u0142ow\u0119 ze wszystkich 261 start\u00f3w rakiet na \u015bwiecie. To oznacza, \u017ce drugie tyle start\u00f3w odbywa\u0142o si\u0119 wci\u0105\u017c w tradycyjny spos\u00f3b. Tak jak czynimy to od ko\u0144ca lat 50. XX wieku, rakietami u\u017cywanymi w ca\u0142o\u015bci tylko raz.\n\nIch fragmenty staj\u0105 si\u0119 zagro\u017ceniem nie tylko, gdy pozostan\u0105 na orbicie, ale tak\u017ce, gdy spadaj\u0105c, dotr\u0105 do powierzchni Ziemi. I to nawet po udanym starcie. W tym kontek\u015bcie najcz\u0119\u015bciej mowa o chi\u0144skich rakietach D\u0142ugi Marsz. Od lat emocje budz\u0105 zdj\u0119cia osmalonych od\u0142amk\u00f3w, ogromnych fragment\u00f3w poszycia tych rakiet, kt\u00f3re spad\u0142y na tereny zamieszkane. Tak by\u0142o po starcie rakiety D\u0142ugi Marsz 5A w czerwcu ubieg\u0142ego roku, rakiety D\u0142ugi Marsz 6A w listopadzie, a nawet kilka dni temu, 23 stycznia 2025 r., gdy w pobli\u017cu dom\u00f3w w prowincji Guihzou spad\u0142 dolny cz\u0142on rakiety D\u0142ugi Marsz 3B po tym, jak kilka minut wcze\u015bniej wystrzelono z jej pomoc\u0105 satelit\u0119 na orbit\u0119 geostacjonarn\u0105. A to tylko kilka przyk\u0142ad\u00f3w.\n\nLaik mo\u017ce stworzy\u0107 sobie w g\u0142owie obraz siermi\u0119\u017cnej chi\u0144skiej technologii, owocuj\u0105cej niebezpiecznymi rakietami, kt\u00f3rych lotu nie da si\u0119 kontrolowa\u0107. W przeciwie\u0144stwie do technologii Zachodu, gdzie mamy SpaceX czy NASA. Spadaj\u0105ce chi\u0144skie rakiety nie s\u0105 jednak wyj\u0105tkiem. Jedynie potwierdzaj\u0105 regu\u0142\u0119, \u017ce lot w kosmos nie ko\u0144czy si\u0119 tylko w kosmosie. Wed\u0142ug The Aerospace Corporation obecnie ka\u017cdego roku na Ziemi\u0119 spada od 200 do 400 kosmicznych \u015bmieci, kt\u00f3re s\u0105 na tyle du\u017ce, \u017ce daje si\u0119 je \u015bledzi\u0107. To nie tylko fragmenty deorbitowanych satelit\u00f3w, ale te\u017c rakiet wystrzeliwanych z kosmodrom\u00f3w na ca\u0142ym \u015bwiecie.\n\nJak szybko wykorzystana rakieta spada na Ziemi\u0119? Nie zawsze ulegnie zniszczeniu\n\nCzas spadania zale\u017cy od tego, jak wysoki pu\u0142ap zdo\u0142a\u0142 osi\u0105gn\u0105\u0107 konkretny cz\u0142on rakiety po starcie. Zwykle dolne cz\u0142ony rakiet, w tym rakiety pomocnicze, kt\u00f3re zapewniaj\u0105 ci\u0105g w pierwszej fazie lotu i pozwalaj\u0105 pokona\u0107 szybko rosn\u0105ce do pewnego momentu tarcie atmosferyczne, nie wchodz\u0105 na orbit\u0119. Po wykorzystaniu (nast\u0119puje to na wysoko\u015bci 50 do 100 km) spadaj\u0105 w ci\u0105gu kilku-kilkunastu minut. Podobnie szybko na Ziemi\u0119 powraca dolny, odzyskiwalny cz\u0142on rakiety Falcon 9.\n\n\n\nG\u0142\u00f3wny cz\u0142on rakiety po starcie mo\u017ce zako\u0144czy\u0107 lot w taki spos\u00f3b... (fot: SpaceX)\n\n\n\n...ale te\u017c w taki. (fot: Chinanews.com)\n\nKolejne cz\u0142ony nap\u0119dowe wraz z \u0142adunkiem docieraj\u0105 wy\u017cej na orbit\u0119, przez co ich spadek mo\u017ce wyd\u0142u\u017cy\u0107 si\u0119 do wielu godzin i dni (z wysoko\u015bci oko\u0142o 80-120 km), miesi\u0119cy (150 do 300 km), a nawet ca\u0142ych dekad i stuleci (300-800 km). Te znajduj\u0105ce si\u0119 na orbicie w odleg\u0142o\u015bci wielu tysi\u0119cy kilometr\u00f3w od Ziemi mog\u0105 tam pozosta\u0107 tysi\u0105ce lat i d\u0142u\u017cej. To dlatego w przypadku rakiet, kt\u00f3re wynosz\u0105 obiekty na orbity ponad 2000 km, g\u00f3rne cz\u0142ony zamiast ich deorbitacji s\u0105 wprowadzane na przypisan\u0105 orbit\u0119 cmentarzysko, gdzie pozostan\u0105 praktycznie na zawsze.\n\nProblem stanowi\u0105 g\u00f3rne cz\u0142ony tych rakiet, kt\u00f3re wynosz\u0105 satelity na orbity LEO (poni\u017cej 2000 km, a najcz\u0119\u015bciej poni\u017cej 1000 km), a tych jest dzi\u015b najwi\u0119cej. Spadaj\u0105ce ich fragmenty ulegaj\u0105 zniszczeniu zanim dotr\u0105 do powierzchni Ziemi i s\u0105 nawet w tym celu kierowane na odpowiedni\u0105 trajektori\u0119 powrotn\u0105, ale czasem s\u0105 na tyle du\u017ce, by przetrwa\u0107 spadek.\n\nJak chronimy si\u0119 przed spadaj\u0105cymi cz\u0142onami rakiet?\n\nDolny cz\u0142on rakiety, kt\u00f3ra nie l\u0105duje sama, a przynajmniej jego fragmenty na pewno spadn\u0105 na Ziemi\u0119. Istotne jest to, by spad\u0142y w dobrze okre\u015blonym miejscu, najlepiej z dala od zamieszka\u0142ych rejon\u00f3w. Dlatego kosmodromy buduje si\u0119 w miejscach, w okolicy kt\u00f3rych znajduje si\u0119 albo ocean (Centrum Kennedy\u2019ego, StarBase, Kourou, Plesieck, Wostoczny, Vanderberg), albo teren stepowy czy pustynny (Bajkonur).\n\nDla rakiet startuj\u0105cych ze wschodniego wybrze\u017ca USA g\u0142\u00f3wne cz\u0142ony nap\u0119dowe wodowane s\u0105 po starcie w p\u00f3\u0142nocnym Oceanie Atlantyckim, podobnie jak dla europejskich rakiet Ariane, cho\u0107 w tym przypadku miejsce jest nieco inne (okolice zachodniego wybrze\u017ca Afryki, a dopalacze spadaj\u0105 ju\u017c w pobli\u017cu wybrze\u017ca Ameryki Po\u0142udniowej). Dolne cz\u0142ony rakiet startuj\u0105cych z Indii spadaj\u0105 z kolei do Oceanu Indyjskiego, a startuj\u0105ce z bazy lotniczej Vandenberg w Kalifornii do pobliskiego Pacyfiku. Taki spadek mo\u017cna przewidzie\u0107, a zarazem wyda\u0107 szczeg\u00f3\u0142owe ostrze\u017cenia dla os\u00f3b przebywaj\u0105cych w okolicy spodziewanego upadku rakiety (nie m\u00f3wi\u0105c ju\u017c o opr\u00f3\u017cnieniu bezpo\u015bredniego otoczenia kosmodromu), przekierowa\u0107 lub wstrzyma\u0107 loty samolot\u00f3w, rejsy statk\u00f3w.\n\n\n\nAlert wydany przez Filipi\u0144sk\u0105 Agencj\u0119 Kosmiczn\u0105 dotycz\u0105cy spadaj\u0105cych fragment\u00f3w rakiety D\u0142ugi Marsz 3B wystrzelonej z kosmodromu Xichang 3 grudnia 2024 r. (fot: PSA)\n\nG\u00f3rny cz\u0142on rakiety wykonuje zwykle co najmniej kilka obieg\u00f3w Ziemi, dlatego miejsce, gdzie spadnie, mo\u017ce by\u0107 odleg\u0142e od miejsca startu, ale mo\u017ce by\u0107 on skierowany tak, by spad\u0142 w okre\u015blonej lokalizacji (np. tzw. okolice punktu Nemo na po\u0142udniowym Pacyfiku, czyli cmentarzysko satelit\u00f3w). By deorbitacja przebieg\u0142a w spos\u00f3b kontrolowany, rakieta wykorzystuje silniki, kt\u00f3re mo\u017cna ponownie uruchomi\u0107 na orbicie, i elementy konstrukcyjne jak stateczniki.\n\nWizualnym i radarowym \u015bledzeniem fragment\u00f3w rakiet na orbicie w skali globalnej (czyli tak\u017ce dla chi\u0144skich szcz\u0105tk\u00f3w) zajmuj\u0105 si\u0119 oddzia\u0142y agencji NASA, ESA, a tak\u017ce SSN (The United States Space Surveillance Network) i EU SST (Space Surveillance and Tracking). Og\u0142oszenia o spadaj\u0105cych fragmentach w USA wydaje FAA (Federal Aviation Administration), a w innych krajach instytucje rz\u0105dowe, kt\u00f3re wsp\u00f3\u0142pracuj\u0105 tak\u017ce z tymi wy\u017cej wymienionymi. Istniej\u0105 wytyczne ONZ dotycz\u0105ce kontroli wynoszonych na orbit\u0119 obiekt\u00f3w i wykorzystywanych w tym celu rakiet, ale s\u0105 one bardzo og\u00f3lnikowe i nie proponuj\u0105 konkretnych dzia\u0142a\u0144.\n\nCo z chi\u0144skimi rakietami? Dlaczego s\u0105 niebezpieczne?\n\nChiny, w przeciwie\u0144stwie do innych pa\u0144stw, nie przywi\u0105zuj\u0105 du\u017cej wagi do \u015bledzenia trajektorii wykorzystanych cz\u0142on\u00f3w rakiet, nawet tych g\u0142\u00f3wnych. Dlatego te najcz\u0119\u015bciej spadaj\u0105 w niekontrolowany spos\u00f3b i niejednokrotnie w rejonach zamieszkanych. Tworz\u0105 tym samym wi\u0119ksze zagro\u017cenie dla ludzi ni\u017c startuj\u0105ce rakiety z innych pa\u0144stw. Te najcz\u0119\u015bciej ko\u0144cz\u0105 lot w zbiorniku wodnym lub rozbijaj\u0105 si\u0119 na pustyni. CNSA wydaje czasem ostrze\u017cenia o potencjalnym niebezpiecze\u0144stwie w zagro\u017conej strefie na terenie kraju (kosmodromy Jiuquan, Taiyuan, Xichang znajduj\u0105 si\u0119 daleko od oceanu), ale pojawiaj\u0105 si\u0119 one zbyt p\u00f3\u017ano, by reakcja mieszka\u0144c\u00f3w mia\u0142a wi\u0119kszy sens. Gdy istnieje ryzyko, \u017ce fragmenty rakiety spadn\u0105 poza terenem Chin, takie ostrze\u017cenia s\u0105 nawet pomijane.\n\nrozwi\u0144\n\nProblem z chi\u0144skimi rakietami ma te\u017c inn\u0105 natur\u0119. W przypadku rakiet D\u0142ugi Marsz 5B, kt\u00f3re wykorzystano podczas budowy stacji Tiangong, a dzi\u015b u\u017cywa si\u0119 do wymiany jej za\u0142ogi i dostaw zaopatrzenia, ich g\u0142\u00f3wne cz\u0142ony wchodz\u0105 na orbit\u0119 wok\u00f3\u0142ziemsk\u0105. Najwcze\u015bniej po kilku dniach w niekontrolowany spos\u00f3b spadaj\u0105 na Ziemi\u0119. To dodatkowo utrudnia dok\u0142adne okre\u015blenie miejsca potencjalnego ich rozbicia si\u0119, a du\u017ca masa fragment\u00f3w tych rakiet czyni je szczeg\u00f3lnie niebezpiecznymi. W maju 2020 r. na wioski na Wybrze\u017cu Ko\u015bci S\u0142oniowej spad\u0142y wa\u017c\u0105ce 18 ton cz\u0119\u015bci rakiety D\u0142ugi Marsz 5B, w tym 12-metrowej d\u0142ugo\u015bci rura.\n\nStart\u00f3w b\u0119dzie coraz wi\u0119cej, ale zagro\u017cenie kryje si\u0119 te\u017c w przesz\u0142o\u015bci\n\nOd pocz\u0105tku ery eksploracji kosmosu, czyli 1957 r., mia\u0142o miejsce oko\u0142o 6900 udanych start\u00f3w rakiet. Ich roczna liczba znacz\u0105co wzros\u0142a po roku 2020, ale te\u017c dopiero wtedy osi\u0105gn\u0119\u0142a poziom jak w latach 1965-1990. Wtedy to Zwi\u0105zek Radziecki mia\u0142 na koncie najwi\u0119cej start\u00f3w rakiet. Dzi\u015b USA jest niekwestionowanym liderem bran\u017cy kosmicznej. Jedynym pa\u0144stwem, kt\u00f3re mo\u017ce z nimi konkurowa\u0107, s\u0105 dzi\u015b Chiny, cho\u0107 styczniowe statystyki startowe nie daj\u0105 im w 2025 r. wielkich szans. Dominacja USA to zas\u0142uga przede wszystkim SpaceX i rakiet Falcon 9. Europa nigdy nie mia\u0142a du\u017cej liczby start\u00f3w rakiet na koncie, a teraz, ze wzgl\u0119du na op\u00f3\u017anienia projektu Ariane 6, jest jeszcze bardziej w tyle.\n\nrozwi\u0144\n\nLiczba start\u00f3w rakiet b\u0119dzie ros\u0142a z roku na rok, ale te\u017c coraz wi\u0119cej rakiet, kt\u00f3re s\u0105 jednorazowego u\u017cytku, da si\u0119 skierowa\u0107 w stron\u0119 atmosfery w spos\u00f3b kontrolowany (trend wzrostowy obserwujemy od 2008 r.). Chiny prawdopodobnie jeszcze d\u0142ugo nie b\u0119d\u0105 przyk\u0142ada\u0142y wagi do spadaj\u0105cych na Ziemi\u0119 fragment\u00f3w swoich rakiet, cho\u0107 wida\u0107 \u015bwiate\u0142ko w tunelu (wpis na x.com powy\u017cej). Jednak nie tylko ich postawa jest problemem, bo zagro\u017cenie czai si\u0119 tak\u017ce w przesz\u0142o\u015bci. Na orbicie znajduje si\u0119 wci\u0105\u017c du\u017ca liczba nieaktywnych g\u00f3rnych cz\u0142on\u00f3w radzieckich rakiet - Sojuz, Proton, Mo\u0142nia, Zenit, Cyklon - kt\u00f3re jeszcze nie spad\u0142y lub uleg\u0142y zniszczeniu w atmosferze, ale mo\u017ce tak si\u0119 sta\u0107 w kolejnych latach czy dekadach.\n\nW pocz\u0105tkach eksploracji kosmosu nie przyk\u0142adano wagi do kontrolowanej deorbitacji, a nawet \u015bledzenia pozostawionych w kosmosie obiekt\u00f3w. Dotyczy\u0142o to nie tylko Zwi\u0105zku Radzieckiego, ale i USA. Jednak\u017ce to Rosja jako spadkobierca ZSRR odpowiada dzi\u015b za najwi\u0119ksze za\u015bmiecenie otoczenia Ziemi. A to ze wzgl\u0119du na liczb\u0119 pozostawionych kiedy\u015b w kosmosie cz\u0142on\u00f3w rakiet, ale i orbity, na kt\u00f3rych te kosmiczne \u015bmieci mog\u0105 pozostawa\u0107 przez wiele dekad.\n\nMasywne relikty Zimnej Wojny wci\u0105\u017c s\u0105 zagro\u017ceniem nie do zbagatelizowania. Na razie ludziom dopisuje szcz\u0119\u015bcie, nieliczne udokumentowane sytuacje, gdy fragment jakiejkolwiek rakiety wyrz\u0105dzi\u0142 szkod\u0119 cz\u0142owiekowi, ogranicza\u0142y si\u0119 do drobnych ran. Brak za to doniesie\u0144, by spadaj\u0105ce szcz\u0105tki rakiety kogo\u015b zabi\u0142y. Pod tym wzgl\u0119dem mamy du\u017ce szcz\u0119\u015bcie. Wedle wylicze\u0144, kt\u00f3re w 2022 r. opublikowano w Nature Astronomy, prawdopodobie\u0144stwo \u015bmiertelnego wypadku (1500 przypadk\u00f3w deorbitacji, przy czym 70 proc. niekontrolowanych) w latach 1992-2022 wynosi\u0142o a\u017c 14 proc. W kolejnej dekadzie, czyli trzy razy kr\u00f3tszym przedziale czasu, przy 651 cz\u0142onach rakiet wci\u0105\u017c na orbicie z perygeum poni\u017cej 600 km, oszacowano je na 10 proc."
         }
     },
     {
@@ -282,7 +346,7 @@
             "description": "Zanim wyruszysz w tras\u0119, sprawd\u017a, jaka b\u0119dzie pogoda. W sobot\u0119 01 lutego w Warszawie ma by\u0107 6\u00b0C. Nie powinno pada\u0107. W ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.zLtPC4jsXIJTrm8EadrjqC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "warszawa.naszemiasto19 godz.",
+            "date": "warszawa.naszemiasto23 godz.",
             "source": "warszawa.naszemiasto",
             "article_content": "Content not available"
         }
@@ -293,62 +357,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Trasy na rower do 34 km od Pleszewa. Pomys\u0142y na jednodniowy wypad. Gdzie w weekend 1 - 2 lutego?",
-            "link": "https://pleszew.naszemiasto.pl/trasy-na-rower-do-34-km-od-pleszewa-pomysly-na-jednodniowy-wypad-gdzie-w-weekend-1-2-lutego/ar/c7p1-21831917",
-            "description": "Zanim wyruszysz w tras\u0119, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 01 lutego w Pleszewie ma by\u0107 4\u00b0C. Nie powinno pada\u0107. W ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.neHK3DTReyTDnQv302N5LS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "pleszew.naszemiasto17 godz.",
-            "source": "pleszew.naszemiasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Trasy na rower do 18 km od Grodziska Mazowieckiego. Pomys\u0142y na jednodniowy wypad. Gdzie w weekend 1 - 2 lutego?",
-            "link": "https://grodziskmazowiecki.naszemiasto.pl/trasy-na-rower-do-18-km-od-grodziska-mazowieckiego-pomysly-na-jednodniowy-wypad-gdzie-w-weekend-1-2-lutego/ar/c7p1-21831681",
-            "description": "Rozgl\u0105dasz si\u0119 za pomys\u0142em na tras\u0119 rowerow\u0105 w okolicy Grodziska Mazowieckiego? Podpowiadamy, gdzie warto si\u0119 wybra\u0107. Mamy 5 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.2s4OTkF9VOwCMyilzw31UC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "grodziskmazowiecki.naszemiasto19 godz.",
-            "source": "grodziskmazowiecki.naszemiasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Gdzie na nordic walking do 6 km od Ko\u0142obrzegu. Urokliwe trasy na weekend 1 - 2 lutego",
-            "link": "https://kolobrzeg.naszemiasto.pl/gdzie-na-nordic-walking-do-6-km-od-kolobrzegu-urokliwe-trasy-na-weekend-1-2-lutego/ar/c7p1-22319027",
-            "description": "W sobot\u0119 1 lutego wed\u0142ug prognozy pogody ma by\u0107 5\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 2 lutego zgodnie z najnowszymi prognozami ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.oms2H9fJr8AeT7Fmb6Gy9i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "kolobrzeg.naszemiasto18 godz.",
-            "source": "kolobrzeg.naszemiasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Nordic walking do 65 km od Gryfic. Pomys\u0142y na sportowy dzie\u0144 w weekend 1 - 2 lutego",
-            "link": "https://gryfice.naszemiasto.pl/nordic-walking-do-65-km-od-gryfic-pomysly-na-sportowy-dzien-w-weekend-1-2-lutego/ar/c7p1-22319401",
-            "description": "Razem z Traseo wybrali\u015bmy 3 trasy nordic walking oddalone maksymalnie o 65 km od Gryfic. Sprawd\u017a, czy \u015bcie\u017cka polecana przez ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.SOYqr3hQG7A0z_SSZ5C3CS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "gryfice.naszemiasto17 godz.",
-            "source": "gryfice.naszemiasto",
-            "article_content": "Content not available"
+            "title": "Mieszka\u0144cy i mieszkanki ul. Farbiarskiej 2 musz\u0105 si\u0119 wyprowadzi\u0107. Ale rozbi\u00f3rki nie b\u0119dzie [GALERIA]",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/mieszka%C5%84cy-i-mieszkanki-ul-farbiarskiej-2-musz%C4%85-si%C4%99-wyprowadzi%C4%87-ale-wyburzania-nie-b%C4%99dzie-galeria/ar-AA1yaJuY?ocid=BingNewsVerp",
+            "description": "Decyzj\u0105 Powiatowego Inspektoratu Nadzoru Budowlanego kamienica przy ul. Farbiarskiej 2 zosta\u0142a wy\u0142\u0105czona z u\u017cytku. W\u0142a\u015bciciel ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.jbWyFx__i6yoy0J6D0Vsri&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Kurier Lubelski on MSN2 godz.",
+            "source": "Kurier Lubelski on MSN",
+            "article_content": ""
         }
     },
     {
@@ -362,25 +378,9 @@
             "description": "Odkrywamy \u015awi\u0119tokrzyskie. Zbudowali j\u0105 prawdopodobnie kamieniarze w\u0142oscy na prze\u0142omie XVI i XVII wieku. Jest jedyn\u0105 zachowan\u0105 renesansow\u0105 kamienic\u0105 w Pi\u0144czowie. Jakie tajemnice kryje?",
             "image_url": "https://www.bing.pl/th?id=ODF.wlzWRpbIiy0JhHw00bGCkA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "kielce.wyborcza2 godz.",
+            "date": "kielce.wyborcza6 godz.",
             "source": "kielce.wyborcza",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Pomys\u0142y na spacer w woj. \u015bl\u0105skim. Gdzie wybra\u0107 si\u0119 w weekend 1 - 2 lutego? 10 najciekawszych tras",
-            "link": "https://dziennikzachodni.pl/pomysly-na-spacer-w-woj-slaskim-gdzie-wybrac-sie-w-weekend-1-2-lutego-10-najciekawszych-tras/ar/c7p1-22116485",
-            "description": "Zanim wyruszysz, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 01 lutego w woj. \u015bl\u0105skim ma by\u0107 od 0\u00b0C do 4\u00b0C. Nie powinno pada\u0107.",
-            "image_url": "https://www.bing.pl/th?id=OVF.o4LmQPGKmXOCi8uIcjFrzg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "dziennikzachodni.pl18 godz.",
-            "source": "dziennikzachodni.pl",
-            "article_content": "Content not available"
         }
     },
     {
@@ -394,8 +394,24 @@
             "description": "Entuzja\u015bci natury maj\u0105 w Wielkopolsce wiele tras do wyboru na wycieczki i spacery. W samym Wielkopolskim Parku Narodowym ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.i54RkDQ9yDz0b5H8kEY6ES&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "gloswielkopolski18 godz.",
+            "date": "gloswielkopolski22 godz.",
             "source": "gloswielkopolski",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pomys\u0142y na spacer w woj. \u015bl\u0105skim. Gdzie wybra\u0107 si\u0119 w weekend 1 - 2 lutego? 10 najciekawszych tras",
+            "link": "https://dziennikzachodni.pl/pomysly-na-spacer-w-woj-slaskim-gdzie-wybrac-sie-w-weekend-1-2-lutego-10-najciekawszych-tras/ar/c7p1-22116485",
+            "description": "Zanim wyruszysz, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 01 lutego w woj. \u015bl\u0105skim ma by\u0107 od 0\u00b0C do 4\u00b0C. Nie powinno pada\u0107.",
+            "image_url": "https://www.bing.pl/th?id=OVF.o4LmQPGKmXOCi8uIcjFrzg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "dziennikzachodni.pl22 godz.",
+            "source": "dziennikzachodni.pl",
             "article_content": "Content not available"
         }
     },
@@ -410,24 +426,8 @@
             "description": "Nim wyruszysz w drog\u0119, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 01 lutego w Che\u0142mie ma by\u0107 4\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 02 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.QVwFPvTDzMl-gwAu9XT2-y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "chelm.naszemiasto18 godz.",
+            "date": "chelm.naszemiasto22 godz.",
             "source": "chelm.naszemiasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Gdzie i\u015b\u0107 na spacer w woj. warmi\u0144sko-mazurskim. Gdzie i\u015b\u0107 w weekend 1 - 2 lutego? Lista 10 tras",
-            "link": "https://wspolczesna.pl/gdzie-isc-na-spacer-w-woj-warminsko-mazurskim-gdzie-isc-w-weekend-1-2-lutego-lista-10-tras/ar/c7p1-22116491",
-            "description": "Zanim wyruszysz, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 01 lutego w woj. warmi\u0144sko-mazurskim ma by\u0107 od 2\u00b0C do 4\u00b0C. Nie powinno ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.i54RkDQ9yDz0b5H8kEY6ES&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "wspolczesna.pl18 godz.",
-            "source": "wspolczesna.pl",
             "article_content": "Content not available"
         }
     },
@@ -442,7 +442,7 @@
             "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet zwyk\u0142a pi\u0119cioz\u0142ot\u00f3wka mo\u017ce mie\u0107 wielokrotnie wi\u0119ksz\u0105 warto\u015b\u0107 ni\u017c nomina\u0142.",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "gk24.pl3 godz.",
+            "date": "gk24.pl7 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -458,7 +458,7 @@
             "description": "W 2025 roku kolekcjonerzy nadal intensywnie interesuj\u0105 si\u0119 starymi pieni\u0119dzmi z okresu Polskiej Rzeczpospolitej Ludowej. Ceny ...",
             "image_url": "https://www.bing.pl/th?id=OVF.cmlZ3ksdcAIbFTIX2w7SGg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Pomorska on MSN19 min",
+            "date": "Gazeta Pomorska on MSN4 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
