@@ -5,12 +5,60 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Pras\u00f3wka 9.02.2025 z ca\u0142ego tygodnia we W\u0142oc\u0142awku. B\u0105d\u017a na bie\u017c\u0105co z wydarzeniami",
-            "link": "https://wloclawek.naszemiasto.pl/prasowka-9-02-2025-z-calego-tygodnia-we-wloclawku-badz-na-biezaco-z-wydarzeniami/ar/c1p1-27250849",
-            "description": "Przygotowali\u015bmy dla Ciebie tygodniow\u0105 pras\u00f3wk\u0119. Je\u015bli w mijaj\u0105cym tygodniu by\u0142e\u015b zbyt zaj\u0119ty, by nad\u0105\u017cy\u0107 za informacjami z ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.FeTmluqWZ4hQIBTVwEpY3i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Starocie, samochody, warzywa, wypieki i nie tylko. Sprawd\u017a, co mo\u017cna by\u0142o znale\u017a\u0107 podczas niedzielnej gie\u0142dy przy Andersa",
+            "link": "https://poranny.pl/starocie-samochody-warzywa-wypieki-i-nie-tylko-sprawdz-co-mozna-bylo-znalezc-podczas-niedzielnej-gieldy-przy-andersa/ar/c1p2-27249961",
+            "description": "Dodatkowo w niedziel\u0119 przy Andersa odbywa si\u0119 Auto Gie\u0142da oraz Gie\u0142da staroci. W\u015br\u00f3d wystawionych samochod\u00f3w znalaz\u0142y si\u0119 m.in. Fordy, Toyoty, Hondy czy KIA. Spaceruj\u0105c mi\u0119dzy stoiskami gie\u0142dy staroci ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.z8szwJPfOZTDo97HvHYzSw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "W\u0142oc\u0142awek Nasze Miasto1 godz.",
+            "date": "Poranny2 godz.",
+            "source": "Poranny",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Skrywa prawdziwe skarby i przyci\u0105ga t\u0142umy. Najlepsza gie\u0142da staroci w Warszawie zn\u00f3w zachwyci\u0142a. Co tam mo\u017cna kupi\u0107?",
+            "link": "https://warszawa.naszemiasto.pl/skrywa-prawdziwe-skarby-i-przyciaga-tlumy-najlepsza-gielda-staroci-w-warszawie-znow-zachwycila-co-tam-mozna-kupic/ar/c13p2-27251571",
+            "description": "W niedziel\u0119, 9 lutego, odby\u0142a si\u0119 Falenicka Gie\u0142da Staroci. Targowisko przy ul. Trocinowej 1 wype\u0142ni\u0142o si\u0119 niezliczon\u0105 liczb\u0105 ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.cd62rftYD1ifqGs6Z70DZw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "warszawa.naszemiasto1 godz.",
+            "source": "warszawa.naszemiasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Starocie i r\u0119kodzie\u0142o na Pchlim Targu w Pa\u0142acu D\u0142ugosz\u00f3w. Jest w czym wybiera\u0107 - od porcelany i kryszta\u0142\u00f3w po siekiery i klucze francuskie",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/starocie-i-r%C4%99kodzie%C5%82o-na-pchlim-targu-w-pa%C5%82acu-d%C5%82ugosz%C3%B3w-jest-w-czym-wybiera%C4%87-od-porcelany-i-kryszta%C5%82%C3%B3w-po-siekiery-i-klucze-francuskie/ar-AA1yGBDD?ocid=BingNewsVerp",
+            "description": "W Parku D\u0142ugosz\u00f3w w Gorlicach stan\u0119\u0142o dzisiaj kilka stoisk ze starociami. To drugi w tym roku pchli targ, a na nim wszystko, co ma dusz\u0119, czyli stara porcelana, kryszta\u0142y, obrazy, zegary, bi\u017cuteria, a ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.XL5bGs_n6w06Ok0ARb1y3Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "starocie",
+            "date": "Gazeta Krakowska on MSN3 godz.",
+            "source": "Gazeta Krakowska on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pchli Targ w niedziel\u0119 - stroiki wielkanocne, mn\u00f3stwo staroci, odzie\u017c, chemia, cz\u0119\u015bci. Zdj\u0119cia, 9 lutego 2025",
+            "link": "https://wloclawek.naszemiasto.pl/pchli-targ-w-niedziele-stroiki-wielkanocne-mnostwo-staroci-odziez-chemia-czesci-zdjecia-9-lutego-2025/ar/c8p2-27251447",
+            "description": "W niedziel\u0119, 9 lutego 2025 roku odby\u0142 si\u0119 tradycyjny, coniedzielny Pchli Targ we W\u0142oc\u0142awku przy alei Kazimierza Wielkiego.",
+            "image_url": "https://www.bing.pl/th?id=OVF.5PRcCzamkKzOsgPt4T0sGA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "W\u0142oc\u0142awek Nasze Miasto2 godz.",
             "source": "W\u0142oc\u0142awek Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -21,62 +69,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Gie\u0142da w Sandomierzu pe\u0142na okazji w sobot\u0119, 8 lutego. Ka\u017cdy znajdzie co\u015b dla siebie",
-            "link": "https://echodnia.eu/podkarpackie/gielda-w-sandomierzu-pelna-okazji-w-sobote-8-lutego-kazdy-znajdzie-cos-dla-siebie/ar/c3-19066588",
-            "description": "W zimny sobotni poranek gie\u0142da w Sandomierzu t\u0119tni \u017cyciem. Na targowisko przy Przemys\u0142owej zjechali mieszka\u0144cy z ca\u0142ej ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.ghXe5IlflaOUeU7NrdP0mQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Pchli targ przy Hali Targowej w Krakowie zn\u00f3w wype\u0142niony po brzegi ... skarbami. Pasjonaci staroci uwielbiaj\u0105 to miejsce",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/pchli-targ-przy-hali-targowej-w-krakowie-zn%C3%B3w-wype%C5%82niony-po-brzegi-skarbami-pasjonaci-staroci-uwielbiaj%C4%85-to-miejsce/ar-AA1yGYx4?ocid=BingNewsVerp",
+            "description": "Mieszka\u0144cy Krakowa zn\u00f3w wyruszyli na poszukiwanie skarb\u00f3w. Oczywi\u015bcie doskonale wiadomo, \u017ce najwi\u0119cej staroci mo\u017cna znale\u017a\u0107 w ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.nmkU6jQaN24DJd5tvzlvfg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "echodnia21 godz.",
-            "source": "echodnia",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Kiermasz przedmiot\u00f3w kolekcjonerskich w chrzanowskiej bibliotece. Zobacz zdj\u0119cia",
-            "link": "https://gazetakrakowska.pl/kiermasz-przedmiotow-kolekcjonerskich-w-chrzanowskiej-bibliotece-zobacz-zdjecia/ar/c1p2-27249867",
-            "description": "Stare aparaty i zegary, przypinki, monety, banknoty, ceramika i ksi\u0105\u017cki - to tylko jedne z wielu przedmiot\u00f3w, kt\u00f3re mo\u017cna ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.cJlW75%2bgQGuNrfcytZj0VQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "Gazeta Krakowska18 godz.",
-            "source": "Gazeta Krakowska",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Targowisko przy ul. Zwi\u0105zk\u00f3w Zawodowych we W\u0142oc\u0142awku - 8 lutego 2025. Zdj\u0119cia, ceny",
-            "link": "https://wloclawek.naszemiasto.pl/targowisko-przy-ul-zwiazkow-zawodowych-we-wloclawku-8-lutego-2025-zdjecia-ceny/ar/c8p2-27249657",
-            "description": "W sobot\u0119, 8 lutego 2025 roku, na targowisku przy ulicy Zwi\u0105zk\u00f3w Zawodowych we W\u0142oc\u0142awku mo\u017cna by\u0142o znale\u017a\u0107 nie tylko warzywa i owoce. Na tym popularnym targowisku, zlokalizowanym w \u015brodku miasta, mo\u017cn ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.Bm8piDnsAoinfeChI0AgCw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "starocie",
-            "date": "W\u0142oc\u0142awek Nasze Miasto19 godz.",
-            "source": "W\u0142oc\u0142awek Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Willa guttentaga",
-            "link": "https://gazetawroclawska.pl/tag/willa-guttentaga",
-            "description": "Zabytkowa willa przy ulicy Legnickiej we Wroc\u0142awiu to budynek, kt\u00f3ry zdecydowanie wyr\u00f3\u017cnia si\u0119 na tle nowoczesnych biurowc\u00f3w. XIX-wieczna rezydencja od lat jest... Willa przy ul. Legnickiej 42 jest wy ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.p9YO103MXreScWBGsL62IA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "starocie",
-            "date": "gazetawroclawska.pl9 godz.",
-            "source": "gazetawroclawska.pl",
-            "article_content": "Content not available"
+            "date": "Gazeta Krakowska on MSN36 min",
+            "source": "Gazeta Krakowska on MSN",
+            "article_content": ""
         }
     },
     {
@@ -90,7 +90,7 @@
             "description": "W 2025 roku kolekcjonerzy nadal intensywnie interesuj\u0105 si\u0119 starymi pieni\u0119dzmi z okresu Polskiej Rzeczpospolitej Ludowej. Ceny ...",
             "image_url": "https://www.bing.pl/th?id=OVF.2Gpbcrv9zp53QhFbgILQYw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Gazeta Pomorska on MSN10 godz.",
+            "date": "Gazeta Pomorska on MSN14 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -106,7 +106,7 @@
             "description": "Czy posiadasz w portfelu monet\u0119 o nominalne 5 z\u0142? Mo\u017ce pojawi\u0142a si\u0119 szansa, aby\u015b sta\u0142 si\u0119 bogat\u0105 osob\u0105! S\u0105 takie monety, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.rXY4IFBt9hVZAYwsRbQrPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "gk24.pl2 godz.",
+            "date": "gk24.pl7 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -122,7 +122,7 @@
             "description": "Mo\u017cemy si\u0119 nawet nie spodziewa\u0107, \u017ce w swoich domach posiadamy przedmioty o ogromnej warto\u015bci. Z pewno\u015bci\u0105 cz\u0119\u015b\u0107 z nas znalaz\u0142a w swojej szufladzie stare monety z okresu PRL, nie zastanawiaj\u0105c si\u0119 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "gk24.pl3 godz.",
+            "date": "gk24.pl7 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -138,7 +138,7 @@
             "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je przejrze\u0107, bo niekt\u00f3re warte s\u0105 obecnie naprawd\u0119 sporo. Kolekcjonerzy p\u0142ac\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "gs24.pl2 godz.",
+            "date": "gs24.pl6 godz.",
             "source": "gs24.pl",
             "article_content": "Content not available"
         }
@@ -154,9 +154,25 @@
             "description": "Stare aparaty i zegary, przypinki, monety, banknoty, ceramika i ksi\u0105\u017cki - to tylko jedne z wielu przedmiot\u00f3w, kt\u00f3re mo\u017cna ...",
             "image_url": "https://www.bing.pl/th?id=OVF.cJlW75%2bgQGuNrfcytZj0VQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Gazeta Krakowska18 godz.",
+            "date": "Gazeta Krakowska22 godz.",
             "source": "Gazeta Krakowska",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Starocie i r\u0119kodzie\u0142o na Pchlim Targu w Pa\u0142acu D\u0142ugosz\u00f3w. Jest w czym wybiera\u0107 - od porcelany i kryszta\u0142\u00f3w po siekiery i klucze francuskie",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/starocie-i-r%C4%99kodzie%C5%82o-na-pchlim-targu-w-pa%C5%82acu-d%C5%82ugosz%C3%B3w-jest-w-czym-wybiera%C4%87-od-porcelany-i-kryszta%C5%82%C3%B3w-po-siekiery-i-klucze-francuskie/ar-AA1yGBDD?ocid=BingNewsVerp",
+            "description": "W Parku D\u0142ugosz\u00f3w w Gorlicach stan\u0119\u0142o dzisiaj kilka stoisk ze starociami. To drugi w tym roku pchli targ, a na nim wszystko, co ma dusz\u0119, czyli stara porcelana, kryszta\u0142y, obrazy, zegary, bi\u017cuteria, a ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.XL5bGs_n6w06Ok0ARb1y3Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stara+porcelana",
+            "date": "Gazeta Krakowska on MSN3 godz.",
+            "source": "Gazeta Krakowska on MSN",
+            "article_content": ""
         }
     },
     {
@@ -170,7 +186,7 @@
             "description": "Stare wazony z PRL-u wr\u00f3ci\u0142y do \u0142ask kolekcjoner\u00f3w i wielbicieli wystroju w stylu vintage. Wazony kryszta\u0142owe, z kolorowego ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.ScPfvULRG9wfMptlJ5mPLC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Wroc\u0142awska on MSN13 godz.",
+            "date": "Gazeta Wroc\u0142awska on MSN17 godz.",
             "source": "Gazeta Wroc\u0142awska on MSN",
             "article_content": ""
         }
@@ -181,13 +197,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "To kwiaty najlepsze do domu! Te ro\u015bliny doniczkowe s\u0105 pi\u0119kne i wzbogac\u0105 twoje wn\u0119trze. Jakie kwiaty wybra\u0107 do domu? 9.02.2025",
-            "link": "https://gk24.pl/to-kwiaty-najlepsze-do-domu-te-rosliny-doniczkowe-sa-piekne-i-wzbogaca-twoje-wnetrze-jakie-kwiaty-wybrac-do-domu-9022025/ar/c9-18815989",
-            "description": "Obecnie pragniemy, by nasze domowe wn\u0119trza mia\u0142y sw\u00f3j unikatowy charakter, by\u0142y przytulne i kolorowe. Jednym z pomys\u0142\u00f3w na ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.SUzMjivL5KSbzOGNsa6orA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Jarmark Staroci w Legnicy. To jedna z najwi\u0119kszych gie\u0142d na Dolnym \u015al\u0105sku. Przyci\u0105ga go\u015bci z ca\u0142ego regionu. Zobacz co tam mo\u017cna kupi\u0107",
+            "link": "https://gazetawroclawska.pl/jarmark-staroci-w-legnicy-to-jedna-z-najwiekszych-gield-na-dolnym-slasku-przyciaga-gosci-z-calego-regionu-zobacz-co-tam-mozna-kupic/ar/c1p2-27251483",
+            "description": "Jarmark Staroci w Legnicy tradycyjnie ju\u017c odbywa si\u0119 w drug\u0105 niedziel\u0119 miesi\u0105ca. 9 lutego pogoda dopisa\u0142a, podobnie zreszt\u0105 ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.wPth9khwB9RvTcdIRZE3UA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "gk24.pl2 godz.",
-            "source": "gk24.pl",
+            "date": "gazetawroclawska.pl2 godz.",
+            "source": "gazetawroclawska.pl",
             "article_content": "Content not available"
         }
     },
@@ -202,7 +218,7 @@
             "description": "Mo\u017cemy si\u0119 nawet nie spodziewa\u0107, \u017ce w swoich domach posiadamy przedmioty o ogromnej warto\u015bci. Z pewno\u015bci\u0105 cz\u0119\u015b\u0107 z nas znalaz\u0142a w swojej szufladzie stare monety z okresu PRL, nie zastanawiaj\u0105c si\u0119 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "gk24.pl3 godz.",
+            "date": "gk24.pl7 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -213,13 +229,45 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Kolorowe szk\u0142o PRL w cenie z\u0142ota. Tyle w 2025 roku trzeba zap\u0142aci\u0107 za stare naczynia i wazony",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/kolorowe-szk%C5%82o-prl-w-cenie-z%C5%82ota-tyle-w-2025-roku-trzeba-zap%C5%82aci%C4%87-za-stare-naczynia-i-wazony-30225/ar-AA1ykJG0?ocid=BingNewsVerp",
-            "description": "Kolekcjonerzy szczeg\u00f3lnie ceni\u0105 naczynia i wazony o oryginalnych kszta\u0142tach i intensywnych kolorach. Do najbardziej po\u017c\u0105danych nale\u017c\u0105 wazony typu \"radiant\" i \"asteroid\" \u2014 o futurystycznych formach, ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "To kwiaty najlepsze do domu! Te ro\u015bliny doniczkowe s\u0105 pi\u0119kne i wzbogac\u0105 twoje wn\u0119trze. Jakie kwiaty wybra\u0107 do domu? 9.02.2025",
+            "link": "https://gk24.pl/to-kwiaty-najlepsze-do-domu-te-rosliny-doniczkowe-sa-piekne-i-wzbogaca-twoje-wnetrze-jakie-kwiaty-wybrac-do-domu-9022025/ar/c9-18815989",
+            "description": "Obecnie pragniemy, by nasze domowe wn\u0119trza mia\u0142y sw\u00f3j unikatowy charakter, by\u0142y przytulne i kolorowe. Jednym z pomys\u0142\u00f3w na ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.SUzMjivL5KSbzOGNsa6orA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN20 godz.",
-            "source": "Gazeta Pomorska on MSN",
+            "date": "gk24.pl7 godz.",
+            "source": "gk24.pl",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pchli Targ w niedziel\u0119 - stroiki wielkanocne, mn\u00f3stwo staroci, odzie\u017c, chemia, cz\u0119\u015bci. Zdj\u0119cia, 9 lutego 2025",
+            "link": "https://wloclawek.naszemiasto.pl/pchli-targ-w-niedziele-stroiki-wielkanocne-mnostwo-staroci-odziez-chemia-czesci-zdjecia-9-lutego-2025/ar/c8p2-27251447",
+            "description": "W niedziel\u0119, 9 lutego 2025 roku odby\u0142 si\u0119 tradycyjny, coniedzielny Pchli Targ we W\u0142oc\u0142awku przy alei Kazimierza Wielkiego.",
+            "image_url": "https://www.bing.pl/th?id=OVF.5PRcCzamkKzOsgPt4T0sGA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "W\u0142oc\u0142awek Nasze Miasto2 godz.",
+            "source": "W\u0142oc\u0142awek Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pchli targ przy Hali Targowej w Krakowie zn\u00f3w wype\u0142niony po brzegi ... skarbami. Pasjonaci staroci uwielbiaj\u0105 to miejsce",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/pchli-targ-przy-hali-targowej-w-krakowie-zn%C3%B3w-wype%C5%82niony-po-brzegi-skarbami-pasjonaci-staroci-uwielbiaj%C4%85-to-miejsce/ar-AA1yGYx4?ocid=BingNewsVerp",
+            "description": "Mieszka\u0144cy Krakowa zn\u00f3w wyruszyli na poszukiwanie skarb\u00f3w. Oczywi\u015bcie doskonale wiadomo, \u017ce najwi\u0119cej staroci mo\u017cna znale\u017a\u0107 w ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.nmkU6jQaN24DJd5tvzlvfg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "Gazeta Krakowska on MSN36 min",
+            "source": "Gazeta Krakowska on MSN",
             "article_content": ""
         }
     },
@@ -229,78 +277,46 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Pras\u00f3wka 9.02.2025 z ca\u0142ego tygodnia we W\u0142oc\u0142awku. B\u0105d\u017a na bie\u017c\u0105co z wydarzeniami",
-            "link": "https://wloclawek.naszemiasto.pl/prasowka-9-02-2025-z-calego-tygodnia-we-wloclawku-badz-na-biezaco-z-wydarzeniami/ar/c1p1-27250849",
-            "description": "Przygotowali\u015bmy dla Ciebie tygodniow\u0105 pras\u00f3wk\u0119. Je\u015bli w mijaj\u0105cym tygodniu by\u0142e\u015b zbyt zaj\u0119ty, by nad\u0105\u017cy\u0107 za informacjami z ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.FeTmluqWZ4hQIBTVwEpY3i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Jarmark Staroci w Legnicy. To jedna z najwi\u0119kszych gie\u0142d na Dolnym \u015al\u0105sku. Przyci\u0105ga go\u015bci z ca\u0142ego regionu. Zobacz co tam mo\u017cna kupi\u0107",
+            "link": "https://gazetawroclawska.pl/jarmark-staroci-w-legnicy-to-jedna-z-najwiekszych-gield-na-dolnym-slasku-przyciaga-gosci-z-calego-regionu-zobacz-co-tam-mozna-kupic/ar/c1p2-27251483",
+            "description": "Jarmark Staroci w Legnicy tradycyjnie ju\u017c odbywa si\u0119 w drug\u0105 niedziel\u0119 miesi\u0105ca. 9 lutego pogoda dopisa\u0142a, podobnie zreszt\u0105 ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.wPth9khwB9RvTcdIRZE3UA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "W\u0142oc\u0142awek Nasze Miasto1 godz.",
-            "source": "W\u0142oc\u0142awek Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Targowisko przy ul. Zwi\u0105zk\u00f3w Zawodowych we W\u0142oc\u0142awku - 8 lutego 2025. Zdj\u0119cia, ceny",
-            "link": "https://wloclawek.naszemiasto.pl/targowisko-przy-ul-zwiazkow-zawodowych-we-wloclawku-8-lutego-2025-zdjecia-ceny/ar/c8p2-27249657",
-            "description": "W sobot\u0119, 8 lutego 2025 roku, na targowisku przy ulicy Zwi\u0105zk\u00f3w Zawodowych we W\u0142oc\u0142awku mo\u017cna by\u0142o znale\u017a\u0107 nie tylko warzywa i owoce. Na tym popularnym targowisku, zlokalizowanym w \u015brodku miasta, mo\u017cn ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.Bm8piDnsAoinfeChI0AgCw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "targ+staroci",
-            "date": "W\u0142oc\u0142awek Nasze Miasto19 godz.",
-            "source": "W\u0142oc\u0142awek Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Kiermasz przedmiot\u00f3w kolekcjonerskich w chrzanowskiej bibliotece. Zobacz zdj\u0119cia",
-            "link": "https://gazetakrakowska.pl/kiermasz-przedmiotow-kolekcjonerskich-w-chrzanowskiej-bibliotece-zobacz-zdjecia/ar/c1p2-27249867",
-            "description": "Stare aparaty i zegary, przypinki, monety, banknoty, ceramika i ksi\u0105\u017cki - to tylko jedne z wielu przedmiot\u00f3w, kt\u00f3re mo\u017cna ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.cJlW75%2bgQGuNrfcytZj0VQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "targ+staroci",
-            "date": "Gazeta Krakowska18 godz.",
-            "source": "Gazeta Krakowska",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Gie\u0142da w Sandomierzu pe\u0142na okazji w sobot\u0119, 8 lutego. Ka\u017cdy znajdzie co\u015b dla siebie",
-            "link": "https://echodnia.eu/podkarpackie/gielda-w-sandomierzu-pelna-okazji-w-sobote-8-lutego-kazdy-znajdzie-cos-dla-siebie/ar/c3-19066588",
-            "description": "W zimny sobotni poranek gie\u0142da w Sandomierzu t\u0119tni \u017cyciem. Na targowisko przy Przemys\u0142owej zjechali mieszka\u0144cy z ca\u0142ej ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.ghXe5IlflaOUeU7NrdP0mQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "targ+staroci",
-            "date": "echodnia21 godz.",
-            "source": "echodnia",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Willa guttentaga",
-            "link": "https://gazetawroclawska.pl/tag/willa-guttentaga",
-            "description": "Zabytkowa willa przy ulicy Legnickiej we Wroc\u0142awiu to budynek, kt\u00f3ry zdecydowanie wyr\u00f3\u017cnia si\u0119 na tle nowoczesnych biurowc\u00f3w. XIX-wieczna rezydencja od lat jest... Willa przy ul. Legnickiej 42 jest wy ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.p9YO103MXreScWBGsL62IA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "targ+staroci",
-            "date": "gazetawroclawska.pl9 godz.",
+            "date": "gazetawroclawska.pl2 godz.",
             "source": "gazetawroclawska.pl",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Skrywa prawdziwe skarby i przyci\u0105ga t\u0142umy. Najlepsza gie\u0142da staroci w Warszawie zn\u00f3w zachwyci\u0142a. Co tam mo\u017cna kupi\u0107?",
+            "link": "https://warszawa.naszemiasto.pl/skrywa-prawdziwe-skarby-i-przyciaga-tlumy-najlepsza-gielda-staroci-w-warszawie-znow-zachwycila-co-tam-mozna-kupic/ar/c13p2-27251571",
+            "description": "W niedziel\u0119, 9 lutego, odby\u0142a si\u0119 Falenicka Gie\u0142da Staroci. Targowisko przy ul. Trocinowej 1 wype\u0142ni\u0142o si\u0119 niezliczon\u0105 liczb\u0105 ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.cd62rftYD1ifqGs6Z70DZw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "warszawa.naszemiasto1 godz.",
+            "source": "warszawa.naszemiasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Bazar na tarnowskiej Star\u00f3wce. Plac targowy Burek zn\u00f3w wype\u0142ni\u0142 si\u0119 wystawcami i kupuj\u0105cymi. Nie brakuje walentynkowych akcent\u00f3w",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/bazar-na-tarnowskiej-star%C3%B3wce-plac-targowy-burek-zn%C3%B3w-wype%C5%82ni%C5%82-si%C4%99-wystawcami-i-kupuj%C4%85cymi-nie-brakuje-walentynkowych-akcent%C3%B3w/ar-AA1yGO3v?ocid=BingNewsVerp",
+            "description": "W niedziel\u0119 (9 lutego) na placu targowym Burek odbywa si\u0119 popularny w mie\u015bcie \"Bazar na tarnowskiej Star\u00f3wce\". Pchli targ, ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.2w8FQIvvlScsFg8o3k63di&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "Tarn\u00f3w Naszemiasto on MSN2 godz.",
+            "source": "Tarn\u00f3w Naszemiasto on MSN",
+            "article_content": ""
         }
     },
     {
@@ -314,7 +330,7 @@
             "description": "Z kolei podczas przebudowy ronda w latach 2004-2008 zachowane mury - relikty dw\u00f3ch kaponier - zosta\u0142y odkopane i ...",
             "image_url": "https://www.bing.pl/th?id=OVF.%2bTUiIfuXB6fi%2bhIqwX0%2fPw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Gazeta Krakowska on MSN1 godz.",
+            "date": "Gazeta Krakowska on MSN5 godz.",
             "source": "Gazeta Krakowska on MSN",
             "article_content": ""
         }
@@ -325,14 +341,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Niepowtarzalny domek Mumink\u00f3w na Dolnym \u015al\u0105sku? Niedaleko jest drugi bardzo podobny obiekt - zdj\u0119cia",
-            "link": "https://www.msn.com/pl-pl/historia-i-kultura-spo%C5%82ecze%C5%84stwa/historia/niepowtarzalny-domek-mumink%C3%B3w-na-dolnym-%C5%9Bl%C4%85sku-niedaleko-jest-drugi-bardzo-podobny-obiekt-zdj%C4%99cia/ar-AA1yDYEt?ocid=BingNewsVerp",
-            "description": "Niedawno pisali\u015bmy o niepowtarzalnym \"domku Mumink\u00f3w\", tymczasem ju\u017c wiadomo, \u017ce ma on \"brata bli\u017aniaka\". Podczas w\u0119dr\u00f3wek po ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.O2lUc2S7siI%2f9hU%2bxJOyBg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "To (nie) jest pa\u0142ac. Czy rekonstrukcja zabytk\u00f3w to ratunek dla dziedzictwa?",
+            "link": "https://www.gazetaprawna.pl/magazyn-na-weekend/artykuly/9730716,to-nie-jest-palac-czy-rekonstrukcja-zabytkow-to-ratunek-dla-dziedzi.html",
+            "description": "Na W\u0119grzech i w Niemczech powojenne konstrukcje zast\u0119puje si\u0119 na pot\u0119g\u0119 rekonstrukcjami dawnej zabudowy. My \u2013 cho\u0107 decyzja ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.BN19Ge79ox5y6eLE4KaQni&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Wa\u0142brzych Naszemiasto on MSN22 godz.",
-            "source": "Wa\u0142brzych Naszemiasto on MSN",
-            "article_content": ""
+            "date": "GAZETA PRAWNA2 godz.",
+            "source": "GAZETA PRAWNA",
+            "article_content": "\u201eCzy si\u0119 komu\u015b podoba, czy nie, problem rekonstrukcji istnieje nadal i jest problemem o du\u017cym znaczeniu spo\u0142ecznym, a nawet politycznym. Tym samym \u2013 wykraczaj\u0105cym poza decyzje historyk\u00f3w sztuki i konserwator\u00f3w\u201d \u2013 m\u00f3wi\u0142 prof. Jerzy Kowalczyk w 1979 r. podczas posiedzenia Grona Konserwator\u00f3w przy Oddziale Warszawskim Stowarzyszenia Historyk\u00f3w Sztuki. Cho\u0107 od tamtego spotkania, podczas kt\u00f3rego m.in. dyskutowano nad warto\u015bci\u0105 powojennej odbudowy warszawskiej Star\u00f3wki, min\u0119\u0142o ponad 40 lat, pytania o sens rekonstruowania dawnej zabudowy wci\u0105\u017c powracaj\u0105 jak bumerang. Ostatnio przy okazji sporu o Pa\u0142ac Saski. R\u00f3wnie\u017c dzi\u015b argumentom merytorycznym i artystycznym towarzysz\u0105 te o zabarwieniu politycznym i ideologicznym.\n\nTabula rasa"
         }
     },
     {
@@ -346,7 +362,7 @@
             "description": "Mi\u0142o\u015bnicy fortyfikacji nie mog\u0105 spokojnie patrze\u0107 na to, co dzieje si\u0119 z reliktami XIX-wiecznego fortu na rondzie Mogilskim.",
             "image_url": "https://www.bing.pl/th?id=OVFT.Oo7u-nELv3CjwKr1NTHFly&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Krak\u00f3w Naszemiasto on MSN1 godz.",
+            "date": "Krak\u00f3w Naszemiasto on MSN5 godz.",
             "source": "Krak\u00f3w Naszemiasto on MSN",
             "article_content": ""
         }
@@ -362,9 +378,9 @@
             "description": "Stowarzyszenie Pasjonaci Podziemi zaprasza mieszka\u0144c\u00f3w oraz turyst\u00f3w na kolejne wydarzenie z serii \"Podziemny Pozna\u0144\", kt\u00f3re ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.nEG5i5f_J_8PZnly7Fpyhi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Onet18 godz.",
+            "date": "Onet23 godz.",
             "source": "Onet",
-            "article_content": "Eksploracja podziemnych tajemnic\n\nOrganizatorzy podkre\u015blaj\u0105, \u017ce wci\u0105\u017c nie jest pewne, jaki los czeka otoczenie dworca, dlatego chc\u0105 przybli\u017cy\u0107 uczestnikom histori\u0119 a\u017c 20 podziemnych lokalizacji w tej okolicy.\n\n\"Zaczynamy od zbi\u00f3rki na Dworcu Letnim (przy ul. Dworcowej) o godzinie 19:00. Po kr\u00f3tkim wst\u0119pie wyruszymy na tras\u0119, podczas kt\u00f3rej poznamy takie obiekty jak: schrony przeciwlotnicze typu ko\u0142pak, Kaponiery Kolejowej, przej\u015bcia podziemne, szczeliny przeciwlotnicze, schrony zimnowojenne, schrony cywilne, tunel pocztowy oraz relikty twierdzy poligonalnej\" \u2013 zapowiadaj\u0105 organizatorzy.\n\nW przypadku miejsc, do kt\u00f3rych wej\u015bcie nie b\u0119dzie mo\u017cliwe, przewodnicy posi\u0142kowa\u0107 si\u0119 b\u0119d\u0105 archiwalnymi zdj\u0119ciami oraz dokumentacj\u0105 fotograficzn\u0105.\n\nWarunki uczestnictwa i zalecenia\n\nAby wzi\u0105\u0107 udzia\u0142 w wydarzeniu, wystarczy symboliczna wp\u0142ata do skarbonki. Ca\u0142a wyprawa potrwa oko\u0142o trzech godzin. Organizatorzy przypominaj\u0105, \u017ce wej\u015bcia do podziemnych obiekt\u00f3w odbywaj\u0105 si\u0119 na w\u0142asn\u0105 odpowiedzialno\u015b\u0107. Uczestnikom zaleca si\u0119 zabranie latarek, kt\u00f3re mog\u0105 okaza\u0107 si\u0119 niezb\u0119dne podczas eksploracji.\n\n\"To jedyna taka okazja, by zobaczy\u0107 ukryte przestrzenie Poznania i pozna\u0107 ich histori\u0119\" \u2013 zach\u0119caj\u0105 Pasjonaci Podziemi."
+            "article_content": "Eksploracja podziemnych tajemnic\n\nOrganizatorzy podkre\u015blaj\u0105, \u017ce wci\u0105\u017c nie jest pewne, jaki los czeka otoczenie dworca, dlatego chc\u0105 przybli\u017cy\u0107 uczestnikom histori\u0119 a\u017c 20 podziemnych lokalizacji w tej okolicy.\n\nPoznaj kontekst z AI Gdzie odb\u0119dzie si\u0119 wydarzenie 'Podziemny Pozna\u0144'?\n\nO kt\u00f3rej godzinie zaczyna si\u0119 zbi\u00f3rka na wydarzenie?\n\nJakie obiekty b\u0119dzie mo\u017cna zobaczy\u0107 podczas eksploracji?\n\nJak d\u0142ugo potrwa ca\u0142a wyprawa?\n\n\"Zaczynamy od zbi\u00f3rki na Dworcu Letnim (przy ul. Dworcowej) o godzinie 19:00. Po kr\u00f3tkim wst\u0119pie wyruszymy na tras\u0119, podczas kt\u00f3rej poznamy takie obiekty jak: schrony przeciwlotnicze typu ko\u0142pak, Kaponiery Kolejowej, przej\u015bcia podziemne, szczeliny przeciwlotnicze, schrony zimnowojenne, schrony cywilne, tunel pocztowy oraz relikty twierdzy poligonalnej\" \u2013 zapowiadaj\u0105 organizatorzy.\n\nW przypadku miejsc, do kt\u00f3rych wej\u015bcie nie b\u0119dzie mo\u017cliwe, przewodnicy posi\u0142kowa\u0107 si\u0119 b\u0119d\u0105 archiwalnymi zdj\u0119ciami oraz dokumentacj\u0105 fotograficzn\u0105.\n\nWarunki uczestnictwa i zalecenia\n\nAby wzi\u0105\u0107 udzia\u0142 w wydarzeniu, wystarczy symboliczna wp\u0142ata do skarbonki. Ca\u0142a wyprawa potrwa oko\u0142o trzech godzin. Organizatorzy przypominaj\u0105, \u017ce wej\u015bcia do podziemnych obiekt\u00f3w odbywaj\u0105 si\u0119 na w\u0142asn\u0105 odpowiedzialno\u015b\u0107. Uczestnikom zaleca si\u0119 zabranie latarek, kt\u00f3re mog\u0105 okaza\u0107 si\u0119 niezb\u0119dne podczas eksploracji.\n\n\"To jedyna taka okazja, by zobaczy\u0107 ukryte przestrzenie Poznania i pozna\u0107 ich histori\u0119\" \u2013 zach\u0119caj\u0105 Pasjonaci Podziemi."
         }
     },
     {
@@ -378,7 +394,7 @@
             "description": "Szukasz pomys\u0142u na wypraw\u0119 rowerow\u0105 w pobli\u017cu Warszawy? Proponujemy, gdzie warto si\u0119 wybra\u0107. Przygotowali\u015bmy 5 ciekawych propozycji. S\u0105 r\u00f3\u017cne pod wzgl\u0119dem trudno\u015bci czy odleg\u0142o\u015bci, dlatego ka\u017cdy mo\u017ce ...",
             "image_url": "https://www.bing.pl/th?id=ODF.RiSZ6cVK2kGKUBp4PkSDCg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "warszawa.naszemiasto19 godz.",
+            "date": "warszawa.naszemiasto23 godz.",
             "source": "warszawa.naszemiasto",
             "article_content": "Content not available"
         }
@@ -389,13 +405,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Szcz\u0105tki ofiar kanibalizmu w jaskini ko\u0142o Krakowa. \"Wszyscy zostali zjedzeni. Tak\u017ce dzieci\"",
-            "link": "https://rzeszow.wyborcza.pl/rzeszow/7,34962,31675196,szczatki-ofiar-kanibalizmu-w-jaskini-kolo-krakowa-wszyscy.html",
-            "description": "Badacze nie maj\u0105 ju\u017c \u017cadnych w\u0105tpliwo\u015bci: ko\u015bci znalezione w Jaskini Maszyckiej na Jurze Krakowsko-Cz\u0119stochowskiej to ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.ncOElkkH9dEuKFGEIqb5ei&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Badania nie zostawiaj\u0105 w\u0105tpliwo\u015bci. Pradawni mieszka\u0144cy polskiej jaskini praktykowali kanibalizm",
+            "link": "https://www.msn.com/pl-pl/news/other/badania-nie-zostawiaj%C4%85-w%C4%85tpliwo%C5%9Bci-pradawni-mieszka%C5%84cy-polskiej-jaskini-praktykowali-kanibalizm/ar-AA1yGM3r?ocid=BingNewsVerp",
+            "description": "Z najnowszej analizy ponad 60 ko\u015bci z Jaskini Maszyckiej (Ma\u0142opolska) wynika, \u017ce ludzie zamieszkuj\u0105cy j\u0105 18 tys. lat temu ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.4jVMv85eltDxgoWvVLaqtS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "rzeszow.wyborcza4 godz.",
-            "source": "rzeszow.wyborcza",
+            "date": "Onet on MSN1 godz.",
+            "source": "Onet on MSN",
             "article_content": ""
         }
     },
@@ -405,14 +421,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Masz te banknoty? To prawdziwe skarby! Za jeden mo\u017cesz otrzyma\u0107 kilka tysi\u0119cy z\u0142otych! [ZDJ\u0118CIA] 09.02.2025",
-            "link": "https://gs24.pl/masz-te-banknoty-to-prawdziwe-skarby-za-jeden-mozesz-otrzymac-kilka-tysiecy-zlotych-zdjecia-09022025/ar/c1-17930573",
-            "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je przejrze\u0107, bo niekt\u00f3re warte s\u0105 obecnie naprawd\u0119 sporo. Kolekcjonerzy p\u0142ac\u0105 ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Makabryczne odkrycie archeolog\u00f3w. W Jaskini Maszyckiej \"wydarzy\u0142o si\u0119 co\u015b gwa\u0142townego\"",
+            "link": "https://wiadomosci.dziennik.pl/wydarzenia/artykuly/9735010,makabryczne-odkrycie-archeologow-w-jaskini-maszyckiej-wydarzylo-sie.html",
+            "description": "Z najnowszej analizy ponad 60 ko\u015bci z Jaskini Maszyckiej (Ma\u0142opolska) wynika, \u017ce ludzie zamieszkuj\u0105cy j\u0105 18 tys. lat temu ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.Q8wh0vbtTxUtxeufmbzb9C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "gs24.pl2 godz.",
-            "source": "gs24.pl",
-            "article_content": "Content not available"
+            "date": "Dziennik1 godz.",
+            "source": "Dziennik",
+            "article_content": "Jaskinia Maszycka jest stanowiskiem bardzo interesuj\u0105cym, ale jednocze\u015bnie bardzo tajemniczym. Jest to pozosta\u0142o\u015b\u0107 po obozowisku grupy ludzi, kt\u00f3rzy przybyli 18 tys. lat temu z teren\u00f3w zachodniej Europy. Byli przedstawicielami jednostki kulturowej, kt\u00f3r\u0105 nazywamy kultur\u0105 magdale\u0144sk\u0105 - powiedzia\u0142a dr hab. Marta Po\u0142towicz-Bobak archeolo\u017cka z Katedry Archeologii Pradziejowej Uniwersytetu Rzeszowskiego.\n\nZbi\u00f3r ludzkich ko\u015bci z Jaskini Maszyckiej\n\nPradziejowe ko\u015bci ludzkie w Jaskini Maszyckiej znaleziono pod koniec XIX wieku. Grupy magdale\u0144skie znane by\u0142y m.in. z tego, \u017ce wykorzystywa\u0142y ludzkie ko\u015bci jako surowiec do wytwarzania mis czy bi\u017cuterii. Jednak naukowcy, kt\u00f3rzy prowadzili badania nad wykorzystywaniem ludzkich zw\u0142ok w okresie g\u00f3rnego paleolitu, r\u00f3\u017cnie interpretowali spos\u00f3b wykorzystania szcz\u0105tk\u00f3w ludzkich przez t\u0119 spo\u0142eczno\u015b\u0107.\n\nReklama\n\nZbi\u00f3r ludzkich ko\u015bci z Jaskini Maszyckiej sta\u0142 si\u0119 cz\u0119\u015bci\u0105 tej debaty. Pocz\u0105tkowe badania z lat 90. sugerowa\u0142y, \u017ce ludno\u015b\u0107 zamieszkuj\u0105ca Jaskini\u0119 spo\u017cywa\u0142a ludzkie mi\u0119so, kolejne badania antropologiczne z 2017 podwa\u017ca\u0142y jednak t\u0119 mo\u017cliwo\u015b\u0107.\n\nMakabryczne odkrycie\n\nAntropolodzy z hiszpa\u0144skiego Catalan Institute of Human Paleoecology and Social Evolution (IPHES) oraz archeolodzy Uniwersytetu Rzeszowskiego, Fundacji Rzeszowskiego O\u015brodka Archeologicznego i Uniwersytetu w Getyndze na \u0142amach \"Scientific Reports\" przedstawili najnowsze analizy, kt\u00f3re potwierdzaj\u0105 pierwotne przypuszczenia. Z ich bada\u0144 wynika, \u017ce ludno\u015b\u0107 zamieszkuj\u0105ca Jaskini\u0119 praktykowa\u0142a kanibalizm.\n\nWskazuj\u0105 na to przede wszystkim mikro\u015blady na niemal wszystkich zachowanych ko\u015bciach. Zidentyfikowali\u015bmy mikronaci\u0119cia w miejscach, kt\u00f3re pokazuj\u0105, \u017ce od ko\u015bci pr\u00f3bowano odseparowa\u0107 mi\u0119\u015bnie. S\u0105 to te\u017c \u015blady zmia\u017cd\u017cenia, rozbicia ko\u015bci d\u0142ugich w celu uzyskania szpiku kostnego, kt\u00f3ry jest bardzo kalorycznym po\u017cywieniem. \u015alady na fragmentach czaszek wskazuj\u0105, \u017ce pr\u00f3bowano uzyska\u0107 te\u017c dost\u0119p do m\u00f3zgu, kt\u00f3ry r\u00f3wnie\u017c jest bardzo kaloryczny - powiedzia\u0142 wsp\u00f3\u0142autor badania Dariusz Bobak z Fundacji Rzeszowskiego O\u015brodka Archeologicznego.\n\nKo\u015bci ludzkie przerabiane na narz\u0119dzia\n\nNa miejscu nie znaleziono \u017cadnych \u015blad\u00f3w \u015bwiadcz\u0105cych o tym, \u017ce ko\u015bci ludzkie by\u0142y obrabiane, aby przekszta\u0142ci\u0107 je w narz\u0119dzia i inne przedmioty u\u017cytkowe. Naukowcy przebadali 63 fragmenty ko\u015bci ludzkich. Na podstawie materia\u0142u kostnego mo\u017cemy stwierdzi\u0107, \u017ce s\u0105 to szcz\u0105tki co najmniej 10 os\u00f3b- powiedzia\u0142 Dariusz Bobak.\n\nJak podkre\u015blaj\u0105 autorzy publikacji, takie praktyki obserwowano te\u017c w innych grupach ludzkich zbli\u017conych chronologicznie i kulturowo w ca\u0142ej kontynentalnej Europie. To sugeruje, \u017ce kanibalizm by\u0142 integraln\u0105 praktyk\u0105 w grupach magdale\u0144skich. Badane ko\u015bci to zar\u00f3wno szcz\u0105tki, kt\u00f3re analizowano ju\u017c w poprzednich latach, jak i wcze\u015bniej niebadane, albo takie, kt\u00f3re identyfikowano dot\u0105d jako ko\u015bci zwierz\u0119ce. Wszystkie udost\u0119pni\u0142o do bada\u0144 Muzeum Archeologiczne w Krakowie. To w jego zbiorach znajduje si\u0119 kolekcja zabytk\u00f3w z Jaskini Maszyckiej.\n\nRytualne praktyki\n\nPrzeprowadzenie szczeg\u00f3\u0142owych analiz by\u0142o mo\u017cliwe dzi\u0119ki zastosowaniu najnowocze\u015bniejszych technik np. skanowania tr\u00f3jwymiarowego, kt\u00f3re pozwoli\u0142o dostrzec \u015blady, kt\u00f3rych jeszcze kilka lat temu nie mo\u017cna by\u0142o zidentyfikowa\u0107. Na razie nie wiadomo, w jakim dok\u0142adnie celu mieszka\u0144cy Jaskini Maszyckiej pozyskiwali mi\u0119so ludzkie.\n\nArcheolodzy s\u0105dz\u0105, \u017ce raczej nie chodzi\u0142o tylko o zapewnienie sobie \u017cywno\u015bci. Opr\u00f3cz ko\u015bci ludzkich na stanowisku znaleziono te\u017c liczne ko\u015bci zwierz\u0119ce, ko\u015bci zwierzyny \u0142ownej, g\u0142\u00f3wnie renifer\u00f3w. Oni mieli co je\u015b\u0107, wydaje si\u0119, \u017ce kanibalizm nie wynika\u0142 z g\u0142odu - przypuszcza dr hab. Marta Po\u0142towicz-Bobak.\n\nPrzedstawiciele pradziejowych kultur praktykowali te\u017c kanibalizm rytualny. Spo\u017cywali szcz\u0105tki bliskich \u017ceby odda\u0107 im cze\u015b\u0107, pozyska\u0107 ich zalety. Kanibalizmem rytualnym by\u0142o te\u017c spo\u017cywanie mi\u0119sa wroga po to, \u017ceby go zniewa\u017cy\u0107 nawet po \u015bmierci. Na rytualny charakter mo\u017ce wskazywa\u0107 m.in. odkryta pod koniec XIX wieku przy wej\u015bciu do Jaskini Maszyckiej czaszka antylopy saigi - suhaka, kt\u00f3ra zosta\u0142a pokryta ochr\u0105. Ten czerwony barwnik mia\u0142 we wszystkich pierwotnych ludach, praktycznie do czas\u00f3w wsp\u00f3\u0142czesnych, znaczenie rytualne. To sugeruje jaki\u015b rodzaj rytua\u0142u zwi\u0105zanego z tym miejscem- wskaza\u0142 Dariusz Bobak.\n\nWydarzy\u0142o si\u0119 tutaj co\u015b gwa\u0142townego\n\nJak opisa\u0142a dr hab. Po\u0142towicz-Bobak, bytno\u015b\u0107 grupy w Jaskini Maszyckiej zako\u0144czy\u0142a si\u0119 do\u015b\u0107 nagle, ale nie wiadomo dlaczego. O tym, \u017ce sta\u0142o si\u0119 to raptownie \u015bwiadczy np. fakt, \u017ce akt kanibalizmu by\u0142 tu raczej wydarzeniem jednorazowym. To musia\u0142o si\u0119 sta\u0107 albo w jednym momencie, albo by\u0142o to kilka akt\u00f3w, kt\u00f3re nast\u0119powa\u0142y bardzo kr\u00f3tko po sobie, w ci\u0105gu by\u0107 mo\u017ce kilku dni - opisa\u0142 Dariusz Bobak.\n\nW dodatku w Jaskini opr\u00f3cz ko\u015bci ludzkich znaleziono tak\u017ce bogat\u0105 kolekcj\u0119 narz\u0119dzi ko\u015bcianych, kt\u00f3re zwykle w takich ilo\u015bciach na stanowiskach si\u0119 nie zachowuj\u0105. Narz\u0119dzia z ko\u015bci by\u0142y cenne, wykonywa\u0142o si\u0119 je znacznie d\u0142u\u017cej ni\u017c narz\u0119dzia z krzemienia, wi\u0119c nikt ot tak ich nie porzuca\u0142, je\u015bli nie by\u0142y zniszczone. Tutaj mamy ca\u0142\u0105 kolekcj\u0119. Musia\u0142a nast\u0105pi\u0107 wi\u0119c albo nag\u0142a \u015bmier\u0107 tych ludzi, ewentualnie ucieczka, w ka\u017cdym razie pozostawienie zabytk\u00f3w wskazuje, \u017ce wydarzy\u0142o si\u0119 tutaj co\u015b gwa\u0142townego - doda\u0142 Bobak."
         }
     },
     {
@@ -421,14 +437,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Biuro rzeczy znalezionych licytacja",
-            "link": "https://dzienniklodzki.pl/tag/biuro-rzeczy-znalezionych-licytacja",
-            "description": "\u0141\u00f3dzkie Biuro Rzeczy Znalezionych oddaje na licytacje rzeczy nieodebrane w terminie. Pod m\u0142otek p\u00f3jd\u0105 g\u0142\u00f3wnie rowery w bardzo atrakcyjnych cenach wywo\u0142awczych... Przed siedzib\u0105 Platformy Obywatelskiej ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.uJelon1vmcKYEKRidTlMcA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Makabryczne odkrycie w Jaskini Maszyckiej. Najnowsze badania nie pozostawiaj\u0105 z\u0142udze\u0144",
+            "link": "https://www.msn.com/pl-pl/historia-i-kultura-spo%C5%82ecze%C5%84stwa/historia/makabryczne-odkrycie-w-jaskini-maszyckiej-najnowsze-badania-nie-pozostawiaj%C4%85-z%C5%82udze%C5%84/ar-AA1yGYGI?ocid=BingNewsVerp",
+            "description": "Z najnowszej analizy ponad 60 ko\u015bci z Jaskini Maszyckiej (woj. ma\u0142opolskie) wynika, \u017ce ludzie zamieszkuj\u0105cy j\u0105 18 tys. lat ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.PdtpxFMqbZialSi-myeR2y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "dzienniklodzki10 godz.",
-            "source": "dzienniklodzki",
-            "article_content": "Content not available"
+            "date": "Onet Wiadomo\u015bci on MSN54 min",
+            "source": "Onet Wiadomo\u015bci on MSN",
+            "article_content": ""
         }
     },
     {
@@ -437,14 +453,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Ciekawe trasy do spacerowania w woj. \u0142\u00f3dzkim. Gdzie warto i\u015b\u0107 w weekend 8 - 9 lutego? TOP 10 tras",
-            "link": "https://dzienniklodzki.pl/ciekawe-trasy-do-spacerowania-w-woj-lodzkim-gdzie-warto-isc-w-weekend-8-9-lutego-top-10-tras/ar/c7p1-22116469",
-            "description": "Zanim wyruszysz, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 08 lutego w woj. \u0142\u00f3dzkim ma by\u0107 od -2\u00b0C do 4\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 09 lutego w woj. \u0142\u00f3dzkim ma by\u0107 od -3\u00b0C do 4\u00b0C. Nie powinno pada\u0107.",
-            "image_url": "https://www.bing.pl/th?id=ODF.uJelon1vmcKYEKRidTlMcA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Dawni mieszka\u0144cy jaskini w Ma\u0142opolsce praktykowali kanibalizm",
+            "link": "https://radio.rzeszow.pl/181639/dawni-mieszkancy-jaskini-w-malopolsce-praktykowali-kanibalizm/",
+            "description": "Z najnowszej analizy ponad 60 ko\u015bci z Jaskini Maszyckiej (Ma\u0142opolska) wynika, \u017ce ludzie zamieszkuj\u0105cy j\u0105 18 tys. lat temu ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.swxIcLY17ddMwFTOO5q0Bi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "dzienniklodzki18 godz.",
-            "source": "dzienniklodzki",
-            "article_content": "Content not available"
+            "date": "radio.rzeszow.pl1 godz.",
+            "source": "radio.rzeszow.pl",
+            "article_content": "Z najnowszej analizy ponad 60 ko\u015bci z Jaskini Maszyckiej (Ma\u0142opolska) wynika, \u017ce ludzie zamieszkuj\u0105cy j\u0105 18 tys. lat temu praktykowali kanibalizm. Wskazuj\u0105 na to \u015blady na zachowanych ko\u015bciach, w tym pr\u00f3by wydobycia szpiku kostnego \u2013 powiedzia\u0142 PAP archeolog Dariusz Bobak.\n\n\u201eJaskinia Maszycka jest stanowiskiem bardzo interesuj\u0105cym, ale jednocze\u015bnie bardzo tajemniczym. Jest to pozosta\u0142o\u015b\u0107 po obozowisku grupy ludzi, kt\u00f3rzy przybyli 18 tys. lat temu z teren\u00f3w zachodniej Europy. Byli przedstawicielami jednostki kulturopiwej, kt\u00f3r\u0105 nazywamy kultur\u0105 magdale\u0144sk\u0105\u201d \u2013 powiedzia\u0142a PAP dr hab. Marta Po\u0142towicz-Bobak, archeolo\u017cka z Katedry Archeologii Pradziejowej Uniwersytetu Rzeszowskiego.\n\nPradziejowe ko\u015bci ludzkie w Jaskini Maszyckiej znaleziono pod koniec XIX wieku. Grupy magdale\u0144skie znane by\u0142y m.in. z tego, \u017ce wykorzystywa\u0142y ludzkie ko\u015bci jako surowiec do wytwarzania mis czy bi\u017cuterii. Jednak naukowcy, kt\u00f3rzy prowadzili badania nad wykorzystywaniem ludzkich zw\u0142ok w okresie g\u00f3rnego paleolitu, r\u00f3\u017cnie interpretowali spos\u00f3b wykorzystania szcz\u0105tk\u00f3w ludzkich przez t\u0119 spo\u0142eczno\u015b\u0107.\n\nZbi\u00f3r ludzkich ko\u015bci z Jaskini Maszyckiej sta\u0142 si\u0119 cz\u0119\u015bci\u0105 tej debaty. Pocz\u0105tkowe badania z lat 90. sugerowa\u0142y, \u017ce ludno\u015b\u0107 zamieszkuj\u0105ca Jaskini\u0119 spo\u017cywa\u0142a ludzkie mi\u0119so, kolejne badania antropologiczne z 2017 podwa\u017ca\u0142y jednak t\u0119 mo\u017cliwo\u015b\u0107.\n\nAntropolodzy z hiszpa\u0144skiego Catalan Institute of Human Paleoecology and Social Evolution (IPHES) oraz archeolodzy Uniwersytetu Rzeszowskiego, Fundacji Rzeszowskiego O\u015brodka Archeologicznego i Uniwersytetu w Getyndze na \u0142amach \u201eScientific Reports\u201d przedstawili najnowsze analizy, kt\u00f3re potwierdzaj\u0105 pierwotne przypuszczenia. Z ich bada\u0144 wynika, \u017ce ludno\u015b\u0107 zamieszkuj\u0105ca jaskini\u0119 praktykowa\u0142a kanibalizm.\n\n\u201eWskazuj\u0105 na to przede wszystkim mikro\u015blady na niemal wszystkich zachowanych ko\u015bciach. Zidentyfikowali\u015bmy mikronaci\u0119cia w miejscach, kt\u00f3re pokazuj\u0105, \u017ce od ko\u015bci pr\u00f3bowano odseparowa\u0107 mi\u0119\u015bnie. S\u0105 to te\u017c \u015blady zmia\u017cd\u017cenia, rozbicia ko\u015bci d\u0142ugich w celu uzyskania szpiku kostnego, kt\u00f3ry jest bardzo kalorycznym po\u017cywieniem. \u015alady na fragmentach czaszek wskazuj\u0105, \u017ce pr\u00f3bowano uzyska\u0107 te\u017c dost\u0119p do m\u00f3zgu, kt\u00f3ry r\u00f3wnie\u017c jest bardzo kaloryczny\u201d \u2013 powiedzia\u0142 PAP wsp\u00f3\u0142autor badania Dariusz Bobak z Fundacji Rzeszowskiego O\u015brodka Archeologicznego.\n\nNa miejscu nie znaleziono \u017cadnych \u015blad\u00f3w \u015bwiadcz\u0105cych o tym, \u017ce ko\u015bci ludzkie by\u0142y obrabiane, aby przekszta\u0142ci\u0107 je w narz\u0119dzia i inne przedmioty u\u017cytkowe. Naukowcy przebadali 63 fragmenty ko\u015bci ludzkich.\n\n\u201eNa podstawie materia\u0142u kostnego mo\u017cemy stwierdzi\u0107, \u017ce s\u0105 to szcz\u0105tki co najmniej 10 os\u00f3b\u201d \u2013 powiedzia\u0142 PAP Dariusz Bobak.\n\nJak podkre\u015blaj\u0105 autorzy publikacji, takie praktyki obserwowano te\u017c w innych grupach ludzkich zbli\u017conych chronologicznie i kulturowo w ca\u0142ej kontynentalnej Europie. To sugeruje, \u017ce kanibalizm by\u0142 integraln\u0105 praktyk\u0105 w grupach magdale\u0144skich. Badane ko\u015bci to zar\u00f3wno szcz\u0105tki, kt\u00f3re analizowano ju\u017c w poprzednich latach, jak i wcze\u015bniej niebadane, albo takie, kt\u00f3re identyfikowano dot\u0105d jako ko\u015bci zwierz\u0119ce. Wszystkie udost\u0119pni\u0142o do bada\u0144 Muzeum Archeologiczne w Krakowie. To w jego zbiorach znajduje si\u0119 kolekcja zabytk\u00f3w z Jaskini Maszyckiej.\n\nPrzeprowadzenie szczeg\u00f3\u0142owych analiz by\u0142o mo\u017cliwe dzi\u0119ki zastosowaniu najnowocze\u015bniejszych technik np. skanowania tr\u00f3jwymiarowego, kt\u00f3re pozwoli\u0142o dostrzec \u015blady, kt\u00f3rych jeszcze kilka lat temu nie mo\u017cna by\u0142o zidentyfikowa\u0107. Na razie nie wiadomo, w jakim dok\u0142adnie celu mieszka\u0144cy Jaskini Maszyckiej pozyskiwali mi\u0119so ludzkie. Archeolodzy s\u0105dz\u0105, \u017ce raczej nie chodzi\u0142o tylko o zapewnienie sobie \u017cywno\u015bci.\n\n\u201eOpr\u00f3cz ko\u015bci ludzkich na stanowisku znaleziono te\u017c liczne ko\u015bci zwierz\u0119ce, ko\u015bci zwierzyny \u0142ownej, g\u0142\u00f3wnie renifer\u00f3w. Oni mieli co je\u015b\u0107, wydaje si\u0119, \u017ce kanibalizm nie wynika\u0142 z g\u0142odu\u201d \u2013 przypuszcza dr hab. Marta Po\u0142towicz-Bobak.\n\nPrzedstawiciele pradziejowych kultur praktykowali te\u017c kanibalizm rytualny. Spo\u017cywali szcz\u0105tki bliskich \u017ceby odda\u0107 im cze\u015b\u0107, pozyska\u0107 ich zalety. Kanibalizmem rytualnym by\u0142o te\u017c spo\u017cywanie mi\u0119sa wroga po to, \u017ceby go zniewa\u017cy\u0107 nawet po \u015bmierci. Na rytualny charakter mo\u017ce wskazywa\u0107 m.in. odkryta pod koniec XIX wieku przy wej\u015bciu do Jaskini Maszyckiej czaszka antylopy saigi \u2013 suhaka, kt\u00f3ra zosta\u0142a pokryta ochr\u0105.\n\n\u201eTen czerwony barwnik mia\u0142 we wszystkich pierwotnych ludach, praktycznie do czas\u00f3w wsp\u00f3\u0142czesnych, znaczenie rytualne. To sugeruje jaki\u015b rodzaj rytua\u0142u zwi\u0105zanego z tym miejscem\u201d \u2013 wskaza\u0142 Dariusz Bobak.\n\nJak opisa\u0142a dr hab. Po\u0142towicz-Bobak, bytno\u015b\u0107 grupy w Jaskini Maszyckiej zako\u0144czy\u0142a si\u0119 do\u015b\u0107 nagle, ale nie wiadomo dlaczego. O tym, \u017ce sta\u0142o si\u0119 to raptownie \u015bwiadczy np. fakt, \u017ce akt kanibalizmu by\u0142 tu raczej wydarzeniem jednorazowym. \u201eTo musia\u0142o si\u0119 sta\u0107 albo w jednym momencie, albo by\u0142o to kilka akt\u00f3w, kt\u00f3re nast\u0119powa\u0142y bardzo kr\u00f3tko po sobie, w ci\u0105gu by\u0107 mo\u017ce kilku dni\u201d \u2013 opisa\u0142 Dariusz Bobak.\n\nW dodatku, opr\u00f3cz ko\u015bci ludzkich znaleziono tak\u017ce bogat\u0105 kolekcj\u0119 narz\u0119dzi ko\u015bcianych, kt\u00f3re zwykle w takich ilo\u015bciach na stanowiskach si\u0119 nie zachowuj\u0105. \u201eNarz\u0119dzia z ko\u015bci by\u0142y cenne, wykonywa\u0142o si\u0119 je znacznie d\u0142u\u017cej ni\u017c narz\u0119dzia z krzemienia, wi\u0119c nikt ot tak ich nie porzuca\u0142, je\u015bli nie by\u0142y zniszczone. Tutaj mamy ca\u0142\u0105 kolekcj\u0119. Musia\u0142a nast\u0105pi\u0107 wi\u0119c albo nag\u0142a \u015bmier\u0107 tych ludzi, ewentualnie ucieczka, w ka\u017cdym razie pozostawienie zabytk\u00f3w wskazuje, \u017ce wydarzy\u0142o si\u0119 tutaj co\u015b gwa\u0142townego\u201d \u2013 doda\u0142 Bobak.\n\nEwelina Krajczy\u0144ska-Wujec(PAP)"
         }
     },
     {
@@ -453,14 +469,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Trasy spacerowe w woj. ma\u0142opolskim. Gdzie wybra\u0107 si\u0119 w weekend 8 - 9 lutego? Lista 10 tras",
-            "link": "https://gazetakrakowska.pl/trasy-spacerowe-w-woj-malopolskim-gdzie-wybrac-sie-w-weekend-8-9-lutego-lista-10-tras/ar/c7p1-22116467",
-            "description": "Zanim wyruszysz, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 08 lutego w woj. ma\u0142opolskim ma by\u0107 od -0\u00b0C do 6\u00b0C. Nie powinno ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.tE1vj8wCmXDGmG%2bMhRtAAA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Archeolodzy zbadali tajemnicz\u0105 jaskini\u0119 w woj. ma\u0142opolskim. Kry\u0142a makabryczn\u0105 histori\u0119",
+            "link": "https://wiadomosci.radiozet.pl/polska/archeolodzy-zbadali-tajemnicza-jaskinie-w-woj-malopolskim-kryla-makabryczna-historie",
+            "description": "Archeolodzy dokonali sensacyjnego odkrycia. Badaj\u0105c \u015blady z Jaskini Maszyckiej w Ojcowskim Parku Narodowym odkryli, \u017ce ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.SPGNfyG0gU-eG1355SMuQi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Krakowska18 godz.",
-            "source": "Gazeta Krakowska",
-            "article_content": "Content not available"
+            "date": "Radio ZET2 godz.",
+            "source": "Radio ZET",
+            "article_content": "Archeolodzy przebadali ko\u015bci odkryte w Jaskini Maszyckiej niedaleko Krakowa\n\nZdaniem badaczy 18 tys. lat temu jaskini\u0119 zamieszkiwali kanibale\n\n- Oni mieli co je\u015b\u0107, wydaje si\u0119, \u017ce kanibalizm nie wynika\u0142 z g\u0142odu - m\u00f3wi\u0105 archeolodzy\n\nArcheolodzy zbadali ko\u015bci z Jaskini Maszyckiej\n\nJaskinia Maszycka znajduje si\u0119 na terenie Ojcowskiego Parku Narodowego. Od Krakowa oddalona jest o zaledwie kilkana\u015bcie kilometr\u00f3w. Badaj\u0105cy j\u0105 archeolodzy dokonali w\u0142a\u015bnie niezwyk\u0142ego odkrycia. - Z najnowszej analizy ponad 60 ko\u015bci z Jaskini Maszyckiej wynika, \u017ce ludzie zamieszkuj\u0105cy j\u0105 18 tys. lat temu praktykowali kanibalizm. Wskazuj\u0105 na to \u015blady na zachowanych ko\u015bciach, w tym pr\u00f3by wydobycia szpiku kostnego - powiedzia\u0142 PAP archeolog Dariusz Bobak.\n\n- Jaskinia Maszycka jest stanowiskiem bardzo interesuj\u0105cym, ale jednocze\u015bnie bardzo tajemniczym. Jest to pozosta\u0142o\u015b\u0107 po obozowisku grupy ludzi, kt\u00f3rzy przybyli 18 tys. lat temu z teren\u00f3w zachodniej Europy. Byli przedstawicielami jednostki kulturowej, kt\u00f3r\u0105 nazywamy kultur\u0105 magdale\u0144sk\u0105 - powiedzia\u0142a PAP dr hab. Marta Po\u0142towicz-Bobak archeolo\u017cka z Katedry Archeologii Pradziejowej Uniwersytetu Rzeszowskiego.\n\nPradziejowe ko\u015bci ludzkie w Jaskini Maszyckiej znaleziono pod koniec XIX wieku. Grupy magdale\u0144skie znane by\u0142y m.in. z tego, \u017ce wykorzystywa\u0142y ludzkie ko\u015bci jako surowiec do wytwarzania mis czy bi\u017cuterii. Jednak naukowcy, kt\u00f3rzy prowadzili badania nad wykorzystywaniem ludzkich zw\u0142ok w okresie g\u00f3rnego paleolitu, r\u00f3\u017cnie interpretowali spos\u00f3b wykorzystania szcz\u0105tk\u00f3w ludzkich przez t\u0119 spo\u0142eczno\u015b\u0107. Zbi\u00f3r ludzkich ko\u015bci z Jaskini Maszyckiej sta\u0142 si\u0119 cz\u0119\u015bci\u0105 tej debaty. Pocz\u0105tkowe badania z lat 90. sugerowa\u0142y, \u017ce ludno\u015b\u0107 zamieszkuj\u0105ca Jaskini\u0119 spo\u017cywa\u0142a ludzkie mi\u0119so, kolejne badania antropologiczne z 2017 podwa\u017ca\u0142y jednak t\u0119 mo\u017cliwo\u015b\u0107.\n\n\u015alady kanibali w Jaskini Maszyckiej\n\nAntropolodzy z hiszpa\u0144skiego Catalan Institute of Human Paleoecology and Social Evolution (IPHES) oraz archeolodzy Uniwersytetu Rzeszowskiego, Fundacji Rzeszowskiego O\u015brodka Archeologicznego i Uniwersytetu w Getyndze na \u0142amach \"Scientific Reports\" przedstawili najnowsze analizy, kt\u00f3re potwierdzaj\u0105 pierwotne przypuszczenia. Z ich bada\u0144 wynika, \u017ce ludno\u015b\u0107 zamieszkuj\u0105ca Jaskini\u0119 praktykowa\u0142a kanibalizm.\n\n- Wskazuj\u0105 na to przede wszystkim mikro\u015blady na niemal wszystkich zachowanych ko\u015bciach. Zidentyfikowali\u015bmy mikronaci\u0119cia w miejscach, kt\u00f3re pokazuj\u0105, \u017ce od ko\u015bci pr\u00f3bowano odseparowa\u0107 mi\u0119\u015bnie. S\u0105 to te\u017c \u015blady zmia\u017cd\u017cenia, rozbicia ko\u015bci d\u0142ugich w celu uzyskania szpiku kostnego, kt\u00f3ry jest bardzo kalorycznym po\u017cywieniem. \u015alady na fragmentach czaszek wskazuj\u0105, \u017ce pr\u00f3bowano uzyska\u0107 te\u017c dost\u0119p do m\u00f3zgu, kt\u00f3ry r\u00f3wnie\u017c jest bardzo kaloryczny - powiedzia\u0142 PAP wsp\u00f3\u0142autor badania Dariusz Bobak z Fundacji Rzeszowskiego O\u015brodka Archeologicznego.\n\nKo\u015bci do bada\u0144 udost\u0119pni\u0142o Muzeum Archeologiczne w Krakowie\n\nNa miejscu nie znaleziono \u017cadnych \u015blad\u00f3w \u015bwiadcz\u0105cych o tym, \u017ce ko\u015bci ludzkie by\u0142y obrabiane, aby przekszta\u0142ci\u0107 je w narz\u0119dzia i inne przedmioty u\u017cytkowe. Naukowcy przebadali 63 fragmenty ko\u015bci ludzkich. - Na podstawie materia\u0142u kostnego mo\u017cemy stwierdzi\u0107, \u017ce s\u0105 to szcz\u0105tki co najmniej 10 os\u00f3b - powiedzia\u0142 PAP Dariusz Bobak.\n\nJak podkre\u015blaj\u0105 autorzy publikacji, takie praktyki obserwowano te\u017c w innych grupach ludzkich zbli\u017conych chronologicznie i kulturowo w ca\u0142ej kontynentalnej Europie. To sugeruje, \u017ce kanibalizm by\u0142 integraln\u0105 praktyk\u0105 w grupach magdale\u0144skich. Badane ko\u015bci to zar\u00f3wno szcz\u0105tki, kt\u00f3re analizowano ju\u017c w poprzednich latach, jak i wcze\u015bniej niebadane, albo takie, kt\u00f3re identyfikowano dot\u0105d jako ko\u015bci zwierz\u0119ce. Wszystkie udost\u0119pni\u0142o do bada\u0144 Muzeum Archeologiczne w Krakowie. To w jego zbiorach znajduje si\u0119 kolekcja zabytk\u00f3w z Jaskini Maszyckiej.\n\nPrzeprowadzenie szczeg\u00f3\u0142owych analiz by\u0142o mo\u017cliwe dzi\u0119ki zastosowaniu najnowocze\u015bniejszych technik, np. skanowania tr\u00f3jwymiarowego. Pozwoli\u0142o ono dostrzec \u015blady, kt\u00f3rych jeszcze kilka lat temu nie mo\u017cna by\u0142o zidentyfikowa\u0107. Na razie nie wiadomo, w jakim dok\u0142adnie celu mieszka\u0144cy Jaskini Maszyckiej pozyskiwali mi\u0119so ludzkie. Archeolodzy s\u0105dz\u0105, \u017ce raczej nie chodzi\u0142o tylko o zapewnienie sobie \u017cywno\u015bci. - Opr\u00f3cz ko\u015bci ludzkich na stanowisku znaleziono te\u017c liczne ko\u015bci zwierz\u0119ce, ko\u015bci zwierzyny \u0142ownej, g\u0142\u00f3wnie renifer\u00f3w. Oni mieli co je\u015b\u0107, wydaje si\u0119, \u017ce kanibalizm nie wynika\u0142 z g\u0142odu - przypuszcza dr hab. Marta Po\u0142towicz-Bobak.\n\nKanibalizm mia\u0142 charakter rytualny?\n\nPrzedstawiciele pradziejowych kultur praktykowali te\u017c kanibalizm rytualny. Spo\u017cywali szcz\u0105tki bliskich \u017ceby odda\u0107 im cze\u015b\u0107, pozyska\u0107 ich zalety. Kanibalizmem rytualnym by\u0142o te\u017c spo\u017cywanie mi\u0119sa wroga po to, \u017ceby go zniewa\u017cy\u0107 nawet po \u015bmierci. O rytualnym charakterze mo\u017ce \u015bwiadczy\u0107 m.in. odkryta pod koniec XIX wieku przy wej\u015bciu do Jaskini Maszyckiej czaszka antylopy saigi - suhaka, kt\u00f3ra zosta\u0142a pokryta ochr\u0105. - Ten czerwony barwnik mia\u0142 we wszystkich pierwotnych ludach, praktycznie do czas\u00f3w wsp\u00f3\u0142czesnych, znaczenie rytualne. To sugeruje jaki\u015b rodzaj rytua\u0142u zwi\u0105zanego z tym miejscem - powiedzia\u0142 Dariusz Bobak.\n\nJak opisa\u0142a dr hab. Po\u0142towicz-Bobak, bytno\u015b\u0107 grupy w Jaskini Maszyckiej zako\u0144czy\u0142a si\u0119 do\u015b\u0107 nagle, ale nie wiadomo dlaczego. O tym, \u017ce sta\u0142o si\u0119 to raptownie \u015bwiadczy np. fakt, \u017ce akt kanibalizmu by\u0142 tu raczej wydarzeniem jednorazowym. - To musia\u0142o si\u0119 sta\u0107 albo w jednym momencie, albo by\u0142o to kilka akt\u00f3w, kt\u00f3re nast\u0119powa\u0142y bardzo kr\u00f3tko po sobie, w ci\u0105gu by\u0107 mo\u017ce kilku dni - opisa\u0142 Dariusz Bobak.\n\nW dodatku w Jaskini opr\u00f3cz ko\u015bci ludzkich znaleziono tak\u017ce bogat\u0105 kolekcj\u0119 narz\u0119dzi ko\u015bcianych, kt\u00f3re zwykle w takich ilo\u015bciach na stanowiskach si\u0119 nie zachowuj\u0105. - Narz\u0119dzia z ko\u015bci by\u0142y cenne, wykonywa\u0142o si\u0119 je znacznie d\u0142u\u017cej ni\u017c narz\u0119dzia z krzemienia, wi\u0119c nikt ot tak ich nie porzuca\u0142, je\u015bli nie by\u0142y zniszczone. Tutaj mamy ca\u0142\u0105 kolekcj\u0119. Musia\u0142a nast\u0105pi\u0107 wi\u0119c albo nag\u0142a \u015bmier\u0107 tych ludzi, ewentualnie ucieczka, w ka\u017cdym razie pozostawienie zabytk\u00f3w wskazuje, \u017ce wydarzy\u0142o si\u0119 tutaj co\u015b gwa\u0142townego - doda\u0142 Bobak.\n\n\u0179r\u00f3d\u0142o: Radio ZET / PAP"
         }
     },
     {
@@ -474,7 +490,7 @@
             "description": "Czy posiadasz w portfelu monet\u0119 o nominalne 5 z\u0142? Mo\u017ce pojawi\u0142a si\u0119 szansa, aby\u015b sta\u0142 si\u0119 bogat\u0105 osob\u0105! S\u0105 takie monety, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.rXY4IFBt9hVZAYwsRbQrPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "gk24.pl2 godz.",
+            "date": "gk24.pl7 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -490,7 +506,7 @@
             "description": "W 2025 roku kolekcjonerzy nadal intensywnie interesuj\u0105 si\u0119 starymi pieni\u0119dzmi z okresu Polskiej Rzeczpospolitej Ludowej. Ceny ...",
             "image_url": "https://www.bing.pl/th?id=OVF.2Gpbcrv9zp53QhFbgILQYw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Pomorska on MSN10 godz.",
+            "date": "Gazeta Pomorska on MSN14 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
