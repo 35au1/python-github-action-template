@@ -10,7 +10,7 @@
             "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 10.02.",
             "image_url": "https://www.bing.pl/th?id=OVFT.tJgtF7Tbvz5ZI2zhH9x7Ci&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Poranny4 godz.",
+            "date": "Poranny8 godz.",
             "source": "Poranny",
             "article_content": "Content not available"
         }
@@ -26,8 +26,24 @@
             "description": "22 lutego o godz. 14.30 na Stadionie \u015al\u0105skim Ruch Chorz\u00f3w podejmie Wis\u0142\u0119 Krak\u00f3w. Ju\u017c teraz wiadomo, \u017ce mecz ten zobaczy rekordowa liczba publiczno\u015bci. A w promocj\u0119 tego wydarzenia w\u0142\u0105czy\u0142 si\u0119 jeden z ...",
             "image_url": "https://www.bing.pl/th?id=ODF.XL5bGs_n6w06Ok0ARb1y3Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "Gazeta Krakowska4 godz.",
+            "date": "Gazeta Krakowska8 godz.",
             "source": "Gazeta Krakowska",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Caritas w\u0142oc\u0142awek",
+            "link": "https://wloclawek.naszemiasto.pl/tag/caritas-wloclawek",
+            "description": "17 listopada 2024 roku przypad\u0142 \u00f3smy \u015awiatowy Dzie\u0144 Ubogich. Z tej okazji Caritas Diecezji W\u0142oc\u0142awskiej podczas spotkania ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "W\u0142oc\u0142awek Nasze Miasto3 godz.",
+            "source": "W\u0142oc\u0142awek Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -42,7 +58,7 @@
             "description": "W 2025 roku kolekcjonerzy nadal intensywnie interesuj\u0105 si\u0119 starymi pieni\u0119dzmi z okresu Polskiej Rzeczpospolitej Ludowej. Ceny ...",
             "image_url": "https://www.bing.pl/th?id=OVF.%2fQMsvCHOlYstFG14SrrN6Q&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Pomorska on MSN1 godz.",
+            "date": "Pomorska on MSN5 godz.",
             "source": "Pomorska on MSN",
             "article_content": ""
         }
@@ -58,8 +74,8 @@
             "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.gkW5XjXtwWU4CF-0d6oAgi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "gk24.pl3 godz.",
-            "source": "gk24.pl",
+            "date": "G\u0142os Koszali\u0144ski7 godz.",
+            "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
         }
     },
@@ -74,7 +90,7 @@
             "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ich pojawienia si\u0119 na rynku. Najcz\u0119\u015bciej poszukiwane monety przez kolekcjone ...",
             "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "gp24.pl on MSN1 godz.",
+            "date": "gp24.pl on MSN5 godz.",
             "source": "gp24.pl on MSN",
             "article_content": ""
         }
@@ -90,8 +106,8 @@
             "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.o4EwlAsIz5rMM3h8kMS_wi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "gs24.pl3 godz.",
-            "source": "gs24.pl",
+            "date": "G\u0142os Szczeci\u0144ski7 godz.",
+            "source": "G\u0142os Szczeci\u0144ski",
             "article_content": "Content not available"
         }
     },
@@ -106,7 +122,7 @@
             "description": "Czy wiesz, \u017ce stare telefony kom\u00f3rkowe mog\u0105 by\u0107 prawdziw\u0105 kopalni\u0105 z\u0142ota? Niekt\u00f3re z tych telefon\u00f3w s\u0105 poszukiwane przez ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.S5laCn-VniBR9SS1Lq7hcC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Pomorska on MSN1 godz.",
+            "date": "Pomorska on MSN5 godz.",
             "source": "Pomorska on MSN",
             "article_content": ""
         }
@@ -122,7 +138,7 @@
             "description": "22 lutego o godz. 14.30 na Stadionie \u015al\u0105skim Ruch Chorz\u00f3w podejmie Wis\u0142\u0119 Krak\u00f3w. Ju\u017c teraz wiadomo, \u017ce mecz ten zobaczy rekordowa liczba publiczno\u015bci. A w promocj\u0119 tego wydarzenia w\u0142\u0105czy\u0142 si\u0119 jeden z ...",
             "image_url": "https://www.bing.pl/th?id=ODF.XL5bGs_n6w06Ok0ARb1y3Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "Gazeta Krakowska4 godz.",
+            "date": "Gazeta Krakowska8 godz.",
             "source": "Gazeta Krakowska",
             "article_content": "Content not available"
         }
@@ -138,7 +154,7 @@
             "description": "Obecnie pragniemy, by nasze domowe wn\u0119trza mia\u0142y sw\u00f3j unikatowy charakter, by\u0142y przytulne i kolorowe. Jednym z pomys\u0142\u00f3w na wzbogacenie naszego domowego wn\u0119trza z pewno\u015bci\u0105 s\u0105 kwiaty. Nie tylko dodaj\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "gk24.pl3 godz.",
+            "date": "gk24.pl7 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -154,7 +170,7 @@
             "description": "Czy monety z PRL mog\u0105 by\u0107 warte ogromne pieni\u0105dze? Oczywi\u015bcie! Przedmioty z okresu PRL ciesz\u0105 si\u0119 w naszym kraju rosn\u0105c\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.mmrf7V4zqE4FRhJP4k7GUy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Hostowane na MSN11 godz.",
+            "date": "Hostowane na MSN15 godz.",
             "source": "MSN",
             "article_content": ""
         }
@@ -170,7 +186,7 @@
             "description": "Czy komiksy z PRL mog\u0105 by\u0107 warte fortun\u0119? Oczywi\u015bcie! W naszym kraju wraca moda na przedmioty i pami\u0105tki z czas\u00f3w PRL.",
             "image_url": "https://www.bing.pl/th?id=OVFT.0LgvSeJLEJXRDHkSAsnFiy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "G\u0142os Koszali\u0144ski on MSN11 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN15 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
@@ -186,7 +202,7 @@
             "description": "Pchli targ przy Avenidzie w Poznaniu odbywa si\u0119 w ka\u017cd\u0105 niedziel\u0119 od godziny 7 do 14. Na niedzielnym targu ka\u017cdy znajdzie co\u015b ...",
             "image_url": "https://www.bing.pl/th?id=OVF.4Olbs9ciwWO5C0zHRnvfXA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Nasze Miasto on MSN40 min",
+            "date": "Nasze Miasto on MSN4 godz.",
             "source": "Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -197,29 +213,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "pszczy\u0144ski targ staroci",
-            "link": "https://www.eska.pl/tag/pszczynski-targ-staroci,tg-vLnG-1Bjn-yLVE/",
-            "description": "Pszczy\u0144ski Jarmark Staroci zyska\u0142 ju\u017c ogromn\u0105 renom\u0119. Organizowany cyklicznie w ka\u017cd\u0105 drug\u0105 niedziel\u0119 miesi\u0105ca przyci\u0105ga ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.XG3LV8TZovTPhDxrU-xI-y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "targ+staroci",
-            "date": "Radio ESKA20 godz.",
-            "source": "Radio ESKA",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
             "title": "Skarby spod Hali Targowej w Krakowie. Potrzebujesz stary austro-w\u0119gierski he\u0142m? Prosz\u0119 bardzo! Pasjonaci staroci uwielbiaj\u0105 to miejsce",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/pchli-targ-przy-hali-targowej-w-krakowie-zn%C3%B3w-wype%C5%82niony-po-brzegi-skarbami-pasjonaci-staroci-uwielbiaj%C4%85-to-miejsce/ar-AA1yGYx4?ocid=BingNewsVerp",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/skarby-spod-hali-targowej-w-krakowie-potrzebujesz-stary-austro-w%C4%99gierski-he%C5%82m-prosz%C4%99-bardzo-pasjonaci-staroci-uwielbiaj%C4%85-to-miejsce/ar-AA1yGWzu?ocid=BingNewsVerp",
             "description": "Mieszka\u0144cy Krakowa zn\u00f3w wyruszyli na poszukiwanie skarb\u00f3w. Oczywi\u015bcie doskonale wiadomo, \u017ce najwi\u0119cej staroci mo\u017cna znale\u017a\u0107 w ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.xPNC0ffoiAdrN75KZkDHpA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "image_url": "https://www.bing.pl/th?id=OVFT.nKNSkOOq-8dbyXZH2Y7wqC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Gazeta Krakowska on MSN19 godz.",
-            "source": "Gazeta Krakowska on MSN",
+            "date": "Krak\u00f3w Naszemiasto on MSN23 godz.",
+            "source": "Krak\u00f3w Naszemiasto on MSN",
             "article_content": ""
         }
     },
@@ -234,8 +234,8 @@
             "description": "Unikalne antyki poszukiwane przez kolekcjoner\u00f3w mog\u0105 zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na nich zarobi\u0107 fortun\u0119. Cz\u0119sto nie ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.M2fw_kVEbAkv5zg2kvCAfS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "G\u0142os Pomorza2 godz.",
-            "source": "G\u0142os Pomorza",
+            "date": "gp24.pl6 godz.",
+            "source": "gp24.pl",
             "article_content": "Content not available"
         }
     },
@@ -250,8 +250,24 @@
             "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 10.02.",
             "image_url": "https://www.bing.pl/th?id=OVFT.8nZtkGx03MWigDASNoSGTC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Dziennik Zachodni4 godz.",
-            "source": "Dziennik Zachodni",
+            "date": "dziennikzachodni.pl8 godz.",
+            "source": "dziennikzachodni.pl",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Caritas w\u0142oc\u0142awek",
+            "link": "https://wloclawek.naszemiasto.pl/tag/caritas-wloclawek",
+            "description": "17 listopada 2024 roku przypad\u0142 \u00f3smy \u015awiatowy Dzie\u0144 Ubogich. Z tej okazji Caritas Diecezji W\u0142oc\u0142awskiej podczas spotkania ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "W\u0142oc\u0142awek Nasze Miasto3 godz.",
+            "source": "W\u0142oc\u0142awek Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -266,9 +282,25 @@
             "description": "- Podczas przebudowy ulicy, do ko\u0144ca stycznia zarejestrowano relikty oko\u0142o 180 obiekt\u00f3w archeologicznych. W\u015br\u00f3d nich ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.oa7-NpDVbe-yUUQ3Z1iiei&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "epoznan1 godz.",
+            "date": "epoznan6 godz.",
             "source": "epoznan",
             "article_content": "W trakcie przebudowy ulicy Wojska Polskiego w Pile natkni\u0119to si\u0119 na wiele niezwyk\u0142ych przedmiot\u00f3w.\n\n- Podczas przebudowy ulicy, do ko\u0144ca stycznia zarejestrowano relikty oko\u0142o 180 obiekt\u00f3w archeologicznych. W\u015br\u00f3d nich najistotniejsze to pozosta\u0142o\u015bci piwniczek budynk\u00f3w mieszkalnych, r\u00f3\u017cnorodnych jam gospodarczych oraz studnie z drewnianymi konstrukcjami odbudowy - informuje Jacek Bogus\u0142awski z Zarz\u0105du Wojew\u00f3dztwa Wielkopolskiego. - Uzyskano seri\u0119 datowa\u0144 dendrochronologicznych dla studni badanej w sierpniu 2024 roku. Jak si\u0119 okaza\u0142o zosta\u0142a zbudowana po 1732 r. z drewna pochodz\u0105cego z rozebranych starszych konstrukcji (najstarsze belki zosta\u0142y \u015bci\u0119te w 1688 r.) - dodaje.\n\nAle to nie koniec! - Otrzymano r\u00f3wnie\u017c wynik datowania k\u0142ody sosnowej zarejestrowanej w jednej z badanych piwniczek. Drzewo \u015bci\u0119to w 1618 roku.\n\nW trakcie prac archeolog\u00f3w do ko\u0144ca stycznia odkryto 131865 fragment\u00f3w ceramiki p\u00f3\u017anego \u015bredniowiecza i okresu nowo\u017cytnego, 15 fragment\u00f3w ceramiki z okresu wp\u0142yw\u00f3w rzymskich, 7 fragment\u00f3w ceramiki datowanej og\u00f3lnie na prahistori\u0119, 2 fragmenty ceramiki datowanej na prze\u0142om okresu neolitu i epoki br\u0105zu, po jednym fragmencie ceramiki kultury puchar\u00f3w lejkowatych i kultury \u0142u\u017cyckiej, 5228 ko\u015bci zwierz\u0119cych, 597 bry\u0142ek polepy, 1270 fragment\u00f3w szk\u0142a, gliniany ci\u0119\u017carek (tkacki), fragment toporka kamiennego, oprawka no\u017ca, 3 fragmenty ose\u0142ek kamiennych, 301 fragment\u00f3w \u017celaza/metalu, 6 krzemieni, 212 fragment\u00f3w cegie\u0142 oraz liczne monety, od srebrnego szel\u0105ga Zygmunta III Wazy z 1622 roku do szel\u0105g\u00f3w Augusta III Sasa.\n\n- Oceniaj\u0105c og\u00f3lnie mo\u017cna stwierdzi\u0107, \u017ce wi\u0119kszo\u015b\u0107 odkrytych \u017ar\u00f3de\u0142 archeologicznych dokumentuje dzieje Pi\u0142y od XV do XVIII wieku. Bardzo powa\u017cna ich cz\u0119\u015b\u0107 pochodzi z praktycznie nieznanego okresu dziej\u00f3w miasta czyli sprzed 1626 roku. Obecnie trwa wykonanie analiz archeozoologicznych, makroskopowych szcz\u0105tk\u00f3w organicznych oraz konserwacja zabytk\u00f3w, z drewna, metalu i sk\u00f3r. Przewidywany czas realizacji bada\u0144 archeologicznych na stanowiskach szacuje si\u0119 na 2-3 miesi\u0105ce."
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Niepowtarzalny domek Mumink\u00f3w na Dolnym \u015al\u0105sku? Niedaleko jest drugi bardzo podobny obiekt - zdj\u0119cia",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/podroze/niepowtarzalny-domek-mumink%C3%B3w-na-dolnym-%C5%9Bl%C4%85sku-niedaleko-jest-drugi-bardzo-podobny-obiekt-zdj%C4%99cia/ar-AA1yDYEt?ocid=BingNewsVerp",
+            "description": "Domek Mumink\u00f3w w terenie le\u015bnym na wzg\u00f3rzu w Wa\u0142brzychu Podczas w\u0119dr\u00f3wek po dolno\u015bl\u0105skich szlakach mo\u017cna si\u0119 natkn\u0105\u0107 na ciekawe ruiny i relikty, ale te\u017c obiekty infrastruktury po\u0142o\u017cone poza miastem.",
+            "image_url": "https://www.bing.pl/th?id=ODF.b7cDqWcxCJUoLca1qpYJLg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "relikty",
+            "date": "Wa\u0142brzych Naszemiasto on MSN5 godz.",
+            "source": "Wa\u0142brzych Naszemiasto on MSN",
+            "article_content": ""
         }
     },
     {
@@ -282,7 +314,7 @@
             "description": "Do kogo nale\u017cy wart miliony Skarb Welf\u00f3w? Pytanie wydaje si\u0119 ponownie otwarte, poniewa\u017c nowe dokumenty wzmog\u0142y podejrzenia o ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.Qn3_BdlTB0Zzmj-DmD--Dy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "14 godz.on MSN",
+            "date": "19 godz.on MSN",
             "source": "DW Polski on MSN",
             "article_content": ""
         }
@@ -298,7 +330,7 @@
             "description": "Baszta Lontowa - przekornie nazywana Baszt\u0105 Prochow\u0105. Jest to jedyny obiekt, kt\u00f3ry pozosta\u0142 po \u015bredniowiecznym systemie obronnym, kt\u00f3ry przetrwa\u0142 do dnia dzisiejszego w ca\u0142o\u015bci. Baszta ma cztery ...",
             "image_url": "https://www.bing.pl/th?id=ODF.xGyVXoJ9b0zlcu2rTPA_6w&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "kolobrzeg.naszemiasto18 godz.",
+            "date": "kolobrzeg.naszemiasto22 godz.",
             "source": "kolobrzeg.naszemiasto",
             "article_content": "Content not available"
         }
@@ -314,7 +346,7 @@
             "description": "Brytyjskie Imperial War Museum przygotowa\u0142o niezwyk\u0142y album. Publikowane s\u0105 w nim kolorowe zdj\u0119cia II wojny \u015bwiatowej.",
             "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "dolnoslaskie.naszemiasto19 godz.",
+            "date": "dolnoslaskie.naszemiasto23 godz.",
             "source": "dolnoslaskie.naszemiasto",
             "article_content": "Content not available"
         }
@@ -330,7 +362,7 @@
             "description": "ePiotrkow.pl - Najwi\u0119kszy portal internetowy ziemi piotrkowskiej, najciekawsze informacje, dyskusje i fotoreporta\u017ce, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.nGZH-nTNiWLJV3WQozUZUy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "epiotrkow.pl2 godz.",
+            "date": "epiotrkow.pl6 godz.",
             "source": "epiotrkow.pl",
             "article_content": "~mamy do\u015b\u0107 (Go\u015b\u0107)\n\n\n\nZabytek traci przymiot rzeczy o charakterze czysto prywatnym, a interesy w\u0142a\u015bciciela doznaj\u0105 ogranicze\u0144 z uwagi na obowi\u0105zek dbania o zabytek w spos\u00f3b i w zakresie jakby jego w\u0142asno\u015b\u0107 przynale\u017ca\u0142a do og\u00f3\u0142u. Zakres ogranicze\u0144 i obowi\u0105zk\u00f3w wynikaj\u0105cych z w\u0142asno\u015bci zabytk\u00f3w jest oczywi\u015bcie zale\u017cny od aktualnie obowi\u0105zuj\u0105cych przepis\u00f3w prawa. W\u0142asno\u015b\u0107 zabytk\u00f3w nie wpisuje si\u0119 zatem w ramy typowego prawa w\u0142asno\u015bci. W\u0142a\u015bciciel zabytku powinien podejmowa\u0107 wszelkie niezb\u0119dne starania maj\u0105ce na celu ochron\u0119 warto\u015bci jak\u0105 prezentuje zabytek. Jego rola sprowadza si\u0119 zatem do bycia dysponentem zabytku, kt\u00f3ry swoimi dzia\u0142aniami powinien doprowadzi\u0107 do jak najd\u0142u\u017cszego utrzymania zabytku w jak najlepszym stanie oraz jak najlepsze jego wykorzystanie dla dobra og\u00f3\u0142u, ze wzgl\u0119du na jego walory historyczne, czy naukowe (patrz wyrok Wojew\u00f3dzkiego S\u0105du Administracyjnego w Olsztynie z dnia 2 lipca 2020 r., sygn. akt II SA/OI 859/19).\n\nPodstawowy zestaw tych obowi\u0105zk\u00f3w okre\u015blony jest ju\u017c na samym pocz\u0105tku ustawy z dnia 23 lipca 2003 r. o ochronie i opiece nad zabytkami. W tre\u015bci art. 5 ustawy wskazano, i\u017c w\u0142a\u015bciciel powinien zapewni\u0107 warunki do:\n\nnaukowego badania i dokumentowania zabytku;\n\nprowadzenia prac konserwatorskich, restauratorskich i rob\u00f3t budowlanych przy zabytku;\n\nzabezpieczenia i utrzymania zabytku oraz jego otoczenia w jak najlepszym stanie;\n\nkorzystania z zabytku w spos\u00f3b zapewniaj\u0105cy trwa\u0142e zachowanie jego warto\u015bci;\n\npopularyzowania i upowszechniania wiedzy o zabytku oraz jego znaczeniu dla historii i kultury.\n\n\n\nObowi\u0105zki w\u0142a\u015bciciela (a nawet posiadacza) zabytku polegaj\u0105 zatem na prowadzeniu prac konserwatorskich, restauratorskich i rob\u00f3t budowlanych przy zabytku, zabezpieczeniu i utrzymaniu zabytku oraz jego otoczenia w jak najlepszym stanie oraz korzystaniu z zabytku w spos\u00f3b zapewniaj\u0105cy trwa\u0142e zachowanie jego warto\u015bci dotycz\u0105 w\u0142a\u015bciciela zabytku zar\u00f3wno b\u0119d\u0105cego osob\u0105 fizyczn\u0105, jak i Skarbu Pa\u0144stwa czy jednostki samorz\u0105du terytorialnego (wyrok Wojew\u00f3dzkiego S\u0105du Administracyjnego w Warszawie z dnia 11 marca 2014 r., sygn. akt VII SA/Wa 2443/13)\n\nWi\u0119cej na https://lukomski-niklewicz.pl/prawo-wlasnosci-a-uprawnienia-konserwatora/\n\n"
         }
@@ -346,8 +378,24 @@
             "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.o4EwlAsIz5rMM3h8kMS_wi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "gs24.pl3 godz.",
+            "date": "gs24.pl7 godz.",
             "source": "gs24.pl",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "AC SA",
+            "link": "https://zbaszyn.naszemiasto.pl/tag/ac-sa",
+            "description": "Dzi\u015b te samochody mo\u017cna ogl\u0105da\u0107 jedynie na zlotach old timer\u00f3w. Zobaczcie czym je\u017adzi\u0142o si\u0119 po ulicach polskich miast na ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "zbaszyn.naszemiasto3 godz.",
+            "source": "zbaszyn.naszemiasto",
             "article_content": "Content not available"
         }
     },
@@ -362,7 +410,7 @@
             "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 10.02.",
             "image_url": "https://www.bing.pl/th?id=OVFT.YE60NAQrdT9i1gWowhjCrS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "gazetawroclawska.pl4 godz.",
+            "date": "gazetawroclawska.pl8 godz.",
             "source": "gazetawroclawska.pl",
             "article_content": "Content not available"
         }
@@ -378,25 +426,9 @@
             "description": "Wczoraj p\u00f3\u017anym popo\u0142udniem na drodze ekspresowej S8 dosz\u0142o do niebezpiecznego zdarzenia drogowego, w kt\u00f3rym uczestniczy\u0142a ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.HM9AhXZrWMWACfkJe3_drS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "wspolczesna.pl4 godz.",
+            "date": "wspolczesna.pl8 godz.",
             "source": "wspolczesna.pl",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Lawendowa na celowniku radnej i w\u0142adz miasta. Co si\u0119 zmieni?",
-            "link": "https://www.ostrowmaz.com/aktualnosci/42567",
-            "description": "Brak utwardzonej nawierzchni, b\u0142oto i ka\u0142u\u017ce - z tym na co dzie\u0144 musz\u0105 zmaga\u0107 si\u0119 mieszka\u0144cy ul. Lawendowej w Ostrowi ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.dL5a4OCOxPnsdc1fbe8-8i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "ostrowmaz.com2 godz.",
-            "source": "ostrowmaz.com",
-            "article_content": "Dodano: 11 lutego 2025 06:41, Autor: Kacper Jaworowski\n\nBrak utwardzonej nawierzchni, b\u0142oto i ka\u0142u\u017ce - z tym na co dzie\u0144 musz\u0105 zmaga\u0107 si\u0119 mieszka\u0144cy ul. Lawendowej w Ostrowi Mazowieckiej. W\u0142adze miasta zapowiadaj\u0105 dora\u017ane dzia\u0142ania, ale na trwa\u0142e rozwi\u0105zania mieszka\u0144cy b\u0119d\u0105 musieli poczeka\u0107.\n\n\n\nREKLAMA\n\nW ostatnich dniach uwag\u0119 mieszka\u0144c\u00f3w Ostrowi Mazowieckiej przyci\u0105gn\u0119\u0142a interpelacja z\u0142o\u017cona przez radn\u0105 Ew\u0119 Orzechowsk\u0105, dotycz\u0105ca z\u0142ego stanu nawierzchni ul. Lawendowej. W pi\u015bmie skierowanym do burmistrza miasta radna zwr\u00f3ci\u0142a uwag\u0119 na problemy wynikaj\u0105ce z niewystarczaj\u0105cej jako\u015bci drogi, kt\u00f3re utrudniaj\u0105 \u017cycie zar\u00f3wno pieszym, jak i kierowcom.W interpelacji z dnia 21 stycznia 2025 radna Ewa Orzechowska podkre\u015bli\u0142a, \u017ce stan techniczny ul. Lawendowej pozostawia wiele do \u017cyczenia, co negatywnie wp\u0142ywa na codzienne \u017cycie mieszka\u0144c\u00f3w.- napisa\u0142a radna.Orzechowska zwr\u00f3ci\u0142a uwag\u0119, \u017ce taki stan drogi mo\u017ce prowadzi\u0107 nie tylko do uszkodze\u0144 pojazd\u00f3w, ale tak\u017ce do trudno\u015bci w doje\u017adzie s\u0142u\u017cb ratunkowych czy komunalnych. W zwi\u0105zku z tym radna zada\u0142a dwa pytania:1. Czy istnieje mo\u017cliwo\u015b\u0107 zastosowania tymczasowych rozwi\u0105za\u0144 (np. \u017cwiru lub kruszywa) w celu poprawy przejezdno\u015bci ulicy?2. W jakim terminie mo\u017cliwe jest wyr\u00f3wnanie nawierzchni ul. Lawendowej?Na interpelacj\u0119 radnej odpowiedzia\u0142a zast\u0119pczyni burmistrza Jolanta Zadroga, kt\u00f3ra poinformowa\u0142a, \u017ce podj\u0119to ju\u017c kroki w tej sprawie. W pi\u015bmie z dnia 3 lutego 2025 wiceburmistrz zaznaczy\u0142a, \u017ce zlecenie wyr\u00f3wnania wymienionej ulicy, zosta\u0142o zlecone Zak\u0142adowi Gospodarki Komunalnej w Ostrowi Mazowieckiej 21 stycznia br.Zadroga wskaza\u0142a jednak, \u017ce bardziej kompleksowe dzia\u0142ania, takie jak nawiezienie kruszywa i profilowanie drogi, b\u0119d\u0105 mo\u017cliwe dopiero po zako\u0144czeniu budowy sieci kanalizacyjnej w tym rejonie.- odpowiedzia\u0142a.Ponadto zapewni\u0142a, \u017ce do czasu zako\u0144czenia prac zwi\u0105zanych z budow\u0105 kanalizacji b\u0119d\u0105 prowadzone sukcesywne dzia\u0142ania maj\u0105ce na celu r\u00f3wnanie nawierzchni drogi.Interpelacja radnej Ewy Orzechowskiej, z\u0142o\u017cona w imieniu mieszka\u0144c\u00f3w, oraz odpowied\u017a w\u0142adz miasta wskazuj\u0105 na potrzeb\u0119 poprawy infrastruktury drogowej na ul. Lawendowej. Mieszka\u0144cy mog\u0105 liczy\u0107 na kr\u00f3tkoterminowe dzia\u0142ania, takie jak wyr\u00f3wnanie nawierzchni, ale na bardziej trwa\u0142e rozwi\u0105zania b\u0119d\u0105 musieli poczeka\u0107 do zako\u0144czenia prac zwi\u0105zanych z budow\u0105 kanalizacji.\n\n\u0179r\u00f3d\u0142o zdj\u0119cia: Kacper Jaworowski"
         }
     },
     {
@@ -410,7 +442,7 @@
             "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.gkW5XjXtwWU4CF-0d6oAgi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "gk24.pl3 godz.",
+            "date": "gk24.pl7 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -426,7 +458,7 @@
             "description": "W 2025 roku kolekcjonerzy nadal intensywnie interesuj\u0105 si\u0119 starymi pieni\u0119dzmi z okresu Polskiej Rzeczpospolitej Ludowej. Ceny ...",
             "image_url": "https://www.bing.pl/th?id=OVF.%2fQMsvCHOlYstFG14SrrN6Q&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Pomorska on MSN1 godz.",
+            "date": "Pomorska on MSN5 godz.",
             "source": "Pomorska on MSN",
             "article_content": ""
         }
@@ -442,7 +474,7 @@
             "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ich pojawienia si\u0119 na rynku. Najcz\u0119\u015bciej poszukiwane monety przez kolekcjone ...",
             "image_url": "https://www.bing.pl/th?id=ODF.A9xqYWX22R6wJlvUbZ9SPQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "Express Ilustrowany on MSN1 godz.",
+            "date": "Express Ilustrowany on MSN5 godz.",
             "source": "Express Ilustrowany on MSN",
             "article_content": ""
         }
@@ -458,7 +490,7 @@
             "description": "Okre\u015bla si\u0119 je mianem skarbu Galloway, kt\u00f3ry trafi\u0142 na wystaw\u0119 Narodowego Muzeum Szkocji w Edynburgu. Mowa o oko\u0142o 100 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.nRqErWcP64mjq01aen3CkC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Focus13 godz.",
+            "date": "Focus17 godz.",
             "source": "Focus",
             "article_content": "Okre\u015bla si\u0119 je mianem skarbu Galloway, kt\u00f3ry trafi\u0142 na wystaw\u0119 Narodowego Muzeum Szkocji w Edynburgu. Mowa o oko\u0142o 100 przedmiotach wywodz\u0105cych si\u0119 z epoki wiking\u00f3w. Zosta\u0142y one wykonane mi\u0119dzy innymi ze srebra, z\u0142ota, szk\u0142a, kamienia czy gliny. Eksperci byli w tym przypadku zgodni, wsp\u00f3lnie twierdz\u0105c, i\u017c chodzi o jeden z najwa\u017cniejszych skarb\u00f3w \u0142\u0105czonych z wikingami, jakie kiedykolwiek odnaleziono na terenie Szkocji.\n\nCzytaj te\u017c: Zaginione miasto Kr\u00f3lestwa Urartu. Polska ekspedycja odkry\u0142a jego mroczne sekrety\n\nOdkrycie to mia\u0142o miejsce w Balmaghie i nast\u0105pi\u0142o dzi\u0119ki hobbystycznemu poszukiwaczowi skarb\u00f3w. Ten poinformowa\u0142 o ca\u0142ej sprawie archeolog\u00f3w, kt\u00f3rzy zorganizowali na miejscu zakrojone na szerok\u0105 skal\u0119 wykopaliska. Tym sposobem uda\u0142o si\u0119 dotrze\u0107 do r\u00f3\u017cnego rodzaju dowod\u00f3w na bogat\u0105 przesz\u0142o\u015b\u0107 ca\u0142ego stanowiska. Autorzy bada\u0144 na ten temat uznali, i\u017c tytu\u0142owy skarb zosta\u0142 zakopany w po\u0142owie IX lub X wieku. Nie by\u0142o natomiast jasne, kto i dlaczego to zrobi\u0142.\n\nW ostatnim czasie dosz\u0142o do istnego prze\u0142omu, poniewa\u017c naukowcom uda\u0142o si\u0119 zidentyfikowa\u0107 imiona w\u0142a\u015bcicieli kosztowno\u015bci, a tak\u017ce napisane przez nich wiadomo\u015bci. Kluczow\u0105 rol\u0119 w zorganizowanych analizach odegra\u0142y ekspertyzy po\u015bwi\u0119cone czterem pier\u015bcieniom naramiennym pokrytym pismem runicznym w formie inskrypcji. Poza tym podobne zapisy znajdowa\u0142y si\u0119 na pi\u0105tym, odr\u0119bnym przedmiocie.\n\nNaukowcy przeanalizowali pismo runiczne znajduj\u0105ce si\u0119 na przedmiotach znalezionych w Szkocji. Tym sposobem pr\u00f3bowali wyja\u015bni\u0107, kto zostawi\u0142 tam skarb wiking\u00f3w pochodz\u0105cy sprzed ponad tysi\u0105ca lat\n\nW toku prowadzonych bada\u0144 ich autorzy zdali sobie spraw\u0119, i\u017c srebrne kosztowno\u015bci zawieraj\u0105 inskrypcje oznaczaj\u0105ce staroangielskie s\u0142owa i imiona. Na przyk\u0142ad na jednym z pier\u015bcieni umieszczono s\u0142owo, kt\u00f3re mo\u017cna przet\u0142umaczy\u0107 jako bogactwo. Poza tym kto\u015b umie\u015bci\u0142 na nim imi\u0119 Edgar, na kolejnym Tila, a na jeszcze innym: Bercol, Berwulf lub Berric. Ostatni z artefakt\u00f3w zosta\u0142 natomiast podpisany imieniem znanym jako Egbert.Na najwi\u0119kszym z pier\u015bcieni znalaz\u0142o si\u0119 miejsce dla najd\u0142u\u017cszego, a zarazem najtrudniejszego do rozszyfrowania napisu.\n\nCzytaj te\u017c: Szokuj\u0105ce znalezisko w polskiej jaskini. Kanibalizm pradawnych Europejczyk\u00f3w w Polsce\n\nAnalizy tego przedmiotu pod mikroskopem wykaza\u0142y, \u017ce prawdopodobnie autorzy inskrypcji skorzystali ze \u015bredniowiecznych skr\u00f3t\u00f3w. Maj\u0105c to na uwadze, cz\u0142onkowie zespo\u0142u badawczego og\u0142osili, i\u017c chodzi o napis: to jest w\u0142asno\u015b\u0107 spo\u0142eczno\u015bci. To do\u015b\u0107 nieoczekiwany zwrot akcji, bo wskazuj\u0105cy na zaskakuj\u0105ce poczucie wsp\u00f3lnotowo\u015bci u wiking\u00f3w \u2013 i to dotycz\u0105ce podzia\u0142u bogactwa w \u00f3wczesnych spo\u0142eczno\u015bciach. Wydaje si\u0119, i\u017c mowa o zbiorowej kryj\u00f3wce, cho\u0107 wci\u0105\u017c nie jest jasne, dlaczego j\u0105 utworzono i z jakiej przyczyny nikt nie powr\u00f3ci\u0142 po skarby."
         }
@@ -474,7 +506,7 @@
             "description": "Badania wykaza\u0142y, \u017ce o\u0142owiane ozdoby z wczesnej epoki \u017celaza z Wy\u017cyny \u015al\u0105sko-Krakowskiej pochodz\u0105 z olkuskich z\u0142\u00f3\u017c. To najstarsze dowody na wydobycie metali w Polsce.",
             "image_url": "https://www.bing.pl/th?id=ODF.GhWejP0dMFTzOkSqze5iTA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "o219 godz.",
+            "date": "o223 godz.",
             "source": "o2",
             "article_content": "Najnowsze badania przeprowadzone przez Instytut Archeologii Uniwersytetu Jagiello\u0144skiego ujawni\u0142y, \u017ce o\u0142owiane ozdoby z wczesnej epoki \u017celaza, znalezione na Wy\u017cynie \u015al\u0105sko-Krakowskiej, wykonano z rud o\u0142owiu pochodz\u0105cych z okolic Olkusza. Wyniki te, opublikowane w czasopi\u015bmie \"Archaeometry\", stanowi\u0105 najstarsze potwierdzone dowody na wydobycie i wytop metali na ziemiach polskich.\n\nOlkuskie z\u0142o\u017ca o\u0142owiu eksplorowano od I tys. p.n.e.\n\nNaukowcy zbadali 11 o\u0142owianych ozd\u00f3b z cmentarzysk p\u00f3\u017anej kultury \u0142u\u017cyckiej, w tym fragmenty diademu, naszyjnika oraz zawieszki. Analiza izotop\u00f3w o\u0142owiu wykaza\u0142a, \u017ce ozdoby te wykonano z miejscowej rudy, co sugeruje, \u017ce eksploatacja olkuskich z\u0142\u00f3\u017c o\u0142owiu rozpocz\u0119\u0142a si\u0119 ju\u017c w I tysi\u0105cleciu p.n.e. Dr Karol Dzi\u0119gielewski z Instytutu Archeologii UJ podkre\u015bli\u0142, \u017ce odkrycie to przesuwa pocz\u0105tki wydobycia metali na ziemiach polskich o tysi\u0105c lat wstecz.\n\nDalsza cz\u0119\u015b\u0107 artyku\u0142u pod materia\u0142em wideo\n\nZobacz tak\u017ce: Wielki sukces Polak\u00f3w. Wytyczyli now\u0105 tras\u0119 na \u015bcianie Kyajo Ri w Nepalu\n\nO\u0142\u00f3w przed miedzi\u0105\n\nWyniki bada\u0144 wskazuj\u0105, \u017ce wydobycie i hutnictwo metali na ziemiach polskich rozpocz\u0119\u0142o si\u0119 od o\u0142owiu, a nie od miedzi, jak wcze\u015bniej s\u0105dzono. Do tej pory najwcze\u015bniejsze potwierdzone wydobycie o\u0142owiu w Polsce datowano na okres rzymski, czyli III wiek n.e. Dzi\u0119ki nowoczesnym technikom badawczym, takim jak analiza stosunk\u00f3w izotopowych o\u0142owiu, mo\u017cliwe by\u0142o cofni\u0119cie tej daty o wiele wiek\u00f3w.\n\nBadania by\u0142y wynikiem wsp\u00f3\u0142pracy wielu instytucji, w tym Uniwersytetu Jagiello\u0144skiego, Uniwersytetu Warszawskiego oraz Akademii G\u00f3rniczo-Hutniczej w Krakowie. Projekt wspierany by\u0142 przez Narodowe Centrum Nauki oraz Mare Nostrum Lab. Dr Ewelina Mi\u015bta-Jakubowska z Instytutu Archeologii UJ, jedna z g\u0142\u00f3wnych autorek publikacji, zwr\u00f3ci\u0142a uwag\u0119 na prze\u0142omowy charakter bada\u0144, kt\u00f3re mimo trudno\u015bci zwi\u0105zanych z konserwacj\u0105 zabytk\u00f3w, przynios\u0142y istotne odkrycia.\n\nOdkrycie to rzuca nowe \u015bwiat\u0142o na pradzieje ziem polskich, pokazuj\u0105c, \u017ce ju\u017c w epoce \u017celaza istnia\u0142y zaawansowane techniki wydobycia i przetwarzania metali. Badania te s\u0105 cz\u0119\u015bci\u0105 szerszego projektu maj\u0105cego na celu zrozumienie wczesnych form gospodarki metalurgicznej w Europie \u015arodkowej. Jak podkre\u015blaj\u0105 naukowcy, dalsze analizy mog\u0105 przynie\u015b\u0107 jeszcze wi\u0119cej informacji na temat pradziejowego wydobycia metali w regionie."
         }
