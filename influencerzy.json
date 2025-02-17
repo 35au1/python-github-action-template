@@ -10,7 +10,7 @@
             "description": "W niedzielny poranek, 16 lutego 2025 roku, Pchli Targ przy alei Kazimierza Wielkiego t\u0119tni\u0142 \u017cyciem, cho\u0107 ruch by\u0142 nieco ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.FtTWjiBWIHKkNXKwWi7EbC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "W\u0142oc\u0142awek Nasze Miasto8 godz.",
+            "date": "W\u0142oc\u0142awek Nasze Miasto13 godz.",
             "source": "W\u0142oc\u0142awek Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -26,40 +26,8 @@
             "description": "Przygotowali\u015bmy dla Ciebie tygodniow\u0105 pras\u00f3wk\u0119. Je\u015bli w mijaj\u0105cym tygodniu by\u0142e\u015b zbyt zaj\u0119ty, by nad\u0105\u017cy\u0107 za informacjami z Warszawy, zobacz teraz artyku\u0142y, kt\u00f3re inni czytelnicy czytali najch\u0119tniej mi ...",
             "image_url": "https://www.bing.pl/th?id=ODF.RiSZ6cVK2kGKUBp4PkSDCg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "warszawa.naszemiasto13 godz.",
+            "date": "warszawa.naszemiasto18 godz.",
             "source": "warszawa.naszemiasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Targowisko przy ul. Kaliskiej we W\u0142oc\u0142awku - 15 lutego 2025. Tanie warzywa, owoce, ryby. Zdj\u0119cia, ceny",
-            "link": "https://www.msn.com/pl-pl/kuchnia/wiadomosci-o-zywieniu/targowisko-przy-ul-kaliskiej-we-w%C5%82oc%C5%82awku-15-lutego-2025-tanie-warzywa-owoce-ryby-zdj%C4%99cia-ceny/ar-AA1z7dgx?ocid=BingNewsVerp",
-            "description": "We W\u0142oc\u0142awku funkcjonuj\u0105 dwa miejskie targowiska oraz niedzielny pchli targ. Jedno z nich zlokalizowane jest przy ulicy ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.2AZubxM1hzB2xiupuc5Iky&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "Nasze Miasto on MSN21 godz.",
-            "source": "Nasze Miasto on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Te monety s\u0105 warte du\u017co wi\u0119cej ni\u017c my\u015blisz. Zobacz czego szukaj\u0105 numizmatycy 16.02.2025",
-            "link": "https://gk24.pl/te-monety-sa-warte-duzo-wiecej-niz-myslisz-zobacz-czego-szukaja-numizmatycy-16022025/ar/c1-18941089",
-            "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet zwyk\u0142a pi\u0119cioz\u0142ot\u00f3wka mo\u017ce mie\u0107 wielokrotnie wi\u0119ksz\u0105 warto\u015b\u0107 ni\u017c nomina\u0142.",
-            "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stare+monety",
-            "date": "gk24.pl15 godz.",
-            "source": "gk24.pl",
             "article_content": "Content not available"
         }
     },
@@ -74,9 +42,25 @@
             "description": "Wycena monet z PRL-u zale\u017cy od rzadko\u015bci wyst\u0119powania, jako\u015bci wybicia oraz gradingu, czyli stanu jej zachowania. W Polsce znajdziemy wiele okaz\u00f3w wartych kilkaset z\u0142otych, ale s\u0105 te\u017c takie, na ...",
             "image_url": "https://www.bing.plNo image",
             "category": "stare+monety",
-            "date": "G\u0142os Szczeci\u0144ski on MSN14 godz.",
+            "date": "G\u0142os Szczeci\u0144ski on MSN19 godz.",
             "source": "G\u0142os Szczeci\u0144ski on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Te monety s\u0105 warte du\u017co wi\u0119cej ni\u017c my\u015blisz. Zobacz czego szukaj\u0105 numizmatycy 16.02.2025",
+            "link": "https://gk24.pl/te-monety-sa-warte-duzo-wiecej-niz-myslisz-zobacz-czego-szukaja-numizmatycy-16022025/ar/c1-18941089",
+            "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet zwyk\u0142a pi\u0119cioz\u0142ot\u00f3wka mo\u017ce mie\u0107 wielokrotnie wi\u0119ksz\u0105 warto\u015b\u0107 ni\u017c nomina\u0142.",
+            "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stare+monety",
+            "date": "gk24.pl20 godz.",
+            "source": "gk24.pl",
+            "article_content": "Content not available"
         }
     },
     {
@@ -90,7 +74,7 @@
             "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.o4EwlAsIz5rMM3h8kMS_wi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Szczeci\u0144ski on MSN14 godz.",
+            "date": "G\u0142os Szczeci\u0144ski on MSN19 godz.",
             "source": "G\u0142os Szczeci\u0144ski on MSN",
             "article_content": ""
         }
@@ -106,7 +90,7 @@
             "description": "Zobacz, jakie banknoty strac\u0105 na nominale. Znajduje si\u0119 kilka przypadk\u00f3w, kiedy pieni\u0105dz mo\u017ce straci\u0107 wa\u017cno\u015b\u0107 i nale\u017cy go wymieni\u0107, a w niekt\u00f3rych przypadkach traci te\u017c cz\u0119\u015b\u0107 swojej warto\u015bci. Zobacz, ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "gk24.pl15 godz.",
+            "date": "gk24.pl20 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -117,30 +101,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Co nowego na gie\u0142dzie kolekcjonerskiej? Zobaczcie zdj\u0119cia",
-            "link": "https://www.moja-ostroleka.pl/art/1739707494/co-nowego-na-gieldzie-kolekcjonerskiej-zobaczcie-zdjecia",
-            "description": "Stare banknoty, monety sprzed wiek\u00f3w, rzadkie znaczki i pami\u0105tki z dawnych lat ? to wszystko mo\u017cna by\u0142o znale\u017a\u0107 na kolejnym spotkaniu kolekcjoner\u00f3w w klubie Lokator.",
-            "image_url": "https://www.bing.pl/th?id=ODF.NKLoRYI0LCh1zg_g1FUL7A&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Te monety z PRL s\u0105 warte ogromne pieni\u0105dze! Zap\u0142acisz za nie nawet kilkana\u015bcie tysi\u0119cy z\u0142otych! Tyle kosztuj\u0105 monety z PRL",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/te-monety-z-prl-s%C4%85-warte-ogromne-pieni%C4%85dze-zap%C5%82acisz-za-nie-nawet-kilkana%C5%9Bcie-tysi%C4%99cy-z%C5%82otych-tyle-kosztuj%C4%85-monety-z-prl-16022025/ar-AA1xF2s5?ocid=BingNewsVerp",
+            "description": "Popularno\u015b\u0107 przedmiot\u00f3w z PRL \u015amia\u0142o mo\u017cna stwierdzi\u0107, \u017ce przedmioty z okresu PRL prze\u017cywaj\u0105 w naszym kraju niejako sw\u00f3j ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.mmrf7V4zqE4FRhJP4k7GUy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Moja Ostro\u0142\u0119ka - lepsza strona miasta9 godz.",
-            "source": "Moja Ostro\u0142\u0119ka - lepsza strona miasta",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "To kwiaty najlepsze do domu! Te ro\u015bliny doniczkowe s\u0105 pi\u0119kne i wzbogac\u0105 twoje wn\u0119trze. Jakie kwiaty wybra\u0107 do domu? 16.02.2025",
-            "link": "https://gk24.pl/to-kwiaty-najlepsze-do-domu-te-rosliny-doniczkowe-sa-piekne-i-wzbogaca-twoje-wnetrze-jakie-kwiaty-wybrac-do-domu-16022025/ar/c9-18815989",
-            "description": "Obecnie pragniemy, by nasze domowe wn\u0119trza mia\u0142y sw\u00f3j unikatowy charakter, by\u0142y przytulne i kolorowe. Jednym z pomys\u0142\u00f3w na wzbogacenie naszego domowego wn\u0119trza z pewno\u015bci\u0105 s\u0105 kwiaty. Nie tylko dodaj\u0105 ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stara+porcelana",
-            "date": "G\u0142os Koszali\u0144ski15 godz.",
-            "source": "G\u0142os Koszali\u0144ski",
-            "article_content": "Content not available"
+            "date": "G\u0142os Koszali\u0144ski on MSN4 godz.",
+            "source": "G\u0142os Koszali\u0144ski on MSN",
+            "article_content": ""
         }
     },
     {
@@ -154,9 +122,25 @@
             "description": "Czy komiksy z PRL mog\u0105 by\u0107 warte fortun\u0119? Oczywi\u015bcie! W naszym kraju wraca moda na przedmioty i pami\u0105tki z czas\u00f3w PRL.",
             "image_url": "https://www.bing.pl/th?id=OVFT.0LgvSeJLEJXRDHkSAsnFiy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "G\u0142os Koszali\u0144ski on MSN14 godz.",
-            "source": "G\u0142os Koszali\u0144ski on MSN",
+            "date": "Hostowane na MSN19 godz.",
+            "source": "MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "To kwiaty najlepsze do domu! Te ro\u015bliny doniczkowe s\u0105 pi\u0119kne i wzbogac\u0105 twoje wn\u0119trze. Jakie kwiaty wybra\u0107 do domu? 16.02.2025",
+            "link": "https://gk24.pl/to-kwiaty-najlepsze-do-domu-te-rosliny-doniczkowe-sa-piekne-i-wzbogaca-twoje-wnetrze-jakie-kwiaty-wybrac-do-domu-16022025/ar/c9-18815989",
+            "description": "Obecnie pragniemy, by nasze domowe wn\u0119trza mia\u0142y sw\u00f3j unikatowy charakter, by\u0142y przytulne i kolorowe. Jednym z pomys\u0142\u00f3w na wzbogacenie naszego domowego wn\u0119trza z pewno\u015bci\u0105 s\u0105 kwiaty. Nie tylko dodaj\u0105 ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stara+porcelana",
+            "date": "gk24.pl20 godz.",
+            "source": "gk24.pl",
+            "article_content": "Content not available"
         }
     },
     {
@@ -170,7 +154,7 @@
             "description": "Ro\u015bliny w domu, a bogactwo i szcz\u0119\u015bcie Wiele os\u00f3b dba o przytuln\u0105 przestrze\u0144 w swoim domu. Dekorujemy je m.in. ro\u015blinami, kt\u00f3re jak si\u0119 okazuje, s\u0105 nie tylko elementem dekoracyjnym, ale r\u00f3wnie\u017c maj\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "G\u0142os Koszali\u0144ski on MSN23 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN4 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
@@ -186,7 +170,7 @@
             "description": "W niedzielny poranek, 16 lutego 2025 roku, Pchli Targ przy alei Kazimierza Wielkiego t\u0119tni\u0142 \u017cyciem, cho\u0107 ruch by\u0142 nieco ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.FtTWjiBWIHKkNXKwWi7EbC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "W\u0142oc\u0142awek Nasze Miasto8 godz.",
+            "date": "W\u0142oc\u0142awek Nasze Miasto13 godz.",
             "source": "W\u0142oc\u0142awek Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -202,7 +186,7 @@
             "description": "Ma\u0142gorzata Rozenek-Majdan i Rados\u0142aw Majdan postanowili sp\u0119dzi\u0107 sobotnie przedpo\u0142udnie na popularnej gie\u0142dzie staroci w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.7i2jX_JVSoyezXibbw4CxS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "tygodniksolidarnosc.com7 godz.",
+            "date": "tygodniksolidarnosc.com12 godz.",
             "source": "tygodniksolidarnosc.com",
             "article_content": "Ma\u0142gorzata Rozenek-Majdan i Rados\u0142aw Majdan postanowili sp\u0119dzi\u0107 sobotnie przedpo\u0142udnie na popularnej gie\u0142dzie staroci w Broniszach. Towarzyszy\u0142 im ich synek Henio oraz nowy cz\u0142onek rodziny - uroczy basset William. Plany by\u0142y ambitne - para liczy\u0142a na znalezienie unikatowych dekoracji do swojej nowej rezydencji. Niestety, wyprawa sko\u0144czy\u0142a si\u0119 zupe\u0142nie inaczej, ni\u017c sobie wyobra\u017cali.\n\nMa\u0142gorzata Rozenek-Majdan na targu z rodzin\u0105\n\nJu\u017c w drodze na targ Ma\u0142gorzata Rozenek entuzjastycznie opowiada\u0142a swoim fanom, \u017ce s\u0142ysza\u0142a wiele dobrego o Broniszach i ma nadziej\u0119 trafi\u0107 na co\u015b wyj\u0105tkowego. Na miejscu przegl\u0105da\u0142a r\u00f3\u017cne antyki, ale ostatecznie nic nie kupi\u0142a. Pow\u00f3d? Niekt\u00f3re pi\u0119kne przedmioty sta\u0142y obok takich, kt\u00f3rych absolutnie nie chcia\u0142aby mie\u0107 w swoim domu. W efekcie straci\u0142a ochot\u0119 na zakupy i wysz\u0142a z pustymi r\u0119kami. Jedynie Henio znalaz\u0142 dla siebie ma\u0142y samochodzik i by\u0142 zadowolony. Ale to nie brak zakup\u00f3w, najbardziej zniech\u0119ci\u0142 Majdan\u00f3w do dalszego spaceru po targu.\n\n\n\nNajwi\u0119kszym zaskoczeniem dla Ma\u0142gorzaty by\u0142o to, jak ludzie komentowali wygl\u0105d jej psa. William sta\u0142 si\u0119 obiektem nieprzyjemnych uwag.\n\n\"Obra\u017cono mi basseta z pi\u0119\u0107 razy, m\u00f3wi\u0105c, \u017ce jest 'grubasem spasionym' i tak prawie ka\u017cdy pan, poza takim jednym mi\u0142ym panem, kt\u00f3ry sprzedaje parawany japo\u0144skie, to reszta naszych interakcji sprowadza\u0142a si\u0119 do dyskusji: 'ten pies taki jest, czy on taki spasiony?'. A drugi pan: 'ale gruby basset'. Ja m\u00f3wi\u0119, \u017ce on nie jest gruby. On jeszcze z\u0142apie takiej masy typowej dla doros\u0142ego basseta. Ale najlepszy i tak by\u0142 pan, on totalnie wygra\u0142, kiedy mnie zapyta\u0142: 'a to jest mops?'\"\n\n- relacjonowa\u0142a zszokowana gwiazda.\n\n\n\nNieprzyjemne komentarze to jedno, ale jeszcze wi\u0119ksze zdumienie wywo\u0142a\u0142o pytanie jednego z handlarzy. M\u0119\u017cczyzna bez ogr\u00f3dek zapyta\u0142, ile kosztuje William. Gdy Ma\u0142gorzata stanowczo odpowiedzia\u0142a, \u017ce pies nie jest na sprzeda\u017c, us\u0142ysza\u0142a zaskakuj\u0105c\u0105 ripost\u0119:\n\n\n\n\"W tym miejscu wszystko jest na sprzeda\u017c.\"\n\n\n\nTo by\u0142a kropla, kt\u00f3ra przela\u0142a czar\u0119 goryczy. Majdanowie szybko zabrali psa i postanowili opu\u015bci\u0107 targ w po\u015bpiechu.\n\nKim jest Rozenek-Majdan?\n\nMa\u0142gorzata Rozenek-Majdan urodzi\u0142a si\u0119 1 czerwca 1978 roku w Warszawie. Jest prezenterk\u0105 telewizyjn\u0105, celebrytk\u0105, pisark\u0105 i aktork\u0105 niezawodow\u0105. Uko\u0144czy\u0142a studia prawnicze na wydziale Prawa i Administracji Uniwersytetu Warszawskiego. Od 2012 roku jest zawodowo zwi\u0105zana z Grup\u0105 TVN. Jej popularno\u015b\u0107 zacz\u0119\u0142a si\u0119 od programu Perfekcyjna pani domu (2012\u20132014), kt\u00f3ry przyni\u00f3s\u0142 jej rozpoznawalno\u015b\u0107. Sukces programu zaowocowa\u0142 seri\u0105 poradnik\u00f3w: m.in. Perfekcyjna pani domu. Poradnik (2013), Perfekcyjny ogr\u00f3d. Poradnik (2014), Jak dba\u0107 o siebie perfekcyjnie (2015) i Perfekcyjny \u015blub (2017). Przez lata Rozenek-Majdan prowadzi\u0142a liczne programy, takie jak Piekielny hotel (2015), Projekt Lady (2016\u20132021) oraz wsp\u00f3\u0142prowadzi\u0142a Dzie\u0144 dobry TVN (2022\u20132023). Pojawi\u0142a si\u0119 te\u017c go\u015bcinnie jako modelka i juror w Project Runway (2014, 2015). Wzi\u0119\u0142a tak\u017ce udzia\u0142 w reality show Azja Express (2016) oraz Iron Majdan (2018) razem ze swoim m\u0119\u017cem, Rados\u0142awem Majdanem, co przyczyni\u0142o si\u0119 do ich wsp\u00f3lnej popularno\u015bci medialnej."
         }
@@ -218,9 +202,9 @@
             "description": "Ma\u0142gorzata Rozenek-Majdan i Rados\u0142aw Majdan wybrali si\u0119 w sobotnie przedpo\u0142udnie na gie\u0142d\u0119 staroci. Na wycieczk\u0119 na podwarszawski targ w Broniszach za\u0142apa\u0142 si\u0119 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.m7D0yBzzZsnKtu44yb1UTg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "SE10 godz.",
+            "date": "SE15 godz.",
             "source": "SE",
-            "article_content": "By\u0142 o w\u0142os od rezygnacji z udzia\u0142u w \"The Voice Senior\", a jednak wygra\u0142! Wszystko przez Janowskiego\n\nTo, co spotka\u0142o Majdan\u00f3w na popularnym targu w Broniszach, przechodzi ludzkie poj\u0119cie. Celebryci wybrali si\u0119 na sobotni\u0105 gie\u0142d\u0119 staroci na zakupy pere\u0142ek, kt\u00f3re udekoruj\u0105 ich okaza\u0142y dom. Nie spodziewali si\u0119 jednak, \u017ce ich poszukiwania tak si\u0119 zako\u0144cz\u0105. Nie do\u015b\u0107, ze nie uda\u0142o im si\u0119 nic kupi\u0107, to jeszcze czym pr\u0119dzej musieli zabiera\u0107 stamt\u0105d swojego ukochanego pupila.\n\nMa\u0142gorzata Rozenek-Majdan zabra\u0142a Radzia, Henia i psa na targ w Broniszach\n\nMa\u0142gorzata Rozenek-Majdan pe\u0142na ekscytacji relacjonowa\u0142a wypraw\u0119. Ju\u017c w drodze na targ pochwali\u0142a si\u0119 fanom, gdzie si\u0119 wybiera. Wyja\u015bni\u0142, \u017ce s\u0142ysza\u0142a wiele dobrego o tym miejscu, wi\u0119c liczy\u0142a na to, \u017ce i ona wypatrzy jakie\u015b oryginalne dekoracje do swojego domu. W trakcie \"zakup\u00f3w\" okaza\u0142a kilka pi\u0119knych rzeczy, ale ostatecznie wysz\u0142a z bazaru niemal bez zakup\u00f3w.\n\nPrzyzna\u0142a, \u017ce cho\u0107 trafi\u0142a na kilka odpowiadaj\u0105cych jej antyk\u00f3w, to poniewa\u017c znajdowa\u0142y si\u0119 one obok rzeczy, kt\u00f3rych w \u017cyciu do swego domu by nie przynios\u0142a, to ostatecznie si\u0119 zrazi\u0142a i nie kupi\u0142a nic. Jedyny zakup, na jaki tego dnia si\u0119 zdecydowali, dokona\u0142 Henio, kt\u00f3remu nie zupe\u0142nie przeszkadza\u0142o, obok czego sta\u0142 wypatrzony przez niego samochodzik.\n\nJednak nie to by\u0142o najgorsze, co ich spotka\u0142o.\n\nZobacz te\u017c: Ma\u0142gorzata Rozenek-Majdan prezentuje szczup\u0142e n\u00f3\u017cki. Niez\u0142a z niej sarenka\n\nObrazili psa Majdan\u00f3w. Nazwali go \"grubasem spasionym\"\n\nW drodze powrotnej Ma\u0142gorzata ze szczeg\u00f3\u0142ami opowiedzia\u0142a, \u017ce ofiar\u0105 s\u0142ownych napa\u015bci pad\u0142 ich kochany pupil.\n\nObra\u017cono mi basseta z pi\u0119\u0107 razy, m\u00f3wi\u0105c, \u017ce jest \"grubasem spasionym\" i tak prawie ka\u017cdy pan, poza takim jednym mi\u0142ym panem, kt\u00f3ry sprzedaje parawany japo\u0144skie, to reszta naszych interakcji sprowadza\u0142a si\u0119 do dyskusji: \"ten pies taki jest, czy on taki spasiony?\". A drugi pan: \"ale gruby basset\". Ja m\u00f3wi\u0119, \u017ce on nie jest gruby. On jeszcze z\u0142apie takiej masy typowej dla doros\u0142ego basseta. Ale najlepszy i tak by\u0142 pan, on totalnie wygra\u0142, kiedy mnie zapyta\u0142: \"a to jest mops?\".\n\nJakby tego by\u0142o ma\u0142o, jeden z obecnych na miejscu m\u0119\u017cczyzn zapyta\u0142 o wycen\u0119 Williama. Kiedy Ma\u0142gorzata kategorycznie odm\u00f3wi\u0142a, m\u00f3wi\u0105c, \u017ce basset nie jest na sprzeda\u017c, potencjalny kupiec zupe\u0142nie si\u0119 tym nie przej\u0105\u0142. Zapewni\u0142 perfekcyjn\u0105, \u017ce w miejscu, w kt\u00f3rym si\u0119 znale\u017ali \"wszytko jest na sprzeda\u017c\". Po takiej \"gro\u017abie\" Ma\u0142gorzata czym pr\u0119dzej zabra\u0142a m\u0119\u017ca, synka i basseta i uciek\u0142a w pop\u0142ochu. I tylko ich rezydencja straci\u0142a na uroku, bo nie pojawi si\u0119 w niej \u017cadna pere\u0142ka z Bronisz.\n\nNie przegap: Szok! By\u0142y m\u0105\u017c Dody zwi\u0105za\u0142 si\u0119 z by\u0142\u0105 partnerk\u0105 by\u0142ego m\u0119\u017ca Rozenek! Roxi G\u0105ska wr\u00f3ci na salony?\n\nAutor:\n\nSonda Czy traktujesz psa lub inne zwierz\u0119 jak cz\u0142onka swojej rodziny? Tak Nie"
+            "article_content": "\"\u017bona dla Polaka\" - dziewczyny Mariusza skoczy\u0142y sobie do garde\u0142. \"Pozosta\u0142 niesmak\". Co tam si\u0119 wyprawia?\n\nTo, co spotka\u0142o Majdan\u00f3w na popularnym targu w Broniszach, przechodzi ludzkie poj\u0119cie. Celebryci wybrali si\u0119 na sobotni\u0105 gie\u0142d\u0119 staroci na zakupy pere\u0142ek, kt\u00f3re udekoruj\u0105 ich okaza\u0142y dom. Nie spodziewali si\u0119 jednak, \u017ce ich poszukiwania tak si\u0119 zako\u0144cz\u0105. Nie do\u015b\u0107, ze nie uda\u0142o im si\u0119 nic kupi\u0107, to jeszcze czym pr\u0119dzej musieli zabiera\u0107 stamt\u0105d swojego ukochanego pupila.\n\nMa\u0142gorzata Rozenek-Majdan zabra\u0142a Radzia, Henia i psa na targ w Broniszach\n\nMa\u0142gorzata Rozenek-Majdan pe\u0142na ekscytacji relacjonowa\u0142a wypraw\u0119. Ju\u017c w drodze na targ pochwali\u0142a si\u0119 fanom, gdzie si\u0119 wybiera. Wyja\u015bni\u0142, \u017ce s\u0142ysza\u0142a wiele dobrego o tym miejscu, wi\u0119c liczy\u0142a na to, \u017ce i ona wypatrzy jakie\u015b oryginalne dekoracje do swojego domu. W trakcie \"zakup\u00f3w\" okaza\u0142a kilka pi\u0119knych rzeczy, ale ostatecznie wysz\u0142a z bazaru niemal bez zakup\u00f3w.\n\nPrzyzna\u0142a, \u017ce cho\u0107 trafi\u0142a na kilka odpowiadaj\u0105cych jej antyk\u00f3w, to poniewa\u017c znajdowa\u0142y si\u0119 one obok rzeczy, kt\u00f3rych w \u017cyciu do swego domu by nie przynios\u0142a, to ostatecznie si\u0119 zrazi\u0142a i nie kupi\u0142a nic. Jedyny zakup, na jaki tego dnia si\u0119 zdecydowali, dokona\u0142 Henio, kt\u00f3remu nie zupe\u0142nie przeszkadza\u0142o, obok czego sta\u0142 wypatrzony przez niego samochodzik.\n\nJednak nie to by\u0142o najgorsze, co ich spotka\u0142o.\n\nZobacz te\u017c: Ma\u0142gorzata Rozenek-Majdan prezentuje szczup\u0142e n\u00f3\u017cki. Niez\u0142a z niej sarenka\n\nObrazili psa Majdan\u00f3w. Nazwali go \"grubasem spasionym\"\n\nW drodze powrotnej Ma\u0142gorzata ze szczeg\u00f3\u0142ami opowiedzia\u0142a, \u017ce ofiar\u0105 s\u0142ownych napa\u015bci pad\u0142 ich kochany pupil.\n\nObra\u017cono mi basseta z pi\u0119\u0107 razy, m\u00f3wi\u0105c, \u017ce jest \"grubasem spasionym\" i tak prawie ka\u017cdy pan, poza takim jednym mi\u0142ym panem, kt\u00f3ry sprzedaje parawany japo\u0144skie, to reszta naszych interakcji sprowadza\u0142a si\u0119 do dyskusji: \"ten pies taki jest, czy on taki spasiony?\". A drugi pan: \"ale gruby basset\". Ja m\u00f3wi\u0119, \u017ce on nie jest gruby. On jeszcze z\u0142apie takiej masy typowej dla doros\u0142ego basseta. Ale najlepszy i tak by\u0142 pan, on totalnie wygra\u0142, kiedy mnie zapyta\u0142: \"a to jest mops?\".\n\nJakby tego by\u0142o ma\u0142o, jeden z obecnych na miejscu m\u0119\u017cczyzn zapyta\u0142 o wycen\u0119 Williama. Kiedy Ma\u0142gorzata kategorycznie odm\u00f3wi\u0142a, m\u00f3wi\u0105c, \u017ce basset nie jest na sprzeda\u017c, potencjalny kupiec zupe\u0142nie si\u0119 tym nie przej\u0105\u0142. Zapewni\u0142 perfekcyjn\u0105, \u017ce w miejscu, w kt\u00f3rym si\u0119 znale\u017ali \"wszytko jest na sprzeda\u017c\". Po takiej \"gro\u017abie\" Ma\u0142gorzata czym pr\u0119dzej zabra\u0142a m\u0119\u017ca, synka i basseta i uciek\u0142a w pop\u0142ochu. I tylko ich rezydencja straci\u0142a na uroku, bo nie pojawi si\u0119 w niej \u017cadna pere\u0142ka z Bronisz.\n\nNie przegap: Szok! By\u0142y m\u0105\u017c Dody zwi\u0105za\u0142 si\u0119 z by\u0142\u0105 partnerk\u0105 by\u0142ego m\u0119\u017ca Rozenek! Roxi G\u0105ska wr\u00f3ci na salony?\n\nAutor:\n\nSonda Czy traktujesz psa lub inne zwierz\u0119 jak cz\u0142onka swojej rodziny? Tak Nie"
         }
     },
     {
@@ -234,7 +218,7 @@
             "description": "Ma\u0142gorzata Rozenek-Majdan jest wielk\u0105 fank\u0105 zwierz\u0105t, a zw\u0142aszcza ps\u00f3w, kt\u00f3rych ma a\u017c cztery. W ten weekend celebrytka i \u017cona Rados\u0142awa Majdana wybra\u0142a si\u0119 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.j1iMgE2Q9GiLoNrUUPsEzQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Pomponik.pl on MSN1 godz.",
+            "date": "Pomponik.pl on MSN6 godz.",
             "source": "Pomponik.pl on MSN",
             "article_content": ""
         }
@@ -250,7 +234,7 @@
             "description": "Do tanga trzeba dwojga. A Buenos Aires umie rozkocha\u0107 w sobie ka\u017cdego. Jak pozna\u0107 to argenty\u0144skie miasto w dwa dni?",
             "image_url": "https://www.bing.pl/th?id=OVFT.-sXy2g5o3tO9zAa0xhpzoi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "national-geographic6 godz.",
+            "date": "national-geographic11 godz.",
             "source": "national-geographic",
             "article_content": "Spis tre\u015bci:\n\nReklama\n\nBuenos Aires to antypody Warszawy, prawie na przestrza\u0142 globu. Nic dziwnego, ze wszystko jest tutaj postawione na g\u0142owie. \u015api si\u0119 w dzie\u0144 (bo gor\u0105co), w nocy spotyka z przyjaci\u00f3\u0142mi (i imprezuje). W ci\u0105gu dnia du\u017co si\u0119 pije (kawy i yerba mate), w nocy je (cho\u0107by najlepsze na \u015bwiecie steki). Dyskoteki otwieraj\u0105 swe podwoje o trzeciej nad ranem, o si\u00f3dmej serwuje \u015bniadanie, ale potem od razu idzie si\u0119 spa\u0107. Totalne szale\u0144stwo! Nie pozostaje mi nic innego, ni\u017c podda\u0107 si\u0119 rytmowi boskiego Buenos.\n\n\u015aniadanie w Buenos Aires\n\nNa razie jednak potrzebuj\u0119 aklimatyzacji, cho\u0107by typowego lokalnego \u015bniadania. W najstarszej kawiarni w Argentynie Caf\u00e9 Tortoni znajduj\u0105cej si\u0119 przy Avenida de Mayo zamawiam caf\u00e9 con medialunas, czyli kaw\u0119 z malutkimi rogalikami. Dyskretnie przygl\u0105dam si\u0119 innym klientom. Niekt\u00f3rzy czytaj\u0105 pras\u0119, inni gaw\u0119dz\u0105 z kelnerami, jakby znali si\u0119 od wiek\u00f3w. Klimat jak z Pary\u017ca czy Rzymu, tyle ze sprzed stu lat.\n\nSama Avenida de Mayo, czyli aleja Majowa, zosta\u0142a zbudowana w 1888 r. jako pierwsza nowoczesna arteria miasta. Mia\u0142a \u0142\u0105czy\u0107 Plaza del Congreso, gdzie stoi parlament, z pa\u0142acem prezydenta na Plaza de Mayo. Tutaj odbywaj\u0105 si\u0119 tez wszystkie wa\u017cne manifestacje. Nie m\u00f3wi\u0105c o Rewolucji Majowej 1810 r., kt\u00f3ra doprowadzi\u0142a sze\u015b\u0107 lat p\u00f3\u017aniej do og\u0142oszenia niepodleg\u0142o\u015bci kraju.\n\nPa\u0142ac prezydencki zwany \u201er\u00f3\u017cowym\u201d wida\u0107 od razu. R\u00f3\u017c elewacji by\u0142 zreszt\u0105 decyzj\u0105 polityczn\u0105. W ten spos\u00f3b chciano pogodzi\u0107 dwie zwa\u015bnione frakcje: unit\u00f3w, kt\u00f3rych kolorem by\u0142 bia\u0142y, i federalist\u00f3w \u2013 czerwony. To z balkon\u00f3w tego pa\u0142acu przemawia\u0142a podczas swoich \u017carliwych wyst\u0105pie\u0144 Evita \u2013 zona prezydenta Juana Perona.\n\nSpacer po mie\u015bcie \u2013 sobota\n\nSpod pa\u0142acu rusza linia A \u2013 pierwsza linia metra nie tylko w Ameryce \u0141aci\u0144skiej, ale i na ca\u0142ej p\u00f3\u0142kuli po\u0142udniowej! Pochodzi z 1913 r. i wci\u0105\u017c dzia\u0142a! Jad\u0119 rozklekotanymi drewnianymi wagonikami do Avenida 9 de Julio. To najszersza ulica \u015bwiata, ma a\u017c 140 metr\u00f3w! Przechodz\u0119 j\u0105 z zegarkiem w reku. Z dwukrotnym postojem na kolejnych \u015bwiat\u0142ach i mini\u0119ciem symbolu miasta \u2013 obelisku \u2013 zajmuje mi to z siedem minut.\n\nCiekawostki o Argentynie. 30 fakt\u00f3w o kraju tanga, futbolu i yerba mate. Fot. Peter Adams/Getty Images, Buenaventuramariano/Getty Images Ciekawostki o Argentynie. 30 fakt\u00f3w o kraju tanga, futbolu i yerba mate. Fot. Peter Adams/Getty Images, Buenaventuramariano/Getty Images\n\nMoim kolejnym celem jest Recoleta, dzielnica bogatych rezydencji. Pe\u0142na luksusowych sklep\u00f3w aleja Alvear docieram do niewielkiego parku z roz\u0142o\u017cystymi drzewami omb\u00fa. Wiecznie zielone, osi\u0105gaj\u0105 wysoko\u015b\u0107 15 m, maja wyj\u0105tkowo grube pnie. I z biologicznego punktu widzenia s\u0105 krzewami. Drzewo czy krzak \u2013 wa\u017cne, \u017ce w czasie upa\u0142u daje wytchnienie. Zreszt\u0105 nazwa ro\u015bliny w j\u0119zyku miejscowych Indian Guaran\u00ed oznacza w\u0142a\u015bnie \u201ecie\u0144\u201d.\n\nZanim jednak zal\u0119gn\u0119 tu na popo\u0142udniow\u0105 sjest\u0119, staj\u0119 w d\u0142ugiej kolejce. Idzie szybko i juz po chwili trzymam w d\u0142oniach ogromn\u0105 porcj\u0119 najlepszych w Buenos Aires lod\u00f3w Freddo. Samych smak\u00f3w w tej lodziarni jest kilkadziesi\u0105t, w\u015br\u00f3d nich tak oryginalne jak wino malbec, chluba Argentyny. Do tego jeszcze dodatki, posypki i czekoladowe polewy... Taka bomba kaloryczna idealnie zast\u0105pi mi obiad. No tak, ju\u017c zaczynam zachowywa\u0107 si\u0119 jak Argenty\u0144czycy!\n\nPo sje\u015bcie pora na zabytkowy cmentarz Recoleta. Powsta\u0142 w 1822 r., dzi\u015b to jeden z trzech najpi\u0119kniejszych na \u015bwiecie, po P\u00e8re-Lachaise w Pary\u017cu i Staglieno w Genui. Le\u017c\u0105 tu prezydenci kraju, politycy, pisarze, naukowcy. Zwiedzaj\u0105cy najcz\u0119\u015bciej szukaj\u0105 jednak grobu charyzmatycznej \u017cony prezydenta Perona, Evity.\n\nEva Duarte urodzi\u0142a si\u0119 w ma\u0142ym miasteczku oddalonym o ponad 300 km od Buenos Aires. W wieku 15 lat wyruszy\u0142a do stolicy w poszukiwaniu s\u0142awy, pr\u00f3bowa\u0142a swoich si\u0142 jako aktorka i prezenterka radiowa. Na balu charytatywnym pozna\u0142a genera\u0142a Juana Perona, przysz\u0142ego prezydenta. Przy jego boku sta\u0142a si\u0119 nie mniej wa\u017cna ni\u017c m\u0105\u017c. Kult ugruntowa\u0142a wczesna \u015bmier\u0107. W 1952 r. w wieku zaledwie 33 lat Evita zmar\u0142a na raka. Na jej grobie zawsze le\u017c\u0105 \u015bwie\u017ce kwiaty.\n\nZreszt\u0105 to w\u0142a\u015bnie kwiat z okolic cmentarza sta\u0142 si\u0119 kolejnym symbolem miasta. Floralis Gen\u00e9rica ma 23 m i system, kt\u00f3ry co wiecz\u00f3r zamyka olbrzymie metalowe p\u0142atki, a rano je ponownie otwiera. Rze\u017aba Eduardo Catalano ma symbolizowa\u0107 nadziej\u0119 i nieustanne odradzanie si\u0119 \u015bwiata.\n\nKoniec zwiedzania, czas spotka\u0107 si\u0119 z moimi argenty\u0144skimi przyjaci\u00f3\u0142mi. Czekaj\u0105 na mnie w modnej dzielnicy Palermo. W weekendy pe\u0142no tu rodzin z dzie\u0107mi zwiedzaj\u0105cych planetarium, zoo czy rosarium z 12 tys. odmian r\u00f3\u017c. Wieczorem dzielnica zamienia si\u0119 w centrum \u017cycia nocnego. Na turyst\u0119 czekaj\u0105 bary, restauracje, dyskoteki do bia\u0142ego rana. O ile przeszed\u0142 ju\u017c na tryb argenty\u0144ski.\n\nSpacer po mie\u015bcie \u2013 niedziela\n\nNie ma lepszego miejsca na niedzielny poranek ni\u017c Plaza Dorrego w dzielnicy San Telmo. Co tydzie\u0144 odbywa si\u0119 tu bowiem s\u0142ynny targ staroci, czyli Feria de San Telmo. W\u015br\u00f3d obt\u0142uczonych karafek znajdziesz fajk\u0119 Che Guevary lub buciki Evity. Miedzy kramami miniesz trzech sobowt\u00f3r\u00f3w Carlosa Gardela, \u015bpiewaka tanga wszech czas\u00f3w. Sam nie zauwa\u017cysz, jak kupisz pi\u0119\u0107 zestaw\u00f3w do yerba mate, niepotrzebny ci zupe\u0142nie kalejdoskop i manuskrypt zapomnianego dzie\u0142a Borgesa. Jak dobrze p\u00f3jdzie, zacznie ci si\u0119 wydawa\u0107, \u017ce w\u0142a\u015bnie wpad\u0142e\u015b na Gombrowicza. W ko\u0144cu mieszka\u0142 tu a\u017c 24 lata.\n\nSan Telmo by\u0142o kiedy\u015b bogat\u0105 dzielnic\u0105, w kt\u00f3rej \u017cyli arystokraci. Wszystko zmieni\u0142o si\u0119 w roku 1871, kiedy to epidemia \u017c\u00f3\u0142tej febry wygna\u0142a ich z ich luksusowych rezydencji. W kr\u00f3tkim czasie w domach zamieszkali biedni emigranci. W latach 1857\u20131914 w poszukiwaniu lepszego \u017cycia przyby\u0142o do Argentyny ponad 3 mln os\u00f3b z Europy, tak\u017ce z Polski! To w trakcie Wielkiej Emigracji narodzi\u0142o si\u0119 tango \u2013 taniec, kt\u00f3ry pono\u0107 pocz\u0105tkowo s\u0142u\u017cy\u0142 do zabicia czasu m\u0119\u017cczyznom nudz\u0105cym si\u0119 w kolejkach do dom\u00f3w publicznych. Na takowe przybytki by\u0142o w\u00f3wczas spore zapotrzebowanie, bo za chlebem przyje\u017cd\u017cali tu g\u0142\u00f3wnie panowie. Dopiero potem sprowadzali swoje rodziny.\n\nNa ulicy Defensa od w\u0119drownego handlarza kupuje empanadas \u2013 pyszne piero\u017cki nadziewane mi\u0119sem i warzywami. Popijam kaw\u0105 nalan\u0105 prosto z termosu od kolejnej mi\u0142ej sprzedawczyni. I ruszam dalej. Czeka mnie d\u0142u\u017cszy spacer do La Boca \u2013 jednej z najbiedniejszych i pono\u0107 najniebezpieczniejszej dzielnicy miasta. To tu powsta\u0142 pierwszy port Buenos, gdzie klecili swoje pierwsze prymitywne domy z resztek drewna, blachy i kolorowej farby. Brakowa\u0142o czerwonej, ko\u0144czyli wi\u0119c malowa\u0107 zielon\u0105 czy \u017c\u00f3\u0142t\u0105, a okna wyka\u0144czali niebiesk\u0105.\n\nBaraki stoj\u0105 przy El Caminito do dzi\u015b i s\u0105 tak\u0105 specyficzn\u0105 star\u00f3wk\u0105. Nie jestem fank\u0105 pi\u0142ki no\u017cnej, ale wstyd by\u0107 w Boce i nie zobaczy\u0107 stadionu Boca Juniors. To tu zaczyna\u0142 m.in. boski Diego Maradona. Kupuj\u0119 kilka pi\u0142karskich gad\u017cet\u00f3w dla moich bratank\u00f3w \u2013 wielkich mi\u0142o\u015bnik\u00f3w futbolu \u2013 i ruszam dalej. Tym bardziej, \u017ce podobno po godz. 14 tury\u015bci nie s\u0105 w dzielnicy ju\u017c mile widziani.\n\nJe\u015bli zapytasz przeci\u0119tnego mieszka\u0144ca Buenos Aires, gdzie najch\u0119tniej sp\u0119dza niedzielne popo\u0142udnia, odpowie, \u017ce w Puerto Madero. Dzielnica \u201eDrewniany Port\u201d w 1991 r. przesz\u0142a gruntown\u0105 rewitalizacj\u0119. Przy projekcie wsp\u00f3\u0142pracowali tacy znani architekci jak Norman Foster, Philippe Starck czy Santiago Calatrava. Mn\u00f3stwo tu drewnianych \u0142awek, dizajnerskich most\u00f3w, sporo \u015bcie\u017cek rowerowych.\n\nTango\n\nKto ma jeszcze si\u0142\u0119, mo\u017ce wypo\u017cyczy\u0107 rower i przejecha\u0107 nim po rezerwacie nad rzek\u0105 La Plata, kt\u00f3r\u0105 wielu myli z morzem ze wzgl\u0119du na jej szeroko\u015b\u0107 (nawet 220 km!). Ja oszcz\u0119dzam energi\u0119, bo wieczorem um\u00f3wiona jestem na milong\u0119, czyli na imprez\u0119 z tango.\n\nNa Plaza Dorrego po porannym targu staroci nie ma ju\u017c \u015bladu. Mo\u017cemy zaczyna\u0107! Partnera nie musz\u0119 szuka\u0107, podchodzi do mnie sam. Okazuje si\u0119 mistrzem nad mistrzami i nawet z moich nieporadnych kroczk\u00f3w potrafi wykrzesa\u0107 co\u015b, co mo\u017cna nazwa\u0107 tangiem. C\u00f3\u017c, ma do\u015bwiadczenie. W San Telmo mieszka od urodzenia, a ta\u0144czy od 50 lat. Z \u0142atwo\u015bci\u0105 odczytuje ka\u017cdy m\u00f3j ruch i zmy\u015blnymi sztuczkami maskuje b\u0142\u0119dy. Przy kim\u015b takim ka\u017cda kobieta mo\u017ce poczu\u0107 si\u0119 jak gwiazda! S\u0142ysz\u0119 moje ulubione \u201eMi Buenos Aires querido\u201d. \u201eMoje ukochane Buenos Aires, kiedy Ci\u0119 znowu zobacz\u0119\u2026\u201d. Obiecuj\u0119 sobie, \u017ce wkr\u00f3tce.\n\nBuenos Aires \u2013 informacje praktyczne\n\nPo\u0142o\u017cenie: uj\u015bcie rzeki La Plata.\n\nuj\u015bcie rzeki La Plata. Powierzchnia: 203 km2.\n\n203 km2. Ludno\u015b\u0107: 2 890 tys.\n\n2 890 tys. J\u0119zyk: hiszpa\u0144ski, a tak\u017ce guaran\u00ed i quichua.\n\nhiszpa\u0144ski, a tak\u017ce guaran\u00ed i quichua. Religie: katolicka, cho\u0107 a\u017c 72,9 proc. Argenty\u0144czyk\u00f3w deklaruje brak udzia\u0142u w jakichkolwiek praktykach religijnych. W Argentynie mieszka najwi\u0119ksza w Ameryce Po\u0142udniowej mniejszo\u015b\u0107 \u017cydowska (300 tys.), a tak\u017ce mniejszo\u015b\u0107 muzu\u0142ma\u0144ska (400\u2013500 tys.).\n\nkatolicka, cho\u0107 a\u017c 72,9 proc. Argenty\u0144czyk\u00f3w deklaruje brak udzia\u0142u w jakichkolwiek praktykach religijnych. W Argentynie mieszka najwi\u0119ksza w Ameryce Po\u0142udniowej mniejszo\u015b\u0107 \u017cydowska (300 tys.), a tak\u017ce mniejszo\u015b\u0107 muzu\u0142ma\u0144ska (400\u2013500 tys.). Waluta: peso argenty\u0144skie.\n\nKiedy jecha\u0107 do Buenos Aires?\n\nBuenos Aires le\u017cy w klimacie umiarkowanym. Przez wi\u0119kszo\u015b\u0107 czasu temperatury wynosz\u0105 miedzy 15 a 30 stopni. Najlepiej pojecha\u0107 tam nasza zima, gdy w Argentynie jest najcieplej.\n\nWiza\n\nDo pobytu kr\u00f3tszego ni\u017c trzy miesi\u0105ce wiza nie jest potrzebna.\n\nDojazd\n\nZ Polski nie ma bezpo\u015brednich lot\u00f3w do Buenos Aires. Z Europy lataj\u0105 tam m.in. linie Lufthansa i Alitalia. Koszt najta\u0144szego biletu to ok. 4 tys z\u0142.\n\nKomunikacja\n\nBuenos Aires posiada sze\u015b\u0107 linii metra (zwanego tutaj subte) oraz 200 linii autobusowych (zwanych colectivos). Bilety kupuje si\u0119 w \u015brodku w specjalnym automacie. Niedrogie taks\u00f3wki. Coraz popularniejsze zaczynaj\u0105 by\u0107 rowery, cho\u0107 brakuje \u015bcie\u017cek rowerowych.\n\nBezpiecze\u0144stwo\n\nBuenos Aires jest stosunkowo bezpiecznym miastem. Oczywi\u015bcie jak wsz\u0119dzie w najbardziej zat\u0142oczonych miejscach nale\u017cy uwa\u017ca\u0107 na kieszonkowc\u00f3w.\n\nWarto wiedzie\u0107\n\nPrzygotujmy si\u0119 na to, \u017ce kolacje je si\u0119 w Argentynie bardzo p\u00f3\u017ano. Zazwyczaj ko\u0142o 22.00 go\u015bcie dopiero si\u0119 schodz\u0105, a ko\u0144cz\u0105 posi\u0142ek po p\u00f3\u0142nocy. W zwyczaju jest zostawianie drobnych z reszty kelnerom, taks\u00f3wkarzom, obs\u0142udze itd. Robi\u0105c zakupy, popro\u015bmy o tzw. refund cheque, kt\u00f3ry umo\u017cliwi nam zwrot podatku przy wylocie.\n\nReklama\n\n\u0179r\u00f3d\u0142o: archiwum NG."
         }
@@ -266,7 +250,7 @@
             "description": "Ka\u017cde czasy maj\u0105 co\u015b, co \u015bmia\u0142o mo\u017cna okre\u015bli\u0107 mianem ich symboli czy nawet wr\u0119cz relikt\u00f3w. Oczywi\u015bcie nie inaczej wygl\u0105da to ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.eE9aeskYMLqM790DDL1-di&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "eskarock2 godz.",
+            "date": "eskarock7 godz.",
             "source": "eskarock",
             "article_content": "Pami\u0119tasz obsad\u0119 komedii \"Galimatias, czyli Kogel Mogel II? Przekonaj si\u0119 w quizie, czy pami\u0119tasz kto zagra\u0142 w filmie\n\nPrzekonaj si\u0119 w quizie, czy znasz najs\u0142ynniejsze teksty z czas\u00f3w PRL-u!\n\nKto gra\u0142 w serialu \"Daleko od Szosy\"? Rozwi\u0105\u017c quiz i sprawd\u017a, czy to wiesz\n\nRozpoznasz, czy powiedzia\u0142 to Karol czy Tadzik? To idealny quiz dla wielbicieli \"Miodowych Lat\"\n\nCho\u0107 czasy Polskiej Rzeczypospolitej Ludowej to ju\u017c od dawna historia, nie da si\u0119 ukry\u0107, \u017ce wci\u0105\u017c wielu jest, kt\u00f3rzy pami\u0119taj\u0105 ten okres i nadal darz\u0105 go do\u015b\u0107 du\u017cym sentymentem. W polskiej przestrzeni nie brak wydarze\u0144, kt\u00f3re w jaki\u015b spos\u00f3b nawi\u0105zuj\u0105 do tego konkretnego etapu, a odbywa si\u0119 to zw\u0142aszcza poprzez odwo\u0142ywanie si\u0119 do symboli Polski Ludowej. Kultowe, dzi\u015b wci\u0105\u017c ch\u0119tnie ogl\u0105dane filmy i seriale, przysmaki, przek\u0105ski, dania, osobisto\u015bci, elementy popkultury, s\u0142odycze, sztuka, elementy architektoniczne czy dekoracyjne, powiedzonka, zwroty j\u0119zykowe - mo\u017cna by tak wymienia\u0107 w niesko\u0144czono\u015b\u0107. Niekiedy m\u00f3wi si\u0119 w takim przypadku o reliktach PRL-u, czyli w tym konkretnym przypadku, maj\u0105c na my\u015bli pozosta\u0142o\u015bci po danym okresie czy czasie, kt\u00f3re jednak wci\u0105\u017c funkcjonuj\u0105 w przestrzeni publicznej.\n\nTego nie wiedzia\u0142e\u015b o Bolku i Lolku. Historia z Koprem Rozwijamy nasz serwis dzi\u0119ki wy\u015bwietlaniu reklam. Blokuj\u0105c reklamy, nie pozwalasz nam tworzy\u0107 warto\u015bciowych tre\u015bci. Wy\u0142\u0105cz AdBlock i od\u015bwie\u017c stron\u0119.\n\nSymbole i relikty PRL-u - znasz je?\n\nJakie s\u0105 te najs\u0142ynniejsze symbole czas\u00f3w PRL-u? Czy pami\u0119tasz i na pewno dobrze znasz relikty Polski Ludowej?\n\nPrzekonaj si\u0119 o tym poni\u017cej:\n\nJak dobrze pamietasz TE relikty PRL-u? QUIZ Pytanie 1 z 10 Co ma na my\u015bli kto\u015b, kto wyra\u017ca twierdzenie \"Kr\u00f3lowa polskich salon\u00f3w czasu PRL-u\"? Meblo\u015bciank\u0119 Pralk\u0119 Frani\u0119 Gustown\u0105 garderob\u0119 Nast\u0119pne pytanie"
         }
@@ -282,7 +266,7 @@
             "description": "Akademia Rycerska - w 1655 r. za\u0142o\u017cy\u0142 j\u0105 Wielki Elektor Fryderyk Wilhelm. By\u0142a to pierwsza szko\u0142a wojskowa w pa\u0144stwie brandenbursko-pruskim. W 1703 r. przekszta\u0142cono j\u0105 w Szko\u0142\u0119 Kadet\u00f3w, rozwi\u0105zan\u0105 w ...",
             "image_url": "https://www.bing.pl/th?id=ODF.JS3kPnL-cw_uVSguStd8Cg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "gryfice.naszemiasto5 godz.",
+            "date": "gryfice.naszemiasto10 godz.",
             "source": "gryfice.naszemiasto",
             "article_content": "Content not available"
         }
@@ -298,7 +282,7 @@
             "description": "Wsp\u00f3lnie z Traseo wybrali\u015bmy 3 trasy nordic walking oddalone maksymalnie o 6 km od Ko\u0142obrzegu. Sprawd\u017a, czy \u015bcie\u017cka polecana przez innych u\u017cytkownik\u00f3w Traseo odpowiada r\u00f3wnie\u017c Tobie. Nim wyjdziesz, ...",
             "image_url": "https://www.bing.pl/th?id=ODF.xGyVXoJ9b0zlcu2rTPA_6w&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "kolobrzeg.naszemiasto6 godz.",
+            "date": "kolobrzeg.naszemiasto11 godz.",
             "source": "kolobrzeg.naszemiasto",
             "article_content": "Content not available"
         }
@@ -314,7 +298,7 @@
             "description": "Zamek w Mosznej jest jedn\u0105 z najwi\u0119kszych atrakcji Opolszczyzny i jednym z najciekawszych zamk\u00f3w w Polsce. Swoj\u0105 s\u0142aw\u0119 zawdzi\u0119cza bajkowemu wygl\u0105dowi - ma 365 pomieszcze\u0144, 99 wie\u017c i wie\u017cyczek. Do 30 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.hU9b0B80CrRL-uqx7ot5XQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "oswiecim.naszemiasto5 godz.",
+            "date": "oswiecim.naszemiasto11 godz.",
             "source": "oswiecim.naszemiasto",
             "article_content": "Content not available"
         }
@@ -330,7 +314,7 @@
             "description": "Nie da si\u0119 ukry\u0107, \u017ce w czasach PRL-u telefony pe\u0142ni\u0142y du\u017co bardziej okrojon\u0105 funkcj\u0119 ni\u017c teraz. Nie wszyscy zdaj\u0105 sobie spraw\u0119, \u017ce ...",
             "image_url": "https://www.bing.pl/th?id=ODF.W5Y4MI3IF_FGCvkznSbrPQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Biznesinfo on MSN9 godz.",
+            "date": "Biznesinfo on MSN14 godz.",
             "source": "Biznesinfo on MSN",
             "article_content": ""
         }
@@ -346,9 +330,41 @@
             "description": "W olszty\u0144skim zamku od godz. 11 mo\u017cna ogl\u0105da\u0107 w niedziel\u0119 przedmioty, kt\u00f3re w minionym roku przekazano do Muzeum Warmii i ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.6WGAhke6Ssahzm4M13PSfC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Olszty\u0144ska11 godz.",
-            "source": "Gazeta Olszty\u0144ska",
+            "date": "gazetaolsztynska16 godz.",
+            "source": "gazetaolsztynska",
             "article_content": "W olszty\u0144skim zamku od godz. 11 mo\u017cna ogl\u0105da\u0107 w niedziel\u0119 przedmioty, kt\u00f3re w minionym roku przekazano do Muzeum Warmii i Mazur. W\u015br\u00f3d prezentowanych nabytk\u00f3w s\u0105 m.in. licz\u0105ca 3,2 tys. lat szpila brodawkowata, czy \"Postylla\" Jakuba W\u00f3jka wydana w 1584 roku w Krakowie.\n\nMuzeum Warmii i Mazur od wielu lat jedn\u0105 niedziel\u0119 w roku przeznacza na pokaz nowych nabytk\u00f3w. W\u00f3wczas zwiedzaj\u0105cy mog\u0105 zobaczy\u0107, co przez rok osoby prywatne, instytucje, czy firmy przekaza\u0142y do muzeum. Na prezentacj\u0119 trafiaj\u0105 tak\u017ce przedmioty, kt\u00f3re muzeum kupi\u0142o. Ka\u017cdy z muzealnych dzia\u0142\u00f3w prezentuje swoje zbiory.\n\nJak przekaza\u0142o PAP muzeum w minionym roku do Dzia\u0142u Sztuki Dawnej i Rzemios\u0142a Artystycznego trafi\u0142o prawie 30 nowych obiekt\u00f3w, z czego dominowa\u0142y przedmioty metalowe wykonane ze srebra lub platerowane. Jednym z cenniejszych nabytk\u00f3w jest pojemnik toaletowy z 2. \u0107wierci XVIII w. sygnowany przez dzia\u0142aj\u0105cego w Olsztynie z\u0142otnika \u2013 Johannesa Chrsitopha Geese. Geese by\u0142 cenionym warmi\u0144skim z\u0142otnikiem, wykonywa\u0142 m.in. monstrancje, kt\u00f3re mo\u017cna ogl\u0105da\u0107 tak\u017ce z Muzeum Archidiecezji Warmi\u0144skiej.\n\nDzia\u0142 Archeologii Muzeum Warmii i Mazur w ubieg\u0142ym roku wzbogaci\u0142 si\u0119 o szereg zabytk\u00f3w z bada\u0144 wykopaliskowych oraz ponad dwadzie\u015bcia znalezisk przypadkowych. Cymesem archeologicznym b\u0119dzie na niedzielnej wystawie wykonana ok. 3,2 tys. lat temu szpila brodawkowata. \"Jest to przedmiot niezwykle charakterystyczny dla kultury Noua. Jej spo\u0142eczno\u015bci zamieszkiwa\u0142y tereny wsp\u00f3\u0142czesnej Rumunii, a wytwarzane przez nich szpile w\u0142a\u015bciwie nie pojawiaj\u0105 si\u0119 na wyposa\u017ceniu nikogo innego. Tym bardziej dziwi\u0107 musi odkrycie takiej ozdoby w okolicach Drw\u0119czna w powiecie lidzbarskim\" - przekaza\u0142o PAP muzeum.\n\nW niedziel\u0119 w olszty\u0144skim zamku b\u0119dzie mo\u017cna zobaczy\u0107 tak\u017ce \u201ePostilla catholica to iest Kazania na Ewangelie niedzielne y od\u015bwi\u0119tne przez ca\u0142y rok [\u2026]\u201d autorstwa Jakuba Wujka wydane w 1584 roku w Krakowie w drukarni Jakuba Siebeneichera. Wydawnictwo to nazywane jest r\u00f3wnie\u017c \u201ePostyll\u0105 katolick\u0105 wi\u0119ksz\u0105\u201d.\n\nMuzeum poinformowa\u0142o, \u017ce w ofiarowanej w darze do zbior\u00f3w muzealnych \u201ePostilli...\u201d brakuje pocz\u0105tkowych kart. \"Nak\u0142ad wydania owej \u201ePostilli\u201d wynosi\u0142 oko\u0142o 1 tys. egzemplarzy\" - podkre\u015blono.\n\nW\u015br\u00f3d przekazanych muzeum numizmat\u00f3w pokazywane b\u0119d\u0105 monety przekazane przez Departament Skarbcowy NBP w Warszawie. \"Najcenniejszymi s\u0105 mi\u0119dzy innymi nomina\u0142y 50 z\u0142otowe, wchodz\u0105ce w sk\u0142ad dobiegaj\u0105cej ko\u0144ca serii pod tytu\u0142em +Skarby Stanis\u0142awa Augusta+. Na ich rewersach przedstawiono popiersia kolejnych kr\u00f3l\u00f3w z pocztu w\u0142adc\u00f3w Polski: Augusta II, Augusta III i Stanis\u0142awa Leszczy\u0144skiego. S\u0105 to monety odwzorowuj\u0105ce s\u0142ynne osiemnastowieczne medale wykonane na zlecenie Stanis\u0142awa Augusta Poniatowskiego, powsta\u0142e w mennicy warszawskiej w latach 1791\u20131797/1798, kt\u00f3rych tw\u00f3rcami byli Jan Filip Holzhaeusser i Jan Jakub Reichel\" - poda\u0142o muzeum.\n\nWystawa prezentuj\u0105ca nowe nabytki muzealne b\u0119dzie udost\u0119pniona zwiedzaj\u0105cym tylko w niedziel\u0119, od godz. 11. (PAP)"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Wypoczynek w klimacie morsko-g\u00f3rskim \u2013 w tym podkarpackim uzdrowisku to mo\u017cliwe",
+            "link": "https://kalisz.naszemiasto.pl/turystyka/113",
+            "description": "S\u0142yn\u0105ce z g\u00f3rskich pasm woj. podkarpackie skrywa miejsce, kt\u00f3rego mog\u0105 pozazdro\u015bci\u0107 mu zar\u00f3wno miejscowo\u015bci zlokalizowane nad ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.lmzAlX77rAv_HE7wKVxg_i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "kalisz.naszemiasto3 godz.",
+            "source": "kalisz.naszemiasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Mo\u017cna zobaczy\u0107 Bibli\u0119 Gutenberga! Niezwyk\u0142y pokaz w Warszawie",
+            "link": "https://kurierwilenski.lt/2025/02/16/mozna-zobaczyc-biblie-gutenberga-niezwykly-pokaz-w-warszawie/",
+            "description": "Do 23 marca w Muzeum Narodowym w Warszawie mo\u017cna ogl\u0105da\u0107 Bibli\u0119 wydrukowan\u0105 ponad 570 lat temu w Moguncji przez Johannesa ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.tfXi2dSpZHt-3RWA_mkOwS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "kurierwilenski14 godz.",
+            "source": "kurierwilenski",
+            "article_content": "Pokaz dwutomowej Biblii Gutenberga wymaga\u0142 starannych przygotowa\u0144. Jej egzemplarze mo\u017cna eksponowa\u0107 nie d\u0142u\u017cej ni\u017c 60 dni w roku, z niewielk\u0105 ilo\u015bci\u0105 sztucznego \u015bwiat\u0142a i z dala od niebezpiecznego dla zabytk\u00f3w promieniowania s\u0142onecznego. Szczeg\u00f3lnie wra\u017cliwe na \u015bwiat\u0142o s\u0105 strony bogate w elementy r\u0119kopi\u015bmienne.\n\nW zwi\u0105zku z tym Biblia prezentowana jest w specjalnej, klimatyzowanej gablocie utrzymuj\u0105cej odpowiednie dla dzie\u0142a warunki: temperatur\u0119 w przedziale 20\u201323\u00b0C oraz wilgotno\u015b\u0107 wzgl\u0119dn\u0105 w przedziale 15\u201355 proc. Tomy spoczywaj\u0105 na pulpicie, kt\u00f3rego specjalna konstrukcja zabezpiecza je przed zbyt du\u017cym k\u0105tem otwarcia i w ten spos\u00f3b zapobiega powstawaniu napr\u0119\u017ce\u0144 i zniszcze\u0144.\n\nWszystkie te wymogi dzi\u0119ki staraniom konserwator\u00f3w dzie\u0142 sztuki pozwalaj\u0105 zachowa\u0107 wyj\u0105tkowy zabytek kultury europejskiej dla kolejnych pokole\u0144.\n\nPrze\u0142om technologiczny\n\nO \u017cyciu Johannesa Gutenberga, mieszczanina, obywatela Moguncji, kt\u00f3ry przez kilkana\u015bcie lat mieszka\u0142 te\u017c w Strasburgu, wiemy w gruncie rzeczy niewiele. W zasadzie tyle, ile zachowa\u0142o si\u0119 w ksi\u0119gach miejskich i s\u0105dowych. Sprowadza\u0142 du\u017co wina, za kt\u00f3re p\u0142aci\u0142 podatki, sporo te\u017c si\u0119 procesowa\u0142. Do historii przeszed\u0142 jednak dzi\u0119ki temu, \u017ce w po\u0142owie XV w. zastosowa\u0142 technik\u0119 druku z ruchomych czcionek.\n\n\u2013 Powszechne przekonanie, \u017ce to Gutenberg wynalaz\u0142 druk, bardzo sp\u0142yca obraz drukarstwa p\u00f3\u017ano\u015bredniowiecznego \u2013 t\u0142umaczy Marcin Bogusz, kurator z Muzeum Narodowego w Warszawie. \u2013 Jego starania nie by\u0142y nowatorskie. On jako pierwszy w Europie opracowa\u0142 technik\u0119 odlewania i odbijania z ruchomych czcionek, ale jeszcze w poprzednim tysi\u0105cleciu, w Azji, dok\u0142adnie w Chinach i Korei, by\u0142y popularne r\u00f3\u017cne techniki i technologie drukowania. Tam r\u00f3wnie\u017c drukowano z ruchomych czcionek, ale nie przyj\u0119\u0142o si\u0119 to na trwa\u0142e. W Europie na d\u0142ugo przed Gutenbergiem te\u017c drukowano. Robiono to w technice drzeworytu, odbijano ca\u0142e strony, kt\u00f3rych tekst i ilustracje by\u0142y wy\u017cynane w jednym drewnianym klocku. Niemniej technologia, kt\u00f3r\u0105 opracowa\u0142 Gutenberg by\u0142a prze\u0142omowa, poniewa\u017c pozwoli\u0142a szybciej kr\u0105\u017cy\u0107 my\u015blom, wiadomo\u015bciom, a by\u0107 mo\u017ce przede wszystkim dawa\u0107 rozrywk\u0119 osobom, kt\u00f3re czyta\u0142y ksi\u0105\u017cki. Drukowano bowiem nie tylko dzie\u0142a teologiczne, lecz tak\u017ce powie\u015bci czy romanse.\n\nZachowa\u0142o si\u0119 50 egzemplarzy\n\nTechnologia Gutenberga szybko si\u0119 rozprzestrzeni\u0142a. Na terenie Cesarstwa powsta\u0142y liczne oficyny drukarskie sprzedaj\u0105ce ksi\u0105\u017cki w ca\u0142ej Europie. Wynalazek pozwoli\u0142 szybciej i taniej sk\u0142ada\u0107 i drukowa\u0107 ksi\u0105\u017ck\u0119.\n\nMarcin Bogusz podkre\u015bla, \u017ce 42-wierszowa Biblia jest pierwszym znanym nam drukiem Gutenberga. \u2013 Trudno jednak uwierzy\u0107, \u017ce rozpocz\u0105\u0142 on odbijanie od dwutomowego, opas\u0142ego dzie\u0142a, kt\u00f3re ma prawie 1300 stron \u2013 kontynuuje. \u2013 Zak\u0142adamy, \u017ce musia\u0142 wcze\u015bniej odbija\u0107 mniejsze formy drukarskie, jak: prognostyki, horoskopy, kalendarze czy kieszonkowe podr\u0119czniki \u0142aciny.\n\nPierwotny nak\u0142ad Biblii Gutenberga, drukowanej w dw\u00f3ch tomach w latach 1452\u20131455, nie jest znany. Uwa\u017ca si\u0119, \u017ce by\u0142o to ok. 180 egzemplarzy. Wi\u0119kszo\u015b\u0107 z nich wydrukowano na papierze, kt\u00f3ry powsta\u0142 w Nadrenii, natomiast kilkadziesi\u0105t, bardziej luksusowych wolumin\u00f3w, na pergaminie. Z tego stosunkowo niewielkiego nak\u0142adu zachowa\u0142o si\u0119 mniej ni\u017c 50 egzemplarzy, z czego wi\u0119kszo\u015b\u0107 to pojedyncze zachowane tomy.\n\nPierwszy tom Biblii Gutenberga z Pelplina (1452\u20131455), przechowywanej w Muzeum Diecezjalnym w Pelplinie im. bp. Stanis\u0142awa Wojciecha Okoniewskiego\n\n| Fot. Juliusz Raczkowski\n\nPo\u017cyteczne niechlujstwo\n\nBiblia prezentowana w Warszawie nale\u017cy do zbior\u00f3w Muzeum Diecezjalnego w Pelplinie. Jest to egzemplarz dwutomowy, liczy \u0142\u0105cznie 640 nieliczbowanych kart, w tomie pierwszym znajduj\u0105 si\u0119 324 karty, w tomie drugim jest osiem kart mniej.\n\n\u2013 Wiemy o nim sporo \u2013 wyja\u015bnia kurator. \u2013 Zakupiony zosta\u0142 przez Miko\u0142aja Chrapickiego, biskupa che\u0142mi\u0144skiego. W 1502 r. zosta\u0142 ofiarowany Konwentowi Franciszkan\u00f3w Obserwant\u00f3w w Lubawie i w\u0142a\u015bciwie wi\u0119kszo\u015b\u0107 czasu sp\u0119dzi\u0142 w tym jednym miejscu. Wcze\u015bniej jednak zosta\u0142 oprawiony w warsztacie introligatora Henryka Costera w Lubece. Dzi\u0119ki niemu Bibli\u0119 chroni\u0105 i zdobi\u0105 deski z d\u0119biny ba\u0142tyckiej powleczonej ko\u017al\u0105 sk\u00f3r\u0105, na kt\u00f3rej wyt\u0142oczono przedstawienia zwierz\u0105t, ornamenty ro\u015blinne, wizerunki \u015bw. Paw\u0142a oraz nazwisko introligatora. Mo\u017cemy przypuszcza\u0107, \u017ce Coster oprawi\u0142 ju\u017c gotowy egzemplarz, to znaczy wydrukowany przez Gutenberga i ozdobiony przez iluminatora. Warto bowiem pami\u0119ta\u0107, \u017ce inicja\u0142y i ozdobne filigrany, kt\u00f3re zdobi\u0105 karty Biblii, zosta\u0142y na mod\u0142\u0119 \u015bredniowieczn\u0105 wykonane r\u0119cznie. Jedynie tekst podstawowy, u\u0142o\u017cony w dw\u00f3ch kolumnach, zosta\u0142 wydrukowany z ruchomych czcionek.\n\nO warto\u015bci egzemplarza przes\u0105dza nie tylko to, \u017ce nale\u017cy on do najwcze\u015bniejszych prac mogunckiego drukarza. Decyduj\u0105ca okaza\u0142a si\u0119 drobna usterka techniczna w druku.\n\n\u2013 Na karcie 46, w dolnym lewym rogu, odbi\u0142 si\u0119 bok czcionki drukarskiej, kt\u00f3ra musia\u0142a wypa\u015b\u0107 z mocowania, daj\u0105c nam wgl\u0105d w to, jaki rozmiar mia\u0142y poszczeg\u00f3lne czcionki \u2013 t\u0142umaczy Bogusz. \u2013 Jest to pomnik niechlujstwa, bo ewidentnie kt\u00f3ry\u015b z czeladnik\u00f3w musia\u0142 machn\u0105\u0107 na to r\u0119k\u0105 i zostawi\u0107, zak\u0142adaj\u0105c, \u017ce i tak si\u0119 sprzeda. Jednak dzi\u0119ki temu mo\u017cemy mie\u0107 jakiekolwiek wyobra\u017cenie, jak wygl\u0105da\u0142 ten pierwszy warsztat Gutenberga.\n\nBurzliwe losy ksi\u0119gi\n\nPo kasacie konwentu w Lubawie w latach 20. XIX w. egzemplarz trafi\u0142 do Biblioteki Seminarium Duchownego w Pelplinie. W ostatnim stuleciu losy pelpli\u0144skiej Biblii Gutenberga splata\u0142y si\u0119 z burzliw\u0105 histori\u0105 Polski.\n\nWI\u0118CEJ NI\u017bEJ | Reklama na podst. ust. u\u017cytkownika.; Dzi\u0119ki reklamie czytasz nas za darmo\n\nW obliczu zagro\u017cenia wojennego, w 1939 r., ksi\u0119ga zosta\u0142a wywieziona przez Warszaw\u0119, Pary\u017c i Wielk\u0105 Brytani\u0119 do Kanady. Podczas II wojny \u015bwiatowej znajdowa\u0142a si\u0119 w skarbcu Bank of Montreal w Ottawie. Do Polski wr\u00f3ci\u0142a po 20 latach, w roku 1959. Nim jednak trafi\u0142a do Pelplina, przez kilka dni, wraz z innymi powracaj\u0105cymi skarbami polskiej kultury, by\u0142a eksponowana w Muzeum Narodowym w Warszawie. Do tego wydarzenia nawi\u0105zuje tegoroczny pokaz w Galerii Sztuki \u015aredniowiecznej, kt\u00f3ry jest drugim w historii warszawskiego muzeum.\n\nNie znaczy to, \u017ce Bibli\u0119 mo\u017cna by\u0142o na co dzie\u0144 podziwia\u0107 w Pelplinie. \u2013 Mo\u017cna by\u0142o tam ogl\u0105da\u0107 tylko faksymile, od 20 lat oryginalna Biblia nie by\u0142a prezentowana. Sze\u015bciotygodniowy pokaz w Warszawie to pierwsza od tak dawna okazja jej zobaczenia \u2013 m\u00f3wi kurator Bogusz. \u2013 Obecnie jednak ko\u0144czy si\u0119 wielki projekt badawczo-konserwatorski i w Pelplinie trwa rearan\u017cacja przestrzeni, w kt\u00f3rej Biblia po powrocie z Warszawy b\u0119dzie eksponowana przez jaki\u015b nied\u0142ugi czas w roku. Decyduj\u0105 o tym wzgl\u0119dy konserwatorskie, kt\u00f3re obiekty drukowane na papierze ka\u017c\u0105 szczeg\u00f3lnie chroni\u0107.\n\nWarszawskiemu pokazowi Biblii Gutenberga towarzyszy tematyczna \u015bcie\u017cka zwiedzania, po\u015bwi\u0119cona p\u00f3\u017ano\u015bredniowiecznej kulturze pisma i ksi\u0105\u017cce drukowanej\n\n| Fot. Bartosz Bajerski, Muzeum Narodowe w Warszawie\n\n\u015acie\u017cka towarzysz\u0105ca\n\nWarszawskiemu pokazowi Biblii Gutenberga towarzyszy tematyczna \u015bcie\u017cka zwiedzania, po\u015bwi\u0119cona p\u00f3\u017ano\u015bredniowiecznej kulturze pisma i ksi\u0105\u017cce drukowanej.\n\n\u2013 Po\u015brodku Galerii Sztuki \u015aredniowiecznej znajduje si\u0119 ksi\u0105\u017cka, nie jest nawet istotne, \u017ce to Biblia \u2013 t\u0142umaczy kurator Bogusz. \u2013 Istotne jest, \u017ce ma du\u017ce znaczenie jako pierwsza wydrukowana z ruchomych czcionek. Wok\u00f3\u0142 niej zbudowali\u015bmy \u015bcie\u017ck\u0119, do kt\u00f3rej w\u0142\u0105czyli\u015bmy nie tylko obiekty znajduj\u0105ce si\u0119 w galerii na sta\u0142e, lecz tak\u017ce znajduj\u0105ce si\u0119 w magazynie, kt\u00f3re zosta\u0142y od\u015bwie\u017cone, zakonserwowane i wystawione. Spacer prowadzi zwiedzaj\u0105cych \u015bladem malarskich i rze\u017abiarskich wyobra\u017ce\u0144 ksi\u0105g, os\u00f3b czytaj\u0105cych lub pisz\u0105cych, a tak\u017ce inskrypcji \u0142aci\u0144skich, hebrajskich czy staroniemieckich.\n\nKurator zauwa\u017ca, \u017ce mnogo\u015b\u0107 wizerunk\u00f3w os\u00f3b z kodeksami w d\u0142oniach i napis\u00f3w na \u015bredniowiecznych obrazach u\u015bwiadamia, jak wa\u017cnym przedmiotem by\u0142a ksi\u0105\u017cka w \u015bredniowieczu. Stanowi\u0142a rekwizyt, atrybut wielu \u015bwi\u0119tych. Napisy na obrazach by\u0142y bardzo wa\u017cnym komponentem kultury wizualnej ko\u0144ca epoki.\n\nWI\u0118CEJ NI\u017bEJ | Reklama na podst. ust. u\u017cytkownika.; Dzi\u0119ki reklamie czytasz nas za darmo\n\n\u2013 Uwa\u017ca si\u0119, co jest uzasadnione, \u017ce \u015bredniowiecze by\u0142o epok\u0105 obrazu \u2013 m\u00f3wi Bogusz. \u2013 Niemniej je\u015bli zaczniemy bli\u017cej przygl\u0105da\u0107 si\u0119 \u015bredniowiecznym obrazom tablicowym czy ca\u0142ym nastawom, zauwa\u017cymy, jak cz\u0119stym motywem by\u0142a ksi\u0105\u017cka. Te zagadnienia i problemy pokazujemy na \u015bcie\u017cce, kt\u00f3ra skupia si\u0119 na motywie ksi\u0105\u017cki w jej rozmaitych funkcjach oraz formach. Przedstawiamy bowiem proste, zwyk\u0142e kodeksy, jak i wspania\u0142e egzemplarze, bogato zdobione, oprawione wyciskanymi plakietami czy guzikami. Mamy nawet do\u015b\u0107 rzadkie typy opraw, jak chocia\u017cby oprawa sakwowa.\n\nOstatnim zagadnieniem pokazanym w ramach \u015bcie\u017cki towarzysz\u0105cej pokazowi Biblii Gutenberga jest wp\u0142yw grafiki \u2013 nowego medium \u2013 na kszta\u0142towanie kompozycji w p\u00f3\u017anym \u015bredniowieczu i wczesnej nowo\u017cytno\u015bci. Praktyk\u0105 warsztatow\u0105 by\u0142o korzystanie z odbitek drzeworytniczych czy miedziorytniczych, dzi\u0119ki kt\u00f3rym mo\u017cna by\u0142o do\u015b\u0107 \u0142atwo skopiowa\u0107 potrzebn\u0105 kompozycj\u0119. Dawni mistrzowie bardzo ch\u0119tnie korzystali z odbitek przy tworzeniu w\u0142asnych kompozycji czego przyk\u0142adami malarskimi s\u0105 niezwyk\u0142ej popularno\u015bci miedzioryty Martina Schongauera, Israela van Meckenema czy Albrechta D\u00fcrera.\n\nCzytaj wi\u0119cej: Rok z Che\u0142mo\u0144skim! Wa\u017cna wystawa w polskich muzeach\n\nArtyku\u0142 opublikowany w wydaniu magazynowym \u201eKuriera Wile\u0144skiego\u201d Nr 7 (19) 15-21/02/2025"
         }
     },
     {
@@ -362,41 +378,9 @@
             "description": "Niecodziennego odkrycia dokona\u0142 nadz\u00f3r archeologiczny czuwaj\u0105cy nad pracami przy rozbudowie Drogi Krajowej nr 7 mi\u0119dzy Czosnowem a Modlinem. Podczas rob\u00f3t ziemnych ukaza\u0142a si\u0119 konstrukcja z cegie\u0142 i w ...",
             "image_url": "https://www.bing.pl/th?id=ODF.hGSuZUH1fKDOGwcDaIGMcg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "Warszawa.Wyborcza.pl5 godz.",
-            "source": "Warszawa.Wyborcza.pl",
+            "date": "warszawa.wyborcza10 godz.",
+            "source": "warszawa.wyborcza",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Znale\u017ali nie\u015bmiertelnik w\u0142oskiego \u017co\u0142nierza i odnale\u017ali jego wnuk\u00f3w",
-            "link": "https://tvn24.pl/olsztyn/bogusze-znalezli-na-polu-niesmiertelnik-wloskiego-zolnierza-z-ii-wojny-swiatowej-ma-trafic-do-rodziny-st8308338",
-            "description": "Giulio Comincioli - tak nazywa\u0142 si\u0119 w\u0142oski \u017co\u0142nierz pojmany we wrze\u015bniu 1943 roku przez Niemc\u00f3w na pograniczu ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.rMZUJcO7j5DgkV845e14aC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "TVN245 godz.",
-            "source": "TVN24",
-            "article_content": "Giulio Comincioli - tak nazywa\u0142 si\u0119 w\u0142oski \u017co\u0142nierz pojmany we wrze\u015bniu 1943 roku przez Niemc\u00f3w na pograniczu w\u0142osko-austriackim, kt\u00f3ry trafi\u0142 do obozu jenieckiego w Boguszach (Warmi\u0144sko-Mazurskie). Cz\u0142onkowie stowarzyszenia, kt\u00f3rzy prowadz\u0105 na polach poszukiwania z wykrywaczem metali znale\u017ali nie\u015bmiertelnik W\u0142ocha. Uda\u0142o si\u0119 im te\u017c dotrze\u0107 do jego rodziny. \u017bo\u0142nierz prze\u017cy\u0142 wojn\u0119, zmar\u0142 w wieku 93 lat. Spo\u0142ecznicy chc\u0105 przekaza\u0107 nie\u015bmiertelnik rodzinie.\n\n- To zawsze s\u0105 ogromne emocje. Prowadzimy tu poszukiwania ju\u017c od ponad dw\u00f3ch lat. Opr\u00f3cz takich przedmiot\u00f3w jak monety, krzy\u017cyki, guziki i inne cz\u0119\u015bci umundurowania, znale\u017ali\u015bmy chocia\u017cby improwizowany p\u0119dzel do golenia zrobiony z \u0142uski z przywi\u0105zanym do niej w\u0142osiem ko\u0144skim czy te\u017c gruby drut wyklepany w taki spos\u00f3b, \u017ceby mo\u017cna by\u0142o nim kroi\u0107 np. chleb - m\u00f3wi Mariusz Jarz\u0105bek, prezes Stowarzyszenia Historyczno-Eksploracyjnego \"Ja\u0107wie\u017c\".\n\nTo w\u0142a\u015bnie on na polu w miejscowo\u015bci Bogusze w powiecie e\u0142ckim znalaz\u0142 nie\u015bmiertelnik w\u0142oskiego \u017co\u0142nierza.\n\nZnaleziony zosta\u0142 nie\u015bmietelnik. \u017bo\u0142nierz nazywa\u0142 si\u0119 Giulio Comincioli Stowarzyszenie Historyczno-Eksploracyjne \"Ja\u0107wie\u017c\"\n\nPojmali go we wrze\u015bniu 1943 roku\n\n\"Giulio Comincioli (ur. 3 kwietnia 1915 r. w Toscolano, zmar\u0142 26 lipca 2008 r.) by\u0142 \u017co\u0142nierzem 2. Pu\u0142ku Strzelc\u00f3w Alpejskich (Alpini). Zosta\u0142 pojmany na pograniczu w\u0142osko-austriackim w Vipiteno 9 wrze\u015bnia 1943 r.\" \u2013 czytamy w po\u015bcie na profilu facebookowym stowarzyszenia.\n\n- To ju\u017c bodaj dwunasty nie\u015bmiertelnik, kt\u00f3ry tu znale\u017ali\u015bmy. W kilku przypadkach uda\u0142o nam si\u0119 dotrze\u0107 do rodziny \u017co\u0142nierzy. Tak te\u017c by\u0142o i tym razem. B\u0119dziemy prosi\u0107 konserwatora zabytk\u00f3w, kt\u00f3ry wydaje nam zgody na prowadzenie poszukiwa\u0144, \u017ceby\u015bmy mogli przekaza\u0107 artefakt wnukom tego cz\u0142owieka \u2013 podkre\u015bla Jarz\u0105bek.\n\nArtefakt znalaz\u0142 prezes stowarzyszenia Stowarzyszenie Historyczno-Eksploracyjne \"Ja\u0107wie\u017c\"\n\nZ w\u0142osko-austriackiego pogranicza do Prus Wschodnich\n\nDzia\u0142aj\u0105cy w stowarzyszeniu dr Stefan Marcinkiewicz z Instytutu Nauk Politycznych Uniwersytetu Warmi\u0144sko-Mazurskiego w Olsztynie m\u00f3wi, \u017ce po obaleniu Benita Mussoliniego (24 lipca 1943 roku) i kapitulacji W\u0142och wobec aliant\u00f3w (3 wrze\u015bnia podpisano tajny akt kapitulacji, 8 wrze\u015bnia 1943 roku roku oficjalnie to og\u0142oszono), Niemcy internowali w\u0142oskich \u017co\u0142nierzy.\n\n- Dzia\u0142o si\u0119 to te\u017c wcze\u015bniej, bo Niemcy przewidywali, \u017ce W\u0142ochy mog\u0105 skapitulowa\u0107, w r\u00f3\u017cnych miejscach. Mi\u0119dzy innymi na Ba\u0142kanach, albo jak w tym przypadku, na pograniczu w\u0142osko-austriackim. \u017bo\u0142nierze byli wywo\u017ceni chocia\u017cby do Prus Wschodnich \u2013 opowiada nasz rozm\u00f3wca.\n\nW Boguszach jest cmentarz poobozowy Stefan Marcinkiewicz\n\nGiulio Comincioli trafi\u0142 do obozu zlokalizowanego w Boguszach.\n\n- Obok siebie le\u017c\u0105 dwie wsie \u2013 Bogusze i Prostki. Bogusze by\u0142y przed II wojn\u0105 \u015bwiatow\u0105 po polskiej stronie, natomiast Prostki \u2013 po niemieckiej. Chocia\u017c ob\u00f3z zlokalizowany by\u0142 w Boguszach, w niemieckiej nomenklaturze nazwa\u0142 si\u0119 Stalag I B Kommando Prostken (I B/PR) \u2013 wyja\u015bnia nasz rozm\u00f3wca.\n\nOd czerwca 1941 do stycznia 1945\n\nPisze o obozie ksi\u0105\u017ck\u0119. Publikuje te\u017c na jego temat artyku\u0142y. - Powsta\u0142 w czasie operacji Barbarossa (czyli, rozpocz\u0119tym 22 czerwca 1941 roku, ataku III Rzeszy na ZSRR - przyp. red.). Zajmowa\u0142 oko\u0142o 30 hektar\u00f3w. Trafili tu je\u0144cy sowieccy, a - na prze\u0142omie 1942 i 1943 roku - r\u00f3wnie\u017c \u017bydzi z okolicznych miejscowo\u015bci. Byli te\u017c cywile spod Leningradu, kt\u00f3rych p\u00f3\u017aniej przewo\u017cono do Niemiec na roboty przymusowe \u2013 wylicza dr Marcinkiewicz.\n\nOb\u00f3z zajmowa\u0142 oko\u0142o 30 hektar\u00f3w. Dzi\u015b s\u0105 tam pola Stefan Marcinkiewicz\n\nOb\u00f3z istnia\u0142 do czasu wkroczenia wojsk radzieckim w styczniu 1945 roku. Do dzi\u015b zachowa\u0142 si\u0119 tylko cmentarz, dwa pomniki oraz miejsce pami\u0119ci w lesie w Kos\u00f3wce, gdzie rozstrzeliwano je\u0144c\u00f3w sowieckich.\n\nNie opowiada\u0142 rodzinie o obozowym szlaku\n\n- Z moich oblicze\u0144 wynika, \u017ce przez ob\u00f3z przewin\u0119\u0142o si\u0119 kilkadziesi\u0105t tysi\u0119cy os\u00f3b, z czego oko\u0142o 20 tysi\u0119cy mo\u017ce by\u0107 pochowanych na cmentarzu, a oko\u0142o pi\u0119\u0107 tysi\u0119cy zgin\u0119\u0142o w lesie w Kos\u00f3wce - m\u00f3wi nasz rozm\u00f3wca.\n\nDodaje, \u017ce kiedy we wrze\u015bniu 1943 roku trafili tu W\u0142osi, zacz\u0119\u0142o si\u0119 robi\u0107 ju\u017c ch\u0142odno, a byli te\u017c tacy \u017co\u0142nierze, kt\u00f3rych przywieziono np. z Grecji.\n\n- Trzymano ich cz\u0119sto w ziemiankach po sowieckich je\u0144cach. Wi\u0119kszo\u015b\u0107 by\u0142a tam do listopada. P\u00f3\u017aniej wywo\u017cono ich do r\u00f3\u017cnych oboz\u00f3w w Niemczech. Tak te\u017c si\u0119 sta\u0142o z Giulio Comincioli. Nie wiemy jaka by\u0142a jego dalsza \u015bcie\u017cka obozowa bo, tak jak wielu W\u0142och\u00f3w, nie opowiada\u0142 p\u00f3\u017aniej swojej rodzinie o gehennie, kt\u00f3r\u0105 przeszed\u0142 \u2013 opowiada dr Marcinkiewicz.\n\nMiejsce strace\u0144 w lesie w Kos\u00f3wce Stefan Marcinkiewicz\n\nNada\u0142 synowi imi\u0119 Rudolf\n\nDo rodziny \u017co\u0142nierza uda\u0142o mu si\u0119 dotrze\u0107 za po\u015brednictwem facebookowej grupy IMI - Internati Militari Italiani, na kt\u00f3rej s\u0105 osoby zainteresowane losem internowanych w\u0142oskich \u017co\u0142nierzy.\n\n- Wnukowie wys\u0142ali mi zdj\u0119cie grobu we W\u0142oszech. Ich dziadek prze\u017cy\u0142 93 lata. Je\u015bli chodzi o wojenne lata wiedz\u0105 tylko tyle, \u017ce nada\u0142 synowi imi\u0119 Rudolf na cze\u015b\u0107 jakiego\u015b Niemca o takim imieniu, kt\u00f3ry pomaga\u0142 rodzinie \u2013 dodaje nasz rozm\u00f3wca.\n\nWcze\u015bniej znaleziono te\u017c inne nie\u015bmiertelniki Stefan Marcinkiewicz\n\nAutorka/Autor:Tomasz Mikulicz\n\n\u0179r\u00f3d\u0142o: tvn24.pl"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Nordic walking w woj. kujawsko-pomorskim. Gdzie warto i\u015b\u0107 w weekend 15 - 16 lutego. 3 najciekawsze trasy",
-            "link": "https://pomorska.pl/nordic-walking-w-woj-kujawsko-pomorskim-gdzie-warto-isc-w-weekend-15-16-lutego-3-najciekawsze-trasy/ar/c7p1-22323647",
-            "description": "Zanim wyruszysz, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 22 lutego w woj. kujawsko-pomorskim ma by\u0107 od -3\u00b0C do 3\u00b0C. Nie powinno pada\u0107. Czas trwania marszu: 23 godz. i 36 min.",
-            "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Pomorska6 godz.",
-            "source": "Gazeta Pomorska",
-            "article_content": "Content not available"
         }
     },
     {
@@ -410,7 +394,7 @@
             "description": "W malowniczej wsi Wojnowice, gdzie\u015b na \u015al\u0105sku, kryje si\u0119 miejsce, kt\u00f3re przetrwa\u0142o pr\u00f3b\u0119 czasu. To nie jest zwyk\u0142a nieruchomo\u015b\u0107. To opowie\u015b\u0107 zamkni\u0119ta w murach, szepcz\u0105ca historie minionych epok. Pa\u0142a ...",
             "image_url": "https://www.bing.pl/th?id=ODF.73GKiv_kwPXUhIas-a0ZXQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "Dziennik Zachodni on MSN13 godz.",
+            "date": "Dziennik Zachodni on MSN18 godz.",
             "source": "Dziennik Zachodni on MSN",
             "article_content": ""
         }
@@ -426,7 +410,7 @@
             "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet zwyk\u0142a pi\u0119cioz\u0142ot\u00f3wka mo\u017ce mie\u0107 wielokrotnie wi\u0119ksz\u0105 warto\u015b\u0107 ni\u017c nomina\u0142.",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "gk24.pl15 godz.",
+            "date": "gk24.pl20 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -442,25 +426,9 @@
             "description": "Zobacz, jakie banknoty strac\u0105 na nominale. Znajduje si\u0119 kilka przypadk\u00f3w, kiedy pieni\u0105dz mo\u017ce straci\u0107 wa\u017cno\u015b\u0107 i nale\u017cy go wymieni\u0107, a w niekt\u00f3rych przypadkach traci te\u017c cz\u0119\u015b\u0107 swojej warto\u015bci. Zobacz, ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "gk24.pl15 godz.",
+            "date": "gk24.pl20 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "16 LUTEGO 2025",
-            "link": "https://www.krakow.pl/kalendarium/1919,shw,2025-02-16,8,day.html",
-            "description": "W bocznym budynku MOCAK-u, obok Czytelni, znajduje si\u0119 sala, w kt\u00f3rej jest eksponowana Biblioteka Mieczys\u0142awa Por\u0119bskiego. Profesor Mieczys\u0142aw Por\u0119bski ju\u017c wiele lat temu wyrazi\u0142 ch\u0119\u0107 przekazania swoj ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stare+numizmatyka",
-            "date": "krakow21 godz.",
-            "source": "krakow",
-            "article_content": "Krak\u00f3w \u2013 czas okupacji 1939-1945\n\nWystawa mie\u015bci si\u0119 w dawnym budynku administracyjnym Fabryki Emalia Oskara Schindlera przy ul. Lipowej 4 i jest opowie\u015bci\u0105 o Krakowie i losach jego polskich i \u017cydowskich mieszka\u0144c\u00f3w w czasie II wojny \u015bwiatowej, ale te\u017c o Niemcach \u2013 okupantach,..."
         }
     },
     {
@@ -474,7 +442,7 @@
             "description": "W olszty\u0144skim zamku od godz. 11 mo\u017cna ogl\u0105da\u0107 w niedziel\u0119 przedmioty, kt\u00f3re w minionym roku przekazano do Muzeum Warmii i ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.6WGAhke6Ssahzm4M13PSfC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "gazetaolsztynska11 godz.",
+            "date": "gazetaolsztynska16 godz.",
             "source": "gazetaolsztynska",
             "article_content": "W olszty\u0144skim zamku od godz. 11 mo\u017cna ogl\u0105da\u0107 w niedziel\u0119 przedmioty, kt\u00f3re w minionym roku przekazano do Muzeum Warmii i Mazur. W\u015br\u00f3d prezentowanych nabytk\u00f3w s\u0105 m.in. licz\u0105ca 3,2 tys. lat szpila brodawkowata, czy \"Postylla\" Jakuba W\u00f3jka wydana w 1584 roku w Krakowie.\n\nMuzeum Warmii i Mazur od wielu lat jedn\u0105 niedziel\u0119 w roku przeznacza na pokaz nowych nabytk\u00f3w. W\u00f3wczas zwiedzaj\u0105cy mog\u0105 zobaczy\u0107, co przez rok osoby prywatne, instytucje, czy firmy przekaza\u0142y do muzeum. Na prezentacj\u0119 trafiaj\u0105 tak\u017ce przedmioty, kt\u00f3re muzeum kupi\u0142o. Ka\u017cdy z muzealnych dzia\u0142\u00f3w prezentuje swoje zbiory.\n\nJak przekaza\u0142o PAP muzeum w minionym roku do Dzia\u0142u Sztuki Dawnej i Rzemios\u0142a Artystycznego trafi\u0142o prawie 30 nowych obiekt\u00f3w, z czego dominowa\u0142y przedmioty metalowe wykonane ze srebra lub platerowane. Jednym z cenniejszych nabytk\u00f3w jest pojemnik toaletowy z 2. \u0107wierci XVIII w. sygnowany przez dzia\u0142aj\u0105cego w Olsztynie z\u0142otnika \u2013 Johannesa Chrsitopha Geese. Geese by\u0142 cenionym warmi\u0144skim z\u0142otnikiem, wykonywa\u0142 m.in. monstrancje, kt\u00f3re mo\u017cna ogl\u0105da\u0107 tak\u017ce z Muzeum Archidiecezji Warmi\u0144skiej.\n\nDzia\u0142 Archeologii Muzeum Warmii i Mazur w ubieg\u0142ym roku wzbogaci\u0142 si\u0119 o szereg zabytk\u00f3w z bada\u0144 wykopaliskowych oraz ponad dwadzie\u015bcia znalezisk przypadkowych. Cymesem archeologicznym b\u0119dzie na niedzielnej wystawie wykonana ok. 3,2 tys. lat temu szpila brodawkowata. \"Jest to przedmiot niezwykle charakterystyczny dla kultury Noua. Jej spo\u0142eczno\u015bci zamieszkiwa\u0142y tereny wsp\u00f3\u0142czesnej Rumunii, a wytwarzane przez nich szpile w\u0142a\u015bciwie nie pojawiaj\u0105 si\u0119 na wyposa\u017ceniu nikogo innego. Tym bardziej dziwi\u0107 musi odkrycie takiej ozdoby w okolicach Drw\u0119czna w powiecie lidzbarskim\" - przekaza\u0142o PAP muzeum.\n\nW niedziel\u0119 w olszty\u0144skim zamku b\u0119dzie mo\u017cna zobaczy\u0107 tak\u017ce \u201ePostilla catholica to iest Kazania na Ewangelie niedzielne y od\u015bwi\u0119tne przez ca\u0142y rok [\u2026]\u201d autorstwa Jakuba Wujka wydane w 1584 roku w Krakowie w drukarni Jakuba Siebeneichera. Wydawnictwo to nazywane jest r\u00f3wnie\u017c \u201ePostyll\u0105 katolick\u0105 wi\u0119ksz\u0105\u201d.\n\nMuzeum poinformowa\u0142o, \u017ce w ofiarowanej w darze do zbior\u00f3w muzealnych \u201ePostilli...\u201d brakuje pocz\u0105tkowych kart. \"Nak\u0142ad wydania owej \u201ePostilli\u201d wynosi\u0142 oko\u0142o 1 tys. egzemplarzy\" - podkre\u015blono.\n\nW\u015br\u00f3d przekazanych muzeum numizmat\u00f3w pokazywane b\u0119d\u0105 monety przekazane przez Departament Skarbcowy NBP w Warszawie. \"Najcenniejszymi s\u0105 mi\u0119dzy innymi nomina\u0142y 50 z\u0142otowe, wchodz\u0105ce w sk\u0142ad dobiegaj\u0105cej ko\u0144ca serii pod tytu\u0142em +Skarby Stanis\u0142awa Augusta+. Na ich rewersach przedstawiono popiersia kolejnych kr\u00f3l\u00f3w z pocztu w\u0142adc\u00f3w Polski: Augusta II, Augusta III i Stanis\u0142awa Leszczy\u0144skiego. S\u0105 to monety odwzorowuj\u0105ce s\u0142ynne osiemnastowieczne medale wykonane na zlecenie Stanis\u0142awa Augusta Poniatowskiego, powsta\u0142e w mennicy warszawskiej w latach 1791\u20131797/1798, kt\u00f3rych tw\u00f3rcami byli Jan Filip Holzhaeusser i Jan Jakub Reichel\" - poda\u0142o muzeum.\n\nWystawa prezentuj\u0105ca nowe nabytki muzealne b\u0119dzie udost\u0119pniona zwiedzaj\u0105cym tylko w niedziel\u0119, od godz. 11. (PAP)"
         }
@@ -490,7 +458,7 @@
             "description": "Niecodziennego odkrycia dokona\u0142 nadz\u00f3r archeologiczny czuwaj\u0105cy nad pracami przy rozbudowie Drogi Krajowej nr 7 mi\u0119dzy Czosnowem a Modlinem. Podczas rob\u00f3t ziemnych ukaza\u0142a si\u0119 konstrukcja z cegie\u0142 i w ...",
             "image_url": "https://www.bing.pl/th?id=ODF.hGSuZUH1fKDOGwcDaIGMcg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "warszawa.wyborcza5 godz.",
+            "date": "warszawa.wyborcza10 godz.",
             "source": "warszawa.wyborcza",
             "article_content": ""
         }
