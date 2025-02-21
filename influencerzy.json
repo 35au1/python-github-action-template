@@ -5,13 +5,61 @@
             "Content-Type": "application/json"
         },
         "body": {
+            "title": "Rzeczy z PRL warte nawet kilkana\u015bcie tysi\u0119cy. Mo\u017cesz je mie\u0107 na strychu",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/rzeczy-z-prl-warte-nawet-kilkana%C5%9Bcie-tysi%C4%99cy-mo%C5%BCesz-je-mie%C4%87-na-strychu/ar-AA1zwnLq?ocid=BingNewsVerp",
+            "description": "Rzeczy z PRL to nie tylko starocie i pami\u0105tki, ale r\u00f3wnie\u017c potencjalne \u017ar\u00f3d\u0142o zysku. W \u015bwiat\u0142ach wsp\u00f3\u0142czesnego rynku antyk\u00f3w ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.c6cax1viqTwcatWPHc8bAy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Onet Kobieta on MSN2 godz.",
+            "source": "Onet Kobieta on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Na bazar nie tylko po jab\u0142ka czy ziemniaki. Mo\u017cna kupi\u0107 kur\u0119 na ros\u00f3\u0142, przetwory, a nawet garnki i kapcie",
+            "link": "https://www.msn.com/pl-pl/kuchnia/wiadomosci-o-zywieniu/na-bazar-nie-tylko-po-jab%C5%82ka-czy-ziemniaki-mo%C5%BCna-kupi%C4%87-kur%C4%99-na-ros%C3%B3%C5%82-przetwory-a-nawet-garnki-i-kapcie/ar-AA1zw6PJ?ocid=BingNewsVerp",
+            "description": "Produkty rolno-spo\u017cywcze mo\u017cna dzi\u015b kupi\u0107 w marketach, bezpo\u015brednio w gospodarstwach lub na bazarkach, tak\u017ce online.",
+            "image_url": "https://www.bing.pl/th?id=OVFT.grlwESzPVUbJlIU9fN9ecS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Strefa Agro on MSN2 godz.",
+            "source": "Strefa Agro on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
             "title": "Ubrania a ni\u017cszych cenach w sklepach sieci Reserved, House, Cropp i Mohito w pi\u0105tek, 21.02.2025. Sprawd\u017a, co jest w promocji",
             "link": "https://naszemiasto.pl/ubrania-a-nizszych-cenach-w-sklepach-sieci-reserved-house-cropp-i-mohito-w-piatek-21-02-2025-sprawdz-co-jest-w-promocji/ar/c15p1-20976483",
             "description": "Jakie promocje znajdziesz dzi\u015b w sklepach firmy LPP (Reserved, Cropp, Mohito i House)? Zobacz, co mo\u017cesz znale\u017a\u0107 aktualnie (21.02.25) w obni\u017ckach cenowych. Chcesz od\u015bwie\u017cy\u0107 swoj\u0105 szaf\u0119? Szukasz nowych ...",
             "image_url": "https://www.bing.pl/th?id=ODF.y_dEta6k5L6Idskh7fVTtA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "naszemiasto11 godz.",
+            "date": "naszemiasto15 godz.",
             "source": "naszemiasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Taka 5 z\u0142ot\u00f3wka i inne monety s\u0105 w cenie z\u0142ota. Sprawd\u017a, ile mo\u017cna na nich zarobi\u0107! [21.02.25]",
+            "link": "https://pomorska.pl/taka-5-zlotowka-i-inne-monety-sa-w-cenie-zlota-sprawdz-ile-mozna-na-nich-zarobic-21-02-25/ar/c1p2-27282437",
+            "description": "Kolekcjonerzy szukaj\u0105 monet z okresu PRL, ale nie tylko, gdy\u017c tak\u017ce monety starsze, a nawet te wsp\u00f3\u0142czesne mog\u0105 by\u0107 cenne.",
+            "image_url": "https://www.bing.pl/th?id=OVFT.68CBREw7lkITbtE8SEFhjC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "Pomorska2 godz.",
+            "source": "Pomorska",
             "article_content": "Content not available"
         }
     },
@@ -26,23 +74,7 @@
             "description": "W 2025 roku kolekcjonerzy nadal intensywnie interesuj\u0105 si\u0119 starymi pieni\u0119dzmi z okresu Polskiej Rzeczpospolitej Ludowej. Ceny ...",
             "image_url": "https://www.bing.pl/th?id=OVF.powfRzaeyqCaDE%2fONEqhPA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Gazeta Pomorska on MSN6 godz.",
-            "source": "Gazeta Pomorska on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Taka 5 z\u0142ot\u00f3wka i inne monety s\u0105 w cenie z\u0142ota. Sprawd\u017a, ile mo\u017cna na nich zarobi\u0107!",
-            "link": "https://www.msn.com/pl-pl/finanse/og%C3%B3lne/taka-5-z%C5%82ot%C3%B3wka-i-inne-monety-s%C4%85-w-cenie-z%C5%82ota-sprawd%C5%BA-ile-mo%C5%BCna-na-nich-zarobi%C4%87-19-02-2025-r/ar-AA1zlLU9?ocid=BingNewsVerp",
-            "description": "Kolekcjonerzy szukaj\u0105 monet z okresu PRL, ale nie tylko, gdy\u017c tak\u017ce monety starsze, a nawet te wsp\u00f3\u0142czesne mog\u0105 by\u0107 cenne.",
-            "image_url": "https://www.bing.pl/th?id=OVF.tSzeNoLnJB%2f9gLv5uIMRsw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "Gazeta Pomorska on MSN2 godz.",
+            "date": "Gazeta Pomorska on MSN9 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -58,9 +90,25 @@
             "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.rXY4IFBt9hVZAYwsRbQrPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "gk24.pl8 godz.",
+            "date": "gk24.pl12 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Rzadkie monety z PRL poszukiwane przez kolekcjoner\u00f3w. Sprawd\u017a, kt\u00f3re s\u0105 najdro\u017csze i ile mo\u017cna za nie zarobi\u0107! 21.02.2025",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/rzadkie-monety-z-prl-poszukiwane-przez-kolekcjoner%C3%B3w-sprawd%C5%BA-kt%C3%B3re-s%C4%85-najdro%C5%BCsze-i-ile-mo%C5%BCna-za-nie-zarobi%C4%87-21022025/ar-AA1zuHfd?ocid=BingNewsVerp",
+            "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT._V-rWLu6pRQ3UWKHtZMwMi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "Express Ilustrowany on MSN9 godz.",
+            "source": "Express Ilustrowany on MSN",
+            "article_content": ""
         }
     },
     {
@@ -74,23 +122,7 @@
             "description": "B\u0105d\u017a szczeg\u00f3lnie uwa\u017cny sprz\u0105taj\u0105c swoje szuflady. Cenne okazy mog\u0105 kurzy\u0107 si\u0119 w zapomnieniu, a monety z PRL mog\u0105 by\u0107 czasami warte fortun\u0119. Sprawd\u017a sam, czego szuka\u0107! Prawie w ka\u017cdym polskim domu zna ...",
             "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "gs24.pl6 godz.",
-            "source": "gs24.pl",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Masz te banknoty? To prawdziwe skarby! Za jeden mo\u017cesz otrzyma\u0107 kilka tysi\u0119cy z\u0142otych! [ZDJ\u0118CIA] 21.02.2025",
-            "link": "https://gs24.pl/masz-te-banknoty-to-prawdziwe-skarby-za-jeden-mozesz-otrzymac-kilka-tysiecy-zlotych-zdjecia-21022025/ar/c1-17930573",
-            "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.o4EwlAsIz5rMM3h8kMS_wi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "gs24.pl6 godz.",
+            "date": "gs24.pl10 godz.",
             "source": "gs24.pl",
             "article_content": "Content not available"
         }
@@ -103,10 +135,10 @@
         "body": {
             "title": "Porcelana z czas\u00f3w PRL w cenie z\u0142ota. Tyle dzi\u015b kosztuj\u0105 stare porcelanowe naczynia, wazony i figurki",
             "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/porcelana-z-czas%C3%B3w-prl-w-cenie-z%C5%82ota-tyle-dzi%C5%9B-kosztuj%C4%85-stare-porcelanowe-naczynia-wazony-i-figurki/ar-AA1zs5CV?ocid=BingNewsVerp",
-            "description": "Porcelana produkowana w PRL-u jest obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli posiadasz ...",
+            "description": "Porcelana PRL - sk\u0105d zainteresowanie w 2025 roku? Porcelana produkowana w czasach Polskiej Rzeczypospolitej Ludowej to ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.Km7hSir5dwkEIoE9bxRVuS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN20 godz.",
+            "date": "Gazeta Pomorska on MSN1 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -117,12 +149,28 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Kryszta\u0142y PRL poszukiwane przez kolekcjoner\u00f3w 2025. Tyle trzeba zap\u0142aci\u0107 za kryszta\u0142owe naczynia [21.02.2025 r.]",
-            "link": "https://pomorska.pl/krysztaly-prl-poszukiwane-przez-kolekcjonerow-2025-tyle-trzeba-zaplacic-za-krysztalowe-naczynia-21-02-2025-r/ar/c9p2-27212507",
-            "description": "Kryszta\u0142y produkowane w PRL-u s\u0105 obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli posiadasz ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.q5mF1I04APXCO%2f9wdgT%2bDg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Walka z czasem i chwile grozy na przeje\u017adzie kolejowym",
+            "link": "https://tvn24.pl/lodz/stara-wies-piotrkow-trybunalski-samochod-stanal-na-torach-i-nie-chcial-odpalic-nadjezdzal-pociag-nagranie-st8316918",
+            "description": "Kobieta jecha\u0142a przez przejazd kolejowy, kiedy jej samoch\u00f3d nagle zgas\u0142. Auto nie chcia\u0142o odpali\u0107, a poci\u0105g si\u0119 zbli\u017ca\u0142. Z pomoc\u0105 przyszed\u0142 jeden z kierowc\u00f3w, kt\u00f3ry mia\u0142 lini\u0119 holownicz\u0105. Nagle zapali ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.64zms-dqm9CeVRcHtHJOtA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "Pomorska7 godz.",
+            "date": "TVN2415 min",
+            "source": "TVN24",
+            "article_content": "Co robi\u0107, gdy auto stanie na torach? - Natychmiast opu\u015b\u0107 pojazd! Oczywi\u015bcie zabierz ze sob\u0105 pasa\u017cer\u00f3w! - Wezwij pomoc - zadzwo\u0144 pod 112 i podaj numer przejazdu z \u017b\u00f3\u0142tej Naklejki \u2013 nawet je\u015bli wydaje Ci si\u0119, \u017ce nie ma czasu, s\u0142u\u017cby mog\u0105 wstrzyma\u0107 ruch poci\u0105g\u00f3w. - Nie ryzykuj \u017cycia! Nie da si\u0119 go zast\u0105pi\u0107 - samoch\u00f3d ju\u017c tak. Je\u017celi dojdzie do awarii auta na przeje\u017adzie, a jest Was kilkoro, podzielcie si\u0119 zadaniami. Niech jedna osoba zadzwoni pod numer alarmowy 112 i poda lokalizacj\u0119 przejazdu z \u017b\u00f3\u0142tej Naklejki. Druga osoba w tym czasie mo\u017ce zadba\u0107 o pozosta\u0142ych towarzyszy podr\u00f3\u017cy i pom\u00f3c im opu\u015bci\u0107 pojazd. Pami\u0119taj, nigdy nie ryzykuj swoim \u017cyciem i zdrowiem. Bezpiecze\u0144stwo przede wszystkim!"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Kryszta\u0142y PRL poszukiwane przez kolekcjoner\u00f3w 2025. Tyle trzeba zap\u0142aci\u0107 za kryszta\u0142owe naczynia [21.02.25]",
+            "link": "https://pomorska.pl/krysztaly-prl-poszukiwane-przez-kolekcjonerow-2025-tyle-trzeba-zaplacic-za-krysztalowe-naczynia-21-02-25/ar/c9p2-27212507",
+            "description": "Kryszta\u0142y produkowane w PRL-u s\u0105 obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli posiadasz ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.9UcQlVucV0SF0xjNU9HIPA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stara+porcelana",
+            "date": "Pomorska2 godz.",
             "source": "Pomorska",
             "article_content": "Content not available"
         }
@@ -138,7 +186,7 @@
             "description": "Obecnie pragniemy, by nasze domowe wn\u0119trza mia\u0142y sw\u00f3j unikatowy charakter, by\u0142y przytulne i kolorowe. Jednym z pomys\u0142\u00f3w na ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.fVX2LOjoPyAPqK6-wGyrOC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "gk24.pl8 godz.",
+            "date": "gk24.pl12 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -150,13 +198,13 @@
         },
         "body": {
             "title": "Mia\u0142 by\u0107 nowy hotel w Poznaniu. Tymczasem \"rozbieraj\u0105 rusztowania i porzucaj\u0105 budow\u0119\". Co si\u0119 dzieje z Four Points by Sheraton? Mamy zdj\u0119cia",
-            "link": "https://gloswielkopolski.pl/mial-byc-nowy-hotel-w-poznaniu-tymczasem-rozbieraja-rusztowania-i-porzucaja-budowe-co-sie-dzieje-z-four-points-by-sheraton-mamy-zdjecia/ar/c1p2-27292209",
+            "link": "https://www.msn.com/pl-pl/podroze/news/mia%C5%82-by%C4%87-nowy-hotel-w-poznaniu-tymczasem-rozbieraj%C4%85-rusztowania-i-porzucaj%C4%85-budow%C4%99-co-si%C4%99-dzieje-z-four-points-by-sheraton-mamy-zdj%C4%99cia/ar-AA1zvVjV?ocid=BingNewsVerp",
             "description": "Obiekt nale\u017cy do Polskiego Holdingu Hotelowego i mia\u0142 dzia\u0142a\u0107 pod mark\u0105 Four Points by Sheraton. Obiekt przechodzi\u0142 gruntown\u0105 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.5ZGXOSn0rmtYuGr8gWOsZC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "image_url": "https://www.bing.pl/th?id=OVF.QTlgVi%2fPGBIKE3CWeii0ow&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "gloswielkopolski1 godz.",
-            "source": "gloswielkopolski",
-            "article_content": "Content not available"
+            "date": "G\u0142os Wielkopolski on MSN4 godz.",
+            "source": "G\u0142os Wielkopolski on MSN",
+            "article_content": ""
         }
     },
     {
@@ -170,8 +218,24 @@
             "description": "Unikalne antyki poszukiwane przez kolekcjoner\u00f3w mog\u0105 zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na nich zarobi\u0107 fortun\u0119. Cz\u0119sto nie ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.M2fw_kVEbAkv5zg2kvCAfS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Nasze Miasto on MSN5 godz.",
+            "date": "Nasze Miasto on MSN9 godz.",
             "source": "Nasze Miasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Na bazar nie tylko po jab\u0142ka czy ziemniaki. Mo\u017cna kupi\u0107 kur\u0119 na ros\u00f3\u0142, przetwory, a nawet garnki i kapcie",
+            "link": "https://www.msn.com/pl-pl/kuchnia/wiadomosci-o-zywieniu/na-bazar-nie-tylko-po-jab%C5%82ka-czy-ziemniaki-mo%C5%BCna-kupi%C4%87-kur%C4%99-na-ros%C3%B3%C5%82-przetwory-a-nawet-garnki-i-kapcie/ar-AA1zw6PJ?ocid=BingNewsVerp",
+            "description": "Produkty rolno-spo\u017cywcze mo\u017cna dzi\u015b kupi\u0107 w marketach, bezpo\u015brednio w gospodarstwach lub na bazarkach, tak\u017ce online.",
+            "image_url": "https://www.bing.pl/th?id=OVFT.grlwESzPVUbJlIU9fN9ecS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "Strefa Agro on MSN2 godz.",
+            "source": "Strefa Agro on MSN",
             "article_content": ""
         }
     },
@@ -186,9 +250,57 @@
             "description": "Planuj\u0105c weekend we Wroc\u0142awiu, warto skorzysta\u0107 z bogatej oferty wydarze\u0144, kt\u00f3re odb\u0119d\u0105 si\u0119 w dniach 21-23 lutego 2025 roku.",
             "image_url": "https://www.bing.pl/th?id=OVFT.YyM2P45GNAOktnSQfE-Cei&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "wroclaw.naszemiasto on MSN16 godz.",
+            "date": "wroclaw.naszemiasto on MSN19 godz.",
             "source": "wroclaw.naszemiasto on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Gdzie na nordic walking do 6 km od Ko\u0142obrzegu. Urocze miejsca na kr\u00f3tk\u0105 tras\u0119 w weekend 22 - 23 lutego",
+            "link": "https://kolobrzeg.naszemiasto.pl/gdzie-na-nordic-walking-do-6-km-od-kolobrzegu-urocze-miejsca-na-krotka-trase-w-weekend-22-23-lutego/ar/c7p1-22319027",
+            "description": "Szukasz nowych tras do nordic walking w okolicy Ko\u0142obrzegu? Z Traseo przygotowali\u015bmy dla Ciebie gar\u015b\u0107 pomys\u0142\u00f3w na ten tydzie\u0144 ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.ESxN%2fGTNXgETV1PkMTSFyA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "kolobrzeg.naszemiasto2 godz.",
+            "source": "kolobrzeg.naszemiasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "\u015acie\u017cki spacerowe do 6 km od Ko\u0142obrzegu. Podpowiedzi ciekawych tras na weekend 22 - 23 lutego",
+            "link": "https://kolobrzeg.naszemiasto.pl/sciezki-spacerowe-do-6-km-od-kolobrzegu-podpowiedzi-ciekawych-tras-na-weekend-22-23-lutego/ar/c7p1-22115647",
+            "description": "Nim wyruszysz w drog\u0119, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 22 lutego w Ko\u0142obrzegu ma by\u0107 6\u00b0C. Nie powinno pada\u0107. W ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.VJxRsEHs39R8y6uEoJ8sWg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "kolobrzeg.naszemiasto2 godz.",
+            "source": "kolobrzeg.naszemiasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Wycieczki rowerowe do 19 km od O\u015bwi\u0119cimia. Pomys\u0142y na jednodniow\u0105 wypraw\u0119. Gdzie w weekend 22 - 23 lutego?",
+            "link": "https://oswiecim.naszemiasto.pl/wycieczki-rowerowe-do-19-km-od-oswiecimia-pomysly-na-jednodniowa-wyprawe-gdzie-w-weekend-22-23-lutego/ar/c7p1-21831633",
+            "description": "Zamek w Mosznej jest jedn\u0105 z najwi\u0119kszych atrakcji Opolszczyzny i jednym z najciekawszych zamk\u00f3w w Polsce. Swoj\u0105 s\u0142aw\u0119 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.FOdaTwaKiW4AKpXS9Qil4y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "oswiecim.naszemiasto2 godz.",
+            "source": "oswiecim.naszemiasto",
+            "article_content": "Content not available"
         }
     },
     {
@@ -202,7 +314,7 @@
             "description": "W Toruniu trwa budowa Trasy Staromostowej. To droga, kt\u00f3ra b\u0119dzie przebiega\u0107 przy centrum miasta, w pobli\u017cu zabytkowej ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.CG8Cj-N0TpKR9GNJeb74mC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Radio ZET3 godz.",
+            "date": "Radio ZET6 godz.",
             "source": "Radio ZET",
             "article_content": "Budowa Trasy Staromostowej w Toruniu zosta\u0142a obj\u0119ta dodatkowym nadzorem archeologicznym\n\n- B\u0119dziemy przede wszystkim skupiali si\u0119 na tym, \u017ceby nadzorowa\u0107 prac\u0119 pod k\u0105tem znalezisk, kt\u00f3re mog\u0105 si\u0119 zdarzy\u0107 na terenie ca\u0142ej inwestycji - powiedzia\u0142 nadzoruj\u0105cy prac\u0119 archeolog\n\nArcheolodzy zapewniaj\u0105, \u017ce wszystko odbywa\u0107 si\u0119 b\u0119dzie zgodnie z obowi\u0105zuj\u0105cymi procedurami\n\nArcheolodzy na budowie Trasy Staromostowej w Toruniu\n\nTrasa Staromostowa to jedna z najwa\u017cniejszych obecnie inwestycji drogowych w Toruniu. Droga po\u0142\u0105czy ul. Dekerta z pl. Niepodleg\u0142o\u015bci, przebiegaj\u0105c bezpo\u015brednio przy targowisku miejskim. To okolice centrum miasta, a prace tocz\u0105 si\u0119 w s\u0105siedztwie zabytkowej star\u00f3wki. W\u0142a\u015bnie dlatego prezydent Pawe\u0142 Gulewski poleci\u0142 obj\u0119cie ich dodatkowym nadzorem archeologicznym. - Prezydent miasta poleci\u0142, aby ta inwestycja by\u0142a wsparta nadzorem ze wzgl\u0119du na dziedzictwo miasta, a tak\u017ce realizowane w ubieg\u0142ych latach prace archeologiczne w okolicy tej inwestycji drogowej - wyja\u015bni\u0142 rzecznik prezydenta Marcin Centkowski.\n\nCzego spodziewaj\u0105 si\u0119 archeolodzy? O tym opowiedzia\u0142 prowadz\u0105cy nadz\u00f3r na budowie Krzysztof Rybka. - B\u0119dziemy przede wszystkim skupiali si\u0119 na tym, \u017ceby nadzorowa\u0107 prac\u0119 pod k\u0105tem znalezisk, kt\u00f3re mog\u0105 si\u0119 zdarzy\u0107 na terenie ca\u0142ej inwestycji. Jeste\u015bmy zainteresowani sprawdzaniem, czy w trakcie prac ziemnych, gdzie mo\u017ce by\u0107 potencjalne wyst\u0119powanie znalezisk, nie natrafi si\u0119 na jakie\u015b relikty historyczne, zwi\u0105zane zar\u00f3wno z histori\u0105 miasta Torunia, czyli z obecnym okresem \u015bredniowiecza, jak i z okresami wcze\u015bniejszymi, kt\u00f3re mog\u0142y by\u0107 tutaj zachowane w formie jakich\u015b nawarstwie\u0144 archeologicznych - powiedzia\u0142 archeolog.\n\nNadz\u00f3r archeologiczny w Toruniu\n\nDoda\u0142, \u017ce w przypadku ewentualnych odkry\u0107, zostan\u0105 zastosowane odpowiednie procedury. Taka informacja zostanie przekazana wojew\u00f3dzkiemu konserwatorowi zabytk\u00f3w i dopiero po konsultacjach z nim, zostan\u0105 podj\u0119te kolejne kroki. - Wszystkie te prace b\u0119d\u0105 prowadzone ca\u0142y czas na bie\u017c\u0105co w konsultacji i porozumieniu zar\u00f3wno z konserwatorem, muzeum, uniwersytetem i oczywi\u015bcie przede wszystkim tutaj z osobami zwi\u0105zanymi z budow\u0105, czyli Miejskim Zarz\u0105dem Dr\u00f3g oraz oczywi\u015bcie firm\u0105 wykonuj\u0105c\u0105 inwestycj\u0119 - podkre\u015bli\u0142 archeolog Krzysztof Rybka.\n\nW zwi\u0105zku z budow\u0105 Trasy Staromostowej mieszka\u0144cy musz\u0105 liczy\u0107 si\u0119 z utrudnieniami. Odcinek od ul. Ga\u0142czy\u0144skiego do bramy wjazdowej na targowisko miejskie od strony ul. Dekerta zosta\u0142 wy\u0142\u0105czony z ruchu i parkowania. Z kolei na odcinku od ul. Ga\u0142czy\u0144skiego do pl. Niepodleg\u0142o\u015bci ruch odbywa si\u0119 jednym pasem. Od poniedzia\u0142ku 24 lutego kierowc\u00f3w czekaj\u0105 kolejne utrudnienia. Miejski Zarz\u0105d Dr\u00f3g zapowiedzia\u0142 zmiany w parkowaniu w tym rejonie.\n\n\u0179r\u00f3d\u0142o: Radio ZET / UMT"
         }
@@ -213,61 +325,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Zn\u00f3w poka\u017c\u0105 podziemia okolic pozna\u0144skiego dworca. \"Wej\u015bcia do obiekt\u00f3w na swoj\u0105 odpowiedzialno\u015b\u0107\"",
-            "link": "https://epoznan.pl/news-news-160369-znow_pokaza_podziemia_okolic_poznanskiego_dworca_wejscia_do_obiektow_na_swoja_odpowiedzialnosc",
-            "description": "Stowarzyszenie Pasjonaci Podziemi zaprasza na kolejne wydarzenie z serii Podziemny Pozna\u0144, kt\u00f3re odb\u0119dzie si\u0119 21 lutego w okolicach Dworca G\u0142\u00f3wnego w Poznaniu. Wydarzenie odbywa si\u0119 tym razem z ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.XssJMuMR3jmFUPkcGSW0GQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Trasy rowerowe do 66 km od Zdu\u0144skiej Woli. Pomys\u0142y na jednodniowy wypad. Gdzie w weekend 22 - 23 lutego?",
+            "link": "https://zdunskawola.naszemiasto.pl/trasy-rowerowe-do-66-km-od-zdunskiej-woli-pomysly-na-jednodniowy-wypad-gdzie-w-weekend-22-23-lutego/ar/c7p1-21831605",
+            "description": "Zanim wyruszysz w drog\u0119, sprawd\u017a, jaka b\u0119dzie pogoda. W sobot\u0119 22 lutego w Zdu\u0144skiej Woli ma by\u0107 5\u00b0C. Nie powinno pada\u0107. W ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.LIawaCigxMukxo7djAKgrC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "epoznan2 godz.",
-            "source": "epoznan",
-            "article_content": "Ju\u017c dzi\u015b.\n\nStowarzyszenie Pasjonaci Podziemi zaprasza na kolejne wydarzenie z serii Podziemny Pozna\u0144, kt\u00f3re odb\u0119dzie si\u0119 21 lutego w okolicach Dworca G\u0142\u00f3wnego w Poznaniu. Wydarzenie odbywa si\u0119 tym razem z limitem - 100, zapisy poprzez SMS o tre\u015bci dworzec na nr 514109365 i podaniem liczby os\u00f3b. Organizatorzy zapewniaj\u0105, \u017ce wy\u015bl\u0105 potwierdzenie zwrotne.\n\n\"Je\u015bli b\u0119dzie zainteresowanie ,b\u0119dziemy organizowa\u0107 dworzec co trzy tygodnie w pi\u0105tek\"- informuj\u0105.\n\n\n\n\"Dodatkowo nie wiemy jaki los spotka ca\u0142\u0105 okolic\u0119 , a podczas wycieczki poznacie 20 lokalizacji obiekt\u00f3w podziemnych wok\u00f3\u0142 dworca\"- informuj\u0105 Pasjonaci Podziemi. \"Zaczynamy od zbi\u00f3rki na dworcu letnim (przy Dworcowej) od godziny 19.00. Po kr\u00f3tkim wst\u0119pnie poznamy obiekty typu : schrony przeciwlotnicze typu ko\u0142pak, Kaponiera Kolejowa, przej\u015bcia podziemne, szczeliny przeciwlotnicze, schrony zimnowojenne, schrony cywilne, tunel pocztowy oraz relikty twierdzy poligonalnej. Tam, gdzie nie dostaniemy si\u0119 do wn\u0119trza, b\u0119dziemy si\u0119 posi\u0142kowa\u0107 swoimi fotografiami\" - dodaj\u0105.\n\n\n\nBy wzi\u0105\u0107 udzia\u0142 w wydarzeniu wystarczy dowolna cegie\u0142ka do skarbonki. Potrwa ono oko\u0142o 3 godzin. \"Wej\u015bcia do obiekt\u00f3w na swoj\u0105 odpowiedzialno\u015b\u0107. Warto zabra\u0107 latark\u0119\"- podkre\u015blono.\n\n"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "W kamienicy przy ul. Ma\u015blanej we W\u0142oc\u0142awku b\u0119d\u0105 mieszkania. Trwa remont. Tak wygl\u0105daj\u0105 prace",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/w-kamienicy-przy-ul-ma%C5%9Blanej-we-w%C5%82oc%C5%82awku-b%C4%99d%C4%85-mieszkania-trwa-remont-tak-wygl%C4%85daj%C4%85-prace/ar-AA1zqVEM?ocid=BingNewsVerp",
-            "description": "W kamienicy przy ul. Ma\u015blanej 4/6 we W\u0142oc\u0142awku powstanie kilkana\u015bcie mieszka\u0144 na tani wynajem. Obecnie trwa tam kapitalny ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.aZ9XuyeXF-2p4dahu4Txzy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "W\u0142oc\u0142awek Naszemiasto on MSN5 godz.",
-            "source": "W\u0142oc\u0142awek Naszemiasto on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Pras\u00f3wka 21.02.2025. Zobacz zestawienie najwa\u017cniejszych informacji z wczoraj z naszego wojew\u00f3dztwa",
-            "link": "https://dziennikbaltycki.pl/prasowka-21-02-2025-zobacz-zestawienie-najwazniejszych-informacji-z-wczoraj-z-naszego-wojewodztwa/ar/c1p1-19960899",
-            "description": "Horoskopy na pi\u0105tek - 21 lutego 2025. Wr\u00f3\u017cka Samanta odkrywa karty i spogl\u0105da w przysz\u0142o\u015b\u0107. Co w pi\u0105tek, 21.02.2025 roku wydarzy si\u0119 w \u017cyciu dwunastu znak\u00f3w zodiaku? Oto horoskop dla znak\u00f3w: Rak, ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.5s2nDicEFNR6T9e5rt0xCA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "relikty",
-            "date": "dziennikbaltycki.pl8 godz.",
-            "source": "dziennikbaltycki.pl",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Trasy na rower do 19 km od O\u015bwi\u0119cimia. Podpowiadamy pomys\u0142y na wypraw\u0119. Gdzie w weekend 22 - 23 lutego?",
-            "link": "https://oswiecim.naszemiasto.pl/trasy-na-rower-do-19-km-od-oswiecimia-podpowiadamy-pomysly-na-wyprawe-gdzie-w-weekend-22-23-lutego/ar/c7p1-21831633",
-            "description": "Zanim wyruszysz na wypraw\u0119, sprawd\u017a, jaka b\u0119dzie pogoda. W sobot\u0119 22 lutego w O\u015bwi\u0119cimiu ma by\u0107 6\u00b0C. Nie powinno pada\u0107. W ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.QVwFPvTDzMl-gwAu9XT2-y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "oswiecim.naszemiasto22 godz.",
-            "source": "oswiecim.naszemiasto",
+            "date": "zdunskawola.naszemiasto3 godz.",
+            "source": "zdunskawola.naszemiasto",
             "article_content": "Content not available"
         }
     },
@@ -282,7 +346,7 @@
             "description": "Wojew\u00f3dztwo podlaskie mo\u017ce si\u0119 oby\u0107 bez wielu rzeczy. Nasz region traci dotacj\u0119 na rozw\u00f3j plac\u00f3wki lecz\u0105cej kompleksowo raka ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.GMPoEpshqTHifdui2uHuoC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "ddb244 godz.",
+            "date": "ddb248 godz.",
             "source": "ddb24",
             "article_content": "Wojew\u00f3dztwo podlaskie mo\u017ce si\u0119 oby\u0107 bez wielu rzeczy. Nasz region traci dotacj\u0119 na rozw\u00f3j plac\u00f3wki lecz\u0105cej kompleksowo raka piersi, nie b\u0119dzie te\u017c mia\u0142o dr\u00f3g ekspresowych. Niebawem mo\u017ce si\u0119 okaza\u0107, \u017ce niebawem zostanie bez zabytk\u00f3w. Ostatni konkurs w ministerstwie kultury zako\u0144czy\u0142 si\u0119 przyznaniem tylko jednej dotacji na remont zabytk\u00f3w z naszego regionu.\n\nJednym z ostatnich dzia\u0142a\u0144 polskiego obecnego rz\u0105du by\u0142o rozstrzygni\u0119cie konkursu z programu \u201eOchrona zabytk\u00f3w\u201d. Z naszego regionu z\u0142o\u017conych zosta\u0142o ponad 30 wniosk\u00f3w na prace remontowe r\u00f3\u017cnych obiekt\u00f3w. Niestety, dofinansowania nie zdoby\u0142a wi\u0119kszo\u015b\u0107. A w zasadzie \u015brodki na remont zabytku otrzyma\u0142 tylko jeden wnioskodawca. W tym przypadku by\u0142a to parafia, kt\u00f3ra b\u0119dzie mog\u0142a kontynuowa\u0107 prace konserwatorskie we wn\u0119trzach ko\u015bcio\u0142a pod wezwaniem \u015awi\u0119tego Wojciecha Biskupa i M\u0119czennika w Szczepankowie.\n\nWi\u0119cej: W wojew\u00f3dztwie podlaskim nie musi by\u0107 ani ekspres\u00f3wek, ani zabytk\u00f3w"
         }
@@ -293,13 +357,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Dzie\u0144 Przewodnika Turystycznego 2025. Szalony Przewodnik po Krakowie daje czadu! To Marcin Szymoniak z Turska w powiecie pleszewskim",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/podroze/dzie%C5%84-przewodnika-turystycznego-2025-szalony-przewodnik-po-krakowie-daje-czadu-to-marcin-szymoniak-z-turska-w-powiecie-pleszewskim/ar-AA1zvb0f?ocid=BingNewsVerp",
-            "description": "Przewodnik to misja, to nabywana przez ca\u0142e \u017cycie wiedza, to pasja do dzielenia si\u0119 t\u0105 wiedz\u0105 z innymi. Przewodnik to ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.SuEcC2L2av%2f0Y7khLRRocw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Rzeczy z PRL warte nawet kilkana\u015bcie tysi\u0119cy. Mo\u017cesz je mie\u0107 na strychu",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/rzeczy-z-prl-warte-nawet-kilkana%C5%9Bcie-tysi%C4%99cy-mo%C5%BCesz-je-mie%C4%87-na-strychu/ar-AA1zwnLq?ocid=BingNewsVerp",
+            "description": "Rzeczy z PRL to nie tylko starocie i pami\u0105tki, ale r\u00f3wnie\u017c potencjalne \u017ar\u00f3d\u0142o zysku. W \u015bwiat\u0142ach wsp\u00f3\u0142czesnego rynku antyk\u00f3w ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.c6cax1viqTwcatWPHc8bAy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Nasze Miasto on MSN3 godz.",
-            "source": "Nasze Miasto on MSN",
+            "date": "Onet Kobieta on MSN2 godz.",
+            "source": "Onet Kobieta on MSN",
             "article_content": ""
         }
     },
@@ -309,29 +373,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Tusk do sojusznik\u00f3w: \u201eDo\u015b\u0107 gadania, czas dzia\u0142a\u0107!'",
-            "link": "https://www.onet.pl/informacje/fakt/derby-madrytu-starcie-bayernu-monachium-z-bayerem-leverkusen-czy-rewanz-barcelony-z/rhxh16s,7fa8ac5e",
-            "description": "Derby Madrytu, starcie Bayernu Monachium z Bayerem Leverkusen czy rewan\u017c Barcelony z Benfik\u0105 Lizbona... B\u0119dzie si\u0119 dzia\u0142o w 1 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.wD3cTTdWDRN89-edUSuBVy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Pomys\u0142y na spacer w woj. \u0142\u00f3dzkim. Gdzie warto i\u015b\u0107 w weekend 22 - 23 lutego? TOP 10 tras",
+            "link": "https://dzienniklodzki.pl/pomysly-na-spacer-w-woj-lodzkim-gdzie-warto-isc-w-weekend-22-23-lutego-top-10-tras/ar/c7p1-22116469",
+            "description": "Zanim wyruszysz, sprawd\u017a, jaka b\u0119dzie pogoda. W sobot\u0119 22 lutego w woj. \u0142\u00f3dzkim ma by\u0107 od -4\u00b0C do 5\u00b0C. Nie powinno pada\u0107. W ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.I0OxixM4oBITjA-UJoCEyi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Onet1 godz.",
-            "source": "Onet",
-            "article_content": "Derby Madrytu, starcie Bayernu Monachium z Bayerem Leverkusen czy rewan\u017c Barcelony z Benfik\u0105 Lizbona... B\u0119dzie si\u0119 dzia\u0142o w 1/8 fina\u0142u Ligi Mistrz\u00f3w."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Wybra\u0142 z\u0142ych wsp\u00f3\u0142biesiadnik\u00f3w na imprez\u0119. Kiedy spa\u0142, oni znikn\u0119li z jego kosztowno\u015bciami (zdj\u0119cia)",
-            "link": "https://www.lublin112.pl/wybral-zlych-wspolbiesiadnikow-na-impreze-kiedy-spal-oni-znikneli-z-jego-kosztownosciami-zdjecia/",
-            "description": "Mieszkaniec Kra\u015bnika sta\u0142 si\u0119 ofiar\u0105 kradzie\u017cy po nocy sp\u0119dzonej w towarzystwie znajomych. Po zako\u0144czonej libacji, obudzi\u0142 si\u0119 rano i odkry\u0142, \u017ce w jego mieszkaniu nie ma ani wsp\u00f3\u0142biesiadnik\u00f3w, ani kos ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.pKPsx0jVkUKqVUJ54Jxu4Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "zabytkowe+przedmioty",
-            "date": "lublin1122 godz.",
-            "source": "lublin112",
+            "date": "dzienniklodzki2 godz.",
+            "source": "dzienniklodzki",
             "article_content": "Content not available"
         }
     },
@@ -341,13 +389,29 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Masz te banknoty? To prawdziwe skarby! Za jeden mo\u017cesz otrzyma\u0107 kilka tysi\u0119cy z\u0142otych! [ZDJ\u0118CIA] 21.02.2025",
-            "link": "https://gs24.pl/masz-te-banknoty-to-prawdziwe-skarby-za-jeden-mozesz-otrzymac-kilka-tysiecy-zlotych-zdjecia-21022025/ar/c1-17930573",
-            "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.o4EwlAsIz5rMM3h8kMS_wi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Trasy nordic walking w woj. warmi\u0144sko-mazurskim. Gdzie wybra\u0107 si\u0119 w weekend 22 - 23 lutego. 3 najciekawsze trasy",
+            "link": "https://wspolczesna.pl/trasy-nordic-walking-w-woj-warminsko-mazurskim-gdzie-wybrac-sie-w-weekend-22-23-lutego-3-najciekawsze-trasy/ar/c7p1-22327327",
+            "description": "Nim wyruszysz, sprawd\u017a, jaka b\u0119dzie pogoda. W sobot\u0119 22 lutego w woj. warmi\u0144sko-mazurskim ma by\u0107 od -4\u00b0C do 2\u00b0C. Nie powinno ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.ZtM1pEXOY4TvIAptxW56Wi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "gs24.pl6 godz.",
-            "source": "gs24.pl",
+            "date": "wspolczesna.pl2 godz.",
+            "source": "wspolczesna.pl",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Gdzie na spacer w woj. kujawsko-pomorskim. Gdzie warto si\u0119 wybra\u0107 w weekend 22 - 23 lutego? Lista 10 tras",
+            "link": "https://pomorska.pl/gdzie-na-spacer-w-woj-kujawsko-pomorskim-gdzie-warto-sie-wybrac-w-weekend-22-23-lutego-lista-10-tras/ar/c7p1-22116479",
+            "description": "Nim wyruszysz, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 22 lutego w woj. kujawsko-pomorskim ma by\u0107 od -2\u00b0C do 4\u00b0C. Nie ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.ztoXEQGkpO8Nwh3oV9W9uQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Pomorska2 godz.",
+            "source": "Pomorska",
             "article_content": "Content not available"
         }
     },
@@ -362,7 +426,7 @@
             "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.rXY4IFBt9hVZAYwsRbQrPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "gk24.pl8 godz.",
+            "date": "gk24.pl12 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -373,14 +437,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Taka 5 z\u0142ot\u00f3wka i inne monety s\u0105 w cenie z\u0142ota. Sprawd\u017a, ile mo\u017cna na nich zarobi\u0107!",
-            "link": "https://www.msn.com/pl-pl/finanse/og%C3%B3lne/taka-5-z%C5%82ot%C3%B3wka-i-inne-monety-s%C4%85-w-cenie-z%C5%82ota-sprawd%C5%BA-ile-mo%C5%BCna-na-nich-zarobi%C4%87-19-02-2025-r/ar-AA1zlLU9?ocid=BingNewsVerp",
+            "title": "Taka 5 z\u0142ot\u00f3wka i inne monety s\u0105 w cenie z\u0142ota. Sprawd\u017a, ile mo\u017cna na nich zarobi\u0107! [21.02.25]",
+            "link": "https://pomorska.pl/taka-5-zlotowka-i-inne-monety-sa-w-cenie-zlota-sprawdz-ile-mozna-na-nich-zarobic-21-02-25/ar/c1p2-27282437",
             "description": "Kolekcjonerzy szukaj\u0105 monet z okresu PRL, ale nie tylko, gdy\u017c tak\u017ce monety starsze, a nawet te wsp\u00f3\u0142czesne mog\u0105 by\u0107 cenne.",
-            "image_url": "https://www.bing.pl/th?id=OVF.tSzeNoLnJB%2f9gLv5uIMRsw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "image_url": "https://www.bing.pl/th?id=OVFT.68CBREw7lkITbtE8SEFhjC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Pomorska on MSN2 godz.",
-            "source": "Gazeta Pomorska on MSN",
-            "article_content": ""
+            "date": "Pomorska2 godz.",
+            "source": "Pomorska",
+            "article_content": "Content not available"
         }
     },
     {
@@ -394,7 +458,7 @@
             "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.o4EwlAsIz5rMM3h8kMS_wi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "gs24.pl6 godz.",
+            "date": "gs24.pl10 godz.",
             "source": "gs24.pl",
             "article_content": "Content not available"
         }
@@ -410,7 +474,7 @@
             "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
             "image_url": "https://www.bing.pl/th?id=OVFT._V-rWLu6pRQ3UWKHtZMwMi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Express Ilustrowany on MSN5 godz.",
+            "date": "Express Ilustrowany on MSN9 godz.",
             "source": "Express Ilustrowany on MSN",
             "article_content": ""
         }
@@ -426,7 +490,7 @@
             "description": "Czy chcesz pozna\u0107 histori\u0119 jednego z najwi\u0119kszych przedwojennych zak\u0142ad\u00f3w przemys\u0142owych Krakowa? Czy chcesz dowiedzie\u0107 si\u0119, do czego s\u0142u\u017cy rozwierak, a do czego pa\u0142asz i jak wygl\u0105da naw\u00f3z ze szk\u0142a? A ...",
             "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "krakow2 godz.",
+            "date": "krakow6 godz.",
             "source": "krakow",
             "article_content": "Szk\u0142o w Krakowie. Przemys\u0142 i sztuka. 1931-1998\n\nCzy chcesz pozna\u0107 histori\u0119 jednego z najwi\u0119kszych przedwojennych zak\u0142ad\u00f3w przemys\u0142owych Krakowa? Czy chcesz dowiedzie\u0107 si\u0119, do czego s\u0142u\u017cy rozwierak, a do czego pa\u0142asz i jak wygl\u0105da naw\u00f3z ze szk\u0142a? A mo\u017ce jeste\u015b mi\u0142o\u015bnikiem dizajnu doby..."
         }
@@ -437,14 +501,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Pa\u0142ace, dwory i dworki, kt\u00f3re ju\u017c nie istniej\u0105. Kiedy\u015b by\u0142y pi\u0119kne",
-            "link": "https://pomorskie.naszemiasto.pl/palace-dwory-i-dworki-ktore-juz-nie-istnieja-kiedys-byly/ar/c1-9607313",
-            "description": "W regionie s\u0142upskim nie ma ju\u017c \u015bladu po wielu zabytkowych pa\u0142acach i dworkach. Zosta\u0142y unicestwione zaraz po zako\u0144czeniu drugiej wojny \u015bwiatowej albo uleg\u0142y ca\u0142kowitemu zniszczeniu po tym, jak ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.jociQBcz7-W2ITKfKjOZlw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "wykopano+zabytkowe",
-            "date": "pomorskie.naszemiasto8 godz.",
-            "source": "pomorskie.naszemiasto",
-            "article_content": "Content not available"
+            "title": "W Anglii znaleziono walizk\u0119 Howarda Cartera, odkrywcy grobowca Tutanchamona. Le\u017ca\u0142a pod \u0142\u00f3\u017ckiem",
+            "link": "https://www.national-geographic.pl/historia/w-anglii-znaleziono-walizke-howarda-cartera-odkrywcy-grobowca-tutanchamona-lezala-pod-lozkiem/",
+            "description": "\u015awietnie zachowana walizka nale\u017c\u0105ca do Howarda Cartera \u2013 odkrywcy grobowca Tutanchamona \u2013 przele\u017ca\u0142a wiele lat pod \u0142\u00f3\u017ckiem w Anglii. Archeolog u\u017cywa\u0142 jej w czasie prac przy swoim s\u0142ynnym znalezisku.",
+            "image_url": "https://www.bing.pl/th?id=ODF.GraCsDDFpARZJlDXW3KSZA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "odkrycie+zabytkowe+przedmiot",
+            "date": "national-geographic1 godz.",
+            "source": "national-geographic",
+            "article_content": "Spis tre\u015bci:\n\nReklama\n\nOdkrycie grobowca faraona Tutanchamona w Egipcie w 1922 roku jest uznawane za jedno z najwa\u017cniejszych znalezisk archeologicznych wszech czas\u00f3w. To w\u00f3wczas Howard Carter natkn\u0105\u0142 si\u0119 w Dolinie Kr\u00f3l\u00f3w na niemal nietkni\u0119ty przez rabusi\u00f3w skalny grobowiec egipskiego w\u0142adcy.\n\nWalizka Cartera pod \u0142\u00f3\u017ckiem\n\nWbrew pog\u0142oskom o kl\u0105twie Tutanchamona, Howard Carter \u017cy\u0142 jeszcze wiele lat po odkryciu miejsca spoczynku faraona. Zmar\u0142 w 1939 roku. Kilka lat przed \u015bmierci\u0105 jedn\u0105 ze swoich walizek przekaza\u0142 mechanikowi Johnowi Healeyowi, z kt\u00f3rym wsp\u00f3\u0142pracowa\u0142 w Egipcie.\n\nJohn Healey pracowa\u0142 dla archeolog\u00f3w w Egipcie a\u017c do 1970 roku, kiedy to przeszed\u0142 na emerytur\u0119. A\u017c do tego momentu korzysta\u0142 z walizki otrzymanej od Cartera. P\u00f3\u017aniej trafi\u0142a w r\u0119ce jego syna Derka Healeya. To u niego przele\u017ca\u0142a kilka dekad pod \u0142\u00f3\u017ckiem w Bishop Auckland w hrabstwie Durham. Teraz Derek postanowi\u0142 sprzeda\u0107 j\u0105 na aukcji. Obiektem zainteresowa\u0142 si\u0119 pisarz, artysta i po\u015brednik w obrocie antykami David Harper.\n\nWalizka zachowa\u0142a si\u0119 do naszych czas\u00f3w w \u015bwietnym stanie, chocia\u017c wida\u0107 \u015blady jej p\u00f3\u017aniejszego u\u017cycia, w postaci naklejek. Z zewn\u0105trz pokryta jest sk\u00f3r\u0105. Widoczne na niej inicja\u0142y H. C. dodatkowo potwierdzaj\u0105, \u017ce nale\u017ca\u0142a do Cartera.\n\nPodr\u00f3\u017c w czasie z walizk\u0105 archeologa\n\n\u2013 Moje zasi\u0119gi na YouTubie s\u0105 takie, \u017ce ludzie z ca\u0142ego \u015bwiata kontaktuj\u0105 si\u0119 ze mn\u0105 w sprawie przedmiot\u00f3w, o kt\u00f3rych wiedz\u0105, \u017ce by\u0142bym zainteresowany nakr\u0119ceniem o nich film\u00f3w, a w wielu przypadkach \u2013 ich sprzeda\u017c\u0105. Walizka Howarda Cartera jest tego doskona\u0142ym przyk\u0142adem \u2013 powiedzia\u0142 National Geographic Polska David Harper. Ostatnio po\u015bredniczy\u0142 na przyk\u0142ad w sprzeda\u017cy etui na cygara nale\u017c\u0105cego jednego z kr\u00f3l\u00f3w Syjamu.\n\n\u2013 Przedmiot b\u0119d\u0105cy w\u0142asno\u015bci\u0105 Howarda Cartera jest jednak dla mnie szczeg\u00f3lnie fascynuj\u0105cy. Uwa\u017cam, \u017ce ten okres w historii, odkrycie Tutanchamona, romans i intrygi tego okresu s\u0105 nadzwyczaj interesuj\u0105ce. Ta walizka by\u0142a tam podczas tego wszystkiego, a jej posiadanie jest najbli\u017csze podr\u00f3\u017cy w czasie, aby spotka\u0107 Howarda Cartera \u2013 doda\u0142 Harper.\n\nInicja\u0142y Howarda Cartera widoczne na walizce Fot. David Harper\n\nHoward Carter u\u017cywa\u0142 tej walizki w czasie podr\u00f3\u017cy do i z Egiptu. Przewozi\u0142 w niej do Anglii nie tylko dokumentacj\u0119 zwi\u0105zan\u0105 z badaniem grobowca Tutanchamona, ale r\u00f3wnie\u017c zabytki. Walizka trafi na aukcj\u0119 27 lutego. Wst\u0119pnie wyceniana jest na 1000-1500 funt\u00f3w, ale, jak przyzna\u0142 Harper, to rynek zadecyduje, ile jest naprawd\u0119 warta.\n\nKim by\u0142 Howard Carter?\n\nHoward Carter (1874-1939) pochodzi\u0142 z Kensington w Anglii. Jego ojciec by\u0142 malarzem. Ta pasja udzieli\u0142a si\u0119 tak\u017ce Howardowi. Ju\u017c w wieku 17 lat jako rysownik uda\u0142 si\u0119 do Egiptu, gdzie pracowa\u0142 przy dokumentowaniu odkry\u0107 archeologicznych. Dzia\u0142a\u0142 na przyk\u0142ad w obr\u0119bie \u015bwi\u0105tyni Hatszepsut w Deir el-Bahari. Szybko awansowa\u0142. W 1899 roku zosta\u0142 generalnym inspektorem zabytk\u00f3w w G\u00f3rnym Egipcie. To w\u00f3wczas dzi\u0119ki jego dzia\u0142aniom zamontowano w Dolinie Kr\u00f3l\u00f3w i w Abu Simbel elektryczne o\u015bwietlenie.\n\nW 1907 roku zacz\u0105\u0142 wsp\u00f3\u0142pracowa\u0107 z brytyjskim arystokrat\u0105, Lordem Carnarvonem, kt\u00f3ry finansowa\u0142 nowe wykopaliska. Carter jako jeden z niewielu archeolog\u00f3w wierzy\u0142, \u017ce w Dolinie Kr\u00f3l\u00f3w jest jeszcze jeden nieodkryty grobowiec kr\u00f3lewski. Szcz\u0119\u015bcie u\u015bmiechn\u0119\u0142o si\u0119 do niego w 1922 roku, po latach poszukiwa\u0144. Odkryto tam setki przepi\u0119knych zabytk\u00f3w, kt\u00f3re obecnie znajduj\u0105 si\u0119 w Wielkim Muzeum Egipskim w Kairze. Ostatnie 17 lat \u017cycia Carter sp\u0119dzi\u0142 na badaniu i opracowywaniu swojego znaleziska, chocia\u017c nigdy nie uda\u0142o mu si\u0119 opublikowa\u0107 po\u015bwi\u0119conej mu monografii.\n\nRejon Egiptu, w kt\u00f3rym odkryto grobowiec Tutanchamona, nadal skrywa wiele niespodzianek. Niedawno w\u0142adze egipskie og\u0142osi\u0142y odkrycie grobowca Thotmesa II niedaleko Doliny Kr\u00f3l\u00f3w. Zapewne nie jest to ostatnie takie znalezisko, chocia\u017c lista nieznanych kr\u00f3lewskich grobowc\u00f3w konsekwentnie si\u0119 zmniejsza.\n\nReklama\n\n\u0179r\u00f3d\u0142o: National Geographic Polska, David Harper\n\nNasz autor"
         }
     },
     {
@@ -458,7 +522,7 @@
             "description": "To by\u0142a wielka sensacja. Skarb odkryty na Pomorzu zawiera\u0142 kilkaset srebrnych monet. Do ich przypadkowego znalezienia, w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.GULuMhK6VZdMQO5IIw9QYC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Dziennik Ba\u0142tycki on MSN6 godz.",
+            "date": "Dziennik Ba\u0142tycki on MSN10 godz.",
             "source": "Dziennik Ba\u0142tycki on MSN",
             "article_content": ""
         }
