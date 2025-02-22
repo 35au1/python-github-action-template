@@ -5,28 +5,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Gie\u0142da Staroci pod Hal\u0105 Stulecia \u2013 unikatowe przedmioty, retro skarby i kolekcjonerskie pere\u0142ki czekaj\u0105 na nowych w\u0142a\u015bcicieli!",
-            "link": "https://www.msn.com/pl-pl/news/other/gie%C5%82da-staroci-pod-hal%C4%85-stulecia-unikatowe-przedmioty-retro-skarby-i-kolekcjonerskie-pere%C5%82ki-czekaj%C4%85-na-nowych-w%C5%82a%C5%9Bcicieli/ar-AA1zzyJw?ocid=BingNewsVerp",
-            "description": "\u2013 Dzi\u015b modne s\u0105 proste, minimalistyczne wn\u0119trza, ale coraz wi\u0119cej os\u00f3b szuka dodatk\u00f3w z dusz\u0105. Stare meble, odnowione z ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.5qPh2KznmiTX22g%2fban4Zg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "wroclaw.naszemiasto on MSN1 godz.",
-            "source": "wroclaw.naszemiasto on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
             "title": "Zakupy na gie\u0142dzie w Sandomierzu w ostatni\u0105 sobot\u0119 lutego. Du\u017cy ruch na placu targowym. \u0141owcy okazji ruszyli. Zobaczcie zdj\u0119cia",
             "link": "https://echodnia.eu/podkarpackie/zakupy-na-gieldzie-w-sandomierzu-w-ostatnia-sobote-lutego-duzy-ruch-na-placu-targowym-lowcy-okazji-ruszyli-zobaczcie-zdjecia/ar/c1-19075416",
             "description": "W sobot\u0119 pogoda sprzyja\u0142a zakupom na gie\u0142dzie w Sandomierzu. O poranku targowisko przy Przemys\u0142owej przyci\u0105gn\u0119\u0142o mn\u00f3stwo ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.KHmJ0IrXGuUGSr3ZErCDfC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "echodnia7 godz.",
+            "date": "echodnia11 godz.",
             "source": "echodnia",
             "article_content": "Content not available"
         }
@@ -42,7 +26,7 @@
             "description": "W sobot\u0119, 22 lutego 2025 roku, na popularnym w\u015br\u00f3d mieszka\u0144c\u00f3w targowisku przy ulicy Zwi\u0105zk\u00f3w Zawodowych we W\u0142oc\u0142awku mo\u017cna ...",
             "image_url": "https://www.bing.pl/th?id=OVF.iM34lqsFHCYJsY8kt6E46w&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "W\u0142oc\u0142awek Nasze Miasto3 godz.",
+            "date": "W\u0142oc\u0142awek Nasze Miasto7 godz.",
             "source": "W\u0142oc\u0142awek Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -53,12 +37,44 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Banknoty i monety PRL w cenie z\u0142ota. Tyle w 2025 roku trzeba zap\u0142aci\u0107 za stare pieni\u0105dze [22.02.2025 r.]",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/banknoty-i-monety-prl-w-cenie-z%C5%82ota-tyle-w-2025-roku-trzeba-zap%C5%82aci%C4%87-za-stare-pieni%C4%85dze-21022025/ar-AA1zte0O?ocid=BingNewsVerp",
+            "title": "Gie\u0142da Staroci pod Hal\u0105 Stulecia \u2013 unikatowe przedmioty, retro skarby i kolekcjonerskie pere\u0142ki czekaj\u0105 na nowych w\u0142a\u015bcicieli!",
+            "link": "https://www.msn.com/pl-pl/news/other/gie%C5%82da-staroci-pod-hal%C4%85-stulecia-unikatowe-przedmioty-retro-skarby-i-kolekcjonerskie-pere%C5%82ki-czekaj%C4%85-na-nowych-w%C5%82a%C5%9Bcicieli/ar-AA1zzyJw?ocid=BingNewsVerp",
+            "description": "\u2013 Dzi\u015b modne s\u0105 proste, minimalistyczne wn\u0119trza, ale coraz wi\u0119cej os\u00f3b szuka dodatk\u00f3w z dusz\u0105. Stare meble, odnowione z ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.5qPh2KznmiTX22g%2fban4Zg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "wroclaw.naszemiasto on MSN5 godz.",
+            "source": "wroclaw.naszemiasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Banknoty i monety PRL w cenie z\u0142ota. Tyle w 2025 roku trzeba zap\u0142aci\u0107 za stare pieni\u0105dze [23.02.2025]",
+            "link": "https://pomorska.pl/banknoty-i-monety-prl-w-cenie-zlota-tyle-w-2025-roku-trzeba-zaplacic-za-stare-pieniadze-23-02-2025/ar/c1p2-27205273",
             "description": "W 2025 roku kolekcjonerzy nadal intensywnie interesuj\u0105 si\u0119 starymi pieni\u0119dzmi z okresu Polskiej Rzeczpospolitej Ludowej. Ceny ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.Hday5xYkQIy%2fRvCfP1Ixrg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "image_url": "https://www.bing.pl/th?id=OVFT.KENSHUjy11XbIsQ-gXFdCS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Gazeta Pomorska on MSN3 godz.",
+            "date": "Pomorska3 godz.",
+            "source": "Pomorska",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Taka 5 z\u0142ot\u00f3wka i inne monety s\u0105 w cenie z\u0142ota. Sprawd\u017a, ile mo\u017cna na nich zarobi\u0107! [22.02.25]",
+            "link": "https://www.msn.com/pl-pl/finanse/og%C3%B3lne/taka-5-z%C5%82ot%C3%B3wka-i-inne-monety-s%C4%85-w-cenie-z%C5%82ota-sprawd%C5%BA-ile-mo%C5%BCna-na-nich-zarobi%C4%87-19-02-2025-r/ar-AA1zlLU9?ocid=BingNewsVerp",
+            "description": "Kolekcjonerzy szukaj\u0105 monet z okresu PRL, ale nie tylko, gdy\u017c tak\u017ce monety starsze, a nawet te wsp\u00f3\u0142czesne mog\u0105 by\u0107 cenne.",
+            "image_url": "https://www.bing.pl/th?id=OVF.XUv%2fMPCAL0bljfBdcyFsrw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "Gazeta Pomorska on MSN2 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -74,7 +90,7 @@
             "description": "Stare monety z PRL mog\u0105 by\u0107 dzi\u015b warte o wiele wi\u0119cej, ni\u017c si\u0119 spodziewasz. Kolekcjonerzy s\u0105 w stanie zap\u0142aci\u0107 krocie za ...",
             "image_url": "https://www.bing.pl/th?id=OVF.c8Ug0L%2b%2f3Tty%2blN1opbC9Q&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "BiznesINFO18 godz.",
+            "date": "BiznesINFO22 godz.",
             "source": "BiznesINFO",
             "article_content": "Kolekcjonerzy poszukuj\u0105 tych monet z PRL-u. S\u0105 warte fortun\u0119, lepiej sprawd\u017a szuflady\n\nStare monety z PRL mog\u0105 by\u0107 dzi\u015b warte o wiele wi\u0119cej, ni\u017c si\u0119 spodziewasz. Kolekcjonerzy s\u0105 w stanie zap\u0142aci\u0107 krocie za rzadkie egzemplarze, kt\u00f3re z pozoru wygl\u0105daj\u0105 jak zwyk\u0142e drobne. Jakie numizmaty osi\u0105gaj\u0105 najwy\u017csze ceny? Sprawd\u017a, czy nie masz ich w swojej kolekcji.\n\nKolekcjonowanie monet \u2013 pasja, kt\u00f3ra mo\u017ce si\u0119 op\u0142aci\u0107\n\nNumizmatyka, czyli kolekcjonowanie monet, to pasja, kt\u00f3ra cieszy si\u0119 coraz wi\u0119ksz\u0105 popularno\u015bci\u0105. Wielu kolekcjoner\u00f3w nie tylko fascynuje si\u0119 histori\u0105, ale r\u00f3wnie\u017c traktuje swoje zbiory jako inwestycj\u0119. Wbrew pozorom, nie tylko wiek monety decyduje o jej warto\u015bci \u2013 licz\u0105 si\u0119 tak\u017ce rzadko\u015b\u0107, stan zachowania oraz b\u0142\u0119dy mennicze.\n\nCoraz wi\u0119cej os\u00f3b zaczyna przeszukiwa\u0107 stare szuflady i strychy w poszukiwaniu monet sprzed lat. Szczeg\u00f3lnym zainteresowaniem ciesz\u0105 si\u0119 te z okresu PRL, kt\u00f3re w wielu przypadkach osi\u0105gaj\u0105 ceny wielokrotnie wy\u017csze ni\u017c ich nominalna warto\u015b\u0107. Niekt\u00f3re egzemplarze s\u0105 niemal niemo\u017cliwe do zdobycia, co czyni je prawdziw\u0105 gratk\u0105 dla kolekcjoner\u00f3w.\n\nFot. Pixabay/gosiak1980\n\nTych warzyw nigdy nie sad\u017a obok siebie. Zmarniej\u0105 w ekspresowym tempie\n\nCzytaj dalej\n\nW tych produktach znajdzie si\u0119 mi\u0119so \"z prob\u00f3wki\". Bran\u017ca mi\u0119sna mo\u017ce wkr\u00f3tce stan\u0105\u0107 pod \u015bcian\u0105\n\nCzytaj dalej\n\nNajbardziej poszukiwane monety PRL \u2013 na co zwracaj\u0105 uwag\u0119 kolekcjonerzy?\n\nNie ka\u017cda moneta z czas\u00f3w PRL ma warto\u015b\u0107 kolekcjonersk\u0105, ale niekt\u00f3re egzemplarze potrafi\u0105 osi\u0105ga\u0107 na aukcjach naprawd\u0119 imponuj\u0105ce kwoty. W\u015br\u00f3d kluczowych czynnik\u00f3w wp\u0142ywaj\u0105cych na cen\u0119 znajduj\u0105 si\u0119:\n\nrok wybicia \u2013 im rzadszy, tym bardziej poszukiwany,\n\n\u2013 im rzadszy, tym bardziej poszukiwany, stan zachowania \u2013 monety w idealnym stanie (tzw. stan menniczy) s\u0105 najcenniejsze,\n\n\u2013 monety w idealnym stanie (tzw. stan menniczy) s\u0105 najcenniejsze, nak\u0142ad emisji \u2013 niekt\u00f3re roczniki by\u0142y wybite w bardzo ograniczonej liczbie,\n\n\u2013 niekt\u00f3re roczniki by\u0142y wybite w bardzo ograniczonej liczbie, b\u0142\u0119dy mennicze \u2013 np. b\u0142\u0119dne oznaczenie nomina\u0142u, liter\u00f3wki lub inne nietypowe cechy.\n\nWarto te\u017c pami\u0119ta\u0107, \u017ce niekt\u00f3re monety by\u0142y wybite w niewielkich ilo\u015bciach lub w specjalnych wersjach kolekcjonerskich, co dodatkowo podnosi ich warto\u015b\u0107 na rynku. Kolekcjonerzy cz\u0119sto \u015bledz\u0105 aukcje i katalogi numizmatyczne, aby by\u0107 na bie\u017c\u0105co z najnowszymi odkryciami i cenami.\n\nNajdro\u017csze monety PRL \u2013 ile mo\u017cna na nich zarobi\u0107?\n\nDopiero teraz przechodzimy do konkret\u00f3w! Oto najcenniejsze monety PRL, kt\u00f3re mog\u0105 by\u0107 warte ma\u0142\u0105 fortun\u0119:\n\n5 z\u0142otych z 1974 roku \u2013 popularna \"rybaka\" mo\u017ce osi\u0105gn\u0105\u0107 cen\u0119 nawet 600 z\u0142 w dobrym stanie.\n\n\u2013 popularna \"rybaka\" mo\u017ce osi\u0105gn\u0105\u0107 cen\u0119 w dobrym stanie. 1 z\u0142oty z 1957 roku \u2013 za ten egzemplarz kolekcjonerzy p\u0142ac\u0105 nawet 500 z\u0142 .\n\n\u2013 za ten egzemplarz kolekcjonerzy p\u0142ac\u0105 nawet . 20 z\u0142otych z 1973 roku \u2013 jedna z bardziej poszukiwanych monet, osi\u0105gaj\u0105ca warto\u015b\u0107 do 400 z\u0142 .\n\n\u2013 jedna z bardziej poszukiwanych monet, osi\u0105gaj\u0105ca warto\u015b\u0107 . 5 z\u0142otych z 1986 roku \u2013 kolejny rzadki nomina\u0142, wart obecnie oko\u0142o 400 z\u0142 .\n\n\u2013 kolejny rzadki nomina\u0142, wart obecnie oko\u0142o . 50 000 z\u0142otych z 1988 roku \u2013 mimo wysokiego nomina\u0142u, ta moneta mo\u017ce kosztowa\u0107 nawet 300 z\u0142 na aukcjach.\n\n\u2013 mimo wysokiego nomina\u0142u, ta moneta mo\u017ce kosztowa\u0107 nawet na aukcjach. 1 z\u0142oty z 1985 roku \u2013 kolejny drobny nomina\u0142, kt\u00f3ry mo\u017ce zaskoczy\u0107 swoj\u0105 warto\u015bci\u0105, osi\u0105gaj\u0105c nawet 400 z\u0142.\n\nFot. ARKADIUSZ ZIOLEK/East News\n\n\n\nJe\u015bli posiadasz kt\u00f3r\u0105\u015b z tych monet, warto skonsultowa\u0107 si\u0119 z ekspertem lub sprawdzi\u0107 jej warto\u015b\u0107 na profesjonalnych aukcjach numizmatycznych. Mo\u017ce si\u0119 okaza\u0107, \u017ce przypadkiem trzymasz w domu prawdziwy skarb.\n\nMonety z czas\u00f3w PRL mog\u0105 by\u0107 warte znacznie wi\u0119cej, ni\u017c wskazywa\u0142by na to ich nominalny nomina\u0142. Kolekcjonerzy s\u0105 w stanie zap\u0142aci\u0107 setki, a nawet tysi\u0105ce z\u0142otych za rzadkie egzemplarze, szczeg\u00f3lnie te zachowane w dobrym stanie. Je\u015bli masz stare monety w domu, koniecznie sprawd\u017a ich warto\u015b\u0107 \u2013 by\u0107 mo\u017ce trzymasz w r\u0119kach prawdziw\u0105 kolekcjonersk\u0105 pere\u0142k\u0119."
         }
@@ -90,7 +106,7 @@
             "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.rXY4IFBt9hVZAYwsRbQrPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "gk24.pl11 godz.",
+            "date": "gk24.pl15 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -106,24 +122,8 @@
             "description": "Wycena monet z PRL-u zale\u017cy od rzadko\u015bci wyst\u0119powania, jako\u015bci wybicia oraz gradingu, czyli stanu jej zachowania. W Polsce ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.pM531g1foWeOKq99qYJVCy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "gs24.pl11 godz.",
+            "date": "gs24.pl15 godz.",
             "source": "gs24.pl",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Te banknoty trzeba wymieni\u0107, bo trac\u0105 warto\u015b\u0107. Zobacz, jakie uszkodzenia banknot\u00f3w zmniejszaj\u0105 ich wycen\u0119 22.02.2025",
-            "link": "https://gk24.pl/te-banknoty-trzeba-wymienic-bo-traca-wartosc-zobacz-jakie-uszkodzenia-banknotow-zmniejszaja-ich-wycene-22022025/ar/c1-18995014",
-            "description": "Zobacz, jakie banknoty strac\u0105 na nominale. Znajduje si\u0119 kilka przypadk\u00f3w, kiedy pieni\u0105dz mo\u017ce straci\u0107 wa\u017cno\u015b\u0107 i nale\u017cy go ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.UJ3pxtvgS26cd6jdvm5VIC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "gk24.pl11 godz.",
-            "source": "gk24.pl",
             "article_content": "Content not available"
         }
     },
@@ -138,7 +138,7 @@
             "description": "Kryszta\u0142y produkowane w PRL-u s\u0105 obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli posiadasz ...",
             "image_url": "https://www.bing.pl/th?id=OVF.5O6OLX2C6hFhXkuBfpZn2Q&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN4 godz.",
+            "date": "Gazeta Pomorska on MSN2 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -154,7 +154,7 @@
             "description": "R\u00f3\u017cnorodno\u015b\u0107 oferowanych na gie\u0142dzie towar\u00f3w jest wszechstronna. Niezwykle ciekawa mo\u017ce by\u0107 np. stara bi\u017cuteria, kt\u00f3ra ...",
             "image_url": "https://www.bing.pl/th?id=OVF.RqSqEwS2voX6RKomh5FEZg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "gazetawroclawska.pl6 godz.",
+            "date": "gazetawroclawska.pl10 godz.",
             "source": "gazetawroclawska.pl",
             "article_content": "Content not available"
         }
@@ -170,7 +170,7 @@
             "description": "Obecnie pragniemy, by nasze domowe wn\u0119trza mia\u0142y sw\u00f3j unikatowy charakter, by\u0142y przytulne i kolorowe. Jednym z pomys\u0142\u00f3w na ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.AD2qDGgaddLcFtb8yhDa7i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "gk24.pl11 godz.",
+            "date": "gk24.pl15 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -186,9 +186,41 @@
             "description": "Czy ro\u015bliny mog\u0105 mie\u0107 magiczn\u0105 moc? Okazuje si\u0119, \u017ce wiele os\u00f3b wierzy w to, \u017ce ro\u015bliny przynosz\u0105 bogactwo i dobrobyt. S\u0105 te\u017c ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.iUnN73FyFvxPnyCdENEvES&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Hostowane na MSN10 godz.",
+            "date": "Hostowane na MSN14 godz.",
             "source": "MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pchli Targ wiosn\u0105 wraca do Nysy. Mo\u017cna tam kupi\u0107 prawdziwe skarby. Poszukiwacze skarb\u00f3w zn\u00f3w przyb\u0119d\u0105 do miasta",
+            "link": "https://nto.pl/pchli-targ-wiosna-wraca-do-nysy-mozna-tam-kupic-prawdziwe-skarby-poszukiwacze-skarbow-znow-przybeda-do-miasta/ar/c1-18609283",
+            "description": "W sobot\u0119 (15 marca) na terenie pod Hal\u0105 Nysa, odb\u0119dzie si\u0119 kolejna edycja Pchlego Targu. W zesz\u0142ym roku wydarzenie cieszy\u0142o ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.1OcJvec3NO8SkjDicIOt7y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "nto.pl1 godz.",
+            "source": "nto.pl",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pchli targ M1 Pozna\u0144",
+            "link": "https://gloswielkopolski.pl/tag/pchli-targ-m1-poznan",
+            "description": "Gwiazdory, lampki, renifery, ozdoby choinkowe i \u015bwi\u0105teczne obrusy mo\u017cna dzi\u015b znale\u017a\u0107 na gie\u0142dzie staroci i pchlim targu przed ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.EMSAaZirpw6ML_A7kNwxky&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "gloswielkopolski2 godz.",
+            "source": "gloswielkopolski",
+            "article_content": "Content not available"
         }
     },
     {
@@ -202,7 +234,7 @@
             "description": "\u2013 Dzi\u015b modne s\u0105 proste, minimalistyczne wn\u0119trza, ale coraz wi\u0119cej os\u00f3b szuka dodatk\u00f3w z dusz\u0105. Stare meble, odnowione z ...",
             "image_url": "https://www.bing.pl/th?id=OVF.5qPh2KznmiTX22g%2fban4Zg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "wroclaw.naszemiasto on MSN1 godz.",
+            "date": "wroclaw.naszemiasto on MSN5 godz.",
             "source": "wroclaw.naszemiasto on MSN",
             "article_content": ""
         }
@@ -218,7 +250,7 @@
             "description": "R\u00f3\u017cnorodno\u015b\u0107 oferowanych na gie\u0142dzie towar\u00f3w jest wszechstronna. Niezwykle ciekawa mo\u017ce by\u0107 np. stara bi\u017cuteria, kt\u00f3ra ...",
             "image_url": "https://www.bing.pl/th?id=OVF.RqSqEwS2voX6RKomh5FEZg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "gazetawroclawska.pl6 godz.",
+            "date": "gazetawroclawska.pl10 godz.",
             "source": "gazetawroclawska.pl",
             "article_content": "Content not available"
         }
@@ -234,40 +266,8 @@
             "description": "W sobot\u0119, 22 lutego 2025 roku, na popularnym w\u015br\u00f3d mieszka\u0144c\u00f3w targowisku przy ulicy Zwi\u0105zk\u00f3w Zawodowych we W\u0142oc\u0142awku mo\u017cna ...",
             "image_url": "https://www.bing.pl/th?id=OVF.iM34lqsFHCYJsY8kt6E46w&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "W\u0142oc\u0142awek Nasze Miasto3 godz.",
+            "date": "W\u0142oc\u0142awek Nasze Miasto7 godz.",
             "source": "W\u0142oc\u0142awek Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Zakupy na gie\u0142dzie w Sandomierzu w ostatni\u0105 sobot\u0119 lutego. Du\u017cy ruch na placu targowym. \u0141owcy okazji ruszyli. Zobaczcie zdj\u0119cia",
-            "link": "https://echodnia.eu/podkarpackie/zakupy-na-gieldzie-w-sandomierzu-w-ostatnia-sobote-lutego-duzy-ruch-na-placu-targowym-lowcy-okazji-ruszyli-zobaczcie-zdjecia/ar/c1-19075416",
-            "description": "W sobot\u0119 pogoda sprzyja\u0142a zakupom na gie\u0142dzie w Sandomierzu. O poranku targowisko przy Przemys\u0142owej przyci\u0105gn\u0119\u0142o mn\u00f3stwo ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.KHmJ0IrXGuUGSr3ZErCDfC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "targ+staroci",
-            "date": "echodnia7 godz.",
-            "source": "echodnia",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Pan Adam od 50 lat naprawia aparaty fotograficzne. B\u0119dzie musia\u0142 zamkn\u0105\u0107 serwis? \"Podwy\u017cka czynszu, sk\u0142adki zusowskiej, pr\u0105du i wody\"",
-            "link": "https://krakow.naszemiasto.pl/pan-adam-od-50-lat-naprawia-aparaty-fotograficzne-bedzie-musial-zamknac-serwis-podwyzka-czynszu-skladki-zusowskiej-pradu-i-wody/ar/c1p2-27288093",
-            "description": "73-letni Adam Lele\u0144 z Krakowa od 50 lat zajmuje si\u0119 napraw\u0105 aparat\u00f3w fotograficznych, tych jeszcze analogowych. Podwy\u017cka ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.6ijhrRPstNHPSuGlKcr5LQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "targ+staroci",
-            "date": "krakow.naszemiasto7 godz.",
-            "source": "krakow.naszemiasto",
             "article_content": "Content not available"
         }
     },
@@ -282,7 +282,7 @@
             "description": "Zanim wyruszysz w drog\u0119, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 22 lutego w Koszalinie ma by\u0107 6\u00b0C. Nie powinno pada\u0107. W ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.7SK2PCNFa3C_PFI6zR9XRS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "koszalin.naszemiasto1 godz.",
+            "date": "koszalin.naszemiasto5 godz.",
             "source": "koszalin.naszemiasto",
             "article_content": "Content not available"
         }
@@ -293,13 +293,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Trasy nordic walking do 65 km od Gryfic. Urocze miejsca na kr\u00f3tk\u0105 tras\u0119 w weekend 22 - 23 lutego",
-            "link": "https://gryfice.naszemiasto.pl/trasy-nordic-walking-do-65-km-od-gryfic-urocze-miejsca-na-krotka-trase-w-weekend-22-23-lutego/ar/c7p1-22319401",
-            "description": "Wsp\u00f3lnie z Traseo przygotowali\u015bmy 3 szlaki nordic walking oddalone maksymalnie o 65 km od Gryfic. Sprawd\u017a, czy trasa polecana ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.BEYS0W9yXEbVjWFwovoJLS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Jak wygl\u0105da\u0142y Wa\u0142brzych i Ksi\u0105\u017c w okresie drugiej wojny \u015bwiatowej na starych zdj\u0119ciach? Zobacz!",
+            "link": "https://walbrzych.naszemiasto.pl/jak-wygladaly-walbrzych-i-ksiaz-w-okresie-drugiej-wojny/ar/c15-9413673",
+            "description": "Zobaczcie zdj\u0119cia powsta\u0142e w okresie drugiej wojny \u015bwiatowej w Wa\u0142brzychu i jego obecnych dzielnicach pochodz\u0105ce z portalu fotopolska.eu.",
+            "image_url": "https://www.bing.pl/th?id=ODF.b7cDqWcxCJUoLca1qpYJLg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "gryfice.naszemiasto1 godz.",
-            "source": "gryfice.naszemiasto",
+            "date": "walbrzych.naszemiasto3 godz.",
+            "source": "walbrzych.naszemiasto",
             "article_content": "Content not available"
         }
     },
@@ -314,7 +314,7 @@
             "description": "W sercu sannickiego parku, tu\u017c przed wej\u015bciem do pa\u0142acu, odkryto niezwyk\u0142\u0105 tajemnic\u0119 przesz\u0142o\u015bci. Relikty XVIII-wiecznych ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.sMbRvSIVED8yI_mru7gKeS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "radiovictoria12 godz.",
+            "date": "radiovictoria16 godz.",
             "source": "radiovictoria",
             "article_content": "W sercu sannickiego parku, tu\u017c przed wej\u015bciem do pa\u0142acu, odkryto niezwyk\u0142\u0105 tajemnic\u0119 przesz\u0142o\u015bci. Relikty XVIII-wiecznych fundament\u00f3w dawnego dworu, kt\u00f3re od wiek\u00f3w ukryte by\u0142y pod ziemi\u0105. To \u015bwiadkowie minionych epok, kt\u00f3rych kamienie pami\u0119taj\u0105 dawnych mieszka\u0144c\u00f3w i ich \u017cycie. Dzi\u0119ki pracy archeolog\u00f3w i historyk\u00f3w, mo\u017cna dzi\u015b wyobrazi\u0107 sobie, jak wygl\u0105da\u0142 dw\u00f3r, kt\u00f3ry tu sta\u0142. Multimedialne wizualizacje pokazuj\u0105 jego rekonstrukcj\u0119 \u2013 obraz przesz\u0142o\u015bci zakl\u0119tej w tych kamieniach, teraz tak bliskiej. Ale to nie wszystko. Po wej\u015bciu do pa\u0142acu, obaczy\u0107 mo\u017cna ci\u0105g dalszy historii. Na poddaszu czeka wystawa, kt\u00f3ra ods\u0142ania kolejne tajemnice. Znaleziska archeologiczne \u2013 codzienne przedmioty sprzed wiek\u00f3w \u2013 pozwalaj\u0105 nam zajrze\u0107 w \u017cycie mieszka\u0144c\u00f3w tamtego dworu. Zabytki, multimedialne wizualizacje, hologramy i animacje tworz\u0105 opowie\u015b\u0107, kt\u00f3r\u0105 ka\u017cdy mo\u017ce odkry\u0107 na sw\u00f3j spos\u00f3b. Model wykopu archeologicznego zaprasza najm\u0142odszych do samodzielnych odkry\u0107, a stylizowane wn\u0119trze dworu przenosi zwiedzaj\u0105cych do XVIII wieku. To prawdziwa podr\u00f3\u017c w czasie, zako\u0144czona spojrzeniem przez okno w przesz\u0142o\u015b\u0107, jak widzieli j\u0105 archeolodzy. Wystawa \u201eCo by\u0142o przed pa\u0142acem?\u201d czeka w Europejskim Centrum Artystycznym w Sannikach."
         }
@@ -325,14 +325,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "HISTORIA PRL",
-            "link": "https://www.se.pl/temat/historia-prl,tg-F1om-8ZW3-MQLd/",
-            "description": "Dok\u0142adnie 24 lipca 1959 roku w Fabryce Samochod\u00f3w Ci\u0119\u017carowych w Lublinie rozpocz\u0119\u0142a si\u0119 produkcja kultowego auta dostawczego \u017buk, kt\u00f3ry przez lata robi\u0142 furor\u0119 na drogach. Niepozorny dostawczak odmie\u2026 ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.m7D0yBzzZsnKtu44yb1UTg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Trasy nordic walking do 65 km od Gryfic. Urocze miejsca na kr\u00f3tk\u0105 tras\u0119 w weekend 22 - 23 lutego",
+            "link": "https://gryfice.naszemiasto.pl/trasy-nordic-walking-do-65-km-od-gryfic-urocze-miejsca-na-krotka-trase-w-weekend-22-23-lutego/ar/c7p1-22319401",
+            "description": "Wsp\u00f3lnie z Traseo przygotowali\u015bmy 3 szlaki nordic walking oddalone maksymalnie o 65 km od Gryfic. Sprawd\u017a, czy trasa polecana ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.BEYS0W9yXEbVjWFwovoJLS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "SE8 godz.",
-            "source": "SE",
-            "article_content": ""
+            "date": "gryfice.naszemiasto5 godz.",
+            "source": "gryfice.naszemiasto",
+            "article_content": "Content not available"
         }
     },
     {
@@ -342,11 +342,11 @@
         },
         "body": {
             "title": "W kamienicy przy ul. Ma\u015blanej we W\u0142oc\u0142awku b\u0119d\u0105 mieszkania. Trwa remont. Tak wygl\u0105daj\u0105 prace",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/w-kamienicy-przy-ul-ma%C5%9Blanej-we-w%C5%82oc%C5%82awku-b%C4%99d%C4%85-mieszkania-trwa-remont-tak-wygl%C4%85daj%C4%85-prace/ar-AA1zqVEM?ocid=BingNewsVerp",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/w-kamienicy-przy-ul-ma%C5%9Blanej-we-w%C5%82oc%C5%82awku-b%C4%99d%C4%85-mieszkania-trwa-remont-tak-wygl%C4%85daj%C4%85-prace/ar-AA1zqVEM?ocid=BingNewsVerp",
             "description": "W kamienicy przy ul. Ma\u015blanej 4/6 we W\u0142oc\u0142awku powstanie kilkana\u015bcie mieszka\u0144 na tani wynajem. Obecnie trwa tam kapitalny ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.aZ9XuyeXF-2p4dahu4Txzy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "W\u0142oc\u0142awek Naszemiasto on MSN20 godz.",
+            "date": "W\u0142oc\u0142awek Naszemiasto on MSN2 godz.",
             "source": "W\u0142oc\u0142awek Naszemiasto on MSN",
             "article_content": ""
         }
@@ -362,7 +362,7 @@
             "description": "\u2013 Dzi\u015b modne s\u0105 proste, minimalistyczne wn\u0119trza, ale coraz wi\u0119cej os\u00f3b szuka dodatk\u00f3w z dusz\u0105. Stare meble, odnowione z ...",
             "image_url": "https://www.bing.pl/th?id=OVF.5qPh2KznmiTX22g%2fban4Zg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "wroclaw.naszemiasto on MSN1 godz.",
+            "date": "wroclaw.naszemiasto on MSN5 godz.",
             "source": "wroclaw.naszemiasto on MSN",
             "article_content": ""
         }
@@ -378,7 +378,7 @@
             "description": "Znalezione przy rozbudowie DK7 pozosta\u0142o\u015bci fontanny, stanowi\u0105cej element dekoracyjny twierdzy Modlin, wybudowana w stylu ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.-F6eP6WesIaFZifGT6-guC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "wnp.pl1 godz.",
+            "date": "wnp.pl5 godz.",
             "source": "wnp.pl",
             "article_content": "Znalezione przy rozbudowie DK7 pozosta\u0142o\u015bci fontanny, stanowi\u0105cej element dekoracyjny twierdzy Modlin, wybudowana w stylu zakopia\u0144skim cha\u0142upa, kt\u00f3ra znikn\u0119\u0142a z s\u0105siedztwa \"zakopianki\", tysi\u0105ce archeologicznych artefakt\u00f3w znalezionych podczas przebudowy miejskiej ulicy w Pile \u2013 to bilans ostatnich kilku tygodni na budowach dr\u00f3g w Polsce. A to tylko pr\u00f3bka tego, co wpada w r\u0119ce budowla\u0144com podczas realizacji r\u00f3\u017cnego rodzaju inwestycji liniowych.\n\nReklama\n\nBadania rozpoznawcze i wykopaliskowe mog\u0105 by\u0107 prowadzone jeszcze nawet przed wydaniem decyzji o zezwoleniu na realizacj\u0119 inwestycji drogowej. P\u00f3\u017aniej, podczas prac ziemnych, ca\u0142y teren budowy jest obj\u0119ty nadzorem archeologicznym.\n\nNatrafienie na jakiekolwiek przedmioty o warto\u015bci zabytkowej oznacza wstrzymanie rob\u00f3t. To si\u0119 mo\u017ce niestety prze\u0142o\u017cy\u0107 na spore op\u00f3\u017anienie w uko\u0144czeniu inwestycji.\n\nPodczas realizacji inwestycji liniowych znajdowane s\u0105 pami\u0105tki nawet z czas\u00f3w prehistorycznych, szcz\u0105tki mamut\u00f3w i\u2026 niewybuchy.\n\nZdarza si\u0119, \u017ce przy dr\u0105\u017ceniu tunelu trzeba przenie\u015b\u0107 dom\u2026\n\nPrzy okazji rob\u00f3t ziemnych na rozbudowywanym odcinku drogi krajowej nr 7 pomi\u0119dzy Czosnowem a Modlinem ods\u0142oni\u0119te zosta\u0142y pozosta\u0142o\u015bci fontanny na skarpie wi\u015blanej w Zakroczymiu. Na podstawie analizy konstrukcji i dost\u0119pnych \u017ar\u00f3de\u0142 ustalono, \u017ce fontann\u0119 wykonano z cegie\u0142 rozbi\u00f3rkowych pochodz\u0105cych prawdopodobnie z modernizowanej na prze\u0142omie XIX i XX stulecia twierdzy Modlin. Konstrukcja fontanny zosta\u0142a ods\u0142oni\u0119ta i oczyszczona, a na koniec wykonano r\u00f3\u017cne rodzaje dokumentacji (fotograficzna, geodezyjna oraz skan 3D, dzi\u0119ki czemu mo\u017cliwe b\u0119dzie kontynuowanie analizy obiektu, nawet mimo jego fizycznej nieobecno\u015bci).\n\nPodobny wiek jak fontanna z Zakroczymia ma r\u00f3wnie\u017c wybudowana w stylu zakopia\u0144skim cha\u0142upa w ma\u0142opolskich Krzyszkowicach. Pochodz\u0105cy z 1890 r. budynek d\u0142u\u017cej ju\u017c nie postoi w dotychczasowej lokalizacji \u2013 ze wzgl\u0119du na budow\u0119 w\u0119z\u0142a drogowego, maj\u0105cego umo\u017cliwi\u0107 wjazd z Krzyszkowic na \"zakopiank\u0119\" w stron\u0119 Krakowa zabytkowa cha\u0142upa zosta\u0142a rozebrana i finalnie trafi do Nowej Huty, do skansenu w Branicach. Przy okazji tej operacji drogowcy z Ma\u0142opolski przypomnieli zreszt\u0105, \u017ce to nie pierwsza tego rodzaju sytuacja w ostatnich latach \u2013 podczas budowy tunelu pod Luboniem Ma\u0142ym (w ci\u0105gu zakopianki) przeniesiono dom pisarza Jalu Kurka.\n\nZnacznie d\u0142u\u017cej, bo od \u015bredniowiecza, a w niekt\u00f3rych przypadkach nawet od staro\u017cytno\u015bci, czy czas\u00f3w prehistorycznych zalega\u0142y w ziemi artefakty, jakie odkryto podczas przebudowy jednej z miejskiej ulic w Pile. W sumie lista znalezisk obejmuje tam ju\u017c kilka tysi\u0119cy przedmiot\u00f3w \u2013 od fragment\u00f3w ceramiki, szk\u0142a i monet po studnie, czy pozosta\u0142o\u015bci piwnic budynk\u00f3w mieszkalnych.\n\nArcheolodzy si\u0119 ciesz\u0105, a drogowcy maj\u0105 wielomiesi\u0119czne op\u00f3\u017anienia\n\nGeneralna Dyrekcja Dr\u00f3g Krajowych i Autostrad przypomina, \u017ce podczas realizowanych przez ni\u0105 inwestycji ca\u0142y teren budowy jest obj\u0119ty nadzorem archeologicznym podczas prac ziemnych, w szczeg\u00f3lno\u015bci odhumusowania terenu (aczkolwiek badania rozpoznawcze i wykopaliskowe mog\u0105 by\u0107 prowadzone jeszcze nawet przed wydaniem decyzji o zezwoleniu na realizacj\u0119 inwestycji drogowej). W razie zauwa\u017cenia jakichkolwiek przedmiot\u00f3w, kt\u00f3re mog\u0105 mie\u0107 warto\u015b\u0107 zabytkow\u0105, archeolog wstrzymuje roboty i zg\u0142asza swoje odkrycie do wojew\u00f3dzkiego konserwatora zabytk\u00f3w \u2013 obowi\u0105zek taki nak\u0142ada ustaw\u0119 o ochronie zabytk\u00f3w i opiece nad zabytkami.\n\nTo sprawia, \u017ce drogowcy niekoniecznie musz\u0105 w pe\u0142ni podziela\u0107 rado\u015b\u0107 archeolog\u00f3w z odnajdywanych znalezisk. Kiedy jesieni\u0105 2023 r. w trakcie bada\u0144 archeologicznych prowadzonych w ci\u0105gu budowanej drogi ekspresowej S1 mi\u0119dzy O\u015bwi\u0119cimiem a Dankowicami natrafiono na \u015blady osadnictwa sprzed okresu od 7 do 10 tys. lat, czego skutkiem by\u0142o wstrzymania rob\u00f3t w tej cz\u0119\u015bci placu budowy in\u017cynier kontaktu, po analizie zgromadzonych materia\u0142\u00f3w oraz roszcze\u0144 wykonawcy, uzna\u0142 za zasadne przed\u0142u\u017cenie czasu na uko\u0144czenie inwestycji o 223 dni kalendarzowe.\n\nZe wzgl\u0119du na prace archeologiczne w obr\u0119bie w\u0119z\u0142a Nadarzyn (przy budowie drogi ekspresowej S8 odkryto fragment cmentarza przyko\u015bcielnego, co sko\u0144czy\u0142o si\u0119 ekshumacj\u0105 szcz\u0105tek ok. 3000 os\u00f3b) realizacja inwestycji wyd\u0142u\u017cy\u0142a si\u0119 o siedem miesi\u0119cy.\n\nOd bi\u017cuterii, broni i ozd\u00f3b po szcz\u0105tki mamuta i wojenne niewybuchy\n\nLista odkry\u0107 dokonywanych przy budowie dr\u00f3g jest imponuj\u0105ca. Podczas prac na S61 mi\u0119dzy E\u0142kiem a Kalinowem na odkrytym w miejscowo\u015bci Przykopka (woj. warmi\u0144sko-mazurskie) cmentarzu z XVIII-XIX w. znaleziono m.in. bursztynowy naszyjnik, monety z XVIII i XIX w., elementy stroju i bi\u017cuteri\u0119, czy przedmioty codziennego u\u017cytku. W trakcie budowy S17 Skrudki - Kur\u00f3w Zach\u00f3d przebadano plac bitwy pod \u017byrzynem, stoczonej z rosyjskim oddzia\u0142em przez uczestnik\u00f3w Powstania Styczniowego w 1863 r. Odkryto nie tylko pozosta\u0142o\u015bci po stoczonej bitwie, ale tak\u017ce zbiorow\u0105 mogi\u0142\u0119 oko\u0142o 80 \u017co\u0142nierzy armii carskiej.\n\nZ kolei w Wi\u0105zownie pod Warszaw\u0105, przy budowie drogi S17 odkryto pozosta\u0142o\u015bci umocnie\u0144 obronnych wykorzystywanych podczas dw\u00f3ch wojen \u015bwiatowych i w trakcie Bitwy Warszawskiej w 1920 r., natomiast na budowie drogi ekspresowej S61 na odcinku Suwa\u0142ki \u2013 Budzisko natrafiano na elementy sowieckiego szturmowego I\u0142-2 (silnik i \u015bwietnie zachowane dzia\u0142ko pok\u0142adowe). Naczynia ceramiczne, kamienny top\u00f3r, krzemienny grot strza\u0142y, gliniany kubek, miedziany sztylet oraz ozdoby z miedzi z epoki br\u0105zu \u2013 to z kolei efekt bada\u0144 archeologicznych prowadzonych w zwi\u0105zku z budow\u0105 odcinka S7 Moczyd\u0142o-Miech\u00f3w.\n\nGwoli rzetelno\u015bci trzeba odda\u0107, \u017ce nie tylko archeolodzy maj\u0105 szans\u0119 poszerzy\u0107 sw\u0105 wiedz\u0119 za spraw\u0105 inwestycji infrastrukturalnych. Los czasem u\u015bmiechnie si\u0119 te\u017c do paleontolog\u00f3w. Tak by\u0142o chocia\u017cby podczas budowy II linii metra w Warszawie. Na stacji Br\u00f3dno w\u015br\u00f3d mas piasku rzecznego odkryto czaszk\u0119 najprawdopodobniej pra\u017cubra, natomiast na Woli natrafiono na cz\u0119\u015bci szkieletu mamuta lub prehistorycznego s\u0142onia le\u015bnego z czas\u00f3w plejstocenu (pozosta\u0142o\u015bci mamuta b\u0105d\u017a s\u0142onia le\u015bnego znaleziono te\u017c w rejonie stacji Zacisze, gdzie wydobyto sporych rozmiar\u00f3w fragmenty ciosu tego zwierz\u0119cia).\n\nBywa te\u017c wreszcie, \u017ce przy okazji inwestycji infrastrukturalnych trafia si\u0119 na prawdziw\u0105 bomb\u0119\u2026 w dos\u0142ownym tego s\u0142owa rozumieniu. W trakcie przebudowy stacji kolejowej w O\u017carowie Mazowieckim natrafiono na blisko 1200 niewybuch\u00f3w, b\u0119d\u0105cych pozosta\u0142o\u015bci\u0105 kampanii wrze\u015bniowej. I cho\u0107 akurat na terenie obecnej Polski zalegaj\u0105ce wci\u0105\u017c w ziemi r\u00f3\u017cnego rodzaju \"pami\u0105tki\" II wojny \u015bwiatowej nie dziwi\u0105, to jednak skala tamtego znaleziska wywo\u0142a\u0142a poruszenie i mocno skomplikowa\u0142a prowadzenie rob\u00f3t przez wykonawc\u0119."
         }
@@ -394,7 +394,7 @@
             "description": "Wyst\u0105pienie z inicjatyw\u0105 usprawnienia proces\u00f3w inwestycyjnych, w tym budowlanych, zapowiedzia\u0142 minister infrastruktury ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.5eG4yQUBUAUI6MJusQAIKS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "PAP on MSN1 godz.",
+            "date": "PAP on MSN5 godz.",
             "source": "PAP on MSN",
             "article_content": ""
         }
@@ -410,7 +410,7 @@
             "description": "Minister infrastruktury Dariusz Klimczak zapowiedzia\u0142 w sobot\u0119 w Tomaszowie Mazowieckim, \u017ce wyst\u0105pi z inicjatyw\u0105 usprawnienia ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.K8ntMPbvq2pb7WxRR6ufLy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "wnp.pl4 godz.",
+            "date": "wnp.pl8 godz.",
             "source": "wnp.pl",
             "article_content": "Minister infrastruktury Dariusz Klimczak zapowiedzia\u0142 w sobot\u0119 w Tomaszowie Mazowieckim, \u017ce wyst\u0105pi z inicjatyw\u0105 usprawnienia proces\u00f3w inwestycyjnych, w tym budowlanych. Na konferencji prasowej z prezydentem Marcinem Witko poinformowa\u0142, \u017ce miasto dosta\u0142o 16 mln z\u0142 dotacji na budownictwo spo\u0142eczne.\n\nReklama\n\nW sobot\u0119 22 lutego w Tomaszowie Mazowieckim minister infrastruktury Dariusz Klimczak wsp\u00f3lnie z prezydentem miasta Marcinem Witko og\u0142osili, \u017ce samorz\u0105d dosta\u0142 16-milionow\u0105 dotacj\u0119 z Banku Gospodarstwa Krajowego na budownictwo spo\u0142eczne. To 80 proc. koszt\u00f3w planowanej inwestycji.\n\nTomasz\u00f3w Mazowiecki do\u0142o\u017cy 4 mln z\u0142 i za uzyskane w ten spos\u00f3b 20 mln z\u0142 zrewitalizuje zabytkow\u0105 kamienic\u0119 przy ul. Barlickiego oraz dobuduje do niej plomb\u0119, tworz\u0105c \u0142\u0105cznie 39 mieszka\u0144.\n\nWed\u0142ug Klimczaka dofinansowanie z instrumentu, kt\u00f3rym dysponuje Bank Gospodarstwa Krajowego, jest niezwykle korzystne dla samorz\u0105du terytorialnego i jest to spos\u00f3b na rozw\u00f3j budownictwa komunalnego.\n\n\"Z wielkim zainteresowaniem obserwuj\u0119 tego typu dzia\u0142ania, poniewa\u017c chcia\u0142bym je zaimplementowa\u0107 do proces\u00f3w legislacyjnych, kt\u00f3re realizuje nie tylko Ministerstwo Technologii i Rozwoju kierowane przez ministra Krzysztofa Paszyka, ale tak\u017ce Ministerstwo Infrastruktury. Zamierzam w nieodleg\u0142ym czasie przedstawi\u0107 nasz projekt dotycz\u0105cy usprawnienia proces\u00f3w inwestycyjnych, kt\u00f3re tak\u017ce b\u0119d\u0105 dotyczy\u0142y tego typu inwestycji jak ta w Tomaszowie Mazowieckim\" - powiedzia\u0142 minister Klimczak.\n\nDoda\u0142, \u017ce w og\u00f3lnopolskiej debacie na temat deregulacji i usprawnienia proces\u00f3w inwestycyjnych prezydent Tomaszowa i inne samorz\u0105dy po przej\u015bciu tego typu \"\u015bcie\u017cki zdrowia\" mog\u0105 by\u0107 przyk\u0142adem, w jaki spos\u00f3b powinni\u015bmy realizowa\u0107 inwestycje.\n\nKorzystne dofinansowanie Banku Gospodarstwa Krajowego\n\n\"W przypadku rewitalizacji tej kamienicy trzeba by\u0142o przej\u015b\u0107 okre\u015blony proces. Uzyska\u0107 zgody, uzgodnienia z konserwatorem zabytk\u00f3w. To zawsze d\u0142ugo trwa. Gratuluj\u0119 prezydentowi Tomaszowa, radnym i urz\u0119dnikom konsekwencji, wytrwa\u0142o\u015bci, determinacji w realizowaniu projekt\u00f3w, bo tylko wtedy mo\u017cna osi\u0105gn\u0105\u0107 oczekiwany efekt, i to bardzo szybki, bo tego typu procesy budowlane nie s\u0105 \u0142atwe\" - powiedzia\u0142 minister Dariusz Klimczak w Tomaszowie.\n\n\"W dodatku nie s\u0105 to tanie rzeczy\" - doda\u0142 Marcin Witko, prezydent Tomaszowa Mazowieckiego, podkre\u015blaj\u0105c, \u017ce remonty takich obiekt\u00f3w jak zabytkowe kamienice to projekty trudne do ud\u017awigni\u0119cia finansowo przez samorz\u0105dy.\n\n\"Samorz\u0105d nie by\u0142by w stanie z w\u0142asnych \u015brodk\u00f3w przy tych dochodach, kt\u00f3re posiada, tak du\u017co inwestowa\u0107 w lokale mieszkalne. Dzi\u0119ki wsp\u00f3\u0142pracy uda\u0142o nam si\u0119 uzyska\u0107 80 proc. dofinansowania, czyli 16 mln z\u0142, na budow\u0119 39 mieszka\u0144\" - powiedzia\u0142 Witko. Zauwa\u017cy\u0142, \u017ce o ile wybudowanie obecnie metra kwadratowego nowego mieszkania b\u0119dzie kosztowa\u0107 ok. 7 tys. z\u0142, o tyle rewitalizacja kamienicy znajduj\u0105cej si\u0119 pod nadzorem konserwatora zabytk\u00f3w to koszt minimum 11 tys. z\u0142 za m kw.\n\nWed\u0142ug Klimczaka dofinansowanie z instrumentu, kt\u00f3rym dysponuje Bank Gospodarstwa Krajowego, jest niezwykle korzystne dla samorz\u0105du terytorialnego i jest to spos\u00f3b na rozw\u00f3j budownictwa komunalnego.\n\nDu\u017ce zainteresowanie mieszkaniami komunalnymi\n\nRewitalizacja kamienicy, w kt\u00f3rej powstanie 17 mieszka\u0144, ma potrwa\u0107 dwa lata, a budowa s\u0105siaduj\u0105cego z ni\u0105 bloku z 22 lokalami - do pi\u0119ciu lat. Prezydent miasta zapowiedzia\u0142, \u017ce to pierwsza cz\u0119\u015b\u0107 inwestycji, poniewa\u017c w kolejnych etapach ma powsta\u0107 druga plomba przylegaj\u0105ca do zabytkowej kamienic. Na rewitalizacj\u0119 czeka te\u017c kolejny budynek na przeznaczonym pod budownictwo mieszkaniowe hektarowym terenie w rejonie ul. Barlickiego. Na osiedlu TBS po realizacji planowanych inwestycji powstanie \u0142\u0105cznie ok. 200 mieszka\u0144.\n\nKamienica do rewitalizacji od dw\u00f3ch lat stoi pusta, wi\u0119c zaraz po rozstrzygni\u0119ciu przetargu mog\u0105 si\u0119 tam rozpocz\u0105\u0107 roboty budowlane.\n\nLucyna Pietrzyk, zast\u0119pca prezesa Tomaszowskiego Towarzystwa Budownictwa Spo\u0142ecznego, poinformowa\u0142a PAP, \u017ce wed\u0142ug obecnych stawek ceny najmu mieszka\u0144 komunalnych to 7-8 z\u0142 w kamienicach o niskim standardzie i 10-11 z\u0142 w mieszkaniach w komunalnych w blokach.\n\n\"W przypadku planowanych budynk\u00f3w spodziewamy si\u0119 najmu na poziomie ok. 12 z\u0142 za m kw., a w kamienicy, z racji wy\u017cszego kosztu remontu, czynsz b\u0119dzie wy\u017cszy, ale oceniamy, \u017ce b\u0119dzie poni\u017cej 20 z\u0142 za m kw.\" - powiedzia\u0142a Lucyna Pietrzyk.\n\nTo niejedyne planowane inwestycje mieszkaniowe w Tomaszowie. W najbli\u017cszym czasie - jak powiedzia\u0142a Pietrzyk, ma si\u0119 rozpocz\u0105\u0107 budowa dw\u00f3ch blok\u00f3w na 150 mieszka\u0144 w ramach SIM (Spo\u0142ecznej Inicjatywy Mieszkaniowej).\n\n\"Mieszkania komunalne ciesz\u0105 si\u0119 du\u017cym zainteresowaniem, a mamy nadziej\u0119, \u017ce przyrost lokali z budownictwa spo\u0142ecznego nie tylko b\u0119dzie zaspokaja\u0142 potrzeby mieszkaniowe tomaszowian, ale te\u017c b\u0119dzie hamowa\u0142 wzrost cen mieszka\u0144 na rynku\" - doda\u0142a Lucyna Pietrzyk."
         }
@@ -421,14 +421,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Ciekawe trasy do spacerowania w woj. \u015bl\u0105skim. Gdzie wybra\u0107 si\u0119 w weekend 22 - 23 lutego? TOP 10 tras",
-            "link": "https://dziennikzachodni.pl/ciekawe-trasy-do-spacerowania-w-woj-slaskim-gdzie-wybrac-sie-w-weekend-22-23-lutego-top-10-tras/ar/c7p1-22116485",
-            "description": "Zanim wyruszysz, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 22 lutego w woj. \u015bl\u0105skim ma by\u0107 od -5\u00b0C do 6\u00b0C. Nie powinno pada\u0107.",
-            "image_url": "https://www.bing.pl/th?id=OVFT.XMcEQhozRQarguoENSPg1i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Ruina kamienicy w Malborku przypomina o tragedii. B\u0119dzie rozebrana, ale miasto chce wi\u0119kszego odszkodowania ni\u017c wyp\u0142acone",
+            "link": "https://www.msn.com/pl-pl/news/other/ruina-kamienicy-w-malborku-przypomina-o-tragedii-b%C4%99dzie-rozebrana-ale-miasto-chce-wi%C4%99kszego-odszkodowania-ni%C5%BC-wyp%C5%82acone/ar-AA1zz7S6?ocid=BingNewsVerp",
+            "description": "Niespe\u0142na 280 tys. z\u0142 w ramach odszkodowania za po\u017car kamienicy przy ul. Koszykowej dosta\u0142o miasto Malbork. Spraw\u0119 prowadzi ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.fVl6adt4U9xnLqDHpx%2fiLw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "dziennikzachodni.pl2 godz.",
-            "source": "dziennikzachodni.pl",
-            "article_content": "Content not available"
+            "date": "dziennikbaltycki.pl on MSN9 godz.",
+            "source": "dziennikbaltycki.pl on MSN",
+            "article_content": ""
         }
     },
     {
@@ -442,8 +442,24 @@
             "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.rXY4IFBt9hVZAYwsRbQrPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "gk24.pl11 godz.",
+            "date": "gk24.pl15 godz.",
             "source": "gk24.pl",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Banknoty i monety PRL w cenie z\u0142ota. Tyle w 2025 roku trzeba zap\u0142aci\u0107 za stare pieni\u0105dze [23.02.2025]",
+            "link": "https://pomorska.pl/banknoty-i-monety-prl-w-cenie-zlota-tyle-w-2025-roku-trzeba-zaplacic-za-stare-pieniadze-23-02-2025/ar/c1p2-27205273",
+            "description": "W 2025 roku kolekcjonerzy nadal intensywnie interesuj\u0105 si\u0119 starymi pieni\u0119dzmi z okresu Polskiej Rzeczpospolitej Ludowej. Ceny ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.KENSHUjy11XbIsQ-gXFdCS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+numizmatyka",
+            "date": "Pomorska3 godz.",
+            "source": "Pomorska",
             "article_content": "Content not available"
         }
     },
@@ -458,23 +474,7 @@
             "description": "Kolekcjonerzy szukaj\u0105 monet z okresu PRL, ale nie tylko, gdy\u017c tak\u017ce monety starsze, a nawet te wsp\u00f3\u0142czesne mog\u0105 by\u0107 cenne.",
             "image_url": "https://www.bing.pl/th?id=OVF.XUv%2fMPCAL0bljfBdcyFsrw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Pomorska on MSN4 godz.",
-            "source": "Gazeta Pomorska on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Banknoty i monety PRL w cenie z\u0142ota. Tyle w 2025 roku trzeba zap\u0142aci\u0107 za stare pieni\u0105dze [22.02.2025 r.]",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/banknoty-i-monety-prl-w-cenie-z%C5%82ota-tyle-w-2025-roku-trzeba-zap%C5%82aci%C4%87-za-stare-pieni%C4%85dze-21022025/ar-AA1zte0O?ocid=BingNewsVerp",
-            "description": "W 2025 roku kolekcjonerzy nadal intensywnie interesuj\u0105 si\u0119 starymi pieni\u0119dzmi z okresu Polskiej Rzeczpospolitej Ludowej. Ceny ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.Hday5xYkQIy%2fRvCfP1Ixrg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+numizmatyka",
-            "date": "Gazeta Pomorska on MSN3 godz.",
+            "date": "Gazeta Pomorska on MSN2 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -490,7 +490,7 @@
             "description": "Stare monety z PRL mog\u0105 by\u0107 dzi\u015b warte o wiele wi\u0119cej, ni\u017c si\u0119 spodziewasz. Kolekcjonerzy s\u0105 w stanie zap\u0142aci\u0107 krocie za ...",
             "image_url": "https://www.bing.pl/th?id=OVF.c8Ug0L%2b%2f3Tty%2blN1opbC9Q&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "BiznesINFO18 godz.",
+            "date": "BiznesINFO22 godz.",
             "source": "BiznesINFO",
             "article_content": "Kolekcjonerzy poszukuj\u0105 tych monet z PRL-u. S\u0105 warte fortun\u0119, lepiej sprawd\u017a szuflady\n\nStare monety z PRL mog\u0105 by\u0107 dzi\u015b warte o wiele wi\u0119cej, ni\u017c si\u0119 spodziewasz. Kolekcjonerzy s\u0105 w stanie zap\u0142aci\u0107 krocie za rzadkie egzemplarze, kt\u00f3re z pozoru wygl\u0105daj\u0105 jak zwyk\u0142e drobne. Jakie numizmaty osi\u0105gaj\u0105 najwy\u017csze ceny? Sprawd\u017a, czy nie masz ich w swojej kolekcji.\n\nKolekcjonowanie monet \u2013 pasja, kt\u00f3ra mo\u017ce si\u0119 op\u0142aci\u0107\n\nNumizmatyka, czyli kolekcjonowanie monet, to pasja, kt\u00f3ra cieszy si\u0119 coraz wi\u0119ksz\u0105 popularno\u015bci\u0105. Wielu kolekcjoner\u00f3w nie tylko fascynuje si\u0119 histori\u0105, ale r\u00f3wnie\u017c traktuje swoje zbiory jako inwestycj\u0119. Wbrew pozorom, nie tylko wiek monety decyduje o jej warto\u015bci \u2013 licz\u0105 si\u0119 tak\u017ce rzadko\u015b\u0107, stan zachowania oraz b\u0142\u0119dy mennicze.\n\nCoraz wi\u0119cej os\u00f3b zaczyna przeszukiwa\u0107 stare szuflady i strychy w poszukiwaniu monet sprzed lat. Szczeg\u00f3lnym zainteresowaniem ciesz\u0105 si\u0119 te z okresu PRL, kt\u00f3re w wielu przypadkach osi\u0105gaj\u0105 ceny wielokrotnie wy\u017csze ni\u017c ich nominalna warto\u015b\u0107. Niekt\u00f3re egzemplarze s\u0105 niemal niemo\u017cliwe do zdobycia, co czyni je prawdziw\u0105 gratk\u0105 dla kolekcjoner\u00f3w.\n\nFot. Pixabay/gosiak1980\n\nTych warzyw nigdy nie sad\u017a obok siebie. Zmarniej\u0105 w ekspresowym tempie\n\nCzytaj dalej\n\nW tych produktach znajdzie si\u0119 mi\u0119so \"z prob\u00f3wki\". Bran\u017ca mi\u0119sna mo\u017ce wkr\u00f3tce stan\u0105\u0107 pod \u015bcian\u0105\n\nCzytaj dalej\n\nNajbardziej poszukiwane monety PRL \u2013 na co zwracaj\u0105 uwag\u0119 kolekcjonerzy?\n\nNie ka\u017cda moneta z czas\u00f3w PRL ma warto\u015b\u0107 kolekcjonersk\u0105, ale niekt\u00f3re egzemplarze potrafi\u0105 osi\u0105ga\u0107 na aukcjach naprawd\u0119 imponuj\u0105ce kwoty. W\u015br\u00f3d kluczowych czynnik\u00f3w wp\u0142ywaj\u0105cych na cen\u0119 znajduj\u0105 si\u0119:\n\nrok wybicia \u2013 im rzadszy, tym bardziej poszukiwany,\n\n\u2013 im rzadszy, tym bardziej poszukiwany, stan zachowania \u2013 monety w idealnym stanie (tzw. stan menniczy) s\u0105 najcenniejsze,\n\n\u2013 monety w idealnym stanie (tzw. stan menniczy) s\u0105 najcenniejsze, nak\u0142ad emisji \u2013 niekt\u00f3re roczniki by\u0142y wybite w bardzo ograniczonej liczbie,\n\n\u2013 niekt\u00f3re roczniki by\u0142y wybite w bardzo ograniczonej liczbie, b\u0142\u0119dy mennicze \u2013 np. b\u0142\u0119dne oznaczenie nomina\u0142u, liter\u00f3wki lub inne nietypowe cechy.\n\nWarto te\u017c pami\u0119ta\u0107, \u017ce niekt\u00f3re monety by\u0142y wybite w niewielkich ilo\u015bciach lub w specjalnych wersjach kolekcjonerskich, co dodatkowo podnosi ich warto\u015b\u0107 na rynku. Kolekcjonerzy cz\u0119sto \u015bledz\u0105 aukcje i katalogi numizmatyczne, aby by\u0107 na bie\u017c\u0105co z najnowszymi odkryciami i cenami.\n\nNajdro\u017csze monety PRL \u2013 ile mo\u017cna na nich zarobi\u0107?\n\nDopiero teraz przechodzimy do konkret\u00f3w! Oto najcenniejsze monety PRL, kt\u00f3re mog\u0105 by\u0107 warte ma\u0142\u0105 fortun\u0119:\n\n5 z\u0142otych z 1974 roku \u2013 popularna \"rybaka\" mo\u017ce osi\u0105gn\u0105\u0107 cen\u0119 nawet 600 z\u0142 w dobrym stanie.\n\n\u2013 popularna \"rybaka\" mo\u017ce osi\u0105gn\u0105\u0107 cen\u0119 w dobrym stanie. 1 z\u0142oty z 1957 roku \u2013 za ten egzemplarz kolekcjonerzy p\u0142ac\u0105 nawet 500 z\u0142 .\n\n\u2013 za ten egzemplarz kolekcjonerzy p\u0142ac\u0105 nawet . 20 z\u0142otych z 1973 roku \u2013 jedna z bardziej poszukiwanych monet, osi\u0105gaj\u0105ca warto\u015b\u0107 do 400 z\u0142 .\n\n\u2013 jedna z bardziej poszukiwanych monet, osi\u0105gaj\u0105ca warto\u015b\u0107 . 5 z\u0142otych z 1986 roku \u2013 kolejny rzadki nomina\u0142, wart obecnie oko\u0142o 400 z\u0142 .\n\n\u2013 kolejny rzadki nomina\u0142, wart obecnie oko\u0142o . 50 000 z\u0142otych z 1988 roku \u2013 mimo wysokiego nomina\u0142u, ta moneta mo\u017ce kosztowa\u0107 nawet 300 z\u0142 na aukcjach.\n\n\u2013 mimo wysokiego nomina\u0142u, ta moneta mo\u017ce kosztowa\u0107 nawet na aukcjach. 1 z\u0142oty z 1985 roku \u2013 kolejny drobny nomina\u0142, kt\u00f3ry mo\u017ce zaskoczy\u0107 swoj\u0105 warto\u015bci\u0105, osi\u0105gaj\u0105c nawet 400 z\u0142.\n\nFot. ARKADIUSZ ZIOLEK/East News\n\n\n\nJe\u015bli posiadasz kt\u00f3r\u0105\u015b z tych monet, warto skonsultowa\u0107 si\u0119 z ekspertem lub sprawdzi\u0107 jej warto\u015b\u0107 na profesjonalnych aukcjach numizmatycznych. Mo\u017ce si\u0119 okaza\u0107, \u017ce przypadkiem trzymasz w domu prawdziwy skarb.\n\nMonety z czas\u00f3w PRL mog\u0105 by\u0107 warte znacznie wi\u0119cej, ni\u017c wskazywa\u0142by na to ich nominalny nomina\u0142. Kolekcjonerzy s\u0105 w stanie zap\u0142aci\u0107 setki, a nawet tysi\u0105ce z\u0142otych za rzadkie egzemplarze, szczeg\u00f3lnie te zachowane w dobrym stanie. Je\u015bli masz stare monety w domu, koniecznie sprawd\u017a ich warto\u015b\u0107 \u2013 by\u0107 mo\u017ce trzymasz w r\u0119kach prawdziw\u0105 kolekcjonersk\u0105 pere\u0142k\u0119."
         }
@@ -501,14 +501,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Te banknoty trzeba wymieni\u0107, bo trac\u0105 warto\u015b\u0107. Zobacz, jakie uszkodzenia banknot\u00f3w zmniejszaj\u0105 ich wycen\u0119 22.02.2025",
-            "link": "https://gk24.pl/te-banknoty-trzeba-wymienic-bo-traca-wartosc-zobacz-jakie-uszkodzenia-banknotow-zmniejszaja-ich-wycene-22022025/ar/c1-18995014",
-            "description": "Zobacz, jakie banknoty strac\u0105 na nominale. Znajduje si\u0119 kilka przypadk\u00f3w, kiedy pieni\u0105dz mo\u017ce straci\u0107 wa\u017cno\u015b\u0107 i nale\u017cy go ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.UJ3pxtvgS26cd6jdvm5VIC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Rzadkie monety z PRL poszukiwane przez kolekcjoner\u00f3w. Sprawd\u017a, kt\u00f3re s\u0105 najdro\u017csze i ile mo\u017cna za nie zarobi\u0107! 22.02.2025",
+            "link": "https://www.msn.com/pl-pl/finanse/og%C3%B3lne/rzadkie-monety-z-prl-poszukiwane-przez-kolekcjoner%C3%B3w-sprawd%C5%BA-kt%C3%B3re-s%C4%85-najdro%C5%BCsze-i-ile-mo%C5%BCna-za-nie-zarobi%C4%87-22-02-2025/ar-AA1zz3Pc?ocid=BingNewsVerp",
+            "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.cQ%2f8D8rQb2BSfMXfAe9WFA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "gk24.pl11 godz.",
-            "source": "gk24.pl",
-            "article_content": "Content not available"
+            "date": "Express Ilustrowany on MSN11 godz.",
+            "source": "Express Ilustrowany on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Polscy poszukiwacze odnale\u017ali staro\u017cytny rzymski miecz. Wyj\u0105tkowe odkrycie na po\u0142udniu",
+            "link": "https://www.focus.pl/artykul/starozytny-rzymski-miecz-polska-znalezisko",
+            "description": "Cz\u0142onkowie stowarzyszenia Inventum dokonali niesamowitego wyczynu, odnajduj\u0105c licz\u0105cy oko\u0142o dw\u00f3ch tysi\u0119cy lat miecz. Artefakt ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.lrqKIf3Mu7isYZcV0w30Ci&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "odkrycie+zabytkowe+przedmiot",
+            "date": "Focus1 godz.",
+            "source": "Focus",
+            "article_content": "Odkrywcy dzia\u0142ali na terenie Jury Krakowsko-Cz\u0119stochowskiej. Tego godnego pozazdroszczenia wyczynu dokonali Rafa\u0142 Proszowski oraz Mariusz Lampa, kt\u00f3rzy w styczniu tego roku natkn\u0119li si\u0119 na or\u0119\u017c prawdopodobnie wykorzystywany przez wojownik\u00f3w plemienia Wandal\u00f3w. Najwyra\u017aniej zosta\u0142 on z\u0142o\u017cony w grobie w formie przedmiotu maj\u0105cego podkre\u015bla\u0107 status zmar\u0142ego oraz wspiera\u0107 go w kolejnym \u017cyciu.\n\nCzytaj te\u017c: Sensacyjne doniesienia na temat eksploatacji polskich z\u0142\u00f3\u017c. Archeolodzy odnale\u017ali dowody na cmentarzach\n\nfot. Stowarzyszenie Inventum\n\nCo ciekawe, dwaj poszukiwacze mieli na celowniku obiekty pochodz\u0105ce z nieco innej epoki. Szukali bowiem \u015blad\u00f3w odwrotu polskich \u017co\u0142nierzy we wrze\u015bniu 1939 roku. Wyposa\u017ceni w wykrywacze metali, dotarli do znajduj\u0105cego si\u0119 pod ziemi\u0105 przedmiotu. Bli\u017csze ogl\u0119dziny wykaza\u0142y, i\u017c chodzi o podzielony na trzy cz\u0119\u015bci miecz. M\u00f3g\u0142 on zosta\u0107 oficjalnie z\u0142amany w czasie ceremonii pogrzebowej, o czym czytamy na portalu Nauka w Polsce.\n\nStaro\u017cytny miecz znaleziony na terenie Jury Krakowsko-Cz\u0119stochowskiej to tzw. spatha. By\u0142y one szczeg\u00f3lnie popularne w okresie Cesarstwa Rzymskiego\n\nObowi\u0105zuj\u0105ce w naszym kraju przepisy zak\u0142adaj\u0105, \u017ce nie mo\u017cna bez specjalnych uprawnie\u0144 zabiera\u0107 tego typu znalezisk, dlatego na miejsce wezwano archeolog\u00f3w. Ci szybko stwierdzili, i\u017c maj\u0105 do czynienia z rzymskim mieczem znanym jako spatha. Cechowa\u0142 si\u0119 on wyd\u0142u\u017con\u0105 konstrukcj\u0105 i by\u0142 szczeg\u00f3lnie powszechnie wykorzystywany przez jazd\u0119 rzymsk\u0105. I cho\u0107 eksperci nie przeprowadzili jeszcze szczeg\u00f3\u0142owego datowania tego znaleziska, to szacuj\u0105, i\u017c mo\u017ce ono pochodzi\u0107 z okresu pomi\u0119dzy I a III wiekiem.\n\nCzytaj te\u017c: Prze\u0142omowe odkrycie archeologiczne w Egipcie. Po 100 latach zn\u00f3w historia si\u0119 powtarza\n\nW bezpo\u015brednim s\u0105siedztwie miecza nie znajdowa\u0142o si\u0119 wi\u0119cej artefakt\u00f3w, ale poszukiwania zorganizowano w bliskiej okolicy doprowadzi\u0142y do odkrycia \u015bredniowiecznego topora. Oczywi\u015bcie oba znaleziska nie s\u0105 ze sob\u0105 powi\u0105zane, cho\u0107 jednocze\u015bnie pokazuj\u0105, jak wiele skarb\u00f3w kryje si\u0119 na terenie naszego kraju. Jak na razie rzymski miecz trafi\u0142 do Dzia\u0142u Archeologii Muzeum Cz\u0119stochowskiego i ma tam zosta\u0107 obj\u0119ty dok\u0142adnymi ekspertyzami. Z tego wzgl\u0119du mo\u017cemy si\u0119 spodziewa\u0107, i\u017c za jaki\u015b czas archeolodzy przeka\u017c\u0105 nowe ustalenia w tej sprawie."
         }
     }
 ]
