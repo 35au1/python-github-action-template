@@ -5,13 +5,29 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Przegl\u0105d prasy 4.03.2025. Zestawili\u015bmy dla Ciebie najwa\u017cniejsze wydarzenia z wczoraj. Zobacz nasz\u0105 pras\u00f3wk\u0119",
-            "link": "https://poranny.pl/przeglad-prasy-4-03-2025-zestawilismy-dla-ciebie-najwazniejsze-wydarzenia-z-wczoraj-zobacz-nasza-prasowke/ar/c1p1-19960907",
-            "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 3.03.",
-            "image_url": "https://www.bing.pl/th?id=OVFT.NrS0vuvErcMhl3RUFJQqMy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Kolekcjoner z Pomorza pokaza\u0142 nam skarby II wojny \u015bwiatowej. Zdj\u0119cia",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/kolekcjoner-z-pomorza-pokaza%C5%82-nam-skarby-ii-wojny-%C5%9Bwiatowej-zdj%C4%99cia/ar-AA1AcKUh?ocid=BingNewsVerp",
+            "description": "Tadeusz Konieczny od lat ratuje histori\u0119 Pomorza i umieszcza j\u0105 w niezwyk\u0142ej izbie znajduj\u0105cej si\u0119 przy jego domu w Starym ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.WZTLEnvX9dn8Fk4aAdDOwA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Poranny4 godz.",
-            "source": "Poranny",
+            "date": "Nasze Miasto on MSN4 godz.",
+            "source": "Nasze Miasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Przegl\u0105d prasy 4.03.2025. Zestawili\u015bmy dla Ciebie najwa\u017cniejsze wydarzenia z wczoraj. Zobacz nasz\u0105 pras\u00f3wk\u0119",
+            "link": "https://wspolczesna.pl/przeglad-prasy-4-03-2025-zestawilismy-dla-ciebie-najwazniejsze-wydarzenia-z-wczoraj-zobacz-nasza-prasowke/ar/c1p1-19960917",
+            "description": "Poznali\u015bmy fina\u0142ow\u0105 \"14\" pi\u0119knych pa\u0144 z p\u00f3\u0142nocno-wschodniej Polski, kt\u00f3re powalcz\u0105 o tytu\u0142 Miss Polonia Wojew\u00f3dztwa ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.vvo-NXp_vp4-1F55GKt3by&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "wspolczesna.pl8 godz.",
+            "source": "wspolczesna.pl",
             "article_content": "Content not available"
         }
     },
@@ -26,7 +42,7 @@
             "description": "\u015awidnicka Gie\u0142da Staroci, Numizmat\u00f3w i Osobliwo\u015bci ma d\u0142ug\u0105 tradycj\u0119. Jest jedn\u0105 z najstarszych i najwi\u0119kszych tego typu gie\u0142d w kraju. Targ odbywa si\u0119 w ka\u017cd\u0105 pierwsz\u0105 niedziel\u0119 miesi\u0105ca i zawsze ...",
             "image_url": "https://www.bing.pl/th?id=ODF.p9YO103MXreScWBGsL62IA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "Gazeta Wroc\u0142awska on MSN15 godz.",
+            "date": "Gazeta Wroc\u0142awska on MSN19 godz.",
             "source": "Gazeta Wroc\u0142awska on MSN",
             "article_content": ""
         }
@@ -37,13 +53,29 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Pieni\u0105dze z PRL poszukiwane przez kolekcjoner\u00f3w. Tyle kosztuj\u0105 stare banknoty i monety. Oto ceny i zdj\u0119cia [4.03.2025]",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/pieni%C4%85dze-z-prl-poszukiwane-przez-kolekcjoner%C3%B3w-tyle-kosztuj%C4%85-stare-banknoty-i-monety-oto-ceny-i-zdj%C4%99cia-4032025-r/ar-AA1zYEWs?ocid=BingNewsVerp",
-            "description": "Stare banknoty i monety z czas\u00f3w PRL s\u0105 obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli posiadasz takie pieni\u0105dze, warto przyjrze\u0107 si\u0119 im bli\u017cej \u2013 by\u0107 mo\u017ce masz w domu p ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Pieni\u0105dze z PRL poszukiwane przez kolekcjoner\u00f3w. Tyle kosztuj\u0105 stare banknoty i monety. Oto ceny i zdj\u0119cia [4.03.2025 r.]",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/pieni%C4%85dze-z-prl-poszukiwane-przez-kolekcjoner%C3%B3w-tyle-kosztuj%C4%85-stare-banknoty-i-monety-oto-ceny-i-zdj%C4%99cia-28-02-2025/ar-AA1zYEWs?ocid=BingNewsVerp",
+            "description": "Stare banknoty i monety z czas\u00f3w PRL s\u0105 obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.jIoMz5C9ht%2bWCJ1Ua%2fETmQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Pomorska on MSN1 godz.",
-            "source": "Pomorska on MSN",
+            "date": "Gazeta Pomorska on MSN5 godz.",
+            "source": "Gazeta Pomorska on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Ta moneta z PRL mo\u017ce by\u0107 warta nawet 30 tys. z\u0142otych! Koniecznie zobacz swoje szuflady [ZDJ\u0118CIA] 04.03.2025",
+            "link": "https://www.msn.com/pl-pl/finanse/og%C3%B3lne/ta-moneta-z-prl-mo%C5%BCe-by%C4%87-warta-nawet-30-tys-z%C5%82otych-koniecznie-zobacz-swoje-szuflady-zdj%C4%99cia-15-02-2025/ar-AA1yiY2d?ocid=BingNewsVerp",
+            "description": "B\u0105d\u017a szczeg\u00f3lnie uwa\u017cny sprz\u0105taj\u0105c swoje szuflady. Cenne okazy mog\u0105 kurzy\u0107 si\u0119 w zapomnieniu, a monety z PRL mog\u0105 by\u0107 czasami warte fortun\u0119. Sprawd\u017a sam, czego szuka\u0107! Prawie w ka\u017cdym polskim domu zna ...",
+            "image_url": "https://www.bing.plNo image",
+            "category": "stare+monety",
+            "date": "G\u0142os Szczeci\u0144ski on MSN3 godz.",
+            "source": "G\u0142os Szczeci\u0144ski on MSN",
             "article_content": ""
         }
     },
@@ -58,7 +90,7 @@
             "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet zwyk\u0142a pi\u0119cioz\u0142ot\u00f3wka mo\u017ce mie\u0107 wielokrotnie wi\u0119ksz\u0105 warto\u015b\u0107 ni\u017c nomina\u0142.",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "gk24.pl on MSN2 godz.",
+            "date": "gk24.pl on MSN6 godz.",
             "source": "gk24.pl on MSN",
             "article_content": ""
         }
@@ -74,7 +106,7 @@
             "description": "\u015amia\u0142o mo\u017cna stwierdzi\u0107, \u017ce przedmioty z okresu PRL prze\u017cywaj\u0105 w naszym kraju niejako sw\u00f3j renesans. Chocia\u017c by\u0142y to trudne czasy w historii naszego kraju, wiele os\u00f3b wraca do nich z sentymentem. Mimo ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "gk24.pl3 godz.",
+            "date": "gk24.pl7 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -85,29 +117,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Taka 5 z\u0142ot\u00f3wka i inne monety s\u0105 w cenie z\u0142ota. Sprawd\u017a, ile mo\u017cna na nich zarobi\u0107!",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/taka-5-z%C5%82ot%C3%B3wka-i-inne-monety-s%C4%85-w-cenie-z%C5%82ota-sprawd%C5%BA-ile-mo%C5%BCna-na-nich-zarobi%C4%87/ar-AA1zlLU9?ocid=BingNewsVerp",
-            "description": "Obecnie kolekcjonowanie r\u00f3\u017cnych rzeczy cieszy si\u0119 du\u017c\u0105 popularno\u015bci\u0105. Niekt\u00f3rzy przechowuj\u0105 przedmioty, meble, zabawki, ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.HWzaOzIrx_ukoLz1Y0QaDC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Rekord Guinnessa, najwi\u0119cej galaretowatych w\u0119\u017cy zjedzonych w 30 sekund",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/rekord-guinnessa-najwi%C4%99cej-galaretowatych-w%C4%99%C5%BCy-zjedzonych-w-30-sekund/vi-AA1A9Nmv?ocid=BingNewsVerp",
+            "description": "Zobacz, jak Leah podejmuje nieoczekiwane wyzwanie zjedzenia najwi\u0119kszej liczby \u017celkowych w\u0119\u017cy w 30 sekund. WYNIKI OSCAR\u00d3W ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.Jg0KaOaT3w30n1l%2faO%2fKUg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Gazeta Pomorska on MSN10 godz.",
-            "source": "Gazeta Pomorska on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "prof. Markowski: na razie nie widz\u0119, \u017ceby \"trumpizm\" wp\u0142ywa\u0142 na polsk\u0105 polityk\u0119",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/prof-markowski-na-razie-nie-widz%C4%99-%C5%BCeby-trumpizm-wp%C5%82ywa%C5%82-na-polsk%C4%85-polityk%C4%99/vi-AA1A8ePv?ocid=BingNewsVerp",
-            "description": "Firma Microsoft i jej zewn\u0119trzni dostawcy u\u017cywaj\u0105 plik\u00f3w cookie do przechowywania i uzyskiwania dost\u0119pu do informacji, takich ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.00M4ekK_5SIDZsT90D5AAC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "PAP on MSN22 godz.",
-            "source": "PAP on MSN",
+            "date": "Guinness World Records on MSN20 godz.",
+            "source": "Guinness World Records on MSN",
             "article_content": ""
         }
     },
@@ -119,10 +135,10 @@
         "body": {
             "title": "Porcelana z PRL - kolekcjonerski rarytas. Unikalne przedmioty do kupienia na aukcjach internetowych. Masz je w domu? 04.03.2025",
             "link": "https://www.msn.com/pl-pl/wiadomosci/other/porcelana-z-prl-kolekcjonerski-rarytas-unikalne-przedmioty-do-kupienia-na-aukcjach-internetowych-masz-je-w-domu-03032025/ar-AA1xHP7I?ocid=BingNewsVerp",
-            "description": "No description",
-            "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "description": "Porcelana z PRL zajmuje wyj\u0105tkowe miejsce w polskiej kulturze, oddaj\u0105c ducha minionych lat. Zakorzeniona w historii Polskiej ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.5dtWIPVNE5gFDRdWIeeypi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "gp24.pl on MSN1 godz.",
+            "date": "gp24.pl on MSN5 godz.",
             "source": "gp24.pl on MSN",
             "article_content": ""
         }
@@ -135,10 +151,10 @@
         "body": {
             "title": "Kryszta\u0142y PRL poszukiwane przez kolekcjoner\u00f3w 2025. Tyle trzeba zap\u0142aci\u0107 za kryszta\u0142owe naczynia [4.03.2025]",
             "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/kryszta%C5%82y-prl-poszukiwane-przez-kolekcjoner%C3%B3w-2025-tyle-trzeba-zap%C5%82aci%C4%87-za-kryszta%C5%82owe-naczynia-4032025-r/ar-AA1yan8h?ocid=BingNewsVerp",
-            "description": "No description",
-            "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "description": "Kryszta\u0142y produkowane w PRL-u s\u0105 obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli posiadasz ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.Ac%2bkmaImCo%2fnUddmElj3Cw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Pomorska on MSN1 godz.",
+            "date": "Pomorska on MSN5 godz.",
             "source": "Pomorska on MSN",
             "article_content": ""
         }
@@ -151,10 +167,10 @@
         "body": {
             "title": "Kolekcjonerzy poszukuj\u0105 tych antyk\u00f3w. Unikalne przedmioty do kupienia w internecie. Masz je w domu? 04.03.2025",
             "link": "https://gp24.pl/kolekcjonerzy-poszukuja-tych-antykow-unikalne-przedmioty-do-kupienia-w-internecie-masz-je-w-domu-04032025/ar/c9-17262255",
-            "description": "No description",
+            "description": "Unikalne antyki poszukiwane przez kolekcjoner\u00f3w mog\u0105 zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na nich zarobi\u0107 fortun\u0119. Cz\u0119sto nie mamy \u015bwiadomo\u015bci, \u017ce przedmioty posiadane w domu warte s\u0105 du\u017co pieni\u0119dzy.",
             "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "gp24.pl2 godz.",
+            "date": "gp24.pl6 godz.",
             "source": "gp24.pl",
             "article_content": "Content not available"
         }
@@ -167,10 +183,10 @@
         "body": {
             "title": "Te monety z PRL s\u0105 warte ogromne pieni\u0105dze! Zap\u0142acisz za nie nawet kilkana\u015bcie tysi\u0119cy z\u0142otych! Tyle kosztuj\u0105 monety z PRL 4.03.2025",
             "link": "https://gk24.pl/te-monety-z-prl-sa-warte-ogromne-pieniadze-zaplacisz-za-nie-nawet-kilkanascie-tysiecy-zlotych-tyle-kosztuja-monety-z-prl-4032025/ar/c3-19042098",
-            "description": "No description",
+            "description": "\u015amia\u0142o mo\u017cna stwierdzi\u0107, \u017ce przedmioty z okresu PRL prze\u017cywaj\u0105 w naszym kraju niejako sw\u00f3j renesans. Chocia\u017c by\u0142y to trudne czasy w historii naszego kraju, wiele os\u00f3b wraca do nich z sentymentem. Mimo ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "gk24.pl3 godz.",
+            "date": "gk24.pl7 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -183,10 +199,10 @@
         "body": {
             "title": "To kwiaty najlepsze do domu! Te ro\u015bliny doniczkowe s\u0105 pi\u0119kne i wzbogac\u0105 twoje wn\u0119trze. Jakie kwiaty wybra\u0107 do domu? 4.03.2025",
             "link": "https://gk24.pl/to-kwiaty-najlepsze-do-domu-te-rosliny-doniczkowe-sa-piekne-i-wzbogaca-twoje-wnetrze-jakie-kwiaty-wybrac-do-domu-4032025/ar/c9-18815989",
-            "description": "No description",
+            "description": "Obecnie pragniemy, by nasze domowe wn\u0119trza mia\u0142y sw\u00f3j unikatowy charakter, by\u0142y przytulne i kolorowe. Jednym z pomys\u0142\u00f3w na wzbogacenie naszego domowego wn\u0119trza z pewno\u015bci\u0105 s\u0105 kwiaty. Nie tylko dodaj\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "gk24.pl3 godz.",
+            "date": "gk24.pl7 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -202,7 +218,7 @@
             "description": "\u015awidnicka Gie\u0142da Staroci, Numizmat\u00f3w i Osobliwo\u015bci ma d\u0142ug\u0105 tradycj\u0119. Jest jedn\u0105 z najstarszych i najwi\u0119kszych tego typu gie\u0142d w kraju. Targ odbywa si\u0119 w ka\u017cd\u0105 pierwsz\u0105 niedziel\u0119 miesi\u0105ca i zawsze ...",
             "image_url": "https://www.bing.pl/th?id=ODF.p9YO103MXreScWBGsL62IA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Gazeta Wroc\u0142awska on MSN15 godz.",
+            "date": "Gazeta Wroc\u0142awska on MSN19 godz.",
             "source": "Gazeta Wroc\u0142awska on MSN",
             "article_content": ""
         }
@@ -214,13 +230,13 @@
         },
         "body": {
             "title": "Pierwsza niedziela marca. Pchli targ w Poznaniu zn\u00f3w przyci\u0105gn\u0105\u0142 t\u0142umy. Co mo\u017cna by\u0142o kupi\u0107? Zobacz zdj\u0119cia",
-            "link": "https://poznan.naszemiasto.pl/pierwsza-niedziela-marca-pchli-targ-w-poznaniu-znow-przyciagnal-tlumy-co-mozna-bylo-kupic-zobacz-zdjecia/ar/c1p2-27322871",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/pierwsza-niedziela-marca-pchli-targ-w-poznaniu-zn%C3%B3w-przyci%C4%85gn%C4%85%C5%82-t%C5%82umy-co-mo%C5%BCna-by%C5%82o-kupi%C4%87-zobaczcie-zdj%C4%99cia/ar-AA1A5fXU?ocid=BingNewsVerp",
             "description": "Pchli targ przy Avenidzie odbywa si\u0119 w ka\u017cd\u0105 niedziel\u0119, od godziny 7 do 14. Na niedzielnym targu ka\u017cdy znajdzie co\u015b dla siebie. Opr\u00f3cz zakupu unikalnych przedmiot\u00f3w odwiedzaj\u0105cy mog\u0105 skorzysta\u0107 tak\u017ce ...",
             "image_url": "https://www.bing.pl/th?id=ODF.Cya7j59Rws2Si6qfmk5ljw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "poznan.naszemiasto14 godz.",
-            "source": "poznan.naszemiasto",
-            "article_content": "Content not available"
+            "date": "Nasze Miasto on MSN18 godz.",
+            "source": "Nasze Miasto on MSN",
+            "article_content": ""
         }
     },
     {
@@ -234,7 +250,7 @@
             "description": "Unikalne antyki poszukiwane przez kolekcjoner\u00f3w mog\u0105 zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na nich zarobi\u0107 fortun\u0119. Cz\u0119sto nie mamy \u015bwiadomo\u015bci, \u017ce przedmioty posiadane w domu warte s\u0105 du\u017co pieni\u0119dzy.",
             "image_url": "https://www.bing.pl/th?id=ODF.z8szwJPfOZTDo97HvHYzSw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Poranny2 godz.",
+            "date": "Poranny6 godz.",
             "source": "Poranny",
             "article_content": "Content not available"
         }
@@ -245,14 +261,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Roboty na Huculskiej i Dolno\u015bl\u0105skiej z dofinansowaniem",
-            "link": "https://zachod.pl/1179298/roboty-na-huculskiej-i-dolnoslaskiej-z-dofinansowaniem/",
-            "description": "\u017barski magistrat otrzyma rz\u0105dowe dofinansowanie do realizacji dw\u00f3ch inwestycji drogowych. Przebudowa ulic Dolno\u015bl\u0105skiej i ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.xgHrogoffjy3mw1tcJukHS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Gmina \u017bary zach\u0119ca do oddawania krwi",
+            "link": "https://zachod.pl/1180239/gmina-zary-zacheca-do-oddawania-krwi/",
+            "description": "Centrum Krwiodawstwa i Krwiolecznictwa w \u017barach oraz Klub Krwiodawc\u00f3w OSP Gminy \u017bary zapraszaj\u0105 stra\u017cak\u00f3w oraz mieszka\u0144c\u00f3w do honorowego oddania krwi.",
+            "image_url": "https://www.bing.pl/th?id=ODF.YOku2jV4G43w2F6davb6nw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "zachod19 godz.",
+            "date": "zachod2 godz.",
             "source": "zachod",
-            "article_content": "Content not available"
+            "article_content": "Centrum Krwiodawstwa i Krwiolecznictwa w \u017barach oraz Klub Krwiodawc\u00f3w OSP Gminy \u017bary zapraszaj\u0105 stra\u017cak\u00f3w oraz mieszka\u0144c\u00f3w do honorowego oddania krwi. Akcja pod nazw\u0105 \u201eOgnisty ratownik, gor\u0105ca krew\u201d odb\u0119dzie si\u0119 w sobot\u0119.\n\nPo raz kolejny inicjatyw\u0119 promuj\u0105 druhowie oraz w\u0142odarz gminy. \u2013 To jak najbardziej szczytny cel. Pomaga\u0107 mo\u017cna na wiele sposob\u00f3w. Krwi wci\u0105\u017c brakuje i jest ona niezb\u0119dna stale, wi\u0119c zach\u0119camy do zostawienia tej czerwonej cegie\u0142ki dla potrzebuj\u0105cych \u2013 m\u00f3wi w\u00f3jt Leszek Mro\u017cek:\n\n\u2013 Spotkajmy si\u0119 w centrum krwiodawstwa i poka\u017cmy nasz\u0105 solidarno\u015b\u0107 w s\u0142usznej sprawie \u2013 zaznacza w\u00f3jt Mro\u017cek:\n\nDodajmy, \u017ce sobotnia zbi\u00f3rka rozpocznie si\u0119 o godzinie 9.00."
         }
     },
     {
@@ -261,14 +277,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Kazimierz Krak\u00f3w",
-            "link": "https://gazetakrakowska.pl/tag/kazimierz-krakow",
-            "description": "Czy lokale gastronomiczne w centrum Krakowa maj\u0105 by\u0107 zamykane o 1 w nocy? Propozycja Stowarzyszenia Zabytkowe Centrum wywo\u0142a\u0142a burzliw\u0105 dyskusj\u0119. Ta kwestia... W knajpiane zag\u0142\u0119bie krakowski Kazimierz ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.XL5bGs_n6w06Ok0ARb1y3Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "W powiecie \u017carskim ruszy\u0142a kwalifikacja wojskowa",
+            "link": "https://zachod.pl/1180406/w-powiecie-zarskim-ruszyla-kwalifikacja-wojskowa/",
+            "description": "Rozpocz\u0119\u0142a si\u0119 coroczna kwalifikacja wojskowa w powiecie \u017carskim. Komisja lekarska przez niemal miesi\u0105c pracowa\u0107 b\u0119dzie w siedzibie \u0141u\u017cyckiej Szko\u0142y Wy\u017cszej ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.YOku2jV4G43w2F6davb6nw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Gazeta Krakowska5 godz.",
-            "source": "Gazeta Krakowska",
-            "article_content": "Content not available"
+            "date": "zachod1 godz.",
+            "source": "zachod",
+            "article_content": "Rozpocz\u0119\u0142a si\u0119 coroczna kwalifikacja wojskowa w powiecie \u017carskim. Komisja lekarska przez niemal miesi\u0105c pracowa\u0107 b\u0119dzie w siedzibie \u0141u\u017cyckiej Szko\u0142y Wy\u017cszej przy ulicy Pszennej. Obowi\u0105zkiem stawiennictwa obj\u0119ci s\u0105 mi\u0119dzy innymi m\u0119\u017cczy\u017ani urodzeni w 2006 roku.\n\nKa\u017cdy kto otrzyma\u0142 wezwanie powinien zabra\u0107 ze sob\u0105 niezb\u0119dne dokumenty. \u2013 W tym roku obowi\u0105zek stawienia si\u0119 przed komisj\u0105 na\u0142o\u017cony zosta\u0142 na ponad pi\u0119ciuset mieszka\u0144c\u00f3w powiatu \u2013 m\u00f3wi kapitan Marek Frank z Wojskowego Centrum Rekrutacji w \u017baganiu:\n\n\u2013 Do tej pory stawiaj\u0105cy si\u0119 otrzymuj\u0105 kategorie zdrowia, kt\u00f3re umo\u017cliwiaj\u0105 im przysz\u0142\u0105 s\u0142u\u017cb\u0119 w mundurze. Oczywi\u015bcie wyb\u00f3r \u015bcie\u017cki kariery to ich indywidualna sprawa \u2013 m\u00f3wi lekarz komisji Aleksandra Dobosz:\n\n\u2013 To jest ustawowy obowi\u0105zek, wi\u0119c nie ma co go odwleka\u0107. Poza tym cz\u0119\u015b\u0107 z nas my\u015bli o wojsku, wi\u0119c dobrze jest przej\u015b\u0107 kwalifikacj\u0119 \u2013 m\u00f3wi\u0105 m\u0142odzi mieszka\u0144cy \u017bar:\n\nDodajmy, \u017ce kwalifikacja wojska w \u017carskim powiecie potrwa do 27 marca."
         }
     },
     {
@@ -282,7 +298,7 @@
             "description": "Nikt nie pyta o zdanie mieszka\u0144c\u00f3w dawnego Gieschewald. Informacja o przeprowadzce do bloku pojawia si\u0119, gdy ju\u017c trwaj\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.sptqUcnXuyDjqFl_gMa8hy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Newsweek14 godz.",
+            "date": "Newsweek18 godz.",
             "source": "Newsweek",
             "article_content": "Ceglany familok z czerwon\u0105 framug\u0105 okienn\u0105 sta\u0142 si\u0119 ikon\u0105 G\u00f3rnego \u015al\u0105ska. Przez blisko sto pi\u0119\u0107dziesi\u0105t lat ery industrialnej od ko\u0144ca XVIII wieku w regionie powsta\u0142o blisko dwie\u015bcie kolonii robotniczych. Osiedla budowano w r\u00f3\u017cnych stylach architektonicznych. By\u0142y inspirowane rozmaitymi koncepcjami urbanistycznymi. R\u00f3\u017cnorodno\u015b\u0107 za\u0142o\u017ce\u0144 tworzy ciekaw\u0105 mozaik\u0119. Pocz\u0105tek XX wieku to swoisty z\u0142oty wiek familok\u00f3w. W\u00f3wczas powsta\u0142y najwi\u0119ksze kompleksy mieszkaniowe b\u0119d\u0105ce samowystarczalnymi miasteczkami dla robotnik\u00f3w: Nikiszowiec, Giszowiec, Zandka i Bobrek. Dla mnie same familoki stanowi\u0105 wa\u017cny punkt wyj\u015bcia do odkrywania zamieszkuj\u0105cych w nich spo\u0142eczno\u015bci, kt\u00f3re tworzy\u0142y swoje mikro\u015bwiaty. Fascynuj\u0105 mnie tamtejsi mieszka\u0144cy \u2014 Niemcy, G\u00f3rno\u015bl\u0105zacy i Polacy. Lubi\u0119 zag\u0142\u0119bia\u0107 si\u0119 w \u017cyciorysy zwyk\u0142ych, a przecie\u017c niezwyk\u0142ych ludzi.\n\nKopalnie i huty: nadzieja na dobr\u0105 prac\u0119 i lepsze \u017cycie\n\nPo drugiej wojnie \u015bwiatowej potrzeby i problemy mieszkaniowe w regionie by\u0142y ogromne. Jedn\u0105 z odpowiedzi mia\u0142y by\u0107 domki fi\u0144skie \u2014 ma\u0142e, tanie, drewniane i szybkie w budowie konstrukcje. W wielu \u015bl\u0105skich miastach stawiano ich setki. Budowano je w Katowicach, Siemianowicach. Wiele z nich przetrwa\u0142o w Bielszowicach w Rudzie \u015al\u0105skiej i Miechowicach w Bytomiu. Ich kariera by\u0142a kr\u00f3tka, bo w kolejnych dekadach dominowa\u0142y bloki z wielkiej p\u0142yty.\n\nG\u00f3rny \u015al\u0105sk przyci\u0105ga masy do pracy w kopalniach i hutach. M\u0142odzi robotnicy przyje\u017cd\u017caj\u0105 tu z ca\u0142ej Polski. Nadci\u0105gaj\u0105 w nadziei na lepsze \u017cycie i dobrze p\u0142atn\u0105 prac\u0119. W\u0142asne mieszkanie, wy\u017csze p\u0142ace i pe\u0142ne p\u00f3\u0142ki w sklepach dla g\u00f3rnik\u00f3w to w\u00f3wczas kusz\u0105ca zach\u0119ta do pracy w przemy\u015ble. Przyjezdni z ca\u0142ej Polski trafiaj\u0105 najpierw do wulc\u00f3w, czyli hoteli robotniczych, ale \u017ceby zaspokoi\u0107 ogromny g\u0142\u00f3d mieszkaniowy, na wielk\u0105 skal\u0119 buduje si\u0119 osiedla z dziesi\u0105tkami blok\u00f3w mieszkalnych. Cz\u0119stym widokiem staj\u0105 si\u0119 s\u0105siaduj\u0105ce ze sob\u0105 stare ceglane familoki i nowe bloki z wielkiej p\u0142yty. Blokowiska mog\u0105 pomie\u015bci\u0107 znacznie wi\u0119cej rodzin ni\u017c stare osiedla robotnicze. Mieszkania maj\u0105 lepszy standard ni\u017c gdzie indziej, kusz\u0105 centralne ogrzewanie, toalety i \u0142azienki. Miejsce dawnych kolonii robotniczych zajmuj\u0105 bloki \u2014 dzieje si\u0119 tak w Katowicach, Szombierkach w Bytomiu i Sosnowcu. Na Bobrku nie ma miejsca na budow\u0119 blok\u00f3w, wi\u0119c powstaj\u0105 familokobloki, ceglano-betonowe potworki. Do kilku starszych dom\u00f3w robotniczych dobudowano dodatkowe pi\u0119tra, co daje przedziwny efekt.\n\nGiszowiec: wzorcowe osiedle z pocz\u0105tku XX wieku\n\nDo najbardziej drastycznej walki dw\u00f3ch \u015bwiat\u00f3w dochodzi w Katowicach na Giszowcu, gdzie kolonia robotnicza z ma\u0142ymi domkami ton\u0105cymi w zieleni musi walczy\u0107 o przetrwanie z dziesi\u0119ciopi\u0119trowymi blokami. Jeszcze na pocz\u0105tku XX wieku Gieschewald (Giszowiec) uznawany jest za przyk\u0142ad wzorcowego osiedla: Giszowiec \u2014 to cacko architektoniczne. Osiedle dla 5 tysi\u0119cy mieszka\u0144c\u00f3w zbudowano w lesie, kt\u00f3ry zakupi\u0142o towarzystwo Giesche i Spadkobiercy za 30 milion\u00f3w marek.\n\nMiliony ludzi by\u0142yby szcz\u0119\u015bliwe, gdyby mog\u0142y mieszka\u0107 w tych ma\u0142ych, ale zawsze tylko dla dw\u00f3ch rodzin przewidzianych, domkach. Ka\u017cda rodzina ma w\u0142asne wej\u015bcie do mieszkania, w\u0142asny, dobrze wypiel\u0119gnowany ogr\u00f3dek, a w obr\u0119bie osiedla le\u017c\u0105 rozdzielone obszernymi p\u0142aszczyznami, kt\u00f3re umo\u017cliwiaj\u0105 wsz\u0119dzie dost\u0119p \u015bwiat\u0142a i powietrza, kompleks spo\u017cywczy, budynek administracji, lokale rozrywkowe, place gimnastyczne i zabaw. Wszystko zbudowano we wspania\u0142ym lesie o mieszanym drzewostanie iglastym i li\u015bciastym. To osiedle robotnicze sta\u0142o si\u0119 celem wycieczek ludzi z dalszej okolicy, gdy\u017c stanowi dow\u00f3d na to, co mo\u017cna stworzy\u0107, o ile si\u0119 ma dostateczne \u015brodki do dyspozycji.\n\n\"Paciorki jednego r\u00f3\u017ca\u0144ca\" Kutza: koniec Giszowca\n\nWszystko si\u0119 zmienia, gdy w 1959 roku w pobli\u017cu kolonii robotniczej zostaje otwarta kopalnia Staszic. Pocz\u0105tkowo na pustych parcelach trwa budowa niskich blok\u00f3w dla nowych g\u00f3rnik\u00f3w. Powstaj\u0105 z boku, nie ingeruj\u0105c w \u017cycie osiedla. Jednak to wci\u0105\u017c za ma\u0142o mieszka\u0144 dla ci\u0105gn\u0105cych tu z Polski mas g\u00f3rnik\u00f3w i in\u017cynier\u00f3w. Pod koniec lat sze\u015b\u0107dziesi\u0105tych kopalnia zleca przygotowanie ekspertyzy. Wynik jest prosty \u2014 zachowanie starej kolonii Giszowiec nie ma podstaw ekonomicznych. Miejsce ma\u0142ych domk\u00f3w maj\u0105 zaj\u0105\u0107 wie\u017cowce mog\u0105ce pomie\u015bci\u0107 kilkakrotnie wi\u0119ksz\u0105 liczb\u0119 mieszka\u0144c\u00f3w. Kopalnia uzyskuje zgod\u0119 w\u0142adz, wi\u0119c kolejna dekada mija pod has\u0142em wielkiej modernizacji. Stara zabudowa stopniowo znika, by zrobi\u0107 przestrze\u0144 dla wielkich jednostek mieszkalnych.\n\nNikt nie pyta o zdanie mieszka\u0144c\u00f3w dawnego Gieschewald. Informacja o przeprowadzce do bloku pojawia si\u0119, gdy ju\u017c trwaj\u0105 pierwsze wyburzenia. Na Giszowcu \u017cyj\u0105 rodziny zwi\u0105zane z tym miejscem od kilku pokole\u0144, wiele z nich od samego pocz\u0105tku istnienia kolonii. Cz\u0119\u015b\u0107 os\u00f3b cieszy si\u0119, \u017ce otrzyma mieszkanie w nowoczesnym standardzie, ale nie wszyscy potrafi\u0105 si\u0119 pogodzi\u0107 ze zmian\u0105. Koniec Giszowca ukazuje w swoim filmie Paciorki jednego r\u00f3\u017ca\u0144ca re\u017cyser Kazimierz Kutz. Fikcyjne losy emerytowanego g\u00f3rnika, kt\u00f3ry sprzeciwia si\u0119 wyburzeniu swojego domu i wyprowadzce do bloku, to los, jakiego w rzeczywisto\u015bci do\u015bwiadczy\u0142o wiele os\u00f3b.\n\nGiszowiec osiedlem im. Stanis\u0142awa Staszica\n\nPrasa w tamtym czasie stara si\u0119 ukaza\u0107 dawn\u0105 zabudow\u0119 jako stare rudery, bloki za\u015b nazywane s\u0105 nowoczesnym, a czasem nawet pi\u0119knym osiedlem. W\u0142adze komunistyczne chc\u0105 raz na zawsze wykre\u015bli\u0107 Giszowiec z map. Dlatego 15 listopada 1979 roku dzielnicy zostaje nadana nowa nazwa: osiedle im. Stanis\u0142awa Staszica. Ma to by\u0107 kolejny wzorcowy socjalistyczny kompleks. Dawnej kolonii nie postrzegano w\u00f3wczas jako zabytku, ale sytuacja powoli zmienia si\u0119 pod koniec lat siedemdziesi\u0105tych XX wieku, do czego przyczynia si\u0119 coraz wi\u0119ksza presja spo\u0142eczna.\n\nW 1978 roku obj\u0119to ochron\u0105 zachowan\u0105 centraln\u0105 cz\u0119\u015b\u0107 osiedla. Ponad czterdzie\u015bci dom\u00f3w i plac Pod Lipami, przy kt\u00f3rym stoj\u0105 konsum (sklep), szko\u0142a i gospoda. Jednak wpis do rejestru zabytk\u00f3w nie pom\u00f3g\u0142 uchroni\u0107 od likwidacji pozosta\u0142ej zabudowy, kt\u00f3ra nie by\u0142a chroniona prawnie. Jeszcze do 1987 roku trwa\u0142y ostatnie wyburzenia dom\u00f3w. W\u00f3wczas podj\u0119to decyzj\u0119, \u017ce nale\u017cy zachowa\u0107 te, kt\u00f3rym uda\u0142o si\u0119 przetrwa\u0107, i one te\u017c zosta\u0142y wpisane do rejestru zabytk\u00f3w. Ostatecznie z pierwotnego osiedla przetrwa\u0142a jedynie jedna trzecia budynk\u00f3w.\n\nBezpowrotnie zlikwidowano pere\u0142k\u0119 kolonii robotniczych z pocz\u0105tku XX wieku, kt\u00f3ra by\u0142a dok\u0142adnie zaplanowana i stanowi\u0142a wyj\u0105tkowy przyk\u0142ad osiedla wzorowanego na idei miasta ogrodu. Raz na zawsze utracono uk\u0142ad urbanistyczny i unikalny charakter tego miejsca zanik\u0142. Dzi\u015b, spaceruj\u0105c po ulicach Giszowca, mo\u017cna trafi\u0107 na parterowe domki s\u0105siaduj\u0105ce z pot\u0119\u017cnymi, ponaddziesi\u0119ciokrotnie wy\u017cszymi blokami. Los Giszowca odzwierciedla do\u015b\u0107 powszechne w powojennej rzeczywisto\u015bci podej\u015bcie do kolonii robotniczych. Przez komunistyczne w\u0142adze dawne osiedla uznawane s\u0105 za bezwarto\u015bciowe relikty niemieckiego kapitalistycznego wp\u0142ywu na G\u00f3rny \u015al\u0105sk, nie dostrzega si\u0119 w tej zabudowie \u017cadnej warto\u015bci zabytkowej.\n\nFragment ksi\u0105\u017cki Kamila Iwanickiego \"\u015al\u0105sk, kt\u00f3rego nie ma\" Kamila Iwanickiego wydanej przez Editio. \u015ar\u00f3dtytu\u0142y pochodz\u0105 od wydawcy. Tytu\u0142, lead i skr\u00f3ty od redakcji \"Newsweeka\". Ksi\u0105\u017ck\u0119 mo\u017cna kupi\u0107 tutaj."
         }
@@ -293,14 +309,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "\u015acie\u017cki spacerowe do 6 km od Ko\u0142obrzegu. Podpowiedzi ciekawych tras na weekend 8 - 9 marca",
-            "link": "https://kolobrzeg.naszemiasto.pl/sciezki-spacerowe-do-6-km-od-kolobrzegu-podpowiedzi-ciekawych-tras-na-weekend-8-9-marca/ar/c7p1-22115647",
-            "description": "Rozgl\u0105dasz si\u0119 za ciekawym pomys\u0142em na niebanaln\u0105 tras\u0119 spacerow\u0105 z Ko\u0142obrzegu? Oto nasze podpowiedzi, gdzie mo\u017cna si\u0119 wybra\u0107 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.1tpEWJj0ovB4_JbFhUKbqC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Ludzkie szcz\u0105tki pod ko\u015bcio\u0142em! Niezwyk\u0142e odkrycie w Bytomiu. Podczas prac remontowych, natrafiono na ko\u015bci...",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/ludzkie-szcz%C4%85tki-pod-ko%C5%9Bcio%C5%82em-niezwyk%C5%82e-odkrycie-w-bytomiu-podczas-prac-remontowych-natrafiono-na-ko%C5%9Bci/ar-AA1A6kGQ?ocid=BingNewsVerp",
+            "description": "Podczas prac budowlanych od strony ul. J\u00f3zefczaka ods\u0142oni\u0119to mury \u015bwi\u0105tyni, kt\u00f3re prawdopodobnie pochodz\u0105 z ko\u0144ca XV wieku.",
+            "image_url": "https://www.bing.pl/th?id=OVFT.72eZVECMEvwx3IJ7KT5wcS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "kolobrzeg.naszemiasto18 godz.",
-            "source": "kolobrzeg.naszemiasto",
-            "article_content": "Content not available"
+            "date": "Nasze Miasto on MSN1 godz.",
+            "source": "Nasze Miasto on MSN",
+            "article_content": ""
         }
     },
     {
@@ -314,9 +330,25 @@
             "description": "Odbudowana \u015bredniowieczna baszta oraz po\u0142\u0105czony z ni\u0105 budynek przymurny znajduj\u0105ce si\u0119 przy Bulwarach nad S\u0142upi\u0105, ko\u0142o ...",
             "image_url": "https://www.bing.pl/th?id=OVF.d0ludw4lpML2eiKK%2f41OtQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "G\u0142os Pomorza on MSN13 godz.",
+            "date": "G\u0142os Pomorza on MSN18 godz.",
             "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "\u015acie\u017cki spacerowe do 6 km od Ko\u0142obrzegu. Podpowiedzi ciekawych tras na weekend 8 - 9 marca",
+            "link": "https://kolobrzeg.naszemiasto.pl/sciezki-spacerowe-do-6-km-od-kolobrzegu-podpowiedzi-ciekawych-tras-na-weekend-8-9-marca/ar/c7p1-22115647",
+            "description": "Rozgl\u0105dasz si\u0119 za ciekawym pomys\u0142em na niebanaln\u0105 tras\u0119 spacerow\u0105 z Ko\u0142obrzegu? Oto nasze podpowiedzi, gdzie mo\u017cna si\u0119 wybra\u0107 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.1tpEWJj0ovB4_JbFhUKbqC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "kolobrzeg.naszemiasto22 godz.",
+            "source": "kolobrzeg.naszemiasto",
+            "article_content": "Content not available"
         }
     },
     {
@@ -330,7 +362,7 @@
             "description": "Prowadzona obecnie na terenie Muzeum Archeologicznego inwestycja o nazwie \"Dawny klasztor - by\u0142e wi\u0119zienie - nowoczesne Muzeum\", ma kosztowa\u0107 13,5 mln z\u0142. \u015arodki pochodz\u0105 z funduszy wojew\u00f3dztwa ...",
             "image_url": "https://www.bing.pl/th?id=ODF.XL5bGs_n6w06Ok0ARb1y3Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Gazeta Krakowska on MSN17 godz.",
+            "date": "Gazeta Krakowska on MSN21 godz.",
             "source": "Gazeta Krakowska on MSN",
             "article_content": ""
         }
@@ -346,7 +378,7 @@
             "description": "Regularnie dostaj\u0119 zdj\u0119cia wzgl\u0119dnie nowych samochod\u00f3w na \u017c\u00f3\u0142tych, czyli zabytkowych tablicach rejestracyjnych z opisem \u201eale\u017c ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.x_HxCAvs89v4s-ng4QTPbi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Hostowane na MSN14 godz.",
+            "date": "Hostowane na MSN18 godz.",
             "source": "MSN",
             "article_content": ""
         }
@@ -362,9 +394,9 @@
             "description": "W budynku gospodarczym w \u015aliwinie dosz\u0142o do wybuchu butli z gazem. - Prawdopodobnie podczas robienia petardy domowej roboty - ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.Cyv9s_IzqJBBla3vLVmWOS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "TVN2436 min",
+            "date": "TVN244 godz.",
             "source": "TVN24",
-            "article_content": "czytaj dalej\n\nPrzez brak regulacji prawnych dotycz\u0105cych zwi\u0105zk\u00f3w jednop\u0142ciowych Polska naruszy\u0142a i narusza Konwencj\u0119 Praw Cz\u0142owieka - orzeka Europejski Trybuna\u0142 i pokazuje to, jak bardzo nasz kraj nie tylko nie wype\u0142nia obietnic danych przez polityk\u00f3w, ale te\u017c nie przestrzega praw cz\u0142owieka. Przepisy m\u00f3wi\u0105 jasno: parom jednop\u0142ciowym musi by\u0107 zagwarantowana ochrona. Rz\u0105dowe konsultacje do ustawy o rejestrowanych zwi\u0105zkach partnerskich zako\u0144czy\u0142y si\u0119. Materia\u0142 magazynu \"Polska i \u015awiat\". Ca\u0142e wydanie dost\u0119pne w TVN24 GO."
+            "article_content": "czytaj dalej\n\nDziennikarz, kt\u00f3ry pyta\u0142 prezydenta Ukrainy o brak garnituru, pojawi\u0142 si\u0119 w Bia\u0142ym Domu niedawno, gdy administracja Donalda Trumpa zacz\u0119\u0142a sama decydowa\u0107, kogo wpuszcza na wydarzenia z prezydentem. To Brian Glenn, pracuj\u0105cy dla znanej z rozpowszechniania teorii spiskowych stacji Real America Voice. Jak oceniaj\u0105 media, pytanie zadane przez Glenna by\u0142o \"ciosem poni\u017cej pasa\" wobec prezydenta Ukrainy, kt\u00f3re \"zmieni\u0142o nastr\u00f3j\" spotkania w Gabinecie Owalnym."
         }
     },
     {
@@ -373,14 +405,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Komisja \u015bledcza ma przes\u0142ucha\u0107 Kami\u0144skiego i W\u0105sika",
-            "link": "https://tvn24.pl/polska/mariusz-kaminski-i-maciej-wasik-wezwani-przed-komisje-sledcza-ds-pegasusa-st8332461",
-            "description": "Komisja \u015bledcza do spraw Pegasusa zaplanowa\u0142a na dzi\u015b pierwsze przes\u0142uchanie by\u0142ego szefa Ministerstwa Spraw Wewn\u0119trznych i ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.-CmqW8udeWxsK6QqZ5S7YC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Bu\u0142garia to wakacyjny hit w\u015br\u00f3d Polak\u00f3w. Co warto wiedzie\u0107 przed podr\u00f3\u017c\u0105?",
+            "link": "https://www.chillizet.pl/podroze/bulgaria-na-wakacje-co-warto-wiedziec-przed-podroza-do-kraju",
+            "description": "Planujesz wczasy w Bu\u0142garii? Nie wiesz, czy wybra\u0107 S\u0142oneczny Brzeg czy Z\u0142ote Piaski? Zastanawiasz si\u0119, kiedy spodziewa\u0107 si\u0119 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.t6tNaUS1xbrCHYGXXpOKeS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "TVN242 godz.",
-            "source": "TVN24",
-            "article_content": "Komisja \u015bledcza do spraw Pegasusa zaplanowa\u0142a na dzi\u015b pierwsze przes\u0142uchanie by\u0142ego szefa Ministerstwa Spraw Wewn\u0119trznych i Administracji, w przesz\u0142o\u015bci te\u017c szefa CBA, Mariusza Kami\u0144skiego oraz jego zast\u0119pcy w tych instytucjach Macieja W\u0105sika. Przewodnicz\u0105ca komisji Magdalena Sroka nie przypuszcza jednak, by pojawili si\u0119 oni na przes\u0142uchaniu.\n\nKomisja \u015bledcza ds. Pegasusa zaplanowa\u0142a na wtorek przes\u0142uchanie by\u0142ego szefa MSWiA, w przesz\u0142o\u015bci te\u017c szefa CBA, Mariusza Kami\u0144skiego i jego zast\u0119pcy w tych instytucjach Macieja W\u0105sika.\n\nTo pierwsze wezwanie przez sejmow\u0105 komisj\u0119 \u015bledcz\u0105 na przes\u0142uchanie zar\u00f3wno Kami\u0144skiego, jak i W\u0105sika.\n\nZa czas\u00f3w rz\u0105d\u00f3w Zjednoczonej Prawicy w latach 2015-2023 Kami\u0144ski by\u0142 koordynatorem s\u0142u\u017cb specjalnych, ponadto w rz\u0105dzie Mateusza Morawieckiego od 2019 roku by\u0142 r\u00f3wnie\u017c szefem MSWiA. Po powstaniu CBA latem 2006 roku zosta\u0142 szefem Biura i funkcj\u0119 t\u0119 pe\u0142ni\u0142 do pa\u017adziernika 2009 roku.\n\nW\u0105sik by\u0142 zast\u0119pc\u0105 Kami\u0144skiego w kierownictwie CBA, sekretarzem Kolegium ds. S\u0142u\u017cb Specjalnych w czasie gdy ich koordynatorem by\u0142 Kami\u0144ski, a tak\u017ce wiceministrem spraw wewn\u0119trznych i administracji, gdy Kami\u0144ski kierowa\u0142 tym resortem. Obaj w 2024 roku uzyskali mandaty w wyborach do Parlamentu Europejskiego.\n\nKami\u0144ski zapowiedzia\u0142, \u017ce nie stawi si\u0119 na posiedzeniu komisji\n\nKomisja \u015bledcza ds. Pegasusa wezwa\u0142a Kami\u0144skiego i W\u0105sika na 4 marca. Wed\u0142ug informacji z sejmowej strony, przes\u0142uchanie W\u0105sika zaplanowano na godzin\u0119 10.30, natomiast Kami\u0144skiego - na godzin\u0119 12.\n\nPrzewodnicz\u0105ca komisji Magdalena Sroka (PSL-TD) powiedzia\u0142a w poniedzia\u0142ek, \u017ce nie otrzyma\u0142a od europos\u0142\u00f3w PiS \u017cadnej informacji w sprawie ich ewentualnego niestawiennictwa. Pos\u0142anka Sroka doda\u0142a jednak, \u017ce przypuszcza - opieraj\u0105c si\u0119 na ich wypowiedziach medialnych - \u017ce \u017caden z nich nie zjawi si\u0119 na wtorkowym posiedzeniu.\n\nMariusz Kami\u0144ski, Maciej W\u0105sik Leszek Szyma\u0144ski/PAP\n\nJeszcze na pocz\u0105tku lutego Kami\u0144ski zapowiedzia\u0142 w telewizji wPolsce24, \u017ce nie stawi si\u0119 na posiedzeniu komisji \u015bledczej ds. Pegasusa. Uzna\u0142 t\u0119 komisj\u0119 za nielegaln\u0105, przywo\u0142uj\u0105c wyrok Trybuna\u0142u Konstytucyjnego z wrze\u015bnia 2024 roku i zaznaczy\u0142, \u017ce powa\u017cnie traktuje prawo i instytucje demokratyczne takie jak Trybuna\u0142.\n\nKami\u0144ski powiedzia\u0142 w\u00f3wczas, \u017ce w jakiej\u015b mierze nawet ubolewa, \u017ce nie b\u0119dzie m\u00f3g\u0142 si\u0119 stawi\u0107, bo w jego interesie \"by\u0142oby pe\u0142ne przedstawienie opinii publiczne informacji\", gdy\u017c - jak stwierdzi\u0142 - sprawa jest \"absolutnie zmanipulowana\".\n\nW\u0105sik, kt\u00f3ry pod koniec stycznia opublikowa\u0142 w serwisie X przes\u0142ane mu wezwanie na posiedzenie komisji \u015bledczej ds. Pegasusa, opatrzy\u0142 je zdaniem: \"Zintensyfikowali prace. Oni lubuj\u0105 si\u0119 w kompromitacji i chyba czuj\u0105 niedostatek\". W lutym w rozmowie z radiem Wnet nazwa\u0142 komisj\u0119 \u015bledcz\u0105 ds. Pegasusa \"poronion\u0105\".\n\nX Rozwi\u0144\n\nWe wrze\u015bniu 2024 roku kierowany w\u00f3wczas przez Juli\u0119 Przy\u0142\u0119bsk\u0105 Trybuna\u0142 Konstytucyjny orzek\u0142, \u017ce sejmowa komisja \u015bledcza ds. Pegasusa jest niezgodna z konstytucj\u0105. Trybuna\u0142 uzna\u0142 m.in., \u017ce zakres dzia\u0142ania komisji nie spe\u0142nia wymogu okre\u015blono\u015bci sprawy, co tworzy trudno\u015bci we wskazaniu, jak\u0105 spraw\u0105 ma zaj\u0105\u0107 si\u0119 komisja. Od tego czasu politycy PiS nie stawiaj\u0105 si\u0119 na wezwania tej komisji, powo\u0142uj\u0105c si\u0119 na orzeczenie TK.\n\nKomisja \u015bledcza ds. Pegasusa bada legalno\u015b\u0107, prawid\u0142owo\u015b\u0107 i celowo\u015b\u0107 czynno\u015bci podejmowanych z wykorzystaniem tego oprogramowania m.in. przez rz\u0105d, s\u0142u\u017cby specjalne i policj\u0119 od listopada 2015 roku do listopada 2023 roku.\n\nKomisja ma te\u017c ustali\u0107, kto by\u0142 odpowiedzialny za zakup Pegasusa i podobnych narz\u0119dzi dla polskich w\u0142adz. Wed\u0142ug przekazanych dot\u0105d, m.in. przez NIK, informacji system Pegasus zosta\u0142 zakupiony jesieni\u0105 2017 roku dla CBA, ze \u015brodk\u00f3w pochodz\u0105cych w zasadniczej cz\u0119\u015bci (25 mln z\u0142) z Funduszu Sprawiedliwo\u015bci.\n\nAutorka/Autor:asty/akw\n\n\u0179r\u00f3d\u0142o: PAP, tvn24.pl"
+            "date": "Chillizet.pl Quizy4 godz.",
+            "source": "Chillizet.pl Quizy",
+            "article_content": "Bu\u0142garia przyci\u0105ga turyst\u00f3w pi\u0119knym wybrze\u017cem Morza Czarnego, z pla\u017cami w S\u0142onecznym Brzegu i Z\u0142otych Piaskach oraz zabytkami UNESCO, co czyni j\u0105 jednym z najcz\u0119\u015bciej wybieranych kierunk\u00f3w wakacyjnych w\u015br\u00f3d Polak\u00f3w\n\nStolica Bu\u0142garii, Sofia, zaskakuje niskimi cenami i bogactwem kulturowym. Warto r\u00f3wnie\u017c odwiedzi\u0107 takie miasta jak Warna czy Nessebar\n\nCo jeszcze warto wiedzie\u0107 przed podr\u00f3\u017c\u0105 do Bu\u0142garii? Przedstawiamy najwa\u017cniejsze informacje\n\nBu\u0142garia swoj\u0105 turystyczn\u0105 s\u0142aw\u0119 zawdzi\u0119cza przede wszystkim wybrze\u017cu Morza Czarnego ci\u0105gn\u0105cemu si\u0119 na d\u0142ugo\u015bci niemal 400 km. Na p\u00f3\u0142nocy linia brzegowa jest skalista, p\u00f3\u017aniej pojawiaj\u0105 si\u0119 fantastyczne pla\u017ce Z\u0142otych Piask\u00f3w, wielkie k\u0105pieliska w Warnie i t\u0119tni\u0105cy \u017cyciem kurort w S\u0142onecznym Brzegu, a po\u0142udniow\u0105 cz\u0119\u015b\u0107 zdobi\u0105 g\u00f3rskie zbocza. W tym niezwyk\u0142ym kraju znajdziemy r\u00f3wnie\u017c unikalne zabytki figuruj\u0105ce na li\u015bcie UNESCO, zjawiskowe krajobrazy, bogaty folklor i szeroki wyb\u00f3r hoteli, szczeg\u00f3lnie dla rodzin z dzie\u0107mi. Nie bez powodu Bu\u0142garia jest jednym z najpopularniejszych kierunk\u00f3w wakacyjnych w\u015br\u00f3d polskich turyst\u00f3w. Oto 8 rzeczy, kt\u00f3re warto wiedzie\u0107 przed podr\u00f3\u017c\u0105 do tego kraju.\n\nBu\u0142garia \u2013 wakacje w wersji all-inclusive\n\nDu\u017cym atutem Bu\u0142garii jest mocno rozwini\u0119ta infrastruktura turystyczna i hotelowa. Najwi\u0119ksz\u0105 popularno\u015bci\u0105 ciesz\u0105 si\u0119 kurorty w S\u0142onecznym Brzegu (ponad 600 hoteli i 400 restauracji do wyboru) oraz Z\u0142otych Piaskach. W tych regionach wybrze\u017ce mocno t\u0119tni \u017cyciem, szczeg\u00f3lnie latem, wi\u0119c na brak atrakcji nie b\u0119dzie mo\u017cna narzeka\u0107. W Bu\u0142garii warto zwraca\u0107 uwag\u0119 na liczb\u0119 gwiazdek w hotelach. Tam punktacja przyznawana jest nieco inaczej ni\u017c w Polsce i czasem, niestety, mo\u017ce by\u0107 zawy\u017cona.\n\nNajch\u0119tniej wybieranymi hotelami s\u0105 te z opcj\u0105 all-inclusive, czyli formu\u0142\u0105 \u201ewszystko w cenie\u201d. Dlaczego tak \u201ekochamy\u201d Bu\u0142gari\u0119 all-inclusive? To bardzo wygodne. Nie musimy si\u0119 martwi\u0107 o to, czy trzeba za co\u015b dop\u0142aca\u0107 \u2013 mo\u017cemy je\u015b\u0107 i pi\u0107 do woli. Co wi\u0119cej, tamtejsze kompleksy hotelowe cz\u0119sto oferuj\u0105 atrakcje dla rodzin z dzie\u0107mi \u2013 aquaparki, place zabaw, baseny ze zje\u017cd\u017calniami i program animacyjny (dost\u0119pny r\u00f3wnie\u017c w j\u0119zyku polskim).\n\nBu\u0142garskie hotele najwi\u0119kszym zainteresowaniem ciesz\u0105 si\u0119 w lipcu i sierpniu. I nie ma si\u0119 czemu dziwi\u0107, bo wtedy mamy zapewni\u0105 doskona\u0142\u0105, s\u0142oneczn\u0105 pogod\u0119. Ale trzeba si\u0119 te\u017c przygotowa\u0107 na prawdziwe t\u0142umy \u2013 szczeg\u00f3lnie na pla\u017cach S\u0142onecznego Brzegu. Do Bu\u0142garii, opr\u00f3cz g\u0142\u00f3wnego sezonu, warto przyjecha\u0107 r\u00f3wnie\u017c w czerwcu i wrze\u015bniu, kiedy jest zdecydowanie spokojniej, a ceny pokoj\u00f3w w hotelach i prywatnych kwaterach s\u0105 nawet do 50% ni\u017csze ni\u017c w sezonie.\n\nS\u0142oneczny Brzeg czy Z\u0142ote Piaski?\n\nKa\u017cdy z tych kultowych kurort\u00f3w ma swoje zalety i wady. S\u0142oneczny Brzeg, jak sama nazwa wskazuje, jest najbardziej nas\u0142onecznionym regionem na bu\u0142garskim wybrze\u017cu. To jednocze\u015bnie najwi\u0119kszy i najpopularniejszy kurort w\u015br\u00f3d polskich turyst\u00f3w. Ten region w Bu\u0142garii zdecydowanie powinny wybra\u0107 te osoby, kt\u00f3re lubi\u0105 t\u0119tni\u0105c\u0105 \u017cyciem atmosfer\u0119, bary, kluby, dyskoteki i nie przeszkadzaj\u0105 im t\u0142umy turyst\u00f3w.\n\nZ\u0142ote Piaski s\u0105 spokojniejsze i bardziej zielone. W szczycie sezonu nie zabraknie tu oczywi\u015bcie turyst\u00f3w, ale jest ich znacznie mniej ni\u017c w przypadku S\u0142onecznego Brzegu. To dobre miejsce zar\u00f3wno dla rodzin, jak i imprezowicz\u00f3w. Na tych drugich czeka bogata infrastruktura rozrywkowo-rekreacyjna \u2013 kluby, dyskoteki, parki wodne, a opr\u00f3cz tego urozmaicona oferta sport\u00f3w wodnych.\n\nJe\u015bli szukamy pi\u0119knych pla\u017c, to znajdziemy je nie tylko w S\u0142onecznym Brzegu i Z\u0142otych Piaskach. Warto wybra\u0107 si\u0119 na przyk\u0142ad do Albeny (na p\u00f3\u0142nocnym-wschodzie Bu\u0142garii), gdzie znajduje si\u0119 6-kilometrowa, \u0142agodnie opadaj\u0105ca do w\u00f3d morskich pla\u017ca. Na lubi\u0105cych spokojne zak\u0105tki, przy samej granicy z Turcj\u0105, rozci\u0105ga si\u0119 wci\u0105\u017c dzika pla\u017ca Silistar.\n\nfot. Shutterstock Z\u0142ote Piaski w Bu\u0142garii\n\nNessebar, Sozopol i Warna \u2013 ciekawe miejsca w Bu\u0142garii\n\nBu\u0142garia by\u0142a niegdy\u015b jednym z najpot\u0119\u017cniejszych kr\u00f3lestw europejskich. W\u0142a\u015bnie dlatego zachowa\u0142o si\u0119 tutaj wiele wspania\u0142ych zabytk\u00f3w kultury staro\u017cytnej oraz urokliwych, romantycznych miasteczek. Po pierwsze Nessebar, czyli niezwykle urokliwe miejsce po\u0142o\u017cone na skalistej wysepce. Trakowie osiedlili si\u0119 tutaj oko\u0142o 3 tys. lat temu, co sprawia, \u017ce jest to jedno z najstarszych miast w Europie. Szczeg\u00f3lnie pi\u0119knie prezentuje si\u0119 star\u00f3wka wype\u0142niona zabytkami pochodz\u0105cymi z r\u00f3\u017cnych epok \u2013 staro\u017cytno\u015bci, \u015bredniowiecza czy renesansu i widniej\u0105ca na li\u015bcie UNESCO. Obowi\u0105zkowym punktem zwiedzania w starym mie\u015bcie Nessebaru powinna by\u0107 Cerkiew Chrystusa Zbawiciela (zbudowana na pocz\u0105tku XVII wieku) oraz Cerkiew Chrystusa Pantokratora.\n\nPo drugie Sozopol. To miasteczko po\u0142o\u017cone jest cz\u0119\u015bciowo na sta\u0142ym l\u0105dzie (tutaj nowsza cz\u0119\u015b\u0107, tzw. Wiatraki) oraz na w\u0105skim, skalistym p\u00f3\u0142wyspie, na kt\u00f3rym zachowa\u0142a si\u0119 urokliwa star\u00f3wka. Zabytki Sozopola skupiaj\u0105 si\u0119 w tej drugiej, starej cz\u0119\u015bci miasta z kr\u0119tymi uliczkami, przy kt\u00f3rych stoj\u0105 charakterystyczne kamienne domy. Miasto przyci\u0105ga r\u00f3wnie\u017c pi\u0119knym wybrze\u017cem. Tutejsza pla\u017ca z przejrzyst\u0105 wod\u0105 i skalistymi klifami znana jest w ca\u0142ym kraju.\n\nPo trzecie Warna. To miejsce nale\u017cy do grona najpi\u0119kniejszych i najbardziej popularnych miast w Bu\u0142garii. Niezwyk\u0142\u0105 atrakcj\u0105 jest Park Nadmorski rozci\u0105gaj\u0105cy si\u0119 na wysokim tarasie ponad wybrze\u017cem, tworzony przez lasy, ogrody i winnice. Polscy tury\u015bci bardzo ch\u0119tnie zwiedzaj\u0105 Warn\u0119 \u015bladami s\u0142ynnych p\u00f3l bitewnych oraz W\u0142adys\u0142awa Warne\u0144czyka.\n\nfot. Shutterstock Sozopol\n\nAlbena, Obzor i Primorsko \u2013 popularne kurorty w Bu\u0142garii\n\nWybrze\u017ce Bu\u0142garii, szczeg\u00f3lnie w sezonie letnim, wype\u0142nione jest turystami. Najwi\u0119ksz\u0105 popularno\u015bci\u0105 ciesz\u0105 si\u0119 oczywi\u015bcie Z\u0142ote Piaski i S\u0142oneczny Brzeg, ale znajd\u0105 si\u0119 te\u017c inne, r\u00f3wnie pi\u0119kne i ciekawe miejsca. Na pocz\u0105tek Albena. To najm\u0142odszy i jeden z najpopularniejszym czarnomorskich kurort\u00f3w po\u0142o\u017cony ok. 17 km od Z\u0142otych Piask\u00f3w. Miejscowo\u015b\u0107 mo\u017ce pochwali\u0107 si\u0119 mi\u0119dzy innymi wspania\u0142\u0105, czterokilometrow\u0105 pla\u017c\u0105, kt\u00f3ra zosta\u0142a wyr\u00f3\u017cniona B\u0142\u0119kitn\u0105 Flag\u0105. Albena przyci\u0105ga te\u017c niezwykle bogat\u0105 ofert\u0105 noclegow\u0105, gastronomiczn\u0105 oraz rozrywkow\u0105 - znajdziemy tu liczne kasyna, restauracje, bary i dyskoteki.\n\nPopularnym turystycznie miejscem jest te\u017c Obzor (ok. 60 km od Warny). Miejscowo\u015b\u0107 charakteryzuje si\u0119 najwi\u0119ksz\u0105 w ca\u0142ej Bu\u0142garii liczb\u0105 dni s\u0142onecznych w roku oraz du\u017c\u0105 zawarto\u015bci\u0105 jodu w powietrzu. Ci\u0105gn\u0105ca si\u0119 kilometrami szeroka, piaszczysta pla\u017ca, kt\u00f3ra \u0142agodnie opada do morza, przyci\u0105ga szczeg\u00f3lnie rodziny z dzie\u0107mi.\n\nA czym zach\u0119ca Primorsko? To miejscowo\u015b\u0107 wypoczynkowa z \u0142agodnie opadaj\u0105c\u0105 pla\u017c\u0105, malowniczymi zatokami oraz g\u0119stym li\u015bciastym lasem. W o\u017cywionym centrum miejscowo\u015bci znale\u017a\u0107 mo\u017cna kawiarnie, restauracje, bary, dyskotek\u0119 i amfiteatr. Dla aktywnych wakacyjnie dost\u0119pne s\u0105 sporty wodne na pla\u017cy. To dobry wyb\u00f3r dla wielbicieli urokliwych widok\u00f3w.\n\nSofia, czyli jedna z najta\u0144szych stolic w Europie\n\nWci\u0105\u017c ma\u0142o znana stolica Bu\u0142garii \u2013 Sofia \u2013 jest jedn\u0105 z najta\u0144szych stolic Europy. Co wi\u0119cej, jest trzeci\u0105 najwy\u017cej usytuowan\u0105 stolic\u0105 w Europie (na wysoko\u015bci 545-625 m n.p.m.), po\u0142o\u017con\u0105 z dala od g\u0142\u00f3wnych szlak\u00f3w. Czy warto zobaczy\u0107 to miasto? Zdecydowanie tak. W ci\u0105gu setek lat historii Sofia przechodzi\u0142a z r\u0105k do r\u0105k kolejnych w\u0142adc\u00f3w \u2013 od Cesarstwa Rzymskiego, przez Bizancjum, Chanat Bu\u0142garski a\u017c do Imperium Osma\u0144skiego. W\u0142a\u015bnie to wp\u0142yn\u0119\u0142o na ogromne bogactwo kulturowe stolicy kraju.\n\nCentralnym punktem miasta jest Cerkiew \u015awi\u0119tej Niedzieli (Sweta Nedejla) wybudowana prawdopodobnie w X wieku i s\u0142yn\u0105ca z pi\u0119knie rze\u017abionego o\u0142tarza. W samej Sofii znajduje si\u0119 wiele zabytkowych \u015bwi\u0105ty\u0144. W\u015br\u00f3d tych najcenniejszych warto wymie\u0107 m.in. Sob\u00f3r \u015bw. Aleksandra Newskiego (jeden z najwi\u0119kszych ko\u015bcio\u0142\u00f3w prawos\u0142awnych w Europie), Cerkiew rosyjsk\u0105 \u015bw. Miko\u0142aja, Rotund\u0119 \u015bw. Jerzego czy \u015bredniowieczn\u0105 Cerkiew Boja\u0144sk\u0105 wpisan\u0105 na list\u0119 UNESCO. Najpi\u0119kniejszym budynkiem w Sofii jest Teatr Narodowy \u2013 neoklasycystyczny obiekt (wzniesiony w 1904 roku) z pot\u0119\u017cnymi, czerwonymi murami oraz majestatycznymi kolumnami.\n\nfot. Shutterstock Sob\u00f3r \u015bw. Aleksandra Newskiego\n\nPogoda w Bu\u0142garii \u2013 kiedy najlepiej zorganizowa\u0107 wakacje?\n\nBu\u0142garia s\u0142ynie z bardzo dobrej pogody i przyjemnej temperatury, szczeg\u00f3lnie w czasie wakacji. Klimat tego kraju charakteryzuje si\u0119 ch\u0142odnymi i wilgotnymi zimami oraz suchymi miesi\u0105cami letnimi. Na wczasy w Bu\u0142garii bez w\u0105tpienia najlepiej jest si\u0119 wybra\u0107 w sezonie wakacyjnym. Najgor\u0119tszymi miesi\u0105cami s\u0105 lipiec i sierpie\u0144. \u015arednia temperatura powietrza wynosi w\u00f3wczas ok. 27\u00b0C, cho\u0107 odczuwalnie (z powodu morskiej bryzy) jest ona nieco ni\u017csza. W przypadku morza, w miesi\u0105cach wakacyjnych (czerwiec, lipiec, sierpie\u0144) temperatura si\u0119ga ok. 23\u00b0C. Wtedy te\u017c pla\u017ce w Z\u0142otych Piaskach i S\u0142onecznym Brzegu zape\u0142niaj\u0105 si\u0119 najbardziej.\n\nA jak si\u0119 ma Bu\u0142garia po sezonie? Na przyk\u0142ad jesieni\u0105 (w pa\u017adzierniku) \u015brednia temperatura powietrza w ci\u0105gu dnia to ok. 18-20 stopni, zreszt\u0105 podobnie jak na wiosn\u0119 (w maju). Nie jest to mo\u017ce najlepszy czas na pla\u017cowanie, ale na zwiedzanie na pewno. Mniejsze t\u0142umy i ni\u017csza temperatura powietrza zdecydowanie u\u0142atwi podr\u00f3\u017cowanie po kraju.\n\nPogoda Bu\u0142garia (S\u0142oneczny Brzeg) \u2013 \u015brednie temperatury w ci\u0105gu dnia:\n\nMaj \u2013 19\u00b0C\n\nCzerwiec \u2013 24\u00b0C\n\nLipiec \u2013 27\u00b0C\n\nSierpie\u0144 \u2013 27\u00b0C\n\nWrzesie\u0144 \u2013 23\u00b0C\n\nPa\u017adziernik \u2013 19\u00b0C\n\nKuchnia Bu\u0142garii \u2013 czego warto spr\u00f3bowa\u0107?\n\nKuchnia bu\u0142garska ma wiele wsp\u00f3lnego z tradycjami kuchni narod\u00f3w ba\u0142ka\u0144skich (greck\u0105, macedo\u0144sk\u0105 czy tureck\u0105). Narodow\u0105 mark\u0105 Bu\u0142gar\u00f3w jest tarator, czyli og\u00f3rkowy ch\u0142odnik (idealny na upalne dni) podawany zwykle jako przystawka. Warto spr\u00f3bowa\u0107 r\u00f3wnie\u017c szopskiej sa\u0142atki przygotowywanej z og\u00f3rk\u00f3w, pomidor\u00f3w, papryki, \u015bwie\u017cej pietruszki, cebuli i (obowi\u0105zkowo!) owczego sera (sirene).\n\nPopularnym daniem g\u0142\u00f3wnym jest kawarma, czyli gulasz z mi\u0119sem i warzywami, podawany w glinianym naczyniu \u2013 najlepiej smakuje z chlebem i czerwonym winem. Du\u017c\u0105 popularno\u015bci\u0105 cieszy si\u0119 te\u017c kebabczeta, czyli bu\u0142garskie danie z mielonego mi\u0119sa (formowanego na kszta\u0142t pod\u0142u\u017cnych kie\u0142basek), kt\u00f3re nast\u0119pnie przygotowuje si\u0119 na grillu. Bu\u0142garia s\u0142ynie r\u00f3wnie\u017c z dobrych win. Najbardziej znane z czerwonych to: Mer\u0142o, Trakija, Ma\u0142nik, Mawrud i Gymza. W\u015br\u00f3d bia\u0142ych kr\u00f3luj\u0105: Kar\u0142owski Misket, Riesling, Tamianka i Iskra. Warto kupi\u0107 jedno jako pami\u0105tk\u0119 z wakacji.\n\nfot. Shutterstock Sa\u0142atka szopska\n\nBu\u0142garia \u2013 informacje praktyczne\n\nPlanuj\u0105c wakacje w Bu\u0142garii, warto zapozna\u0107 si\u0119 podstawowymi informacjami dotycz\u0105cymi kraju.\n\nCzy Bu\u0142garia jest w UE?\n\nCho\u0107 dla wielu os\u00f3b odpowied\u017a jest oczywista, to bardzo cz\u0119sto zadawane pytanie. Bu\u0142garia od 2007 roku jest cz\u0142onkiem Unii Europejskiej. Obywatele polscy mog\u0105 zatem wje\u017cd\u017ca\u0107 na teren kraju na podstawie wa\u017cnych paszport\u00f3w lub dowod\u00f3w osobistych.\n\nUbezpieczenie\n\nOsoby op\u0142acaj\u0105ce sk\u0142adki NFZ mog\u0105 w Bu\u0142garii korzysta\u0107 z opieki medycznej w ramach ubezpieczenia. Podczas wizyty u lekarza nale\u017cy jednak okaza\u0107 dokument potwierdzaj\u0105cy fakt ubezpieczenia - Europejsk\u0105 Kart\u0119 Ubezpieczenia Zdrowotnego (EKUZ), kt\u00f3ra uprawnia tylko do korzystania z podstawowych us\u0142ug medycznych.\n\nDojazd do Bu\u0142garii\n\nNajszybsza opcja to oczywi\u015bcie samolot. W sezonie letnim po\u0142\u0105czenie do Burgas oferuj\u0105 dwie tanie linie lotnicze - Ryanair oraz Wizz Air. Przelot z Polski do Bu\u0142garii trwa \u015brednio 2 godziny. Druga opcja to samoch\u00f3d. Jest to zdecydowanie d\u0142u\u017cszy i bardziej wymagaj\u0105cy spos\u00f3b podr\u00f3\u017cowania. Warszaw\u0119 od Warny dzieli oko\u0142o 1 600 km. Najkr\u00f3tsza droga wiedzie przez S\u0142owacj\u0119, W\u0119gry, Rumuni\u0119. Trzeba si\u0119 kierowa\u0107 na przej\u015bcie graniczne na Dunaju (Calafat\u2013Widy\u0144).\n\nUwa\u017caj na gesty\n\nW Bu\u0142garii nale\u017cy uwa\u017ca\u0107 na gesty, kt\u00f3re mog\u0105 sta\u0107 si\u0119 przyczyn\u0105 nieporozumie\u0144. Dla przyk\u0142adu \u2013 kr\u0119cenie g\u0142ow\u0105 na boki oznacza \u201etak\u201d, natomiast kiwanie g\u0142ow\u0105 w g\u00f3r\u0119 i d\u00f3\u0142 \u2013 \u201e nie\u201d. Czyli zupe\u0142nie odwrotnie ni\u017c w Polsce. Ale to nie koniec r\u00f3\u017cnic w mowie cia\u0142a. R\u00f3wnie\u017c zwyk\u0142e machanie r\u0119k\u0105, oznaczaj\u0105ce u nas witanie kogo\u015b czy \u017cegnanie, w kraju bu\u0142garskim jest gestem przyzywaj\u0105cym kogo\u015b do siebie. I jeszcze jedno: Da-da (\u201etak-tak\u201d) w ustach Bu\u0142gara znaczy \u201eabsolutnie nie\u201d.\n\n\u0179r\u00f3d\u0142o: CHILLIZET"
         }
     },
     {
@@ -394,7 +426,7 @@
             "description": "HOROSKOP DZIENNY. 3 marca 2025 roku przynosi r\u00f3\u017cnorodne wp\u0142ywy planetarne dla wszystkich znak\u00f3w zodiaku. To dzie\u0144 pe\u0142en ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.IuUY7M84a9xuCK-i1auZ9C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "gp24.pl4 godz.",
+            "date": "gp24.pl8 godz.",
             "source": "gp24.pl",
             "article_content": "Content not available"
         }
@@ -410,7 +442,7 @@
             "description": "Trwa 32. edycja Kaziuka Wile\u0144skiego - \u015bwi\u0119ta ku czci \u015bwi\u0119tego Kazimierza Kr\u00f3lewicza, patrona Polski i Litwy. Odby\u0142 si\u0119 te\u017c ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.3BQAwW1pjHb2Hvg7eGM2VC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "gloswielkopolski4 godz.",
+            "date": "gloswielkopolski8 godz.",
             "source": "gloswielkopolski",
             "article_content": "Content not available"
         }
@@ -426,7 +458,7 @@
             "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet zwyk\u0142a pi\u0119cioz\u0142ot\u00f3wka mo\u017ce mie\u0107 wielokrotnie wi\u0119ksz\u0105 warto\u015b\u0107 ni\u017c nomina\u0142.",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "gk24.pl on MSN2 godz.",
+            "date": "gk24.pl on MSN6 godz.",
             "source": "gk24.pl on MSN",
             "article_content": ""
         }
@@ -442,7 +474,7 @@
             "description": "Stare banknoty i monety z czas\u00f3w PRL s\u0105 obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli posiadasz takie pieni\u0105dze, warto przyjrze\u0107 si\u0119 im bli\u017cej \u2013 by\u0107 mo\u017ce masz w domu p ...",
             "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "Pomorska on MSN1 godz.",
+            "date": "Pomorska on MSN5 godz.",
             "source": "Pomorska on MSN",
             "article_content": ""
         }
@@ -458,7 +490,7 @@
             "description": "Obecnie kolekcjonowanie r\u00f3\u017cnych rzeczy cieszy si\u0119 du\u017c\u0105 popularno\u015bci\u0105. Niekt\u00f3rzy przechowuj\u0105 przedmioty, meble, zabawki, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.HWzaOzIrx_ukoLz1Y0QaDC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Pomorska on MSN10 godz.",
+            "date": "Gazeta Pomorska on MSN14 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
