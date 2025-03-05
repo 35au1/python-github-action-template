@@ -10,7 +10,7 @@
             "description": "Rodzice uczni\u00f3w z SP nr 9 w Bia\u0142ymstoku zwr\u00f3cili si\u0119 do nas z pro\u015bb\u0105 o zwr\u00f3cenie uwagi na sytuacj\u0119 jaka wynik\u0142a w plac\u00f3wce w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.pWbR19-5QzUEcEAS55InhC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Poranny8 godz.",
+            "date": "Poranny12 godz.",
             "source": "Poranny",
             "article_content": "Content not available"
         }
@@ -26,7 +26,7 @@
             "description": "Poznali\u015bmy wyniki 42. Fina\u0142u Wojew\u00f3dzkiego Olimpiady M\u0142odych Producent\u00f3w Rolnych woj. podlaskiego. Tegoroczna edycja konkursu ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.t7AjBzDQoSmT35vmjEkgSi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "wspolczesna.pl8 godz.",
+            "date": "wspolczesna.pl12 godz.",
             "source": "wspolczesna.pl",
             "article_content": "Content not available"
         }
@@ -42,8 +42,24 @@
             "description": "\u015awidnicka Gie\u0142da Staroci, Numizmat\u00f3w i Osobliwo\u015bci ma d\u0142ug\u0105 tradycj\u0119. Jest jedn\u0105 z najstarszych i najwi\u0119kszych tego typu ...",
             "image_url": "https://www.bing.pl/th?id=OVF.8JX78vN9Bsab2VMa9VeFbA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Gazeta Wroc\u0142awska on MSN17 godz.",
+            "date": "Gazeta Wroc\u0142awska on MSN21 godz.",
             "source": "Gazeta Wroc\u0142awska on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pieni\u0105dze z PRL poszukiwane przez kolekcjoner\u00f3w. Tyle kosztuj\u0105 stare banknoty i monety. Oto ceny i zdj\u0119cia [4.03.2025]",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/pieni%C4%85dze-z-prl-poszukiwane-przez-kolekcjoner%C3%B3w-tyle-kosztuj%C4%85-stare-banknoty-i-monety-oto-ceny-i-zdj%C4%99cia-4032025/ar-AA1zYEWs?ocid=BingNewsVerp",
+            "description": "Stare banknoty i monety z czas\u00f3w PRL s\u0105 obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.U4aq8y0qFjb-ZwmsDxcEUi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "Gazeta Pomorska on MSN22 godz.",
+            "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
     },
@@ -58,40 +74,8 @@
             "description": "Czy posiadasz w portfelu monet\u0119 o nominalne 5 z\u0142? Mo\u017ce pojawi\u0142a si\u0119 szansa, aby\u015b sta\u0142 si\u0119 bogat\u0105 osob\u0105! S\u0105 takie monety, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.rXY4IFBt9hVZAYwsRbQrPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "gk24.pl7 godz.",
+            "date": "gk24.pl11 godz.",
             "source": "gk24.pl",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Pieni\u0105dze z PRL poszukiwane przez kolekcjoner\u00f3w. Tyle kosztuj\u0105 stare banknoty i monety. Oto ceny i zdj\u0119cia [4.03.2025]",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/pieni%C4%85dze-z-prl-poszukiwane-przez-kolekcjoner%C3%B3w-tyle-kosztuj%C4%85-stare-banknoty-i-monety-oto-ceny-i-zdj%C4%99cia-4032025/ar-AA1zYEWs?ocid=BingNewsVerp",
-            "description": "Stare banknoty i monety z czas\u00f3w PRL s\u0105 obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.U4aq8y0qFjb-ZwmsDxcEUi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "Gazeta Pomorska on MSN18 godz.",
-            "source": "Gazeta Pomorska on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Ta moneta z PRL mo\u017ce by\u0107 warta nawet 30 tys. z\u0142otych! Koniecznie zobacz swoje szuflady [ZDJ\u0118CIA] 05.03.2025",
-            "link": "https://gs24.pl/ta-moneta-z-prl-moze-byc-warta-nawet-30-tys-zlotych-koniecznie-zobacz-swoje-szuflady-zdjecia-05032025/ar/c1-17906435",
-            "description": "Wycena monet z PRL-u zale\u017cy od rzadko\u015bci wyst\u0119powania, jako\u015bci wybicia oraz gradingu, czyli stanu jej zachowania. W Polsce znajdziemy wiele okaz\u00f3w wartych kilkaset z\u0142otych, ale s\u0105 te\u017c takie, na ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stare+monety",
-            "date": "gs24.pl7 godz.",
-            "source": "gs24.pl",
             "article_content": "Content not available"
         }
     },
@@ -106,9 +90,25 @@
             "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ich pojawienia si\u0119 na rynku. Najcz\u0119\u015bciej poszukiwane monety przez kolekcjone ...",
             "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "gp24.pl on MSN4 godz.",
+            "date": "gp24.pl on MSN8 godz.",
             "source": "gp24.pl on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Ta moneta z PRL mo\u017ce by\u0107 warta nawet 30 tys. z\u0142otych! Koniecznie zobacz swoje szuflady [ZDJ\u0118CIA] 05.03.2025",
+            "link": "https://gs24.pl/ta-moneta-z-prl-moze-byc-warta-nawet-30-tys-zlotych-koniecznie-zobacz-swoje-szuflady-zdjecia-05032025/ar/c1-17906435",
+            "description": "Wycena monet z PRL-u zale\u017cy od rzadko\u015bci wyst\u0119powania, jako\u015bci wybicia oraz gradingu, czyli stanu jej zachowania. W Polsce znajdziemy wiele okaz\u00f3w wartych kilkaset z\u0142otych, ale s\u0105 te\u017c takie, na ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stare+monety",
+            "date": "gs24.pl11 godz.",
+            "source": "gs24.pl",
+            "article_content": "Content not available"
         }
     },
     {
@@ -122,7 +122,7 @@
             "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.o4EwlAsIz5rMM3h8kMS_wi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "gs24.pl7 godz.",
+            "date": "gs24.pl11 godz.",
             "source": "gs24.pl",
             "article_content": "Content not available"
         }
@@ -138,7 +138,7 @@
             "description": "\u015amia\u0142o mo\u017cna stwierdzi\u0107, \u017ce przedmioty z okresu PRL prze\u017cywaj\u0105 w naszym kraju niejako sw\u00f3j renesans. Chocia\u017c by\u0142y to trudne czasy w historii naszego kraju, wiele os\u00f3b wraca do nich z sentymentem. Mimo ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "gk24.pl7 godz.",
+            "date": "gk24.pl11 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -154,7 +154,7 @@
             "description": "Kryszta\u0142y produkowane w PRL-u s\u0105 obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli posiadasz kryszta\u0142y z tamtych czas\u00f3w, warto przyjrze\u0107 si\u0119 im bli\u017cej \u2013 by\u0107 mo\u017ce masz w ...",
             "image_url": "https://www.bing.plNo image",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN6 godz.",
+            "date": "Gazeta Pomorska on MSN10 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -170,25 +170,9 @@
             "description": "Obecnie pragniemy, by nasze domowe wn\u0119trza mia\u0142y sw\u00f3j unikatowy charakter, by\u0142y przytulne i kolorowe. Jednym z pomys\u0142\u00f3w na wzbogacenie naszego domowego wn\u0119trza z pewno\u015bci\u0105 s\u0105 kwiaty. Nie tylko dodaj\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "gk24.pl7 godz.",
+            "date": "gk24.pl11 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Split Fiction zas\u0142uguje na wpis do Ksi\u0119gi rekord\u00f3w Guinnessa. Nie wiem, czy widzia\u0142em wcze\u015bniej tak wiele mechanik w jednej grze [RECENZJA]",
-            "link": "https://cdaction.pl/recenzje/split-fiction-zasluguje-na-wpis-do-ksiegi-rekordow-guinnessa-nie-wiem-czy-widzialem-wczesniej-tak-wi",
-            "description": "Josef Fares obieca\u0142, \u017ce Split Fiction b\u0119dzie jedn\u0105 z najlepszych produkcji, w jakie kiedykolwiek zagramy. I cho\u0107 daleko mi do ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.kmrMSYdyyU9TW6TlcMF3YC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stara+porcelana",
-            "date": "cdaction20 godz.",
-            "source": "cdaction",
-            "article_content": "\u201eFucking shit up\u201d. My\u015blicie mo\u017ce, \u017ce to jeden z wers\u00f3w nowego utworu Eminema? Albo kwestia dialogowa z GTA: San Andreas? Ewentualnie ostatnie s\u0142owa buldoga angielskiego zanim zacznie aportowa\u0107 w sk\u0142adzie porcelany? Ot\u00f3\u017c nie. Mowa bowiem o mantrze. Pewnego rodzaju filozofii designerskiej. Josef Fares \u2013 w swoim stylu \u2013 twierdzi, \u017ce taka \u015bwiat\u0142a idea przy\u015bwieca developerom z Hazelight na co dzie\u0144, przy projektowaniu ka\u017cdego poziomu z osobna. \u201eRozsadzanie ekskrementu\u201d, istna s\u00f3l game designu.\n\nNie da si\u0119 ukry\u0107 post\u0119puj\u0105cej na przestrzeni lat formalnej radykalizacji w grach wspomnianego sztokholmskiego studia. Podczas gdy kultowe Brothers zrealizowane zosta\u0142o w konwencji stosunkowo mrocznej i surowej ba\u015bni, tak A Way Out wrzuci\u0142o wy\u017cszy bieg, serwuj\u0105c odbiorcom sk\u0105panego w ameryka\u0144skich kliszach akcyjniaka. It Takes Two jeszcze mocniej podkr\u0119ci\u0142o tempo, czyni\u0105c z tr\u00f3jwymiarowego platformera istny teatr atrakcji oraz audiowizualnych bod\u017ac\u00f3w, a na jak\u017ce s\u0142odki deser serwuj\u0105c tortury na pluszowym s\u0142oniku.\n\nSplit Fiction\n\nA Split Fiction? Da\u0142oby si\u0119 pewnie je sprowadzi\u0107 do przemaglowanej w wielu recenzjach formu\u0142ki \u201ewi\u0119cej, g\u0142o\u015bniej i lepiej\u201d. Tylko, \u017ce to... najwi\u0119cej, najg\u0142o\u015bniej i najlepiej. Gra, kt\u00f3ra z etapu na etap rywalizuje wy\u0142\u0105cznie sama ze sob\u0105, nieustannie podnosi poprzeczk\u0119, a konkurencj\u0119 zostawia na samym dole \u2013 no wykapany Armand Duplantis asymetrycznych co-op\u00f3w. To zr\u0119czno\u015bci\u00f3wka pr\u00f3buj\u0105ca w najmniej oczekiwanych momentach wymy\u015bla\u0107 si\u0119 na nowo, igra\u0107 z oczekiwaniami odbiorcy, zapewnia\u0107 mu regularnie skoki dopaminowe, a przy okazji popisywa\u0107 si\u0119 swoj\u0105 oryginalno\u015bci\u0105 oraz miejscami wr\u0119cz groteskow\u0105 spektakularno\u015bci\u0105. Split Fiction najpewniej ani przez chwil\u0119 was nie znudzi, ale ju\u017c na pewno przebod\u017acuje i sponiewiera.\n\nFakcepcja\n\nTo sensoryczne przeci\u0105\u017cenie jest \u2013 o dziwo \u2013 do\u015b\u0107 solidnie uzasadnione od strony scenariuszowej. Pogr\u0105\u017cone w kryzysie ekonomicznym pisarki ma\u0142o subtelnych powie\u015bci gatunkowych planuj\u0105 podpisa\u0107 umow\u0119 wydawnicz\u0105 ze stereotypowymi korpog\u0142owami. Jak jednak uczy nas p\u00f3\u017any kapitalizm, nie zawsze ko\u0144czy si\u0119 to dobrze, a wi\u0119c naiwniaczki (co si\u0119 zw\u0105 Zoe i Mio) zamiast zabezpieczy\u0107 sobie przysz\u0142o\u015b\u0107, trafiaj\u0105 do maszyny symuluj\u0105cej fabu\u0142y spod ich pi\u00f3ra i zaprogramowanej na przes\u0142anie wszystkich autorskich pomys\u0142\u00f3w do firmowej bazy danych.\n\nSplit Fiction\n\nZ do\u015b\u0107 losowych przyczyn protagonistki l\u0105duj\u0105 jednak w tej samej wirtualnej rzeczywisto\u015bci, wi\u0119c pr\u00f3buj\u0105 wsp\u00f3lnie pokrzy\u017cowa\u0107 plany jak\u017ce z\u0142owieszczego CEO, szukaj\u0105c w swych wyobra\u017ceniach gliczy o magicznej mocy rozszczepiania deeptechowego limbo. A jako \u017ce Zoe to przede wszystkim fantastka, z kolei Mio siedzi g\u0142\u00f3wnie w sci-fi, to podr\u00f3\u017cuj\u0105 raz przez staro\u017cytn\u0105, przepe\u0142nion\u0105 kolorami krain\u0119 smok\u00f3w, a kiedy indziej skacz\u0105 pomi\u0119dzy neonowymi reklamami z cybernetyczn\u0105 katan\u0105 w d\u0142oni i motocyklem rodem z \u201eAkiry\u201d pod zadkiem.\n\nTaka koncepcja czyni ze Split Fiction studni\u0119 bez dna pod wzgl\u0119dem mo\u017cliwo\u015bci kreacji mikro\u015bwiat\u00f3w. I cho\u0107 gameplayowo oraz wizualnie otwiera to gr\u0119 na istn\u0105 feeri\u0119 barw, mieszank\u0119 konwencji oraz multum opcji zabawy, tak poznawane historie wydaj\u0105 si\u0119 p\u0142ytkie i szablonowe, nawet je\u015bli pr\u00f3buj\u0105 odbija\u0107 osobiste traumy bohaterek czy stany ich pod\u015bwiadomo\u015bci. Nie spodziewajcie si\u0119 introspekcyjnego m\u00f3zgotrzepu pokroju Psychonaut\u00f3w czy Alana Wake\u2019a, a bardziej lekkiej, miejscami taniej opowiastki w duchu przygodowym. A i satyra na ambitne, \u201emuskopodobne\u201d start-upy to do\u015b\u0107 kiepska, bo usilnie przerysowuj\u0105ca g\u0142\u00f3wny w\u0105tek. Dialogi spiskuj\u0105cych przeciw m\u0142odocianym artystkom cz\u0142onk\u00f3w zarz\u0105du raczej puszcz\u0119 w niepami\u0119\u0107. It Takes Two pod k\u0105tem tre\u015bci wypad\u0142o du\u017co, du\u017co m\u0105drzej i naturalniej.\n\nSplit Fiction\n\nEffing things up\n\nNie dla czczego gadania przemierza\u0142em jednak te pokr\u0119cone fikcyjne uniwersa. Chcia\u0142em (wraz z narzeczon\u0105) w nich przede wszystkim gra\u0107, gra\u0107 i gra\u0107. No i gra\u0144sko to rzeczywi\u015bcie najwy\u017cszej pr\u00f3by. Platformer godny wymieniania w jednym z rz\u0119dzie z najlepszymi Metroidami, Marianami, Zeldami czy nawet Donkey Kongami. Bo prawd\u0119 m\u00f3wi\u0105c, znajdziemy tu po trosz\u0119 z ka\u017cdego zr\u0119czno\u015bciowego IP Nintendo, tyle \u017ce w kooperacyjnym wydaniu, jakiego nawet Big N mog\u0142oby pozazdro\u015bci\u0107.\n\nCho\u0107 akcj\u0119 \u015bledzimy przewa\u017cnie z klasycznej trzecioosobowej kamery na podzielonym ekranie, to zdarza si\u0119, \u017ce perspektywa ulega nag\u0142ym zmianom. Nie brakuje tu np. typowo sidescrollowych poziom\u00f3w 2,5D, w kt\u00f3rych niczym Samus Aran przemierzamy w kulistej formie pinballowe (tak, dobrze przeczytali\u015bcie) platformy. Nie zdziwcie si\u0119 te\u017c, gdy nagle zaczniecie pyka\u0107 w izometrycznego hack\u2019n\u2019slasha pokroju Darkside: Genesis, ale z udzia\u0142em smok\u00f3w.\n\nSplit Fiction\n\nCzasem przyjdzie nam tak\u017ce zasmakowa\u0107 wysooktanowej, autorunnerowej rozrywki, steruj\u0105c rozp\u0119dzonymi pojazdami przy akompamniamencie wsz\u0119dobylskich wybuch\u00f3w, kt\u00f3rych liczba przekracza limity wyznaczone przez Michaela Baya. A raz na ruski rok stawia si\u0119 tu na wyj\u0105tkowo asymetryczne mechaniki kooperacyjne: jeden z graczy jest stw\u00f3rc\u0105 manipuluj\u0105cym otoczeniem, a drugi po prostu ma dociera\u0107 z punktu A do punktu B.\n\nkcufdniM\n\nG\u0142\u00f3wnych etap\u00f3w znajdziemy tu niewiele i opieraj\u0105 si\u0119 one na paru dominuj\u0105cych mechanikach, ale ka\u017cdy z nich to tu\u0142aczka na kilka godzin oraz niemal ci\u0105g\u0142a rotacja \u2013 nazwijmy to tak na potrzeby opisu Split Fiction \u2013 mechanik pobocznych. Przyk\u0142adowo: jeden z leveli pozwala na zmian\u0119 form. Zoe mo\u017ce sta\u0107 si\u0119 mikroskopijn\u0105, lataj\u0105c\u0105 wr\u00f3\u017ck\u0105 lub podr\u00f3b\u0105 Groota wchodz\u0105c\u0105 w synergi\u0119 z lasem. Z kolei Mio przyjmuje posta\u0107 albo wielkiej ma\u0142py zdolnej do wspinaczki i rozwa\u0142ki, albo krzy\u017c\u00f3wki aksolotla i wydry, potrafi\u0105cej p\u0142ywa\u0107 i nurkowa\u0107.\n\nR\u00f3\u017cnorodno\u015b\u0107 i pomys\u0142owo\u015b\u0107 w projektach poziom\u00f3w zadziwiaj\u0105, bo nawet umiej\u0119tno\u015bci, kt\u00f3rych u\u017cywamy ju\u017c d\u0142u\u017cszy czas, wci\u0105\u017c i wci\u0105\u017c znajduj\u0105 nowe zastosowania: pozwalaj\u0105 na rozwi\u0105zanie nietypowej zagadki \u015brodowiskowej lub nagle zostaj\u0105 wykorzystane jako bro\u0144. Split Fiction \u2013 zale\u017cnie nie od levelu, a pojedynczej SEKWENCJI \u2013 potrafi by\u0107 nawet strzelank\u0105, wy\u015bcig\u00f3wk\u0105 czy gr\u0105 sportow\u0105. I \u017cadnego z tych skok\u00f3w w bok nie odb\u0119bniono na p\u00f3\u0142 gwizdka. Nawet tymczasowa zmiana gatunku wi\u0105\u017ce si\u0119 tu z zadbaniem czy to o satysfakcjonuj\u0105cy gunplay i nadanie odpowiedniego ci\u0119\u017caru b\u0105d\u017a pr\u0119dko\u015bci ruchom, czy te\u017c o w\u0142a\u015bciwe dostosowanie zasad gry oraz zachowania otoczenia pod nasze nowe zdolno\u015bci.\n\nSplit Fiction\n\nA nie wspomnia\u0142em jeszcze o tym, \u017ce znale\u017a\u0107 tu mo\u017cna tak\u017ce poziomy dodatkowe, b\u0119d\u0105ce odzwierciedleniem nigdy niewydanych opowiada\u0144 pisarek. Czasem to ledwie kilkuminutowe miniatury przyci\u0105gaj\u0105ce nas pojedynczym bajerem, ale w owych alternatywnych \u015bwiatach kryj\u0105 si\u0119 r\u00f3wnie\u017c autonomiczne opowie\u015bci z szeregiem nowych wolt gameplayowych. Zreszt\u0105, graj\u0105c w Split Fiction, cz\u0119sto mia\u0142em poczucie, \u017ce niekt\u00f3rych rzeczy nie trzeba by\u0142o dodawa\u0107 \u2013 \u017ce wystarczy\u0142oby mi na ten moment to, co mam. Ale nie z Faresem takie numery. Tutaj lokomotywa musi popyla\u0107 z pr\u0119dko\u015bci\u0105 \u015bwiat\u0142a, nawet je\u015bli grozi jej zderzenie czo\u0142owe.\n\nR\u0119ka, noga, m\u00f3zg na \u015bcianie!\n\nP\u0119dzi\u0107 przed siebie mog\u0142em o tyle, \u017ce gra na PS5 nie sprawia\u0142a niemal \u017cadnych problem\u00f3w technicznych. Sta\u0142e 60 klatek na sekund\u0119 towarzyszy\u0142o mi niezale\u017cnie od nat\u0119\u017cenia eksplozji i element\u00f3w cz\u0105steczkowych na ekranie, a i pod tym k\u0105tem Hazelight kr\u0119ci si\u0119 w pobli\u017cu rekordu Guinnessa. Jedynym powa\u017cniejszym problemem, kt\u00f3ry teoretycznie da\u0142oby si\u0119 uzna\u0107 za buga, by\u0142 do\u015b\u0107 chaotyczny system odradzania si\u0119 postaci. Zw\u0142aszcza kiedy du\u017co si\u0119 dzia\u0142o (czyli co jakie\u015b pi\u0119\u0107 minut). Ot\u00f3\u017c postacie miewa\u0142y tendencj\u0119 do \u201erespienia\u201d si\u0119 nad przepa\u015bci\u0105, pod pod\u0142o\u017cem albo na przeciwniku (co automatycznie skutkowa\u0142o otrzymaniem obra\u017ce\u0144, a nawet i \u015bmierci\u0105).\n\nPo powy\u017cszych zachwytach bez dw\u00f3ch zda\u0144 mog\u0119 te\u017c powiedzie\u0107, \u017ce dzi\u0119ki Split Fiction Unreal Engine 5 w ko\u0144cu pokazuje potencja\u0142 oraz pazur, i to pomimo faktu, \u017ce grafika jest tu raczej mocno stylizowana. Liczba detali na ekranie, wyrazista kolorystyka te\u0142 i z\u0142o\u017cono\u015b\u0107 krajobraz\u00f3w ciesz\u0105 oczy, a postacie \u2013 mimo \u017ce ich projekty nie sil\u0105 si\u0119 na fotorealizm \u2013 odznaczaj\u0105 si\u0119 przekonuj\u0105c\u0105 mimik\u0105 twarzy. W parze z porz\u0105dnym aktorstwem g\u0142osowym daje to efekt obcowania z kim\u015b namacalnym. Ich ruchy cia\u0142a mog\u0142yby za to wygl\u0105da\u0107 odrobin\u0119 bardziej autentycznie, a mniej gi\u0119tko i slapstickowo, ale to przeszkadza tylko w przerywnikach filmowych. W samej rozgrywce za\u015b daje przyjemne poczucie dynamizmu.\n\nSplit Fiction\n\nCzy to nie znamienne, \u017ce w dniu recenzowania Split Fiction nie pami\u0119tam ju\u017c wszystkich mechanik, kt\u00f3rymi torpedowa\u0142a mnie i narzeczon\u0105 gra? Kto\u015b powiedzia\u0142by, \u017ce co za du\u017co, to niezdrowo, ale przypominam sobie oscarowe \u201eWszystko wsz\u0119dzie naraz\u201d i te\u017c nie potrafi\u0119 przywo\u0142a\u0107 wszystkich zmontowanych w nim migawkowo scen. I w zasadzie nie musz\u0119, aby wiedzie\u0107, jak na mnie wp\u0142yn\u0119\u0142y, i m\u00f3c doceni\u0107 film jako ca\u0142o\u015b\u0107. No pewnie, \u017ce Split Fiction to dzicz. No jasne, \u017ce Split Fiction to czysty chaos. Ale w tym szwedzkim szale\u0144stwie jest metoda. Metoda zwana \u201erozsadzaniem ekskrementu\u201d.\n\nW Split Fiction grali\u015bmy na PS5."
         }
     },
     {
@@ -202,7 +186,7 @@
             "description": "Ro\u015bliny w domu, a bogactwo i szcz\u0119\u015bcie Wiele os\u00f3b dba o przytuln\u0105 przestrze\u0144 w swoim domu. Dekorujemy je m.in. ro\u015blinami, kt\u00f3re jak si\u0119 okazuje, s\u0105 nie tylko elementem dekoracyjnym, ale r\u00f3wnie\u017c maj\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "G\u0142os Koszali\u0144ski on MSN16 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN20 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
@@ -218,7 +202,7 @@
             "description": "\u015awidnicka Gie\u0142da Staroci, Numizmat\u00f3w i Osobliwo\u015bci ma d\u0142ug\u0105 tradycj\u0119. Jest jedn\u0105 z najstarszych i najwi\u0119kszych tego typu ...",
             "image_url": "https://www.bing.pl/th?id=OVF.8JX78vN9Bsab2VMa9VeFbA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Gazeta Wroc\u0142awska on MSN17 godz.",
+            "date": "Gazeta Wroc\u0142awska on MSN21 godz.",
             "source": "Gazeta Wroc\u0142awska on MSN",
             "article_content": ""
         }
@@ -234,7 +218,7 @@
             "description": "Mi\u0142o\u015bnicy historii, unikatowych przedmiot\u00f3w i r\u0119kodzie\u0142a co weekend, w ka\u017cd\u0105 niedziel\u0119 przybywaj\u0105 na gie\u0142d\u0119 staroci w Zielonej G\u00f3rze, aby odnale\u017a\u0107 prawdziwe skarby. Gie\u0142da to miejsce, gdzie czas zdaje ...",
             "image_url": "https://www.bing.pl/th?id=ODF.RJOGHWzYjTst0z6ULRD3Hw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "zielonagora.naszemiasto6 godz.",
+            "date": "zielonagora.naszemiasto10 godz.",
             "source": "zielonagora.naszemiasto",
             "article_content": "Content not available"
         }
@@ -250,7 +234,7 @@
             "description": "Unikalne antyki poszukiwane przez kolekcjoner\u00f3w mog\u0105 zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na nich zarobi\u0107 fortun\u0119. Cz\u0119sto nie mamy \u015bwiadomo\u015bci, \u017ce przedmioty posiadane w domu warte s\u0105 du\u017co pieni\u0119dzy.",
             "image_url": "https://www.bing.pl/th?id=ODF.U-Vp0xK7SYVhjnH4oToWdw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "gloswielkopolski5 godz.",
+            "date": "gloswielkopolski9 godz.",
             "source": "gloswielkopolski",
             "article_content": "Content not available"
         }
@@ -266,7 +250,7 @@
             "description": "\u015awidnicka Gie\u0142da Staroci, Numizmat\u00f3w i Osobliwo\u015bci ma d\u0142ug\u0105 tradycj\u0119. Jest jedn\u0105 z najstarszych i najwi\u0119kszych tego typu ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.AkHiVPJoFWsJ31Kg7dvBxS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "gazetawroclawska.pl8 godz.",
+            "date": "gazetawroclawska.pl12 godz.",
             "source": "gazetawroclawska.pl",
             "article_content": "Content not available"
         }
@@ -282,7 +266,7 @@
             "description": "Rodzice uczni\u00f3w z SP nr 9 w Bia\u0142ymstoku zwr\u00f3cili si\u0119 do nas z pro\u015bb\u0105 o zwr\u00f3cenie uwagi na sytuacj\u0119 jaka wynik\u0142a w plac\u00f3wce w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.pWbR19-5QzUEcEAS55InhC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Poranny8 godz.",
+            "date": "Poranny12 godz.",
             "source": "Poranny",
             "article_content": "Content not available"
         }
@@ -293,13 +277,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Trasy rowerowe do 68 km od Sieradza. Pomys\u0142y na jednodniow\u0105 wypraw\u0119. Gdzie w weekend 8 - 9 marca?",
-            "link": "https://sieradz.naszemiasto.pl/trasy-rowerowe-do-68-km-od-sieradza-pomysly-na-jednodniowa-wyprawe-gdzie-w-weekend-8-9-marca/ar/c7p1-21831603",
-            "description": "Nim wyruszysz w drog\u0119, sprawd\u017a, jaka b\u0119dzie pogoda. W sobot\u0119 08 marca w Sieradzu ma by\u0107 17\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 09 marca w Sieradzu ma by\u0107 18\u00b0C. Nie b\u0119dzie pada\u0107. Stopie\u0144 trudno\u015bci: 2.0 ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.2znMXsinn_2JLbFa36URyA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Spacer do 65 km od Gryfic. Urocze miejsca na kr\u00f3tk\u0105 wypraw\u0119 w weekend 8 - 9 marca",
+            "link": "https://gryfice.naszemiasto.pl/spacer-do-65-km-od-gryfic-urocze-miejsca-na-krotka-wyprawe-w-weekend-8-9-marca/ar/c7p1-22116005",
+            "description": "Zanim wyruszysz w drog\u0119, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 08 marca w Gryficach ma by\u0107 17\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.tC3o63M-3bUwuezozayNDi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "sieradz.naszemiasto22 godz.",
-            "source": "sieradz.naszemiasto",
+            "date": "gryfice.naszemiasto1 godz.",
+            "source": "gryfice.naszemiasto",
             "article_content": "Content not available"
         }
     },
@@ -309,14 +293,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "\u015acie\u017cki nordic walking w woj. zachodniopomorskim. Gdzie warto si\u0119 wybra\u0107 w weekend 8 - 9 marca. TOP 3 trasy",
-            "link": "https://gs24.pl/sciezki-nordic-walking-w-woj-zachodniopomorskim-gdzie-warto-sie-wybrac-w-weekend-8-9-marca-top-3-trasy/ar/c7p1-22323645",
-            "description": "Nim wyruszysz, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 08 marca w woj. zachodniopomorskim ma by\u0107 od 3\u00b0C do 15\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 09 marca w woj. zachodniopomorskim ma by\u0107 od 4\u00b0C do 16\u00b0C. Nie ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Nordic walking do 69 km od Koszalina. Urocze miejsca na kr\u00f3tk\u0105 tras\u0119 w weekend 8 - 9 marca",
+            "link": "https://koszalin.naszemiasto.pl/nordic-walking-do-69-km-od-koszalina-urocze-miejsca-na-krotka-trase-w-weekend-8-9-marca/ar/c7p1-22318903",
+            "description": "Zanim wyjdziesz, sprawd\u017a pogod\u0119 dla Koszalina. W sobot\u0119 8 marca wed\u0142ug prognozy pogody ma by\u0107 17\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 9 marca zgodnie z najnowszymi prognozami pogody ma by\u0107 17\u00b0C w ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.2lnLIQe5bnM9ixvXVTSDQg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "gs24.pl22 godz.",
-            "source": "gs24.pl",
+            "date": "koszalin.naszemiasto1 godz.",
+            "source": "koszalin.naszemiasto",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Daniel Maikowski",
+            "link": "https://next.gazeta.pl/next/autor/5e78a18e7da7ab2fc730ec04?str=48",
+            "description": "Szef dzia\u0142u technologicznego Next.gazeta.pl. Uko\u0144czy\u0142 Wydzia\u0142 Dziennikarstwa i Nauk Politycznych na Uniwersytecie Warszawskim ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.GyhFeCOwwVP7_F_fmSGChC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "nextgazetapl3 godz.",
+            "source": "nextgazetapl",
+            "article_content": "Wied\u017amin 3, Dying Light czy Frostpunk to polskie gry, kt\u00f3re spotka\u0142y si\u0119 ze znakomitym przyj\u0119ciem w\u015br\u00f3d graczy i recenzent\u00f3w. S\u0105 jednak r\u00f3wnie\u017c takie produkcje, kt\u00f3rych nasi rodzimi tw\u00f3rcy zdecydowanie mog\u0105 si\u0119 wstydzi\u0107. Oto cztery najgorsze polskie gry."
         }
     },
     {
@@ -330,7 +330,7 @@
             "description": "Rozpocz\u0119\u0142y si\u0119 d\u0142ugo oczekiwane prace renowacyjne przy zabytkowym wiatraku w \u015awi\u0119ciechowie. Gmina na zabiegi przywracaj\u0105ce ...",
             "image_url": "https://www.bing.pl/th?id=OVF.bHSFoI%2bbgN84xn4IvpmNtg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "gloswielkopolski5 godz.",
+            "date": "gloswielkopolski8 godz.",
             "source": "gloswielkopolski",
             "article_content": "Content not available"
         }
@@ -341,13 +341,29 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Masz te banknoty? To prawdziwe skarby! Za jeden mo\u017cesz otrzyma\u0107 kilka tysi\u0119cy z\u0142otych! [ZDJ\u0118CIA] 05.03.2025",
-            "link": "https://gs24.pl/masz-te-banknoty-to-prawdziwe-skarby-za-jeden-mozesz-otrzymac-kilka-tysiecy-zlotych-zdjecia-05032025/ar/c1-17930573",
-            "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.o4EwlAsIz5rMM3h8kMS_wi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Koniec ogl\u0119dzin wielkiego po\u017caru w Gda\u0144sku. Policja m\u00f3wi o ewentualnych sprawcach",
+            "link": "https://www.fakt.pl/wydarzenia/pozar-na-gdanskiej-przerobce-byl-celowym-podpaleniem-trwa-dochodzenie/cn8lv1z",
+            "description": "\u015aledczy wci\u0105\u017c badaj\u0105 przyczyny ogromnego po\u017caru, kt\u00f3ry 5 lutego strawi\u0142 zabytkow\u0105 hal\u0119 dawnych Zak\u0142ad\u00f3w Naprawczych Taboru ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.OymUk-Fjl2GASdFqqYiKYy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "gs24.pl7 godz.",
-            "source": "gs24.pl",
+            "date": "Fakt.pl38 min",
+            "source": "Fakt.pl",
+            "article_content": "\u015aledczy wci\u0105\u017c badaj\u0105 przyczyny ogromnego po\u017caru, kt\u00f3ry 5 lutego strawi\u0142 zabytkow\u0105 hal\u0119 dawnych Zak\u0142ad\u00f3w Naprawczych Taboru Kolejowego w Gda\u0144sku. Po kilkunastu dniach intensywnych ogl\u0119dzin policja zabezpieczy\u0142a liczne dowody, przes\u0142ucha\u0142a \u015bwiadk\u00f3w i przeanalizowa\u0142a nagrania monitoringu. Teraz biegli szczeg\u00f3\u0142owo analizuj\u0105 zebrane materia\u0142y, by ustali\u0107, co doprowadzi\u0142o do tragedii \u2013 przypadkowe zapr\u00f3szenie ognia czy celowe podpalenie.\n\nW \u015brod\u0119, 5 lutego kr\u00f3tko po godzinie 13.00, w jednej z zabytkowych hal dawnych ZNTK na Przer\u00f3bce w Gda\u0144sku wybuch\u0142 ogromny po\u017car. K\u0142\u0119by czarnego dymu unosz\u0105ce si\u0119 nad miejscem zdarzenia by\u0142y widoczne z du\u017cej odleg\u0142o\u015bci.\n\nDzia\u0142ania s\u0142u\u017cb po po\u017carze hali na gda\u0144skiej Przer\u00f3bce\n\nPrzez kilkana\u015bcie dni po ugaszeniu ognia teren obj\u0119ty po\u017carem by\u0142 miejscem intensywnych prac dochodzeniowo-\u015bledczych. Funkcjonariusze Komendy Wojew\u00f3dzkiej Policji w Gda\u0144sku, prokuratorzy, technicy kryminalistyki oraz stra\u017cacy prowadzili ogl\u0119dziny, staraj\u0105c si\u0119 ustali\u0107 przyczyny tragedii. \u015aledztwo obj\u0119\u0142o zabezpieczenie dowod\u00f3w, analiz\u0119 monitoringu oraz przes\u0142uchania \u015bwiadk\u00f3w i os\u00f3b poszkodowanych.\n\n5 marca teren zosta\u0142 oficjalnie przekazany w\u0142a\u015bcicielowi, kt\u00f3ry zobowi\u0105za\u0142 si\u0119 do jego zabezpieczenia oraz zg\u0142oszenia planowanych prac rozbi\u00f3rkowych. Mo\u017ce to pom\u00f3c w ewentualnym uzupe\u0142nieniu ogl\u0119dzin.\n\nPoszukiwanie przyczyn i sprawc\u00f3w po\u017caru hali w Gda\u0144sku\n\n\u015aledztwo nadal trwa, a jego g\u0142\u00f3wnym celem jest wyja\u015bnienie przyczyn po\u017caru oraz ustalenie, czy dosz\u0142o do celowego podpalenia. W tym celu zabezpieczono liczne \u015blady i przedmioty mog\u0105ce mie\u0107 zwi\u0105zek z miejscem powstania ognia. Materia\u0142y te zostan\u0105 poddane szczeg\u00f3\u0142owym analizom przez powo\u0142anych w sprawie bieg\u0142ych.\n\nHistoria miejsca, kt\u00f3re stan\u0119\u0142o w ogniu\n\nPo\u017car obj\u0105\u0142 teren dawnych warsztat\u00f3w kolejowych, zlokalizowanych przy ulicy Siennickiej. Powsta\u0142y one na pocz\u0105tku XX w. i przez dekady odgrywa\u0142y kluczow\u0105 rol\u0119 w przemy\u015ble kolejowym Pomorza. Budynki te, wpisane do rejestru zabytk\u00f3w, by\u0142y prawnie chronione. W\u015br\u00f3d nich znajdowa\u0142a si\u0119 m.in. hala naprawy wagon\u00f3w o imponuj\u0105cych wymiarach 251 na 103 m oraz hala naprawy lokomotyw o powierzchni 166 na 102 m \u2013 najwi\u0119ksze tego typu obiekty w regionie.\n\nCho\u0107 dochodzenie wci\u0105\u017c jest w toku, s\u0142u\u017cby nie wykluczaj\u0105 \u017cadnej hipotezy \u2013 od przypadkowego zapr\u00f3szenia ognia po celowe dzia\u0142anie os\u00f3b trzecich.\n\n\u0179r\u00f3d\u0142o: Fakt, Pomorska Policja"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Trasy spacerowe w woj. ma\u0142opolskim. Gdzie i\u015b\u0107 w weekend 8 - 9 marca? 10 najlepszych tras",
+            "link": "https://gazetakrakowska.pl/trasy-spacerowe-w-woj-malopolskim-gdzie-isc-w-weekend-8-9-marca-10-najlepszych-tras/ar/c7p1-22116467",
+            "description": "Bieg Fundacji Tesco - trasa biegu g\u0142\u00f3wnego na 10 km. Start 26.08.2017 o godzinie 12.30 na bulwarach wi\u015blanych. Trasa biegu jest zr\u00f3\u017cnicowana krajobrazowo \u2013 biegnie bulwarami Wis\u0142y oraz przez tereny ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.XL5bGs_n6w06Ok0ARb1y3Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "zabytkowe+przedmioty",
+            "date": "Gazeta Krakowska2 godz.",
+            "source": "Gazeta Krakowska",
             "article_content": "Content not available"
         }
     },
@@ -357,14 +373,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Gmina Be\u0142chat\u00f3w nie zamierza oddawa\u0107 s\u0105siadom z Kleszczowa przej\u0119tych od nich teren\u00f3w. Trwa walka o miliony z elektrowni Be\u0142chat\u00f3w",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/gmina-be%C5%82chat%C3%B3w-nie-zamierza-oddawa%C4%87-s%C4%85siadom-z-kleszczowa-przej%C4%99tych-od-nich-teren%C3%B3w-trwa-walka-o-miliony-z-elektrowni-be%C5%82chat%C3%B3w/ar-AA1AdSUU?ocid=BingNewsVerp",
-            "description": "Czarne chmury zawis\u0142y nad gmin\u0105 Be\u0142chat\u00f3w, a w\u0142a\u015bciwie jej granicami. Gmina Kleszcz\u00f3w chce odzyska\u0107 tereny utracone pod ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.%2fLWaPgvImuLynLGieJSFoA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Trasy rowerowe do 13 km od Wa\u0142brzycha. Podpowiedzi jednodniowych wypraw. Gdzie w weekend 8 - 9 marca?",
+            "link": "https://walbrzych.naszemiasto.pl/trasy-rowerowe-do-13-km-od-walbrzycha-podpowiedzi-jednodniowych-wypraw-gdzie-w-weekend-8-9-marca/ar/c7p1-21831457",
+            "description": "Zanim wyruszysz w drog\u0119, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 08 marca w Wa\u0142brzychu ma by\u0107 16\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 09 marca w Wa\u0142brzychu ma by\u0107 16\u00b0C. Nie b\u0119dzie pada\u0107.",
+            "image_url": "https://www.bing.pl/th?id=ODF.b7cDqWcxCJUoLca1qpYJLg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "Be\u0142chat\u00f3w Naszemiasto on MSN23 godz.",
-            "source": "Be\u0142chat\u00f3w Naszemiasto on MSN",
-            "article_content": ""
+            "date": "walbrzych.naszemiasto2 godz.",
+            "source": "walbrzych.naszemiasto",
+            "article_content": "Content not available"
         }
     },
     {
@@ -373,30 +389,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Joanna kupi\u0142a zrujnowany dom z 1946 r. i wyremontowa\u0142a. \"Skarbonka bez dna? Wcale nie musi tak by\u0107\"",
-            "link": "https://kobieta.onet.pl/wiadomosci/joanna-wyremontowala-dom-z-1946-r-skarbonka-bez-dna-wcale-nie-musi-tak-byc/4bhw38l",
-            "description": "Dom z 1946 r., kt\u00f3ry kupi\u0142a, zgodnie z sugesti\u0105 w akcie notarialnym mia\u0142 si\u0119 nadawa\u0107 ju\u017c tylko do rozbi\u00f3rki. Okaza\u0142o si\u0119 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.4BNjTDgVr2tbc1vUWG3pzS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Spacer do 35 km od Cieszyna. Podpowiadamy, gdzie warto si\u0119 wybra\u0107 w weekend 8 - 9 marca",
+            "link": "https://cieszyn.naszemiasto.pl/spacer-do-35-km-od-cieszyna-podpowiadamy-gdzie-warto-sie-wybrac-w-weekend-8-9-marca/ar/c7p1-22115721",
+            "description": "Zanim wyruszysz w drog\u0119, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 08 marca w Cieszynie ma by\u0107 18\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 09 marca w Cieszynie ma by\u0107 17\u00b0C. Nie b\u0119dzie pada\u0107. Czas trwania ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.5pfVAYO0eKNqiqwh80sASg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "Onet Kobieta7 godz.",
-            "source": "Onet Kobieta",
-            "article_content": "Dostaj\u0119 mn\u00f3stwo wiadomo\u015bci, \u017ce kto\u015b nie zdawa\u0142 sobie sprawy, \u017ce taki stary dom \"mo\u017ce jeszcze do czegokolwiek si\u0119 nadawa\u0107\". Sami w\u0142a\u015bciciele nie wiedz\u0105, \u017ce pod star\u0105, zepsut\u0105 elewacj\u0105 mo\u017ce wci\u0105\u017c kry\u0107 si\u0119 zdrowa materia \u2014 m\u00f3wi nam Joanna Szczepaniak\n\nSama zdecydowa\u0142a si\u0119 wyremontowa\u0107 dom z 1946 r. Ca\u0142kowity koszt remontu 80-metrowego budynku nie przekroczy\u0142 200 tys. z\u0142\n\n\u2014 Kupno starego domu na oko, bez specjalisty, nara\u017ca na dodatkowe koszty. Osoby, kt\u00f3re podejmuj\u0105 takie ryzyko i dzia\u0142aj\u0105 na w\u0142asn\u0105 r\u0119k\u0119, cz\u0119sto p\u00f3\u017aniej krytykuj\u0105, \u017ce kupno i remont starego domu to \"skarbonka bez dna\". Wcale nie musi tak by\u0107 \u2014 przekonuje Joanna\n\nNa co uwa\u017ca\u0107 przy tego typu remoncie? \u2014 Je\u017celi jeden fachowiec przekonuje, \u017ce czego\u015b \"si\u0119 nie da\", warto to skonsultowa\u0107 z kim\u015b innym. To mog\u0119 podpowiedzie\u0107 z w\u0142asnego do\u015bwiadczenia \u2014 m\u00f3wi\n\nWi\u0119cej na ten temat znajdziesz te\u017c na Onet Premium\n\nWi\u0119cej informacji znajdziesz na stronie g\u0142\u00f3wnej Onetu\n\nStary, niszczej\u0105cy dom z 1946 r. kupi\u0142a, gdy zacz\u0119\u0142a si\u0119 pandemia. By\u0142 marzec 2020 r. Miesi\u0105c p\u00f3\u017aniej ruszy\u0142a z remontem. Trwa\u0142 rok \u2014 \u0142\u0105cznie z pracami wyko\u0144czeniowymi 1,5 roku.\n\nCa\u0142kowity koszt remontu 80-metrowego budynku nie przekroczy\u0142 200 tys. z\u0142. Remontu podj\u0119\u0142a si\u0119 sama, na w\u0142asn\u0105 r\u0119k\u0119, jako matka 7-miesi\u0119cznego dziecka. Bez partnera i m\u0119skiego wsparcia. \u2014 Wiem, \u017ce dla wielu kobiet jest to bariera. Bez partnera czy m\u0119\u017ca boj\u0105 si\u0119 same porwa\u0107 na taki remont. Ale mo\u017cna, naprawd\u0119. Najgorzej zacz\u0105\u0107, ale potem ju\u017c leci \u2014 m\u00f3wi nam Joanna Szczepaniak.\n\nJoanna sama wzi\u0119\u0142a si\u0119 za remont starego domu. Odnowi\u0142a budynek z 1946 r. Prywatne archiwum\n\nCzy dzi\u015b podj\u0119\u0142aby si\u0119 ponownie takiego przedsi\u0119wzi\u0119cia? \u2014 Szczerze m\u00f3wi\u0105c, my\u015bl\u0119 o remoncie kolejnego drewnianego domu. Nawet ju\u017c ogl\u0105da\u0142am potencjalne nieruchomo\u015bci \u2014 m\u00f3wi.\n\nJak zaraz dodaje, cho\u0107 w ostatnim czasie mieszka\u0142a w Warszawie, jej dusza i natura \"potrzebuj\u0105 domu drewnianego\".\n\nJoanna sama wzi\u0119\u0142a si\u0119 za remont starego domu. Odnowi\u0142a budynek z 1946 r. Prywatne archiwum\n\n\"Cz\u0119sto nikt nie wystawia ich na sprzeda\u017c\"\n\nKoszt takiego starego domu czy zabudowania zale\u017cy cz\u0119sto od lokalizacji.\n\nJoanna zach\u0119ca, by samemu poszukiwa\u0107 takich obiekt\u00f3w w okolicy, bo ich w\u0142a\u015bciciele cz\u0119sto nawet nie wystawiaj\u0105 ich na sprzeda\u017c.\n\n\u2014 Czekaj\u0105, nie wiem na co. A jak pojawi si\u0119 zdecydowany klient, i to jeszcze z got\u00f3wk\u0105, ludzie naprawd\u0119 s\u0105 w stanie sprzeda\u0107 taki dom za bardzo rozs\u0105dne pieni\u0105dze. Sama regularnie \u015bledz\u0119 oferty sprzeda\u017cy dom\u00f3w i siedlisk, jakie s\u0105 udost\u0119pniane na mojej grupie. Trafiaj\u0105 si\u0119 oferty za 150 tys. \u2014 s\u0142yszymy.\n\nDom z 1946 r., kt\u00f3ry sama kupi\u0142am, zgodnie z sugesti\u0105 w akcie notarialnym mia\u0142 si\u0119 nadawa\u0107 ju\u017c tylko do rozbi\u00f3rki. Ludzie cz\u0119sto nie zdaj\u0105 sobie sprawy, \u017ce takich dom\u00f3w szkoda do wyburzenia, bo wci\u0105\u017c nadaj\u0105 si\u0119 one do zaadaptowania. I to staram si\u0119 ludziom pokaza\u0107.\n\nJak podkre\u015bla: zawsze zach\u0119ca do tego, by ceny takich dom\u00f3w negocjowa\u0107.\n\n\u2014 Nawet je\u017celi kto\u015b wystawi\u0142 takie siedlisko za 300 tys., mo\u017cna je naby\u0107 za 200 tys. czy 220 tys. Ludzie naprawd\u0119 s\u0105 w stanie du\u017co zej\u015b\u0107 z ceny \u2014 przekonuje. Rodzina nierzadko chce si\u0119 takich miejsc jak najszybciej pozby\u0107, mo\u017cna wi\u0119c wynegocjowa\u0107 upust o nawet 1/3 ceny.\n\nJoanna sama wzi\u0119\u0142a si\u0119 za remont starego domu. Odnowi\u0142a budynek z 1946 r. Prywatne archiwum\n\n\u2014 Wiele os\u00f3b wychowuj\u0105cych si\u0119 poza miastem otrzymuje takie stare domy po kim\u015b z rodziny. Pisze do mnie wiele takich ludzi. Dostaj\u0119 mn\u00f3stwo wiadomo\u015bci w stylu, \u017ce kto\u015b nie zdawa\u0142 sobie sprawy, \u017ce taki stary dom \"mo\u017ce jeszcze do czegokolwiek si\u0119 nadawa\u0107\". Sami w\u0142a\u015bciciele nie wiedz\u0105, \u017ce pod star\u0105, zepsut\u0105 elewacj\u0105 mo\u017ce wci\u0105\u017c kry\u0107 si\u0119 zdrowa materia. I \u017ce taki z pozoru niszczej\u0105cy, zaniedbany budynek mo\u017cna przerobi\u0107 na zdrowy dom. A dom z drewna zawsze b\u0119dzie zdrowszy ni\u017c dom z betonu \u2014 podkre\u015bla.\n\nDrewno, kt\u00f3re przetrwa\u0142o zdrowe 50 czy wi\u0119cej lat, przetrwa ju\u017c niemal wszystko.\n\n\u2014 Przyk\u0142adowa historia: rozmawia\u0142am niedawno ze znajomym, kt\u00f3ry budowa\u0142 od zera nowy dom, i wybudowa\u0142 ten dom z drewna. Po kilku latach ma ju\u017c z tym drewnem problemy. Dzi\u015b nie tak \u0142atwo o dobrze zahartowane drewno pod budow\u0119. Samo \u015bci\u0119cie i suszenie m\u0142odego drewna w suszarni przez rok czy dwa, a\u017c tak tego drewna nam nie zahartuje. Wysuszy, ale nie zahartuje \u2014 twierdzi Szczepaniak.\n\nJoanna sama wzi\u0119\u0142a si\u0119 za remont starego domu. Odnowi\u0142a budynek z 1946 r. Prywatne archiwum\n\nJak podkre\u015bla, stare, dobrze zaimpregnowane i zahartowane drewno, kt\u00f3re przetrwa\u0142o czas i nie zosta\u0142o naruszone przez korniki, jest dzi\u015b bardzo warto\u015bciowym surowcem.\n\n\u2014 Warto z takiego zdrowego drewna korzysta\u0107 bez obaw, \u017ce \"skoro stare, to zaraz si\u0119 zawali\". Je\u015bli przetrwa\u0142o tyle dekad w stanie nienaruszonym, bez kornik\u00f3w, wilgoci \u2014 to taki dom naprawd\u0119 jest inwestycj\u0105 na lata. Przetrwa praktycznie wszystko. Co wi\u0119cej, s\u0105 dzi\u015b dost\u0119pne nowe impregnaty, wi\u0119c \u015bmia\u0142o mo\u017cna takie stare zabudowania adaptowa\u0107 pod dom ca\u0142oroczny \u2014 przekonuje.\n\nJoanna sama wzi\u0119\u0142a si\u0119 za remont starego domu. Odnowi\u0142a budynek z 1946 r. Prywatne archiwum\n\nStary dom do remontu. Od czego zacz\u0105\u0107 poszukiwania?\n\nO tym, jak przebiega\u0142 remont pierwszego domu, Joanna zacz\u0119\u0142a dzieli\u0107 si\u0119 w specjalnej grupie za\u0142o\u017conej na Facebooku. Dzi\u015b liczy ona prawie 200 tys. cz\u0142onk\u00f3w. Nie spodziewa\u0142a si\u0119, \u017ce temat mo\u017ce okaza\u0107 si\u0119 a\u017c tak medialny. Zale\u017cy jej przede wszystkim na tym, by pokaza\u0107, \u017ce stare domy cz\u0119sto o wiele lepiej zaadaptowa\u0107 ni\u017c wyburzy\u0107.\n\nOd czego jednak zacz\u0105\u0107?\n\n\u2014 Na pewno trzeba mie\u0107 do pomocy osob\u0119, kt\u00f3ra zna si\u0119 nie tylko og\u00f3lnie na budowlance czy wyko\u0144czeni\u00f3wce, ale te\u017c orientuje si\u0119 w starym budownictwie. To kluczowe \u2014 podkre\u015bla Joanna.\n\nJoanna sama wzi\u0119\u0142a si\u0119 za remont starego domu. Odnowi\u0142a budynek z 1946 r. Prywatne archiwum\n\nJak dodaje, jej zdaniem pr\u00f3ba zakupu starego domu na w\u0142asn\u0105 r\u0119k\u0119 wi\u0105\u017ce si\u0119 ze sporym ryzykiem \u2014 w zwi\u0105zku \"z du\u017c\u0105 ilo\u015bci\u0105 pu\u0142apek, w kt\u00f3re mo\u017cna wpa\u015b\u0107\". \u2014 To w\u0142a\u015bnie te pu\u0142apki sprawiaj\u0105, \u017ce potem wiele os\u00f3b m\u00f3wi, \u017ce nie warto remontowa\u0107 starych dom\u00f3w albo \u017ce jest to dro\u017csze od budowy nowego \u2014 m\u00f3wi.\n\nKupno starego domu na oko, bez specjalisty, nara\u017ca na dodatkowe koszty. Osoby, kt\u00f3re podejmuj\u0105 takie ryzyko i dzia\u0142aj\u0105 na w\u0142asn\u0105 r\u0119k\u0119, cz\u0119sto p\u00f3\u017aniej krytykuj\u0105, \u017ce kupno i remont starego domu to \"skarbonka bez dna\". Wcale nie musi tak by\u0107\n\n\u2014 zapewnia.\n\n\u2014 Mo\u017cna te\u017c trafi\u0107 na taki egzemplarz domu, na jaki ja szcz\u0119\u015bliwie trafi\u0142am. Dom by\u0142 w pe\u0142ni zdrowy, je\u015bli chodzi o konstrukcj\u0119 drewnian\u0105. W domu z 1946 r. by\u0142 w pe\u0142ni zdrowy dach, podobnie ca\u0142y strop. Ca\u0142a ta konstrukcja nie wymaga\u0142a wymiany nawet jednego bala \u2014 wylicza. \u2014 Konkuruj\u0105c z budow\u0105 nowego drewnianego domu, stare zdrowe budownictwo daje do kilkuset z\u0142 oszcz\u0119dno\u015bci ju\u017c na samej konstrukcji. Dlatego raz jeszcze powtarzam: porad\u017acie si\u0119 specjalisty \u2014 m\u00f3wi.\n\nJoanna sama wzi\u0119\u0142a si\u0119 za remont starego domu. Odnowi\u0142a budynek z 1946 r. Prywatne archiwum\n\nSzczepaniak zarazem uczula, by nie zra\u017ca\u0107 si\u0119, je\u015bli od fachowc\u00f3w czy ekspert\u00f3w us\u0142yszymy, \u017ce czego\u015b \"nie da si\u0119 zrobi\u0107\".\n\n\u2014 Cz\u0119sto nawet specjali\u015bci starej daty, kt\u00f3rzy znaj\u0105 si\u0119 \u015bwietnie na starym budownictwie, mog\u0105 nam co\u015b odradza\u0107. I b\u0119d\u0105 przekonywa\u0107, \u017ce np. nie da si\u0119 w takim domu wstawi\u0107 wi\u0119kszego okna czy powi\u0119kszy\u0107 jakiego\u015b pomieszczenia. Nawet dobry specjalista mo\u017ce nie do ko\u0144ca zdawa\u0107 sobie spraw\u0119 z mo\u017cliwo\u015bci, jakie daje dzi\u015b nowe budownictwo. U mnie by\u0142a taka sytuacja: fachowiec z pocz\u0105tku przekonywa\u0142, \u017ce w moim domu nie da si\u0119 wstawi\u0107 wielkich okien. \u017be to \"za s\u0142aba konstrukcja\". Docisn\u0119\u0142am jednak temat i zg\u0142\u0119bi\u0142am to na w\u0142asn\u0105 r\u0119k\u0119. Zabra\u0142am go ze sob\u0105 kilka razy na budow\u0119, porozmawia\u0142am, przekona\u0142am, \u017ce jednak wiem co\u015b na temat tego, co proponuj\u0119. I od s\u0142owa do s\u0142owa okaza\u0142o si\u0119, \u017ce jednak \"si\u0119 da\u0142o\". I uda\u0142o si\u0119 zrealizowa\u0107 m\u00f3j pomys\u0142 tak, jak chcia\u0142am \u2014 opowiada. \u2014 Nic si\u0119 nie zawali\u0142o, konstrukcja wytrzyma\u0142a. I dzi\u0119ki uporowi mia\u0142am przepi\u0119knie o\u015bwietlony, praktycznie od rana do wieczora rozja\u015bniony naturalnym \u015bwiat\u0142em dziennym dom \u2014 m\u00f3wi.\n\nJe\u017celi jeden fachowiec przekonuje, \u017ce czego\u015b \"si\u0119 nie da\", warto to skonsultowa\u0107 z kim\u015b innym. To mog\u0119 podpowiedzie\u0107 z w\u0142asnego do\u015bwiadczenia.\n\nJak podkre\u015bla, temat ten mo\u017ce powraca\u0107 w przypadku remontu starych dom\u00f3w, poniewa\u017c w dawnym budownictwie co do zasady decydowano si\u0119 na mniejsze okna.\n\nPosiadanie du\u017cego okna wi\u0105za\u0142o si\u0119 ze sporymi kosztami, nie tylko uciekaj\u0105cego t\u0119dy ciep\u0142a \u2014 ale te\u017c oszklenia, na kt\u00f3re nie ka\u017cdego by\u0142o sta\u0107.\n\n\u2014 Dawniej oszcz\u0119dzano na wszystkim. My teraz mo\u017cemy sobie pozwoli\u0107 ju\u017c na to, \u017ceby mie\u0107 wielkie okna. Mamy wygodne ogrzewanie pod\u0142ogowe, mamy dobrej jako\u015bci okna \u2014 m\u00f3wi nam Joanna.\n\nJoanna sama wzi\u0119\u0142a si\u0119 za remont starego domu. Odnowi\u0142a budynek z 1946 r. Prywatne archiwum\n\nNa co uwa\u017ca\u0107?\n\n\u2014 W\u0142a\u015bciwie niczego nie \u017ca\u0142uj\u0119, je\u015bli chodzi o tamten remont. Owszem, dzi\u015b ju\u017c mo\u017ce kilka rzeczy bym zmieni\u0142a. Nie ukrywam te\u017c, \u017ce dwa razy zosta\u0142am oszukana przez ekip\u0119 budowlan\u0105. Za jednym razem naci\u0105gni\u0119to mnie na dodatkowe koszty. Jak si\u0119 okaza\u0142o: ca\u0142kiem niepotrzebnie. Gdybym mia\u0142a na tamtym etapie wi\u0119cej wiedzy, wiedzia\u0142abym, \u017ce nie by\u0142o to konieczne \u2014 przyznaje.\n\nPodkre\u015bla te\u017c, \u017ce cenowy przekr\u00f3j za us\u0142ugi fachowc\u00f3w w bran\u017cy budowlanej jest wci\u0105\u017c w Polsce ogromny.\n\nJoanna sama wzi\u0119\u0142a si\u0119 za remont starego domu. Odnowi\u0142a budynek z 1946 r. Prywatne archiwum\n\n\u2014 Przyk\u0142ad: dopiero co wyko\u0144czy\u0142am \u0142azienk\u0119 w innym mieszkaniu. Jeden fachowiec wycenia\u0142 mi to na 8 tys., a drugi na 16 tys. z\u0142. Dok\u0142adnie t\u0119 sam\u0105 us\u0142ug\u0119 wyko\u0144czenia 4-metrowej \u0142azienki w bloku. Je\u015bli wi\u0119c chodzi o wycen\u0119 budowy, to naprawd\u0119 bardzo du\u017co zale\u017cy od nas samych: od naszego researchu oraz tego, jak sami przy\u0142o\u017cymy si\u0119 do tego, \u017ceby znale\u017a\u0107 dobrego fachowca, kt\u00f3ry wykona prac\u0119 za rozs\u0105dn\u0105 cen\u0119. Bo nie o to te\u017c chodzi, \u017ceby robi\u0107 najtaniej czy \u017ceby komu\u015b nie p\u0142aci\u0107 \u2014 podkre\u015bla.\n\nKilka miesi\u0119cy temu Joanna postanowi\u0142a zebra\u0107 w\u0142asne do\u015bwiadczenia z remontem starego domu i opisa\u0107 je w formie p\u0142atnego e-booka.\n\n\u2014 Jak wyremontowa\u0107 taki stary dom, \u017ceby osi\u0105gn\u0105\u0107 efekt mniej wi\u0119cej taki jak m\u00f3j? Rozpisa\u0142am wszystko na prawie 200 stron, w 17 rozdzia\u0142ach. Ca\u0142y proces, krok po kroku, na podstawie remontu, kt\u00f3ry sama przeprowadzi\u0142am. Na przyk\u0142adach, ze zdj\u0119ciami i w szczeg\u00f3\u0142owych opisach, z uwzgl\u0119dnieniem, jakie materia\u0142y by\u0142y wykorzystane na danym etapie. Jak wygl\u0105da\u0142o ocieplenie domu, a jak dobudowa ganku. Ze zdj\u0119ciami, tak, \u017ceby ka\u017cdy m\u00f3g\u0142 sam zobaczy\u0107, jak to wygl\u0105da\u0142o, jakie by\u0142y to struktury. Ja musia\u0142am o tym wszystkim sama doczytywa\u0107 i szuka\u0107 tych informacji na w\u0142asn\u0105 r\u0119k\u0119. Jak kto\u015b kupi takiego e-booka, to ju\u017c nie musi \u2014 dodaje."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Kapadocja na wakacje: 11 najlepszych atrakcji regionu. Frywolne ska\u0142y, cudowne malowid\u0142a, miejsca UNESCO",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/podroze/kapadocja-na-wakacje-11-najlepszych-atrakcji-regionu-frywolne-ska%C5%82y-cudowne-malowid%C5%82a-miejsca-unesco/ar-AA1AhPqV?ocid=BingNewsVerp",
-            "description": "Jakie cuda, sekrety i atrakcje skrywa Kapadocja, magiczna kraina w samym centrum Turcji? Nie ma tu pla\u017c i nadmorskich ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.Bvg_cF7PSvFSVAxDSb2w1C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Strona Podr\u00f3\u017cy on MSN3 godz.",
-            "source": "Strona Podr\u00f3\u017cy on MSN",
-            "article_content": ""
+            "date": "cieszyn.naszemiasto2 godz.",
+            "source": "cieszyn.naszemiasto",
+            "article_content": "Content not available"
         }
     },
     {
@@ -410,9 +410,25 @@
             "description": "Czy posiadasz w portfelu monet\u0119 o nominalne 5 z\u0142? Mo\u017ce pojawi\u0142a si\u0119 szansa, aby\u015b sta\u0142 si\u0119 bogat\u0105 osob\u0105! S\u0105 takie monety, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.rXY4IFBt9hVZAYwsRbQrPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "gk24.pl7 godz.",
+            "date": "gk24.pl11 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Nowa polska moneta 50 z\u0142. Jest warta 290 razy wi\u0119cej",
+            "link": "https://wiadomosci.radiozet.pl/Biznes/nowa-polska-moneta-50-zl-jest-warta-290-razy-wiecej",
+            "description": "Nowa moneta kolekcjonerska ma kszta\u0142t \u201ebanknotu o nominale 50 z\u0142'. Kto chce sobie takie numizmatyczne cudo kupi\u0107, musi ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.Fi30CVEkHRbxf-qTh0y3Ki&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+numizmatyka",
+            "date": "Radio ZET2 godz.",
+            "source": "Radio ZET",
+            "article_content": "Narodowy Bank Polski wprowadza do obiegu z\u0142ot\u0105 monet\u0119 kolekcjonersk\u0105 \u201eBanknot o nominale 50 z\u0142\u201d z serii \u201ePolskie banknoty obiegowe\u201d\n\nNumizmat wybito w z\u0142ocie pr\u00f3by 999,9 i ma form\u0119 prostok\u0105ta o wymiarach 50,00 x 25,00 mm i masie 31,10 grama\n\nNabycie monety jest mo\u017cliwe za kwot\u0119 14 500 z\u0142, a jej dost\u0119pno\u015b\u0107 jest ograniczona do 1500 egzemplarzy\n\nMoneta \u201ebanknot o nominale 50 z\u0142\u201d. NBP: warta 14 500 z\u0142\n\nNBP og\u0142osi\u0142 emisj\u0119 nowej, z\u0142otej monety kolekcjonerskiej \u201eBanknot o nominale 50 z\u0142\u201d. Jest to ju\u017c kolejna moneta wchodz\u0105ca w sk\u0142ad serii \u201ePolskie banknoty obiegowe\u201d, kt\u00f3r\u0105 NBP zainaugurowa\u0142 w 2023 roku. Tym razem inspiracj\u0105 dla numizmatu sta\u0142 si\u0119 popularny banknot o nominale 50 z\u0142, przedstawiaj\u0105cy wizerunek kr\u00f3la Kazimierza III Wielkiego.\n\nOgl\u0105daj\n\nMoneta zosta\u0142a wykonana z najwy\u017cszej pr\u00f3by z\u0142ota \u2013 999,9. Wyr\u00f3\u017cnia j\u0105 nietypowy, prostok\u0105tny kszta\u0142t o wymiarach 50,00 x 25,00 mm, a jej waga wynosi 31,10 gram\u00f3w. Bank centralny podkre\u015bli\u0142, \u017ce u\u017cycie stempla lustrzanego nadaje jej niezwyk\u0142y po\u0142ysk i uwydatnia detale. Projektantem graficznym monety jest Robert Kotowicz.\n\nfot. NBP\n\nLimitowany nak\u0142ad \u2013 zaledwie 1500 sztuk \u2013 oraz zastosowane materia\u0142y wp\u0142ywaj\u0105 na cen\u0119 monety, kt\u00f3ra wynosi 14 500 z\u0142. NBP zaznaczy\u0142, \u017ce jest to gratka dla kolekcjoner\u00f3w. Awers monety zdobi wizerunek or\u0142a z piecz\u0119ci majestatycznej kr\u00f3la Kazimierza III Wielkiego, a poni\u017cej umieszczono jab\u0142ko i ber\u0142o \u2013 insygnia kr\u00f3lewskie. Po lewej stronie widnieje stylizowany fragment panoramy Kazimierza z inskrypcj\u0105 \u201eCASMIRVS\u201d oraz owal z fragmentami korony powy\u017cej. Z prawej strony ukazano fragment panoramy Krakowa z napisem \u201eCRACOVIA\u201d.\n\nNa rewersie, w centralnej cz\u0119\u015bci, w ozdobnym medalionie, znajduje si\u0119 portret kr\u00f3la Kazimierza III Wielkiego. Po lewej stronie portretu, w tle napis\u00f3w, widoczna jest stylizowana rozeta gotycka. Z prawej strony umieszczono owal z fragmentami korony, a pod nim inicja\u0142 \u201eK\u201d z koron\u0105, poni\u017cej kt\u00f3rego znajduje si\u0119 ornament i korona w owalu.\n\nNowa polska moneta. Szczere z\u0142oto\n\nMonety kolekcjonerskie NBP, w tym z\u0142oty \u201eBanknot 50 z\u0142\u201d, s\u0105 sprzedawane w specjalnym opakowaniu handlowym wraz z certyfikatem autentyczno\u015bci. Ch\u0119tni mog\u0105 naby\u0107 je w Oddzia\u0142ach Okr\u0119gowych NBP oraz w sklepie internetowym Kolekcjoner.\n\nWsp\u00f3\u0142czesny banknot o nominale 50 z\u0142, kt\u00f3ry stanowi\u0142 inspiracj\u0119 dla monety, wszed\u0142 do obiegu 1 stycznia 1995 roku w wyniku denominacji z\u0142otego. Autorem projektu graficznego ca\u0142ej serii \u201eW\u0142adcy polscy\u201d jest Andrzej Heidrich (1928\u20132019), wybitny polski grafik, kt\u00f3ry wsp\u00f3\u0142pracowa\u0142 z NBP od 1960 roku.\n\n\u0179r\u00f3d\u0142o: Radio ZET/NBP"
         }
     },
     {
@@ -426,9 +442,25 @@
             "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
             "image_url": "https://www.bing.pl/th?id=OVF.fqA6duWhsJIu%2f2mFkiDMGg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Express Ilustrowany on MSN4 godz.",
+            "date": "Express Ilustrowany on MSN8 godz.",
             "source": "Express Ilustrowany on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Niezwyk\u0142e odkrycie w Borach Tucholskich. Skarb sprzed setek lat by\u0142 zakopany w ziemi",
+            "link": "https://wiadomosci.radiozet.pl/polska/niezwykle-odkrycie-w-borach-tucholskich-skarb-sprzed-setek-lat-byl-zakopany-w-ziemi",
+            "description": "W Borach Tucholskich dokonano niezwyk\u0142ego odkrycia. Cz\u0142onkowie Mi\u0119dzywojew\u00f3dzkiego Stowarzyszenia ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.KcKfDtGc3EtZA6HQpC5EpS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "odkrycie+zabytkowe+przedmiot",
+            "date": "Radio ZET1 godz.",
+            "source": "Radio ZET",
+            "article_content": "Cz\u0142onkowie Mi\u0119dzywojew\u00f3dzkiego Stowarzyszenia Detektorystyczno-Eksploracyjnego Unia dokonali niezwyk\u0142ego odkrycia\n\nPodczas poszukiwa\u0144 w Borach Tucholskich natrafili na monety z okresu \u015bredniowiecza\n\nW\u015br\u00f3d znalezisk by\u0142y krzy\u017cackie szel\u0105gi oraz kwartniki W\u0142adys\u0142awa Jagie\u0142\u0142y\n\nOdkrycie w Borach Tucholskich\n\nMi\u0119dzywojew\u00f3dzkie Stowarzyszenie Detektorystyczno-Eksploracyjne Unia to grupa pasjonat\u00f3w historii, kt\u00f3ra zajmuje si\u0119 poszukiwaniem \u015blad\u00f3w przesz\u0142o\u015bci. Na koncie ma wiele sukces\u00f3w, a w przesz\u0142o\u015bci zosta\u0142a nawet doceniona w plebiscycie Archeologiczne Sensacje magazynu \"Archeologia \u017bywa\". Teraz stowarzyszenie do\u0142o\u017cy\u0142o kolejne odkrycie, dokonane na terenie Nadle\u015bnictwa Woziwoda w Borach Tucholskich.\n\nPodczas poszukiwa\u0144 uda\u0142o si\u0119 bowiem odnale\u017a\u0107 23 monety Zakonu Krzy\u017cackiego oraz 2 monety W\u0142adys\u0142awa Jagie\u0142\u0142y, wybijane w okresie 1386 - 1434. Monety maj\u0105 wi\u0119c setki lat i s\u0105 prawdziwym archeologicznym skarbem. Odkrycia dokona\u0142 Krzysztof Szarmach, jeden z cz\u0142onk\u00f3w stowarzyszenia. O znalezisku poinformowano w mediach spo\u0142eczno\u015bciowych.\n\nKrzy\u017cackie szel\u0105gi i monety W\u0142adys\u0142awa Jagie\u0142\u0142y\n\nStowarzyszenie Unia we wpisie wyja\u015bni\u0142o, \u017ce krzy\u017cackie szel\u0105gi by\u0142y popularnymi srebrnymi monetami, u\u017cywanymi na terach Zakonu i w ich okolicach. \"Za jednego szel\u0105ga mo\u017cna by\u0142o kupi\u0107 podstawowe produkty spo\u017cywcze, takie jak bochenek chleba, dzban piwa czy gar\u015b\u0107 soli - surowca niezwykle cennego w \u015bredniowieczu. Kilka szel\u0105g\u00f3w pozwala\u0142o na zakup mi\u0119sa, tkaniny czy prostych narz\u0119dzi\" - czytamy we wpisie. Kwartniki W\u0142adys\u0142awa Jagie\u0142\u0142y r\u00f3wnie\u017c by\u0142y srebrne, ale mia\u0142y wi\u0119ksz\u0105 warto\u015b\u0107 ni\u017c krzy\u017cackie szel\u0105gi. U\u017cywano ich g\u0142\u00f3wnie w handlu lokalnym, dlatego odkrycie tych monet razem jest niema\u0142\u0105 ciekawostk\u0105.\n\n\"Odnalezione monety to niezwykle wa\u017cne \u017ar\u00f3d\u0142o informacji o gospodarce i wymianie handlowej w tej cz\u0119\u015bci Pomorza w \u015bredniowieczu. Znalezisko pokazuje, \u017ce region ten by\u0142 miejscem intensywnych kontakt\u00f3w ekonomicznych mi\u0119dzy zakonem krzy\u017cackim a Kr\u00f3lestwem Polskim. Obecno\u015b\u0107 zar\u00f3wno szel\u0105g\u00f3w, jak i kwartnik\u00f3w mo\u017ce \u015bwiadczy\u0107 o przenikaniu si\u0119 stref wp\u0142yw\u00f3w monetarnych w okresie napi\u0119tych stosunk\u00f3w mi\u0119dzy Polsk\u0105 a pa\u0144stwem zakonnym\" - wyja\u015bni\u0142o stowarzyszenie. Poszukiwania by\u0142y prowadzone pod nadzorem Wojew\u00f3dzkiego Urz\u0119du Ochrony Zabytk\u00f3w w Bydgoszczy.\n\n\u0179r\u00f3d\u0142o: Radio ZET / Mi\u0119dzywojew\u00f3dzkie Stowarzyszenie Detektorystyczno-Eksploracyjne Unia\n\n(6)\n\nzobacz galeri\u0119"
         }
     },
     {
@@ -442,25 +474,9 @@
             "description": "W Toruniu, w Kaplicy Ogr\u00f3jcowej przy ko\u015bciele \u015bw. Jakuba, odkryto polichromie z pocz\u0105tku XVI wieku przedstawiaj\u0105ce m\u0119k\u0119 Chrystusa. To niezwyk\u0142e znalezisko, kt\u00f3re ju\u017c wkr\u00f3tce b\u0119dzie dost\u0119pne dla ...",
             "image_url": "https://www.bing.pl/th?id=ODF.S98F8jIiuGzSo7XWBjLcxA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Fakt.pl3 godz.",
+            "date": "Fakt.pl7 godz.",
             "source": "Fakt.pl",
             "article_content": "W Toruniu, w Kaplicy Ogr\u00f3jcowej przy ko\u015bciele \u015bw. Jakuba, odkryto polichromie z pocz\u0105tku XVI wieku przedstawiaj\u0105ce m\u0119k\u0119 Chrystusa. To niezwyk\u0142e znalezisko, kt\u00f3re ju\u017c wkr\u00f3tce b\u0119dzie dost\u0119pne dla zwiedzaj\u0105cych, jest cz\u0119\u015bci\u0105 szlaku \u015bw. Jakuba.\n\nProf. El\u017cbieta Pilecka z Uniwersytetu Miko\u0142aja Kopernika w Toruniu podkre\u015bla, \u017ce odkrycie to ma ogromne znaczenie dla ikonografii p\u00f3\u017ano\u015bredniowiecznej i wczesnorenesansowej.\n\nWyj\u0105tkowe odkrycie w Toruniu. Wizerunek Chrustusa na \u015bcianie kaplicy\n\nProf. El\u017cbieta Pilecka, ekspertka z Wydzia\u0142u Sztuk Pi\u0119knych UMK, opisuje malowid\u0142a jako opowie\u015b\u0107 o ostatnich momentach \u017cycia Chrystusa, takich jak pojmanie, zdrada Judasza i modlitwa na G\u00f3rze Oliwnej. Kaplica Ogr\u00f3jcowa, znajduj\u0105ca si\u0119 na cmentarzu ko\u015bcielnym, doskonale oddaje duchowo\u015b\u0107 p\u00f3\u017ano\u015bredniowieczn\u0105 oraz XVI\u2014 i XVII-wieczn\u0105, wpisuj\u0105c si\u0119 w kult cia\u0142a i krwi Chrystusa oraz tradycje pogrzebowe.\n\nKonserwatorzy pracuj\u0105cy nad odkryciem polichromii w Kaplicy Ogr\u00f3jcowej wykonali swoj\u0105 prac\u0119 z niezwyk\u0142\u0105 pieczo\u0142owito\u015bci\u0105. Pocz\u0105tkowo przypuszczano, \u017ce malowid\u0142a przedstawiaj\u0105 Chrystusa na krzy\u017cu lub z Judaszem. Jednak\u017ce, dzi\u0119ki dok\u0142adnym pracom, uda\u0142o si\u0119 odczyta\u0107 scen\u0119, w kt\u00f3rej Chrystus wyci\u0105ga r\u0119k\u0119 do Malchusa, kt\u00f3remu \u015bw. Piotr odci\u0105\u0142 ucho. Malchus trzyma r\u0119k\u0119 przy uchu, co potwierdza cudowne przyklejenie.\n\nZnaczenie odkrycia dla kultury i religii\n\nOdkrycie polichromii w Toruniu ma du\u017ce znaczenie dla kultury i religii, a kaplica stanie si\u0119 wa\u017cnym punktem na szlaku \u015bw. Jakuba. Prof. Pilecka podkre\u015bla, \u017ce miejsce to materializuje \u015bredniowieczn\u0105 koncepcj\u0119 \u0142\u0105czenia r\u00f3\u017cnych medi\u00f3w, takich jak malarstwo i rze\u017aba. W kaplicy odbywa\u0142y si\u0119 nabo\u017ce\u0144stwa przed Wielkanoc\u0105, co by\u0142o zwi\u0105zane z kultem krwi i cia\u0142a Chrystusa.\n\nParadoksalnie, polichromie zachowa\u0142y si\u0119 dzi\u0119ki \"zapomnieniu\". Kaplica by\u0142a u\u017cywana jako magazyn, co uchroni\u0142o j\u0105 przed modernizacjami i przemalowaniami. Teraz, po pracach konserwatorskich, kaplica zostanie udost\u0119pniona zwiedzaj\u0105cym, a w jej wn\u0119trzu powstanie punkt informacyjny. To odkrycie wzbogaca wiedz\u0119 o \u015bredniowiecznym Toruniu, mie\u015bcie wpisanym na list\u0119 \u015bwiatowego dziedzictwa UNESCO.\n\nProf. Pilecka zauwa\u017ca, \u017ce Toru\u0144 wci\u0105\u017c skrywa wiele tajemnic. W ko\u015bciele \u015bw. Jakuba trwaj\u0105 prace, a w ostatnim \"Roczniku toru\u0144skim\" opublikowano artyku\u0142 o przedstawieniu siedmiu grzech\u00f3w g\u0142\u00f3wnych w kaplicy. Odkrycie polichromii to kolejny krok w odkrywaniu bogatej historii tego miejsca.\n\n\u0179r\u00f3d\u0142o: Polska Agencja Prasowa\n\nPrzeczytaj r\u00f3wnie\u017c:\n\nJak post\u0119puje Ko\u015bci\u00f3\u0142 po \u015bmierci papie\u017ca? Procedury s\u0105 \u015bci\u015ble okre\u015blone\n\nPolka znalaz\u0142a mi\u0142o\u015b\u0107 \u017cycia na pielgrzymce do Santiago de Compostela. \"Niepokoi\u0142o mnie to, jak o mnie my\u015bla\u0142\"\n\nProboszcz ujawnia ko\u015bcielne rachunki. Zdradza te\u017c, sk\u0105d wzi\u0105\u0142 pieni\u0105dze"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Przegl\u0105d prasy 5.03.2025. Przygotowali\u015bmy zestaw najwa\u017cniejszych informacji z wczoraj. B\u0105d\u017a na bie\u017c\u0105co z wydarzeniami",
-            "link": "https://gazetawroclawska.pl/przeglad-prasy-5-03-2025-przygotowalismy-zestaw-najwazniejszych-informacji-z-wczoraj-badz-na-biezaco-z-wydarzeniami/ar/c1p1-19960895",
-            "description": "\u015awidnicka Gie\u0142da Staroci, Numizmat\u00f3w i Osobliwo\u015bci ma d\u0142ug\u0105 tradycj\u0119. Jest jedn\u0105 z najstarszych i najwi\u0119kszych tego typu ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.AkHiVPJoFWsJ31Kg7dvBxS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "gazetawroclawska.pl8 godz.",
-            "source": "gazetawroclawska.pl",
-            "article_content": "Content not available"
         }
     }
 ]
