@@ -10,7 +10,7 @@
             "description": "\u015awidnicka Gie\u0142da Staroci, Numizmat\u00f3w i Osobliwo\u015bci ma d\u0142ug\u0105 tradycj\u0119. Jest jedn\u0105 z najstarszych i najwi\u0119kszych tego typu ...",
             "image_url": "https://www.bing.pl/th?id=OVF.8JX78vN9Bsab2VMa9VeFbA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Gazeta Wroc\u0142awska on MSN1 godz.",
+            "date": "Gazeta Wroc\u0142awska on MSN6 godz.",
             "source": "Gazeta Wroc\u0142awska on MSN",
             "article_content": ""
         }
@@ -26,7 +26,7 @@
             "description": "Tadeusz Konieczny od lat ratuje histori\u0119 Pomorza i umieszcza j\u0105 w niezwyk\u0142ej izbie znajduj\u0105cej si\u0119 przy jego domu w Starym ...",
             "image_url": "https://www.bing.pl/th?id=OVF.WZTLEnvX9dn8Fk4aAdDOwA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Nasze Miasto on MSN11 godz.",
+            "date": "Nasze Miasto on MSN17 godz.",
             "source": "Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -37,13 +37,29 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Przegl\u0105d prasy 4.03.2025. Zestawili\u015bmy dla Ciebie najwa\u017cniejsze wydarzenia z wczoraj. Zobacz nasz\u0105 pras\u00f3wk\u0119",
-            "link": "https://wspolczesna.pl/przeglad-prasy-4-03-2025-zestawilismy-dla-ciebie-najwazniejsze-wydarzenia-z-wczoraj-zobacz-nasza-prasowke/ar/c1p1-19960917",
-            "description": "Poznali\u015bmy fina\u0142ow\u0105 \"14\" pi\u0119knych pa\u0144 z p\u00f3\u0142nocno-wschodniej Polski, kt\u00f3re powalcz\u0105 o tytu\u0142 Miss Polonia Wojew\u00f3dztwa ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.vvo-NXp_vp4-1F55GKt3by&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Wiadomo\u015b\u0107 Premiera GTA 5 Enhanced. Rockstar przygotowa\u0142 najlepsz\u0105 wersj\u0119 kultowej gry w historii",
+            "link": "https://www.gry-online.pl/S043.asp?ID=16688603",
+            "description": "GRY AKCJI. Wielki sukces Rockstara - to, \u017ce w \u015bwiadomo\u015bci graczy tytu\u0142 z 2013(!) roku nie figuruje jako staro\u0107. Popatrzcie na inne gry z tego roku, chocia\u017cby AC4: Black Flag, Crysis 3, albo Bioshock I ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.SlkachxxdRcMFI-CbWu_lg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "wspolczesna.pl16 godz.",
-            "source": "wspolczesna.pl",
+            "date": "gry-online.pl15 godz.",
+            "source": "gry-online.pl",
+            "article_content": "Hmm kurcz\u0119, jak pobra\u0107 t\u0105 aktualizacj\u0119? Mam gr\u0119 na STEAM, ale nic nie mog\u0119 pobra\u0107, natomiast w ROCKSTAR LAUNCHER mam opcj\u0119 kupna GTA V ENHANCED, opr\u00f3cz tego mam w launcherze normalnie dost\u0119pne GTA V. Kto\u015b, co\u015b ???\n\nEDIT: dobra zrestartowa\u0142em STEAMa i pojawi\u0142o si\u0119 GTA V ENHANCED w bibliotece"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Przegl\u0105d prasy 4.03.2025. Zestawili\u015bmy dla Ciebie najwa\u017cniejsze wydarzenia z wczoraj. Zobacz nasz\u0105 pras\u00f3wk\u0119",
+            "link": "https://poranny.pl/przeglad-prasy-4-03-2025-zestawilismy-dla-ciebie-najwazniejsze-wydarzenia-z-wczoraj-zobacz-nasza-prasowke/ar/c1p1-19960907",
+            "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 3.03.",
+            "image_url": "https://www.bing.pl/th?id=OVFT.NrS0vuvErcMhl3RUFJQqMy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Poranny21 godz.",
+            "source": "Poranny",
             "article_content": "Content not available"
         }
     },
@@ -58,24 +74,8 @@
             "description": "Rzadko\u015b\u0107 - im rzadziej dana moneta lub banknot by\u0142y emitowane, tym wy\u017csza ich warto\u015b\u0107. Cz\u0119sto poszukiwane s\u0105 edycje pr\u00f3bne lub emisje okoliczno\u015bciowe, kt\u00f3re zosta\u0142y wydane w ma\u0142ych nak\u0142adach.",
             "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "Gazeta Pomorska on MSN8 godz.",
+            "date": "Gazeta Pomorska on MSN7 godz.",
             "source": "Gazeta Pomorska on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Te monety s\u0105 warte du\u017co wi\u0119cej ni\u017c my\u015blisz. Zobacz czego szukaj\u0105 numizmatycy 4.03.2025",
-            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/te-monety-s%C4%85-warte-du%C5%BCo-wi%C4%99cej-ni%C5%BC-my%C5%9Blisz-zobacz-czego-szukaj%C4%85-numizmatycy-25022025/ar-AA1zKC8Y?ocid=BingNewsVerp",
-            "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet zwyk\u0142a pi\u0119cioz\u0142ot\u00f3wka mo\u017ce mie\u0107 wielokrotnie wi\u0119ksz\u0105 warto\u015b\u0107 ni\u017c nomina\u0142.",
-            "image_url": "https://www.bing.plNo image",
-            "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski on MSN14 godz.",
-            "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
     },
@@ -90,8 +90,24 @@
             "description": "B\u0105d\u017a szczeg\u00f3lnie uwa\u017cny sprz\u0105taj\u0105c swoje szuflady. Cenne okazy mog\u0105 kurzy\u0107 si\u0119 w zapomnieniu, a monety z PRL mog\u0105 by\u0107 czasami warte fortun\u0119. Sprawd\u017a sam, czego szuka\u0107! Prawie w ka\u017cdym polskim domu zna ...",
             "image_url": "https://www.bing.plNo image",
             "category": "stare+monety",
-            "date": "G\u0142os Szczeci\u0144ski on MSN11 godz.",
+            "date": "G\u0142os Szczeci\u0144ski on MSN16 godz.",
             "source": "G\u0142os Szczeci\u0144ski on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Te monety s\u0105 warte du\u017co wi\u0119cej ni\u017c my\u015blisz. Zobacz czego szukaj\u0105 numizmatycy 4.03.2025",
+            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/te-monety-s%C4%85-warte-du%C5%BCo-wi%C4%99cej-ni%C5%BC-my%C5%9Blisz-zobacz-czego-szukaj%C4%85-numizmatycy-25022025/ar-AA1zKC8Y?ocid=BingNewsVerp",
+            "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet zwyk\u0142a pi\u0119cioz\u0142ot\u00f3wka mo\u017ce mie\u0107 wielokrotnie wi\u0119ksz\u0105 warto\u015b\u0107 ni\u017c nomina\u0142.",
+            "image_url": "https://www.bing.plNo image",
+            "category": "stare+monety",
+            "date": "G\u0142os Koszali\u0144ski on MSN19 godz.",
+            "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
     },
@@ -106,7 +122,7 @@
             "description": "\u015amia\u0142o mo\u017cna stwierdzi\u0107, \u017ce przedmioty z okresu PRL prze\u017cywaj\u0105 w naszym kraju niejako sw\u00f3j renesans. Chocia\u017c by\u0142y to trudne czasy w historii naszego kraju, wiele os\u00f3b wraca do nich z sentymentem. Mimo ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "gk24.pl15 godz.",
+            "date": "gk24.pl20 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -122,7 +138,7 @@
             "description": "Te urocze ma\u0142e ma\u015blane kurczaczki s\u0105 bardzo proste w przygotowaniu. Wystarczy posmarowa\u0107 krakersy mas\u0142em, rozgnie\u015b\u0107 widelcem ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.mREow7C80tB7FQyK1up57C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "2 godz.on MSN",
+            "date": "7 godz.on MSN",
             "source": "Dailymotion on MSN",
             "article_content": ""
         }
@@ -138,7 +154,7 @@
             "description": "Porcelana z PRL zajmuje wyj\u0105tkowe miejsce w polskiej kulturze, oddaj\u0105c ducha minionych lat. Zakorzeniona w historii Polskiej ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.5dtWIPVNE5gFDRdWIeeypi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "gp24.pl on MSN13 godz.",
+            "date": "gp24.pl on MSN18 godz.",
             "source": "gp24.pl on MSN",
             "article_content": ""
         }
@@ -149,13 +165,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Kryszta\u0142y PRL poszukiwane przez kolekcjoner\u00f3w 2025. Tyle trzeba zap\u0142aci\u0107 za kryszta\u0142owe naczynia [4.03.2025]",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/kryszta%C5%82y-prl-poszukiwane-przez-kolekcjoner%C3%B3w-2025-tyle-trzeba-zap%C5%82aci%C4%87-za-kryszta%C5%82owe-naczynia-4032025-r/ar-AA1yan8h?ocid=BingNewsVerp",
-            "description": "Kryszta\u0142y produkowane w PRL-u s\u0105 obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli posiadasz ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.Ac%2bkmaImCo%2fnUddmElj3Cw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Kryszta\u0142y PRL poszukiwane przez kolekcjoner\u00f3w 2025. Tyle trzeba zap\u0142aci\u0107 za kryszta\u0142owe naczynia [5.03.2025]",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/kryszta%C5%82y-prl-poszukiwane-przez-kolekcjoner%C3%B3w-2025-tyle-trzeba-zap%C5%82aci%C4%87-za-kryszta%C5%82owe-naczynia-2022025-r/ar-AA1yan8h?ocid=BingNewsVerp",
+            "description": "Kryszta\u0142y produkowane w PRL-u s\u0105 obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli posiadasz kryszta\u0142y z tamtych czas\u00f3w, warto przyjrze\u0107 si\u0119 im bli\u017cej \u2013 by\u0107 mo\u017ce masz w ...",
+            "image_url": "https://www.bing.plNo image",
             "category": "stara+porcelana",
-            "date": "Pomorska on MSN13 godz.",
-            "source": "Pomorska on MSN",
+            "date": "Gazeta Pomorska on MSN5 godz.",
+            "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
     },
@@ -170,8 +186,24 @@
             "description": "Unikalne antyki poszukiwane przez kolekcjoner\u00f3w mog\u0105 zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na nich zarobi\u0107 fortun\u0119. Cz\u0119sto nie mamy \u015bwiadomo\u015bci, \u017ce przedmioty posiadane w domu warte s\u0105 du\u017co pieni\u0119dzy.",
             "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "gp24.pl14 godz.",
+            "date": "gp24.pl19 godz.",
             "source": "gp24.pl",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Te monety z PRL s\u0105 warte ogromne pieni\u0105dze! Zap\u0142acisz za nie nawet kilkana\u015bcie tysi\u0119cy z\u0142otych! Tyle kosztuj\u0105 monety z PRL 4.03.2025",
+            "link": "https://gk24.pl/te-monety-z-prl-sa-warte-ogromne-pieniadze-zaplacisz-za-nie-nawet-kilkanascie-tysiecy-zlotych-tyle-kosztuja-monety-z-prl-4032025/ar/c3-19042098",
+            "description": "\u015amia\u0142o mo\u017cna stwierdzi\u0107, \u017ce przedmioty z okresu PRL prze\u017cywaj\u0105 w naszym kraju niejako sw\u00f3j renesans. Chocia\u017c by\u0142y to trudne czasy w historii naszego kraju, wiele os\u00f3b wraca do nich z sentymentem. Mimo ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stara+porcelana",
+            "date": "gk24.pl20 godz.",
+            "source": "gk24.pl",
             "article_content": "Content not available"
         }
     },
@@ -186,25 +218,9 @@
             "description": "Josef Fares obieca\u0142, \u017ce Split Fiction b\u0119dzie jedn\u0105 z najlepszych produkcji, w jakie kiedykolwiek zagramy. I cho\u0107 daleko mi do ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.kmrMSYdyyU9TW6TlcMF3YC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "cdaction4 godz.",
+            "date": "cdaction9 godz.",
             "source": "cdaction",
             "article_content": "\u201eFucking shit up\u201d. My\u015blicie mo\u017ce, \u017ce to jeden z wers\u00f3w nowego utworu Eminema? Albo kwestia dialogowa z GTA: San Andreas? Ewentualnie ostatnie s\u0142owa buldoga angielskiego zanim zacznie aportowa\u0107 w sk\u0142adzie porcelany? Ot\u00f3\u017c nie. Mowa bowiem o mantrze. Pewnego rodzaju filozofii designerskiej. Josef Fares \u2013 w swoim stylu \u2013 twierdzi, \u017ce taka \u015bwiat\u0142a idea przy\u015bwieca developerom z Hazelight na co dzie\u0144, przy projektowaniu ka\u017cdego poziomu z osobna. \u201eRozsadzanie ekskrementu\u201d, istna s\u00f3l game designu.\n\nNie da si\u0119 ukry\u0107 post\u0119puj\u0105cej na przestrzeni lat formalnej radykalizacji w grach wspomnianego sztokholmskiego studia. Podczas gdy kultowe Brothers zrealizowane zosta\u0142o w konwencji stosunkowo mrocznej i surowej ba\u015bni, tak A Way Out wrzuci\u0142o wy\u017cszy bieg, serwuj\u0105c odbiorcom sk\u0105panego w ameryka\u0144skich kliszach akcyjniaka. It Takes Two jeszcze mocniej podkr\u0119ci\u0142o tempo, czyni\u0105c z tr\u00f3jwymiarowego platformera istny teatr atrakcji oraz audiowizualnych bod\u017ac\u00f3w, a na jak\u017ce s\u0142odki deser serwuj\u0105c tortury na pluszowym s\u0142oniku.\n\nSplit Fiction\n\nA Split Fiction? Da\u0142oby si\u0119 pewnie je sprowadzi\u0107 do przemaglowanej w wielu recenzjach formu\u0142ki \u201ewi\u0119cej, g\u0142o\u015bniej i lepiej\u201d. Tylko, \u017ce to... najwi\u0119cej, najg\u0142o\u015bniej i najlepiej. Gra, kt\u00f3ra z etapu na etap rywalizuje wy\u0142\u0105cznie sama ze sob\u0105, nieustannie podnosi poprzeczk\u0119, a konkurencj\u0119 zostawia na samym dole \u2013 no wykapany Armand Duplantis asymetrycznych co-op\u00f3w. To zr\u0119czno\u015bci\u00f3wka pr\u00f3buj\u0105ca w najmniej oczekiwanych momentach wymy\u015bla\u0107 si\u0119 na nowo, igra\u0107 z oczekiwaniami odbiorcy, zapewnia\u0107 mu regularnie skoki dopaminowe, a przy okazji popisywa\u0107 si\u0119 swoj\u0105 oryginalno\u015bci\u0105 oraz miejscami wr\u0119cz groteskow\u0105 spektakularno\u015bci\u0105. Split Fiction najpewniej ani przez chwil\u0119 was nie znudzi, ale ju\u017c na pewno przebod\u017acuje i sponiewiera.\n\nFakcepcja\n\nTo sensoryczne przeci\u0105\u017cenie jest \u2013 o dziwo \u2013 do\u015b\u0107 solidnie uzasadnione od strony scenariuszowej. Pogr\u0105\u017cone w kryzysie ekonomicznym pisarki ma\u0142o subtelnych powie\u015bci gatunkowych planuj\u0105 podpisa\u0107 umow\u0119 wydawnicz\u0105 ze stereotypowymi korpog\u0142owami. Jak jednak uczy nas p\u00f3\u017any kapitalizm, nie zawsze ko\u0144czy si\u0119 to dobrze, a wi\u0119c naiwniaczki (co si\u0119 zw\u0105 Zoe i Mio) zamiast zabezpieczy\u0107 sobie przysz\u0142o\u015b\u0107, trafiaj\u0105 do maszyny symuluj\u0105cej fabu\u0142y spod ich pi\u00f3ra i zaprogramowanej na przes\u0142anie wszystkich autorskich pomys\u0142\u00f3w do firmowej bazy danych.\n\nSplit Fiction\n\nZ do\u015b\u0107 losowych przyczyn protagonistki l\u0105duj\u0105 jednak w tej samej wirtualnej rzeczywisto\u015bci, wi\u0119c pr\u00f3buj\u0105 wsp\u00f3lnie pokrzy\u017cowa\u0107 plany jak\u017ce z\u0142owieszczego CEO, szukaj\u0105c w swych wyobra\u017ceniach gliczy o magicznej mocy rozszczepiania deeptechowego limbo. A jako \u017ce Zoe to przede wszystkim fantastka, z kolei Mio siedzi g\u0142\u00f3wnie w sci-fi, to podr\u00f3\u017cuj\u0105 raz przez staro\u017cytn\u0105, przepe\u0142nion\u0105 kolorami krain\u0119 smok\u00f3w, a kiedy indziej skacz\u0105 pomi\u0119dzy neonowymi reklamami z cybernetyczn\u0105 katan\u0105 w d\u0142oni i motocyklem rodem z \u201eAkiry\u201d pod zadkiem.\n\nTaka koncepcja czyni ze Split Fiction studni\u0119 bez dna pod wzgl\u0119dem mo\u017cliwo\u015bci kreacji mikro\u015bwiat\u00f3w. I cho\u0107 gameplayowo oraz wizualnie otwiera to gr\u0119 na istn\u0105 feeri\u0119 barw, mieszank\u0119 konwencji oraz multum opcji zabawy, tak poznawane historie wydaj\u0105 si\u0119 p\u0142ytkie i szablonowe, nawet je\u015bli pr\u00f3buj\u0105 odbija\u0107 osobiste traumy bohaterek czy stany ich pod\u015bwiadomo\u015bci. Nie spodziewajcie si\u0119 introspekcyjnego m\u00f3zgotrzepu pokroju Psychonaut\u00f3w czy Alana Wake\u2019a, a bardziej lekkiej, miejscami taniej opowiastki w duchu przygodowym. A i satyra na ambitne, \u201emuskopodobne\u201d start-upy to do\u015b\u0107 kiepska, bo usilnie przerysowuj\u0105ca g\u0142\u00f3wny w\u0105tek. Dialogi spiskuj\u0105cych przeciw m\u0142odocianym artystkom cz\u0142onk\u00f3w zarz\u0105du raczej puszcz\u0119 w niepami\u0119\u0107. It Takes Two pod k\u0105tem tre\u015bci wypad\u0142o du\u017co, du\u017co m\u0105drzej i naturalniej.\n\nSplit Fiction\n\nEffing things up\n\nNie dla czczego gadania przemierza\u0142em jednak te pokr\u0119cone fikcyjne uniwersa. Chcia\u0142em (wraz z narzeczon\u0105) w nich przede wszystkim gra\u0107, gra\u0107 i gra\u0107. No i gra\u0144sko to rzeczywi\u015bcie najwy\u017cszej pr\u00f3by. Platformer godny wymieniania w jednym z rz\u0119dzie z najlepszymi Metroidami, Marianami, Zeldami czy nawet Donkey Kongami. Bo prawd\u0119 m\u00f3wi\u0105c, znajdziemy tu po trosz\u0119 z ka\u017cdego zr\u0119czno\u015bciowego IP Nintendo, tyle \u017ce w kooperacyjnym wydaniu, jakiego nawet Big N mog\u0142oby pozazdro\u015bci\u0107.\n\nCho\u0107 akcj\u0119 \u015bledzimy przewa\u017cnie z klasycznej trzecioosobowej kamery na podzielonym ekranie, to zdarza si\u0119, \u017ce perspektywa ulega nag\u0142ym zmianom. Nie brakuje tu np. typowo sidescrollowych poziom\u00f3w 2,5D, w kt\u00f3rych niczym Samus Aran przemierzamy w kulistej formie pinballowe (tak, dobrze przeczytali\u015bcie) platformy. Nie zdziwcie si\u0119 te\u017c, gdy nagle zaczniecie pyka\u0107 w izometrycznego hack\u2019n\u2019slasha pokroju Darkside: Genesis, ale z udzia\u0142em smok\u00f3w.\n\nSplit Fiction\n\nCzasem przyjdzie nam tak\u017ce zasmakowa\u0107 wysooktanowej, autorunnerowej rozrywki, steruj\u0105c rozp\u0119dzonymi pojazdami przy akompamniamencie wsz\u0119dobylskich wybuch\u00f3w, kt\u00f3rych liczba przekracza limity wyznaczone przez Michaela Baya. A raz na ruski rok stawia si\u0119 tu na wyj\u0105tkowo asymetryczne mechaniki kooperacyjne: jeden z graczy jest stw\u00f3rc\u0105 manipuluj\u0105cym otoczeniem, a drugi po prostu ma dociera\u0107 z punktu A do punktu B.\n\nkcufdniM\n\nG\u0142\u00f3wnych etap\u00f3w znajdziemy tu niewiele i opieraj\u0105 si\u0119 one na paru dominuj\u0105cych mechanikach, ale ka\u017cdy z nich to tu\u0142aczka na kilka godzin oraz niemal ci\u0105g\u0142a rotacja \u2013 nazwijmy to tak na potrzeby opisu Split Fiction \u2013 mechanik pobocznych. Przyk\u0142adowo: jeden z leveli pozwala na zmian\u0119 form. Zoe mo\u017ce sta\u0107 si\u0119 mikroskopijn\u0105, lataj\u0105c\u0105 wr\u00f3\u017ck\u0105 lub podr\u00f3b\u0105 Groota wchodz\u0105c\u0105 w synergi\u0119 z lasem. Z kolei Mio przyjmuje posta\u0107 albo wielkiej ma\u0142py zdolnej do wspinaczki i rozwa\u0142ki, albo krzy\u017c\u00f3wki aksolotla i wydry, potrafi\u0105cej p\u0142ywa\u0107 i nurkowa\u0107.\n\nR\u00f3\u017cnorodno\u015b\u0107 i pomys\u0142owo\u015b\u0107 w projektach poziom\u00f3w zadziwiaj\u0105, bo nawet umiej\u0119tno\u015bci, kt\u00f3rych u\u017cywamy ju\u017c d\u0142u\u017cszy czas, wci\u0105\u017c i wci\u0105\u017c znajduj\u0105 nowe zastosowania: pozwalaj\u0105 na rozwi\u0105zanie nietypowej zagadki \u015brodowiskowej lub nagle zostaj\u0105 wykorzystane jako bro\u0144. Split Fiction \u2013 zale\u017cnie nie od levelu, a pojedynczej SEKWENCJI \u2013 potrafi by\u0107 nawet strzelank\u0105, wy\u015bcig\u00f3wk\u0105 czy gr\u0105 sportow\u0105. I \u017cadnego z tych skok\u00f3w w bok nie odb\u0119bniono na p\u00f3\u0142 gwizdka. Nawet tymczasowa zmiana gatunku wi\u0105\u017ce si\u0119 tu z zadbaniem czy to o satysfakcjonuj\u0105cy gunplay i nadanie odpowiedniego ci\u0119\u017caru b\u0105d\u017a pr\u0119dko\u015bci ruchom, czy te\u017c o w\u0142a\u015bciwe dostosowanie zasad gry oraz zachowania otoczenia pod nasze nowe zdolno\u015bci.\n\nSplit Fiction\n\nA nie wspomnia\u0142em jeszcze o tym, \u017ce znale\u017a\u0107 tu mo\u017cna tak\u017ce poziomy dodatkowe, b\u0119d\u0105ce odzwierciedleniem nigdy niewydanych opowiada\u0144 pisarek. Czasem to ledwie kilkuminutowe miniatury przyci\u0105gaj\u0105ce nas pojedynczym bajerem, ale w owych alternatywnych \u015bwiatach kryj\u0105 si\u0119 r\u00f3wnie\u017c autonomiczne opowie\u015bci z szeregiem nowych wolt gameplayowych. Zreszt\u0105, graj\u0105c w Split Fiction, cz\u0119sto mia\u0142em poczucie, \u017ce niekt\u00f3rych rzeczy nie trzeba by\u0142o dodawa\u0107 \u2013 \u017ce wystarczy\u0142oby mi na ten moment to, co mam. Ale nie z Faresem takie numery. Tutaj lokomotywa musi popyla\u0107 z pr\u0119dko\u015bci\u0105 \u015bwiat\u0142a, nawet je\u015bli grozi jej zderzenie czo\u0142owe.\n\nR\u0119ka, noga, m\u00f3zg na \u015bcianie!\n\nP\u0119dzi\u0107 przed siebie mog\u0142em o tyle, \u017ce gra na PS5 nie sprawia\u0142a niemal \u017cadnych problem\u00f3w technicznych. Sta\u0142e 60 klatek na sekund\u0119 towarzyszy\u0142o mi niezale\u017cnie od nat\u0119\u017cenia eksplozji i element\u00f3w cz\u0105steczkowych na ekranie, a i pod tym k\u0105tem Hazelight kr\u0119ci si\u0119 w pobli\u017cu rekordu Guinnessa. Jedynym powa\u017cniejszym problemem, kt\u00f3ry teoretycznie da\u0142oby si\u0119 uzna\u0107 za buga, by\u0142 do\u015b\u0107 chaotyczny system odradzania si\u0119 postaci. Zw\u0142aszcza kiedy du\u017co si\u0119 dzia\u0142o (czyli co jakie\u015b pi\u0119\u0107 minut). Ot\u00f3\u017c postacie miewa\u0142y tendencj\u0119 do \u201erespienia\u201d si\u0119 nad przepa\u015bci\u0105, pod pod\u0142o\u017cem albo na przeciwniku (co automatycznie skutkowa\u0142o otrzymaniem obra\u017ce\u0144, a nawet i \u015bmierci\u0105).\n\nPo powy\u017cszych zachwytach bez dw\u00f3ch zda\u0144 mog\u0119 te\u017c powiedzie\u0107, \u017ce dzi\u0119ki Split Fiction Unreal Engine 5 w ko\u0144cu pokazuje potencja\u0142 oraz pazur, i to pomimo faktu, \u017ce grafika jest tu raczej mocno stylizowana. Liczba detali na ekranie, wyrazista kolorystyka te\u0142 i z\u0142o\u017cono\u015b\u0107 krajobraz\u00f3w ciesz\u0105 oczy, a postacie \u2013 mimo \u017ce ich projekty nie sil\u0105 si\u0119 na fotorealizm \u2013 odznaczaj\u0105 si\u0119 przekonuj\u0105c\u0105 mimik\u0105 twarzy. W parze z porz\u0105dnym aktorstwem g\u0142osowym daje to efekt obcowania z kim\u015b namacalnym. Ich ruchy cia\u0142a mog\u0142yby za to wygl\u0105da\u0107 odrobin\u0119 bardziej autentycznie, a mniej gi\u0119tko i slapstickowo, ale to przeszkadza tylko w przerywnikach filmowych. W samej rozgrywce za\u015b daje przyjemne poczucie dynamizmu.\n\nSplit Fiction\n\nCzy to nie znamienne, \u017ce w dniu recenzowania Split Fiction nie pami\u0119tam ju\u017c wszystkich mechanik, kt\u00f3rymi torpedowa\u0142a mnie i narzeczon\u0105 gra? Kto\u015b powiedzia\u0142by, \u017ce co za du\u017co, to niezdrowo, ale przypominam sobie oscarowe \u201eWszystko wsz\u0119dzie naraz\u201d i te\u017c nie potrafi\u0119 przywo\u0142a\u0107 wszystkich zmontowanych w nim migawkowo scen. I w zasadzie nie musz\u0119, aby wiedzie\u0107, jak na mnie wp\u0142yn\u0119\u0142y, i m\u00f3c doceni\u0107 film jako ca\u0142o\u015b\u0107. No pewnie, \u017ce Split Fiction to dzicz. No jasne, \u017ce Split Fiction to czysty chaos. Ale w tym szwedzkim szale\u0144stwie jest metoda. Metoda zwana \u201erozsadzaniem ekskrementu\u201d.\n\nW Split Fiction grali\u015bmy na PS5."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Te monety z PRL s\u0105 warte ogromne pieni\u0105dze! Zap\u0142acisz za nie nawet kilkana\u015bcie tysi\u0119cy z\u0142otych! Tyle kosztuj\u0105 monety z PRL 4.03.2025",
-            "link": "https://gk24.pl/te-monety-z-prl-sa-warte-ogromne-pieniadze-zaplacisz-za-nie-nawet-kilkanascie-tysiecy-zlotych-tyle-kosztuja-monety-z-prl-4032025/ar/c3-19042098",
-            "description": "\u015amia\u0142o mo\u017cna stwierdzi\u0107, \u017ce przedmioty z okresu PRL prze\u017cywaj\u0105 w naszym kraju niejako sw\u00f3j renesans. Chocia\u017c by\u0142y to trudne czasy w historii naszego kraju, wiele os\u00f3b wraca do nich z sentymentem. Mimo ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stara+porcelana",
-            "date": "gk24.pl15 godz.",
-            "source": "gk24.pl",
-            "article_content": "Content not available"
         }
     },
     {
@@ -218,7 +234,7 @@
             "description": "\u015awidnicka Gie\u0142da Staroci, Numizmat\u00f3w i Osobliwo\u015bci ma d\u0142ug\u0105 tradycj\u0119. Jest jedn\u0105 z najstarszych i najwi\u0119kszych tego typu ...",
             "image_url": "https://www.bing.pl/th?id=OVF.8JX78vN9Bsab2VMa9VeFbA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Gazeta Wroc\u0142awska on MSN1 godz.",
+            "date": "Gazeta Wroc\u0142awska on MSN6 godz.",
             "source": "Gazeta Wroc\u0142awska on MSN",
             "article_content": ""
         }
@@ -234,7 +250,7 @@
             "description": "Unikalne antyki poszukiwane przez kolekcjoner\u00f3w mog\u0105 zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na nich zarobi\u0107 fortun\u0119. Cz\u0119sto nie mamy \u015bwiadomo\u015bci, \u017ce przedmioty posiadane w domu warte s\u0105 du\u017co pieni\u0119dzy.",
             "image_url": "https://www.bing.pl/th?id=ODF.z8szwJPfOZTDo97HvHYzSw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Poranny14 godz.",
+            "date": "Poranny19 godz.",
             "source": "Poranny",
             "article_content": "Content not available"
         }
@@ -250,7 +266,7 @@
             "description": "Rozpocz\u0119\u0142a si\u0119 coroczna kwalifikacja wojskowa w powiecie \u017carskim. Komisja lekarska przez niemal miesi\u0105c pracowa\u0107 b\u0119dzie w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.AHLkqEu1aHIZVl5oQmDY7i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "zachod9 godz.",
+            "date": "zachod14 godz.",
             "source": "zachod",
             "article_content": "Content not available"
         }
@@ -266,7 +282,7 @@
             "description": "Centrum Krwiodawstwa i Krwiolecznictwa w \u017barach oraz Klub Krwiodawc\u00f3w OSP Gminy \u017bary zapraszaj\u0105 stra\u017cak\u00f3w oraz mieszka\u0144c\u00f3w do honorowego oddania krwi.",
             "image_url": "https://www.bing.pl/th?id=ODF.YOku2jV4G43w2F6davb6nw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "zachod10 godz.",
+            "date": "zachod15 godz.",
             "source": "zachod",
             "article_content": "Content not available"
         }
@@ -278,12 +294,28 @@
         },
         "body": {
             "title": "To tu mia\u0142 by\u0107 nowoczesny hotel w Poznaniu. Robotnicy przerwali prace na budowie. Co si\u0119 dzieje z Four Points by Sheraton? Zobaczcie zdj\u0119cia",
-            "link": "https://gloswielkopolski.pl/to-tu-mial-byc-nowoczesny-hotel-w-poznaniu-robotnicy-przerwali-prace-na-budowie-co-sie-dzieje-z-four-points-by-sheraton-zobaczcie-zdjecia/ar/c1p2-27292209",
-            "description": "Obiekt nale\u017cy do Polskiego Holdingu Hotelowego i mia\u0142 dzia\u0142a\u0107 pod mark\u0105 Four Points by Sheraton. Obiekt przechodzi\u0142 gruntown\u0105 modernizacj\u0119 i rozbudow\u0119. Prace trwa\u0142y te\u017c na terenach wok\u00f3\u0142 obiektu. Od ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.U-Vp0xK7SYVhjnH4oToWdw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "link": "https://www.msn.com/pl-pl/podroze/news/to-tu-mia%C5%82-by%C4%87-nowoczesny-hotel-w-poznaniu-robotnicy-przerwali-prace-na-budowie-co-si%C4%99-dzieje-z-four-points-by-sheraton-zobaczcie-zdj%C4%99cia/ar-AA1Acz0S?ocid=BingNewsVerp",
+            "description": "W pierwszym p\u00f3\u0142roczu tego roku mia\u0142y si\u0119 zako\u0144czy\u0107 prace modernizacyjne. Mieszka\u0144cy Poznania od 2022 roku ogl\u0105dali remont ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.dYGQtqVxM2yLPYq734eRHi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "gloswielkopolski13 godz.",
-            "source": "gloswielkopolski",
+            "date": "Nasze Miasto on MSN17 godz.",
+            "source": "Nasze Miasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Trasy nordic walking do 6 km od Ko\u0142obrzegu. Pomys\u0142y na odrobin\u0119 ruchu - weekend 8 - 9 marca",
+            "link": "https://kolobrzeg.naszemiasto.pl/trasy-nordic-walking-do-6-km-od-kolobrzegu-pomysly-na-odrobine-ruchu-weekend-8-9-marca/ar/c7p1-22319027",
+            "description": "Rozgl\u0105dasz si\u0119 za nowymi trasami nordic walking w pobli\u017cu Ko\u0142obrzegu? Razem z Traseo przygotowali\u015bmy dla Ciebie kilka ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.jGRCcHDOu0G74wZ_Cs0WGi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "kolobrzeg.naszemiasto11 godz.",
+            "source": "kolobrzeg.naszemiasto",
             "article_content": "Content not available"
         }
     },
@@ -298,7 +330,7 @@
             "description": "Nim wyruszysz w drog\u0119, sprawd\u017a, jaka b\u0119dzie pogoda. W sobot\u0119 08 marca w Sieradzu ma by\u0107 17\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 09 marca w Sieradzu ma by\u0107 18\u00b0C. Nie b\u0119dzie pada\u0107. Stopie\u0144 trudno\u015bci: 2.0 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.2znMXsinn_2JLbFa36URyA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "sieradz.naszemiasto6 godz.",
+            "date": "sieradz.naszemiasto11 godz.",
             "source": "sieradz.naszemiasto",
             "article_content": "Content not available"
         }
@@ -314,9 +346,25 @@
             "description": "Nim wyruszysz, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 08 marca w woj. zachodniopomorskim ma by\u0107 od 3\u00b0C do 15\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 09 marca w woj. zachodniopomorskim ma by\u0107 od 4\u00b0C do 16\u00b0C. Nie ...",
             "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "gs24.pl6 godz.",
+            "date": "gs24.pl11 godz.",
             "source": "gs24.pl",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "W Szprotawie b\u0119dzie nowy, ciekawy pomnik przyrody!",
+            "link": "https://www.msn.com/pl-pl/podroze/news/w-szprotawie-b%C4%99dzie-nowy-ciekawy-pomnik-przyrody/ar-AA1AcUze?ocid=BingNewsVerp",
+            "description": "Rada Miejska w Szprotawie wkr\u00f3tce podejmie decyzj\u0119 w sprawie ustanowienia wyj\u0105tkowego pomnika przyrody nieo\u017cywionej. To ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.IDylRlfrt9aD2SL6_P2JuS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "Nasze Miasto on MSN15 godz.",
+            "source": "Nasze Miasto on MSN",
+            "article_content": ""
         }
     },
     {
@@ -330,7 +378,7 @@
             "description": "Podczas prac budowlanych od strony ul. J\u00f3zefczaka ods\u0142oni\u0119to mury \u015bwi\u0105tyni, kt\u00f3re prawdopodobnie pochodz\u0105 z ko\u0144ca XV wieku.",
             "image_url": "https://www.bing.pl/th?id=OVFT.72eZVECMEvwx3IJ7KT5wcS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Nasze Miasto on MSN9 godz.",
+            "date": "Nasze Miasto on MSN14 godz.",
             "source": "Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -341,30 +389,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "W Szprotawie b\u0119dzie nowy, ciekawy pomnik przyrody!",
-            "link": "https://www.msn.com/pl-pl/podroze/parki/w-szprotawie-b%C4%99dzie-nowy-ciekawy-pomnik-przyrody/ar-AA1AcUze?ocid=BingNewsVerp",
-            "description": "Rada Miejska w Szprotawie wkr\u00f3tce podejmie decyzj\u0119 w sprawie ustanowienia wyj\u0105tkowego pomnika przyrody nieo\u017cywionej. To ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.IDylRlfrt9aD2SL6_P2JuS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "Hostowane na MSN10 godz.",
-            "source": "MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
             "title": "Tusk opublikowa\u0142 nietypowe wideo. Nie kry\u0142 wzruszenia",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/tusk-opublikowa%C5%82-nietypowe-wideo-nie-kry%C5%82-wzruszenia/ar-AA1AfrCV?ocid=BingNewsVerp",
+            "link": "https://www.wprost.pl/zycie/11949634/donald-tusk-opublikowal-nietypowe-wideo-mial-wazny-powod.html",
             "description": "Donald Tusk z\u0142o\u017cy\u0142 podpisy na pracach podopiecznych z o\u015brodka w Prosz\u00f3wkach (wojew\u00f3dztwo ma\u0142opolskie). Chce im pom\u00f3c.",
-            "image_url": "https://www.bing.pl/th?id=OVFT.TdP4XHAw7fc4x3yj19X21y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "image_url": "https://www.bing.pl/th?id=OVFT.5bbyfduKqgBSnjMdJB-lpy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Wprost on MSN12 min",
-            "source": "Wprost on MSN",
-            "article_content": ""
+            "date": "WPROST6 godz.",
+            "source": "WPROST",
+            "article_content": "Premier opublikowa\u0142 kr\u00f3tkie wideo na platformie X, w trakcie kt\u00f3rego opowiada\u0142 o warsztatach terapii zaj\u0119ciowej. Podopieczni o\u015brodka w powiecie boche\u0144skim s\u0105 niezwykle uzdolnieni \u2013 szef rz\u0105du pokaza\u0142 prace, kt\u00f3re stworzyli. \u201eNaprawd\u0119 pi\u0119kne rzeczy\u201d \u2013 oceni\u0142.\n\n\u201eZawsze, kiedy ogl\u0105dam ich dzie\u0142a, jestem autentycznie wzruszony\u201d\n\nTusk przyzna\u0142, \u017ce dooko\u0142a dzieje si\u0119 mn\u00f3stwo wa\u017cnych rzeczy \u2013 zawirowania w polityce mi\u0119dzynarodowej, kwestie geopolityki i wojna w Ukrainie. Stwierdzi\u0142 jednak, \u017ce przy tych sprawach du\u017cej wagi s\u0105 tak\u017ce \u201esprawy niby ma\u0142e, a tak naprawd\u0119 chyba najwi\u0119ksze\u201d.\n\n\n\n\u201eJa tu w\u0142a\u015bnie pod dzie\u0142ami sztuki podpisuj\u0119 takie dedykacje, bo te dzie\u0142a sztuki trafi\u0105 na aukcj\u0119\u201d \u2013 wskaza\u0142. \u201eM\u00f3wi si\u0119, \u017ce jest wielk\u0105 sztuk\u0105 pomaga\u0107, a tutaj rzeczywi\u015bcie mamy do czynienia ze sztuk\u0105, kt\u00f3ra pomaga\u201d \u2013 powiedzia\u0142.\n\nSzef rz\u0105du poinformowa\u0142, \u017ce aukcja wesprze warsztaty terapii zaj\u0119ciowej. Sfinansuje prawdopodobnie ob\u00f3z rehabilitacyjny. Tusk po raz kolejny zaanga\u017cowa\u0142 si\u0119 w pomoc dla o\u015brodka \u2013 w ten sam spos\u00f3b podpisywa\u0142 si\u0119 pod dzie\u0142ami w ubieg\u0142ym roku.\n\nS\u0105 zdecydowanie warte uwagi \u2013 przedstawiaj\u0105 r\u00f3\u017cne miejsca w Gda\u0144sku \u2013 mi\u0119dzy innymi \u017buraw (zabytkowy d\u017awig portowy) czy Fontann\u0119 Neptuna na D\u0142ugim Targu. Podopieczni \u015bwietnie odwzorowali zar\u00f3wno jeden, jak i drugi symbol miasta. \u201eZawsze, kiedy ogl\u0105dam ich dzie\u0142a, jestem autentycznie wzruszony\u201d \u2013 zapewnia szef rady ministr\u00f3w.\n\nPlac\u00f3wka dzia\u0142a przy stowarzyszeniu AMICUS HOMINIS. Ma ponad 20 lat\n\nPlac\u00f3wka w Prosz\u00f3wkach funkcjonuje od ponad dw\u00f3ch dekad \u2013 przy stowarzyszeniu na rzecz ss\u00f3b specjalnej troski AMICUS HOMINIS, kt\u00f3re \u201eobejmuje terapi\u0105 rewalidacyjn\u0105 45 os\u00f3b z r\u00f3\u017cnymi dysfunkcjami\u201d \u2013 czytamy na Facebooku.\n\nOsoby kt\u00f3re chc\u0105 wesprze\u0107 dzia\u0142alno\u015b\u0107 o\u015brodka, proszone s\u0105 o przekazanie p\u00f3\u0142tora procenta podatku na rzecz podopiecznych WTZ. Numer KRS (Krajowym Rejestr S\u0105dowy): 0000316164.\n\ntwitterCzytaj te\u017c:\n\nNowe informacje ws. przej\u0119cia TVN. Donald Tusk zablokowa\u0142 W\u0119gr\u00f3w?Czytaj te\u017c:\n\nTusk zaskoczy\u0142 tu\u017c przed posiedzeniem rz\u0105du. \u201eWchodzimy w stref\u0119 turbulencji\u201d"
         }
     },
     {
@@ -378,7 +410,7 @@
             "description": "Czarne chmury zawis\u0142y nad gmin\u0105 Be\u0142chat\u00f3w, a w\u0142a\u015bciwie jej granicami. Gmina Kleszcz\u00f3w chce odzyska\u0107 tereny utracone pod ...",
             "image_url": "https://www.bing.pl/th?id=OVF.%2fLWaPgvImuLynLGieJSFoA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Be\u0142chat\u00f3w Naszemiasto on MSN7 godz.",
+            "date": "Be\u0142chat\u00f3w Naszemiasto on MSN12 godz.",
             "source": "Be\u0142chat\u00f3w Naszemiasto on MSN",
             "article_content": ""
         }
@@ -394,7 +426,7 @@
             "description": "Bud\u017cet sz\u00f3stej edycji programu M\u00f3j Pr\u0105d zosta\u0142 zwi\u0119kszony o dodatkowe 600 milion\u00f3w z\u0142otych - poinformowa\u0142 we wtorek resort ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.taJYd7BKHtnIal_UQyuCjC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "TVN247 godz.",
+            "date": "TVN2412 godz.",
             "source": "TVN24",
             "article_content": "Bud\u017cet sz\u00f3stej edycji programu M\u00f3j Pr\u0105d zosta\u0142 zwi\u0119kszony o dodatkowe 600 milion\u00f3w z\u0142otych - poinformowa\u0142 we wtorek resort klimatu i \u015brodowiska. Pierwotnie bud\u017cet tej edycji programu wynosi\u0142 400 milion\u00f3w z\u0142otych. Z programu mo\u017cna otrzyma\u0107 wsparcie do zakupu paneli fotowoltaicznych i magazyn\u00f3w energii.\n\n\"Ministerstwo Klimatu i \u015arodowiska wraz z Narodowym Funduszem Ochrony \u015arodowiska i Gospodarki Wodnej (NFO\u015aiGW) zwi\u0119kszy\u0142o bud\u017cet sz\u00f3stej edycji programu M\u00f3j Pr\u0105d o dodatkowe 600 mln z\u0142 do 1,85 mld z\u0142\" - poda\u0142o ministerstwo w komunikacie.\n\nDodano, \u017ce nab\u00f3r wniosk\u00f3w w programie M\u00f3j Pr\u0105d 6.0 b\u0119dzie prowadzony do 29 sierpnia br. lub do wyczerpania \u015brodk\u00f3w. Pocz\u0105tkowo nab\u00f3r wniosk\u00f3w by\u0142 planowany do 20 grudnia 2024 r., potem zosta\u0142 wyd\u0142u\u017cony do 6 marca 2025 r.\n\nCytowana w komunikacie minister klimatu Paulina Hennig-Kloska podkre\u015bli\u0142a, \u017ce M\u00f3j Pr\u0105d jest jednym z \"najwa\u017cniejszych program\u00f3w zmniejszaj\u0105cych emisje dwutlenku w\u0119gla i wysoko\u015b\u0107 rachunk\u00f3w Polak\u00f3w\", st\u0105d m.in. decyzja o zwi\u0119kszeniu bud\u017cetu programu i wyd\u0142u\u017ceniu naboru wniosk\u00f3w.\n\n\"Dzi\u0119ki obj\u0119ciu programem magazyn\u00f3w energii i ciep\u0142a zwi\u0119kszyli\u015bmy efektywno\u015b\u0107 nowych przydomowych instalacji PV i zmniejszamy op\u0142aty za energi\u0119 polskich rodzin\" - podkre\u015bli\u0142a szefowa resortu klimatu i \u015brodowiska.\n\nMinisterstwo poinformowa\u0142o, \u017ce do 3 marca br. w programie wp\u0142yn\u0119\u0142o niemal 83 tys. wniosk\u00f3w na 1,15 mld z\u0142. Dodano, \u017ce ponad 41 tys. wniosk\u00f3w na 585 mln z\u0142 dotyczy r\u00f3wnie\u017c dofinansowania magazyn\u00f3w energii elektrycznej, a ponad 13 tys. o warto\u015bci 61 mln z\u0142 - magazyn\u00f3w ciep\u0142a.\n\nM\u00f3j Pr\u0105d 6.0 - zasady\n\nZ programu mog\u0105 skorzysta\u0107 osoby fizyczne, kt\u00f3re wytwarzaj\u0105 energi\u0119 elektryczn\u0105 na w\u0142asne potrzeby i maj\u0105 zawart\u0105 umow\u0119 kompleksow\u0105 - umow\u0119 sprzeda\u017cy na wprowadzenie do sieci energii elektrycznej wytworzonej w mikroinstalacji. Dofinansowanie przyznawane jest w formie dotacji do 50 proc. koszt\u00f3w kwalifikowanych inwestycji.\n\nDofinansowanie mo\u017cna otrzyma\u0107 do instalacji paneli PV lub mikroinstalacji fotowoltaicznej wraz z magazynem energii lub magazynem ciep\u0142a. Wsparcie przeznaczone jest dla prosument\u00f3w (jednoczesnych producent\u00f3w i konsument\u00f3w pr\u0105du), kt\u00f3rzy ponie\u015bli wydatki na swoje instalacje fotowoltaiczne po 1 stycznia 2021 r.\n\nAby m\u00f3c skorzysta\u0107 z najnowszej edycji Mojego Pr\u0105du, prosument musi by\u0107 rozliczany w systemie net-billing. W przypadku instalacji PV zg\u0142oszonych do przy\u0142\u0105czenia do sieci od 1 sierpnia 2024 r., aby otrzyma\u0107 dotacj\u0119, trzeba zainwestowa\u0107 r\u00f3wnie\u017c w magazyn energii lub magazyn ciep\u0142a.\n\nW ramach sz\u00f3stej edycji programu dofinansowanie do mikroinstalacji PV w przypadku inwestycji tak\u017ce w magazyn energii lub/i magazyn ciep\u0142a wynosi do 7 tys. z\u0142, a bez niego \u2013 do 6 tys. z\u0142. Do magazynu energii cieplnej o minimalnej pojemno\u015bci 20 dm sze\u015bc. prosumenci mog\u0105 uzyska\u0107 do 5 tys. z\u0142 dofinasowania, a do magazynu energii elektrycznej o minimalnej pojemno\u015bci 2 kWh \u2013 do 16 tys. z\u0142.\n\nW dotychczasowych sze\u015bciu ods\u0142onach Mojego Pr\u0105du NFO\u015aiGW wyp\u0142aci\u0142 ponad 3 mld z\u0142 dotacji na realizacj\u0119 ponad 560 tys. inwestycji. Program finansowany jest z unijnego programu Fundusze Europejskie na Infrastruktur\u0119, Klimat, \u015arodowisko 2021-2027 (FEnIKS).\n\nNa pocz\u0105tku lutego br. prezes NFO\u015aiGW Dorota Zawadzka-St\u0119pniak informowa\u0142a, \u017ce trwaj\u0105 rozmowy na temat wyd\u0142u\u017cenia naboru wniosk\u00f3w w Moim Pr\u0105dzie 6.0 i zwi\u0119kszenia bud\u017cetu programu.\n\nAutorka/Autor:/ToL\n\n\u0179r\u00f3d\u0142o: PAP"
         }
@@ -410,7 +442,7 @@
             "description": "Zanim wyruszysz, sprawd\u017a, jaka b\u0119dzie pogoda. W sobot\u0119 08 marca w woj. \u015bl\u0105skim ma by\u0107 od 2\u00b0C do 17\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 09 marca w woj. \u015bl\u0105skim ma by\u0107 od 4\u00b0C do 18\u00b0C. Nie powinno pada\u0107.",
             "image_url": "https://www.bing.pl/th?id=ODF.73GKiv_kwPXUhIas-a0ZXQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "dziennikzachodni.pl6 godz.",
+            "date": "dziennikzachodni.pl11 godz.",
             "source": "dziennikzachodni.pl",
             "article_content": "Content not available"
         }
@@ -421,13 +453,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Gdzie na spacer w woj. lubelskim. Gdzie warto i\u015b\u0107 w weekend 8 - 9 marca? 10 najciekawszych tras",
-            "link": "https://kurierlubelski.pl/gdzie-na-spacer-w-woj-lubelskim-gdzie-warto-isc-w-weekend-8-9-marca-10-najciekawszych-tras/ar/c7p1-22116481",
-            "description": "Zanim wyruszysz, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 08 marca w woj. lubelskim ma by\u0107 od 2\u00b0C do 16\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 09 marca w woj. lubelskim ma by\u0107 od 3\u00b0C do 16\u00b0C. Nie powinno pada\u0107.",
-            "image_url": "https://www.bing.pl/th?id=ODF.lto-jgjLT22CJn-xbZRKjA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Przegl\u0105d prasy 4.03.2025. Zestawili\u015bmy dla Ciebie najwa\u017cniejsze wydarzenia z wczoraj. Zobacz nasz\u0105 pras\u00f3wk\u0119",
+            "link": "https://gp24.pl/przeglad-prasy-4-03-2025-zestawilismy-dla-ciebie-najwazniejsze-wydarzenia-z-wczoraj-zobacz-nasza-prasowke/ar/c1p1-19960927",
+            "description": "HOROSKOP DZIENNY. 3 marca 2025 roku przynosi r\u00f3\u017cnorodne wp\u0142ywy planetarne dla wszystkich znak\u00f3w zodiaku. To dzie\u0144 pe\u0142en ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.IuUY7M84a9xuCK-i1auZ9C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Kurier Lubelski6 godz.",
-            "source": "Kurier Lubelski",
+            "date": "gp24.pl21 godz.",
+            "source": "gp24.pl",
             "article_content": "Content not available"
         }
     },
@@ -439,10 +471,10 @@
         "body": {
             "title": "Te monety s\u0105 warte du\u017co wi\u0119cej ni\u017c my\u015blisz. Zobacz czego szukaj\u0105 numizmatycy 4.03.2025",
             "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/te-monety-s%C4%85-warte-du%C5%BCo-wi%C4%99cej-ni%C5%BC-my%C5%9Blisz-zobacz-czego-szukaj%C4%85-numizmatycy-25022025/ar-AA1zKC8Y?ocid=BingNewsVerp",
-            "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet zwyk\u0142a pi\u0119cioz\u0142ot\u00f3wka mo\u017ce mie\u0107 wielokrotnie wi\u0119ksz\u0105 warto\u015b\u0107 ni\u017c nomina\u0142.",
+            "description": "No description",
             "image_url": "https://www.bing.plNo image",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Koszali\u0144ski on MSN14 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN19 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
@@ -455,10 +487,10 @@
         "body": {
             "title": "Pieni\u0105dze z PRL poszukiwane przez kolekcjoner\u00f3w. Tyle kosztuj\u0105 stare banknoty i monety. Oto ceny i zdj\u0119cia [4.03.25]",
             "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/pieni%C4%85dze-z-prl-poszukiwane-przez-kolekcjoner%C3%B3w-tyle-kosztuj%C4%85-stare-banknoty-i-monety-oto-ceny-i-zdj%C4%99cia-28-02-2025/ar-AA1zYEWs?ocid=BingNewsVerp",
-            "description": "Rzadko\u015b\u0107 - im rzadziej dana moneta lub banknot by\u0142y emitowane, tym wy\u017csza ich warto\u015b\u0107. Cz\u0119sto poszukiwane s\u0105 edycje pr\u00f3bne lub emisje okoliczno\u015bciowe, kt\u00f3re zosta\u0142y wydane w ma\u0142ych nak\u0142adach.",
+            "description": "No description",
             "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Pomorska on MSN8 godz.",
+            "date": "Gazeta Pomorska on MSN7 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -469,14 +501,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Taka 5 z\u0142ot\u00f3wka i inne monety s\u0105 w cenie z\u0142ota. Sprawd\u017a, ile mo\u017cna na nich zarobi\u0107!",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/taka-5-z%C5%82ot%C3%B3wka-i-inne-monety-s%C4%85-w-cenie-z%C5%82ota-sprawd%C5%BA-ile-mo%C5%BCna-na-nich-zarobi%C4%87/ar-AA1zlLU9?ocid=BingNewsVerp",
-            "description": "Obecnie kolekcjonowanie r\u00f3\u017cnych rzeczy cieszy si\u0119 du\u017c\u0105 popularno\u015bci\u0105. Niekt\u00f3rzy przechowuj\u0105 przedmioty, meble, zabawki, ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.HWzaOzIrx_ukoLz1Y0QaDC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Kryszta\u0142y PRL poszukiwane przez kolekcjoner\u00f3w 2025. Tyle trzeba zap\u0142aci\u0107 za kryszta\u0142owe naczynia [5.03.2025]",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/kryszta%C5%82y-prl-poszukiwane-przez-kolekcjoner%C3%B3w-2025-tyle-trzeba-zap%C5%82aci%C4%87-za-kryszta%C5%82owe-naczynia-2022025-r/ar-AA1yan8h?ocid=BingNewsVerp",
+            "description": "No description",
+            "image_url": "https://www.bing.plNo image",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Pomorska on MSN22 godz.",
+            "date": "Gazeta Pomorska on MSN5 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Ukryta per\u0142a z fascynuj\u0105c\u0105 histori\u0105. Podr\u00f3\u017c w czasie dla mi\u0142o\u015bnik\u00f3w architektury",
+            "link": "https://turystyka.wp.pl/s/twoje7dni/ukryta-perla-z-fascynujaca-historia-podroz-w-czasie-dla-milosnikow-architektury-7131456043396032a",
+            "description": "Je\u015bli szukasz miejsca, gdzie historia przeplata si\u0119 z tajemnic\u0105, Brzostowo b\u0119dzie idealnym kierunkiem. Ta niewielka ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.w5yo2cGK5kAWe0d0_ELtAw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "odkrycie+zabytkowe+przedmiot",
+            "date": "wp18 godz.",
+            "source": "wp",
+            "article_content": "Je\u015bli szukasz miejsca, gdzie historia przeplata si\u0119 z tajemnic\u0105, Brzostowo b\u0119dzie idealnym kierunkiem. Ta niewielka miejscowo\u015b\u0107 kryje w sobie \u015blady dawnych epok, oferuj\u0105c podr\u00f3\u017c w czasie ka\u017cdemu mi\u0142o\u015bnikowi historii i architektury.\n\nTre\u015b\u0107 pochodzi od naszego partnera i zosta\u0142a opublikowana w ramach programu WP Kreator\n\nJednym z najbardziej fascynuj\u0105cych punkt\u00f3w na mapie Brzostowa by\u0142 ko\u015bci\u00f3\u0142 ewangelicki, kt\u00f3ry istnia\u0142 tu od ko\u0144ca XVIII w. do 1945 r. Jego historia zacz\u0119\u0142a si\u0119 w 1795 r., kiedy w\u0142a\u015bciciel ziemski Peter Arndt postanowi\u0142 zbudowa\u0107 \u015bwi\u0105tyni\u0119 i za\u0142o\u017cy\u0107 parafi\u0119. Niestety, pierwotna konstrukcja zosta\u0142a zniszczona przez piorun, ale ju\u017c w 1873 r. po\u015bwi\u0119cono nowy, czerwony, ceglany ko\u015bci\u00f3\u0142. Jego majestatyczna sylwetka dominowa\u0142a nad miejscowo\u015bci\u0105, b\u0119d\u0105c wa\u017cnym punktem na mapie religijnej regionu.\n\nTajemnicza kaplica rodu Rosenau\n\nW latach 1845\u20131890 w Brzostowie istnia\u0142a kaplica grobowa rodziny Rosenau, w\u0142a\u015bcicieli tych ziem. Znajdowa\u0142a si\u0119 na terenie kompleksu ko\u015bcielno-cmentarnego, b\u0119d\u0105c nie tylko miejscem modlitwy, ale tak\u017ce cichym \u015bwiadkiem historii rodu, kt\u00f3ry mia\u0142 ogromny wp\u0142yw na rozw\u00f3j miejscowo\u015bci.\n\nTa neogotycka budowla, otoczona malowniczym parkiem o powierzchni 11 hektar\u00f3w, jest \u015bwiadectwem zamo\u017cno\u015bci i wp\u0142ywu tej arystokratycznej rodziny. Do dzi\u015b miejsce to owiane jest nut\u0105 tajemnicy.\n\nDalsza cz\u0119\u015b\u0107 artyku\u0142u pod materia\u0142em wideo\n\nNiezwyk\u0142a atrakcja tu\u017c za polsk\u0105 granic\u0105. Wst\u0119p bezp\u0142atny\n\nPa\u0142ac w Brzostowie \u2013 dawna siedziba arystokracji\n\nNieopodal dawnego ko\u015bcio\u0142a znajduje si\u0119 pa\u0142ac w Brzostowie, kt\u00f3ry by\u0142 niegdy\u015b rezydencj\u0105 zamo\u017cnych w\u0142a\u015bcicieli tych ziem. Obecnie mie\u015bci si\u0119 tu szko\u0142a rolnicza, jednak budowla wci\u0105\u017c zachwyca swoj\u0105 architektur\u0105 i przenosi zwiedzaj\u0105cych do epoki \u015bwietno\u015bci dawnych maj\u0105tk\u00f3w ziemskich.\n\n\n\n[1/2] W dawnym pa\u0142acu otoczonym parkiem mie\u015bci si\u0119 szko\u0142a rolnicza \u0179r\u00f3d\u0142o zdj\u0119\u0107: \u00a9 ZS Centrum Kszta\u0142cenia Rolniczego w Brzostowie\n\nTragiczne losy niemieckich mieszka\u0144c\u00f3w\n\nBrzostowo, podobnie jak wiele innych miejscowo\u015bci w Polsce, do\u015bwiadczy\u0142o licznych zmian historycznych. W 1896 r. wi\u0119kszo\u015b\u0107 mieszka\u0144c\u00f3w stanowili Niemcy, kt\u00f3rzy osiedlili si\u0119 tu po w\u0142\u0105czeniu tych ziem do Kr\u00f3lestwa Prus w XVIII w. Po II wojnie \u015bwiatowej ich los by\u0142 tragiczny \u2013 zostali wysiedleni, a wiele budowli zosta\u0142o zburzonych. Taki los spotka\u0142 m.in. ko\u015bci\u00f3\u0142 ewangelicki, kt\u00f3ry ostatecznie zburzono w 1972 r.\n\n\n\n\n\n[1/3] Kaplica i pozosta\u0142o\u015bci cmentarza - miejsce ciche i tajemnicze \u0179r\u00f3d\u0142o zdj\u0119\u0107: \u00a9 Twoje 7 dni\n\nDlaczego warto odwiedzi\u0107 Brzostowo?\n\nBrzostowo to idealne miejsce dla tych, kt\u00f3rzy pragn\u0105 uciec od miejskiego zgie\u0142ku i zanurzy\u0107 si\u0119 w historii oraz przyrodzie. Tablice informacyjne prowadz\u0105 turyst\u00f3w przez fascynuj\u0105c\u0105 opowie\u015b\u0107 o przesz\u0142o\u015bci miejscowo\u015bci, a otaczaj\u0105ce j\u0105 tereny oferuj\u0105 mo\u017cliwo\u015b\u0107 relaksu w\u015br\u00f3d zieleni.\n\nTo tak\u017ce doskona\u0142a okazja, by pozna\u0107 losy niemieckich osadnik\u00f3w, kt\u00f3rzy w XIX w. zasiedlili te tereny oraz zrozumie\u0107 z\u0142o\u017con\u0105 histori\u0119 regionu.\n\nJe\u015bli interesujesz si\u0119 architektur\u0105, histori\u0105 lub po prostu szukasz miejsca na spokojny weekend, Brzostowo czeka, by ci\u0119 zachwyci\u0107."
         }
     }
 ]
