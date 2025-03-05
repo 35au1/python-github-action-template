@@ -10,7 +10,7 @@
             "description": "Rodzice uczni\u00f3w z SP nr 9 w Bia\u0142ymstoku zwr\u00f3cili si\u0119 do nas z pro\u015bb\u0105 o zwr\u00f3cenie uwagi na sytuacj\u0119 jaka wynik\u0142a w plac\u00f3wce w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.pWbR19-5QzUEcEAS55InhC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Poranny12 godz.",
+            "date": "Poranny16 godz.",
             "source": "Poranny",
             "article_content": "Content not available"
         }
@@ -26,7 +26,7 @@
             "description": "Poznali\u015bmy wyniki 42. Fina\u0142u Wojew\u00f3dzkiego Olimpiady M\u0142odych Producent\u00f3w Rolnych woj. podlaskiego. Tegoroczna edycja konkursu ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.t7AjBzDQoSmT35vmjEkgSi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "wspolczesna.pl12 godz.",
+            "date": "wspolczesna.pl16 godz.",
             "source": "wspolczesna.pl",
             "article_content": "Content not available"
         }
@@ -37,46 +37,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Pierwszy weekend miesi\u0105ca oznacza gie\u0142d\u0119 staroci. Najwi\u0119kszy pchli targ w Polsce, a na stoiskach skarby, r\u00f3\u017cno\u015bci i imponuj\u0105ce kolekcje",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/pierwszy-weekend-miesi%C4%85ca-oznacza-gie%C5%82d%C4%99-staroci-najwi%C4%99kszy-pchli-targ-w-polsce-na-stoiskach-skarby-i-r%C3%B3%C5%BCno%C5%9Bci/ar-AA1A57Ew?ocid=BingNewsVerp",
-            "description": "\u015awidnicka Gie\u0142da Staroci, Numizmat\u00f3w i Osobliwo\u015bci ma d\u0142ug\u0105 tradycj\u0119. Jest jedn\u0105 z najstarszych i najwi\u0119kszych tego typu ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.8JX78vN9Bsab2VMa9VeFbA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "Gazeta Wroc\u0142awska on MSN21 godz.",
-            "source": "Gazeta Wroc\u0142awska on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Pieni\u0105dze z PRL poszukiwane przez kolekcjoner\u00f3w. Tyle kosztuj\u0105 stare banknoty i monety. Oto ceny i zdj\u0119cia [4.03.2025]",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/pieni%C4%85dze-z-prl-poszukiwane-przez-kolekcjoner%C3%B3w-tyle-kosztuj%C4%85-stare-banknoty-i-monety-oto-ceny-i-zdj%C4%99cia-4032025/ar-AA1zYEWs?ocid=BingNewsVerp",
-            "description": "Stare banknoty i monety z czas\u00f3w PRL s\u0105 obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.U4aq8y0qFjb-ZwmsDxcEUi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "Gazeta Pomorska on MSN22 godz.",
-            "source": "Gazeta Pomorska on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
             "title": "Te monety s\u0105 warte du\u017co wi\u0119cej ni\u017c my\u015blisz. Zobacz czego szukaj\u0105 numizmatycy 5.03.2025",
-            "link": "https://gk24.pl/te-monety-sa-warte-duzo-wiecej-niz-myslisz-zobacz-czego-szukaja-numizmatycy-5032025/ar/c1-18941089",
-            "description": "Czy posiadasz w portfelu monet\u0119 o nominalne 5 z\u0142? Mo\u017ce pojawi\u0142a si\u0119 szansa, aby\u015b sta\u0142 si\u0119 bogat\u0105 osob\u0105! S\u0105 takie monety, ...",
+            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/te-monety-s%C4%85-warte-du%C5%BCo-wi%C4%99cej-ni%C5%BC-my%C5%9Blisz-zobacz-czego-szukaj%C4%85-numizmatycy-25022025/ar-AA1zKC8Y?ocid=BingNewsVerp",
+            "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.rXY4IFBt9hVZAYwsRbQrPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "gk24.pl11 godz.",
-            "source": "gk24.pl",
-            "article_content": "Content not available"
+            "date": "G\u0142os Koszali\u0144ski on MSN15 godz.",
+            "source": "G\u0142os Koszali\u0144ski on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Ta moneta z PRL mo\u017ce by\u0107 warta nawet 30 tys. z\u0142otych! Koniecznie zobacz swoje szuflady [ZDJ\u0118CIA] 05.03.2025",
+            "link": "https://www.msn.com/pl-pl/finanse/og%C3%B3lne/ta-moneta-z-prl-mo%C5%BCe-by%C4%87-warta-nawet-30-tys-z%C5%82otych-koniecznie-zobacz-swoje-szuflady-zdj%C4%99cia-15-02-2025/ar-AA1yiY2d?ocid=BingNewsVerp",
+            "description": "Wycena monet z PRL-u zale\u017cy od rzadko\u015bci wyst\u0119powania, jako\u015bci wybicia oraz gradingu, czyli stanu jej zachowania. W Polsce znajdziemy wiele okaz\u00f3w wartych kilkaset z\u0142otych, ale s\u0105 te\u017c takie, na ...",
+            "image_url": "https://www.bing.plNo image",
+            "category": "stare+monety",
+            "date": "G\u0142os Szczeci\u0144ski on MSN15 godz.",
+            "source": "G\u0142os Szczeci\u0144ski on MSN",
+            "article_content": ""
         }
     },
     {
@@ -90,25 +74,9 @@
             "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ich pojawienia si\u0119 na rynku. Najcz\u0119\u015bciej poszukiwane monety przez kolekcjone ...",
             "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "gp24.pl on MSN8 godz.",
+            "date": "gp24.pl on MSN12 godz.",
             "source": "gp24.pl on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Ta moneta z PRL mo\u017ce by\u0107 warta nawet 30 tys. z\u0142otych! Koniecznie zobacz swoje szuflady [ZDJ\u0118CIA] 05.03.2025",
-            "link": "https://gs24.pl/ta-moneta-z-prl-moze-byc-warta-nawet-30-tys-zlotych-koniecznie-zobacz-swoje-szuflady-zdjecia-05032025/ar/c1-17906435",
-            "description": "Wycena monet z PRL-u zale\u017cy od rzadko\u015bci wyst\u0119powania, jako\u015bci wybicia oraz gradingu, czyli stanu jej zachowania. W Polsce znajdziemy wiele okaz\u00f3w wartych kilkaset z\u0142otych, ale s\u0105 te\u017c takie, na ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stare+monety",
-            "date": "gs24.pl11 godz.",
-            "source": "gs24.pl",
-            "article_content": "Content not available"
         }
     },
     {
@@ -122,7 +90,7 @@
             "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.o4EwlAsIz5rMM3h8kMS_wi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "gs24.pl11 godz.",
+            "date": "gs24.pl15 godz.",
             "source": "gs24.pl",
             "article_content": "Content not available"
         }
@@ -137,8 +105,8 @@
             "link": "https://gk24.pl/te-monety-z-prl-sa-warte-ogromne-pieniadze-zaplacisz-za-nie-nawet-kilkanascie-tysiecy-zlotych-tyle-kosztuja-monety-z-prl-5032025/ar/c3-19042098",
             "description": "\u015amia\u0142o mo\u017cna stwierdzi\u0107, \u017ce przedmioty z okresu PRL prze\u017cywaj\u0105 w naszym kraju niejako sw\u00f3j renesans. Chocia\u017c by\u0142y to trudne czasy w historii naszego kraju, wiele os\u00f3b wraca do nich z sentymentem. Mimo ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stara+porcelana",
-            "date": "gk24.pl11 godz.",
+            "category": "stare+monety",
+            "date": "gk24.pl15 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
         }
@@ -149,14 +117,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Kryszta\u0142y PRL poszukiwane przez kolekcjoner\u00f3w 2025. Tyle trzeba zap\u0142aci\u0107 za kryszta\u0142owe naczynia [5.03.2025 r.]",
+            "title": "Kryszta\u0142y PRL poszukiwane przez kolekcjoner\u00f3w 2025. Tyle trzeba zap\u0142aci\u0107 za kryszta\u0142owe naczynia [6.03.2025]",
             "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/kryszta%C5%82y-prl-poszukiwane-przez-kolekcjoner%C3%B3w-2025-tyle-trzeba-zap%C5%82aci%C4%87-za-kryszta%C5%82owe-naczynia-2022025-r/ar-AA1yan8h?ocid=BingNewsVerp",
-            "description": "Kryszta\u0142y produkowane w PRL-u s\u0105 obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli posiadasz kryszta\u0142y z tamtych czas\u00f3w, warto przyjrze\u0107 si\u0119 im bli\u017cej \u2013 by\u0107 mo\u017ce masz w ...",
-            "image_url": "https://www.bing.plNo image",
+            "description": "Kryszta\u0142y produkowane w PRL-u s\u0105 obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli posiadasz ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.bw5CnqooV0BBfj%2fiVDkRwg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN10 godz.",
+            "date": "Gazeta Pomorska on MSN2 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Te monety z PRL s\u0105 warte ogromne pieni\u0105dze! Zap\u0142acisz za nie nawet kilkana\u015bcie tysi\u0119cy z\u0142otych! Tyle kosztuj\u0105 monety z PRL 5.03.2025",
+            "link": "https://gk24.pl/te-monety-z-prl-sa-warte-ogromne-pieniadze-zaplacisz-za-nie-nawet-kilkanascie-tysiecy-zlotych-tyle-kosztuja-monety-z-prl-5032025/ar/c3-19042098",
+            "description": "\u015amia\u0142o mo\u017cna stwierdzi\u0107, \u017ce przedmioty z okresu PRL prze\u017cywaj\u0105 w naszym kraju niejako sw\u00f3j renesans. Chocia\u017c by\u0142y to trudne czasy w historii naszego kraju, wiele os\u00f3b wraca do nich z sentymentem. Mimo ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stara+porcelana",
+            "date": "gk24.pl15 godz.",
+            "source": "gk24.pl",
+            "article_content": "Content not available"
         }
     },
     {
@@ -170,41 +154,9 @@
             "description": "Obecnie pragniemy, by nasze domowe wn\u0119trza mia\u0142y sw\u00f3j unikatowy charakter, by\u0142y przytulne i kolorowe. Jednym z pomys\u0142\u00f3w na wzbogacenie naszego domowego wn\u0119trza z pewno\u015bci\u0105 s\u0105 kwiaty. Nie tylko dodaj\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "gk24.pl11 godz.",
+            "date": "gk24.pl15 godz.",
             "source": "gk24.pl",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Te ro\u015bliny przyci\u0105gaj\u0105 bogactwo i dobrobyt! Masz je w domu? Czekaj\u0105 ci\u0119 pieni\u0105dze! Dzi\u0119ki tym ro\u015blinom mo\u017cesz zosta\u0107 bogaczem",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/te-ro%C5%9Bliny-przyci%C4%85gaj%C4%85-bogactwo-i-dobrobyt-masz-je-w-domu-czekaj%C4%85-ci%C4%99-pieni%C4%85dze-dzi%C4%99ki-tym-ro%C5%9Blinom-mo%C5%BCesz-zosta%C4%87-bogaczem/ar-AA1yvoSE?ocid=BingNewsVerp",
-            "description": "Ro\u015bliny w domu, a bogactwo i szcz\u0119\u015bcie Wiele os\u00f3b dba o przytuln\u0105 przestrze\u0144 w swoim domu. Dekorujemy je m.in. ro\u015blinami, kt\u00f3re jak si\u0119 okazuje, s\u0105 nie tylko elementem dekoracyjnym, ale r\u00f3wnie\u017c maj\u0105 ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stara+porcelana",
-            "date": "G\u0142os Koszali\u0144ski on MSN20 godz.",
-            "source": "G\u0142os Koszali\u0144ski on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Pierwszy weekend miesi\u0105ca oznacza gie\u0142d\u0119 staroci. Najwi\u0119kszy pchli targ w Polsce, a na stoiskach skarby, r\u00f3\u017cno\u015bci i imponuj\u0105ce kolekcje",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/pierwszy-weekend-miesi%C4%85ca-oznacza-gie%C5%82d%C4%99-staroci-najwi%C4%99kszy-pchli-targ-w-polsce-na-stoiskach-skarby-i-r%C3%B3%C5%BCno%C5%9Bci/ar-AA1A57Ew?ocid=BingNewsVerp",
-            "description": "\u015awidnicka Gie\u0142da Staroci, Numizmat\u00f3w i Osobliwo\u015bci ma d\u0142ug\u0105 tradycj\u0119. Jest jedn\u0105 z najstarszych i najwi\u0119kszych tego typu ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.8JX78vN9Bsab2VMa9VeFbA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "targ+staroci",
-            "date": "Gazeta Wroc\u0142awska on MSN21 godz.",
-            "source": "Gazeta Wroc\u0142awska on MSN",
-            "article_content": ""
         }
     },
     {
@@ -218,7 +170,7 @@
             "description": "Mi\u0142o\u015bnicy historii, unikatowych przedmiot\u00f3w i r\u0119kodzie\u0142a co weekend, w ka\u017cd\u0105 niedziel\u0119 przybywaj\u0105 na gie\u0142d\u0119 staroci w Zielonej G\u00f3rze, aby odnale\u017a\u0107 prawdziwe skarby. Gie\u0142da to miejsce, gdzie czas zdaje ...",
             "image_url": "https://www.bing.pl/th?id=ODF.RJOGHWzYjTst0z6ULRD3Hw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "zielonagora.naszemiasto10 godz.",
+            "date": "zielonagora.naszemiasto14 godz.",
             "source": "zielonagora.naszemiasto",
             "article_content": "Content not available"
         }
@@ -234,7 +186,7 @@
             "description": "Unikalne antyki poszukiwane przez kolekcjoner\u00f3w mog\u0105 zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na nich zarobi\u0107 fortun\u0119. Cz\u0119sto nie mamy \u015bwiadomo\u015bci, \u017ce przedmioty posiadane w domu warte s\u0105 du\u017co pieni\u0119dzy.",
             "image_url": "https://www.bing.pl/th?id=ODF.U-Vp0xK7SYVhjnH4oToWdw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "gloswielkopolski9 godz.",
+            "date": "gloswielkopolski13 godz.",
             "source": "gloswielkopolski",
             "article_content": "Content not available"
         }
@@ -250,7 +202,7 @@
             "description": "\u015awidnicka Gie\u0142da Staroci, Numizmat\u00f3w i Osobliwo\u015bci ma d\u0142ug\u0105 tradycj\u0119. Jest jedn\u0105 z najstarszych i najwi\u0119kszych tego typu ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.AkHiVPJoFWsJ31Kg7dvBxS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "gazetawroclawska.pl12 godz.",
+            "date": "gazetawroclawska.pl16 godz.",
             "source": "gazetawroclawska.pl",
             "article_content": "Content not available"
         }
@@ -266,9 +218,41 @@
             "description": "Rodzice uczni\u00f3w z SP nr 9 w Bia\u0142ymstoku zwr\u00f3cili si\u0119 do nas z pro\u015bb\u0105 o zwr\u00f3cenie uwagi na sytuacj\u0119 jaka wynik\u0142a w plac\u00f3wce w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.pWbR19-5QzUEcEAS55InhC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Poranny12 godz.",
+            "date": "Poranny16 godz.",
             "source": "Poranny",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pras\u00f3wka 5.03.2025 - najwa\u017cniejsze wydarzenia. Przygotowali\u015bmy przegl\u0105d prasy z wczoraj",
+            "link": "https://gazetalubuska.pl/prasowka-5-03-2025-najwazniejsze-wydarzenia-przygotowalismy-przeglad-prasy-z-wczoraj/ar/c1p1-19960919",
+            "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 4.03.",
+            "image_url": "https://www.bing.pl/th?id=OVFT.NuWAQqHnJgkTJWeYR9e5hS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "Gazeta Lubuska16 godz.",
+            "source": "Gazeta Lubuska",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Systemy kontroli lotniczej w USA \u201eniezdatne do u\u017cytku'. Pami\u0119taj\u0105 jeszcze zimn\u0105 wojn\u0119",
+            "link": "https://ithardware.pl/aktualnosci/usa_system_kontroli_lotow-39533.html",
+            "description": "Ponad jedna trzecia system\u00f3w kontroli ruchu lotniczego w Stanach Zjednoczonych jest niesprawna, a najstarsze z nich maj\u0105 ju\u017c 60 lat.",
+            "image_url": "https://www.bing.pl/th?id=ODF.uXQv5YEO0myhr-cjcBe-Sg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "relikty",
+            "date": "ITHardware2 godz.",
+            "source": "ITHardware",
+            "article_content": "Ponad jedna trzecia system\u00f3w kontroli ruchu lotniczego w Stanach Zjednoczonych jest niesprawna, a ich modernizacja post\u0119puje niezwykle powoli. Najstarsze systemy dzia\u0142aj\u0105 od 60 lat, a brak konkretnych plan\u00f3w ich wymiany budzi coraz wi\u0119ksze obawy w\u015br\u00f3d ekspert\u00f3w oraz urz\u0119dnik\u00f3w odpowiedzialnych za bezpiecze\u0144stwo lotnicze.\n\nA\u017c 37% system\u00f3w kontroli ruchu lotniczego w USA zosta\u0142o uznanych przez Federaln\u0105 Administracj\u0119 Lotnictwa (FAA) za niezdatne do u\u017cytku. Kolejne 39% zakwalifikowano jako \u201epotencjalnie zagro\u017cone\u201d, co oznacza, \u017ce mog\u0105 ulec awarii w ka\u017cdej chwili. To zatrwa\u017caj\u0105ce wyniki audytu przeprowadzonego przez Biuro Odpowiedzialno\u015bci Rz\u0105du Stan\u00f3w Zjednoczonych (GAO) dla Podkomisji ds. Lotnictwa Komisji Transportu i Infrastruktury Izby Reprezentant\u00f3w.\n\nOd lat trwaj\u0105 pr\u00f3by unowocze\u015bnienia tych system\u00f3w, jednak ich tempo pozostawia wiele do \u017cyczenia. Projekt modernizacji realizowany przez FAA, cho\u0107 ambitny, nie przynosi oczekiwanych rezultat\u00f3w, a op\u00f3\u017anienia i problemy bud\u017cetowe pog\u0142\u0119biaj\u0105 kryzys.\n\nTechnologiczne relikty zimnej wojny\n\nNiekt\u00f3re z system\u00f3w steruj\u0105cych ruchem lotniczym w USA s\u0105 tak stare, \u017ce ludzie urodzeni w momencie ich wdra\u017cania maj\u0105 dzi\u015b wnuki. Sze\u015b\u0107 z nich dzia\u0142a nieprzerwanie od 60 lat, pami\u0119taj\u0105c zimn\u0105 wojn\u0119 mi\u0119dzy Stanami Zjednoczonymi i Zwi\u0105zkiem Radzieckim. Kolejne 40 system\u00f3w ma ponad 30 lat, a 72 \u2013 ponad dwie dekady. W dobie dynamicznego rozwoju technologii cyfrowych korzystanie z tak archaicznych system\u00f3w wydaje si\u0119 nie tylko niewydolne, ale i niebezpieczne.\n\nDodatkowym problemem jest dost\u0119pno\u015b\u0107 cz\u0119\u015bci zamiennych \u2013 im starsze systemy, tym trudniej o ich napraw\u0119. Brakuje r\u00f3wnie\u017c specjalist\u00f3w potrafi\u0105cych serwisowa\u0107 tak wiekowy sprz\u0119t. W praktyce oznacza to, \u017ce awarie mog\u0105 by\u0107 coraz trudniejsze do usuni\u0119cia.\n\nLuki kadrowe i niedostateczne finansowanie\n\nBraki kadrowe dodatkowo komplikuj\u0105 sytuacj\u0119. David Spero, prezes zwi\u0105zku zawodowego specjalist\u00f3w ds. bezpiecze\u0144stwa lotniczego, podkre\u015bla, \u017ce szkolenie nowego in\u017cyniera zajmuje trzy lata. Jednak nowi specjali\u015bci s\u0105 zatrudniani dopiero wtedy, gdy starsi odchodz\u0105 na emerytur\u0119, co prowadzi do powstawania luk kadrowych. FAA zatrudnia obecnie oko\u0142o 4800 in\u017cynier\u00f3w, jednak ich liczba systematycznie spada.\n\nNick Daniels, prezes National Air Traffic Controllers Association, oskar\u017ca FAA o brak odpowiedniego finansowania. Wed\u0142ug niego agencja \u201ezawsze \u017c\u0105da\u0142a zbyt ma\u0142o\u201d, co skutkuje chronicznym niedoborem \u015brodk\u00f3w na modernizacj\u0119.\n\nProjekt NextGen \u2013 20 lat op\u00f3\u017anie\u0144\n\nFAA od lat prowadzi program modernizacji system\u00f3w kontroli ruchu lotniczego pod nazw\u0105 Next Generation Air Transportation System (NextGen). Rozpocz\u0119ty w 2007 roku projekt mia\u0142 zosta\u0107 uko\u0144czony do 2030 roku, jednak ju\u017c teraz wiadomo, \u017ce jest daleki od realizacji. Raport GAO z maja 2024 r. ujawni\u0142, \u017ce 17 system\u00f3w budzi szczeg\u00f3lne obawy, z czego 13 mia\u0142o by\u0107 wycofanych z u\u017cytku co najmniej sze\u015b\u0107 lat temu. Cztery inne nie zosta\u0142y nawet uwzgl\u0119dnione w planach modernizacyjnych.\n\nW 2023 i 2024 roku GAO wielokrotnie zaleca\u0142o FAA opracowanie planu ograniczania ryzyka dla NextGen, ale zalecenia te pozostaj\u0105 bez odpowiedzi. W rezultacie, mimo up\u0142ywu lat, FAA nie dysponuje konkretn\u0105 strategi\u0105 skutecznego unowocze\u015bnienia swoich system\u00f3w.\n\nFAA odnotowa\u0142a jednak pewne sukcesy \u2013 zrealizowa\u0142a wcze\u015bniejsze zalecenia GAO dotycz\u0105ce analizowania przyczyn problem\u00f3w technicznych i skutecznego zarz\u0105dzania inwestycjami. Uda\u0142o si\u0119 tak\u017ce wdro\u017cy\u0107 nowoczesne systemy \u0142\u0105czno\u015bci w wie\u017cach kontroli lot\u00f3w, i to dwa lata przed planowanym terminem.\n\nElon Musk krytykuje FAA i proponuje w\u0142asne rozwi\u0105zania\n\nNegatywne zdanie na temat FAA ma r\u00f3wnie\u017c Elon Musk. Twierdzi on, \u017ce obecne systemy komunikacyjne, oparte na infrastrukturze Verizon, s\u0105 podatne na awarie, a FAA jest \u201ezaledwie kilka miesi\u0119cy od katastrofalnej usterki\u201d. Cho\u0107 p\u00f3\u017aniej przyzna\u0142, \u017ce pomyli\u0142 Verizon z innym dostawc\u0105 us\u0142ug dla FAA, jego wypowiedzi wywo\u0142a\u0142y burzliw\u0105 dyskusj\u0119.\n\nCo ciekawe, FAA rozwa\u017ca obecnie zmian\u0119 zam\u00f3wienia na nowy system komunikacyjny. Umowa warta 2,4 miliarda dolar\u00f3w, dotychczas przewidziana dla Verizon, mo\u017ce trafi\u0107 do Starlink \u2013 satelitarnej sieci nale\u017c\u0105cej do Muska. Je\u015bli tak si\u0119 stanie, miliarder zyska kolejny wp\u0142ywowy kontrakt na ameryka\u0144skim rynku lotniczym."
         }
     },
     {
@@ -282,7 +266,7 @@
             "description": "Zanim wyruszysz w drog\u0119, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 08 marca w Gryficach ma by\u0107 17\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.tC3o63M-3bUwuezozayNDi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "gryfice.naszemiasto1 godz.",
+            "date": "gryfice.naszemiasto5 godz.",
             "source": "gryfice.naszemiasto",
             "article_content": "Content not available"
         }
@@ -298,7 +282,7 @@
             "description": "Zanim wyjdziesz, sprawd\u017a pogod\u0119 dla Koszalina. W sobot\u0119 8 marca wed\u0142ug prognozy pogody ma by\u0107 17\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 9 marca zgodnie z najnowszymi prognozami pogody ma by\u0107 17\u00b0C w ...",
             "image_url": "https://www.bing.pl/th?id=ODF.2lnLIQe5bnM9ixvXVTSDQg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "koszalin.naszemiasto1 godz.",
+            "date": "koszalin.naszemiasto5 godz.",
             "source": "koszalin.naszemiasto",
             "article_content": "Content not available"
         }
@@ -314,7 +298,7 @@
             "description": "Szef dzia\u0142u technologicznego Next.gazeta.pl. Uko\u0144czy\u0142 Wydzia\u0142 Dziennikarstwa i Nauk Politycznych na Uniwersytecie Warszawskim ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.GyhFeCOwwVP7_F_fmSGChC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "nextgazetapl3 godz.",
+            "date": "nextgazetapl7 godz.",
             "source": "nextgazetapl",
             "article_content": "Wied\u017amin 3, Dying Light czy Frostpunk to polskie gry, kt\u00f3re spotka\u0142y si\u0119 ze znakomitym przyj\u0119ciem w\u015br\u00f3d graczy i recenzent\u00f3w. S\u0105 jednak r\u00f3wnie\u017c takie produkcje, kt\u00f3rych nasi rodzimi tw\u00f3rcy zdecydowanie mog\u0105 si\u0119 wstydzi\u0107. Oto cztery najgorsze polskie gry."
         }
@@ -330,7 +314,7 @@
             "description": "Rozpocz\u0119\u0142y si\u0119 d\u0142ugo oczekiwane prace renowacyjne przy zabytkowym wiatraku w \u015awi\u0119ciechowie. Gmina na zabiegi przywracaj\u0105ce ...",
             "image_url": "https://www.bing.pl/th?id=OVF.bHSFoI%2bbgN84xn4IvpmNtg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "gloswielkopolski8 godz.",
+            "date": "gloswielkopolski12 godz.",
             "source": "gloswielkopolski",
             "article_content": "Content not available"
         }
@@ -346,9 +330,25 @@
             "description": "\u015aledczy wci\u0105\u017c badaj\u0105 przyczyny ogromnego po\u017caru, kt\u00f3ry 5 lutego strawi\u0142 zabytkow\u0105 hal\u0119 dawnych Zak\u0142ad\u00f3w Naprawczych Taboru ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.OymUk-Fjl2GASdFqqYiKYy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Fakt.pl38 min",
+            "date": "Fakt.pl4 godz.",
             "source": "Fakt.pl",
             "article_content": "\u015aledczy wci\u0105\u017c badaj\u0105 przyczyny ogromnego po\u017caru, kt\u00f3ry 5 lutego strawi\u0142 zabytkow\u0105 hal\u0119 dawnych Zak\u0142ad\u00f3w Naprawczych Taboru Kolejowego w Gda\u0144sku. Po kilkunastu dniach intensywnych ogl\u0119dzin policja zabezpieczy\u0142a liczne dowody, przes\u0142ucha\u0142a \u015bwiadk\u00f3w i przeanalizowa\u0142a nagrania monitoringu. Teraz biegli szczeg\u00f3\u0142owo analizuj\u0105 zebrane materia\u0142y, by ustali\u0107, co doprowadzi\u0142o do tragedii \u2013 przypadkowe zapr\u00f3szenie ognia czy celowe podpalenie.\n\nW \u015brod\u0119, 5 lutego kr\u00f3tko po godzinie 13.00, w jednej z zabytkowych hal dawnych ZNTK na Przer\u00f3bce w Gda\u0144sku wybuch\u0142 ogromny po\u017car. K\u0142\u0119by czarnego dymu unosz\u0105ce si\u0119 nad miejscem zdarzenia by\u0142y widoczne z du\u017cej odleg\u0142o\u015bci.\n\nDzia\u0142ania s\u0142u\u017cb po po\u017carze hali na gda\u0144skiej Przer\u00f3bce\n\nPrzez kilkana\u015bcie dni po ugaszeniu ognia teren obj\u0119ty po\u017carem by\u0142 miejscem intensywnych prac dochodzeniowo-\u015bledczych. Funkcjonariusze Komendy Wojew\u00f3dzkiej Policji w Gda\u0144sku, prokuratorzy, technicy kryminalistyki oraz stra\u017cacy prowadzili ogl\u0119dziny, staraj\u0105c si\u0119 ustali\u0107 przyczyny tragedii. \u015aledztwo obj\u0119\u0142o zabezpieczenie dowod\u00f3w, analiz\u0119 monitoringu oraz przes\u0142uchania \u015bwiadk\u00f3w i os\u00f3b poszkodowanych.\n\n5 marca teren zosta\u0142 oficjalnie przekazany w\u0142a\u015bcicielowi, kt\u00f3ry zobowi\u0105za\u0142 si\u0119 do jego zabezpieczenia oraz zg\u0142oszenia planowanych prac rozbi\u00f3rkowych. Mo\u017ce to pom\u00f3c w ewentualnym uzupe\u0142nieniu ogl\u0119dzin.\n\nPoszukiwanie przyczyn i sprawc\u00f3w po\u017caru hali w Gda\u0144sku\n\n\u015aledztwo nadal trwa, a jego g\u0142\u00f3wnym celem jest wyja\u015bnienie przyczyn po\u017caru oraz ustalenie, czy dosz\u0142o do celowego podpalenia. W tym celu zabezpieczono liczne \u015blady i przedmioty mog\u0105ce mie\u0107 zwi\u0105zek z miejscem powstania ognia. Materia\u0142y te zostan\u0105 poddane szczeg\u00f3\u0142owym analizom przez powo\u0142anych w sprawie bieg\u0142ych.\n\nHistoria miejsca, kt\u00f3re stan\u0119\u0142o w ogniu\n\nPo\u017car obj\u0105\u0142 teren dawnych warsztat\u00f3w kolejowych, zlokalizowanych przy ulicy Siennickiej. Powsta\u0142y one na pocz\u0105tku XX w. i przez dekady odgrywa\u0142y kluczow\u0105 rol\u0119 w przemy\u015ble kolejowym Pomorza. Budynki te, wpisane do rejestru zabytk\u00f3w, by\u0142y prawnie chronione. W\u015br\u00f3d nich znajdowa\u0142a si\u0119 m.in. hala naprawy wagon\u00f3w o imponuj\u0105cych wymiarach 251 na 103 m oraz hala naprawy lokomotyw o powierzchni 166 na 102 m \u2013 najwi\u0119ksze tego typu obiekty w regionie.\n\nCho\u0107 dochodzenie wci\u0105\u017c jest w toku, s\u0142u\u017cby nie wykluczaj\u0105 \u017cadnej hipotezy \u2013 od przypadkowego zapr\u00f3szenia ognia po celowe dzia\u0142anie os\u00f3b trzecich.\n\n\u0179r\u00f3d\u0142o: Fakt, Pomorska Policja"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Masz te banknoty? To prawdziwe skarby! Za jeden mo\u017cesz otrzyma\u0107 kilka tysi\u0119cy z\u0142otych! [ZDJ\u0118CIA] 05.03.2025",
+            "link": "https://gs24.pl/masz-te-banknoty-to-prawdziwe-skarby-za-jeden-mozesz-otrzymac-kilka-tysiecy-zlotych-zdjecia-05032025/ar/c1-17930573",
+            "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.o4EwlAsIz5rMM3h8kMS_wi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "gs24.pl15 godz.",
+            "source": "gs24.pl",
+            "article_content": "Content not available"
         }
     },
     {
@@ -362,7 +362,7 @@
             "description": "Bieg Fundacji Tesco - trasa biegu g\u0142\u00f3wnego na 10 km. Start 26.08.2017 o godzinie 12.30 na bulwarach wi\u015blanych. Trasa biegu jest zr\u00f3\u017cnicowana krajobrazowo \u2013 biegnie bulwarami Wis\u0142y oraz przez tereny ...",
             "image_url": "https://www.bing.pl/th?id=ODF.XL5bGs_n6w06Ok0ARb1y3Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Krakowska2 godz.",
+            "date": "Gazeta Krakowska6 godz.",
             "source": "Gazeta Krakowska",
             "article_content": "Content not available"
         }
@@ -373,29 +373,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Trasy rowerowe do 13 km od Wa\u0142brzycha. Podpowiedzi jednodniowych wypraw. Gdzie w weekend 8 - 9 marca?",
-            "link": "https://walbrzych.naszemiasto.pl/trasy-rowerowe-do-13-km-od-walbrzycha-podpowiedzi-jednodniowych-wypraw-gdzie-w-weekend-8-9-marca/ar/c7p1-21831457",
-            "description": "Zanim wyruszysz w drog\u0119, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 08 marca w Wa\u0142brzychu ma by\u0107 16\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 09 marca w Wa\u0142brzychu ma by\u0107 16\u00b0C. Nie b\u0119dzie pada\u0107.",
-            "image_url": "https://www.bing.pl/th?id=ODF.b7cDqWcxCJUoLca1qpYJLg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Rowerem do 33 km od Buska-Zdroju. Podpowiadamy pomys\u0142y na wypraw\u0119. Gdzie w weekend 8 - 9 marca?",
+            "link": "https://buskozdroj.naszemiasto.pl/rowerem-do-33-km-od-buska-zdroju-podpowiadamy-pomysly-na-wyprawe-gdzie-w-weekend-8-9-marca/ar/c7p1-21831973",
+            "description": "Rozwa\u017casz tras\u0119 rowerow\u0105 w okolicy Buska-Zdroju? Podpowiadamy, gdzie warto si\u0119 wybra\u0107. Mamy 5 ciekawych propozycji. S\u0105 r\u00f3\u017cne pod wzgl\u0119dem trudno\u015bci czy dystansu, dlatego ka\u017cdy powinien znale\u017a\u0107 co\u015b dla ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.fCtTBqTbNTqc8Opu6vmhAw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "walbrzych.naszemiasto2 godz.",
-            "source": "walbrzych.naszemiasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Spacer do 35 km od Cieszyna. Podpowiadamy, gdzie warto si\u0119 wybra\u0107 w weekend 8 - 9 marca",
-            "link": "https://cieszyn.naszemiasto.pl/spacer-do-35-km-od-cieszyna-podpowiadamy-gdzie-warto-sie-wybrac-w-weekend-8-9-marca/ar/c7p1-22115721",
-            "description": "Zanim wyruszysz w drog\u0119, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 08 marca w Cieszynie ma by\u0107 18\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 09 marca w Cieszynie ma by\u0107 17\u00b0C. Nie b\u0119dzie pada\u0107. Czas trwania ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.5pfVAYO0eKNqiqwh80sASg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "zabytkowe+przedmioty",
-            "date": "cieszyn.naszemiasto2 godz.",
-            "source": "cieszyn.naszemiasto",
+            "date": "buskozdroj.naszemiasto5 godz.",
+            "source": "buskozdroj.naszemiasto",
             "article_content": "Content not available"
         }
     },
@@ -406,13 +390,13 @@
         },
         "body": {
             "title": "Te monety s\u0105 warte du\u017co wi\u0119cej ni\u017c my\u015blisz. Zobacz czego szukaj\u0105 numizmatycy 5.03.2025",
-            "link": "https://gk24.pl/te-monety-sa-warte-duzo-wiecej-niz-myslisz-zobacz-czego-szukaja-numizmatycy-5032025/ar/c1-18941089",
-            "description": "Czy posiadasz w portfelu monet\u0119 o nominalne 5 z\u0142? Mo\u017ce pojawi\u0142a si\u0119 szansa, aby\u015b sta\u0142 si\u0119 bogat\u0105 osob\u0105! S\u0105 takie monety, ...",
+            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/te-monety-s%C4%85-warte-du%C5%BCo-wi%C4%99cej-ni%C5%BC-my%C5%9Blisz-zobacz-czego-szukaj%C4%85-numizmatycy-25022025/ar-AA1zKC8Y?ocid=BingNewsVerp",
+            "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.rXY4IFBt9hVZAYwsRbQrPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "gk24.pl11 godz.",
-            "source": "gk24.pl",
-            "article_content": "Content not available"
+            "date": "G\u0142os Koszali\u0144ski on MSN15 godz.",
+            "source": "G\u0142os Koszali\u0144ski on MSN",
+            "article_content": ""
         }
     },
     {
@@ -426,7 +410,7 @@
             "description": "Nowa moneta kolekcjonerska ma kszta\u0142t \u201ebanknotu o nominale 50 z\u0142'. Kto chce sobie takie numizmatyczne cudo kupi\u0107, musi ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.Fi30CVEkHRbxf-qTh0y3Ki&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Radio ZET2 godz.",
+            "date": "Radio ZET5 godz.",
             "source": "Radio ZET",
             "article_content": "Narodowy Bank Polski wprowadza do obiegu z\u0142ot\u0105 monet\u0119 kolekcjonersk\u0105 \u201eBanknot o nominale 50 z\u0142\u201d z serii \u201ePolskie banknoty obiegowe\u201d\n\nNumizmat wybito w z\u0142ocie pr\u00f3by 999,9 i ma form\u0119 prostok\u0105ta o wymiarach 50,00 x 25,00 mm i masie 31,10 grama\n\nNabycie monety jest mo\u017cliwe za kwot\u0119 14 500 z\u0142, a jej dost\u0119pno\u015b\u0107 jest ograniczona do 1500 egzemplarzy\n\nMoneta \u201ebanknot o nominale 50 z\u0142\u201d. NBP: warta 14 500 z\u0142\n\nNBP og\u0142osi\u0142 emisj\u0119 nowej, z\u0142otej monety kolekcjonerskiej \u201eBanknot o nominale 50 z\u0142\u201d. Jest to ju\u017c kolejna moneta wchodz\u0105ca w sk\u0142ad serii \u201ePolskie banknoty obiegowe\u201d, kt\u00f3r\u0105 NBP zainaugurowa\u0142 w 2023 roku. Tym razem inspiracj\u0105 dla numizmatu sta\u0142 si\u0119 popularny banknot o nominale 50 z\u0142, przedstawiaj\u0105cy wizerunek kr\u00f3la Kazimierza III Wielkiego.\n\nOgl\u0105daj\n\nMoneta zosta\u0142a wykonana z najwy\u017cszej pr\u00f3by z\u0142ota \u2013 999,9. Wyr\u00f3\u017cnia j\u0105 nietypowy, prostok\u0105tny kszta\u0142t o wymiarach 50,00 x 25,00 mm, a jej waga wynosi 31,10 gram\u00f3w. Bank centralny podkre\u015bli\u0142, \u017ce u\u017cycie stempla lustrzanego nadaje jej niezwyk\u0142y po\u0142ysk i uwydatnia detale. Projektantem graficznym monety jest Robert Kotowicz.\n\nfot. NBP\n\nLimitowany nak\u0142ad \u2013 zaledwie 1500 sztuk \u2013 oraz zastosowane materia\u0142y wp\u0142ywaj\u0105 na cen\u0119 monety, kt\u00f3ra wynosi 14 500 z\u0142. NBP zaznaczy\u0142, \u017ce jest to gratka dla kolekcjoner\u00f3w. Awers monety zdobi wizerunek or\u0142a z piecz\u0119ci majestatycznej kr\u00f3la Kazimierza III Wielkiego, a poni\u017cej umieszczono jab\u0142ko i ber\u0142o \u2013 insygnia kr\u00f3lewskie. Po lewej stronie widnieje stylizowany fragment panoramy Kazimierza z inskrypcj\u0105 \u201eCASMIRVS\u201d oraz owal z fragmentami korony powy\u017cej. Z prawej strony ukazano fragment panoramy Krakowa z napisem \u201eCRACOVIA\u201d.\n\nNa rewersie, w centralnej cz\u0119\u015bci, w ozdobnym medalionie, znajduje si\u0119 portret kr\u00f3la Kazimierza III Wielkiego. Po lewej stronie portretu, w tle napis\u00f3w, widoczna jest stylizowana rozeta gotycka. Z prawej strony umieszczono owal z fragmentami korony, a pod nim inicja\u0142 \u201eK\u201d z koron\u0105, poni\u017cej kt\u00f3rego znajduje si\u0119 ornament i korona w owalu.\n\nNowa polska moneta. Szczere z\u0142oto\n\nMonety kolekcjonerskie NBP, w tym z\u0142oty \u201eBanknot 50 z\u0142\u201d, s\u0105 sprzedawane w specjalnym opakowaniu handlowym wraz z certyfikatem autentyczno\u015bci. Ch\u0119tni mog\u0105 naby\u0107 je w Oddzia\u0142ach Okr\u0119gowych NBP oraz w sklepie internetowym Kolekcjoner.\n\nWsp\u00f3\u0142czesny banknot o nominale 50 z\u0142, kt\u00f3ry stanowi\u0142 inspiracj\u0119 dla monety, wszed\u0142 do obiegu 1 stycznia 1995 roku w wyniku denominacji z\u0142otego. Autorem projektu graficznego ca\u0142ej serii \u201eW\u0142adcy polscy\u201d jest Andrzej Heidrich (1928\u20132019), wybitny polski grafik, kt\u00f3ry wsp\u00f3\u0142pracowa\u0142 z NBP od 1960 roku.\n\n\u0179r\u00f3d\u0142o: Radio ZET/NBP"
         }
@@ -442,7 +426,7 @@
             "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
             "image_url": "https://www.bing.pl/th?id=OVF.fqA6duWhsJIu%2f2mFkiDMGg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Express Ilustrowany on MSN8 godz.",
+            "date": "Express Ilustrowany on MSN12 godz.",
             "source": "Express Ilustrowany on MSN",
             "article_content": ""
         }
@@ -458,7 +442,7 @@
             "description": "W Borach Tucholskich dokonano niezwyk\u0142ego odkrycia. Cz\u0142onkowie Mi\u0119dzywojew\u00f3dzkiego Stowarzyszenia ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.KcKfDtGc3EtZA6HQpC5EpS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Radio ZET1 godz.",
+            "date": "Radio ZET5 godz.",
             "source": "Radio ZET",
             "article_content": "Cz\u0142onkowie Mi\u0119dzywojew\u00f3dzkiego Stowarzyszenia Detektorystyczno-Eksploracyjnego Unia dokonali niezwyk\u0142ego odkrycia\n\nPodczas poszukiwa\u0144 w Borach Tucholskich natrafili na monety z okresu \u015bredniowiecza\n\nW\u015br\u00f3d znalezisk by\u0142y krzy\u017cackie szel\u0105gi oraz kwartniki W\u0142adys\u0142awa Jagie\u0142\u0142y\n\nOdkrycie w Borach Tucholskich\n\nMi\u0119dzywojew\u00f3dzkie Stowarzyszenie Detektorystyczno-Eksploracyjne Unia to grupa pasjonat\u00f3w historii, kt\u00f3ra zajmuje si\u0119 poszukiwaniem \u015blad\u00f3w przesz\u0142o\u015bci. Na koncie ma wiele sukces\u00f3w, a w przesz\u0142o\u015bci zosta\u0142a nawet doceniona w plebiscycie Archeologiczne Sensacje magazynu \"Archeologia \u017bywa\". Teraz stowarzyszenie do\u0142o\u017cy\u0142o kolejne odkrycie, dokonane na terenie Nadle\u015bnictwa Woziwoda w Borach Tucholskich.\n\nPodczas poszukiwa\u0144 uda\u0142o si\u0119 bowiem odnale\u017a\u0107 23 monety Zakonu Krzy\u017cackiego oraz 2 monety W\u0142adys\u0142awa Jagie\u0142\u0142y, wybijane w okresie 1386 - 1434. Monety maj\u0105 wi\u0119c setki lat i s\u0105 prawdziwym archeologicznym skarbem. Odkrycia dokona\u0142 Krzysztof Szarmach, jeden z cz\u0142onk\u00f3w stowarzyszenia. O znalezisku poinformowano w mediach spo\u0142eczno\u015bciowych.\n\nKrzy\u017cackie szel\u0105gi i monety W\u0142adys\u0142awa Jagie\u0142\u0142y\n\nStowarzyszenie Unia we wpisie wyja\u015bni\u0142o, \u017ce krzy\u017cackie szel\u0105gi by\u0142y popularnymi srebrnymi monetami, u\u017cywanymi na terach Zakonu i w ich okolicach. \"Za jednego szel\u0105ga mo\u017cna by\u0142o kupi\u0107 podstawowe produkty spo\u017cywcze, takie jak bochenek chleba, dzban piwa czy gar\u015b\u0107 soli - surowca niezwykle cennego w \u015bredniowieczu. Kilka szel\u0105g\u00f3w pozwala\u0142o na zakup mi\u0119sa, tkaniny czy prostych narz\u0119dzi\" - czytamy we wpisie. Kwartniki W\u0142adys\u0142awa Jagie\u0142\u0142y r\u00f3wnie\u017c by\u0142y srebrne, ale mia\u0142y wi\u0119ksz\u0105 warto\u015b\u0107 ni\u017c krzy\u017cackie szel\u0105gi. U\u017cywano ich g\u0142\u00f3wnie w handlu lokalnym, dlatego odkrycie tych monet razem jest niema\u0142\u0105 ciekawostk\u0105.\n\n\"Odnalezione monety to niezwykle wa\u017cne \u017ar\u00f3d\u0142o informacji o gospodarce i wymianie handlowej w tej cz\u0119\u015bci Pomorza w \u015bredniowieczu. Znalezisko pokazuje, \u017ce region ten by\u0142 miejscem intensywnych kontakt\u00f3w ekonomicznych mi\u0119dzy zakonem krzy\u017cackim a Kr\u00f3lestwem Polskim. Obecno\u015b\u0107 zar\u00f3wno szel\u0105g\u00f3w, jak i kwartnik\u00f3w mo\u017ce \u015bwiadczy\u0107 o przenikaniu si\u0119 stref wp\u0142yw\u00f3w monetarnych w okresie napi\u0119tych stosunk\u00f3w mi\u0119dzy Polsk\u0105 a pa\u0144stwem zakonnym\" - wyja\u015bni\u0142o stowarzyszenie. Poszukiwania by\u0142y prowadzone pod nadzorem Wojew\u00f3dzkiego Urz\u0119du Ochrony Zabytk\u00f3w w Bydgoszczy.\n\n\u0179r\u00f3d\u0142o: Radio ZET / Mi\u0119dzywojew\u00f3dzkie Stowarzyszenie Detektorystyczno-Eksploracyjne Unia\n\n(6)\n\nzobacz galeri\u0119"
         }
@@ -474,7 +458,7 @@
             "description": "W Toruniu, w Kaplicy Ogr\u00f3jcowej przy ko\u015bciele \u015bw. Jakuba, odkryto polichromie z pocz\u0105tku XVI wieku przedstawiaj\u0105ce m\u0119k\u0119 Chrystusa. To niezwyk\u0142e znalezisko, kt\u00f3re ju\u017c wkr\u00f3tce b\u0119dzie dost\u0119pne dla ...",
             "image_url": "https://www.bing.pl/th?id=ODF.S98F8jIiuGzSo7XWBjLcxA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Fakt.pl7 godz.",
+            "date": "Fakt.pl11 godz.",
             "source": "Fakt.pl",
             "article_content": "W Toruniu, w Kaplicy Ogr\u00f3jcowej przy ko\u015bciele \u015bw. Jakuba, odkryto polichromie z pocz\u0105tku XVI wieku przedstawiaj\u0105ce m\u0119k\u0119 Chrystusa. To niezwyk\u0142e znalezisko, kt\u00f3re ju\u017c wkr\u00f3tce b\u0119dzie dost\u0119pne dla zwiedzaj\u0105cych, jest cz\u0119\u015bci\u0105 szlaku \u015bw. Jakuba.\n\nProf. El\u017cbieta Pilecka z Uniwersytetu Miko\u0142aja Kopernika w Toruniu podkre\u015bla, \u017ce odkrycie to ma ogromne znaczenie dla ikonografii p\u00f3\u017ano\u015bredniowiecznej i wczesnorenesansowej.\n\nWyj\u0105tkowe odkrycie w Toruniu. Wizerunek Chrustusa na \u015bcianie kaplicy\n\nProf. El\u017cbieta Pilecka, ekspertka z Wydzia\u0142u Sztuk Pi\u0119knych UMK, opisuje malowid\u0142a jako opowie\u015b\u0107 o ostatnich momentach \u017cycia Chrystusa, takich jak pojmanie, zdrada Judasza i modlitwa na G\u00f3rze Oliwnej. Kaplica Ogr\u00f3jcowa, znajduj\u0105ca si\u0119 na cmentarzu ko\u015bcielnym, doskonale oddaje duchowo\u015b\u0107 p\u00f3\u017ano\u015bredniowieczn\u0105 oraz XVI\u2014 i XVII-wieczn\u0105, wpisuj\u0105c si\u0119 w kult cia\u0142a i krwi Chrystusa oraz tradycje pogrzebowe.\n\nKonserwatorzy pracuj\u0105cy nad odkryciem polichromii w Kaplicy Ogr\u00f3jcowej wykonali swoj\u0105 prac\u0119 z niezwyk\u0142\u0105 pieczo\u0142owito\u015bci\u0105. Pocz\u0105tkowo przypuszczano, \u017ce malowid\u0142a przedstawiaj\u0105 Chrystusa na krzy\u017cu lub z Judaszem. Jednak\u017ce, dzi\u0119ki dok\u0142adnym pracom, uda\u0142o si\u0119 odczyta\u0107 scen\u0119, w kt\u00f3rej Chrystus wyci\u0105ga r\u0119k\u0119 do Malchusa, kt\u00f3remu \u015bw. Piotr odci\u0105\u0142 ucho. Malchus trzyma r\u0119k\u0119 przy uchu, co potwierdza cudowne przyklejenie.\n\nZnaczenie odkrycia dla kultury i religii\n\nOdkrycie polichromii w Toruniu ma du\u017ce znaczenie dla kultury i religii, a kaplica stanie si\u0119 wa\u017cnym punktem na szlaku \u015bw. Jakuba. Prof. Pilecka podkre\u015bla, \u017ce miejsce to materializuje \u015bredniowieczn\u0105 koncepcj\u0119 \u0142\u0105czenia r\u00f3\u017cnych medi\u00f3w, takich jak malarstwo i rze\u017aba. W kaplicy odbywa\u0142y si\u0119 nabo\u017ce\u0144stwa przed Wielkanoc\u0105, co by\u0142o zwi\u0105zane z kultem krwi i cia\u0142a Chrystusa.\n\nParadoksalnie, polichromie zachowa\u0142y si\u0119 dzi\u0119ki \"zapomnieniu\". Kaplica by\u0142a u\u017cywana jako magazyn, co uchroni\u0142o j\u0105 przed modernizacjami i przemalowaniami. Teraz, po pracach konserwatorskich, kaplica zostanie udost\u0119pniona zwiedzaj\u0105cym, a w jej wn\u0119trzu powstanie punkt informacyjny. To odkrycie wzbogaca wiedz\u0119 o \u015bredniowiecznym Toruniu, mie\u015bcie wpisanym na list\u0119 \u015bwiatowego dziedzictwa UNESCO.\n\nProf. Pilecka zauwa\u017ca, \u017ce Toru\u0144 wci\u0105\u017c skrywa wiele tajemnic. W ko\u015bciele \u015bw. Jakuba trwaj\u0105 prace, a w ostatnim \"Roczniku toru\u0144skim\" opublikowano artyku\u0142 o przedstawieniu siedmiu grzech\u00f3w g\u0142\u00f3wnych w kaplicy. Odkrycie polichromii to kolejny krok w odkrywaniu bogatej historii tego miejsca.\n\n\u0179r\u00f3d\u0142o: Polska Agencja Prasowa\n\nPrzeczytaj r\u00f3wnie\u017c:\n\nJak post\u0119puje Ko\u015bci\u00f3\u0142 po \u015bmierci papie\u017ca? Procedury s\u0105 \u015bci\u015ble okre\u015blone\n\nPolka znalaz\u0142a mi\u0142o\u015b\u0107 \u017cycia na pielgrzymce do Santiago de Compostela. \"Niepokoi\u0142o mnie to, jak o mnie my\u015bla\u0142\"\n\nProboszcz ujawnia ko\u015bcielne rachunki. Zdradza te\u017c, sk\u0105d wzi\u0105\u0142 pieni\u0105dze"
         }
