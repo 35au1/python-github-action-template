@@ -10,7 +10,7 @@
             "description": "Monety i banknoty z okresu PRL, podobnie jak inne powsta\u0142e wtedy wytwory artystyczne i u\u017cytkowe wracaj\u0105 na bazie nostalgii, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.jP2JLvcoBSurHlNd31i4pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Gazeta Wroc\u0142awska on MSN1 godz.",
+            "date": "Gazeta Wroc\u0142awska on MSN5 godz.",
             "source": "Gazeta Wroc\u0142awska on MSN",
             "article_content": ""
         }
@@ -26,9 +26,25 @@
             "description": "Czy posiadasz w portfelu monet\u0119 o nominalne 5 z\u0142? Mo\u017ce pojawi\u0142a si\u0119 szansa, aby\u015b sta\u0142 si\u0119 bogat\u0105 osob\u0105! S\u0105 takie monety, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.rXY4IFBt9hVZAYwsRbQrPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski3 godz.",
+            "date": "G\u0142os Koszali\u0144ski7 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Taka 5 z\u0142ot\u00f3wka i inne monety s\u0105 w cenie z\u0142ota. Sprawd\u017a, ile mo\u017cna na nich zarobi\u0107!",
+            "link": "https://www.msn.com/pl-pl/finanse/og%C3%B3lne/taka-5-z%C5%82ot%C3%B3wka-i-inne-monety-s%C4%85-w-cenie-z%C5%82ota-sprawd%C5%BA-ile-mo%C5%BCna-na-nich-zarobi%C4%87-19-02-2025-r/ar-AA1zlLU9?ocid=BingNewsVerp",
+            "description": "Kolekcjonerzy szukaj\u0105 monet z okresu PRL, ale nie tylko, gdy\u017c tak\u017ce monety starsze, a nawet te wsp\u00f3\u0142czesne mog\u0105 by\u0107 cenne. Je\u015bli jeste\u015b w posiadaniu starych monet, najlepiej, zanim j\u0105 komu\u015b sprzedasz, ...",
+            "image_url": "https://www.bing.plNo image",
+            "category": "stare+monety",
+            "date": "Gazeta Pomorska on MSN14 godz.",
+            "source": "Gazeta Pomorska on MSN",
+            "article_content": ""
         }
     },
     {
@@ -42,25 +58,9 @@
             "description": "Wycena monet z PRL-u zale\u017cy od rzadko\u015bci wyst\u0119powania, jako\u015bci wybicia oraz gradingu, czyli stanu jej zachowania. W Polsce znajdziemy wiele okaz\u00f3w wartych kilkaset z\u0142otych, ale s\u0105 te\u017c takie, na ...",
             "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "G\u0142os Szczeci\u0144ski2 godz.",
+            "date": "G\u0142os Szczeci\u0144ski6 godz.",
             "source": "G\u0142os Szczeci\u0144ski",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Taka 5 z\u0142ot\u00f3wka i inne monety s\u0105 w cenie z\u0142ota. Sprawd\u017a, ile mo\u017cna na nich zarobi\u0107!",
-            "link": "https://www.msn.com/pl-pl/finanse/og%C3%B3lne/taka-5-z%C5%82ot%C3%B3wka-i-inne-monety-s%C4%85-w-cenie-z%C5%82ota-sprawd%C5%BA-ile-mo%C5%BCna-na-nich-zarobi%C4%87-19-02-2025-r/ar-AA1zlLU9?ocid=BingNewsVerp",
-            "description": "Kolekcjonerzy szukaj\u0105 monet z okresu PRL, ale nie tylko, gdy\u017c tak\u017ce monety starsze, a nawet te wsp\u00f3\u0142czesne mog\u0105 by\u0107 cenne.",
-            "image_url": "https://www.bing.pl/th?id=OVFT.68CBREw7lkITbtE8SEFhjC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "Gazeta Pomorska on MSN10 godz.",
-            "source": "Gazeta Pomorska on MSN",
-            "article_content": ""
         }
     },
     {
@@ -74,8 +74,40 @@
             "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
             "image_url": "https://www.bing.pl/th?id=OVF.j4SkwcZsjg6npgzTLk00Og&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Express Ilustrowany on MSN1 godz.",
+            "date": "Express Ilustrowany on MSN5 godz.",
             "source": "Express Ilustrowany on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Najbardziej poszukiwane i najcenniejsze pami\u0105tki z PRL-u. Zobacz list\u0119, ceny i zdj\u0119cia. W 2025 roku te przedmioty kosztuj\u0105 krocie [7.03.25]",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/najbardziej-poszukiwane-i-najcenniejsze-pami%C4%85tki-z-prl-u-zobacz-list%C4%99-ceny-i-zdj%C4%99cia-w-2025-roku-te-przedmioty-kosztuj%C4%85-krocie-70325/ar-AA1ArrTe?ocid=BingNewsVerp",
+            "description": "W ostatnich latach przedmioty z czas\u00f3w PRL prze\u017cywaj\u0105 prawdziwy renesans. W 2025 roku kolekcjonerzy coraz ch\u0119tniej poszukuj\u0105 przedmiot\u00f3w z minionej epoki, a ich warto\u015b\u0107 stale ro\u015bnie. Moda na vintage o ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stara+porcelana",
+            "date": "Gazeta Pomorska on MSN2 godz.",
+            "source": "Gazeta Pomorska on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "P\u0142yty winylowe poszukiwane przez kolekcjoner\u00f3w. Tyle w 2025 roku trzeba zap\u0142aci\u0107 za stare kultowe winyle [7.03.2025 r.]",
+            "link": "https://www.msn.com/pl-pl/historia-i-kultura-spo%C5%82ecze%C5%84stwa/pop-kultura/p%C5%82yty-winylowe-poszukiwane-przez-kolekcjoner%C3%B3w-tyle-w-2025-roku-trzeba-zap%C5%82aci%C4%87-za-stare-kultowe-winyle-26-02-2025/ar-AA1zNG1p?ocid=BingNewsVerp",
+            "description": "Stare p\u0142yty winylowe s\u0105 obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli posiadasz takie wydania, warto przyjrze\u0107 si\u0119 im bli\u017cej \u2013 by\u0107 mo\u017ce masz w domu prawdziwy skarb.",
+            "image_url": "https://www.bing.plNo image",
+            "category": "stara+porcelana",
+            "date": "Gazeta Pomorska on MSN4 godz.",
+            "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
     },
@@ -90,25 +122,9 @@
             "description": "Obecnie pragniemy, by nasze domowe wn\u0119trza mia\u0142y sw\u00f3j unikatowy charakter, by\u0142y przytulne i kolorowe. Jednym z pomys\u0142\u00f3w na ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.fVX2LOjoPyAPqK6-wGyrOC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "G\u0142os Koszali\u0144ski3 godz.",
+            "date": "G\u0142os Koszali\u0144ski7 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Kryszta\u0142y PRL poszukiwane przez kolekcjoner\u00f3w 2025. Tyle trzeba zap\u0142aci\u0107 za kryszta\u0142owe naczynia [7.03.2025 r.]",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/kryszta%C5%82y-prl-poszukiwane-przez-kolekcjoner%C3%B3w-2025-tyle-trzeba-zap%C5%82aci%C4%87-za-kryszta%C5%82owe-naczynia-2022025-r/ar-AA1yan8h?ocid=BingNewsVerp",
-            "description": "Kryszta\u0142y produkowane w PRL-u s\u0105 obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli posiadasz kryszta\u0142y z tamtych czas\u00f3w, warto przyjrze\u0107 si\u0119 im bli\u017cej \u2013 by\u0107 mo\u017ce masz w ...",
-            "image_url": "https://www.bing.plNo image",
-            "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN2 godz.",
-            "source": "Gazeta Pomorska on MSN",
-            "article_content": ""
         }
     },
     {
@@ -122,7 +138,7 @@
             "description": "Niekt\u00f3re monety z PRL mo\u017cemy kupi\u0107 ju\u017c za kilkadziesi\u0105t z\u0142otych, s\u0105 r\u00f3wnie\u017c takie, kt\u00f3re wyceniane s\u0105 nawet na... 20 tysi\u0119cy ...",
             "image_url": "https://www.bing.pl/th?id=OVF.2wuQGFvKI%2fTYBBFOT6N2uQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "G\u0142os Koszali\u0144ski3 godz.",
+            "date": "G\u0142os Koszali\u0144ski7 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
         }
@@ -138,41 +154,9 @@
             "description": "Geniusz strategii czy agent mrocznych si\u0142? Lista mo\u017cliwych interpretacji dzia\u0142a\u0144 Donalda Trumpa jest d\u0142u\u017csza. Na razie pewne ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.NHl9aIPJdRQuKsiNpMs1YS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "GazetaPrawna.pl8 godz.",
+            "date": "GazetaPrawna.pl12 godz.",
             "source": "GazetaPrawna.pl",
             "article_content": "Kampanijne zapowiedzi Donalda Trumpa w sprawie ameryka\u0144skiej polityki zagranicznej i bezpiecze\u0144stwa mog\u0142y budzi\u0107 niepok\u00f3j. Pocieszano si\u0119 jednak, \u017ce wyborcza retoryka ma swoje prawa (to akurat prawda), a \u201eg\u0142\u0119bokie pa\u0144stwo\u201d i stare kadry republika\u0144skich polityk\u00f3w zapewne b\u0119d\u0105 zdolne utemperowa\u0107 radykalizm nowego prezydenta. Tymczasem tu\u017c po styczniowej inauguracji Trump ruszy\u0142 z kopyta. Ataki na kraje Ameryki \u0141aci\u0144skiej \u2013 jako pretekst wykorzystuj\u0105ce kwestie migracyjne, narkotyki czy kontrol\u0119 nad Kana\u0142em Panamskim \u2013 nie by\u0142y jeszcze szczeg\u00f3lnym zaskoczeniem. Ciosy wymierzone w Kanad\u0119, jawne wsparcie przedwyborcze dla AfD w Niemczech, absurdalne projekty dotycz\u0105ce Strefy Gazy, dopuszczanie u\u017cycia si\u0142y w celu zagarni\u0119cia Grenlandii \u2013 ju\u017c tak. Podobnie jak skala i charakter uruchomionej w ostatnich dniach wojny taryfowej z s\u0105siadami, tym bardziej, \u017ce na og\u0142oszonej li\u015bcie kolejnych cel\u00f3w, poza Chinami i Uni\u0105 Europejsk\u0105, znalaz\u0142y si\u0119 m.in. Indie i Korea Po\u0142udniowa, a wi\u0119c pa\u0144stwa, wydawa\u0142oby si\u0119, istotne dla budowy przewagi w rejonie Indo-Pacyfiku. Trump zapowiedzia\u0142 te\u017c m.in. ci\u0119cie zach\u0119t finansowych, kt\u00f3re na mocy ponadpartyjnego porozumienia wprowadzono za czas\u00f3w Joe'go Bidena dla koncern\u00f3w technologicznych inwestuj\u0105cych w Stanach w produkcj\u0119 chip\u00f3w. R\u00f3wnocze\u015bnie nowa administracja przyst\u0105pi\u0142a do brutalnej demolki kluczowych instytucji odpowiedzialnych za bezpiecze\u0144stwo, w tym do g\u0142\u0119bokiej czystki w CIA, FBI i innych agencjach. Ale najgorsze (przynajmniej z naszego punktu widzenia) jest to, co sta\u0142o si\u0119 z polityk\u0105 USA wobec konfliktu rosyjsko-ukrai\u0144skiego.\n\nZwrot Stan\u00f3w Zjednoczonych ku Rosji"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "P\u0142yty winylowe poszukiwane przez kolekcjoner\u00f3w. Tyle w 2025 roku trzeba zap\u0142aci\u0107 za stare kultowe winyle",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/p%C5%82yty-winylowe-poszukiwane-przez-kolekcjoner%C3%B3w-tyle-w-2025-roku-trzeba-zap%C5%82aci%C4%87-za-stare-kultowe-winyle/ar-AA1zNG1p?ocid=BingNewsVerp",
-            "description": "Stare p\u0142yty winylowe s\u0105 obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli posiadasz takie wydania, warto przyjrze\u0107 si\u0119 im bli\u017cej \u2013 by\u0107 mo\u017ce masz w domu prawdziwy skarb. Il ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN19 godz.",
-            "source": "Gazeta Pomorska on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Kolekcjonerzy poszukuj\u0105 tych antyk\u00f3w. Unikalne przedmioty do kupienia w internecie. Masz je w domu? 06.03.2025",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/kolekcjonerzy-poszukuj%C4%85-tych-antyk%C3%B3w-unikalne-przedmioty-do-kupienia-w-internecie-masz-je-w-domu-06032025/ar-AA1xM25C?ocid=BingNewsVerp",
-            "description": "Unikalne antyki poszukiwane przez kolekcjoner\u00f3w mog\u0105 zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na nich zarobi\u0107 fortun\u0119. Cz\u0119sto nie ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.2kypfJ5zlmqhWZ9aIUKpMS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "targ+staroci",
-            "date": "G\u0142os Pomorza on MSN23 godz.",
-            "source": "G\u0142os Pomorza on MSN",
-            "article_content": ""
         }
     },
     {
@@ -186,7 +170,7 @@
             "description": "W Poznaniu trwa obecnie rozbi\u00f3rka czterech obiekt\u00f3w. W kolejce czeka ju\u017c Multikino 51, w kt\u00f3rym ostatni seans zaplanowano na ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.X2A3YJYcR6zKmZoxjKV_bC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Pozna\u0144 Nasze Miasto12 godz.",
+            "date": "Pozna\u0144 Nasze Miasto16 godz.",
             "source": "Pozna\u0144 Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -198,11 +182,11 @@
         },
         "body": {
             "title": "Ci\u0105g\u0142a wilgo\u0107 i mrok. G\u00f3ra morderc\u00f3w ze \u015awi\u0119tego Krzy\u017ca",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/usa-zamkn%C4%85-konsulaty-rewolucja-w-ameryka%C5%84skiej-dyplomacji/ar-AA1AqMB5?ocid=BingNewsVerp",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/pis-zamiast-nawrockiego-poprze-mentzena-zaskakuj%C4%85ce-opinie-polityk%C3%B3w/ar-AA1ArRJu?ocid=BingNewsVerp",
             "description": "Ze \u015awi\u0119tego Krzy\u017ca rozpo\u015bciera si\u0119 pi\u0119kny widok, czasem nawet mo\u017cna dostrzec szczyty odleg\u0142ych o ponad 200 km Tatr. Niemcy ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.tWc-z4m7xX4Eh8haK4VwjC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Onet Wiadomo\u015bci on MSN50 min",
+            "date": "Onet Wiadomo\u015bci on MSN51 min",
             "source": "Onet Wiadomo\u015bci on MSN",
             "article_content": ""
         }
@@ -218,7 +202,7 @@
             "description": "Zanim wyruszysz na wypraw\u0119, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 08 marca w Jaworznie ma by\u0107 18\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 09 marca w Jaworznie ma by\u0107 18\u00b0C. Nie b\u0119dzie pada\u0107. Stopie\u0144 trudno\u015bci: ...",
             "image_url": "https://www.bing.pl/th?id=ODF.xuxuzDoKTo_KUVbVG-PJkA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Jaworzno Nasze Miasto18 godz.",
+            "date": "Jaworzno Nasze Miasto22 godz.",
             "source": "Jaworzno Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -234,7 +218,7 @@
             "description": "Wsp\u00f3lnie z Traseo przygotowali\u015bmy 3 trasy nordic walking w odleg\u0142o\u015bci do 6 km od Ko\u0142obrzegu. Zobacz, czy szlak polecany przez innych jest ciekawa r\u00f3wnie\u017c dla Ciebie. Zanim wyjdziesz, upewnij si\u0119, jaka ...",
             "image_url": "https://www.bing.pl/th?id=ODF.xGyVXoJ9b0zlcu2rTPA_6w&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Ko\u0142obrzeg Nasze Miasto18 godz.",
+            "date": "Ko\u0142obrzeg Nasze Miasto22 godz.",
             "source": "Ko\u0142obrzeg Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -250,7 +234,7 @@
             "description": "Wraca bulwersuj\u0105ca sprawa niszczej\u0105cego zabytku na Woli w Warszawie. Kamienica przy ulicy \u0141uckiej 8 od lat popada w kompletn\u0105 ruin\u0119 i zagra\u017ca bezpiecze\u0144stwu. W... Zapomniana Wola, miejsce grozy czy ...",
             "image_url": "https://www.bing.pl/th?id=ODF.RiSZ6cVK2kGKUBp4PkSDCg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Warszawa Nasze Miasto4 godz.",
+            "date": "Warszawa Nasze Miasto9 godz.",
             "source": "Warszawa Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -266,9 +250,57 @@
             "description": "Zanim wyruszysz w drog\u0119, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 08 marca w Ko\u0142obrzegu ma by\u0107 15\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 09 marca w Ko\u0142obrzegu ma by\u0107 16\u00b0C. Nie b\u0119dzie pada\u0107. Czas trwania spaceru: ...",
             "image_url": "https://www.bing.pl/th?id=ODF.xGyVXoJ9b0zlcu2rTPA_6w&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Ko\u0142obrzeg Nasze Miasto18 godz.",
+            "date": "Ko\u0142obrzeg Nasze Miasto22 godz.",
             "source": "Ko\u0142obrzeg Nasze Miasto",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Kuala Lumpur z chmur: od wie\u017cowc\u00f3w do jaski\u0144 Batu",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/kuala-lumpur-z-chmur-od-wie%C5%BCowc%C3%B3w-do-jaski%C5%84-batu/vi-AA1ArSei?ocid=BingNewsVerp",
+            "description": "Przele\u0107 nad t\u0119tni\u0105c\u0105 \u017cyciem panoram\u0105 Kuala Lumpur dzi\u0119ki zapieraj\u0105cym dech w piersiach filmom z drona, kt\u00f3re uchwyc\u0105 jej ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.krNt4i3ETtA6UjHgzPDudA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Amazon S3 on MSN49 min",
+            "source": "Amazon S3 on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Rozleg\u0142e sceny: film lotniczy ujawnia wspania\u0142o\u015b\u0107 Wyspy Man",
+            "link": "https://www.msn.com/pl-pl/podroze/podr%C3%B3%C5%BCe-przygodowe/rozleg%C5%82e-sceny-film-lotniczy-ujawnia-wspania%C5%82o%C5%9B%C4%87-wyspy-man/vi-AA1ArL9k?ocid=BingNewsVerp",
+            "description": "Podziwiaj surowe pi\u0119kno Wyspy Man dzi\u0119ki osza\u0142amiaj\u0105cym filmom z drona ukazuj\u0105cym jej dramatyczne linie brzegowe, zielone ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.kpHdwG5a61%2fJ47t029Gd1A&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Amazon S3 on MSN7 min",
+            "source": "Amazon S3 on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Remont \u017carskiego Ratusza trwa. W podziemiach du\u017co si\u0119 dzieje, a mieszka\u0144cy wci\u0105\u0107 wspominaj\u0105 czasy, gdy bawili si\u0119 tutaj na dyskotekach",
+            "link": "https://www.msn.com/pl-pl/news/other/remont-%C5%BCarskiego-ratusza-trwa-w-podziemiach-du%C5%BCo-si%C4%99-dzieje-a-mieszka%C5%84cy-wci%C4%85%C4%87-wspominaj%C4%85-czasy-gdy-bawili-si%C4%99-tutaj-na-dyskotekach/ar-AA1ArEvM?ocid=BingNewsVerp",
+            "description": "- By\u0142am tam na pocz\u0105tku lat dziewi\u0119\u0107dziesi\u0105tych, wszyscy m\u00f3wili, \u017ce to fajne miejsce, bardzo chcia\u0142am tam p\u00f3j\u015b\u0107, chocia\u017c ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.sauc7F0Xh6IpA%2byaciJe%2fA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Gazeta Lubuska on MSN2 godz.",
+            "source": "Gazeta Lubuska on MSN",
+            "article_content": ""
         }
     },
     {
@@ -282,7 +314,7 @@
             "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.t1QK1sAR9iO3s-WDsfSnTS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "G\u0142os Szczeci\u0144ski2 godz.",
+            "date": "G\u0142os Szczeci\u0144ski6 godz.",
             "source": "G\u0142os Szczeci\u0144ski",
             "article_content": "Content not available"
         }
@@ -293,62 +325,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Przegl\u0105d prasy 7.03.2025. Przygotowali\u015bmy zestaw najwa\u017cniejszych informacji z wczoraj. B\u0105d\u017a na bie\u017c\u0105co z wydarzeniami",
-            "link": "https://pomorska.pl/przeglad-prasy-7-03-2025-przygotowalismy-zestaw-najwazniejszych-informacji-z-wczoraj-badz-na-biezaco-z-wydarzeniami/ar/c1p1-19960903",
-            "description": "Stare p\u0142yty winylowe s\u0105 obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli posiadasz takie ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.N0sxeNoiyuurkcJG-5AgXi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Tak wygl\u0105da syn Franciszka Pieczki, Piotr. Nam opowiedzia\u0142 o ojcu: \"Zanim zosta\u0142 Gustlikiem, pasa\u0142 krowy na \u0142\u0105kach w Godowie\". Zdj\u0119cia",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/tak-wygl%C4%85da-syn-franciszka-pieczki-piotr-nam-opowiedzia%C5%82-o-ojcu-zanim-zosta%C5%82-gustlikiem-pasa%C5%82-krowy-na-%C5%82%C4%85kach-w-godowie-zdj%C4%99cia/ar-AA1AraYq?ocid=BingNewsVerp",
+            "description": "Franciszek Pieczka urodzi\u0142 si\u0119 w 1928 roku w Godowie nieopodal Wodzis\u0142awia \u015al. W 1954 r. sko\u0144czy\u0142 studia w PWST w Warszawie. Karier\u0119 aktorsk\u0105 zaczyna\u0142 w Teatrze Dolno\u015bl\u0105skim w Jeleniej G\u00f3rze. Przez wi ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.73GKiv_kwPXUhIas-a0ZXQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Pomorska4 godz.",
-            "source": "Gazeta Pomorska",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Dzie\u0144 Kobiet pod palmami, czyli najnowsze badania zdradzaj\u0105 turystyczne zwyczaje i marzenia Polek",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/dzie%C5%84-kobiet-pod-palmami-czyli-najnowsze-badania-zdradzaj%C4%85-turystyczne-zwyczaje-i-marzenia-polek/ar-AA1AoAYH?ocid=BingNewsVerp",
-            "description": "Dzie\u0144 Kobiet wypada w tym roku w sobot\u0119 i a\u017c si\u0119 prosi, by z tej okazji polecie\u0107 w jakie\u015b magiczne miejsce, najlepiej pe\u0142ne ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.M9LhHh84ne7gkNgGPbPKLS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Strona Podr\u00f3\u017cy on MSN14 godz.",
-            "source": "Strona Podr\u00f3\u017cy on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Stra\u017cnik przemys\u0142owej pami\u0119ci regionu. Adam Kowalski nagrodzony \"Narratorem\" \u2013 now\u0105 nagrod\u0105 DZ dla ludzi dbaj\u0105cych o regionalne dziedzictwo",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/stra%C5%BCnik-przemys%C5%82owej-pami%C4%99ci-regionu-adam-kowalski-nagrodzony-narratorem-now%C4%85-nagrod%C4%85-dz-dla-ludzi-dbaj%C4%85cych-o-regionalne-dziedzictwo/ar-AA1Aohlb?ocid=BingNewsVerp",
-            "description": "Najlepszy opowiadacz lokalnych historii na \u015al\u0105sku. Cz\u0142owiek ze \u015bl\u0105skim ADHD. Stra\u017cnik przemys\u0142owej pami\u0119ci regionu.",
-            "image_url": "https://www.bing.pl/th?id=OVF.Nl3POhOPEIESOq9S0Cs1jg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Dziennik Zachodni on MSN17 godz.",
+            "date": "Dziennik Zachodni on MSN3 godz.",
             "source": "Dziennik Zachodni on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "07 MARCA 2025",
-            "link": "https://www.krakow.pl/kalendarium/1919,shw,2025-03-07,7,day.html",
-            "description": "Sta\u0142a ekspozycja w Pa\u0142acu Muzeum Ksi\u0105\u017c\u0105t Czartoryskich prezentuje najcenniejsz\u0105 w Polsce i jedn\u0105 z najcenniejszych kolekcji sztuki w Europie. Na wystawie znalaz\u0142y si\u0119 nie tylko arcydzie\u0142a \u015bwiatowego m ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "zabytkowe+przedmioty",
-            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w4 godz.",
-            "source": "Oficjalny serwis miejski - Magiczny Krak\u00f3w",
-            "article_content": "Sta\u0142a wystawa Muzeum Iluzji\n\nPierwsza cz\u0119\u015b\u0107 wystawy po\u015bwi\u0119cona jest historii. Tu dowiemy si\u0119, jak tworzono iluzje kilkaset i kilka tysi\u0119cy lat temu. Dlaczego s\u0105dzono, \u017ce Chi\u0144skie Magiczne Lustra naprawd\u0119 s\u0105 magiczne oraz w jaki spos\u00f3b powstawa\u0142y pierwsze kr\u00f3tkie..."
         }
     },
     {
@@ -362,25 +346,9 @@
             "description": "Czy posiadasz w portfelu monet\u0119 o nominalne 5 z\u0142? Mo\u017ce pojawi\u0142a si\u0119 szansa, aby\u015b sta\u0142 si\u0119 bogat\u0105 osob\u0105! S\u0105 takie monety, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.rXY4IFBt9hVZAYwsRbQrPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Koszali\u0144ski3 godz.",
+            "date": "G\u0142os Koszali\u0144ski7 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Rzadkie monety z PRL poszukiwane przez kolekcjoner\u00f3w. Sprawd\u017a, kt\u00f3re s\u0105 najdro\u017csze i ile mo\u017cna za nie zarobi\u0107! 07.03.2025",
-            "link": "https://www.msn.com/pl-pl/finanse/og%C3%B3lne/rzadkie-monety-z-prl-poszukiwane-przez-kolekcjoner%C3%B3w-sprawd%C5%BA-kt%C3%B3re-s%C4%85-najdro%C5%BCsze-i-ile-mo%C5%BCna-za-nie-zarobi%C4%87-07-03-2025/ar-AA1AqHjZ?ocid=BingNewsVerp",
-            "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.8%2fuN%2bUNTSNcwyEM4A2LUCg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+numizmatyka",
-            "date": "Express Ilustrowany on MSN1 godz.",
-            "source": "Express Ilustrowany on MSN",
-            "article_content": ""
         }
     },
     {
@@ -394,8 +362,24 @@
             "description": "Monety i banknoty z okresu PRL, podobnie jak inne powsta\u0142e wtedy wytwory artystyczne i u\u017cytkowe wracaj\u0105 na bazie nostalgii, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.jP2JLvcoBSurHlNd31i4pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Wroc\u0142awska on MSN1 godz.",
+            "date": "Gazeta Wroc\u0142awska on MSN5 godz.",
             "source": "Gazeta Wroc\u0142awska on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Najbardziej poszukiwane i najcenniejsze pami\u0105tki z PRL-u. Zobacz list\u0119, ceny i zdj\u0119cia. W 2025 roku te przedmioty kosztuj\u0105 krocie [7.03.25]",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/najbardziej-poszukiwane-i-najcenniejsze-pami%C4%85tki-z-prl-u-zobacz-list%C4%99-ceny-i-zdj%C4%99cia-w-2025-roku-te-przedmioty-kosztuj%C4%85-krocie-7-03-25/ar-AA1ArrTe?ocid=BingNewsVerp",
+            "description": "W ostatnich latach przedmioty z czas\u00f3w PRL prze\u017cywaj\u0105 prawdziwy renesans. W 2025 roku kolekcjonerzy coraz ch\u0119tniej poszukuj\u0105 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.XXJILBIDmc28mJlpkYZZuy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+numizmatyka",
+            "date": "Gazeta Pomorska on MSN2 godz.",
+            "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
     },
@@ -407,10 +391,10 @@
         "body": {
             "title": "Taka 5 z\u0142ot\u00f3wka i inne monety s\u0105 w cenie z\u0142ota. Sprawd\u017a, ile mo\u017cna na nich zarobi\u0107!",
             "link": "https://www.msn.com/pl-pl/finanse/og%C3%B3lne/taka-5-z%C5%82ot%C3%B3wka-i-inne-monety-s%C4%85-w-cenie-z%C5%82ota-sprawd%C5%BA-ile-mo%C5%BCna-na-nich-zarobi%C4%87-19-02-2025-r/ar-AA1zlLU9?ocid=BingNewsVerp",
-            "description": "Kolekcjonerzy szukaj\u0105 monet z okresu PRL, ale nie tylko, gdy\u017c tak\u017ce monety starsze, a nawet te wsp\u00f3\u0142czesne mog\u0105 by\u0107 cenne.",
-            "image_url": "https://www.bing.pl/th?id=OVFT.68CBREw7lkITbtE8SEFhjC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "description": "Kolekcjonerzy szukaj\u0105 monet z okresu PRL, ale nie tylko, gdy\u017c tak\u017ce monety starsze, a nawet te wsp\u00f3\u0142czesne mog\u0105 by\u0107 cenne. Je\u015bli jeste\u015b w posiadaniu starych monet, najlepiej, zanim j\u0105 komu\u015b sprzedasz, ...",
+            "image_url": "https://www.bing.plNo image",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Pomorska on MSN10 godz.",
+            "date": "Gazeta Pomorska on MSN14 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -426,25 +410,9 @@
             "description": "Wystawa mie\u015bci si\u0119 w dawnym budynku administracyjnym Fabryki Emalia Oskara Schindlera przy ul. Lipowej 4 i jest opowie\u015bci\u0105 o Krakowie i losach jego polskich i \u017cydowskich mieszka\u0144c\u00f3w w czasie II wojny ...",
             "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w4 godz.",
+            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w8 godz.",
             "source": "Oficjalny serwis miejski - Magiczny Krak\u00f3w",
             "article_content": "Krak\u00f3w \u2013 czas okupacji 1939-1945\n\nWystawa mie\u015bci si\u0119 w dawnym budynku administracyjnym Fabryki Emalia Oskara Schindlera przy ul. Lipowej 4 i jest opowie\u015bci\u0105 o Krakowie i losach jego polskich i \u017cydowskich mieszka\u0144c\u00f3w w czasie II wojny \u015bwiatowej, ale te\u017c o Niemcach \u2013 okupantach,..."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Krzy\u017cackie i polskie monety w r\u0119kach badaczy! Szokuj\u0105ce odkrycie w Borach Tucholskich",
-            "link": "https://www.se.pl/bydgoszcz/krzyzackie-i-polskie-monety-w-rekach-badaczy-szokujace-odkrycie-w-borach-tucholskich-aa-m3yM-hSAL-sWok.html",
-            "description": "Podczas ostatnich poszukiwa\u0144 w lasach Nadle\u015bnictwa Woziwoda, niedaleko Tucholi, dokonano wyj\u0105tkowego odkrycia ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.0ToS4kVqTQJNPJirD-dZRS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Super Express23 godz.",
-            "source": "Super Express",
-            "article_content": "Kiedy jest Dzie\u0144 Ch\u0142opaka, a kiedy Dzie\u0144 M\u0119\u017cczyzny? Data tych \u015bwi\u0105t jest r\u00f3\u017cna, \u0142atwo si\u0119 pomyli\u0107!\n\nDzie\u0144 Kobiet 2025. Co kupi\u0107 8 marca? Te prezenty zawsze si\u0119 sprawdzaj\u0105\n\nAutor:\n\nKrzy\u017cackie i polskie monety w r\u0119kach badaczy! Szokuj\u0105ce odkrycie w Borach Tucholskich\n\nJak wyja\u015bnia Mi\u0119dzywojew\u00f3dzkie Stowarzyszenie Detektorystyczno-Eksploracyjne UNIA, poszukiwania prowadzone by\u0142y zgodnie z przepisami, pod nadzorem Wojew\u00f3dzkiego Urz\u0119du Ochrony Zabytk\u00f3w w Bydgoszczy, a ich kierownikiem by\u0142 Maciej Malewicz.\n\nZobacz: Tak kiedy\u015b \u017cy\u0142o si\u0119 w Bydgoszczy. Mamy archiwalne zdj\u0119cia!\n\nCzym by\u0142y odnalezione monety?\n\nJak wyja\u015bniaj\u0105 eksperci, krzy\u017cackie szel\u0105gi, te niewielkie srebrne monety by\u0142y powszechnie u\u017cywane w pa\u0144stwie zakonnym i w krajach o\u015bciennych. By\u0142y akceptowanym \u015brodkiem p\u0142atniczym, pozwalaj\u0105cym na zakup codziennych produkt\u00f3w, takich jak chleb, piwo czy s\u00f3l, kt\u00f3ra w \u015bredniowieczu by\u0142a niezwykle cenna.\n\nNatomiast polskie kwartniki W\u0142adys\u0142awa Jagie\u0142\u0142y, to r\u00f3wnie\u017c drobne monety srebrne bite na ziemiach polskich w okresie panowania tego w\u0142adcy. Mia\u0142y wy\u017csz\u0105 warto\u015b\u0107 ni\u017c szel\u0105gi i umo\u017cliwia\u0142y zakup wi\u0119kszej ilo\u015bci \u017cywno\u015bci, tkanin czy noclegu w gospodzie. Ich obecno\u015b\u0107 w tym regionie mo\u017ce \u015bwiadczy\u0107 o kontaktach handlowych mi\u0119dzy pa\u0144stwem zakonnym a ziemiami polskimi.\n\nZnalezione monety to cenne \u017ar\u00f3d\u0142o informacji o handlu i gospodarce \u015bredniowiecznego Pomorza. \u015awiadcz\u0105 o tym, \u017ce tereny te by\u0142y aren\u0105 wymiany towar\u00f3w i waluty mi\u0119dzy Kr\u00f3lestwem Polskim a pa\u0144stwem krzy\u017cackim, mimo napi\u0119tych relacji politycznych. Odkrycie mo\u017ce r\u00f3wnie\u017c pom\u00f3c historykom lepiej zrozumie\u0107 szlaki handlowe oraz codzienne \u017cycie mieszka\u0144c\u00f3w tego regionu w XIV i XV wieku.\n\nTo niezwyk\u0142e znalezisko podkre\u015bla, jak wiele tajemnic kryj\u0105 jeszcze polskie ziemie i jak istotna jest dba\u0142o\u015b\u0107 o nasze historyczne dziedzictwo."
         }
     },
     {
@@ -458,7 +426,7 @@
             "description": "Najstarsze jak dot\u0105d znane narz\u0119dzia z ko\u015bci sprzed 1,5 mln lat odkry\u0142 mi\u0119dzynarodowy zesp\u00f3\u0142 naukowc\u00f3w w w\u0105wozie Olduvai w Tanzanii. Narz\u0119dzia s\u0105 o milion lat s ...",
             "image_url": "https://www.bing.pl/th?id=ODF.QbZkeD5bEwjRrSbF6QgihA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Rzeczpospolita on MSN17 godz.",
+            "date": "Rzeczpospolita on MSN21 godz.",
             "source": "Rzeczpospolita on MSN",
             "article_content": ""
         }
