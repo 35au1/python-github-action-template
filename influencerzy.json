@@ -5,14 +5,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Ksiazki za 1 zl",
-            "link": "https://warszawa.naszemiasto.pl/tag/ksiazki-za-1-zl",
-            "description": "Antykwariat Grochowski w Warszawie po raz kolejny organizuje wielk\u0105 wyprzeda\u017c ksi\u0105\u017cek. W puli a\u017c 25 tys. lektur do zgarni\u0119cia ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Retro poszukiwane przez kolekcjoner\u00f3w - ceny, zdj\u0119cia. Tyle w 2025 roku kosztuj\u0105 takie stylowe starocie [14.03.2025]",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/retro-poszukiwane-przez-kolekcjoner%C3%B3w-ceny-zdj%C4%99cia-tyle-w-2025-roku-kosztuj%C4%85-takie-stylowe-starocie-14032025/ar-AA1ARQir?ocid=BingNewsVerp",
+            "description": "Moda na przedmioty z dawnych lat nie s\u0142abnie, a w 2025 roku przedmioty retro ciesz\u0105 si\u0119 ogromnym zainteresowaniem. Kolekcjonerzy i mi\u0142o\u015bnicy gad\u017cet\u00f3w i pami\u0105tek w starym stylu poszukuj\u0105 unikalnych prz ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "Warszawa Nasze Miasto9 godz.",
-            "source": "Warszawa Nasze Miasto",
-            "article_content": "Content not available"
+            "date": "Gazeta Pomorska on MSN2 godz.",
+            "source": "Gazeta Pomorska on MSN",
+            "article_content": ""
         }
     },
     {
@@ -26,7 +26,7 @@
             "description": "Stworzyli\u015bmy co\u015b niesamowitego \u201eOstatni Pchli Targ za nami, a teraz czas na kwietniow\u0105 edycj\u0119! Stworzyli\u015bmy co\u015b ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.16kylnXv3wO_XYZbc7nzHi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Kurier Lubelski on MSN8 godz.",
+            "date": "Kurier Lubelski on MSN1 godz.",
             "source": "Kurier Lubelski on MSN",
             "article_content": ""
         }
@@ -37,12 +37,28 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Wadliwe monety mog\u0105 by\u0107 w cenie z\u0142ota. Tyle kosztuj\u0105 stare i uszkodzone pieni\u0105dze [13.03.2025 r.]",
-            "link": "https://www.msn.com/pl-pl/finanse/og%C3%B3lne/wadliwe-monety-mog%C4%85-by%C4%87-w-cenie-z%C5%82ota-tyle-kosztuj%C4%85-stare-i-uszkodzone-pieni%C4%85dze-13-03-2025/ar-AA1AOy73?ocid=BingNewsVerp",
+            "title": "Ksiazki za 1 zl",
+            "link": "https://warszawa.naszemiasto.pl/tag/ksiazki-za-1-zl",
+            "description": "Antykwariat Grochowski w Warszawie po raz kolejny organizuje wielk\u0105 wyprzeda\u017c ksi\u0105\u017cek. W puli a\u017c 25 tys. lektur do zgarni\u0119cia ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Warszawa Nasze Miasto13 godz.",
+            "source": "Warszawa Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Wadliwe monety mog\u0105 by\u0107 w cenie z\u0142ota. Tyle kosztuj\u0105 stare i uszkodzone pieni\u0105dze [14.03.2025]",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/wadliwe-monety-mog%C4%85-by%C4%87-w-cenie-z%C5%82ota-tyle-kosztuj%C4%85-stare-i-uszkodzone-pieni%C4%85dze-14032025/ar-AA1AOy73?ocid=BingNewsVerp",
             "description": "Kolekcjonerzy szczeg\u00f3lnie interesuj\u0105 si\u0119 destruktami, poniewa\u017c wadliwe monety s\u0105 unikalne \u2013 ka\u017cda z nich jest inna. Dzi\u0119ki ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.MXBRkto87stpSsY7O4QGqw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "image_url": "https://www.bing.pl/th?id=OVFT.HIKdjEYd006CG0QOwxKNNi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Gazeta Pomorska on MSN3 godz.",
+            "date": "Gazeta Pomorska on MSN2 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -58,7 +74,7 @@
             "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet ...",
             "image_url": "https://www.bing.pl/th?id=OVF.vqL8PdUVZnCCtVoD0TABlw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski11 godz.",
+            "date": "G\u0142os Koszali\u0144ski15 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
         }
@@ -74,7 +90,7 @@
             "description": "Monety i banknoty z okresu PRL, podobnie jak inne powsta\u0142e wtedy wytwory artystyczne i u\u017cytkowe wracaj\u0105 na bazie nostalgii, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.h2nhAavHWgN44pueWeHAkC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Gazeta Wroc\u0142awska on MSN9 godz.",
+            "date": "Gazeta Wroc\u0142awska on MSN13 godz.",
             "source": "Gazeta Wroc\u0142awska on MSN",
             "article_content": ""
         }
@@ -90,7 +106,7 @@
             "description": "Wycena monet z PRL-u zale\u017cy od rzadko\u015bci wyst\u0119powania, jako\u015bci wybicia oraz gradingu, czyli stanu jej zachowania. W Polsce znajdziemy wiele okaz\u00f3w wartych kilkaset z\u0142otych, ale s\u0105 te\u017c takie, na ...",
             "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "G\u0142os Szczeci\u0144ski10 godz.",
+            "date": "G\u0142os Szczeci\u0144ski14 godz.",
             "source": "G\u0142os Szczeci\u0144ski",
             "article_content": "Content not available"
         }
@@ -106,7 +122,7 @@
             "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ich pojawienia si\u0119 na rynku. Najcz\u0119\u015bciej poszukiwane monety przez kolekcjone ...",
             "image_url": "https://www.bing.pl/th?id=ODF.A9xqYWX22R6wJlvUbZ9SPQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "Express Ilustrowany on MSN9 godz.",
+            "date": "Express Ilustrowany on MSN13 godz.",
             "source": "Express Ilustrowany on MSN",
             "article_content": ""
         }
@@ -117,12 +133,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Porcelana z czas\u00f3w PRL w cenie z\u0142ota. Tyle dzi\u015b kosztuj\u0105 stare porcelanowe naczynia, wazony i figurki [13.03.2025 r.]",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/porcelana-z-czas%C3%B3w-prl-w-cenie-z%C5%82ota-tyle-dzi%C5%9B-kosztuj%C4%85-stare-porcelanowe-naczynia-wazony-i-figurki-13032025-r/ar-AA1Akgc1?ocid=BingNewsVerp",
+            "title": "Porcelana z czas\u00f3w PRL w cenie z\u0142ota. Tyle dzi\u015b kosztuj\u0105 stare porcelanowe naczynia, wazony i figurki [14.03.2025]",
+            "link": "https://www.msn.com/pl-pl/finanse/ekonomia/porcelana-z-czas%C3%B3w-prl-w-cenie-z%C5%82ota-tyle-dzi%C5%9B-kosztuj%C4%85-stare-porcelanowe-naczynia-wazony-i-figurki-14-03-2025/ar-AA1Akgc1?ocid=BingNewsVerp",
             "description": "Porcelana produkowana w PRL-u jest obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli posiadasz ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.Km7hSir5dwkEIoE9bxRVuS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN3 godz.",
+            "date": "Gazeta Pomorska on MSN2 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -138,7 +154,7 @@
             "description": "Unikalna porcelana z PRL poszukiwana przez kolekcjoner\u00f3w mo\u017ce zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na niej zarobi\u0107 fortun\u0119!",
             "image_url": "https://www.bing.pl/th?id=OVFT.5dtWIPVNE5gFDRdWIeeypi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "G\u0142os Pomorza on MSN8 godz.",
+            "date": "G\u0142os Pomorza on MSN12 godz.",
             "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
         }
@@ -154,7 +170,7 @@
             "description": "Obecnie pragniemy, by nasze domowe wn\u0119trza mia\u0142y sw\u00f3j unikatowy charakter, by\u0142y przytulne i kolorowe. Jednym z pomys\u0142\u00f3w na wzbogacenie naszego domowego wn\u0119trza z pewno\u015bci\u0105 s\u0105 kwiaty. Nie tylko dodaj\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "G\u0142os Koszali\u0144ski11 godz.",
+            "date": "G\u0142os Koszali\u0144ski15 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
         }
@@ -170,7 +186,7 @@
             "description": "Ta porcelana z PRL jest warta maj\u0105tek! Unikatowe zestawy, talerze, fili\u017canki z PRL. Tych przedmiot\u00f3w szukaj\u0105 kolekcjonerzy! Obecnie poszukujemy nie tylko tak popularnych przedmiot\u00f3w, ale r\u00f3wnie\u017c tych ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "G\u0142os Koszali\u0144ski11 godz.",
+            "date": "G\u0142os Koszali\u0144ski15 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
         }
@@ -186,7 +202,7 @@
             "description": "Kolekcjonerzy, pasjonaci historii i wszyscy, kt\u00f3rzy kochaj\u0105 przedmioty z dusz\u0105 s\u0105 zapraszani prze w\u0142adze miejskie Stalowej ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.wj_vKcRqwygqui4eQFzyQy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Nasze Miasto on MSN3 godz.",
+            "date": "Nasze Miasto on MSN7 godz.",
             "source": "Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -197,13 +213,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Druga edycja Eko Targu w Centrum Handlowym Tulipan",
-            "link": "https://expressilustrowany.pl/druga-edycja-eko-targu-w-centrum-handlowym-tulipan/ar/c1p2-27359131",
-            "description": "W sobot\u0119, 15 marca br. odb\u0119dzie si\u0119 Eko Targ w Tulipanie. Ka\u017cdy produkt, kt\u00f3ry znajdzie si\u0119 na Eko Targu w Centrum Handlowym Tulipan, to efekt pracy lokalnych rzemie\u015blnik\u00f3w, inspiruj\u0105cy do zmiany ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.A9xqYWX22R6wJlvUbZ9SPQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Targowisko w B\u0119dzinie",
+            "link": "https://bedzin.naszemiasto.pl/tag/targowisko-w-bedzinie",
+            "description": "Na Targowisku Miejskim w B\u0119dzinie przy ul. Gzichowskiej, handlarze zaprezentowali kolekcj\u0119 odzie\u017cy jesiennej. Stoiska uginaj\u0105 si\u0119 od kolorowych ubra\u0144. ZOBACZ W... Targowisko Miejskie w B\u0119dzinie t\u0119tni\u0142 ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.g0IUDeWX3FtI3H8hkZ4UzA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Express Ilustrowany21 godz.",
-            "source": "Express Ilustrowany",
+            "date": "B\u0119dzin Nasze Miasto1 godz.",
+            "source": "B\u0119dzin Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -218,24 +234,8 @@
             "description": "Unikalne antyki poszukiwane przez kolekcjoner\u00f3w mog\u0105 zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na nich zarobi\u0107 fortun\u0119. Cz\u0119sto nie mamy \u015bwiadomo\u015bci, \u017ce przedmioty posiadane w domu warte s\u0105 du\u017co pieni\u0119dzy.",
             "image_url": "https://www.bing.pl/th?id=ODF.U-Vp0xK7SYVhjnH4oToWdw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "G\u0142os Wielkopolski9 godz.",
+            "date": "G\u0142os Wielkopolski13 godz.",
             "source": "G\u0142os Wielkopolski",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Czterej pancerni wroc\u0142aw",
-            "link": "https://gazetawroclawska.pl/tag/czterej-pancerni-wroclaw",
-            "description": "\u201eCzterej pancerni i pies' pierwszy raz pojawili si\u0119 w telewizji 59 lat temu. W\u0142a\u015bnie dlatego przypominamy nasz archiwalny materia\u0142 o tej niezwyk\u0142ej produkcji.... S\u0142awomir Szeliga, pasjonat polskich fi ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.p9YO103MXreScWBGsL62IA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "targ+staroci",
-            "date": "Gazeta Wroc\u0142awska10 min",
-            "source": "Gazeta Wroc\u0142awska",
             "article_content": "Content not available"
         }
     },
@@ -250,9 +250,41 @@
             "description": "Stworzyli\u015bmy co\u015b niesamowitego \u201eOstatni Pchli Targ za nami, a teraz czas na kwietniow\u0105 edycj\u0119! Stworzyli\u015bmy co\u015b ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.16kylnXv3wO_XYZbc7nzHi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Kurier Lubelski on MSN8 godz.",
+            "date": "Kurier Lubelski on MSN1 godz.",
             "source": "Kurier Lubelski on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pras\u00f3wka 13.03.2025. Zobacz zestawienie najwa\u017cniejszych informacji z wczoraj z naszego wojew\u00f3dztwa",
+            "link": "https://to.com.pl/prasowka-13-03-2025-zobacz-zestawienie-najwazniejszych-informacji-z-wczoraj-z-naszego-wojewodztwa/ar/c1p1-19960931",
+            "description": "W przeddzie\u0144 Dnia Kobiet, 7 marca 2025 r., \u015bwietlica wiejska w Starej Zblisze rozbrzmiewa\u0142a \u015bmiechem i rado\u015bci\u0105. Spotkanie ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.ZURWxHv9h1e9MGZKBK9HsC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "Tygodnik Ostro\u0142\u0119cki16 godz.",
+            "source": "Tygodnik Ostro\u0142\u0119cki",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Mroczne relikty przesz\u0142o\u015bci \u2013 mitologia sumeryjska",
+            "link": "https://www.salon24.pl/u/jan-bodakowski/1432704,mroczne-relikty-przeszlosci-mitologia-sumeryjska",
+            "description": "Jan Bodakowski Mroczne relikty przesz\u0142o\u015bci \u2013 mitologia sumeryjska Popkultura czerpie inspiracje z mrocznych relikt\u00f3w ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.jZgrwEuzKnwasKESeYB_Iw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "relikty",
+            "date": "Salon243 godz.",
+            "source": "Salon24",
+            "article_content": "13.03.2025 BLOG\n\nPopkultura czerpie inspiracje z mrocznych relikt\u00f3w przesz\u0142o\u015bci. Staro\u017cytne, cz\u0119sto demoniczne b\u00f3stwa, staj\u0105 si\u0119 negatywnymi lub pozytywnymi bohaterami film\u00f3w, seriali, gier, ksi\u0105\u017cek, komiks\u00f3w czy piosenek. Konsumenci popkultury cz\u0119sto nie maj\u0105 poj\u0119cia, z kim maj\u0105 do czynienia.\n\nJan Bodakowski\n\nMroczne relikty przesz\u0142o\u015bci \u2013 mitologia sumeryjska\n\n\n\nPopkultura czerpie inspiracje z mrocznych relikt\u00f3w przesz\u0142o\u015bci. Staro\u017cytne, cz\u0119sto demoniczne b\u00f3stwa, staj\u0105 si\u0119 negatywnymi lub pozytywnymi bohaterami film\u00f3w, seriali, gier, ksi\u0105\u017cek, komiks\u00f3w czy piosenek. Konsumenci popkultury cz\u0119sto nie maj\u0105 poj\u0119cia, z kim maj\u0105 do czynienia.\n\n\n\nJednym z takich mrocznych relikt\u00f3w przesz\u0142o\u015bci jest mitologia sumeryjska. Albo odkry\u0107, kt\u00f3rzy znani nam popkulturowi bohaterowie i kt\u00f3re znane nam motywy pochodz\u0105 sumeryjskiej mitologi, warto si\u0119gn\u0105\u0107 do publikacji opisuj\u0105cych mitologie Sumer\u00f3w.\n\n\n\nJedn\u0105 z takich publikacji jest 336 stronicowa, zawieraj\u0105ca 16 stron kolorowych ilustracji, wydana przez wydawnictwo Replika, praca \u201eMitologia sumeryjska. Stworzenie \u015bwiata\u201d autorstwa Przemys\u0142awa Kulczaka.\n\n\n\n\u201eMitologia sumeryjska. Stworzenie \u015bwiata\u201d przedstawia mitologie Sumer\u00f3w w formie powie\u015bci, kt\u00f3rej bohaterami s\u0105 sumerskie b\u00f3stwa.\n\n\n\nDzi\u015b tereny przed tysi\u0105cleciami zamieszkiwane przez Sumer\u00f3w, zwane Mezopotami\u0105, znajduj\u0105 si\u0119 w Iraku i Kuwejcie.\n\n\n\nJan Bodakowski\n\n\n\n"
         }
     },
     {
@@ -266,9 +298,41 @@
             "description": "Warto przypomnie\u0107, \u017ce wi\u0105\u017c\u0105ce si\u0119 z konieczno\u015bci\u0105 zamkni\u0119cia dla ruchu tramwajowego ulicy 3 Maja i wy\u0142\u0105czenia z ruchu aut \u0142\u0105cznika jej jezdni przy wje\u017adzie do Galerii Forum rozpadlisko zosta\u0142o ...",
             "image_url": "https://www.bing.pl/th?id=ODF.5s2nDicEFNR6T9e5rt0xCA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Dziennik Ba\u0142tycki on MSN5 godz.",
+            "date": "Dziennik Ba\u0142tycki on MSN9 godz.",
             "source": "Dziennik Ba\u0142tycki on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Archeolog: Badania potwierdzaj\u0105 wielko\u015b\u0107 i m\u0105dro\u015b\u0107 Chrobrego",
+            "link": "https://www.msn.com/pl-pl/historia-i-kultura-spo%C5%82ecze%C5%84stwa/historia/archeolog-badania-potwierdzaj%C4%85-wielko%C5%9B%C4%87-i-m%C4%85dro%C5%9B%C4%87-chrobrego/ar-AA1ARtUZ?ocid=BingNewsVerp",
+            "description": "W stolicy Wielkopolski rozpocz\u0119\u0142a si\u0119 dzi\u015b mi\u0119dzynarodowa konferencja naukowa pt. \u201eKr\u00f3l Boles\u0142aw Chrobry i jego czasy. Pozna\u0144 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.Vy8B9J5TuPQhnzIa0JoISS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "wPolityce.pl on MSN3 godz.",
+            "source": "wPolityce.pl on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "II wojna \u015bwiatowa",
+            "link": "https://warszawa.naszemiasto.pl/tag/ii-wojna-swiatowa",
+            "description": "Cz\u0142onkowie Sochaczewskiej Grupy Odkrywc\u00f3w Historii dokonali wyj\u0105tkowego i nieoczekiwanego odkrycia podczas poszukiwa\u0144 \u015blad\u00f3w stoczonej w trakcie kampanii... Sensacyjne odkrycie u st\u00f3p Twierdzy Modlin.",
+            "image_url": "https://www.bing.pl/th?id=ODF.RiSZ6cVK2kGKUBp4PkSDCg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "relikty",
+            "date": "Warszawa Nasze Miasto1 godz.",
+            "source": "Warszawa Nasze Miasto",
+            "article_content": "Content not available"
         }
     },
     {
@@ -282,73 +346,9 @@
             "description": "Zanim wyruszysz w tras\u0119, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 15 marca w Ko\u0142obrzegu ma by\u0107 5\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 16 marca w Ko\u0142obrzegu ma by\u0107 5\u00b0C. Nie b\u0119dzie pada\u0107. Czas trwania spaceru: 3 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.xGyVXoJ9b0zlcu2rTPA_6w&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Ko\u0142obrzeg Nasze Miasto2 godz.",
+            "date": "Ko\u0142obrzeg Nasze Miasto6 godz.",
             "source": "Ko\u0142obrzeg Nasze Miasto",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Zanik\u0142e miasto sprzed wiek\u00f3w. To odkrycie wzbudzi\u0142o sensacj\u0119. Rozmawiamy z Andrzejem Kuczkowskim, niezale\u017cnym badaczem",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/zanik%C5%82e-miasto-sprzed-wiek%C3%B3w-to-odkrycie-wzbudzi%C5%82-sensacj%C4%99-rozmawiamy-z-andrzejem-kuczkowskim-niezale%C5%BCnym-badaczem/ar-AA1AOTN6?ocid=BingNewsVerp",
-            "description": "Pierwszym, historycznie i pewnie po\u015bwiadczonym przedstawicielem tej rodziny by\u0142 Warcis\u0142aw I, kt\u00f3ry zmar\u0142 oko\u0142o 1135 roku. To ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.vWI9fRtY8r3eR4XsX8Yj2g&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "G\u0142os Koszali\u0144ski on MSN11 godz.",
-            "source": "G\u0142os Koszali\u0144ski on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "\u015acie\u017cki nordic walking do 6 km od Ko\u0142obrzegu. Urokliwe trasy na weekend 15 - 16 marca",
-            "link": "https://kolobrzeg.naszemiasto.pl/sciezki-nordic-walking-do-6-km-od-kolobrzegu-urokliwe-trasy-na-weekend-15-16-marca/ar/c7p1-22319027",
-            "description": "Razem z Traseo przygotowali\u015bmy 3 trasy nordic walking w odleg\u0142o\u015bci do 6 km od Ko\u0142obrzegu. Sprawd\u017a, czy \u015bcie\u017cka polecana przez innego u\u017cytkownika Traseo jest dobra r\u00f3wnie\u017c dla Ciebie. Przed drog\u0105 ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.xGyVXoJ9b0zlcu2rTPA_6w&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "relikty",
-            "date": "Ko\u0142obrzeg Nasze Miasto2 godz.",
-            "source": "Ko\u0142obrzeg Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Szukaj\u0105 wykonawcy na konserwacj\u0119 mur\u00f3w",
-            "link": "https://www.tcz.pl/index.php?p=1,47,0,wiadomosci&item=dfd69a5eee0fa354&title=Szukaja-wykonawcy-na-konserwacje-murow",
-            "description": "Ratusz og\u0142osi\u0142 przetarg na wykonanie prac konserwatorskich, restauratorskich oraz budowlanych fragmentu mur\u00f3w obronnych przy ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.THxhAmVaeX8Uh0GboiHSKS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "TCZ.PL11 godz.",
-            "source": "TCZ.PL",
-            "article_content": "nie na temat, ujadanie frustrat\u00f3w z pnp\n\nParking wreszcie powstanie ale byli b\u0119d\u0105 tu ujada\u0107. Nie macie ju\u017c nic sensownego do napisania - skracacie kadencje, obra\u017cacie, konfabulujecie, plujecie jadem, bo interesy z miastem si\u0119 poko\u0144czy\u0142y, i to za wielokrotno\u015b\u0107 tego, co na rynku. Wyj\u0105 te\u017c ci, kt\u00f3rzy nagle si\u0119 zorientowali, \u017ce na [...]\n\n\n\nOcena: +50\n\nAutor: zaraz si\u0119 zacznie_go\u015b\u0107"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Poszukiwacze skarb\u00f3w maj\u0105 k\u0142opoty. Us\u0142yszeli zarzuty przyw\u0142aszczenia zabytk\u00f3w",
-            "link": "https://warszawa.wyborcza.pl/warszawa/7,54420,31766526,poszukiwacze-skarbow-maja-klopoty-uslyszeli-zarzuty.html",
-            "description": "Ludzkie szcz\u0105tki, kilka bagnet\u00f3w, monet, o\u0142owianych kul, a tak\u017ce elementy broni palnej i amunicj\u0119 wykopali w Twierdzy Modlin ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.Y8bMq5IyQhT9ic_htyt54i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Warszawa.Wyborcza.pl3 godz.",
-            "source": "Warszawa.Wyborcza.pl",
-            "article_content": ""
         }
     },
     {
@@ -362,9 +362,25 @@
             "description": "Dwa dobrze zachowane \u017celazne zabytki, pochodz\u0105ce prawdopodobnie z X\u2013XII wieku, zosta\u0142y przekazane do urz\u0119du konserwatorskiego ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.nNNzaHx_PYRz4LdOJpOZcy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Lublin112.pl8 godz.",
+            "date": "Lublin112.pl12 godz.",
             "source": "Lublin112.pl",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Poszukiwacze skarb\u00f3w maj\u0105 k\u0142opoty. Us\u0142yszeli zarzuty przyw\u0142aszczenia zabytk\u00f3w",
+            "link": "https://warszawa.wyborcza.pl/warszawa/7,54420,31766526,poszukiwacze-skarbow-maja-klopoty-uslyszeli-zarzuty.html",
+            "description": "Ludzkie szcz\u0105tki, kilka bagnet\u00f3w, monet, o\u0142owianych kul, a tak\u017ce elementy broni palnej i amunicj\u0119 wykopali w Twierdzy Modlin ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.Y8bMq5IyQhT9ic_htyt54i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Warszawa.Wyborcza.pl7 godz.",
+            "source": "Warszawa.Wyborcza.pl",
+            "article_content": ""
         }
     },
     {
@@ -378,7 +394,7 @@
             "description": "12 marca 2025 roku dy\u017curny opoczy\u0144skiej policji otrzyma\u0142 zg\u0142oszenie od mieszka\u0144ca powiatu opoczy\u0144skiego o odnalezieniu niewybuchu. Policjanci ustalili, \u017ce w rejonie Ostrowa (gmina Opoczno) m\u0119\u017cczyzna ...",
             "image_url": "https://www.bing.pl/th?id=ODF.uJelon1vmcKYEKRidTlMcA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "Dziennik \u0141\u00f3dzki2 godz.",
+            "date": "Dziennik \u0141\u00f3dzki6 godz.",
             "source": "Dziennik \u0141\u00f3dzki",
             "article_content": "Content not available"
         }
@@ -394,7 +410,7 @@
             "description": "Bielsko-Bia\u0142a jest wa\u017cnym \u015brodkiem przemys\u0142owym i handlowo-us\u0142ugowym. Ze wzgl\u0119du na liczne zabytki architektury miasto jest ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.OqQA7rF9BerKq45ijSLNEy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Bielsko-Bia\u0142a Nasze Miasto on MSN50 min",
+            "date": "Bielsko-Bia\u0142a Nasze Miasto on MSN4 godz.",
             "source": "Bielsko-Bia\u0142a Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -405,14 +421,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Nietypowy prezent z Bali skonfiskowany na Lotnisku Chopina. M\u0119\u017cczyzna powa\u017cnie z\u0142ama\u0142 przepisy",
-            "link": "https://www.fakt.pl/hobby/turystyka/skora-pytona-w-walizce-mezczyzna-zatrzymany-na-lotnisku-chopina/3jefqq3",
-            "description": "Do niecodziennego incydentu dosz\u0142o na warszawskim Lotnisku Chopina, gdzie funkcjonariusze S\u0142u\u017cby Celno-Skarbowej skonfiskowali nietypowy prezent, kt\u00f3ry m\u0119\u017cczyzna przywi\u00f3z\u0142 z Bali. Ukrainiec, ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.S98F8jIiuGzSo7XWBjLcxA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Pomys\u0142y na spacer w woj. wielkopolskim. Gdzie warto si\u0119 wybra\u0107 w weekend 15 - 16 marca? TOP 10 tras",
+            "link": "https://gloswielkopolski.pl/pomysly-na-spacer-w-woj-wielkopolskim-gdzie-warto-sie-wybrac-w-weekend-15-16-marca-top-10-tras/ar/c7p1-22116473",
+            "description": "Nim wyruszysz, sprawd\u017a, jaka b\u0119dzie pogoda. W sobot\u0119 15 marca w woj. wielkopolskim ma by\u0107 od 1\u00b0C do 7\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 16 marca w woj. wielkopolskim ma by\u0107 od -0\u00b0C do 8\u00b0C. Nie powinno ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.U-Vp0xK7SYVhjnH4oToWdw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "Fakt.pl50 min",
-            "source": "Fakt.pl",
-            "article_content": "Do niecodziennego incydentu dosz\u0142o na warszawskim Lotnisku Chopina, gdzie funkcjonariusze S\u0142u\u017cby Celno-Skarbowej skonfiskowali nietypowy prezent, kt\u00f3ry m\u0119\u017cczyzna przywi\u00f3z\u0142 z Bali. Ukrainiec, wracaj\u0105c z Indonezji, przechodzi\u0142 przez korytarz \"Zielona Linia \u2014 Nic do zg\u0142oszenia\", co oznacza\u0142o, \u017ce nie mia\u0142 \u017cadnych przedmiot\u00f3w wymagaj\u0105cych odprawy celnej. Jednak kontrola celna ujawni\u0142a, \u017ce m\u0119\u017cczyzna pope\u0142ni\u0142 powa\u017cny b\u0142\u0105d.\n\nW jego walizce znaleziono kurtk\u0119 wykonan\u0105 ze sk\u00f3ry pytona, kt\u00f3ra mia\u0142a by\u0107 prezentem dla jego \u017cony. M\u0119\u017cczyzna t\u0142umaczy\u0142, \u017ce zap\u0142aci\u0142 za ni\u0105 oko\u0142o 5 mln rupii indonezyjskich (r\u00f3wnowarto\u015b\u0107 1 245 z\u0142). Niestety, okaza\u0142o si\u0119, \u017ce nie przestrzega\u0142 przepis\u00f3w dotycz\u0105cych importu materia\u0142\u00f3w pochodz\u0105cych od zwierz\u0105t obj\u0119tych ochron\u0105.\n\nZasady CITES i wymagania celne\n\nZgodnie z przepisami unijnymi dotycz\u0105cymi ochrony dzikich zwierz\u0105t, wszystkie w\u0119\u017ce z rodziny pyton\u00f3w s\u0105 obj\u0119te konwencj\u0105 CITES (Konwencja o mi\u0119dzynarodowym handlu zagro\u017conymi gatunkami dzikich zwierz\u0105t i ro\u015blin). Oznacza to, \u017ce import do Unii Europejskiej jakichkolwiek produkt\u00f3w pochodz\u0105cych od pyton\u00f3w, w tym sk\u00f3r czy wyrob\u00f3w, wymaga zg\u0142oszenia celnego oraz dostarczenia odpowiednich dokument\u00f3w CITES, kt\u00f3re potwierdzaj\u0105 legalne pochodzenie danego przedmiotu.\n\nBrak takich dokument\u00f3w, jak w przypadku tego m\u0119\u017cczyzny, prowadzi do powa\u017cnych konsekwencji. Kurtka z w\u0119\u017cowej sk\u00f3ry zosta\u0142a skonfiskowana przez s\u0142u\u017cby celne, a podr\u00f3\u017cny musi liczy\u0107 si\u0119 z potencjalnymi konsekwencjami prawnymi.\n\nPowa\u017cne konsekwencje prawne, jakiej kary mo\u017ce si\u0119 spodziewa\u0107?\n\nImport i przemyt okaz\u00f3w obj\u0119tych konwencj\u0105 CITES bez wymaganych dokument\u00f3w jest powa\u017cnym przest\u0119pstwem, kt\u00f3re w Unii Europejskiej mo\u017ce skutkowa\u0107 kar\u0105 pozbawienia wolno\u015bci od 3 miesi\u0119cy do 5 lat. W przypadku tego incydentu spraw\u0105 zajmuje si\u0119 Dzia\u0142 Dochodzeniowo-\u015aledczy Mazowieckiego Urz\u0119du Celno-Skarbowego w Warszawie, kt\u00f3ry b\u0119dzie prowadzi\u0142 dochodzenie w sprawie niezg\u0142oszenia towaru.\n\nW\u0142adze apeluj\u0105 do podr\u00f3\u017cnych, aby zachowali ostro\u017cno\u015b\u0107 i zapoznali si\u0119 z przepisami dotycz\u0105cymi przewozu wyrob\u00f3w z zagro\u017conych gatunk\u00f3w zwierz\u0105t, szczeg\u00f3lnie gdy wracaj\u0105 z kraj\u00f3w, w kt\u00f3rych takie towary mog\u0105 by\u0107 popularne, jak w przypadku Indonezji.\n\n\u0179r\u00f3d\u0142o: onet.pl\n\nPrzeczytaj te\u017c:\n\nPula: rzymskie zabytki i tanie loty Ryanaira. City break za 69 z\u0142\n\nGdzie na wakacje w Europie? Tury\u015bci wybrali miejsca na urlop [RANKING]\n\nPrzemyt narkotyk\u00f3w na Lotnisku Chopina. Kokaina ukryta w puszkach po piwie"
+            "date": "G\u0142os Wielkopolski6 godz.",
+            "source": "G\u0142os Wielkopolski",
+            "article_content": "Content not available"
         }
     },
     {
@@ -421,12 +437,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Wadliwe monety mog\u0105 by\u0107 w cenie z\u0142ota. Tyle kosztuj\u0105 stare i uszkodzone pieni\u0105dze [13.03.2025 r.]",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/wadliwe-monety-mog%C4%85-by%C4%87-w-cenie-z%C5%82ota-tyle-kosztuj%C4%85-stare-i-uszkodzone-pieni%C4%85dze-13-03-2025-r/ar-AA1AOy73?ocid=BingNewsVerp",
+            "title": "Wadliwe monety mog\u0105 by\u0107 w cenie z\u0142ota. Tyle kosztuj\u0105 stare i uszkodzone pieni\u0105dze [14.03.2025]",
+            "link": "https://www.msn.com/pl-pl/finanse/ekonomia/wadliwe-monety-mog%C4%85-by%C4%87-w-cenie-z%C5%82ota-tyle-kosztuj%C4%85-stare-i-uszkodzone-pieni%C4%85dze-14-03-2025/ar-AA1AOy73?ocid=BingNewsVerp",
             "description": "Zanim wydasz swoje monety, warto je dok\u0142adnie obejrze\u0107. Nie uwierzysz, jak bardzo mog\u0105 one zainteresowa\u0107 kolekcjoner\u00f3w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.1--lJ8tMnPmNitLvZjoRqy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Pomorska on MSN3 godz.",
+            "date": "Gazeta Pomorska on MSN2 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -442,7 +458,7 @@
             "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet ...",
             "image_url": "https://www.bing.pl/th?id=OVF.vqL8PdUVZnCCtVoD0TABlw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Koszali\u0144ski11 godz.",
+            "date": "G\u0142os Koszali\u0144ski15 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
         }
@@ -458,7 +474,7 @@
             "description": "Wycena monet z PRL-u zale\u017cy od rzadko\u015bci wyst\u0119powania, jako\u015bci wybicia oraz gradingu, czyli stanu jej zachowania. W Polsce znajdziemy wiele okaz\u00f3w wartych kilkaset z\u0142otych, ale s\u0105 te\u017c takie, na ...",
             "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Szczeci\u0144ski10 godz.",
+            "date": "G\u0142os Szczeci\u0144ski14 godz.",
             "source": "G\u0142os Szczeci\u0144ski",
             "article_content": "Content not available"
         }
@@ -469,29 +485,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Creative Morning",
-            "link": "https://gdansk.naszemiasto.pl/tag/creative-morning",
-            "description": "Iza Sadowska z Lubimyczytac.pl oraz Marzena Biernacka i Ewa Wituszy\u0144ska z PlumBum opowiedz\u0105 o swoich projektach podczas pierwszych wiosennych spotka\u0144 Creative... K\u0142adka na Zaspie to znak rozpoznawczy ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.boOkKdH-T8isceS81-32Lg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stare+numizmatyka",
-            "date": "Gda\u0144sk Nasze Miasto21 godz.",
-            "source": "Gda\u0144sk Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Gro\u017any niewybuch znalaz\u0142 na polu ko\u0142o Opoczna poszukiwacz zabytk\u00f3w",
-            "link": "https://dzienniklodzki.pl/grozny-niewybuch-znalazl-na-polu-kolo-opoczna-poszukiwacz-zabytkow/ar/c1p2-27362799",
-            "description": "12 marca 2025 roku dy\u017curny opoczy\u0144skiej policji otrzyma\u0142 zg\u0142oszenie od mieszka\u0144ca powiatu opoczy\u0144skiego o odnalezieniu niewybuchu. Policjanci ustalili, \u017ce w rejonie Ostrowa (gmina Opoczno) m\u0119\u017cczyzna ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.uJelon1vmcKYEKRidTlMcA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Galeria im Lanckoro\u0144skich",
+            "link": "https://warszawa.naszemiasto.pl/tag/galeria-im-lanckoronskich",
+            "description": "Zamek Kr\u00f3lewski w Warszawie zaprasza do odwiedzenia Galerii im. Lanckoro\u0144skich w nowej ods\u0142onie. Ekspozycja nie tylko ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.IOWoC8-q08Qz2jeVQm84pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "wykopano+zabytkowe",
-            "date": "Dziennik \u0141\u00f3dzki2 godz.",
-            "source": "Dziennik \u0141\u00f3dzki",
+            "date": "Warszawa Nasze Miasto4 dni",
+            "source": "Warszawa Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -506,7 +506,7 @@
             "description": "Pierwszym, historycznie i pewnie po\u015bwiadczonym przedstawicielem tej rodziny by\u0142 Warcis\u0142aw I, kt\u00f3ry zmar\u0142 oko\u0142o 1135 roku. To ...",
             "image_url": "https://www.bing.pl/th?id=OVF.vWI9fRtY8r3eR4XsX8Yj2g&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "G\u0142os Koszali\u0144ski on MSN11 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN15 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
