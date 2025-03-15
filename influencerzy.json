@@ -5,14 +5,46 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Kultowe przedmioty i gad\u017cety z lat 90., kt\u00f3re w 2025 roku s\u0105 poszukiwane przez kolekcjoner\u00f3w [14.03.2025 r.]",
-            "link": "https://www.msn.com/pl-pl/news/other/kultowe-przedmioty-i-gad%C5%BCety-z-lat-90-kt%C3%B3re-w-2025-roku-s%C4%85-poszukiwane-przez-kolekcjoner%C3%B3w-14-03-2025-r/ar-AA1AVHTq?ocid=BingNewsVerp",
-            "description": "Rzeczy i gad\u017cety z lat 90. s\u0105 obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli posiadasz takie ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.8gL18R9PVYzDS2FN7aYw1Q&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Zimna sobota na gie\u0142dzie w Sandomierzu: Kwiaty, sadzonki i starocie. Zobacz, jak wygl\u0105da\u0142 handel",
+            "link": "https://echodnia.eu/podkarpackie/zimna-sobota-na-gieldzie-w-sandomierzu-kwiaty-sadzonki-i-starocie-zobacz-jak-wygladal-handel/ar/c1-19087879",
+            "description": "15 marca, mimo zimowej aury, gie\u0142da w Sandomierzu t\u0119tni\u0142a \u017cyciem. Klienci z ca\u0142ego regionu przybyli, by skorzysta\u0107 z bogatej oferty. W\u015br\u00f3d licznych stoisk uwag\u0119 przyci\u0105ga\u0142y przede wszystkim kolorowe ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.xmtGTJHQSE_v4D-CWxbvsQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "Gazeta Pomorska on MSN18 godz.",
+            "date": "Echo Dnia2 godz.",
+            "source": "Echo Dnia",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Retro poszukiwane przez kolekcjoner\u00f3w - ceny, zdj\u0119cia. Tyle w 2025 roku kosztuj\u0105 takie stylowe starocie",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/retro-poszukiwane-przez-kolekcjoner%C3%B3w-ceny-zdj%C4%99cia-tyle-w-2025-roku-kosztuj%C4%85-takie-stylowe-starocie/ar-AA1ARQir?ocid=BingNewsVerp",
+            "description": "Moda na przedmioty z dawnych lat nie s\u0142abnie, a w 2025 roku przedmioty retro ciesz\u0105 si\u0119 ogromnym zainteresowaniem. Kolekcjonerzy i mi\u0142o\u015bnicy gad\u017cet\u00f3w i pami\u0105tek w starym stylu poszukuj\u0105 unikalnych prz ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "starocie",
+            "date": "Gazeta Pomorska on MSN1 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Kultowe przedmioty i gad\u017cety z lat 90., kt\u00f3re w 2025 roku s\u0105 poszukiwane przez kolekcjoner\u00f3w [15.03.25]",
+            "link": "https://pomorska.pl/kultowe-przedmioty-i-gadzety-z-lat-90-ktore-w-2025-roku-sa-poszukiwane-przez-kolekcjonerow-15-03-25/ar/c12p2-27360837",
+            "description": "Rzeczy i gad\u017cety z lat 90. s\u0105 obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli posiadasz takie pami\u0105tki, warto przyjrze\u0107 si\u0119 im bli\u017cej \u2013 by\u0107 mo\u017ce masz w domu prawdziwy ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "starocie",
+            "date": "Gazeta Pomorska5 godz.",
+            "source": "Gazeta Pomorska",
+            "article_content": "Content not available"
         }
     },
     {
@@ -26,7 +58,7 @@
             "description": "Czacz to wie\u015b, kt\u00f3ra s\u0142ynie z handlu. Na straganach, w stodo\u0142ach i specjalnych namiotach mo\u017cna tam dos\u0142ownie znale\u017a\u0107 wszystko. Od mebli kolonialnych, przez antyki po porcelanowe bibeloty, narz\u0119dzia, a ...",
             "image_url": "https://www.bing.pl/th?id=ODF.p9YO103MXreScWBGsL62IA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "Gazeta Wroc\u0142awska11 godz.",
+            "date": "Gazeta Wroc\u0142awska15 godz.",
             "source": "Gazeta Wroc\u0142awska",
             "article_content": "Content not available"
         }
@@ -42,41 +74,9 @@
             "description": "Kolejny Pchli Targ \u2013 je\u015bli pogoda na to pozwoli - odb\u0119dzie si\u0119 w Zamo\u015bciu w niedziel\u0119 (6 kwietnia) na terenach zielonych w s\u0105siedztwie Parku Miejskiego. Czyli pod chmurk\u0105.",
             "image_url": "https://www.bing.pl/th?id=ODF.lto-jgjLT22CJn-xbZRKjA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "Kurier Lubelski on MSN15 godz.",
+            "date": "Kurier Lubelski on MSN20 godz.",
             "source": "Kurier Lubelski on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Jarmark w Kiermusach. To gratka dla kolekcjoner\u00f3w i mi\u0142o\u015bnik\u00f3w staroci. Co mo\u017cna tam znale\u017a\u0107 i kupi\u0107? Zobacz najciekawsze przedmioty",
-            "link": "https://poranny.pl/jarmark-w-kiermusach-to-gratka-dla-kolekcjonerow-i-milosnikow-staroci-co-mozna-tam-znalezc-i-kupic-zobacz-najciekawsze/ar/c1-19087515",
-            "description": "Poza antykami na jarmarku w Kiermusach mo\u017cna kupi\u0107 wsp\u00f3\u0142czesne r\u0119cznie wytwarzane zabawki, obrazy, bi\u017cuteri\u0119, meble. Na stoiskach zaopatrzymy si\u0119 tak\u017ce w lokalne produkty: w\u0119dliny, pieczywo, sery, ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.z8szwJPfOZTDo97HvHYzSw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "starocie",
-            "date": "Kurier Poranny18 godz.",
-            "source": "Kurier Poranny",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "GRZEGORZ OSTACH GNIEZNO",
-            "link": "https://gniezno.naszemiasto.pl/tag/grzegorz-ostach-gniezno",
-            "description": "Wydzia\u0142 Techniczno-Inwestycyjny Urz\u0119du Miejskiego w Gnie\u017anie zajmuje si\u0119 remontem, budow\u0105 i utrzymaniem dr\u00f3g, kanalizacji, ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "Gniezno Nasze Miasto12 godz.",
-            "source": "Gniezno Nasze Miasto",
-            "article_content": "Content not available"
         }
     },
     {
@@ -90,24 +90,8 @@
             "description": "Stare wazony z PRL-u wr\u00f3ci\u0142y do \u0142ask kolekcjoner\u00f3w i wielbicieli wystroju w stylu vintage. Wazony kryszta\u0142owe, z kolorowego ...",
             "image_url": "https://www.bing.pl/th?id=OVF.9H179zZ8ZGVPuDVrKS0JGA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Wa\u0142brzych Nasze Miasto on MSN58 min",
+            "date": "Wa\u0142brzych Nasze Miasto on MSN5 godz.",
             "source": "Wa\u0142brzych Nasze Miasto on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Wadliwe monety mog\u0105 by\u0107 w cenie z\u0142ota. Tyle kosztuj\u0105 stare i uszkodzone pieni\u0105dze",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/wadliwe-monety-mog%C4%85-by%C4%87-w-cenie-z%C5%82ota-tyle-kosztuj%C4%85-stare-i-uszkodzone-pieni%C4%85dze/ar-AA1AOy73?ocid=BingNewsVerp",
-            "description": "Kolekcjonerzy szczeg\u00f3lnie interesuj\u0105 si\u0119 destruktami, poniewa\u017c wadliwe monety s\u0105 unikalne \u2013 ka\u017cda z nich jest inna. Dzi\u0119ki ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.fCsCcv5XCewzhVuP7cEGOw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "Gazeta Pomorska on MSN21 godz.",
-            "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
     },
@@ -122,9 +106,25 @@
             "description": "Stare wazony z PRL-u wr\u00f3ci\u0142y do \u0142ask kolekcjoner\u00f3w i wielbicieli wystroju w stylu vintage. Wazony kryszta\u0142owe, z kolorowego szk\u0142a, porcelany i ceramiki s\u0105 obecnie cenne - kosztuj\u0105 nawet kilka tysi\u0119cy ...",
             "image_url": "https://www.bing.pl/th?id=ODF.b7cDqWcxCJUoLca1qpYJLg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "Wa\u0142brzych Nasze Miasto1 godz.",
+            "date": "Wa\u0142brzych Nasze Miasto5 godz.",
             "source": "Wa\u0142brzych Nasze Miasto",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Wadliwe monety mog\u0105 by\u0107 w cenie z\u0142ota. Tyle kosztuj\u0105 stare i uszkodzone pieni\u0105dze",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/wadliwe-monety-mog%C4%85-by%C4%87-w-cenie-z%C5%82ota-tyle-kosztuj%C4%85-stare-i-uszkodzone-pieni%C4%85dze/ar-AA1AOy73?ocid=BingNewsVerp",
+            "description": "Zanim wydasz swoje monety, warto je dok\u0142adnie obejrze\u0107. Nie uwierzysz, jak bardzo mog\u0105 one zainteresowa\u0107 kolekcjoner\u00f3w ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.1--lJ8tMnPmNitLvZjoRqy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "Gazeta Pomorska on MSN1 godz.",
+            "source": "Gazeta Pomorska on MSN",
+            "article_content": ""
         }
     },
     {
@@ -138,7 +138,7 @@
             "description": "Wycena monet z PRL-u zale\u017cy od rzadko\u015bci wyst\u0119powania, jako\u015bci wybicia oraz gradingu, czyli stanu jej zachowania. W Polsce ...",
             "image_url": "https://www.bing.pl/th?id=OVF.B%2b%2fkJ93oVfRs3iqyzTTB9A&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Szczeci\u0144ski on MSN1 godz.",
+            "date": "G\u0142os Szczeci\u0144ski on MSN5 godz.",
             "source": "G\u0142os Szczeci\u0144ski on MSN",
             "article_content": ""
         }
@@ -154,7 +154,7 @@
             "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet zwyk\u0142a pi\u0119cioz\u0142ot\u00f3wka mo\u017ce mie\u0107 wielokrotnie wi\u0119ksz\u0105 warto\u015b\u0107 ni\u017c nomina\u0142.",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski3 godz.",
+            "date": "G\u0142os Koszali\u0144ski7 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
         }
@@ -170,7 +170,7 @@
             "description": "Porcelana produkowana w PRL-u jest obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli posiadasz ...",
             "image_url": "https://www.bing.pl/th?id=OVF.CBB%2fwYQNlHAWFJLT1oxAyg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN14 godz.",
+            "date": "Gazeta Pomorska on MSN18 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -186,8 +186,24 @@
             "description": "Unikalna porcelana z PRL poszukiwana przez kolekcjoner\u00f3w mo\u017ce zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na niej zarobi\u0107 fortun\u0119! Cz\u0119sto nie mamy \u015bwiadomo\u015bci, \u017ce przedmioty posiadane w domu warte s\u0105 du\u017co ...",
             "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "G\u0142os Pomorza on MSN1 godz.",
+            "date": "G\u0142os Pomorza on MSN5 godz.",
             "source": "G\u0142os Pomorza on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Mieszkania PRL na zdj\u0119ciach. Tak wygl\u0105da\u0142y pokoje, kuchnie i \u0142azienki w latach 60., 70., i 80.",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/mieszkania-prl-na-zdj%C4%99ciach-tak-wygl%C4%85da%C5%82y-pokoje-kuchnie-i-%C5%82azienki-w-latach-60-70-i-80/ar-AA1AYFIz?ocid=BingNewsVerp",
+            "description": "Mieszkania naszych bab\u0107 budz\u0105 u wielu nostalgi\u0119. Kiedy\u015b wszystkie mieszkania by\u0142y tak do siebie podobne, \u017ce wygl\u0105da\u0142o niemal ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.iEv4djva8SvI2cumrjxo_C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stara+porcelana",
+            "date": "Gazeta Pomorska on MSN1 godz.",
+            "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
     },
@@ -202,7 +218,7 @@
             "description": "Wiek mebla - to bardzo wa\u017cne!. Wed\u0142ug ustawy z 2004 roku o podatku od towar\u00f3w i us\u0142ug, antyk to\u017csamy jest z przedmiotem ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.M2fw_kVEbAkv5zg2kvCAfS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "G\u0142os Pomorza on MSN1 godz.",
+            "date": "G\u0142os Pomorza on MSN5 godz.",
             "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
         }
@@ -218,7 +234,7 @@
             "description": "Ta porcelana z PRL jest warta maj\u0105tek! Unikatowe zestawy, talerze, fili\u017canki z PRL. Tych przedmiot\u00f3w szukaj\u0105 kolekcjonerzy! Obecnie poszukujemy nie tylko tak popularnych przedmiot\u00f3w, ale r\u00f3wnie\u017c tych ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "G\u0142os Koszali\u0144ski3 godz.",
+            "date": "G\u0142os Koszali\u0144ski7 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
         }
@@ -229,14 +245,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "To kwiaty najlepsze do domu! Te ro\u015bliny doniczkowe s\u0105 pi\u0119kne i wzbogac\u0105 twoje wn\u0119trze. Jakie kwiaty wybra\u0107 do domu? 15.03.2025",
-            "link": "https://gk24.pl/to-kwiaty-najlepsze-do-domu-te-rosliny-doniczkowe-sa-piekne-i-wzbogaca-twoje-wnetrze-jakie-kwiaty-wybrac-do-domu-15032025/ar/c9-18815989",
-            "description": "Obecnie pragniemy, by nasze domowe wn\u0119trza mia\u0142y sw\u00f3j unikatowy charakter, by\u0142y przytulne i kolorowe. Jednym z pomys\u0142\u00f3w na wzbogacenie naszego domowego wn\u0119trza z pewno\u015bci\u0105 s\u0105 kwiaty. Nie tylko dodaj\u0105 ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stara+porcelana",
-            "date": "G\u0142os Koszali\u0144ski3 godz.",
-            "source": "G\u0142os Koszali\u0144ski",
+            "title": "Pierwszy w tym roku pchli targ w Nysie. Na bazarze mo\u017cna by\u0142o znale\u017a\u0107 prawdziwe skarby",
+            "link": "https://opole.naszemiasto.pl/pierwszy-w-tym-roku-pchli-targ-w-nysie-na-bazarze-mozna/ar/c1-9866713",
+            "description": "Pod Hal\u0105 Nysa odby\u0142a si\u0119 pierwsza w tym roku edycja pchlego targu. Mimo niezbyt zach\u0119caj\u0105cej pogody mieszka\u0144cy miasta ch\u0119tnie ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.0cbZxTvzZJJNeOGj549xVC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "Opole Nasze Miasto35 min",
+            "source": "Opole Nasze Miasto",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "To okazja do wyj\u0105tkowych zakup\u00f3w. Przed nami pierwszy w tym sezonie pchli targ!",
+            "link": "https://nadmorski24.pl/aktualnosci/71013-to-okazja-do-wyjatkowych-zakupow-przed-nami-pierwszy-w-tym-sezonie-pchli-targ",
+            "description": "Wielbiciele staroci, r\u0119kodzie\u0142a i unikalnych skarb\u00f3w z drugiej r\u0119ki mog\u0105 ju\u017c zaciera\u0107 r\u0119ce! 23 marca w Pucku odb\u0119dzie si\u0119 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.pGH4N5bo8Ldg6KbnwuHKmi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "Nadmorski24.pl59 min",
+            "source": "Nadmorski24.pl",
+            "article_content": "15.03.2025 12:30 0 OR\n\nWielbiciele staroci, r\u0119kodzie\u0142a i unikalnych skarb\u00f3w z drugiej r\u0119ki mog\u0105 ju\u017c zaciera\u0107 r\u0119ce! 23 marca w Pucku odb\u0119dzie si\u0119 pierwszy w tym roku Pchli Targ, otwieraj\u0105cy sezon na targi pe\u0142ne niepowtarzalnych przedmiot\u00f3w i okazji do wyj\u0105tkowych zakup\u00f3w.\n\nPierwsza edycja tego cyklicznego wydarzenia to doskona\u0142a okazja, by znale\u017a\u0107 co\u015b wyj\u0105tkowego \u2013 od antyk\u00f3w i kolekcjonerskich bibelot\u00f3w po ksi\u0105\u017cki, odzie\u017c vintage, p\u0142yty winylowe czy r\u0119kodzie\u0142o lokalnych tw\u00f3rc\u00f3w. To tak\u017ce \u015bwietny moment na wiosenne porz\u0105dki. Ka\u017cdy mo\u017ce zg\u0142osi\u0107 si\u0119 jako wystawca i da\u0107 swoim przedmiotom drugie \u017cycie.\n\nSerdecznie zapraszamy na pierwszy w tym roku Pchli Targ ????, kt\u00f3ry odb\u0119dzie si\u0119 ???? 23 marca????na Targowisku Miejskim w Pucku.... Opublikowany przez Miasto Puck Wtorek, 11 marca 2025\n\nCo czeka odwiedzaj\u0105cych?\n\n\u27a1 Stoiska z przedmiotami z dusz\u0105 \u2013 od starych mebli po porcelan\u0119, bi\u017cuteri\u0119 i pami\u0105tki z dawnych lat,\n\n\u27a1 R\u0119kodzie\u0142o lokalnych artyst\u00f3w \u2013 unikalne dekoracje, ceramika i wyroby handmade,\n\n\u27a1 Mo\u017cliwo\u015b\u0107 sprzeda\u017cy i wymiany rzeczy, kt\u00f3rych ju\u017c nie potrzebujesz, ale kt\u00f3re mog\u0105 ucieszy\u0107 kogo\u015b innego.\n\nPchli Targ w Pucku odb\u0119dzie si\u0119 23 marca na Targowisku Miejskim w godzinach od 10.00 do 15.00. Obowi\u0105zuje op\u0142ata targowa w wysoko\u015bci 10 z\u0142.\n\nRegulamin znajduje si\u0119 na stronie: https://miastopuck.pl/aktualnosci/2396-pchli-targ-2303.html\n\nByli\u015bcie \u015bwiadkami zdarzenia w naszym regionie? Chcecie aby nasza redakcja zaj\u0119\u0142a si\u0119 jakim\u015b tematem? Czekamy na Wasze sygna\u0142y i informacje. Mo\u017cna kontaktowa\u0107 si\u0119 z nasz\u0105 redakcj\u0105 za po\u015brednictwem strony facebookowej i mailowo: [email protected]. Dy\u017curujemy tak\u017ce pod numerem telefonu 729 715 670."
         }
     },
     {
@@ -250,7 +282,7 @@
             "description": "Unikalne antyki poszukiwane przez kolekcjoner\u00f3w mog\u0105 zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na nich zarobi\u0107 fortun\u0119. Cz\u0119sto nie ...",
             "image_url": "https://www.bing.pl/th?id=OVF.AE58Kqd%2f19iEg0Yr%2bwhgcg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "G\u0142os Wielkopolski2 godz.",
+            "date": "G\u0142os Wielkopolski6 godz.",
             "source": "G\u0142os Wielkopolski",
             "article_content": "Content not available"
         }
@@ -266,7 +298,7 @@
             "description": "Jarmark Staroci i R\u0119kodzie\u0142a Ludowego w Kiermusach k. Tykocina to wydarzenie, kt\u00f3re od lat cieszy si\u0119 olbrzymim ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.jHKCJUF7tylqQsvc8ECSfS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Kurier Poranny on MSN17 godz.",
+            "date": "Kurier Poranny on MSN21 godz.",
             "source": "Kurier Poranny on MSN",
             "article_content": ""
         }
@@ -282,41 +314,9 @@
             "description": "Czacz to wie\u015b, kt\u00f3ra s\u0142ynie z handlu. Na straganach, w stodo\u0142ach i specjalnych namiotach mo\u017cna tam dos\u0142ownie znale\u017a\u0107 wszystko. Od mebli kolonialnych, przez antyki po porcelanowe bibeloty, narz\u0119dzia, a ...",
             "image_url": "https://www.bing.pl/th?id=ODF.p9YO103MXreScWBGsL62IA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Gazeta Wroc\u0142awska11 godz.",
+            "date": "Gazeta Wroc\u0142awska15 godz.",
             "source": "Gazeta Wroc\u0142awska",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Przed nami kwietniowa edycja zamojskiego Pchlego Targu! Zobaczcie galeri\u0119 \u201eskarb\u00f3w z drugiej r\u0119ki'",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/przed-nami-kwietniowa-edycja-zamojskiego-pchlego-targu-zobaczcie-galeri%C4%99-skarb%C3%B3w-z-drugiej-r%C4%99ki/ar-AA1AHnaV?ocid=BingNewsVerp",
-            "description": "Kolejny Pchli Targ \u2013 je\u015bli pogoda na to pozwoli - odb\u0119dzie si\u0119 w Zamo\u015bciu w niedziel\u0119 (6 kwietnia) na terenach zielonych w s\u0105siedztwie Parku Miejskiego. Czyli pod chmurk\u0105.",
-            "image_url": "https://www.bing.pl/th?id=ODF.lto-jgjLT22CJn-xbZRKjA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "targ+staroci",
-            "date": "Kurier Lubelski on MSN15 godz.",
-            "source": "Kurier Lubelski on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Na g\u0142ogowskim targowisku mo\u017cna kupi\u0107 wszystko, od nowalijek po stare kasty magnetofonowe. Co jeszcze?",
-            "link": "https://www.msn.com/pl-pl/shopping/og%C3%B3lne/na-g%C5%82ogowskim-targowisku-mo%C5%BCna-kupi%C4%87-wszystko-od-nowalijek-po-stare-kasty-magnetofonowe-co-jeszcze/ar-AA1AU8pS?ocid=BingNewsVerp",
-            "description": "Na straganie w dzie\u0144 targowy...Ludzie kupuj\u0105 nowalijki, sadzonki i u\u017cywane ubrania. T\u0142um\u00f3w jak dawniej nie ma, ale Targowisko ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.VBkEfuD_P-GNDKqiSs5JKi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "targ+staroci",
-            "date": "G\u0142og\u00f3w Nasze Miasto on MSN23 godz.",
-            "source": "G\u0142og\u00f3w Nasze Miasto on MSN",
-            "article_content": ""
         }
     },
     {
@@ -330,7 +330,7 @@
             "description": "Nim wyruszysz, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 15 marca w woj. zachodniopomorskim ma by\u0107 od 2\u00b0C do 7\u00b0C. Nie powinno ...",
             "image_url": "https://www.bing.pl/th?id=OVF.kLDdzV8RWjieLvBRWtqC3g&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "G\u0142os Szczeci\u0144ski18 godz.",
+            "date": "G\u0142os Szczeci\u0144ski22 godz.",
             "source": "G\u0142os Szczeci\u0144ski",
             "article_content": "Content not available"
         }
@@ -346,7 +346,7 @@
             "description": "Nim wyruszysz w drog\u0119, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 15 marca w O\u015bwi\u0119cimiu ma by\u0107 5\u00b0C. Prawdopodobie\u0144stwo wyst\u0105pienia deszczu wynosi 45%. W niedziel\u0119 16 marca w O\u015bwi\u0119cimiu ma by\u0107 9\u00b0C. Nie ...",
             "image_url": "https://www.bing.pl/th?id=ODF.hU9b0B80CrRL-uqx7ot5XQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "O\u015bwi\u0119cim Nasze Miasto18 godz.",
+            "date": "O\u015bwi\u0119cim Nasze Miasto22 godz.",
             "source": "O\u015bwi\u0119cim Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -362,7 +362,7 @@
             "description": "Zanim wyruszysz na wypraw\u0119, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 15 marca w Grodzisku Mazowieckim ma by\u0107 7\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 16 marca w Grodzisku Mazowieckim ma by\u0107 8\u00b0C. Nie ...",
             "image_url": "https://www.bing.pl/th?id=ODF.JAdeQew8uINxzLFHIFMwuQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Grodzisk Mazowiecki Nasze Miasto19 godz.",
+            "date": "Grodzisk Mazowiecki Nasze Miasto23 godz.",
             "source": "Grodzisk Mazowiecki Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -373,13 +373,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Grupa Arche",
-            "link": "https://warszawa.naszemiasto.pl/tag/grupa-arche",
-            "description": "Pod ulic\u0105 Grzybowsk\u0105 9 w Warszawie archeolodzy odkrywaj\u0105 relikty XIX-wiecznych kamienic. Ods\u0142oni\u0119to pozosta\u0142o\u015bci piwnic, ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "Warszawa Nasze Miasto20 godz.",
-            "source": "Warszawa Nasze Miasto",
+            "title": "Staro\u017cytny Rzym pod... Cz\u0119stochow\u0105. Historyk z UJD: \"\u015alad\u00f3w z czas\u00f3w rzymskich jest u nas ca\u0142kiem sporo\"",
+            "link": "https://dziennikzachodni.pl/starozytny-rzym-pod-czestochowa-historyk-z-ujd-sladow-z-czasow-rzymskich-jest-u-nas-calkiem-sporo/ar/c1p2-27365175",
+            "description": "Na pocz\u0105tku roku na terenie p\u00f3\u0142nocnej Jury pod Cz\u0119stochow\u0105 odkryto najprawdopodobniej rzymski miecz sprzed oko\u0142o 2000 lat.",
+            "image_url": "https://www.bing.pl/th?id=OVF.CWa2A56oZxvcf2jCW3Hdcg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Dziennik Zachodni4 godz.",
+            "source": "Dziennik Zachodni",
             "article_content": "Content not available"
         }
     },
@@ -389,13 +389,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Masz te banknoty? To prawdziwe skarby! Za jeden mo\u017cesz otrzyma\u0107 kilka tysi\u0119cy z\u0142otych! [ZDJ\u0118CIA] 15.03.2025",
-            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/masz-te-banknoty-to-prawdziwe-skarby-za-jeden-mo%C5%BCesz-otrzyma%C4%87-kilka-tysi%C4%99cy-z%C5%82otych-zdj%C4%99cia-15032025/ar-AA1zSD9c?ocid=BingNewsVerp",
-            "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.o4EwlAsIz5rMM3h8kMS_wi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Na Popowicach blok mieszkalny zosta\u0142 postawiony tu\u017c przy zabytkowym budynku dawnego portu. \u015aciana w \u015bcian\u0119",
+            "link": "https://www.msn.com/pl-pl/infrastruktura-miejska/mieszkalnictwo-i-rozw%C3%B3j-miejski/na-popowicach-blok-mieszkalny-zosta%C5%82-postawiony-tu%C5%BC-przy-zabytkowym-budynku-dawnego-portu-%C5%9Bciana-w-%C5%9Bcian%C4%99/ar-AA1AWNTx?ocid=BingNewsVerp",
+            "description": "Patodeweloperka we Wroc\u0142awiu mo\u017ce mie\u0107 r\u00f3\u017cne formy. Na Popowicach mieszka\u0144cy odkryli niedawno nowy blok mieszkalny w ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.Dfy1FHBWMwvJfhs5cnxHwi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "G\u0142os Szczeci\u0144ski on MSN1 godz.",
-            "source": "G\u0142os Szczeci\u0144ski on MSN",
+            "date": "Gazeta Wroc\u0142awska on MSN14 godz.",
+            "source": "Gazeta Wroc\u0142awska on MSN",
             "article_content": ""
         }
     },
@@ -410,7 +410,7 @@
             "description": "Pi\u0119kna, wiosenna pogoda sprzyja organizacji wypraw i wycieczek, zar\u00f3wno indywidualnych jak i dla ca\u0142ej rodziny. Sprawdzili\u015bmy ...",
             "image_url": "https://www.bing.pl/th?id=OVF.moJLYxyg3m8hAj7teS2U6Q&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Pomorska on MSN3 godz.",
+            "date": "Gazeta Pomorska on MSN7 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -421,13 +421,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Na Popowicach blok mieszkalny zosta\u0142 postawiony tu\u017c przy zabytkowym budynku dawnego portu. \u015aciana w \u015bcian\u0119",
-            "link": "https://www.msn.com/pl-pl/infrastruktura-miejska/mieszkalnictwo-i-rozw%C3%B3j-miejski/na-popowicach-blok-mieszkalny-zosta%C5%82-postawiony-tu%C5%BC-przy-zabytkowym-budynku-dawnego-portu-%C5%9Bciana-w-%C5%9Bcian%C4%99/ar-AA1AWNTx?ocid=BingNewsVerp",
-            "description": "Patodeweloperka we Wroc\u0142awiu mo\u017ce mie\u0107 r\u00f3\u017cne formy. Na Popowicach mieszka\u0144cy odkryli niedawno nowy blok mieszkalny w ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.Dfy1FHBWMwvJfhs5cnxHwi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Masz te banknoty? To prawdziwe skarby! Za jeden mo\u017cesz otrzyma\u0107 kilka tysi\u0119cy z\u0142otych! [ZDJ\u0118CIA] 15.03.2025",
+            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/masz-te-banknoty-to-prawdziwe-skarby-za-jeden-mo%C5%BCesz-otrzyma%C4%87-kilka-tysi%C4%99cy-z%C5%82otych-zdj%C4%99cia-15032025/ar-AA1zSD9c?ocid=BingNewsVerp",
+            "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.o4EwlAsIz5rMM3h8kMS_wi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Wroc\u0142awska on MSN10 godz.",
-            "source": "Gazeta Wroc\u0142awska on MSN",
+            "date": "G\u0142os Szczeci\u0144ski on MSN5 godz.",
+            "source": "G\u0142os Szczeci\u0144ski on MSN",
             "article_content": ""
         }
     },
@@ -442,40 +442,8 @@
             "description": "10 przedmiot\u00f3w, 10 historii, 10 tajemnic. Te artefakty do dzi\u015b stanowi\u0105 zagwozdk\u0119 dla naukowc\u00f3w. Ich pochodzenie jest na tyle ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Jastrz\u0119bie-Zdr\u00f3j Nasze Miasto14 godz.",
+            "date": "Jastrz\u0119bie-Zdr\u00f3j Nasze Miasto18 godz.",
             "source": "Jastrz\u0119bie-Zdr\u00f3j Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Przegl\u0105d prasy (15.03.2025). Zobacz pras\u00f3wk\u0119 z najwa\u017cniejszymi wydarzeniami z wczoraj. B\u0105d\u017a na bie\u017c\u0105co",
-            "link": "https://wspolczesna.pl/przeglad-prasy-15-03-2025-zobacz-prasowke-z-najwazniejszymi-wydarzeniami-z-wczoraj-badz-na-biezaco/ar/c1p1-19960917",
-            "description": "Poznali\u015bmy fina\u0142ow\u0105 \"14\" pi\u0119knych pa\u0144 z p\u00f3\u0142nocno-wschodniej Polski, kt\u00f3re powalcz\u0105 o tytu\u0142 Miss Polonia Wojew\u00f3dztwa ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.5zIq_5eiIfg-Xc5UuHSlhi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Wsp\u00f3\u0142czesna4 godz.",
-            "source": "Gazeta Wsp\u00f3\u0142czesna",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Te monety s\u0105 warte du\u017co wi\u0119cej ni\u017c my\u015blisz. Zobacz czego szukaj\u0105 numizmatycy 15.03.2025",
-            "link": "https://gk24.pl/te-monety-sa-warte-duzo-wiecej-niz-myslisz-zobacz-czego-szukaja-numizmatycy-15032025/ar/c1-18941089",
-            "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet zwyk\u0142a pi\u0119cioz\u0142ot\u00f3wka mo\u017ce mie\u0107 wielokrotnie wi\u0119ksz\u0105 warto\u015b\u0107 ni\u017c nomina\u0142.",
-            "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stare+numizmatyka",
-            "date": "G\u0142os Koszali\u0144ski3 godz.",
-            "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
         }
     },
@@ -490,7 +458,55 @@
             "description": "Zanim wydasz swoje monety, warto je dok\u0142adnie obejrze\u0107. Nie uwierzysz, jak bardzo mog\u0105 one zainteresowa\u0107 kolekcjoner\u00f3w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.1--lJ8tMnPmNitLvZjoRqy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Pomorska on MSN21 godz.",
+            "date": "Gazeta Pomorska on MSN1 godz.",
+            "source": "Gazeta Pomorska on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Te monety s\u0105 warte du\u017co wi\u0119cej ni\u017c my\u015blisz. Zobacz czego szukaj\u0105 numizmatycy 15.03.2025",
+            "link": "https://gk24.pl/te-monety-sa-warte-duzo-wiecej-niz-myslisz-zobacz-czego-szukaja-numizmatycy-15032025/ar/c1-18941089",
+            "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet zwyk\u0142a pi\u0119cioz\u0142ot\u00f3wka mo\u017ce mie\u0107 wielokrotnie wi\u0119ksz\u0105 warto\u015b\u0107 ni\u017c nomina\u0142.",
+            "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stare+numizmatyka",
+            "date": "G\u0142os Koszali\u0144ski7 godz.",
+            "source": "G\u0142os Koszali\u0144ski",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Najbardziej poszukiwane i najcenniejsze pami\u0105tki z PRL-u. W 2025 roku kosztuj\u0105 krocie [15.03.25]",
+            "link": "https://pomorska.pl/najbardziej-poszukiwane-i-najcenniejsze-pamiatki-z-prl-u-w-2025-roku-kosztuja-krocie-15-03-25/ar/c3p2-27336843",
+            "description": "W ostatnich latach przedmioty z czas\u00f3w PRL prze\u017cywaj\u0105 prawdziwy renesans. W 2025 roku kolekcjonerzy coraz ch\u0119tniej poszukuj\u0105 ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.ywT4FFA4%2bnKj95FR1bg%2fBA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+numizmatyka",
+            "date": "Gazeta Pomorska2 godz.",
+            "source": "Gazeta Pomorska",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Najbardziej poszukiwane i najcenniejsze pami\u0105tki z PRL-u. Zobacz list\u0119, ceny i zdj\u0119cia. W 2025 roku te przedmioty kosztuj\u0105 krocie",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/najbardziej-poszukiwane-i-najcenniejsze-pami%C4%85tki-z-prl-u-zobacz-list%C4%99-ceny-i-zdj%C4%99cia-w-2025-roku-te-przedmioty-kosztuj%C4%85-krocie/ar-AA1ArrTe?ocid=BingNewsVerp",
+            "description": "W ostatnich latach przedmioty z czas\u00f3w PRL prze\u017cywaj\u0105 prawdziwy renesans. W 2025 roku kolekcjonerzy coraz ch\u0119tniej poszukuj\u0105 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.XXJILBIDmc28mJlpkYZZuy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+numizmatyka",
+            "date": "Gazeta Pomorska on MSN1 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -506,7 +522,7 @@
             "description": "Jak dobrze znacie Kielce? Wydaje Wam si\u0119, \u017ce miasto, jego historia, znani ludzie, nie maj\u0105 dla was tajemnic? Niekt\u00f3re fakty i ciekawostki, notki biograficzne mog\u0105 jednak mocno zaskoczy\u0107. Sprawd\u017acie!",
             "image_url": "https://www.bing.pl/th?id=ODF.sr2CLDHPdBmKobr18SfpQg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "Radio ESKA2 godz.",
+            "date": "Radio ESKA6 godz.",
             "source": "Radio ESKA",
             "article_content": ""
         }
@@ -522,25 +538,9 @@
             "description": "Podlasie to wyj\u0105tkowy region naszego kraju, to w\u0142a\u015bnie tu znajduje si\u0119 skrzy\u017cowanie kultur i kult\u00f3w. Znajdziemy tu kolorowe cerkwie, drewniane ko\u015bci\u00f3\u0142ki, egzotyczne meczety i zabytkowe synagogi.",
             "image_url": "https://www.bing.pl/th?id=ODF.J2HjYlW7BWiryFifLql_kw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "wykopano+zabytkowe",
-            "date": "Gazeta Wsp\u00f3\u0142czesna18 godz.",
+            "date": "Gazeta Wsp\u00f3\u0142czesna22 godz.",
             "source": "Gazeta Wsp\u00f3\u0142czesna",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Historyczne odkrycie w Polsce. \"By\u0142 \u015bwi\u0119to\u015bci\u0105, walczyli w 1939 roku\"",
-            "link": "https://www.planeta.pl/nauka/historyczne-odkrycie-w-polsce-byl-swietoscia-walczyli-w-1939-roku",
-            "description": "Historia Polski. Fascynuj\u0105ce odkrycie dokonane w okolicach I\u0142owa ko\u0142o Sochaczewem. Niezwyk\u0142y przedmiot nale\u017ca\u0142 do polskich ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.wepTo7652Dab1LN-ZWKECi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Planeta23 godz.",
-            "source": "Planeta",
-            "article_content": "Historia Polski. Fascynuj\u0105ce odkrycie dokonane w okolicach I\u0142owa ko\u0142o Sochaczewa. Niezwyk\u0142y przedmiot nale\u017ca\u0142 do polskich \u017co\u0142nierzy walcz\u0105cych bohatersko z Niemcami podczas II wojny \u015bwiatowej i kampanii wrze\u015bniowej. Znaleziono zabytkowy sztandar, kt\u00f3ry \"by\u0142 \u015bwi\u0119to\u015bci\u0105\". I co ciekawe, znaleziono go w zaskakuj\u0105cym miejscu.\n\nHistoryczne odkrycie w Polsce. \"By\u0142 \u015bwi\u0119to\u015bci\u0105, walczyli w 1939 roku\"\n\nPolska historia ujawnia swoje kolejne tajemnice z przesz\u0142o\u015bci. Cz\u0142onkowie Sochaczewskiej Grupy Odkrywc\u00f3w Historii natrafili na \u201egrub\u0105 blaszan\u0105 kank\u0105, zaczopowan\u0105 drewnem i zalan\u0105 smo\u0142\u0105\u201d. W niej odkryto sztandar jednego z polskich oddzia\u0142\u00f3w walcz\u0105cych we wrze\u015bniu 1939 roku z niemieckim naje\u017ad\u017ac\u0105. I uwaga, znaleziono go w\u2026 ba\u0144ce po mleku! Pocz\u0105tkowo s\u0105dzono, \u017ce to \u201ejakie\u015b szmaty\u201d, ale zwr\u00f3cono uwag\u0119 na fr\u0119dzle i z\u0142ote hafty.\n\nTelefon, kt\u00f3ry zadzwoni\u0142 oko\u0142o po\u0142udnia w niedziel\u0119 nie znamionowa\u0142 z pocz\u0105tku sensacji. G\u0142os Daniela Wylota, cz\u0142onka Sochaczewskiej Grupy Odkrywc\u00f3w Historii by\u0142 nadzwyczaj spokojny \u2013 \u201cco\u015b znale\u017ali\u015bmy w ba\u0144ce po mleku\u201d\u2026 Sytuacja nabra\u0142a dynamiki po nast\u0119pnych s\u0142owach: \u201cto chyba jest sztandar\u201d- informuje Muzeum Sochaczew.\n\nodkryli zabytkowy polski sztandar Fot: Facebook/Muzeum Wojska Polskiego\n\nJak podaje Radio ZET, na historyczny skarb natrafiono niedaleko Sochaczewa, na \u0142\u0105ce obok zabudowa\u0144 gospodarczych pod I\u0142owem. Rados\u0142aw Jarosi\u0144ski, p.o. dyrektora Muzeum Ziemi Sochaczewskiej Pola Bitwy Nad Bzur\u0105, opowiedzia\u0142, \u017ce otrzyma\u0142 telefon od cz\u0142onka grupy odkrywc\u00f3w historii. Zawiadomili, \u017ce \u201eznale\u017ali metalow\u0105 ba\u0144k\u0119 z zawarto\u015bci\u0105, kt\u00f3ra wskazuje na to, \u017ce mo\u017ce to by\u0107 sztandar\u201d. I wiadomo ju\u017c do kt\u00f3rych \u017co\u0142nierzy i do kt\u00f3rego pu\u0142ku nale\u017ca\u0142 ten\u017ce sztandar. Pocz\u0105tkowo podejrzewano, \u017ce sztandar nale\u017ca\u0142 do 37 \u0141\u0119czyckiego Pu\u0142ku Piechoty, rozbitego w okolicach I\u0142owa, ale...\n\nHistoria Polski. Odkryli sztandar z czas\u00f3w II wojny \u015bwiatowej\n\nZabytkowy sztandar zosta\u0142 przetransportowany do Muzeum Wojska Polskiego, gdzie zostanie zakonserwowany. P\u0142achta sztandaru zosta\u0142a ju\u017c wyci\u0105gni\u0119ta z ba\u0144ki. Znaleziono w niej r\u00f3wnie\u017c fragmenty drelichowej kurtki mundurowej, w kt\u00f3r\u0105 by\u0142 owini\u0119ty. Jakub Wojewoda z Muzeum Wojska Polskiego wyja\u015bni\u0142, \u017ce sztandar nie jest w z\u0142ym stanie, ale prace konserwacyjne potrwaj\u0105 kilka lat. Co wa\u017cne \u201esztandar by\u0142 \u015bwi\u0119to\u015bci\u0105 dla tego, kt\u00f3ry go schowa\u0142, bo by\u0142o to zawini\u0119te i na jaki\u015b czas dobrze zabezpieczone\u201d.\n\nsztandar ukryty podczas II wojny \u015bwiatowej Fot: Facebook/Muzeum Wojska Polskiego\n\nOdnalezienie po 86 latach ukrytego prawdopodobnie we wrze\u015bniu 1939 roku sztandaru Wojska Polskiego jest bardzo wa\u017cnym wydarzeniem. Ukryty przed wrogiem przetrwa\u0142, cho\u0107 mocno naruszony z\u0119bem czasu, doczeka\u0142 swego powrotu w chwale jako znaku najcenniejszego dla ka\u017cdego \u017co\u0142nierza i Polaka\u2013 m\u00f3wi zast\u0119pca dyrektora MWP ds. Programowych, Witold G\u0142\u0119bowicz. (National Geographic)\n\nMuzeum Sochaczew informuje, \u017ce \"oczom obserwuj\u0105cych ukazywa\u0142y si\u0119 bogate hafty tworz\u0105ce wieniec laurowy \u2013 symbole triumfu i zwyci\u0119stwa, okalaj\u0105ce wizerunek or\u0142a\". Wiadomo ju\u017c, \u017ce to p\u0142at sztandarowy 68. pu\u0142ku piechoty. Co ciekawe, grot od tego sztandaru znajduje si\u0119 w sochaczewskim muzeum. W kolekcji tego\u017c muzeum jest jeszcze sztandar 59. pu\u0142ku piechoty, kt\u00f3ry te\u017c zosta\u0142 znaleziony podczas eksploracji, w Kampinosie, w 1984 roku.\n\nQuiz: Historia Polski - quiz, kt\u00f3ry pokona historyka 1/15 Jak zmar\u0142 kr\u00f3l Micha\u0142 Korybut Wi\u015bniowiecki? Zatrucie pokarmowe Od kuli armatniej W zamachu na sedesie W bitwie Dalej\n\nPocz\u0105tki 68. Wrzesi\u0144skiego Pu\u0142ku Piechoty si\u0119gaj\u0105 21 stycznia 1919 roku, kiedy funkcjonowa\u0142 jako 1. Pu\u0142k Rezerwy Strzelc\u00f3w Wielkopolskich. Zmieni\u0142 nazw\u0119 na 10. Pu\u0142k Strzelc\u00f3w Wielkopolskich 15 marca 1919 roku, a ostateczn\u0105 nazw\u0119 uzyska\u0142 1 lutego 1920 roku. Aktu wr\u0119czenia sztandaru dokona\u0142 prezydent Rzeczypospolitej Polskiej Ignacy Mo\u015bcicki 28 maja 1928 roku we Wrze\u015bni.\n\nw ba\u0144ce ukryto zabytkowy polski sztandar Fot: Muzeum Wojska Polskiego\n\nJak podaje National Geographic, chor\u0105giew wykonano w zak\u0142adzie Si\u00f3str Magdalenek w Warszawie. Widoczne s\u0105 na nim m.in. herby miast powiatowych, z kt\u00f3rych pochodzili jej darczy\u0144cy: wrzesi\u0144skiego, koni\u0144skiego, kolskiego, s\u0142upeckiego oraz miasta Wrze\u015bni.\n\n68. pu\u0142k piechoty bra\u0142 udzia\u0142 w kampanii wrze\u015bniowej w 1939 roku, id\u0105c w kierunku Warszawy. 16 wrze\u015bnia rano 68 pp doszed\u0142 do Nowej Wsi na p\u00f3\u0142noc od Rybna, zaj\u0105\u0142 stanowiska: I batalion we wsi K\u0105ty, III batalion w lesie Zofi\u00f3wka, dow\u00f3dztwo pu\u0142ku i pododdzia\u0142y specjalne w Nowej Wsi. 23 wrze\u015bnia resztki pu\u0142ku przebi\u0142y si\u0119 do Warszawy i broni\u0142y jej a\u017c do 28 wrze\u015bnia 1939 roku, do kapitulacji stolicy.\n\nNa terenie, gdzie zlokalizowano ukryty sztandar, toczy\u0142y si\u0119 walki podczas ostatniej fazy Bitwy nad Bzur\u0105. Wielu \u017co\u0142nierzy Wojska Polskiego zosta\u0142o okr\u0105\u017conych przez Niemc\u00f3w. Zanim dostali si\u0119 do niemieckiej niewoli, postanowili ukry\u0107 bro\u0144, ekwipunek, a tak\u017ce najwa\u017cniejsze symbole bojowe swoich pu\u0142k\u00f3w \u2013 sztandary.\n\n68. pu\u0142k piechoty zas\u0142yn\u0105\u0142 bohatersk\u0105 walk\u0105 o Sochaczew. Toczy\u0142 okupione du\u017cymi stratami walki 17 i 18 wrze\u015bnia w rejonie Puszczy Kamionowskiej. \u017bo\u0142nierze z tego pu\u0142ku maj\u0105 sw\u00f3j pomnik na cmentarzu w Sochaczewie-Trojanowie. Toczy\u0142 te\u017c krwawe boje w rejonie Adamowej G\u00f3ry, Mistrzewic, Bud Starych i Juliopola.\n\nSpecjali\u015bci z Pracowni Konserwacji Tkanin Muzeum Wojska Polskiego otworzyli odnalezion\u0105 kank\u0119 i wyj\u0119li skrywany w niej p\u0142at materia\u0142u. Wida\u0107 by\u0142o wyra\u017anie, \u017ce jest to sztandar 68. Wrzesi\u0144skiego Pu\u0142ku Piechoty. Na materiale wyszyto numery pu\u0142ku, tak\u017ce or\u0142a. Na miejscu obecni byli znalazcy z Sochaczewskiej Grupy Odkrywc\u00f3w Historii: Daniel Wylot, Hubert Pietrzak, Krzysztof Kwiatkowski i Krzysztof Krystosiak- podaje Radio ZET.\n\n\u0179r\u00f3d\u0142o: Radio ZET / National Geographic/ PAP / Muzeum Ziemi Sochaczewskiej i Pola Bitwy nad Bzur\u0105\n\nDzi\u0119kujemy za przeczytanie artyku\u0142u do ko\u0144ca. B\u0105d\u017a na bie\u017c\u0105co! Polub nasz\u0105 stron\u0119 na Facebooku"
         }
     }
 ]
