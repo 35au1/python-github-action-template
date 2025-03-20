@@ -10,7 +10,7 @@
             "description": "Na tym \"Bazarku\" towar ulatnia si\u0119 w mig. W\u0142a\u015bciciel opowiedzia\u0142 nam, jak wchodzi w posiadanie intryguj\u0105cych przedmiot\u00f3w.",
             "image_url": "https://www.bing.pl/th?id=OVFT.fmkAqOhXyTuheb6B82iiLC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Gazeta Wroc\u0142awska on MSN4 godz.",
+            "date": "Gazeta Wroc\u0142awska on MSN8 godz.",
             "source": "Gazeta Wroc\u0142awska on MSN",
             "article_content": ""
         }
@@ -26,7 +26,7 @@
             "description": "Moda na przedmioty z dawnych lat nie s\u0142abnie, a w 2025 roku przedmioty retro ciesz\u0105 si\u0119 ogromnym zainteresowaniem.",
             "image_url": "https://www.bing.pl/th?id=OVF.XczXG%2fX78Yxa8iXNK1Xatg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN4 godz.",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN8 godz.",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
             "article_content": ""
         }
@@ -42,7 +42,7 @@
             "description": "Bi\u017cuteria \u2013 z\u0142ote i srebrne pier\u015bcionki, naszyjniki oraz broszki z diamentami i innymi kamieniami szlachetnymi. Broszki i ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.gX_tczJZtqlSIXfMPCrYSC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Gazeta Pomorska on MSN16 godz.",
+            "date": "Gazeta Pomorska on MSN19 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -58,7 +58,7 @@
             "description": "Kolekcjonerzy szczeg\u00f3lnie interesuj\u0105 si\u0119 destruktami, poniewa\u017c wadliwe monety s\u0105 unikalne \u2013 ka\u017cda z nich jest inna. Dzi\u0119ki temu \u015bwietnie utrzymuj\u0105 swoj\u0105 warto\u015b\u0107 i mog\u0105 by\u0107 doskona\u0142\u0105 inwestycj\u0105.",
             "image_url": "https://www.bing.pl/th?id=ODF.csLl8ZFonfuC8KKWalWEGg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski5 godz.",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski9 godz.",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski",
             "article_content": "Content not available"
         }
@@ -74,7 +74,7 @@
             "description": "Wycena monet z PRL-u zale\u017cy od rzadko\u015bci wyst\u0119powania, jako\u015bci wybicia oraz gradingu, czyli stanu jej zachowania. W Polsce ...",
             "image_url": "https://www.bing.pl/th?id=OVF.RcmhsLyX8s4S6MTiPSK0ww&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Szczeci\u0144ski on MSN6 godz.",
+            "date": "G\u0142os Szczeci\u0144ski on MSN10 godz.",
             "source": "G\u0142os Szczeci\u0144ski on MSN",
             "article_content": ""
         }
@@ -90,9 +90,25 @@
             "description": "Najdro\u017csze monety i banknoty z PRLIle s\u0105 warte banknoty z PRL, kt\u00f3re monety z PRL s\u0105 najcenniejsze?Te monety i banknoty z PRL ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.ceFk6vhm4w6xuXz7NruHui&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Wa\u0142brzych Nasze Miasto on MSN5 godz.",
+            "date": "Wa\u0142brzych Nasze Miasto on MSN9 godz.",
             "source": "Wa\u0142brzych Nasze Miasto on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Stare bankonty",
+            "link": "https://dziennikzachodni.pl/tag/stare-bankonty",
+            "description": "74 lata temu w Polsce mia\u0142a miejsce wymiana pieni\u0119dzy, w wyniku kt\u00f3rej bardzo wiele os\u00f3b straci\u0142o oszcz\u0119dno\u015bci \u017cycia. Kolejna wielka denominacja odby\u0142a si\u0119 w... Banknot, kt\u00f3ry masz w portfelu, mo\u017ce by ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.73GKiv_kwPXUhIas-a0ZXQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stare+monety",
+            "date": "Dziennik Zachodni18 godz.",
+            "source": "Dziennik Zachodni",
+            "article_content": "Content not available"
         }
     },
     {
@@ -106,25 +122,9 @@
             "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet zwyk\u0142a pi\u0119cioz\u0142ot\u00f3wka mo\u017ce mie\u0107 wielokrotnie wi\u0119ksz\u0105 warto\u015b\u0107 ni\u017c nomina\u0142.",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski7 godz.",
+            "date": "G\u0142os Koszali\u0144ski11 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Najbardziej poszukiwane i najcenniejsze pami\u0105tki z PRL-u. W 2025 roku kosztuj\u0105 krocie [20.03.2025]",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/najbardziej-poszukiwane-i-najcenniejsze-pami%C4%85tki-z-prl-u-w-2025-roku-kosztuj%C4%85-krocie-20-03-2025-r/ar-AA1ArrTe?ocid=BingNewsVerp",
-            "description": "W ostatnich latach przedmioty z czas\u00f3w PRL prze\u017cywaj\u0105 prawdziwy renesans. W 2025 roku kolekcjonerzy coraz ch\u0119tniej poszukuj\u0105 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.XXJILBIDmc28mJlpkYZZuy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "Gazeta Pomorska on MSN6 godz.",
-            "source": "Gazeta Pomorska on MSN",
-            "article_content": ""
         }
     },
     {
@@ -138,41 +138,9 @@
             "description": "Porcelana produkowana w PRL-u jest obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli posiadasz ...",
             "image_url": "https://www.bing.pl/th?id=OVF.J2VjO2Ke0Up3RnXDgn7W9g&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN18 godz.",
+            "date": "Gazeta Pomorska on MSN22 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Kryszta\u0142y i porcelana z PRL w cenach fortuny! Tego poszukuj\u0105 kolekcjonerzy na pocz\u0105tku 2025 roku",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/kryszta%C5%82y-i-porcelana-z-prl-w-cenach-fortuny-tego-poszukuj%C4%85-kolekcjonerzy-na-pocz%C4%85tku-2025-roku/ar-AA1BfsBW?ocid=BingNewsVerp",
-            "description": "W 2025 roku stare naczynia, wazony i figurki ze kolorowego i kryszta\u0142owego szk\u0142a, a tak\u017ce porcelany ciesz\u0105 si\u0119 ogromnym ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.NDvgMAyNVmZNtRP4-wj-MC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stara+porcelana",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN21 godz.",
-            "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Porcelana PRL \u2013 naczynia z lat 60., 70., 80. warte fortun\u0119! Ile trzeba zap\u0142aci\u0107 w 2025 roku?",
-            "link": "https://nowosci.com.pl/porcelana-prl-naczynia-z-lat-60-70-80-warte-fortune-ile-trzeba-zaplacic-w-2025-roku/ar/c9-18907791",
-            "description": "Stara porcelana z czas\u00f3w PRL, w 2024 roku cieszy si\u0119 rosn\u0105cym zainteresowaniem. Niekt\u00f3re egzemplarze mog\u0105 by\u0107 dzi\u015b bardzo cenne. Takie pere\u0142ki kryj\u0105 si\u0119 do dzi\u015b w zakamarkach domowych kredens\u00f3w, piwni ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.csLl8ZFonfuC8KKWalWEGg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stara+porcelana",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski22 godz.",
-            "source": "Nowo\u015bci Dziennik Toru\u0144ski",
-            "article_content": "Content not available"
         }
     },
     {
@@ -186,9 +154,25 @@
             "description": "Unikalna porcelana z PRL poszukiwana przez kolekcjoner\u00f3w mo\u017ce zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na niej zarobi\u0107 fortun\u0119!",
             "image_url": "https://www.bing.pl/th?id=OVFT.5dtWIPVNE5gFDRdWIeeypi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "G\u0142os Pomorza on MSN5 godz.",
+            "date": "G\u0142os Pomorza on MSN9 godz.",
             "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Kolorowe szk\u0142o PRL w cenie z\u0142ota. Tyle w 2025 roku trzeba zap\u0142aci\u0107 za stare naczynia i wazony [20.03.25]",
+            "link": "https://expressbydgoski.pl/kolorowe-szklo-prl-w-cenie-zlota-tyle-w-2025-roku-trzeba-zaplacic-za-stare-naczynia-i-wazony-20-03-25/ar/c9p2-27231213",
+            "description": "Kolorowe szk\u0142o produkowane w PRL-u jest obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.etxKrwlnLdDDmT34CqKVPg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stara+porcelana",
+            "date": "Express Bydgoski4 godz.",
+            "source": "Express Bydgoski",
+            "article_content": "Content not available"
         }
     },
     {
@@ -202,7 +186,7 @@
             "description": "W ostatnich latach przedmioty z czas\u00f3w PRL prze\u017cywaj\u0105 prawdziwy renesans. W 2025 roku kolekcjonerzy coraz ch\u0119tniej poszukuj\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=OVF.V7Jp3FebHL34tnMImJmAIQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN6 godz.",
+            "date": "Gazeta Pomorska on MSN10 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -217,10 +201,42 @@
             "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/kolekcjonerzy-poszukuj%C4%85-tych-antyk%C3%B3w-unikalne-przedmioty-do-kupienia-w-internecie-masz-je-w-domu-20032025/ar-AA1xM25C?ocid=BingNewsVerp",
             "description": "Te przedmioty cz\u0119sto trafiaj\u0105 na strych, piwnic\u0119, pchli targ, czy nawet \u015bmietnik. Wiele os\u00f3b nie zdaje sobie sprawy, \u017ce maj\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.M2fw_kVEbAkv5zg2kvCAfS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "targ+staroci",
-            "date": "G\u0142os Pomorza on MSN5 godz.",
+            "category": "stara+porcelana",
+            "date": "G\u0142os Pomorza on MSN9 godz.",
             "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Kolekcjonerzy poszukuj\u0105 tych antyk\u00f3w. Unikalne przedmioty do kupienia w internecie. Masz je w domu? 20.03.2025",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/kolekcjonerzy-poszukuj%C4%85-tych-antyk%C3%B3w-unikalne-przedmioty-do-kupienia-w-internecie-masz-je-w-domu-20032025/ar-AA1xM25C?ocid=BingNewsVerp",
+            "description": "Te przedmioty cz\u0119sto trafiaj\u0105 na strych, piwnic\u0119, pchli targ, czy nawet \u015bmietnik. Wiele os\u00f3b nie zdaje sobie sprawy, \u017ce maj\u0105 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.M2fw_kVEbAkv5zg2kvCAfS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "G\u0142os Pomorza on MSN9 godz.",
+            "source": "G\u0142os Pomorza on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Ubrania a ni\u017cszych cenach w sklepach sieci Reserved, House, Cropp i Mohito w czwartek, 20.03.2025. Sprawd\u017a, co jest w promocji",
+            "link": "https://bedzin.naszemiasto.pl/ubrania-a-nizszych-cenach-w-sklepach-sieci-reserved-house-cropp-i-mohito-w-czwartek-20-03-2025-sprawdz-co-jest-w-promocji/ar/c15p1-20976483",
+            "description": "Takie przeceny znale\u017ali\u015bmy dzi\u015b (20.03.25) na ubrania w sklepach firmy LPP. Codziennie \u015bledzimy ceny produkt\u00f3w na stronach ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.1QJorxJyX6UU41HsrGd-2C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "B\u0119dzin Nasze Miasto3 godz.",
+            "source": "B\u0119dzin Nasze Miasto",
+            "article_content": "Content not available"
         }
     },
     {
@@ -234,9 +250,9 @@
             "description": "W Niemczech odwo\u0142ywane s\u0105 liczne festyny, w tym jarmarki i festiwale. Wszystko z powodu obaw przed atakami terrorystycznymi. I cho\u0107 arty\u015bci, dla kt\u00f3rych cz\u0119sto takie imprezy s\u0105 \u017ar\u00f3d\u0142em utrzymania, nie ...",
             "image_url": "https://www.bing.pl/th?id=ODF.GhWejP0dMFTzOkSqze5iTA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "o24 godz.",
+            "date": "o28 godz.",
             "source": "o2",
-            "article_content": "W Niemczech rosn\u0105 obawy przed atakami terrorystycznymi. W zwi\u0105zku z tym podejmowane s\u0105 decyzje dotycz\u0105ce odwo\u0142ywania wielu imprez plenerowych. Jak podaje Bild, po atakach w Magdeburgu i Monachium wprowadzono surowsze \u015brodki bezpiecze\u0144stwa, kt\u00f3re generuj\u0105 wysokie koszty. Dla organizator\u00f3w s\u0105 nie do ud\u017awigni\u0119cia.\n\nFrank Hakelberg z Niemieckiego Zwi\u0105zku Wystawc\u00f3w podkre\u015bla, \u017ce festyny s\u0105 kluczowe dla lokalnych spo\u0142eczno\u015bci i gospodarki. - Nie mog\u0119 wzi\u0105\u0107 na siebie odpowiedzialno\u015bci, gdyby jaki\u015b szaleniec znowu potr\u0105ci\u0142 ludzi swoim samochodem - powiedzia\u0142 Bildowi G\u00fcnter Fiebig, organizator targu staroci w jednym z bawarskich miast.\n\nMamy oko\u0142o 9700 festiwali ludowych. Pa\u0144stwo musi odpowiada\u0107 za bezpiecze\u0144stwo. Nie mo\u017ce by\u0107 tak, \u017ce b\u0119dziemy musieli radzi\u0107 sobie z tymi sami - Frank Hakelberg, prezes Niemieckiego Zwi\u0105zku Wystawc\u00f3w.\n\nDalsza cz\u0119\u015b\u0107 artyku\u0142u pod materia\u0142em wideo\n\nZobacz tak\u017ce: Macierewicz nie odpowiedzia\u0142 na pytanie. Pose\u0142 PiS zarzuci\u0142 mediom \"rosyjsk\u0105 narracj\u0119\"\n\nZadowolenie z powodu zaostrzonych \u015brodk\u00f3w bezpiecze\u0144stwa wyrazi\u0142 niemiecki zwi\u0105zek zawodowy policjant\u00f3w. - Jako mi\u0119dzynarodowa metropolia, Berlin jest celem siatek terrorystycznych, a ze wzgl\u0119du na nasz wolny i liberalny styl \u017cycia, stanowi r\u00f3wnie\u017c cel dla indywidualnych przest\u0119pc\u00f3w - m\u00f3wi szef Stephan Weh.\n\nJak podaje Bild, odwo\u0142ano tradycyjny jarmark wiosenny w Lage w Nadrennii P\u00f3\u0142nocnej Westfalii. Nie uda\u0142o si\u0119 zapewni\u0107 wystarczaj\u0105cej ilo\u015bci ochrony. Nie odb\u0119dzie si\u0119 te\u017c \u015awi\u0119to Kwitn\u0105cej Wi\u015bni w Marburgu w Hesji. Odwo\u0142ywane s\u0105 targi staroci w pobli\u017cu Berlina i tradycyjny pokaz stra\u017cak\u00f3w z okazji Wielkanocy. Nie b\u0119dzie te\u017c wydarze\u0144 z okazji Nocy Walpurgii.\n\nW ostatnich miesi\u0105cach Niemcy zmagaj\u0105 si\u0119 z plag\u0105 atak\u00f3w terrorystycznych. Szczeg\u00f3lnie g\u0142o\u015bnym echem odbi\u0142 si\u0119 zamach w Magdeburgu, do kt\u00f3rego dosz\u0142o 20 grudnia 2024 na jarmarku bo\u017conarodzeniowym. 50-letni Saudyjczyk Talib al-Abd al-Muhsin wjecha\u0142 w t\u0142um, zabi\u0142 6 os\u00f3b, ponad 230 zosta\u0142o rannych. Skorzysta\u0142 z wjazdu przenaczonego s\u0142u\u017cbom i taranowa\u0142 przez prawie 500 metr\u00f3w ludzi. By\u0142 psychiatr\u0105 maj\u0105cym status uchod\u017acy krytykuj\u0105cym Niemcy za liberalne podej\u015bcie do islamu."
+            "article_content": "W lutym 2025 24-letni Afga\u0144czyk wjecha\u0142 w t\u0142um protestuj\u0105cych os\u00f3b w Monachium. Zmar\u0142y dwie osoby, rannych zosta\u0142o 39 os\u00f3b. Farhad Noori w 2020 roku zosta\u0142 zobowi\u0105zany do opuszczenia Niemiec, jednak nigdy tego nie uczyni\u0142. Twierdzi\u0142, \u017ce atak zrealizowa\u0107 kaza\u0142 mu Allah, podczas zatrzymania krzycza\u0142 \"Allah Akbar\".\n\nW ostatnich miesi\u0105cach Niemcy zmagaj\u0105 si\u0119 z plag\u0105 atak\u00f3w terrorystycznych. Szczeg\u00f3lnie g\u0142o\u015bnym echem odbi\u0142 si\u0119 zamach w Magdeburgu , do kt\u00f3rego dosz\u0142o 20 grudnia 2024 na jarmarku bo\u017conarodzeniowym. 50-letni Saudyjczyk Talib al-Abd al-Muhsin wjecha\u0142 w t\u0142um, zabi\u0142 6 os\u00f3b, ponad 230 zosta\u0142o rannych. Skorzysta\u0142 z wjazdu przenaczonego s\u0142u\u017cbom i taranowa\u0142 przez prawie 500 metr\u00f3w ludzi. By\u0142 psychiatr\u0105 maj\u0105cym status uchod\u017acy krytykuj\u0105cym Niemcy za liberalne podej\u015bcie do islamu.\n\nJak podaje Bild, odwo\u0142ano tradycyjny jarmark wiosenny w Lage w Nadrennii P\u00f3\u0142nocnej Westfalii. Nie uda\u0142o si\u0119 zapewni\u0107 wystarczaj\u0105cej ilo\u015bci ochrony. Nie odb\u0119dzie si\u0119 te\u017c \u015awi\u0119to Kwitn\u0105cej Wi\u015bni w Marburgu w Hesji. Odwo\u0142ywane s\u0105 targi staroci w pobli\u017cu Berlina i tradycyjny pokaz stra\u017cak\u00f3w z okazji Wielkanocy. Nie b\u0119dzie te\u017c wydarze\u0144 z okazji Nocy Walpurgii.\n\nW Niemczech rosn\u0105 obawy przed atakami terrorystycznymi. W zwi\u0105zku z tym podejmowane s\u0105 decyzje dotycz\u0105ce odwo\u0142ywania wielu imprez plenerowych. Jak podaje Bild, po atakach w Magdeburgu i Monachium wprowadzono surowsze \u015brodki bezpiecze\u0144stwa, kt\u00f3re generuj\u0105 wysokie koszty. Dla organizator\u00f3w s\u0105 nie do ud\u017awigni\u0119cia.\n\nW Niemczech odwo\u0142ywane s\u0105 liczne festyny, w tym jarmarki i festiwale. Wszystko z powodu obaw przed atakami terrorystycznymi. I cho\u0107 arty\u015bci, dla kt\u00f3rych cz\u0119sto takie imprezy s\u0105 \u017ar\u00f3d\u0142em utrzymania, nie s\u0105 zadowoleni z takiej decyzji, cieszy si\u0119 zwi\u0105zek zawodowy policjant\u00f3w.\n\nPoka\u017c mniej Poka\u017c wi\u0119cej\n\nPobieranie, zwielokrotnianie, przechowywanie lub jakiekolwiek inne wykorzystywanie tre\u015bci dost\u0119pnych w niniejszym serwisie - bez wzgl\u0119du na ich charakter i spos\u00f3b wyra\u017cenia (w szczeg\u00f3lno\u015bci lecz nie wy\u0142\u0105cznie: s\u0142owne, s\u0142owno-muzyczne, muzyczne, audiowizualne, audialne, tekstowe, graficzne i zawarte w nich dane i informacje, bazy danych i zawarte w nich dane) oraz form\u0119 (np. literackie, publicystyczne, naukowe, kartograficzne, programy komputerowe, plastyczne, fotograficzne) wymaga uprzedniej i jednoznacznej zgody Wirtualna Polska Media Sp\u00f3\u0142ka Akcyjna z siedzib\u0105 w Warszawie, b\u0119d\u0105cej w\u0142a\u015bcicielem niniejszego serwisu, bez wzgl\u0119du na spos\u00f3b ich eksploracji i wykorzystan\u0105 metod\u0119 (manualn\u0105 lub zautomatyzowan\u0105 technik\u0119, w tym z u\u017cyciem program\u00f3w uczenia maszynowego lub sztucznej inteligencji). Powy\u017csze zastrze\u017cenie nie dotyczy wykorzystywania jedynie w celu u\u0142atwienia ich wyszukiwania przez wyszukiwarki internetowe oraz korzystania w ramach stosunk\u00f3w umownych lub dozwolonego u\u017cytku okre\u015blonego przez w\u0142a\u015bciwe przepisy prawa.\n\nSzczeg\u00f3\u0142owa tre\u015b\u0107 dotycz\u0105ca niniejszego zastrze\u017cenia znajduje si\u0119 tutaj."
         }
     },
     {
@@ -245,14 +261,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Pchli Targ w podpozna\u0144skich Komornikach 16 marca 2025. Nie brakowa\u0142o t\u0142um\u00f3w i unikalnych przedmiot\u00f3w. Co mo\u017cna by\u0142o kupi\u0107? Zobacz zdj\u0119cia",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/pchli-targ-w-podpozna%C5%84skich-komornikach-16-marca-2025-nie-brakowa%C5%82o-t%C5%82um%C3%B3w-i-unikalnych-przedmiot%C3%B3w-co-mo%C5%BCna-by%C5%82o-kupi%C4%87-zobacz-zdj%C4%99cia/ar-AA1B8SwN?ocid=BingNewsVerp",
-            "description": "Pchli targ w podpozna\u0144skich Komornikach przyci\u0105gn\u0105\u0142 t\u0142umy poszukiwaczy wyj\u0105tkowych okazji. W s\u0142oneczn\u0105 niedziel\u0119 nie brakowa\u0142o wystawc\u00f3w, kt\u00f3rzy przygotowali bogat\u0105 ofert\u0119 przedmiot\u00f3w. Jakie skarby mo ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.Cya7j59Rws2Si6qfmk5ljw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Strach przed zamachami! Pierwsze festyny wielkanocne odwo\u0142ane w Niemczech",
+            "link": "https://dojczland.info/wiadomosci/strach-przed-zamachami-pierwsze-festyny-wielkanocne-odwolane-w-niemczech/",
+            "description": "Czy terrory\u015bci osi\u0105gn\u0119li sw\u00f3j cel? Pierwsze festyny ludowe oraz wydarzenia, takie jak jarmarki, ogniska wielkanocne i ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.zv_YhC6kXjYdU2A1fBDX-i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Pozna\u0144 Nasze Miasto on MSN22 godz.",
-            "source": "Pozna\u0144 Nasze Miasto on MSN",
-            "article_content": ""
+            "date": "Dojczland.info1 godz.",
+            "source": "Dojczland.info",
+            "article_content": "Czy terrory\u015bci osi\u0105gn\u0119li sw\u00f3j cel? Pierwsze festyny ludowe oraz wydarzenia, takie jak jarmarki, ogniska wielkanocne i kiermasze, zostaj\u0105 odwo\u0142ane z powodu braku zabezpiecze\u0144 przed potencjalnymi zamachami.\n\nSurowe \u015brodki bezpiecze\u0144stwa i ogromne koszty\n\nT\u0142o tej sytuacji to niedawne tragiczne wydarzenia: atak z u\u017cyciem pojazdu na jarmark bo\u017conarodzeniowy w Magdeburgu oraz zamach terrorystyczny na demonstracj\u0119 zwi\u0105zku zawodowego Verdi w Monachium. W efekcie wdro\u017cono bardziej rygorystyczne \u015brodki bezpiecze\u0144stwa, kt\u00f3rych koszty si\u0119gaj\u0105 od setek tysi\u0119cy do nawet milion\u00f3w euro. Wi\u0119kszo\u015b\u0107 organizator\u00f3w i samorz\u0105d\u00f3w nie jest w stanie pokry\u0107 takich wydatk\u00f3w.\n\nCo jednak istotne, bezpiecze\u0144stwo imprez nie powinno zale\u017ce\u0107 od finans\u00f3w! Niemcy w\u0142a\u015bnie zad\u0142u\u017cy\u0142y si\u0119 na setki miliard\u00f3w euro m.in. po to, aby wzmocni\u0107 obron\u0119 cywiln\u0105. Dodatkowe fundusze mog\u0142yby by\u0107 przeznaczone na lepsz\u0105 ochron\u0119 festyn\u00f3w, kiermasz\u00f3w i innych wydarze\u0144 kulturalnych. Je\u015bli tego nie zrobi\u0105, kraj mo\u017ce utraci\u0107 cz\u0119\u015b\u0107 swojego dziedzictwa.\n\n\u201eNasza tradycja jest zagro\u017cona\u201d\n\nJu\u017c po odwo\u0142aniu karnawa\u0142owych pochod\u00f3w przewodnicz\u0105cy niemieckiej federacji karnawa\u0142owej Klaus-Ludwig Fess ostrzega\u0142 w rozmowie z \u201eBILD\u201d: \u201eNasza tradycja jest zagro\u017cona\u201d. Teraz do tych g\u0142os\u00f3w do\u0142\u0105cza Frank Hakelberg, g\u0142\u00f3wny dyrektor Niemieckiego Zwi\u0105zku Weso\u0142ych Miasteczek: \u201eMamy oko\u0142o 9700 festyn\u00f3w ludowych. Ka\u017cdy z nich jest wa\u017cny i niepowtarzalny dla miast, wsi i region\u00f3w.\u201d\n\nCo wi\u0119cej, takie wydarzenia stanowi\u0105 podstaw\u0119 bytu dla w\u0142a\u015bcicieli atrakcji i wystawc\u00f3w. \u201eKa\u017cde odwo\u0142anie to cios. Coraz wi\u0119cej przedsi\u0119biorc\u00f3w znajduje si\u0119 na skraju przetrwania\u201d \u2013 dodaje Hakelberg.\n\nKolejne wydarzenia odwo\u0142ane\n\nZ dnia na dzie\u0144 pojawiaj\u0105 si\u0119 nowe informacje o odwo\u0142anych imprezach w ca\u0142ym kraju:\n\nWeso\u0142e miasteczko w Lage (NRW) \u2013 festyn wiosenny zosta\u0142 anulowany, poniewa\u017c organizatorzy nie byli w stanie spe\u0142ni\u0107 wymog\u00f3w bezpiecze\u0144stwa. Aby zapewni\u0107 ochron\u0119, konieczne by\u0142oby u\u017cycie 30 ci\u0119\u017car\u00f3wek.\n\n\u2013 festyn wiosenny zosta\u0142 anulowany, poniewa\u017c organizatorzy nie byli w stanie spe\u0142ni\u0107 wymog\u00f3w bezpiecze\u0144stwa. Aby zapewni\u0107 ochron\u0119, konieczne by\u0142oby u\u017cycie 30 ci\u0119\u017car\u00f3wek. \u015awi\u0119to kwitn\u0105cej wi\u015bni w Marburgu (Hesja) \u2013 wydarzenie nie odb\u0119dzie si\u0119 z powodu \u201eabstrakcyjnego zagro\u017cenia terrorystycznego\u201d.\n\n\u2013 wydarzenie nie odb\u0119dzie si\u0119 z powodu \u201eabstrakcyjnego zagro\u017cenia terrorystycznego\u201d. B\u00f6lschefest w Berlinie-Friedrichshagen \u2013 festyn obejmuj\u0105cy lunaparki, kiermasze i wyst\u0119py artystyczne zosta\u0142 anulowany. Organizator Hans-Dieter Laubinger t\u0142umaczy: \u201ePrzeanalizowali\u015bmy sytuacj\u0119 i podj\u0119li\u015bmy trudn\u0105 decyzj\u0119. Ostatecznie odwo\u0142ujemy organizacj\u0119 festynu na B\u00f6lschestra\u00dfe\u201d.\n\n\u2013 festyn obejmuj\u0105cy lunaparki, kiermasze i wyst\u0119py artystyczne zosta\u0142 anulowany. Organizator Hans-Dieter Laubinger t\u0142umaczy: \u201ePrzeanalizowali\u015bmy sytuacj\u0119 i podj\u0119li\u015bmy trudn\u0105 decyzj\u0119. Ostatecznie odwo\u0142ujemy organizacj\u0119 festynu na B\u00f6lschestra\u00dfe\u201d. Ognisko wielkanocne w Berlinie-Frohnau \u2013 lokalna stra\u017c po\u017carna prawdopodobnie zrezygnuje z organizacji imprezy ze wzgl\u0119du na obawy zwi\u0105zane z potencjalnymi atakami.\n\nNowe prawo dotycz\u0105ce zabezpiecze\u0144 wielkich imprez\n\nW odpowiedzi na rosn\u0105ce obawy Berlin jako pierwsze niemieckie land planuje wprowadzenie nowej ustawy dotycz\u0105cej bezpiecze\u0144stwa masowych wydarze\u0144. Nowe przepisy zobowi\u0105\u017c\u0105 organizator\u00f3w du\u017cych imprez publicznych (koncerty, parady, maratony) do stosowania konkretnych, obligatoryjnych \u015brodk\u00f3w ochronnych. Ustawa ma zosta\u0107 uchwalona jeszcze w tej kadencji.\n\nZwi\u0105zek Zawodowy Policji (GdP) pozytywnie ocenia ten pomys\u0142. Przewodnicz\u0105cy zwi\u0105zku Stephan Weh komentuje: \u201eTo prawo pozwoli\u0142oby zamkn\u0105\u0107 wiele luk w systemie zabezpiecze\u0144 i skuteczniej przeciwdzia\u0142a\u0107 atakom z wykorzystaniem pojazd\u00f3w. Berlin, jako miasto o mi\u0119dzynarodowym znaczeniu, jest szczeg\u00f3lnie nara\u017cony na zagro\u017cenia ze strony organizacji terrorystycznych oraz pojedynczych sprawc\u00f3w\u201d.\n\nNawet jarmarki i Walpurgisnacht nie s\u0105 bezpieczne\n\nNie tylko festyny ludowe padaj\u0105 ofiar\u0105 zaostrzonych zasad. Nawet tradycyjne jarmarki i noc Walpurgi s\u0105 anulowane:\n\nTargi staroci w Rheinfelden (Badenia-Wirtembergia) \u2013 organizatorzy rezygnuj\u0105 z organizacji miejskich targ\u00f3w antyk\u00f3w i rzemios\u0142a.\n\n\u2013 organizatorzy rezygnuj\u0105 z organizacji miejskich targ\u00f3w antyk\u00f3w i rzemios\u0142a. Jarmark uliczny w Schongau (Bawaria) \u2013 wydarzenie zaplanowane na 5 kwietnia odwo\u0142ano. \u201eNie mog\u0119 wzi\u0105\u0107 na siebie odpowiedzialno\u015bci, je\u015bli jaki\u015b szaleniec wjedzie w ludzi samochodem\u201d \u2013 powiedzia\u0142 organizator G\u00fcnter Fiebig w rozmowie z \u201eBILD\u201d.\n\n\u2013 wydarzenie zaplanowane na 5 kwietnia odwo\u0142ano. \u201eNie mog\u0119 wzi\u0105\u0107 na siebie odpowiedzialno\u015bci, je\u015bli jaki\u015b szaleniec wjedzie w ludzi samochodem\u201d \u2013 powiedzia\u0142 organizator G\u00fcnter Fiebig w rozmowie z \u201eBILD\u201d. Walpurgisnacht w Dallgow-D\u00f6beritz (Brandenburgia) oraz \u201eWismar bl\u00fcht auf\u201d w Meklemburgii-Pomorzu Przednim \u2013 festyny r\u00f3wnie\u017c zosta\u0142y anulowane.\n\noraz \u2013 festyny r\u00f3wnie\u017c zosta\u0142y anulowane. Pfingstochsenfest w Elmshorn (Szlezwik-Holsztyn) \u2013 znane \u015bwi\u0119to r\u00f3wnie\u017c nie dojdzie do skutku.\n\nWymagania dla organizator\u00f3w musz\u0105 zosta\u0107 zmienione\n\nNiemieccy organizatorzy festyn\u00f3w i kiermasz\u00f3w podkre\u015blaj\u0105, \u017ce bezpiecze\u0144stwo obywateli powinno by\u0107 priorytetem pa\u0144stwa. Frank Hakelberg apeluje: \u201eBezpiecze\u0144stwo to zadanie publiczne. Nie mo\u017ce by\u0107 tak, \u017ce w\u0142a\u015bciciele lunapark\u00f3w, organizatorzy jarmark\u00f3w i lokalne stowarzyszenia musz\u0105 sami pokrywa\u0107 te koszty\u201d.\n\nJe\u015bli sytuacja si\u0119 nie zmieni, Niemcy mog\u0105 stan\u0105\u0107 w obliczu trwa\u0142ej utraty tradycyjnych festyn\u00f3w, kiermasz\u00f3w i wydarze\u0144 kulturalnych, kt\u00f3re przez wieki by\u0142y cz\u0119\u015bci\u0105 to\u017csamo\u015bci kraju.\n\n\u017ar\u00f3d\u0142o: bild.de"
         }
     },
     {
@@ -266,7 +282,7 @@
             "description": "Na tym \"Bazarku\" towar ulatnia si\u0119 w mig. W\u0142a\u015bciciel opowiedzia\u0142 nam, jak wchodzi w posiadanie intryguj\u0105cych przedmiot\u00f3w.",
             "image_url": "https://www.bing.pl/th?id=OVFT.fmkAqOhXyTuheb6B82iiLC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Gazeta Wroc\u0142awska on MSN4 godz.",
+            "date": "Gazeta Wroc\u0142awska on MSN8 godz.",
             "source": "Gazeta Wroc\u0142awska on MSN",
             "article_content": ""
         }
@@ -277,29 +293,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Hala expo \u0142\u00f3d\u017a",
-            "link": "https://expressilustrowany.pl/tag/hala-expo-lodz",
-            "description": "Targi \u201eEgzotyczne Zwierz\u0119ta' w Hali EXPO w \u0141odzi to by\u0142a wyj\u0105tkowa okazja do podziwiania egzotycznych gatunk\u00f3w. Na odwiedzaj\u0105cych czekaj\u0105 pokazy sokolnicze,... T\u0142umy student\u00f3w, ale i absolwent\u00f3w \u0142\u00f3dzk ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.A9xqYWX22R6wJlvUbZ9SPQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "targ+staroci",
-            "date": "Express Ilustrowany22 godz.",
-            "source": "Express Ilustrowany",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "\u015acie\u017cki spacerowe do 6 km od Ko\u0142obrzegu. Pomys\u0142y na wypoczynek na powietrzu w weekend 22 - 23 marca",
-            "link": "https://kolobrzeg.naszemiasto.pl/sciezki-spacerowe-do-6-km-od-kolobrzegu-pomysly-na-wypoczynek-na-powietrzu-w-weekend-22-23-marca/ar/c7p1-22115647",
-            "description": "Latarnia morska - wysoko\u015b\u0107 26 metr\u00f3w, zasi\u0119g \u015bwiat\u0142a 16 mil morskich, wybudowana w 1945 roku na miejscu Fortu Uj\u015bcie, kt\u00f3ry w ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.xPkH0ZhsmbYXfF1xIW-Pzy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Trasy rowerowe do 19 km od O\u015bwi\u0119cimia. Podpowiadamy pomys\u0142y na wypraw\u0119. Gdzie w weekend 22 - 23 marca?",
+            "link": "https://oswiecim.naszemiasto.pl/trasy-rowerowe-do-19-km-od-oswiecimia-podpowiadamy-pomysly-na-wyprawe-gdzie-w-weekend-22-23-marca/ar/c7p1-21831633",
+            "description": "Rozgl\u0105dasz si\u0119 za pomys\u0142em na tras\u0119 rowerow\u0105 w pobli\u017cu O\u015bwi\u0119cimia? Proponujemy, gdzie warto si\u0119 wybra\u0107. Przygotowali\u015bmy 5 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.w6Izgn-H1PEKem0uyERIny&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Ko\u0142obrzeg Nasze Miasto22 godz.",
-            "source": "Ko\u0142obrzeg Nasze Miasto",
+            "date": "O\u015bwi\u0119cim Nasze Miasto2 godz.",
+            "source": "O\u015bwi\u0119cim Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -314,24 +314,8 @@
             "description": "Muran\u00f3w to zabytkowa cz\u0119\u015b\u0107 Warszawy, le\u017c\u0105ca na pograniczu \u015ar\u00f3dmie\u015bcia i Woli. To tutaj w\u0142a\u015bnie przebiega\u0142a w czasie drugiej wojny \u015bwiatowej granica getta. Jak... Jak wygl\u0105da\u0142a Warszawa tu\u017c przed znisz ...",
             "image_url": "https://www.bing.pl/th?id=ODF.RiSZ6cVK2kGKUBp4PkSDCg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Warszawa Nasze Miasto14 godz.",
+            "date": "Warszawa Nasze Miasto18 godz.",
             "source": "Warszawa Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Nordic walking do 65 km od Gryfic. Podpowiadamy, gdzie warto si\u0119 wybra\u0107 w weekend 22 - 23 marca",
-            "link": "https://gryfice.naszemiasto.pl/nordic-walking-do-65-km-od-gryfic-podpowiadamy-gdzie-warto-sie-wybrac-w-weekend-22-23-marca/ar/c7p1-22319401",
-            "description": "Rozgl\u0105dasz si\u0119 za ciekawymi \u015bcie\u017ckami nordic walking w okolicy Gryfic? Z Traseo mamy dla Ciebie kilka podpowiedzi na ten ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.teKJm%2bc7%2beAHTy51KBPlpg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "Gryfice Nasze Miasto21 godz.",
-            "source": "Gryfice Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -346,7 +330,7 @@
             "description": "Policjanci ze \u015ar\u00f3dmie\u015bcia w Warszawie zatrzymali 39-latka, podejrzanego o szereg nietypowych przest\u0119pstw na Muranowie. M\u0119\u017cczyzna wybi\u0142 hulajnog\u0105 okno... Muran\u00f3w to zabytkowa cz\u0119\u015b\u0107 Warszawy, le\u017c\u0105ca na ...",
             "image_url": "https://www.bing.pl/th?id=ODF.RiSZ6cVK2kGKUBp4PkSDCg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Warszawa Nasze Miasto14 godz.",
+            "date": "Warszawa Nasze Miasto18 godz.",
             "source": "Warszawa Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -362,7 +346,7 @@
             "description": "Bi\u017cuteria \u2013 z\u0142ote i srebrne pier\u015bcionki, naszyjniki oraz broszki z diamentami i innymi kamieniami szlachetnymi. Broszki i ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.gX_tczJZtqlSIXfMPCrYSC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Pomorska on MSN16 godz.",
+            "date": "Gazeta Pomorska on MSN19 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -373,29 +357,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Miasto zatai\u0142o dokumenty przed konserwatorem? Tak twierdz\u0105 protestuj\u0105cy przeciw tramwajowi na Bohater\u00f3w Getta Warszawskiego",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/miasto-zatai%C5%82o-dokumenty-przed-konserwatorem-tak-twierdz%C4%85-protestuj%C4%85cy-przeciw-tramwajowi-na-bohater%C3%B3w-getta-warszawskiego/ar-AA1BfFnp?ocid=BingNewsVerp",
-            "description": "\"Z\u0142o\u017cymy zawiadomienie o ukryciu kluczowych informacji dotycz\u0105cych sprawy do konserwatora zabytk\u00f3w i oczekujemy, \u017ce wycofa on ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.OPNG6qvEyNGHMz2LtBfpmC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Spacer do 35 km od Cieszyna. Podpowiadamy, gdzie warto si\u0119 wybra\u0107 w weekend 22 - 23 marca",
+            "link": "https://cieszyn.naszemiasto.pl/spacer-do-35-km-od-cieszyna-podpowiadamy-gdzie-warto-sie-wybrac-w-weekend-22-23-marca/ar/c7p1-22115721",
+            "description": "Nie masz pomys\u0142u na urokliw\u0105 \u015bcie\u017ck\u0119 na spacer z Cieszyna? Oto nasze sugestie, gdzie warto sie wybra\u0107. Mamy 3 ciekawe ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.du4L3MONGy5e3iW-cBV_tC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Dziennik Ba\u0142tycki on MSN20 godz.",
-            "source": "Dziennik Ba\u0142tycki on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "2025 rok \u2013 te rzeczy musisz mie\u0107 w samochodzie! Oto obowi\u0105zkowe wyposa\u017cenie auta",
-            "link": "https://nowosci.com.pl/2025-rok-te-rzeczy-musisz-miec-w-samochodzie-oto-obowiazkowe-wyposazenie-auta/ar/c4p2-27166435",
-            "description": "Zgodnie z przepisami ka\u017cdy samoch\u00f3d powinien by\u0107 wyposa\u017cony w ga\u015bnic\u0119 oraz tr\u00f3jk\u0105t ostrzegawczy ze znakiem homologacji. Brak ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.LloI%2bbsfKQpvWQRsqq5a8Q&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski22 godz.",
-            "source": "Nowo\u015bci Dziennik Toru\u0144ski",
+            "date": "Cieszyn Nasze Miasto2 godz.",
+            "source": "Cieszyn Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -405,14 +373,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "K\u0142\u0119by dymu nad Warszaw\u0105. P\u0142onie bazar R\u00f3\u017cyckiego",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/k%C5%82%C4%99by-dymu-nad-warszaw%C4%85-p%C5%82onie-bazar-r%C3%B3%C5%BCyckiego/ar-AA1BfQ2a?ocid=BingNewsVerp",
-            "description": "Nad bazarem R\u00f3\u017cyckiego przy ulicy Targowej w Warszawie unosz\u0105 si\u0119 k\u0142\u0119by g\u0119stego dymu. Dosz\u0142o do po\u017caru budek handlowych.",
-            "image_url": "https://www.bing.pl/th?id=OVFT.3ZPeiRuoDN0dP9HCFIEvRS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Trasy rowerowe do 19 km od O\u015bwi\u0119cimia. Podpowiadamy pomys\u0142y na wypraw\u0119. Gdzie w weekend 22 - 23 marca?",
+            "link": "https://oswiecim.naszemiasto.pl/trasy-rowerowe-do-19-km-od-oswiecimia-podpowiadamy-pomysly-na-wyprawe-gdzie-w-weekend-22-23-marca/ar/c7p1-21831633",
+            "description": "Rozgl\u0105dasz si\u0119 za pomys\u0142em na tras\u0119 rowerow\u0105 w pobli\u017cu O\u015bwi\u0119cimia? Proponujemy, gdzie warto si\u0119 wybra\u0107. Przygotowali\u015bmy 5 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.w6Izgn-H1PEKem0uyERIny&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Do Rzeczy on MSN19 godz.",
-            "source": "Do Rzeczy on MSN",
-            "article_content": ""
+            "date": "O\u015bwi\u0119cim Nasze Miasto2 godz.",
+            "source": "O\u015bwi\u0119cim Nasze Miasto",
+            "article_content": "Content not available"
         }
     },
     {
@@ -421,13 +389,29 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Przegl\u0105d prasy 20.03.2025. Zestawili\u015bmy dla Ciebie najwa\u017cniejsze wydarzenia z wczoraj. Zobacz nasz\u0105 pras\u00f3wk\u0119",
-            "link": "https://wspolczesna.pl/przeglad-prasy-20-03-2025-zestawilismy-dla-ciebie-najwazniejsze-wydarzenia-z-wczoraj-zobacz-nasza-prasowke/ar/c1p1-19960917",
-            "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 19.03.",
-            "image_url": "https://www.bing.pl/th?id=OVFT.0T3g54x9_c24_Aieqka9YS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Trasy nordic walking w woj. \u015bl\u0105skim. Gdzie warto si\u0119 wybra\u0107 w weekend 22 - 23 marca. 3 najciekawsze trasy",
+            "link": "https://dziennikzachodni.pl/trasy-nordic-walking-w-woj-slaskim-gdzie-warto-sie-wybrac-w-weekend-22-23-marca-3-najciekawsze-trasy/ar/c7p1-22302727",
+            "description": "Zanim wyruszysz, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 22 marca w woj. \u015bl\u0105skim ma by\u0107 od 0\u00b0C do 13\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 23 marca w woj. \u015bl\u0105skim ma by\u0107 od 5\u00b0C do 16\u00b0C. Prawdopodobie\u0144stwo ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.73GKiv_kwPXUhIas-a0ZXQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Wsp\u00f3\u0142czesna8 godz.",
-            "source": "Gazeta Wsp\u00f3\u0142czesna",
+            "date": "Dziennik Zachodni2 godz.",
+            "source": "Dziennik Zachodni",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Trasy na rower do 9 km od Cz\u0119stochowy. Pomys\u0142y na jednodniow\u0105 wypraw\u0119. Gdzie w weekend 22 - 23 marca?",
+            "link": "https://czestochowa.naszemiasto.pl/trasy-na-rower-do-9-km-od-czestochowy-pomysly-na-jednodniowa-wyprawe-gdzie-w-weekend-22-23-marca/ar/c7p1-21831415",
+            "description": "Rozgl\u0105dasz si\u0119 za pomys\u0142em na wypraw\u0119 rowerow\u0105 z Cz\u0119stochowy? Podpowiadamy, gdzie warto si\u0119 wybra\u0107. Wybrali\u015bmy 5 ciekawych propozycji tras. S\u0105 r\u00f3\u017cne pod wzgl\u0119dem trudno\u015bci czy odleg\u0142o\u015bci, dlatego ka\u017cd ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.No7_U4SgTd7YF-2SGy7RlQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "zabytkowe+przedmioty",
+            "date": "Cz\u0119stochowa Nasze Miasto2 godz.",
+            "source": "Cz\u0119stochowa Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -442,7 +426,7 @@
             "description": "Zanim wydasz swoje monety, warto je dok\u0142adnie obejrze\u0107. Nie uwierzysz, jak bardzo mog\u0105 one zainteresowa\u0107 kolekcjoner\u00f3w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.1--lJ8tMnPmNitLvZjoRqy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN4 godz.",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN8 godz.",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
             "article_content": ""
         }
@@ -458,7 +442,7 @@
             "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet zwyk\u0142a pi\u0119cioz\u0142ot\u00f3wka mo\u017ce mie\u0107 wielokrotnie wi\u0119ksz\u0105 warto\u015b\u0107 ni\u017c nomina\u0142.",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Koszali\u0144ski7 godz.",
+            "date": "G\u0142os Koszali\u0144ski11 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
         }
@@ -470,11 +454,11 @@
         },
         "body": {
             "title": "Najbardziej poszukiwane i najcenniejsze pami\u0105tki z PRL-u. W 2025 roku kosztuj\u0105 krocie [20.03.2025]",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/najbardziej-poszukiwane-i-najcenniejsze-pami%C4%85tki-z-prl-u-w-2025-roku-kosztuj%C4%85-krocie-20-03-2025-r/ar-AA1ArrTe?ocid=BingNewsVerp",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/najbardziej-poszukiwane-i-najcenniejsze-pami%C4%85tki-z-prl-u-w-2025-roku-kosztuj%C4%85-krocie-20-03-2025/ar-AA1ArrTe?ocid=BingNewsVerp",
             "description": "W ostatnich latach przedmioty z czas\u00f3w PRL prze\u017cywaj\u0105 prawdziwy renesans. W 2025 roku kolekcjonerzy coraz ch\u0119tniej poszukuj\u0105 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.XXJILBIDmc28mJlpkYZZuy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "image_url": "https://www.bing.pl/th?id=OVF.V7Jp3FebHL34tnMImJmAIQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Pomorska on MSN6 godz.",
+            "date": "Gazeta Pomorska on MSN10 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -490,25 +474,9 @@
             "description": "O tym, \u017ce monety potrafi\u0105 by\u0107 warte fortun\u0119, wiemy wszyscy. A banknoty? Ma\u0142o z nas zdaje sobie spraw\u0119, \u017ce mog\u0105 kosztowa\u0107 krocie. Ile warte mog\u0105 by\u0107 banknoty z... Polskie monety PRL-u s\u0105 cz\u0119sto poszuki ...",
             "image_url": "https://www.bing.pl/th?id=ODF.6oXJf1KayPglPY9d412pqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Lubuska11 godz.",
+            "date": "Gazeta Lubuska15 godz.",
             "source": "Gazeta Lubuska",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Zanik\u0142e miasto sprzed wiek\u00f3w. To odkrycie wzbudzi\u0142o sensacj\u0119. Rozmawiamy z Andrzejem Kuczkowskim, niezale\u017cnym badaczem",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/zanik%C5%82e-miasto-sprzed-wiek%C3%B3w-to-odkrycie-wzbudzi%C5%82-sensacj%C4%99-rozmawiamy-z-andrzejem-kuczkowskim-niezale%C5%BCnym-badaczem/ar-AA1AOTN6?ocid=BingNewsVerp",
-            "description": "Pierwszym, historycznie i pewnie po\u015bwiadczonym przedstawicielem tej rodziny by\u0142 Warcis\u0142aw I, kt\u00f3ry zmar\u0142 oko\u0142o 1135 roku. To ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.WmrLRbyk7pcimZ4pfyOQVi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "G\u0142os Koszali\u0144ski on MSN7 dni",
-            "source": "G\u0142os Koszali\u0144ski on MSN",
-            "article_content": ""
         }
     }
 ]
