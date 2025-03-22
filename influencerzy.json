@@ -10,7 +10,7 @@
             "description": "Moda na przedmioty z dawnych lat nie s\u0142abnie, a w 2025 roku przedmioty vintage ciesz\u0105 si\u0119 ogromnym zainteresowaniem.",
             "image_url": "https://www.bing.pl/th?id=OVF.yp5J8C9vCbdJm4u0EYpzfw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski15 godz.",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski19 godz.",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski",
             "article_content": "Content not available"
         }
@@ -26,8 +26,24 @@
             "description": "Moda na przedmioty z dawnych lat nie s\u0142abnie, a w 2025 roku przedmioty retro ciesz\u0105 si\u0119 ogromnym zainteresowaniem.",
             "image_url": "https://www.bing.pl/th?id=OVF.P1tQGb2GxPDDltcn6JH%2fiA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN14 godz.",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN18 godz.",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Gie\u0142dy staroci na Dolnym \u015al\u0105sku. Gdzie szuka\u0107 niepowtarzalnych rzeczy? Oto adresy",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/gie%C5%82dy-staroci-na-dolnym-%C5%9Bl%C4%85sku-gdzie-szuka%C4%87-niepowtarzalnych-rzeczy-oto-adresy/ar-AA1BqJiE?ocid=BingNewsVerp",
+            "description": "Dolno\u015bl\u0105skie gie\u0142dy staroci to raj dla poszukiwaczy wyj\u0105tkowych przedmiot\u00f3w. Traficie tu na oryginalne meble, naczynia, okazy ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.6J8qh286K7OZaKSBRN16py&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Gazeta Wroc\u0142awska on MSN1 godz.",
+            "source": "Gazeta Wroc\u0142awska on MSN",
             "article_content": ""
         }
     },
@@ -42,7 +58,7 @@
             "description": "Peerelowskie wazony z czas\u00f3w PRL ciesz\u0105 si\u0119 obecnie ogromnym zainteresowaniem i s\u0105 obecnie jednym z najch\u0119tniej poszukiwanych ...",
             "image_url": "https://www.bing.pl/th?id=OVF.dK%2bRMqvPt%2bpX1qu6goeddw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Gazeta Pomorska on MSN11 godz.",
+            "date": "Gazeta Pomorska on MSN15 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -53,13 +69,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Grzeg\u00f3rzki Krak\u00f3w",
-            "link": "https://gazetakrakowska.pl/tag/grzegorzki-krakow",
-            "description": "Starocie, ksi\u0105\u017cki, p\u0142yty, sprz\u0119t AGD, odzie\u017c, artyku\u0142y spo\u017cywcze, kwiaty, zabawki, militaria - na gie\u0142dzie pod Hal\u0105 Targow\u0105 ka\u017cdy mo\u017ce znale\u017a\u0107 co\u015b dla siebie.",
-            "image_url": "https://www.bing.pl/th?id=ODF.XL5bGs_n6w06Ok0ARb1y3Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Pras\u00f3wka 22.03.2025. Zobacz zestawienie najwa\u017cniejszych informacji z wczoraj z naszego wojew\u00f3dztwa",
+            "link": "https://pomorska.pl/prasowka-22-03-2025-zobacz-zestawienie-najwazniejszych-informacji-z-wczoraj-z-naszego-wojewodztwa/ar/c1p1-19960903",
+            "description": "R\u00f3wnonoc wiosenna 2025 przypada na 20 marca, dok\u0142adnie o godzinie 10:01 czasu polskiego. To moment, kiedy S\u0142o\u0144ce wkracza w ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.N0sxeNoiyuurkcJG-5AgXi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Gazeta Krakowska3 godz.",
-            "source": "Gazeta Krakowska",
+            "date": "Gazeta Pomorska4 godz.",
+            "source": "Gazeta Pomorska",
             "article_content": "Content not available"
         }
     },
@@ -69,60 +85,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Poszukiwane antyki - kolekcjonerzy za nie p\u0142ac\u0105 krocie! Sprawd\u017a aktualne ceny [22.03.2025]",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/poszukiwane-antyki-kolekcjonerzy-za-nie-p%C5%82ac%C4%85-krocie-sprawd%C5%BA-aktualne-ceny-22032025/ar-AA1B6EpZ?ocid=BingNewsVerp",
-            "description": "Bi\u017cuteria \u2013 z\u0142ote i srebrne pier\u015bcionki, naszyjniki oraz broszki z diamentami i innymi kamieniami szlachetnymi. Broszki i pier\u015bcionki z XIX wieku mog\u0105 kosztowa\u0107 od 3 000 z\u0142 do 50 000 z\u0142, a unikalne ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "starocie",
-            "date": "Gazeta Pomorska on MSN8 godz.",
-            "source": "Gazeta Pomorska on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Rzadkie monety z PRL poszukiwane przez kolekcjoner\u00f3w. Sprawd\u017a, kt\u00f3re s\u0105 najdro\u017csze i ile mo\u017cna za nie zarobi\u0107! 21.03.2025",
-            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/rzadkie-monety-z-prl-poszukiwane-przez-kolekcjoner%C3%B3w-sprawd%C5%BA-kt%C3%B3re-s%C4%85-najdro%C5%BCsze-i-ile-mo%C5%BCna-za-nie-zarobi%C4%87-21032025/ar-AA1xHYvF?ocid=BingNewsVerp",
-            "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.xjREFZgdvMXJSpwK23bvCQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Ta moneta z PRL mo\u017ce by\u0107 warta nawet 30 tys. z\u0142otych! Koniecznie zobacz swoje szuflady [ZDJ\u0118CIA] 22.03.2025",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/ta-moneta-z-prl-mo%C5%BCe-by%C4%87-warta-nawet-30-tys-z%C5%82otych-koniecznie-zobacz-swoje-szuflady-zdj%C4%99cia-22032025/ar-AA1yiY2d?ocid=BingNewsVerp",
+            "description": "Wycena monet z PRL-u zale\u017cy od rzadko\u015bci wyst\u0119powania, jako\u015bci wybicia oraz gradingu, czyli stanu jej zachowania. W Polsce znajdziemy wiele okaz\u00f3w wartych kilkaset z\u0142otych, ale s\u0105 te\u017c takie, na ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "G\u0142os Pomorza on MSN21 godz.",
-            "source": "G\u0142os Pomorza on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Te pieni\u0105dze z PRL s\u0105 poszukiwane przez kolekcjoner\u00f3w! S\u0105 warte maj\u0105tek",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/te-pieni%C4%85dze-z-prl-s%C4%85-poszukiwane-przez-kolekcjoner%C3%B3w-s%C4%85-warte-maj%C4%85tek/ar-AA1Bojri?ocid=BingNewsVerp",
-            "description": "Szczeg\u00f3lnie poszukiwane s\u0105 meble wykonane z wysokiej jako\u015bci materia\u0142\u00f3w, charakteryzuj\u0105ce si\u0119 oryginalnym designem. Fotele projektu Chierowskiego, legendarny fotel 366, czy te\u017c komody i stoliki kawowe ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.XL5bGs_n6w06Ok0ARb1y3Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stare+monety",
-            "date": "Gazeta Krakowska on MSN14 godz.",
-            "source": "Gazeta Krakowska on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Masz te banknoty? To prawdziwe skarby! Za jeden mo\u017cesz otrzyma\u0107 kilka tysi\u0119cy z\u0142otych! [ZDJ\u0118CIA] 21.03.2025",
-            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/masz-te-banknoty-to-prawdziwe-skarby-za-jeden-mo%C5%BCesz-otrzyma%C4%87-kilka-tysi%C4%99cy-z%C5%82otych-zdj%C4%99cia-21032025/ar-AA1zSD9c?ocid=BingNewsVerp",
-            "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.o4EwlAsIz5rMM3h8kMS_wi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "G\u0142os Szczeci\u0144ski on MSN22 godz.",
+            "date": "G\u0142os Szczeci\u0144ski on MSN1 godz.",
             "source": "G\u0142os Szczeci\u0144ski on MSN",
             "article_content": ""
         }
@@ -133,13 +101,29 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Najbardziej poszukiwane i najcenniejsze pami\u0105tki z PRL-u. W 2025 roku kosztuj\u0105 krocie [22.03.2025]",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/najbardziej-poszukiwane-i-najcenniejsze-pami%C4%85tki-z-prl-u-w-2025-roku-kosztuj%C4%85-krocie-22032025/ar-AA1ArrTe?ocid=BingNewsVerp",
-            "description": "W ostatnich latach przedmioty z czas\u00f3w PRL prze\u017cywaj\u0105 prawdziwy renesans. W 2025 roku kolekcjonerzy coraz ch\u0119tniej poszukuj\u0105 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.JtSFENrTkjnk2wCJO9ISbi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Rzadkie monety z PRL poszukiwane przez kolekcjoner\u00f3w. Sprawd\u017a, kt\u00f3re s\u0105 najdro\u017csze i ile mo\u017cna za nie zarobi\u0107! 22.03.2025",
+            "link": "https://gp24.pl/rzadkie-monety-z-prl-poszukiwane-przez-kolekcjonerow-sprawdz-ktore-sa-najdrozsze-i-ile-mozna-za-nie-zarobic-22032025/ar/c1-17275689",
+            "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.VqlbsAA0uyJJdst9UhQg7g&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Gazeta Pomorska on MSN10 godz.",
-            "source": "Gazeta Pomorska on MSN",
+            "date": "G\u0142os Pomorza3 godz.",
+            "source": "G\u0142os Pomorza",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Masz te banknoty? To prawdziwe skarby! Za jeden mo\u017cesz otrzyma\u0107 kilka tysi\u0119cy z\u0142otych! [ZDJ\u0118CIA] 22.03.2025",
+            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/masz-te-banknoty-to-prawdziwe-skarby-za-jeden-mo%C5%BCesz-otrzyma%C4%87-kilka-tysi%C4%99cy-z%C5%82otych-zdj%C4%99cia-22032025/ar-AA1zSD9c?ocid=BingNewsVerp",
+            "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.o4EwlAsIz5rMM3h8kMS_wi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "G\u0142os Szczeci\u0144ski on MSN1 godz.",
+            "source": "G\u0142os Szczeci\u0144ski on MSN",
             "article_content": ""
         }
     },
@@ -149,12 +133,28 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Te monety s\u0105 warte du\u017co wi\u0119cej ni\u017c my\u015blisz. Zobacz czego szukaj\u0105 numizmatycy 20.03.2025",
-            "link": "https://www.msn.com/pl-pl/finanse/og%C3%B3lne/te-monety-s%C4%85-warte-du%C5%BCo-wi%C4%99cej-ni%C5%BC-my%C5%9Blisz-zobacz-czego-szukaj%C4%85-numizmatycy-20-03-2025/ar-AA1ATYqh?ocid=BingNewsVerp",
-            "description": "Czy posiadasz w portfelu monet\u0119 o nominalne 5 z\u0142? Mo\u017ce pojawi\u0142a si\u0119 szansa, aby\u015b sta\u0142 si\u0119 bogat\u0105 osob\u0105! S\u0105 takie monety, ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.3lz1iqBSaxMfNuqCe3aA9i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Te banknoty trzeba wymieni\u0107, bo trac\u0105 warto\u015b\u0107. Zobacz, jakie uszkodzenia banknot\u00f3w zmniejszaj\u0105 ich wycen\u0119 22.03.2025",
+            "link": "https://gk24.pl/te-banknoty-trzeba-wymienic-bo-traca-wartosc-zobacz-jakie-uszkodzenia-banknotow-zmniejszaja-ich-wycene-22032025/ar/c1-18995014",
+            "description": "Zobacz, jakie banknoty strac\u0105 na nominale. Znajduje si\u0119 kilka przypadk\u00f3w, kiedy pieni\u0105dz mo\u017ce straci\u0107 wa\u017cno\u015b\u0107 i nale\u017cy go wymieni\u0107, a w niekt\u00f3rych przypadkach traci te\u017c cz\u0119\u015b\u0107 swojej warto\u015bci. Zobacz, ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski on MSN18 godz.",
+            "date": "G\u0142os Koszali\u0144ski3 godz.",
+            "source": "G\u0142os Koszali\u0144ski",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Te monety s\u0105 warte du\u017co wi\u0119cej ni\u017c my\u015blisz. Zobacz czego szukaj\u0105 numizmatycy 22.03.2025",
+            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/te-monety-s%C4%85-warte-du%C5%BCo-wi%C4%99cej-ni%C5%BC-my%C5%9Blisz-zobacz-czego-szukaj%C4%85-numizmatycy-22032025/ar-AA1ATYqh?ocid=BingNewsVerp",
+            "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet zwyk\u0142a pi\u0119cioz\u0142ot\u00f3wka mo\u017ce mie\u0107 wielokrotnie wi\u0119ksz\u0105 warto\u015b\u0107 ni\u017c nomina\u0142.",
+            "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stare+monety",
+            "date": "G\u0142os Koszali\u0144ski on MSN2 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
@@ -165,12 +165,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Porcelana z PRL - kolekcjonerski rarytas. Unikalne przedmioty do kupienia na aukcjach internetowych. Masz je w domu? 21.03.2025",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/porcelana-z-prl-kolekcjonerski-rarytas-unikalne-przedmioty-do-kupienia-na-aukcjach-internetowych-masz-je-w-domu-21032025/ar-AA1xHP7I?ocid=BingNewsVerp",
-            "description": "Porcelana z PRL zajmuje wyj\u0105tkowe miejsce w polskiej kulturze, oddaj\u0105c ducha minionych lat. Zakorzeniona w historii Polskiej ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.5dtWIPVNE5gFDRdWIeeypi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Porcelana z PRL - kolekcjonerski rarytas. Unikalne przedmioty do kupienia na aukcjach internetowych. Masz je w domu? 22.03.2025",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/porcelana-z-prl-kolekcjonerski-rarytas-unikalne-przedmioty-do-kupienia-na-aukcjach-internetowych-masz-je-w-domu-22032025/ar-AA1xHP7I?ocid=BingNewsVerp",
+            "description": "Unikalna porcelana z PRL poszukiwana przez kolekcjoner\u00f3w mo\u017ce zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na niej zarobi\u0107 fortun\u0119! Cz\u0119sto nie mamy \u015bwiadomo\u015bci, \u017ce przedmioty posiadane w domu warte s\u0105 du\u017co ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "G\u0142os Pomorza on MSN21 godz.",
+            "date": "G\u0142os Pomorza on MSN2 godz.",
             "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
         }
@@ -181,28 +181,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Najbardziej poszukiwane i najcenniejsze pami\u0105tki z PRL-u. W 2025 roku kosztuj\u0105 krocie [22.03.2025]",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/najbardziej-poszukiwane-i-najcenniejsze-pami%C4%85tki-z-prl-u-w-2025-roku-kosztuj%C4%85-krocie-22032025/ar-AA1ArrTe?ocid=BingNewsVerp",
-            "description": "W ostatnich latach przedmioty z czas\u00f3w PRL prze\u017cywaj\u0105 prawdziwy renesans. W 2025 roku kolekcjonerzy coraz ch\u0119tniej poszukuj\u0105 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.JtSFENrTkjnk2wCJO9ISbi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Kolorowe szk\u0142o - sk\u0105d zainteresowanie w 2025 roku?",
+            "link": "https://expressbydgoski.pl/kolorowe-szklo-prl-w-cenie-zlota-tyle-w-2025-roku-trzeba-zaplacic-za-stare-naczynia-i-wazony-22-03-25/ar/c9p2-27231213",
+            "description": "Kolorowe szk\u0142o produkowane w PRL-u jest obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.V8poMm95%2fDxeb1iN0%2bIpMw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN10 godz.",
-            "source": "Gazeta Pomorska on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Kolorowe szk\u0142o PRL w cenie z\u0142ota. Tyle w 2025 roku trzeba zap\u0142aci\u0107 za stare naczynia i wazony [22.03.2025]",
-            "link": "https://expressbydgoski.pl/kolorowe-szklo-prl-w-cenie-zlota-tyle-w-2025-roku-trzeba-zaplacic-za-stare-naczynia-i-wazony-22-03-2025/ar/c9p2-27231213",
-            "description": "Kolekcjonerzy szczeg\u00f3lnie ceni\u0105 naczynia i wazony o oryginalnych kszta\u0142tach i intensywnych kolorach. Do najbardziej ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.lbGOm2OpGboGWsVRGWF8Tg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stara+porcelana",
-            "date": "Express Bydgoski11 godz.",
+            "date": "Express Bydgoski1 godz.",
             "source": "Express Bydgoski",
             "article_content": "Content not available"
         }
@@ -213,13 +197,61 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "To kwiaty najlepsze do domu! Te ro\u015bliny doniczkowe s\u0105 pi\u0119kne i wzbogac\u0105 twoje wn\u0119trze. Jakie kwiaty wybra\u0107 do domu? 21.03.2025",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/to-kwiaty-najlepsze-do-domu-te-ro%C5%9Bliny-doniczkowe-s%C4%85-pi%C4%99kne-i-wzbogac%C4%85-twoje-wn%C4%99trze-jakie-kwiaty-wybra%C4%87-do-domu-21032025/ar-AA1BmbOQ?ocid=BingNewsVerp",
-            "description": "Czy najlepsze kwiaty do domu musz\u0105 by\u0107 trudnym wyborem? Ka\u017cdy z nas pragnie, by nasze domowe wn\u0119trza by\u0142y pi\u0119kne i ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.5s_ZY-8ikuaIUSCNm7nwai&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Najlepsze MEMY o PRL. Saturator, kartki na \u017cywno\u015b\u0107 i absurdalne sytuacje. Wspomnienia o PRL i humor w formie satyry 22.03.2025",
+            "link": "https://gk24.pl/najlepsze-memy-o-prl-saturator-kartki-na-zywnosc-i-absurdalne-sytuacje-wspomnienia-o-prl-i-humor-w-formie-satyry-22032025/ar/c11-18832887",
+            "description": "Obok pustych sklepowych p\u00f3\u0142ek, PRL to r\u00f3wnie\u017c kartki na \u017cywno\u015b\u0107, ogromne kolejki do sklep\u00f3w, wszechobecna biurokracja. PRL to tak\u017ce woda z saturatora, a z jednej szklanki potrafi\u0142o wypi\u0107 jednego dnia ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "G\u0142os Koszali\u0144ski on MSN23 godz.",
-            "source": "G\u0142os Koszali\u0144ski on MSN",
+            "date": "G\u0142os Koszali\u0144ski3 godz.",
+            "source": "G\u0142os Koszali\u0144ski",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pras\u00f3wka 22.03.2025 - wydarzenia dnia, podsumowanie z wczoraj - sprawd\u017a, czy nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego",
+            "link": "https://nowosci.com.pl/prasowka-22-03-2025-wydarzenia-dnia-podsumowanie-z-wczoraj-sprawdz-czy-nie-minelo-cie-nic-waznego/ar/c1p1-19960939",
+            "description": "Marzec 2025 roku przyni\u00f3s\u0142 d\u0142ugo oczekiwan\u0105 waloryzacj\u0119 emerytur, kt\u00f3ra wynios\u0142a 5,5 procent. Dzi\u0119ki temu emeryci i renci\u015bci ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.vvo-NXp_vp4-1F55GKt3by&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stara+porcelana",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski4 godz.",
+            "source": "Nowo\u015bci Dziennik Toru\u0144ski",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Te komiksy z PRL s\u0105 warte fortun\u0119! Tych komiks\u00f3w szukaj\u0105 kolekcjonerzy. Kajko i Kokosz, Relax, Tytus, Romek i Atomek 22.03.2025",
+            "link": "https://gk24.pl/te-komiksy-z-prl-sa-warte-fortune-tych-komiksow-szukaja-kolekcjonerzy-kajko-i-kokosz-relax-tytus-romek-i-atomek-22032025/ar/c11-19027802",
+            "description": "Wiele os\u00f3b lubi z nostalgi\u0105 wraca\u0107 do czas\u00f3w PRL, a szczeg\u00f3lnie do przedmiot\u00f3w, kt\u00f3rymi si\u0119 w\u00f3wczas pos\u0142ugiwali nasi ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.Z0chCTmtO9PQxk-O77Sski&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stara+porcelana",
+            "date": "G\u0142os Koszali\u0144ski3 godz.",
+            "source": "G\u0142os Koszali\u0144ski",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Gie\u0142dy staroci na Dolnym \u015al\u0105sku. Gdzie szuka\u0107 niepowtarzalnych rzeczy? Oto adresy",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/gie%C5%82dy-staroci-na-dolnym-%C5%9Bl%C4%85sku-gdzie-szuka%C4%87-niepowtarzalnych-rzeczy-oto-adresy/ar-AA1BqJiE?ocid=BingNewsVerp",
+            "description": "Dolno\u015bl\u0105skie gie\u0142dy staroci to raj dla poszukiwaczy wyj\u0105tkowych przedmiot\u00f3w. Traficie tu na oryginalne meble, naczynia, okazy ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.6J8qh286K7OZaKSBRN16py&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "Gazeta Wroc\u0142awska on MSN1 godz.",
+            "source": "Gazeta Wroc\u0142awska on MSN",
             "article_content": ""
         }
     },
@@ -229,13 +261,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Wiosna w Opolu z kultur\u0105. Premiery, nowo\u015bci, koncerty, festiwale [NASZE PROPOZYCJE]",
-            "link": "https://opole.wyborcza.pl/opole/7,35086,31787164,wiosna-w-opolu-z-kultura-premiery-nowosci-koncerty-festiwale.html",
-            "description": "Premiery teatralne i kinowe, nowe wystawy, koncerty, spotkania, zaj\u0119cia dla dzieci i m\u0142odzie\u017cy - to tylko niekt\u00f3re z wydarze\u0144, jakie wype\u0142ni\u0105 wiosenny kalendarz kulturalny Opola. Podpowiadamy, na co w ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.VUzCeUcNss-KcamGhJ18Qg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stara+porcelana",
-            "date": "Wyborcza Opole11 godz.",
-            "source": "Wyborcza Opole",
+            "title": "Kolekcjonerzy poszukuj\u0105 tych antyk\u00f3w. Unikalne przedmioty do kupienia w internecie. Masz je w domu? 22.03.2025",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/kolekcjonerzy-poszukuj%C4%85-tych-antyk%C3%B3w-unikalne-przedmioty-do-kupienia-w-internecie-masz-je-w-domu-21032025/ar-AA1xM25C?ocid=BingNewsVerp",
+            "description": "Unikalne antyki poszukiwane przez kolekcjoner\u00f3w mog\u0105 zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na nich zarobi\u0107 fortun\u0119. Cz\u0119sto nie mamy \u015bwiadomo\u015bci, \u017ce przedmioty posiadane w domu warte s\u0105 du\u017co pieni\u0119dzy.",
+            "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "targ+staroci",
+            "date": "G\u0142os Pomorza on MSN2 godz.",
+            "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
         }
     },
@@ -250,8 +282,24 @@
             "description": "Festyny, jarmarki, ogniska wielkanocne, a nawet pchle targi znikaj\u0105 z kalendarza imprez masowych w ca\u0142ych Niemczech. Niemcy ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.BVGa7szgKb5BZkgyRYCggC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "WPROST.pl on MSN17 godz.",
+            "date": "WPROST.pl on MSN21 godz.",
             "source": "WPROST.pl on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Oto najlepsze imprezy w weekend w Poznaniu. Zobacz przegl\u0105d najciekawszych wydarze\u0144 na 21, 22 i 23 marca i wybierz co\u015b dla siebie!",
+            "link": "https://www.msn.com/pl-pl/rozrywka/og%C3%B3lne/oto-najlepsze-imprezy-w-weekend-w-poznaniu-zobacz-przegl%C4%85d-najciekawszych-wydarze%C5%84-na-21-22-i-23-marca-i-wybierz-co%C5%9B-dla-siebie/ar-AA1BmCVf?ocid=BingNewsVerp",
+            "description": "Przed nami kolejny wyj\u0105tkowy weekend w Poznaniu, pe\u0142en wiosennych atrakcji! Od 21 do 23 marca czeka Was mn\u00f3stwo ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.cEOkhKNXoXCq4Mo55duzjS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "Pozna\u0144 Nasze Miasto on MSN53 min",
+            "source": "Pozna\u0144 Nasze Miasto on MSN",
             "article_content": ""
         }
     },
@@ -266,57 +314,9 @@
             "description": "W miejscowo\u015bciach w ca\u0142ych Niemczech odwo\u0142ywane s\u0105 festyny oraz wydarzenia, takie jak targi staroci czy ogniska wielkanocne. Organizatorzy zg\u0142aszaj\u0105, \u017ce nie s\u0105 one wystarczaj\u0105co zabezpieczone przed po ...",
             "image_url": "https://www.bing.pl/th?id=ODF.gqghbhQ0lymmjp4YAd1iQw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Polsat News18 godz.",
+            "date": "Polsat News22 godz.",
             "source": "Polsat News",
             "article_content": "W miejscowo\u015bciach w ca\u0142ych Niemczech odwo\u0142ywane s\u0105 festyny oraz wydarzenia, takie jak targi staroci czy ogniska wielkanocne. Organizatorzy zg\u0142aszaj\u0105, \u017ce nie s\u0105 one wystarczaj\u0105co zabezpieczone przed potencjalnymi atakami terrorystycznymi. Obawy pojawi\u0142y si\u0119 po tragicznych wydarzeniach z Monachium i Magdeburga.\n\n\"Codziennie nap\u0142ywaj\u0105 nowe hiobowe wie\u015bci z ca\u0142ej republiki\" - podkre\u015bla w czwartek portal dziennika \"Bild\", wyliczaj\u0105c odwo\u0142ane wydarzenia w Niemczech.\n\nW 35-tysi\u0119cznym Lage w Nadrenii P\u00f3\u0142nocnej-Westfalii tradycyjny jarmark wiosenny zosta\u0142 odwo\u0142any, poniewa\u017c nie uda\u0142o si\u0119 zapewni\u0107 \u015brodk\u00f3w bezpiecze\u0144stwa.\n\nZOBACZ: Niemcy szykuj\u0105 si\u0119 na najgorsze. Apel bawarskiej minister\n\n\u015awi\u0119to kwitn\u0105cej wi\u015bni w kwietniu w Marburgu (Hesja) r\u00f3wnie\u017c si\u0119 nie odb\u0119dzie. Wed\u0142ug w\u0142adz miasta powodem jest \"abstrakcyjne zagro\u017cenie terroryzmem\".\n\nR\u00f3wnie\u017c popularny festyn Boelschefest w Berlinie-Friedrichshagen, odbywaj\u0105cy si\u0119 w maju, zosta\u0142 odwo\u0142any. \"Chocia\u017c betonowe bloki mog\u0142yby zabezpieczy\u0107 ulice, trzeba by by\u0142o zostawi\u0107 miejsce dla tramwaju. By\u0142aby to luka w bezpiecze\u0144stwie\" - czytamy.\n\nNiemcy odwo\u0142uj\u0105 wydarzenia w ca\u0142ym kraju. Nie tylko wielkie festiwale\n\nW Berlinie-Frohnau ochotnicza stra\u017c po\u017carna prawdopodobnie odwo\u0142a wielkanocne ognisko z obawy przed atakami - pisze portal. Zwraca uwag\u0119, \u017ce Berlin jest pierwszym krajem zwi\u0105zkowym, kt\u00f3ry planuje wprowadzenie w\u0142asnego prawa dotycz\u0105cego bezpiecze\u0144stwa podczas du\u017cych imprez.\n\n\"Nawet pierwsze pchle targi s\u0105 odwo\u0142ywane\" - zauwa\u017cy\u0142 portal. W Rheinfelden (Badenia) nie b\u0119dzie ju\u017c miejskich targ\u00f3w staroci. W idyllicznym Schongau (Bawaria) pchli targ w dniu 5 kwietnia zosta\u0142 odwo\u0142any.\n\n- Nie mog\u0119 wzi\u0105\u0107 na siebie odpowiedzialno\u015bci, gdyby jaki\u015b szaleniec naprawd\u0119 rozjecha\u0142 ludzi swoim samochodem - wyja\u015bnia\u0142 w rozmowie z \"Bild\" organizator Guenter Fiebig.\n\nZOBACZ: Niemcy zmienili konstytucj\u0119. Mog\u0105 wydawa\u0107 wi\u0119cej na zbrojenia\n\nPodobnie jest na p\u00f3\u0142nocy kraju: Noc Walpurgii (30 kwietnia) w Dallgow-Doeberitz (Brandenburgia) i \"Kwitn\u0105cy Wismar\" (12 kwietnia) w Meklemburgii-Pomorzu Przednim zosta\u0142y odwo\u0142ane.\n\nNie odb\u0119dzie si\u0119 r\u00f3wnie\u017c festyn \"Pfingstochsenfest\" w Elmshorn (Szlezwik-Holsztyn), kt\u00f3ry mia\u0142 si\u0119 odby\u0107 8 czerwca.\n\nImprezy w Niemczech celem atak\u00f3w. Pa\u0144stwo przeznaczy setki miliard\u00f3w na ich ochron\u0119\n\n\"Bild\" zwraca uwag\u0119, \u017ce wprowadzenie bardziej rygorystycznych \u015brodk\u00f3w bezpiecze\u0144stwa, to konsekwencje niedawnych atak\u00f3w terrorystycznych, do kt\u00f3rych dosz\u0142o na terenie kraju.\n\nW zamachu na jarmarku bo\u017conarodzeniowym w Magdeburgu, dokonanym przez obywatela Arabii Saudyjskiej \u015bmier\u0107 ponios\u0142o sze\u015b\u0107 os\u00f3b, a kilkaset zosta\u0142o rannych.\n\nZ kolei w ataku w Monachium, Afga\u0144czyk wjecha\u0142 samochodem w manifestuj\u0105cych ludzi, dwuletnia dziewczynka i jej matka zmar\u0142y w wyniku obra\u017ce\u0144, a co najmniej 39 os\u00f3b zosta\u0142o rannych.\n\nZOBACZ: Samoch\u00f3d wjecha\u0142 w t\u0142um. Akcja policji w Niemczech\n\nOchrona przed powtarzaniem si\u0119 takich tragedii to du\u017cy wydatek dla pa\u0144stwa. \"Koszty dodatkowe to kwoty pi\u0119cio- lub sze\u015bciocyfrowe. Za du\u017co dla wi\u0119kszo\u015bci organizator\u00f3w i gmin\" - pisze \"Bild\". Dziennik przypomina jednak, \u017ce pieni\u0105dze nie powinny by\u0107 d\u0142u\u017cej problemem.\n\n\"Niemcy w\u0142a\u015bnie zaci\u0105gn\u0119\u0142y d\u0142ug w wysoko\u015bci setek miliard\u00f3w m.in. na wzmocnienie ochrony ludno\u015bci. Dodatkowe pieni\u0105dze mo\u017cna by przeznaczy\u0107 na lepsz\u0105 ochron\u0119 jarmark\u00f3w, ognisk wielkanocnych i targ\u00f3w staroci. W przeciwnym razie nasz kraj straci tak\u017ce kultur\u0119\" - podkre\u015blono."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Co robi\u0107 w weekend w Poznaniu? Weekend 21-23 marca 2025",
-            "link": "https://gloswielkopolski.pl/oto-najlepsze-imprezy-w-weekend-w-poznaniu-zobacz-przeglad-najciekawszych-wydarzen-na-21-22-i-23-marca-i-wybierz-cos-dla-siebie/ar/c1p2-27387903",
-            "description": "Przed nami kolejny wyj\u0105tkowy weekend w Poznaniu, pe\u0142en wiosennych atrakcji! Od 21 do 23 marca czeka Was mn\u00f3stwo ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.qtdYyDZxLkeypmtqRkN9ow&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "targ+staroci",
-            "date": "G\u0142os Wielkopolski14 godz.",
-            "source": "G\u0142os Wielkopolski",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Takie t\u0142umy by\u0142y na pchlim targu u J\u0119druli w Inowroc\u0142awiu. Mona Lisa, Kajko i Kokosz",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/takie-t%C5%82umy-by%C5%82y-na-pchlim-targu-u-j%C4%99druli-w-inowroc%C5%82awiu-mona-lisa-kajko-i-kokosz/ar-AA1B5iEv?ocid=BingNewsVerp",
-            "description": "Na placu przy al. Niepodleg\u0142o\u015bci 3 w Inowroc\u0142awiu mo\u017cna trafi\u0107 na prawdziwe pere\u0142ki w atrakcyjnych cenach. To r\u00f3wnie\u017c miejsce ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.jsZOkz8c6AllYkGQgEzRBg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "targ+staroci",
-            "date": "Inowroc\u0142aw Nasze Miasto on MSN14 godz.",
-            "source": "Inowroc\u0142aw Nasze Miasto on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Pchli targ w Pucku. To b\u0119dzie okazja do wyj\u0105tkowych zakup\u00f3w",
-            "link": "https://nadmorski24.pl/aktualnosci/71013-pchli-targ-w-pucku-to-bedzie-okazja-do-wyjatkowych-zakupow",
-            "description": "Wielbiciele staroci, r\u0119kodzie\u0142a i unikalnych skarb\u00f3w z drugiej r\u0119ki mog\u0105 ju\u017c zaciera\u0107 r\u0119ce! 23 marca w Pucku odb\u0119dzie si\u0119 pierwszy w tym roku Pchli Targ, otwieraj\u0105cy sezon na targi pe\u0142ne niepowtarzaln ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.-H7GKk9mK-S1Oxbaw7lP6A&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "targ+staroci",
-            "date": "Nadmorski24.pl21 godz.",
-            "source": "Nadmorski24.pl",
-            "article_content": "21.03.2025 08:00 3 OR\n\nWielbiciele staroci, r\u0119kodzie\u0142a i unikalnych skarb\u00f3w z drugiej r\u0119ki mog\u0105 ju\u017c zaciera\u0107 r\u0119ce! 23 marca w Pucku odb\u0119dzie si\u0119 pierwszy w tym roku Pchli Targ, otwieraj\u0105cy sezon na targi pe\u0142ne niepowtarzalnych przedmiot\u00f3w i okazji do wyj\u0105tkowych zakup\u00f3w.\n\nPierwsza edycja tego cyklicznego wydarzenia to doskona\u0142a okazja, by znale\u017a\u0107 co\u015b wyj\u0105tkowego \u2013 od antyk\u00f3w i kolekcjonerskich bibelot\u00f3w po ksi\u0105\u017cki, odzie\u017c vintage, p\u0142yty winylowe czy r\u0119kodzie\u0142o lokalnych tw\u00f3rc\u00f3w. To tak\u017ce \u015bwietny moment na wiosenne porz\u0105dki. Ka\u017cdy mo\u017ce zg\u0142osi\u0107 si\u0119 jako wystawca i da\u0107 swoim przedmiotom drugie \u017cycie.\n\nSerdecznie zapraszamy na pierwszy w tym roku Pchli Targ ????, kt\u00f3ry odb\u0119dzie si\u0119 ???? 23 marca????na Targowisku Miejskim w Pucku.... Opublikowany przez Miasto Puck Wtorek, 11 marca 2025\n\nCo czeka odwiedzaj\u0105cych?\n\n\u27a1 Stoiska z przedmiotami z dusz\u0105 \u2013 od starych mebli po porcelan\u0119, bi\u017cuteri\u0119 i pami\u0105tki z dawnych lat,\n\n\u27a1 R\u0119kodzie\u0142o lokalnych artyst\u00f3w \u2013 unikalne dekoracje, ceramika i wyroby handmade,\n\n\u27a1 Mo\u017cliwo\u015b\u0107 sprzeda\u017cy i wymiany rzeczy, kt\u00f3rych ju\u017c nie potrzebujesz, ale kt\u00f3re mog\u0105 ucieszy\u0107 kogo\u015b innego.\n\nPchli Targ w Pucku odb\u0119dzie si\u0119 23 marca na Targowisku Miejskim w godzinach od 10.00 do 15.00. Obowi\u0105zuje op\u0142ata targowa w wysoko\u015bci 10 z\u0142.\n\nRegulamin znajduje si\u0119 na stronie: https://miastopuck.pl/aktualnosci/2396-pchli-targ-2303.html\n\nByli\u015bcie \u015bwiadkami zdarzenia w naszym regionie? Chcecie aby nasza redakcja zaj\u0119\u0142a si\u0119 jakim\u015b tematem? Czekamy na Wasze sygna\u0142y i informacje. Mo\u017cna kontaktowa\u0107 si\u0119 z nasz\u0105 redakcj\u0105 za po\u015brednictwem strony facebookowej i mailowo: [email protected]. Dy\u017curujemy tak\u017ce pod numerem telefonu 729 715 670."
         }
     },
     {
@@ -330,7 +330,7 @@
             "description": "Linia nr 129 by\u0142a dowodem atrakcyjno\u015bci komunikacji publicznej. Mo\u017ce jednak sta\u0107 si\u0119 ofiar\u0105 przebudowy drogi \u0142\u0105cz\u0105cej Olsztyn ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.aD6RTq-24m2imBWhFzA4Ti&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Olsztyn.Wyborcza.pl13 godz.",
+            "date": "Olsztyn.Wyborcza.pl17 godz.",
             "source": "Olsztyn.Wyborcza.pl",
             "article_content": ""
         }
@@ -346,7 +346,7 @@
             "description": "We wsp\u00f3\u0142pracy z Traseo wybrali\u015bmy dla Was 3 trasy na spacer w odleg\u0142o\u015bci do 69 km od Koszalina, kt\u00f3re polecaj\u0105 inni ...",
             "image_url": "https://www.bing.pl/th?id=OVF.uOB%2fBsR9D%2b94kQR5r7UCxg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Koszalin Nasze Miasto13 godz.",
+            "date": "Koszalin Nasze Miasto17 godz.",
             "source": "Koszalin Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -362,24 +362,8 @@
             "description": "Latarnia morska - wysoko\u015b\u0107 26 metr\u00f3w, zasi\u0119g \u015bwiat\u0142a 16 mil morskich, wybudowana w 1945 roku na miejscu Fortu Uj\u015bcie, kt\u00f3ry w ...",
             "image_url": "https://www.bing.pl/th?id=OVF.IHje6Sf9DWIY4uEg%2bsiQYw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Ko\u0142obrzeg Nasze Miasto14 godz.",
+            "date": "Ko\u0142obrzeg Nasze Miasto18 godz.",
             "source": "Ko\u0142obrzeg Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Nordic walking w woj. zachodniopomorskim. Gdzie wybra\u0107 si\u0119 w weekend 22 - 23 marca. 3 najlepsze trasy",
-            "link": "https://gs24.pl/nordic-walking-w-woj-zachodniopomorskim-gdzie-wybrac-sie-w-weekend-22-23-marca-3-najlepsze-trasy/ar/c7p1-22323645",
-            "description": "Zanim wyruszysz, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 22 marca w woj. zachodniopomorskim ma by\u0107 od 5\u00b0C do 14\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 23 marca w woj. zachodniopomorskim ma by\u0107 od 7\u00b0C do ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "relikty",
-            "date": "G\u0142os Szczeci\u0144ski14 godz.",
-            "source": "G\u0142os Szczeci\u0144ski",
             "article_content": "Content not available"
         }
     },
@@ -394,7 +378,7 @@
             "description": "Najstarsze \u015blady obecno\u015bci ludzkiej na obszarze dzisiejszej gminy Zamo\u015b\u0107 datowane s\u0105 przez archeolog\u00f3w na \u015brodkow\u0105 epok\u0119 kamienia (ok 8300 lat ...",
             "image_url": "https://www.bing.plNo image",
             "category": "relikty",
-            "date": "Tygodnik Zamojski10 godz.",
+            "date": "Tygodnik Zamojski14 godz.",
             "source": "Tygodnik Zamojski",
             "article_content": "Najstarsze \u015blady obecno\u015bci ludzkiej na obszarze dzisiejszej gminy Zamo\u015b\u0107 datowane s\u0105 przez archeolog\u00f3w na \u015brodkow\u0105 epok\u0119 kamienia (ok. 8300 lat p.n.e.). Z tej epoki odkryto \u015blady obozowisk w W\u00f3lce Wieprzeckiej i Topornicy. P\u00f3\u017aniejsze relikty pochodz\u0105 z neolitu (5500-2200 lat p.n.e.). Pozosta\u0142o\u015bci osadnictwa ludzkiego z tego czasu odkryto, m.in. w Bia\u0142obrzegach, Bia\u0142owoli, Borowinie Sitanieckiej, Bortatyczach, Hubalach, Chy\u017cej oraz Lipsku-Polesiu.\n\nSzczeg\u00f3lne miejsce w\u015br\u00f3d znalezisk archeologicznych, obrazuj\u0105cych osadnictwo w tym czasie, zajmuj\u0105 pozosta\u0142o\u015bci cmentarzyska neolitycznego w Topornicy. Kolejne liczne \u015blady pradziejowe na terenie gminy Zamo\u015b\u0107 pochodz\u0105 z epok: br\u0105zu (2200-1600 lat p.n.e.) i czas\u00f3w kultury \u0142u\u017cyckiej (ok. 1200-400 lat p.n.e.) \u2013 m.in. cia\u0142opalne cmentarzyska w Pni\u00f3wku, Topornicy i Wieprzcu. W\u015br\u00f3d zabytk\u00f3w rzymskich (od pocz\u0105tk\u00f3w naszej ery do V w.) wymieni\u0107 trzeba znaleziska monet w Bortatyczach, Topornicy czy Sita\u0144cu i odkryte w Wieprzcu groby kultury wielbarskiej z III i IV w.\n\nJacek Feduszka\n\nOprac. na podst. \u201eNarodziny Zamo\u015bcia w pracach Kazimierza Sochaniewicza\u201d, oprac. K. Kowalczyk, Zamo\u015b\u0107 2007; W. Bondyra, E. Lorentz, E. Prusicka-Ko\u0142con, M. Korzeniowski, \u201eDzieje miejscowo\u015bci gminy Zamo\u015b\u0107\u201d, Zamo\u015b\u0107 2010."
         }
@@ -405,12 +389,60 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Poszukiwane antyki - kolekcjonerzy za nie p\u0142ac\u0105 krocie! Sprawd\u017a aktualne ceny [22.03.2025]",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/poszukiwane-antyki-kolekcjonerzy-za-nie-p%C5%82ac%C4%85-krocie-sprawd%C5%BA-aktualne-ceny-22-03-2025/ar-AA1B6EpZ?ocid=BingNewsVerp",
-            "description": "Antyki to nie tylko przedmioty o warto\u015bci estetycznej, ale tak\u017ce inwestycja, kt\u00f3ra mo\u017ce przynosi\u0107 zyski. W 2025 roku takie stare przedmioty ciesz\u0105 si\u0119 du\u017cym zainteresowaniem. Je\u015bli masz w domu takie s ...",
+            "title": "Nordic walking w woj. zachodniopomorskim. Gdzie wybra\u0107 si\u0119 w weekend 22 - 23 marca. 3 najlepsze trasy",
+            "link": "https://gs24.pl/nordic-walking-w-woj-zachodniopomorskim-gdzie-wybrac-sie-w-weekend-22-23-marca-3-najlepsze-trasy/ar/c7p1-22323645",
+            "description": "Zanim wyruszysz, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 22 marca w woj. zachodniopomorskim ma by\u0107 od 5\u00b0C do 14\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 23 marca w woj. zachodniopomorskim ma by\u0107 od 7\u00b0C do ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "relikty",
+            "date": "G\u0142os Szczeci\u0144ski18 godz.",
+            "source": "G\u0142os Szczeci\u0144ski",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Przez t\u0119 ruin\u0119 odcinek ul. Staszica w Koninie zamkni\u0119ty jest od lat. Budynek za moment zniknie z powierzchni Ziemi",
+            "link": "https://www.msn.com/pl-pl/historia-i-kultura-spo%C5%82ecze%C5%84stwa/historia/przez-t%C4%99-ruin%C4%99-odcinek-ul-staszica-w-koninie-zamkni%C4%99ty-jest-od-lat-budynek-za-moment-zniknie-z-powierzchni-ziemi/ar-AA1BqOBF?ocid=BingNewsVerp",
+            "description": "Koniec z ruin\u0105, kt\u00f3ra straszy od lat i bloku przejazd na ul. Staszica w Koninie. Niedawno uzyskano zgod\u0119 na wyburzenie, co za ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.TpszT2YSdi66ycrOOXEuGy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Konin Nasze Miasto on MSN26 min",
+            "source": "Konin Nasze Miasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Ponad 450 ukrai\u0144skich zabytk\u00f3w obr\u00f3cono w ruin\u0119. Kij\u00f3w prosi o pomoc UE",
+            "link": "https://www.bankier.pl/wiadomosc/Ponad-450-ukrainskich-zabytkow-obrocono-w-ruine-Kijow-prosi-o-pomoc-UE-8911498.html",
+            "description": "Rosyjska agresja ma ogromny i destrukcyjny wp\u0142yw na ukrai\u0144ski sektor kultury. Zniszczeniu uleg\u0142o wiele obiekt\u00f3w kultury, ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.8ELteyZLhUXuiZrBPCqSVC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Bankier.pl23 min",
+            "source": "Bankier.pl",
+            "article_content": "Rosyjska agresja ma ogromny i destrukcyjny wp\u0142yw na ukrai\u0144ski sektor kultury. Zniszczeniu uleg\u0142o wiele obiekt\u00f3w kultury, wstrzymano dzia\u0142alno\u015b\u0107 wielu instytucji kultury, a mo\u017cliwo\u015bci finansowania kultury drastycznie ograniczone. Ukrai\u0144ski sektor kultury potrzebuje wi\u0119c wsparcia ze strony Europy, zw\u0142aszcza w kontek\u015bcie niepewnej pomocy ze strony USA. Programy takie jak Kreatywna Europa, Erasmus+ czy inicjatywy na rzecz zachowania dziedzictwa kulturowego zapewniaj\u0105 kluczowe wsparcie r\u00f3\u017cnym sektorom kulturalnym.\n\nfot. STAFF / / Reuters / Forum\n\n- Wszystkie instytucje kreatywne w Ukrainie ucierpia\u0142y. My\u015bl\u0119, \u017ce Europa mo\u017ce wesprze\u0107 ukrai\u0144skich dziennikarzy niezale\u017cnych i artyst\u00f3w, aby mogli pisa\u0107 i kontynuowa\u0107 swoje projekty - podkre\u015bla w rozmowie z agencj\u0105 Newseria Yaryna Grusha, pisarka i t\u0142umaczka.\n\nOd 24 lutego 2022 roku do 28 lutego 2025 roku UNESCO zweryfikowa\u0142o zniszczenia 485 obiekt\u00f3w kulturalnych, w tym 149 obiekt\u00f3w sakralnych, 249 budynk\u00f3w o znaczeniu historycznym lub artystycznym, 33 muze\u00f3w, 33 zabytk\u00f3w, 18 bibliotek, jedno archiwum i dwa stanowiska archeologiczne. Lokalne mo\u017cliwo\u015bci finansowania kultury zosta\u0142y na skutek wojny znacznie ograniczone. Ukrai\u0144scy arty\u015bci potrzebuj\u0105 zatem zr\u00f3wnowa\u017conych rozwi\u0105za\u0144 i wsparcia.\n\n- Obecnie PEN Ukraine, jedna z organizacji, kt\u00f3ra otrzymywa\u0142a pomoc finansow\u0105 z Ameryki, poszukuje wsparcia finansowego na przyk\u0142ad projektu po\u015bwi\u0119conego bibliotekom na terytoriach okupowanych. Cz\u0142onkowie PEN Ukraine dostarczaj\u0105 ksi\u0105\u017cki do bibliotek zbombardowanych przez Rosj\u0119. Jest to bardzo wa\u017cny projekt, jeden z wielu, kt\u00f3re teraz potrzebuj\u0105 wsparcia Europy - wskazuje pisarka.\n\nKomisja Europejska i r\u00f3\u017cne organizacje opracowa\u0142y programy wsparcia dla ukrai\u0144skiego sektora kultury. Fundacja Izolyatsia we wsp\u00f3\u0142pracy z Trans Europe Halles (Szwecja) i Mal\u00fd Berl\u00edn (S\u0142owacja) uruchomi\u0142a ZMINA: Rebuilding - program o warto\u015bci 1,4 mln euro, kt\u00f3ry wspiera ukrai\u0144skich artyst\u00f3w i organizacje kulturalne. Program \u201eKultura pomaga\u201d uruchomiony przez UE ma pom\u00f3c - poprzez kultur\u0119 - w integracji z lokalnymi spo\u0142eczno\u015bciami os\u00f3b, kt\u00f3re zosta\u0142y zmuszone do przeniesienia si\u0119 do bezpieczniejszych region\u00f3w Ukrainy lub za granic\u0119 z powodu rosyjskiej inwazji. Program House of Europe z kolei oferuje wsparcie finansowe dla wsp\u00f3lnych projekt\u00f3w ukrai\u0144skich i europejskich organizacji w obszarze kultury i bran\u017cy kreatywnej, edukacji czy medi\u00f3w. Inny projekt z kolei, finansowany przez UE, U-RE-HERIT \u0142\u0105czy europejskich i ukrai\u0144skich architekt\u00f3w w celu zachowania w czasie wojny i odtworzenia po jej zako\u0144czeniu dziedzictwa kulturowego Ukrainy.\n\n11 marca 2025 roku w Parlamencie Europejskim w Strasburgu odby\u0142a si\u0119 ceremonia otwarcia Czytelni im. Wiktorii Ameliny, cz\u0142onkini PEN Ukraine. Ukrai\u0144ska pisarka zmar\u0142a w wyniku obra\u017ce\u0144 odniesionych w trakcie ataku rakietowego na restauracj\u0119 w Kramatorsku.\n\n- Otwarcie to historyczna chwila, historyczny moment dla wszystkich Ukrai\u0144c\u00f3w i symboliczny gest dla nas wszystkich. W Strasburgu zainaugurowano przestrze\u0144 czytelnicz\u0105 dedykowan\u0105 ukrai\u0144skiej pisarce, aktywistce i badaczce zbrodni wojennych Wiktorii Amelinie. Ta przestrze\u0144, ten gest wiele dla nas oznacza. Zaledwie kilka miesi\u0119cy temu odby\u0142a si\u0119 \u015bwiatowa premiera niedoko\u0144czonej ksi\u0105\u017cki Wiktorii Ameliny. W ten spos\u00f3b, dzi\u0119ki jej ksi\u0105\u017cce i temu miejscu, jej g\u0142os nadal wybrzmiewa - t\u0142umaczy Yaryna Grusha.\n\nOpr\u00f3cz artyku\u0142\u00f3w i poezji Wiktoria Amelina pracowa\u0142a nad swoj\u0105 pierwsz\u0105 ksi\u0105\u017ck\u0105 non-fiction pod roboczym tytu\u0142em \u201eLooking at Women, Looking at War\u201d. Zgodnie z planem Ameliny \u201eDziennik wojny i sprawiedliwo\u015bci\u201d mia\u0142 by\u0107 zbiorem reporta\u017cy o Ukrainkach, kt\u00f3re od 2014 roku dokumentuj\u0105 zbrodnie wojenne Rosji. Wiktorii uda\u0142o si\u0119 uko\u0144czy\u0107 60 proc. ksi\u0105\u017cki. Prawa do tekstu zosta\u0142y ju\u017c sprzedane Stanom Zjednoczonym, Francji, W\u0142ochom, Gruzji czy Korei Po\u0142udniowej.\n\nYaryna Grusha w przem\u00f3wieniu w Strasburgu wskaza\u0142a, \u017ce Victoria Amelina Reading Space w Parlamencie Europejskim jest aktem sprawiedliwo\u015bci dla Wiktorii i wszystkich Ukrai\u0144c\u00f3w, kt\u00f3rym da\u0142a g\u0142os w swoich tekstach.\n\n- To pierwszy raz, gdy w instytucjach europejskich znajdujemy przestrze\u0144 dedykowan\u0105 obywatelom Ukrainy. Ma to ogromne znaczenie, poniewa\u017c jeszcze raz podkre\u015bla, \u017ce \u200b\u200bUkraina jest Europ\u0105, a Europa Ukrain\u0105 - m\u00f3wi Pina Picerno, wiceprzewodnicz\u0105ca Parlamentu Europejskiego z W\u0142och. - Ukrai\u0144cy z wielk\u0105 odwag\u0105 broni\u0105 nie tylko swojej suwerenno\u015bci i integralno\u015bci terytorialnej, ale i warto\u015bci, w kt\u00f3re my wszyscy wierzymy i na kt\u00f3rych opiera si\u0119 Unia Europejska. Oczekujemy sprawiedliwego i trwa\u0142ego pokoju, poniewa\u017c jest to cel, nad kt\u00f3rym pracuj\u0105 instytucje europejskie i kt\u00f3ry nie oznacza kapitulacji. To dwie zupe\u0142nie r\u00f3\u017cne rzeczy. W ostatnich tygodniach s\u0142yszeli\u015bmy, \u017ce niekt\u00f3rzy interpretuj\u0105 pok\u00f3j jako kapitulacj\u0119. Nie jest to jednak stanowisko instytucji europejskich."
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Poszukiwane antyki - kolekcjonerzy za nie p\u0142ac\u0105 krocie! Sprawd\u017a aktualne ceny",
+            "link": "https://www.msn.com/pl-pl/moda-i-styl/trendy-modowe/poszukiwane-antyki-kolekcjonerzy-za-nie-p%C5%82ac%C4%85-krocie-sprawd%C5%BA-aktualne-ceny-18-03-2025-r/ar-AA1B6EpZ?ocid=BingNewsVerp",
+            "description": "Bi\u017cuteria \u2013 z\u0142ote i srebrne pier\u015bcionki, naszyjniki oraz broszki z diamentami i innymi kamieniami szlachetnymi. Broszki i pier\u015bcionki z XIX wieku mog\u0105 kosztowa\u0107 od 3 000 z\u0142 do 50 000 z\u0142, a unikalne ...",
             "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Pomorska on MSN8 godz.",
+            "date": "Gazeta Pomorska on MSN12 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -421,13 +453,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Skandaliczna renowacja zabytk\u00f3w w gminie Krempna. Dewastacja zabytkowych relikt\u00f3w \u0141emkowszczyzny",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/skandaliczna-renowacja-zabytk%C3%B3w-w-gminie-krempna-dewastacja-zabytkowych-relikt%C3%B3w-%C5%82emkowszczyzny/ar-AA1BoNQV?ocid=BingNewsVerp",
-            "description": "Zabytkowe kapliczki i krzy\u017ce przydro\u017cne oraz nagrobki w gminie Krempna mia\u0142y zosta\u0107 uratowane przed zniszczeniem. Na renowacj\u0119 zabytkowych obiekt\u00f3w Gmina Krempna otrzyma\u0142a 321 538 z\u0142 dofinansowania z ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.f1I8bJbwcln8vUrU0W00ww&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Masz te banknoty? To prawdziwe skarby! Za jeden mo\u017cesz otrzyma\u0107 kilka tysi\u0119cy z\u0142otych! [ZDJ\u0118CIA] 22.03.2025",
+            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/masz-te-banknoty-to-prawdziwe-skarby-za-jeden-mo%C5%BCesz-otrzyma%C4%87-kilka-tysi%C4%99cy-z%C5%82otych-zdj%C4%99cia-22032025/ar-AA1zSD9c?ocid=BingNewsVerp",
+            "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.o4EwlAsIz5rMM3h8kMS_wi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Nowiny 24 on MSN11 godz.",
-            "source": "Nowiny 24 on MSN",
+            "date": "G\u0142os Szczeci\u0144ski on MSN1 godz.",
+            "source": "G\u0142os Szczeci\u0144ski on MSN",
             "article_content": ""
         }
     },
@@ -442,7 +474,7 @@
             "description": "Ma\u0142o kto spodziewa\u0142by si\u0119, \u017ce niewielka przydro\u017cna kapliczka w \u015bl\u0105skiej wsi Studzionka stanie si\u0119 obiektem zainteresowania ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.8MTf3ZGjp7hlCMwbkSvyty&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Kronika Tygodnia18 godz.",
+            "date": "Kronika Tygodnia22 godz.",
             "source": "Kronika Tygodnia",
             "article_content": "Za spraw\u0105 nieudanej \u201erenowacji\u201d, obiekt sta\u0142 si\u0119 viralow\u0105 sensacj\u0105 wzbudzaj\u0105c\u0105 zar\u00f3wno u\u015bmiech, jak i kontrowersje.\n\nNiefortunna \u201erenowacja\u201d\n\nKapliczka \u201eBo\u017ca M\u0119ka\u201d, wzniesiona w 1820 roku w Studzionce (powiat pszczy\u0144ski), od lat stanowi\u0142a element lokalnego krajobrazu. Znajduj\u0105 si\u0119 na niej dwie figury \u2013 Matki Boskiej oraz Jezusa na krzy\u017cu. Niedawno nieznana osoba postanowi\u0142a \u201eodnowi\u0107\u201d ich wygl\u0105d, jednak efekt prac pozostawia wiele do \u017cyczenia.\n\nPostacie po przemalowaniu w niczym nie przypominaj\u0105 pierwotnych rze\u017ab. Szczeg\u00f3lnie zaskakuje wygl\u0105d Matki Boskiej \u2013 jej d\u0142onie wydaj\u0105 si\u0119 nienaturalnie du\u017ce, a twarz z przerysowanymi oczami i intensywnie czerwon\u0105 szmink\u0105 wzbudza zdziwienie w\u015br\u00f3d mieszka\u0144c\u00f3w i internaut\u00f3w.\n\nTo wygl\u0105da na przest\u0119pstwo\n\nSpraw\u0105 zainteresowa\u0142 si\u0119 Wojew\u00f3dzki Urz\u0105d Ochrony Zabytk\u00f3w w Katowicach. Jak poinformowa\u0142 rzecznik prasowy Miros\u0142aw Rymer, pierwszym krokiem by\u0142o ustalenie w\u0142a\u015bciciela obiektu. Okaza\u0142o si\u0119, \u017ce kapliczka nale\u017cy do wojew\u00f3dztwa \u015bl\u0105skiego, poniewa\u017c znajduje si\u0119 w pasie drogowym pod nadzorem Zarz\u0105du Dr\u00f3g Wojew\u00f3dzkich.\n\nKonserwatorzy planuj\u0105 przeprowadzenie szczeg\u00f3\u0142owej kontroli i nie wykluczaj\u0105 z\u0142o\u017cenia zawiadomienia o pope\u0142nieniu przest\u0119pstwa, poniewa\u017c samowolna ingerencja w zabytki podlega ochronie prawnej.\n\nMi\u0119dzynarodowy rozg\u0142os\n\nNieudana \u201erenowacja\u201d nie przesz\u0142a bez echa poza granicami Polski. Spraw\u0119 opisa\u0142 ju\u017c brytyjski dziennik \u201eDaily Mail\u201d, por\u00f3wnuj\u0105c wygl\u0105d Matki Boskiej po przemalowaniu do postaci z kresk\u00f3wki \u201eSimpsonowie\u201d. Jak stwierdzono, rze\u017aba \u2013 niegdy\u015b smuk\u0142a i delikatna \u2013 nabra\u0142a groteskowych cech.\n\nNieudane pr\u00f3by odnawiania zabytk\u00f3w zdarzaj\u0105 si\u0119 w r\u00f3\u017cnych cz\u0119\u015bciach \u015bwiata. Najs\u0142ynniejszym przyk\u0142adem jest fresk \u201eEcce Homo\u201d z Borji, kt\u00f3ry po nieprofesjonalnej \u201erenowacji\u201d w 2012 roku sta\u0142 si\u0119 internetowym memem. Kapliczka w Studzionce mo\u017ce sta\u0107 si\u0119 kolejnym tego typu przyk\u0142adem."
         }
@@ -453,14 +485,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "\"Odnowi\u0142\" 200-letni\u0105 kapliczk\u0119. Teraz mo\u017ce mie\u0107 powa\u017cne k\u0142opoty",
-            "link": "https://fakty.tvn24.pl/zobacz-fakty/odnowil-200-letnia-kapliczke-teraz-moze-miec-powazne-klopoty-st8374826",
-            "description": "Przydro\u017cna kapliczka stoi w Studzionce ko\u0142o Pszczyny od 200 lat. Ten up\u0142yw czasu by\u0142 ju\u017c na niej widoczny. Widocznie nie wszystkim si\u0119 to podoba\u0142o, bo znalaz\u0142 si\u0119 konserwator amator, kt\u00f3ry zakasa\u0142 r\u0119k ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.RvLMZMoPeiDvB4UaEbSapg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "zabytkowe+przedmioty",
-            "date": "Fakty TVN7 godz.",
-            "source": "Fakty TVN",
-            "article_content": "Przydro\u017cna kapliczka stoi w Studzionce ko\u0142o Pszczyny od 200 lat. Ten up\u0142yw czasu by\u0142 ju\u017c na niej widoczny. Widocznie nie wszystkim si\u0119 to podoba\u0142o, bo znalaz\u0142 si\u0119 konserwator amator, kt\u00f3ry zakasa\u0142 r\u0119kawy i kapliczk\u0119 odnowi\u0142. Teraz komisja konserwatorska oceni, czy to tylko uszkodzenie czy wr\u0119cz zniszczenie zabytku.\n\nAmatorski konserwator bardzo si\u0119 stara\u0142, by kapliczka w miejscowo\u015bci Studzionka cieszy\u0142a oko okolicznych mieszka\u0144c\u00f3w. - Jest to obiekt wpisany do rejestru zabytk\u00f3w, a wi\u0119c obj\u0119ty t\u0105 najmocniejsz\u0105 form\u0105 ochrony - przekazuje Miros\u0142aw Rymer z Wojew\u00f3dzkiego Urz\u0119du Ochrony Zabytk\u00f3w w Katowicach.\n\nTeraz komisja konserwatorska oceni, czy to tylko uszkodzenie czy wr\u0119cz zniszczenie zabytku. Ka\u017cdy z tych przypadk\u00f3w to, niestety, odpowiedni paragraf. - Nie zak\u0142adamy, \u017ce osoba, kt\u00f3ra dokona\u0142a tej amatorskiej konserwacji, cho\u0107 nie nazywa\u0142bym tego konserwacj\u0105, mia\u0142a w za\u0142o\u017ceniu zniszczenie zabytku - podkre\u015bla Miros\u0142aw Rymer.\n\n- Przemalujemy, b\u0119dzie pi\u0119kna, b\u0119dzie wygl\u0105da\u0107 jak nowa. Natomiast my\u015bl\u0119 intuicyjnie, a raczej mnie intuicja nie myli, \u017ce jest to tak naprawd\u0119 obiekt, je\u017celi chodzi o rze\u017ab\u0119, bardzo wysokiej klasy, zas\u0142uguj\u0105cy na prawdziw\u0105 konserwacj\u0119 - komentuje dr hab. Monika Bogdanowska, konserwatorka zabytk\u00f3w.\n\nNiedaleko Torunia powstanie 55-metrowy pomnik Matki Boskiej Pawe\u0142 Abramowicz/Fakty TVN\n\nOby to stanowi\u0142o przestrog\u0119 dla konserwator\u00f3w amator\u00f3w\n\nTakich kapliczek - jak w miejscowo\u015bci Studzionka - w ca\u0142ej Polsce s\u0105 tysi\u0105ce, niekt\u00f3re bardzo stare i zabytkowe. Nie obowi\u0105zuje ich maksyma: \"zr\u00f3b to sam\". - Jest to cz\u0119\u015b\u0107 naszej kulturowej to\u017csamo\u015bci, dlatego koniecznie trzeba je chroni\u0107. Dzi\u0119kuj\u0119 za nag\u0142o\u015bnienie tej sprawy nie dlatego, \u017ce robimy o co\u015b ha\u0142as, tylko \u017ce by\u0107 mo\u017ce to dotrze do os\u00f3b, kt\u00f3re w\u0142a\u015bnie ju\u017c kupi\u0142y farb\u0119 olejn\u0105 i gdzie\u015b tam si\u0119 wybieraj\u0105 - podkre\u015bla dr hab. Monika Bogdanowska.\n\nPrawdziw\u0105 konserwacj\u0119 przeszed\u0142 obraz w ko\u015bciele w Orch\u00f3wku nad Bugiem. P\u0142\u00f3tno pochodzi z XVII, mo\u017ce XVIII wieku. Efekty pracy profesjonalnej konserwatorki wzbudzi\u0142y jednak w\u0105tpliwo\u015bci, kt\u00f3re zbada komisja ekspercka.\n\n- Co si\u0119 mia\u0142o sta\u0107, to si\u0119 sta\u0142o, obraz wisi na \u015bcianach ko\u015bcio\u0142a. W zwi\u0105zku z tym zawsze mo\u017cna wr\u00f3ci\u0107 tutaj do pocz\u0105tku czy do naprawy tego, co ewentualnie \u017ale zosta\u0142o zrobione - m\u00f3wi dr Dariusz Kopciowski, Lubelski Wojew\u00f3dzki Konserwator Zabytk\u00f3w.\n\n\u0179r\u00f3d\u0142o: Fakty TVN"
+            "title": "Te monety s\u0105 warte du\u017co wi\u0119cej ni\u017c my\u015blisz. Zobacz czego szukaj\u0105 numizmatycy 22.03.2025",
+            "link": "https://www.msn.com/pl-pl/finanse/og%C3%B3lne/te-monety-s%C4%85-warte-du%C5%BCo-wi%C4%99cej-ni%C5%BC-my%C5%9Blisz-zobacz-czego-szukaj%C4%85-numizmatycy-22-03-2025/ar-AA1ATYqh?ocid=BingNewsVerp",
+            "description": "Czy posiadasz w portfelu monet\u0119 o nominalne 5 z\u0142? Mo\u017ce pojawi\u0142a si\u0119 szansa, aby\u015b sta\u0142 si\u0119 bogat\u0105 osob\u0105! S\u0105 takie monety, ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.3lz1iqBSaxMfNuqCe3aA9i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+numizmatyka",
+            "date": "G\u0142os Koszali\u0144ski on MSN2 godz.",
+            "source": "G\u0142os Koszali\u0144ski on MSN",
+            "article_content": ""
         }
     },
     {
@@ -469,13 +501,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "W ALFIE BIA\u0141YSTOK startuje II edycja ekologicznej akcji \u201eDobre Rzeczy' w nowej, dwudniowej formule",
-            "link": "https://poranny.pl/w-alfie-bialystok-startuje-ii-edycja-ekologicznej-akcji-dobre-rzeczy-w-nowej-dwudniowej-formule/ar/c3p2-27382777",
-            "description": "Pora na wiosenne porz\u0105dki w garderobie. Po sukcesie zesz\u0142orocznej edycji Alfa Centrum wraca z akcj\u0105 \u201eDobre Rzeczy', ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.rA6BGEEx-doZiL3A9tpBbi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Kurier Poranny22 godz.",
-            "source": "Kurier Poranny",
+            "title": "Te banknoty trzeba wymieni\u0107, bo trac\u0105 warto\u015b\u0107. Zobacz, jakie uszkodzenia banknot\u00f3w zmniejszaj\u0105 ich wycen\u0119 22.03.2025",
+            "link": "https://gk24.pl/te-banknoty-trzeba-wymienic-bo-traca-wartosc-zobacz-jakie-uszkodzenia-banknotow-zmniejszaja-ich-wycene-22032025/ar/c1-18995014",
+            "description": "Zobacz, jakie banknoty strac\u0105 na nominale. Znajduje si\u0119 kilka przypadk\u00f3w, kiedy pieni\u0105dz mo\u017ce straci\u0107 wa\u017cno\u015b\u0107 i nale\u017cy go wymieni\u0107, a w niekt\u00f3rych przypadkach traci te\u017c cz\u0119\u015b\u0107 swojej warto\u015bci. Zobacz, ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stare+numizmatyka",
+            "date": "G\u0142os Koszali\u0144ski3 godz.",
+            "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
         }
     },
@@ -485,13 +517,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Te monety s\u0105 warte du\u017co wi\u0119cej ni\u017c my\u015blisz. Zobacz czego szukaj\u0105 numizmatycy 20.03.2025",
-            "link": "https://www.msn.com/pl-pl/finanse/og%C3%B3lne/te-monety-s%C4%85-warte-du%C5%BCo-wi%C4%99cej-ni%C5%BC-my%C5%9Blisz-zobacz-czego-szukaj%C4%85-numizmatycy-20-03-2025/ar-AA1ATYqh?ocid=BingNewsVerp",
-            "description": "Czy posiadasz w portfelu monet\u0119 o nominalne 5 z\u0142? Mo\u017ce pojawi\u0142a si\u0119 szansa, aby\u015b sta\u0142 si\u0119 bogat\u0105 osob\u0105! S\u0105 takie monety, ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.3lz1iqBSaxMfNuqCe3aA9i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Ta moneta z PRL mo\u017ce by\u0107 warta nawet 30 tys. z\u0142otych! Koniecznie zobacz swoje szuflady [ZDJ\u0118CIA] 22.03.2025",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/ta-moneta-z-prl-mo%C5%BCe-by%C4%87-warta-nawet-30-tys-z%C5%82otych-koniecznie-zobacz-swoje-szuflady-zdj%C4%99cia-22032025/ar-AA1yiY2d?ocid=BingNewsVerp",
+            "description": "Wycena monet z PRL-u zale\u017cy od rzadko\u015bci wyst\u0119powania, jako\u015bci wybicia oraz gradingu, czyli stanu jej zachowania. W Polsce znajdziemy wiele okaz\u00f3w wartych kilkaset z\u0142otych, ale s\u0105 te\u017c takie, na ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Koszali\u0144ski on MSN18 godz.",
-            "source": "G\u0142os Koszali\u0144ski on MSN",
+            "date": "G\u0142os Szczeci\u0144ski on MSN1 godz.",
+            "source": "G\u0142os Szczeci\u0144ski on MSN",
             "article_content": ""
         }
     },
@@ -506,7 +538,7 @@
             "description": "W ostatnich latach przedmioty z czas\u00f3w PRL prze\u017cywaj\u0105 prawdziwy renesans. W 2025 roku kolekcjonerzy coraz ch\u0119tniej poszukuj\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.JtSFENrTkjnk2wCJO9ISbi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Pomorska on MSN10 godz.",
+            "date": "Gazeta Pomorska on MSN14 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
