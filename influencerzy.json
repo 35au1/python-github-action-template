@@ -5,12 +5,28 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Porcelana i ceramika PRL jest teraz w cenie. Masz tak\u0105? W 2025 roku niekt\u00f3re naczynia, figurki i wazony s\u0105 warte krocie [28.03.25]",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/porcelana-i-ceramika-prl-jest-teraz-w-cenie-masz-tak%C4%85-jeszcze-w-2025-roku-niekt%C3%B3re-naczynia-figurki-i-wazony-s%C4%85-warte-krocie-26032025/ar-AA1BDTML?ocid=BingNewsVerp",
+            "title": "Porcelana i ceramika PRL jest teraz w cenie. Masz tak\u0105? W 2025 roku niekt\u00f3re naczynia, figurki i wazony s\u0105 warte krocie",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/porcelana-i-ceramika-prl-jest-teraz-w-cenie-masz-tak%C4%85-w-2025-roku-niekt%C3%B3re-naczynia-figurki-i-wazony-s%C4%85-warte-krocie/ar-AA1BDTML?ocid=BingNewsVerp",
             "description": "Porcelana i ceramika z PRL to w 2025 roku prawdziwe skarby dla kolekcjoner\u00f3w i mi\u0142o\u015bnik\u00f3w stylu retro. Unikalne wzory, wysoka ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.ZgqhgAjQPmQZhZAZoGdwag&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "image_url": "https://www.bing.pl/th?id=OVF.gxN4Gz0mjDgrLoOq4DyA7A&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
             "date": "Gazeta Pomorska on MSN1 godz.",
+            "source": "Gazeta Pomorska on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Te stare wazony z PRL s\u0105 teraz w cenie. W 2025 roku niekt\u00f3re warte s\u0105 krocie",
+            "link": "https://www.msn.com/pl-pl/og%C3%B3lne/og%C3%B3lne/te-stare-wazony-z-prl-s%C4%85-teraz-w-cenie-w-2025-roku-niekt%C3%B3re-warte-s%C4%85-krocie/ar-AA1Bmnar?ocid=BingNewsVerp",
+            "description": "Peerelowskie wazony z czas\u00f3w PRL ciesz\u0105 si\u0119 obecnie ogromnym zainteresowaniem i s\u0105 obecnie jednym z najch\u0119tniej poszukiwanych ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.xSwefX6nYE61uVCaH-OcYy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Gazeta Pomorska on MSN23 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -26,25 +42,9 @@
             "description": "Niezwyk\u0142e zjawisko \u2013 \u015bwietlisty wir widoczny na nocnym niebie, oko\u0142o godziny 21 by\u0142 w poniedzia\u0142kowy wiecz\u00f3r widoczny w ...",
             "image_url": "https://www.bing.pl/th?id=OVF.2p%2bPinp4NGZo7wfpU5bOmg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Dziennik Ba\u0142tycki1 godz.",
+            "date": "Dziennik Ba\u0142tycki6 godz.",
             "source": "Dziennik Ba\u0142tycki",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Te stare wazony z PRL s\u0105 teraz w cenie. W 2025 roku niekt\u00f3re warte s\u0105 krocie",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/te-stare-wazony-z-prl-s%C4%85-teraz-w-cenie-w-2025-roku-niekt%C3%B3re-warte-s%C4%85-krocie/ar-AA1Bmnar?ocid=BingNewsVerp",
-            "description": "Peerelowskie wazony z czas\u00f3w PRL ciesz\u0105 si\u0119 obecnie ogromnym zainteresowaniem i s\u0105 obecnie jednym z najch\u0119tniej poszukiwanych ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.xSwefX6nYE61uVCaH-OcYy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "Gazeta Pomorska on MSN10 godz.",
-            "source": "Gazeta Pomorska on MSN",
-            "article_content": ""
         }
     },
     {
@@ -58,7 +58,7 @@
             "description": "Na pchlim targu w \u017barach prawdziwe myd\u0142o i powid\u0142o, ale w ca\u0142ej masie bibelot\u00f3w mo\u017cna znale\u017a\u0107 prawdziwe pere\u0142ki. Wystarczy ...",
             "image_url": "https://www.bing.pl/th?id=OVF.xajYdAiaEZRsqaji29eh0Q&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "\u017bary Nasze Miasto on MSN2 godz.",
+            "date": "\u017bary Nasze Miasto on MSN6 godz.",
             "source": "\u017bary Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -74,9 +74,41 @@
             "description": "Dyskutuj\u0105c o tym, czy dzisiejsze pecety to naprawd\u0119 pecety (urz\u0105dzenia zgodne, a przynajmniej wywodz\u0105ce si\u0119 z IBM PC z ...",
             "image_url": "https://www.bing.pl/th?id=ODF.Ua00Q_0bb07wFMeAZPZARA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "dobreprogramy3 godz.",
+            "date": "dobreprogramy7 godz.",
             "source": "dobreprogramy",
-            "article_content": "Dyskutuj\u0105c o tym, czy dzisiejsze pecety to naprawd\u0119 pecety (urz\u0105dzenia zgodne, a przynajmniej wywodz\u0105ce si\u0119 z IBM PC z 1981 roku), jedn\u0105 z najwa\u017cniejszych kwestii jest firmware UEFI, czyli nowy ustr\u00f3j pecetowy, zast\u0119puj\u0105cy BIOS. Wprowadzi\u0142 on cich\u0105 rewolucj\u0119.\n\nKomputery wykorzystuj\u0105ce UEFI pozornie wydaj\u0105 si\u0119 by\u0107 jedynie nowszymi iteracjami znanego sprz\u0119tu, w praktyce jednak s\u0105 to mocno odmienne urz\u0105dzenia, a pracuj\u0105cy na nich system komunikuje si\u0119 ze sprz\u0119tem znacz\u0105co inaczej. Ju\u017c sam rozruch przebiega w inny spos\u00f3b, wykorzystuj\u0105c ustr\u00f3j GPT. Poprzedni standard, MBR, jest obcy dla system\u00f3w UEFI.\n\nTutaj konieczna jest pewna doza ostro\u017cno\u015bci, ze wzgl\u0119du na mnogo\u015b\u0107 wyj\u0105tk\u00f3w, przyk\u0142ad\u00f3w brzegowych oraz \"hack\u00f3w\" w popularnych implementacjach. Owszem, zdarzaj\u0105 si\u0119 BIOS-y startuj\u0105ce z GPT. Zdarzaj\u0105 si\u0119 te\u017c uk\u0142ady partycji GPT z nag\u0142\u00f3wkiem BIOS BOOT dodaj\u0105cym okr\u0119\u017cnie tak\u0105 mo\u017cliwo\u015b\u0107. Niemniej, klasyczny pecet zrozumie wy\u0142\u0105cznie MBR, a GPT to zapo\u017cyczenie ze \u015bwiata UEFI. \u015awiat ten powsta\u0142 na zupe\u0142nie inn\u0105 okoliczno\u015b\u0107 ni\u017c pecety i ma o wiele wi\u0119cej wsp\u00f3lnego z zapomnian\u0105 architektur\u0105 Itanium.\n\nDalsza cz\u0119\u015b\u0107 artyku\u0142u pod materia\u0142em wideo\n\nTest gamingowej klawiatury MAD DOG GK960W Gateron Pro Red\n\nUEFI vs BIOS\n\nW\u0142a\u015bnie, UEFI. Jego obecno\u015b\u0107 w komputerze oznacza de facto architektur\u0119 inn\u0105 ni\u017c PC. Pecety z definicji u\u017cywaj\u0105 BIOS-u. Wbrew potocznemu rozumieniu, BIOS to nie niebieski program konfiguruj\u0105cy kolejno\u015b\u0107 dysk\u00f3w, a zbi\u00f3r us\u0142ug. Ich konsumentem jest system operacyjny. Za\u0142adowany podczas rozruchu kod, aby dzia\u0142a\u0107, musi by\u0107 jedynie poprawnym kodem x86, ale w celu wykonania jakiejkolwiek zaawansowanej operacji z wykorzystaniem sprz\u0119tu, cho\u0107by odczytu z no\u015bnika, musi si\u0119 on powo\u0142ywa\u0107 na konkretne us\u0142ugi/przerwania BIOS.\n\nSystem zgodny z BIOS nie za\u0142aduje si\u0119 w systemie z UEFI (a przynajmniej nie bez uruchomionej warstwy zgodno\u015bci - CSM). A system zgodny z UEFI zostanie zignorowany przez platform\u0119 opart\u0105 o BIOS. Zreszt\u0105 nawet si\u0142owe za\u0142adowanie go do pami\u0119ci sprawi\u0142oby, \u017ce mia\u0142by on pot\u0119\u017cne problemy z obs\u0142ug\u0105 sprz\u0119tu, oczekuj\u0105c ca\u0142kowicie innego ustroju.\n\nObecnie wi\u0119kszo\u015b\u0107 system\u00f3w UEFI jest mo\u017cliwa do prze\u0142\u0105czenia w tryb zgodno\u015bci, ale wkr\u00f3tce mo\u017ce to przesta\u0107 by\u0107 mo\u017cliwe - cz\u0119\u015b\u0107 sprz\u0119tu po prostu nie mo\u017ce dzia\u0142a\u0107 w maszynie BIOS-owej. Laptopy i tablety coraz cz\u0119\u015bciej nie zawieraj\u0105 CSM i z pecetami, architekturalnie, \u0142\u0105czy je tylko zestaw rozkaz\u00f3w procesora.\n\nProcesor to nie platforma\n\nZreszt\u0105, procesor jest zgodny raczej z kodem wy\u017cszego poziomu. Wystartowanie w trybie rzeczywistym jest w og\u00f3le niemo\u017cliwe, a niskopoziomowy kod wdaj\u0105cy si\u0119 w interakcj\u0119 z BIOS-em nie zadzia\u0142a. Warstwy zgodno\u015bci z kodem 16-bitowym ju\u017c nie ma, a oprogramowanie 32-bitowe to ju\u017c coraz cz\u0119\u015bciej tylko starocie. Cho\u0107 x86_64 bardzo kreatywnie (i skutecznie) podchodzi do kwestii kompatybilno\u015bci, komputery 64-bitowe z UEFI to ju\u017c pecety tylko z nazwy. \"PC\" oznacza ju\u017c tylko tyle co \"komputer z Intelem/AMD\", ewentualnie \"nie-Mac\" i \"nie telefon\".\n\nSytuacja ulegnie dalszemu zagmatwaniu, gdy na desktopy wkroczy ARM, rozszerzaj\u0105c sw\u00f3j udzia\u0142 rynkowy z ultramobilnych laptop\u00f3w dotykowych. O ARM-owych pecetach m\u00f3wi si\u0119 jednak od bez ma\u0142a pi\u0119tnastu lat i ci\u0105gle s\u0105 one do\u015b\u0107 niszow\u0105 cz\u0119\u015bci\u0105 rynku urz\u0105dze\u0144 przeno\u015bnych, bez obecno\u015bci na desktopie. W przypadku (ma\u0142o prawdopodobnej) konwersji pecet\u00f3w na ARM, pod poj\u0119ciem PC b\u0119d\u0105 funkcjonowa\u0107 urz\u0105dzenia\u2026 z Windowsem.\n\nOdzwierciedli to sytuacj\u0119 ze \u015bwiata Apple. Mac to komputer z macOS, kt\u00f3rego cechy szczeg\u00f3lne, poza samym systemem operacyjnym, s\u0105 raczej powierzchowne i zwi\u0105zane z designem, a nie platform\u0105. Podzia\u0142 rynku urz\u0105dze\u0144 komputerowych ju\u017c ostatecznie stanie si\u0119 kontrolowany przez og\u00f3lny \"vibe\", a nie konkretne cechy.\n\nPost-PC\n\nZ pecet\u00f3w zosta\u0142o nam dzi\u015b bardzo niewiele. I jest tak mimo, \u017ce nikt nie zgodzi si\u0119 ze stwierdzeniem \u017ce (zw\u0142aszcza w firmach i przemy\u015ble) funkcjonujemy w rzeczywisto\u015bci \"post-PC\", co by\u0142o swego czasu bardzo popularnym terminem. Je\u017celi zmieni si\u0119 architektura lub nast\u0105pi powa\u017cniejsze przej\u015bcie na model SoC (np. redukcja lub usuni\u0119cie PCH), b\u0119dziemy mieli do czynienia z \"pecetami\" niepodobnymi ju\u017c nawet do sprz\u0119tu sprzed 15 lat.\n\nWszystkie te zmiany maj\u0105 jednak ciekaw\u0105 cech\u0119 - przez ca\u0142y czas jest intuicyjnie bardzo jasne, co mamy na my\u015bli m\u00f3wi\u0105c \"PC\". Ponadto, trzeba szuka\u0107 bardzo daleko \u017ceby znale\u017a\u0107 co\u015b, co nie jest do nich podobne. Jest oczywi\u015bcie Apple, ale tak naprawd\u0119 architektur komputerowych w rzeczywistym u\u017cyciu jest dzi\u015b ma\u0142o z rokowaniami na coraz mniej.\n\nCo przyniesie przysz\u0142o\u015b\u0107? S\u0142uchaj\u0105c marketingu, dowiemy si\u0119 o AI i komputerach kwantowych. Ma to jednak niewiele wsp\u00f3lnego z konkretami. Sztuczna inteligencja, poza NPU, wprowadzi marginalne zmiany do architektury i pozostanie (mocno rozdmuchanym) aspektem zwi\u0105zanym raczej z oprogramowaniem ni\u017c ze sprz\u0119tem. A komputery kwantowe, je\u017celi w og\u00f3le oka\u017c\u0105 si\u0119 dost\u0119pne, b\u0119d\u0105 ze wzgl\u0119du na swoj\u0105 ra\u017c\u0105c\u0105 odmienno\u015b\u0107, us\u0142ugami \u015bwiadczonymi zdalnie, a nie now\u0105 klas\u0105 komputer\u00f3w osobistych.\n\nNa \u017cadne g\u0142\u0119bsze zmiany w ustroju PC ju\u017c si\u0119 nie zanosi - nale\u017cy jednak pami\u0119ta\u0107, \u017ce obecne komputery osobiste naprawd\u0119 nie s\u0105 ju\u017c pecetami w rozumieniu zgodno\u015bci z IBM PC. Czeka nas ju\u017c prawdopodobnie wy\u0142\u0105cznie d\u0142uga seria mikro-optymalizacji, z platformy wylecia\u0142y ju\u017c bowiem obecnie wszystkie starocie. A pecety ostatecznie przesta\u0142y by\u0107 pecetami oko\u0142o roku 2012.\n\nKamil J. Dudek, wsp\u00f3\u0142pracownik redakcji dobreprogramy.pl"
+            "article_content": "Dyskutuj\u0105c o tym, czy dzisiejsze pecety to naprawd\u0119 pecety (urz\u0105dzenia zgodne, a przynajmniej wywodz\u0105ce si\u0119 z IBM PC z 1981 roku), jedn\u0105 z najwa\u017cniejszych kwestii jest firmware UEFI, czyli nowy ustr\u00f3j pecetowy, zast\u0119puj\u0105cy BIOS. Wprowadzi\u0142 on cich\u0105 rewolucj\u0119.\n\nKomputery wykorzystuj\u0105ce UEFI pozornie wydaj\u0105 si\u0119 by\u0107 jedynie nowszymi iteracjami znanego sprz\u0119tu, w praktyce jednak s\u0105 to mocno odmienne urz\u0105dzenia, a pracuj\u0105cy na nich system komunikuje si\u0119 ze sprz\u0119tem znacz\u0105co inaczej. Ju\u017c sam rozruch przebiega w inny spos\u00f3b, wykorzystuj\u0105c ustr\u00f3j GPT. Poprzedni standard, MBR, jest obcy dla system\u00f3w UEFI.\n\nTutaj konieczna jest pewna doza ostro\u017cno\u015bci, ze wzgl\u0119du na mnogo\u015b\u0107 wyj\u0105tk\u00f3w, przyk\u0142ad\u00f3w brzegowych oraz \"hack\u00f3w\" w popularnych implementacjach. Owszem, zdarzaj\u0105 si\u0119 BIOS-y startuj\u0105ce z GPT. Zdarzaj\u0105 si\u0119 te\u017c uk\u0142ady partycji GPT z nag\u0142\u00f3wkiem BIOS BOOT dodaj\u0105cym okr\u0119\u017cnie tak\u0105 mo\u017cliwo\u015b\u0107. Niemniej, klasyczny pecet zrozumie wy\u0142\u0105cznie MBR, a GPT to zapo\u017cyczenie ze \u015bwiata UEFI. \u015awiat ten powsta\u0142 na zupe\u0142nie inn\u0105 okoliczno\u015b\u0107 ni\u017c pecety i ma o wiele wi\u0119cej wsp\u00f3lnego z zapomnian\u0105 architektur\u0105 Itanium.\n\nDalsza cz\u0119\u015b\u0107 artyku\u0142u pod materia\u0142em wideo\n\nUniwersalne s\u0142uchawki z gamingowym twistem! Test Mad Dog GH750K\n\nUEFI vs BIOS\n\nW\u0142a\u015bnie, UEFI. Jego obecno\u015b\u0107 w komputerze oznacza de facto architektur\u0119 inn\u0105 ni\u017c PC. Pecety z definicji u\u017cywaj\u0105 BIOS-u. Wbrew potocznemu rozumieniu, BIOS to nie niebieski program konfiguruj\u0105cy kolejno\u015b\u0107 dysk\u00f3w, a zbi\u00f3r us\u0142ug. Ich konsumentem jest system operacyjny. Za\u0142adowany podczas rozruchu kod, aby dzia\u0142a\u0107, musi by\u0107 jedynie poprawnym kodem x86, ale w celu wykonania jakiejkolwiek zaawansowanej operacji z wykorzystaniem sprz\u0119tu, cho\u0107by odczytu z no\u015bnika, musi si\u0119 on powo\u0142ywa\u0107 na konkretne us\u0142ugi/przerwania BIOS.\n\nSystem zgodny z BIOS nie za\u0142aduje si\u0119 w systemie z UEFI (a przynajmniej nie bez uruchomionej warstwy zgodno\u015bci - CSM). A system zgodny z UEFI zostanie zignorowany przez platform\u0119 opart\u0105 o BIOS. Zreszt\u0105 nawet si\u0142owe za\u0142adowanie go do pami\u0119ci sprawi\u0142oby, \u017ce mia\u0142by on pot\u0119\u017cne problemy z obs\u0142ug\u0105 sprz\u0119tu, oczekuj\u0105c ca\u0142kowicie innego ustroju.\n\nObecnie wi\u0119kszo\u015b\u0107 system\u00f3w UEFI jest mo\u017cliwa do prze\u0142\u0105czenia w tryb zgodno\u015bci, ale wkr\u00f3tce mo\u017ce to przesta\u0107 by\u0107 mo\u017cliwe - cz\u0119\u015b\u0107 sprz\u0119tu po prostu nie mo\u017ce dzia\u0142a\u0107 w maszynie BIOS-owej. Laptopy i tablety coraz cz\u0119\u015bciej nie zawieraj\u0105 CSM i z pecetami, architekturalnie, \u0142\u0105czy je tylko zestaw rozkaz\u00f3w procesora.\n\nProcesor to nie platforma\n\nZreszt\u0105, procesor jest zgodny raczej z kodem wy\u017cszego poziomu. Wystartowanie w trybie rzeczywistym jest w og\u00f3le niemo\u017cliwe, a niskopoziomowy kod wdaj\u0105cy si\u0119 w interakcj\u0119 z BIOS-em nie zadzia\u0142a. Warstwy zgodno\u015bci z kodem 16-bitowym ju\u017c nie ma, a oprogramowanie 32-bitowe to ju\u017c coraz cz\u0119\u015bciej tylko starocie. Cho\u0107 x86_64 bardzo kreatywnie (i skutecznie) podchodzi do kwestii kompatybilno\u015bci, komputery 64-bitowe z UEFI to ju\u017c pecety tylko z nazwy. \"PC\" oznacza ju\u017c tylko tyle co \"komputer z Intelem/AMD\", ewentualnie \"nie-Mac\" i \"nie telefon\".\n\nSytuacja ulegnie dalszemu zagmatwaniu, gdy na desktopy wkroczy ARM, rozszerzaj\u0105c sw\u00f3j udzia\u0142 rynkowy z ultramobilnych laptop\u00f3w dotykowych. O ARM-owych pecetach m\u00f3wi si\u0119 jednak od bez ma\u0142a pi\u0119tnastu lat i ci\u0105gle s\u0105 one do\u015b\u0107 niszow\u0105 cz\u0119\u015bci\u0105 rynku urz\u0105dze\u0144 przeno\u015bnych, bez obecno\u015bci na desktopie. W przypadku (ma\u0142o prawdopodobnej) konwersji pecet\u00f3w na ARM, pod poj\u0119ciem PC b\u0119d\u0105 funkcjonowa\u0107 urz\u0105dzenia\u2026 z Windowsem.\n\nOdzwierciedli to sytuacj\u0119 ze \u015bwiata Apple. Mac to komputer z macOS, kt\u00f3rego cechy szczeg\u00f3lne, poza samym systemem operacyjnym, s\u0105 raczej powierzchowne i zwi\u0105zane z designem, a nie platform\u0105. Podzia\u0142 rynku urz\u0105dze\u0144 komputerowych ju\u017c ostatecznie stanie si\u0119 kontrolowany przez og\u00f3lny \"vibe\", a nie konkretne cechy.\n\nPost-PC\n\nZ pecet\u00f3w zosta\u0142o nam dzi\u015b bardzo niewiele. I jest tak mimo, \u017ce nikt nie zgodzi si\u0119 ze stwierdzeniem \u017ce (zw\u0142aszcza w firmach i przemy\u015ble) funkcjonujemy w rzeczywisto\u015bci \"post-PC\", co by\u0142o swego czasu bardzo popularnym terminem. Je\u017celi zmieni si\u0119 architektura lub nast\u0105pi powa\u017cniejsze przej\u015bcie na model SoC (np. redukcja lub usuni\u0119cie PCH), b\u0119dziemy mieli do czynienia z \"pecetami\" niepodobnymi ju\u017c nawet do sprz\u0119tu sprzed 15 lat.\n\nWszystkie te zmiany maj\u0105 jednak ciekaw\u0105 cech\u0119 - przez ca\u0142y czas jest intuicyjnie bardzo jasne, co mamy na my\u015bli m\u00f3wi\u0105c \"PC\". Ponadto, trzeba szuka\u0107 bardzo daleko \u017ceby znale\u017a\u0107 co\u015b, co nie jest do nich podobne. Jest oczywi\u015bcie Apple, ale tak naprawd\u0119 architektur komputerowych w rzeczywistym u\u017cyciu jest dzi\u015b ma\u0142o z rokowaniami na coraz mniej.\n\nCo przyniesie przysz\u0142o\u015b\u0107? S\u0142uchaj\u0105c marketingu, dowiemy si\u0119 o AI i komputerach kwantowych. Ma to jednak niewiele wsp\u00f3lnego z konkretami. Sztuczna inteligencja, poza NPU, wprowadzi marginalne zmiany do architektury i pozostanie (mocno rozdmuchanym) aspektem zwi\u0105zanym raczej z oprogramowaniem ni\u017c ze sprz\u0119tem. A komputery kwantowe, je\u017celi w og\u00f3le oka\u017c\u0105 si\u0119 dost\u0119pne, b\u0119d\u0105 ze wzgl\u0119du na swoj\u0105 ra\u017c\u0105c\u0105 odmienno\u015b\u0107, us\u0142ugami \u015bwiadczonymi zdalnie, a nie now\u0105 klas\u0105 komputer\u00f3w osobistych.\n\nNa \u017cadne g\u0142\u0119bsze zmiany w ustroju PC ju\u017c si\u0119 nie zanosi - nale\u017cy jednak pami\u0119ta\u0107, \u017ce obecne komputery osobiste naprawd\u0119 nie s\u0105 ju\u017c pecetami w rozumieniu zgodno\u015bci z IBM PC. Czeka nas ju\u017c prawdopodobnie wy\u0142\u0105cznie d\u0142uga seria mikro-optymalizacji, z platformy wylecia\u0142y ju\u017c bowiem obecnie wszystkie starocie. A pecety ostatecznie przesta\u0142y by\u0107 pecetami oko\u0142o roku 2012.\n\nKamil J. Dudek, wsp\u00f3\u0142pracownik redakcji dobreprogramy.pl"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Banknoty kolekcjonerskie",
+            "link": "https://gp24.pl/tag/banknoty-kolekcjonerskie",
+            "description": "Stare monety i banknoty s\u0105 w cenie. Kolekcjonerzy szukaj\u0105 ich w Polsce i zagranic\u0105 na r\u00f3\u017cnych aukcjach i stronach. Niezwyk\u0142a warto\u015b\u0107 kolekcjonerska cechuje... Banknot, kt\u00f3ry masz w portfelu, mo\u017ce by\u0107 ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stare+monety",
+            "date": "G\u0142os Pomorza53 min",
+            "source": "G\u0142os Pomorza",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Rzadkie monety z PRL poszukiwane przez kolekcjoner\u00f3w. Sprawd\u017a, kt\u00f3re s\u0105 najdro\u017csze i ile mo\u017cna za nie zarobi\u0107! 28.03.2025",
+            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/rzadkie-monety-z-prl-poszukiwane-przez-kolekcjoner%C3%B3w-sprawd%C5%BA-kt%C3%B3re-s%C4%85-najdro%C5%BCsze-i-ile-mo%C5%BCna-za-nie-zarobi%C4%87-27032025/ar-AA1xHYvF?ocid=BingNewsVerp",
+            "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.D1jAPtv1A3CVlN%2b1ZQ8s7g&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "G\u0142os Pomorza on MSN2 godz.",
+            "source": "G\u0142os Pomorza on MSN",
+            "article_content": ""
         }
     },
     {
@@ -90,24 +122,8 @@
             "description": "Wycena monet z PRL-u zale\u017cy od rzadko\u015bci wyst\u0119powania, jako\u015bci wybicia oraz gradingu, czyli stanu jej zachowania. W Polsce znajdziemy wiele okaz\u00f3w wartych kilkaset z\u0142otych, ale s\u0105 te\u017c takie, na ...",
             "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "G\u0142os Szczeci\u0144ski on MSN1 godz.",
+            "date": "G\u0142os Szczeci\u0144ski on MSN5 godz.",
             "source": "G\u0142os Szczeci\u0144ski on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Rzadkie monety z PRL poszukiwane przez kolekcjoner\u00f3w. Sprawd\u017a, kt\u00f3re s\u0105 najdro\u017csze i ile mo\u017cna za nie zarobi\u0107! 28.03.2025",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/rzadkie-monety-z-prl-poszukiwane-przez-kolekcjoner%C3%B3w-sprawd%C5%BA-kt%C3%B3re-s%C4%85-najdro%C5%BCsze-i-ile-mo%C5%BCna-za-nie-zarobi%C4%87-28032025/ar-AA1BP52J?ocid=BingNewsVerp",
-            "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.D1jAPtv1A3CVlN%2b1ZQ8s7g&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "Express Ilustrowany on MSN1 godz.",
-            "source": "Express Ilustrowany on MSN",
             "article_content": ""
         }
     },
@@ -122,7 +138,7 @@
             "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.rXY4IFBt9hVZAYwsRbQrPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski3 godz.",
+            "date": "G\u0142os Koszali\u0144ski7 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
         }
@@ -133,13 +149,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Masz te banknoty? To prawdziwe skarby! Za jeden mo\u017cesz otrzyma\u0107 kilka tysi\u0119cy z\u0142otych! [ZDJ\u0118CIA] 28.03.2025",
-            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/masz-te-banknoty-to-prawdziwe-skarby-za-jeden-mo%C5%BCesz-otrzyma%C4%87-kilka-tysi%C4%99cy-z%C5%82otych-zdj%C4%99cia-28032025/ar-AA1zSD9c?ocid=BingNewsVerp",
-            "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je przejrze\u0107, bo niekt\u00f3re warte s\u0105 obecnie naprawd\u0119 sporo. Kolekcjonerzy p\u0142ac\u0105 ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Najbardziej poszukiwane i najcenniejsze pami\u0105tki z PRL-u. W 2025 roku kosztuj\u0105 krocie",
+            "link": "https://www.msn.com/pl-pl/moda-i-styl/trendy-modowe/najbardziej-poszukiwane-i-najcenniejsze-pami%C4%85tki-z-prl-u-w-2025-roku-kosztuj%C4%85-krocie/ar-AA1ArrTe?ocid=BingNewsVerp",
+            "description": "W ostatnich latach przedmioty z czas\u00f3w PRL prze\u017cywaj\u0105 prawdziwy renesans. W 2025 roku kolekcjonerzy coraz ch\u0119tniej poszukuj\u0105 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.XXJILBIDmc28mJlpkYZZuy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Szczeci\u0144ski on MSN1 godz.",
-            "source": "G\u0142os Szczeci\u0144ski on MSN",
+            "date": "Gazeta Pomorska on MSN1 godz.",
+            "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
     },
@@ -149,13 +165,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Ruble cara Rosji na \u201epchlim targu\" w Wielkopolsce. Wycofane z obiegu pieni\u0105dze warte s\u0105 niema\u0142\u0105 fortun\u0119",
-            "link": "https://www.msn.com/pl-pl/finanse/ekonomia/ruble-cara-rosji-na-pchlim-targu-w-wielkopolsce-wycofane-z-obiegu-pieni%C4%85dze-warte-s%C4%85-niema%C5%82%C4%85-fortun%C4%99/ar-AA1BIeAX?ocid=BingNewsVerp",
-            "description": "Na stoiskach pchlich targ\u00f3w wystawione s\u0105 mi\u0119dzy innymi wycofane z obiegu monety i banknoty. \u201eDzisiaj mam ciekawe banknoty z ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.mLR0UhPvITPcDnh5eFP0NS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "Nasze Miasto on MSN52 min",
-            "source": "Nasze Miasto on MSN",
+            "title": "Ta porcelana z PRL jest warta maj\u0105tek! Masz j\u0105 w domu? Mo\u017cesz nie\u017ale zarobi\u0107! Tej porcelany szukaj\u0105 kolekcjonerzy 28.03.2025",
+            "link": "https://www.msn.com/pl-pl/historia-i-kultura-spo%C5%82ecze%C5%84stwa/pop-kultura/ta-porcelana-z-prl-jest-warta-maj%C4%85tek-masz-j%C4%85-w-domu-mo%C5%BCesz-nie%C5%BAle-zarobi%C4%87-tej-porcelany-szukaj%C4%85-kolekcjonerzy/ar-AA1BHbke?ocid=BingNewsVerp",
+            "description": "Unikatowy charakter mia\u0142y r\u00f3wnie\u017c przedmioty z tego okresu. Z pewno\u015bci\u0105 wiele os\u00f3b posiada w swoich domach rzeczy z czas\u00f3w ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.1KIXTA%2bJMA3I%2bqaXhum%2feQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stara+porcelana",
+            "date": "G\u0142os Koszali\u0144ski on MSN8 godz.",
+            "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
     },
@@ -170,25 +186,9 @@
             "description": "Unikalna porcelana z PRL poszukiwana przez kolekcjoner\u00f3w mo\u017ce zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na niej zarobi\u0107 fortun\u0119!",
             "image_url": "https://www.bing.pl/th?id=OVFT.5dtWIPVNE5gFDRdWIeeypi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "G\u0142os Pomorza on MSN1 godz.",
+            "date": "G\u0142os Pomorza on MSN5 godz.",
             "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Ta porcelana z PRL jest warta maj\u0105tek! Masz j\u0105 w domu? Mo\u017cesz nie\u017ale zarobi\u0107! Tej porcelany szukaj\u0105 kolekcjonerzy 28.03.2025",
-            "link": "https://gk24.pl/ta-porcelana-z-prl-jest-warta-majatek-masz-ja-w-domu-mozesz-niezle-zarobic-tej-porcelany-szukaja-kolekcjonerzy-28-03-2025/ar/c9p2-27406077",
-            "description": "Unikatowy charakter mia\u0142y r\u00f3wnie\u017c przedmioty z tego okresu. Z pewno\u015bci\u0105 wiele os\u00f3b posiada w swoich domach rzeczy z czas\u00f3w ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.1KIXTA%2bJMA3I%2bqaXhum%2feQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stara+porcelana",
-            "date": "G\u0142os Koszali\u0144ski3 godz.",
-            "source": "G\u0142os Koszali\u0144ski",
-            "article_content": "Content not available"
         }
     },
     {
@@ -202,7 +202,7 @@
             "description": "Obok pustych sklepowych p\u00f3\u0142ek, PRL to r\u00f3wnie\u017c kartki na \u017cywno\u015b\u0107, ogromne kolejki do sklep\u00f3w, wszechobecna biurokracja. PRL to ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.Vgx45gbm6_fsm-LfDfOeIS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "G\u0142os Koszali\u0144ski3 godz.",
+            "date": "G\u0142os Koszali\u0144ski7 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
         }
@@ -218,7 +218,7 @@
             "description": "W ostatnich latach przedmioty z czas\u00f3w PRL prze\u017cywaj\u0105 prawdziwy renesans. W 2025 roku kolekcjonerzy coraz ch\u0119tniej poszukuj\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=OVF.YHX47WCfdowdQRmyVMcBXw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN1 godz.",
+            "date": "Gazeta Pomorska on MSN5 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -234,7 +234,7 @@
             "description": "Czy monety z PRL mog\u0105 by\u0107 warte ogromne pieni\u0105dze? Oczywi\u015bcie! Przedmioty z okresu PRL ciesz\u0105 si\u0119 w naszym kraju rosn\u0105c\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.mmrf7V4zqE4FRhJP4k7GUy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "G\u0142os Koszali\u0144ski on MSN2 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN6 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
@@ -250,9 +250,25 @@
             "description": "Na pchlim targu w \u017barach prawdziwe myd\u0142o i powid\u0142o, ale w ca\u0142ej masie bibelot\u00f3w mo\u017cna znale\u017a\u0107 prawdziwe pere\u0142ki. Wystarczy ...",
             "image_url": "https://www.bing.pl/th?id=OVF.xajYdAiaEZRsqaji29eh0Q&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "\u017bary Nasze Miasto on MSN2 godz.",
+            "date": "\u017bary Nasze Miasto on MSN6 godz.",
             "source": "\u017bary Nasze Miasto on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Co robi\u0107 w weekend w Poznaniu? Weekend 28-30 marca 2025",
+            "link": "https://gloswielkopolski.pl/co-robic-w-poznaniu-w-najblizszy-weekend-oto-przeglad-najciekawszych-wydarzen-na-28-29-i-30-marca-zobacz-i-wybierz-cos-dla-siebie/ar/c1p2-27411787",
+            "description": "Przygotujcie si\u0119 na trzy dni pe\u0142ne wyj\u0105tkowych wydarze\u0144, w\u015br\u00f3d kt\u00f3rych ka\u017cdy znajdzie co\u015b dla siebie! Czeka na Was mn\u00f3stwo ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.CbzLeNdFOOSZjCYKuBdbgw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "G\u0142os Wielkopolski3 godz.",
+            "source": "G\u0142os Wielkopolski",
+            "article_content": "Content not available"
         }
     },
     {
@@ -266,8 +282,24 @@
             "description": "Unikalne antyki poszukiwane przez kolekcjoner\u00f3w mog\u0105 zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na nich zarobi\u0107 fortun\u0119. Cz\u0119sto nie ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.M2fw_kVEbAkv5zg2kvCAfS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "G\u0142os Pomorza on MSN1 godz.",
+            "date": "G\u0142os Pomorza on MSN5 godz.",
             "source": "G\u0142os Pomorza on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Co robi\u0107 w Poznaniu w najbli\u017cszy weekend? Oto przegl\u0105d najciekawszych wydarze\u0144 na 28, 29 i 30 marca. Zobacz i wybierz co\u015b dla siebie!",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/co-robi%C4%87-w-poznaniu-w-najbli%C5%BCszy-weekend-oto-przegl%C4%85d-najciekawszych-wydarze%C5%84-na-28-29-i-30-marca-zobacz-i-wybierz-co%C5%9B-dla-siebie/ar-AA1BPmkP?ocid=BingNewsVerp",
+            "description": "Przed nami kolejny wyj\u0105tkowy weekend w Poznaniu, pe\u0142en atrakcji! Od 28 do 30 marca czeka Was mn\u00f3stwo interesuj\u0105cych imprez, kt\u00f3re warto zapisa\u0107 w kalendarzu na pi\u0105tek, sobot\u0119 i niedziel\u0119. Zobaczcie pr ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.Cya7j59Rws2Si6qfmk5ljw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "targ+staroci",
+            "date": "Pozna\u0144 Nasze Miasto on MSN3 godz.",
+            "source": "Pozna\u0144 Nasze Miasto on MSN",
             "article_content": ""
         }
     },
@@ -282,41 +314,9 @@
             "description": "Na stoiskach pchlich targ\u00f3w wystawione s\u0105 mi\u0119dzy innymi wycofane z obiegu monety i banknoty. \u201eDzisiaj mam ciekawe banknoty z ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.mLR0UhPvITPcDnh5eFP0NS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Nasze Miasto on MSN52 min",
+            "date": "Nasze Miasto on MSN5 godz.",
             "source": "Nasze Miasto on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Imprezy \u0142\u00f3d\u017a",
-            "link": "https://expressilustrowany.pl/tag/imprezy-lodz",
-            "description": "Co robi\u0107 w weekend 6-8 grudnia w \u0141odzi? Odpowied\u017a jest prosta: 6 grudnia przypadaj\u0105 miko\u0142ajki i wi\u0119kszo\u015b\u0107 imprez dotyczy tego tematu. Mo\u017cna spotka\u0107 si\u0119 z... Jak sp\u0119dzi\u0107 ostatni weekend wakacji w \u0141odzi ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.A9xqYWX22R6wJlvUbZ9SPQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "targ+staroci",
-            "date": "Express Ilustrowany19 godz.",
-            "source": "Express Ilustrowany",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "C\u00f3rka Cardi B \"ozdobi\u0142a\" luksusow\u0105 torebk\u0119 mamy. Raperka si\u0119 w\u015bciek\u0142a!",
-            "link": "https://www.onet.pl/styl-zycia/papilot/corka-cardi-b-ozdobila-luksusowa-torebke-mamy-raperka-sie-wsciekla/lre3lrb,0666d3f1",
-            "description": "Torebki Hermes to przedmioty po\u017c\u0105dania nie tylko przez doros\u0142ych znawc\u00f3w mody, ale i... dzieci. Cardi B przekona\u0142a si\u0119 o tym ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.svexYRiS7pJeoH2BHb2S2Q&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "targ+staroci",
-            "date": "Onet21 godz.",
-            "source": "Onet",
-            "article_content": "C\u00f3rka Cardi B porysowa\u0142a jej torebk\u0119 Herm\u00e8s\n\nRaperka, znana z imponuj\u0105cej kolekcji designerskich akcesori\u00f3w, podzieli\u0142a si\u0119 z fanami wideo, kt\u00f3re zaskoczy\u0142o internaut\u00f3w. Na nagraniu wida\u0107 efekt tw\u00f3rczej ekspresji jej c\u00f3rki \u2013 \u017c\u00f3\u0142ta torebka Hermes zosta\u0142a ozdobiona dzieci\u0119cym serduszkiem. Cena tego \"p\u0142\u00f3tna\"? Oko\u0142o 230 tys. z\u0142.\n\nZobacz tak\u017ce: Agnieszka Dygant pokaza\u0142a zjawiskow\u0105 kuchni\u0119 w nowym domu. \"Dywan z targu staroci\"\n\n\u2014 Zobaczcie, co moja c\u00f3rka zrobi\u0142a z moj\u0105 cholern\u0105 torebk\u0105 \u2014 powtarza na nagraniu (kt\u00f3re zreszt\u0105 zd\u0105\u017cy\u0142o znikn\u0105\u0107 z jej Instagrama, ale za spraw\u0105 jednego z fan\u00f3w pojawi\u0142o si\u0119 na TikToku) artystka.\n\nCho\u0107 reakcja Cardi B by\u0142a pe\u0142na niedowierzania i frustracji, wielu obserwator\u00f3w potraktowa\u0142o spraw\u0119 z przymru\u017ceniem oka. Wed\u0142ug nich ten spontaniczny gest mi\u0142o\u015bci zamieni\u0142 ekskluzywny dodatek w niepowtarzaln\u0105 pami\u0105tk\u0119. Niekt\u00f3rzy stwierdzili nawet, \u017ce warto\u015b\u0107 torebki, przynajmniej emocjonalna, wzros\u0142a."
         }
     },
     {
@@ -330,9 +330,41 @@
             "description": "Masz do\u015b\u0107 powiadomie\u0144 i chcesz wr\u00f3ci\u0107 do prostego telefonu? Na rynku pojawi\u0142 si\u0119 Light Phone 3 \u2013 minimalistyczny \"klocek\" z ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.S3FpKeRaihzlAMklulXkMS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Spider\u2019s Web2 godz.",
+            "date": "Spider\u2019s Web6 godz.",
             "source": "Spider\u2019s Web",
             "article_content": "Najwi\u0119ksz\u0105 zmian\u0105 w por\u00f3wnaniu do poprzednika, Light Phone 2, jest zast\u0105pienie ekranu E Ink 3,92-calowym wy\u015bwietlaczem OLED. Cho\u0107 interfejs pozostaje czarno-bia\u0142y (dla oszcz\u0119dno\u015bci energii i mniejszej atrakcyjno\u015bci wizualnej), sam ekran jest znacznie szybszy i bardziej responsywny, co u\u0142atwia pisanie czy przewijanie. Firma Light twierdzi, \u017ce powolny ekran E Ink by\u0142 g\u0142\u00f3wnym powodem rezygnacji z poprzedniego modelu. Poza tym telefon zyska\u0142 metalow\u0105 ramk\u0119, wi\u0119cej fizycznych przycisk\u00f3w (a\u017c sze\u015b\u0107, w tym dedykowany spust migawki i pokr\u0119t\u0142o jasno\u015bci/latarki), port USB-C oraz wymienn\u0105 bateri\u0119 1800 mAh, kt\u00f3ra ma wystarcza\u0107 na 2-3 dni. Niestety odporno\u015b\u0107 na wod\u0119 i kurz to tylko IP54, wi\u0119c lepiej nie topi\u0107 go w wodzie."
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Na Wawelu ju\u017c rozkwitaj\u0105! To najpi\u0119kniejszy zwiastun wiosny",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/na-wawelu-ju%C5%BC-rozkwitaj%C4%85-to-najpi%C4%99kniejszy-zwiastun-wiosny/ar-AA1BPPE6?ocid=BingNewsVerp",
+            "description": "Magnolia rosn\u0105ca na wawelskim dziedzi\u0144cu ju\u017c zakwita\u0142a. Jak co roku o tej porze, to w\u0142a\u015bnie tu ustawiaj\u0105 si\u0119 dziesi\u0105tki ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.3k7wSxpX%2fvNMZMgcsiScRQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "Gazeta Krakowska on MSN2 godz.",
+            "source": "Gazeta Krakowska on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "S\u0142ynna Z\u0142ota Kamienica w Gda\u0144sku do kupienia. Znamy cen\u0119",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/og%C5%82oszono-przetarg-na-sprzeda%C5%BC-z%C5%82otej-kamienicy-w-gda%C5%84sku-znana-jest-cena-wywo%C5%82awcza-tanio-nie-jest/ar-AA1BMYWR?ocid=BingNewsVerp",
+            "description": "Z\u0142ota Kamienica to jednej z najbardziej rozpoznawalnych obiekt\u00f3w Gda\u0144ska. Zabytek znajduj\u0105cy si\u0119 przy D\u0142ugim Targu przyci\u0105ga ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.4tfDj1Y%2fPltIh1v9e3pbWA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "Dziennik Ba\u0142tycki on MSN8 godz.",
+            "source": "Dziennik Ba\u0142tycki on MSN",
+            "article_content": ""
         }
     },
     {
@@ -346,25 +378,9 @@
             "description": "Na bulwarze nadodrza\u0144skim trwaj\u0105 prace archeologiczne poprzedzaj\u0105ce rewitalizacj\u0119 tego terenu. W ich trakcie ods\u0142oni\u0119te ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "G\u00f3ra Nasze Miasto1 min",
+            "date": "G\u00f3ra Nasze Miasto4 godz.",
             "source": "G\u00f3ra Nasze Miasto",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Hit na rynku. S\u0142ynna Z\u0142ota Kamienica w Gda\u0144sku do kupienia. Znamy cen\u0119",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/hit-na-rynku-s%C5%82ynna-z%C5%82ota-kamienica-w-gda%C5%84sku-do-kupienia-znamy-cen%C4%99/ar-AA1BMYWR?ocid=BingNewsVerp",
-            "description": "Z\u0142ota Kamienica to jednej z najbardziej rozpoznawalnych obiekt\u00f3w Gda\u0144ska. Zabytek znajduj\u0105cy si\u0119 przy D\u0142ugim Targu przyci\u0105ga ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.kKOlthVXUw%2bengLu9xNKPg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "Dziennik Ba\u0142tycki on MSN3 godz.",
-            "source": "Dziennik Ba\u0142tycki on MSN",
-            "article_content": ""
         }
     },
     {
@@ -378,7 +394,7 @@
             "description": "Nim wyruszysz w drog\u0119, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 29 marca w O\u015bwi\u0119cimiu ma by\u0107 10\u00b0C. Prawdopodobie\u0144stwo ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.wdfV1EL4YD1Il9X0tNHjwS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "O\u015bwi\u0119cim Nasze Miasto18 godz.",
+            "date": "O\u015bwi\u0119cim Nasze Miasto22 godz.",
             "source": "O\u015bwi\u0119cim Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -389,13 +405,61 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "\u015acie\u017cki spacerowe do 6 km od Ko\u0142obrzegu. Pomys\u0142y sp\u0119dzenie czasu w weekend 29 - 30 marca",
-            "link": "https://kolobrzeg.naszemiasto.pl/sciezki-spacerowe-do-6-km-od-kolobrzegu-pomysly-spedzenie-czasu-w-weekend-29-30-marca/ar/c7p1-22115647",
-            "description": "Binda\u017c grabowy - urokliwa aleja \u015bci\u015ble obsadzona grabami, kt\u00f3rych korony splataj\u0105 si\u0119 ze sob\u0105 tworz\u0105c rodzaj sklepienia.",
-            "image_url": "https://www.bing.pl/th?id=OVFT.7eKvGZrle-kmIBGE_01Zai&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "Ko\u0142obrzeg Nasze Miasto18 godz.",
-            "source": "Ko\u0142obrzeg Nasze Miasto",
+            "title": "Prastarzy \u0141u\u017cyczanie w naszym regionie. To by\u0142a tajemnicza i fascynuj\u0105ca kultura archeologiczna",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/prastarzy-%C5%82u%C5%BCyczanie-w-naszym-regionie-to-by%C5%82a-tajemnicza-i-fascynuj%C4%85ca-kultura-archeologiczna/ar-AA1BOHd2?ocid=BingNewsVerp",
+            "description": "W 1933 r. m\u0142ody nauczyciel Walenty Szwajcer zwr\u00f3ci\u0142 uwag\u0119 na drewniane, d\u0119bowe pale widoczne na brzegu Jeziora Biskupi\u0144skiego ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.-4XhR6EfwkUKhDPAn2DqPy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Nasze Miasto on MSN6 godz.",
+            "source": "Nasze Miasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Barbara Skrzypek p\u00f3\u0142 \u017cycia gra\u0142a na Kaczy\u0144skiego",
+            "link": "https://wyborcza.pl/duzyformat/7,127290,31809279,barbara-skrzypek-pol-zycia-grala-na-kaczynskiego.html",
+            "description": "- Prywatne \u017cycie jej si\u0119 nie pouk\u0142ada\u0142o - m\u00f3wi pose\u0142 PiS. - Lepiej niech pan tego tematu, z szacunku dla zmar\u0142ej, nie dr\u0105\u017cy.",
+            "image_url": "https://www.bing.pl/th?id=OVFT.kpmq7Q4aY3XUoM3qi1HNeC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Gazeta Wyborcza1 godz.",
+            "source": "Gazeta Wyborcza",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Kajakiem przez Wielkopolsk\u0119. Sprawd\u017a, gdzie wypo\u017cyczy\u0107 kajaki w regionie, zdradzamy te\u017c kilka pierwszych miejsc na wycieczki",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/kajakiem-przez-wielkopolsk%C4%99-zobacz-gdzie-wypo%C5%BCyczy%C4%87-kajaki-w-regionie-zdradzamy-te%C5%BC-kilka-pierwszych-miejsc-na-wycieczki/ar-AA1BMzxc?ocid=BingNewsVerp",
+            "description": "Miejsc do ciekawego sp\u0119dzania czasu w Wielkopolsce nie brakuje. Jedn\u0105 z form wypoczynku, kt\u00f3r\u0105 polecamy ze szczerym sercem, ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.mZhHQfWR02%2b82R6JsTonPA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "G\u0142os Wielkopolski on MSN5 godz.",
+            "source": "G\u0142os Wielkopolski on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Tak wygl\u0105da\u0142o mieszkanie w PRL-u. Eksponaty w Muzeum PRL w Poznaniu. Tak wygl\u0105da wn\u0119trze i ceny. Zobacz zdj\u0119cia i wideo",
+            "link": "https://gloswielkopolski.pl/tak-wygladalo-mieszkanie-w-prl-u-eksponaty-w-muzeum-prl-w-poznaniu-tak-wyglada-wnetrze-i-ceny-zobacz-zdjecia-i-wideo/ar/c1p2-27354155",
+            "description": "Nast\u0119pnie mo\u017cna obejrze\u0107 samochody z tamtych lat, przymierzy\u0107 kaski milicyjne i zrobi\u0107 sobie w nich zdj\u0119cie. Zobaczy\u0107 kultowy ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.R4rxm1VhoUWNHM%2buLyanMQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "G\u0142os Wielkopolski5 godz.",
+            "source": "G\u0142os Wielkopolski",
             "article_content": "Content not available"
         }
     },
@@ -410,73 +474,9 @@
             "description": "Paramilitarne Szybkie Si\u0142y Wsparcia (RSF) ukrad\u0142y wszystkie z\u0142ote zabytki znajduj\u0105ce si\u0119 w Muzeum Narodowym w Chartumie, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.ojtpO9-J9vsEdNAZgA1mYS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Bankier.pl4 godz.",
+            "date": "Bankier.pl8 godz.",
             "source": "Bankier.pl",
             "article_content": "Paramilitarne Szybkie Si\u0142y Wsparcia (RSF) ukrad\u0142y wszystkie z\u0142ote zabytki znajduj\u0105ce si\u0119 w Muzeum Narodowym w Chartumie, niszcz\u0105c przy tym pozosta\u0142e cenne eksponaty - poinformowa\u0142a w czwartek dyrektorka suda\u0144skiej Narodowej Korporacji Staro\u017cytno\u015bci i Muze\u00f3w (NCAM), Ghalia Garelnabi.\n\nfot. MOHAMED NURELDIN ABDALLAH / / Reuters / Forum\n\nW najwi\u0119kszym suda\u0144skim muzeum przechowywane by\u0142y artefakty dokumentuj\u0105ce wszystkie okresy suda\u0144skiej cywilizacji, od epoki kamiennej, przez er\u0119 nubijsk\u0105 i chrze\u015bcija\u0144sk\u0105, po okres islamski. Garelnabi w rozmowie z \u201eSudan Tribune\u201d powiedzia\u0142a, \u017ce cz\u0142onkowie RSF tu\u017c przed przej\u0119ciem stolicy Sudanu przez wojska rz\u0105dowe zrabowali najcenniejsze skarby archeologiczne i wszystkie zrobione ze z\u0142ota eksponaty. Pozosta\u0142e \u201ecelowo rzucali na posadzk\u0119 i mia\u017cd\u017cyli je nogami, co sugeruje, \u017ce celem nie by\u0142a tylko kradzie\u017c, ale zatarcie to\u017csamo\u015bci i wymazanie historii Sudanu\u201d, zasugerowa\u0142a Garelnabi.\n\nJedynym zabytkiem, kt\u00f3ry w nienaruszonym stanie przetrwa\u0142 czas okupacji Chartumu przez RSF jest licz\u0105cy niemal trzy tysi\u0105ce lat pos\u0105g kr\u00f3la Taharki z 25. dynastii Kr\u00f3lestwa Kusz. Nie zosta\u0142 zniszczony prawdopodobnie ze wzgl\u0119du na rozmiar i wag\u0119 si\u0119gaj\u0105c\u0105 siedmiu ton.\n\nInne muzea Sudanu r\u00f3wnie\u017c zosta\u0142y spl\u0105drowane i zniszczone, w tym Muzeum Nyala w Darfurze, kt\u00f3re zosta\u0142o ograbione ze zbior\u00f3w i mebli. Muzeum Chalifa House w Omdurmanie r\u00f3wnie\u017c zosta\u0142o ograbione i uszkodzone.\n\nSuda\u0144scy archeolodzy okre\u015blili zniszczenia dokonane przez RSF jako \u201ekatastrof\u0119 historyczn\u0105 pod ka\u017cdym wzgl\u0119dem\u201d. Wed\u0142ug ich pobie\u017cnego przegl\u0105du zniszczono oko\u0142o 90 proc. zbior\u00f3w.\n\nWed\u0142ug suda\u0144skich muzealnik\u00f3w zrabowane przedmioty najprawdopodobniej ju\u017c opu\u015bci\u0142y terytorium Sudanu.\n\nIkhlas Abdel Latif, szef komitetu ds. odzyskiwania suda\u0144skich artefakt\u00f3w, powiedzia\u0142, cytowany przez \u201eSudan Tribune, \u017ce skradzione artefakty by\u0142y transportowane ci\u0119\u017car\u00f3wkami przez Omdurman w kierunku Sudanu Po\u0142udniowego. (PAP)\n\ntebe/ sp/"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Prastarzy \u0141u\u017cyczanie w naszym regionie. To by\u0142a tajemnicza i fascynuj\u0105ca kultura archeologiczna",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/prastarzy-%C5%82u%C5%BCyczanie-w-naszym-regionie-to-by%C5%82a-tajemnicza-i-fascynuj%C4%85ca-kultura-archeologiczna/ar-AA1BOHd2?ocid=BingNewsVerp",
-            "description": "W 1933 r. m\u0142ody nauczyciel Walenty Szwajcer zwr\u00f3ci\u0142 uwag\u0119 na drewniane, d\u0119bowe pale widoczne na brzegu Jeziora Biskupi\u0144skiego ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.-4XhR6EfwkUKhDPAn2DqPy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Nasze Miasto on MSN2 godz.",
-            "source": "Nasze Miasto on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Awantura o malownicz\u0105 dzia\u0142k\u0119 tu\u017c przy pla\u017cy. \"W Pucku dziej\u0105 si\u0119 dziwne rzeczy\"",
-            "link": "https://trojmiasto.wyborcza.pl/trojmiasto/7,35612,31806296,na-klifie-w-pucku-ma-powstac-kolejne-osiedle-apartamentowcow.html",
-            "description": "Tu\u017c przy zej\u015bciu na malownicz\u0105 pla\u017c\u0119 w Pucku ma stan\u0105\u0107 osiedle ze 156 lokalami. Na razie jednak s\u0105siedzi planowanej ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.sFk4q-htb8QzrDY-xrymny&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Tr\u00f3jmiasto.Wyborcza.pl4 godz.",
-            "source": "Tr\u00f3jmiasto.Wyborcza.pl",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Masz te banknoty? To prawdziwe skarby! Za jeden mo\u017cesz otrzyma\u0107 kilka tysi\u0119cy z\u0142otych! [ZDJ\u0118CIA] 28.03.2025",
-            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/masz-te-banknoty-to-prawdziwe-skarby-za-jeden-mo%C5%BCesz-otrzyma%C4%87-kilka-tysi%C4%99cy-z%C5%82otych-zdj%C4%99cia-28032025/ar-AA1zSD9c?ocid=BingNewsVerp",
-            "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je przejrze\u0107, bo niekt\u00f3re warte s\u0105 obecnie naprawd\u0119 sporo. Kolekcjonerzy p\u0142ac\u0105 ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "zabytkowe+przedmioty",
-            "date": "G\u0142os Szczeci\u0144ski on MSN1 godz.",
-            "source": "G\u0142os Szczeci\u0144ski on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Wilczyn. Skansen archeologiczny w Mr\u00f3wkach ju\u017c nied\u0142ugo zn\u00f3w otwarty",
-            "link": "https://www.lm.pl/aktualnosci/wilczyn-skansen-archeologiczny-w-mrowkach-juz-niedlugo-znow-otwarty",
-            "description": "Od 1 kwietnia ponownie otwarty zostanie dla zwiedzaj\u0105cych skansen archeologiczny w Mr\u00f3wkach (gm. Wilczyn). Czynny b\u0119dzie od ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.MPABPTouAfmYZiO_dJ-Pry&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "LM.pl2 godz.",
-            "source": "LM.pl",
-            "article_content": "Od 1 kwietnia ponownie otwarty zostanie dla zwiedzaj\u0105cych skansen archeologiczny w Mr\u00f3wkach (gm. Wilczyn). Czynny b\u0119dzie od wtorku do niedzieli.\n\nO ponownym otwarciu skansenu, po zimowej przerwie, poinformowa\u0142o Muzeum Okr\u0119gowego w Koninie, kt\u00f3re nadzoruje jego dzia\u0142anie. Skansen otwarty zostanie 1 kwietnia. Dzia\u0142a\u0107 b\u0119dzie od wtorku do pi\u0105tku w godz. 10.00 \u2013 18.00, w soboty w godz. 12.00 \u2013 18.00 i w niedziele w godz. 14.00 \u2013 18.00.\n\nWst\u0119p do skansenu kosztuje 10 z\u0142 (bilet ulgowy 7 z\u0142), we wtorek wst\u0119p jest bezp\u0142atny. W ofercie znajduj\u0105 si\u0119 r\u00f3wnie\u017c warsztaty tworzenia grod\u00f3w z gliny za 23 z\u0142 oraz lekcja muzealna za 15 z\u0142."
         }
     },
     {
@@ -490,7 +490,7 @@
             "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.rXY4IFBt9hVZAYwsRbQrPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Koszali\u0144ski3 godz.",
+            "date": "G\u0142os Koszali\u0144ski7 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
         }
@@ -501,10 +501,26 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Najbardziej poszukiwane i najcenniejsze pami\u0105tki z PRL-u. W 2025 roku kosztuj\u0105 krocie [28.03.25]",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/najbardziej-poszukiwane-i-najcenniejsze-pami%C4%85tki-z-prl-u-w-2025-roku-kosztuj%C4%85-krocie-280325/ar-AA1ArrTe?ocid=BingNewsVerp",
+            "title": "Banknoty kolekcjonerskie",
+            "link": "https://gp24.pl/tag/banknoty-kolekcjonerskie",
+            "description": "Stare monety i banknoty s\u0105 w cenie. Kolekcjonerzy szukaj\u0105 ich w Polsce i zagranic\u0105 na r\u00f3\u017cnych aukcjach i stronach. Niezwyk\u0142a warto\u015b\u0107 kolekcjonerska cechuje... Banknot, kt\u00f3ry masz w portfelu, mo\u017ce by\u0107 ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stare+numizmatyka",
+            "date": "G\u0142os Pomorza53 min",
+            "source": "G\u0142os Pomorza",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Najbardziej poszukiwane i najcenniejsze pami\u0105tki z PRL-u. W 2025 roku kosztuj\u0105 krocie",
+            "link": "https://www.msn.com/pl-pl/moda-i-styl/trendy-modowe/najbardziej-poszukiwane-i-najcenniejsze-pami%C4%85tki-z-prl-u-w-2025-roku-kosztuj%C4%85-krocie/ar-AA1ArrTe?ocid=BingNewsVerp",
             "description": "W ostatnich latach przedmioty z czas\u00f3w PRL prze\u017cywaj\u0105 prawdziwy renesans. W 2025 roku kolekcjonerzy coraz ch\u0119tniej poszukuj\u0105 ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.YHX47WCfdowdQRmyVMcBXw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "image_url": "https://www.bing.pl/th?id=OVFT.XXJILBIDmc28mJlpkYZZuy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
             "date": "Gazeta Pomorska on MSN1 godz.",
             "source": "Gazeta Pomorska on MSN",
@@ -522,7 +538,7 @@
             "description": "Na stoiskach pchlich targ\u00f3w wystawione s\u0105 mi\u0119dzy innymi wycofane z obiegu monety i banknoty. \u201eDzisiaj mam ciekawe banknoty z ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.mLR0UhPvITPcDnh5eFP0NS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Nasze Miasto on MSN52 min",
+            "date": "Nasze Miasto on MSN5 godz.",
             "source": "Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -533,46 +549,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Archiwalne zdj\u0119cia Pomorza",
-            "link": "https://gdansk.naszemiasto.pl/tag/archiwalne-zdjecia-pomorza",
-            "description": "Zima stulecia na Pomorzu! Wiele lat temu zamarzaj\u0105cy Ba\u0142tyk i rzeki stanowi\u0142y jednak cz\u0119sto mo\u017cliwo\u015b\u0107 do o\u017cywienia transportu. Wystarcza\u0142y tylko ko\u0144 i sanie, a... Tak przed II wojn\u0105 \u015bwiatow\u0105 wygl\u0105da\u0142 ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.boOkKdH-T8isceS81-32Lg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "28 MARCA 2025",
+            "link": "https://krakow.pl/kalendarium/1919,shw,2025-03-28,8,day.html",
+            "description": "Czy chcesz pozna\u0107 histori\u0119 jednego z najwi\u0119kszych przedwojennych zak\u0142ad\u00f3w przemys\u0142owych Krakowa? Czy chcesz dowiedzie\u0107 si\u0119, do czego s\u0142u\u017cy rozwierak, a do czego pa\u0142asz i jak wygl\u0105da naw\u00f3z ze szk\u0142a? A ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "Gda\u0144sk Nasze Miasto7 godz.",
-            "source": "Gda\u0144sk Nasze Miasto",
+            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w9 godz.",
+            "source": "Oficjalny serwis miejski - Magiczny Krak\u00f3w",
+            "article_content": "Krak\u00f3w \u2013 czas okupacji 1939-1945\n\nWystawa mie\u015bci si\u0119 w dawnym budynku administracyjnym Fabryki Emalia Oskara Schindlera przy ul. Lipowej 4 i jest opowie\u015bci\u0105 o Krakowie i losach jego polskich i \u017cydowskich mieszka\u0144c\u00f3w w czasie II wojny \u015bwiatowej, ale te\u017c o Niemcach \u2013 okupantach,..."
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Banknoty kolekcjonerskie",
+            "link": "https://gp24.pl/tag/banknoty-kolekcjonerskie",
+            "description": "Stare monety i banknoty s\u0105 w cenie. Kolekcjonerzy szukaj\u0105 ich w Polsce i zagranic\u0105 na r\u00f3\u017cnych aukcjach i stronach. Niezwyk\u0142a warto\u015b\u0107 kolekcjonerska cechuje... Banknot, kt\u00f3ry masz w portfelu, mo\u017ce by\u0107 ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "wykopano+zabytkowe",
+            "date": "G\u0142os Pomorza54 min",
+            "source": "G\u0142os Pomorza",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Niezwyk\u0142e odkrycie niedaleko I\u0142awy. \u201eTrzewik' sprzed ponad 1000 lat",
-            "link": "https://www.national-geographic.pl/historia/niezwykle-odkrycie-niedaleko-ilawy-trzewik-sprzed-ponad-1000-lat/",
-            "description": "Mi\u0142o\u015bnik historii Micha\u0142 M\u0142otek odnalaz\u0142 wczesno\u015bredniowieczny trzewik, czyli dolne okucie pochwy miecza. Artefakt ma teraz ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.vfBRxBNA0QbCq0JEF7hb8C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "National Geographic Polska23 godz.",
-            "source": "National Geographic Polska",
-            "article_content": "Spis tre\u015bci:\n\nReklama\n\nMicha\u0142 M\u0142otek swojego odkrycia dokona\u0142 za pomoc\u0105 wykrywacza metalu. Od wielu lat, wsp\u00f3lnie z I\u0142awsk\u0105 Grup\u0105 Poszukiwawcz\u0105 i za zgod\u0105 odpowiednich instytucji, prowadzi systematyczne badania terenowe w lasach pod I\u0142aw\u0105 w wojew\u00f3dztwie warmi\u0144sko-mazurskim. \u2013 Wykorzystuj\u0105c wykrywacze metali, poszukujemy przede wszystkim \u015blad\u00f3w osadnictwa z wczesnego \u015bredniowiecza, a wi\u0119c sprzed powstania miasta. To w\u0142a\u015bnie podczas jednej z takich wypraw odkry\u0142em trzewik pochwy miecza \u2013 m\u00f3wi National Geographic Polska autor odkrycia.\n\nOdkrycie pruskiego trzewika niedaleko I\u0142awy\n\nArtefakt w przesz\u0142o\u015bci by\u0142 najprawdopodobniej cz\u0119\u015bci\u0105 uzbrojenia, kt\u00f3re nale\u017ca\u0142o do wojownika pruskiego. \u2013 To wyj\u0105tkowe i niezwykle rzadkie znalezisko, w dodatku kompletne, tzn. zachowane w ca\u0142o\u015bci i pi\u0119knie zdobione \u2013 t\u0142umaczy Micha\u0142 M\u0142otek. Trzewiki, poza zastosowaniem praktycznym, czyli wzmocnieniem i zabezpieczeniem pochwy miecza przed uszkodzeniem, pe\u0142ni\u0142y te\u017c funkcje estetyczne i symboliczne. \u2013 Stanowi\u0142y wyznacznik statusu spo\u0142ecznego, w\u0142adzy, przynale\u017cno\u015bci do dru\u017cyny czy funkcji pe\u0142nionej w plemieniu \u2013 m\u00f3wi badacz.\n\nCo ciekawe, to nie pierwszy trzewik, kt\u00f3ry odkrywca znalaz\u0142 w swojej karierze. Znalaz\u0142 jeszcze jedno dolne okucie pochwy miecza, kt\u00f3re datowano na drug\u0105 po\u0142ow\u0119 X wieku. Przedmiot trafi\u0142 do Muzeum Warmii i Mazur w Olsztynie.\n\nDolne okucie pochwy miecza fot. Micha\u0142 M\u0142otek\n\n\u2013 Poniewa\u017c nie by\u0142 to pierwszy trzewik pochwy miecza, jaki uda\u0142o mi si\u0119 odkry\u0107, od razu rozpozna\u0142em, z jakim znaleziskiem mam do czynienia. Trudno opisa\u0107 emocje, kt\u00f3re towarzysz\u0105 takiemu momentowi. Trzyma\u0142em w d\u0142oni przedmiot, kt\u00f3ry spoczywa\u0142 w ziemi przez niemal tysi\u0105c lat i kt\u00f3ry zagubiono b\u0105d\u017a porzucono w czasach, gdy w tutejszych lasach \u017cy\u0142y pruskie plemiona \u2013 opowiada mi\u0142o\u015bnik historii.\n\nKolejne badania ju\u017c wkr\u00f3tce\n\nPan Micha\u0142 t\u0142umaczy, \u017ce to nie koniec bada\u0144 i by\u0107 mo\u017ce w przysz\u0142o\u015bci zaskoczy kolejnymi r\u00f3wnie ciekawymi odkryciami. \u2013 Wraz z I\u0142awsk\u0105 Grup\u0105 Poszukiwawcz\u0105 chcieliby\u015bmy przeprowadzi\u0107 dok\u0142adniejsze badania w miejscu odkrycia. Na tym etapie wszystko jednak zale\u017cy od decyzji elbl\u0105skiej delegatury Wojew\u00f3dzkiego Urz\u0119du Ochrony Zabytk\u00f3w w Olsztynie, kt\u00f3ra nadzoruje nasze dzia\u0142ania. Czekamy na dalsze wytyczne i mamy nadziej\u0119 na kontynuacj\u0119 naszych prac. Prowadzimy je z pasji, wolontarystycznie, w swoim czasie wolnym \u2013 m\u00f3wi.\n\nBadacz dodaje, \u017ce b\u0119dzie si\u0119 stara\u0142 o to, aby tym razem odkryty przez niego zabytek wzbogaci\u0142 Muzeum w Ostr\u00f3dzie. \u2013 By\u0142by to pi\u0105ty w naszych zbiorach trzewik ze wczesnego \u015bredniowiecza \u2013 powiedzia\u0142 PAP \u0141ukasz Szczepa\u0144ski, archeolog z Muzeum w Ostr\u00f3dzie. \u2013 To eksponaty \u015bwiadcz\u0105ce o wykorzystywaniu w regionie mieczy, kt\u00f3re by\u0142y elitarn\u0105 broni\u0105 \u2013 doda\u0142.\n\nKolejne odkrycie w wojew\u00f3dztwie warmi\u0144sko-mazurskim\n\nPolska Agencja Prasowa przypomina, \u017ce trzewik spod I\u0142awy to ju\u017c kolejny artefakt o du\u017cej warto\u015bci historycznej, odkryty w ostatnim czasie w wojew\u00f3dztwie warmi\u0144sko-mazurskim przez archeolog\u00f3w-amator\u00f3w. W po\u0142owie marca w okolicach Le\u015bniewa odkrywca z Towarzystwa Mi\u0142o\u015bnik\u00f3w Ziemi K\u0119trzy\u0144skiej im. Zofii Licharewej odnalaz\u0142 niewielki przedmiot wykonany z br\u0105zu, kt\u00f3ry przypomina\u0142 dysk.\n\nArcheolodzy ze s\u0142u\u017cby ochrony zabytk\u00f3w ocenili w\u00f3wczas, \u017ce jest to najprawdopodobniej ozdobne okucie pasa typu balteus. By\u0142 to typowy pas rzymskiego legionisty, kt\u00f3ry podtrzymywa\u0142 tunik\u0119 i miecz u boku. Ko\u0144czy\u0142 si\u0119 kilkoma rzemykami, kt\u00f3re zdobi\u0142y metalowe okucia. Cz\u0119sto by\u0142y przewieszane przez rami\u0119. Z czasem zosta\u0142y zapo\u017cyczone i zaadaptowane przez plemiona znad \u0141aby.\n\nReklama\n\nMicha\u0142 M\u0142otek poszukiwaniem zabytk\u00f3w zajmuje si\u0119 od prawie 20 lat. Prowadzi Internetowe Muzeum I\u0142awy \u2013 ilawasprzedlat.pl \u2013 czyli jedno z pierwszych cyfrowych muze\u00f3w w Polsce. W 2022 r. zosta\u0142 laureatem konkursu PAP Popularyzator Nauki. W 2024 r. Otrzyma\u0142 srebrnego BohaterONa (za organizacj\u0119 cyklu spacer\u00f3w po I\u0142awie). Jest tak\u017ce autorem kilku ksi\u0105\u017cek o poszukiwaniach skarb\u00f3w.\n\nNasz autor"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "To znalezisko mo\u017ce zmieni\u0107 histori\u0119 brytyjskich elit",
-            "link": "https://tvn24.pl/tvnmeteo/nauka/to-znalezisko-moze-zmienic-historie-brytyjskich-elit-st8383043",
-            "description": "Stos cennych przedmiot\u00f3w z epoki \u017celaza zosta\u0142 odnaleziony w Wielkiej Brytanii. Niekt\u00f3re z nich zaskoczy\u0142y naukowc\u00f3w.",
-            "image_url": "https://www.bing.pl/th?id=OVFT.ZEnhMV0FiwaxnTn2TynC5y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "TVN2420 godz.",
-            "source": "TVN24",
-            "article_content": "Stos cennych przedmiot\u00f3w z epoki \u017celaza zosta\u0142 odnaleziony w Wielkiej Brytanii. Niekt\u00f3re z nich zaskoczy\u0142y naukowc\u00f3w. Odkrycie daje cenny wgl\u0105d w to, jak tysi\u0105ce lat temu \u017cy\u0142y elity na Wyspach Brytyjskich.\n\nPogoda D\u0142ugoterminowa Weekend\n\nNa trop przedmiot\u00f3w wpad\u0142 archeolog amator z p\u00f3\u0142nocnej Anglii. Podczas poszukiwa\u0144 w okolicach wioski Melsonby jego detektor metalu zacz\u0105\u0142 emitowa\u0107 sygna\u0142y. Obiekt wydawa\u0142 si\u0119 du\u017cy, dlatego m\u0119\u017cczyzna skontaktowa\u0142 si\u0119 z Wydzia\u0142em Archeologii Uniwersytetu w Durham, kt\u00f3ry przeprowadzi\u0142 wykopaliska.\n\nElity sprzed tysi\u0119cy lat\n\nJak wyja\u015bnili naukowcy, skarb z Melsonby sk\u0142ada\u0142 si\u0119 z ponad 800 obiekt\u00f3w datowanych na oko\u0142o 2000 lat. W\u015br\u00f3d nich dopatrzono si\u0119 fragment\u00f3w woz\u00f3w i rydwan\u00f3w, kocio\u0142ka, misy do mieszania wina, zdobionych element\u00f3w uprz\u0119\u017cy, luster i ostrzy rytualnych w\u0142\u00f3czni. Niekt\u00f3re z nich zwr\u00f3ci\u0142y szczeg\u00f3ln\u0105 uwag\u0119 archeolog\u00f3w - misa by\u0142a udekorowana w spos\u00f3b przywodz\u0105cy na my\u015bl tradycje \u015br\u00f3dziemnomorskie, nietypowe dla p\u00f3\u0142nocnej Anglii w epoce \u017celaza. Podobnie ozdobione by\u0142y niekt\u00f3re fragmenty uprz\u0119\u017cy.\n\nUwag\u0119 naukowc\u00f3w zwr\u00f3ci\u0142 tak\u017ce fakt, \u017ce wiele obiekt\u00f3w nosi\u0142o \u015blady celowego spalenia. By\u0107 mo\u017ce by\u0142y one cz\u0119\u015bci\u0105 stosu pogrzebowego wp\u0142ywowego cz\u0142onka lokalnej spo\u0142eczno\u015bci, chocia\u017c nie jest to pewne - w okolicy nie znaleziono \u017cadnych ludzkich szcz\u0105tk\u00f3w.\n\n- Pierwszy posiadacz tego skarbu by\u0142 prawdopodobnie cz\u0142onkiem \u00f3wczesnych elit Wielkiej Brytanii, Europy, a nawet \u015bwiata rzymskiego - powiedzia\u0142 Tom Moore z Uniwersytetu w Durham, kt\u00f3ry bra\u0142 udzia\u0142 w wykopaliskach. - Zniszczenie tak wielu drogich przedmiot\u00f3w przeprowadzono na skal\u0119 rzadko spotykan\u0105 w Wielkiej Brytanii, co pokazuje, \u017ce elity p\u00f3\u0142nocnej Brytanii by\u0142y tak samo pot\u0119\u017cne, jak te z po\u0142udnia.\n\nFragment kocio\u0142ka zabezpieczonego w Melsonby Department of Archaeology/Durham University\n\nNowe spojrzenie\n\nWed\u0142ug Moore'a obiekty pokazuj\u0105, \u017ce \u017cycie najbogatszych os\u00f3b w p\u00f3\u0142nocnej Anglii - dotychczas uwa\u017canej za za\u015bciankow\u0105 w por\u00f3wnaniu z po\u0142udniem - by\u0142o w epoce \u017celaza zupe\u0142nie inne, ni\u017c do tej pory s\u0105dzono. Odkrycie mo\u017ce r\u00f3wnie\u017c pom\u00f3c nam w zrozumieniu, jak\u0105 rol\u0119 w \u017cyciu \u00f3wczesnych ludzi odgrywa\u0142y pojazdy.\n\nArcheolodzy dodali, \u017ce skarb jest wyj\u0105tkowo du\u017cy w skali Wielkiej Brytanii, a prawdopodobnie nawet Europy. Cz\u0119\u015b\u0107 artefakt\u00f3w z Melsonby jest nadal analizowana. Badacze maj\u0105 nadziej\u0119, \u017ce w przysz\u0142o\u015bci trafi\u0105 one do muze\u00f3w.\n\nDekoracyjny miedziany element z Melsonby Department of Archaeology/Durham University\n\nAutorka/Autor:ast\n\n\u0179r\u00f3d\u0142o: LiveScience, The Guardian, Durham University"
         }
     }
 ]
