@@ -10,7 +10,7 @@
             "description": "Kryszta\u0142y z czas\u00f3w PRL to w 2025 roku prawdziwe skarby dla kolekcjoner\u00f3w i mi\u0142o\u015bnik\u00f3w stylu retro. Ich ceny stale rosn\u0105. Od czego zale\u017cy warto\u015b\u0107 takich kryszta\u0142owych naczy\u0144, wazon\u00f3w i figurek? Ile kos ...",
             "image_url": "https://www.bing.pl/th?id=ODF.csLl8ZFonfuC8KKWalWEGg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN6 godz.",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN9 godz.",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
             "article_content": ""
         }
@@ -26,8 +26,24 @@
             "description": "Porcelana i ceramika z PRL to w 2025 roku prawdziwe skarby dla kolekcjoner\u00f3w i mi\u0142o\u015bnik\u00f3w stylu retro. Unikalne wzory, wysoka ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.NHrIk1RNohIlZYZqWFYBKS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Gazeta Pomorska on MSN5 godz.",
+            "date": "Gazeta Pomorska on MSN8 godz.",
             "source": "Gazeta Pomorska on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Skarby na targu w \u017barach. Dla mi\u0142o\u015bnik\u00f3w staroci i bibelot\u00f3w to prawdziwy raj, trzeba tylko dobrze poszuka\u0107. Znajdziecie tu cude\u0144ka",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/skarby-na-targu-w-%C5%BCarach-dla-mi%C5%82o%C5%9Bnik%C3%B3w-staroci-i-bibelot%C3%B3w-to-prawdziwy-raj-trzeba-tylko-dobrze-poszuka%C4%87-znajdziecie-tu-cude%C5%84ka/ar-AA1BOQyi?ocid=BingNewsVerp",
+            "description": "Na pchlim targu w \u017barach prawdziwe myd\u0142o i powid\u0142o, ale w ca\u0142ej masie bibelot\u00f3w mo\u017cna znale\u017a\u0107 prawdziwe pere\u0142ki. Wystarczy ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.xajYdAiaEZRsqaji29eh0Q&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "\u017bary Nasze Miasto on MSN22 godz.",
+            "source": "\u017bary Nasze Miasto on MSN",
             "article_content": ""
         }
     },
@@ -42,25 +58,9 @@
             "description": "Niezwyk\u0142e zjawisko \u2013 \u015bwietlisty wir widoczny na nocnym niebie, oko\u0142o godziny 21 by\u0142 w poniedzia\u0142kowy wiecz\u00f3r widoczny w ...",
             "image_url": "https://www.bing.pl/th?id=OVF.2p%2bPinp4NGZo7wfpU5bOmg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Dziennik Ba\u0142tycki19 godz.",
+            "date": "Dziennik Ba\u0142tycki21 godz.",
             "source": "Dziennik Ba\u0142tycki",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Skarby na targu w \u017barach. Dla mi\u0142o\u015bnik\u00f3w staroci i bibelot\u00f3w to prawdziwy raj, trzeba tylko dobrze poszuka\u0107. Znajdziecie tu cude\u0144ka",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/skarby-na-targu-w-%C5%BCarach-dla-mi%C5%82o%C5%9Bnik%C3%B3w-staroci-i-bibelot%C3%B3w-to-prawdziwy-raj-trzeba-tylko-dobrze-poszuka%C4%87-znajdziecie-tu-cude%C5%84ka/ar-AA1BOQyi?ocid=BingNewsVerp",
-            "description": "Na pchlim targu w \u017barach prawdziwe myd\u0142o i powid\u0142o, ale w ca\u0142ej masie bibelot\u00f3w mo\u017cna znale\u017a\u0107 prawdziwe pere\u0142ki. Wystarczy ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.xajYdAiaEZRsqaji29eh0Q&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "\u017bary Nasze Miasto on MSN19 godz.",
-            "source": "\u017bary Nasze Miasto on MSN",
-            "article_content": ""
         }
     },
     {
@@ -74,7 +74,7 @@
             "description": "Pami\u0119tasz te rzeczy i sceny z czas\u00f3w PRL? Dorastaj\u0105c w latach 90. na pewno pami\u0119tasz jak wtedy wygl\u0105da\u0142y ulice, sceny z \u017cycia, a tym bardziej zwyk\u0142e przedmioty... Nostalgia z PRL - Polsk\u0105 Rzeczpospoli ...",
             "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "G\u0142os Szczeci\u0144ski11 godz.",
+            "date": "G\u0142os Szczeci\u0144ski14 godz.",
             "source": "G\u0142os Szczeci\u0144ski",
             "article_content": "Content not available"
         }
@@ -90,7 +90,7 @@
             "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
             "image_url": "https://www.bing.pl/th?id=OVF.D1jAPtv1A3CVlN%2b1ZQ8s7g&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Pomorza on MSN15 godz.",
+            "date": "G\u0142os Pomorza on MSN18 godz.",
             "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
         }
@@ -106,7 +106,7 @@
             "description": "Wycena monet z PRL-u zale\u017cy od rzadko\u015bci wyst\u0119powania, jako\u015bci wybicia oraz gradingu, czyli stanu jej zachowania. W Polsce znajdziemy wiele okaz\u00f3w wartych kilkaset z\u0142otych, ale s\u0105 te\u017c takie, na ...",
             "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "G\u0142os Szczeci\u0144ski on MSN18 godz.",
+            "date": "G\u0142os Szczeci\u0144ski on MSN21 godz.",
             "source": "G\u0142os Szczeci\u0144ski on MSN",
             "article_content": ""
         }
@@ -122,7 +122,7 @@
             "description": "Stare monety i banknoty s\u0105 w cenie. Kolekcjonerzy szukaj\u0105 ich w Polsce i zagranic\u0105 na r\u00f3\u017cnych aukcjach i stronach. Niezwyk\u0142a warto\u015b\u0107 kolekcjonerska cechuje... Banknot, kt\u00f3ry masz w portfelu, mo\u017ce by\u0107 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "G\u0142os Pomorza13 godz.",
+            "date": "G\u0142os Pomorza16 godz.",
             "source": "G\u0142os Pomorza",
             "article_content": "Content not available"
         }
@@ -138,7 +138,7 @@
             "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.rXY4IFBt9hVZAYwsRbQrPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski20 godz.",
+            "date": "G\u0142os Koszali\u0144ski23 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
         }
@@ -154,7 +154,7 @@
             "description": "W ostatnich latach przedmioty z czas\u00f3w PRL prze\u017cywaj\u0105 prawdziwy renesans. W 2025 roku kolekcjonerzy coraz ch\u0119tniej poszukuj\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.XXJILBIDmc28mJlpkYZZuy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Gazeta Pomorska on MSN6 godz.",
+            "date": "Gazeta Pomorska on MSN8 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -170,7 +170,7 @@
             "description": "Unikatowy charakter mia\u0142y r\u00f3wnie\u017c przedmioty z tego okresu. Z pewno\u015bci\u0105 wiele os\u00f3b posiada w swoich domach rzeczy z czas\u00f3w ...",
             "image_url": "https://www.bing.pl/th?id=OVF.1KIXTA%2bJMA3I%2bqaXhum%2feQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "G\u0142os Koszali\u0144ski on MSN20 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN23 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
@@ -186,7 +186,7 @@
             "description": "Unikalna porcelana z PRL poszukiwana przez kolekcjoner\u00f3w mo\u017ce zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na niej zarobi\u0107 fortun\u0119!",
             "image_url": "https://www.bing.pl/th?id=OVFT.5dtWIPVNE5gFDRdWIeeypi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "G\u0142os Pomorza on MSN18 godz.",
+            "date": "G\u0142os Pomorza on MSN21 godz.",
             "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
         }
@@ -202,7 +202,7 @@
             "description": "Kryszta\u0142y z czas\u00f3w PRL to w 2025 roku prawdziwe skarby dla kolekcjoner\u00f3w i mi\u0142o\u015bnik\u00f3w stylu retro. Ich ceny stale rosn\u0105. Od czego zale\u017cy warto\u015b\u0107 takich kryszta\u0142owych naczy\u0144, wazon\u00f3w i figurek? Ile kos ...",
             "image_url": "https://www.bing.pl/th?id=ODF.csLl8ZFonfuC8KKWalWEGg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN6 godz.",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN9 godz.",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
             "article_content": ""
         }
@@ -218,7 +218,7 @@
             "description": "W ostatnich latach przedmioty z czas\u00f3w PRL prze\u017cywaj\u0105 prawdziwy renesans. W 2025 roku kolekcjonerzy coraz ch\u0119tniej poszukuj\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.JtSFENrTkjnk2wCJO9ISbi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN6 godz.",
+            "date": "Gazeta Pomorska on MSN8 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -234,7 +234,7 @@
             "description": "Obok pustych sklepowych p\u00f3\u0142ek, PRL to r\u00f3wnie\u017c kartki na \u017cywno\u015b\u0107, ogromne kolejki do sklep\u00f3w, wszechobecna biurokracja. PRL to ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.Vgx45gbm6_fsm-LfDfOeIS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "G\u0142os Koszali\u0144ski20 godz.",
+            "date": "G\u0142os Koszali\u0144ski23 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
         }
@@ -250,7 +250,7 @@
             "description": "Na pchlim targu w \u017barach prawdziwe myd\u0142o i powid\u0142o, ale w ca\u0142ej masie bibelot\u00f3w mo\u017cna znale\u017a\u0107 prawdziwe pere\u0142ki. Wystarczy ...",
             "image_url": "https://www.bing.pl/th?id=OVF.xajYdAiaEZRsqaji29eh0Q&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "\u017bary Nasze Miasto on MSN19 godz.",
+            "date": "\u017bary Nasze Miasto on MSN22 godz.",
             "source": "\u017bary Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -266,7 +266,7 @@
             "description": "Unikalne antyki poszukiwane przez kolekcjoner\u00f3w mog\u0105 zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na nich zarobi\u0107 fortun\u0119. Cz\u0119sto nie ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.M2fw_kVEbAkv5zg2kvCAfS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "G\u0142os Pomorza on MSN18 godz.",
+            "date": "G\u0142os Pomorza on MSN21 godz.",
             "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
         }
@@ -278,29 +278,13 @@
         },
         "body": {
             "title": "Co robi\u0107 w weekend w Poznaniu? Weekend 28-30 marca 2025",
-            "link": "https://gloswielkopolski.pl/co-robic-w-poznaniu-w-najblizszy-weekend-oto-przeglad-najciekawszych-wydarzen-na-28-29-i-30-marca-zobacz-i-wybierz-cos-dla-siebie/ar/c1p2-27411787",
+            "link": "https://poznan.naszemiasto.pl/co-robic-w-poznaniu-w-najblizszy-weekend-oto-przeglad-najciekawszych-wydarzen-na-28-29-i-30-marca-zobacz-i-wybierz-cos-dla-siebie/ar/c1p2-27411787",
             "description": "Przygotujcie si\u0119 na trzy dni pe\u0142ne wyj\u0105tkowych wydarze\u0144, w\u015br\u00f3d kt\u00f3rych ka\u017cdy znajdzie co\u015b dla siebie! Czeka na Was mn\u00f3stwo ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.CbzLeNdFOOSZjCYKuBdbgw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "image_url": "https://www.bing.pl/th?id=OVF.XFCue%2bVHz8JKwnk4V9kavQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "G\u0142os Wielkopolski16 godz.",
-            "source": "G\u0142os Wielkopolski",
+            "date": "Pozna\u0144 Nasze Miasto17 godz.",
+            "source": "Pozna\u0144 Nasze Miasto",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Dom z dusz\u0105. Eklektyczna metamorfoza projektu sprzed 12 lat",
-            "link": "https://www.papilot.pl/lifestyle/wnetrza/71224/dom-z-dusza-eklektyczna-metamorfoza-projektu-sprzed-12-lat",
-            "description": "Najwi\u0119ksz\u0105 niespodziank\u0105 dla w\u0142a\u015bcicieli okaza\u0142 si\u0119 kominek, kt\u00f3ry po renowacji zachwyci\u0142 ich od pierwszego wejrzenia.",
-            "image_url": "https://www.bing.pl/th?id=OVFT.InAE8lAFX7n7kacfMrpzmS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "targ+staroci",
-            "date": "Papilot39 min",
-            "source": "Papilot",
-            "article_content": "Czasami wn\u0119trza, podobnie jak ludzie, potrzebuj\u0105 nowego otwarcia. Taki los spotka\u0142 jeden z pierwszych projekt\u00f3w Hanny Pietras, kt\u00f3ry po 12 latach doczeka\u0142 si\u0119 kompleksowej modernizacji. Nie by\u0142a to jednak zwyk\u0142a renowacja \u2013 raczej tw\u00f3rcza reinterpretacja z du\u017c\u0105 dawk\u0105 eklektyzmu i osobistej historii w\u0142a\u015bcicieli.\n\n\u201eTo wn\u0119trze to wyj\u0105tkowy projekt, kt\u00f3ry stworzy\u0142am 12 lat temu \u2013 jeden z moich pierwszych realizacji. Po latach w\u0142a\u015bciciele uznali, \u017ce potrzebuj\u0105 od\u015bwie\u017cenia przestrzeni, a niewielki remont szybko przekszta\u0142ci\u0142 si\u0119 w kompleksow\u0105 modernizacj\u0119\u201d \u2013 opowiada Hanna Pietras.\n\nPodstawowym za\u0142o\u017ceniem by\u0142o zachowanie pierwotnego uk\u0142adu funkcjonalnego, kt\u00f3ry doskonale sprawdzi\u0142 si\u0119 przez lata. Przekszta\u0142ceniom poddano jednak niemal wszystko inne \u2013 od mebli po materia\u0142y i kolorystyk\u0119.\n\nZobacz tak\u017ce: Agnieszka Dygant pokaza\u0142a zjawiskow\u0105 kuchni\u0119 w nowym domu. \u201eDywan z targu staroci\u201d\n\nEklektyczna inspiracja\n\nOd samego pocz\u0105tku modernizacja tego wn\u0119trza mia\u0142a by\u0107 czym\u015b wi\u0119cej ni\u017c tylko estetycznym liftingiem.\n\n\u201eInspiracj\u0105 dla tego projektu by\u0142 eklektyzm! W\u0142a\u015bcicielka uwielbia kolory, wzory oraz odwa\u017cne \u0142\u0105czenie r\u00f3\u017cnych styl\u00f3w, co stanowi\u0142o dla nas doskona\u0142\u0105 wytyczn\u0105\u201d \u2013 wyja\u015bnia architektka.\n\nDzi\u0119ki temu ta licz\u0105ca ponad 150m2 przestrze\u0144 zyska\u0142a charakter \u015bmia\u0142ego, ale harmonijnego po\u0142\u0105czenia klasyki, nowoczesno\u015bci i element\u00f3w vintage. Jednym z najbardziej unikatowych element\u00f3w wn\u0119trza jest st\u00f3\u0142 \u2013 prawdziwa pere\u0142ka wyszukana w Galerii Piwnica.\n\n\u201eNajlepiej prezentowa\u0142 si\u0119 w wersji roz\u0142o\u017conej, ale nie podoba\u0142 nam si\u0119 efekt przeci\u0119cia na \u015brodku blatu. Postanowi\u0142y\u015bmy wi\u0119c wkomponowa\u0107 w niego ceramiczn\u0105 wstawk\u0119 wykonan\u0105 z p\u0142ytek pod\u0142ogowych, nawi\u0105zuj\u0105c\u0105 kolorystycznie do reszty wn\u0119trza\u201d \u2013 zdradza Hanna Pietras.\n\nNie jest to jedyny element o niepowtarzalnym charakterze. W ca\u0142ym domu znajdziemy starannie dobrane meble, o\u015bwietlenie i dodatki, kt\u00f3re nadaj\u0105 mu dusz\u0119. Ka\u017cdy przedmiot ma swoj\u0105 histori\u0119, kt\u00f3r\u0105 domownicy chcieli zachowa\u0107.\n\nKolory, tekstury i \u015bwiat\u0142o\n\nDrewno w r\u00f3\u017cnych odcieniach, kolorowe tkaniny, wzorzyste tapety \u2013 w tym wn\u0119trzu nic nie jest przypadkowe.\n\n\u201eNie ba\u0142y\u015bmy si\u0119 odwa\u017cnych zestawie\u0144 ani ryzyka, \u017ce co\u015b mo\u017ce do siebie nie pasowa\u0107. Wr\u0119cz przeciwnie \u2013 celowo \u0142\u0105czy\u0142y\u015bmy elementy z r\u00f3\u017cnych stylistyk, co w efekcie stworzy\u0142o sp\u00f3jn\u0105, ale jednocze\u015bnie eklektyczn\u0105 kompozycj\u0119\u201d \u2013 m\u00f3wi architektka.\n\nR\u00f3wnie wa\u017cne by\u0142o o\u015bwietlenie. Wprowadzenie delikatnych, przyt\u0142umionych \u015bwiate\u0142 sprawi\u0142o, \u017ce wn\u0119trze jest niezwykle przytulne. Jedynym mocnym akcentem jest lampa nad sto\u0142em \u2013 nie tylko efektowna, ale r\u00f3wnie\u017c funkcjonalna.\n\nPodzia\u0142 na stref\u0119 wypoczynkow\u0105, jadalni\u0119 i kuchni\u0119 pozosta\u0142 niezmieniony, ale zyska\u0142 now\u0105 jako\u015b\u0107. Kluczowe by\u0142y konsultacje z inwestorami i testowanie materia\u0142\u00f3w na \u017cywo, aby mie\u0107 pewno\u015b\u0107, \u017ce wszystko idealnie do siebie pasuje. Wyj\u0105tkiem by\u0142y dwa elementy kupione przez Internet: stolik kawowy i dywan \u2013 na szcz\u0119\u015bcie okaza\u0142y si\u0119 strza\u0142em w dziesi\u0105tk\u0119!\n\nNajwi\u0119ksz\u0105 niespodziank\u0105 dla w\u0142a\u015bcicieli okaza\u0142 si\u0119 kominek, kt\u00f3ry po renowacji zachwyci\u0142 ich od pierwszego wejrzenia.\n\n\u201eKiedy zamontowano na nim wszystkie p\u0142ytki, sta\u0142 si\u0119 mi\u0142o\u015bci\u0105 od pierwszego wejrzenia! Jego ostateczny wygl\u0105d przer\u00f3s\u0142 oczekiwania i nada\u0142 wn\u0119trzu wyj\u0105tkowy charakter\u201d \u2013 podsumowuje Hanna Pietras.\n\nProjekt ten pokazuje, \u017ce wn\u0119trza mog\u0105 si\u0119 zmienia\u0107 wraz z ich mieszka\u0144cami, zachowuj\u0105c przy tym swoj\u0105 to\u017csamo\u015b\u0107. To nie tylko dow\u00f3d na ponadczasowo\u015b\u0107 dobrze zaprojektowanych przestrzeni, ale tak\u017ce inspiracja do \u015bmia\u0142ego \u0142\u0105czenia przesz\u0142o\u015bci z przysz\u0142o\u015bci\u0105. Zobacz t\u0119 niezwyk\u0142\u0105 aran\u017cacj\u0119.\n\nProjekt i stylizacja: Hanna Pietras, Anna Petrova\n\nFoto: Hanna Po\u0142czy\u0144ska / Kroniki\n\nMat. prasowe"
         }
     },
     {
@@ -314,9 +298,25 @@
             "description": "Przed nami kolejny wyj\u0105tkowy weekend w Poznaniu, pe\u0142en atrakcji! Od 28 do 30 marca czeka Was mn\u00f3stwo interesuj\u0105cych imprez, kt\u00f3re warto zapisa\u0107 w kalendarzu na pi\u0105tek, sobot\u0119 i niedziel\u0119. Zobaczcie pr ...",
             "image_url": "https://www.bing.pl/th?id=ODF.Cya7j59Rws2Si6qfmk5ljw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Pozna\u0144 Nasze Miasto on MSN16 godz.",
+            "date": "Pozna\u0144 Nasze Miasto on MSN19 godz.",
             "source": "Pozna\u0144 Nasze Miasto on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Dom z dusz\u0105. Eklektyczna metamorfoza projektu sprzed 12 lat",
+            "link": "https://www.papilot.pl/lifestyle/wnetrza/71224/dom-z-dusza-eklektyczna-metamorfoza-projektu-sprzed-12-lat",
+            "description": "Najwi\u0119ksz\u0105 niespodziank\u0105 dla w\u0142a\u015bcicieli okaza\u0142 si\u0119 kominek, kt\u00f3ry po renowacji zachwyci\u0142 ich od pierwszego wejrzenia.",
+            "image_url": "https://www.bing.pl/th?id=OVFT.InAE8lAFX7n7kacfMrpzmS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "Papilot3 godz.",
+            "source": "Papilot",
+            "article_content": "Czasami wn\u0119trza, podobnie jak ludzie, potrzebuj\u0105 nowego otwarcia. Taki los spotka\u0142 jeden z pierwszych projekt\u00f3w Hanny Pietras, kt\u00f3ry po 12 latach doczeka\u0142 si\u0119 kompleksowej modernizacji. Nie by\u0142a to jednak zwyk\u0142a renowacja \u2013 raczej tw\u00f3rcza reinterpretacja z du\u017c\u0105 dawk\u0105 eklektyzmu i osobistej historii w\u0142a\u015bcicieli.\n\n\u201eTo wn\u0119trze to wyj\u0105tkowy projekt, kt\u00f3ry stworzy\u0142am 12 lat temu \u2013 jeden z moich pierwszych realizacji. Po latach w\u0142a\u015bciciele uznali, \u017ce potrzebuj\u0105 od\u015bwie\u017cenia przestrzeni, a niewielki remont szybko przekszta\u0142ci\u0142 si\u0119 w kompleksow\u0105 modernizacj\u0119\u201d \u2013 opowiada Hanna Pietras.\n\nPodstawowym za\u0142o\u017ceniem by\u0142o zachowanie pierwotnego uk\u0142adu funkcjonalnego, kt\u00f3ry doskonale sprawdzi\u0142 si\u0119 przez lata. Przekszta\u0142ceniom poddano jednak niemal wszystko inne \u2013 od mebli po materia\u0142y i kolorystyk\u0119.\n\nZobacz tak\u017ce: Agnieszka Dygant pokaza\u0142a zjawiskow\u0105 kuchni\u0119 w nowym domu. \u201eDywan z targu staroci\u201d\n\nEklektyczna inspiracja\n\nOd samego pocz\u0105tku modernizacja tego wn\u0119trza mia\u0142a by\u0107 czym\u015b wi\u0119cej ni\u017c tylko estetycznym liftingiem.\n\n\u201eInspiracj\u0105 dla tego projektu by\u0142 eklektyzm! W\u0142a\u015bcicielka uwielbia kolory, wzory oraz odwa\u017cne \u0142\u0105czenie r\u00f3\u017cnych styl\u00f3w, co stanowi\u0142o dla nas doskona\u0142\u0105 wytyczn\u0105\u201d \u2013 wyja\u015bnia architektka.\n\nDzi\u0119ki temu ta licz\u0105ca ponad 150m2 przestrze\u0144 zyska\u0142a charakter \u015bmia\u0142ego, ale harmonijnego po\u0142\u0105czenia klasyki, nowoczesno\u015bci i element\u00f3w vintage. Jednym z najbardziej unikatowych element\u00f3w wn\u0119trza jest st\u00f3\u0142 \u2013 prawdziwa pere\u0142ka wyszukana w Galerii Piwnica.\n\n\u201eNajlepiej prezentowa\u0142 si\u0119 w wersji roz\u0142o\u017conej, ale nie podoba\u0142 nam si\u0119 efekt przeci\u0119cia na \u015brodku blatu. Postanowi\u0142y\u015bmy wi\u0119c wkomponowa\u0107 w niego ceramiczn\u0105 wstawk\u0119 wykonan\u0105 z p\u0142ytek pod\u0142ogowych, nawi\u0105zuj\u0105c\u0105 kolorystycznie do reszty wn\u0119trza\u201d \u2013 zdradza Hanna Pietras.\n\nNie jest to jedyny element o niepowtarzalnym charakterze. W ca\u0142ym domu znajdziemy starannie dobrane meble, o\u015bwietlenie i dodatki, kt\u00f3re nadaj\u0105 mu dusz\u0119. Ka\u017cdy przedmiot ma swoj\u0105 histori\u0119, kt\u00f3r\u0105 domownicy chcieli zachowa\u0107.\n\nKolory, tekstury i \u015bwiat\u0142o\n\nDrewno w r\u00f3\u017cnych odcieniach, kolorowe tkaniny, wzorzyste tapety \u2013 w tym wn\u0119trzu nic nie jest przypadkowe.\n\n\u201eNie ba\u0142y\u015bmy si\u0119 odwa\u017cnych zestawie\u0144 ani ryzyka, \u017ce co\u015b mo\u017ce do siebie nie pasowa\u0107. Wr\u0119cz przeciwnie \u2013 celowo \u0142\u0105czy\u0142y\u015bmy elementy z r\u00f3\u017cnych stylistyk, co w efekcie stworzy\u0142o sp\u00f3jn\u0105, ale jednocze\u015bnie eklektyczn\u0105 kompozycj\u0119\u201d \u2013 m\u00f3wi architektka.\n\nR\u00f3wnie wa\u017cne by\u0142o o\u015bwietlenie. Wprowadzenie delikatnych, przyt\u0142umionych \u015bwiate\u0142 sprawi\u0142o, \u017ce wn\u0119trze jest niezwykle przytulne. Jedynym mocnym akcentem jest lampa nad sto\u0142em \u2013 nie tylko efektowna, ale r\u00f3wnie\u017c funkcjonalna.\n\nPodzia\u0142 na stref\u0119 wypoczynkow\u0105, jadalni\u0119 i kuchni\u0119 pozosta\u0142 niezmieniony, ale zyska\u0142 now\u0105 jako\u015b\u0107. Kluczowe by\u0142y konsultacje z inwestorami i testowanie materia\u0142\u00f3w na \u017cywo, aby mie\u0107 pewno\u015b\u0107, \u017ce wszystko idealnie do siebie pasuje. Wyj\u0105tkiem by\u0142y dwa elementy kupione przez Internet: stolik kawowy i dywan \u2013 na szcz\u0119\u015bcie okaza\u0142y si\u0119 strza\u0142em w dziesi\u0105tk\u0119!\n\nNajwi\u0119ksz\u0105 niespodziank\u0105 dla w\u0142a\u015bcicieli okaza\u0142 si\u0119 kominek, kt\u00f3ry po renowacji zachwyci\u0142 ich od pierwszego wejrzenia.\n\n\u201eKiedy zamontowano na nim wszystkie p\u0142ytki, sta\u0142 si\u0119 mi\u0142o\u015bci\u0105 od pierwszego wejrzenia! Jego ostateczny wygl\u0105d przer\u00f3s\u0142 oczekiwania i nada\u0142 wn\u0119trzu wyj\u0105tkowy charakter\u201d \u2013 podsumowuje Hanna Pietras.\n\nProjekt ten pokazuje, \u017ce wn\u0119trza mog\u0105 si\u0119 zmienia\u0107 wraz z ich mieszka\u0144cami, zachowuj\u0105c przy tym swoj\u0105 to\u017csamo\u015b\u0107. To nie tylko dow\u00f3d na ponadczasowo\u015b\u0107 dobrze zaprojektowanych przestrzeni, ale tak\u017ce inspiracja do \u015bmia\u0142ego \u0142\u0105czenia przesz\u0142o\u015bci z przysz\u0142o\u015bci\u0105. Zobacz t\u0119 niezwyk\u0142\u0105 aran\u017cacj\u0119.\n\nProjekt i stylizacja: Hanna Pietras, Anna Petrova\n\nFoto: Hanna Po\u0142czy\u0144ska / Kroniki\n\nMat. prasowe"
         }
     },
     {
@@ -330,25 +330,9 @@
             "description": "Masz do\u015b\u0107 powiadomie\u0144 i chcesz wr\u00f3ci\u0107 do prostego telefonu? Na rynku pojawi\u0142 si\u0119 Light Phone 3 \u2013 minimalistyczny \"klocek\" z ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.S3FpKeRaihzlAMklulXkMS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Spider\u2019s Web19 godz.",
+            "date": "Spider\u2019s Web22 godz.",
             "source": "Spider\u2019s Web",
             "article_content": "Najwi\u0119ksz\u0105 zmian\u0105 w por\u00f3wnaniu do poprzednika, Light Phone 2, jest zast\u0105pienie ekranu E Ink 3,92-calowym wy\u015bwietlaczem OLED. Cho\u0107 interfejs pozostaje czarno-bia\u0142y (dla oszcz\u0119dno\u015bci energii i mniejszej atrakcyjno\u015bci wizualnej), sam ekran jest znacznie szybszy i bardziej responsywny, co u\u0142atwia pisanie czy przewijanie. Firma Light twierdzi, \u017ce powolny ekran E Ink by\u0142 g\u0142\u00f3wnym powodem rezygnacji z poprzedniego modelu. Poza tym telefon zyska\u0142 metalow\u0105 ramk\u0119, wi\u0119cej fizycznych przycisk\u00f3w (a\u017c sze\u015b\u0107, w tym dedykowany spust migawki i pokr\u0119t\u0142o jasno\u015bci/latarki), port USB-C oraz wymienn\u0105 bateri\u0119 1800 mAh, kt\u00f3ra ma wystarcza\u0107 na 2-3 dni. Niestety odporno\u015b\u0107 na wod\u0119 i kurz to tylko IP54, wi\u0119c lepiej nie topi\u0107 go w wodzie."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "S\u0142ynna Z\u0142ota Kamienica w Gda\u0144sku do kupienia. Znamy cen\u0119",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/og%C5%82oszono-przetarg-na-sprzeda%C5%BC-z%C5%82otej-kamienicy-w-gda%C5%84sku-znana-jest-cena-wywo%C5%82awcza-tanio-nie-jest/ar-AA1BMYWR?ocid=BingNewsVerp",
-            "description": "Z\u0142ota Kamienica to jednej z najbardziej rozpoznawalnych obiekt\u00f3w Gda\u0144ska. Zabytek znajduj\u0105cy si\u0119 przy D\u0142ugim Targu przyci\u0105ga ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.4tfDj1Y%2fPltIh1v9e3pbWA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "Dziennik Ba\u0142tycki on MSN21 godz.",
-            "source": "Dziennik Ba\u0142tycki on MSN",
-            "article_content": ""
         }
     },
     {
@@ -362,8 +346,24 @@
             "description": "Magnolia rosn\u0105ca na wawelskim dziedzi\u0144cu ju\u017c zakwita\u0142a. Jak co roku o tej porze, to w\u0142a\u015bnie tu ustawiaj\u0105 si\u0119 dziesi\u0105tki ...",
             "image_url": "https://www.bing.pl/th?id=OVF.3k7wSxpX%2fvNMZMgcsiScRQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Gazeta Krakowska on MSN15 godz.",
+            "date": "Gazeta Krakowska on MSN18 godz.",
             "source": "Gazeta Krakowska on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "S\u0142ynna Z\u0142ota Kamienica w Gda\u0144sku do kupienia. Znamy cen\u0119",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/og%C5%82oszono-przetarg-na-sprzeda%C5%BC-z%C5%82otej-kamienicy-w-gda%C5%84sku-znana-jest-cena-wywo%C5%82awcza-tanio-nie-jest/ar-AA1BMYWR?ocid=BingNewsVerp",
+            "description": "Z\u0142ota Kamienica to jednej z najbardziej rozpoznawalnych obiekt\u00f3w Gda\u0144ska. Zabytek znajduj\u0105cy si\u0119 przy D\u0142ugim Targu przyci\u0105ga ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.4tfDj1Y%2fPltIh1v9e3pbWA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "Dziennik Ba\u0142tycki on MSN23 godz.",
+            "source": "Dziennik Ba\u0142tycki on MSN",
             "article_content": ""
         }
     },
@@ -378,7 +378,7 @@
             "description": "Dwa pokolenia \u017caganian spotka\u0142y si\u0119 w pa\u0142acyku przy ulicy Jana Paw\u0142a II na kulinarnych warsztatach. Seniorki ucz\u0119szczaj\u0105ce na zaj\u0119cia Uniwersytetu ...",
             "image_url": "https://www.bing.pl/th?id=ODF.YOku2jV4G43w2F6davb6nw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Radio Zach\u00f3d12 godz.",
+            "date": "Radio Zach\u00f3d15 godz.",
             "source": "Radio Zach\u00f3d",
             "article_content": "Content not available"
         }
@@ -394,7 +394,7 @@
             "description": "Czytaj najnowsze wiadomo\u015bci z kraju i ogl\u0105daj wideo w portalu TVN24! U nas zawsze aktualne informacje z Polski, relacje na \u017cywo i wiele wi\u0119cej.",
             "image_url": "https://www.bing.pl/th?id=ODF.64zms-dqm9CeVRcHtHJOtA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "TVN2411 godz.",
+            "date": "TVN2414 godz.",
             "source": "TVN24",
             "article_content": "Kandydatka PiS by\u0142a sama, ale i tak przegra\u0142a"
         }
@@ -410,8 +410,24 @@
             "description": "W Zak\u0142adzie Medycyny S\u0105dowej WUM przeprowadzono sekcj\u0119 ludzkich szcz\u0105tk\u00f3w znalezionych w ko\u0144cu lutego na terenie Twierdzy ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.I4QsPXcEwoK6uWmvYzTMgC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Warszawa.Wyborcza.pl13 godz.",
+            "date": "Warszawa.Wyborcza.pl16 godz.",
             "source": "Warszawa.Wyborcza.pl",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Prastarzy \u0141u\u017cyczanie w naszym regionie. To by\u0142a tajemnicza i fascynuj\u0105ca kultura archeologiczna",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/prastarzy-%C5%82u%C5%BCyczanie-w-naszym-regionie-to-by%C5%82a-tajemnicza-i-fascynuj%C4%85ca-kultura-archeologiczna/ar-AA1BOHd2?ocid=BingNewsVerp",
+            "description": "W 1933 r. m\u0142ody nauczyciel Walenty Szwajcer zwr\u00f3ci\u0142 uwag\u0119 na drewniane, d\u0119bowe pale widoczne na brzegu Jeziora Biskupi\u0144skiego. Sta\u0142o si\u0119 to podczas szkolnej wycieczki na kt\u00f3r\u0105 wybra\u0142 si\u0119 razem ze swoi ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.6LywzZAZV3d_FphkGjzdnQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "zabytkowe+przedmioty",
+            "date": "Nasze Miasto on MSN22 godz.",
+            "source": "Nasze Miasto on MSN",
             "article_content": ""
         }
     },
@@ -426,7 +442,7 @@
             "description": "Na niemal tysi\u0105c trzystu stronach zawiera tekst Pisma \u015bwi\u0119tego. Do naszych czas\u00f3w przetrwa\u0142o 47 egzemplarzy tej najcenniejszej ksi\u0105\u017cki \u015bwiata, z czego tylko 20 kompletnych. Najwi\u0119cej w USA \u2013 14.",
             "image_url": "https://www.bing.pl/th?id=ODF.uFmzeOMQLkWC9mG1SyM0PQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "Tczew Nasze Miasto on MSN4 godz.",
+            "date": "Tczew Nasze Miasto on MSN7 godz.",
             "source": "Tczew Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -437,46 +453,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Pogoda na dzi\u015b - sobota 29.03. Gdzie aura b\u0119dzie sprzyja\u0107 obserwacjom za\u0107mienia?",
-            "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-sobota-29-03-gdzie-aura-bedzie-sprzyjac-obserwacjom-zacmienia-st8386176",
-            "description": "Pogoda na dzi\u015b. Sobota 29.03 w wi\u0119kszo\u015bci kraju przyniesie pogodne niebo z niewielkim, k\u0142\u0119biastym zachmurzeniem. W niekt\u00f3rych regionach czekaj\u0105 nas jednak przelotne opady deszczu. Termometry poka\u017c\u0105 od ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.64zms-dqm9CeVRcHtHJOtA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Gdzie imprezowa\u0107 28-30 marca w Warszawie?",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/warszawa-zmieni-si%C4%99-w-stolic%C4%99-rozrywki-wracaj%C4%85-kultowe-imprezy-i-festiwale-weekend-pe%C5%82en-darmowych-atrakcji/ar-AA1BL2A0?ocid=BingNewsVerp",
+            "description": "Przed nami szereg ciekawych imprez w Warszawie. Spotkania, koncerty, wystawy, wydarzenia... B\u0119dzie si\u0119 dzia\u0142o! 28, 29 i 30 ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.JxcpBbx2eJUGCsylk8hSgg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "TVN2436 min",
-            "source": "TVN24",
-            "article_content": "Pogoda na dzi\u015b. Sobota 29.03 w wi\u0119kszo\u015bci kraju przyniesie pogodne niebo z niewielkim, k\u0142\u0119biastym zachmurzeniem. W niekt\u00f3rych regionach czekaj\u0105 nas jednak przelotne opady deszczu. Termometry poka\u017c\u0105 od 14 do 17 stopni Celsjusza.\n\nPogoda D\u0142ugoterminowa Weekend\n\nSobota b\u0119dzie na og\u00f3\u0142 pogodna, z ma\u0142ym i umiarkowanym zachmurzeniem k\u0142\u0119biastym na niebie. W zachodniej i po\u0142udniowej Polsce chmur b\u0119dzie wi\u0119cej, a na zachodzie i obszarach g\u00f3rskich mo\u017ce lokalnie pada\u0107 s\u0142aby, przelotny deszcz. Temperatura maksymalna wyniesie od 14 stopni Celsjusza na Pomorzu Zachodnim do 17 st. C w regionach po\u0142udniowych i centralnych. Powieje wschodni i po\u0142udniowo-wschodni wiatr, umiarkowany, okresami na wschodzie do\u015b\u0107 silny.\n\nPrognoza pogody na sobot\u0119 tvnmeteo.pl\n\nWarunki biometeorologiczne\n\nW ci\u0105gu dnia wilgotno\u015b\u0107 powietrza wyniesie od oko\u0142o 50 procent w p\u00f3\u0142nocno-wschodniej Polsce do 80 procent na po\u0142udniu. Warunki biometeorologiczne oka\u017c\u0105 si\u0119 korzystne we wschodnich regionach, a w zachodniej i po\u0142udniowej cz\u0119\u015bci kraju oka\u017c\u0105 si\u0119 neutralne.\n\nWarunki biometeo w sobot\u0119 tvnmeteo.pl\n\nPogoda na dzi\u015b - Warszawa\n\nNiebo nad Warszaw\u0105 w sobot\u0119 b\u0119dzie pogodne. Temperatura wzro\u015bnie maksymalnie do 17 st. C. Po\u0142udniowo-wschodni wiatr b\u0119dzie umiarkowany. W po\u0142udnie barometry poka\u017c\u0105 999 hPa.\n\nPogoda na dzi\u015b - Tr\u00f3jmiasto\n\nW Gda\u0144sku, Gdyni i Sopocie sobota przyniesie pogodne niebo. Termometry poka\u017c\u0105 do 16 st. C. Powieje wschodni, umiarkowany wiatr. Na barometrach w po\u0142udnie zobaczymy 1013 hPa.\n\nPogoda na dzi\u015b - Pozna\u0144\n\nPogodna sobota spodziewana jest w Poznaniu. Wi\u0119ksze zachmurzenie pojawi si\u0119 po po\u0142udniu. Na termometrach zobaczymy do 16 st. C. Wiatr ze wschodu oka\u017ce si\u0119 s\u0142aby i umiarkowany. Ci\u015bnienie wyniesie w po\u0142udnie 999 hPa.\n\nPogoda na dzi\u015b - Wroc\u0142aw\n\nWe Wroc\u0142awiu sobota up\u0142ynie pod znakiem pochmurnego nieba i przelotnego deszczu. Temperatura maksymalna wyniesie 15 st. C. Powieje wschodni, s\u0142aby i umiarkowany wiatr. Barometry wska\u017c\u0105 w po\u0142udnie 994 hPa.\n\nPogoda na dzi\u015b - Krak\u00f3w\n\nW Krakowie w sobot\u0119 zapanuje pochmurna aura z przelotnymi opadami. Termometry wska\u017c\u0105 maksymalnie 17 st. C. Po\u0142udniowo-wschodni wiatr oka\u017ce si\u0119 s\u0142aby i umiarkowany. W po\u0142udnie ci\u015bnienie wyniesie 980 hPa.\n\nAutorka/Autor:ast\n\n\u0179r\u00f3d\u0142o: tvnmeteo.pl"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Wyparte z Chartumu boj\u00f3wki ograbi\u0142y muzea ze z\u0142otych zabytk\u00f3w, pozosta\u0142e zniszczy\u0142y",
-            "link": "https://www.bankier.pl/wiadomosc/Wyparte-z-Chartumu-bojowki-ograbily-muzea-ze-zlotych-zabytkow-pozostale-zniszczyly-8915517.html",
-            "description": "Paramilitarne Szybkie Si\u0142y Wsparcia (RSF) ukrad\u0142y wszystkie z\u0142ote zabytki znajduj\u0105ce si\u0119 w Muzeum Narodowym w Chartumie, ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.ojtpO9-J9vsEdNAZgA1mYS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Bankier.pl21 godz.",
-            "source": "Bankier.pl",
-            "article_content": "Paramilitarne Szybkie Si\u0142y Wsparcia (RSF) ukrad\u0142y wszystkie z\u0142ote zabytki znajduj\u0105ce si\u0119 w Muzeum Narodowym w Chartumie, niszcz\u0105c przy tym pozosta\u0142e cenne eksponaty - poinformowa\u0142a w czwartek dyrektorka suda\u0144skiej Narodowej Korporacji Staro\u017cytno\u015bci i Muze\u00f3w (NCAM), Ghalia Garelnabi.\n\nfot. MOHAMED NURELDIN ABDALLAH / / Reuters / Forum\n\nW najwi\u0119kszym suda\u0144skim muzeum przechowywane by\u0142y artefakty dokumentuj\u0105ce wszystkie okresy suda\u0144skiej cywilizacji, od epoki kamiennej, przez er\u0119 nubijsk\u0105 i chrze\u015bcija\u0144sk\u0105, po okres islamski. Garelnabi w rozmowie z \u201eSudan Tribune\u201d powiedzia\u0142a, \u017ce cz\u0142onkowie RSF tu\u017c przed przej\u0119ciem stolicy Sudanu przez wojska rz\u0105dowe zrabowali najcenniejsze skarby archeologiczne i wszystkie zrobione ze z\u0142ota eksponaty. Pozosta\u0142e \u201ecelowo rzucali na posadzk\u0119 i mia\u017cd\u017cyli je nogami, co sugeruje, \u017ce celem nie by\u0142a tylko kradzie\u017c, ale zatarcie to\u017csamo\u015bci i wymazanie historii Sudanu\u201d, zasugerowa\u0142a Garelnabi.\n\nJedynym zabytkiem, kt\u00f3ry w nienaruszonym stanie przetrwa\u0142 czas okupacji Chartumu przez RSF jest licz\u0105cy niemal trzy tysi\u0105ce lat pos\u0105g kr\u00f3la Taharki z 25. dynastii Kr\u00f3lestwa Kusz. Nie zosta\u0142 zniszczony prawdopodobnie ze wzgl\u0119du na rozmiar i wag\u0119 si\u0119gaj\u0105c\u0105 siedmiu ton.\n\nInne muzea Sudanu r\u00f3wnie\u017c zosta\u0142y spl\u0105drowane i zniszczone, w tym Muzeum Nyala w Darfurze, kt\u00f3re zosta\u0142o ograbione ze zbior\u00f3w i mebli. Muzeum Chalifa House w Omdurmanie r\u00f3wnie\u017c zosta\u0142o ograbione i uszkodzone.\n\nSuda\u0144scy archeolodzy okre\u015blili zniszczenia dokonane przez RSF jako \u201ekatastrof\u0119 historyczn\u0105 pod ka\u017cdym wzgl\u0119dem\u201d. Wed\u0142ug ich pobie\u017cnego przegl\u0105du zniszczono oko\u0142o 90 proc. zbior\u00f3w.\n\nWed\u0142ug suda\u0144skich muzealnik\u00f3w zrabowane przedmioty najprawdopodobniej ju\u017c opu\u015bci\u0142y terytorium Sudanu.\n\nIkhlas Abdel Latif, szef komitetu ds. odzyskiwania suda\u0144skich artefakt\u00f3w, powiedzia\u0142, cytowany przez \u201eSudan Tribune, \u017ce skradzione artefakty by\u0142y transportowane ci\u0119\u017car\u00f3wkami przez Omdurman w kierunku Sudanu Po\u0142udniowego. (PAP)\n\ntebe/ sp/"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Awantura o malownicz\u0105 dzia\u0142k\u0119 tu\u017c przy pla\u017cy. \"W Pucku dziej\u0105 si\u0119 dziwne rzeczy\"",
-            "link": "https://trojmiasto.wyborcza.pl/trojmiasto/7,35612,31806296,na-klifie-w-pucku-ma-powstac-kolejne-osiedle-apartamentowcow.html",
-            "description": "Tu\u017c przy zej\u015bciu na malownicz\u0105 pla\u017c\u0119 w Pucku ma stan\u0105\u0107 osiedle ze 156 lokalami. Na razie jednak s\u0105siedzi planowanej ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.sFk4q-htb8QzrDY-xrymny&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Tr\u00f3jmiasto.Wyborcza.pl21 godz.",
-            "source": "Tr\u00f3jmiasto.Wyborcza.pl",
+            "date": "Warszawa Nasze Miasto on MSN14 godz.",
+            "source": "Warszawa Nasze Miasto on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Tak wygl\u0105da\u0142o mieszkanie w PRL-u. Eksponaty w Muzeum PRL w Poznaniu. Tak wygl\u0105da wn\u0119trze i ceny. Zobacz zdj\u0119cia i wideo",
+            "link": "https://gloswielkopolski.pl/tak-wygladalo-mieszkanie-w-prl-u-eksponaty-w-muzeum-prl-w-poznaniu-tak-wyglada-wnetrze-i-ceny-zobacz-zdjecia-i-wideo/ar/c1p2-27354155",
+            "description": "Nast\u0119pnie mo\u017cna obejrze\u0107 samochody z tamtych lat, przymierzy\u0107 kaski milicyjne i zrobi\u0107 sobie w nich zdj\u0119cie. Zobaczy\u0107 kultowy ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.R4rxm1VhoUWNHM%2buLyanMQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "G\u0142os Wielkopolski20 godz.",
+            "source": "G\u0142os Wielkopolski",
+            "article_content": "Content not available"
         }
     },
     {
@@ -490,8 +490,24 @@
             "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.rXY4IFBt9hVZAYwsRbQrPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Koszali\u0144ski20 godz.",
+            "date": "G\u0142os Koszali\u0144ski23 godz.",
             "source": "G\u0142os Koszali\u0144ski",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Banknoty kolekcjonerskie",
+            "link": "https://gp24.pl/tag/banknoty-kolekcjonerskie",
+            "description": "Stare monety i banknoty s\u0105 w cenie. Kolekcjonerzy szukaj\u0105 ich w Polsce i zagranic\u0105 na r\u00f3\u017cnych aukcjach i stronach. Niezwyk\u0142a warto\u015b\u0107 kolekcjonerska cechuje... Banknot, kt\u00f3ry masz w portfelu, mo\u017ce by\u0107 ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stare+numizmatyka",
+            "date": "G\u0142os Pomorza16 godz.",
+            "source": "G\u0142os Pomorza",
             "article_content": "Content not available"
         }
     },
@@ -506,25 +522,9 @@
             "description": "W ostatnich latach przedmioty z czas\u00f3w PRL prze\u017cywaj\u0105 prawdziwy renesans. W 2025 roku kolekcjonerzy coraz ch\u0119tniej poszukuj\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.JtSFENrTkjnk2wCJO9ISbi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Pomorska on MSN6 godz.",
+            "date": "Gazeta Pomorska on MSN8 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Banknoty kolekcjonerskie",
-            "link": "https://gp24.pl/tag/banknoty-kolekcjonerskie",
-            "description": "Stare monety i banknoty s\u0105 w cenie. Kolekcjonerzy szukaj\u0105 ich w Polsce i zagranic\u0105 na r\u00f3\u017cnych aukcjach i stronach. Niezwyk\u0142a warto\u015b\u0107 kolekcjonerska cechuje... Banknot, kt\u00f3ry masz w portfelu, mo\u017ce by\u0107 ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stare+numizmatyka",
-            "date": "G\u0142os Pomorza13 godz.",
-            "source": "G\u0142os Pomorza",
-            "article_content": "Content not available"
         }
     },
     {
@@ -538,25 +538,9 @@
             "description": "Na stoiskach pchlich targ\u00f3w wystawione s\u0105 mi\u0119dzy innymi wycofane z obiegu monety i banknoty. \u201eDzisiaj mam ciekawe banknoty z ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.mLR0UhPvITPcDnh5eFP0NS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Nasze Miasto on MSN18 godz.",
+            "date": "Nasze Miasto on MSN20 godz.",
             "source": "Nasze Miasto on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "28 MARCA 2025",
-            "link": "https://krakow.pl/kalendarium/1919,shw,2025-03-28,8,day.html",
-            "description": "Czy chcesz pozna\u0107 histori\u0119 jednego z najwi\u0119kszych przedwojennych zak\u0142ad\u00f3w przemys\u0142owych Krakowa? Czy chcesz dowiedzie\u0107 si\u0119, do czego s\u0142u\u017cy rozwierak, a do czego pa\u0142asz i jak wygl\u0105da naw\u00f3z ze szk\u0142a? A ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stare+numizmatyka",
-            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w22 godz.",
-            "source": "Oficjalny serwis miejski - Magiczny Krak\u00f3w",
-            "article_content": "Krak\u00f3w \u2013 czas okupacji 1939-1945\n\nWystawa mie\u015bci si\u0119 w dawnym budynku administracyjnym Fabryki Emalia Oskara Schindlera przy ul. Lipowej 4 i jest opowie\u015bci\u0105 o Krakowie i losach jego polskich i \u017cydowskich mieszka\u0144c\u00f3w w czasie II wojny \u015bwiatowej, ale te\u017c o Niemcach \u2013 okupantach,..."
         }
     },
     {
@@ -570,7 +554,7 @@
             "description": "W Zak\u0142adzie Medycyny S\u0105dowej WUM przeprowadzono sekcj\u0119 ludzkich szcz\u0105tk\u00f3w znalezionych w ko\u0144cu lutego na terenie Twierdzy ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.I4QsPXcEwoK6uWmvYzTMgC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "wykopano+zabytkowe",
-            "date": "Warszawa.Wyborcza.pl13 godz.",
+            "date": "Warszawa.Wyborcza.pl16 godz.",
             "source": "Warszawa.Wyborcza.pl",
             "article_content": ""
         }
@@ -586,8 +570,24 @@
             "description": "Stare monety i banknoty s\u0105 w cenie. Kolekcjonerzy szukaj\u0105 ich w Polsce i zagranic\u0105 na r\u00f3\u017cnych aukcjach i stronach. Niezwyk\u0142a warto\u015b\u0107 kolekcjonerska cechuje... Banknot, kt\u00f3ry masz w portfelu, mo\u017ce by\u0107 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "wykopano+zabytkowe",
-            "date": "G\u0142os Pomorza13 godz.",
+            "date": "G\u0142os Pomorza16 godz.",
             "source": "G\u0142os Pomorza",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Podlaska rada kobiet",
+            "link": "https://poranny.pl/tag/podlaska-rada-kobiet",
+            "description": "To mieszkanka Bia\u0142egostoku, projektantka, przedsi\u0119biorczyni od 11 lat tworz\u0105ca w\u0142asn\u0105 mark\u0119 Mo.Ya. W czwartek, 27.02, w trakcie posiedzenia Podlaskiej Rady... W tym roku przypada 100. rocznica wst\u0105pie ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.z8szwJPfOZTDo97HvHYzSw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "odkrycie+zabytkowe+przedmiot",
+            "date": "Kurier Poranny2 godz.",
+            "source": "Kurier Poranny",
             "article_content": "Content not available"
         }
     }
