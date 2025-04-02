@@ -5,12 +5,28 @@
             "Content-Type": "application/json"
         },
         "body": {
+            "title": "Szk\u0142o PRL",
+            "link": "https://inowroclaw.naszemiasto.pl/tag/szklo-prl",
+            "description": "Wraca moda na starocie, antyki, zabytkowe bibeloty. Kultowe przedmioty z lat 60., 70. i 80. powracaj\u0105 do polskich dom\u00f3w. Kolekcjonerzy poluj\u0105 na stare... Pi\u0119kne kryszta\u0142y z okresu PRL-u ciesz\u0105 si\u0119 du\u017c ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.Cgj1z3dri9fDcvnl2HbMDA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "starocie",
+            "date": "Inowroc\u0142aw Nasze Miasto3 godz.",
+            "source": "Inowroc\u0142aw Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
             "title": "Poszukiwane kryszta\u0142y PRL \u2013 kolekcjonerzy p\u0142ac\u0105 za nie krocie! Sprawd\u017a ceny starych naczy\u0144 i wazon\u00f3w w 2025 roku [3.04.2025 r.]",
             "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/poszukiwane-kryszta%C5%82y-prl-kolekcjonerzy-p%C5%82ac%C4%85-za-nie-krocie-sprawd%C5%BA-ceny-starych-naczy%C5%84-i-wazon%C3%B3w-w-2025-roku-3042025-r/ar-AA1BQoox?ocid=BingNewsVerp",
             "description": "Kryszta\u0142y PRL zyskuj\u0105 na popularno\u015bci w 2025 roku \u2013 kolekcjonerzy coraz ch\u0119tniej inwestuj\u0105 w te retro skarby, a ceny rosn\u0105 w zawrotnym tempie. Wazy, figurki i naczynia, kt\u00f3re kiedy\u015b by\u0142y powszechnie ...",
             "image_url": "https://www.bing.pl/th?id=ODF.csLl8ZFonfuC8KKWalWEGg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN1 godz.",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN5 godz.",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
             "article_content": ""
         }
@@ -22,13 +38,13 @@
         },
         "body": {
             "title": "Monety i banknoty z PRL-u s\u0105 teraz w cenie. W 2025 roku niekt\u00f3re stare pieni\u0105dze warte s\u0105 krocie [2.04.2025 r.]",
-            "link": "https://pomorska.pl/monety-i-banknoty-z-prl-u-sa-teraz-w-cenie-w-2025-roku-niektore-stare-pieniadze-warte-sa-krocie-2-04-2025-r/ar/c3p2-27420153",
+            "link": "https://www.msn.com/pl-pl/finanse/og%C3%B3lne/monety-i-banknoty-z-prl-u-s%C4%85-teraz-w-cenie-w-2025-roku-niekt%C3%B3re-stare-pieni%C4%85dze-warte-s%C4%85-krocie-31-03-2025/ar-AA1BZVvo?ocid=BingNewsVerp",
             "description": "Pieni\u0105dze z czas\u00f3w PRL to w 2025 roku prawdziwe skarby dla kolekcjoner\u00f3w i mi\u0142o\u015bnik\u00f3w numizmatyki. Ceny peerelowskich monet i ...",
             "image_url": "https://www.bing.pl/th?id=OVF.AQl6SG9y2BTA7IexhScG9w&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Gazeta Pomorska7 godz.",
-            "source": "Gazeta Pomorska",
-            "article_content": "Content not available"
+            "date": "Gazeta Pomorska on MSN11 godz.",
+            "source": "Gazeta Pomorska on MSN",
+            "article_content": ""
         }
     },
     {
@@ -42,7 +58,7 @@
             "description": "Ceg\u0142a, stal, czasem drewno. Du\u017co bieli, czerni, grafitu. Tak zwykle wygl\u0105daj\u0105 domy czy mieszkania \u015bl\u0105skich architekt\u00f3w. A u ...",
             "image_url": "https://www.bing.pl/th?id=OVF.XObAbd15HTyuZepW2fYAwg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Dziennik Zachodni on MSN6 godz.",
+            "date": "Dziennik Zachodni on MSN10 godz.",
             "source": "Dziennik Zachodni on MSN",
             "article_content": ""
         }
@@ -58,7 +74,7 @@
             "description": "Znaczki pocztowe z czas\u00f3w Polskiej Rzeczypospolitej Ludowej zyska\u0142y na warto\u015bci i s\u0105 obiektem po\u017c\u0105dania wielu kolekcjoner\u00f3w.",
             "image_url": "https://www.bing.pl/th?id=OVFT.QCGgQ7TcRCodKwjSmxS6kS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Gazeta Pomorska on MSN19 godz.",
+            "date": "Gazeta Pomorska on MSN23 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -69,30 +85,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Po\u0142udniowa strefa nowa s\u00f3l",
-            "link": "https://gazetalubuska.pl/tag/poludniowa-strefa-nowa-sol",
-            "description": "Symboliczne rozpocz\u0119cie rozbudowy fabryki firmy Toms w Nowej Soli, kt\u00f3rej efektem b\u0119dzie ok. 100 nowych miejsc pracy, ju\u017c za nami. Inwestycja na po\u0142udniowej... Zapraszamy Was w podr\u00f3\u017c po centrum Nowej ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.6oXJf1KayPglPY9d412pqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "starocie",
-            "date": "Gazeta Lubuska17 godz.",
-            "source": "Gazeta Lubuska",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
             "title": "Monety i banknoty z PRL-u s\u0105 teraz w cenie. W 2025 roku niekt\u00f3re stare pieni\u0105dze warte s\u0105 krocie [2.04.2025 r.]",
-            "link": "https://pomorska.pl/monety-i-banknoty-z-prl-u-sa-teraz-w-cenie-w-2025-roku-niektore-stare-pieniadze-warte-sa-krocie-2-04-2025-r/ar/c3p2-27420153",
+            "link": "https://www.msn.com/pl-pl/finanse/og%C3%B3lne/monety-i-banknoty-z-prl-u-s%C4%85-teraz-w-cenie-w-2025-roku-niekt%C3%B3re-stare-pieni%C4%85dze-warte-s%C4%85-krocie-31-03-2025/ar-AA1BZVvo?ocid=BingNewsVerp",
             "description": "Pieni\u0105dze z czas\u00f3w PRL to w 2025 roku prawdziwe skarby dla kolekcjoner\u00f3w i mi\u0142o\u015bnik\u00f3w numizmatyki. Ceny peerelowskich monet i ...",
             "image_url": "https://www.bing.pl/th?id=OVF.AQl6SG9y2BTA7IexhScG9w&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Gazeta Pomorska7 godz.",
-            "source": "Gazeta Pomorska",
-            "article_content": "Content not available"
+            "date": "Gazeta Pomorska on MSN11 godz.",
+            "source": "Gazeta Pomorska on MSN",
+            "article_content": ""
         }
     },
     {
@@ -106,7 +106,7 @@
             "description": "W naszych domach mog\u0105 si\u0119 kry\u0107 prawdziwe skarby. Warto przejrze\u0107 pud\u0142a ze starymi rzeczami, pami\u0105tkami, pawlacze i schowki, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.HWzaOzIrx_ukoLz1Y0QaDC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Gazeta Pomorska on MSN6 godz.",
+            "date": "Gazeta Pomorska on MSN10 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -122,7 +122,7 @@
             "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
             "image_url": "https://www.bing.pl/th?id=OVF.3kkAbwIhbloB9esLy3LT2g&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Pomorza on MSN15 godz.",
+            "date": "G\u0142os Pomorza on MSN19 godz.",
             "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
         }
@@ -138,7 +138,7 @@
             "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet zwyk\u0142a pi\u0119cioz\u0142ot\u00f3wka mo\u017ce mie\u0107 wielokrotnie wi\u0119ksz\u0105 warto\u015b\u0107 ni\u017c nomina\u0142.",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski7 godz.",
+            "date": "G\u0142os Koszali\u0144ski11 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
         }
@@ -154,7 +154,7 @@
             "description": "Czy monety z PRL mog\u0105 by\u0107 warte ogromne pieni\u0105dze? Oczywi\u015bcie! Przedmioty z okresu PRL ciesz\u0105 si\u0119 w naszym kraju rosn\u0105c\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.mmrf7V4zqE4FRhJP4k7GUy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski on MSN7 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN11 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
@@ -166,11 +166,11 @@
         },
         "body": {
             "title": "Porcelana PRL \u2013 naczynia z lat 60., 70., 80. warte fortun\u0119! Ile trzeba zap\u0142aci\u0107 w 2025 roku?",
-            "link": "https://www.msn.com/pl-pl/historia-i-kultura-spo%C5%82ecze%C5%84stwa/og%C3%B3lne/porcelana-prl-naczynia-z-lat-60-70-80-warte-fortun%C4%99-ile-trzeba-zap%C5%82aci%C4%87-w-2025-roku/ar-AA1C7Ti3?ocid=BingNewsVerp",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/porcelana-prl-naczynia-z-lat-60-70-80-warte-fortun%C4%99-ile-trzeba-zap%C5%82aci%C4%87-w-2025-roku/ar-AA1C7Ti3?ocid=BingNewsVerp",
             "description": "Stara porcelana z czas\u00f3w PRL, w 2024 roku cieszy si\u0119 rosn\u0105cym zainteresowaniem. Niekt\u00f3re egzemplarze mog\u0105 by\u0107 dzi\u015b bardzo ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.L8bCDPW8GmCK7OTrAS5dyi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN6 godz.",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN10 godz.",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
             "article_content": ""
         }
@@ -186,7 +186,7 @@
             "description": "Unikatowy charakter mia\u0142y r\u00f3wnie\u017c przedmioty z tego okresu. Z pewno\u015bci\u0105 wiele os\u00f3b posiada w swoich domach rzeczy z czas\u00f3w ...",
             "image_url": "https://www.bing.pl/th?id=OVF.Xbj3QRLCOEvSmvSB7zG2uw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "G\u0142os Koszali\u0144ski on MSN7 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN11 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
@@ -202,7 +202,7 @@
             "description": "Unikalna porcelana z PRL poszukiwana przez kolekcjoner\u00f3w mo\u017ce zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na niej zarobi\u0107 fortun\u0119! Cz\u0119sto nie mamy \u015bwiadomo\u015bci, \u017ce przedmioty posiadane w domu warte s\u0105 du\u017co ...",
             "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "G\u0142os Pomorza on MSN7 godz.",
+            "date": "G\u0142os Pomorza on MSN10 godz.",
             "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
         }
@@ -218,7 +218,7 @@
             "description": "Kryszta\u0142y PRL w 2025 roku \u2013 prawdziwe pere\u0142ki w kolekcjach! Ceny tych retro skarb\u00f3w rosn\u0105 w zawrotnym tempie. Sprawd\u017a, jakie ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.7gXSm1RnugA9wpBY5g_gAy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN6 godz.",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN9 godz.",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
             "article_content": ""
         }
@@ -229,14 +229,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Najlepsze MEMY o PRL. Saturator, kartki na \u017cywno\u015b\u0107 i absurdalne sytuacje. Wspomnienia o PRL i humor w formie satyry 2.04.2025",
-            "link": "https://gk24.pl/najlepsze-memy-o-prl-saturator-kartki-na-zywnosc-i-absurdalne-sytuacje-wspomnienia-o-prl-i-humor-w-formie-satyry-2042025/ar/c11-18832887",
-            "description": "Obok pustych sklepowych p\u00f3\u0142ek, PRL to r\u00f3wnie\u017c kartki na \u017cywno\u015b\u0107, ogromne kolejki do sklep\u00f3w, wszechobecna biurokracja. PRL to tak\u017ce woda z saturatora, a z jednej szklanki potrafi\u0142o wypi\u0107 jednego dnia ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Najbardziej poszukiwane i najcenniejsze pami\u0105tki z PRL-u. W 2025 roku kosztuj\u0105 krocie [2.04.2025]",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/najbardziej-poszukiwane-i-najcenniejsze-pami%C4%85tki-z-prl-u-w-2025-roku-kosztuj%C4%85-krocie-2042025/ar-AA1ArrTe?ocid=BingNewsVerp",
+            "description": "Przedmioty z czas\u00f3w PRL w 2025 roku ciesz\u0105 si\u0119 ogromnym zainteresowaniem kolekcjoner\u00f3w, a ich ceny stale rosn\u0105. Zar\u00f3wno meble ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.NlwVC%2bzjRoha0I%2bh1TgJzA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "G\u0142os Koszali\u0144ski7 godz.",
-            "source": "G\u0142os Koszali\u0144ski",
-            "article_content": "Content not available"
+            "date": "Gazeta Pomorska on MSN19 godz.",
+            "source": "Gazeta Pomorska on MSN",
+            "article_content": ""
         }
     },
     {
@@ -250,7 +250,7 @@
             "description": "Tu\u017c obok dworca Pozna\u0144 G\u0142\u00f3wny i galerii handlowej Avenida, ponownie rozbrzmiewa gwar \"Niedzielnego Targu\". 30 marca odby\u0142a ...",
             "image_url": "https://www.bing.pl/th?id=OVF.WySsWdapxBHQ%2b5NIuCvcHA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "G\u0142os Wielkopolski on MSN2 godz.",
+            "date": "G\u0142os Wielkopolski on MSN6 godz.",
             "source": "G\u0142os Wielkopolski on MSN",
             "article_content": ""
         }
@@ -266,25 +266,9 @@
             "description": "Unikalne antyki poszukiwane przez kolekcjoner\u00f3w mog\u0105 zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na nich zarobi\u0107 fortun\u0119. Cz\u0119sto nie mamy \u015bwiadomo\u015bci, \u017ce przedmioty posiadane w domu warte s\u0105 du\u017co pieni\u0119dzy.",
             "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "G\u0142os Pomorza on MSN7 godz.",
+            "date": "G\u0142os Pomorza on MSN10 godz.",
             "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Targ gliwice",
-            "link": "https://dziennikzachodni.pl/tag/targ-gliwice",
-            "description": "Jeszcze niedawno, ka\u017cdy, kto odwiedza\u0142 targowisko przy ul. Lipowej, m\u00f3g\u0142 poczu\u0107 jego wyj\u0105tkowy klimat. To nie by\u0142 zwyk\u0142y plac handlowy \u2013 to miejsce, gdzie... Za nami gara\u017cowa wyprzeda\u017c pod chmurk\u0105 na ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.73GKiv_kwPXUhIas-a0ZXQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "targ+staroci",
-            "date": "Dziennik Zachodni20 godz.",
-            "source": "Dziennik Zachodni",
-            "article_content": "Content not available"
         }
     },
     {
@@ -298,7 +282,7 @@
             "description": "Ka\u017cda ostatnia niedziela miesi\u0105ca to wyj\u0105tkowy dzie\u0144 dla mi\u0142o\u015bnik\u00f3w antyk\u00f3w i przedmiot\u00f3w w stylu retro. Na Lubelskiej ...",
             "image_url": "https://www.bing.pl/th?id=OVF.%2fZ%2fmqxu5j4oYuFjY8WbRTA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Kurier Lubelski18 godz.",
+            "date": "Kurier Lubelski22 godz.",
             "source": "Kurier Lubelski",
             "article_content": "Content not available"
         }
@@ -314,7 +298,7 @@
             "description": "Tu\u017c obok dworca Pozna\u0144 G\u0142\u00f3wny i galerii handlowej Avenida, ponownie rozbrzmiewa gwar \"Niedzielnego Targu\". 30 marca odby\u0142a si\u0119 kolejna gie\u0142da staroci... Dworzec Pozna\u0144 G\u0142\u00f3wny to jeden z wa\u017cniejszych w ...",
             "image_url": "https://www.bing.pl/th?id=ODF.Cya7j59Rws2Si6qfmk5ljw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Pozna\u0144 Nasze Miasto10 godz.",
+            "date": "Pozna\u0144 Nasze Miasto14 godz.",
             "source": "Pozna\u0144 Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -325,29 +309,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Dru\u017cyna pier\u015bcienia, czyli co znale\u017ali archeolodzy na toru\u0144skim bulwarze?",
-            "link": "https://www.msn.com/pl-pl/historia-i-kultura-spo%C5%82ecze%C5%84stwa/historia/dru%C5%BCyna-pier%C5%9Bcienia-czyli-co-znale%C5%BAli-archeolodzy-na-toru%C5%84skim-bulwarze/ar-AA1BVmmk?ocid=BingNewsVerp",
-            "description": "Archeolodzy wr\u00f3cili na Bulwar Filadelfijski i wznowili badania kompleksu klasztorno-szpitalnego Ducha \u015awi\u0119tego. Trafili na ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.PvxfTsrCvgasksgnSy5t4C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Wycieczki rowerowe do 68 km od Sieradza. Podpowiedzi jednodniowych wypraw. Gdzie w weekend 5 - 6 kwietnia?",
+            "link": "https://sieradz.naszemiasto.pl/wycieczki-rowerowe-do-68-km-od-sieradza-podpowiedzi-jednodniowych-wypraw-gdzie-w-weekend-5-6-kwietnia/ar/c7p1-21831603",
+            "description": "Szukasz pomys\u0142u na wycieczk\u0119 rowerow\u0105 z Sieradza? Podpowiadamy, gdzie warto si\u0119 wybra\u0107. Mamy 5 ciekawych propozycji tras.",
+            "image_url": "https://www.bing.pl/th?id=OVFT.kO8aD5QOfWoIKlf6Xt9fty&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN21 godz.",
-            "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Trasy na rower do 14 km od Warszawy. Podpowiedzi jednodniowych wypraw. Gdzie w weekend 5 - 6 kwietnia?",
-            "link": "https://warszawa.naszemiasto.pl/trasy-na-rower-do-14-km-od-warszawy-podpowiedzi-jednodniowych-wypraw-gdzie-w-weekend-5-6-kwietnia/ar/c7p1-21831391",
-            "description": "Zanim wyruszysz na wypraw\u0119, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 05 kwietnia w Warszawie ma by\u0107 9\u00b0C. Prawdopodobie\u0144stwo ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.rnuyQ63ZvinzsBDCJfEzKC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "Warszawa Nasze Miasto23 godz.",
-            "source": "Warszawa Nasze Miasto",
+            "date": "Sieradz Nasze Miasto3 godz.",
+            "source": "Sieradz Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -357,28 +325,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Trasy nordic walking do 69 km od Koszalina. Pomys\u0142y na odrobin\u0119 ruchu - weekend 5 - 6 kwietnia",
-            "link": "https://koszalin.naszemiasto.pl/trasy-nordic-walking-do-69-km-od-koszalina-pomysly-na-odrobine-ruchu-weekend-5-6-kwietnia/ar/c7p1-22318903",
-            "description": "Szlak \"Doliny Brdy\" PM - 1521 y /d\u0142ugo\u015b\u0107 51 km/ Miastko - Starzno - Stara Brda - Rezerwat \"Przyto\u0144\" - Nowa Brda - Rudniki - ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.A95-q9FXCBnbLEMWVOtpwS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Gdzie na spacer do 6 km od Ko\u0142obrzegu. Urocze miejsca na kr\u00f3tk\u0105 wypraw\u0119 w weekend 5 - 6 kwietnia",
+            "link": "https://kolobrzeg.naszemiasto.pl/gdzie-na-spacer-do-6-km-od-kolobrzegu-urocze-miejsca-na-krotka-wyprawe-w-weekend-5-6-kwietnia/ar/c7p1-22115647",
+            "description": "Zanim wyruszysz w drog\u0119, sprawd\u017a, jaka b\u0119dzie pogoda. W sobot\u0119 05 kwietnia w Ko\u0142obrzegu ma by\u0107 4\u00b0C. Prawdopodobie\u0144stwo wyst\u0105pienia deszczu wynosi 30%. W niedziel\u0119 06 kwietnia w Ko\u0142obrzegu ma by\u0107 2\u00b0C.",
+            "image_url": "https://www.bing.pl/th?id=ODF.xGyVXoJ9b0zlcu2rTPA_6w&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Koszalin Nasze Miasto22 godz.",
-            "source": "Koszalin Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Gdzie na spacer do 6 km od Ko\u0142obrzegu. Urokliwe \u015bcie\u017cki na weekend 5 - 6 kwietnia",
-            "link": "https://kolobrzeg.naszemiasto.pl/gdzie-na-spacer-do-6-km-od-kolobrzegu-urokliwe-sciezki-na-weekend-5-6-kwietnia/ar/c7p1-22115647",
-            "description": "Rozgl\u0105dasz si\u0119 za ciekawym pomys\u0142em na urocz\u0105 tras\u0119 spacerow\u0105 z Ko\u0142obrzegu? Nasze podpowiedzi, gdzie mo\u017cna si\u0119 wybra\u0107.",
-            "image_url": "https://www.bing.pl/th?id=OVFT.7eKvGZrle-kmIBGE_01Zai&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "Ko\u0142obrzeg Nasze Miasto22 godz.",
+            "date": "Ko\u0142obrzeg Nasze Miasto2 godz.",
             "source": "Ko\u0142obrzeg Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -389,14 +341,94 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Wycieczki rowerowe do 8 km od Jaworzna. Pomys\u0142y na jednodniowy wypad. Gdzie w weekend 5 - 6 kwietnia?",
-            "link": "https://jaworzno.naszemiasto.pl/wycieczki-rowerowe-do-8-km-od-jaworzna-pomysly-na-jednodniowy-wypad-gdzie-w-weekend-5-6-kwietnia/ar/c7p1-21831473",
-            "description": "Januszkowa G\u00f3ra (449 m) \u2013 wzg\u00f3rze we wsi Podlesie, w wojew\u00f3dztwie ma\u0142opolskim, w powiecie olkuskim, w gminie Olkusz. Znajduje ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.xMgaqdGGLAkU2xrB1mUk7y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "\u015acie\u017cki nordic walking do 6 km od Ko\u0142obrzegu. Pomys\u0142y na sportowy dzie\u0144 w weekend 5 - 6 kwietnia",
+            "link": "https://kolobrzeg.naszemiasto.pl/sciezki-nordic-walking-do-6-km-od-kolobrzegu-pomysly-na-sportowy-dzien-w-weekend-5-6-kwietnia/ar/c7p1-22319027",
+            "description": "Szukasz nowych \u015bcie\u017cek nordic walking w okolicy Ko\u0142obrzegu? Wsp\u00f3lnie z Traseo mamy dla Ciebie kilka pomys\u0142\u00f3w na ten tydzie\u0144. Je\u015bli to Tw\u00f3j pocz\u0105tek z nordic walking, zacznij w weekend. W wolny dzie\u0144 b ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.xGyVXoJ9b0zlcu2rTPA_6w&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Jaworzno Nasze Miasto23 godz.",
-            "source": "Jaworzno Nasze Miasto",
+            "date": "Ko\u0142obrzeg Nasze Miasto2 godz.",
+            "source": "Ko\u0142obrzeg Nasze Miasto",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Trasy spacerowe w woj. zachodniopomorskim. Gdzie i\u015b\u0107 w weekend 5 - 6 kwietnia? 10 najciekawszych tras",
+            "link": "https://gs24.pl/trasy-spacerowe-w-woj-zachodniopomorskim-gdzie-isc-w-weekend-5-6-kwietnia-10-najciekawszych-tras/ar/c7p1-22116477",
+            "description": "W woj. zachodniopomorskim jest mn\u00f3stwo ciekawych miejsc do spacerowania. Przygotowali\u015bmy dla Was 10 podpowiedzi. Mo\u017cecie nam\u00f3wi\u0107 przyjaci\u00f3\u0142 lub rodzin\u0119 i razem poznawa\u0107 nasz region. Razem z Taseo ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "relikty",
+            "date": "G\u0142os Szczeci\u0144ski2 godz.",
+            "source": "G\u0142os Szczeci\u0144ski",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "\u015acie\u017cki rowerowe do 19 km od O\u015bwi\u0119cimia. Pomys\u0142y na jednodniowy wypad. Gdzie w weekend 5 - 6 kwietnia?",
+            "link": "https://oswiecim.naszemiasto.pl/sciezki-rowerowe-do-19-km-od-oswiecimia-pomysly-na-jednodniowy-wypad-gdzie-w-weekend-5-6-kwietnia/ar/c7p1-21831633",
+            "description": "Zanim wyruszysz na wypraw\u0119, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 05 kwietnia w O\u015bwi\u0119cimiu ma by\u0107 10\u00b0C. Prawdopodobie\u0144stwo wyst\u0105pienia deszczu wynosi 39%. W niedziel\u0119 06 kwietnia w O\u015bwi\u0119cimiu ma ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.hU9b0B80CrRL-uqx7ot5XQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "relikty",
+            "date": "O\u015bwi\u0119cim Nasze Miasto3 godz.",
+            "source": "O\u015bwi\u0119cim Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Szk\u0142o PRL",
+            "link": "https://inowroclaw.naszemiasto.pl/tag/szklo-prl",
+            "description": "Wraca moda na starocie, antyki, zabytkowe bibeloty. Kultowe przedmioty z lat 60., 70. i 80. powracaj\u0105 do polskich dom\u00f3w. Kolekcjonerzy poluj\u0105 na stare... Pi\u0119kne kryszta\u0142y z okresu PRL-u ciesz\u0105 si\u0119 du\u017c ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.Cgj1z3dri9fDcvnl2HbMDA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "zabytkowe+przedmioty",
+            "date": "Inowroc\u0142aw Nasze Miasto3 godz.",
+            "source": "Inowroc\u0142aw Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "R\u0119kodzie\u0142o z pokolenia na pokolenie. Wyj\u0105tkowe dzie\u0142a Katarzyny Baran i Beaty Puziewicz",
+            "link": "https://www.se.pl/rzeszow/mama-i-corka-kochajace-rekodzielo-aa-d2CH-dopZ-iwKd.html",
+            "description": "Katarzyna Baran wraz ze swoj\u0105 c\u00f3rk\u0105 Beat\u0105 Puziewicz od lat zajmuj\u0105 si\u0119 r\u0119kodzie\u0142em. Panie to ju\u017c trzecie pokolenie, kt\u00f3re ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.TKeY4JpH4MiCR1ZNaVm5jS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Super Express1 godz.",
+            "source": "Super Express",
+            "article_content": "Pani Katarzyna Baran (58 l.) razem z m\u0119\u017cem mieszka we wsi Wysoka pod \u0141a\u0144cutem. Doczeka\u0142a si\u0119 tr\u00f3jki dzieci oraz od lat jest te\u017c szcz\u0119\u015bliw\u0105 babci\u0105. Kobieta podkre\u015bla, \u017ce w przysz\u0142ym roku b\u0119dzie \u015bwi\u0119towa\u0107 czterdziestolecie \u015blubu i mniej wi\u0119cej tyle lat trwa jej mi\u0142o\u015b\u0107 do r\u0119kodzie\u0142a.\n\n\u2013 Moja mama chocia\u017c zmar\u0142a m\u0142odo to pokaza\u0142a mi pierwsze rob\u00f3tki r\u0119czne. Ona sama wyszywa\u0142a i robi\u0142a na drutach. Ja te\u017c od wyszywania zacz\u0119\u0142am. Najpierw nauka, potem praca, dzieci i nie by\u0142o tyle czasu. Teraz jestem na rencie i mam wi\u0119cej mo\u017cliwo\u015bci, dlatego niemal ka\u017cdego dnia mog\u0119 usi\u0105\u015b\u0107 i co\u015b robi\u0107 - m\u00f3wi\u0142a pani Katarzyna.\n\nKobieta jest bardzo precyzyjna, dok\u0142adna i spokojna. Zaznacza, \u017ce to spok\u00f3j pozwala jej pochyla\u0107 si\u0119 nad r\u0119kodzie\u0142em i czasem poch\u0142on\u0105\u0107 j\u0105 na kilka godzin. Pani Katarzyna w swoim domu ma kilkana\u015bcie obraz\u00f3w wyszytych na p\u0142\u00f3tnie i oprawionych w ramki, kt\u00f3re zdobi\u0105 \u015bciany. Jeden z najbardziej czasoch\u0142onnych wyszytych malunk\u00f3w tj. \u201eOstatnia wieczerza\u201d, kosztowa\u0142 j\u0105 kilkana\u015bcie miesi\u0119cy pracy po kilka godzin dziennie.\n\nZdarzaj\u0105 si\u0119 dni, \u017ce 58-latka nie bierze do r\u0119ki swojej pasji, ale tych w roku jest w sumie niewiele. Szycie, dzierganie, skrobanie pisanek czy robienie palemek w okresie przed Wielkanoc\u0105 sprawiaj\u0105 jej ogrom rado\u015bci. Kobieta podpatruje w internecie r\u00f3\u017cne inspiracje i tworzy. Dla swoich wnuk\u00f3w zacz\u0119\u0142a robi\u0107 misie, kocyki, grzechotki i przytulanki.\n\nKiedy \u201etowar\u201d znalaz\u0142 uznanie w rodzinie pani Katarzyna zacz\u0119\u0142a robi\u0107 te\u017c podobne rzeczy dla innych. Teraz jej pracami chwali si\u0119 Ko\u0142o Gospody\u0144 Wiejskich w Wysokiej, kt\u00f3re s\u0105 prezentowane i doceniane na r\u00f3\u017cnych konkursach kiermaszach i wystawach. W domu wysoczanki jest przynajmniej kilkaset r\u00f3\u017cnych rzeczy. Obecnie pani Katarzyna tworzy ozdoby na Wielkanoc.\n\nSkrobie pisanki z wydmuszek, ale dla niej wa\u017cne jest, aby wszytko od pocz\u0105tku do ko\u0144ca by\u0142o prac\u0105 jej r\u0105k.\n\n\u2013 Kiedy\u015b wydmuszki farbowa\u0142am cebul\u0105, teraz mam te\u017c farbki do tkanin i te jajka s\u0105 kolorowsze. Kiedy wyschn\u0105 bior\u0119 taki no\u017cyk wielo\u015bci paznokcia do r\u0119ki i skrobi\u0119. Zazwyczaj to co powstaje na pisance jest najpierw w mojej g\u0142owie. Pomys\u0142y przychodz\u0105 w trakcie drapania - m\u00f3wi\u0142a pani Katarzyna.\n\nKobieta ma w domu ju\u017c kilka palemek na Niedziel\u0119 Palmow\u0105 z suszonych kwiat\u00f3w oraz ogrom wi\u0119kszych i mniejszych serwetek do koszyk\u00f3w wielkanocnych. \u015awi\u0105teczne koszyki w jej rodzinie zazwyczaj maj\u0105 wykonane przez r\u0119kodzielniczk\u0119 ozdoby, takie jak kurczaki, zaj\u0105ce czy r\u00f3\u017cne baranki. Wielko\u015b\u0107, kolor czy dodatki do takich wytwor\u00f3w zawsze mog\u0105 by\u0107 indywidualne. Gospodyni z Wysokiej wykonuje te\u017c bombki choinkowe, obrusy ,czy ma\u0142e kolorowe spinki do w\u0142os\u00f3w. Sama zaznacza, \u017ce inspiracji jest mn\u00f3stwo, tylko \u017ceby zrobi\u0107 wszystko co jej si\u0119 spodoba to ma zdecydowanie za ma\u0142o czasu.\n\n- Serwetki czy obrusy trzeba krochmali\u0107. Tego si\u0119 tez nie prasuje, a spina szpilkami i zostawia na p\u0142asko rozci\u0105gni\u0119te, aby pozosta\u0142y w tym swoim kszta\u0142cie. Tak \u201ena sztywno\u201d. Podobnie jest z bombkami choinkowymi. Do \u015brodka trzeba w\u0142o\u017cy\u0107 balonik, nadmucha\u0107 go do rozmiar\u00f3w w jakim chcemy mie\u0107 bombk\u0119, potem si\u0119 j\u0105 wykonuje i przebija balon. Kiedy robimy sopelek te\u017c musi wisie\u0107, nawet oko\u0142o doby, aby nabra\u0142 kszta\u0142tu i sztywno\u015bci - t\u0142umaczy\u0142a kobieta.\n\nJednak czym\u015b co bezsprzecznie przykuwa uwag\u0119 w zbiorach pani Katarzyny s\u0105 kolorowe maskotki. Z mi\u0119kkiej w\u0142\u00f3czki, pastelowe, przyjazne dzieciom. Mniejsze, wi\u0119ksze - wszytki cudowne. S\u0105 lale z w\u0142osami, w kapeluszach i beretach, s\u0105 te\u017c misie w kubraczkach. Postacie zwierz\u0105t, czy te znane z bajek. W kolekcji misi\u00f3w s\u0105 te\u017c rzeczy stricte na konkretne \u015bwi\u0119ta, jak wielkie renifery, czy baranki. Od tych cudownych zabawek ci\u0119\u017cko oderwa\u0107 wzrok. Uwielbiaj\u0105 je przede wszystkim wnuki r\u0119kodzielniczki. Sze\u015bcioletnia Zosia zaznacza, \u017ce te\u017c chcia\u0142aby si\u0119 nauczy\u0107 wykonywa\u0107 podobne rzeczy, by kto\u015b kultywowa\u0142 tradycj\u0119.\n\nChocia\u017c Zosia na razie tylko zachwyca si\u0119 zabawkami i dekoracjami wykonanymi przez babci\u0119 i jeszcze sama ich nie wykonuje, to pani Katarzyna mi\u0142o\u015b\u0107 do r\u0119kodzie\u0142a zaszczepi\u0142a ju\u017c w swojej c\u00f3rce, Beacie Puziewicz (30 l).\n\nPani Beata wraz z m\u0119\u017cem mieszka w swoim domu rodzinnym i ju\u017c mniej wi\u0119cej po\u0142ow\u0119 swojego \u017cycia stara si\u0119 robi\u0107 co\u015b sama.\n\n\u2013 Chyba pierwsze takie wyszywanki to robi\u0142am w szkole jako nastolatka. Wiadomo, \u017ce cz\u0142owiek podpatrywa\u0142 mam\u0119. Chcia\u0142 te\u017c co\u015b sam robi\u0107, bo to zawsze by\u0142o takie niepowtarzalne, jak to r\u0119kodzie\u0142o. Dzisiaj kiedy ju\u017c zrobi\u0142am tego wi\u0119cej, wiem \u017ce najwi\u0119cej przyjemno\u015bci sprawia mi robienie na szyde\u0142ku. Ostatnio z najwi\u0119kszym zaanga\u017cowaniem wykonywa\u0142am wielkie chusty do okrywania si\u0119 i malutkie kocyki dla mojej wyczekiwanej c\u00f3reczki - m\u00f3wi\u0142a pani Beata.\n\nM\u0142oda kobieta wyczekuj\u0105ca pierwszej pociechy, przez sw\u00f3j stan ma wi\u0119cej czasu i ch\u0119tnie mierzy si\u0119 z rzeczami, kt\u00f3rych jej mama nigdy nie robi\u0142a, nie czuj\u0105c wielkiej mi\u0142o\u015bci do tego r\u0119kodzie\u0142a. M\u0142odsza z wysoczanek wykonuje makramowe wianki, koszyki wielkanocne, torebki i w\u0142a\u015bnie wielkie kolorowe chusty i mi\u0119ciutkie kocyki. Obie panie razem wyszywaj\u0105 przepi\u0119kne obrazy. Jednak i te obrazy r\u00f3\u017cni\u0105 si\u0119 od siebie. Te, kt\u00f3re wysz\u0142y spod szyde\u0142ka Pani Beaty maj\u0105 zdecydowanie wi\u0119cej kolor\u00f3w. Przez to, \u017ce obie tworz\u0105, to nie ma w ich mieszkaniu nudy ani powtarzalno\u015bci.\n\nObie s\u0105 bardzo stonowane i spokojne, a przede wszystkim skromne. R\u0119kodzielniczki ciesz\u0105 si\u0119 kiedy kto\u015b doceni ich prace.\n\n- Kiedy\u015b r\u0119kodzie\u0142o nie by\u0142o takie popularne. Teraz ludzie zn\u00f3w doceniaj\u0105 takie rzeczy. Chc\u0105 mie\u0107 w domu co\u015b wyj\u0105tkowego. Nie co\u015b gorszej jako\u015bci, robionego w chi\u0144skich fabrykach na masow\u0105 skal\u0119, a rzecz w kt\u00f3r\u0105 kto\u015b w\u0142o\u017cy\u0142 mn\u00f3stwo pracy, zaanga\u017cowania i przede wszystkim mi\u0142o\u015bci - t\u0142umaczy\u0142a pani Beata. \u2013 Jest tak jak mama m\u00f3wi\u0142a. To pozwala si\u0119 uspokoi\u0107, wyciszy\u0107, skupi\u0107 na czym\u015b my\u015bli, oderwa\u0107 si\u0119 od obowi\u0105zk\u00f3w dnia codziennego. W konsekwencji, kiedy wszystko wyjdzie, dostajemy co\u015b co zrobi\u0142y\u015bmy same i jest pi\u0119kne, a ponad wszystko wyj\u0105tkowe - u\u015bmiecha\u0142a si\u0119 m\u0142odsza z Pa\u0144.\n\nNa czasie makramowe wianki z motywami wielkanocnymi\n\nPani Beata r\u00f3wnie\u017c wykonuje rzeczy sezonowe. Teraz jej pok\u00f3j wype\u0142niaj\u0105 makramowe wianki z motywami wielkanocnymi. Kobieta nie robi wszystkiego dla siebie. Cz\u0119sto obdarowuje czym\u015b znajomych, kt\u00f3rzy tak jak i ona doceni\u0105 pi\u0119kno r\u0119kodzie\u0142a. 30-latka niedawno zrobi\u0142a sw\u00f3j pierwszy koszyczek wielkanocny i w Wysokiej jako pionierka ch\u0119tnie pokazuje si\u0119 w swoich chustach, by doda\u0107 charakteru swoim stylizacjom. W my\u015bl zasady, \u017ce pi\u0119kne rzeczy obroni\u0105 si\u0119 same, r\u0119kodzielniczka w trzecim pokoleniu odwa\u017cnie prezentuje swoje wyroby.\n\nC\u00f3rka Pani Katarzyny nie pa\u0142a tak\u0105 mi\u0142o\u015bci\u0105 do kolorowych misi\u00f3w, kt\u00f3re uwielbia jej mama. Pani Beata zapl\u0105ta\u0142a si\u0119 w makramowe sznurki i w jej pokoju w strategicznym miejscu stoi wielki w\u00f3zek z tymi przyborami, aby w ka\u017cdej chwili m\u00f3c tworzy\u0107. - To daje mn\u00f3stwo rado\u015bci i sprawia, \u017ce \u015bwiat jest pi\u0119kniejszy jak mo\u017cemy same co\u015b dla siebie zrobi\u0107, a nie kupowa\u0107 to w sklepie - m\u00f3wi\u0142a.\n\nPani Katarzyna i pani Beata tworz\u0105 przepi\u0119kne unikatowe rzeczy, w kt\u00f3rych mo\u017cna si\u0119 zakocha\u0107. R\u0119kodzie\u0142o zawsze jest rzecz\u0105 personalizowan\u0105, z indywidualnym podej\u015bciem i ma kieszonk\u0119 wype\u0142nion\u0105 mi\u0142o\u015bci\u0105 do tworzenia. Pasja Pa\u0144 zdobi ich dom i cieszy ka\u017cdego, kto otrzyma\u0142 od nich te urokliwe niepowtarzalne rzeczy.\n\nZobaczy\u0107 z bliska i dotkn\u0105\u0107 prace Pani Katarzyny b\u0119dzie mo\u017cna ju\u017c 12 i 13 kwietnia 2025 roku w \u0141a\u0144cucie podczas Miasteczka Wielkanocnego. Wiosenny Jarmark Kultury i tradycji odb\u0119dzie si\u0119 w Miejskim Domu Kultury w \u0141a\u0144cucie."
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "To jedyna winda w woj. \u015bl\u0105skim, do kt\u00f3rej wsiada si\u0119 w biegu. Nazywa si\u0119 \"Ojcze nasz\", bo niekt\u00f3rzy si\u0119 modl\u0105 przed wej\u015bciem... ze strachu",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/to-jedyna-winda-w-woj-%C5%9Bl%C4%85skim-do-kt%C3%B3rej-wsiada-si%C4%99-w-biegu-nazywa-si%C4%99-ojcze-nasz-bo-niekt%C3%B3rzy-si%C4%99-modl%C4%85-przed-wej%C5%9Bciem-ze-strachu/ar-AA1C9HgJ?ocid=BingNewsVerp",
+            "description": "Paternoster jest d\u017awigiem okr\u0119\u017cnym, kt\u00f3ry sk\u0142ada si\u0119 z 14 na\u0142o\u017conych na siebie kabin, po\u0142\u0105czonych w \u0142a\u0144cuch, poruszaj\u0105cych ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.Ojxgdj7dk6nB8xDnHTQG-y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Katowice Nasze Miasto on MSN2 godz.",
+            "source": "Katowice Nasze Miasto on MSN",
+            "article_content": ""
         }
     },
     {
@@ -410,25 +442,9 @@
             "description": "Muzeum Brytyjskie, najwa\u017cniejsza instytucja muzealna w Wielkiej Brytanii, zyska niebawem kolekcj\u0119 historycznych przedmiot\u00f3w o ...",
             "image_url": "https://www.bing.pl/th?id=OVF.hoMPE3yfGVI%2bRazev86gFg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Magazyn Sukces39 min",
+            "date": "Magazyn Sukces4 godz.",
             "source": "Magazyn Sukces",
             "article_content": "Muzeum Brytyjskie w Londynie otrzyma\u0142o najcenniejsz\u0105 donacj\u0119 w historii brytyjskiego muzealnictwa. Zajmuj\u0105ca si\u0119 badaniem i promowaniem dziedzictwa kulturowego Chin fundacja Sir Percival David Foundation przekaza\u0142a najwa\u017cniejszemu brytyjskiemu muzeum ogromn\u0105 kolekcj\u0119 unikatowej historycznej chi\u0144skiej ceramiki o \u0142\u0105cznej warto\u015bci ponad miliarda euro.\n\nReklama\n\nMuzeum Brytyjskie otrzyma ceramik\u0119 wart\u0105 ponad miliard euro\n\nMuzeum Brytyjskie w Londynie posiada w swoich zasobach oko\u0142o 23 tysi\u0105ce zabytkowych chi\u0144skich artefakt\u00f3w. To jedna z najwi\u0119kszych na \u015bwiecie kolekcji antyk\u00f3w pochodz\u0105cych z Chin. Ju\u017c niebawem zbiory te powi\u0119ksz\u0105 si\u0119 o kolejne bezcenne przedmioty. Niekt\u00f3re z nich licz\u0105 sobie tysi\u0105c lat.\n\nDonacja b\u0119dzie pochodzi\u0107 z brytyjskiej fundacji Sir Percival David Foundation, kt\u00f3ra przeka\u017ce Muzeum Brytyjskiemu oko\u0142o 1700 unikatowych historycznych obiekt\u00f3w z ceramiki.\n\nKolekcja pochodzi ze zbior\u00f3w Percivala Davida, brytyjskiego biznesmena i ogromnego mi\u0142o\u015bnika tradycyjnej kultury Chin, kt\u00f3ry gromadzi\u0142 chi\u0144skie antyki od 1913 roku a\u017c do ko\u0144ca swojego \u017cycia (zmar\u0142 w 1964 roku). Jego kolekcja uchodzi za najcenniejszy zbi\u00f3r chi\u0144skich artefakt\u00f3w poza Chinami i Tajwanem."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Tak wygl\u0105da jedyna winda, do kt\u00f3rej wsiada si\u0119...w biegu. Nazywa si\u0119 \"Ojcze nasz\", bo niekt\u00f3rzy si\u0119 modl\u0105 si\u0119 przed wej\u015bciem... ze strachu",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/tak-wygl%C4%85da-jedyna-winda-do-kt%C3%B3rej-wsiada-si%C4%99w-biegu-nazywa-si%C4%99-ojcze-nasz-bo-niekt%C3%B3rzy-si%C4%99-modl%C4%85-si%C4%99-przed-wej%C5%9Bciem-ze-strachu/ar-AA1C8Pwj?ocid=BingNewsVerp",
-            "description": "Maho\u0144 zamiast p\u0142yt wi\u00f3rowych, z\u0142ocone por\u0119cze, eleganckie lampy \u2013 tak wygl\u0105da po zako\u0144czonej w\u0142a\u015bnie kosztem 1 mln z\u0142 renowacji winda typu \u201epaternoster' (czyli \u201eOjcze nasz') w \u015al\u0105skim Urz\u0119dzie ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.73GKiv_kwPXUhIas-a0ZXQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "zabytkowe+przedmioty",
-            "date": "Dziennik Zachodni on MSN1 godz.",
-            "source": "Dziennik Zachodni on MSN",
-            "article_content": ""
         }
     },
     {
@@ -442,41 +458,9 @@
             "description": "Klinika Pediatrii, Gastroenterologii i \u017bywienia we Wroc\u0142awiu ma ponad 100 lat. - Mo\u017cna by tu bez dodatkowej scenografii ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.vlici9reBdNz-500oaLn2y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Wroc\u0142aw.Wyborcza.pl1 godz.",
+            "date": "Wroc\u0142aw.Wyborcza.pl4 godz.",
             "source": "Wroc\u0142aw.Wyborcza.pl",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Te zabytkowe kamienice w Nowej Soli zmieni\u0105 swoje oblicze! Dosta\u0142y dotacj\u0119 na remont [ZDJ\u0118CIA]",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/te-zabytkowe-kamienice-w-nowej-soli-zmieni%C4%85-swoje-oblicze-dosta%C5%82y-dotacj%C4%99-na-remont-zdj%C4%99cia/ar-AA1C4D6V?ocid=BingNewsVerp",
-            "description": "400 tys. z\u0142 p\u00f3jdzie na remont kolejnych nowosolskich kamienic. Dotacj\u0119 dosta\u0142o sze\u015b\u0107 wsp\u00f3lnot mieszkaniowych. - Kwoty ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.e8Zjf724xGiWKEmZ7nDo0i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Nowa S\u00f3l Nasze Miasto on MSN23 godz.",
-            "source": "Nowa S\u00f3l Nasze Miasto on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Masz tak\u0105 monet\u0119 2 z\u0142? Te s\u0105 najcenniejsze - mog\u0105 by\u0107 warte kilka tysi\u0119cy z\u0142otych",
-            "link": "https://nowosci.com.pl/masz-taka-monete-2-zl-te-sa-najcenniejsze-moga-byc-warte-kilka-tysiecy-zlotych/ar/c3-17331841",
-            "description": "Moneta o nominale 2 z\u0142ote wydaje si\u0119 powszechn\u0105 i niewart\u0105 wi\u0119cej ni\u017c jej warto\u015b\u0107 nabywcza. Okazuje si\u0119 jednak, \u017ce s\u0105 ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.zVYlDHBy2dAP60uikwXrpA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski6 godz.",
-            "source": "Nowo\u015bci Dziennik Toru\u0144ski",
-            "article_content": "Content not available"
         }
     },
     {
@@ -490,7 +474,7 @@
             "description": "Numizmatyka to nauka o monetach, kt\u00f3ra staje si\u0119 coraz bardziej w Polsce popularna. Coraz wi\u0119cej os\u00f3b odkrywa, \u017ce nawet zwyk\u0142a pi\u0119cioz\u0142ot\u00f3wka mo\u017ce mie\u0107 wielokrotnie wi\u0119ksz\u0105 warto\u015b\u0107 ni\u017c nomina\u0142.",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Koszali\u0144ski7 godz.",
+            "date": "G\u0142os Koszali\u0144ski11 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
         }
@@ -506,7 +490,7 @@
             "description": "W naszych domach mog\u0105 si\u0119 kry\u0107 prawdziwe skarby. Warto przejrze\u0107 pud\u0142a ze starymi rzeczami, pami\u0105tkami, pawlacze i schowki, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.HWzaOzIrx_ukoLz1Y0QaDC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Pomorska on MSN6 godz.",
+            "date": "Gazeta Pomorska on MSN10 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -522,7 +506,7 @@
             "description": "Znaczki pocztowe z czas\u00f3w Polskiej Rzeczypospolitej Ludowej zyska\u0142y na warto\u015bci i s\u0105 obiektem po\u017c\u0105dania wielu kolekcjoner\u00f3w.",
             "image_url": "https://www.bing.pl/th?id=OVFT.QCGgQ7TcRCodKwjSmxS6kS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Pomorska on MSN19 godz.",
+            "date": "Gazeta Pomorska on MSN23 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -533,13 +517,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Najbardziej poszukiwane i najcenniejsze pami\u0105tki z PRL-u. W 2025 roku kosztuj\u0105 krocie [2.04.2025 r.]",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/najbardziej-poszukiwane-i-najcenniejsze-pami%C4%85tki-z-prl-u-w-2025-roku-kosztuj%C4%85-krocie-2-04-2025-r/ar-AA1ArrTe?ocid=BingNewsVerp",
-            "description": "W ostatnich latach przedmioty z czas\u00f3w PRL prze\u017cywaj\u0105 prawdziwy renesans. W 2025 roku kolekcjonerzy coraz ch\u0119tniej poszukuj\u0105 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.XXJILBIDmc28mJlpkYZZuy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Rzadkie monety z PRL poszukiwane przez kolekcjoner\u00f3w. Sprawd\u017a, kt\u00f3re s\u0105 najdro\u017csze i ile mo\u017cna za nie zarobi\u0107! 02.04.2025",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/rzadkie-monety-z-prl-poszukiwane-przez-kolekcjoner%C3%B3w-sprawd%C5%BA-kt%C3%B3re-s%C4%85-najdro%C5%BCsze-i-ile-mo%C5%BCna-za-nie-zarobi%C4%87-02042025/ar-AA1C6gJq?ocid=BingNewsVerp",
+            "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ich pojawienia si\u0119 na rynku. Najcz\u0119\u015bciej poszukiwane monety przez kolekcjone ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.A9xqYWX22R6wJlvUbZ9SPQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Pomorska on MSN7 godz.",
-            "source": "Gazeta Pomorska on MSN",
+            "date": "Express Ilustrowany on MSN3 godz.",
+            "source": "Express Ilustrowany on MSN",
             "article_content": ""
         }
     },
@@ -549,14 +533,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "02 KWIETNIA 2025",
-            "link": "https://krakow.pl/kalendarium/1919,shw,2025-04-02,7,day.html",
-            "description": "Wystawa \u0142\u0105czy w sobie \u015bwiat gad\u00f3w kopalnych z \u017cyj\u0105cymi wsp\u00f3\u0142cze\u015bnie. T\u0105 interesuj\u0105c\u0105 gromad\u0119 zwierz\u0105t zaprezentowano w kilku modu\u0142ach wystawowych, w podziale na obszary wyst\u0119powania, w scenerii znakom ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Niekt\u00f3re zbiory warte fortun\u0119. Kolekcjonerzy z Wielkopolski opowiadaj\u0105 o swoich fantastycznych kolekcjach",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/niekt%C3%B3re-zbiory-warte-fortun%C4%99-kolekcjonerzy-z-wielkopolski-opowiadaj%C4%85-o-swoich-fantastycznych-kolekcjach/ar-AA1C1uXn?ocid=BingNewsVerp",
+            "description": "Kolekcjonowanie to pasja, kt\u00f3ra towarzyszy ludziom od wiek\u00f3w. Zbieranie okre\u015blonych przedmiot\u00f3w mo\u017ce by\u0107 sposobem na ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.v_xEUyMERL7dGEyitjK7hC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w14 godz.",
-            "source": "Oficjalny serwis miejski - Magiczny Krak\u00f3w",
-            "article_content": "Krak\u00f3w \u2013 czas okupacji 1939-1945\n\nWystawa mie\u015bci si\u0119 w dawnym budynku administracyjnym Fabryki Emalia Oskara Schindlera przy ul. Lipowej 4 i jest opowie\u015bci\u0105 o Krakowie i losach jego polskich i \u017cydowskich mieszka\u0144c\u00f3w w czasie II wojny \u015bwiatowej, ale te\u017c o Niemcach \u2013 okupantach,..."
+            "date": "Nasze Miasto on MSN6 godz.",
+            "source": "Nasze Miasto on MSN",
+            "article_content": ""
         }
     },
     {
@@ -566,11 +550,11 @@
         },
         "body": {
             "title": "Niewybuch w Dzielnej ko\u0142o Opoczna. Rolnik znalaz\u0142 na polu pocisk artyleryjski",
-            "link": "https://www.msn.com/pl-pl/wojna-i-konflikty/technologie-wojenne/niewybuch-w-dzielnej-ko%C5%82o-opoczna-rolnik-znalaz%C5%82-na-polu-pocisk-artyleryjski/ar-AA1C8jWU?ocid=BingNewsVerp",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/niewybuch-w-dzielnej-ko%C5%82o-opoczna-rolnik-znalaz%C5%82-na-polu-pocisk-artyleryjski/ar-AA1C8jWU?ocid=BingNewsVerp",
             "description": "Niewybuch w Dzielnej ko\u0142o Opoczna. Rolnik znalaz\u0142 na polu pocisk artyleryjski kaliber 75 mm, pochodz\u0105cy z II wojny \u015bwiatowej.",
             "image_url": "https://www.bing.pl/th?id=OVFT.bA1bY1_1x8LZ6hkrBI-1Ri&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "wykopano+zabytkowe",
-            "date": "Opoczno Nasze Miasto on MSN3 godz.",
+            "date": "Opoczno Nasze Miasto on MSN7 godz.",
             "source": "Opoczno Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -581,14 +565,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Wst\u0119pne badania sztyletu znalezionego na pla\u017cy. Czy potwierdzi\u0142y jego historyczno\u015b\u0107?",
-            "link": "https://24kurier.pl/aktualnosci/wiadomosci/wstepne-badania-sztyletu-znalezionego-na-plazy-czy-potwierdzily-jego-historycznosc/",
-            "description": "Przeprowadzona w Muzeum Narodowym w Szczecinie analiza fluorescencji rentgenowskiej (XRF) potwierdzi\u0142a, \u017ce sztylet znaleziony ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.jfcdsm-bbTwKxthVSklTby&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Sztylet sprzed tysi\u0119cy lat - badania potwierdzi\u0142y jego historyczno\u015b\u0107",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/sztylet-sprzed-tysi%C4%99cy-lat-badania-potwierdzi%C5%82y-jego-historyczno%C5%9B%C4%87/ar-AA1C9IpL?ocid=BingNewsVerp",
+            "description": "Planowane prace por\u00f3wnuje do fascynuj\u0105cych bada\u0144 tzw. Niebia\u0144skiego Dysku z Nebry, odkrytego w 1999 r., a pochodz\u0105cego sprzed ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.MP3U0E0udKYb_ZFsUrGI0S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "24Kurier.pl8 min",
-            "source": "24Kurier.pl",
-            "article_content": "Wst\u0119pne badania sztyletu znalezionego na pla\u017cy. Czy potwierdzi\u0142y jego historyczno\u015b\u0107? [GALERIA, FILM]\n\nFot. Muzeum Historii Ziemi Kamie\u0144skiej\n\nPrzeprowadzona w Muzeum Narodowym w Szczecinie analiza fluorescencji rentgenowskiej (XRF) potwierdzi\u0142a, \u017ce sztylet znaleziony w niedziel\u0119 na nadba\u0142tyckiej pla\u017cy nie jest przedmiotem nowo\u017cytnym. Mo\u017ce mie\u0107 ok. 3 tysi\u0105ce lat.\n\n\u201eChcieli\u015bmy potwierdzi\u0107 historyczno\u015b\u0107 tego sztyletu; mie\u0107 dow\u00f3d, \u017ce pochodzi on z pradziej\u00f3w, \u017ceby ukr\u00f3ci\u0107 spekulacje, \u017ce to jest np. dziewi\u0119tnasto- czy osiemnastowieczny przedmiot. A takie komentarze te\u017c si\u0119 pojawi\u0142y, kiedy og\u0142osili\u015bmy to odkrycie\" \u2013 powiedzia\u0142 w \u015brod\u0119 PAP dyrektor Muzeum Historii Ziemi Kamie\u0144skiej Grzegorz Kurka.\n\nSztylet, kt\u00f3rego wiek szacowany jest na 2800 lat (okres halsztacki, wczesna epoka \u017celaza), znaleziony zosta\u0142 w niedziel\u0119 na pla\u017cy w zachodniej cz\u0119\u015bci polskiego Wybrze\u017ca Ba\u0142tyku. Wykrywaczem metali zlokalizowali go eksploratorzy z Stowarzyszenia Na Rzecz Ratowania Zabytk\u00f3w im. \u015aw. Korduli w Kamieniu Pomorskim Jacek Ukowski i Katarzyna Herdzik. Bogato zdobiony sztylet, o d\u0142ugo\u015bci 24,2 cm, znajdowa\u0142 si\u0119 w gliniastej bryle oderwanej od klifu po sztormie.\n\nOpublikowany przez Muzeum Historii Ziemi Kamie\u0144skiej \u015aroda, 2 kwietnia 2025\n\nO znalezisku poinformowano dyrektora Kurk\u0119, kt\u00f3ry zabezpieczy\u0142 cenny artefakt, a w \u015brod\u0119 przyjecha\u0142 do Muzeum Narodowego i Wojew\u00f3dzkiego Konserwatora Zabytk\u00f3w w Szczecinie, by przeprowadzi\u0107 wst\u0119pne badania sztyletu i procedury urz\u0119dowe zwi\u0105zane z odkryciem.\n\nAnaliza fluorescencji rentgenowskiej (XRF), wykonana przez zesp\u00f3\u0142 specjalist\u00f3w z dzia\u0142u konserwacji MN potwierdzi\u0142a, \u017ce sztylet na pewno nie jest przedmiotem sprzed kilkuset lat.\n\n\"Technika XRF pozwala bezinwazyjnie okre\u015bli\u0107 sk\u0142ad pierwiastkowy badanego obiektu. Jest to szczeg\u00f3lnie istotne w przypadku zabytk\u00f3w metalowych, poniewa\u017c dostarcza informacji o rodzaju u\u017cytego stopu, a tak\u017ce o ewentualnych domieszkach, kt\u00f3re mog\u0105 wskazywa\u0107 na \u017ar\u00f3d\u0142o surowca oraz metody jego obr\u00f3bki. Wst\u0119pne wyniki analizy ujawni\u0142y obecno\u015b\u0107 miedzi, cynku oraz innych \u015bladowych pierwiastk\u00f3w\" \u2013 wyja\u015bni\u0142 Kurka.\n\nW rozmowie z PAP podkre\u015bli\u0142, \u017ce jest to dopiero pocz\u0105tek bada\u0144 sztyletu. \u017beby przeprowadzi\u0107 kolejne, znaleziony przedmiot zosta\u0107 formalnie przekazany w depozyt do kamie\u0144skiego muzeum. Decyzj\u0119 w tej sprawie podejmie WKZ.\n\n\"Planujemy kompleksowe badania interdyscyplinarne. Chcemy zrobi\u0107 badania \u015blad\u00f3w zu\u017cycia i bardzo dok\u0142adny obraz tr\u00f3jwymiarowy tego sztyletu\" \u2013 zapowiedzia\u0142 Kurka.\n\n\"Ornamenty na sztylecie s\u0105 bardzo interesuj\u0105ce. Gwiazdy, ksi\u0119\u017cyce, p\u00f3\u0142ksi\u0119\u017cyce s\u0105 u\u0142o\u017cone w okre\u015blonym porz\u0105dku, to mo\u017ce by\u0107 kalendarz. B\u0119dziemy szuka\u0107 naukowc\u00f3w, instytutu, kt\u00f3rzy pomog\u0105 znale\u017a\u0107 odpowiedzi, na nurtuj\u0105ce nas dzi\u015b pytania\" \u2013 doda\u0142 dyrektor muzeum.\n\nPlanowane prace por\u00f3wnuje do fascynuj\u0105cych bada\u0144 tzw. Niebia\u0144skiego Dysku z Nebry, odkrytego w 1999 r., a pochodz\u0105cego sprzed 3600 lat. Przedstawia on 32 gwiazdy, p\u00f3\u0142ksi\u0119\u017cyc i pe\u0142ni\u0119 ksi\u0119\u017cyca; by\u0142 prawdopodobnie przedmiotem do pomiar\u00f3w astronomicznych.\n\nBadania sztyletu z nadba\u0142tyckiej pla\u017cy maj\u0105 da\u0107 odpowied\u017a, z kt\u00f3rego okresu pochodzi ten niezwyk\u0142y przedmiot, w jakiej technologii zosta\u0142 wykonany i gdzie. W rozmowie z PAP dyrektor Kurka oceni\u0142, \u017ce sztylet o tak wysokiej jako\u015bci metalurgii m\u00f3g\u0142 powsta\u0107 na po\u0142udniu Europy. Jest zachowany w doskona\u0142ym stanie. Nie wiadomo, jak znalaz\u0142 si\u0119 na terenach nadba\u0142tyckich.\n\nDyrektor Muzeum Historii Ziemi Kamie\u0144skiej zwr\u00f3ci\u0142 uwag\u0119, \u017ce dekoracje na ostrzu i r\u0119koje\u015bci sztyletu mog\u0105 wskazywa\u0107 na powi\u0105zania z kultem solarnym i sugerowa\u0107, \u017ce ten przedmiot mia\u0142 znaczenie rytualne. M\u00f3g\u0142 te\u017c nale\u017ce\u0107 do bogatego wojownika.\n\nW opisie zabytku, kt\u00f3ry zamieszczono w mediach spo\u0142eczno\u015bciowych muzeum, czytamy: \"Ostrze pokrywaj\u0105 linearne p\u00f3\u0142ksi\u0119\u017cyce oraz krzy\u017ce przypominaj\u0105ce gwiazdy. Po\u015brodku klingi biegnie zdobienie by\u0107 mo\u017ce symbolizuj\u0105ce konstelacje, a ca\u0142o\u015b\u0107 uzupe\u0142niaj\u0105 uko\u015bne linie. R\u0119koje\u015b\u0107 zako\u0144czona jest spiczast\u0105 g\u0142\u00f3wk\u0105 i zdobiona naprzemiennym ornamentem schodz\u0105cym a\u017c do ostrza\".\n\nCopyright"
+            "date": "G\u0142os Szczeci\u0144ski on MSN1 godz.",
+            "source": "G\u0142os Szczeci\u0144ski on MSN",
+            "article_content": ""
         }
     },
     {
@@ -597,14 +581,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Na ba\u0142tyckiej pla\u017cy znale\u017ali sztylet sprzed tysi\u0119cy lat! Sensacja archeologiczna nad polskim morzem",
-            "link": "https://www.focus.pl/artykul/sztylet-na-plazy-baltyk-epoka-zelaza-3000-lat",
-            "description": "Przedstawiciele Stowarzyszenia Eksploracyjnego Na Rzecz Ratowania Zabytk\u00f3w im. \u015aw. Korduli w Kamieniu Pomorskim dokonali odkrycia, kt\u00f3re sami okre\u015blaj\u0105 mianem ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.f3l-vLfSgS4QmXoT6XJFew&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Trzyletnia dziewczynka znalaz\u0142a \"pi\u0119kny kamyk\". To, co skrywa\u0142, wywo\u0142a\u0142o poruszenie w\u015br\u00f3d archeolog\u00f3w",
+            "link": "https://www.fakt.pl/wydarzenia/swiat/dziecko-podnioslo-ze-sciezki-piekny-kamyk-odkrycie-poruszylo-archeologow/jckx2bt",
+            "description": "Niebywa\u0142e, trzyletnia dziewczynka podczas spaceru z rodzicami znalaz\u0142a skarb sprzed 3800 lat. Spo\u015br\u00f3d mn\u00f3stwa otaczaj\u0105cych j\u0105 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.AsmR0aN7lV924ewu9EVXMi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Focus5 godz.",
-            "source": "Focus",
-            "article_content": "Spoczywaj\u0105cy w gliniastej bryle artefakt trafi\u0142 na razie do Muzeum Historii Ziemi Kamie\u0144skiej. Ogl\u0119dziny przeprowadzone przez archeolog\u00f3w sugeruj\u0105, \u017ce mo\u017ce to by\u0107 bro\u0144 licz\u0105ca oko\u0142o 2800 lat. G\u0142os w sprawie zabra\u0142 prezes rzeczonego stowarzyszenia, Jacek Ukowski, kt\u00f3ry wyja\u015bni\u0142, i\u017c na potrzeby prowadzonych dzia\u0142a\u0144 korzysta\u0142 z wykrywacza metali. Dzi\u0119ki niemu zorientowa\u0142 si\u0119, \u017ce w znalezionej bryle mo\u017ce znajdowa\u0107 si\u0119 co\u015b cennego.\n\nCzytaj te\u017c: Niezwyk\u0142e odkrycie w lesie pod I\u0142aw\u0105. Ten przedmiot pami\u0119ta czasy pierwszych Piast\u00f3w\n\nAle to, co ujrza\u0142, okaza\u0142o si\u0119 prawdopodobnie nawet bardziej niesamowite, ni\u017c m\u00f3g\u0142 si\u0119 spodziewa\u0107. W oderwanej od ba\u0142tyckiego klifu warstwie znajdowa\u0142 si\u0119 bowiem sztylet wywodz\u0105cy si\u0119 z tzw. okresu halsztackiego. Oznacza to jego genez\u0119 si\u0119gaj\u0105c\u0105 wczesnej epoki \u017celaza. Bogato zdobiony przedmiot jest imponuj\u0105cej d\u0142ugo\u015bci, poniewa\u017c ma a\u017c 24,2 cm.\n\nfot. Muzeum Historii Ziemi Kamie\u0144skiej\n\nJak na razie archeolodzy debatuj\u0105 nad przeznaczeniem sztyletu. Grzegorz Kurka, dyrektor Muzeum Historii Ziemi Kamie\u0144skiej, bierze pod uwag\u0119 scenariusz, w kt\u00f3rym obiekt ten by\u0142 powi\u0105zany z kultem solarnym. Nie mo\u017cna te\u017c odrzuci\u0107 wariantu, i\u017c nale\u017ca\u0142 do wysoko postawionego wojownika. To, co jest natomiast pewne, to niebywa\u0142a jako\u015b\u0107 wykonania.\n\nTw\u00f3rca sztyletu musia\u0142 by\u0107 mistrzem w swoim fachu. Pokrywaj\u0105ce go zdobienia rozci\u0105gaj\u0105 si\u0119 na ca\u0142ej d\u0142ugo\u015bci broni, a naukowcy b\u0119d\u0105 chcieli przeprowadzi\u0107 szczeg\u00f3\u0142owe analizy. Na ich podstawie okre\u015bl\u0105 sk\u0142ad wykorzystanego stopu, na przyk\u0142ad poziom miedzi oraz cyny, co powinno u\u0142atwi\u0107 identyfikacj\u0119 miejsca pochodzenia or\u0119\u017ca. Poza tym eksperci maj\u0105 w planach zbadanie \u015blad\u00f3w zu\u017cycia.\n\nWst\u0119pne badania sugeruj\u0105, jakoby znaleziony na ba\u0142tyckiej pla\u017cy sztylet mia\u0142 oko\u0142o 2800 lat. W oczy rzuca si\u0119 jako\u015b\u0107 jego wykonania oraz efektowno\u015b\u0107 powsta\u0142ych zdobie\u0144\n\nTen ostatni aspekt b\u0119dzie wyj\u0105tkowo istotny, poniewa\u017c powinien wykaza\u0107, czy sztylet by\u0142 stosowany w walce czy mia\u0142 raczej symboliczny charakter i wykorzystywano go na potrzeby dawnych rytua\u0142\u00f3w. \u015awietnie zachowany artefakt jest pokryty linearnymi p\u00f3\u0142ksi\u0119\u017cycami oraz krzy\u017cami przywodz\u0105cymi na my\u015bl gwiazdy. Wida\u0107 na nim r\u00f3wnie\u017c zdobienia przypominaj\u0105ce konstelacje. Spiczast\u0105 g\u0142\u00f3wk\u0119 pokrywa z kolei naprzemienny ornament si\u0119gaj\u0105cy ostrza.\n\nCzytaj te\u017c: Historia Afryki do zmiany. Zagadkowa cywilizacja rozwija\u0142a si\u0119 tam ju\u017c dawno temu\n\nJak na razie nie ujawniono, gdzie dok\u0142adnie mia\u0142o miejsce odkrycie. Wiadomo, i\u017c dosz\u0142o do niego na terenie wojew\u00f3dztwa zachodniopomorskiego, lecz na tym informacje si\u0119 ko\u0144cz\u0105. Nie wiadomo te\u017c, gdzie wykuto sztylet. Jedna z hipotez wskazuje na po\u0142udnie Starego Kontynentu, sk\u0105d bro\u0144 mog\u0142a trafi\u0107 na wybrze\u017ce Ba\u0142tyku. Nowe fakty w tej sprawie powinny pojawi\u0107 si\u0119 po tym, jak archeolodzy zyskaj\u0105 mo\u017cliwo\u015b\u0107 przeprowadzenia kompleksowych ekspertyz znalezionego na pla\u017cy obiektu."
+            "date": "Fakt.pl56 min",
+            "source": "Fakt.pl",
+            "article_content": "Niebywa\u0142e, trzyletnia dziewczynka podczas spaceru z rodzicami znalaz\u0142a skarb sprzed 3800 lat. Spo\u015br\u00f3d mn\u00f3stwa otaczaj\u0105cych j\u0105 kamieni dziewczynka podnios\u0142a jeden, kt\u00f3ry wyda\u0142 jej si\u0119 po prostu \"pi\u0119kny\". Po oczyszczeniu ods\u0142oni\u0142 on jednak swoj\u0105 prawdziw\u0105 natur\u0119. Jak potwierdzili archeolodzy z Izraela, dziecko znalaz\u0142o kananejski skarabeusz z epoki br\u0105zu.\n\nDo niezwyk\u0142ego odkrycia dosz\u0142o w marcu podczas rodzinnej wycieczki po Tel Azekah, historycznym miejscu w Izraelu, kt\u00f3re by\u0142o zamieszkane ju\u017c w epoce br\u0105zu. Spaceruj\u0105c poln\u0105 \u017cwirow\u0105 \u015bcie\u017ck\u0105 3-letnia Ziv Nitzan zwr\u00f3ci\u0142a uwag\u0119 na nietypowy kamyk.\n\nIzrael. Trzyletnia dziewczynka podnios\u0142a ze \u015bcie\u017cki \"pi\u0119kny kamyk\". Odkrycie wywo\u0142a\u0142o poruszenie w\u015br\u00f3d archeolog\u00f3w\n\n\u2014 Spo\u015br\u00f3d siedmiu tysi\u0119cy otaczaj\u0105cych j\u0105 kamieni podnios\u0142a jeden \u2014 relacjonuje starsza siostra Ziv, Omer Nitzan, na nagraniu opublikowanym przez archeolog\u00f3w z Israel Antiquities Authority (IAA). Po dok\u0142adniejszym przyjrzeniu si\u0119 i oczyszczeniu go z piasku okaza\u0142o si\u0119, \u017ce bry\u0142ka jest jeszcze bardziej niezwyk\u0142a ni\u017c pocz\u0105tkowo obie przypuszcza\u0142y.\n\nDziewczynki zawo\u0142a\u0142y rodzic\u00f3w, by pokaza\u0107 im \"pi\u0119kny kamie\u0144\" i wkr\u00f3tce rodzina Nitzan\u00f3w niezw\u0142ocznie powiadomi\u0142a o tym odkryciu Israel Antiquities Authority (IAA).\n\nDr Daphna Ben-Tor, specjalistka w dziedzinie staro\u017cytnych amulet\u00f3w i piecz\u0119ci, potwierdzi\u0142a, \u017ce znaleziony przez Ziv skarabeusz pochodzi z kananejskiej kultury \u015brodkowej epoki br\u0105zu. Liczy wi\u0119c sobie oko\u0142o 3800 lat.\n\n\u2014 Skarabeusze by\u0142y u\u017cywane w tym okresie jako piecz\u0119cie i amulety. Znajdowano je w grobach, budynkach publicznych i domach prywatnych. Czasami nosz\u0105 symbole i przes\u0142ania, kt\u00f3re odzwierciedlaj\u0105 wierzenia religijne lub status \u2014 wyja\u015bnia ekspertka.\n\nTo odkrycie podkre\u015bla kulturowe powi\u0105zania mi\u0119dzy staro\u017cytnym Egiptem a Kanaanem, kt\u00f3ry rozci\u0105ga\u0142 si\u0119 na terenach dzisiejszego Izraela, Palestyny, Libanu, Syrii i Jordanii.\n\nArcheolodzy potwierdzili, \u017ce jest to skarabeusz z Kanaan sprzed 3800 lat\n\nSkarabeusze by\u0142y inspirowane \u017cukami gnojowymi, kt\u00f3re w staro\u017cytnym Egipcie by\u0142y uznawane za \u015bwi\u0119te symbole nowego \u017cycia. Toczy\u0142y one kule z odchod\u00f3w, kt\u00f3re kojarzono z bogiem tocz\u0105cym s\u0142oneczny dysk po niebie, a nast\u0119pnie sk\u0142ada\u0142y w nich jaja, z kt\u00f3rych wyl\u0119ga\u0142o si\u0119 ich potomstwo.\n\nProfesor Oded Lipschits, dyrektor wykopalisk archeologicznych na Uniwersytecie w Tel Awiwie (Izrael), kt\u00f3ry spotka\u0142 si\u0119 z rodzin\u0105 Nitzan\u00f3w, podkre\u015bla, \u017ce Tel Azekah jest miejscem bada\u0144 od prawie 15 lat i nieustannie dostarcza licznych dowod\u00f3w na istotn\u0105 rol\u0119 tego obszaru w staro\u017cytno\u015bci.\n\nSkarabeusz znaleziony przez m\u0142od\u0105 Ziv ma do\u0142\u0105czy\u0107 do licznej kolekcji artefakt\u00f3w egipskich i kananejskich z tego obszaru i maj\u0105 zosta\u0107 wyeksponowane w Narodowym Kampusie Archeologii Izraela Jaya i Jeanie Schottenstein w Jerozolimie.\n\nSiemion Gendler, archeolog okr\u0119gu judzkiego w imieniu Izraelskiego Urz\u0119du ds. Zabytk\u00f3w, pochwali\u0142 ma\u0142\u0105 Ziv i jej rodzin\u0119 za zg\u0142oszenie tego niezwyk\u0142ego znaleziska i wr\u0119czy\u0142 jej certyfikat uznania za wzorowe obywatelstwo.\n\n(\u0179r\u00f3d\u0142o: livescience.com, iaa.org.il)"
         }
     }
 ]
