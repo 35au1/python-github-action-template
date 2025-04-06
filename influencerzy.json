@@ -10,7 +10,7 @@
             "description": "W niedziel\u0119, 6 kwietnia, Pchli Targ we W\u0142oc\u0142awku odby\u0142 si\u0119 przy zimnym wietrze i pochmurnym niebie \u2013 wielu mieszka\u0144c\u00f3w zrezygnowa\u0142o z odwiedzin, a alejki przy alei Kazimierza Wielkiego by\u0142y wyra\u017anie m ...",
             "image_url": "https://www.bing.pl/th?id=ODF.Bm8piDnsAoinfeChI0AgCw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN4 godz.",
+            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN8 godz.",
             "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -26,8 +26,40 @@
             "description": "W niedzielny poranek teren przy \u201eChemiku' na bydgoskich Glinkach ponownie t\u0119tni\u0142 \u017cyciem. Gie\u0142da, kt\u00f3ra od lat przyci\u0105ga ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.O_VAMrcfttbcDDLY_H4vky&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Bydgoszcz Nasze Miasto on MSN1 godz.",
+            "date": "Bydgoszcz Nasze Miasto on MSN4 godz.",
             "source": "Bydgoszcz Nasze Miasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Stare kryszta\u0142y z PRL \u2013 kolekcjonerzy nie szcz\u0119dz\u0105 pieni\u0119dzy! Tyle w 2025 roku warte s\u0105 te naczynia i wazony z tamtej epoki [7.04.2025]",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/stare-kryszta%C5%82y-z-prl-kolekcjonerzy-nie-szcz%C4%99dz%C4%85-pieni%C4%99dzy-tyle-w-2025-roku-warte-s%C4%85-te-naczynia-i-wazony-z-tamtej-epoki-7042025/ar-AA1BQoox?ocid=BingNewsVerp",
+            "description": "Kryszta\u0142y PRL zyskuj\u0105 na popularno\u015bci w 2025 roku \u2013 kolekcjonerzy coraz ch\u0119tniej inwestuj\u0105 w te retro skarby, a ceny rosn\u0105 w ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.k1FV%2fy%2bvMx3pwUUafB9fFQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN2 godz.",
+            "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Ostatni BioJarmark przy ulicy Piwnej we W\u0142oc\u0142awku - 6 kwietnia 2025. Zdj\u0119cia, wideo",
+            "link": "https://www.msn.com/pl-pl/jedzenie-i-picie/og%C3%B3lne/ostatni-biojarmark-przy-ulicy-piwnej-we-w%C5%82oc%C5%82awku-6-kwietnia-2025-zdj%C4%99cia-wideo/ar-AA1CoQRK?ocid=BingNewsVerp",
+            "description": "W niedziel\u0119, 6 kwietnia 2025, ulica Piwna we W\u0142oc\u0142awku po raz ostatni zamieni\u0142a si\u0119 w t\u0119tni\u0105cy \u017cyciem BioJarmark, kt\u00f3ry od 3 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.xpS90f1IbYtmla97eglC9i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN3 godz.",
+            "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
             "article_content": ""
         }
     },
@@ -42,7 +74,7 @@
             "description": "Rzeszowskie Targi Staroci odby\u0142y si\u0119 w niedziel\u0119, 6 kwietnia 2025 r. w Podkarpackim Centrum Hurtowym AGROHURT S.A. Cho\u0107 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.20ma9zbFlGNuZLdOiuREBi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Nasze Miasto on MSN41 min",
+            "date": "Nasze Miasto on MSN4 godz.",
             "source": "Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -53,44 +85,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Motobazar w Toruniu. Fani motoryzacji mieli co ogl\u0105da\u0107 i kupowa\u0107",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/motobazar-w-toruniu-fani-motoryzacji-mieli-co-ogl%C4%85da%C4%87-i-kupowa%C4%87/ar-AA1Copu9?ocid=BingNewsVerp",
-            "description": "Pierwszy w roku 2025 Motobazar zosta\u0142 zorganizowany w niedziel\u0119 6 kwietnia. Rozpocz\u0105\u0142 si\u0119 o godzinie 8. O tej porze teren ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.a-tefCEg6mg44S5b1GfUqy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN3 godz.",
-            "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Zlot klasyk\u00f3w siedlisko",
-            "link": "https://zielonagora.naszemiasto.pl/tag/zlot-klasykow-siedlisko",
-            "description": "Dzi\u015b Dzie\u0144 Kolorowej Skarpetki, czyli solidarno\u015bci z lud\u017ami z zespo\u0142em Downa. Ale w Specjalnym O\u015brodku Szkolno-Wychowawczym w ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "Zielona G\u00f3ra Nasze Miasto20 min",
-            "source": "Zielona G\u00f3ra Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Monety i banknoty z PRL-u s\u0105 teraz w cenie. W 2025 roku niekt\u00f3re stare pieni\u0105dze warte s\u0105 krocie [6.04.2025]",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/monety-i-banknoty-z-prl-u-s%C4%85-teraz-w-cenie-w-2025-roku-niekt%C3%B3re-stare-pieni%C4%85dze-warte-s%C4%85-krocie-6042025/ar-AA1BZVvo?ocid=BingNewsVerp",
-            "description": "Pieni\u0105dze z czas\u00f3w PRL to w 2025 roku prawdziwe skarby dla kolekcjoner\u00f3w i mi\u0142o\u015bnik\u00f3w numizmatyki. Ceny peerelowskich monet i ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.0JShx8bfBBeE8Ey-4bI2Oy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Monety i banknoty z PRL-u s\u0105 teraz w cenie. W 2025 roku niekt\u00f3re stare pieni\u0105dze warte s\u0105 krocie [7.04.2025 r.]",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/monety-i-banknoty-z-prl-u-s%C4%85-teraz-w-cenie-w-2025-roku-niekt%C3%B3re-stare-pieni%C4%85dze-warte-s%C4%85-krocie-7042025-r/ar-AA1BZVvo?ocid=BingNewsVerp",
+            "description": "Pieni\u0105dze z czas\u00f3w PRL to w 2025 roku prawdziwe skarby dla kolekcjoner\u00f3w i mi\u0142o\u015bnik\u00f3w numizmatyki. Ceny peerelowskich monet i banknot\u00f3w stale rosn\u0105. Co sprawia, \u017ce pieni\u0105dze z PRL s\u0105 tak poszukiwane w ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "Gazeta Pomorska on MSN9 godz.",
+            "date": "Gazeta Pomorska on MSN3 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -106,7 +106,7 @@
             "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
             "image_url": "https://www.bing.pl/th?id=OVFT._V-rWLu6pRQ3UWKHtZMwMi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Pomorza on MSN18 godz.",
+            "date": "G\u0142os Pomorza on MSN21 godz.",
             "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
         }
@@ -122,7 +122,7 @@
             "description": "Gnie\u017anianie zwariowali na punkcie wyprzeda\u017cy gara\u017cowych. I bardzo dobrze! Kolejna ods\u0142ona gara\u017c\u00f3wki odby\u0142a si\u0119 tym razem w niedziel\u0119 6 kwietnia w hali przy ul. Sportowej i przyci\u0105gn\u0119\u0142a wielu mieszka\u0144c ...",
             "image_url": "https://www.bing.pl/th?id=ODF.MfW9_TyV4p2LpK5Oh7nsWA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "Gniezno Nasze Miasto on MSN5 godz.",
+            "date": "Gniezno Nasze Miasto on MSN9 godz.",
             "source": "Gniezno Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -133,14 +133,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Tak by\u0142o na gie\u0142dzie przy \"Chemiku\" w Bydgoszczy - 6 kwietnia 2025. Zdj\u0119cia i wideo",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/tak-by%C5%82o-na-gie%C5%82dzie-przy-chemiku-w-bydgoszczy-6-kwietnia-2025-zdj%C4%99cia-i-wideo/ar-AA1CoHlv?ocid=BingNewsVerp",
-            "description": "W niedzielny poranek teren przy \u201eChemiku' na bydgoskich Glinkach ponownie t\u0119tni\u0142 \u017cyciem. Gie\u0142da, kt\u00f3ra od lat przyci\u0105ga ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.O_VAMrcfttbcDDLY_H4vky&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Z Dogecoina zrobi\u0142 10 milion\u00f3w. Teraz stawia wszystko na te trzy nowe memecoiny!",
+            "link": "https://bithub.pl/reklamy/partnerzy/z-dogecoina-zrobil-10-milionow-teraz-stawia-wszystko-na-te-trzy-nowe-memecoiny/",
+            "description": "Podczas gdy FLOKI i BONK s\u0105 obiecuj\u0105ce, XYZVerse d\u0105\u017cy do wzrostu o 20 000%, jednocz\u0105c fan\u00f3w sportu w nap\u0119dzanym przez ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.B-2JO-hreiiZIr-ebV6a0C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Bydgoszcz Nasze Miasto on MSN1 godz.",
-            "source": "Bydgoszcz Nasze Miasto on MSN",
-            "article_content": ""
+            "date": "BitHub.pl8 godz.",
+            "source": "BitHub.pl",
+            "article_content": "Z Dogecoina zrobi\u0142 10 milion\u00f3w. Teraz stawia wszystko na te trzy nowe memecoiny!\n\nArtyku\u0142 zosta\u0142 nades\u0142any w ca\u0142o\u015bci przez partnera i ma charakter sponsorowany.\n\nTrader, kt\u00f3ry za pomoc\u0105 Dogecoin zamieni\u0142 10 dolar\u00f3w w zdumiewaj\u0105ce 10 milion\u00f3w dolar\u00f3w, teraz wspiera trzy mniej znane kryptowaluty memowe. Te monety o niskiej kapitalizacji przyci\u0105gaj\u0105 uwag\u0119 jako potencjalne ukryte pere\u0142ki przed czerwcem. Czy mog\u0105 by\u0107 kolejnymi gwiazdami prze\u0142omu na rynku kryptowalut? \u015awiat inwestycji obserwuje, czy historia si\u0119 powt\u00f3rzy.\n\nPrognoza ceny dla XYZVerse ($XYZ): Czy mo\u017cliwy jest 30-krotny skok warto\u015bci?\n\nXYZVerse wszed\u0142 na rynek memecoin\u00f3w w czasie, gdy tokeny kierowane przez spo\u0142eczno\u015b\u0107 nadal dominuj\u0105 w handlu spekulacyjnym. Powstanie memecoin\u00f3w, takich jak PEPE, Dogwifhat i BONK dowodzi, \u017ce silny branding, marketing wirusowy i zaanga\u017cowanie spo\u0142eczno\u015bci mog\u0105 przynie\u015b\u0107 ogromne zyski.\n\nKluczow\u0105 rol\u0119 w potencjale XYZVerse odgrywaj\u0105 r\u00f3wnie\u017c szersze nastroje rynkowe. Wraz ze zbli\u017caj\u0105cym si\u0119 rozpocz\u0119ciem sezonu na altcoiny, memecoiny o ni\u017cszej kapitalizacji ciesz\u0105 si\u0119 coraz wi\u0119kszym zainteresowaniem inwestor\u00f3w. Bior\u0105c pod uwag\u0119, \u017ce XYZVerse jest nadal w przedsprzeda\u017cy, mo\u017ce skorzysta\u0107 na tej fali, je\u015bli zabezpieczy strategiczne notowania na gie\u0142dzie i podtrzyma szum spo\u0142eczno\u015bci po premierze.\n\nKluczowe mocne strony XYZVerse na obecnym rynku:\n\nSilny branding dzi\u0119ki partnerstwom ze sportem i influencerami, zwi\u0119kszaj\u0105c jego atrakcyjno\u015b\u0107\n\ndzi\u0119ki partnerstwom ze sportem i influencerami, zwi\u0119kszaj\u0105c jego atrakcyjno\u015b\u0107 Mechanika deflacyjna (17,13% spalenia symbolicznego), aby zmniejszy\u0107 ci\u015bnienie zasilania\n\n(17,13% spalenia symbolicznego), aby zmniejszy\u0107 ci\u015bnienie zasilania Alokacja p\u0142ynno\u015bci (15%) w celu zapewnienia stabilno\u015bci po starcie\n\n(15%) w celu zapewnienia stabilno\u015bci po starcie Zach\u0119ty spo\u0142eczno\u015bciowe (10%) wspieraj\u0105ce zaanga\u017cowanie i utrzymanie\n\nPrognoza ceny dla $XYZ\n\nAktualna cena w przedsprzeda\u017cy: 0,003333 USD\n\n0,003333 USD Przewidywany cel posprzeda\u017cowy: 0,10 USD (zgodnie z szacunkami projektu)\n\n0,10 USD (zgodnie z szacunkami projektu) Potencjalny ATH (pierwsze 1-2 tygodnie po wprowadzeniu na rynek): 0,15\u20130,25 USD (je\u015bli wzrost popytu i notowania spowoduj\u0105 FOMO)\n\nPotencja\u0142 d\u0142ugoterminowy (6-12 miesi\u0119cy): 0,20\u20130,40 USD (je\u015bli projekt zapewni du\u017ce partnerstwa i notowania)\n\nfot. materia\u0142y partnera\n\nKup $XYZ wcze\u015bniej, aby zwi\u0119kszy\u0107 jego potencja\u0142 zysku\n\nRealistyczne oczekiwania: czy XYZ osi\u0105gnie 0,10 USD?\n\nMo\u017cliwy jest 30-krotny skok z przedsprzeda\u017cy do 0,10 USD, ale zale\u017cy od tych czynnik\u00f3w:\n\nSilne notowania na gie\u0142dzie \u2013 Je\u015bli XYZVerse wyl\u0105duje na g\u0142\u00f3wnych platformach CEX, takich jak KuCoin, OKX lub Binance, jego cena mo\u017ce gwa\u0142townie wzrosn\u0105\u0107 w dniu premiery.\n\n\u2013 Je\u015bli XYZVerse wyl\u0105duje na g\u0142\u00f3wnych platformach CEX, takich jak KuCoin, OKX lub Binance, jego cena mo\u017ce gwa\u0142townie wzrosn\u0105\u0107 w dniu premiery. Zr\u00f3wnowa\u017cony rozw\u00f3j spo\u0142eczno\u015bci \u2013 Memecoiny potrzebuj\u0105 viralowego impetu. Je\u015bli XYZVerse b\u0119dzie kontynuowa\u0107 wsp\u00f3\u0142prac\u0119 z wp\u0142ywowymi osobami w sporcie, mo\u017ce zwi\u0119kszy\u0107 zaanga\u017cowanie w mediach spo\u0142eczno\u015bciowych.\n\n\u2013 Memecoiny potrzebuj\u0105 viralowego impetu. Je\u015bli XYZVerse b\u0119dzie kontynuowa\u0107 wsp\u00f3\u0142prac\u0119 z wp\u0142ywowymi osobami w sporcie, mo\u017ce zwi\u0119kszy\u0107 zaanga\u017cowanie w mediach spo\u0142eczno\u015bciowych. Warunki rynkowe \u2013 Je\u015bli Bitcoin i altcoiny pozostan\u0105 zwy\u017ckowe, aktywa oparte na spekulacjach, takie jak XYZVerse, zwykle na tym skorzystaj\u0105.\n\nCzy mo\u017cliwy jest wzrost o 3000% dla XYZ?\n\nXYZVerse ma sk\u0142adniki na mocny start, ale jego d\u0142ugoterminowy sukces zale\u017cy od wykonania. Je\u015bli zesp\u00f3\u0142 zapewni silny marketing, presti\u017cowe oferty i prawdziwe zaanga\u017cowanie spo\u0142eczno\u015bci, cel 0,10 USD lub wi\u0119cej, czyli oko\u0142o 3000% obecnej ceny, b\u0119dzie mo\u017cliwy do osi\u0105gni\u0119cia.\n\nZainwestuj w $XYZ, zanim zacznie rosn\u0105\u0107\n\nFLOKI Unleashed: od memecoina do wp\u0142ywu na \u015bwiat rzeczywisty\n\nWszystko zacz\u0119\u0142o si\u0119 od tweeta Elona Muska z czerwca 2021 r. Og\u0142osi\u0142 on, \u017ce jego zwierzak Shiba Inu otrzyma imi\u0119 \u201eFloki\u201d, co zapocz\u0105tkowa\u0142o powstanie monety Floki Inu. Ale ta moneta to co\u015b wi\u0119cej ni\u017c tylko mem. Teraz znany po prostu jako FLOKI, ma na celu dokonanie zmian w prawdziwym \u015bwiecie. FLOKI buduje szko\u0142y w krajach takich jak Laos i Nigeria, pokazuj\u0105c, \u017ce kryptowaluta mo\u017ce mie\u0107 serce.\n\nFLOKI oferuje wi\u0119cej ni\u017c dzia\u0142alno\u015b\u0107 charytatywn\u0105. Ma w\u0142asn\u0105 gr\u0119 metaverse NFT o nazwie Valhalla i us\u0142ug\u0119 DeFi o nazwie FlokiFi. Projekty te zapewniaj\u0105 FLOKI prawdziw\u0105 u\u017cyteczno\u015b\u0107 w obr\u0119bie ekosystemu i poza nim. Dzi\u0119ki partnerstwu takiemu jak NOWPayments i wprowadzeniu przedp\u0142aconej karty Floki mo\u017cesz u\u017cywa\u0107 token\u00f3w FLOKI do codziennych zakup\u00f3w. Na rynku pe\u0142nym monet memowych FLOKI stara si\u0119 wyr\u00f3\u017cni\u0107, oferuj\u0105c rzeczywist\u0105 warto\u015b\u0107 i przypadki u\u017cycia. W miar\u0119 ewolucji rynku kryptowalut projekty skupiaj\u0105ce si\u0119 na u\u017cyteczno\u015bci i wp\u0142ywie na \u015bwiat rzeczywisty mog\u0105 zyska\u0107 wi\u0119ksz\u0105 uwag\u0119. Dywersyfikacja FLOKI w kierunku NFT, DeFi i inicjatyw charytatywnych podkre\u015bla wysi\u0142ki firmy FLOKI, aby by\u0107 czym\u015b wi\u0119cej ni\u017c tylko aktywem spekulacyjnym.\n\nBONK: Memecoin Shiba Inu wstrz\u0105sa ekosystemem Solana\n\nPoznaj BONK, memecoin, kt\u00f3ry robi furor\u0119 na blockchainie Solana. Za pomoc\u0105 zabawnej maskotki Shiba Inu BONK pragnie wzmocni\u0107 pozycj\u0119 spo\u0142eczno\u015bci poprzez odsuni\u0119cie w\u0142adzy od du\u017cych inwestor\u00f3w. Po notowaniu na Coinbase wzr\u00f3s\u0142 on o ponad 100%. Aby sta\u0107 si\u0119 prawdziw\u0105 \u201emonet\u0105 spo\u0142eczno\u015bci\u201d, BONK przekaza\u0142 po\u0142ow\u0119 swojej poda\u017cy uczestnikom projekt\u00f3w NFT i DeFi firmy Solana.\n\nPomimo szybkiego wzrostu, BONK stoi przed wyzwaniami, takimi jak ogromna ca\u0142kowita poda\u017c i nieprzewidywalna natura memecoin\u00f3w. Jednak jego aktywna rola w rozwijaj\u0105cym si\u0119 \u015bwiecie zdecentralizowanych aplikacji, w tym uruchomienie BonkSwap, wyr\u00f3\u017cnia j\u0105. Na dzisiejszym rynku, gdzie ro\u015bnie liczba projekt\u00f3w kierowanych przez spo\u0142eczno\u015b\u0107, potencja\u0142 BONK jest zauwa\u017calny. W por\u00f3wnaniu do innych memecoin\u00f3w, kt\u00f3rym cz\u0119sto brakuje prawdziwej u\u017cyteczno\u015bci, BONK integruje si\u0119 z kwitn\u0105cym ekosystemem. Dla tych, kt\u00f3rzy obserwuj\u0105 trendy w zdecentralizowanych finansach i tokenach spo\u0142eczno\u015bciowych, BONK mo\u017ce by\u0107 atrakcyjn\u0105 opcj\u0105.\n\nWnioski\n\nPodczas gdy FLOKI i BONK s\u0105 obiecuj\u0105ce, XYZVerse (XYZ) d\u0105\u017cy do wzrostu o 20 000%, jednocz\u0105c fan\u00f3w sportu w nap\u0119dzanym przez spo\u0142eczno\u015b\u0107 memecoinie wiod\u0105cym wzrost popularno\u015bci.\n\nWi\u0119cej informacji o XYZVerse (XYZ) znajdziesz tutaj:\n\nhttps://xyzverse.io/, https://t.me/xyzverse, https://x.com/xyz_verse\n\nDzi\u0119kujemy, \u017ce przeczyta\u0142e\u015b/a\u015b nasz artyku\u0142 do ko\u0144ca. Obserwuj nas w Wiadomo\u015bciach Google i b\u0105d\u017a na bie\u017c\u0105co!"
         }
     },
     {
@@ -154,7 +154,7 @@
             "description": "Wiele os\u00f3b z sentymentem i nostalgi\u0105 wraca do okresu PRL. Cho\u0107 nie by\u0142y to cz\u0119sto \u0142atwe czasy do \u017cycia, sprzeciw wobec w\u0142adzy wi\u0105za\u0142 si\u0119 z konsekwencjami, a na sklepowych p\u00f3\u0142kach dominowa\u0142y przede ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski on MSN11 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN15 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
@@ -170,9 +170,25 @@
             "description": "Unikatowy charakter mia\u0142y r\u00f3wnie\u017c przedmioty z tego okresu. Z pewno\u015bci\u0105 wiele os\u00f3b posiada w swoich domach rzeczy z czas\u00f3w ...",
             "image_url": "https://www.bing.pl/th?id=OVF.fxOd9p857qaiL8PZKoFrwg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "G\u0142os Koszali\u0144ski on MSN11 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN15 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Poszukiwana bi\u017cuteria PRL. Oto aktualne ceny - w 2025 roku kolekcjonerzy p\u0142ac\u0105 za ni\u0105 krocie [7.04.2025]",
+            "link": "https://nowosci.com.pl/poszukiwana-bizuteria-prl-oto-aktualne-ceny-w-2025-roku-kolekcjonerzy-placa-za-nia-krocie-7-04-2025/ar/c6p2-27432301",
+            "description": "Pier\u015bcionki, naszyjniki czy kolczyki z czas\u00f3w PRL to w 2025 roku prawdziwe skarby dla kolekcjoner\u00f3w i mi\u0142o\u015bnik\u00f3w stylu retro. Je\u015bli posiadasz takie pami\u0105tki po babci z tamtych czas\u00f3w, warto przyjrze\u0107 ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.csLl8ZFonfuC8KKWalWEGg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stara+porcelana",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski2 godz.",
+            "source": "Nowo\u015bci Dziennik Toru\u0144ski",
+            "article_content": "Content not available"
         }
     },
     {
@@ -186,24 +202,8 @@
             "description": "Czy najlepsze MEMY o PRL mog\u0105 ukazywa\u0107 istot\u0119 \u017cycia w Polskiej Rzeczpospolitej Ludowej? Z pewno\u015bci\u0105 nie by\u0142y to \u0142atwe czasy, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.-FRZmVHYjjqAmirVkIH0ri&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "G\u0142os Koszali\u0144ski on MSN11 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN15 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Poszukiwana bi\u017cuteria PRL. Oto aktualne ceny - w 2025 roku kolekcjonerzy p\u0142ac\u0105 za ni\u0105 krocie [6.04.2025]",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/poszukiwana-bi%C5%BCuteria-prl-oto-aktualne-ceny-w-2025-roku-kolekcjonerzy-p%C5%82ac%C4%85-za-ni%C4%85-krocie-5042025-r/ar-AA1CkGgw?ocid=BingNewsVerp",
-            "description": "Pier\u015bcionki, naszyjniki czy kolczyki z czas\u00f3w PRL to w 2025 roku prawdziwe skarby dla kolekcjoner\u00f3w i mi\u0142o\u015bnik\u00f3w stylu retro. Je\u015bli posiadasz takie pami\u0105tki po babci z tamtych czas\u00f3w, warto przyjrze\u0107 ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.csLl8ZFonfuC8KKWalWEGg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stara+porcelana",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN21 godz.",
-            "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
             "article_content": ""
         }
     },
@@ -218,7 +218,7 @@
             "description": "Ta porcelana z PRL jest warta maj\u0105tek! Unikatowe zestawy, talerze, fili\u017canki z PRL. Tych przedmiot\u00f3w szukaj\u0105 kolekcjonerzy!",
             "image_url": "https://www.bing.pl/th?id=OVF.QRlyQZpFFZ74NgVFeWHb%2fA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "G\u0142os Koszali\u0144ski11 godz.",
+            "date": "G\u0142os Koszali\u0144ski15 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
         }
@@ -231,11 +231,27 @@
         "body": {
             "title": "Targi Staroci w Podkarpackim Centrum Hurtowym AGROHURT S.A. przyci\u0105gn\u0119\u0142y klient\u00f3w mimo zimnej aury [FOTO, WIDEO]",
             "link": "https://www.msn.com/pl-pl/wiadomosci/polska/targi-staroci-w-podkarpackim-centrum-hurtowym-agrohurt-sa-przyci%C4%85gn%C4%99%C5%82y-klient%C3%B3w-mimo-zimnej-aury-foto-wideo/ar-AA1CoHRo?ocid=BingNewsVerp",
-            "description": "No description",
-            "image_url": "https://www.bing.pl/th?id=ODF.y_dEta6k5L6Idskh7fVTtA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "description": "Rzeszowskie Targi Staroci odby\u0142y si\u0119 w niedziel\u0119, 6 kwietnia 2025 r. w Podkarpackim Centrum Hurtowym AGROHURT S.A. Cho\u0107 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.20ma9zbFlGNuZLdOiuREBi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Nasze Miasto on MSN41 min",
+            "date": "Nasze Miasto on MSN4 godz.",
             "source": "Nasze Miasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Interesuj\u0105ce Targi Staroci w Rzeszowie [ZDJ\u0118CIA, WIDEO]",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/interesuj%C4%85ce-targi-staroci-w-rzeszowie-zdj%C4%99cia-wideo/ar-AA1CoRgN?ocid=BingNewsVerp",
+            "description": "Targi przyci\u0105gn\u0119\u0142y nie tylko profesjonalnych kolekcjoner\u00f3w, ale tak\u017ce zbieraczy i poszukiwaczy oryginalnych przedmiot\u00f3w do ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.x2am8jHBKpFW5YFbmTRXpg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "Nowiny 24 on MSN2 godz.",
+            "source": "Nowiny 24 on MSN",
             "article_content": ""
         }
     },
@@ -247,10 +263,10 @@
         "body": {
             "title": "Pchli Targ w zimn\u0105 niedziel\u0119 6 kwietnia 2025 - kwiaty, dekoracje, meble i starocie. Zdj\u0119cia, ceny, wideo",
             "link": "https://www.msn.com/pl-pl/wiadomosci/other/pchli-targ-w-zimn%C4%85-niedziel%C4%99-6-kwietnia-2025-kwiaty-dekoracje-meble-i-starocie-zdj%C4%99cia-ceny-wideo/ar-AA1Co5Bu?ocid=BingNewsVerp",
-            "description": "No description",
+            "description": "W niedziel\u0119, 6 kwietnia, Pchli Targ we W\u0142oc\u0142awku odby\u0142 si\u0119 przy zimnym wietrze i pochmurnym niebie \u2013 wielu mieszka\u0144c\u00f3w zrezygnowa\u0142o z odwiedzin, a alejki przy alei Kazimierza Wielkiego by\u0142y wyra\u017anie m ...",
             "image_url": "https://www.bing.pl/th?id=ODF.Bm8piDnsAoinfeChI0AgCw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN4 godz.",
+            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN8 godz.",
             "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -261,12 +277,28 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Targowisko przy ul. Kaliskiej we W\u0142oc\u0142awku - 5 kwietnia 2025. Tanie warzywa, owoce, kwiaty i dekoracje. Zdj\u0119cia, wideo, ceny",
-            "link": "https://www.msn.com/pl-pl/kuchnia/wiadomosci-o-zywieniu/targowisko-przy-ul-kaliskiej-we-w%C5%82oc%C5%82awku-5-kwietnia-2025-tanie-warzywa-owoce-kwiaty-i-dekoracje-zdj%C4%99cia-wideo-ceny/ar-AA1Cly9j?ocid=BingNewsVerp",
-            "description": "No description",
+            "title": "Kolekcjonerskie pere\u0142ki na jarmarku staroci w B\u0119dzinie! Klasyczna Niedziela rozpocz\u0119\u0142a sezon. Zobacz jakie skarby mo\u017cna by\u0142o znale\u017a\u0107 na hali",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/kolekcjonerskie-pere%C5%82ki-na-jarmarku-staroci-w-b%C4%99dzinie-klasyczna-niedziela-rozpocz%C4%99%C5%82a-sezon-zobacz-jakie-skarby-mo%C5%BCna-by%C5%82o-znale%C5%BA%C4%87-na-hali/ar-AA1CoV51?ocid=BingNewsVerp",
+            "description": "\"Klasyczna Niedziela\". To wydarzenie, kt\u00f3re przyci\u0105ga mi\u0142o\u015bnik\u00f3w staroci i kolekcjoner\u00f3w z ca\u0142ego regionu. Podczas szperania ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.SGi22kv%2bywNpcs%2f3cGoErw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "B\u0119dzin Nasze Miasto on MSN2 godz.",
+            "source": "B\u0119dzin Nasze Miasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Ostatni BioJarmark przy ulicy Piwnej we W\u0142oc\u0142awku - 6 kwietnia 2025. Zdj\u0119cia, wideo",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/ostatni-biojarmark-przy-ulicy-piwnej-we-w%C5%82oc%C5%82awku-6-kwietnia-2025-zdj%C4%99cia-wideo/ar-AA1CoQTc?ocid=BingNewsVerp",
+            "description": "W niedziel\u0119, 6 kwietnia 2025, ulica Piwna we W\u0142oc\u0142awku po raz ostatni zamieni\u0142a si\u0119 w t\u0119tni\u0105cy \u017cyciem BioJarmark, kt\u00f3ry od 3 maja zmienia swoj\u0105 lokalizacj\u0119. Niedzielne wydarzenie jak zawsze przyci\u0105gn\u0119 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.Bm8piDnsAoinfeChI0AgCw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN20 godz.",
+            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN3 godz.",
             "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -277,45 +309,29 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Motobazar w Toruniu. Fani motoryzacji mieli co ogl\u0105da\u0107 i kupowa\u0107",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/motobazar-w-toruniu-fani-motoryzacji-mieli-co-ogl%C4%85da%C4%87-i-kupowa%C4%87/ar-AA1Copu9?ocid=BingNewsVerp",
-            "description": "No description",
-            "image_url": "https://www.bing.pl/th?id=ODF.csLl8ZFonfuC8KKWalWEGg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "targ+staroci",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN3 godz.",
-            "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "One More Game Wroc\u0142aw",
-            "link": "https://gazetawroclawska.pl/tag/one-more-game-wroclaw",
-            "description": "No description",
-            "image_url": "https://www.bing.pl/th?id=ODF.p9YO103MXreScWBGsL62IA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "targ+staroci",
-            "date": "Gazeta Wroc\u0142awska9 godz.",
-            "source": "Gazeta Wroc\u0142awska",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Trasy nordic walking do 6 km od Ko\u0142obrzegu. Podpowiedzi ciekawych tras na weekend 5 - 6 kwietnia",
-            "link": "https://kolobrzeg.naszemiasto.pl/trasy-nordic-walking-do-6-km-od-kolobrzegu-podpowiedzi-ciekawych-tras-na-weekend-5-6-kwietnia/ar/c7p1-22319027",
-            "description": "Razem z Traseo wybrali\u015bmy 3 trasy nordic walking oddalone maksymalnie o 6 km od Ko\u0142obrzegu. Sprawd\u017a, czy trasa polecana przez innych odpowiada r\u00f3wnie\u017c Tobie. Nim wyjdziesz, upewnij si\u0119, jaka b\u0119dzie ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.xGyVXoJ9b0zlcu2rTPA_6w&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Zamykaj\u0105 wjazd na most w Gorzowie od strony Nadbrze\u017cnej",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/zamykaj%C4%85-wjazd-na-most-w-gorzowie-od-strony-nadbrze%C5%BCnej/ar-AA1CoUHw?ocid=BingNewsVerp",
+            "description": "Przebudowa ul. Spichrzowej i przyleg\u0142ych do niej skrzy\u017cowa\u0144 wkracza w kolejny etap. Od poniedzia\u0142ku 7 kwietnia nie b\u0119dzie ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.EdnS5P3EG1B5hWQvTgogvy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Ko\u0142obrzeg Nasze Miasto2 godz.",
-            "source": "Ko\u0142obrzeg Nasze Miasto",
+            "date": "Nasze Miasto on MSN3 godz.",
+            "source": "Nasze Miasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Wycieczki rowerowe do 19 km od O\u015bwi\u0119cimia. Podpowiedzi jednodniowych wypraw. Gdzie w weekend 5 - 6 kwietnia?",
+            "link": "https://oswiecim.naszemiasto.pl/wycieczki-rowerowe-do-19-km-od-oswiecimia-podpowiedzi-jednodniowych-wypraw-gdzie-w-weekend-5-6-kwietnia/ar/c7p1-21831633",
+            "description": "Zamek w Mosznej jest jedn\u0105 z najwi\u0119kszych atrakcji Opolszczyzny i jednym z najciekawszych zamk\u00f3w w Polsce. Swoj\u0105 s\u0142aw\u0119 zawdzi\u0119cza bajkowemu wygl\u0105dowi - ma 365 pomieszcze\u0144, 99 wie\u017c i wie\u017cyczek. Do 30 ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.hU9b0B80CrRL-uqx7ot5XQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "relikty",
+            "date": "O\u015bwi\u0119cim Nasze Miasto6 godz.",
+            "source": "O\u015bwi\u0119cim Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -330,7 +346,7 @@
             "description": "We wsp\u00f3\u0142pracy z Traseo przygotowali\u015bmy dla Was 3 trasy spacerowe w odleg\u0142o\u015bci do 6 km od Ko\u0142obrzegu, kt\u00f3re polecaj\u0105 inni spacerowicze. Wybierz najlepsz\u0105 dla siebie. Nim wyruszysz w drog\u0119, sprawd\u017a ...",
             "image_url": "https://www.bing.pl/th?id=ODF.xGyVXoJ9b0zlcu2rTPA_6w&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Ko\u0142obrzeg Nasze Miasto2 godz.",
+            "date": "Ko\u0142obrzeg Nasze Miasto6 godz.",
             "source": "Ko\u0142obrzeg Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -341,13 +357,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Wycieczki rowerowe do 19 km od O\u015bwi\u0119cimia. Podpowiedzi jednodniowych wypraw. Gdzie w weekend 5 - 6 kwietnia?",
-            "link": "https://oswiecim.naszemiasto.pl/wycieczki-rowerowe-do-19-km-od-oswiecimia-podpowiedzi-jednodniowych-wypraw-gdzie-w-weekend-5-6-kwietnia/ar/c7p1-21831633",
-            "description": "Zamek w Mosznej jest jedn\u0105 z najwi\u0119kszych atrakcji Opolszczyzny i jednym z najciekawszych zamk\u00f3w w Polsce. Swoj\u0105 s\u0142aw\u0119 zawdzi\u0119cza bajkowemu wygl\u0105dowi - ma 365 pomieszcze\u0144, 99 wie\u017c i wie\u017cyczek. Do 30 ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.hU9b0B80CrRL-uqx7ot5XQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Trasy nordic walking do 6 km od Ko\u0142obrzegu. Podpowiedzi ciekawych tras na weekend 5 - 6 kwietnia",
+            "link": "https://kolobrzeg.naszemiasto.pl/trasy-nordic-walking-do-6-km-od-kolobrzegu-podpowiedzi-ciekawych-tras-na-weekend-5-6-kwietnia/ar/c7p1-22319027",
+            "description": "Razem z Traseo wybrali\u015bmy 3 trasy nordic walking oddalone maksymalnie o 6 km od Ko\u0142obrzegu. Sprawd\u017a, czy trasa polecana przez innych odpowiada r\u00f3wnie\u017c Tobie. Nim wyjdziesz, upewnij si\u0119, jaka b\u0119dzie ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.xGyVXoJ9b0zlcu2rTPA_6w&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "O\u015bwi\u0119cim Nasze Miasto3 godz.",
-            "source": "O\u015bwi\u0119cim Nasze Miasto",
+            "date": "Ko\u0142obrzeg Nasze Miasto6 godz.",
+            "source": "Ko\u0142obrzeg Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -362,24 +378,8 @@
             "description": "Toru\u0144 otrzyma ogromne wsparcie finansowe na renowacj\u0119 i udost\u0119pnienie siedmiu zabytk\u00f3w ze znajduj\u0105cej si\u0119 na li\u015bcie UNESCO ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.KGtssPxPUn8qrROOeW6lhC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski10 godz.",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski14 godz.",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Wycieczki rowerowe do 66 km od \u0141asku. Podpowiedzi jednodniowych wypraw. Gdzie w weekend 5 - 6 kwietnia?",
-            "link": "https://lask.naszemiasto.pl/wycieczki-rowerowe-do-66-km-od-lasku-podpowiedzi-jednodniowych-wypraw-gdzie-w-weekend-5-6-kwietnia/ar/c7p1-21831921",
-            "description": "We wsp\u00f3\u0142pracy z Traseo wybrali\u015bmy dla Was 5 tras rowerowych w odleg\u0142o\u015bci do 66 km od \u0141asku, kt\u00f3re przetestowali inni ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.0EWnKp_QdPeyLZnUoirv6i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "\u0141ask Nasze Miasto2 godz.",
-            "source": "\u0141ask Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -394,24 +394,8 @@
             "description": "Do Pawilonu C-G wybrali\u015bmy si\u0119 dzi\u0119ki informacji regionalnych aktywist\u00f3w, \u017ce wyr\u00f3s\u0142 tam niezwykle rzadki gatunek paproci.",
             "image_url": "https://www.bing.pl/th?id=OVF.NdKlUdU0wbH5FL0aXut0zg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Katowice Nasze Miasto on MSN7 godz.",
+            "date": "Katowice Nasze Miasto on MSN11 godz.",
             "source": "Katowice Nasze Miasto on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Artystka tchnie \u017cycie w zabytkowy kiosk w Che\u0142mie. \"Zmieni\u0142am kierunek swojego \u017cycia i postawi\u0142am na marzenia\"",
-            "link": "https://www.msn.com/pl-pl/rozrywka/news/artystka-tchnie-%C5%BCycie-w-zabytkowy-kiosk-w-che%C5%82mie-zmieni%C5%82am-kierunek-swojego-%C5%BCycia-i-postawi%C5%82am-na-marzenia/ar-AA1CowSX?ocid=BingNewsVerp",
-            "description": "Aleksandra Krawczuk vel Walczuk, malarka, kt\u00f3ra wywr\u00f3ci\u0142a swoje pouk\u0142adane \u017cycie w Warszawie i przeprowadzi\u0142a si\u0119 do Che\u0142ma. Tam odnalaz\u0142a miejsce, kt\u00f3re pozwala jej tworzy\u0107 i daje wiele inspiracji.",
-            "image_url": "https://www.bing.pl/th?id=ODF.aMRxE716Km4MMRod0i_SEg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "zabytkowe+przedmioty",
-            "date": "Che\u0142m Nasze Miasto on MSN48 min",
-            "source": "Che\u0142m Nasze Miasto on MSN",
             "article_content": ""
         }
     },
@@ -426,24 +410,8 @@
             "description": "Miasto Krak\u00f3w przekaza\u0142o Archidiecezji Krakowskiej ko\u015bci\u00f3\u0142 \u015bw. \u0141azarza przy ul. Kopernika w odp\u0142atne u\u017cytkowanie.",
             "image_url": "https://www.bing.pl/th?id=OVFT.mFaTsmAWtcoTPVJKlrHFpi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Do Rzeczy on MSN6 godz.",
+            "date": "Do Rzeczy on MSN10 godz.",
             "source": "Do Rzeczy on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Artystka o\u017cywia zabytkowy kiosk w Che\u0142mie. \"Zmieni\u0142am kierunek swojego \u017cycia i postawi\u0142am na marzenia\"",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/artystka-o%C5%BCywia-zabytkowy-kiosk-w-che%C5%82mie-zmieni%C5%82am-kierunek-swojego-%C5%BCycia-i-postawi%C5%82am-na-marzenia/ar-AA1CoCc4?ocid=BingNewsVerp",
-            "description": "Aleksandra Krawczuk vel Walczuk, malarka, kt\u00f3ra wywr\u00f3ci\u0142a swoje pouk\u0142adane \u017cycie w Warszawie i przeprowadzi\u0142a si\u0119 do Che\u0142ma. Tam odnalaz\u0142a miejsce, kt\u00f3re pozwala jej tworzy\u0107 i daje wiele inspiracji.",
-            "image_url": "https://www.bing.pl/th?id=ODF.lto-jgjLT22CJn-xbZRKjA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "zabytkowe+przedmioty",
-            "date": "Kurier Lubelski on MSN1 godz.",
-            "source": "Kurier Lubelski on MSN",
             "article_content": ""
         }
     },
@@ -458,7 +426,7 @@
             "description": "W cieniu sporu wok\u00f3\u0142 teren\u00f3w po dawnym O\u015brodku Post\u0119pu Technicznego i Mi\u0119dzynarodowych Targach Katowickich swoj\u0105 \"robot\u0119\" ...",
             "image_url": "https://www.bing.pl/th?id=OVF.m%2fnftY2ZFCQZOYIr6SGLUw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Dziennik Zachodni on MSN9 godz.",
+            "date": "Dziennik Zachodni on MSN12 godz.",
             "source": "Dziennik Zachodni on MSN",
             "article_content": ""
         }
@@ -469,14 +437,46 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Poszukiwane znaczki pocztowe PRL - kolekcjonerzy p\u0142ac\u0105 za nie krocie. Tyle w 2025 roku kosztuj\u0105 stare znaczki [6.04.2025 r.]",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/poszukiwane-znaczki-pocztowe-prl-kolekcjonerzy-p%C5%82ac%C4%85-za-nie-krocie-tyle-w-2025-roku-kosztuj%C4%85-stare-znaczki-6042025-r/ar-AA1C5F2A?ocid=BingNewsVerp",
-            "description": "Znaczki pocztowe z czas\u00f3w PRL to w 2025 roku prawdziwe skarby dla kolekcjoner\u00f3w i mi\u0142o\u015bnik\u00f3w filatelistyki. Niekt\u00f3re serie ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.RnJv9Ot40wxRH9PmIzBZGw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+numizmatyka",
-            "date": "Gazeta Pomorska on MSN23 godz.",
-            "source": "Gazeta Pomorska on MSN",
+            "title": "Artystka o\u017cywia zabytkowy kiosk w Che\u0142mie. \"Zmieni\u0142am kierunek swojego \u017cycia i postawi\u0142am na marzenia\"",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/artystka-o%C5%BCywia-zabytkowy-kiosk-w-che%C5%82mie-zmieni%C5%82am-kierunek-swojego-%C5%BCycia-i-postawi%C5%82am-na-marzenia/ar-AA1CoCc4?ocid=BingNewsVerp",
+            "description": "Aleksandra Krawczuk vel Walczuk, malarka, kt\u00f3ra wywr\u00f3ci\u0142a swoje pouk\u0142adane \u017cycie w Warszawie i przeprowadzi\u0142a si\u0119 do Che\u0142ma. Tam odnalaz\u0142a miejsce, kt\u00f3re pozwala jej tworzy\u0107 i daje wiele inspiracji.",
+            "image_url": "https://www.bing.pl/th?id=ODF.lto-jgjLT22CJn-xbZRKjA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "zabytkowe+przedmioty",
+            "date": "Kurier Lubelski on MSN5 godz.",
+            "source": "Kurier Lubelski on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pogrzeb artysty by\u0142 \"spektakularn\u0105 mistyfikacj\u0105\". Pomylono go ze szcz\u0105tkami dziewczyny",
+            "link": "https://noizz.pl/ksiazki/pogrzeb-artysty-byl-spektakularna-mistyfikacja-pomylono-jego-szczatki/ps7zm5v",
+            "description": "\"Gospodarze przekazali Maciejowi Witkiewiczowi przedmioty znalezione w grobie oraz zdj\u0119cia wykonane podczas ekshumacji. Ju\u017c ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.FGmsFx59-wspuKrEZ6nw2i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Noizz7 godz.",
+            "source": "Noizz",
+            "article_content": "\"Gospodarze przekazali Maciejowi Witkiewiczowi przedmioty znalezione w grobie oraz zdj\u0119cia wykonane podczas ekshumacji. Ju\u017c rzeczy osobiste zmar\u0142ego mog\u0142y zastanawia\u0107 \u2013 obr\u0105czka, kt\u00f3rej Witkacy nigdy nie nosi\u0142 (do tego metalowa, a nie z\u0142ota), ciasno zapi\u0119ty pas (tymczasem artysta w ostatnich latach sporo uty\u0142) i szklane guziki niepasuj\u0105ce do m\u0119skiego stroju. Najwi\u0119ksze zdumienie wzbudzi\u0142y fotografie domniemanych szcz\u0105tk\u00f3w Witkacego, a dok\u0142adniej czaszki ze \u015bwietnie zachowanym uz\u0119bieniem. Tymczasem z przedwojennych list\u00f3w artysty jednoznacznie wynika\u0142o, \u017ce w ostatnich latach nie mia\u0142 ju\u017c w\u0142asnych z\u0119b\u00f3w i korzysta\u0142 ze sztucznej szcz\u0119ki. Nie by\u0142o w\u0105tpliwo\u015bci \u2013 to nie by\u0142y ko\u015bci Stanis\u0142awa Ignacego Witkiewicza\".\n\nPublikujemy fragment ksi\u0105\u017cki \"Genialnie zmy\u015blone? Skarby, fa\u0142szerstwa, mistyfikacje\" Jakuba Kuzy\n\nJak w kolekcji malarskich fa\u0142szywek znalaz\u0142 si\u0119 jedyny polski obraz van Gogha? Czy najs\u0142ynniejszy pos\u0105g s\u0142owia\u0144skich pogan to wsp\u00f3\u0142czesne dzie\u0142o szale\u0144ca? Dlaczego na Mickiewiczu odprawiano egzorcyzmy?\n\nOdpowiedzi na te pytania znajdziecie w ksi\u0105\u017cce Kuzy, w kt\u00f3rej zaprasza do podr\u00f3\u017cy \u015bladami misternych k\u0142amstw i kryminalnych zagadek\n\nJakub Kuza od lat przemierza Polsk\u0119 tropem najbardziej tajemniczych miejsc i wydarze\u0144. Rozmawia z opiekunami zabytk\u00f3w, specjalistami i naukowcami. Wszystko po to by zosta\u0107 mistrzem narracji i opowiada\u0107 wy\u0142\u0105cznie w stu procentach prawdziw\u0105 histori\u0119\n\n\"Genialnie zmy\u015blone? Skarby, fa\u0142szerstwa, mistyfikacje\" Foto: Wydawnictwo Znak\n\nOstatni chichot Witkacego. Pogrzeby i ekshumacje mistrza Czystej Formy\n\nHistori\u0119 \"ostatnich 13 dni \u017cycia Stanis\u0142awa Ignacego Witkiewicza\" znamy g\u0142\u00f3wnie z relacji Czes\u0142awy Okni\u0144skiej. Je\u017celi artysta mia\u0142 jakikolwiek plan [...], to nie podzieli\u0142 si\u0119 nim z partnerk\u0105: \"Jechali\u015bmy, nic prawie nie m\u00f3wi\u0105c do siebie, tylko mocno trzyma\u0142 moj\u0105 r\u0119k\u0119 \u2013 to by\u0142a jego mowa\". Poci\u0105giem dotarli do Brze\u015bcia, gdzie pisarz pr\u00f3bowa\u0142 zaci\u0105gn\u0105\u0107 si\u0119 do wojska, Okni\u0144sk\u0105 polecaj\u0105c na sanitariuszk\u0119. [...] 7 wrze\u015bnia, po ci\u0119\u017ckim niemieckim nalocie, dalej na wsch\u00f3d ruszyli ju\u017c pieszo. \"T\u0142umy ludzi, p\u0142acz dzieci, porzucone walizki, opuszczone furki, zabite konie, uszkodzone samochody, wywr\u00f3cone autobusy z graj\u0105c\u0105 muzyk\u0105 taneczn\u0105 \u2013 koszmar\" \u2013 relacjonowa\u0142a Okni\u0144ska. Stan fizyczny i psychiczny Witkacego szybko si\u0119 pogarsza\u0142 \u2013 b\u00f3le serca, opuchni\u0119te nogi, biegunka, za\u0142amanie psychiczne i pierwsze wypowiedziane deklaracje o konieczno\u015bci sko\u0144czenia ze sob\u0105. [...]\n\nZ pomoc\u0105 przychodzi mapa samochodowa Polski z 1939 roku, kt\u00f3ra nie pozostawia zbyt wiele wyobra\u017ani \u2013 jedyna przyzwoita \"droga bita\" w okolicy prowadzi\u0142a do Pi\u0144ska, stolicy Polesia. Dopiero tam musieli skr\u0119ci\u0107 na po\u0142udnie, w g\u0142\u0105b najwi\u0119kszych mokrade\u0142 i trz\u0119sawisk Europy. Najp\u00f3\u017aniej w tym momencie Witkacy mia\u0142 ju\u017c plan \u2013 zmierza\u0142 do odludnego maj\u0105tku Walentego Ziemla\u0144skiego, znajomego z czas\u00f3w s\u0142u\u017cby w armii carskiej. Tam mogli si\u0119 czu\u0107 bezpieczni. Nieprzebyte bagna Polesia od wiek\u00f3w skutecznie odstrasza\u0142y wodz\u00f3w i genera\u0142\u00f3w, kt\u00f3rzy omijali te dzikie ost\u0119py albo od p\u00f3\u0142nocy, albo od po\u0142udnia. [\u2026]\n\nW otoczonej wod\u0105 i lasami wsi panowa\u0142 niezm\u0105cony spok\u00f3j, mimo \u017ce \u017cadnej w\u0142adzy ju\u017c tam nie by\u0142o [...]. Ziemla\u0144ski dysponowa\u0142 za to aparatem radiowym \u2013 w tamtych dniach jedynym w Jeziorach. [...] Na tym ko\u0144cu \u015bwiata s\u0142upy telefoniczne cz\u0119sto zapada\u0142y si\u0119 w b\u0142otnisty grunt, zrywaj\u0105c \u0142\u0105czno\u015b\u0107 [...]. Opr\u00f3cz nas\u0142uchiwania Polskiego Radia kolejne wrze\u015bniowe dni znaczy\u0142a jaka\u015b upiorna nierealno\u015b\u0107. [...] Mimo tych pozor\u00f3w normalno\u015bci kilkunastoletni syn gospodarza, W\u0142odzimierz, zapami\u0119ta\u0142, \u017ce tajemniczy go\u015b\u0107 by\u0142 \"ma\u0142om\u00f3wny, bardzo smutny i zdawa\u0142o si\u0119, \u017ce patrz\u0105c, jakby nic nie widzi i ze swymi my\u015blami jest gdzie\u015b indziej\". Gdy 17 wrze\u015bnia w po\u0142udnie podano informacje o wkroczeniu wojsk sowieckich do Polski, Witkacy dozna\u0142 za\u0142amania nerwowego, zacz\u0105\u0142 pali\u0107 dokumenty i opowiada\u0107 kochance o bestialstwach rewolucji bolszewickiej: \"Ty nic nie prze\u017cy\u0142a\u015b, ty nie wiesz, jak to by\u0142o\". [...] Wieczorem kompletnie zamilk\u0142, a w nocy nie spa\u0142, trzymaj\u0105c Czesie mocno za r\u0119k\u0119. Obudzi\u0142 j\u0105 jeszcze przed \u015bwitem, oko\u0142o godziny czwartej, m\u00f3wi\u0105c jedynie: \"To dzi\u015b\". Kiedy Okni\u0144ska pr\u00f3bowa\u0142a protestowa\u0107, uci\u0105\u0142 to bezwzgl\u0119dnym: \"Musimy teraz, p\u00f3ki jeszcze jest Polska\".\n\nWyszli po cichu z domu. [...] Przez blisko godzin\u0119 szukali odpowiedniego miejsca, w ko\u0144cu Witkacy wybra\u0142 pi\u0119kny, roz\u0142o\u017cysty d\u0105b. [...] Gdy Okni\u0144ska zacz\u0119\u0142a traci\u0107 przytomno\u015b\u0107, ostatnie, co us\u0142ysza\u0142a, to: \"Nie zasypiaj jeszcze, nie zostawiaj mnie samego\". Po jakim\u015b czasie obudzi\u0142y j\u0105 torsje, a tak\u017ce ch\u0142\u00f3d i wilgo\u0107 porannej rosy. Obok le\u017ca\u0142 Witkacy obryzgany krwi\u0105, z poder\u017cni\u0119tym \u017cyletk\u0105 gard\u0142em. [...] Oko\u0142o godziny dziewi\u0105tej odnale\u017ali ich okoliczni ch\u0142opi [...]. Nast\u0119pnego dnia po po\u0142udniu Witkacy zosta\u0142 pochowany na niewielkim miejscowym cmentarzu. Do prostej drewnianej trumny w\u0142o\u017cono tak\u017ce jego lask\u0119, z kt\u00f3r\u0105 si\u0119 nie rozstawa\u0142. Czes\u0142awa Okni\u0144ska w pogrzebie nie bra\u0142a udzia\u0142u \u2013 przez trzy dni le\u017ca\u0142a praktycznie nieprzytomna. 24 wrze\u015bnia, po ostatnim po\u017cegnaniu z ukochanym na cmentarzu, wyruszy\u0142a w powrotn\u0105 drog\u0119 do Warszawy.\n\nJak skrupulatnie obliczono, Czes\u0142awa Okni\u0144ska przedstawi\u0142a jedena\u015bcie r\u00f3\u017cnych wariant\u00f3w ostatnich chwil Stanis\u0142awa Ignacego Witkiewicza. [...] Ostatni\u0105 wersj\u0119, spisan\u0105 przez sam\u0105 muz\u0119 Witkacego, og\u0142oszono ju\u017c po jej \u015bmierci, w 1976 roku. [...] Jej kapry\u015bna i chwiejna postawa by\u0142a jednym z powod\u00f3w powstawania plotek co do prawdziwych okoliczno\u015bci tragedii z 1939 roku. [...]\n\nZ wiekiem Okni\u0144ska zacz\u0119\u0142a dodawa\u0107 do swoich opowie\u015bci nowe w\u0105tki, [...] budz\u0105c os\u0142upienie informacj\u0105, \u017ce s\u0142ynny prowokator i wolnomy\u015bliciel mia\u0142by u progu \u015bmierci prosi\u0107 o wsp\u00f3lne odm\u00f3wienie Ojcze nasz, a by\u0107 mo\u017ce nawet si\u0119 nawr\u00f3ci\u0107. [...] Analizuj\u0105c wiarygodno\u015b\u0107 wspomnie\u0144 Okni\u0144skiej, nale\u017cy pami\u0119ta\u0107 o przys\u0142uguj\u0105cym jej przywileju jedynego \u015bwiadka ostatnich chwil Witkacego. [...] Z czasem kobieta zacz\u0119\u0142a coraz bardziej obsesyjnie uto\u017csamia\u0107 si\u0119 ze swoim kochankiem \u2013 podpisywa\u0142a si\u0119 \"Okni\u0144ska-Witkacowa\", zdarza\u0142o jej si\u0119 m\u00f3wi\u0107 o sobie w liczbie mnogiej. [...]\n\nWczesn\u0105 wiosn\u0105 1988 roku dyrektor Teatru im. Stanis\u0142awa Ignacego Witkiewicza, Andrzej Dziuk, otrzyma\u0142 telefon, kt\u00f3ry m\u00f3g\u0142 okaza\u0107 si\u0119 poca\u0142unkiem \u015bmierci. Wraz z Muzeum Tatrza\u0144skim i zakopia\u0144skimi urz\u0119dnikami mia\u0142 w ekspresowym tempie przygotowa\u0107 uroczysto\u015b\u0107 poch\u00f3wku Witkacego pod Tatrami. Pr\u00f3by przekonania partyjnych dygnitarzy, aby ca\u0142e przedsi\u0119wzi\u0119cie lepiej przygotowa\u0107 i przenie\u015b\u0107 na jesie\u0144 (wrzesie\u0144 albo listopad) spe\u0142z\u0142y na niczym. W gr\u0119 wchodzi\u0142 tylko kwiecie\u0144 \u2013 \"miesi\u0105c przyja\u017ani polsko-radzieckiej\". Poniewa\u017c w\u0142adze Ukrai\u0144skiej SRR obieca\u0142y zaj\u0105\u0107 si\u0119 wszystkim na miejscu, w Warszawie w og\u00f3le nie zaprz\u0105tano sobie g\u0142owy kwesti\u0105 samej ekshumacji. Nie uznano te\u017c za stosowne, \u017ceby szerzej skonsultowa\u0107 ca\u0142\u0105 operacj\u0119 z naukowcami \u2013 witkacologami. [\u2026]\n\nMikrobus z Warszawy dotar\u0142 do samych Jezior 12 kwietnia, zaledwie na czterdzie\u015bci osiem godzin przed planowanymi uroczysto\u015bciami w Zakopanem, le\u017c\u0105cym w odleg\u0142o\u015bci siedmiuset kilometr\u00f3w. Na szcz\u0119\u015bcie radzieckie (ukrai\u0144skie) w\u0142adze spisa\u0142y si\u0119 na medal i na Polak\u00f3w czeka\u0142a ju\u017c zalutowana i opiecz\u0119towana cynowa trumna z ziemskimi pozosta\u0142o\u015bciami Stanis\u0142awa Ignacego Witkiewicza, wydobytymi spod bazaltowego pos\u0105gu. Aby liczni oficjele mogli w komfortowych warunkach przemaszerowa\u0107 i przem\u00f3wi\u0107 nad dotychczasowym miejscem spoczynku artysty, od bramy wej\u015bciowej przez sam \u015brodek cmentarza wytyczono buldo\u017cerem szerok\u0105 alejk\u0119 (r\u00f3wnaj\u0105c z ziemi\u0105 inne nagrobki) i wyci\u0119to tatrza\u0144skie \u015bwierki, kt\u00f3re sadzono Witkacemu kilkana\u015bcie lat wcze\u015bniej. Po uroczysto\u015bciach nad pustym ju\u017c grobem w miejscowej szkole zorganizowano uroczysty komunistyczny mityng z udzia\u0142em miejscowej ludno\u015bci i wart\u0105 dzieci stoj\u0105cych na baczno\u015b\u0107 przy trumnie \u2013\" [\u2026] pionier\u00f3w w czerwonych chustach, sinych i skostnia\u0142ych od zimna oraz wiatru, musztrowanych przez komsomo\u0142k\u0119\".\n\nKo\u015bci\u00f3\u0142ek, w kt\u00f3rym odby\u0142a si\u0119 msza pogrzebowa Foto: Archiwum prywatne autora\n\nWieczorem tego samego dnia, podczas uroczystej, oczywi\u015bcie zakrapianej kolacji w hotelu Mir, ju\u017c w R\u00f3wnem, gospodarze przekazali Maciejowi Witkiewiczowi przedmioty znalezione w grobie oraz zdj\u0119cia wykonane podczas ekshumacji. Ju\u017c rzeczy osobiste zmar\u0142ego mog\u0142y zastanawia\u0107 \u2013 obr\u0105czka, kt\u00f3rej Witkacy nigdy nie nosi\u0142 (do tego metalowa, a nie z\u0142ota), ciasno zapi\u0119ty pas (tymczasem artysta w ostatnich latach sporo uty\u0142) i szklane guziki niepasuj\u0105ce do m\u0119skiego stroju. Nie odnaleziono metalowej laski, kt\u00f3ra wed\u0142ug relacji Okni\u0144skiej trafi\u0142a do trumny. Ale najwi\u0119ksze zdumienie wzbudzi\u0142y fotografie domniemanych szcz\u0105tk\u00f3w Witkacego, a dok\u0142adniej czaszki ze \u015bwietnie zachowanym uz\u0119bieniem. Tymczasem z przedwojennych list\u00f3w artysty jednoznacznie wynika\u0142o, \u017ce w ostatnich latach nie mia\u0142 ju\u017c w\u0142asnych z\u0119b\u00f3w i korzysta\u0142 ze sztucznej szcz\u0119ki. Nie by\u0142o w\u0105tpliwo\u015bci \u2013 to nie by\u0142y ko\u015bci Stanis\u0142awa Ignacego Witkiewicza\u2026 W nocnej naradzie stryjecznego wnuka artysty i Oko\u0142owicza uczestniczy\u0142a te\u017c Alwida Bajor, obywatelka ZSRR, dziennikarka relacjonuj\u0105ca uroczysto\u015bci dla \"Czerwonego Sztandaru\", pisma mniejszo\u015bci polskiej w Litewskiej SRR. Kobieta radzi\u0142a interweniowa\u0107 jak najwy\u017cej, telefonowa\u0107 na Kreml, do samego Gorbaczowa. Tylko jak to zrobi\u0107? Pojawi\u0142 si\u0119 inny szalony pomys\u0142, aby wraz z pracownikami firmy BONGO, odpowiedzialnymi za transport zw\u0142ok, wr\u00f3ci\u0107 dwie\u015bcie kilometr\u00f3w do Jezior, zakopa\u0107 ko\u015bci na cmentarzu, a trumn\u0119 wype\u0142ni\u0107 symbolicznie tamtejsz\u0105 b\u0142otnist\u0105 ziemi\u0105. Narada sko\u0144czy\u0142a si\u0119 nad ranem, bez konstruktywnych wniosk\u00f3w.\n\nPrzy \u015bniadaniu Maciej Witkiewicz poinformowa\u0142 wiceministra kultury Ukrai\u0144skiej SRR, \u017ce osoba w trumnie, wedle wszelkiego prawdopodobie\u0144stwa, nie jest jego stryjecznym dziadkiem. Radzieccy notable byli zdumieni, powtarzali, \u017ce to niemo\u017cliwe, przecie\u017c identyfikacji szkieletu dokona\u0142 wybitny specjalista od medycyny s\u0105dowej. Inicjatyw\u0119 szybko przej\u0119li jednak liderzy polskiej delegacji. Wiceminister oraz g\u0142\u00f3wny konserwator zabytk\u00f3w zaprosili jedynego cz\u0142onka rodziny na przes\u0142uchanie za zamkni\u0119tymi drzwiami, kt\u00f3re i tak nie t\u0142umi\u0142y krzyk\u00f3w k\u0142\u00f3tni. Maciej Witkiewicz zosta\u0142 brutalnie u\u015bwiadomiony, \u017ce je\u015bli chce wywo\u0142a\u0107 mi\u0119dzynarodowy skandal zagra\u017caj\u0105cy odwiecznej przyja\u017ani polsko-radzieckiej, to wy\u0142\u0105cznie na w\u0142asny rachunek. Niedwuznacznie zagro\u017cono mu, \u017ce w takim wypadku jego mi\u0119dzynarodowa kariera \u015bpiewaka operowego mo\u017ce si\u0119 b\u0142yskawicznie zako\u0144czy\u0107. Sytuacj\u0119 pr\u00f3bowa\u0142 za\u0142agodzi\u0107 prezes ZLP Wojciech \u017bukrowski, podkre\u015blaj\u0105c, \u017ce najwa\u017cniejszy jest symboliczny, nierealny wymiar powt\u00f3rnego poch\u00f3wku, a wszystko nale\u017ca\u0142oby potraktowa\u0107 jako ostatni \u017cart Witkacego.\n\nJeszcze inna sprawa, \u017ce pogrzeb by\u0142 zaplanowany na kolejny dzie\u0144, i tak nie by\u0142o wi\u0119c czasu na podj\u0119cie jakichkolwiek dzia\u0142a\u0144, innych ni\u017c odwo\u0142anie ca\u0142ej uroczysto\u015bci, co partyjnym aparatczykom nie mie\u015bci\u0142o si\u0119 w g\u0142owach. Zdj\u0119cia skonfiskowano (Oko\u0142owicz nie przyzna\u0142 si\u0119, \u017ce zd\u0105\u017cy\u0142 je wcze\u015bniej sfotografowa\u0107), a polska delegacja w minorowych nastrojach ruszy\u0142a w stron\u0119 granicy. O sprawie wiedzia\u0142o ju\u017c kilkana\u015bcie os\u00f3b, w tym towarzysz\u0105cy wyprawie dziennikarze z Polskiej Agencji Prasowej i TVP. Wbrew pragnieniu wiceministra Molka dochowanie tajemnicy nie by\u0142o w takim przypadku mo\u017cliwe.\n\nO wszystkim poinformowany zosta\u0142 minister kultury i sztuki, ceniony historyk Aleksander Krawczuk, kt\u00f3ry w mi\u0119dzyczasie dojecha\u0142 do Zakopanego. I to zapewne on zdecydowa\u0142, aby zgodnie z planem kontynuowa\u0107 pod Tatrami ju\u017c nie ponowny pogrzeb, lecz spektakularn\u0105 mistyfikacj\u0119. [\u2026]\n\nPo kilkunastu miesi\u0105cach na gr\u00f3b, bez \u017cadnego s\u0142owa wyja\u015bnienia, wr\u00f3ci\u0142a poprzednia p\u0142yta, po\u015bwi\u0119cona zar\u00f3wno Marii Witkiewiczowej, jak i Witkacemu, znowu \"pochowanemu w Jeziorach na Polesiu\". Ale na tym koniec \u2013 Ministerstwo Kultury i Sztuki wci\u0105\u017c nie zamierza\u0142o oficjalnie przyzna\u0107, \u017ce dosz\u0142o do tragicznej pomy\u0142ki. Patowa sytuacja trwa\u0142a kolejnych kilka lat. Uda\u0142o si\u0119 j\u0105 prze\u0142ama\u0107 g\u0142\u00f3wnie dzi\u0119ki staraniom niezmordowanego W\u0142odzimierza Ziemla\u0144skiego, kt\u00f3ry s\u0142a\u0142 kolejne listy otwarte lub protestacyjne do kogo tylko si\u0119 da\u0142o. Kluczowe by\u0142o pozyskanie dla sprawy rzeszowskiego pos\u0142a Sojuszu Lewicy Demokratycznej Stanis\u0142awa Rusznicy, kt\u00f3ry w lutym i w sierpniu 1994 roku z\u0142o\u017cy\u0142 w Sejmie dwie kolejne interpelacje poselskie do ministra kultury i sztuki, oczekuj\u0105c wyja\u015bnie\u0144. Reprezentuj\u0105cy koalicyjne Polskie Stronnictwo Ludowe Kazimierz Dejmek pocz\u0105tkowo szed\u0142 w zaparte, broni\u0105c swoich poprzednik\u00f3w na ministerialnym sto\u0142ku, ale w ko\u0144cu skapitulowa\u0142 i obieca\u0142 powo\u0142anie specjalnej komisji, kt\u00f3rej zadaniem mia\u0142o by\u0107 \"definitywne orzeczenie, na podstawie przes\u0142anek naukowych, czy sprowadzone do Zakopanego szcz\u0105tki s\u0105 prochami Stanis\u0142awa Ignacego Witkiewicza\".\n\nKomisja szybko ustali\u0142a, \u017ce wbrew temu, co twierdzili urz\u0119dnicy ministerstwa, nie by\u0142o \u017cadnego zastrze\u017cenia z Moskwy, \u017ce w ekshumacji w Jeziorach nie mog\u0105 bra\u0107 udzia\u0142u polscy antropolodzy. By\u0142o wr\u0119cz przeciwnie \u2013 to strona radziecka ze zdziwieniem przyj\u0119\u0142a brak zainteresowania Warszawy kwesti\u0105 identyfikacji zw\u0142ok. 26 listopada 1994 roku na zakopia\u0144skim Cmentarzu Zas\u0142u\u017conych dokonano kolejnej ekshumacji domniemanych szcz\u0105tk\u00f3w Stanis\u0142awa Ignacego Witkiewicza. Szerokim echem w kraju odbi\u0142y si\u0119 obrazki funkcjonariuszy stra\u017cy miejskiej wypychaj\u0105cych z nekropolii dziennikarzy, kt\u00f3rych coraz cz\u0119\u015bciej obwiniano o ca\u0142e zamieszanie. Trumn\u0119 po\u015bpiesznie przewieziono do zakopia\u0144skiego prosektorium, gdzie jeden z lokalnych dziennikarzy, przebrany dla niepoznaki w bia\u0142y kitel, szybko zauwa\u017cy\u0142 g\u00f3rn\u0105 szcz\u0119k\u0119 z kompletem uz\u0119bienia i wyni\u00f3s\u0142 tak\u0105 informacj\u0119 na zewn\u0105trz. Wkr\u00f3tce ekshumacyjn\u0105 pomy\u0142k\u0119 potwierdzi\u0142 cz\u0142onek komisji, wybitny polski paleopatolog, profesor Tadeusz Dzier\u017cykray-Rogalski, przynosz\u0105c zarazem nowe rewelacje. Osob\u0105 pochowan\u0105 w grobie wraz z Mari\u0105 Witkiewiczow\u0105 nie by\u0142 \u017caden ch\u0142op z Polesia, tylko kobieta, najprawdopodobniej zmar\u0142a w trakcie porodu. W jaki spos\u00f3b do\u015bwiadczony radziecki antropolog m\u00f3g\u0142 w 1988 roku pomyli\u0107 szcz\u0105tki m\u0142odej dziewczyny ze szkieletem starszego m\u0119\u017cczyzny \u2013 tego nikt nie potrafi\u0142 wyja\u015bni\u0107.\n\nOczywi\u015bcie pojawi\u0142o si\u0119 pytanie, co dalej. Zar\u00f3wno rodzina Witkacego, jak i ministerialna komisja zgodzi\u0142y si\u0119, \u017ce dalsze poszukiwania szkieletu artysty na cmentarzu w Jeziorach wi\u0105za\u0142yby si\u0119 z dalszym \"pogwa\u0142ceniem praw boskich i ludzkich\", jednym s\u0142owem \u2013 z kolejn\u0105 profanacj\u0105. Postanowiono te\u017c uszanowa\u0107 kuriozalny wyrok historii (czy mo\u017ce raczej ludzkiej bezmy\u015blno\u015bci) i pozostawi\u0107 we wsp\u00f3lnym zakopia\u0144skim grobie Mari\u0119 Witkiewiczow\u0105 i bezimienn\u0105 ch\u0142opk\u0119 z Polesia."
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Poszukiwane znaczki pocztowe PRL - kolekcjonerzy p\u0142ac\u0105 za nie krocie. Tyle w 2025 roku kosztuj\u0105 stare znaczki [7.04.2025 r.]",
+            "link": "https://pomorska.pl/poszukiwane-znaczki-pocztowe-prl-kolekcjonerzy-placa-za-nie-krocie-tyle-w-2025-roku-kosztuja-stare-znaczki-7-04-2025-r/ar/c3p2-27423903",
+            "description": "Znaczki pocztowe z czas\u00f3w Polskiej Rzeczypospolitej Ludowej zyska\u0142y na warto\u015bci i s\u0105 obiektem po\u017c\u0105dania wielu kolekcjoner\u00f3w.",
+            "image_url": "https://www.bing.pl/th?id=OVFT.QCGgQ7TcRCodKwjSmxS6kS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+numizmatyka",
+            "date": "Gazeta Pomorska3 godz.",
+            "source": "Gazeta Pomorska",
+            "article_content": "Content not available"
         }
     },
     {
@@ -490,7 +490,7 @@
             "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
             "image_url": "https://www.bing.pl/th?id=OVF.Oe0GqcjAs1tREMVHUoF13w&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Express Ilustrowany on MSN10 godz.",
+            "date": "Express Ilustrowany on MSN14 godz.",
             "source": "Express Ilustrowany on MSN",
             "article_content": ""
         }
