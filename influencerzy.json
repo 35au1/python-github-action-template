@@ -10,7 +10,7 @@
             "description": "W sobot\u0119 19.04.2025 roku najwi\u0119cej by\u0142o stanowisk z warzywami i owocami, ale nie zabrak\u0142o stanowisk z odzie\u017c\u0105 i butami ...",
             "image_url": "https://www.bing.pl/th?id=OVF.z2bkYlY1l40YXBCID7mYOg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN6 godz.",
+            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN8 godz.",
             "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -26,7 +26,7 @@
             "description": "pochodzenia - wazony z renomowanych hut, takich jak \"Z\u0105bkowice\" czy \"Irena\", s\u0105 bardziej warto\u015bciowe.",
             "image_url": "https://www.bing.pl/th?id=OVF.NaOaj3pmC%2f6qjwbeafPs0g&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Express Bydgoski on MSN7 godz.",
+            "date": "Express Bydgoski on MSN10 godz.",
             "source": "Express Bydgoski on MSN",
             "article_content": ""
         }
@@ -42,7 +42,7 @@
             "description": "Pieni\u0105dze z czas\u00f3w PRL to w 2025 roku prawdziwe skarby dla kolekcjoner\u00f3w i mi\u0142o\u015bnik\u00f3w numizmatyki. Ceny peerelowskich monet i ...",
             "image_url": "https://www.bing.pl/th?id=OVF.8gO%2bnxj6NqDoTHM%2bzUW%2fMw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Gazeta Pomorska on MSN8 godz.",
+            "date": "Gazeta Pomorska on MSN11 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -58,7 +58,7 @@
             "description": "We W\u0142oc\u0142awku dzia\u0142aj\u0105 dwa miejskie targowiska oraz niedzielny pchli targ. Jedno z targowisk znajduje si\u0119 przy ulicy Kaliskiej ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.xujT2-Kd99ldpvLEfR0voy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN6 godz.",
+            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN8 godz.",
             "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -74,7 +74,7 @@
             "description": "Nawet w Wielk\u0105 Sobot\u0119 pasjonaci Gie\u0142dy Staroci i Ro\u017cno\u015bci w Starachowicach nie odpuszczaj\u0105. Jak co sobot\u0119 zjawili si\u0119 na parkingu Specjalnej Strefy Ekonomicznej Starachowice i mieli klient\u00f3w.",
             "image_url": "https://www.bing.pl/th?id=ODF.IYNYIrP1cScoR_PcrwdBfQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "Starachowice Nasze Miasto on MSN12 godz.",
+            "date": "Starachowice Nasze Miasto on MSN14 godz.",
             "source": "Starachowice Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -90,8 +90,24 @@
             "description": "Pieni\u0105dze z czas\u00f3w PRL to w 2025 roku prawdziwe skarby dla kolekcjoner\u00f3w i mi\u0142o\u015bnik\u00f3w numizmatyki. Ceny peerelowskich monet i ...",
             "image_url": "https://www.bing.pl/th?id=OVF.8gO%2bnxj6NqDoTHM%2bzUW%2fMw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Gazeta Pomorska on MSN8 godz.",
+            "date": "Gazeta Pomorska on MSN11 godz.",
             "source": "Gazeta Pomorska on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Monety z PRL s\u0105 sporo warte. Ma\u0142\u0105 fortun\u0119 dostaniesz nawet za pieni\u0105dze obiegowe",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/monety-z-prl-s%C4%85-sporo-warte-ma%C5%82%C4%85-fortun%C4%99-dostaniesz-nawet-za-pieni%C4%85dze-obiegowe/ar-AA1Dft3v?ocid=BingNewsVerp",
+            "description": "Pieni\u0105dze s\u0105 w cenie i to dos\u0142ownie. Monety z PRL s\u0105 poszukiwane przez kolekcjoner\u00f3w, a jeszcze stosunkowo niedawno Polacy wrzucali je bez namys\u0142u do portfeli.",
+            "image_url": "https://www.bing.pl/th?id=ODF.qXPYOt4opjbuEdbLUjfq7Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stare+monety",
+            "date": "Biznes w INTERIA.PL on MSN22 min",
+            "source": "Biznes w INTERIA.PL on MSN",
             "article_content": ""
         }
     },
@@ -106,7 +122,7 @@
             "description": "To unikatowy polski skarb. Wykopano go na polu 42 lata temu. Wybity przez Boles\u0142awa Chrobrego srebrny denar z lat 992-997, b\u0119d\u0105cy w posiadaniu Muzeum Pomorza \u015arodkowego w S\u0142upsku, jest bezcenny. Zacho ...",
             "image_url": "https://www.bing.pl/th?id=ODF.5s2nDicEFNR6T9e5rt0xCA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "Dziennik Ba\u0142tycki on MSN18 godz.",
+            "date": "Dziennik Ba\u0142tycki on MSN20 godz.",
             "source": "Dziennik Ba\u0142tycki on MSN",
             "article_content": ""
         }
@@ -122,7 +138,7 @@
             "description": "pochodzenia - wazony z renomowanych hut, takich jak \"Z\u0105bkowice\" czy \"Irena\", s\u0105 bardziej warto\u015bciowe.",
             "image_url": "https://www.bing.pl/th?id=OVF.NaOaj3pmC%2f6qjwbeafPs0g&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Express Bydgoski on MSN7 godz.",
+            "date": "Express Bydgoski on MSN10 godz.",
             "source": "Express Bydgoski on MSN",
             "article_content": ""
         }
@@ -133,30 +149,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Ta porcelana z PRL jest warta maj\u0105tek! Masz j\u0105 w domu? Mo\u017cesz nie\u017ale zarobi\u0107! Tej porcelany szukaj\u0105 kolekcjonerzy 19.04.2025",
-            "link": "https://gk24.pl/ta-porcelana-z-prl-jest-warta-majatek-masz-ja-w-domu-mozesz-niezle-zarobic-tej-porcelany-szukaja-kolekcjonerzy-19-04-2025/ar/c9p2-27406077",
-            "description": "Unikatowy charakter mia\u0142y r\u00f3wnie\u017c przedmioty z tego okresu. Z pewno\u015bci\u0105 wiele os\u00f3b posiada w swoich domach rzeczy z czas\u00f3w ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.atuXLf0X56JIkR8I1eDH0A&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Siuda Baba sieje postrach w Wieliczce, a w I\u0142\u017cy wal\u0105 w b\u0119bny. Oto ciekawe zwyczaje wielkanocne w Polsce",
+            "link": "https://www.se.pl/styl-zycia/porady/siuda-baba-sieje-postrach-w-wieliczce-a-w-ilzy-wala-w-bebny-oto-ciekawe-zwyczaje-wielkanocne-w-polsce-aa-ejcf-3Buq-Hvy9.html",
+            "description": "Jak obchodzi si\u0119 Wielkanoc w Polsce? Na pierwszy rzut oka pytanie jest banalne, bo przecie\u017c wszystko jest jasno okre\u015blone \u2014 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.WUAqIiy2vJIiWRBxAbL56C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski20 godz.",
-            "source": "G\u0142os Koszali\u0144ski",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "XRP detronizuje Ethereum 6. miesi\u0105c z rz\u0119du. Nadchodzi czas Solany i Solaxy?",
-            "link": "https://businessinsider.com.pl/kryptowaluty/aktualnosci/xrp-detronizuje-ethereum-6-miesiac-z-rzedu-nadchodzi-czas-solany-i-solaxy",
-            "description": "XRP wyprzedzi\u0142o Ethereum przez 6 kolejnych miesi\u0119cy. W tle \u015bwietnie radzi sobie Solana, kt\u00f3ra w\u0142a\u015bnie otrzyma\u0142a now\u0105 warstw\u0119 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.jLxiLJDvEfu1i7LCdhWOcy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "Business Insider Polska4 godz.",
-            "source": "Business Insider Polska",
-            "article_content": "Po raz pierwszy w historii XRP wyprzedzi\u0142o Ethereum (ETH) przez sze\u015b\u0107 kolejnych miesi\u0119cy. Czy natywny token Ripple trwale zdeklasowa\u0142 kr\u00f3la inteligentnych kontrakt\u00f3w? Gdy jednak \u015bwiat obserwuje zwi\u0119kszaj\u0105c\u0105 si\u0119 dominacj\u0119 XRP, trzeci pretendent po cichu zbiera si\u0142y, by wyprzedzi\u0107 obie sieci.\n\nSolana, wiod\u0105cy blockchain dla memecoin\u00f3w, do\u015bwiadcza o\u017cywienia za spraw\u0105 infrastruktury, kt\u00f3rej tak desperacko potrzebuje. Nowe rozwi\u0105zanie warstwy 2 o nazwie Solaxy pojawia si\u0119 we w\u0142a\u015bciwym czasie, a jego potencja\u0142 do ulepszenia Solany zmienia wszystko. Ten niezwyk\u0142y projekt wyniesie blockchain niespotykane dot\u0105d wy\u017cyny. Czy Solana, z Solaxy w naro\u017cniku, okaza\u0107 si\u0119 prawdziwym zwyci\u0119zc\u0105 walki o w\u0142adz\u0119 na rynku kryptowalut?\n\nNiezachwiana passa XRP 6 miesi\u0119cy dominacji\n\nZaskakuj\u0105cy listopadowy rajd przekszta\u0142ci\u0142 si\u0119 w historyczn\u0105 pass\u0119. XRP zszokowa\u0142o rynek bezprecedensowym, 6-miesi\u0119cznym wzrostem w stosunku do Ethereum. Jest to najd\u0142u\u017csza zwyci\u0119ska passa tej kryptowaluty w historii.\n\nOd listopada 2024 roku token Ripple odnotowa\u0142 ogromny wzrost o 160% w stosunku do ETH. XRP miesi\u0105c w miesi\u0105c konsekwentnie zaznacza swoj\u0105 dominacj\u0119:\n\n+18,5% w grudniu,\n\n+47,3% w styczniu,\n\n+4,3% w lutym,\n\n+19,6% w marcu,\n\n+14,3% w kwietniu.\n\nW sumie XRP zyska\u0142o ju\u017c 264% w stosunku do Ethereum podczas tej zielonej passy.\n\nDlaczego XRP ro\u015bnie?\n\nWzrost XRP w stosunku do ETH nie jest dzie\u0142em przypadku. Po pierwsze, zwi\u0119ksza si\u0119 szum wok\u00f3\u0142 funduszu ETF XRP spot, kt\u00f3ry wed\u0142ug spo\u0142eczno\u015bci krypto ma 85% szans na zatwierdzenie w tym roku.\n\n\u231b\ufe0f 85% of Polymarket users believe an XRP ETF will launch in 2025. With nine companies already filing applications, momentum is building \u2014 but the SEC vs. Ripple case still stands in the way. Could this be the next big move in crypto ETFs?#Ripple #XRP\u2026https://t.co/2hwMXDv2gV \u2014 Cryptonews.com (@cryptonews) March 28, 2025\n\nPo drugie, sprawa SEC przeciwko Ripple \u2013 niegdy\u015b czarna chmura wisz\u0105ca nad projektem \u2013 wydaje si\u0119 zbli\u017ca\u0107 do zako\u0144czenia, co dodaje inwestorom pewno\u015bci siebie.\n\nWreszcie, XRP niedawno testowa\u0142 wieloletni\u0105 stref\u0119 oporu jako swoje wsparcie. Jest to byczy sygna\u0142 techniczny, kt\u00f3ry w przesz\u0142o\u015bci zapowiada\u0142 du\u017ce wzrosty. Coraz bardziej widoczne staje si\u0119 to, \u017ce token po raz pierwszy od lat nie nadrabia zaleg\u0142o\u015bci, tylko sam nadaje tempo rynkowi.\n\n$XRP / $ETH update XRP just retested the resistance we have looked at for months, as support It\u2019s now trading above that level that deemed high importance over the last 8 years Based on history, price only ever moved fast after It seems like a very odd time for this to show\u2026 https://t.co/VFx3qqBCf3 pic.twitter.com/wt2fxJuV0R \u2014 Dom (@traderview2) April 16, 2025\n\nUwidaczniaj\u0105 si\u0119 problemy Ethereum\n\nPodczas gdy XRP ro\u015bnie, Ethereum stoi w obliczu jednego z najbardziej niepewnych okres\u00f3w w swojej historii.\n\nLiczby m\u00f3wi\u0105 same za siebie:\n\nCa\u0142kowita zablokowana warto\u015b\u0107 (TVL) spad\u0142a z 70 mld USD do 46 mld USD.\n\nMiesi\u0119czne przychody spad\u0142y ze 109 mln USD w styczniu do 7,2 mln USD w marcu.\n\nFundusze ETF ETH odnotowuj\u0105 sta\u0142y odp\u0142yw.\n\nCz\u0119\u015b\u0107 problemu Ethereum le\u017cy w aktualizacjach. Nadchodz\u0105ce rozwi\u0105zania, takie jak Pectra i Fusaka, koncentruj\u0105 si\u0119 na ulepszaniu warstw 2. Krytycy twierdz\u0105 jednak, \u017ce os\u0142abia to przyrost warto\u015bci ETH. Je\u015bli wi\u0119kszo\u015b\u0107 aktywno\u015bci (i op\u0142at) przeniesie si\u0119 do layer 2, natywny token ETH stanie si\u0119 mniej atrakcyjny do trzymania.\n\nEthereum stoi r\u00f3wnie\u017c w obliczu silnej konkurencji. Chocia\u017c by\u0142o pionierem inteligentnych kontrakt\u00f3w, teraz nie jest ju\u017c jedynym wyborem, poniewa\u017c szybsze i ta\u0144sze \u0142a\u0144cuchy przyci\u0105gaj\u0105 deweloper\u00f3w i u\u017cytkownik\u00f3w. A wraz ze spadkiem przychod\u00f3w z sieci model ekonomiczny Ethereum znajduje si\u0119 pod presj\u0105.\n\nCho\u0107 Ethereum nie umar\u0142o, jest wra\u017cliwe. A to stworzy\u0142o idealne warunki dla konkurent\u00f3w, takich jak XRP. Ale podczas gdy wszyscy koncentruj\u0105 si\u0119 na sadze ETH vs XRP, trzeci pretendent po cichu buduje swoj\u0105 dynamik\u0119. I w\u0142a\u015bnie tam sprawy staj\u0105 si\u0119 naprawd\u0119 interesuj\u0105ce.\n\nEksplozja memecoin\u00f3w na Solanie nap\u0119dza $SOL\n\nGdy XRP walczy z Ethereum, Solana po cichu dokona\u0142a b\u0142yskawicznego od\u017cywienia. Po zej\u015bciu poni\u017cej 100 USD 7 kwietnia, cena $SOL powr\u00f3ci\u0142a do wcze\u015bniejszych poziom\u00f3w i obecnie znajduje si\u0119 o ok. 40% powy\u017cej tego minimum. Za ten ruch odpowiadaj\u0105 w du\u017cej mierze memecoiny.\n\nSolana sta\u0142a si\u0119 platform\u0105 startow\u0105 dla tw\u00f3rc\u00f3w monet memowych dzi\u0119ki narz\u0119dziom takim jak Pump.fun, Raydium\u2019s LaunchLab czy PumpSwap. Samo Pump.fun uruchomi\u0142o ponad 2 miliony token\u00f3w i przyci\u0105gn\u0119\u0142o 13 milion\u00f3w u\u017cytkownik\u00f3w w 2024 roku. Ostatnio za\u015b platforma wprowadzi\u0142a swoj\u0105 w\u0142asn\u0105 gie\u0142d\u0119 DEX, co wywo\u0142a\u0142o ostr\u0105 konkurencj\u0119 o uwag\u0119 tw\u00f3rc\u00f3w i trader\u00f3w.\n\nIntroducing PumpSwap, Pump\u2019s new native DEX beginning NOW all coins that complete their bonding curve will migrate directly to PumpSwap PumpSwap enables\n\n\u2013 instant migrations\n\n\u2013 0 migration fees (down from 6 SOL)\n\n\u2013 more liquidity\n\n\u2013 creator revenue sharing (coming soon) & more \ud83d\udc47 pic.twitter.com/T9BkmmaVVS \u2014 pump.fun (@pumpdotfun) March 20, 2025\n\nRaydium nie pozostaje w tyle i w\u0142a\u015bnie wypu\u015bci\u0142o LaunchLab \u2013 pot\u0119\u017cn\u0105 platform\u0119 do uruchamiania token\u00f3w z konfigurowalnymi krzywymi wi\u0105zania, p\u0142ynn\u0105 integracj\u0105 z pulami p\u0142ynno\u015bci i zerowymi op\u0142atami za kwalifikuj\u0105ce si\u0119 projekty.\n\nIntroducing LaunchLab, Raydium\u2019s all-in-one token launchpad. Built for Creators, Developers, and the Community \ud83e\udee1https://t.co/yZVzShVZSJ More info \u2b07\ufe0f pic.twitter.com/r6s1DAegWf \u2014 Raydium (@RaydiumProtocol) April 16, 2025\n\nEksplozja aktywno\u015bci stworzy\u0142a co\u015b wi\u0119cej ni\u017c tylko trend \u2013 zmieni\u0142a rol\u0119 Solany w ekosystemie kryptowalut. Niegdy\u015b postrzegana jako szybka alternatywa dla Ethereum, obecnie jest \u0142a\u0144cuchem dla tw\u00f3rc\u00f3w, w kt\u00f3rym pomys\u0142y w ci\u0105gu kilku sekund staj\u0105 si\u0119 tokenami, a u\u017cytkownicy szukaj\u0105 kolejnej memowej gwiazdy.\n\nJest jednak pewien haczyk. Ca\u0142y ten wzrost powoduje ogromne obci\u0105\u017cenie sieci. W okresach zwi\u0119kszonego ruchu tworz\u0105 si\u0119 zatory, rosn\u0105 czasy transakcji, a niekt\u00f3re w og\u00f3le si\u0119 nie udaj\u0105. Solana, niegdy\u015b chwalona za szybko\u015b\u0107 i przepustowo\u015b\u0107, teraz stara si\u0119 nad\u0105\u017cy\u0107 za w\u0142asnym sukcesem.\n\nSolaxy \u2013 katalizator wzrostu Solany\n\nSolaxy to pierwsze rozwi\u0105zanie warstwy 2 SOL, kt\u00f3re powsta\u0142o specjalnie w celu obs\u0142ugi gwa\u0142townego wzrostu popytu Solany. Podczas gdy ekosystem layer-2 Ethereum eksplodowa\u0142 dzi\u0119ki rozwi\u0105zaniom takim jak Arbitrum i Optimism, Solana do tej pory nie posiada\u0142a skalowalnej warstwy drugiej.\n\nSolaxy za pomoc\u0105 technologii rollup realizuje transakcje poza sieci\u0105 g\u0142\u00f3wn\u0105, by p\u00f3\u017aniej zatwierdzi\u0107 je ju\u017c na blockchainie. To odci\u0105\u017ca \u0142a\u0144cuch blok\u00f3w i zwi\u0119ksza jej skalowalno\u015b\u0107 bez utraty dla wydajno\u015bci, a jednocze\u015bnie zapewnia bezpiecze\u0144stwo. Oto dlaczego Solaxy jest istn\u0105 rewolucj\u0105:\n\nSkalowalna wydajno\u015b\u0107. Solaxy powsta\u0142o w celu obs\u0142ugi ponad 10 000 TPS, z my\u015bl\u0105 o zapewnieniu Solanie szybko\u015bci. Odci\u0105\u017ca sie\u0107 g\u0142\u00f3wn\u0105 i ca\u0142kowicie eliminuje zatory.\n\nSolaxy powsta\u0142o w celu obs\u0142ugi ponad 10 000 TPS, z my\u015bl\u0105 o zapewnieniu Solanie szybko\u015bci. Odci\u0105\u017ca sie\u0107 g\u0142\u00f3wn\u0105 i ca\u0142kowicie eliminuje zatory. Przetwarzanie danych. Solaxy utrzymuje przetwarzanie danych na poziomie 140KB/s, co zapewnia p\u0142ynniejsze wra\u017cenia u\u017cytkownika.\n\nSolaxy utrzymuje przetwarzanie danych na poziomie 140KB/s, co zapewnia p\u0142ynniejsze wra\u017cenia u\u017cytkownika. Most blockchain i kompatybilno\u015b\u0107. Solaxy p\u0142ynnie integruje si\u0119 z warstw\u0105 1 Solana i zapobiega rozbie\u017cno\u015bciom.\n\nSolaxy p\u0142ynnie integruje si\u0119 z warstw\u0105 1 Solana i zapobiega rozbie\u017cno\u015bciom. Infrastruktura odporna na oszustwa. Solaxy gwarantuje bezpiecze\u0144stwo i skalowalno\u015b\u0107, kt\u00f3rych brakowa\u0142o Solanie. Dlatego jest idealn\u0105 podstaw\u0105 dla przysz\u0142ych przypadk\u00f3w u\u017cycia w bran\u017cach DeFi, gamingu i uruchamiania token\u00f3w.\n\n\ud83d\udef8 New Solaxy Dev Update! \ud83d\udef8 We\u2019ve got some exciting news\u2014Solaxy Block Explorer will officially be released on April 19th! \u25c9 Data Availability \u2022 Further analysis confirms we can sustain 140KB/s with optimal configurations on Solana mainnet.\n\n\u2022 This enables faster data\u2026 pic.twitter.com/l9sJM9hLya \u2014 SOLAXY (@SOLAXYTOKEN) April 15, 2025\n\nI nie jest to tylko vaporware. Solaxy dostarcza prawdziw\u0105 technologi\u0119. Jego eksplorator blok\u00f3w wystartowa\u0142 19 kwietnia. Zesp\u00f3\u0142 deweloper\u00f3w wprowadza ci\u0105g\u0142e ulepszenia wydajno\u015bci, a dzi\u0119ki ponad 30 milionom USD zebranym w przedsprzeda\u017cy projekt ma wszystko, by podbi\u0107 rynek krypto.\n\nKwota zgromadzona w fazie presale wskazuje, \u017ce wielkimi krokami zbli\u017camy si\u0119 do debiutu na gie\u0142dzie, kt\u00f3ry mo\u017ce nadej\u015b\u0107 ju\u017c wkr\u00f3tce. P\u00f3ki jednak faza presale $SOLX trwa, warto wzi\u0105\u0107 udzia\u0142 w rewolucji Solany. Tokeny kosztuj\u0105 zaledwie 0,0017 USD.\n\nPodsumowanie\n\nPodczas gdy XRP i Ethereum walcz\u0105 o dominacj\u0119, prawdziwy zwyci\u0119zca mo\u017ce po cichu formowa\u0107 szyki. Solana ju\u017c jest wiod\u0105cym \u0142a\u0144cuchem do uruchamiania memecoin\u00f3w, a jej ekosystem DeFi powraca do \u017cycia. Ale to Solaxy \u2013 do\u0142adowanie warstwy 2 \u2013 mo\u017ce popchn\u0105\u0107 Solan\u0119 na pierwsze miejsce w walce o dominacj\u0119 blockchain.\n\nDzi\u0119ki infrastrukturze do obs\u0142ugi gwa\u0142townego wzrostu transakcji w sieci g\u0142\u00f3wnej, do\u015bwiadczonemu zespo\u0142owi programist\u00f3w i ju\u017c wdra\u017canej technologii nie tylko rozwi\u0105zuje problemy tej czo\u0142owej sieci, ale odblokowuje jej przysz\u0142o\u015b\u0107. Prawdziwym pytaniem nie jest to, czy XRP b\u0119dzie nadal osi\u0105ga\u0107 lepsze wyniki ni\u017c Ethereum, ale czy Solana \u2013 zasilana przez Solaxy \u2013 przeskoczy oba blockchainy."
+            "date": "Super Express1 godz.",
+            "source": "Super Express",
+            "article_content": "Gdzie wsypa\u0107 sod\u0119 oczyszczon\u0105 do pralki, aby wybieli\u0142a tkaniny? Po\u0142owa Polek pope\u0142nia ten b\u0142\u0105d przez co soda jest nieskuteczna. U\u017cywaj jej w ten spos\u00f3b, a pranie zawsze b\u0119dzie idealnie bia\u0142e\n\nWielkanoc w Polsce to nie tylko czas refleksji i duchowego odrodzenia, ale tak\u017ce okazja do celebrowania bogactwa kulturowego, kt\u00f3re r\u00f3\u017cni si\u0119 w zale\u017cno\u015bci od regionu. Sprawd\u017a jakie tradycje s\u0105 zwi\u0105zane z tym okresem na \u015al\u0105sku, Kujawach, Mazowszu czy w Ma\u0142opolsce.\n\nTradycje wielkanocne na Kurpiach\n\nZanim przystroimy koszyczki i pomalujemy pisanki, czeka nas Niedziela Palmowa. W tradycji chrze\u015bcija\u0144skiej Niedziela Palmowa upami\u0119tnia wjazd Jezusa do Jerozolimy. Ten dzie\u0144 warto sp\u0119dzi\u0107 na Kurpiach. Chocia\u017c zwyczaj obchodzenia Niedzieli Palmowej jest \u017cywy w ca\u0142ej Polsce, to najhuczniej obchodzi si\u0119 j\u0105 we wsi \u0141yse w wojew\u00f3dztwie mazowieckim. Wyj\u0105tkowe obchody przyci\u0105gaj\u0105 ju\u017c nie tylko wiernych z regionu, ale tak\u017ce ciekawskich z ca\u0142ej Polski. Faktycznie, w ca\u0142ym kraju w ostatni\u0105 niedziel\u0119 Wielkiego Postu \u015bwi\u0119cimy palmy wielkanocne, jednak te kurpiowskie wyr\u00f3\u017cniaj\u0105 si\u0119 nie tylko jaskrawymi kolorami, ale przede wszystkim du\u017cymi rozmiarami. Ich wysoko\u015b\u0107 si\u0119ga od 2 do nawet 6 metr\u00f3w. R\u00f3wnie\u017c ich spos\u00f3b wykonania jest inny ni\u017c w przypadku typowej polskiej palmy. Powstaj\u0105 na bazie pnia \u015bci\u0119tego drzewka \u2013 leszczyny albo sosny. Nast\u0119pnie oplata si\u0119 je wid\u0142akiem, bor\u00f3wk\u0105 b\u0105d\u017a kwiatami, dowolnie suszonymi lub z bibu\u0142y. Do ozdobienia kurpiowskich palm wielkanocnych wykorzystuje si\u0119 ro\u015blinno\u015b\u0107 le\u015bn\u0105 oraz kwiaty z bibu\u0142y i bibu\u0142owe wst\u0105\u017cki. Od 1969 roku uroczysto\u015bciom Niedzieli Palmowej towarzyszy konkurs na najpi\u0119kniejsz\u0105 palm\u0119 kurpiowsk\u0105. Nagrodzone prace zazwyczaj zostaj\u0105 w \u0141ysych, gdzie s\u0105 wystawiane w obydwu ko\u015bcio\u0142ach \u2013 starym z drewna oraz nowym murowanym. W konkursie bior\u0105 udzia\u0142 zar\u00f3wno osoby indywidualne, jak i ca\u0142e klasy z okolicznych szk\u00f3\u0142. Rekordowa liczba palm wielkanocnych zosta\u0142a zg\u0142oszona do konkursu w 2012 roku. Jury oceni\u0142o ich wtedy a\u017c 250. Ka\u017cdego roku kilka palm nie zostaje zakwalifikowanych do konkursu. Powodem jest zazwyczaj dekoracja niezgodna z tradycj\u0105, przyk\u0142adowo wykorzystanie zbo\u017ca. Obowi\u0105zkowym elementem tradycyjnych palm kurpiowskich by\u0142y \u017cywe elementy zielone, takie jak ga\u0142\u0105zki bor\u00f3wek. Te niestety coraz rzadziej wykorzystywane s\u0105 do przyozdabiania ga\u0142\u0105zek. Bywa, \u017ce przed Niedziel\u0105 Palmow\u0105 w lasach nie ma jeszcze zieleni, przez co uczestnikom \u0142atwiej zdoby\u0107 papier czy bibu\u0142\u0119, ni\u017c ro\u015blinno\u015b\u0107.\n\nTradycje i zwyczaje wielkanocne na \u015al\u0105sku\n\n\u015awi\u0119ta Wielkiej Nocy na \u015al\u0105sku rozpoczyna Niedziela Palmowa. Podobnie, jak na Kaszubach niekt\u00f3rzy jeszcze kultywuj\u0105 tradycje po\u0142ykania kuleczek po\u015bwi\u0119conych bazi, kt\u00f3re maj\u0105 chroni\u0107 przed chorobami i b\u00f3lem gard\u0142a. Z palemek rolnicy z robi\u0105 krzy\u017c i wtykaj\u0105 w ziemi\u0119 w Wielki Czwartek. Ma to chroni\u0107 pola przed susz\u0105 lub powodzi\u0105. W trakcie \u015bwi\u0105t nie wolno te\u017c wykonywa\u0107 \u017cadnych prac w polu \u2014 wtedy plony b\u0119d\u0105 urodzajne. \u015al\u0105zacy wyj\u0105tkowo restrykcyjnie podchodz\u0105 do \u015bcis\u0142ego postu w Wielki Pi\u0105tek \u2014 nie powinni ogl\u0105da\u0107 r\u00f3wnie\u017c telewizji i s\u0142ucha\u0107 radia!\n\nTradycje wielkanocne w Ma\u0142opolsce. Emaus, R\u0119kawka i Siuda Baba\n\nW Ma\u0142opolsce i w samym Krakowie do dzisiaj funkcjonuje mn\u00f3stwo zwyczaj\u00f3w i tradycji wielkanocnych, niekt\u00f3re si\u0119gaj\u0105 a\u017c \u015bredniowiecza! W Wielkanocny Poniedzia\u0142ek odbywa si\u0119 Emaus. Odpust odbywa si\u0119 na krakowskim Salwatorze przy klasztorze Si\u00f3str Norbertanek i ko\u015bciele pw. \u015bw. Norberta. To tradycja z XVI w., kt\u00f3ra nawi\u0105zuje do w\u0119dr\u00f3wki Jezusa do Emaus (to w Emaus Zmartwychwsta\u0142ego po raz pierwszy ujrzeli uczniowie). Przy okazji odpustu pojawiaj\u0105 si\u0119 kramy z zabawkami, s\u0142odyczami i sercami z piernik\u00f3w. Wtorek po \u015bwi\u0119tach to czas zabawy na R\u0119kawce, czyli odpust na Kopcu Kraka. Legenda g\u0142osi, \u017ce kopiec zosta\u0142 usypany z ziemi, noszonej przez ludzi w r\u0119kawach. W XVII w. bogaci mieszczanie ze szczytu kopca Kraka zrzucali monety, s\u0142odycze, owoce, jajka. U st\u00f3p wzg\u00f3rza czekali na te dary ubodzy, \u017cacy i dzieci. Dzi\u015b na kopcu Kraka i pobliskim Wzg\u00f3rzu Lasoty odbywa si\u0119 \u015bredniowieczny festyn. W nocy z wielkanocnej niedzieli na poniedzia\u0142ek mieszka\u0144c\u00f3w nachodzi Siuda Baba. Czarna od sadzy, bo przez ca\u0142y rok pilnowania ognia nie wolno jej si\u0119 by\u0142o umy\u0107. Wed\u0142ug poda\u0144 niegdy\u015b we wsi Lednica G\u00f3ra pod Wieliczk\u0105 istnia\u0142a \u015bwi\u0105tynia bogini Ledy. Ku jej czci p\u0142on\u0105\u0142 wieczny ogie\u0144, kt\u00f3rego strzeg\u0142a kap\u0142anka. Raz do roku wyrusza\u0142a na \u0142owy \u2014 szuka\u0142a nast\u0119pczyni. Wybrana panna, kt\u00f3rej nie uda\u0142o si\u0119 wykupi\u0107, musia\u0142a do nast\u0119pnej wiosny pilnowa\u0107 ognia.\n\nTradycje i zwyczaje wielkanocne na Kujawach. Wybijanie \u017curu\n\nZgodnie z tradycj\u0105 wielkanocn\u0105 na Kujawach w Wielki Czwartek wieczorem zbierali si\u0119 ch\u0142opcy z glinianymi naczyniami do zarabiania \u017curu. Zaczyna\u0142 si\u0119 zwyczaj wybijania \u017curu. By\u0142 to znak, \u017ce post si\u0119 powoli ko\u0144czy. Kawalerowie rozbijali garnek z zawarto\u015bci\u0105 o pr\u00f3g domu, w kt\u00f3rym by\u0142a panna na wydaniu. W Wielki Pi\u0105tek o \u015bwicie gospodyni podnosi\u0142a pierzyn\u0119 i smaga\u0142a \u015bpi\u0105cych jeszcze domownik\u00f3w wierzbowymi lub brzozowymi ga\u0142\u0105zkami, m\u00f3wi\u0105c, \u017ce to za \u201ebo\u017ce rany\". \u015amigus-Dyngus to tradycja Wielkanocnego Poniedzia\u0142ku. Ch\u0142opcy chodzili od domu do domu, smagaj\u0105c dziewcz\u0119ta ga\u0142\u0105zkami wierzby lub brzozy albo oblewaj\u0105c wod\u0105. Kolejnego dnia nast\u0119powa\u0142 rewan\u017c \u2014 panny oblewa\u0142y wod\u0105 kawaler\u00f3w.\n\nTradycje i zwyczaje wielkanocne na Mazowszu. Barabanienie w I\u0142\u017cy\n\nNa Mazowszu podobnie, jak w Ma\u0142opolsce tradycji i zwyczaj\u00f3w wielkanocnych jest mn\u00f3stwo. Od kurpiowskich palm w \u0141ysych po barabanienie w I\u0142\u017cy pod Radomiem. Je\u015bli Niedziela Palmowa, to na Kurpiach. Od 1969 roku uroczysto\u015bciom towarzyszy konkurs na najpi\u0119kniejsz\u0105 palm\u0119. Kurpiowskie charakteryzuje przede wszystkim rozmiar. Ich wysoko\u015b\u0107 zaczyna si\u0119 od 2 metr\u00f3w. Powstaj\u0105 na bazie pnia \u015bci\u0119tego drzewa \u2013 leszczyny albo sosny, a do ozdobienia wykorzystuje si\u0119 ro\u015blinno\u015b\u0107 le\u015bn\u0105 oraz kwiaty i wst\u0105\u017cki z bibu\u0142y. Inn\u0105 tradycj\u0105 z Mazowsza jest najg\u0142o\u015bniejsza msza w roku. W I\u0142\u017cy pod Radomiem Zmartwychwstanie Pa\u0144skie celebrowane jest w nocy z soboty na niedziel\u0119. Od p\u00f3\u0142nocy do 6 rano s\u0142ycha\u0107 d\u017awi\u0119k barabanu. Dziesi\u0119ciu m\u0119\u017cczyzn uderza w baraban i przechodzi przez ca\u0142e miasto, aby oznajmia\u0107, \u017ce Chrystus zmartwychwsta\u0142. Baraban to ogromny b\u0119ben turecki u\u017cywany przez pu\u0142ki janczarskie oraz oddzia\u0142y dawnych wojsk polskich. Miedziany kocio\u0142 z XVII w. jest wyjmowany raz w roku ze skarbca parafii Naj\u015bwi\u0119tszej Marii Panny.\n\nZOBACZ TE\u017b: \u017byczenia wielkanocne 2025 po angielsku, niemiecku i w innych j\u0119zykach \u015bwiata. Gotowe kr\u00f3tkie \u017cyczenia na Wielkanoc"
         }
     },
     {
@@ -170,7 +170,7 @@
             "description": "Unikatowy charakter mia\u0142y r\u00f3wnie\u017c przedmioty z tego okresu. Z pewno\u015bci\u0105 wiele os\u00f3b posiada w swoich domach rzeczy z czas\u00f3w ...",
             "image_url": "https://www.bing.pl/th?id=OVF.atuXLf0X56JIkR8I1eDH0A&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "G\u0142os Koszali\u0144ski20 godz.",
+            "date": "G\u0142os Koszali\u0144ski23 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
         }
@@ -186,7 +186,7 @@
             "description": "S\u0105d Rejonowy w Wa\u0142brzychu zatwierdzi\u0142 wniosek syndyka o sprzeda\u017c Zak\u0142ad\u00f3w Porcelany Sto\u0142owej Karolina. B\u0119dzie podzielony na ...",
             "image_url": "https://www.bing.pl/th?id=OVF.rB%2fyBDVz2LES%2b7F3O4srIA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Wa\u0142brzych Nasze Miasto on MSN17 godz.",
+            "date": "Wa\u0142brzych Nasze Miasto on MSN19 godz.",
             "source": "Wa\u0142brzych Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -202,7 +202,7 @@
             "description": "S\u0105d Rejonowy w Wa\u0142brzychu zatwierdzi\u0142 wniosek syndyka o sprzeda\u017c Zak\u0142ad\u00f3w Porcelany Sto\u0142owej Karolina w cz\u0119\u015bciach. Tym samym ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.6HRSNYYZ8gUWJp-oDfn9aS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Wa\u0142brzych Nasze Miasto on MSN17 godz.",
+            "date": "Wa\u0142brzych Nasze Miasto on MSN19 godz.",
             "source": "Wa\u0142brzych Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -213,12 +213,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Cracovia najstarszy klub",
-            "link": "https://gazetakrakowska.pl/tag/cracovia-najstarszy-klub",
-            "description": "Znalaz\u0142y fina\u0142 starania MKS Cracovia SSA o uznanie jej za najstarszy klub sportowy w Polsce. Urz\u0105d Patentowy Rzeczypospolitej Polskiej udzieli\u0142 MKS Cracovia ...",
+            "title": "Aleksandra chapko",
+            "link": "https://gazetakrakowska.pl/tag/aleksandra-chapko",
+            "description": ", pochodz\u0105ca z Nowego S\u0105czu aktorka, kt\u00f3ra popularno\u015b\u0107 zyska\u0142a rol\u0105 Nadii Wideckiej w serialu \u201eM jak mi\u0142o\u015b\u0107', podzieli\u0142a si\u0119 radosn\u0105 nowin\u0105. Z... Aleksandara Chapko, kt\u00f3rej popularno\u015b\u0107 przynios\u0142a rola ...",
             "image_url": "https://www.bing.pl/th?id=ODF.XL5bGs_n6w06Ok0ARb1y3Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "Gazeta Krakowska17 min",
+            "date": "Gazeta Krakowska1 godz.",
             "source": "Gazeta Krakowska",
             "article_content": "Content not available"
         }
@@ -229,12 +229,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Hejt Zakopane",
-            "link": "https://gazetakrakowska.pl/tag/hejt-zakopane",
-            "description": "Zakopane - miejsce, kt\u00f3re od lat przyci\u0105ga miliony turyst\u00f3w i coraz cz\u0119\u015bciej staje si\u0119 obiektem zmasowanego hejtu w sieci. Czy to efekt rzeczywistych ...",
+            "title": "Wiadomo\u015bci paszyn",
+            "link": "https://gazetakrakowska.pl/tag/wiadomosci-paszyn",
+            "description": "Aleksandra i Andrzej Gri\u0144scy z Paszyna przed laty podj\u0119li niezwykle wa\u017cn\u0105 \u017cyciow\u0105 decyzj\u0119 o pomocy dzieciom w potrzebie. Mimo \u017ce sami doczekali si\u0119 trzech ...",
             "image_url": "https://www.bing.pl/th?id=ODF.XL5bGs_n6w06Ok0ARb1y3Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "Gazeta Krakowska34 min",
+            "date": "Gazeta Krakowska1 godz.",
             "source": "Gazeta Krakowska",
             "article_content": "Content not available"
         }
@@ -250,7 +250,7 @@
             "description": "Plac Dominika\u0144ski w Raciborzu, mimo \u015bwi\u0105tecznych przygotowa\u0144, t\u0119tni\u0142 \u017cyciem. Wielka Sobota to nie tylko \u015bwi\u0119cenie pokarm\u00f3w, ale w tym roku tak\u017ce tradycyjny targ staroci, kt\u00f3ry przyci\u0105gn\u0105\u0142 wielu sprzed ...",
             "image_url": "https://www.bing.pl/th?id=ODF.zyHZryUb3Zd_dbBzzJoUdQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Nasz Racib\u00f3rz13 godz.",
+            "date": "Nasz Racib\u00f3rz16 godz.",
             "source": "Nasz Racib\u00f3rz",
             "article_content": "Plac Dominika\u0144ski w Raciborzu, mimo \u015bwi\u0105tecznych przygotowa\u0144, t\u0119tni\u0142 \u017cyciem. Wielka Sobota to nie tylko \u015bwi\u0119cenie pokarm\u00f3w, ale w tym roku tak\u017ce tradycyjny targ staroci, kt\u00f3ry przyci\u0105gn\u0105\u0142 wielu sprzedaj\u0105cych i odwiedzaj\u0105cych. W\u015br\u00f3d rozm\u00f3w nie brakowa\u0142o wspomnie\u0144 o jednym z jego najbardziej rozpoznawalnych uczestnik\u00f3w, \u015bp. Adama Melnarowicza.\n\nWielka Sobota w Raciborzu to dzie\u0144 pe\u0142en tradycji \u2013 zar\u00f3wno duchowych, jak i tych zwi\u0105zanych z codziennym \u017cyciem miasta. Opr\u00f3cz \u015bwi\u0119cenia pokarm\u00f3w na rynku, wielu raciborzan i go\u015bci odwiedzi\u0142o targ staroci na placu Dominika\u0144skim.\n\nFrekwencja dopisa\u0142a \u2013 mimo gor\u0105czki przed\u015bwi\u0105tecznych przygotowa\u0144, na placu pojawi\u0142o si\u0119 wielu wystawc\u00f3w. S\u0142oneczna pogoda sprzyja\u0142a spacerom mi\u0119dzy stoiskami, gdzie mo\u017cna by\u0142o znale\u017a\u0107 prawdziwe pere\u0142ki. Jedn\u0105 z nich by\u0142 XIX-wieczny polifon wa\u0142kowy, czyli pozytywka wygrywaj\u0105ca melodie z wa\u0142ka z wypustkami. Cena wywo\u0142awcza wynosi\u0142a 1300 z\u0142. Podobne urz\u0105dzenia, w zale\u017cno\u015bci od producenta, stanu zachowania i jako\u015bci wykonania, osi\u0105gaj\u0105 na rynku ceny od 500 do nawet 6000\u20137000 z\u0142.\n\nNa uwag\u0119 zas\u0142ugiwa\u0142a tak\u017ce ciekawa kolekcja \u017co\u0142nierzyk\u00f3w oraz bogaty wyb\u00f3r staroci i szparga\u0142\u00f3w \u2013 od drobnych przedmiot\u00f3w codziennego u\u017cytku po unikatowe kolekcjonerskie okazy.\n\nW gronie wystawc\u00f3w i odwiedzaj\u0105cych nie zabrak\u0142o wspomnie\u0144 o Adamie Melnarowiczu z Markowic \u2013 numizmatyku, filateli\u015bcie i sta\u0142ym bywalcu raciborskiego targu. Przez lata obecny na niemal wszystkich jego edycjach, by\u0142 postaci\u0105 dobrze znan\u0105 lokalnym kolekcjonerom. Zmar\u0142 w wieku 72 lat, a jego pogrzeb odby\u0142 si\u0119 16 kwietnia w Markowicach. Po panu Adamie pozosta\u0142y imponuj\u0105ce zbiory monet i znaczk\u00f3w, kt\u00f3re przez dekady gromadzi\u0142 z wielk\u0105 pasj\u0105.\n\nTarg staroci w Raciborzu po raz kolejny udowodni\u0142, \u017ce to nie tylko miejsce handlu, ale tak\u017ce przestrze\u0144 spotka\u0144, rozm\u00f3w i wsp\u00f3lnej pami\u0119ci.\n\n\u015ap. Adam Melnarowicz"
         }
@@ -266,7 +266,7 @@
             "description": "W sobot\u0119 19.04.2025 roku najwi\u0119cej by\u0142o stanowisk z warzywami i owocami, ale nie zabrak\u0142o stanowisk z odzie\u017c\u0105 i butami ...",
             "image_url": "https://www.bing.pl/th?id=OVF.z2bkYlY1l40YXBCID7mYOg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN6 godz.",
+            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN8 godz.",
             "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -282,7 +282,7 @@
             "description": "Nawet w Wielk\u0105 Sobot\u0119 pasjonaci Gie\u0142dy Staroci i Ro\u017cno\u015bci w Starachowicach nie odpuszczaj\u0105. Jak co sobot\u0119 zjawili si\u0119 na parkingu Specjalnej Strefy Ekonomicznej Starachowice i mieli klient\u00f3w.",
             "image_url": "https://www.bing.pl/th?id=ODF.IYNYIrP1cScoR_PcrwdBfQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Starachowice Nasze Miasto on MSN12 godz.",
+            "date": "Starachowice Nasze Miasto on MSN14 godz.",
             "source": "Starachowice Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -298,25 +298,9 @@
             "description": "Chmielna wypi\u0119knia\u0142a. Obsadzona drzewami i krzewami oraz wyposa\u017cona w wygodne \u0142awki \u2013 tak wygl\u0105da reprezentacyjna ulica w centrum Warszawy po zako\u0144czonej... Ulica Chmielna przechodzi remont zwi\u0105zany z ...",
             "image_url": "https://www.bing.pl/th?id=ODF.RiSZ6cVK2kGKUBp4PkSDCg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Warszawa Nasze Miasto2 godz.",
+            "date": "Warszawa Nasze Miasto5 godz.",
             "source": "Warszawa Nasze Miasto",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Dawne zwyczaje wielkanocne na Krajnie. Tak by\u0142o jeszcze w XIX i XX wieku",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/dawne-zwyczaje-wielkanocne-na-krajnie-tak-by%C5%82o-jeszcze-w-xix-i-xx-wieku/ar-AA1DcP8i?ocid=BingNewsVerp",
-            "description": "Wsp\u00f3\u0142cze\u015bnie najpopularniejszymi dwoma symbolami \u015awi\u0105t Wielkanocnych s\u0105 jajo i zaj\u0105c, o baranku na stole \u015bwi\u0105tecznym coraz ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.Bk4zo3E5bsepZIszBuPJ0C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "Gazeta Pomorska on MSN22 godz.",
-            "source": "Gazeta Pomorska on MSN",
-            "article_content": ""
         }
     },
     {
@@ -330,7 +314,7 @@
             "description": "Na turyst\u00f3w czekaj\u0105 polskie Carcassone, Twierdza K\u0142odzko i bardzo ciekawe uzdrowiska. Z biletem kolejowym mo\u017cna dojecha\u0107 r\u00f3wnie\u017c do L\u0105dka-Zdroju oraz Stronia \u015al\u0105skiego.",
             "image_url": "https://www.bing.pl/th?id=ODF._X9e-KOMAmBaCQXrl7msXQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Wroc\u0142aw.Wyborcza.pl12 godz.",
+            "date": "Wroc\u0142aw.Wyborcza.pl15 godz.",
             "source": "Wroc\u0142aw.Wyborcza.pl",
             "article_content": ""
         }
@@ -346,9 +330,25 @@
             "description": "Ko\u015bci\u00f3\u0142 Bo\u017cego Cia\u0142a w Gda\u0144sku znajduj\u0105cy si\u0119 u st\u00f3p G\u00f3ry Gradowej kryje jeszcze wiele tajemnic. Jedn\u0105 cz\u0119\u015bciowo odkryto. To ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.I06KOoh9rxWcZfj9jTW-kS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Dziennik Ba\u0142tycki14 godz.",
+            "date": "Dziennik Ba\u0142tycki16 godz.",
             "source": "Dziennik Ba\u0142tycki",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Sklep pod kogutkiem, czyli wielki powr\u00f3t Cepelii w nowym miejscu",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/sklep-pod-kogutkiem-czyli-wielki-powr%C3%B3t-cepelii-w-nowym-miejscu/ar-AA1Dfzqb?ocid=BingNewsVerp",
+            "description": "\u201eCepelia' to marka, dzi\u0119ki kt\u00f3rej polska sztuka ludowa wesz\u0142a do miast. Przez lata funkcjonowa\u0142a pod kuratel\u0105 pa\u0144stwa. Po ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.F%2fvaOVoesKwOxUrKbyGiMw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Kurier Poranny on MSN22 min",
+            "source": "Kurier Poranny on MSN",
+            "article_content": ""
         }
     },
     {
@@ -362,7 +362,7 @@
             "description": "Zdobiona bi\u017cuteria sprzed kilku tysi\u0119cy lat, zakopane w lesie monety, przepi\u0119kna zastawa - mi\u0119dzy innymi takie przedmioty ...",
             "image_url": "https://www.bing.pl/th?id=OVF.yqVb5CBlE2eFzKS%2bSCErEA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Lubuska on MSN8 godz.",
+            "date": "Gazeta Lubuska on MSN11 godz.",
             "source": "Gazeta Lubuska on MSN",
             "article_content": ""
         }
@@ -378,7 +378,7 @@
             "description": "Podczas prac remontowych zwi\u0105zanych z odwodnieniem kolegiaty \u015bw. Miko\u0142aja w Ko\u0144skich odkryto szereg unikatowych artefakt\u00f3w.",
             "image_url": "https://www.bing.pl/th?id=OVFT.X5zCo2JVxRxNKVMGP65nCy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Radio Kielce12 godz.",
+            "date": "Radio Kielce15 godz.",
             "source": "Radio Kielce",
             "article_content": "Podczas prac remontowych zwi\u0105zanych z odwodnieniem kolegiaty \u015bw. Miko\u0142aja w Ko\u0144skich odkryto szereg unikatowych artefakt\u00f3w. W\u015br\u00f3d znalezisk znalaz\u0142y si\u0119 m.in. srebrne szel\u0105gi z XV wieku, okucia okienne z herbami oraz doskonale zachowana szklana butelka z XVIII wieku, najprawdopodobniej zawieraj\u0105ca wino mszalne.\n\nW trakcie rob\u00f3t ziemnych historyczne stowarzyszenie \u201ePasja\u201d z Ko\u0144skich, wykorzystuj\u0105c wykrywacze metalu i specjalne sita, przeszukiwa\u0142o ha\u0142dy ziemi w pobli\u017cu fundament\u00f3w najstarszej cz\u0119\u015bci \u015bwi\u0105tyni \u2013 od strony p\u00f3\u0142nocnej. Jak relacjonuje Rados\u0142aw Nowek, cz\u0142onek stowarzyszenia, pierwsze poszukiwania by\u0142y wyj\u0105tkowo owocne.\n\n\u2013 U\u017cywali\u015bmy nie tylko wykrywaczy metali, ale r\u00f3wnie\u017c sit, co pozwoli\u0142o na odnalezienie bardzo drobnych element\u00f3w, takich jak monety. Znale\u017ali\u015bmy m.in. dwie monety Jana Olbrachta z XV wieku, co potwierdza dat\u0119 rozpocz\u0119cia budowy ko\u015bcio\u0142a \u2013 1492 rok \u2013 m\u00f3wi Nowek.\n\nW\u015br\u00f3d monet znalaz\u0142y si\u0119 r\u00f3wnie\u017c m\u0142odsze egzemplarze, takie jak srebrny szel\u0105g Stefana Batorego, grosz austro-w\u0119gierski wybity dla wojsk austriackich w Galicji i Krakowie z 1794 roku (z napisem \u201egrossus pol\u201d), a tak\u017ce kopiejki, halerze, boratynki oraz dewocjonalia i krzy\u017cyki z pocz\u0105tku XIX wieku.\n\nSzczeg\u00f3lne zainteresowanie wzbudzi\u0142y okucia okienne z gmerkami, w tym dwa o\u0142owiane fragmenty z herbami Na\u0142\u0119cz.\n\n\u2013 Nie wiemy, czy by\u0142y cz\u0119\u015bci\u0105 dawnych witra\u017cy, czy mo\u017ce zwyk\u0142ych okien, ale bez w\u0105tpienia s\u0105 to cenne i wiekowe znaleziska \u2013 dodaje.\n\nNajwi\u0119ksz\u0105 niespodziank\u0105 okaza\u0142a si\u0119 jednak szklana butelka z XVIII wieku, znaleziona w stanie niemal idealnym. Nie zawiera\u0142a listu, lecz p\u0142yn o nieznanej zawarto\u015bci.\n\n\u2013 Butelka r\u00f3\u017cni si\u0119 od wsp\u00f3\u0142czesnych \u2013 zosta\u0142a wykonana r\u0119cznie z tzw. szk\u0142a ci\u0105gnionego, co rozpozna\u0107 mo\u017cna po charakterystycznym wg\u0142\u0119bieniu produkcyjnym. Najprawdopodobniej s\u0142u\u017cy\u0142a jako naczynie na wino mszalne \u2013 wyja\u015bnia.\n\nOdkryte przedmioty zostan\u0105 przekazane archeologowi do analizy oraz do wojew\u00f3dzkiego konserwatora zabytk\u00f3w, a nast\u0119pnie trafi\u0105 do tworzonego w\u0142a\u015bnie Muzeum Ziemi Koneckiej.\n\n\n\n"
         }
@@ -394,25 +394,9 @@
             "description": "Pa\u0142ac wzniesiono na polecenie Jana Zamoyskiego, wielkiego kanclerza, hetmana Rzeczpospolitej, zwyci\u0119zcy na bitewnych polach, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.NbZl2wKKirofGXisAr3nWC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Kurier Lubelski on MSN10 godz.",
+            "date": "Kurier Lubelski on MSN12 godz.",
             "source": "Kurier Lubelski on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "20 KWIETNIA 2025",
-            "link": "https://krakow.pl/kalendarium/1919,shw,2025-04-20,6,day.html",
-            "description": "Czy chcesz pozna\u0107 histori\u0119 jednego z najwi\u0119kszych przedwojennych zak\u0142ad\u00f3w przemys\u0142owych Krakowa? Czy chcesz dowiedzie\u0107 si\u0119, do czego s\u0142u\u017cy rozwierak, a do czego pa\u0142asz i jak wygl\u0105da naw\u00f3z ze szk\u0142a? A ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "zabytkowe+przedmioty",
-            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w3 godz.",
-            "source": "Oficjalny serwis miejski - Magiczny Krak\u00f3w",
-            "article_content": "Szlak \u017cywego Muzeum Witra\u017cu\n\nW Muzeum Witra\u017cu przestrzenie ekspozycyjne przeplataj\u0105 si\u0119 z mieszcz\u0105ca si\u0119 tu od 1902 roku pracowni\u0105 witra\u017cy. Podczas zwiedzania mo\u017cna obserwowa\u0107 niezmieniony od setek lat proces powstawania witra\u017cy. Struktura kamienicy, w kt\u00f3rej..."
         }
     },
     {
@@ -426,9 +410,25 @@
             "description": "Ko\u015bci\u00f3\u0142 Bo\u017cego Cia\u0142a w Gda\u0144sku znajduj\u0105cy si\u0119 u st\u00f3p G\u00f3ry Gradowej kryje jeszcze wiele tajemnic. Jedn\u0105 cz\u0119\u015bciowo odkryto. To ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.I06KOoh9rxWcZfj9jTW-kS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Dziennik Ba\u0142tycki14 godz.",
+            "date": "Dziennik Ba\u0142tycki16 godz.",
             "source": "Dziennik Ba\u0142tycki",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Monety z PRL s\u0105 sporo warte. Ma\u0142\u0105 fortun\u0119 dostaniesz nawet za pieni\u0105dze obiegowe",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/monety-z-prl-s%C4%85-sporo-warte-ma%C5%82%C4%85-fortun%C4%99-dostaniesz-nawet-za-pieni%C4%85dze-obiegowe/ar-AA1Dft3v?ocid=BingNewsVerp",
+            "description": "Pieni\u0105dze s\u0105 w cenie i to dos\u0142ownie. Monety z PRL s\u0105 poszukiwane przez kolekcjoner\u00f3w, a jeszcze stosunkowo niedawno Polacy wrzucali je bez namys\u0142u do portfeli.",
+            "image_url": "https://www.bing.pl/th?id=ODF.qXPYOt4opjbuEdbLUjfq7Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stare+numizmatyka",
+            "date": "Biznes w INTERIA.PL on MSN22 min",
+            "source": "Biznes w INTERIA.PL on MSN",
+            "article_content": ""
         }
     },
     {
@@ -442,7 +442,7 @@
             "description": "To unikatowy polski skarb. Wykopano go na polu 42 lata temu. Wybity przez Boles\u0142awa Chrobrego srebrny denar z lat 992-997, b\u0119d\u0105cy w posiadaniu Muzeum Pomorza \u015arodkowego w S\u0142upsku, jest bezcenny. Zacho ...",
             "image_url": "https://www.bing.pl/th?id=ODF.5s2nDicEFNR6T9e5rt0xCA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "Dziennik Ba\u0142tycki on MSN18 godz.",
+            "date": "Dziennik Ba\u0142tycki on MSN20 godz.",
             "source": "Dziennik Ba\u0142tycki on MSN",
             "article_content": ""
         }
@@ -458,7 +458,7 @@
             "description": "Malborskie mury obraca\u0142y si\u0119 w gruz, znikn\u0105\u0142 ko\u015bci\u00f3\u0142 i XIV-wieczny pos\u0105g Matki Boskiej. Zabytkowe kamienice miasta trawi\u0142 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.GLtV-iRw_Ynd9VImOWoXri&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "wykopano+zabytkowe",
-            "date": "Wiadomo\u015bci Onet on MSN19 godz.",
+            "date": "Wiadomo\u015bci Onet on MSN22 godz.",
             "source": "Wiadomo\u015bci Onet on MSN",
             "article_content": ""
         }
@@ -474,7 +474,7 @@
             "description": "W ko\u015bciele w Pastuchowie (gm. Jaworzyna \u015al\u0105ska, pow. \u015bwidnicki) dokonano niezwyk\u0142ego odkrycia, o czym poinformowa\u0142 w pi\u0105tek ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.RWt1vx3qqPyfoGm2gOIV9i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Wiadomo\u015bci Radio ZET18 godz.",
+            "date": "Wiadomo\u015bci Radio ZET21 godz.",
             "source": "Wiadomo\u015bci Radio ZET",
             "article_content": "Z tego artyku\u0142u dowiesz si\u0119: Co znaleziono podczas prac konserwatorskich prowadzonych od 2023 roku w ko\u015bciele pod wezwaniem \u015aw. Barbary w Pastuchowie?\n\nDlaczego to odkrycie jest tak cenne?\n\nJaka jest historia ko\u015bcio\u0142a w Pastuchowie?\n\nCenne odkrycie w ko\u015bciele w Pastuchowie. Odkryto to podczas prac\n\nOd czerwca 2023 roku w ko\u015bciele pod wezwaniem \u015aw. Barbary w Pastuchowie (woj. dolno\u015bl\u0105skie) prowadzone s\u0105 prace konserwatorskie, kt\u00f3re polegaj\u0105 na ods\u0142oni\u0119ciu oryginalnych polichromii, odkrytych na sklepieniu i \u017cebrach prezbiterium ko\u015bcio\u0142a oraz na sklepieniu absydy. W trakcie prowadzonych prac ujawniono cenn\u0105 dekoracj\u0119 malarsk\u0105. Przedstawia typowy dla sztuki \u015bredniowiecznej program ikonograficzny. \"W wysklepkach sklepienia zachowa\u0142y si\u0119 przedstawienia symboli Czterech Ewangelist\u00f3w, kt\u00f3re po wykonanej konserwacji technicznej i estetycznej odzyska\u0142y sw\u00f3j dawny blask\" - poinformowa\u0142 Dolno\u015bl\u0105ski Konserwator Zabytk\u00f3w.\n\nPrzestrzenie wysklepek wype\u0142nione s\u0105 wici\u0105 ro\u015blinn\u0105, wychodz\u0105c\u0105 z jednej z strony paszczy \"G\u0142upca\", z drugiej z paszczy \"Lewiatana\" - co ciekawe, jego posta\u0107 zosta\u0142a zrekonstruowana dzi\u0119ki wykonaniu zdj\u0119\u0107 w \u015bwietle UV. Postacie nie znajduj\u0105 si\u0119 tam przypadkowo; nawi\u0105zuj\u0105 bowiem do centralnej sceny S\u0105du Ostatecznego, umieszczonej na sklepieniu absydy prezbiterium, kt\u00f3ra zosta\u0142a jedynie ods\u0142oni\u0119ta i poddana koniecznej konserwacji technicznej. Sam ko\u015bci\u00f3\u0142 w Pastuchowie stanowi niezwykle cenny przyk\u0142ad sakralnego dziedzictwa Dolnego \u015al\u0105ska.\n\nHistoria ko\u015bcio\u0142a w Pastuchowie\n\nKo\u015bci\u00f3\u0142 pod wezwaniem \u015aw. Barbary zosta\u0142 zbudowany oko\u0142o po\u0142owy XIII w. z kamienia \u0142amanego, w stylu p\u00f3\u017anoroma\u0144skim, powi\u0119kszony w XVIII w. o wie\u017c\u0119 zachodni\u0105. Jest to budowla jednonawowa z kwadratowym prezbiterium zako\u0144czonym absyd\u0105 sklepion\u0105 p\u00f3\u0142kopu\u0142\u0105. \"W prezbiterium za\u0142o\u017cono sklepienia krzy\u017cowo-\u017cebrowe wsparte na naro\u017cnych kolumienkach. W zachodniej \u015bcianie nawy zachowa\u0142 si\u0119 skromny portal uskokowy. W prezbiterium widnieje p\u00f3\u017anogotyckie tabernakulum i kamienna chrzcielnica\" - czytamy na stronie pastuchow.pl.\n\n\u0179r\u00f3d\u0142o: Radio ZET/Pastuchow.pl"
         }
@@ -490,7 +490,7 @@
             "description": "Zdobiona bi\u017cuteria sprzed kilku tysi\u0119cy lat, zakopane w lesie monety, przepi\u0119kna zastawa - mi\u0119dzy innymi takie przedmioty ...",
             "image_url": "https://www.bing.pl/th?id=OVF.yqVb5CBlE2eFzKS%2bSCErEA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Gazeta Lubuska on MSN8 godz.",
+            "date": "Gazeta Lubuska on MSN11 godz.",
             "source": "Gazeta Lubuska on MSN",
             "article_content": ""
         }
