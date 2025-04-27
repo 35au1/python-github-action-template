@@ -10,7 +10,7 @@
             "description": "Moda na przedmioty z dawnych lat nie s\u0142abnie, a w 2025 roku przedmioty vintage ciesz\u0105 si\u0119 ogromnym zainteresowaniem.",
             "image_url": "https://www.bing.pl/th?id=OVFT.G8DOYy-9qqFxnEgY1fjtaS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN13 godz.",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN15 godz.",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
             "article_content": ""
         }
@@ -26,7 +26,7 @@
             "description": "Gie\u0142da w Lubinie ma ju\u017c przesz\u0142o 40 lat. I cho\u0107 przez dekady kojarzy\u0142a si\u0119 g\u0142\u00f3wnie z samochodami, to dzi\u015b jest ich zaledwie ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.LyMPK6HjGgHRjG47KZEm_S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Gazeta Wroc\u0142awska on MSN4 godz.",
+            "date": "Gazeta Wroc\u0142awska on MSN7 godz.",
             "source": "Gazeta Wroc\u0142awska on MSN",
             "article_content": ""
         }
@@ -42,9 +42,25 @@
             "description": "Przy stadionie pi\u0142karskim odbywa si\u0119 co tydzie\u0144 w sobot\u0119 od godziny 6:00. Mo\u017cna tu kupi\u0107 niemal wszystko! Cz\u0119\u015bci samochodowe, ...",
             "image_url": "https://www.bing.pl/th?id=OVF.znxZlpACNJnOTdJlKcZwzQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Legnica Nasze Miasto on MSN12 godz.",
+            "date": "Legnica Nasze Miasto on MSN14 godz.",
             "source": "Legnica Nasze Miasto on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Przegl\u0105d prasy z Legnicy. Sprawd\u017a najwa\u017cniejsze informacje z wczoraj. Pras\u00f3wka 27.04.2025",
+            "link": "https://legnica.naszemiasto.pl/przeglad-prasy-z-legnicy-sprawdz-najwazniejsze-informacje-z-wczoraj-prasowka-27-04-2025/ar/c1p1-19738637",
+            "description": "Dziedziniec Zamku Piastowskiego w Legnicy zamieni\u0142 si\u0119 w t\u0119tni\u0105ce \u017cyciem Miasteczko \u015aredniowieczne. Wydarzenie, organizowane przez Muzeum Miedzi w Legnicy, stanowi\u0142o cz\u0119\u015b\u0107 Otwarcia Sezonu ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.AxDMbgdonp4EyA0Jy8hY-A&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "starocie",
+            "date": "Legnica Nasze Miasto35 min",
+            "source": "Legnica Nasze Miasto",
+            "article_content": "Content not available"
         }
     },
     {
@@ -58,24 +74,8 @@
             "description": "pochodzenia - wazony z renomowanych hut, takich jak \"Z\u0105bkowice\" czy \"Irena\", s\u0105 bardziej warto\u015bciowe.",
             "image_url": "https://www.bing.pl/th?id=OVFT.AjJ5ECECV_k7OjER51KEPS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Express Bydgoski on MSN8 godz.",
+            "date": "Express Bydgoski on MSN11 godz.",
             "source": "Express Bydgoski on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Targowisko przy ul. Zwi\u0105zk\u00f3w Zawodowych we W\u0142oc\u0142awku - nowalijki, truskawki i kwiaty - 26 kwietnia 2025. Zdj\u0119cia, ceny",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/targowisko-przy-ul-zwi%C4%85zk%C3%B3w-zawodowych-we-w%C5%82oc%C5%82awku-nowalijki-truskawki-i-kwiaty-26-kwietnia-2025-zdj%C4%99cia-ceny/ar-AA1DFbnL?ocid=BingNewsVerp",
-            "description": "W prawdziwie wiosenn\u0105 sobot\u0119, 26 kwietnia 2025 roku, na targowisku przy ulicy Zwi\u0105zk\u00f3w Zawodowych we W\u0142oc\u0142awku panowa\u0142 spory ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.k54M43kTro%2b6zwBne2o2jA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN13 godz.",
-            "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
             "article_content": ""
         }
     },
@@ -90,7 +90,7 @@
             "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
             "image_url": "https://www.bing.pl/th?id=OVF.w5svdHFD6hAav%2bRJmM%2fvqw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Pomorza on MSN20 godz.",
+            "date": "G\u0142os Pomorza on MSN22 godz.",
             "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
         }
@@ -106,25 +106,9 @@
             "description": "Wycena monet z PRL-u zale\u017cy od rzadko\u015bci wyst\u0119powania, jako\u015bci wybicia oraz gradingu, czyli stanu jej zachowania. W Polsce ...",
             "image_url": "https://www.bing.pl/th?id=OVF.aSignva2RAP%2fBzfkiFeEpA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Szczeci\u0144ski20 godz.",
+            "date": "G\u0142os Szczeci\u0144ski23 godz.",
             "source": "G\u0142os Szczeci\u0144ski",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Ten banknot 50 z\u0142otych jest wart fortun\u0119! A to nie jedyny okaz, kt\u00f3rego szukaj\u0105 kolekcjonerzy [26.04.25]",
-            "link": "https://www.msn.com/pl-pl/finanse/og%C3%B3lne/ten-banknot-50-z%C5%82otych-jest-wart-fortun%C4%99-a-to-nie-jedyny-okaz-kt%C3%B3rego-szukaj%C4%85-kolekcjonerzy-26-04-25/ar-AA1Dttas?ocid=BingNewsVerp",
-            "description": "Banknoty i monety mog\u0105 by\u0107 cenniejsze, ni\u017c wskazuje ich nomina\u0142 - czasem wystarczy jeden szczeg\u00f3\u0142, by ich warto\u015b\u0107 si\u0119gn\u0119\u0142a ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.37HFo61hHdhbCb5mJSTR1i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "Gazeta Pomorska on MSN13 godz.",
-            "source": "Gazeta Pomorska on MSN",
-            "article_content": ""
         }
     },
     {
@@ -138,7 +122,7 @@
             "description": "W sobotni poranek jaros\u0142awski rynek t\u0119tni\u0142 \u017cyciem, a przestrze\u0144 wype\u0142ni\u0142y przedmioty pe\u0142ne historii \u2013 od antyk\u00f3w, poprzez ...",
             "image_url": "https://www.bing.pl/th?id=OVF.vSoB6bS8TXfDy1W5%2fyhhtQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Nowiny on MSN10 godz.",
+            "date": "Nowiny on MSN13 godz.",
             "source": "Nowiny on MSN",
             "article_content": ""
         }
@@ -149,13 +133,29 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Masz te banknoty? To prawdziwe skarby! Za jeden mo\u017cesz otrzyma\u0107 kilka tysi\u0119cy z\u0142otych! [ZDJ\u0118CIA] 26.04.2025",
-            "link": "https://gs24.pl/masz-te-banknoty-to-prawdziwe-skarby-za-jeden-mozesz-otrzymac-kilka-tysiecy-zlotych-zdjecia-26042025/ar/c1-17930573",
-            "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.TEYu3FEWp2ow5rALaKrXgg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Kr\u00f3lewskie popiersie z br\u0105zu. Wyj\u0105tkowe odkrycie pod Starym Czarnowem ma przynajmniej kilkaset lat",
+            "link": "https://www.msn.com/pl-pl/historia-i-kultura-spo%C5%82ecze%C5%84stwa/historia/kr%C3%B3lewskie-popiersie-z-br%C4%85zu-wyj%C4%85tkowe-odkrycie-pod-starym-czarnowem-ma-przynajmniej-kilkaset-lat/ar-AA1DGVYB?ocid=BingNewsVerp",
+            "description": "Korona jest ozdobiona trzema tr\u00f3jpalczastymi kolcami. Do naszych czas\u00f3w zachowa\u0142 si\u0119 jedynie jeden z nich. Kr\u00f3l ma twarz: ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.uu7YlIie8k9yy8Y%2bu1iTrw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Szczeci\u0144ski20 godz.",
-            "source": "G\u0142os Szczeci\u0144ski",
+            "date": "G\u0142os Szczeci\u0144ski on MSN23 min",
+            "source": "G\u0142os Szczeci\u0144ski on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Przegl\u0105d prasy 27.04.2025. Zestawili\u015bmy dla Ciebie najwa\u017cniejsze wydarzenia z wczoraj. Zobacz nasz\u0105 pras\u00f3wk\u0119",
+            "link": "https://nowiny24.pl/przeglad-prasy-27-04-2025-zestawilismy-dla-ciebie-najwazniejsze-wydarzenia-z-wczoraj-zobacz-nasza-prasowke/ar/c1p1-19960915",
+            "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 26.04.",
+            "image_url": "https://www.bing.pl/th?id=OVFT.WSSYneOftTj0y7fVQjE7yy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "Nowiny 2438 min",
+            "source": "Nowiny 24",
             "article_content": "Content not available"
         }
     },
@@ -170,9 +170,25 @@
             "description": "Unikatowy charakter mia\u0142y r\u00f3wnie\u017c przedmioty z tego okresu. Z pewno\u015bci\u0105 wiele os\u00f3b posiada w swoich domach rzeczy z czas\u00f3w ...",
             "image_url": "https://www.bing.pl/th?id=OVF.FEFIXfgypDPWPBQ3SWhJZA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "G\u0142os Koszali\u0144ski20 godz.",
+            "date": "G\u0142os Koszali\u0144ski23 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "\"Lalka\" powraca. Sprawd\u017a, ile pami\u0119tasz z obowi\u0105zkowej powie\u015bci",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/dzi%C5%9B-pomimo-s%C5%82o%C5%84ca-temperatura-nie-zachwyci-polsk%C4%99-zdominuje-ch%C5%82odna-masa-powietrza-pogoda/ar-AA1DGLRK?ocid=BingNewsVerp",
+            "description": "Marcin Doroci\u0144ski oraz Kamila Urz\u0119dowska zagraj\u0105 g\u0142\u00f3wne role w nowej wersji \"Lalki\". Przy okazji ujawnienia szczeg\u00f3\u0142\u00f3w ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.OIORWZsea76M8AI7FlbZXy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stara+porcelana",
+            "date": "Onet Wiadomo\u015bci on MSN23 min",
+            "source": "Onet Wiadomo\u015bci on MSN",
+            "article_content": ""
         }
     },
     {
@@ -186,7 +202,7 @@
             "description": "Unikalna porcelana z PRL poszukiwana przez kolekcjoner\u00f3w mo\u017ce zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na niej zarobi\u0107 fortun\u0119! Cz\u0119sto nie mamy \u015bwiadomo\u015bci, \u017ce przedmioty posiadane w domu warte s\u0105 du\u017co ...",
             "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "G\u0142os Pomorza20 godz.",
+            "date": "G\u0142os Pomorza22 godz.",
             "source": "G\u0142os Pomorza",
             "article_content": "Content not available"
         }
@@ -202,7 +218,7 @@
             "description": "W zak\u0142adzie produkcji sody Qemetica Soda Polska w Janikowie rozpocz\u0105\u0142 si\u0119 proces zwolnie\u0144 grupowych. Jak wynika z najnowszych ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.1Ae9kHsd068Du3wvgFRkRy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Kresy.pl10 godz.",
+            "date": "Kresy.pl12 godz.",
             "source": "Kresy.pl",
             "article_content": "Content not available"
         }
@@ -218,7 +234,7 @@
             "description": "W ka\u017cd\u0105 sobot\u0119 o poranku, ju\u017c od godziny 7:00, malownicze Chmielniki ko\u0142o Bydgoszczy t\u0119tni\u0105 \u017cyciem. To w\u0142a\u015bnie tutaj, tu\u017c ...",
             "image_url": "https://www.bing.pl/th?id=OVF.mSZps10wknDDd8pexT0iTw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Nasze Miasto on MSN4 godz.",
+            "date": "Nasze Miasto on MSN7 godz.",
             "source": "Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -234,7 +250,7 @@
             "description": "W Pasa\u017cu \u0141\u00f3dzkim trwa wyprzeda\u017c gara\u017cowa. Odwiedzaj\u0105cy mog\u0105 znale\u017a\u0107 unikalne antyki, stare przedmioty i prawdziwe pere\u0142ki, ...",
             "image_url": "https://www.bing.pl/th?id=OVF.hxTBx7C6Bh4M2oJS%2bmRBBA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "\u0141\u00f3d\u017a Nasze Miasto on MSN17 godz.",
+            "date": "\u0141\u00f3d\u017a Nasze Miasto on MSN20 godz.",
             "source": "\u0141\u00f3d\u017a Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -250,7 +266,7 @@
             "description": "W prawdziwie wiosenn\u0105 sobot\u0119, 26 kwietnia 2025 roku, na targowisku przy ulicy Zwi\u0105zk\u00f3w Zawodowych we W\u0142oc\u0142awku panowa\u0142 spory ...",
             "image_url": "https://www.bing.pl/th?id=OVF.k54M43kTro%2b6zwBne2o2jA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN13 godz.",
+            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN16 godz.",
             "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -266,7 +282,7 @@
             "description": "Dziergane smycze, r\u0119cznie robione obro\u017ce dla zwierz\u0105t, a mo\u017ce bi\u017cuteria z kamieni naturalnych? To wszystko mo\u017cna kupi\u0107 podczas Targ\u00f3w unikat\u00f3w na Dworcu \u015awiebodzkim. Impreza trwa do ko\u0144ca dnia.",
             "image_url": "https://www.bing.pl/th?id=ODF.p9YO103MXreScWBGsL62IA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Gazeta Wroc\u0142awska on MSN13 godz.",
+            "date": "Gazeta Wroc\u0142awska on MSN16 godz.",
             "source": "Gazeta Wroc\u0142awska on MSN",
             "article_content": ""
         }
@@ -282,7 +298,7 @@
             "description": "Przy stadionie pi\u0142karskim odbywa si\u0119 co tydzie\u0144 w sobot\u0119 od godziny 6:00. Mo\u017cna tu kupi\u0107 niemal wszystko! Cz\u0119\u015bci samochodowe, ...",
             "image_url": "https://www.bing.pl/th?id=OVF.znxZlpACNJnOTdJlKcZwzQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Legnica Nasze Miasto on MSN12 godz.",
+            "date": "Legnica Nasze Miasto on MSN14 godz.",
             "source": "Legnica Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -298,7 +314,7 @@
             "description": "Nie tego spodziewali si\u0119 robotnicy, kt\u00f3rzy mieli za zadanie utwardzi\u0107 i odwodni\u0107 jedn\u0105 z dzia\u0142ek w Nawojowie \u0141u\u017cyckim (woj.",
             "image_url": "https://www.bing.pl/th?id=OVFT.VfBm_zmrccJUCNHz4WNB5i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Gazeta Wroc\u0142awska on MSN9 godz.",
+            "date": "Gazeta Wroc\u0142awska on MSN12 godz.",
             "source": "Gazeta Wroc\u0142awska on MSN",
             "article_content": ""
         }
@@ -314,25 +330,9 @@
             "description": "W Nawojowie \u0141u\u017cyckim w woj. \u015bl\u0105skim odkryto podziemne pomieszczenia, kt\u00f3re pami\u0119taj\u0105 czasy zakonu magdalenek z XVIII wieku.",
             "image_url": "https://www.bing.pl/th?id=OVFT.YMIFMAVDGnzKm6UopS8LhS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Dzie\u0144 Dobry TVN18 godz.",
+            "date": "Dzie\u0144 Dobry TVN20 godz.",
             "source": "Dzie\u0144 Dobry TVN",
             "article_content": "To mia\u0142o by\u0107 zwyk\u0142e utwardzenie dzia\u0142ki. Tymczasem w Nawojowie \u0141u\u017cyckim odkryto podziemne pomieszczenia, kt\u00f3re pami\u0119taj\u0105 czasy zakonu magdalenek z XVIII wieku. Archeolodzy i lokalne w\u0142adze nie kryj\u0105 zaskoczenia. - Warto zastanowi\u0107 si\u0119 w przysz\u0142o\u015bci nad wykorzystaniem potencja\u0142u tego miejsca - m\u00f3wi Aleksandra Chomicz, w\u00f3jt gminy Luba\u0144.\n\nDalsza cz\u0119\u015b\u0107 artyku\u0142u pod materia\u0142em wideo\n\nPolskie odkrycie ratunkiem dla sk\u00f3ry \u0179r\u00f3d\u0142o: Dzie\u0144 Dobry TVN\n\nDolny \u015al\u0105sk. Zaskakuj\u0105ce odkrycie pod dawnym klasztorem\n\nNikt nie spodziewa\u0142 si\u0119, \u017ce rutynowe prace budowlane w Nawojowie \u0141u\u017cyckim (woj. dolno\u015bl\u0105skie) doprowadz\u0105 do archeologicznej sensacji. Podczas przygotowa\u0144 do utwardzenia i odwodnienia jednej z dzia\u0142ek natrafiono na ukryte podziemia nale\u017c\u0105ce niegdy\u015b do klasztoru si\u00f3str magdalenek. Prace poprzedzi\u0142y badania archeologiczne, kt\u00f3re ujawni\u0142y trzy podziemne pomieszczenia, b\u0119d\u0105ce cz\u0119\u015bci\u0105 XVIII-wiecznego kompleksu dworskiego. Znalezisko zaskoczy\u0142o zar\u00f3wno robotnik\u00f3w, jak i w\u0142adze lokalne.\n\n- Ukryte pod ziemi\u0105, murowane pozosta\u0142o\u015bci po dorobku XVIII wieku to niebywa\u0142e odkrycie. Warto zastanowi\u0107 si\u0119 w przysz\u0142o\u015bci nad wykorzystaniem potencja\u0142u tego miejsca - podkre\u015bla cytowana przez \"Gazet\u0119 Wroc\u0142awsk\u0105\" Aleksandra Chomicz, w\u00f3jt gminy Luba\u0144.\n\nArcheolodzy ustalili, \u017ce do pierwszej piwnicy prowadz\u0105 schody o szeroko\u015bci 120 cm, a kolejne pomieszczenia \u0142\u0105cz\u0105 si\u0119 dzi\u0119ki portalowi wykonanemu z jasnego piaskowca. Dwa z nich maj\u0105 uszkodzone sklepienia, natomiast trzecie wci\u0105\u017c jest oczyszczane i nie wiadomo jeszcze, co mo\u017ce si\u0119 w nim kry\u0107.\n\nHistoria klasztoru magdalenek w Lubaniu\n\nOdkryte podziemia s\u0105 \u015bwiadectwem bogatej historii tego miejsca. Teren, na kt\u00f3rym si\u0119 znajduj\u0105, zosta\u0142 zakupiony w 1756 roku przez zakon magdalenek z Lubania. Sam kompleks mia\u0142 jednak znacznie wcze\u015bniejsze korzenie, si\u0119gaj\u0105ce renesansu. Pierwsze zabudowania powsta\u0142y ju\u017c w latach 70. XVI wieku z inicjatywy Christopha Friedricha von Tschirnhausa, a ca\u0142y obiekt przez wieki zmienia\u0142 w\u0142a\u015bcicieli i funkcje, a\u017c zosta\u0142 zniszczony w 1945 roku. Obecne znalezisko rzuca nowe \u015bwiat\u0142o na t\u0119 zapomnian\u0105 cz\u0119\u015b\u0107 lokalnej historii.\n\nW zwi\u0105zku z nowymi okoliczno\u015bciami, zakres inwestycji zostanie zmieniony i dostosowany do zalece\u0144 konserwatora zabytk\u00f3w oraz zespo\u0142u archeologicznego. Prace budowlane maj\u0105 zako\u0144czy\u0107 si\u0119 w po\u0142owie czerwca, lecz zainteresowanie miejscem ju\u017c teraz wskazuje, \u017ce jego przysz\u0142o\u015b\u0107 mo\u017ce nabra\u0107 zupe\u0142nie nowego wymiaru. By\u0107 mo\u017ce stanie si\u0119 jednym z ja\u015bniejszych punkt\u00f3w na historycznej mapie regionu.\n\nW NAWOJOWIE \u0141U\u017bYCKIM W TRAKCIE REALIZACJI INWESTYCJI NATRAFIONO NA MUROWANE RELIKTY\u26cf\ufe0f\u203c\ufe0f\ud83d\udce2 \u27a1\ufe0fTrwa realizacja zadania... Posted by Urz\u0105d Gminy Luba\u0144 on Thursday, April 24, 2025 Rozwi\u0144\n\nZobacz tak\u017ce:\n\nAutor: Regina \u0141ukasiewicz \u0179r\u00f3d\u0142o: Gazeta Wroc\u0142awska \u0179r\u00f3d\u0142o zdj\u0119cia g\u0142\u00f3wnego: GettyImages, Facebook Jak przekaza\u0107 1,5% na Fundacj\u0119 TVN? Kliknij w obraz\n\npodziel si\u0119: podziel si\u0119 twittnij skopiuj link\n\nPozosta\u0142e wiadomo\u015bci\n\nGwiazdy Mery Spolsky zmieni\u0142a wizerunek i zapowiada muzyczne nowo\u015bci\n\nGor\u0105ce tematy Franciszek by\u0142 ostatnim papie\u017cem? Jedna z przepowiedni o ko\u0144cu \u015bwiata ma na to wskazywa\u0107\n\nStyl \u017cycia Kajetan Kajetanowicz i Grzegorz Duda edukuj\u0105 m\u0142odych mechanik\u00f3w"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Niezwyk\u0142e odkrycie w ko\u015bciele \u015bw. Jakuba Aposto\u0142a w Prusicach",
-            "link": "https://www.tysol.pl/a139389-niezwykle-odkrycie-w-kosciele-sw-jakuba-apostola-w-prusicach",
-            "description": "W ko\u015bciele \u015bw. Jakuba Aposto\u0142a w podwroc\u0142awskich Prusicach archeolodzy odkryli nieznane krypty grobowe. Podczas bada\u0144 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.48SvBafrpVH8FqXStzd59S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "Tygodnik Solidarno\u015b\u01078 godz.",
-            "source": "Tygodnik Solidarno\u015b\u0107",
-            "article_content": "W ko\u015bciele \u015bw. Jakuba Aposto\u0142a w podwroc\u0142awskich Prusicach archeolodzy odkryli nieznane krypty grobowe. Podczas bada\u0144 georadarowych zlokalizowali tak\u017ce przypuszczalnie renesansowy dw\u00f3r, znany jedynie ze \u017ar\u00f3de\u0142 pisanych i ikonograficznych.\n\nPrusice - \u015bl\u0105skie miasteczko z histori\u0105\n\nPrusice, niewielkie, \u015bl\u0105skie miasteczko po\u0142o\u017cone ok. 30 km na p\u00f3\u0142noc od Wroc\u0142awia, mog\u0105 poszczyci\u0107 si\u0119 si\u0119gaj\u0105ca \u015bredniowiecza histori\u0105 (pierwsza wzmianka pochodzi z 1136 roku) i licznymi zabytkami z r\u00f3\u017cnych epok. Najstarsze z nich znajduj\u0105 si\u0119 w historycznym centrum miasta, a nale\u017cy do nich gotycki ko\u015bci\u00f3\u0142 pw. \u015bw. Jakuba Aposto\u0142a wraz z fragmentem \u015bredniowiecznych umocnie\u0144 miejskich, oraz renesansowy ratusz. Budowle te, ze stosunkowo niewielkimi zmianami i przebudowami przetrwa\u0142y do chwili obecnej. Prusice zachowa\u0142y ponadto \u015bredniowieczn\u0105 siatk\u0119 ulic, typow\u0105 dla tzw. \u015bl\u0105skiego, centralnego uk\u0142adu urbanistycznego oraz relikty XIV-wiecznego za\u0142o\u017cenia zamkowo-pa\u0142acowego na wschodnich rubie\u017cach Star\u00f3wki.\n\nNiestety, rozbi\u00f3rka fortyfikacji miejskich w 1819 r., a tak\u017ce liczne po\u017cary miasta spowodowa\u0142y, \u017ce po wielu najstarszych budowlach nie zachowa\u0142y si\u0119 \u017cadne \u015blady na powierzchni ziemi.\n\n\"Ch\u0119\u0107 poznania nieznanych lub ma\u0142o znanych pocz\u0105tk\u00f3w Prusic sta\u0142a si\u0119 podstaw\u0105 decyzji miejscowych w\u0142adz wykonania kompleksowej, nieinwazyjnej inwentaryzacji szczeg\u00f3lnych obszar\u00f3w i obiekt\u00f3w Starego Miasta\u201d\n\n- poinformowa\u0142a PAP archeolo\u017cka, dr Renata Faron-Bartels z Urz\u0119du Miejskiego w Prusicach.\n\nProspekcj\u0119 z wykorzystaniem georadaru przeprowadzi\u0142 w dw\u00f3ch etapach (2024 \u2013 2025 r.) prof. Fabian Welc z Instytutu Archeologii Uniwersytetu Kardyna\u0142a Stefana Wyszy\u0144skiego.\n\nW pierwszej kolejno\u015bci przebadano obszar dziedzi\u0144ca dawnego za\u0142o\u017cenia zamkowego oraz p\u0142yty g\u0142\u00f3wnej rynku miejskiego. Najwi\u0119ksze niespodzianki, przynios\u0142o profilowanie georadarowe rynku, ujawniaj\u0105c mi\u0119dzy innymi pozosta\u0142o\u015bci du\u017cego, prostok\u0105tnego budynku o znacznych rozmiarach.\n\n\"Niestety metoda georadarowa nie dostarcza nam danych o chronologii ujawnionych anomalii\"\n\n- podkre\u015bli\u0142 prof. Fabian Welc.\n\n\"Nie jest jednak wykluczone, \u017ce mog\u0142y si\u0119 tu zachowa\u0107 pozosta\u0142o\u015bci \u015bredniowiecznego dworu za\u0142o\u017cyciela Prusic, rycerza Zbyluta, znanego dobrze z przekaz\u00f3w historycznych\"\n\n- doda\u0142 prof. Welc.\n\nCo wykaza\u0142y badania?\n\nW kolejnym etapie zbadano obszar przyko\u015bcielny i wn\u0119trze gotyckiej \u015bwi\u0105tyni pw. \u015bw. Jakuba, kt\u00f3rej budowa przypada na II po\u0142ow\u0119 XV w. Znajduje si\u0119 w niej unikatowa w skali kraju, barokowa kaplica grobowa marsza\u0142ka polnego Melchiora von Hatzfeldta, zas\u0142u\u017conego m.in. z odsieczy Krakowa podczas najazdu Szwed\u00f3w w po\u0142owie XVII w. Poniewa\u017c zabytek wymaga natychmiastowej renowacji, b\u0119dzie tak\u017ce pierwszym celem najbli\u017cszych prac restauratorsko-renowacyjnych. Przeprowadzone tutaj profilowanie georadarowe (GPR) pozwoli\u0142o zlokalizowa\u0107 podziemny korytarz prowadz\u0105cy do wn\u0119trza grobowca marsza\u0142ka od strony prezbiterium.\n\nNatomiast skanowania w obr\u0119bie wn\u0119trza ko\u015bcio\u0142a ujawni\u0142y nieznane dot\u0105d krypty grobowe. Dwie z nich o znacznych rozmiarach znajduj\u0105 si\u0119 blisko o\u0142tarza, st\u0105d te\u017c naukowcy przypuszczaj\u0105, i\u017c powsta\u0142y one w p\u00f3\u017ano\u015bredniowiecznej, lub bardziej prawdopodobnie wczesnonowo\u017cytnej fazie u\u017cytkowania \u015bwi\u0105tyni.\n\n\"Poch\u00f3wki w pobli\u017cu o\u0142tarza mia\u0142y w\u00f3wczas ogromne znaczenie i by\u0142y zarezerwowane wy\u0142\u0105cznie dla os\u00f3b o znacznej pozycji spo\u0142ecznej\"\n\n- wskaza\u0142a dr Faron-Bartels.\n\nWed\u0142ug prof. Welca najbardziej interesuj\u0105cy wynik przeprowadzonych bada\u0144 to zlokalizowanie przypuszczalnie renesansowego dworu, znanego jedynie ze \u017ar\u00f3de\u0142 pisanych i ikonograficznych. Sytuuj\u0105 go one poza murami miejskimi w pobli\u017cu bramy po\u0142udniowej miasta i wskazuj\u0105 na rozbi\u00f3rk\u0119 budowli na pocz\u0105tku XX wieku. Teren, wraz z przyleg\u0142ym od wschodu ogrodem, mia\u0142 pos\u0142u\u017cy\u0107 w 1911 r. do budowy ko\u015bcio\u0142a ewangelickiego, g\u00f3ruj\u0105cego do dzisiaj nad Prusicami.\n\nPrzeprowadzone przed \u015bwi\u0105tyni\u0105 profilowania georadarowe rzeczywi\u015bcie ujawni\u0142y fundamenty prostok\u0105tnego, dwutraktowego budynku, posadowionego najpewniej na ceglano \u2013 kamiennych fundamentach.\n\nJak wyja\u015bnia archeolog, dane zebrane w trakcie bada\u0144 wydaj\u0105 si\u0119 wskazywa\u0107, \u017ce pozosta\u0142o\u015bci zagadkowego dworu mog\u0105 si\u0119 znajdowa\u0107 dok\u0142adnie przed fasad\u0105 g\u0142\u00f3wn\u0105 XX wiecznego ko\u015bcio\u0142a ewangelickiego. Odkrycie to przywraca zatem na historyczn\u0105 map\u0119 Prusic zesp\u00f3\u0142 dworski, kt\u00f3rego wygl\u0105d i w\u0142a\u015bciciel pozostaj\u0105 jednak nieznane.\n\n\"Planowane w przysz\u0142o\u015bci dalsze prace georadarowe na pobliskim obszarze podgrodzia rzuc\u0105 by\u0107 mo\u017ce wi\u0119cej \u015bwiat\u0142a na t\u0119 kwesti\u0119\"\n\n- podsumowa\u0142 prof. Welc."
         }
     },
     {
@@ -346,7 +346,7 @@
             "description": "Oskar Cyms by\u0142 go\u015bciem specjalnym fina\u0142owego odcinka \"You Can Dance\". W rozmowie z redaktork\u0105 Dzie\u0144 Dobry TVN Online Berenik\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.id9emx7nyxA50ZZTgwI9ty&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Dzie\u0144 Dobry TVN9 godz.",
+            "date": "Dzie\u0144 Dobry TVN11 godz.",
             "source": "Dzie\u0144 Dobry TVN",
             "article_content": "Oskar Cyms by\u0142 go\u015bciem specjalnym fina\u0142owego odcinka \"You Can Dance - Po prostu ta\u0144cz!\". Wokalista za\u015bpiewa\u0142 zdobywaj\u0105cy szczyty list przeboj\u00f3w utw\u00f3r \"Co noc\". W rozmowie z redaktork\u0105 Dzie\u0144 Dobry TVN Online Berenik\u0105 Olesi\u0144sk\u0105 wyzna\u0142, czy na tej samej scenie, na kt\u00f3rej wyst\u0119powa\u0142, odwa\u017cy\u0142by si\u0119 zata\u0144czy\u0107. - Na imprezach nie jestem sztywniakiem, kt\u00f3ry stoi i podpiera \u015bciany - skomentowa\u0142. Zobacz materia\u0142 wideo.\n\nCzy Oskar Cyms zata\u0144czy\u0142by w \"You Can Dance\"?\n\n\"Co noc\" to piosenka, kt\u00f3ra nie tylko dzi\u0119ki wpadaj\u0105cej w ucho melodii, ale tak\u017ce dzi\u0119ki zach\u0119caj\u0105cemu tekstowi wr\u0119cz porywa s\u0142uchaczy do ruszania si\u0119 w rytm muzyki. \"A ty dzisiaj ze mn\u0105 ta\u0144cz\" - \u015bpiewa Oskar Cyms.\n\nW Dzie\u0144 Dobry TVN Online zapytali\u015bmy wi\u0119c wokalist\u0119, czy rzeczywi\u015bcie jest takim entuzjast\u0105 ta\u0144ca i czy bez obaw wyst\u0105pi\u0142by w \"You Can Dance\".\n\n- Zdarzy\u0142o mi si\u0119 czasem pr\u00f3bowa\u0107 [ta\u0144czy\u0107 na scenie - przyp. red.], ale za ka\u017cdym razem powodowa\u0142o to u mnie bardzo du\u017cy stres i wp\u0142ywa\u0142o to na wykony. Wi\u0119c wol\u0119 sobie nie zaprz\u0105ta\u0107 g\u0142owy ta\u0144cem. A wiadomo, \u017ce je\u017celi chodzi o koncerty, to na scenie si\u0119 ruszam. To wychodzi ze mnie, to jest naturalne. Ale je\u017celi chodzi o jakie\u015b choreografie, zapami\u0119tywanie tych ruch\u00f3w itd., to zupe\u0142nie nie moja bajka - wyzna\u0142 24-latek w rozmowie z redaktork\u0105 Berenik\u0105 Olesi\u0144sk\u0105.\n\nJednak jak jest jaka\u015b okoliczno\u015b\u0107 imprezowa, wiadomo, \u017ce si\u0119 poruszam. Nie jestem sztywniakiem, kt\u00f3ry stoi i podpiera \u015bciany - doda\u0142 piosenkarz.\n\nOskar Cyms czyta komentarze na sw\u00f3j temat\n\nOskar Cyms zdradzi\u0142 nam przy okazji, \u017ce po swoich koncertach, w drodze do hotelu lub domu, przegl\u0105da media spo\u0142eczno\u015bciowe, analizuje wrzucane przez fan\u00f3w filmiki i ocenia, jak sobie poradzi\u0142 z wyst\u0119pem.\n\n- Odpalam relacje z tych koncert\u00f3w i patrz\u0119, jak to wygl\u0105da\u0142o z perspektywy widza, z perspektywy s\u0142uchacza, kt\u00f3ry na tym koncercie by\u0142. Patrz\u0119, co mog\u0119 zrobi\u0107 lepiej, co mog\u0119 poprawi\u0107, co mog\u0119 doda\u0107, czego zrobi\u0142em za du\u017co, czego unika\u0107 - t\u0142umaczy w Dzie\u0144 Dobry TVN Online.\n\nWokalista przyzna\u0142 tak\u017ce, \u017ce czyta w sieci komentarze na sw\u00f3j temat. - Zdarza mi si\u0119, zw\u0142aszcza kiedy wydaj\u0119 nowy numer, to wchodz\u0119 sobie na YouTube i te komentarze czytam. Ale te\u017c jak gdzie\u015b scrolluj\u0119 TikToka czy jakie\u015b inne media i natrafi\u0119 na filmik ze swoj\u0105 osob\u0105, to wejd\u0119 w te komentarze, nie m\u00f3wi\u0119, \u017ce nie. Jestem ciekaw, co tam si\u0119 dzieje - zaznaczy\u0142 z u\u015bmiechem.\n\nSprawdzam w tych komentarzach, czy tam kto\u015b w og\u00f3le jest zainteresowany moj\u0105 osob\u0105, czy kto\u015b mnie lubi. Jest to te\u017c sprawdzenie tego, co s\u0142uchacz ma do powiedzenia na m\u00f3j temat, czy spe\u0142niam jego oczekiwania - doda\u0142 Oskar Cyms.\n\nZobacz tak\u017ce:\n\nReporter: Berenika Olesi\u0144ska \u0179r\u00f3d\u0142o zdj\u0119cia g\u0142\u00f3wnego: Dzie\u0144 Dobry TVN Online Jak przekaza\u0107 1,5% na Fundacj\u0119 TVN? Kliknij w obraz\n\npodziel si\u0119: podziel si\u0119 twittnij skopiuj link\n\nPozosta\u0142e wiadomo\u015bci\n\nGwiazdy Mery Spolsky zmieni\u0142a wizerunek i zapowiada muzyczne nowo\u015bci\n\nGor\u0105ce tematy Franciszek by\u0142 ostatnim papie\u017cem? Jedna z przepowiedni o ko\u0144cu \u015bwiata ma na to wskazywa\u0107\n\nStyl \u017cycia Kajetan Kajetanowicz i Grzegorz Duda edukuj\u0105 m\u0142odych mechanik\u00f3w"
         }
@@ -357,13 +357,77 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Trasy rowerowe do 19 km od O\u015bwi\u0119cimia. Podpowiedzi jednodniowych wypraw. Gdzie w weekend 26 - 27 kwietnia?",
-            "link": "https://oswiecim.naszemiasto.pl/trasy-rowerowe-do-19-km-od-oswiecimia-podpowiedzi-jednodniowych-wypraw-gdzie-w-weekend-26-27-kwietnia/ar/c7p1-21831633",
-            "description": "Zanim wyruszysz na wypraw\u0119, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 26 kwietnia w O\u015bwi\u0119cimiu ma by\u0107 14\u00b0C. Nie powinno pada\u0107. W ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.PyVhmVas2JE1fU%2f%2f2Aim6g&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Ser z lampartem na grzance (ciekawa odmiana klasycznego przepisu)",
+            "link": "https://www.msn.com/pl-pl/jedzenie-i-picie/przepisy/ser-z-lampartem-na-grzance-ciekawa-odmiana-klasycznego-przepisu/vi-AA1DDFqm?ocid=BingNewsVerp",
+            "description": "Ser na grzance - ale w lamparcie c\u0119tki. Wystarczy nanie\u015b\u0107 wz\u00f3r lamparta za pomoc\u0105 br\u0105zowego sosu (lub ketchupu, je\u015bli wolisz) ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.5s4Tj7E5cbsk4tTBFTJ%2fhQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "O\u015bwi\u0119cim Nasze Miasto12 godz.",
-            "source": "O\u015bwi\u0119cim Nasze Miasto",
+            "date": "The Fast Foodie on MSN16 godz.",
+            "source": "The Fast Foodie on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Nordic walking do 6 km od Ko\u0142obrzegu. Pomys\u0142y na odrobin\u0119 ruchu na powietrzu w weekend 26 - 27 kwietnia",
+            "link": "https://kolobrzeg.naszemiasto.pl/nordic-walking-do-6-km-od-kolobrzegu-pomysly-na-odrobine-ruchu-na-powietrzu-w-weekend-26-27-kwietnia/ar/c7p1-22319027",
+            "description": "Razem z Traseo wybrali\u015bmy 3 trasy nordic walking oddalone maksymalnie o 6 km od Ko\u0142obrzegu. Zobacz, czy trasa polecana przez ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.yJXsEtBRh%2b9tVXb2yK8BIw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "Ko\u0142obrzeg Nasze Miasto14 godz.",
+            "source": "Ko\u0142obrzeg Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Krzysztof Kukucki: Przepracowa\u0142em ten rok intensywnie i uczciwie. Rozmowa z prezydentem W\u0142oc\u0142awka. Zdj\u0119cia",
+            "link": "https://wloclawek.naszemiasto.pl/krzysztof-kukucki-przepracowalem-ten-rok-intensywnie-i-uczciwie-rozmowa-z-prezydentem-wloclawka-zdjecia/ar/c1p2-27502701",
+            "description": "Uwa\u017cam, \u017ce ka\u017cda z tych rzeczy jest bardzo wa\u017cna ... w ramach kt\u00f3rego odbudowane zostan\u0105 zabytkowe obiekty po Wytw\u00f3rni W\u00f3dek, ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.amc7WpA4mDhCWh0ctHmOQS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "W\u0142oc\u0142awek Nasze Miasto2 min",
+            "source": "W\u0142oc\u0142awek Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Kr\u00f3lewskie popiersie z br\u0105zu. Wyj\u0105tkowe odkrycie pod Starym Czarnowem ma przynajmniej kilkaset lat",
+            "link": "https://www.msn.com/pl-pl/historia-i-kultura-spo%C5%82ecze%C5%84stwa/historia/kr%C3%B3lewskie-popiersie-z-br%C4%85zu-wyj%C4%85tkowe-odkrycie-pod-starym-czarnowem-ma-przynajmniej-kilkaset-lat/ar-AA1DGVYB?ocid=BingNewsVerp",
+            "description": "Korona jest ozdobiona trzema tr\u00f3jpalczastymi kolcami. Do naszych czas\u00f3w zachowa\u0142 si\u0119 jedynie jeden z nich. Kr\u00f3l ma twarz: ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.uu7YlIie8k9yy8Y%2bu1iTrw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "G\u0142os Szczeci\u0144ski on MSN23 min",
+            "source": "G\u0142os Szczeci\u0144ski on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Przegl\u0105d prasy 27.04.2025. Zestawili\u015bmy dla Ciebie najwa\u017cniejsze wydarzenia z wczoraj. Zobacz nasz\u0105 pras\u00f3wk\u0119",
+            "link": "https://gazetawroclawska.pl/przeglad-prasy-27-04-2025-zestawilismy-dla-ciebie-najwazniejsze-wydarzenia-z-wczoraj-zobacz-nasza-prasowke/ar/c1p1-19960895",
+            "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 26.04.",
+            "image_url": "https://www.bing.pl/th?id=OVFT.XSgzD20B0KwmD5bxnvAJMy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Gazeta Wroc\u0142awska38 min",
+            "source": "Gazeta Wroc\u0142awska",
             "article_content": "Content not available"
         }
     },
@@ -374,11 +438,11 @@
         },
         "body": {
             "title": "Konserwator zabytk\u00f3w zajmie si\u0119 zmienion\u0105 tablic\u0105 UPA",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/konserwator-zabytk%C3%B3w-zajmie-si%C4%99-zmienion%C4%85-tablic%C4%85-upa/ar-AA1DENHe?ocid=BingNewsVerp",
+            "link": "https://www.msn.com/pl-pl/historia-i-kultura-spo%C5%82ecze%C5%84stwa/historia/konserwator-zabytk%C3%B3w-zajmie-si%C4%99-zmienion%C4%85-tablic%C4%85-upa/ar-AA1DENHe?ocid=BingNewsVerp",
             "description": "Firma Microsoft i jej zewn\u0119trzni dostawcy u\u017cywaj\u0105 plik\u00f3w cookie do przechowywania i uzyskiwania dost\u0119pu do informacji, takich ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.wO_6crNwbotIUcvupRI9sC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "wPolityce.pl on MSN16 godz.",
+            "date": "wPolityce.pl on MSN19 godz.",
             "source": "wPolityce.pl on MSN",
             "article_content": ""
         }
@@ -389,62 +453,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Skarby czekaj\u0105 w Pasa\u017cu \u0141\u00f3dzkim! Wyprzeda\u017c gara\u017cowa pe\u0142na pere\u0142ek i unikalnych antyk\u00f3w",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/skarby-czekaj%C4%85-w-pasa%C5%BCu-%C5%82%C3%B3dzkim-wyprzeda%C5%BC-gara%C5%BCowa-pe%C5%82na-pere%C5%82ek-i-unikalnych-antyk%C3%B3w/ar-AA1DEoZw?ocid=BingNewsVerp",
-            "description": "W Pasa\u017cu \u0141\u00f3dzkim trwa wyprzeda\u017c gara\u017cowa. Odwiedzaj\u0105cy mog\u0105 znale\u017a\u0107 unikalne antyki, stare przedmioty i prawdziwe pere\u0142ki, ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.hxTBx7C6Bh4M2oJS%2bmRBBA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Pras\u00f3wka 27.04.2025 - najwa\u017cniejsze wydarzenia. Przygotowali\u015bmy przegl\u0105d prasy z wczoraj",
+            "link": "https://wspolczesna.pl/prasowka-27-04-2025-najwazniejsze-wydarzenia-przygotowalismy-przeglad-prasy-z-wczoraj/ar/c1p1-19960917",
+            "description": "Jagiellonia chocia\u017c straci\u0142a z Zag\u0142\u0119biem Lubin wa\u017cne punkty, to jednak wci\u0105\u017c zachowuje szanse na obronienie tytu\u0142u mistrza ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.-YtC84o9ovy4-JMyJ9Q9CC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "\u0141\u00f3d\u017a Nasze Miasto on MSN17 godz.",
-            "source": "\u0141\u00f3d\u017a Nasze Miasto on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "W centrum Andrychowa stoi pa\u0142ac Bobrowskich czy andrychowski zamek? Ten zabytek na razie to ruina, ale z szans\u0105 na gruntowny remont",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/w-centrum-andrychowa-stoi-pa%C5%82ac-bobrowskich-czy-andrychowski-zamek-ten-zabytek-na-razie-to-ruina-ale-z-szans%C4%85-na-gruntowny-remont/ar-AA1DFJRn?ocid=BingNewsVerp",
-            "description": "17 kwietnia w\u0142adze Andrychowa podpisa\u0142y umow\u0119 z firm\u0105, kt\u00f3ra zrealizuje pierwszy etap renowacji pa\u0142acu. Przetarg wygra\u0142a ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.VE0Zjxh9d3YVk34VCxVhjA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Krakowska on MSN7 godz.",
-            "source": "Gazeta Krakowska on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Krak\u00f3w jest pe\u0142en cud\u00f3w! Wyszuka\u0142em 27 miejsc UNESCO, kt\u00f3re musisz odwiedzi\u0107 w czasie weekendowej wycieczki",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/krak%C3%B3w-jest-pe%C5%82en-cud%C3%B3w-wyszuka%C5%82em-27-miejsc-unesco-kt%C3%B3re-musisz-odwiedzi%C4%87-w-czasie-weekendowej-wycieczki/ar-AA1DFMqa?ocid=BingNewsVerp",
-            "description": "Krak\u00f3w to jedno z najch\u0119tniej odwiedzanych przez turyst\u00f3w polskich miast. Przyci\u0105ga zar\u00f3wno go\u015bci z kraju, jak i zagranicy.",
-            "image_url": "https://www.bing.pl/th?id=OVFT.1ku7tQt_cByCHGgyH-8UfS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Strona Podr\u00f3\u017cy on MSN7 godz.",
-            "source": "Strona Podr\u00f3\u017cy on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "27 KWIETNIA 2025",
-            "link": "https://krakow.pl/kalendarium/1919,shw,2025-04-27,8,day.html",
-            "description": "Na sta\u0142\u0105 ekspozycj\u0119 Muzeum Uniwersytetu Jagiello\u0144skiego w Collegium Maius sk\u0142adaj\u0105 si\u0119 zabytkowe wn\u0119trza, takie jak libraria (biblioteka), stuba communis (dawna jadalnia),skarbiec, pokoje profesorskie ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "zabytkowe+przedmioty",
-            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w3 godz.",
-            "source": "Oficjalny serwis miejski - Magiczny Krak\u00f3w",
-            "article_content": "Krak\u00f3w \u2013 czas okupacji 1939-1945\n\nWystawa mie\u015bci si\u0119 w dawnym budynku administracyjnym Fabryki Emalia Oskara Schindlera przy ul. Lipowej 4 i jest opowie\u015bci\u0105 o Krakowie i losach jego polskich i \u017cydowskich mieszka\u0144c\u00f3w w czasie II wojny \u015bwiatowej, ale te\u017c o Niemcach \u2013 okupantach,..."
+            "date": "Gazeta Wsp\u00f3\u0142czesna37 min",
+            "source": "Gazeta Wsp\u00f3\u0142czesna",
+            "article_content": "Content not available"
         }
     },
     {
@@ -458,25 +474,9 @@
             "description": "Wycena monet z PRL-u zale\u017cy od rzadko\u015bci wyst\u0119powania, jako\u015bci wybicia oraz gradingu, czyli stanu jej zachowania. W Polsce ...",
             "image_url": "https://www.bing.pl/th?id=OVF.aSignva2RAP%2fBzfkiFeEpA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Szczeci\u0144ski20 godz.",
+            "date": "G\u0142os Szczeci\u0144ski23 godz.",
             "source": "G\u0142os Szczeci\u0144ski",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "27 KWIETNIA 2025",
-            "link": "https://krakow.pl/kalendarium/1919,shw,2025-04-27,8,day.html",
-            "description": "Na sta\u0142\u0105 ekspozycj\u0119 Muzeum Uniwersytetu Jagiello\u0144skiego w Collegium Maius sk\u0142adaj\u0105 si\u0119 zabytkowe wn\u0119trza, takie jak libraria (biblioteka), stuba communis (dawna jadalnia),skarbiec, pokoje profesorskie ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stare+numizmatyka",
-            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w3 godz.",
-            "source": "Oficjalny serwis miejski - Magiczny Krak\u00f3w",
-            "article_content": "Krak\u00f3w \u2013 czas okupacji 1939-1945\n\nWystawa mie\u015bci si\u0119 w dawnym budynku administracyjnym Fabryki Emalia Oskara Schindlera przy ul. Lipowej 4 i jest opowie\u015bci\u0105 o Krakowie i losach jego polskich i \u017cydowskich mieszka\u0144c\u00f3w w czasie II wojny \u015bwiatowej, ale te\u017c o Niemcach \u2013 okupantach,..."
         }
     },
     {
@@ -490,9 +490,25 @@
             "description": "Banknot 50 z\u0142 z 1994 roku, oznaczony seri\u0105 zast\u0119pcz\u0105 YA to najrzadszy banknot III Rzeczypospolitej. Jak informuje portal W\u00f3jcicki - Polski Dom Aukcyjny - prawdopodobnie jest to tzw. rozbieg\u00f3wka.",
             "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Pomorska on MSN8 godz.",
+            "date": "Gazeta Pomorska on MSN11 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "27 KWIETNIA 2025",
+            "link": "https://krakow.pl/kalendarium/1919,shw,2025-04-27,8,day.html",
+            "description": "Na sta\u0142\u0105 ekspozycj\u0119 Muzeum Uniwersytetu Jagiello\u0144skiego w Collegium Maius sk\u0142adaj\u0105 si\u0119 zabytkowe wn\u0119trza, takie jak libraria (biblioteka), stuba communis (dawna jadalnia),skarbiec, pokoje profesorskie ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stare+numizmatyka",
+            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w6 godz.",
+            "source": "Oficjalny serwis miejski - Magiczny Krak\u00f3w",
+            "article_content": "Szukaj wydarzenia\n\nKategoria: -- wszystkie -- Spektakle teatralne Spektakle taneczne Spacery i zwiedzanie Akcje czytelnicze Wystawy czasowe Muzyka rozrywkowa Festiwale Targi i kiermasze Wyk\u0142ady, spacery i warsztaty artystyczne Muzyka klasyczna W gminach Metropolii Kabaret Festiwale muzyczne Festiwale i przegl\u0105dy filmowe Festiwale literackie Inne przedstawienia Inne koncerty Spotkania i slajdowiska Dzieci\u0119ce r\u00f3\u017cno\u015bci Pozosta\u0142e Festiwale teatralne Wydarzenia sportowe Muzyka klubowa Widowiska plenerowe i happeningi Cykle filmowe Wystawy sta\u0142e Inne wydarzenia literackie Pokazy filmowe Spotkania i wyk\u0142ady literackie"
         }
     },
     {
@@ -506,7 +522,7 @@
             "description": "Przedwojenny pruski sztandar wykopano podczas prac ogrodowych na terenie Fortu Gerharda. Zdobi go czarny orze\u0142 i napis: Za ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.ezgPSpWa8oSoOaJ_BenMcC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "wykopano+zabytkowe",
-            "date": "wnp.pl29 min",
+            "date": "wnp.pl3 godz.",
             "source": "wnp.pl",
             "article_content": "Podczas prac ogrodowych jedna z wolontariuszek Fortu Gerharda natrafi\u0142a na emaliowane wiadro, w kt\u00f3rym znajdowa\u0142 si\u0119 pruski sztandar. Znalezisko znajdowa\u0142o si\u0119 na g\u0142\u0119boko\u015bci kilkunastu centymetr\u00f3w. Sztandar najprawdopodobniej wcze\u015bniej by\u0142 przykryty deskami, dzi\u0119ki czemu zachowa\u0142 si\u0119 w dobrym stanie."
         }
@@ -522,8 +538,24 @@
             "description": "Nie tego spodziewali si\u0119 robotnicy, kt\u00f3rzy mieli za zadanie utwardzi\u0107 i odwodni\u0107 jedn\u0105 z dzia\u0142ek w Nawojowie \u0141u\u017cyckim (woj.",
             "image_url": "https://www.bing.pl/th?id=OVF.MohPQ6jVJur%2bzbBeC2xUsA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "wykopano+zabytkowe",
-            "date": "Gazeta Wroc\u0142awska on MSN10 godz.",
+            "date": "Gazeta Wroc\u0142awska on MSN12 godz.",
             "source": "Gazeta Wroc\u0142awska on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Kr\u00f3lewskie popiersie z br\u0105zu. Wyj\u0105tkowe odkrycie pod Starym Czarnowem ma przynajmniej kilkaset lat",
+            "link": "https://www.msn.com/pl-pl/historia-i-kultura-spo%C5%82ecze%C5%84stwa/historia/kr%C3%B3lewskie-popiersie-z-br%C4%85zu-wyj%C4%85tkowe-odkrycie-pod-starym-czarnowem-ma-przynajmniej-kilkaset-lat/ar-AA1DGVYB?ocid=BingNewsVerp",
+            "description": "Korona jest ozdobiona trzema tr\u00f3jpalczastymi kolcami. Do naszych czas\u00f3w zachowa\u0142 si\u0119 jedynie jeden z nich. Kr\u00f3l ma twarz: ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.uu7YlIie8k9yy8Y%2bu1iTrw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "odkrycie+zabytkowe+przedmiot",
+            "date": "G\u0142os Szczeci\u0144ski on MSN23 min",
+            "source": "G\u0142os Szczeci\u0144ski on MSN",
             "article_content": ""
         }
     }
