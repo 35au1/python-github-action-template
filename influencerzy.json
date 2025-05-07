@@ -5,46 +5,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Jarmark staroci w B\u0119dzinie na maj\u00f3wk\u0119! Meble, winyle, porcelana i wiele innych. \"Klasyczna Niedziela\" przyci\u0105gn\u0119\u0142a t\u0142umy. Zobacz zdj\u0119cia",
-            "link": "https://www.msn.com/pl-pl/rozrywka/news/jarmark-staroci-w-b%C4%99dzinie-na-maj%C3%B3wk%C4%99-meble-winyle-porcelana-i-wiele-innych-klasyczna-niedziela-przyci%C4%85gn%C4%99%C5%82a-t%C5%82umy-zobacz-zdj%C4%99cia/ar-AA1E8lPT?ocid=BingNewsVerp",
-            "description": "Majowa ods\u0142ona \"Klasycznej Niedzieli\" przyci\u0105gn\u0119\u0142a t\u0142umy 4 maja, w pierwsz\u0105 majow\u0105 niedziel\u0119, B\u0119dzin ponownie sta\u0142 si\u0119 mekk\u0105 ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.9Lw1y99WspvAsYcYN%2fiFeQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Pchli targ u J\u0119druli w Inowroc\u0142awiu. Te przedmioty opowiadaj\u0105 sentymentalne historie. Zdj\u0119cia",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/pchli-targ-u-j%C4%99druli-w-inowroc%C5%82awiu-te-przedmioty-opowiadaj%C4%85-sentymentalne-historie-zdj%C4%99cia/ar-AA1E9aXy?ocid=BingNewsVerp",
+            "description": "Pocz\u0105tek maja to idealna pora na zakup sezonowych ro\u015blin, kt\u00f3re mo\u017cna wykorzysta\u0107 do dekoracji ogrodu lub balkonu. Pchli targ u J\u0119druli to tak\u017ce miejsce pe\u0142ne unikatowych przedmiot\u00f3w, kt\u00f3re pozwalaj\u0105 ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.Cgj1z3dri9fDcvnl2HbMDA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "B\u0119dzin Nasze Miasto on MSN22 godz.",
-            "source": "B\u0119dzin Nasze Miasto on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Majowy pchli targ u J\u0119druli w Inowroc\u0142awiu. Te przedmioty opowiadaj\u0105 sentymentalne historie. Zdj\u0119cia",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/majowy-pchli-targ-u-j%C4%99druli-w-inowroc%C5%82awiu-te-przedmioty-opowiadaj%C4%85-sentymentalne-historie-zdj%C4%99cia/ar-AA1E9aXy?ocid=BingNewsVerp",
-            "description": "Na majowym bazarku nasz\u0105 uwag\u0119 zwr\u00f3ci\u0142o stoisko ze starymi narz\u0119dziami i innymi przedmiotami, w kt\u00f3rych zakl\u0119te s\u0105 wyj\u0105tkowe ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.AAus3QqthaSD1rIRbgfEmg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "Inowroc\u0142aw Nasze Miasto on MSN11 godz.",
+            "date": "Inowroc\u0142aw Nasze Miasto on MSN21 godz.",
             "source": "Inowroc\u0142aw Nasze Miasto on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Rynek galicyjski w sanoku",
-            "link": "https://nowiny24.pl/tag/rynek-galicyjski-w-sanoku",
-            "description": "Wspania\u0142a, s\u0142oneczna pogoda powita\u0142a pierwsz\u0105 w tym roku \"Galicyjsk\u0105 graciarni\u0119\", kt\u00f3ra przez ca\u0142y sezon turystyczny jest ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.rVZQTBFsMyVqtBMwXvAMly&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "Nowiny 2412 godz.",
-            "source": "Nowiny 24",
-            "article_content": "Content not available"
         }
     },
     {
@@ -58,9 +26,25 @@
             "description": "Na turnusie nie ma nudy. Restauracja \"Zdrojowa\" zaprasza na wieczorki taneczne w poniedzia\u0142ki, wtorki i \u015brody w godz. 15.00-19.30. Wst\u0119p wolny. W pozosta\u0142e dni tygodnia kuracjusze zap\u0142ac\u0105 10 z\u0142.",
             "image_url": "https://www.bing.pl/th?id=ODF.Cgj1z3dri9fDcvnl2HbMDA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "Inowroc\u0142aw Nasze Miasto on MSN17 godz.",
+            "date": "Inowroc\u0142aw Nasze Miasto on MSN21 godz.",
             "source": "Inowroc\u0142aw Nasze Miasto on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Rynek galicyjski w sanoku",
+            "link": "https://nowiny24.pl/tag/rynek-galicyjski-w-sanoku",
+            "description": "Wspania\u0142a, s\u0142oneczna pogoda powita\u0142a pierwsz\u0105 w tym roku \"Galicyjsk\u0105 graciarni\u0119\", kt\u00f3ra przez ca\u0142y sezon turystyczny jest ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.rVZQTBFsMyVqtBMwXvAMly&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Nowiny 2416 godz.",
+            "source": "Nowiny 24",
+            "article_content": "Content not available"
         }
     },
     {
@@ -74,7 +58,7 @@
             "description": "Kryszta\u0142y PRL zyskuj\u0105 na popularno\u015bci w 2025 roku \u2013 kolekcjonerzy coraz ch\u0119tniej inwestuj\u0105 w te retro skarby, a ceny rosn\u0105 w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.RULadzVVttLxe9nBfkXWYC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN19 godz.",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN23 godz.",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
             "article_content": ""
         }
@@ -85,108 +69,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Ten banknot 50 z\u0142otych jest wart fortun\u0119! A to nie jedyny okaz, kt\u00f3rego szukaj\u0105 kolekcjonerzy [7.05.2025]",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/ten-banknot-50-z%C5%82otych-jest-wart-fortun%C4%99-a-to-nie-jedyny-okaz-kt%C3%B3rego-szukaj%C4%85-kolekcjonerzy-7052025/ar-AA1Dttas?ocid=BingNewsVerp",
-            "description": "Banknot 50 z\u0142 z 1994 roku, oznaczony seri\u0105 zast\u0119pcz\u0105 YA to najrzadszy banknot III Rzeczypospolitej. Jak informuje portal ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.YTSFZ31PCWLJ5s%2fcJWHI2Q&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "Gazeta Pomorska on MSN6 godz.",
-            "source": "Gazeta Pomorska on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Ten banknot 50 z\u0142otych jest wart fortun\u0119! A to nie jedyny okaz, kt\u00f3rego szukaj\u0105 kolekcjonerzy [6.05.2025 r.]",
-            "link": "https://pomorska.pl/ten-banknot-50-zlotych-jest-wart-fortune-a-to-nie-jedyny-okaz-ktorego-szukaja-kolekcjonerzy-6-05-2025-r/ar/c1p2-27495149",
-            "description": "Banknot 50 z\u0142 z 1994 roku, oznaczony seri\u0105 zast\u0119pcz\u0105 YA to najrzadszy banknot III Rzeczypospolitej. Jak informuje portal ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.aQj0LO9lL0l4Y9CIJkyblg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "Gazeta Pomorska22 godz.",
-            "source": "Gazeta Pomorska",
-            "article_content": "Ten banknot 50 z\u0142otych jest wart fortun\u0119! A to nie jedyny okaz, kt\u00f3rego szukaj\u0105 kolekcjonerzy [7.05.2025] Magdalena Walczak-Grudzka\n\nZ pozoru zwyczajny banknot czy moneta mog\u0105 by\u0107 warte o wiele wi\u0119cej - nawet kilkadziesi\u0105t tysi\u0119cy z\u0142otych! Rzadkie, unikatowe banknoty i monety s\u0105 bardzo poszukiwane przez kolekcjoner\u00f3w. I wcale nie musz\u0105 to by\u0107 stare pieni\u0105dze. Arkadiusz Dembi\u0144ski Zobacz galeri\u0119 (11 zdj\u0119\u0107)\n\nBanknoty i monety mog\u0105 by\u0107 cenniejsze, ni\u017c wskazuje ich nomina\u0142 - czasem wystarczy jeden szczeg\u00f3\u0142, by ich warto\u015b\u0107 si\u0119gn\u0119\u0142a kilkuset tysi\u0119cy z\u0142otych. Masz takie 50 z\u0142? To prawdziwy skarb dla kolekcjoner\u00f3w i mi\u0142o\u015bnik\u00f3w numizmatyki. By\u0107 mo\u017ce w\u0142a\u015bnie masz szans\u0119 na prawdziw\u0105 fortun\u0119! Za ten banknot 50-z\u0142otowy kolekcjonerzy s\u0105 w stanie zap\u0142aci\u0107 nawet 30 tys. z\u0142. Czytaj wi\u0119cej."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Rzadkie monety z PRL poszukiwane przez kolekcjoner\u00f3w. Sprawd\u017a, kt\u00f3re s\u0105 najdro\u017csze i ile mo\u017cna za nie zarobi\u0107! 06.05.2025",
-            "link": "https://gp24.pl/rzadkie-monety-z-prl-poszukiwane-przez-kolekcjonerow-sprawdz-ktore-sa-najdrozsze-i-ile-mozna-za-nie-zarobic-06052025/ar/c1-17275689",
+            "title": "Rzadkie monety z PRL poszukiwane przez kolekcjoner\u00f3w. Sprawd\u017a, kt\u00f3re s\u0105 najdro\u017csze i ile mo\u017cna za nie zarobi\u0107! 07.05.2025",
+            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/rzadkie-monety-z-prl-poszukiwane-przez-kolekcjoner%C3%B3w-sprawd%C5%BA-kt%C3%B3re-s%C4%85-najdro%C5%BCsze-i-ile-mo%C5%BCna-za-nie-zarobi%C4%87-07052025/ar-AA1xHYvF?ocid=BingNewsVerp",
             "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.sTbQzLnnPp%2fsbQAzP%2f6Fbg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "image_url": "https://www.bing.pl/th?id=OVF.jdaEhaqRVBxofst2ae5ZGg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Pomorza21 godz.",
-            "source": "G\u0142os Pomorza",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Gdzie najkorzystniej ulokowa\u0107 pieni\u0105dze w maju? Przedstawiamy list\u0119 najlepiej oprocentowanych lokat bankowych i kont oszcz\u0119dno\u015bciowych",
-            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/gdzie-najkorzystniej-ulokowa%C4%87-pieni%C4%85dze-w-maju-przedstawiamy-list%C4%99-najlepiej-oprocentowanych-lokat-bankowych-i-kont-oszcz%C4%99dno%C5%9Bciowych/ar-AA1EgcXY?ocid=BingNewsVerp",
-            "description": "W bran\u017cy finansowej coraz cz\u0119\u015bciej m\u00f3wi si\u0119 o nadchod\u0105cej obni\u017cce st\u00f3p procentowych, co oznacza, \u017ce oprocentowanie lokat ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.tQRYuSVMiCh1pPnTwYUT8C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "Krak\u00f3w Nasze Miasto on MSN9 godz.",
-            "source": "Krak\u00f3w Nasze Miasto on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Pras\u00f3wka 7.05.2025 - wydarzenia dnia, podsumowanie z wczoraj - sprawd\u017a, czy nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego",
-            "link": "https://gazetakrakowska.pl/prasowka-7-05-2025-wydarzenia-dnia-podsumowanie-z-wczoraj-sprawdz-czy-nie-minelo-cie-nic-waznego/ar/c1p1-19960891",
-            "description": "Zakopane jak z kroniki PRL. W naszym archiwum uda\u0142o nam si\u0119 odnale\u017a\u0107 nigdy niepublikowane lub publikowane wy\u0142\u0105cznie w prasie ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.5zIq_5eiIfg-Xc5UuHSlhi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "Gazeta Krakowska39 min",
-            "source": "Gazeta Krakowska",
-            "article_content": "Zalew Chech\u0142o w Trzebini, b\u0119d\u0105cy jedn\u0105 z najwi\u0119kszych atrakcji turystycznych powiatu chrzanowskiego, przesta\u0142 by\u0107 obiektem og\u00f3lnodost\u0119pnym. Wraz z pocz\u0105tkiem maj\u00f3wki zacz\u0119\u0142y tam obowi\u0105zywa\u0107 op\u0142aty za wst\u0119p i parking. Dla wielu os\u00f3b oznacza to rezygnacj\u0119 z odwiedzania popularnego o\u015brodka.\n\nW sobot\u0119, 10 maja, rozpoczn\u0105 si\u0119 prace na mo\u015bcie Grunwaldzkim. Remont wa\u017cnej przeprawy nad Wis\u0142\u0105 w Krakowie potrwa 10 miesi\u0119cy, w tym przez 7 miesi\u0119cy nie b\u0119d\u0105 mog\u0142y przeje\u017cd\u017ca\u0107 po niej samochody, a przez 5,5 miesi\u0105ca tramwaje. Zobaczcie, jak zorganizowano objazdy!\n\nCo zrobi\u0107, \u017ceby budowa metra okaza\u0142a si\u0119 sukcesem, a nie katastrof\u0105 budowlan\u0105? Wiele zale\u017ce\u0107 b\u0119dzie od przygotowania przedsi\u0119wzi\u0119cia i monitorowania budynk\u00f3w podczas dr\u0105\u017cenia tuneli. O najwi\u0119kszym inwestycyjnym wyzwaniu w historii miasta w programie Radia Krak\u00f3w \"O tym si\u0119 m\u00f3wi\" rozmawiali Jacek Ba\u0144ka z Radia Krak\u00f3w i Piotr Tymczak z Dziennika Polskiego oraz Gazety Krakowskiej."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Jarmark staroci w B\u0119dzinie na maj\u00f3wk\u0119! Meble, winyle, porcelana i wiele innych. \"Klasyczna Niedziela\" przyci\u0105gn\u0119\u0142a t\u0142umy. Zobacz zdj\u0119cia",
-            "link": "https://www.msn.com/pl-pl/rozrywka/news/jarmark-staroci-w-b%C4%99dzinie-na-maj%C3%B3wk%C4%99-meble-winyle-porcelana-i-wiele-innych-klasyczna-niedziela-przyci%C4%85gn%C4%99%C5%82a-t%C5%82umy-zobacz-zdj%C4%99cia/ar-AA1E8lPT?ocid=BingNewsVerp",
-            "description": "Majowa ods\u0142ona \"Klasycznej Niedzieli\" przyci\u0105gn\u0119\u0142a t\u0142umy 4 maja, w pierwsz\u0105 majow\u0105 niedziel\u0119, B\u0119dzin ponownie sta\u0142 si\u0119 mekk\u0105 ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.9Lw1y99WspvAsYcYN%2fiFeQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stara+porcelana",
-            "date": "B\u0119dzin Nasze Miasto on MSN22 godz.",
-            "source": "B\u0119dzin Nasze Miasto on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Porcelana z PRL - kolekcjonerski rarytas. Unikalne przedmioty do kupienia na aukcjach internetowych. Masz je w domu? 06.05.2025",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/porcelana-z-prl-kolekcjonerski-rarytas-unikalne-przedmioty-do-kupienia-na-aukcjach-internetowych-masz-je-w-domu-06052025/ar-AA1xHP7I?ocid=BingNewsVerp",
-            "description": "W okresie swojej \u015bwietno\u015bci porcelana z PRL zdobi\u0142a wiele polskich sto\u0142\u00f3w, dodaj\u0105c szczypty wyrafinowania do codziennych czynno\u015bci. Dzisiaj te cenne dzie\u0142a sztuki mo\u017cna podziwia\u0107 w muzeach i wystawach ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stara+porcelana",
-            "date": "G\u0142os Pomorza on MSN21 godz.",
+            "date": "G\u0142os Pomorza on MSN1 godz.",
             "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
         }
@@ -197,14 +85,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Wa\u0142brzych \u2014 miasto z niejedn\u0105 tajemnic\u0105 do odkrycia",
-            "link": "https://www.onet.pl/turystyka/samochodem-na-wakacje/tajemnice-walbrzycha-5-miejsc-ktore-musisz-zobaczyc/mw7hrfm,30bc1058",
-            "description": "Niegdy\u015b to przemys\u0142owe miasto uchodzi\u0142o za miejsce zwi\u0105zane z bied\u0105 i kopaniem w\u0119gla w biedaszybach. Nazywane miejskim ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.jOHGMdUL8lcQGxiDaJ7vQA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stara+porcelana",
-            "date": "Onet21 godz.",
-            "source": "Onet",
-            "article_content": "Dzisiejszy Wa\u0142brzych to metropolia z wielkimi aspiracjami. Pe\u0142na tajemnic i nieodkrytych miejsc, otworzy\u0142a si\u0119 na krajow\u0105 i zagraniczn\u0105 turystyk\u0119. Z zacofanego za\u015bcianka niczym brzydkie kacz\u0105tko przemienia si\u0119 w dolno\u015bl\u0105sk\u0105 gwiazd\u0119 turystyki. Bogactwo historii i r\u00f3\u017cnorodno\u015b\u0107 atrakcji nadaj\u0105 temu miastu symbol miejsca do bezzw\u0142ocznego odkrycia.\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Wa\u0142brzych - dzielnica Podg\u00f3rze - cz\u0119sto s\u0142u\u017cy jako plan filmowy\n\nOnet Materia\u0142 archiwalny\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Wa\u0142brzych - ekipa filmowa z Holandii kr\u0119ci scen\u0119 do filmu\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Wa\u0142brzych - przygotowania do kr\u0119cenia sceny do filmu. W tym miejscu nakr\u0119cono np.: \"Sztuczki\"\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Wa\u0142brzych - Ratusz\n\nPami\u0119tajcie histori\u0119 z odkrywaniem z\u0142otego poci\u0105gu? Takich tajemnic i ukrytych miejsc jest tutaj wi\u0119cej. II wojna \u015bwiatowa naszpikowa\u0142a Wa\u0142brzych i jego okolice mnogo\u015bci\u0105 niezg\u0142\u0119bionych po dzi\u015b dzie\u0144 historii, czekaj\u0105cych na rozwi\u0105zanie i to w\u0142a\u015bnie ty drogi czytelniku i twoja pasja mo\u017cecie zaskoczy\u0107 \u015bwiat jakim\u015b przebojowym \"niusem\".\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Wroc\u0142aw ma krasnale, Zielona G\u00f3ra bachusiki, Wa\u0142brzych gwark\u00f3w\n\nZ turystycznego punktu widzenia Wa\u0142brzych posiada kilkana\u015bcie atrakcyjnych miejsc do odkrywania i zapoznania si\u0119 z ich tajemnicami. Oto one:\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii \u015acie\u017cka Hochberg\u00f3w\n\n1. \u015acie\u017cka Hochberg\u00f3w wije si\u0119 w\u0105wozem u podn\u00f3\u017ca Zamku Ksi\u0105\u017c\n\nreklama\n\n\u015acie\u017cka Hochberg\u00f3w to doskona\u0142e miejsce do aktywno\u015bci na \u015bwie\u017cym powietrzu. Poprowadzona jest wzd\u0142u\u017c rzeki Pe\u0142cznica i \u0142\u0105czy w\u0105wozem poczciwy Zamek Ksi\u0105\u017c z ruinami Starego Ksi\u0105\u017ca. W trakcie w\u0119dr\u00f3wki zapoznacie si\u0119 z pi\u0119knem Ksi\u0105\u017ca\u0144skiego Parku Krajobrazowego. Mo\u017ce uda si\u0119 wam zaobserwowa\u0107 stado muflon\u00f3w przywiezionych tutaj z Korsyki.\n\nPrzeczytaj o \u015bcie\u017cce Hochberg\u00f3w\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii \u015acie\u017cka Hochberg\u00f3w\n\nTa malownicza trasa liczy ponad 4 km, a w\u0119dr\u00f3wk\u0119 mo\u017cemy rozpocz\u0105\u0107 od strony Ko\u015bcio\u0142a \u015bw. Anny w wa\u0142brzyskiej dzielnicy Szczawienko i w\u00f3wczas wej\u015bcie na \u015bcie\u017ck\u0119 wyst\u0119puje u podn\u00f3\u017ca Starego Ksi\u0105\u017ca. Znajdziemy tu liczne schody, uformowane z drewnianych belek i desek, kt\u00f3re prowadz\u0105 w d\u00f3\u0142 do rzeki, jej urokliwych mostk\u00f3w oraz w\u0105skich przej\u015b\u0107 przy samych ska\u0142ach. Jednym z ciekawszych moment\u00f3w tej trasy jest w\u0105skie przej\u015bcie w sztucznie wydr\u0105\u017conym tunelu. W\u0119dr\u00f3wka z drugiej strony szlaku rozpoczyna si\u0119 od strony zamku Ksi\u0105\u017c, a w zasadzie pod Stadem Ogier\u00f3w i w\u00f3wczas napotkamy na jej poszczeg\u00f3lnych etapach osiem du\u017cych tablic informacyjnych, nad kt\u00f3rymi warto przystan\u0105\u0107 i poczyta\u0107 ciekawe informacje na temat rosn\u0105cego tu najstarszego w Sudetach cisa Bolko, tajemnicy II wojny \u015bwiatowej, niezwyk\u0142ej florze W\u0105wozu Pe\u0142cznica, zapomnianym pomniku zmar\u0142ych dzieci Hochberga na \u0142ab\u0119dzim jeziorze, o zamku Ksi\u0105\u017c, geologii i romantycznych ruinach starego zamku Ksi\u0105\u017c oraz czym tak naprawd\u0119 jest ten rezerwat.\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii \u015acie\u017cka Hochberg\u00f3w\n\nNaj\u0142adniejsz\u0105 widokowo por\u0105 roku jest okres jesienno-zimowy. W\u00f3wczas bezlistne drzewa uchylaj\u0105 r\u0105bka tajemnicy, ods\u0142aniaj\u0105c skrywane przez siebie obrazy.\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii \u015acie\u017cka Hochberg\u00f3w\n\nZobaczcie na naszym wideo jak wygl\u0105da przej\u015bcie \u015bcie\u017ck\u0105 Hochberg\u00f3w i jaki panuje tu klimat.\n\nObejrzyj video ze \u015bcie\u017cki Hochberg\u00f3w i zasubskrybuj\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Zamek Ksi\u0105\u017c\n\n2. Zamek Ksi\u0105\u017c \u2014 trzeci co do wielko\u015bci zamek w Polsce i planowana tajna kwatera Hitlera\n\nKolejnym punktem na turystycznej mapie Wa\u0142brzycha jest zamek Ksi\u0105\u017c i jego nieodkryte do ko\u0144ca nazistowskie podziemia. Panuj\u0105ca w nich atmosfera grozy przywo\u0142uje refleksje nad brutalno\u015bci\u0105 wojny i ods\u0142ania granice ludzkiego z\u0142a oprawc\u00f3w.\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Zamek Ksi\u0105\u017c\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Odrestaurowana brama lubiechowska do parku przy zamku\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Zamek Ksi\u0105\u017c\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Zamek Ksi\u0105\u017c\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Zamek Ksi\u0105\u017c\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Zamek Ksi\u0105\u017c - sala Maksymiliana\n\nWn\u0119trze sali Maksymiliana wywo\u0142uje osobliwe wra\u017cenia u odwiedzaj\u0105cych.\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Zamek Ksi\u0105\u017c - ogrody\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Zamek Ksi\u0105\u017c\n\nZamkowe ogrody robi\u0105 wra\u017cenie zar\u00f3wno w lecie, jak i w zimie. W\u00f3wczas ruszaj\u0105 iluminacje \u2014 Ogrody \u015awiat\u0142a \u2014 \u0142\u0105cz\u0105ce efekty \u015bwietlne z nastrojow\u0105 muzyk\u0105.\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Zamek Ksi\u0105\u017c\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Zamek Ksi\u0105\u017c\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Zamek Ksi\u0105\u017c\n\n3. Palmiarnia \u2014 zastyg\u0142a lawa z sycylijskiej Etny i egzotyczne ro\u015bliny\n\nW zasadzie to dok\u0142adamy do tego zestawienia jeszcze trzech jej mieszka\u0144c\u00f3w \u2014 dziarskie lemury \u2014 Tytusa, Olafa i Juliano.\n\nZ zamku spacerkiem dojdziecie do pobliskiej palmiarni pe\u0142nej egzotycznych ro\u015blin. Ba! Nie musicie nawet jecha\u0107 na Sycyli\u0119 w celu zobaczenia zastyg\u0142ej lawy Etny, gdy\u017c na polecenie Jana Henryka XV Hochberga lawa zosta\u0142a przywieziona do palmiarni i jest tutaj do dzi\u015b! Mo\u017cna nawet jej dotkn\u0105\u0107. Jest to dawny prezent m\u0119\u017ca dla ukochanej w\u00f3wczas \u017cony Daisy (Stokrotka).\n\nW okresie zimowym na terenie palmiarni odbywaj\u0105 si\u0119 Ogrody \u015awiat\u0142a. Ca\u0142e show i wyj\u0105tkowa magia iluminacji zaczynaj\u0105 si\u0119 tu\u017c po zapadni\u0119ciu zmroku. Przekraczaj\u0105c kunsztown\u0105 bram\u0119 palmiarni, wkraczamy do egzotycznego \u015bwiata zwierz\u0105t.\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Palmiarnia Wa\u0142brzych\n\nWitaj\u0105 nas pi\u0119kne iluminacje rybek, \u017c\u00f3\u0142wi, meduz oraz wieloryb\u00f3w. Ten morski \u015bwiat \u0142\u0105czy si\u0119 p\u0142ynnie z afryka\u0144skimi ssakami. Wielgachna \u017cyrafa, krokodyl i flamingi dope\u0142niaj\u0105 ten magiczny krajobraz.\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Palmiarnia Wa\u0142brzych\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Palmiarnia Wa\u0142brzych\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Palmiarnia Wa\u0142brzych\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Palmiarnia Wa\u0142brzych\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Palmiarnia Wa\u0142brzych\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Palmiarnia Wa\u0142brzych\n\nNiedaleko palmiarni (nieca\u0142e 5 km) znajduje si\u0119 romantyczne jeziorko Daisy. Ma zielony kolor i powsta\u0142o na miejscu nieczynnego od 1870 r. kamienio\u0142omu. Wydobywano tu wapienie rafowe. Pozyskany surowiec by\u0142 wypalany na miejscu w dw\u00f3ch piecach zwanych wapiennikami. W ten spos\u00f3b pozyskiwano wapno palone, kt\u00f3re s\u0142u\u017cy do wyrobu zaprawy murarskiej.\n\nPrzy palmiarni znajduje si\u0119 jeden z 15 przystank\u00f3w \u015bcie\u017cki przyrodniczo-dydaktycznej \"Jeziorko Daisy\". Jeziorko znajduje si\u0119 przy 11 przystanku. Miejsca przystankowe \u015bcie\u017cki zlokalizowane s\u0105 przy ciekawych obiektach zwi\u0105zanych z lokaln\u0105 przyrod\u0105, kultur\u0105 i histori\u0105. \u015acie\u017cka ma d\u0142ugo\u015b\u0107 5,5 km.\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Jeziorko Daisy /zdj. Jaros\u0142aw Gajb/\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Jeziorko Daisy /zdj. J. Gajb/\n\nKsi\u0119\u017cna Daisy lubi\u0142a sp\u0119dza\u0107 tu wolny czas, dlatego w jednym z nieu\u017cywanych ju\u017c piec\u00f3w kaza\u0142a stworzy\u0107 baszt\u0119 my\u015bliwsk\u0105.\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Jeziorko Daisy /zdj. J. Gajb/\n\nNajlepiej i najszybciej dojecha\u0107 tutaj rowerem lub na piechot\u0119. Polecamy nordic walking.\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Jeziorko Daisy\n\nMicha\u0142 Gnacy / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Mauzoleum Wa\u0142brzych\n\n4. Mauzoleum\n\nCzy prawd\u0105 jest, \u017ce w czasach mi\u0119dzywojennych dawni mieszka\u0144cy niemieckiego Waldenburga (dzisiejszy Wa\u0142brzych) byli przeciwnikami nazistowskiej ideologii oraz samego Adolfa Hitlera? Podobno tak. W lipcu 1932 r. lokalni dzia\u0142acze NSDAP zaplanowali organizacj\u0119 wiecu wyborczego, na kt\u00f3rym przysz\u0142y kanclerz Niemiec mia\u0142 przemawia\u0107 do swoich sympatyk\u00f3w. By\u0142o ich jednak na tyle ma\u0142o, \u017ce miejsce przem\u00f3wienia by\u0142oby wyludnione.\n\nW\u00f3wczas podj\u0119to kroki prowadz\u0105ce do zwi\u0119kszenia frekwencji personalnej na wa\u0142brzyskim wiecu. Z bli\u017cszych i dalszych okolic Wa\u0142brzycha oraz obszar\u00f3w G\u00f3rnego \u015al\u0105ska postanowiono zwozi\u0107 sympatyk\u00f3w nazizmu, tak aby maksymalnie wype\u0142ni\u0107 wa\u0142brzyski stadion miejski, na kt\u00f3rym zorganizowano spotkanie z Hitlerem.\n\nKiedy w styczniu 1933 r. Adolf Hitler zosta\u0142 mianowany na kanclerza Niemiec, w szeregach wa\u0142brzyskich NSDAP-owc\u00f3w pojawi\u0142 si\u0119 strach o swoj\u0105 przysz\u0142o\u015b\u0107. Przecie\u017c nowy kanclerz m\u00f3g\u0142 przypomnie\u0107 sobie o sytuacji, jaka spotka\u0142a go na jedynym przem\u00f3wieniu w mie\u015bcie i stanie zainteresowania mieszka\u0144c\u00f3w doktryn\u0105 nazistowsk\u0105. W\u00f3wczas rozpocz\u0119to realizacj\u0119 projektu budowy wa\u0142brzyskiego mauzoleum (niem. Schlesier-Ehrenmal) w klimacie babilo\u0144skim.\n\nMicha\u0142 Gnacy / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Mauzoleum Wa\u0142brzych\n\nMicha\u0142 Gnacy / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Mauzoleum Wa\u0142brzych\n\nMicha\u0142 Gnacy / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Mauzoleum Wa\u0142brzych\n\nWa\u0142brzyskie Mauzoleum. To monumentalny obiekt z 1938 r. zbudowany w\u00f3wczas jako miejsce pami\u0119ci poleg\u0142ych w I wojnie \u015bwiatowej \u015al\u0105zak\u00f3w, ofiar wypadk\u00f3w w wa\u0142brzyskich kopalniach oraz bojownik\u00f3w ruchu nazistowskiego. Jest jedynym ocala\u0142ym tego typu obiektem w Polsce i Europie. Nie zosta\u0142 wysadzony w powietrze po zako\u0144czeniu II wojny \u015bwiatowej.\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Park Sobieskiego i PTTK Harc\u00f3wka. W tle panorama Wa\u0142brzycha\n\n5. Park kr\u00f3la Sobieskiego i zabytkowe dawne g\u00f3rskie schronisko \"Harc\u00f3wka\" w centrum miasta\n\nPark im. Jana III Sobieskiego znajduje si\u0119 w samym centrum miasta. Jest parkiem spacerowym o le\u015bnym charakterze. Dawnej wzg\u00f3rze parkowe s\u0142u\u017cy\u0142o do wieszania skaza\u0144c\u00f3w i nazywane by\u0142o Wzg\u00f3rzem Szubieniczym.\n\nZa\u0142o\u017cenie parkowe powsta\u0142o na wzniesieniu z trzema szczytami: parkowym (510 m n.p.m.), Schillera (508 m n.p.m.) oraz Goethego (508 m n.p.m.).\n\nPTTK Harc\u00f3wka Wa\u0142brzych PTTK Harc\u00f3wka Wa\u0142brzych\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii PTTK \"Harc\u00f3wka\"\n\nPTTK Harc\u00f3wka Wa\u0142brzych PTTK Harc\u00f3wka Wa\u0142brzych\n\nZabytkowe dawne schronisko g\u00f3rskie \"Harc\u00f3wka\" zbudowano w 1908 r. na Wzg\u00f3rzu Schillera. Dzi\u015b po remoncie zaprasza go\u015bci na pyszn\u0105 kuchni\u0119 i kilka rodzaj\u00f3w rzemie\u015blniczego piwa.\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Wn\u0119trze Harc\u00f3wki po remoncie\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Park Sobieskiego w Wa\u0142brzychu\n\nW parku znajduj\u0105 si\u0119 liczne \u015bcie\u017cki spacerowe, \u015bcie\u017cki biegowe, korty tenisowe, rowerowa trasa g\u00f3rska XC dla kolarstwa g\u00f3rskiego, ogr\u00f3d r\u00f3\u017cany oraz stoliki do gier w szachy, chi\u0144czyka i tenis sto\u0142owy. Rewitalizacja parku mia\u0142a miejsce w latach 2012-2013.\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Park Kr\u00f3la Jana III Sobieskiego\n\nWidok z tarasu widokowego PTTK \"Harc\u00f3wka\" na \u015br\u00f3dmie\u015bcie Wa\u0142brzycha.\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Widok z PTTK Harc\u00f3wka na \u015ar\u00f3dmie\u015bcie\n\nPoni\u017cej widok na dzielnic\u0119 \"Stary Zdr\u00f3j\" z punktu widokowego \"Stok narciarski\". Niegdy\u015b by\u0142a to uzdrowiskowa miejscowo\u015b\u0107 z kilkoma wodami mineralnymi. Widoczne dwa wzg\u00f3rza to \"Ptasia Kopa 590 m n.p.m.\" i \"Wzg\u00f3rze Gedymina 534 m n.p.m.\".\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Panorama dzielnicy Stary Zdr\u00f3j\n\n6. Centrum Wa\u0142brzycha\n\nTu\u017c po wyj\u015bciu z parku kr\u00f3la Jana III Sobieskiego w kierunku centrum obejrzyjcie pomnik Pami\u0119ci G\u00f3rnictwa Wa\u0142brzyskiego. Dedykowany jest g\u00f3rnikom pracuj\u0105cym w wa\u0142brzyskich kopalniach od kilkuset lat. Ich ci\u0119\u017cka i ofiarna praca stanowi\u0142y niegdy\u015b fundament materialno-spo\u0142eczny mieszka\u0144c\u00f3w Wa\u0142brzycha.\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Pomnik Pami\u0119ci G\u00f3rnictwa Wa\u0142brzyskiego\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Pomnik Pami\u0119ci G\u00f3rnictwa Wa\u0142brzyskiego\n\nVis a vis pomnika znajduj\u0105 si\u0119 pozosta\u0142o\u015bci dawnego kina G\u00f3rnik. Zachowa\u0142o si\u0119 g\u0142\u00f3wne wej\u015bcie w kszta\u0142cie p\u00f3\u0142kola oraz zabytkowy neon. Kino powsta\u0142o w 1928 r. i przez wiele lat nosi\u0142o nazw\u0119 Capitol. W latach PRL-u nale\u017ca\u0142o do kopalni Wa\u0142brzych.\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Wa\u0142brzych\n\nDalej skierujcie si\u0119 na poblisk\u0105 ulic\u0119 Norberta Barlickiego i id\u017acie ni\u0105 pod g\u00f3rk\u0119, a\u017c dojdziecie do neogotyckiego budynku S\u0105du Rejonowego. Powsta\u0142 on w 1852 r.\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Wa\u0142brzych\n\nTu\u017c obok stoi dostojny, tak\u017ce w stylu neogotyckim budynek dzisiejszej poczty g\u0142\u00f3wnej w Wa\u0142brzychu. Powsta\u0142 on 115 lat temu i z za\u0142o\u017cenia mia\u0142 s\u0142u\u017cy\u0107 na potrzeby poczty.\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Wa\u0142brzych\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Wa\u0142brzych\n\nId\u0105c dalej pod g\u00f3rk\u0119, natraficie na legendarny Dom Towarowy \"Che\u0142miec\". Budynek zosta\u0142 zbudowany w stylu modernistycznym w 1928 r. By\u0142 to jeden z pierwszych dom\u00f3w towarowych niemieckiej sieci market\u00f3w Schocken. Po zako\u0144czeniu II wojny \u015bwiatowej obiekt handlowy zosta\u0142 przej\u0119ty przez polskie Powszechne Domy Towarowe. Do zmiany ustroju by\u0142o to najwi\u0119ksze centrum handlowe w mie\u015bcie i okolicy.\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Dom Towarowy \"Che\u0142miec\"\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Jeden z wa\u0142brzyskich murali\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Wa\u0142brzych\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Wa\u0142brzych\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Wa\u0142brzych\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Wa\u0142brzyski rynek\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Kolegiata Naj\u015bwi\u0119tszej Maryi Panny Bolesnej i \u015bw. Anio\u0142\u00f3w Str\u00f3\u017c\u00f3w\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Muzeum Porcelany Wa\u0142brzych\n\n7. Muzeum Porcelany\n\nWa\u0142brzych to nie tylko w\u0119giel oraz kopalnie, ale tak\u017ce porcelana, nazywana bia\u0142ym z\u0142otem. Po\u0142o\u017cenie Wa\u0142brzycha w pobli\u017cu naturalnych z\u0142\u00f3\u017c kwarcu i skalenia, a tak\u017ce w\u0119gla i sporego drzewostanu sprawi\u0142o, \u017ce przemys\u0142 ceramiczny kwit\u0142 tu w najlepsze.\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Muzeum Porcelany Wa\u0142brzych\n\nUpami\u0119tnienie okresu porcelanowego prosperity w Wa\u0142brzychu znajduje si\u0119 w Muzeum Porcelany w Wa\u0142brzychu. Zosta\u0142o za\u0142o\u017cone w 1908 r. przez Towarzystwo Staro\u017cytno\u015bci Ziemi Wa\u0142brzyskiej. W 1926 r., wraz ze zbiorami, zosta\u0142o przeniesione do klasycystycznego Pa\u0142acu Albertich w Wa\u0142brzychu. W zbiorach muzeum znajduje si\u0119 obecnie najwi\u0119ksza w Europie kolekcja lokalnie wytwarzanej porcelany oraz wybrana z europejskich fabryk. Wra\u017cenie robi tak\u017ce design polskiej ceramiki z lat 50. i 60. XX w.\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Stara Kopalnia Centrum Nauki i Sztuki\n\n8. Centrum Nauki i Sztuki Stara Kopalnia\n\nTo kolejne wyj\u0105tkowe miejsce na mapie Wa\u0142brzycha. To miasto nierozerwalnie zwi\u0105zane jest z wydobyciem w\u0119gla, wi\u0119c nie mog\u0142o zabrakn\u0105\u0107 miejsca upami\u0119tniaj\u0105cego wielowiekow\u0105 tradycj\u0119 g\u00f3rnictwa. Obiekt zawiera ciekaw\u0105 ekspozycj\u0119 zewn\u0119trzn\u0105 i ciekaw\u0105 tras\u0119 turystyczn\u0105 prowadzon\u0105 przez emerytowanych by\u0142ych g\u00f3rnik\u00f3w znaj\u0105cych tajniki kopalni \"Julia\", po roku 1950 nadano jej nazw\u0119 \"Thorez\" \u2014 po francuskim komuni\u015bcie Maurycym Thorezie. Na trzy lata przed zako\u0144czeniem wydobycia w 1993 r. powr\u00f3cono do dawnej nazwy \"Julia\".\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Stara Kopalnia Centrum Nauki i Sztuki\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Stara Kopalnia Centrum Nauki i Sztuki\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Stara Kopalnia Centrum Nauki i Sztuki\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Stara Kopalnia Centrum Nauki i Sztuki\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Stara Kopalnia Centrum Nauki i Sztuki\n\nZe Starej Kopalni udajcie si\u0119 do dzielnicy \"Stary Zdr\u00f3j\". Zwiedzanie tej cz\u0119\u015bci miasta mo\u017cecie rozpocz\u0105\u0107 od odwiedzenia Pa\u0142acu Tielscha.\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Pa\u0142ac Tielscha - w\u0142a\u015bciciela zak\u0142ad\u00f3w porcelany Tielsch\n\nVis a vis pa\u0142acu dogorywa dawna gwiazda wa\u0142brzyskiego hotelarstwa. Ekskluzywny dawniej hotel Sudety by\u0142 chlub\u0105 miasta i najwi\u0119kszym obiektem hotelowym w czasach swojej \u015bwietno\u015bci na Dolnym \u015al\u0105sku. Wi\u0105\u017c\u0105 si\u0119 z nim tak\u017ce niezliczone historie celebryt\u00f3w w PRL-u. Obecnie popada w ruin\u0119...\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Hotel Sudety dawna duma Wa\u0142brzycha\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Hotel Sudety dawna duma Wa\u0142brzycha\n\nZa hotelem znajduje si\u0119 park z alejkami do spacerowania. Dojdziecie nim do ulicy Pocztowej, kt\u00f3ra skrywa dawne uzdrowisko \"Lwi Gr\u00f3d\".\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Dzielnica \"Stary Zdr\u00f3j\"\n\n9. \"Lwi Gr\u00f3d\" upad\u0142\u2026\n\nreklama\n\n\"Lwi Gr\u00f3d\", niegdy\u015b wspania\u0142y i bardzo znany na \u015bwiecie obiekt zdrojowy powsta\u0142 na terenie dawnej wsi Stary Zdr\u00f3j (w dokumentach parafialnych z klasztoru w Krzeszowie \u0142ac. Aqua Antiquaniem, niem. Altwasser), obecnie jednej z wa\u0142brzyskich dzielnic o tej samej nazwie.\n\nOficjalny pocz\u0105tek uzdrowiskowego Starego Zdroju przypada na rok 1751, kiedy pojawi\u0142 si\u0119 nowy w\u0142a\u015bciciel na tym terenie \u2013 von Mutius. Oddzieli\u0142 on samo uzdrowisko murem od osiedla, za\u0142o\u017cy\u0142 promenad\u0119 (dzisiejsza ul. Pocztowa \u2013 zdj\u0119cie z kostk\u0105 brukow\u0105). W par\u0119 lat p\u00f3\u017aniej zbudowa\u0142 dom zdrojowy \"Lwi Gr\u00f3d\" widoczny na zdj\u0119ciach. Urz\u0105dzi\u0142 aleje spacerowe, oczy\u015bci\u0142 staw \u2013 naprzeciw dzisiejszego szybu \"Chwalib\u00f3g\". Do u\u017cytku go\u015bci odda\u0142 \u0142odzie, kt\u00f3rymi mogli dop\u0142ywa\u0107 do romantycznej wysepki na \u015brodku stawu i podziwia\u0107 latem fajerwerki. W \"Lwim Grodzie\" odbywa\u0142y si\u0119 bale i rauty. Stary Zdr\u00f3j nazywany by\u0142 \"uzdrowiskiem polskich magnat\u00f3w\".\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Dzielnica \"Stary Zdr\u00f3j\"\n\nW\u015br\u00f3d nich byli m.in.: Hugo Ko\u0142\u0142\u0105taj, Benedykt J\u00f3zef \u0141\u0105czy\u0144ski, brat Marii Walewskiej, Micha\u0142 Kleofas Ogi\u0144ski znany kompozytor (jego autorstwa jest melodia do naszego hymnu narodowego), Izabela Czartoryska czy ksi\u0105\u017c\u0119 Stanis\u0142aw Poniatowski.\n\nNiestety rozwijaj\u0105ce si\u0119 g\u00f3rnictwo, doprowadzi\u0142o do upadku uzdrowiska. Post\u0119py w dr\u0105\u017ceniu korytarzy kopalnianych spowodowa\u0142y przecinanie \u017cy\u0142 wodnych w\u00f3d mineralnych. Z o\u015bmiu \u017ar\u00f3de\u0142 Starego Zdroju pozosta\u0142o w 1870 r. tylko jedno, w\u0142a\u015bnie w pobli\u017cu \"Lwiego Grodu\". Uzdrowisko zosta\u0142o zamkni\u0119te w 1873 r. Dzi\u015b dawny dom zdrojowy wygl\u0105da jak ruina i coraz bardziej oddala si\u0119 od szansy na renowacj\u0119.\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Szyb \"Chwalib\u00f3g\" i 300-letni D\u0105b \u201eChwalib\u00f3g\u201d\n\n10. Co skrywa dawne \"Altwasser\"?\n\nKawa\u0142ek dalej (jakie\u015b 150 m) od Lwiego Grodu, w kierunku szybu Chwalib\u00f3g znajduje si\u0119 zamurowane wej\u015bcie do starego schronu przeciwlotniczego pod szczytem Ptasia Kopa. To miejsce nurtowa\u0142o Wo\u0142osza\u0144skiego, kt\u00f3ry r\u00f3wnie\u017c zastanawia\u0142 si\u0119, gdzie ukryto wroc\u0142awskie skarby i depozyty. Wa\u0142brzych to dawne miejsce przeci\u0119cia g\u0142\u00f3wnych szlak\u00f3w z Wroc\u0142awia do Jeleniej G\u00f3ry i w kierunku na K\u0142odzko, wi\u0119c wszelkie zrabowane dobra mia\u0142y okazj\u0119 si\u0119 tutaj znale\u017a\u0107. Dodatkowym atutem tej lokalizacji by\u0142 zupe\u0142ny brak nalot\u00f3w bombowych ze strony aliant\u00f3w. Miejsce zatem stworzone na wielki magazyn III Rzeszy.\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Wej\u015bcie do schronu\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Wej\u015bcie do schronu\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Szyb \"Chwalib\u00f3g\"\n\nSzyb Chwalib\u00f3g nieczynnej ju\u017c kopalni w\u0119gla kamiennego \"Thorez\" by\u0142 pierwszym w mie\u015bcie, a nawet i na Dolnym \u015al\u0105sku. Pierwsze kopalnie budowano stosunkowo p\u0142ytkie z powodu braku technologii i potem, bli\u017cej naszych czas\u00f3w pog\u0142\u0119biano. Chwalib\u00f3g by\u0142 najg\u0142\u0119bszym szybem w mie\u015bcie, idealnie wi\u0119c nadawa\u0142 si\u0119 na skrytk\u0119. W latach 1929 do 1932 sta\u0142 nieczynny, dopiero po 1945 r. zosta\u0142 odwodniony i pod Polsk\u0105 nazw\u0105 powr\u00f3ci\u0142 do wydobycia.\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Zabudowania pokopalniane przy szybie \"Chwalib\u00f3g\"\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Muzeum G\u00f3rnictwa i Sport\u00f3w Motorowych w Wa\u0142brzychu\n\n10. Muzeum G\u00f3rnictwa i Sport\u00f3w Motorowych\n\nPrzy wylocie z Wa\u0142brzycha w kierunku Jedliny Zdr\u00f3j powsta\u0142o prywatne Muzeum G\u00f3rnictwa i Sport\u00f3w Motorowych po\u015bwi\u0119cone lokalnemu g\u00f3rnictwu, wa\u0142brzyskiej porcelanie i ukochanemu motorsportowi. Za\u0142o\u017cycielem muzeum jest pasjonat motoryzacji i by\u0142y kierowca rajdowy pan Jerzy Mazur.\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Muzeum G\u00f3rnictwa i Sport\u00f3w Motorowych w Wa\u0142brzychu\n\nMuzeum znajduje si\u0119 w dawnych zabudowaniach szybu o nazwie \"Teresa\". Nazwa ta wzi\u0119\u0142a si\u0119 od drugiego imienia ksi\u0119\u017cnej Daisy von Pless, a podobno nada\u0142 j\u0105 jej m\u0105\u017c Jan Henryk XV Hochberg. Historia wydobycia w\u0119gla kamiennego w tym miejscu si\u0119ga roku 1773. Przyleg\u0142a maszynownia oraz wie\u017ca szybowa datowane s\u0105 na rok 1924.\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Muzeum G\u00f3rnictwa i Sport\u00f3w Motorowych w Wa\u0142brzychu\n\nJedno bez w\u0105tpienia jest pewne \u2013 Wa\u0142brzych i jego okolice s\u0105 naszpikowane tajemnicami z II wojny \u015bwiatowej. Na ka\u017cdym kroku jest co\u015b do odkrycia i do opowiedzenia \u2013 nawet je\u015bli to opowie\u015b\u0107 z pogranicza sci-fiction!. Pozostaje nam zaprosi\u0107 was do penetracji zakamark\u00f3w tego fascynuj\u0105cego miejsca. Przyjed\u017acie, prze\u017cyjcie przygod\u0119 i pobud\u017acie w\u0142asn\u0105 symfoni\u0119 wszystkich zmys\u0142\u00f3w!\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Muzeum G\u00f3rnictwa i Sport\u00f3w Motorowych w Wa\u0142brzychu\n\nW muzeum znajduje si\u0119 mn\u00f3stwo eksponat\u00f3w zwi\u0105zanych ze sportami samochodowymi. Dwie repliki fabrycznych Star\u00f3w, na kt\u00f3rych Jerzy Mazur startowa\u0142 w Rajdach Pary\u017c-Dakar oraz mn\u00f3stwo zdj\u0119\u0107 i dawnych relacji z przebiegu rajdu wzbogacaj\u0105 te wyj\u0105tkowe muzeum.\n\nW zbiorach znajduj\u0105 si\u0119 koszulka, pasy oraz kombinezon, w kt\u00f3rych nieod\u017ca\u0142owany kierowca rajdowy Marian Bublewicz wystartowa\u0142 do swojego ostatniego odcinka specjalnego Rajdu Zimowego w kotlinie k\u0142odzkiej.\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Muzeum G\u00f3rnictwa i Sport\u00f3w Motorowych w Wa\u0142brzychu\n\nW ubieg\u0142ym roku mia\u0142o miejsce uroczyste ods\u0142oni\u0119cie pomnika legendy F1 Ayrtona Senny. Pomnik upami\u0119tnia brazylijskiego kierowc\u0119 wy\u015bcigowego, trzykrotnego mistrza \u015bwiata Formu\u0142y 1. Od jego nazwiska nazwano jedn\u0105 z wa\u0142brzyskich ulic przy muzeum.\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Muzeum G\u00f3rnictwa i Sport\u00f3w Motorowych w Wa\u0142brzychu\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Zamek Cisy\n\n11. Zamek Cisy w Ksi\u0105\u017ca\u0144skim Parku Krajobrazowym\n\nKsi\u0105\u017ca\u0144ski Park Krajobrazowy skrywa w\u015br\u00f3d swej bujnej ro\u015blinno\u015bci jeszcze jedn\u0105 pere\u0142k\u0119. S\u0105 ni\u0105 ruiny piastowskiego zamku, kt\u00f3rego splendor zosta\u0142 przy\u0107miony przez Stary i Nowy Ksi\u0105\u017c.\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Zamek Cisy\n\nOstatnio prowadzone prace archeologiczne na terenie ruin zamku mia\u0142y na celu okre\u015blenie czasu powstania zamku, kt\u00f3re wst\u0119pnie datowano na XIII w. Pierwsza wzmianka w pi\u015bmie z 1327 r. zawiera informacj\u0119, \u017ce gospodarzem zamku by\u0142 piast Bolek II, jednak\u017ce badacze s\u0105dz\u0105, \u017ce obiekt powsta\u0142 znacznie wcze\u015bniej, bo w 1242 r., jako jeden z grod\u00f3w Bolka I Surowego.\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Zamek Cisy\n\nNie do ko\u0144ca wiadomo, jakie by\u0142o przeznaczenie zamku. Obchodz\u0105c ruiny wida\u0107, \u017ce by\u0142 on znacznych rozmiar\u00f3w. Dzi\u015b co prawda pozosta\u0142y tylko fragmenty jego mur\u00f3w i kawa\u0142ek bramy wjazdowej, ale samo po\u0142o\u017cenie na wysokiej skarpie, otaczaj\u0105ca go fosa i p\u0142yn\u0105ca w dole rzeka Czy\u017cynka, mog\u0105 kwalifikowa\u0107 go do kategorii obiekt\u00f3w o znaczeniu militarnych, czyli dawnej \u015bredniowiecznej warowni.\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Zielony to szlak piastowski\n\nPrzygl\u0105daj\u0105c si\u0119 mapie z naniesionym \"szlakiem piastowskim\", na kt\u00f3rej widniej\u0105 poszczeg\u00f3lne zamki nale\u017c\u0105ce do Piast\u00f3w, wida\u0107, \u017ce w ca\u0142o\u015bci tworz\u0105 jeden zorganizowany \u0142a\u0144cuch chroni\u0105cy granice ksi\u0119stwa. W \u015bredniowieczu przebiega\u0142y w tym rejonie liczne szlaki handlowe \u0142\u0105cz\u0105ce Czechy ze \u015awidnic\u0105 i dalej bieg\u0142y w kierunku Wroc\u0142awia.\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Na szczycie Che\u0142miec\n\n12. Szczyt Che\u0142miec 850 m n.p.m. \u2014 Wjed\u017a tutaj rowerem!\n\nDrugim co do wysoko\u015bci szczytem G\u00f3r Wa\u0142brzyskich jest Che\u0142miec. Dawnej uwa\u017cany by\u0142 za numer jeden, jednak po nowych pomiarach okaza\u0142 si\u0119 ni\u017cszy o 3 metry od szczytu g\u00f3ry Borowa, le\u017c\u0105cej na pograniczu Wa\u0142brzycha i Jedliny Zdr\u00f3j.\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Widok ze szczytu Che\u0142mca /fot. Jaros\u0142aw Gajb/\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Na szczycie Che\u0142mca /fot. J. Gajb/\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Wje\u017cd\u017camy na Che\u0142miec /fot. J. Gajb/\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii \"Andrzej\u00f3wka\" fot. Justyna Rdzanek\n\n13. Chcesz poje\u017adzi\u0107 na nartach? Andrzej\u00f3wka zaprasza!\n\nW bliskiej odleg\u0142o\u015bci od Wa\u0142brzycha znajduj\u0105 si\u0119 wyci\u0105gi narciarskie, trasa dla narciarzy biegowych oraz osobliwe schronisko PTTK \"Andrzej\u00f3wka\". Zosta\u0142o ono otwarte w 1933 r. Po\u0142o\u017cone jest na Prze\u0142\u0119czy Trzech Dolin pod szczytem Walig\u00f3ry (936 m n.p.m.) w g\u00f3rach Suchych.\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Andrzej\u00f3wka - odprawa dla dzieci w szk\u00f3\u0142ce fot. Justyna Rdzanek\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Andrzej\u00f3wka - rozgrzewka przed jazd\u0105 na nartach fot. Justyna Rdzanek\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Andrzej\u00f3wka - na stoku\n\nPatryk Korbel i Magdalena Rotuska Korbel / Samochodemnawakacje.pl / Partner SamochodemNaWakacje.pl to blog o pasji do podr\u00f3\u017cowania z nut\u0105 historii Andrzej\u00f3wka\n\nTo tylko cz\u0119\u015b\u0107 atrakcji, jakie oferuje to niezwyk\u0142e miasto. Jego historia, po\u0142o\u017cenie oraz wyj\u0105tkowe zabytki wyzwalaj\u0105 pragnienie odkrywania jego sekret\u00f3w. To miejsce otoczone mgie\u0142k\u0105 tajemniczo\u015bci prosi si\u0119 o regularne zg\u0142\u0119bianie wiedzy o jego przesz\u0142o\u015bci. Trzymamy zatem kciuki za dalszy rozw\u00f3j i zach\u0119camy was do cz\u0119stego odwiedzania tego wyj\u0105tkowego zak\u0105tka Polski.\n\nOdwied\u017a nasz kana\u0142 na You Tube"
+            "title": "Ten banknot 50 z\u0142otych jest wart fortun\u0119! A to nie jedyny okaz, kt\u00f3rego szukaj\u0105 kolekcjonerzy [7.05.2025 r.]",
+            "link": "https://pomorska.pl/ten-banknot-50-zlotych-jest-wart-fortune-a-to-nie-jedyny-okaz-ktorego-szukaja-kolekcjonerzy-7-05-2025-r/ar/c1p2-27495149",
+            "description": "Banknot 50 z\u0142 z 1994 roku, oznaczony seri\u0105 zast\u0119pcz\u0105 YA to najrzadszy banknot III Rzeczypospolitej. Jak informuje portal ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.l1M7NQO9x4b7wWNQOk02kw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "Gazeta Pomorska2 godz.",
+            "source": "Gazeta Pomorska",
+            "article_content": "Ten banknot 50 z\u0142otych jest wart fortun\u0119! A to nie jedyny okaz, kt\u00f3rego szukaj\u0105 kolekcjonerzy [7.05.2025 r.] Magdalena Walczak-Grudzka\n\nZ pozoru zwyczajny banknot czy moneta mog\u0105 by\u0107 warte o wiele wi\u0119cej - nawet kilkadziesi\u0105t tysi\u0119cy z\u0142otych! Rzadkie, unikatowe banknoty i monety s\u0105 bardzo poszukiwane przez kolekcjoner\u00f3w. I wcale nie musz\u0105 to by\u0107 stare pieni\u0105dze. Arkadiusz Dembi\u0144ski Zobacz galeri\u0119 (11 zdj\u0119\u0107)\n\nBanknoty i monety mog\u0105 by\u0107 cenniejsze, ni\u017c wskazuje ich nomina\u0142 - czasem wystarczy jeden szczeg\u00f3\u0142, by ich warto\u015b\u0107 si\u0119gn\u0119\u0142a kilkuset tysi\u0119cy z\u0142otych. Masz takie 50 z\u0142? To prawdziwy skarb dla kolekcjoner\u00f3w i mi\u0142o\u015bnik\u00f3w numizmatyki. By\u0107 mo\u017ce w\u0142a\u015bnie masz szans\u0119 na prawdziw\u0105 fortun\u0119! Za ten banknot 50-z\u0142otowy kolekcjonerzy s\u0105 w stanie zap\u0142aci\u0107 nawet 30 tys. z\u0142. Czytaj wi\u0119cej."
         }
     },
     {
@@ -213,13 +101,125 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Jarmark staroci w B\u0119dzinie na maj\u00f3wk\u0119! Meble, winyle, porcelana i wiele innych. \"Klasyczna Niedziela\" przyci\u0105gn\u0119\u0142a t\u0142umy. Zobacz zdj\u0119cia",
-            "link": "https://www.msn.com/pl-pl/rozrywka/news/jarmark-staroci-w-b%C4%99dzinie-na-maj%C3%B3wk%C4%99-meble-winyle-porcelana-i-wiele-innych-klasyczna-niedziela-przyci%C4%85gn%C4%99%C5%82a-t%C5%82umy-zobacz-zdj%C4%99cia/ar-AA1E8lPT?ocid=BingNewsVerp",
-            "description": "Majowa ods\u0142ona \"Klasycznej Niedzieli\" przyci\u0105gn\u0119\u0142a t\u0142umy 4 maja, w pierwsz\u0105 majow\u0105 niedziel\u0119, B\u0119dzin ponownie sta\u0142 si\u0119 mekk\u0105 ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.9Lw1y99WspvAsYcYN%2fiFeQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Na tych lokatach w maju zarobisz najwi\u0119cej. Tu najkorzystniej ulokujesz pieni\u0105dze. Sprawdzamy oferty bank\u00f3w",
+            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/na-tych-lokatach-w-maju-zarobisz-najwi%C4%99cej-tu-najkorzystniej-ulokujesz-pieni%C4%85dze-sprawdzamy-oferty-bank%C3%B3w/ar-AA1Egd5e?ocid=BingNewsVerp",
+            "description": "W bran\u017cy finansowej coraz cz\u0119\u015bciej m\u00f3wi si\u0119 o nadchod\u0105cej obni\u017cce st\u00f3p procentowych, co oznacza, \u017ce oprocentowanie lokat ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.yz8Q9ZdIaOkB8Ih0Lc65xw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "Gazeta Krakowska on MSN3 godz.",
+            "source": "Gazeta Krakowska on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Ta porcelana z PRL jest warta maj\u0105tek! Masz j\u0105 w domu? Mo\u017cesz nie\u017ale zarobi\u0107! Tej porcelany szukaj\u0105 kolekcjonerzy 07.05.2025",
+            "link": "https://gk24.pl/ta-porcelana-z-prl-jest-warta-majatek-masz-ja-w-domu-mozesz-niezle-zarobic-tej-porcelany-szukaja-kolekcjonerzy-07-05-2025/ar/c9p2-27406077",
+            "description": "Unikatowy charakter mia\u0142y r\u00f3wnie\u017c przedmioty z tego okresu. Z pewno\u015bci\u0105 wiele os\u00f3b posiada w swoich domach rzeczy z czas\u00f3w ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.N7oZaQvGMEIt1dL2ggCu0g&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "G\u0142os Koszali\u0144ski4 godz.",
+            "source": "G\u0142os Koszali\u0144ski",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Wazony z czas\u00f3w PRL. Od codzienno\u015bci do kolekcjonerskiego hitu. Oto wazony poszukiwane w internecie 07.05.2025",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/wazony-z-czas%C3%B3w-prl-od-codzienno%C5%9Bci-do-kolekcjonerskiego-hitu-oto-wazony-poszukiwane-w-internecie-07052025/ar-AA1xEYBt?ocid=BingNewsVerp",
+            "description": "Wazony ze szk\u0142a prasowanego Szk\u0142o prasowane to jeden z najbardziej charakterystycznych materia\u0142\u00f3w z czas\u00f3w PRL. Produkty tego ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.2GxcHoqtA30ULxLyzS%2bKXg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "G\u0142os Pomorza on MSN1 godz.",
+            "source": "G\u0142os Pomorza on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Porcelana z PRL - kolekcjonerski rarytas. Unikalne przedmioty do kupienia na aukcjach internetowych. Masz je w domu? 07.05.2025",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/porcelana-z-prl-kolekcjonerski-rarytas-unikalne-przedmioty-do-kupienia-na-aukcjach-internetowych-masz-je-w-domu-07052025/ar-AA1xHP7I?ocid=BingNewsVerp",
+            "description": "Unikalna porcelana z PRL poszukiwana przez kolekcjoner\u00f3w mo\u017ce zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na niej zarobi\u0107 fortun\u0119!",
+            "image_url": "https://www.bing.pl/th?id=OVF.mS6USbcjdc0%2bVOhrEVT8hg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stara+porcelana",
+            "date": "G\u0142os Pomorza on MSN1 godz.",
+            "source": "G\u0142os Pomorza on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Ta porcelana z PRL jest warta maj\u0105tek! Masz j\u0105 w domu? Mo\u017cesz nie\u017ale zarobi\u0107! Tej porcelany szukaj\u0105 kolekcjonerzy 07.05.2025",
+            "link": "https://gk24.pl/ta-porcelana-z-prl-jest-warta-majatek-masz-ja-w-domu-mozesz-niezle-zarobic-tej-porcelany-szukaja-kolekcjonerzy-07-05-2025/ar/c9p2-27406077",
+            "description": "Unikatowy charakter mia\u0142y r\u00f3wnie\u017c przedmioty z tego okresu. Z pewno\u015bci\u0105 wiele os\u00f3b posiada w swoich domach rzeczy z czas\u00f3w ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.N7oZaQvGMEIt1dL2ggCu0g&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stara+porcelana",
+            "date": "G\u0142os Koszali\u0144ski4 godz.",
+            "source": "G\u0142os Koszali\u0144ski",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Ponownie dadz\u0105 drugie \u017cycie przedmiotom. Pchli targ w Wejherowie w nowej lokalizacji",
+            "link": "https://nadmorski24.pl/aktualnosci/72265-ponownie-dadza-drugie-zycie-przedmiotom-pchli-targ-w-wejherowie-w-nowej-lokalizacji",
+            "description": "Mi\u0142o\u015bnicy staroci, unikatowych przedmiot\u00f3w i idei zero waste maj\u0105 pow\u00f3d do rado\u015bci \u2013 ju\u017c w najbli\u017csz\u0105 niedziel\u0119, 11 maja 2025 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.jlUQIko6_0jpu_ibrWQc6y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "B\u0119dzin Nasze Miasto on MSN22 godz.",
-            "source": "B\u0119dzin Nasze Miasto on MSN",
+            "date": "Nadmorski24.pl57 min",
+            "source": "Nadmorski24.pl",
+            "article_content": "Mi\u0142o\u015bnicy staroci, unikatowych przedmiot\u00f3w i idei zero waste maj\u0105 pow\u00f3d do rado\u015bci \u2013 ju\u017c w najbli\u017csz\u0105 niedziel\u0119, 11 maja 2025, w Wejherowie odb\u0119dzie si\u0119 pierwszy w tym roku pchli targ. Zorganizowany zostanie w nowej lokalizacji.\n\nTegoroczna edycja wydarzenia zyska\u0142a now\u0105 lokalizacj\u0119 \u2013 Polan\u0119 Piknikow\u0105 w Parku Miejskim w Wejherowie, gdzie od godziny 9 do 15 spotkaj\u0105 si\u0119 zar\u00f3wno wystawcy, jak i odwiedzaj\u0105cy. Ci, kt\u00f3rzy planuj\u0105 przyjazd samochodem, b\u0119d\u0105 mogli skorzysta\u0107 z parkingu na Polanie Ogniskowej, natomiast dla pieszych przygotowano wej\u015bcie od strony Amfiteatru Miejskiego. Wystawcy mog\u0105 przygotowywa\u0107 swoje stoiska ju\u017c od godziny 7.\n\nUwaga \u2013 wjazd i wyjazd na teren Pchlego Targu b\u0119dzie mo\u017cliwy wy\u0142\u0105cznie od strony skrzy\u017cowania ulic 3 Maja i Marynarki Wojennej, naprzeciwko Kalwarii Wejherowskiej.\n\nTo ju\u017c 12 edycja Pchlego Targu w Wejherowie Zaczynali\u015bmy dok\u0142adnie 28.08.2022 na Blizie. By\u0142o cudownie a b\u0119dzie jeszcze... Opublikowany przez Leszka Szczypior Wtorek, 6 maja 2025\n\n\u2014 To ju\u017c 12 edycja Pchlego Targu w Wejherowie Zaczynali\u015bmy dok\u0142adnie 28.08.2022 na Blizie. By\u0142o cudownie a b\u0119dzie jeszcze pi\u0119kniej, bo ruszamy 11.05.25 w naszym Parku Miejskim im. Aleksandra Majkowskiego. \u017bycz\u0119 milej atmosfery i udanych zakup\u00f3w. Zapraszam wraz z za\u0142og\u0105 WZNK Wejherowo. Widzimy si\u0119 w niedziel\u0119 - zach\u0119ca pomys\u0142odawca wejherowskiego pchlego targu radny miasta Leszek Szczypior.\n\nPchli targ w Wejherowie to wydarzenie cykliczne \u2013 odb\u0119dzie si\u0119 w ka\u017cd\u0105 drug\u0105 niedziel\u0119 miesi\u0105ca, a\u017c do wrze\u015bnia. Kolejne terminy to:\n\n8 czerwca\n\n13 lipca\n\n10 sierpnia\n\n14 wrze\u015bnia\n\nZ regulaminem wydarzenia mo\u017cna zapozna\u0107 si\u0119 na stronie Wejherowskiego Zarz\u0105du Nieruchomo\u015bci Komunalnych.\n\nMapa z miejscem pchlego targu w Wejherowie:\n\nByli\u015bcie \u015bwiadkami zdarzenia w naszym regionie? Chcecie aby nasza redakcja zaj\u0119\u0142a si\u0119 jakim\u015b tematem? Czekamy na Wasze sygna\u0142y i informacje. Mo\u017cna kontaktowa\u0107 si\u0119 z nasz\u0105 redakcj\u0105 za po\u015brednictwem strony facebookowej i mailowo: [email protected]. Dy\u017curujemy tak\u017ce pod numerem telefonu 729 715 670."
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Kolekcjonerzy poszukuj\u0105 tych antyk\u00f3w. Unikalne przedmioty do kupienia w internecie. Masz je w domu? 07.05.2025",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/kolekcjonerzy-poszukuj%C4%85-tych-antyk%C3%B3w-unikalne-przedmioty-do-kupienia-w-internecie-masz-je-w-domu-07052025/ar-AA1xM25C?ocid=BingNewsVerp",
+            "description": "Unikalne antyki poszukiwane przez kolekcjoner\u00f3w mog\u0105 zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na nich zarobi\u0107 fortun\u0119. Cz\u0119sto nie ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.xBvbYyTlYnFLS3Gf4M4tsA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "G\u0142os Pomorza on MSN1 godz.",
+            "source": "G\u0142os Pomorza on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Majowy pchli targ u J\u0119druli w Inowroc\u0142awiu. Te przedmioty opowiadaj\u0105 sentymentalne historie. Zdj\u0119cia",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/majowy-pchli-targ-u-j%C4%99druli-w-inowroc%C5%82awiu-te-przedmioty-opowiadaj%C4%85-sentymentalne-historie-zdj%C4%99cia/ar-AA1E9aXy?ocid=BingNewsVerp",
+            "description": "Na majowym bazarku nasz\u0105 uwag\u0119 zwr\u00f3ci\u0142o stoisko ze starymi narz\u0119dziami i innymi przedmiotami, w kt\u00f3rych zakl\u0119te s\u0105 wyj\u0105tkowe ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.AAus3QqthaSD1rIRbgfEmg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "Inowroc\u0142aw Nasze Miasto on MSN15 godz.",
+            "source": "Inowroc\u0142aw Nasze Miasto on MSN",
             "article_content": ""
         }
     },
@@ -234,7 +234,7 @@
             "description": "Wspania\u0142a, s\u0142oneczna pogoda powita\u0142a pierwsz\u0105 w tym roku \"Galicyjsk\u0105 graciarni\u0119\", kt\u00f3ra przez ca\u0142y sezon turystyczny jest ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.rVZQTBFsMyVqtBMwXvAMly&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Nowiny 2412 godz.",
+            "date": "Nowiny 2416 godz.",
             "source": "Nowiny 24",
             "article_content": "Content not available"
         }
@@ -245,44 +245,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Majowy pchli targ u J\u0119druli w Inowroc\u0142awiu. Te przedmioty opowiadaj\u0105 sentymentalne historie. Zdj\u0119cia",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/majowy-pchli-targ-u-j%C4%99druli-w-inowroc%C5%82awiu-te-przedmioty-opowiadaj%C4%85-sentymentalne-historie-zdj%C4%99cia/ar-AA1E9aXy?ocid=BingNewsVerp",
-            "description": "Na majowym bazarku nasz\u0105 uwag\u0119 zwr\u00f3ci\u0142o stoisko ze starymi narz\u0119dziami i innymi przedmiotami, w kt\u00f3rych zakl\u0119te s\u0105 wyj\u0105tkowe ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.AAus3QqthaSD1rIRbgfEmg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "targ+staroci",
-            "date": "Inowroc\u0142aw Nasze Miasto on MSN11 godz.",
-            "source": "Inowroc\u0142aw Nasze Miasto on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Kolekcjonerzy poszukuj\u0105 tych antyk\u00f3w. Unikalne przedmioty do kupienia w internecie. Masz je w domu? 06.05.2025",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/kolekcjonerzy-poszukuj%C4%85-tych-antyk%C3%B3w-unikalne-przedmioty-do-kupienia-w-internecie-masz-je-w-domu-06052025/ar-AA1xM25C?ocid=BingNewsVerp",
-            "description": "Unikalne antyki poszukiwane przez kolekcjoner\u00f3w mog\u0105 zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na nich zarobi\u0107 fortun\u0119. Cz\u0119sto nie mamy \u015bwiadomo\u015bci, \u017ce przedmioty posiadane w domu warte s\u0105 du\u017co pieni\u0119dzy.",
-            "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "targ+staroci",
-            "date": "G\u0142os Pomorza on MSN21 godz.",
-            "source": "G\u0142os Pomorza on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
             "title": "Przegl\u0105d prasy 7.05.2025. Zestawili\u015bmy dla Ciebie najwa\u017cniejsze wydarzenia z wczoraj. Zobacz nasz\u0105 pras\u00f3wk\u0119",
             "link": "https://poranny.pl/przeglad-prasy-7-05-2025-zestawilismy-dla-ciebie-najwazniejsze-wydarzenia-z-wczoraj-zobacz-nasza-prasowke/ar/c1p1-19960907",
-            "description": "Ju\u017c w najbli\u017cszy weekend (10-11.05) odb\u0119dzie si\u0119 12. PKO Bia\u0142ystok P\u00f3\u0142maraton. Organizatorzy podkre\u015blaj\u0105, \u017ce tegoroczna edycja cieszy si\u0119 rekordowym zainteresowaniem. Do startu szykuje si\u0119 blisko 8 ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.z8szwJPfOZTDo97HvHYzSw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "description": "Ju\u017c w najbli\u017cszy weekend (10-11.05) odb\u0119dzie si\u0119 12. PKO Bia\u0142ystok P\u00f3\u0142maraton. Organizatorzy podkre\u015blaj\u0105, \u017ce tegoroczna ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.KOYDLmSr8tWXqVBHNWZShC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Kurier Poranny39 min",
+            "date": "Kurier Poranny4 godz.",
             "source": "Kurier Poranny",
             "article_content": "Content not available"
         }
@@ -293,14 +261,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Windows 11 m\u00f3g\u0142by by\u0107 lepszy. Oto co powinno si\u0119 zmieni\u0107",
-            "link": "https://android.com.pl/tech/922672-obszary-windows-11-zmiany-opinia/",
-            "description": "Windows 11 przez 3,5 roku od debiutu wprowadzi\u0142 szereg udoskonale\u0144 i nowo\u015bci, kt\u00f3re maj\u0105 na celu usprawnienie pracy ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.99ATqQI280iYSUFPuBra-C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Park Steffens\u00f3w w Gda\u0144sku wpisany do rejestru zabytk\u00f3w. Jest ju\u017c projekt odnowy cz\u0119\u015bci tego historycznego parku",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/park-steffens%C3%B3w-w-gda%C5%84sku-wpisany-do-rejestru-zabytk%C3%B3w-jest-ju%C5%BC-projekt-odnowy-cz%C4%99%C5%9Bci-tego-historycznego-parku/ar-AA1Ej76u?ocid=BingNewsVerp",
+            "description": "Po kilkuletniej procedurze pomorski wojew\u00f3dzki konserwator zabytk\u00f3w wpisa\u0142 do rejestru zabytk\u00f3w Park Steffens\u00f3w wraz z ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.HIZtj%2f633ZWC4MG9z7TqSQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "ANDROID.COM.PL22 godz.",
-            "source": "ANDROID.COM.PL",
-            "article_content": "Windows 11 przez 3,5 roku od debiutu wprowadzi\u0142 szereg udoskonale\u0144 i nowo\u015bci, kt\u00f3re maj\u0105 na celu usprawnienie pracy u\u017cytkownik\u00f3w \u2013 od nowoczesnego interfejsu u\u017cytkownika po zaawansowane funkcje bezpiecze\u0144stwa. Platforma tym samym stara si\u0119 sprosta\u0107 r\u00f3\u017cnym gustom. Jednak, jak ka\u017cdy system operacyjny, Windows 11 posiada kilka obszar\u00f3w, kt\u00f3re mog\u0142yby zosta\u0107 jeszcze bardziej dopracowane. Oto kilka moich sugestii dotycz\u0105cych zmian, kt\u00f3re mog\u0142yby uczyni\u0107 ten system jeszcze lepszym.\n\nKilka obszar\u00f3w w Windows 11, kt\u00f3re powinny si\u0119 zmieni\u0107\n\nPanel sterowania\n\nIle mo\u017cna ju\u017c znosi\u0107 relikty przesz\u0142o\u015bci z poprzednich wersji Windowsa. Jednym z nich jest Panel sterowania, kt\u00f3ry od ponad trzydziestu lat stanowi integraln\u0105 cz\u0119\u015b\u0107 systemu Microsoft. Do dzi\u015b stanowi miejsce, w kt\u00f3rym mo\u017cna znale\u017a\u0107 opcje oprogramowania. W 2021 roku pisa\u0142em, \u017ce Microsoft ubija Panel sterowania i ukry\u0142 t\u0119 funkcj\u0119 przed u\u017cytkownikami. Nie znajdziemy jej w menu Start:\n\nKultowa funkcja wci\u0105\u017c \u017cyje w\u0142asnym \u017cyciem i nadal mo\u017cna z niej korzysta\u0107. Co prawda, dla niewprawionych u\u017cytkownik\u00f3w, jej znalezienie mo\u017ce by\u0107 problemowe. Jednak zaawansowani korzystaj\u0105cy wiedz\u0105 doskonale, \u017ce w Windowsie 11 wystarczy wpisa\u0107 nazw\u0119 do wyszukiwarki systemowej i uzyska\u0107 bardziej zaawansowan\u0105 kontrol\u0119 nad komputerem. Adam Lulek, artyku\u0142 z grudnia 2021 roku\n\nNiestety przez 4 lata niewiele si\u0119 w tej kwestii zmieni\u0142o. Microsoft regularnie usuwa pojedyncze opcje z tej sekcji, ale wci\u0105\u017c mog\u0119 tam znale\u017a\u0107 a\u017c 9 g\u0142\u00f3wnych opcji, kt\u00f3re w wi\u0119kszo\u015bci dziel\u0105 si\u0119 na mniejsze podsekcje. Jedna z nich zwi\u0105zana jest z przywracaniem\u2026 Windows 7! To wr\u0119cz \u015bmieszne, \u017ce Microsoft nie chce si\u0119 pozby\u0107 takiej mo\u017cliwo\u015bci!\n\nPrzeczytaj te\u017c: Ranking laptop\u00f3w do 2000 z\u0142\n\nFot. Adam Lulek / Android.com.pl\n\nZ drugiej strony, przez lata wi\u0119kszo\u015b\u0107 funkcji, kt\u00f3re znikn\u0119\u0142y z Panelu sterowania, trafi\u0142o do nowoczesnego obszaru o nazwie Ustawienia. Chcia\u0142bym, aby w ko\u0144cu Panel sterowania przesta\u0142 definitywnie istnie\u0107. Ustawienia to idealne i nowoczesne miejsce w oprogramowaniu, aby m\u00f3c w \u0142atwy spos\u00f3b si\u0119ga\u0107 do najwa\u017cniejszych opcji systemu. Ba, rozw\u00f3j sztucznej inteligencji i zapowiedzi mo\u017cliwo\u015bci wydawania jej komend w celu zmian ustawie\u0144 Windows 11, powinno przyspieszy\u0107 ten proces.\n\nMenu start wci\u0105\u017c jest brzydkie\n\nMenu start niemal od pocz\u0105tku istnienia Windows, by\u0142o kluczowym obszarem systemu. Mam jednak wra\u017cenie, \u017ce Windows 11 obni\u017cy\u0142 rang\u0119 tego obszaru, przez to, \u017ce sta\u0142 si\u0119 brzydki i mniej funkcjonalny. W 2024 roku pisa\u0142em, \u017ce Menu start to najgorszy obszar Windows 11:\n\nLista przypi\u0119tych aplikacji jest nieuporz\u0105dkowana i trudna do ogarni\u0119cia. Jest ich zbyt du\u017co, a ikony s\u0105 zbyt ma\u0142e. Cho\u0107 lubi\u0119 ma\u0142e ikony na Pasku zada\u0144, bo wygl\u0105daj\u0105 tam \u015bwietnie, w menu Start powoduj\u0105 one ba\u0142agan. Zawsze, gdy szukam konkretnego programu, zajmuje mi to wi\u0119cej czasu, ni\u017c powinno. Adam Lulek, artyku\u0142 z lipca 2024 roku\n\nOsoby, kt\u00f3re lubi\u0105 majsterkowa\u0107 w systemie, mog\u0105 sprawdzi\u0107 program Start11, kt\u00f3ry pozwala na du\u017ce modyfikacje tego obszaru. Jednak jest to rozwi\u0105zanie p\u0142atne i nie ka\u017cdy lubi si\u0119ga\u0107 do oprogramowania firm trzecich. Czy jest szansa na zmian\u0119 tego obszaru w przysz\u0142o\u015bci przez Microsoft? Tak!\n\nGigant z Redmond od wielu miesi\u0119cy eksperymentuje z nowym funkcjami Windows 11 w programie Insider. Dotyczy to tak\u017ce Menu start. Do niekt\u00f3rych u\u017cytkownik\u00f3w ju\u017c trafi\u0142a integracja funkcji z Phone Link, gdzie po prawej stronie wy\u015bwietla si\u0119 menu dost\u0119pu do smartfona. Ubolewam, \u017ce ta funkcja nie trafi\u0142a jeszcze na m\u00f3j komputer.\n\nNowe Menu start na materia\u0142ach Windows Central\n\nCo wi\u0119cej, w internecie pojawi\u0142y si\u0119 zrzuty ekranu nowego menu start w Windows 11. Zobaczcie na materia\u0142ach Windows Central, jak bardzo si\u0119 zmieni ten obszar! B\u0119dzie on znacznie szerszy i zajmie wi\u0119ksz\u0105 cz\u0119\u015b\u0107 ekranu. Dzi\u0119ki temu zmie\u015bci si\u0119 tu wi\u0119cej aplikacji ostatnio u\u017cytych, jak i polecanych. Dobrze prezentuje si\u0119 sekcja z podzia\u0142em na rodzaje aplikacji. To zdecydowanie poprawny kierunek, w kt\u00f3rym zmierza Microsoft.\n\nObszar wid\u017cet\u00f3w jest chaotyczny\n\nWid\u017cety to wymys\u0142 Windows 10, kt\u00f3ry zosta\u0142 przeniesiony do kolejnej wersji systemu. Co prawda w Windows 11 obszar ten wygl\u0105da nieco lepiej, to wci\u0105\u017c mu daleko do idea\u0142u. Z Wid\u017cet\u00f3w korzystam od czasu do czasu \u2013 najcz\u0119\u015bciej, aby sprawdzi\u0107 prognoz\u0119 pogody lub przeczyta\u0107 nag\u0142\u00f3wki najwa\u017cniejszych informacji. Po\u0142\u0105czenie \u201enews feedu\u201d i wid\u017cet\u00f3w w jednym miejscu sprawia, \u017ce ca\u0142o\u015b\u0107 jest dla mnie nieczytelna. Sekcja informacyjna powinna zosta\u0107 nieco zmniejszona, a wid\u017cet\u00f3w bardziej uwypuklona. Obecnie ten obszar jest zbyt chaotyczny.\n\nStare sekcje musz\u0105 znikn\u0105\u0107\n\nCieszy mnie fakt, \u017ce Microsoft sukcesywnie aktualizuje stare obszary Windows 11 i dostosowuje ich wygl\u0105d do obecnych standard\u00f3w. Za przyk\u0142ad mo\u017ce pos\u0142u\u017cy\u0107 Mened\u017cer zada\u0144, kt\u00f3ry w ostatnich miesi\u0105cach przeszed\u0142 naprawd\u0119 du\u017c\u0105 metamorfoz\u0119, wprowadzaj\u0105c nowe ikony i bardziej uporz\u0105dkowan\u0105 organizacj\u0119 informacji.\n\nFot. Adam Lulek / Android.com.pl\n\nJednak Windows 11 wci\u0105\u017c zawiera obszary, kt\u00f3re pami\u0119taj\u0105 czasy Windows 95! Sp\u00f3jrzcie na ten mened\u017cer urz\u0105dze\u0144. Za ka\u017cdym razem, jak go w\u0142\u0105czam, to przenosz\u0119 si\u0119 w czasie do 1998 roku, kiedy korzysta\u0142em z \u00f3wczesnego systemu. Podobnie jest z sekcj\u0105 zarz\u0105dzanie komputerem, kt\u00f3ra r\u00f3wnie\u017c pami\u0119ta tamte czasy. Nie najlepiej prezentuje si\u0119 te\u017c obszar \u201eUruchom\u201d \u2013 czy ktokolwiek jeszcze w og\u00f3le pami\u0119ta t\u0119 funkcj\u0119 i z niej korzysta?\n\nTo jednocze\u015bnie zabawne i okropne, \u017ce w trzeciej dekadzie XXI wieku wci\u0105\u017c mo\u017cna znale\u017a\u0107 w najnowszym systemie Microsoft takie \u201esmaczki\u201d. Sp\u00f3jno\u015b\u0107 interfejsu jest kluczowa pod wzgl\u0119dem jego u\u017cyteczno\u015bci i \u0142atwego znajdowania opcji do ustawienia.\n\n\u0179r\u00f3d\u0142o: opracowanie w\u0142asne. Zdj\u0119cie otwieraj\u0105ce: Microsoft / materia\u0142y prasowe\n\nCz\u0119\u015b\u0107 odno\u015bnik\u00f3w to linki afiliacyjne lub linki do ofert naszych partner\u00f3w. Po klikni\u0119ciu mo\u017cesz zapozna\u0107 si\u0119 z cen\u0105 i dost\u0119pno\u015bci\u0105 wybranego przez nas produktu \u2013 nie ponosisz \u017cadnych koszt\u00f3w, a jednocze\u015bnie wspierasz niezale\u017cno\u015b\u0107 zespo\u0142u redakcyjnego."
+            "date": "Dziennik Ba\u0142tycki on MSN1 godz.",
+            "source": "Dziennik Ba\u0142tycki on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Podziemna niespodzianka pod Wawelem. Tury\u015bci zobacz\u0105 to, co przez wieki by\u0142o ukryte",
+            "link": "https://www.national-geographic.pl/traveler/kierunki/podziemna-niespodzianka-pod-wawelem-turysci-zobacza-to-co-przez-wieki-bylo-ukryte/",
+            "description": "Smocza Jama jeszcze nigdy nie by\u0142a tak blisko. Dzi\u0119ki przeszklonym k\u0142adkom i nowoczesnej wystawie odkryjesz legendy i tajemnice skrywane pod Wawelem.",
+            "image_url": "https://www.bing.pl/th?id=ODF.GraCsDDFpARZJlDXW3KSZA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "relikty",
+            "date": "National Geographic Polska1 godz.",
+            "source": "National Geographic Polska",
+            "article_content": "Spis tre\u015bci:\n\nReklama\n\nKrak\u00f3w cz\u0119sto jest doceniany na arenie mi\u0119dzynarodowej zar\u00f3wno przez turyst\u00f3w, jak i dziennikarzy. Przyk\u0142adowo w zestawieniu przygotowanym przez firm\u0119 Holiday Cars dawny gr\u00f3d Kraka znalaz\u0142 si\u0119 wy\u017cej ni\u017c Berlin czy Praga. Krak\u00f3w przyci\u0105ga podr\u00f3\u017cnych z Polski i zagranicy obowi\u0105zkowymi atrakcjami turystycznymi. W\u015br\u00f3d nich s\u0105 m.in. Sukiennice czy Bazylika Mariacka. Sta\u0142ym punktem wycieczek do Krakowa jest te\u017c oczywi\u015bcie Wawel z Zamkiem Kr\u00f3lewskim i innymi zabytkami. Ju\u017c niebawem s\u0142ynne wzg\u00f3rze b\u0119dzie mo\u017cna odwiedza\u0107 inaczej ni\u017c dotychczas.\n\nNowa atrakcja turystyczna w Krakowie\n\nZamek Kr\u00f3lewski na Wawelu ju\u017c 23 maja otworzy podziemn\u0105 tras\u0119 \u201eMi\u0119dzymurze\u201d. To prawdziwa gratka dla turyst\u00f3w. Nowa ekspozycja b\u0119dzie po\u0142\u0105czeniem historii, archeologii i nowoczesnych technologii. Nazwa atrakcji turystycznej nie jest przypadkowa. \u201eMi\u0119dzymurze\u201d to przestrze\u0144 mi\u0119dzy dawnymi murami obronnymi Wawelu. Przez wieki pe\u0142ni\u0142a kluczow\u0105 funkcj\u0119 w systemie fortyfikacji zamku. Dzi\u0119ki wieloletnim pracom archeologicznym i konserwatorskim zwiedzaj\u0105cy maj\u0105 teraz okazj\u0119 zobaczy\u0107 relikty architektury od X do XIX wieku, w tym roma\u0144sk\u0105 wie\u017c\u0119, gotyckie przedmurze oraz \u015bredniowieczne mury kleszczowe.\n\nWarto podkre\u015bli\u0107, \u017ce nowa trasa to nie tylko spacer w\u015br\u00f3d zabytk\u00f3w, ale pe\u0142noprawna wystawa muzealna. Historia Wawelu dos\u0142ownie o\u017cyje na oczach zwiedzaj\u0105cych. B\u0119dzie mo\u017cliwe dzi\u0119ki po\u0142\u0105czeniu \u015bwiat\u0142a, d\u017awi\u0119k\u00f3w i projekcji multimedialnych. Przeszklone k\u0142adki prowadz\u0105ce nad zabytkami pozwalaj\u0105 zobaczy\u0107 je z nowej, nieznanej dot\u0105d perspektywy.\n\nWawel z nowej perspektywy\n\nJednym z najbardziej ekscytuj\u0105cych element\u00f3w trasy jest przej\u015bcie nad wapienn\u0105 ska\u0142\u0105. To w\u0142a\u015bnie pod ni\u0105 znajduje si\u0119 s\u0142ynna Smocza Jama. Dzi\u0119ki zastosowaniu nowoczesnych technologii odwiedzaj\u0105cy odkryj\u0105 histori\u0119 powstania jaskini oraz poznaj\u0105 legend\u0119 o smoku wawelskim w formie inspirowanej \u015bredniowiecznymi opisami.\n\nReklama\n\nOtwarcie podziemnej trasy \u201eMi\u0119dzymurze\u201d to jedno z najwa\u017cniejszych wydarze\u0144 turystycznych sezonu letniego 2025. Najnowsza historia miejsca si\u0119ga ko\u0144ca lat 40. XX wieku i pierwszych bada\u0144 archeologicznych. Gabriel Le\u0144czyk prowadzi\u0142 je na terenie zburzonego w\u00f3wczas austriackiego szpitala wojskowych rekonwalescent\u00f3w. Kolejne dekady prac archeologicznych, in\u017cynieryjnych oraz konserwatorskich doprowadzi\u0142y do odkrycia przestrzeni, w kt\u00f3rej ods\u0142oni\u0119te przez archeolog\u00f3w \u015blady dawnej architektury obronnej nak\u0142adaj\u0105 si\u0119 na siebie. Tak powsta\u0142 jedyny na terenie Polski obraz historii fortyfikacji od wieku X do XIX.\n\nNasz autor"
         }
     },
     {
@@ -314,7 +298,7 @@
             "description": "Jak informuje Urz\u0105d Miasta Krakowa, dzia\u0142ka (nr 755/9 o pow. 0,9868 ha obr. 4 \u015ar\u00f3dmie\u015bcie) b\u0119d\u0105ca obecnie we w\u0142adaniu ...",
             "image_url": "https://www.bing.pl/th?id=OVF.EjoPcQeuVKNdbfjr8S3vVg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Dziennik Polski on MSN16 godz.",
+            "date": "Dziennik Polski on MSN20 godz.",
             "source": "Dziennik Polski on MSN",
             "article_content": ""
         }
@@ -330,7 +314,7 @@
             "description": "Pomorski Wojew\u00f3dzki Konserwator Zabytk\u00f3w wpisa\u0142 do rejestru zabytk\u00f3w Park Steffens\u00f3w wraz z zespo\u0142em dawnych cmentarzy ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.GB-9hJgG6uAJM5jp1b97lS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Portal Samorz\u0105dowy9 godz.",
+            "date": "Portal Samorz\u0105dowy13 godz.",
             "source": "Portal Samorz\u0105dowy",
             "article_content": "O wpisaniu do rejestru zabytk\u00f3w gda\u0144skiego Parku Steffens\u00f3w - wraz z zespo\u0142em dawnych cmentarzy zlokalizowanych przy Alei Zwyci\u0119stwa - pomorski wojew\u00f3dzki konserwator zabytk\u00f3w poinformowa\u0142 we wtorek 6 maja.\n\nTo jeden z najstarszych park\u00f3w w Gda\u0144sku, powsta\u0142 w latach 1896-1897\n\nPomorski wojew\u00f3dzki konserwator zabytk\u00f3w wpisa\u0142 do rejestru zabytk\u00f3w Park Steffens\u00f3w wraz z zespo\u0142em dawnych cmentarzy zlokalizowanych przy Al. Zwyci\u0119stwa w Gda\u0144sku - poda\u0142 rzecznik konserwatora Marcin Tymi\u0144ski.\n\nPrace nad wpisaniem do rejestru by\u0142y prowadzone od po\u0142owy 2020 roku. Procedury zako\u0144czy\u0142y si\u0119 pod koniec marca br. Tymi\u0144ski podkre\u015bli\u0142, \u017ce wpisanie do rejestru oznacza, \u017ce wszelkie prace na tym terenie b\u0119d\u0105 wymaga\u0142y uzgodnienia z Pomorskim Wojew\u00f3dzkim Konserwatorem Zabytk\u00f3w.\n\nPark Steffens\u00f3w to jeden z najstarszych park\u00f3w w granicach Gda\u0144ska. Zosta\u0142 za\u0142o\u017cony w latach 1896-1897 wed\u0142ug projektu Georga Wilhelma Schnibbego, prezesa gda\u0144skiego Towarzystwa Budowy Ogrod\u00f3w. Kosztowa\u0142 50 tys. marek i zosta\u0142 sfinansowany przez fundacj\u0119 mieszcza\u0144skiej rodziny Steffens\u00f3w.\n\nPocz\u0105tkowo zajmowa\u0142 powierzchni\u0119 ponad 4 ha, mi\u0119dzy obecn\u0105 al. Zwyci\u0119stwa (po stronie wschodniej) a terenem kolejowym. Gedanopedia, czyli Encyklopedia Gda\u0144ska podaje, \u017ce przed 1918 park powi\u0119kszony do 5,81 ha o teren likwidowanego Cmentarza Ubogich, si\u0119gaj\u0105c od p\u00f3\u0142nocy zabudowa\u0144 popularnej kawiarni \"Vier Jahreszeiten\" (\"Cztery Pory Roku\").\n\nW Parku Steffens\u00f3w zachowa\u0142y si\u0119 dwa historyczne obiekty\n\nGda\u0144ski Zarz\u0105d Dr\u00f3g i Zieleni poda\u0142, \u017ce obecnie park zajmuje obszar 13,6 ha, rozci\u0105ga si\u0119 wzd\u0142u\u017c Alei Zwyci\u0119stwa od Ronda Ofiar Katynia do skrzy\u017cowania z ulic\u0105 Smoluchowskiego.\n\nW parku zachowa\u0142y si\u0119 dwa historyczne obiekty. Pierwszy z nich to drewniany szalet parkowy przy jednym z wej\u015b\u0107 do parku od strony Wielkiej Alei. Powsta\u0142 on w 1897 r.\n\nWe wpisie do rejestru napisano, \u017ce budynek, mimo jego funkcji, opracowano z du\u017c\u0105 staranno\u015bci\u0105 pod wzgl\u0119dem formy i wystroju, bacz\u0105c na jego eksponowan\u0105 lokalizacj\u0119 przy wej\u015bciu do parku. Otrzyma\u0142 wyj\u0105tkow\u0105 jak na tego typu obiekt form\u0119, czerpi\u0105c\u0105 z architektury miast kuracyjnych prze\u0142omu XIX i XX w., do kt\u00f3rej nawi\u0105zuje nie tylko kszta\u0142tem, lecz tak\u017ce zastosowan\u0105 bogat\u0105 eklektyczn\u0105 dekoracj\u0105 snycersk\u0105.\n\nDrugi obiekt to usytuowany w g\u0142\u0119bi parku murowany dom dozorcy parku, obecnie budynek mieszkalny przy al. Zwyci\u0119stwa 8. Pochodz\u0105cy z lat 30. XX w. obiekt zachowa\u0142 niezmienion\u0105 form\u0119 i podzia\u0142y elewacji.\n\nCmentarze tej nekropolii zamkni\u0119to dla cel\u00f3w grzebalnych w latach 40. XX wieku\n\nDawne cmentarze obj\u0119te wpisem to: cz\u0119\u015b\u0107 Cmentarza Ubogich (tzw. Cmentarza Lazaretu, niem. Lazarett Kirchhof), cmentarza parafialnego Naj\u015bwi\u0119tszej Marii Panny, Zjednoczonego Cmentarza Ko\u015bcio\u0142\u00f3w \u015aw. Bart\u0142omieja, \u015aw. Jana, \u015awi\u0119tych Piotra i Paw\u0142a z cmentarzem menonit\u00f3w oraz p\u0142d. cz\u0119\u015b\u0107 Cmentarza Lutera\u0144skiego. Na potrzeby nekropolii wymienione tereny zacz\u0119to zagospodarowywa\u0107 na pocz\u0105tku XIX wieku.\n\nKonserwator we wpisie wyja\u015bni\u0142, \u017ce \"cmentarze tej nekropolii zamkni\u0119to dla cel\u00f3w grzebalnych w latach 40. XX w., likwiduj\u0105c je ostatecznie w 1966 r. Pozosta\u0142e po nich tereny przeznaczono na cele rekreacyjne, zak\u0142adaj\u0105c du\u017cy park miejski, po\u0142\u0105czony przestrzennie z s\u0105siednim Parkiem Steffens\u00f3w\".\n\nRzecznik PWKZ poda\u0142, \u017ce wcze\u015bniej do rejestru zabytk\u00f3w archeologicznych trafi\u0142y odkryte kilka lat temu na terenie parku relikty zespo\u0142u szpitala Wszystkich Bo\u017cych Anio\u0142\u00f3w, zwanego te\u017c szpitalem \u015aw. Micha\u0142a Archanio\u0142a (St. Michael-Hospital). Znajdowa\u0142y si\u0119 one w pobli\u017cu M\u0142odego Miasta za\u0142o\u017conego przez krzy\u017cak\u00f3w po 1380 roku i jego rozbi\u00f3rki w 1455 roku, gdy nast\u0105pi\u0142 kres panowania zakonu krzy\u017cackiego w Gda\u0144sku.\n\nNie przegap najwa\u017cniejszych wiadomo\u015bci Obserwuj nas w Google News"
         }
@@ -346,7 +330,7 @@
             "description": "Rozgl\u0105dasz si\u0119 za pomys\u0142em na tras\u0119 rowerow\u0105 w okolicy O\u015bwi\u0119cimia? Podpowiadamy, gdzie warto si\u0119 wybra\u0107. Wybrali\u015bmy 5 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.0EWnKp_QdPeyLZnUoirv6i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "O\u015bwi\u0119cim Nasze Miasto15 godz.",
+            "date": "O\u015bwi\u0119cim Nasze Miasto19 godz.",
             "source": "O\u015bwi\u0119cim Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -357,13 +341,29 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Zapomniana historia Wawelu w Krakowie. Przez wieki na zamkowym dziedzi\u0144cu t\u0119tni\u0142o \u017cycie. Co po nim pozosta\u0142o?",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/zapomniana-historia-wawelu-w-krakowie-przez-wieki-na-zamkowym-dziedzi%C5%84cu-t%C4%99tni%C5%82o-%C5%BCycie-co-po-nim-pozosta%C5%82o/ar-AA1E1HKa?ocid=BingNewsVerp",
-            "description": "Przed wiekami kto\u015b tu na pewno wypieka\u0142 ciastka w formie poziomki i to niekoniecznie na kr\u00f3lewski st\u00f3\u0142. Przez stulecia na ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.VBqojwRMSLInU5RICmSmYg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "Gazeta Krakowska on MSN22 godz.",
-            "source": "Gazeta Krakowska on MSN",
+            "title": "Z\u0142oto, bursztyn i nie tylko. To jedno z najwi\u0119kszych odkry\u0107 w Lubuskiem. Te skarby le\u017ca\u0142y w ziemi blisko dwa tysi\u0105ce lat",
+            "link": "https://www.msn.com/pl-pl/news/other/z%C5%82oto-bursztyn-i-nie-tylko-to-jedno-z-najwi%C4%99kszych-odkry%C4%87-w-lubuskiem-te-skarby-le%C5%BCa%C5%82y-w-ziemi-blisko-dwa-tysi%C4%85ce-lat/ar-AA1EiL7R?ocid=BingNewsVerp",
+            "description": "Znacie termin Lubuskie Pompeje? Brzmi dumnie, prawda? Po blisko dw\u00f3ch tysi\u0105cach lat od zniszczenia grodu w Wicinie, na jego terenie pod \u017barami wydobyto \"skrzynie\" pe\u0142ne skarb\u00f3w: od br\u0105zu przez burszty ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.6oXJf1KayPglPY9d412pqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "zabytkowe+przedmioty",
+            "date": "Gazeta Lubuska on MSN2 godz.",
+            "source": "Gazeta Lubuska on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Poszukiwacze skarb\u00f3w tropili \u015blady wojny w Borach Tucholskich. \"Zosta\u0142y nam po nich tylko guziki\"",
+            "link": "https://bydgoszcz.wyborcza.pl/bydgoszcz/7,48722,31909268,poszukiwacze-skarbow-tropili-slady-wojny-w-borach-tucholskich.html",
+            "description": "- Gr\u00f3b znajduje si\u0119 jakie\u015b 300 metr\u00f3w od mojego domu, w miejscowo\u015bci Rosochatka w gminie \u015aliwice - opowiada Maciej Malewicz. ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.9hJm-rfZR1ZwAy9BdvjVZy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Bydgoszcz.Wyborcza.pl3 godz.",
+            "source": "Bydgoszcz.Wyborcza.pl",
             "article_content": ""
         }
     },
@@ -378,7 +378,7 @@
             "description": "HOROSKOP dzienny na \u015brod\u0119 7 maja 2025 roku dla ka\u017cdego znaku zodiaku. Sprawd\u017a sw\u00f3j horoskop na dzi\u015b i zobacz, co wydarzy si\u0119 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.8nZtkGx03MWigDASNoSGTC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Nowa Trybuna Opolska38 min",
+            "date": "Nowa Trybuna Opolska4 godz.",
             "source": "Nowa Trybuna Opolska",
             "article_content": "Content not available"
         }
@@ -394,7 +394,7 @@
             "description": "\u2013 Najlepsi pracodawcy wykorzystali kryzys do transformacji i wypracowali dostosowany do nowych okoliczno\u015bci styl zarz\u0105dzania ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.MSuvYHc7hmb0aRLfQwelKC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Lubuska38 min",
+            "date": "Gazeta Lubuska4 godz.",
             "source": "Gazeta Lubuska",
             "article_content": "Content not available"
         }
@@ -410,7 +410,7 @@
             "description": "Wraz z pocz\u0105tkiem maja na dobre rozpoczyna si\u0119 sezon kajakowy. To doskona\u0142a okazja, by aktywnie sp\u0119dzi\u0107 czas na \u0142onie natury, odpocz\u0105\u0107 od miejskiego zgie\u0142ku i odkry\u0107 Tr\u00f3jmiasto z zupe\u0142nie innej perspe ...",
             "image_url": "https://www.bing.pl/th?id=ODF.TioSfvyB6Ie4qA25KB6RoA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "Trojmiasto.pl24 min",
+            "date": "Trojmiasto.pl4 godz.",
             "source": "Trojmiasto.pl",
             "article_content": "Content not available"
         }
@@ -421,78 +421,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "07 MAJA 2025",
-            "link": "https://krakow.pl/kalendarium/1919,shw,2025-05-07,7,day.html",
-            "description": "Czy chcesz pozna\u0107 histori\u0119 jednego z najwi\u0119kszych przedwojennych zak\u0142ad\u00f3w przemys\u0142owych Krakowa? Czy chcesz dowiedzie\u0107 si\u0119, do czego s\u0142u\u017cy rozwierak, a do czego pa\u0142asz i jak wygl\u0105da naw\u00f3z ze szk\u0142a? A ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "zabytkowe+przedmioty",
-            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w16 min",
-            "source": "Oficjalny serwis miejski - Magiczny Krak\u00f3w",
-            "article_content": "Szlak \u017cywego Muzeum Witra\u017cu\n\nW Muzeum Witra\u017cu przestrzenie ekspozycyjne przeplataj\u0105 si\u0119 z mieszcz\u0105ca si\u0119 tu od 1902 roku pracowni\u0105 witra\u017cy. Podczas zwiedzania mo\u017cna obserwowa\u0107 niezmieniony od setek lat proces powstawania witra\u017cy. Struktura kamienicy, w kt\u00f3rej..."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Pras\u00f3wka 7.05.2025 - wydarzenia dnia, podsumowanie z wczoraj - sprawd\u017a, czy nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego",
-            "link": "https://nowosci.com.pl/prasowka-7-05-2025-wydarzenia-dnia-podsumowanie-z-wczoraj-sprawdz-czy-nie-minelo-cie-nic-waznego/ar/c1p1-19960939",
-            "description": "W poniedzia\u0142ek (05.05.2025) punktualnie o 9:00 rozpocz\u0119\u0142a si\u0119 matura z j\u0119zyka polskiego na poziomie podstawowym. To pierwszy obowi\u0105zkowy egzamin pisemny, do kt\u00f3rego przyst\u0105pili tegoroczni maturzy\u015bci.",
-            "image_url": "https://www.bing.pl/th?id=ODF.csLl8ZFonfuC8KKWalWEGg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "zabytkowe+przedmioty",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski38 min",
-            "source": "Nowo\u015bci Dziennik Toru\u0144ski",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Ten banknot 50 z\u0142otych jest wart fortun\u0119! A to nie jedyny okaz, kt\u00f3rego szukaj\u0105 kolekcjonerzy [7.05.2025]",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/ten-banknot-50-z%C5%82otych-jest-wart-fortun%C4%99-a-to-nie-jedyny-okaz-kt%C3%B3rego-szukaj%C4%85-kolekcjonerzy-7052025/ar-AA1Dttas?ocid=BingNewsVerp",
+            "title": "Ten banknot 50 z\u0142otych jest wart fortun\u0119! A to nie jedyny okaz, kt\u00f3rego szukaj\u0105 kolekcjonerzy [7.05.2025 r.]",
+            "link": "https://pomorska.pl/ten-banknot-50-zlotych-jest-wart-fortune-a-to-nie-jedyny-okaz-ktorego-szukaja-kolekcjonerzy-7-05-2025-r/ar/c1p2-27495149",
             "description": "Banknot 50 z\u0142 z 1994 roku, oznaczony seri\u0105 zast\u0119pcz\u0105 YA to najrzadszy banknot III Rzeczypospolitej. Jak informuje portal ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.YTSFZ31PCWLJ5s%2fcJWHI2Q&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "image_url": "https://www.bing.pl/th?id=OVF.l1M7NQO9x4b7wWNQOk02kw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Pomorska on MSN6 godz.",
-            "source": "Gazeta Pomorska on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Ten banknot 50 z\u0142otych jest wart fortun\u0119! A to nie jedyny okaz, kt\u00f3rego szukaj\u0105 kolekcjonerzy [6.05.2025 r.]",
-            "link": "https://pomorska.pl/ten-banknot-50-zlotych-jest-wart-fortune-a-to-nie-jedyny-okaz-ktorego-szukaja-kolekcjonerzy-6-05-2025-r/ar/c1p2-27495149",
-            "description": "Banknot 50 z\u0142 z 1994 roku, oznaczony seri\u0105 zast\u0119pcz\u0105 YA to najrzadszy banknot III Rzeczypospolitej. Jak informuje portal ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.aQj0LO9lL0l4Y9CIJkyblg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+numizmatyka",
-            "date": "Gazeta Pomorska22 godz.",
+            "date": "Gazeta Pomorska2 godz.",
             "source": "Gazeta Pomorska",
-            "article_content": "Ten banknot 50 z\u0142otych jest wart fortun\u0119! A to nie jedyny okaz, kt\u00f3rego szukaj\u0105 kolekcjonerzy [7.05.2025] Magdalena Walczak-Grudzka\n\nZ pozoru zwyczajny banknot czy moneta mog\u0105 by\u0107 warte o wiele wi\u0119cej - nawet kilkadziesi\u0105t tysi\u0119cy z\u0142otych! Rzadkie, unikatowe banknoty i monety s\u0105 bardzo poszukiwane przez kolekcjoner\u00f3w. I wcale nie musz\u0105 to by\u0107 stare pieni\u0105dze. Arkadiusz Dembi\u0144ski Zobacz galeri\u0119 (11 zdj\u0119\u0107)\n\nBanknoty i monety mog\u0105 by\u0107 cenniejsze, ni\u017c wskazuje ich nomina\u0142 - czasem wystarczy jeden szczeg\u00f3\u0142, by ich warto\u015b\u0107 si\u0119gn\u0119\u0142a kilkuset tysi\u0119cy z\u0142otych. Masz takie 50 z\u0142? To prawdziwy skarb dla kolekcjoner\u00f3w i mi\u0142o\u015bnik\u00f3w numizmatyki. By\u0107 mo\u017ce w\u0142a\u015bnie masz szans\u0119 na prawdziw\u0105 fortun\u0119! Za ten banknot 50-z\u0142otowy kolekcjonerzy s\u0105 w stanie zap\u0142aci\u0107 nawet 30 tys. z\u0142. Czytaj wi\u0119cej."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Ciekawe odkrycie archeologiczne w Lublinie. To dow\u00f3d na bogat\u0105 histori\u0119 stolicy Lubelszczyzny",
-            "link": "https://wiadomosci.wp.pl/ciekawe-odkrycie-archeologiczne-w-lublinie-to-dowod-na-bogata-historie-stolicy-lubelszczyzny-7153767741737792a",
-            "description": "Podczas prac budowlanych na lubelskim Podzamczu odkryto pozosta\u0142o\u015bci przedwojennej dzielnicy \u017cydowskiej. Informacj\u0119 ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.fb36SL_7Rxm5XapIe8o-YQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "WP Wiadomo\u015bci20 godz.",
-            "source": "WP Wiadomo\u015bci",
-            "article_content": "Podczas prac budowlanych na b\u0142oniach pod zamkiem w Lublinie odkryto pozosta\u0142o\u015bci dawnej zabudowy przedwojennej dzielnicy \u017cydowskiej. Odkrycia dokonano na g\u0142\u0119boko\u015bci oko\u0142o 1,3 metra. Informacj\u0119 t\u0119 przekaza\u0142 lubelski wojew\u00f3dzki konserwator zabytk\u00f3w za po\u015brednictwem medi\u00f3w spo\u0142eczno\u015bciowych.\n\nFragmenty mur\u00f3w z XVII - XVIII wieku w pobli\u017cu Zamku Lubelskiego\n\nW rejonie ulic Podwale i Zamkowej ods\u0142oni\u0119to fragmenty ceglanych fundament\u00f3w mur\u00f3w, zasypane gruzem podpiwniczenia oraz historyczne nawarstwienia ziemne. Znaleziono tak\u017ce zabytki ruchome datowane na XVII-XVIII wiek. Odkrycie to jest istotne dla zrozumienia historii tego obszaru.\n\nZe wzgl\u0119du na konieczno\u015b\u0107 dok\u0142adnej eksploracji i dokumentacji odkrytych zabytk\u00f3w, prace budowlane zosta\u0142y wstrzymane. Obecnie teren jest badany przez archeolog\u00f3w, kt\u00f3rzy staraj\u0105 si\u0119 jak najwi\u0119cej dowiedzie\u0107 o przesz\u0142o\u015bci tego miejsca.\n\nDalsza cz\u0119\u015b\u0107 artyku\u0142u pod materia\u0142em wideo\n\nCi\u0119\u017cki los ch\u0142op\u00f3w na wsi. \"G\u0142\u00f3d uderza\u0142 co roku\"\n\nTo nie pierwsze tego typu odkrycie w Lublinie\n\nZamek Lubelski i jego okolice od lat przyci\u0105gaj\u0105 nie tylko turyst\u00f3w, ale i archeolog\u00f3w. Najnowsze odkrycie na lubelskim Podzamczu to kolejny element uk\u0142adanki, kt\u00f3ra pokazuje, jak bogata i z\u0142o\u017cona jest historia Lublina. Ods\u0142oni\u0119te podczas bada\u0144 artefakty sugeruj\u0105, \u017ce obszar ten m\u00f3g\u0142 by\u0107 intensywnie u\u017cytkowany ju\u017c we wczesnym \u015bredniowieczu.\n\nTo nie pierwsze takie znalezisko w tej cz\u0119\u015bci miasta. Co pewien czas spod warstw ziemi wy\u0142aniaj\u0105 si\u0119 \u015blady dawnych domostw, ceramiki czy umocnie\u0144. Ka\u017cdy taki przedmiot \u2013 cho\u0107 niepozorny \u2013 pozwala lepiej zrozumie\u0107 \u017cycie codzienne dawnych mieszka\u0144c\u00f3w Lublina, ich rzemios\u0142o, handel czy zwyczaje.\n\nZdaniem badaczy, Lublin kryje jeszcze wiele nieodkrytych tajemnic. Warstwy kulturowe w centrum miasta potrafi\u0105 si\u0119ga\u0107 kilku metr\u00f3w w g\u0142\u0105b, co czyni ka\u017cde wykopalisko potencjalnym \u017ar\u00f3d\u0142em nowych, cennych informacji. Oczekuje si\u0119, \u017ce wyniki obecnych bada\u0144 zostan\u0105 opublikowane w najbli\u017cszych miesi \u0105cach, a by\u0107 mo\u017ce stan\u0105 si\u0119 tak\u017ce cz\u0119\u015bci\u0105 nowej ekspozycji muzealnej.\n\nLublin to jedno z tych miast, w kt\u00f3rych przesz\u0142o\u015b\u0107 nie le\u017cy wy\u0142\u0105cznie w archiwach \u2013 tu dos\u0142ownie mo\u017cna na ni\u0105 natrafi\u0107 pod w\u0142asnymi stopami."
+            "article_content": "Ten banknot 50 z\u0142otych jest wart fortun\u0119! A to nie jedyny okaz, kt\u00f3rego szukaj\u0105 kolekcjonerzy [7.05.2025 r.] Magdalena Walczak-Grudzka\n\nZ pozoru zwyczajny banknot czy moneta mog\u0105 by\u0107 warte o wiele wi\u0119cej - nawet kilkadziesi\u0105t tysi\u0119cy z\u0142otych! Rzadkie, unikatowe banknoty i monety s\u0105 bardzo poszukiwane przez kolekcjoner\u00f3w. I wcale nie musz\u0105 to by\u0107 stare pieni\u0105dze. Arkadiusz Dembi\u0144ski Zobacz galeri\u0119 (11 zdj\u0119\u0107)\n\nBanknoty i monety mog\u0105 by\u0107 cenniejsze, ni\u017c wskazuje ich nomina\u0142 - czasem wystarczy jeden szczeg\u00f3\u0142, by ich warto\u015b\u0107 si\u0119gn\u0119\u0142a kilkuset tysi\u0119cy z\u0142otych. Masz takie 50 z\u0142? To prawdziwy skarb dla kolekcjoner\u00f3w i mi\u0142o\u015bnik\u00f3w numizmatyki. By\u0107 mo\u017ce w\u0142a\u015bnie masz szans\u0119 na prawdziw\u0105 fortun\u0119! Za ten banknot 50-z\u0142otowy kolekcjonerzy s\u0105 w stanie zap\u0142aci\u0107 nawet 30 tys. z\u0142. Czytaj wi\u0119cej."
         }
     },
     {
@@ -506,7 +442,7 @@
             "description": "Ulica Biela\u0144ska 10. Pod tym adresem mie\u015bci si\u0119 pot\u0119\u017cny gmach, na kt\u00f3rym wyra\u017anie wida\u0107 dzia\u0142anie z\u0119ba czasu. Du\u017ce wra\u017cenie ...",
             "image_url": "https://www.bing.pl/th?id=OVF.t4gdkgz0JmusSV8lI35gVA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Warszawa Naszemiasto on MSN16 godz.",
+            "date": "Warszawa Naszemiasto on MSN20 godz.",
             "source": "Warszawa Naszemiasto on MSN",
             "article_content": ""
         }
