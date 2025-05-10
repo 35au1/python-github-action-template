@@ -21,13 +21,29 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Kryszta\u0142y PRL - na takich starych wazonach i naczyniach mo\u017cna zarobi\u0107 - ceny, zdj\u0119cia. W 2025 roku niekt\u00f3re warte s\u0105 krocie [10.05.25]",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/kryszta%C5%82y-prl-na-takich-starych-wazonach-i-naczyniach-mo%C5%BCna-zarobi%C4%87-ceny-zdj%C4%99cia-w-2025-roku-niekt%C3%B3re-warte-s%C4%85-krocie-100525/ar-AA1Evbsg?ocid=BingNewsVerp",
-            "description": "Kryszta\u0142y PRL zyskuj\u0105 na popularno\u015bci w 2025 roku \u2013 kolekcjonerzy coraz ch\u0119tniej inwestuj\u0105 w te retro skarby, a ceny rosn\u0105 w ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.7rwq44CqbBqKwrfXP9ib9g&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Wiosenny Moto Weteran Bazar trwa w \u0141odzi \u2013 t\u0142umy mi\u0142o\u015bnik\u00f3w motoryzacji na stadionie \u201eStart \u0141\u00f3d\u017a\". Zobaczcie te cuda",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/wiosenny-moto-weteran-bazar-trwa-w-%C5%82odzi-t%C5%82umy-mi%C5%82o%C5%9Bnik%C3%B3w-motoryzacji-na-stadionie-start-%C5%82%C3%B3d%C5%BA-zobaczcie-te-cuda/ar-AA1EwYFy?ocid=BingNewsVerp",
+            "description": "Na stadionie \u201eStart' przy ul. \u015aw. Teresy 56/58 trwa Moto Weteran Bazar \u2013 jedno z najwi\u0119kszych wydarze\u0144 w Polsce dla fan\u00f3w motocykli, klasycznej motoryzacji i pasjonat\u00f3w wszelkiego rodzaju ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.A9xqYWX22R6wJlvUbZ9SPQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "Gazeta Pomorska on MSN4 godz.",
-            "source": "Gazeta Pomorska on MSN",
+            "date": "Express Ilustrowany on MSN1 godz.",
+            "source": "Express Ilustrowany on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Tak bawi\u0105 si\u0119 kuracjusze w Inowroc\u0142awiu. Po zabiegach udaj\u0105 si\u0119 na dancing",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/tak-bawi%C4%85-si%C4%99-kuracjusze-w-inowroc%C5%82awiu-po-zabiegach-udaj%C4%85-si%C4%99-na-dancing/ar-AA1DYwRL?ocid=BingNewsVerp",
+            "description": "Cho\u0107 wi\u0119kszo\u015bci os\u00f3b turnus w sanatorium kojarzy si\u0119 wy\u0142\u0105cznie z odpoczynkiem i rehabilitacj\u0105, to okazuje si\u0119, \u017ce coraz wi\u0119cej pacjent\u00f3w \u0142amie ten stereotyp i pe\u0142nymi gar\u015bciami czerpie z pobytu w ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.Cgj1z3dri9fDcvnl2HbMDA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "starocie",
+            "date": "Inowroc\u0142aw Nasze Miasto on MSN14 min",
+            "source": "Inowroc\u0142aw Nasze Miasto on MSN",
             "article_content": ""
         }
     },
@@ -39,7 +55,7 @@
         "body": {
             "title": "Gie\u0142da w Sandomierzu w sobot\u0119 10 maja. Meble, ro\u015bliny i inne r\u00f3\u017cno\u015bci. W jakiej cenie truskawki i inne produkty?",
             "link": "https://echodnia.eu/swietokrzyskie/gielda-w-sandomierzu-w-sobote-10-maja-meble-rosliny-i-inne-roznosci-w-jakiej-cenie-truskawki-i-inne-produkty/ar/c3p2-27568875",
-            "description": "Na targu dominowa\u0142y stoiska z ro\u015blinami, kt\u00f3re przyci\u0105ga\u0142y ogrodnik\u00f3w amator\u00f3w i profesjonalist\u00f3w. W ofercie mo\u017cna by\u0142o znale\u017a\u0107 szeroki wyb\u00f3r sadzonek drzew owocowych, w tym tradycyjne odmiany jab\u0142oni ...",
+            "description": "W sobotni poranek, mimo pochmurnej aury i delikatnej m\u017cawki, sandomierski plac targowy t\u0119tni\u0142 \u017cyciem. Kupuj\u0105cy i sprzedawcy nie dali si\u0119 zniech\u0119ci\u0107 kapry\u015bnej pogodzie. Na majowej gie\u0142dzie pojawi\u0142y si\u0119 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.xmtGTJHQSE_v4D-CWxbvsQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
             "date": "Echo Dnia6 godz.",
@@ -53,30 +69,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Fryzury damskie",
-            "link": "https://nowosci.com.pl/tag/fryzury-damskie",
-            "description": "Kobiety dobieraj\u0105 fryzury na wiele sposob\u00f3w. Jedni kieruj\u0105 si\u0119 przyzwyczajeniem, inne trendami, jeszcze inne zauwa\u017conym, gdzie\u015b uczesaniem. Na du\u017ce zmiany panie... Bob to od lat jedna z najpopularniej ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.csLl8ZFonfuC8KKWalWEGg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Kryszta\u0142y PRL - na takich starych wazonach i naczyniach mo\u017cna zarobi\u0107 - ceny, zdj\u0119cia. W 2025 roku niekt\u00f3re warte s\u0105 krocie [10.05.25]",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/kryszta%C5%82y-prl-na-takich-starych-wazonach-i-naczyniach-mo%C5%BCna-zarobi%C4%87-ceny-zdj%C4%99cia-w-2025-roku-niekt%C3%B3re-warte-s%C4%85-krocie-100525/ar-AA1Evbsg?ocid=BingNewsVerp",
+            "description": "Kryszta\u0142y PRL zyskuj\u0105 na popularno\u015bci w 2025 roku \u2013 kolekcjonerzy coraz ch\u0119tniej inwestuj\u0105 w te retro skarby, a ceny rosn\u0105 w ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.7rwq44CqbBqKwrfXP9ib9g&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski17 godz.",
-            "source": "Nowo\u015bci Dziennik Toru\u0144ski",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Modne fryzury",
-            "link": "https://nowosci.com.pl/tag/modne-fryzury",
-            "description": "odm\u0142adzaj\u0105ce. Jakie fryzury s\u0105 najlepsze po 40., 50. i 60.? Fryzura mo\u017ce zar\u00f3wno odm\u0142odzi\u0107, jak i dodawa\u0107 lat. Odpowiednio dobrane ci\u0119cie i... Niekt\u00f3re fryzury, wbrew pozorom kojarz\u0105ce si\u0119 z m\u0142odo\u015bci\u0105 ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.csLl8ZFonfuC8KKWalWEGg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "starocie",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski17 godz.",
-            "source": "Nowo\u015bci Dziennik Toru\u0144ski",
-            "article_content": "Content not available"
+            "date": "Gazeta Pomorska on MSN8 godz.",
+            "source": "Gazeta Pomorska on MSN",
+            "article_content": ""
         }
     },
     {
@@ -90,7 +90,7 @@
             "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
             "image_url": "https://www.bing.pl/th?id=OVF.u3AnNGoOeE2yel8h1q4N2Q&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Pomorza on MSN10 godz.",
+            "date": "G\u0142os Pomorza on MSN14 godz.",
             "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
         }
@@ -106,7 +106,7 @@
             "description": "Momentami czas oczekiwania przekracza\u0142 dwie godziny i nie wszystkich uda\u0142o si\u0119 obs\u0142u\u017cy\u0107. W prawym dolnym rogu rzadki talar ...",
             "image_url": "https://www.bing.pl/th?id=OVF.wq3a4Uak7nPAlVBXBnAEgA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Gazeta Krakowska on MSN5 godz.",
+            "date": "Gazeta Krakowska on MSN9 godz.",
             "source": "Gazeta Krakowska on MSN",
             "article_content": ""
         }
@@ -122,7 +122,7 @@
             "description": "Badaczom uda\u0142o si\u0119 potwierdzi\u0107 istnienie co najmniej 17 sztuk studukat\u00f3wek na \u015bwiecie. W Polsce s\u0105 dwie, obie w Krakowie - w Muzeum Narodowym i na Wawelu. Na W\u0119grzech s\u0105 trzy egzemplarze. Pozosta\u0142e w ...",
             "image_url": "https://www.bing.pl/th?id=ODF.XL5bGs_n6w06Ok0ARb1y3Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "Gazeta Krakowska on MSN29 min",
+            "date": "Gazeta Krakowska on MSN4 godz.",
             "source": "Gazeta Krakowska on MSN",
             "article_content": ""
         }
@@ -138,7 +138,7 @@
             "description": "Unikatowy charakter mia\u0142y r\u00f3wnie\u017c przedmioty z tego okresu. Z pewno\u015bci\u0105 wiele os\u00f3b posiada w swoich domach rzeczy z czas\u00f3w ...",
             "image_url": "https://www.bing.pl/th?id=OVF.owNwxfYgS%2fP9EqzO9kF54w&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski on MSN11 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN15 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
@@ -154,7 +154,7 @@
             "description": "W sobot\u0119 10 maja plac w centrum Goworowa wype\u0142ni\u0142 si\u0119 stoiskami pe\u0142nymi skarb\u00f3w sprzed lat. Odby\u0142y si\u0119 tam targi staroci ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.9IuyFLipJpfqNYqmOJNE5C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Moja Ostro\u0142\u0119ka6 godz.",
+            "date": "Moja Ostro\u0142\u0119ka10 godz.",
             "source": "Moja Ostro\u0142\u0119ka",
             "article_content": "Content not available"
         }
@@ -170,7 +170,7 @@
             "description": "Unikatowy charakter mia\u0142y r\u00f3wnie\u017c przedmioty z tego okresu. Z pewno\u015bci\u0105 wiele os\u00f3b posiada w swoich domach rzeczy z czas\u00f3w ...",
             "image_url": "https://www.bing.pl/th?id=OVF.owNwxfYgS%2fP9EqzO9kF54w&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "G\u0142os Koszali\u0144ski on MSN11 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN15 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
@@ -186,7 +186,7 @@
             "description": "Unikalna porcelana z PRL poszukiwana przez kolekcjoner\u00f3w mo\u017ce zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na niej zarobi\u0107 fortun\u0119! Cz\u0119sto nie mamy \u015bwiadomo\u015bci, \u017ce przedmioty posiadane w domu warte s\u0105 du\u017co ...",
             "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "G\u0142os Pomorza on MSN10 godz.",
+            "date": "G\u0142os Pomorza on MSN14 godz.",
             "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
         }
@@ -202,7 +202,7 @@
             "description": "\"Ta\u0144czmy po mi\u0142o\u015bci kres\" zach\u0119ca\u0142 Leonard Cohen, za\u015b Wa\u0142brzyszanie zata\u0144czyli na kres wakacji 2024. Piknik wakacyjny ...",
             "image_url": "https://www.bing.pl/th?id=OVF.Jn8zp0gNPhk9mdY2juG2%2bQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Wa\u0142brzych Nasze Miasto on MSN4 godz.",
+            "date": "Wa\u0142brzych Nasze Miasto on MSN8 godz.",
             "source": "Wa\u0142brzych Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -218,7 +218,7 @@
             "description": "Kryszta\u0142y PRL zyskuj\u0105 na popularno\u015bci w 2025 roku \u2013 kolekcjonerzy coraz ch\u0119tniej inwestuj\u0105 w te retro skarby, a ceny rosn\u0105 w ...",
             "image_url": "https://www.bing.pl/th?id=OVF.7rwq44CqbBqKwrfXP9ib9g&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN4 godz.",
+            "date": "Gazeta Pomorska on MSN8 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -234,7 +234,7 @@
             "description": "Ju\u017c 10 maja 2025 w Parku Sybirak\u00f3w na Piaskowej G\u00f3rze kolejna ju\u017c pota\u0144c\u00f3wka ze Szko\u0142\u0105 Ta\u0144ca Corcex. Na uczestnik\u00f3w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.YFeYG438ssIMAvhGXlGLOC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Wa\u0142brzych Nasze Miasto3 godz.",
+            "date": "Wa\u0142brzych Nasze Miasto7 godz.",
             "source": "Wa\u0142brzych Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -250,7 +250,7 @@
             "description": "\u017barski magistrat zaprasza mieszka\u0144c\u00f3w do udzia\u0142u w jutrzejszym targu r\u0119kodzie\u0142a i staroci. Ch\u0119tni b\u0119d\u0105 mieli mo\u017cliwo\u015b\u0107 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.Z1kX1ygyaBXvlOBdFUKG6C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Radio Zach\u00f3d9 godz.",
+            "date": "Radio Zach\u00f3d13 godz.",
             "source": "Radio Zach\u00f3d",
             "article_content": "Content not available"
         }
@@ -266,25 +266,9 @@
             "description": "W sobot\u0119 10 maja plac w centrum Goworowa wype\u0142ni\u0142 si\u0119 stoiskami pe\u0142nymi skarb\u00f3w sprzed lat. Odby\u0142y si\u0119 tam targi staroci ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.9IuyFLipJpfqNYqmOJNE5C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Moja Ostro\u0142\u0119ka6 godz.",
+            "date": "Moja Ostro\u0142\u0119ka10 godz.",
             "source": "Moja Ostro\u0142\u0119ka",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Targowisko przy ul. Kaliskiej we W\u0142oc\u0142awku - 10 maja 2025. Tanie kwiaty, nowalijki i truskawki. Zdj\u0119cia, wideo, ceny",
-            "link": "https://www.msn.com/pl-pl/kuchnia/wiadomosci-o-zywieniu/targowisko-przy-ul-kaliskiej-we-w%C5%82oc%C5%82awku-10-maja-2025-tanie-kwiaty-nowalijki-i-truskawki-zdj%C4%99cia-wideo-ceny/ar-AA1EwqEZ?ocid=BingNewsVerp",
-            "description": "W t\u0119 sobot\u0119 stragany obfitowa\u0142y w m\u0142ode, \u015bwie\u017ce warzywa, takie jak buraki, sa\u0142ata, b\u00f3b, kapusta, rzodkiewki, marchew, szczypiorek, cebula, natka pietruszki, koperek i szpinak. W sezonie dost\u0119pne s\u0105 ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.Bm8piDnsAoinfeChI0AgCw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "targ+staroci",
-            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN2 godz.",
-            "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
-            "article_content": ""
         }
     },
     {
@@ -298,7 +282,7 @@
             "description": "W sobot\u0119, 10 maja, na targowisku w Starachowicach najwi\u0119cej sprzedawano sadzonki (rozsad\u0119) warzyw, sadzonki kwiat\u00f3w, nasiona, cebulki na dzia\u0142k\u0119 i balkon. Ten asortyment dominowa\u0142 na sobotnim ...",
             "image_url": "https://www.bing.pl/th?id=ODF.IYNYIrP1cScoR_PcrwdBfQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Starachowice Nasze Miasto on MSN3 godz.",
+            "date": "Starachowice Nasze Miasto on MSN7 godz.",
             "source": "Starachowice Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -309,14 +293,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Gratka dla mi\u0142o\u015bnik\u00f3w starych samochod\u00f3w i motocykli, czyli Retro Narew",
-            "link": "https://www.radio.bialystok.pl/wiadomosci/index/id/250067",
-            "description": "Wystawa i parada starych samochod\u00f3w i motocykli, a tak\u017ce konkursy na najstarszy i naj\u0142adniejszy pojazd. To najwi\u0119ksze ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.LBZD0YKIMZDI9fvPrF4qjy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Targowisko przy ul. Kaliskiej we W\u0142oc\u0142awku - 10 maja 2025. Tanie kwiaty, nowalijki i truskawki. Zdj\u0119cia, wideo, ceny",
+            "link": "https://www.msn.com/pl-pl/kuchnia/wiadomosci-o-zywieniu/targowisko-przy-ul-kaliskiej-we-w%C5%82oc%C5%82awku-10-maja-2025-tanie-kwiaty-nowalijki-i-truskawki-zdj%C4%99cia-wideo-ceny/ar-AA1EwqEZ?ocid=BingNewsVerp",
+            "description": "We W\u0142oc\u0142awku dzia\u0142aj\u0105 dwa miejskie targowiska oraz niedzielny pchli targ. Jedno z nich mie\u015bci si\u0119 przy ulicy Kaliskiej, a ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.6xjhcubuaankjtm_Sdwo1C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Polskie Radio Bia\u0142ystok52 min",
-            "source": "Polskie Radio Bia\u0142ystok",
-            "article_content": "Radio Bia\u0142ystok | Wiadomo\u015bci | Gratka dla mi\u0142o\u015bnik\u00f3w starych samochod\u00f3w i motocykli, czyli Retro Narew\n\nGratka dla mi\u0142o\u015bnik\u00f3w starych samochod\u00f3w i motocykli, czyli Retro Narew\n\nWystawa i parada starych samochod\u00f3w i motocykli, a tak\u017ce konkursy na najstarszy i naj\u0142adniejszy pojazd. To najwi\u0119ksze atrakcje trzeciej edycji imprezy Retro Narew kt\u00f3ra odbywa si\u0119 w centrum Narwi.\n\nRetro Narew, 10.05.2025, fot. Rafa\u0142 Androsiuk\n\nCz\u0119stym problemem przy wy\u015bwietlaniu playera jest u\u017cywanie Adblocka. D\u0142u\u017csze d\u017awi\u0119ki na niekt\u00f3rych wersjach przegl\u0105darki Chrome s\u0105 ucinane.\n\nGratka dla mi\u0142o\u015bnik\u00f3w starych samochod\u00f3w i motocykli, czyli Retro Narew - relacja Rafa\u0142a Androsiuka\n\nMo\u017cna te\u017c napi\u0107 si\u0119 wody z prawdziwego saturatora, obejrze\u0107 wystaw\u0119 starych fotografii oraz odwiedzi\u0107 targi staroci z PRL-u i stoiska z lokalnymi produktami.\n\n\n\n\n\nTo jest Wo\u0142ga z 1969 roku. Taki pojazd kiedy\u015b mia\u0142 m\u00f3j dziadek. Siada\u0142 za kierownic\u0119 i jechali\u015bmy na lody - m\u00f3wi jedna z uczestniczek konkursu.\n\n\n\n\n\nW\u00f3jt gminy Narew Aneta Leonowicz zaznacza, \u017ce impreza wynik\u0142a z potrzeby lokalnego \u015brodowiska, bo mieszka\u0144cy Narwi te\u017c s\u0105 pasjonatami starych samochod\u00f3w i cz\u0119\u015b\u0107 z nich aktywnie w\u0142\u0105czy\u0142a si\u0119 w organizacj\u0119 wystawy. Dodaje, \u017ce lokalna Ochotnicza Stra\u017c Po\u017carna te\u017c wystawi\u0142a swoje pojazdy.\n\n\n\n\n\nMamy pi\u0119knego Stara i \u017buka - m\u00f3wi w\u00f3jt.\n\n\n\n\n\nSwoje produkty wystawi\u0142y miejscowe ko\u0142a gospody\u0144 wiejskich z Narwi i Krzywca.\n\n\n\n\n\nPromujemy nasz\u0105 gmin\u0119 - m\u00f3wi Ala Siatkowska z Narwi.\n\n\n\n\n\nImprezie towarzyszy\u0142y koncerty, m.in. Janusza Laskowskiego i Dawid Szymczuk Band.\n\n| red: pp"
+            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN1 godz.",
+            "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
+            "article_content": ""
         }
     },
     {
@@ -325,14 +309,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "\u015acie\u017cki nordic walking do 6 km od Ko\u0142obrzegu. Pomys\u0142y na sportowy dzie\u0144 w weekend 10 - 11 maja",
-            "link": "https://kolobrzeg.naszemiasto.pl/sciezki-nordic-walking-do-6-km-od-kolobrzegu-pomysly-na-sportowy-dzien-w-weekend-10-11-maja/ar/c7p1-22319027",
-            "description": "Szukasz ciekawych \u015bcie\u017cek nordic walking niedaleko Ko\u0142obrzegu? Wsp\u00f3lnie z Traseo przygotowali\u015bmy dla Ciebie gar\u015b\u0107 propozycji ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.j_p328uy9qBGFiYIOix3ky&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "Ko\u0142obrzeg Nasze Miasto2 godz.",
-            "source": "Ko\u0142obrzeg Nasze Miasto",
+            "title": "Kolekcjonerzy poszukuj\u0105 tych antyk\u00f3w. Unikalne przedmioty do kupienia w internecie. Masz je w domu? 10.05.2025",
+            "link": "https://gloswielkopolski.pl/kolekcjonerzy-poszukuja-tych-antykow-unikalne-przedmioty-do-kupienia-w-internecie-masz-je-w-domu-10052025/ar/c9-17262255",
+            "description": "Unikalne antyki poszukiwane przez kolekcjoner\u00f3w mog\u0105 zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na nich zarobi\u0107 fortun\u0119. Cz\u0119sto nie ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.OUu4AAvkH5jz3NTVLyT09Q&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "G\u0142os Wielkopolski14 godz.",
+            "source": "G\u0142os Wielkopolski",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Oko w oko z w\u0119\u017cem, paj\u0105kiem, jaszczurk\u0105 i skorpionem. Exoticarium Targi Terrarystyczne w Wa\u0142brzychu. Przed nami wystawa paj\u0105k\u00f3w - zdj\u0119cia",
+            "link": "https://www.msn.com/pl-pl/rozrywka/news/oko-w-oko-z-w%C4%99%C5%BCem-paj%C4%85kiem-jaszczurk%C4%85-i-skorpionem-exoticarium-targi-terrarystyczne-w-wa%C5%82brzychu-przed-nami-wystawa-paj%C4%85k%C3%B3w-zdj%C4%99cia/ar-AA1EwZOI?ocid=BingNewsVerp",
+            "description": "Wystawcy i eksperci prezentuj\u0105 gotowe terraria, sugeruj\u0105 od jakich zwierz\u0105t mo\u017cna rozpocz\u0105\u0107 swoj\u0105 przygod\u0119 z terrarystyk\u0105. Sugeruj\u0105 najmniej wymagaj\u0105ce w\u0119\u017ce, gekony i \u017c\u00f3\u0142wie. S\u0105 te\u017c zwierz\u0119ta rzadkie, ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.b7cDqWcxCJUoLca1qpYJLg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "relikty",
+            "date": "Wa\u0142brzych Nasze Miasto on MSN3 godz.",
+            "source": "Wa\u0142brzych Nasze Miasto on MSN",
+            "article_content": ""
         }
     },
     {
@@ -346,7 +346,39 @@
             "description": "W Zawadzie ko\u0142o Bochni powstanie ulica Elvisa Presleya. Stoi przy niej dom pasjonata tw\u00f3rczo\u015bci Kr\u00f3la rock and rolla. To ...",
             "image_url": "https://www.bing.pl/th?id=OVF.FDtzpVOf9clTtOFPVQj1kw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Gazeta Krakowska on MSN6 godz.",
+            "date": "Gazeta Krakowska on MSN10 godz.",
+            "source": "Gazeta Krakowska on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "\u015acie\u017cki nordic walking do 6 km od Ko\u0142obrzegu. Pomys\u0142y na sportowy dzie\u0144 w weekend 10 - 11 maja",
+            "link": "https://kolobrzeg.naszemiasto.pl/sciezki-nordic-walking-do-6-km-od-kolobrzegu-pomysly-na-sportowy-dzien-w-weekend-10-11-maja/ar/c7p1-22319027",
+            "description": "Szukasz ciekawych \u015bcie\u017cek nordic walking niedaleko Ko\u0142obrzegu? Wsp\u00f3lnie z Traseo przygotowali\u015bmy dla Ciebie gar\u015b\u0107 propozycji ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.j_p328uy9qBGFiYIOix3ky&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "Ko\u0142obrzeg Nasze Miasto6 godz.",
+            "source": "Ko\u0142obrzeg Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Tak mieszka\u0142 najbardziej znany mieszkaniec grodu Kraka. Zajrzeli\u015bmy do Smoczej Jamy",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/tak-mieszka%C5%82-najbardziej-znany-mieszkaniec-grodu-kraka-zajrzeli%C5%9Bmy-do-smoczej-jamy/ar-AA1EvCvn?ocid=BingNewsVerp",
+            "description": "Niby zwyczajna jaskinia krasowa w obr\u0119bie zr\u0119bu Wawelu, ale to w\u0142a\u015bnie tu - wed\u0142ug legendy - urz\u0119dowa\u0142 Smok Wawelski. Lokum ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.O6NvUOoGMio%2fuV2qgQ%2b3VA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "Gazeta Krakowska on MSN14 godz.",
             "source": "Gazeta Krakowska on MSN",
             "article_content": ""
         }
@@ -362,41 +394,9 @@
             "description": "Trwaj\u0105 prace archeologiczne przy Pa\u0142acu Wielopolskich w Cz\u0119stocicach. Dzi\u0119ki nim b\u0119dzie mo\u017cna odtworzy\u0107 dawn\u0105 zabudow\u0119 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.Z0dq7bnULVfbyCmtii74KS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Radio Kielce6 godz.",
+            "date": "Radio Kielce10 godz.",
             "source": "Radio Kielce",
             "article_content": "Trwaj\u0105 prace archeologiczne przy Pa\u0142acu Wielopolskich w Cz\u0119stocicach. Dzi\u0119ki nim b\u0119dzie mo\u017cna odtworzy\u0107 dawn\u0105 zabudow\u0119 dworsk\u0105 w tym miejscu.\n\nW ostatnich tygodniach odnaleziono fundamenty lamusa, czyli budynku stawianego w pobli\u017cu dworu. S\u0142u\u017cy\u0142 do przechowywania cennych przedmiot\u00f3w, np. broni czy dokument\u00f3w. Pozosta\u0142o\u015bci takiego obiektu zosta\u0142y odkryte w pobli\u017cu p\u00f3\u0142nocno-zachodniego naro\u017cnika Pa\u0142acu Wielopolskich w Cz\u0119stocicach m\u00f3wi Kamil Kaptur z Muzeum Historyczno-Archeologicznego w Ostrowcu \u015awi\u0119tokrzyskim.\n\n\u2013 Wiemy, \u017ce lamus przy dworze w Cz\u0119stocicach by\u0142, bo wzmiankuj\u0105 o nim \u017ar\u00f3d\u0142a z pierwszej po\u0142owy XIX wieku, przy czym on ju\u017c wtedy by\u0142 stary. To oznacza, \u017ce na pewno zbudowano go wcze\u015bniej. Opisywany jest jako budowla murowana, sklepiona, kryta gontem i posiadaj\u0105ca kamienn\u0105 posadzk\u0119. Relikty budynku, kt\u00f3re odkryli\u015bmy doskonale pasuj\u0105 do tego opisu \u2013 wyja\u015bnia.\n\nIstnienie lamusa potwierdzaj\u0105 tak\u017ce odnalezione w 2019 roku pozosta\u0142o\u015bci murowanej, sklepionej piwnicy.\n\n\u2013 Dzi\u0119ki tym odkryciom mamy uchwycony w ca\u0142o\u015bci budynek dawnej zabudowy, znamy te\u017c bez w\u0105tpliwo\u015bci jego funkcj\u0119. Wobec tego, maj\u0105c lokalizacj\u0119 okre\u015blonego budynku mo\u017cemy pokusi\u0107 si\u0119 w przysz\u0142o\u015bci o pe\u0142n\u0105 rekonstrukcj\u0119 przestrzeni zabudowy dawnego dworu i folwarku \u2013 dodaje Kamil Kaptur.\n\nW miejscu, w kt\u00f3rym znajduj\u0105 si\u0119 pozosta\u0142o\u015bci lamusa, powstanie parking. Zabezpieczone szcz\u0105tki lamusa pozostan\u0105 pod ziemi\u0105.\n\n\n\n"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Wycieczki rowerowe do 19 km od O\u015bwi\u0119cimia. Podpowiadamy pomys\u0142y na wypraw\u0119. Gdzie w weekend 10 - 11 maja?",
-            "link": "https://oswiecim.naszemiasto.pl/wycieczki-rowerowe-do-19-km-od-oswiecimia-podpowiadamy-pomysly-na-wyprawe-gdzie-w-weekend-10-11-maja/ar/c7p1-21831633",
-            "description": "Zanim wyruszysz w drog\u0119, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 10 maja w O\u015bwi\u0119cimiu ma by\u0107 13\u00b0C. Prawdopodobie\u0144stwo wyst\u0105pienia deszczu wynosi 65%. W niedziel\u0119 11 maja w O\u015bwi\u0119cimiu ma by\u0107 12\u00b0C.",
-            "image_url": "https://www.bing.pl/th?id=ODF.hU9b0B80CrRL-uqx7ot5XQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "relikty",
-            "date": "O\u015bwi\u0119cim Nasze Miasto3 godz.",
-            "source": "O\u015bwi\u0119cim Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Tak mieszka\u0142 najbardziej znany mieszkaniec grodu Kraka. Zajrzeli\u015bmy do Smoczej Jamy",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/tak-mieszka%C5%82-najbardziej-znany-mieszkaniec-grodu-kraka-zajrzeli%C5%9Bmy-do-smoczej-jamy/ar-AA1EvCvn?ocid=BingNewsVerp",
-            "description": "Niby zwyczajna jaskinia krasowa w obr\u0119bie zr\u0119bu Wawelu, ale to w\u0142a\u015bnie tu - wed\u0142ug legendy - urz\u0119dowa\u0142 Smok Wawelski. Lokum ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.O6NvUOoGMio%2fuV2qgQ%2b3VA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "Gazeta Krakowska on MSN10 godz.",
-            "source": "Gazeta Krakowska on MSN",
-            "article_content": ""
         }
     },
     {
@@ -410,7 +410,7 @@
             "description": "Unikalne antyki poszukiwane przez kolekcjoner\u00f3w mog\u0105 zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na nich zarobi\u0107 fortun\u0119. Cz\u0119sto nie ...",
             "image_url": "https://www.bing.pl/th?id=OVF.sUDV4OLZqFH1pmSmkX%2fVZA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Kurier Poranny10 godz.",
+            "date": "Kurier Poranny14 godz.",
             "source": "Kurier Poranny",
             "article_content": "Content not available"
         }
@@ -423,10 +423,10 @@
         "body": {
             "title": "Barwy szcz\u0119\u015bcia, odcinek 3201: Pod\u0142y Andrzej sprzeda dworek, kt\u00f3ry dosta\u0142 od J\u00f3zefiny. Ju\u017c go nigdy nie zobaczy",
             "link": "https://superseriale.se.pl/barwy-szczescia/barwy-szczescia-odcinek-3201-podly-andrzej-sprzeda-dworek-ktory-dostal-od-jozefiny-juz-go-nigdy-nie-zobaczy-aa-FFeP-BDaD-5Xg7.html",
-            "description": "W 3201. odcinku serialu \u201eBarwy szcz\u0119\u015bcia\" J\u00f3zefina (El\u017cbieta Jarosik) przekona si\u0119 bardzo bole\u015bnie, \u017ce pad\u0142a ofiar\u0105 do\u015bwiadczonego oszusta (Leon Charewicz).",
-            "image_url": "https://www.bing.pl/th?id=ODF.upKaaWo1m0GC8ZvkmlBapg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "description": "W 3201. odcinku serialu \u201eBarwy szcz\u0119\u015bcia\" J\u00f3zefina (El\u017cbieta Jarosik) przekona si\u0119 bardzo bole\u015bnie, \u017ce pad\u0142a ofiar\u0105 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.de2ucb_56Gc7CgillezlES&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "SuperSeriale2 godz.",
+            "date": "SuperSeriale6 godz.",
             "source": "SuperSeriale",
             "article_content": "\u201eBarwy szcz\u0119\u015bcia\" odcinek 3201 - czwartek, 29.05.2025, o godz. 20.05 w TVP2\n\nW serialu \"Barwy szcz\u0119\u015bcia\" J\u00f3zefina ma przed sob\u0105 ostatnie ju\u017c dni z ukochanym Andrzejem. Zanim zniknie na zawsze, okrutnik, kt\u00f3ry w relacji z ni\u0105 u\u017cywa przybranego nazwiska Zastoja-Modelski, wykupi\u0142 dla nich jeszcze trzy tygodnie intensywnego kursu ta\u0144ca. Ale czy naprawd\u0119? D\u017co ju\u017c nie zd\u0105\u017cy si\u0119 o tym przekona\u0107\u2026\n\nEmilka zwr\u00f3ci si\u0119 o pomoc do \u201ewujka\u201d Andrzeja w 3192. odcinku serialu \u201eBarwy szcz\u0119\u015bcia\"\n\nEmilka (Jessica Frankiewicz) rywalizuje z prze\u015bladuj\u0105c\u0105 j\u0105 znowu Alin\u0105 (Iga Czechowicz) o popularno\u015b\u0107 w klasie, by kole\u017canki jej nie odrzuca\u0142y. Zaproponowa\u0142a im darmowe lekcje jazdy konnej w stadninie \u201ecioci D\u017co\u201d bez konsultacji z ni\u0105. Kiedy w 3192. odcinku serialu \u201eBarwy szcz\u0119\u015bcia\" zaczn\u0105 si\u0119 ich domaga\u0107, c\u00f3rka Malwiny (Joanna Gle\u0144) pojmie, \u017ce przesadzi\u0142a ze swoim pomys\u0142em i poprosi o wstawiennictwo \u201ewujka Andrzeja\". A on przychyli si\u0119 do jej pro\u015bby.\n\nJ\u00f3zefina go\u0142a i nieweso\u0142a w 3201. odcinku serialu \u201eBarwy szcz\u0119\u015bcia\"\n\n\u017badnego \u015blubu ani obiecanego wesela w Finlandii nie b\u0119dzie. W dniu zaplanowanego wylotu wyczarterowanym samolotem Andrzej ukradnie J\u00f3zefinie jej najbardziej warto\u015bciowe, zabytkowe przedmioty, kolekcj\u0119 bi\u017cuterii i samoch\u00f3d. Zapadnie si\u0119 pod ziemi\u0119. A weselni go\u015bcie przekonaj\u0105 si\u0119 dopiero na lotnisku, \u017ce nie mog\u0105 wej\u015b\u0107 do saloniku dla VIP-\u00f3w, bo \u017cadnego samolotu, kt\u00f3rym mieli polecie\u0107, po prostu nie ma... To b\u0119dzie ogromny szok dla wszystkich, a najwi\u0119kszy dla ofiary pod\u0142ego oszusta, kt\u00f3ry zabra\u0142 D\u017co wszystko, bo przecie\u017c zastawi\u0142a rezydencj\u0119 i stadnin\u0119, by podarowa\u0107 narzeczonemu rzekomo rodowy dworek. A ten, Zastoja-Modelski \u2013 cho\u0107 tak si\u0119 naprawd\u0119 nie nazywa \u2013 w 3201. odcinku serialu \u201eBarwy szcz\u0119\u015bcia\" zd\u0105\u017cy\u0142 ju\u017c sprzeda\u0107. Z konta Rawiczowej ukradnie te\u017c 300 tysi\u0119cy z\u0142otych, wi\u0119c potraktowana podle J\u00f3zefina zostanie dos\u0142ownie z niczym."
         }
@@ -442,7 +442,7 @@
             "description": "Nadle\u015bnictwo Lubacz\u00f3w podzieli\u0142o si\u0119 migawkami, na kt\u00f3rych wida\u0107 \"niecodzienny skarb\". Pochodzi on z prze\u0142omu XIX i XX wieku.",
             "image_url": "https://www.bing.pl/th?id=OVFT.XiUeUN2WH14IixqIxXvBRy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "o28 godz.",
+            "date": "o212 godz.",
             "source": "o2",
             "article_content": "Poka\u017c mniej Poka\u017c wi\u0119cej\n\nPobieranie, zwielokrotnianie, przechowywanie lub jakiekolwiek inne wykorzystywanie tre\u015bci dost\u0119pnych w niniejszym serwisie - bez wzgl\u0119du na ich charakter i spos\u00f3b wyra\u017cenia (w szczeg\u00f3lno\u015bci lecz nie wy\u0142\u0105cznie: s\u0142owne, s\u0142owno-muzyczne, muzyczne, audiowizualne, audialne, tekstowe, graficzne i zawarte w nich dane i informacje, bazy danych i zawarte w nich dane) oraz form\u0119 (np. literackie, publicystyczne, naukowe, kartograficzne, programy komputerowe, plastyczne, fotograficzne) wymaga uprzedniej i jednoznacznej zgody Wirtualna Polska Media Sp\u00f3\u0142ka Akcyjna z siedzib\u0105 w Warszawie, b\u0119d\u0105cej w\u0142a\u015bcicielem niniejszego serwisu, bez wzgl\u0119du na spos\u00f3b ich eksploracji i wykorzystan\u0105 metod\u0119 (manualn\u0105 lub zautomatyzowan\u0105 technik\u0119, w tym z u\u017cyciem program\u00f3w uczenia maszynowego lub sztucznej inteligencji). Powy\u017csze zastrze\u017cenie nie dotyczy wykorzystywania jedynie w celu u\u0142atwienia ich wyszukiwania przez wyszukiwarki internetowe oraz korzystania w ramach stosunk\u00f3w umownych lub dozwolonego u\u017cytku okre\u015blonego przez w\u0142a\u015bciwe przepisy prawa.\n\nSzczeg\u00f3\u0142owa tre\u015b\u0107 dotycz\u0105ca niniejszego zastrze\u017cenia znajduje si\u0119 tutaj."
         }
@@ -453,13 +453,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Trasy spacerowe w woj. \u015bl\u0105skim. Gdzie i\u015b\u0107 w weekend 10 - 11 maja? 10 najlepszych tras",
-            "link": "https://dziennikzachodni.pl/trasy-spacerowe-w-woj-slaskim-gdzie-isc-w-weekend-10-11-maja-10-najlepszych-tras/ar/c7p1-22116485",
-            "description": "W woj. \u015bl\u0105skim jest sporo ciekawych \u015bcie\u017cek spacerowych. Przygotowali\u015bmy dla Was 10 podpowiedzi. Mo\u017cecie nam\u00f3wi\u0107 rodzin\u0119 lub przyjaci\u00f3\u0142 i wsp\u00f3lnie poznawa\u0107 nasz region. Razem z Taseo proponujemy Wam ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.73GKiv_kwPXUhIas-a0ZXQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Praga renowacja mebli",
+            "link": "https://warszawa.naszemiasto.pl/tag/praga-renowacja-mebli",
+            "description": "Ocenia stopie\u0144 uszkodzenia, klei, wykonuje uzupe\u0142niania, czy\u015bci, maluje i tapiceruje. Mowa o Agnieszce Dole\u017cych, rzemie\u015blniczce, kt\u00f3ra zajmuje si\u0119 renowacj\u0105,... Czy stare meble z PRL mog\u0105 by\u0107 warte ma ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.RiSZ6cVK2kGKUBp4PkSDCg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "Dziennik Zachodni2 godz.",
-            "source": "Dziennik Zachodni",
+            "date": "Warszawa Nasze Miasto2 godz.",
+            "source": "Warszawa Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -469,14 +469,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Varsavianista: Warszawa jest jak organizm, kt\u00f3ry nieustannie si\u0119 zmienia. Raz zamiera, potem intensywnie rozwija",
-            "link": "https://warszawa.wyborcza.pl/warszawa/7,54420,31909847,varsavianista-warszawa-jest-jak-organizm-ktory-nieustannie.html",
-            "description": "Wielki Test Wiedzy o Warszawie to okazja, by popisa\u0107 si\u0119 wiedz\u0105 o stolicy. Autor tegorocznych pyta\u0144 do testu uchyla r\u0105bka ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT._SJazPuxg0-4ARKExynfyi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Studio eta\u017cerka",
+            "link": "https://warszawa.naszemiasto.pl/tag/studio-etazerka",
+            "description": "Ocenia stopie\u0144 uszkodzenia, klei, wykonuje uzupe\u0142niania, czy\u015bci, maluje i tapiceruje. Mowa o Agnieszce Dole\u017cych, rzemie\u015blniczce, kt\u00f3ra zajmuje si\u0119 renowacj\u0105,... Czy stare meble z PRL mog\u0105 by\u0107 warte ma ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.RiSZ6cVK2kGKUBp4PkSDCg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "Warszawa.Wyborcza.pl6 godz.",
-            "source": "Warszawa.Wyborcza.pl",
-            "article_content": ""
+            "date": "Warszawa Nasze Miasto2 godz.",
+            "source": "Warszawa Nasze Miasto",
+            "article_content": "Content not available"
         }
     },
     {
@@ -490,7 +490,7 @@
             "description": "Monety i medale Polski Kr\u00f3lewskiej warte \u0142\u0105cznie ponad 300 tys. z\u0142otych, rzadki talar postaciowy W\u0142adys\u0142awa IV Wazy, kt\u00f3rego ...",
             "image_url": "https://www.bing.pl/th?id=OVF.70lQS%2bkCrpExTRJadw9%2bcg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Krakowska on MSN5 godz.",
+            "date": "Gazeta Krakowska on MSN9 godz.",
             "source": "Gazeta Krakowska on MSN",
             "article_content": ""
         }
@@ -506,7 +506,7 @@
             "description": "Badaczom uda\u0142o si\u0119 potwierdzi\u0107 istnienie co najmniej 17 sztuk studukat\u00f3wek na \u015bwiecie. W Polsce s\u0105 dwie, obie w Krakowie - w Muzeum Narodowym i na Wawelu. Na W\u0119grzech s\u0105 trzy egzemplarze. Pozosta\u0142e w ...",
             "image_url": "https://www.bing.pl/th?id=ODF.XL5bGs_n6w06Ok0ARb1y3Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Krakowska on MSN29 min",
+            "date": "Gazeta Krakowska on MSN4 godz.",
             "source": "Gazeta Krakowska on MSN",
             "article_content": ""
         }
@@ -522,7 +522,7 @@
             "description": "Zbli\u017ca si\u0119 \u015bwi\u0119to Wszystkich \u015awi\u0119tych, niewiele dni zosta\u0142o do 1 listopada. Cz\u0119\u015b\u0107 mieszka\u0144c\u00f3w ju\u017c teraz wybiera si\u0119 na groby ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Krak\u00f3w Nasze Miasto33 min",
+            "date": "Krak\u00f3w Nasze Miasto4 godz.",
             "source": "Krak\u00f3w Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -538,9 +538,9 @@
             "description": "Ci\u0105g dalszy sporu o op\u0142aty za wod\u0119 i \u015bcieki w Krakowie, kt\u00f3re w ostatnich miesi\u0105cach znacz\u0105co wzros\u0142y. Wodoci\u0105gi odwo\u0142a\u0142y si\u0119 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.Qe_Ru3USMdCrrIzZ0Ok0bi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Krakowska5 godz.",
+            "date": "Gazeta Krakowska9 godz.",
             "source": "Gazeta Krakowska",
-            "article_content": "Pusty park w Zakopanem. Idealne miejsce na odpoczynek, ale budzi kontrowersje\n\nNowe alejki, plac zabaw, si\u0142ownia pod chmurk\u0105 i pomnik \u201eOgnia\u201d - Park im. Lecha Kaczy\u0144skiego w Zakopanem ma wszystko, co potrzebne do wypoczynku. A jednak..."
+            "article_content": "Wie\u017ce widokowe niedaleko Tarnowa, Bochni i Brzeska\n\nCoraz popularniejszym celem wypraw turystycznych w Ma\u0142opolsce sta\u0142y si\u0119 wie\u017ce widokowe. Na og\u00f3\u0142 dotarcie do nich wymagaj\u0105 d\u0142ugiej w\u0119dr\u00f3wki, ale s\u0105 i takie, pod..."
         }
     },
     {
@@ -549,14 +549,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Santander Bank Polska",
-            "link": "https://pomorska.pl/tag/santander-bank-polska",
-            "description": "sprzedany. Co dalej z kredytami i kontami klient\u00f3w z regionu? Hiszpa\u0144ska grupa potwierdzi\u0142a sprzeda\u017c Santander Bank Polska austriackiemu Erste Group. To trzeci co do wielko\u015bci bank komercyjny w Polsce ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Przerwy w dostawie energii",
+            "link": "https://gdansk.naszemiasto.pl/tag/przerwy-w-dostawie-energii",
+            "description": "Gdzie nie ma pr\u0105du na Pomorzu? Oto lista aktualnych awarii i planowanych przerw w dostawie pr\u0105du w wojew\u00f3dztwie pomorskim. Niekt\u00f3re z nich wynikaj\u0105 z... Nowoczesne fotoradary na Pomorzu zarejestrowa\u0142y ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.boOkKdH-T8isceS81-32Lg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Pomorska20 godz.",
-            "source": "Gazeta Pomorska",
-            "article_content": "Tyle got\u00f3wki powinno si\u0119 mie\u0107 w domu na czarn\u0105 godzin\u0119. Tak warto si\u0119 zabezpieczy\u0107\n\nTrzymanie pieni\u0119dzy na koncie w banku wydaje si\u0119 bezpieczne, jednak jak si\u0119 okazuje poza bankowym kontem warto mie\u0107 r\u00f3wnie\u017c zapasy got\u00f3wk\u0119, kt\u00f3ra przyda si\u0119 w..."
+            "date": "Gda\u0144sk Nasze Miasto23 godz.",
+            "source": "Gda\u0144sk Nasze Miasto",
+            "article_content": "Content not available"
         }
     },
     {
@@ -570,9 +570,9 @@
             "description": "Archeolodzy odkryli w Izraelu staro\u017cytn\u0105 fabryk\u0119 purpurowego barwnika, kt\u00f3ry by\u0142 ceniony w czasach biblijnych. - Jest to ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.sbhEa-fGmKPGM3vRyRG2bS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "o26 godz.",
+            "date": "o210 godz.",
             "source": "o2",
-            "article_content": "Archeolodzy dokonali niezwyk\u0142ego odkrycia w Tel Shiqmona, stanowisku archeologicznym po\u0142o\u017conym na po\u0142udnie od izraelskiego miasta Hajfa. Znaleziono tam pozosta\u0142o\u015bci staro\u017cytnej fabryki, kt\u00f3ra produkowa\u0142a purpurowy barwnik na skal\u0119 przemys\u0142ow\u0105. Odkrycie to rzuca nowe \u015bwiat\u0142o na \u017cycie w czasach biblijnych - informuje FOX News. Poinformowali o tym historycy z bran\u017cowego pisama.\n\nPurpurowy barwnik, uzyskiwany z muszli niekt\u00f3rych mi\u0119czak\u00f3w, by\u0142 niezwykle ceniony w staro\u017cytno\u015bci. W Biblii wspomniany jest kilkukrotnie, m.in. w Dziejach Apostolskich, gdzie opisano Lidi\u0119, handlarza purpurow\u0105 tkanin\u0105 - dodaje ameryka\u0144ski portal. Barwnik ten by\u0142 symbolem bogactwa i w\u0142adzy, co podkre\u015bla jego znaczenie w tamtych czasach.\n\nTel Shiqmona to jedyne miejsce na \u015bwiecie, gdzie odkryto warsztaty produkuj\u0105ce purpurowy barwnik na tak du\u017c\u0105 skal\u0119. Miejsce datuje si\u0119 na 1100 r. p.n.e., na epok\u0119 \u017celaza. Wed\u0142ug Biblii, istnia\u0142o ponad sto lat przed panowaniem kr\u00f3l\u00f3w Salomona i Dawida. Archeolodzy odkryli fragmenty kadzi z plamami purpury oraz narz\u0119dzia pokryte resztkami barwnika.\n\nDalsza cz\u0119\u015b\u0107 artyku\u0142u pod materia\u0142em wideo\n\nZobacz tak\u017ce: Miuosh o byciu jurorem w MBTM. Czy spotyka si\u0119 z krytyk\u0105?\n\n- Jest to jedyne miejsce na Bliskim Wschodzie lub w basenie Morza \u015ar\u00f3dziemnego \u2013 a w\u0142a\u015bciwie na ca\u0142ym \u015bwiecie \u2013 gdzie odkopano szereg warsztat\u00f3w produkuj\u0105cych purpurowy barwnik i gdzie znaleziono wyra\u017ane dowody na masow\u0105, ci\u0105g\u0142\u0105 produkcj\u0119 purpurowego barwnika i farbowanie w wyspecjalizowanym obiekcie przez p\u00f3\u0142 tysi\u0105ca lat, w epoce \u017celaza - opisano w artykule.\n\nProdukcja purpurowego barwnika by\u0142a skomplikowanym procesem - dodaje FOX news. Mi\u0119czaki wydziela\u0142y zielonkawy p\u0142yn, kt\u00f3ry po utlenieniu zmienia\u0142 si\u0119 w purpur\u0119. Aby uzyska\u0107 barwnik, p\u0142yn musia\u0142 zosta\u0107 przetworzony w roztw\u00f3r chemiczny, kt\u00f3ry wi\u0105za\u0142 si\u0119 z tkaninami. Proces ten by\u0142 nie tylko skomplikowany, ale tak\u017ce emitowa\u0142 nieprzyjemny zapach."
+            "article_content": "Produkcja purpurowego barwnika by\u0142a skomplikowanym procesem - dodaje FOX news. Mi\u0119czaki wydziela\u0142y zielonkawy p\u0142yn, kt\u00f3ry po utlenieniu zmienia\u0142 si\u0119 w purpur\u0119. Aby uzyska\u0107 barwnik, p\u0142yn musia\u0142 zosta\u0107 przetworzony w roztw\u00f3r chemiczny, kt\u00f3ry wi\u0105za\u0142 si\u0119 z tkaninami. Proces ten by\u0142 nie tylko skomplikowany, ale tak\u017ce emitowa\u0142 nieprzyjemny zapach.\n\n- Jest to jedyne miejsce na Bliskim Wschodzie lub w basenie Morza \u015ar\u00f3dziemnego \u2013 a w\u0142a\u015bciwie na ca\u0142ym \u015bwiecie \u2013 gdzie odkopano szereg warsztat\u00f3w produkuj\u0105cych purpurowy barwnik i gdzie znaleziono wyra\u017ane dowody na masow\u0105, ci\u0105g\u0142\u0105 produkcj\u0119 purpurowego barwnika i farbowanie w wyspecjalizowanym obiekcie przez p\u00f3\u0142 tysi\u0105ca lat, w epoce \u017celaza - opisano w artykule.\n\nTel Shiqmona to jedyne miejsce na \u015bwiecie, gdzie odkryto warsztaty produkuj\u0105ce purpurowy barwnik na tak du\u017c\u0105 skal\u0119. Miejsce datuje si\u0119 na 1100 r. p.n.e., na epok\u0119 \u017celaza. Wed\u0142ug Biblii, istnia\u0142o ponad sto lat przed panowaniem kr\u00f3l\u00f3w Salomona i Dawida. Archeolodzy odkryli fragmenty kadzi z plamami purpury oraz narz\u0119dzia pokryte resztkami barwnika.\n\nPurpurowy barwnik, uzyskiwany z muszli niekt\u00f3rych mi\u0119czak\u00f3w, by\u0142 niezwykle ceniony w staro\u017cytno\u015bci. W Biblii wspomniany jest kilkukrotnie, m.in. w Dziejach Apostolskich, gdzie opisano Lidi\u0119, handlarza purpurow\u0105 tkanin\u0105 - dodaje ameryka\u0144ski portal. Barwnik ten by\u0142 symbolem bogactwa i w\u0142adzy , co podkre\u015bla jego znaczenie w tamtych czasach.\n\nPoka\u017c mniej Poka\u017c wi\u0119cej\n\nPobieranie, zwielokrotnianie, przechowywanie lub jakiekolwiek inne wykorzystywanie tre\u015bci dost\u0119pnych w niniejszym serwisie - bez wzgl\u0119du na ich charakter i spos\u00f3b wyra\u017cenia (w szczeg\u00f3lno\u015bci lecz nie wy\u0142\u0105cznie: s\u0142owne, s\u0142owno-muzyczne, muzyczne, audiowizualne, audialne, tekstowe, graficzne i zawarte w nich dane i informacje, bazy danych i zawarte w nich dane) oraz form\u0119 (np. literackie, publicystyczne, naukowe, kartograficzne, programy komputerowe, plastyczne, fotograficzne) wymaga uprzedniej i jednoznacznej zgody Wirtualna Polska Media Sp\u00f3\u0142ka Akcyjna z siedzib\u0105 w Warszawie, b\u0119d\u0105cej w\u0142a\u015bcicielem niniejszego serwisu, bez wzgl\u0119du na spos\u00f3b ich eksploracji i wykorzystan\u0105 metod\u0119 (manualn\u0105 lub zautomatyzowan\u0105 technik\u0119, w tym z u\u017cyciem program\u00f3w uczenia maszynowego lub sztucznej inteligencji). Powy\u017csze zastrze\u017cenie nie dotyczy wykorzystywania jedynie w celu u\u0142atwienia ich wyszukiwania przez wyszukiwarki internetowe oraz korzystania w ramach stosunk\u00f3w umownych lub dozwolonego u\u017cytku okre\u015blonego przez w\u0142a\u015bciwe przepisy prawa.\n\nSzczeg\u00f3\u0142owa tre\u015b\u0107 dotycz\u0105ca niniejszego zastrze\u017cenia znajduje si\u0119 tutaj."
         }
     },
     {
@@ -586,7 +586,7 @@
             "description": "Nadle\u015bnictwo Lubacz\u00f3w podzieli\u0142o si\u0119 migawkami, na kt\u00f3rych wida\u0107 \"niecodzienny skarb\". Pochodzi on z prze\u0142omu XIX i XX wieku.",
             "image_url": "https://www.bing.pl/th?id=OVFT.XiUeUN2WH14IixqIxXvBRy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "o28 godz.",
+            "date": "o212 godz.",
             "source": "o2",
             "article_content": "Poka\u017c mniej Poka\u017c wi\u0119cej\n\nPobieranie, zwielokrotnianie, przechowywanie lub jakiekolwiek inne wykorzystywanie tre\u015bci dost\u0119pnych w niniejszym serwisie - bez wzgl\u0119du na ich charakter i spos\u00f3b wyra\u017cenia (w szczeg\u00f3lno\u015bci lecz nie wy\u0142\u0105cznie: s\u0142owne, s\u0142owno-muzyczne, muzyczne, audiowizualne, audialne, tekstowe, graficzne i zawarte w nich dane i informacje, bazy danych i zawarte w nich dane) oraz form\u0119 (np. literackie, publicystyczne, naukowe, kartograficzne, programy komputerowe, plastyczne, fotograficzne) wymaga uprzedniej i jednoznacznej zgody Wirtualna Polska Media Sp\u00f3\u0142ka Akcyjna z siedzib\u0105 w Warszawie, b\u0119d\u0105cej w\u0142a\u015bcicielem niniejszego serwisu, bez wzgl\u0119du na spos\u00f3b ich eksploracji i wykorzystan\u0105 metod\u0119 (manualn\u0105 lub zautomatyzowan\u0105 technik\u0119, w tym z u\u017cyciem program\u00f3w uczenia maszynowego lub sztucznej inteligencji). Powy\u017csze zastrze\u017cenie nie dotyczy wykorzystywania jedynie w celu u\u0142atwienia ich wyszukiwania przez wyszukiwarki internetowe oraz korzystania w ramach stosunk\u00f3w umownych lub dozwolonego u\u017cytku okre\u015blonego przez w\u0142a\u015bciwe przepisy prawa.\n\nSzczeg\u00f3\u0142owa tre\u015b\u0107 dotycz\u0105ca niniejszego zastrze\u017cenia znajduje si\u0119 tutaj."
         }
