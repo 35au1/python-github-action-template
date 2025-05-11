@@ -10,7 +10,7 @@
             "description": "Niedziela, 11 maja 2025 roku by\u0142a wyj\u0105tkowo pogodna. Nic dziwnego, \u017ce klienci na Pchlim Targu dopisali. Zn\u00f3w by\u0142o t\u0142oczno na popularnym bazarze we W\u0142oc\u0142awku przy alei Kazimierza Wielkiego. Na Pchlim ...",
             "image_url": "https://www.bing.pl/th?id=ODF.Bm8piDnsAoinfeChI0AgCw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN2 godz.",
+            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN5 godz.",
             "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -26,7 +26,7 @@
             "description": "Jarmark Staroci w Legnicy tradycyjnie ju\u017c odbywa si\u0119 w drug\u0105 niedziel\u0119 miesi\u0105ca. 9 lutego pogoda dopisa\u0142a, podobnie zreszt\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.-hbElLTfT5ufTMBp1lCNPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Gazeta Wroc\u0142awska1 godz.",
+            "date": "Gazeta Wroc\u0142awska5 godz.",
             "source": "Gazeta Wroc\u0142awska",
             "article_content": "Content not available"
         }
@@ -40,11 +40,27 @@
             "title": "Gie\u0142da przy Andersa. Jak w ka\u017cd\u0105 niedziel\u0119 mo\u017cna by\u0142o kupi\u0107 co\u015b dobrego do jedzenia albo samoch\u00f3d",
             "link": "https://www.msn.com/pl-pl/wiadomosci/other/gie%C5%82da-przy-andersa-jak-w-ka%C5%BCd%C4%85-niedziel%C4%99-mo%C5%BCna-by%C5%82o-kupi%C4%87-co%C5%9B-dobrego-do-jedzenia-albo-samoch%C3%B3d/ar-AA1EykeM?ocid=BingNewsVerp",
             "description": "Jak co tydzie\u0144 na straganach tradycyjnie mo\u017cna by\u0142o kupi\u0107 pe\u0142n\u0105 palet\u0119 artyku\u0142\u00f3w spo\u017cywczych, po kt\u00f3re przyje\u017cd\u017ca si\u0119 na ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.MXLpkY3QdQRUG4o_L8Gali&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "image_url": "https://www.bing.pl/th?id=OVF.xbYgk6FZwULFRJU0xA4Dgg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Kurier Poranny on MSN2 godz.",
+            "date": "Kurier Poranny on MSN6 godz.",
             "source": "Kurier Poranny on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "To najwi\u0119kszy dzi\u015b jarmark staroci na Dolnym \u015al\u0105sku. T\u0142umy w centrum miasta. Zobacz jakie mo\u017cna tam upolowa\u0107 pere\u0142ki",
+            "link": "https://gazetawroclawska.pl/jarmark-staroci-w-legnicy-zobaczcie-na-zdjeciach-jakie-skarby-mozna-tu-dzis-kupic/ar/c1p2-27571501",
+            "description": "\u0141adna pogoda przyci\u0105gn\u0119\u0142a t\u0142umy mi\u0142o\u015bnik\u00f3w starych bibelot\u00f3w, lamp, aparat\u00f3w, mebli, ozd\u00f3b, obraz\u00f3w, ksi\u0105\u017cek czy porcelany na ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.nyWSMfADfTpVeDmjfOVfcQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Gazeta Wroc\u0142awska6 godz.",
+            "source": "Gazeta Wroc\u0142awska",
+            "article_content": "Content not available"
         }
     },
     {
@@ -58,24 +74,8 @@
             "description": "Targi Staroci powr\u00f3ci\u0142y do \u017bar niemal rok temu po kilkuletniej przerwie. Dzi\u015b sprzedawcy narzekaj\u0105 na brak zainteresowania potencjalnych klient\u00f3w.",
             "image_url": "https://www.bing.pl/th?id=ODF.6oXJf1KayPglPY9d412pqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "Gazeta Lubuska on MSN49 min",
+            "date": "Gazeta Lubuska on MSN4 godz.",
             "source": "Gazeta Lubuska on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Kryszta\u0142y PRL - na takich starych wazonach i naczyniach mo\u017cna zarobi\u0107 - ceny, zdj\u0119cia. W 2025 roku niekt\u00f3re warte s\u0105 krocie [11.05.2025 r.]",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/kryszta%C5%82y-prl-na-takich-starych-wazonach-i-naczyniach-mo%C5%BCna-zarobi%C4%87-ceny-zdj%C4%99cia-w-2025-roku-niekt%C3%B3re-warte-s%C4%85-krocie-11052025/ar-AA1Evbsg?ocid=BingNewsVerp",
-            "description": "Kryszta\u0142y PRL zyskuj\u0105 na popularno\u015bci w 2025 roku \u2013 kolekcjonerzy coraz ch\u0119tniej inwestuj\u0105 w te retro skarby, a ceny rosn\u0105 w zawrotnym tempie. Wazy, figurki i naczynia, kt\u00f3re kiedy\u015b by\u0142y powszechnie ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "starocie",
-            "date": "Gazeta Pomorska on MSN17 min",
-            "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
     },
@@ -90,7 +90,7 @@
             "description": "Moneta ma nomina\u0142 100 dukat\u00f3w i w tamtych czasach by\u0142a najcenniejsz\u0105 monet\u0105 wybit\u0105 w Koronie w czasach staropolskich. Na jej wybicie zu\u017cyto 350 gram\u00f3w z\u0142ota. Obecnie na \u015bwiecie znanych jest 17 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.5s2nDicEFNR6T9e5rt0xCA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "Dziennik Ba\u0142tycki on MSN1 godz.",
+            "date": "Dziennik Ba\u0142tycki on MSN5 godz.",
             "source": "Dziennik Ba\u0142tycki on MSN",
             "article_content": ""
         }
@@ -101,13 +101,29 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Polskie 100 dukat\u00f3w uwa\u017cane za jedn\u0105 z najdro\u017cszych monet \u015bwiata sprzedane. Cena zwala z n\u00f3g. Dwa egzemplarze tej monety s\u0105 w Krakowie",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/polskie-100-dukat%C3%B3w-uwa%C5%BCane-za-jedn%C4%85-z-najdro%C5%BCszych-monet-%C5%9Bwiata-sprzedane-cena-zwala-z-n%C3%B3g-dwa-egzemplarze-tej-monety-s%C4%85-w-krakowie/ar-AA1EwH6n?ocid=BingNewsVerp",
-            "description": "Badaczom uda\u0142o si\u0119 potwierdzi\u0107 istnienie co najmniej 17 sztuk studukat\u00f3wek na \u015bwiecie. W Polsce s\u0105 dwie, obie w Krakowie - w Muzeum Narodowym i na Wawelu. Na W\u0119grzech s\u0105 trzy egzemplarze. Pozosta\u0142e w ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.XL5bGs_n6w06Ok0ARb1y3Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Maj\u00f3wkowy Bazar na tarnowskiej star\u00f3wce. Sto\u0142y targowiska wype\u0142ni\u0142y si\u0119 zabawkami, antykami, ksi\u0105\u017ckami i innymi ciekawymi rzeczami",
+            "link": "https://www.msn.com/pl-pl/shopping/og%C3%B3lne/maj%C3%B3wkowy-bazar-na-tarnowskiej-star%C3%B3wce-sto%C5%82y-targowiska-wype%C5%82ni%C5%82y-si%C4%99-zabawkami-antykami-ksi%C4%85%C5%BCkami-i-innymi-ciekawymi-rzeczami/ar-AA1EyHWg?ocid=BingNewsVerp",
+            "description": "Za nami kolejna ods\u0142ona, popularnego w Tarnowie \"Bazaru na tarnowskiej star\u00f3wce\". W niedziel\u0119 (11 maja) na kultowym ju\u017c ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.qhkXmUEo3jQZiwzc1vaZVi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Gazeta Krakowska on MSN20 godz.",
-            "source": "Gazeta Krakowska on MSN",
+            "date": "Tarn\u00f3w Nasze Miasto on MSN2 godz.",
+            "source": "Tarn\u00f3w Nasze Miasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Ten banknot 50 z\u0142otych jest wart fortun\u0119! A to nie jedyny okaz, kt\u00f3rego szukaj\u0105 kolekcjonerzy",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/ten-banknot-50-z%C5%82otych-jest-wart-fortun%C4%99-a-to-nie-jedyny-okaz-kt%C3%B3rego-szukaj%C4%85-kolekcjonerzy/ar-AA1Dttas?ocid=BingNewsVerp",
+            "description": "Banknoty i monety mog\u0105 by\u0107 cenniejsze, ni\u017c wskazuje ich nomina\u0142 - czasem wystarczy jeden szczeg\u00f3\u0142, by ich warto\u015b\u0107 si\u0119gn\u0119\u0142a ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.37HFo61hHdhbCb5mJSTR1i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "Gazeta Pomorska on MSN6 min",
+            "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
     },
@@ -122,7 +138,7 @@
             "description": "Unikatowy charakter mia\u0142y r\u00f3wnie\u017c przedmioty z tego okresu. Z pewno\u015bci\u0105 wiele os\u00f3b posiada w swoich domach rzeczy z czas\u00f3w PRL. Mog\u0105 znajdowa\u0107 si\u0119 w piwnicy, na strychu, w schowku, b\u0105d\u017a w kartonie, o ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski on MSN7 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN11 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
@@ -138,25 +154,9 @@
             "description": "Lod\u00f3wka, siod\u0142o, alkomat, kie\u0142basa i miecz. To tylko kilka ciekawych przedmiot\u00f3w, kt\u00f3re pasa\u017cerowie Ubera zostawili w autach ...",
             "image_url": "https://www.bing.pl/th?id=OVF.CXtOqJ0VYyVWDXgHOqamhA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Dziennik Zachodni on MSN6 godz.",
+            "date": "Dziennik Zachodni on MSN10 godz.",
             "source": "Dziennik Zachodni on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Moneta Zygmunta III Wazy sprzedana za rekordow\u0105 kwot\u0119",
-            "link": "https://dziendobry.tvn.pl/newsy/moneta-zygmunta-iii-wazy-sprzedana-za-rekordowa-kwote-st8454861",
-            "description": "Wybita w 1621 roku w Bydgoszczy, legendarna \"moneta chocimska\" Zygmunta III Wazy osi\u0105gn\u0119\u0142a zawrotn\u0105 cen\u0119 na aukcji w Oslo. To ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.JJJffqgjBFHhTtXzLw_mLC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "Dzie\u0144 Dobry TVN2 godz.",
-            "source": "Dzie\u0144 Dobry TVN",
-            "article_content": "Wybita w 1621 roku w Bydgoszczy, legendarna \"moneta chocimska\" Zygmunta III Wazy osi\u0105gn\u0119\u0142a zawrotn\u0105 cen\u0119 na aukcji w Oslo. Ten bezcenny skarb polskiej numizmatyki przyci\u0105gn\u0105\u0142 kolekcjoner\u00f3w z ca\u0142ego \u015bwiata i ustanowi\u0142 nowy rekord cenowy w Skandynawii. Za ile j\u0105 sprzedano? Co wiadomo o jej pochodzeniu?\n\nKluczowe fakty: Z\u0142ota \"moneta chocimska\" zosta\u0142a sprzedana na aukcji w Oslo za ponad 8,3 mln z\u0142, ustanawiaj\u0105c rekord Skandynawii.\n\nMoneta pochodzi z 1621 roku i upami\u0119tnia zwyci\u0119stwo Rzeczypospolitej nad Turkami pod Chocimiem. Zawiera niemal 350 gram\u00f3w z\u0142ota i mia\u0142a nomina\u0142 100 dukat\u00f3w.\n\nNa \u015bwiecie istnieje tylko 17 egzemplarzy, z czego wi\u0119kszo\u015b\u0107 pozostaje w r\u0119kach prywatnych.\n\nDalsza cz\u0119\u015b\u0107 artyku\u0142u pod materia\u0142em wideo\n\nMonety godne mistrza \u0179r\u00f3d\u0142o: Dzie\u0144 Dobry TVN\n\nOslo. Rekordowa sprzeda\u017c monety Zygmunta III Wazy\n\nZ\u0142ota \"moneta chocimska\" Zygmunta III Wazy, wybita w XVII wieku w Bydgoszczy, zosta\u0142a sprzedana w sobot\u0119 na aukcji w Oslo za rekordow\u0105 kwot\u0119 19,2 mln koron, czyli oko\u0142o 7 mln z\u0142. To najwy\u017csza cena, jak\u0105 kiedykolwiek uzyskano za tego typu przedmiot w historii Skandynawii. Moneta trafi\u0142a do norweskiego domu aukcyjnego Oslo Myntgalleri, gdzie wystawiono j\u0105 z cen\u0105 wywo\u0142awcz\u0105 wynosz\u0105c\u0105 15 mln koron (ponad 5,4 mln z\u0142). Ostateczna cena wraz z mar\u017c\u0105 organizatora przekroczy\u0142a 23 mln koron, co odpowiada ponad 8,3 mln z\u0142.\n\n- Walczy\u0142o o ni\u0105 wielu. Mieli\u015bmy oferent\u00f3w na miejscu w Hotelu Grand. Cz\u0119\u015b\u0107 z nich reprezentowana by\u0142a przez po\u015brednik\u00f3w. Swoje oferty sk\u0142adali r\u00f3wnie\u017c uczestnicy telefoniczni - powiedzia\u0142 PAP organizator aukcji Eirik Myge. To\u017csamo\u015b\u0107 kupuj\u0105cego i sprzedaj\u0105cego nie zosta\u0142a ujawniona, cho\u0107 wed\u0142ug Myge\u2019a obiekt prawdopodobnie opu\u015bci Norwegi\u0119.\n\n\"Moneta chocimska\" - unikatowy zabytek polskiej numizmatyki\n\nMoneta zosta\u0142a wybita w 1621 roku dla upami\u0119tnienia zwyci\u0119stwa wojsk Rzeczypospolitej nad Imperium Osma\u0144skim w bitwie pod Chocimiem. Armia polsko-litewska pod dow\u00f3dztwem Jana Karola Chodkiewicza, wspierana przez Kozak\u00f3w zaporoskich, pokona\u0142a w\u00f3wczas znacznie liczniejsze si\u0142y su\u0142tana Osmana II.\n\nDo jej produkcji zu\u017cyto blisko 350 gram\u00f3w z\u0142ota. Mia\u0142a nomina\u0142 100 dukat\u00f3w i uchodzi za najcenniejsz\u0105 monet\u0119 wybit\u0105 w Koronie w epoce staropolskiej. Obecnie na \u015bwiecie znanych jest zaledwie 17 egzemplarzy tej monety, z czego 10 znajduje si\u0119 w r\u0119kach prywatnych. W ostatnich latach na rynku pojawi\u0142y si\u0119 tylko trzy z nich.\n\nMoneta chocimska sprzedana w Oslo Moneta chocimska sprzedana w Oslo \u0179r\u00f3d\u0142o: oslomyntgalleri.no\n\nZobacz tak\u017ce:\n\nAutor: Regina \u0141ukasiewicz \u0179r\u00f3d\u0142o: PAP \u0179r\u00f3d\u0142o zdj\u0119cia g\u0142\u00f3wnego: GettyImages, oslomyntgalleri.no\n\npodziel si\u0119: podziel si\u0119 twittnij skopiuj link\n\nPozosta\u0142e wiadomo\u015bci\n\nStyl \u017cycia Polska parafia rewolucjonizuje pierwsz\u0105 komuni\u0119 \u015bwi\u0119t\u0105"
         }
     },
     {
@@ -170,7 +170,7 @@
             "description": "Unikatowy charakter mia\u0142y r\u00f3wnie\u017c przedmioty z tego okresu. Z pewno\u015bci\u0105 wiele os\u00f3b posiada w swoich domach rzeczy z czas\u00f3w PRL. Mog\u0105 znajdowa\u0107 si\u0119 w piwnicy, na strychu, w schowku, b\u0105d\u017a w kartonie, o ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "G\u0142os Koszali\u0144ski on MSN7 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN11 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
@@ -182,11 +182,11 @@
         },
         "body": {
             "title": "Kryszta\u0142y PRL - na takich starych wazonach i naczyniach mo\u017cna zarobi\u0107 - ceny, zdj\u0119cia. W 2025 roku niekt\u00f3re warte s\u0105 krocie [11.05.2025 r.]",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/kryszta%C5%82y-prl-na-takich-starych-wazonach-i-naczyniach-mo%C5%BCna-zarobi%C4%87-ceny-zdj%C4%99cia-w-2025-roku-niekt%C3%B3re-warte-s%C4%85-krocie-11052025/ar-AA1Evbsg?ocid=BingNewsVerp",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/kryszta%C5%82y-prl-na-takich-starych-wazonach-i-naczyniach-mo%C5%BCna-zarobi%C4%87-ceny-zdj%C4%99cia-w-2025-roku-niekt%C3%B3re-warte-s%C4%85-krocie-11052025-r/ar-AA1Evbsg?ocid=BingNewsVerp",
             "description": "Kryszta\u0142y PRL zyskuj\u0105 na popularno\u015bci w 2025 roku \u2013 kolekcjonerzy coraz ch\u0119tniej inwestuj\u0105 w te retro skarby, a ceny rosn\u0105 w zawrotnym tempie. Wazy, figurki i naczynia, kt\u00f3re kiedy\u015b by\u0142y powszechnie ...",
             "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN17 min",
+            "date": "Gazeta Pomorska on MSN4 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -202,9 +202,25 @@
             "description": "Targi Staroci powr\u00f3ci\u0142y do \u017bar niemal rok temu po kilkuletniej przerwie. Dzi\u015b sprzedawcy narzekaj\u0105 na brak zainteresowania potencjalnych klient\u00f3w.",
             "image_url": "https://www.bing.pl/th?id=ODF.6oXJf1KayPglPY9d412pqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Gazeta Lubuska on MSN49 min",
+            "date": "Gazeta Lubuska on MSN4 godz.",
             "source": "Gazeta Lubuska on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "To najwi\u0119kszy dzi\u015b jarmark staroci na Dolnym \u015al\u0105sku. T\u0142umy w centrum miasta. Zobacz jakie mo\u017cna tam upolowa\u0107 pere\u0142ki",
+            "link": "https://gazetawroclawska.pl/jarmark-staroci-w-legnicy-zobaczcie-na-zdjeciach-jakie-skarby-mozna-tu-dzis-kupic/ar/c1p2-27571501",
+            "description": "\u0141adna pogoda przyci\u0105gn\u0119\u0142a t\u0142umy mi\u0142o\u015bnik\u00f3w starych bibelot\u00f3w, lamp, aparat\u00f3w, mebli, ozd\u00f3b, obraz\u00f3w, ksi\u0105\u017cek czy porcelany na ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.nyWSMfADfTpVeDmjfOVfcQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "Gazeta Wroc\u0142awska6 godz.",
+            "source": "Gazeta Wroc\u0142awska",
+            "article_content": "Content not available"
         }
     },
     {
@@ -218,40 +234,8 @@
             "description": "Niedziela, 11 maja 2025 roku by\u0142a wyj\u0105tkowo pogodna. Nic dziwnego, \u017ce klienci na Pchlim Targu dopisali. Zn\u00f3w by\u0142o t\u0142oczno na popularnym bazarze we W\u0142oc\u0142awku przy alei Kazimierza Wielkiego. Na Pchlim ...",
             "image_url": "https://www.bing.pl/th?id=ODF.Bm8piDnsAoinfeChI0AgCw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN2 godz.",
+            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN5 godz.",
             "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "To najwi\u0119kszy dzi\u015b jarmark staroci na Dolnym \u015al\u0105sku. T\u0142umy w centrum miasta. Zobacz jakie mo\u017cna tam upolowa\u0107 pere\u0142ki",
-            "link": "https://gazetawroclawska.pl/jarmark-staroci-w-legnicy-zobaczcie-na-zdjeciach-jakie-skarby-mozna-tu-dzis-kupic/ar/c1p2-27571501",
-            "description": "\u0141adna pogoda przyci\u0105gn\u0119\u0142a t\u0142umy mi\u0142o\u015bnik\u00f3w starych bibelot\u00f3w, lamp, aparat\u00f3w, mebli, ozd\u00f3b, obraz\u00f3w, ksi\u0105\u017cek czy porcelany na rynek w Legnicy. Jarmark Staroci odbywa si\u0119 w sercu tego dolno\u015bl\u0105skiego ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.p9YO103MXreScWBGsL62IA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "targ+staroci",
-            "date": "Gazeta Wroc\u0142awska2 godz.",
-            "source": "Gazeta Wroc\u0142awska",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Impreza w stylu retro w Narwi. Mo\u017cna by\u0142o poczu\u0107 si\u0119 jak w PRL",
-            "link": "https://www.msn.com/pl-pl/podroze/og%C3%B3lne/impreza-w-stylu-retro-w-narwi-mo%C5%BCna-by%C5%82o-poczu%C4%87-si%C4%99-jak-w-prl/ar-AA1EyLQf?ocid=BingNewsVerp",
-            "description": "Zobacz co dzia\u0142o si\u0119 podczas Retro Narew 2025 W sobot\u0119 w Narwi by\u0142y: koncerty targ staroci wystawa starych fotografii stoiska ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.y1-10G3FsavZm1Z-6bvQqy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "targ+staroci",
-            "date": "Hostowane na MSN3 min",
-            "source": "MSN",
             "article_content": ""
         }
     },
@@ -266,7 +250,7 @@
             "description": "\u0141adna pogoda przyci\u0105gn\u0119\u0142a t\u0142umy mi\u0142o\u015bnik\u00f3w starych bibelot\u00f3w, lamp, aparat\u00f3w, mebli, ozd\u00f3b, obraz\u00f3w, ksi\u0105\u017cek czy porcelany na ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.jSK0OGyYEoM8WWW7lpaT3i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Legnica Nasze Miasto on MSN2 godz.",
+            "date": "Legnica Nasze Miasto on MSN6 godz.",
             "source": "Legnica Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -277,29 +261,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Przegl\u0105d prasy (11.05.2025). Zobacz pras\u00f3wk\u0119 z najwa\u017cniejszymi wydarzeniami z wczoraj. B\u0105d\u017a na bie\u017c\u0105co",
-            "link": "https://gazetakrakowska.pl/przeglad-prasy-11-05-2025-zobacz-prasowke-z-najwazniejszymi-wydarzeniami-z-wczoraj-badz-na-biezaco/ar/c1p1-19960891",
-            "description": "W czwartek, 15 maja, krakowski oddzia\u0142 Agencji Mienia Wojskowego rozstrzygnie pisemny przetarg na sprzeda\u017c wycofanego z ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.5zIq_5eiIfg-Xc5UuHSlhi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "Gazeta Krakowska8 godz.",
-            "source": "Gazeta Krakowska",
-            "article_content": "Pras\u00f3wka 11.05: pozosta\u0142e wydarzenia\n\nPoni\u017cej prezentujemy pozosta\u0142e artyku\u0142y, kt\u00f3re przyci\u0105ga\u0142y wczoraj uwag\u0119 czytelnik\u00f3w. Co by\u0142o tak istotne, \u017ce nie mo\u017cna by\u0142o od tego oderwa\u0107 wzroku?\n\nAukcja tej niezwyk\u0142ej monety z wizerunkiem Zygmunta III Wazy odby\u0142a si\u0119 w sobot\u0119 10 maja w norweskim domu aukcyjnym, kt\u00f3ry specjalizuje si\u0119 w najrzadszych monetach \u015bwiata. Studukat\u00f3wka zosta\u0142a sprzedana, w przeliczeniu na z\u0142ot\u00f3wki za oko\u0142o 9 mln z\u0142 bior\u0105c pod uwag\u0119 mar\u017c\u0119 domu aukcyjnego i koszty sprowadzenia jej do kraju zwyci\u0119zcy licytacji. Moneta najprawdopodobniej zosta\u0142a zakupiona przez polskiego kolekcjonera."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Oko w oko z w\u0119\u017cem, paj\u0105kiem, jaszczurk\u0105 i skorpionem. Exoticarium Targi Terrarystyczne w Wa\u0142brzychu. Przed nami wystawa paj\u0105k\u00f3w - zdj\u0119cia",
-            "link": "https://www.msn.com/pl-pl/rozrywka/news/oko-w-oko-z-w%C4%99%C5%BCem-paj%C4%85kiem-jaszczurk%C4%85-i-skorpionem-exoticarium-targi-terrarystyczne-w-wa%C5%82brzychu-przed-nami-wystawa-paj%C4%85k%C3%B3w-zdj%C4%99cia/ar-AA1EwZOI?ocid=BingNewsVerp",
-            "description": "Wystawcy i eksperci prezentuj\u0105 gotowe terraria, sugeruj\u0105 od jakich zwierz\u0105t mo\u017cna rozpocz\u0105\u0107 swoj\u0105 przygod\u0119 z terrarystyk\u0105. Sugeruj\u0105 najmniej wymagaj\u0105ce w\u0119\u017ce, gekony i \u017c\u00f3\u0142wie. S\u0105 te\u017c zwierz\u0119ta rzadkie, ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.b7cDqWcxCJUoLca1qpYJLg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "relikty",
-            "date": "Wa\u0142brzych Nasze Miasto on MSN20 godz.",
-            "source": "Wa\u0142brzych Nasze Miasto on MSN",
+            "title": "Mniej ludzi, wi\u0119cej skarb\u00f3w? Dzisiejszy pchli targ na Nadodrzu by\u0142 spokojniejszy, ale r\u00f3wnie pe\u0142en stylu i dobrej energii",
+            "link": "https://www.msn.com/pl-pl/rozrywka/news/mniej-ludzi-wi%C4%99cej-skarb%C3%B3w-dzisiejszy-pchli-targ-na-nadodrzu-by%C5%82-spokojniejszy-ale-r%C3%B3wnie-pe%C5%82en-stylu-i-dobrej-energii/ar-AA1ExHfO?ocid=BingNewsVerp",
+            "description": "Na Nadodrzu zn\u00f3w zapanowa\u0142 wyj\u0105tkowy klimat \u2013 cykliczny pchli targ przyci\u0105gn\u0105\u0142 dzi\u015b t\u0142umy \u0142owc\u00f3w okazji, mimo \u017ce pogoda by\u0142a ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.Ynn02kfhoGvPeiOLi_-3rS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "Wroc\u0142aw Nasze Miasto on MSN12 godz.",
+            "source": "Wroc\u0142aw Nasze Miasto on MSN",
             "article_content": ""
         }
     },
@@ -309,12 +277,60 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "\u015acie\u017cki nordic walking do 6 km od Ko\u0142obrzegu. Pomys\u0142y na sportowy dzie\u0144 w weekend 10 - 11 maja",
-            "link": "https://kolobrzeg.naszemiasto.pl/sciezki-nordic-walking-do-6-km-od-kolobrzegu-pomysly-na-sportowy-dzien-w-weekend-10-11-maja/ar/c7p1-22319027",
-            "description": "Szukasz ciekawych \u015bcie\u017cek nordic walking niedaleko Ko\u0142obrzegu? Wsp\u00f3lnie z Traseo przygotowali\u015bmy dla Ciebie gar\u015b\u0107 propozycji ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.j_p328uy9qBGFiYIOix3ky&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Trasy na rower do 14 km od Warszawy. Podpowiedzi jednodniowych wypraw. Gdzie w weekend 10 - 11 maja?",
+            "link": "https://warszawa.naszemiasto.pl/trasy-na-rower-do-14-km-od-warszawy-podpowiedzi-jednodniowych-wypraw-gdzie-w-weekend-10-11-maja/ar/c7p1-21831391",
+            "description": "Zanim wyruszysz na wypraw\u0119, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 17 maja w Warszawie ma by\u0107 20\u00b0C. Nie powinno pada\u0107.",
+            "image_url": "https://www.bing.pl/th?id=OVFT.nySB4wb8xxLxGhTwnyawAi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Ko\u0142obrzeg Nasze Miasto22 godz.",
+            "date": "Warszawa Nasze Miasto3 godz.",
+            "source": "Warszawa Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Spacer do 65 km od Gryfic. Urokliwe \u015bcie\u017cki na weekend 10 - 11 maja",
+            "link": "https://gryfice.naszemiasto.pl/spacer-do-65-km-od-gryfic-urokliwe-sciezki-na-weekend-10-11-maja/ar/c7p1-22116005",
+            "description": "We wsp\u00f3\u0142pracy z Traseo przygotowali\u015bmy dla Was 3 trasy spacerowe oddalonych maksymalnie o 65 km od Gryfic, kt\u00f3re wypr\u00f3bowali ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.4P7zagoyP21JKOVJ1AEbxS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "Gryfice Nasze Miasto2 godz.",
+            "source": "Gryfice Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Rowerem do 34 km od Pleszewa. Podpowiadamy pomys\u0142y na wypraw\u0119. Gdzie w weekend 10 - 11 maja?",
+            "link": "https://pleszew.naszemiasto.pl/rowerem-do-34-km-od-pleszewa-podpowiadamy-pomysly-na-wyprawe-gdzie-w-weekend-10-11-maja/ar/c7p1-21831917",
+            "description": "Stopie\u0144 trudno\u015bci: 1.0 Czas trwania wyprawy: 10 godz. i 23 min.",
+            "image_url": "https://www.bing.pl/th?id=ODF.I2rfHusTno6Ysu_YcxuMRg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "relikty",
+            "date": "Pleszew Nasze Miasto2 godz.",
+            "source": "Pleszew Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Trasy spacerowe do 6 km od Ko\u0142obrzegu. Podpowiedzi ciekawych tras na weekend 10 - 11 maja",
+            "link": "https://kolobrzeg.naszemiasto.pl/trasy-spacerowe-do-6-km-od-kolobrzegu-podpowiedzi-ciekawych-tras-na-weekend-10-11-maja/ar/c7p1-22115647",
+            "description": "We wsp\u00f3\u0142pracy z Traseo wybrali\u015bmy dla Was 3 trasy na spacer oddalonych maksymalnie o 6 km od Ko\u0142obrzegu, kt\u00f3re polecaj\u0105 inni spacerowicze. Wybierz najlepsz\u0105 dla siebie. Zanim wyruszysz w tras\u0119, ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.xGyVXoJ9b0zlcu2rTPA_6w&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "relikty",
+            "date": "Ko\u0142obrzeg Nasze Miasto2 godz.",
             "source": "Ko\u0142obrzeg Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -325,13 +341,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Wycieczki rowerowe do 19 km od O\u015bwi\u0119cimia. Podpowiadamy pomys\u0142y na wypraw\u0119. Gdzie w weekend 10 - 11 maja?",
-            "link": "https://oswiecim.naszemiasto.pl/wycieczki-rowerowe-do-19-km-od-oswiecimia-podpowiadamy-pomysly-na-wyprawe-gdzie-w-weekend-10-11-maja/ar/c7p1-21831633",
-            "description": "Zanim wyruszysz w drog\u0119, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 10 maja w O\u015bwi\u0119cimiu ma by\u0107 13\u00b0C. Prawdopodobie\u0144stwo wyst\u0105pienia deszczu wynosi 65%. W niedziel\u0119 11 maja w O\u015bwi\u0119cimiu ma by\u0107 12\u00b0C.",
-            "image_url": "https://www.bing.pl/th?id=ODF.hU9b0B80CrRL-uqx7ot5XQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Rowerem do 17 km od Che\u0142mka. Podpowiadamy pomys\u0142y na wypraw\u0119. Gdzie w weekend 10 - 11 maja?",
+            "link": "https://chelmek.naszemiasto.pl/rowerem-do-17-km-od-chelmka-podpowiadamy-pomysly-na-wyprawe-gdzie-w-weekend-10-11-maja/ar/c7p1-21832283",
+            "description": "Zanim wyruszysz na wypraw\u0119, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 17 maja w Che\u0142mku ma by\u0107 18\u00b0C. Prawdopodobie\u0144stwo wyst\u0105pienia deszczu wynosi 25%. Stopie\u0144 trudno\u015bci: 1.0 ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.p2Jo6u3kHSXhxkkY13WcJg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "O\u015bwi\u0119cim Nasze Miasto23 godz.",
-            "source": "O\u015bwi\u0119cim Nasze Miasto",
+            "date": "Nasze Miasto Che\u0142mek2 godz.",
+            "source": "Nasze Miasto Che\u0142mek",
             "article_content": "Content not available"
         }
     },
@@ -341,14 +357,46 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Joanna Jakutowicz: Z wyposa\u017cenia niewiele zosta\u0142o w \u015bwi\u0105tyni",
-            "link": "https://www.portel.pl/kultura/joanna-jakutowicz-z-wyposazenia-niewiele-zostalo-w-swiatyni/144295",
-            "description": "- Zamierzamy zobaczy\u0107 jakie obiekty tu by\u0142y i oszacowa\u0107 ich warto\u015b\u0107 artystyczn\u0105. Wychodz\u0105c z tego punktu, chcieliby\u015bmy rozezna\u0107 si\u0119 w przedmiotach, kt\u00f3re uchodz\u0105 za zaginione lub znajduj\u0105 si\u0119 poza ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.I8Gul6baP6AEdEuseY-yzA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Czy Homer by\u0142 Turkiem? Popiersie Neferetiti",
+            "link": "https://dorzeczy.pl/opinie/724935/czy-homer-byl-turkiem-popiersie-neferetiti.html",
+            "description": "Pa\u0144stwa, mieni\u0105ce si\u0119 dziedzicami staro\u017cytnych cywilizacji, pr\u0119\u017c\u0105 musku\u0142y, coraz g\u0142o\u015bniej m\u00f3wi\u0105 o rewindykacji wywiezionych ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.DPrDrhaKwm-twU8qkAV9gi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "portEl31 min",
-            "source": "portEl",
-            "article_content": "- Zamierzamy zobaczy\u0107 jakie obiekty tu by\u0142y i oszacowa\u0107 ich warto\u015b\u0107 artystyczn\u0105. Wychodz\u0105c z tego punktu, chcieliby\u015bmy rozezna\u0107 si\u0119 w przedmiotach, kt\u00f3re uchodz\u0105 za zaginione lub znajduj\u0105 si\u0119 poza granicami Polski - m\u00f3wi Joanna Jakutowicz, prezes Fundacji Art-Hist-Arch z Gda\u0144ska. Fundacja otrzyma\u0142a grant z Ministerstwa Kultury i Dziedzictwa Narodowego na przebadanie elbl\u0105skiego ko\u015bcio\u0142a pw. NMP (dzi\u015b Galeria EL) pod k\u0105tem strat poniesionych w czasie II wojny \u015bwiatowej. I o tym rozmawiamy z Joann\u0105 Jakutowicz.\n\n- Dlaczego akurat ko\u015bci\u00f3\u0142 pw. Naj\u015bwi\u0119tszej Maryi Panny?\n\n- W naszej fundacji badamy straty, jakie ponios\u0142y poszczeg\u00f3lne ko\u015bcio\u0142y na terenie wojew\u00f3dztwa warmi\u0144sko-mazurskiego podczas II wojny \u015bwiatowej. Wzi\u0119li\u015bmy pod uwag\u0119 te \u015bwi\u0105tynie, kt\u00f3re powa\u017cnie ucierpia\u0142y podczas wojny. Przebadali\u015bmy ju\u017c ko\u015bci\u00f3\u0142 farny pw. \u015bw. Jana Ewangelisty w Bartoszycach, ko\u015bci\u00f3\u0142 p.w. \u015bw Katarzyny w Braniewie, w ubieg\u0142ym roku ko\u015bci\u00f3\u0142 p.w. \u015bw. Miko\u0142aja we Fromborku. Mamy ju\u017c do\u015bwiadczenie, teraz pora na Elbl\u0105g. Warto nadmieni\u0107, i\u017c wszystkie te projekty by\u0142y finansowane ze \u015brodk\u00f3w Ministerstwa Kultury i Dziedzictwa Narodowego, a dok\u0142adnie z programu \u201eBadanie polskich strat wojennych\u201d.\n\n- Patrzyli\u015bcie Pa\u0144stwo na inne ko\u015bcio\u0142y w Elbl\u0105gu?\n\n- Jeszcze przed z\u0142o\u017ceniem wniosku na projekt, rozeznali\u015bmy si\u0119 w sytuacji elbl\u0105skich \u015bwi\u0105ty\u0144. Jakie szacunkowo straty ponios\u0142y i czy warto sk\u0142ada\u0107 wniosek na sfinansowanie bada\u0144? To s\u0105 pieni\u0105dze Ministerstwa Kultury i Dziedzictwa Narodowego i nie warto ich marnowa\u0107 na co\u015b, co nie przyniesie rezultat\u00f3w. Ko\u015bci\u00f3\u0142 p.w. NMP jest jedn\u0105 ze \u015bwi\u0105ty\u0144, kt\u00f3ra najbardziej ucierpia\u0142a podczas II wojny \u015bwiatowej, je\u017celi chodzi o wojew\u00f3dztwo warmi\u0144sko-mazurskie. Elbl\u0105ski ko\u015bci\u00f3\u0142 pw. Naj\u015bwi\u0119tszej Maryi Panny to by\u0142a du\u017ca \u015bwi\u0105tynia z bardzo bogatym wyposa\u017ceniem. Pewne elementy wyposa\u017cenia ko\u015bcielnego si\u0119 zachowa\u0142y, ale przed przeprowadzeniem szczeg\u00f3\u0142owych bada\u0144 nie jeste\u015bmy w stanie stwierdzi\u0107, ile dok\u0142adnie. Jak ka\u017cdy mo\u017ce si\u0119 naocznie przekona\u0107, ju\u017c same ogl\u0119dziny ko\u015bcio\u0142a pozwalaj\u0105 stwierdzi\u0107, \u017ce zachowanych element\u00f3w jest bardzo niewiele.\n\n- Czego si\u0119 spodziewacie?\n\n- G\u0142\u00f3wnym celem jest przyjrzenie si\u0119 ca\u0142emu wyposa\u017ceniu ko\u015bcio\u0142a. Je\u017celi chodzi o badania nad histori\u0105, ogromnym b\u0142\u0119dem, jest uwzgl\u0119dnienie tylko tego, co si\u0119 zachowa\u0142o, a pomijanie tego, co zosta\u0142o utracone. Pierwsze, co chcemy zrobi\u0107, to inwentaryzacja nieistniej\u0105cego wyposa\u017cenia. Zamierzamy zobaczy\u0107 jakie obiekty tu by\u0142y i oszacowa\u0107 ich warto\u015b\u0107 artystyczn\u0105. Wychodz\u0105c z tego punktu, chcieliby\u015bmy rozezna\u0107 si\u0119 w przedmiotach, kt\u00f3re uchodz\u0105 za zaginione lub znajduj\u0105 si\u0119 poza granicami Polski. Przyjrzymy si\u0119 ich stanowi prawnemu, by\u0107 mo\u017ce znajdziemy przes\u0142anki do wyst\u0105pienia o ich zwrot. Taki te\u017c jest sens prowadzenia bada\u0144 nad stratami wojennymi.\n\n- Mniej wi\u0119cej wiecie, co tam mog\u0142o by\u0107?\n\n- Z wyposa\u017cenia ko\u015bcio\u0142a niewiele zosta\u0142o w samej \u015bwi\u0105tyni. Zachowa\u0142y si\u0119 niekt\u00f3re epitafia. Cz\u0119\u015b\u0107 obiekt\u00f3w znajduje si\u0119 w Muzeum Archeologiczno-Historycznym, natomiast figura Madonny szafkowej w Niemczech, w L\u00fcneburgu. Tutaj musz\u0119 wyja\u015bni\u0107, \u017ce to, \u017ce jaki\u015b przedmiot z terenu dzisiejszej Polski, obecnie znajduje si\u0119 poza granicami naszego kraju, to jeszcze nie jest przes\u0142anka do wyst\u0105pienia o jego zwrot. M\u00f3g\u0142 zosta\u0107 wywieziony ca\u0142kowicie legalnie, nie mo\u017cemy z g\u00f3ry tego wykluczy\u0107. Trzeba uwzgl\u0119dni\u0107 kontekst prawny, a najpierw musimy ustali\u0107 fakty: do kiedy dany przedmiot znajdowa\u0142 si\u0119 w elbl\u0105skim ko\u015bciele, jak i w jakich okoliczno\u015bciach zosta\u0142 wywieziony. To decyduje o tym, czy dany przedmiot mo\u017ce podlega\u0107 rewindykacji. Jeste\u015bmy na samym pocz\u0105tku naszych bada\u0144, projekt zacz\u0119li\u015bmy miesi\u0105c temu. Dok\u0142adniejszych ustale\u0144 jeszcze nie ma.\n\n- Projekt jest rozpisany na dwa lata. Jak b\u0119d\u0105 wygl\u0105da\u0142y prace?\n\n- To jest nasz pierwszy dwuletni projekt, wcze\u015bniejsze trwa\u0142y rok. Dwuletni dlatego, \u017ce jego zwie\u0144czeniem ma by\u0107 publikacja ksi\u0105\u017ckowa. W pierwszym roku zbadamy ko\u015bci\u00f3\u0142, drugi rok po\u015bwi\u0119cimy na przygotowanie i wydanie ksi\u0105\u017cki oraz jej promocj\u0119. W planach jest te\u017c organizacja spotkania autorskiego, zaprezentujemy mieszka\u0144com Elbl\u0105ga co uda\u0142o si\u0119 nam ustali\u0107.\n\n- Okiem laika: domy\u015blam si\u0119 \u017ce Wasza praca to siedzenie w archiwach i \u017cmudne przekopywanie si\u0119 przez dokumenty oraz por\u00f3wnywanie zdj\u0119\u0107: tu co\u015b jest, a na zdj\u0119ciu rok p\u00f3\u017aniej ju\u017c tego nie ma...\n\n- To, czym si\u0119 zajmujemy, to odr\u0119bna dziedzina historii sztuki, kt\u00f3ra nazywa si\u0119 badaniami proweniencyjnymi. Skupiaj\u0105 si\u0119 na znalezieniu odpowiedzi na pytanie: co si\u0119 sta\u0142o z danym dzie\u0142em sztuki, od momentu jego powstania, do czas\u00f3w wsp\u00f3\u0142czesnych. To jest wspania\u0142e narz\u0119dzie, je\u017celi chodzi o udowodnienie autentyczno\u015bci danego dzie\u0142a. Je\u017celi jeste\u015bmy w stanie prze\u015bledzi\u0107 jego histori\u0119, mamy dokumenty pokazuj\u0105ce, w jakich kolekcjach i w jakim okresie by\u0142 obraz, to jest to idealne \u017ar\u00f3d\u0142o. W praktyce rzadko si\u0119 zdarza, \u017ce mamy dokumenty wskazuj\u0105ce histori\u0119 bez luk czasowych.\n\n- Nie na naszych terenach...\n\n- Na naszych terenach to jest absolutnie niespotykane. Zaczynamy od tego, gdzie dany obiekt znajdowa\u0142 si\u0119 na samym pocz\u0105tku. W przypadku ko\u015bcio\u0142a mariackiego, cz\u0119\u015b\u0107 jego wyposa\u017cenia pierwotnie znajdowa\u0142a w innych miejscach i zosta\u0142a wt\u00f3rnie umieszczona w ko\u015bciele. Jest te\u017c sytuacja odwrotna. Przedmioty, kt\u00f3re pierwotnie by\u0142y w ko\u015bciele NMP, teraz znajduj\u0105 si\u0119 gdzie indziej, np. w ko\u015bciele pw. \u015bw. Miko\u0142aja. Nasze prace zaczynamy od prze\u015bledzenia \u015bladu papierowego i pokazanie, jaki by\u0142 kontekst powstania dzie\u0142a sztuki. Gdzie ono by\u0142o przeznaczone? Przez kogo zosta\u0142o wykonane? Dla kogo? W jakim kontek\u015bcie funkcjonowa\u0142o? To jest dodatkowe \u017ar\u00f3d\u0142o wiedzy na temat historii sztuki regionu. Oczywi\u015bcie, \u017ce nasza praca to praca w du\u017cej mierze archiwalna: w archiwach ko\u015bcielnych, konserwatora zabytk\u00f3w, internetowych bazach danych, katalogach aukcyjnych. Zw\u0142aszcza je\u017celi chodzi o katalogi zdj\u0119\u0107 i to s\u0105 g\u0142\u00f3wnie archiwa niemieckie. Szukamy dokumentacji, odpowiedzi na pytanie co si\u0119 sta\u0142o z tymi obiektami w czasie II wojny \u015bwiatowej. Co si\u0119 dzia\u0142o z nimi po 1945 r., je\u017celi zosta\u0142y wywiezione do Niemiec. I tu odpowiedzi mog\u0105 da\u0107 archiwa niemieckie. Do tego literatura przedmiotu. Zakres tego, co trzeba chocia\u017cby przejrze\u0107, jest olbrzymi.\n\n- Zastanawiam si\u0119 w\u0142a\u015bnie nad t\u0105 zim\u0105 1945 r. Armia Czerwona zajmuje Prusy Wschodnie. Niemcy staraj\u0105 si\u0119 wywie\u017a\u0107 i ocali\u0107 cho\u0107 cz\u0119\u015b\u0107 dzie\u0142 sztuki. Czasem uda\u0142o si\u0119 zinwentaryzowa\u0107 co jest w transporcie, czasem pewnie nie.\n\n- Technicznie powinni robi\u0107 inwentaryzacje. W praktyce cz\u0119sto nadej\u015bcie frontu zaskakiwa\u0142o Niemc\u00f3w. Uda\u0142o si\u0119 nam ustali\u0107, \u017ce w Elbl\u0105gu by\u0142a przeprowadzona ewakuacja dzie\u0142 sztuki, g\u0142\u00f3wnie do okolicznych, wiejskich ko\u015bcio\u0142\u00f3w. Ale np. w Bartoszycach tej ewakuacji nie by\u0142o. Z bartoszyckiego ko\u015bcio\u0142a farnego pw. \u015bw. Jana nie mamy \u017cadnej dokumentacji. W przypadku Elbl\u0105ga wiemy, \u017ce po 1945 r. niekt\u00f3re obiekty znaleziono, np. w Pomorskiej Wsi i przewieziono, najcz\u0119\u015bciej do sk\u0142adnicy muzealnej w Gda\u0144sku Oliwie. Problem jest taki, \u017ce oliwska sk\u0142adnica nie ma dokumentacji. Czyli nie wiadomo dok\u0142adnie co, sk\u0105d i gdzie przewo\u017cono. I to jest dla nas problem. W naszej pracy do\u015b\u0107 cz\u0119sto mamy pocz\u0105tek i koniec jakie\u015b historii. A co si\u0119 dzia\u0142o pomi\u0119dzy, tego nie wie nikt. Tak np. by\u0142o z ewakuacj\u0105 zabytk\u00f3w historii sztuki z Tyl\u017cy. Jesieni\u0105 1944 r. przewieziono je poci\u0105giem w okolice Braniewa i potem jest czarna dziura a\u017c do lat 80., kiedy niekt\u00f3re odnalaz\u0142y si\u0119 w Sambrodzie pod Mor\u0105giem. Co si\u0119 z nimi dzia\u0142o pomi\u0119dzy 1944, a powiedzmy 1986 r., nie wiemy.\n\n- Ile os\u00f3b jest zaanga\u017cowanych w projekt?\n\n- W pierwszym roku: trzy: ja, Maurycy Domino i Maciej Domi\u0144ski. Ten rok, jak ju\u017c wcze\u015bniej wspomnia\u0142am po\u015bwi\u0119cimy na prac\u0119 merytoryczn\u0105. W przysz\u0142ym roku, kiedy b\u0119dziemy przygotowywa\u0107 wydanie ksi\u0105\u017cki, ta liczba wzro\u015bnie. Potrzebni b\u0119d\u0105 np. recenzenci, osoby pracuj\u0105ce nad samym procesem wydawniczym.\n\n- I na zako\u0144czenie taka moja refleksja. 80 lat po zako\u0144czeniu II wojny \u015bwiatowej my dalej ni wiemy, co nam zgin\u0119\u0142o. Oczywi\u015bcie, zdaj\u0119 sobie spraw\u0119 z \u00f3wczesnych uwarunkowa\u0144 politycznych i z tego, \u017ce nowi elbl\u0105\u017canie mieli inne rzeczy na g\u0142owie ni\u017c szukanie niemieckich dzie\u0142 sztuki.\n\n- Problemem jest brak dokumentacji. Ludzie, kt\u00f3rzy mogliby co\u015b wiedzie\u0107, najprawdopodobniej ju\u017c nie \u017cyj\u0105. Jestem wi\u0119c skazana na to, co zosta\u0142o z archiwali\u00f3w, na zdj\u0119cia... Czasami na publikowane pami\u0119tniki. Tak by\u0142o w przypadku ko\u015bcio\u0142a w Bartoszycach, gdzie Cecylia Vetulani w swoich pami\u0119tnikach opisuje, jak wygl\u0105da\u0142y zniszczenia ko\u015bcio\u0142a w 1945 r. Natomiast je\u017celi chodzi o ludzi, to na tych terenach nast\u0105pi\u0142a prawie ca\u0142kowita wymiana ludno\u015bci. Ci, kt\u00f3rzy mieli wiedz\u0119 wyjechali do Niemiec, potem zapad\u0142a \u201e\u017celazna kurtyna\u201c i niespecjalnie mo\u017cliwe by\u0142y jakiekolwiek kontakty. A w NRD generalnie nie m\u00f3wi\u0142o si\u0119 o takich rzeczach. Natomiast ci, kt\u00f3rzy przyjechali, nie wiedzieli nic. Je\u017celi gdzie\u015b s\u0105 \u017ar\u00f3d\u0142a wiedzy o wywiezionych dzie\u0142ach sztuki, to trzeba ustali\u0107 gdzie. I tu licz\u0119 na wzmianki w niemieckich archiwach.\n\n- To kiedy mo\u017cemy si\u0119 spodziewa\u0107 publikacji podsumowuj\u0105cej badania?\n\n- Mam nadziej\u0119 pod koniec przysz\u0142ego roku.\n\n- Dzi\u0119kuj\u0119 za rozmow\u0119."
+            "date": "Do Rzeczy2 godz.",
+            "source": "Do Rzeczy",
+            "article_content": "W zgie\u0142ku r\u00f3\u017cnych historycznych jubileuszy niepostrze\u017cenie min\u0119\u0142a 150. rocznica wyroku, kt\u00f3ry \u015bmia\u0142o mo\u017cna nazwa\u0107 precedensowym. S\u0105d w Atenach, rozpatruj\u0105cy skarg\u0119 rz\u0105du Turcji, uzna\u0142 za bezprawny wyw\u00f3z antycznych zabytk\u00f3w za granic\u0119.\n\nSzokuj\u0105co d\u0142ugi i kosztowny remont Pergamon Museum rozpocz\u0105\u0142 si\u0119 w idealnym dla Niemc\u00f3w momencie. Teraz \u0142atwiej b\u0119dzie wyciszy\u0107 debat\u0119 o artefaktach, kt\u00f3re nad Sprew\u0119 trafi\u0142y prawem kaduka. Nie chodzi o eksponaty cenne z punktu widzenia nauki, ale przez zwiedzaj\u0105cych zwykle omijane szerokim \u0142ukiem. Przedmiotem sporu sta\u0142y si\u0119 obiekty emblematyczne. Popiersie Neferetiti z Amarny, turkusowa brama Isztar z Babilonu, fasada pustynnego pa\u0142acu Mszatta, wzniesionego przez kalif\u00f3w z dynastii Umajjad\u00f3w, tudzie\u017c jeden z cud\u00f3w \u015bwiata staro\u017cytnego \u2013 o\u0142tarz \u015bwi\u0105tyni Zeusa, kt\u00f3remu muzeum zawdzi\u0119cza sw\u0105 nazw\u0119.\n\nPa\u0144stwa sprawuj\u0105ce dzi\u015b kontrol\u0119 nad miejscami, gdzie je znaleziono, coraz g\u0142o\u015bniej m\u00f3wi\u0105 o rewindykacji. Berlin gra na czas, stosuje uniki. W 2037 r., gdy remont dobiegnie ko\u0144ca, mo\u017ce si\u0119 jednak okaza\u0107, \u017ce 2 mld euro wyrzucono w b\u0142oto, bo sale wystawowe zaczn\u0105 \u015bwieci\u0107 pustkami."
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Trasy na rower do 35 km od Che\u0142ma. Podpowiedzi jednodniowych wypraw. Gdzie w weekend 10 - 11 maja?",
+            "link": "https://chelm.naszemiasto.pl/trasy-na-rower-do-35-km-od-chelma-podpowiedzi-jednodniowych-wypraw-gdzie-w-weekend-10-11-maja/ar/c7p1-21831529",
+            "description": "Rozgl\u0105dasz si\u0119 za pomys\u0142em na wycieczk\u0119 rowerow\u0105 w pobli\u017cu Che\u0142ma? Proponujemy, gdzie warto si\u0119 wybra\u0107. Wybrali\u015bmy 5 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.jCw5SQ5qSx5--MaZppiwrS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Che\u0142m Nasze Miasto3 godz.",
+            "source": "Che\u0142m Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Gdzie na spacer w woj. \u015bl\u0105skim. Gdzie wybra\u0107 si\u0119 w weekend 10 - 11 maja? Lista 10 tras",
+            "link": "https://dziennikzachodni.pl/gdzie-na-spacer-w-woj-slaskim-gdzie-wybrac-sie-w-weekend-10-11-maja-lista-10-tras/ar/c7p1-22116485",
+            "description": "We wsp\u00f3\u0142pracy z Traseo przygotowali\u015bmy dla Was 10 tras na spacer w woj. \u015bl\u0105skim, kt\u00f3re inni ju\u017c przetestowali. Wybierz najlepsz\u0105 dla siebie. Zanim wyruszysz, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.73GKiv_kwPXUhIas-a0ZXQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "zabytkowe+przedmioty",
+            "date": "Dziennik Zachodni2 godz.",
+            "source": "Dziennik Zachodni",
+            "article_content": "Content not available"
         }
     },
     {
@@ -362,7 +410,7 @@
             "description": "Przygotowali\u015bmy dla Ciebie tygodniow\u0105 pras\u00f3wk\u0119. Je\u015bli w mijaj\u0105cym tygodniu by\u0142e\u015b zbyt zaj\u0119ty, by nad\u0105\u017cy\u0107 za informacjami z ...",
             "image_url": "https://www.bing.pl/th?id=OVF.W6ARbO2ldruf%2fYETDskMrg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Wroc\u0142aw Nasze Miasto5 godz.",
+            "date": "Wroc\u0142aw Nasze Miasto9 godz.",
             "source": "Wroc\u0142aw Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -373,45 +421,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Pras\u00f3wka tygodniowa z 11.05.2025 w Koninie. Sprawd\u017a, czy jeste\u015b na bie\u017c\u0105co",
-            "link": "https://konin.naszemiasto.pl/prasowka-tygodniowa-z-11-05-2025-w-koninie-sprawdz-czy-jestes-na-biezaco/ar/c1p1-27570731",
-            "description": "Pasjonaci transportu publicznego z Konina zapraszaj\u0105 na wydarzenie, kt\u00f3re pozwoli przenie\u015b\u0107 si\u0119 w przesz\u0142o\u015b\u0107. Na ulice miasta ponownie wyjad\u0105 zabytkowe autobusy, w tym kultowa Scania zwan\u0105 \u201ebabci\u0105'.",
-            "image_url": "https://www.bing.pl/th?id=ODF.n0719I9rD2BIQPAioL8wUg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Trasy na rower do 33 km od Buska-Zdroju. Podpowiedzi jednodniowych wypraw. Gdzie w weekend 10 - 11 maja?",
+            "link": "https://buskozdroj.naszemiasto.pl/trasy-na-rower-do-33-km-od-buska-zdroju-podpowiedzi-jednodniowych-wypraw-gdzie-w-weekend-10-11-maja/ar/c7p1-21831973",
+            "description": "Nim wyruszysz w drog\u0119, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 17 maja w Busku-Zdroju ma by\u0107 18\u00b0C. Prawdopodobie\u0144stwo wyst\u0105pienia ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.rnuyQ63ZvinzsBDCJfEzKC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Konin Nasze Miasto5 godz.",
-            "source": "Konin Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Ceny Fiat\u00f3w oszala\u0142y. Jeden model, dwa \u015bwiaty, 100 tys. z\u0142 do zap\u0142aty",
-            "link": "https://www.msn.com/pl-pl/motoryzacja/og%C3%B3lne/ceny-fiat%C3%B3w-oszala%C5%82y-jeden-model-dwa-%C5%9Bwiaty-100-tys-z%C5%82-do-zap%C5%82aty/ar-AA1Ey4cS?ocid=BingNewsVerp",
-            "description": "Je\u017celi irytuj\u0105 was kwoty za kt\u00f3re wystawia si\u0119 polskie samochody, to polecam zaparzy\u0107 sobie rumianku. Na otomoto w podobnym ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.2x-sKXsGxX0QrUoKMSxZKy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Autoblog.pl on MSN5 godz.",
-            "source": "Autoblog.pl on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Historia Polski",
-            "link": "https://ostrow.naszemiasto.pl/tag/historia-polski",
-            "description": "Nie wiesz, jak sp\u0119dzi\u0107 maj\u00f3wk\u0119? Szlak Piastowski, to ciekawa propozycja turystyczna \u015bladami historii powstania pa\u0144stwa polskiego. To a\u017c 33 miejscowo\u015bci, kt\u00f3re... Nie tylko Irena Kwiatkowska by\u0142a \"kobi ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.YBmgaJij1z1zrOcsL14GOg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "zabytkowe+przedmioty",
-            "date": "Ostr\u00f3w Wielkopolski Nasze Miasto4 godz.",
-            "source": "Ostr\u00f3w Wielkopolski Nasze Miasto",
+            "date": "Busko-Zdr\u00f3j Nasze Miasto2 godz.",
+            "source": "Busko-Zdr\u00f3j Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -426,7 +442,7 @@
             "description": "Moneta ma nomina\u0142 100 dukat\u00f3w i w tamtych czasach by\u0142a najcenniejsz\u0105 monet\u0105 wybit\u0105 w Koronie w czasach staropolskich. Na jej wybicie zu\u017cyto 350 gram\u00f3w z\u0142ota. Obecnie na \u015bwiecie znanych jest 17 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.5s2nDicEFNR6T9e5rt0xCA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "Dziennik Ba\u0142tycki on MSN1 godz.",
+            "date": "Dziennik Ba\u0142tycki on MSN5 godz.",
             "source": "Dziennik Ba\u0142tycki on MSN",
             "article_content": ""
         }
@@ -437,13 +453,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Polskie 100 dukat\u00f3w uwa\u017cane za jedn\u0105 z najdro\u017cszych monet \u015bwiata sprzedane. Cena zwala z n\u00f3g. Dwa egzemplarze tej monety s\u0105 w Krakowie",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/polskie-100-dukat%C3%B3w-uwa%C5%BCane-za-jedn%C4%85-z-najdro%C5%BCszych-monet-%C5%9Bwiata-sprzedane-cena-zwala-z-n%C3%B3g-dwa-egzemplarze-tej-monety-s%C4%85-w-krakowie/ar-AA1EwH6n?ocid=BingNewsVerp",
-            "description": "Badaczom uda\u0142o si\u0119 potwierdzi\u0107 istnienie co najmniej 17 sztuk studukat\u00f3wek na \u015bwiecie. W Polsce s\u0105 dwie, obie w Krakowie - w Muzeum Narodowym i na Wawelu. Na W\u0119grzech s\u0105 trzy egzemplarze. Pozosta\u0142e w ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.XL5bGs_n6w06Ok0ARb1y3Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Ten banknot 50 z\u0142otych jest wart fortun\u0119! A to nie jedyny okaz, kt\u00f3rego szukaj\u0105 kolekcjonerzy",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/ten-banknot-50-z%C5%82otych-jest-wart-fortun%C4%99-a-to-nie-jedyny-okaz-kt%C3%B3rego-szukaj%C4%85-kolekcjonerzy/ar-AA1Dttas?ocid=BingNewsVerp",
+            "description": "Banknoty i monety mog\u0105 by\u0107 cenniejsze, ni\u017c wskazuje ich nomina\u0142 - czasem wystarczy jeden szczeg\u00f3\u0142, by ich warto\u015b\u0107 si\u0119gn\u0119\u0142a ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.37HFo61hHdhbCb5mJSTR1i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Krakowska on MSN20 godz.",
-            "source": "Gazeta Krakowska on MSN",
+            "date": "Gazeta Pomorska on MSN6 min",
+            "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
     },
@@ -453,46 +469,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Szpital Jana Pa\u0142a II Krak\u00f3w",
-            "link": "https://krakow.naszemiasto.pl/tag/szpital-jana-pala-ii-krakow",
-            "description": "Specjali\u015bci z Krakowskiego Szpitala Specjalistycznego im. \u015bw. Jana Paw\u0142a II przeprowadzili prze\u0142omow\u0105 na skal\u0119 \u015bwiatow\u0105 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "11 MAJA 2025",
+            "link": "https://www.krakow.pl/kalendarium/1919,shw,2025-05-11,8,day.html",
+            "description": "Czy chcesz pozna\u0107 histori\u0119 jednego z najwi\u0119kszych przedwojennych zak\u0142ad\u00f3w przemys\u0142owych Krakowa? Czy chcesz dowiedzie\u0107 si\u0119, do czego s\u0142u\u017cy rozwierak, a do czego pa\u0142asz i jak wygl\u0105da naw\u00f3z ze szk\u0142a? A ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "Krak\u00f3w Nasze Miasto15 godz.",
-            "source": "Krak\u00f3w Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Cmentarz ceny",
-            "link": "https://krakow.naszemiasto.pl/tag/cmentarz-ceny",
-            "description": "Zbli\u017ca si\u0119 \u015bwi\u0119to Wszystkich \u015awi\u0119tych, niewiele dni zosta\u0142o do 1 listopada. Cz\u0119\u015b\u0107 mieszka\u0144c\u00f3w ju\u017c teraz wybiera si\u0119 na groby ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+numizmatyka",
-            "date": "Krak\u00f3w Nasze Miasto20 godz.",
-            "source": "Krak\u00f3w Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Smocza Jama",
-            "link": "https://gazetakrakowska.pl/tag/smocza-jama",
-            "description": "Niby zwyczajna jaskinia krasowa w obr\u0119bie zr\u0119bu Wawelu, ale to w\u0142a\u015bnie tu - wed\u0142ug legendy - urz\u0119dowa\u0142 Smok Wawelski. Lokum wawelskiego potwora powsta\u0142o 12... Smocza Jama nale\u017cy do ciekawych miejsc, k ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.XL5bGs_n6w06Ok0ARb1y3Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stare+numizmatyka",
-            "date": "Gazeta Krakowska22 godz.",
-            "source": "Gazeta Krakowska",
-            "article_content": "Ile kosztuj\u0105 oscypki i inne sery w Zakopanem? Aktualne ceny w 2025 roku\n\nJu\u017c nie tylko na bac\u00f3wkach, ale tak\u017ce na straganach w Zakopanem pojawi\u0142y si\u0119 pierwszego tegoroczne oscypki. Kupi\u0107 je mo\u017cna zar\u00f3wno na Krup\u00f3wkach, jak i na targu..."
+            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w18 godz.",
+            "source": "Oficjalny serwis miejski - Magiczny Krak\u00f3w",
+            "article_content": "Szukaj wydarzenia\n\nKategoria: -- wszystkie -- Spektakle teatralne Spacery i zwiedzanie Spektakle taneczne Akcje czytelnicze Muzyka rozrywkowa Wystawy czasowe Festiwale Targi i kiermasze Muzyka klasyczna Wyk\u0142ady, spacery i warsztaty artystyczne W gminach Metropolii Kabaret Festiwale muzyczne Festiwale i przegl\u0105dy filmowe Festiwale literackie Inne koncerty Inne przedstawienia Pozosta\u0142e Spotkania i slajdowiska Festiwale teatralne Dzieci\u0119ce r\u00f3\u017cno\u015bci Muzyka klubowa Wydarzenia sportowe Widowiska plenerowe i happeningi Cykle filmowe Wystawy sta\u0142e Spotkania i wyk\u0142ady literackie Pokazy filmowe Inne wydarzenia literackie"
         }
     },
     {
@@ -506,7 +490,7 @@
             "description": "Nadle\u015bnictwo Lubacz\u00f3w pochwali\u0142o si\u0119 niezwyk\u0142ym znaleziskiem odkopanym na terenie le\u015bnictwa Dziewi\u0119cierz. Tomasz Kornaga ...",
             "image_url": "https://www.bing.pl/th?id=OVF.DIZE4%2bCDC8MiB%2bPKYsteLw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "wykopano+zabytkowe",
-            "date": "Super Express1 godz.",
+            "date": "Super Express5 godz.",
             "source": "Super Express",
             "article_content": "Ca\u0142a Polska zbiera\u0142a pieni\u0105dze na lek dla malutkiej Poli. W trakcie rehabilitacji sta\u0142o si\u0119 co\u015b strasznego\n\nNadle\u015bnictwo Lubacz\u00f3w na pocz\u0105tku maja 2025 roku w swoich mediach spo\u0142eczno\u015bciowych pochwali\u0142o si\u0119 niezwyk\u0142ym znaleziskiem. Spod ziemi wykopano zabytkowy trybularz, inaczej zwany kadzielnic\u0105. To sprz\u0119t liturgiczny s\u0142u\u017c\u0105cy do okadzania ko\u015bcio\u0142a i o\u0142tarza podczas obrz\u0119d\u00f3w. Jest to metalowy pojemnik z przykrywk\u0105, umocowany na \u0142a\u0144cuszkach, w kt\u00f3rym umieszcza si\u0119 metalowy koszyczek z roz\u017carzonym w\u0119glem drzewnym i kadzid\u0142em.\n\nDym z kadzid\u0142a symbolizuje obecno\u015b\u0107 Boga i wznosz\u0105ce si\u0119 do Niego modlitwy. Tego niezwyk\u0142ego odkrycia dokona\u0142 Pan Tomasz Kornaga. - Trybularz zosta\u0142 zabezpieczony przez Muzeum Kres\u00f3w w Lubaczowie i mamy nadziej\u0119, \u017ce ju\u017c nied\u0142ugo stanie si\u0119 eksponatem, kt\u00f3ry b\u0119dziemy mogli z zachwytem podziwia\u0107. Panu Tomaszowi gratulujemy i \u017cyczymy dalszych wspania\u0142ych odkry\u0107! \u2013 przekaza\u0142o Nadle\u015bnictwo Lubacz\u00f3w.\n\nMuzeum Kres\u00f3w Wschodnich w Lubaczowie potwierdzi\u0142o znalezisko i zapewni\u0142o, \u017ce po oczyszczeniu i opisaniu, skarb z lasu b\u0119d\u0105 mogli ogl\u0105da\u0107 tury\u015bci odwiedzaj\u0105cy muzeum.\n\n- Dzi\u0119ki panu Tomaszowi Kornadze oraz wsp\u00f3\u0142pracy z Podkarpackim Wojew\u00f3dzkim Konserwatorem Zabytk\u00f3w kolejne le\u015bne znalezisko ju\u017c wkr\u00f3tce trafi do naszych zbior\u00f3w! Odkryciem jest trybularz (kadzielnica) z prze\u0142omu XIX i XX w., kt\u00f3ry pan Tomasz Kornaga odnalaz\u0142 w trakcie legalnych poszukiwa\u0144 przy pomocy wykrywacza metali na terenie Gmina Horyniec-Zdr\u00f3j. Ten wyj\u0105tkowej urody artefakt wzbogaci kolekcj\u0119 muzealn\u0105. Serdecznie gratulujemy i dzi\u0119kujemy znalazcy! - przekaza\u0142o Muzeum, na swoim profilu, r\u00f3wnie\u017c w mediach spo\u0142eczno\u015bciowych.\n\nInternauci od razu zacz\u0119li snu\u0107 przypuszczenia, sk\u0105d tak niezwyk\u0142ej urody skarb, znalaz\u0142 w lesie. Wiadomo, \u017ce tereny gdzie znaleziono przepi\u0119kny trybularz maj\u0105 swoja burzliw\u0105 histori\u0119. Si\u0119ga ona \u015bredniowiecza, a od 1444 roku dokumentuje si\u0119 wzmianki o Hory\u0144cu. Miejscowo\u015b\u0107 by\u0142a w\u0142asno\u015bci\u0105 r\u00f3\u017cnych rodzin szlacheckich, m.in. Lutos\u0142awskich, Gorelowskich i Telefus\u00f3w. W XIX wieku Horyniec rozwija\u0142 si\u0119 jako miejsce lecznicze, a w 1973 roku uzyska\u0142 status uzdrowiska.\n\nHistorie lokalnych parafii, z kt\u00f3rych mog\u0142aby pochodzi\u0107 zabytkowa kadzielnica s\u0105 jeszcze bardziej fascynuj\u0105ce. Na kartach dziej\u00f3w ko\u015bcielnych mo\u017cemy poczyta\u0107 wie\u015bci informuj\u0105ce o zwyk\u0142ych kradzie\u017cach, grabie\u017cach naje\u017ad\u017ac\u00f3w, oraz o tym, jak lokalna spo\u0142eczno\u015b\u0107 chroni\u0142a dobra ko\u015bcio\u0142a przed zrabowaniem m.in. chowaj\u0105c i zakopuj\u0105c kosztowno\u015bci w r\u00f3\u017cnych miejscach.\n\nBy\u0107 mo\u017ce kiedy\u015b uda si\u0119 pozna\u0107 pe\u0142n\u0105 histori\u0119 trybularza znalezionego jako skarb w lubaczowskich lasach. Na razie pozostaje si\u0119 cieszy\u0107 nietypowym znaleziskiem i oczekiwa\u0107, kiedy b\u0119dzie go mo\u017cna obejrze\u0107 w Muzeum Kres\u00f3w w Lubaczowie.\n\nNadle\u015bnictwo Lubacz\u00f3w przypomina, \u017ce poszukiwania w lesie mo\u017cna prowadzi\u0107 po uzyskaniu zgody nadle\u015bnictwa, oraz Wojew\u00f3dzkiego Konserwatora Zabytk\u00f3w."
         }
@@ -522,7 +506,7 @@
             "description": "Staro\u017cytne artefakty metalowe, zamiast by\u0107 chronione przed korozj\u0105, mog\u0105 by\u0107 przez ni\u0105 niszczone szybciej - a winowajc\u0105 s\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.MPag1aynvqdUgHhbuPI4ES&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Focus1 godz.",
+            "date": "Focus5 godz.",
             "source": "Focus",
             "article_content": "Przez dziesi\u0119ciolecia konserwatorzy i muzealnicy z ca\u0142ego \u015bwiata stosowali przezroczyste pow\u0142oki polimerowe \u2013 przede wszystkim na bazie \u017cywic akrylowych \u2013 jako podstawow\u0105 metod\u0119 ochrony metalowych artefakt\u00f3w. Mia\u0142y one zabezpiecza\u0107 przed wp\u0142ywem \u015bwiat\u0142a, wilgoci, tlenu i zmian temperatury. Zalet\u0105 takich pow\u0142ok by\u0142a nie tylko ich skuteczno\u015b\u0107, ale i estetyka: dzi\u0119ki przejrzysto\u015bci pozwala\u0142y podziwia\u0107 detale monet, narz\u0119dzi czy broni sprzed tysi\u0119cy lat.\n\nCzytaj te\u017c: Pracownicy muzeum otrzymali anonimow\u0105 przesy\u0142k\u0119. Nie mogli uwierzy\u0107 w to, co zobaczyli w \u015brodku\n\nNowe badania, opublikowane w czasopi\u015bmie ACS Central Science przez zesp\u00f3\u0142 pod kierownictwem Rui Tiana i Chao Lu z Beijing University of Chemical Technology, sugeruj\u0105 jednak, \u017ce niekt\u00f3re z tych powszechnie stosowanych \u017cywic mog\u0105\u2026 przyspiesza\u0107 proces korozji \u2013 szczeg\u00f3lnie w przypadku artefakt\u00f3w zawieraj\u0105cych \u017celazo.\n\nPow\u0142oki ochronne niszcz\u0105 artefakty \u017celazowe\n\nProblem polega na tym, \u017ce wraz z up\u0142ywem czasu polimery ulegaj\u0105 degradacji chemicznej \u2013 zw\u0142aszcza w warunkach ekspozycji na \u015bwiat\u0142o UV i ciep\u0142o. W przypadku \u017cywic akrylowych (np. kopolimer\u00f3w etylometakrylanu i metakrylanu metylu), proces starzenia mo\u017ce prowadzi\u0107 do powstawania grup karboksylowych \u2013 zwi\u0105zk\u00f3w organicznych, kt\u00f3re w kontakcie z metalami \u017celaznymi inicjuj\u0105 reakcje prowadz\u0105ce do rdzewienia.\n\nCzytaj te\u017c: Najciemniej pod latarni\u0105. Muzeum nie wiedzia\u0142o, jaki skarb posiada\n\nZwykle takie procesy zachodz\u0105 w mikroskali, niewidocznej go\u0142ym okiem. Do tej pory nie by\u0142o metody, kt\u00f3ra pozwala\u0142aby konserwatorom obserwowa\u0107 bezinwazyjnie, co dzieje si\u0119 na granicy styku \u017cywicy i metalu \u2013 chyba \u017ce zdecyduj\u0105 si\u0119 oni usun\u0105\u0107 pow\u0142ok\u0119, ryzykuj\u0105c uszkodzenie zabytku. Istniej\u0105ce techniki obrazowania nie dawa\u0142y dostatecznie wyra\u017anego wgl\u0105du w cienk\u0105 warstw\u0119 reakcyjn\u0105.\n\nAby rozwi\u0105za\u0107 ten problem, Tian, Lu i ich wsp\u00f3\u0142pracownicy opracowali nowatorsk\u0105 strategi\u0119 obrazowania 3D z wykorzystaniem fluorescencji. Technika ta umo\u017cliwia wykrywanie obecno\u015bci wspomnianych grup karboksylowych na bardzo wczesnym etapie, zanim jeszcze korozja stanie si\u0119 widoczna.\n\nNieobrobiona metalowa moneta z p\u00f3\u0142nocnej dynastii Song (lewy) zardzewia\u0142a po na\u0142o\u017ceniu pow\u0142oki z \u017cywicy, a nast\u0119pnie wystawieniu na dzia\u0142anie \u015bwiat\u0142a i ciep\u0142a (prawy) /Fot. Rui Tian\n\nW pocz\u0105tkowych testach zesp\u00f3\u0142 nie zaobserwowa\u0142 fluorescencji w \u015bwie\u017co pokrytych metalach. Jednak po przyspieszonym procesie starzenia \u017cywicy \u2013 poprzez wystawienie jej na dzia\u0142anie ciep\u0142a i \u015bwiat\u0142a UV przez 30 godzin \u2013 intensywno\u015b\u0107 sygna\u0142u fluorescencyjnego na styku \u017cywicy i \u017celaza systematycznie wzrasta\u0142a ju\u017c po trzech godzinach. To wyra\u017any sygna\u0142, \u017ce reakcje chemiczne ruszaj\u0105 niemal natychmiast po rozpocz\u0119ciu degradacji polimeru.\n\nAby zademonstrowa\u0107 praktyczn\u0105 skuteczno\u015b\u0107 techniki, badacze przeprowadzili test na autentycznym artefakcie: \u017celaznej monecie pochodz\u0105cej z czas\u00f3w dynastii Song (960\u20131279 n.e.), wydobytej podczas wykopalisk archeologicznych. Pokryto j\u0105 t\u0105 sam\u0105 \u017cywic\u0105 akrylow\u0105 i poddano warunkom przyspieszonego starzenia.\n\nEfekt? Moneta, kt\u00f3ra ju\u017c przed zabiegiem nosi\u0142a \u015blady rdzy, po procesie starzenia pow\u0142oki sta\u0142a si\u0119 wyra\u017anie bardziej skorodowana. Co istotne, na nowym, niekoroduj\u0105cym kawa\u0142ku \u017celaza ten sam proces nie wywo\u0142a\u0142 istotnych zmian. Oznacza to, \u017ce najbardziej nara\u017cone na degradacj\u0119 s\u0105 artefakty ju\u017c nadw\u0105tlone przez czas \u2013 czyli dok\u0142adnie te, kt\u00f3re najbardziej potrzebuj\u0105 ochrony.\n\nBadania te rzucaj\u0105 nowe \u015bwiat\u0142o na bezpiecze\u0144stwo powszechnie stosowanych metod konserwatorskich. Co istotne, nie oznacza to, \u017ce wszelkie pow\u0142oki polimerowe s\u0105 szkodliwe \u2013 lecz \u017ce wymagaj\u0105 one starannego doboru, testowania i monitorowania ich interakcji z konkretnymi typami metali.\n\nTo odkrycie pozwoli nam zaprojektowa\u0107 nowe typy \u017cywic \u2013 wzbogacone o stabilizatory i dodatki przeciwstarzeniowe \u2013 kt\u00f3re b\u0119d\u0105 bezpieczniejsze dla artefakt\u00f3w z \u017celaza i stali. Jednocze\u015bnie, nowo opracowana technika fluorescencyjna mo\u017ce sta\u0107 si\u0119 standardowym narz\u0119dziem diagnostycznym w konserwacji: szybkim, nieinwazyjnym i niezwykle czu\u0142ym."
         }
@@ -538,7 +522,7 @@
             "description": "Nadle\u015bnictwo Lubacz\u00f3w pochwali\u0142o si\u0119 niezwyk\u0142ym znaleziskiem odkopanym na terenie le\u015bnictwa Dziewi\u0119cierz. Tomasz Kornaga ...",
             "image_url": "https://www.bing.pl/th?id=OVF.DIZE4%2bCDC8MiB%2bPKYsteLw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Super Express1 godz.",
+            "date": "Super Express5 godz.",
             "source": "Super Express",
             "article_content": "Ca\u0142a Polska zbiera\u0142a pieni\u0105dze na lek dla malutkiej Poli. W trakcie rehabilitacji sta\u0142o si\u0119 co\u015b strasznego\n\nNadle\u015bnictwo Lubacz\u00f3w na pocz\u0105tku maja 2025 roku w swoich mediach spo\u0142eczno\u015bciowych pochwali\u0142o si\u0119 niezwyk\u0142ym znaleziskiem. Spod ziemi wykopano zabytkowy trybularz, inaczej zwany kadzielnic\u0105. To sprz\u0119t liturgiczny s\u0142u\u017c\u0105cy do okadzania ko\u015bcio\u0142a i o\u0142tarza podczas obrz\u0119d\u00f3w. Jest to metalowy pojemnik z przykrywk\u0105, umocowany na \u0142a\u0144cuszkach, w kt\u00f3rym umieszcza si\u0119 metalowy koszyczek z roz\u017carzonym w\u0119glem drzewnym i kadzid\u0142em.\n\nDym z kadzid\u0142a symbolizuje obecno\u015b\u0107 Boga i wznosz\u0105ce si\u0119 do Niego modlitwy. Tego niezwyk\u0142ego odkrycia dokona\u0142 Pan Tomasz Kornaga. - Trybularz zosta\u0142 zabezpieczony przez Muzeum Kres\u00f3w w Lubaczowie i mamy nadziej\u0119, \u017ce ju\u017c nied\u0142ugo stanie si\u0119 eksponatem, kt\u00f3ry b\u0119dziemy mogli z zachwytem podziwia\u0107. Panu Tomaszowi gratulujemy i \u017cyczymy dalszych wspania\u0142ych odkry\u0107! \u2013 przekaza\u0142o Nadle\u015bnictwo Lubacz\u00f3w.\n\nMuzeum Kres\u00f3w Wschodnich w Lubaczowie potwierdzi\u0142o znalezisko i zapewni\u0142o, \u017ce po oczyszczeniu i opisaniu, skarb z lasu b\u0119d\u0105 mogli ogl\u0105da\u0107 tury\u015bci odwiedzaj\u0105cy muzeum.\n\n- Dzi\u0119ki panu Tomaszowi Kornadze oraz wsp\u00f3\u0142pracy z Podkarpackim Wojew\u00f3dzkim Konserwatorem Zabytk\u00f3w kolejne le\u015bne znalezisko ju\u017c wkr\u00f3tce trafi do naszych zbior\u00f3w! Odkryciem jest trybularz (kadzielnica) z prze\u0142omu XIX i XX w., kt\u00f3ry pan Tomasz Kornaga odnalaz\u0142 w trakcie legalnych poszukiwa\u0144 przy pomocy wykrywacza metali na terenie Gmina Horyniec-Zdr\u00f3j. Ten wyj\u0105tkowej urody artefakt wzbogaci kolekcj\u0119 muzealn\u0105. Serdecznie gratulujemy i dzi\u0119kujemy znalazcy! - przekaza\u0142o Muzeum, na swoim profilu, r\u00f3wnie\u017c w mediach spo\u0142eczno\u015bciowych.\n\nInternauci od razu zacz\u0119li snu\u0107 przypuszczenia, sk\u0105d tak niezwyk\u0142ej urody skarb, znalaz\u0142 w lesie. Wiadomo, \u017ce tereny gdzie znaleziono przepi\u0119kny trybularz maj\u0105 swoja burzliw\u0105 histori\u0119. Si\u0119ga ona \u015bredniowiecza, a od 1444 roku dokumentuje si\u0119 wzmianki o Hory\u0144cu. Miejscowo\u015b\u0107 by\u0142a w\u0142asno\u015bci\u0105 r\u00f3\u017cnych rodzin szlacheckich, m.in. Lutos\u0142awskich, Gorelowskich i Telefus\u00f3w. W XIX wieku Horyniec rozwija\u0142 si\u0119 jako miejsce lecznicze, a w 1973 roku uzyska\u0142 status uzdrowiska.\n\nHistorie lokalnych parafii, z kt\u00f3rych mog\u0142aby pochodzi\u0107 zabytkowa kadzielnica s\u0105 jeszcze bardziej fascynuj\u0105ce. Na kartach dziej\u00f3w ko\u015bcielnych mo\u017cemy poczyta\u0107 wie\u015bci informuj\u0105ce o zwyk\u0142ych kradzie\u017cach, grabie\u017cach naje\u017ad\u017ac\u00f3w, oraz o tym, jak lokalna spo\u0142eczno\u015b\u0107 chroni\u0142a dobra ko\u015bcio\u0142a przed zrabowaniem m.in. chowaj\u0105c i zakopuj\u0105c kosztowno\u015bci w r\u00f3\u017cnych miejscach.\n\nBy\u0107 mo\u017ce kiedy\u015b uda si\u0119 pozna\u0107 pe\u0142n\u0105 histori\u0119 trybularza znalezionego jako skarb w lubaczowskich lasach. Na razie pozostaje si\u0119 cieszy\u0107 nietypowym znaleziskiem i oczekiwa\u0107, kiedy b\u0119dzie go mo\u017cna obejrze\u0107 w Muzeum Kres\u00f3w w Lubaczowie.\n\nNadle\u015bnictwo Lubacz\u00f3w przypomina, \u017ce poszukiwania w lesie mo\u017cna prowadzi\u0107 po uzyskaniu zgody nadle\u015bnictwa, oraz Wojew\u00f3dzkiego Konserwatora Zabytk\u00f3w."
         }
