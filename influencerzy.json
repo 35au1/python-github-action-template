@@ -10,7 +10,7 @@
             "description": "Przedmioty z czas\u00f3w PRL w 2025 roku zyskuj\u0105 na warto\u015bci. S\u0105 poszukiwane zar\u00f3wno przez kolekcjoner\u00f3w, jak i mi\u0142o\u015bnik\u00f3w retro, ...",
             "image_url": "https://www.bing.pl/th?id=OVF.M19JZjNTgjJOSwZXhxqvmg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Gazeta Pomorska on MSN2 godz.",
+            "date": "Gazeta Pomorska on MSN6 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -26,9 +26,25 @@
             "description": "Stare telefony kom\u00f3rkowe zyskuj\u0105 na warto\u015bci, a ich ceny w 2025 roku potrafi\u0105 zaskoczy\u0107. Co ciekawe, wysoka cena nie zawsze ...",
             "image_url": "https://www.bing.pl/th?id=OVF.koPxu%2fhBfd8LyMHpq%2fFIqQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN5 godz.",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN9 godz.",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "M\u0142odzie\u017c z pasj\u0105. Poznajcie Towarzystwo Krzewicieli Tradycji Kurpiowskich (wideo)",
+            "link": "https://www.moja-ostroleka.pl/art/1747388399/mlodziez-z-pasja-poznajcie-towarzystwo-krzewicieli-tradycji-kurpiowskich-wideo",
+            "description": "Nasza redakcja wspiera m\u0142odzie\u017c, kt\u00f3ra ma pasje. Nasi rozm\u00f3wcy nie tylko maj\u0105 pasj\u0119, ale tak\u017ce kochaj\u0105 kurpiowsk\u0105 kultur\u0119.",
+            "image_url": "https://www.bing.pl/th?id=OVF.5EjO9BowSKgPC%2b1gSzn5nQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Moja Ostro\u0142\u0119ka3 godz.",
+            "source": "Moja Ostro\u0142\u0119ka",
+            "article_content": "Content not available"
         }
     },
     {
@@ -42,25 +58,9 @@
             "description": "Stanowski bezlito\u015bnie podczas ostatniej debaty w neo-TVP podsumowa\u0142 \u201edziennikark\u0119' Dorot\u0119 Wysock\u0105-Schnepf, nazywaj\u0105c j\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.CkDGvfKGU-iP2D_YJw0cvS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "wPolityce.pl10 godz.",
+            "date": "wPolityce.pl14 godz.",
             "source": "wPolityce.pl",
             "article_content": "Publikacja dost\u0119pna na stronie: https://wpolityce.pl/media/729553-stanowski-vs-onet-i-gw-czuchnowski-przyslal-mi-smsa\n\nDzi\u0119kujemy za przeczytanie artyku\u0142u!\n\nNajwa\u017cniejsze teksty publicystyczne i analityczne w jednym miejscu! Do\u0142\u0105cz do Premium+. Pami\u0119taj, mo\u017cesz ogl\u0105da\u0107 nasz\u0105 telewizj\u0119 na wPolsce24. Buduj z nami niezale\u017cne media na wesprzyj.wpolsce24."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Te przedmioty w PRL-u mia\u0142 w domu ka\u017cdy. Dzi\u015b s\u0105 warte fortun\u0119. Sprawd\u017a, czy nie masz na strychu",
-            "link": "https://www.eska.pl/news/te-przedmioty-w-prl-u-mial-w-domu-kazdy-dzis-sa-warte-fortune-sprawdz-czy-nie-masz-na-strychu-aa-vWoY-zDGZ-omdB.html",
-            "description": "Czasy PRL-u, cho\u0107 wielu kojarz\u0105 si\u0119 z trudno\u015bciami i ograniczeniami, to r\u00f3wnie\u017c okres, kt\u00f3ry obfitowa\u0142 w charakterystyczne ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.5yJpcsQZSCu1WwhTJTkg6C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "Radio ESKA17 godz.",
-            "source": "Radio ESKA",
-            "article_content": "Spis tre\u015bci\n\nOkres PRL-u, cho\u0107 raczej kojarzy si\u0119 z szaro\u015bci\u0105 i reglamentacj\u0105 produkt\u00f3w, nawet tych codziennego u\u017cytku, dzi\u015b wielu wspomina z sentymentem. Do \u0142ask wracaj\u0105 przedmioty, kt\u00f3re niegdy\u015b by\u0142y w ka\u017cdym domu i tym, a ci, kt\u00f3rzy \u017cyli w tamtym okresie, dzi\u015b ju\u017c za nic nie chcieliby mie\u0107 ich w swoich mieszkaniach. I tak np. wielki renesans prze\u017cywaj\u0105 dzi\u015b meble z lat 60. i 70., charakteryzuj\u0105ce si\u0119 prostot\u0105 formy i funkcjonalno\u015bci\u0105, jak kultowe fotele \"Liski\", komody z charakterystycznymi n\u00f3\u017ckami, czy rega\u0142y. Kolekcjonerzy uznaj\u0105 je za prawdziwe pere\u0142ki i gotowi s\u0105 za nie zap\u0142aci\u0107 niema\u0142e pieni\u0105dze. Je\u015bli na strychu posiadasz relikty z okresu Polski Ludowej, koniecznie sprawd\u017a jego warto\u015b\u0107!\n\nZobacz tak\u017ce: Nie tylko stare monety. Za te ksi\u0105\u017cki z czas\u00f3w PRL mo\u017cesz dosta\u0107 fortun\u0119\n\nW cieniu PRL-owskich kolos\u00f3w. Beton, propaganda i potrzeba dominacji Rozwijamy nasz serwis dzi\u0119ki wy\u015bwietlaniu reklam. Blokuj\u0105c reklamy, nie pozwalasz nam tworzy\u0107 warto\u015bciowych tre\u015bci. Wy\u0142\u0105cz AdBlock i od\u015bwie\u017c stron\u0119.\n\nTe produkty codziennego u\u017cytku z czas\u00f3w PRL-u mog\u0105 by\u0107 sporo warte. Sprawd\u017a, czy nie masz ich w domu\n\nOgromn\u0105 popularno\u015bci\u0105 ciesz\u0105 si\u0119 tak\u017ce przedmioty, kt\u00f3re kiedy\u015b s\u0142u\u017cy\u0142y nam na co dzie\u0144, jak np. stare radia, gramofony czy aparaty fotograficzne. Du\u017c\u0105 warto\u015b\u0107 maj\u0105 tak\u017ce przedmioty przeznaczone do sprz\u0105tania, jak np. kultowa pralka frania. I tak na przyk\u0142ad odkurzacz firmy Predom Zelmer sprzedany zosta\u0142 za 300 z\u0142, a m\u0142ynki do kawy tej samej marki zosta\u0142y wycenione na oko\u0142o ok. 165 z\u0142 za sztuk\u0119. Zainteresowaniem ciesz\u0105 si\u0119 tak\u017ce sprz\u0119ty RTV, jak np. prodi\u017ce, bez kt\u00f3rych nie mog\u0142a obej\u015b\u0107 si\u0119 \u017cadna pani domu, czy po\u017c\u0105dany przez wszystkich opiekacz Predom Selfa, kt\u00f3ry wyceniono na oko\u0142o 850 z\u0142. Oczywi\u015bcie cena danego przedmiotu zale\u017cy od stanu zachowania oraz tego, czy sprz\u0119t jest nadal sprawny.\n\nZabawki z PRL-u nadal w cenie\n\nKolekcjonerzy poszukuj\u0105 tak\u017ce zabawek z okresu PRL-u. Np. za figurk\u0119 s\u0142ynnego plastikowego misia \"zesolka\" mo\u017cna otrzyma\u0107 mi\u0119dzy 240 a 300 z\u0142. Najbardziej po\u017c\u0105dane s\u0105 jednak figurki z serii \"Gwiezdne wojny\". Na przyk\u0142ad za posta\u0107 Lorda Vadera z lat 80. kolekcjonerzy s\u0105 w stanie zap\u0142aci\u0107 nawet 1700 z\u0142! Zanim wi\u0119c pozb\u0119dziesz si\u0119 starych przedmiot\u00f3w ze strychu, po\u015bwi\u0119\u0107 chwil\u0119 na ich dok\u0142adne obejrzenie. By\u0107 mo\u017ce w\u015br\u00f3d nich kryj\u0105 si\u0119 prawdziwe skarby, kt\u00f3re pozwol\u0105 Ci zarobi\u0107 niema\u0142e pieni\u0105dze! Kto wie, mo\u017ce w\u0142a\u015bnie odkryjesz zapomniane dziedzictwo i kawa\u0142ek historii, kt\u00f3ry jest wart fortun\u0119!"
         }
     },
     {
@@ -74,7 +74,7 @@
             "description": "Kryszta\u0142y PRL zyskuj\u0105 na popularno\u015bci w 2025 roku \u2013 kolekcjonerzy coraz ch\u0119tniej inwestuj\u0105 w te retro skarby, a ceny rosn\u0105 w ...",
             "image_url": "https://www.bing.pl/th?id=OVF.LfIp66qHosQTMI57anASDw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Gazeta Pomorska on MSN5 godz.",
+            "date": "Gazeta Pomorska on MSN9 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -90,7 +90,7 @@
             "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
             "image_url": "https://www.bing.pl/th?id=OVF.d0lHATJdEAAW4rYg2zvXsQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Szczeci\u0144ski on MSN3 godz.",
+            "date": "G\u0142os Szczeci\u0144ski on MSN7 godz.",
             "source": "G\u0142os Szczeci\u0144ski on MSN",
             "article_content": ""
         }
@@ -101,12 +101,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Kolekcjonerzy poluj\u0105 na te starocie z PRL - lista, ceny, zdj\u0119cia. Takie pami\u0105tki mog\u0105 okaza\u0107 si\u0119 prawdziwym skarbem [16.05.2025]",
+            "title": "Kolekcjonerzy poluj\u0105 na te starocie z PRL - lista, ceny, zdj\u0119cia. Takie pami\u0105tki mog\u0105 okaza\u0107 si\u0119 prawdziwym skarbem",
             "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/kolekcjonerzy-poluj%C4%85-na-te-starocie-z-prl-lista-ceny-zdj%C4%99cia-takie-pami%C4%85tki-mog%C4%85-okaza%C4%87-si%C4%99-prawdziwym-skarbem/ar-AA1ESyu7?ocid=BingNewsVerp",
             "description": "Przedmioty z czas\u00f3w PRL w 2025 roku zyskuj\u0105 na warto\u015bci. S\u0105 poszukiwane zar\u00f3wno przez kolekcjoner\u00f3w, jak i mi\u0142o\u015bnik\u00f3w retro, ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.M19JZjNTgjJOSwZXhxqvmg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "image_url": "https://www.bing.pl/th?id=OVF.O1Fh9fOELn5svKyAUWtIBQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Gazeta Pomorska on MSN2 godz.",
+            "date": "Gazeta Pomorska on MSN6 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -122,23 +122,7 @@
             "description": "Unikatowy charakter mia\u0142y r\u00f3wnie\u017c przedmioty z tego okresu. Z pewno\u015bci\u0105 wiele os\u00f3b posiada w swoich domach rzeczy z czas\u00f3w ...",
             "image_url": "https://www.bing.pl/th?id=OVF.qLR9iqlGmoxJPH1WOiWDlg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski3 godz.",
-            "source": "G\u0142os Koszali\u0144ski",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Te meble z PRL s\u0105 warte maj\u0105tek! Masz je w domu? Szukaj\u0105 ich kolekcjonerzy! Zobacz, ile kosztuj\u0105 meble z PRL 16.05.2025",
-            "link": "https://gk24.pl/te-meble-z-prl-sa-warte-majatek-masz-je-w-domu-szukaja-ich-kolekcjonerzy-zobacz-ile-kosztuja-meble-z-prl-16-05-2025/ar/c9p2-27426143",
-            "description": "Z pewno\u015bci\u0105 ka\u017cdy z nas kojarzy meblo\u015bcianki, kredensy, sto\u0142y, fotele z okresu PRL. Mia\u0142y one sw\u00f3j unikatowy charakter, ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.0OMAszgLmaxWiO4cJZL3EA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski3 godz.",
+            "date": "G\u0142os Koszali\u0144ski8 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
         }
@@ -154,9 +138,25 @@
             "description": "Czasy PRL-u, cho\u0107 wielu kojarz\u0105 si\u0119 z trudno\u015bciami i ograniczeniami, to r\u00f3wnie\u017c okres, kt\u00f3ry obfitowa\u0142 w charakterystyczne ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.5yJpcsQZSCu1WwhTJTkg6C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Radio ESKA17 godz.",
+            "date": "Radio ESKA21 godz.",
             "source": "Radio ESKA",
             "article_content": "Spis tre\u015bci\n\nOkres PRL-u, cho\u0107 raczej kojarzy si\u0119 z szaro\u015bci\u0105 i reglamentacj\u0105 produkt\u00f3w, nawet tych codziennego u\u017cytku, dzi\u015b wielu wspomina z sentymentem. Do \u0142ask wracaj\u0105 przedmioty, kt\u00f3re niegdy\u015b by\u0142y w ka\u017cdym domu i tym, a ci, kt\u00f3rzy \u017cyli w tamtym okresie, dzi\u015b ju\u017c za nic nie chcieliby mie\u0107 ich w swoich mieszkaniach. I tak np. wielki renesans prze\u017cywaj\u0105 dzi\u015b meble z lat 60. i 70., charakteryzuj\u0105ce si\u0119 prostot\u0105 formy i funkcjonalno\u015bci\u0105, jak kultowe fotele \"Liski\", komody z charakterystycznymi n\u00f3\u017ckami, czy rega\u0142y. Kolekcjonerzy uznaj\u0105 je za prawdziwe pere\u0142ki i gotowi s\u0105 za nie zap\u0142aci\u0107 niema\u0142e pieni\u0105dze. Je\u015bli na strychu posiadasz relikty z okresu Polski Ludowej, koniecznie sprawd\u017a jego warto\u015b\u0107!\n\nZobacz tak\u017ce: Nie tylko stare monety. Za te ksi\u0105\u017cki z czas\u00f3w PRL mo\u017cesz dosta\u0107 fortun\u0119\n\nW cieniu PRL-owskich kolos\u00f3w. Beton, propaganda i potrzeba dominacji Rozwijamy nasz serwis dzi\u0119ki wy\u015bwietlaniu reklam. Blokuj\u0105c reklamy, nie pozwalasz nam tworzy\u0107 warto\u015bciowych tre\u015bci. Wy\u0142\u0105cz AdBlock i od\u015bwie\u017c stron\u0119.\n\nTe produkty codziennego u\u017cytku z czas\u00f3w PRL-u mog\u0105 by\u0107 sporo warte. Sprawd\u017a, czy nie masz ich w domu\n\nOgromn\u0105 popularno\u015bci\u0105 ciesz\u0105 si\u0119 tak\u017ce przedmioty, kt\u00f3re kiedy\u015b s\u0142u\u017cy\u0142y nam na co dzie\u0144, jak np. stare radia, gramofony czy aparaty fotograficzne. Du\u017c\u0105 warto\u015b\u0107 maj\u0105 tak\u017ce przedmioty przeznaczone do sprz\u0105tania, jak np. kultowa pralka frania. I tak na przyk\u0142ad odkurzacz firmy Predom Zelmer sprzedany zosta\u0142 za 300 z\u0142, a m\u0142ynki do kawy tej samej marki zosta\u0142y wycenione na oko\u0142o ok. 165 z\u0142 za sztuk\u0119. Zainteresowaniem ciesz\u0105 si\u0119 tak\u017ce sprz\u0119ty RTV, jak np. prodi\u017ce, bez kt\u00f3rych nie mog\u0142a obej\u015b\u0107 si\u0119 \u017cadna pani domu, czy po\u017c\u0105dany przez wszystkich opiekacz Predom Selfa, kt\u00f3ry wyceniono na oko\u0142o 850 z\u0142. Oczywi\u015bcie cena danego przedmiotu zale\u017cy od stanu zachowania oraz tego, czy sprz\u0119t jest nadal sprawny.\n\nZabawki z PRL-u nadal w cenie\n\nKolekcjonerzy poszukuj\u0105 tak\u017ce zabawek z okresu PRL-u. Np. za figurk\u0119 s\u0142ynnego plastikowego misia \"zesolka\" mo\u017cna otrzyma\u0107 mi\u0119dzy 240 a 300 z\u0142. Najbardziej po\u017c\u0105dane s\u0105 jednak figurki z serii \"Gwiezdne wojny\". Na przyk\u0142ad za posta\u0107 Lorda Vadera z lat 80. kolekcjonerzy s\u0105 w stanie zap\u0142aci\u0107 nawet 1700 z\u0142! Zanim wi\u0119c pozb\u0119dziesz si\u0119 starych przedmiot\u00f3w ze strychu, po\u015bwi\u0119\u0107 chwil\u0119 na ich dok\u0142adne obejrzenie. By\u0107 mo\u017ce w\u015br\u00f3d nich kryj\u0105 si\u0119 prawdziwe skarby, kt\u00f3re pozwol\u0105 Ci zarobi\u0107 niema\u0142e pieni\u0105dze! Kto wie, mo\u017ce w\u0142a\u015bnie odkryjesz zapomniane dziedzictwo i kawa\u0142ek historii, kt\u00f3ry jest wart fortun\u0119!"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Te meble z PRL s\u0105 warte maj\u0105tek! Masz je w domu? Szukaj\u0105 ich kolekcjonerzy! Zobacz, ile kosztuj\u0105 meble z PRL 16.05.2025",
+            "link": "https://gk24.pl/te-meble-z-prl-sa-warte-majatek-masz-je-w-domu-szukaja-ich-kolekcjonerzy-zobacz-ile-kosztuja-meble-z-prl-16-05-2025/ar/c9p2-27426143",
+            "description": "Z pewno\u015bci\u0105 ka\u017cdy z nas kojarzy meblo\u015bcianki, kredensy, sto\u0142y, fotele z okresu PRL. Mia\u0142y one sw\u00f3j unikatowy charakter, ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.0OMAszgLmaxWiO4cJZL3EA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "G\u0142os Koszali\u0144ski8 godz.",
+            "source": "G\u0142os Koszali\u0144ski",
+            "article_content": "Content not available"
         }
     },
     {
@@ -170,7 +170,7 @@
             "description": "Przedmioty z czas\u00f3w PRL w 2025 roku zyskuj\u0105 na warto\u015bci. S\u0105 poszukiwane zar\u00f3wno przez kolekcjoner\u00f3w, jak i mi\u0142o\u015bnik\u00f3w retro, ...",
             "image_url": "https://www.bing.pl/th?id=OVF.M19JZjNTgjJOSwZXhxqvmg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN2 godz.",
+            "date": "Gazeta Pomorska on MSN6 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -186,7 +186,7 @@
             "description": "Unikatowy charakter mia\u0142y r\u00f3wnie\u017c przedmioty z tego okresu. Z pewno\u015bci\u0105 wiele os\u00f3b posiada w swoich domach rzeczy z czas\u00f3w ...",
             "image_url": "https://www.bing.pl/th?id=OVF.qLR9iqlGmoxJPH1WOiWDlg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "G\u0142os Koszali\u0144ski3 godz.",
+            "date": "G\u0142os Koszali\u0144ski8 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
         }
@@ -202,7 +202,7 @@
             "description": "Kryszta\u0142y PRL zyskuj\u0105 na popularno\u015bci w 2025 roku \u2013 kolekcjonerzy coraz ch\u0119tniej inwestuj\u0105 w te retro skarby, a ceny rosn\u0105 w ...",
             "image_url": "https://www.bing.pl/th?id=OVF.LfIp66qHosQTMI57anASDw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN5 godz.",
+            "date": "Gazeta Pomorska on MSN9 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -218,7 +218,7 @@
             "description": "W po\u0142owie lipca 2024 roku nurkowie z grupy Baltictech z Tr\u00f3jmiasta poinformowali o odkryciu 16-metrowego \u017caglowca z drewna, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.2Lb6X29TrKSK6TDVY-tQIS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Tygodnik Solidarno\u015b\u010719 godz.",
+            "date": "Tygodnik Solidarno\u015b\u010723 godz.",
             "source": "Tygodnik Solidarno\u015b\u0107",
             "article_content": "W po\u0142owie lipca 2024 roku nurkowie z grupy Baltictech z Tr\u00f3jmiasta poinformowali o odkryciu 16-metrowego \u017caglowca z drewna, wype\u0142nionego setk\u0105 butelek szampana, wina, wody mineralnej, a tak\u017ce porcelany. Teraz eksperci dokonali degustacji niezwyk\u0142ego znaleziska.\n\nCo musisz wiedzie\u0107?\n\nPolscy p\u0142etwonurkowie odkryli u wybrze\u017cy Szwecji wrak.\n\nNa pok\u0142adzie znajdowa\u0142 si\u0119 m.in. 170-letni szampan.\n\nDosz\u0142o do degustacji drogocennego trunku.\n\nSzampan zachowa\u0142 si\u0119 w ca\u0142kiem dobrym stanie, ale nie by\u0142 ju\u017c nasycony dwutlenkiem w\u0119gla, a zawarto\u015b\u0107 by\u0142a nieco m\u0119tna\n\n\u2013 przekaza\u0142 Petersson. Ekspert wraz z sommelierem spr\u00f3bowa\u0142 zawarto\u015b\u0107 jednej ze 100 butelek.\n\nNiezwyk\u0142e odkrycie polskich nurk\u00f3w. 170-letnie znalezisko ma s\u0142odki smak\n\nPrzypomnia\u0142, \u017ce \u0142adunek razem z holenderskim szkunerem Henrik i sze\u015bcioosobow\u0105 za\u0142og\u0105 zaton\u0105\u0142 w 1861 roku podczas sztormu. Ekskluzywny trunek mia\u0142 trafi\u0107 do cara Rosji Aleksandra II.\n\nRosyjski dw\u00f3r specjalnie zamawia\u0142 szampana z dodatkowym cukrem\n\n\u2013 wyja\u015bni\u0142.\n\nJak poinformowa\u0142o przedstawicielstwo administracji rz\u0105dowej hrabstwa Blekinge, nurkowanie przeprowadzono na pocz\u0105tku maja. Celem ekspedycji by\u0142o wydobycie kilku artefakt\u00f3w oraz ich zbadanie; trwaj\u0105 prace nad znalezieniem informacji w \u017ar\u00f3d\u0142ach historycznych na temat za\u0142ogi i \u0142adunku.\n\nCzy znalezisko trafi do muzeum?\n\nW przedsi\u0119wzi\u0119cie zaanga\u017cowa\u0142 si\u0119 producent szampana Roederer z Francji, kt\u00f3ry dzia\u0142a do dzi\u015b i do Szwecji wys\u0142a\u0142 swojego eksperta.\n\nBardzo im zale\u017cy, aby dokona\u0107 analizy chemicznej trunku i por\u00f3wna\u0107 ze wsp\u00f3\u0142czesnym szampanem\n\n\u2013 zaznaczy\u0142 Petersson.\n\nWed\u0142ug archeologa nast\u0119pnym krokiem b\u0119dzie publikacja raportu; na razie nie wiadomo, czy wy\u0142owiony szampan trafi na wystaw\u0119 do jednego z muze\u00f3w oraz co stanie si\u0119 z reszt\u0105 spoczywaj\u0105cego we wraku \u0142adunku.\n\nPo degustacji\n\n170-letni szampan z odkrytego latem ubieg\u0142ego roku przez Polak\u00f3w, na po\u0142udnie od wyspy Olandia, \u017caglowca ma s\u0142odki, owocowy smak z wyra\u017an\u0105 nut\u0105 starego, zapuszczonego strychu \u2013 poinformowa\u0142 w \u015brod\u0119 szwedzki archeolog pa\u0144stwowy Magnus Petersson."
         }
@@ -234,9 +234,25 @@
             "description": "170-letni szampan, odnaleziony latem zesz\u0142ego roku przez polskich nurk\u00f3w w wraku \u017caglowca na po\u0142udnie od wyspy Olandia, ma ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.07xCyL3S0iOOoypvhsZ_li&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Dziennik.pl19 godz.",
+            "date": "Dziennik.pl23 godz.",
             "source": "Dziennik.pl",
             "article_content": "Ekspert wraz z sommelierem spr\u00f3bowa\u0142 zawarto\u015b\u0107 jednej ze 100 butelek.\n\nSzampan zachowa\u0142 si\u0119 w ca\u0142kiem dobrym stanie, ale nie by\u0142 ju\u017c nasycony dwutlenkiem w\u0119gla, a zawarto\u015b\u0107 by\u0142a nieco m\u0119tna\"- przekaza\u0142 Petersson, podkre\u015blaj\u0105c \u017ce dokona\u0142 jedynie niewielkiego testu.\n\nPrzypomnia\u0142, \u017ce \u0142adunek razem z holenderskim szkunerem Henrik i sze\u015bcioosobow\u0105 za\u0142og\u0105 zaton\u0105\u0142 w 1861 roku podczas sztormu. Ekskluzywny trunek mia\u0142 trafi\u0107 do cara Rosji Aleksandra II. Rosyjski dw\u00f3r specjalnie zamawia\u0142 szampana z dodatkowym cukrem - wyja\u015bni\u0142.\n\nNiesamowite, co kry\u0142 wrak na dnie Ba\u0142tyku. Archeolodzy wydobyli skarb sprzed 170 lat\n\nJak poinformowa\u0142o we wtorek przedstawicielstwo administracji rz\u0105dowej hrabstwa Blekinge, nurkowanie przeprowadzono na pocz\u0105tku maja. Celem ekspedycji by\u0142o wydobycie kilku artefakt\u00f3w oraz ich zbadanie; trwaj\u0105 prace nad znalezieniem informacji w \u017ar\u00f3d\u0142ach historycznych na temat za\u0142ogi i \u0142adunku.\n\nReklama\n\nW przedsi\u0119wzi\u0119cie zaanga\u017cowa\u0142 si\u0119 producent szampana Roederer z Francji, kt\u00f3ry dzia\u0142a do dzi\u015b i do Szwecji wys\u0142a\u0142 swojego eksperta. Bardzo im zale\u017cy, aby dokona\u0107 analizy chemicznej trunku i por\u00f3wna\u0107 ze wsp\u00f3\u0142czesnym szampanem - zaznaczy\u0142 Petersson.\n\nWed\u0142ug archeologa nast\u0119pnym krokiem b\u0119dzie publikacja raportu; na razie nie wiadomo, czy wy\u0142owiony szampan trafi na wystaw\u0119 do jednego z muze\u00f3w oraz co stanie si\u0119 z reszt\u0105 spoczywaj\u0105cego we wraku \u0142adunku.\n\nW po\u0142owie lipca 2024 roku nurkowie z grupy Baltictech z Tr\u00f3jmiasta poinformowali o odkryciu 16-metrowego \u017caglowca z drewna, wype\u0142nionego setk\u0105 butelek szampana, wina, wody mineralnej, a tak\u017ce porcelany. Na dow\u00f3d zaprezentowano nagranie wideo i zdj\u0119cia. Szwedzkie media nazwa\u0142y odkrycie sensacyjnym. W sierpniu ubieg\u0142ego roku szwedzka administracja pa\u0144stwowa obj\u0119\u0142a ochron\u0105 prawn\u0105 wrak \u017caglowca, zabraniaj\u0105c nurkowania w jego pobli\u017cu bez zgody w\u0142adz, aby zapobiec pl\u0105drowaniu."
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Noc Muze\u00f3w 2025 na Podkarpaciu! Czeka nas masa atrakcji",
+            "link": "https://supernowosci24.pl/wiadomosci/noc-muzeow-2025-na-podkarpaciu-czeka-nas-masa-atrakcji/",
+            "description": "W ten weekend \u2013 w wi\u0119kszo\u015bci przypadk\u00f3w z soboty na niedziel\u0119 \u2013 czeka nas niezwyk\u0142a noc \u2013 Noc Muze\u00f3w 2025! Podczas niej setki ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.3ka0OrsXyrPr0N-LUEkUSC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "Super Nowo\u015bci32 min",
+            "source": "Super Nowo\u015bci",
+            "article_content": "Content not available"
         }
     },
     {
@@ -250,7 +266,7 @@
             "description": "W weekend 18-20 maja w \u0141odzi sporo si\u0119 dzieje. Noc Muze\u00f3w i urodziny Manufaktury to g\u0142\u00f3wne atrakcje. Ale mo\u017cna te\u017c wybra\u0107 si\u0119 na konsultacje dotycz\u0105ce zdrowia do Pasa\u017cu \u0141\u00f3dzkiego, parad\u0119 kundelk\u00f3w na ...",
             "image_url": "https://www.bing.pl/th?id=ODF.uJelon1vmcKYEKRidTlMcA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Dziennik \u0141\u00f3dzki on MSN12 godz.",
+            "date": "Dziennik \u0141\u00f3dzki on MSN17 godz.",
             "source": "Dziennik \u0141\u00f3dzki on MSN",
             "article_content": ""
         }
@@ -266,7 +282,7 @@
             "description": "Przed nami weekend. Jak go sp\u0119dzi\u0107? Znale\u017ali\u015bmy dla Was propozycje wydarze\u0144, na kt\u00f3re warto si\u0119 wybra\u0107 od pi\u0105tku 16 maja do niedzieli 181 maja 2025. Zapraszamy do naszej galerii, w kt\u00f3rej znajduj\u0105 si\u0119 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.1HhmRsrjdzWJFwhlDAHRNw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Rzesz\u00f3w Nasze Miasto on MSN11 godz.",
+            "date": "Rzesz\u00f3w Nasze Miasto on MSN15 godz.",
             "source": "Rzesz\u00f3w Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -282,7 +298,7 @@
             "description": "Czasy PRL-u, cho\u0107 wielu kojarz\u0105 si\u0119 z trudno\u015bciami i ograniczeniami, to r\u00f3wnie\u017c okres, kt\u00f3ry obfitowa\u0142 w charakterystyczne ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.5yJpcsQZSCu1WwhTJTkg6C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Radio ESKA17 godz.",
+            "date": "Radio ESKA21 godz.",
             "source": "Radio ESKA",
             "article_content": "Spis tre\u015bci\n\nOkres PRL-u, cho\u0107 raczej kojarzy si\u0119 z szaro\u015bci\u0105 i reglamentacj\u0105 produkt\u00f3w, nawet tych codziennego u\u017cytku, dzi\u015b wielu wspomina z sentymentem. Do \u0142ask wracaj\u0105 przedmioty, kt\u00f3re niegdy\u015b by\u0142y w ka\u017cdym domu i tym, a ci, kt\u00f3rzy \u017cyli w tamtym okresie, dzi\u015b ju\u017c za nic nie chcieliby mie\u0107 ich w swoich mieszkaniach. I tak np. wielki renesans prze\u017cywaj\u0105 dzi\u015b meble z lat 60. i 70., charakteryzuj\u0105ce si\u0119 prostot\u0105 formy i funkcjonalno\u015bci\u0105, jak kultowe fotele \"Liski\", komody z charakterystycznymi n\u00f3\u017ckami, czy rega\u0142y. Kolekcjonerzy uznaj\u0105 je za prawdziwe pere\u0142ki i gotowi s\u0105 za nie zap\u0142aci\u0107 niema\u0142e pieni\u0105dze. Je\u015bli na strychu posiadasz relikty z okresu Polski Ludowej, koniecznie sprawd\u017a jego warto\u015b\u0107!\n\nZobacz tak\u017ce: Nie tylko stare monety. Za te ksi\u0105\u017cki z czas\u00f3w PRL mo\u017cesz dosta\u0107 fortun\u0119\n\nW cieniu PRL-owskich kolos\u00f3w. Beton, propaganda i potrzeba dominacji Rozwijamy nasz serwis dzi\u0119ki wy\u015bwietlaniu reklam. Blokuj\u0105c reklamy, nie pozwalasz nam tworzy\u0107 warto\u015bciowych tre\u015bci. Wy\u0142\u0105cz AdBlock i od\u015bwie\u017c stron\u0119.\n\nTe produkty codziennego u\u017cytku z czas\u00f3w PRL-u mog\u0105 by\u0107 sporo warte. Sprawd\u017a, czy nie masz ich w domu\n\nOgromn\u0105 popularno\u015bci\u0105 ciesz\u0105 si\u0119 tak\u017ce przedmioty, kt\u00f3re kiedy\u015b s\u0142u\u017cy\u0142y nam na co dzie\u0144, jak np. stare radia, gramofony czy aparaty fotograficzne. Du\u017c\u0105 warto\u015b\u0107 maj\u0105 tak\u017ce przedmioty przeznaczone do sprz\u0105tania, jak np. kultowa pralka frania. I tak na przyk\u0142ad odkurzacz firmy Predom Zelmer sprzedany zosta\u0142 za 300 z\u0142, a m\u0142ynki do kawy tej samej marki zosta\u0142y wycenione na oko\u0142o ok. 165 z\u0142 za sztuk\u0119. Zainteresowaniem ciesz\u0105 si\u0119 tak\u017ce sprz\u0119ty RTV, jak np. prodi\u017ce, bez kt\u00f3rych nie mog\u0142a obej\u015b\u0107 si\u0119 \u017cadna pani domu, czy po\u017c\u0105dany przez wszystkich opiekacz Predom Selfa, kt\u00f3ry wyceniono na oko\u0142o 850 z\u0142. Oczywi\u015bcie cena danego przedmiotu zale\u017cy od stanu zachowania oraz tego, czy sprz\u0119t jest nadal sprawny.\n\nZabawki z PRL-u nadal w cenie\n\nKolekcjonerzy poszukuj\u0105 tak\u017ce zabawek z okresu PRL-u. Np. za figurk\u0119 s\u0142ynnego plastikowego misia \"zesolka\" mo\u017cna otrzyma\u0107 mi\u0119dzy 240 a 300 z\u0142. Najbardziej po\u017c\u0105dane s\u0105 jednak figurki z serii \"Gwiezdne wojny\". Na przyk\u0142ad za posta\u0107 Lorda Vadera z lat 80. kolekcjonerzy s\u0105 w stanie zap\u0142aci\u0107 nawet 1700 z\u0142! Zanim wi\u0119c pozb\u0119dziesz si\u0119 starych przedmiot\u00f3w ze strychu, po\u015bwi\u0119\u0107 chwil\u0119 na ich dok\u0142adne obejrzenie. By\u0107 mo\u017ce w\u015br\u00f3d nich kryj\u0105 si\u0119 prawdziwe skarby, kt\u00f3re pozwol\u0105 Ci zarobi\u0107 niema\u0142e pieni\u0105dze! Kto wie, mo\u017ce w\u0142a\u015bnie odkryjesz zapomniane dziedzictwo i kawa\u0142ek historii, kt\u00f3ry jest wart fortun\u0119!"
         }
@@ -295,10 +311,10 @@
         "body": {
             "title": "Osta\u0144ce drugiej wojny \u015bwiatowej. Miasto planuje sprzeda\u0107 zabytkowe kamienice w centrum Warszawy",
             "link": "https://www.msn.com/pl-pl/wiadomosci/polska/osta%C5%84ce-drugiej-wojny-%C5%9Bwiatowej-miasto-planuje-sprzeda%C4%87-zabytkowe-kamienice-w-centrum-warszawy/ar-AA1ESvgs?ocid=BingNewsVerp",
-            "description": "Czy kamienice przy ul. Ciep\u0142ej 3 i Twardej 28 zostan\u0105 sprzedane? Miasto bada ich stan prawny oraz potencja\u0142 inwestycyjny. Wiemy za to, \u017ce nieruchomo\u015b\u0107 przy ul. \u017belaznej 66 zosta\u0142a przeznaczona do zbyc ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.RiSZ6cVK2kGKUBp4PkSDCg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "description": "Czy kamienice przy ul. Ciep\u0142ej 3 i Twardej 28 zostan\u0105 sprzedane? Miasto bada ich stan prawny oraz potencja\u0142 inwestycyjny.",
+            "image_url": "https://www.bing.pl/th?id=OVFT.N4WbJ9H55OzZh9u_5vnkQi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Warszawa Nasze Miasto on MSN3 godz.",
+            "date": "Warszawa Nasze Miasto on MSN7 godz.",
             "source": "Warszawa Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -314,25 +330,9 @@
             "description": "14 maja 2025 r. powo\u0142any zosta\u0142 setny rezerwat przyrody w ramach inicjatywy \u201e100 rezerwat\u00f3w na 100-lecie Las\u00f3w Pa\u0144stwowych'.",
             "image_url": "https://www.bing.pl/th?id=OVFT.3kTpRBzWkX-XRjjf8DrHZi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Kronika24.pl16 godz.",
+            "date": "Kronika24.pl21 godz.",
             "source": "Kronika24.pl",
             "article_content": "14 maja 2025 r. powo\u0142any zosta\u0142 setny rezerwat przyrody w ramach inicjatywy \u201e100 rezerwat\u00f3w na 100-lecie Las\u00f3w Pa\u0144stwowych\u201d.\n\nTo Le\u015bna Ostoja ko\u0142o Promna im. Wielkiej Orkiestry \u015awi\u0105tecznej Pomocy w Wielkopolsce. W wydarzeniu wzi\u0119li udzia\u0142 m.in. marsza\u0142ek Sejmu Szymon Ho\u0142ownia, minister klimatu i \u015brodowiska Paulina Hennig-Kloska oraz wiceminister Miko\u0142aj Doro\u017ca\u0142a.\n\nSetny nowy rezerwat\n\nProjekt powo\u0142ania nowych rezerwat\u00f3w przyrody zak\u0142ada powstanie 100 nowych rezerwat\u00f3w przyrody z okazji stulecia Las\u00f3w Pa\u0144stwowych. Od 2024 roku powo\u0142ano ju\u017c 99 takich obszar\u00f3w chronionych, a dokumentacja dla kolejnych jest na uko\u0144czeniu. Setny rezerwat \u2013 Le\u015bna Ostoja ko\u0142o Promna im. Wielkiej Orkiestry \u015awi\u0105tecznej Pomocy \u2013 powo\u0142ano w\u0142a\u015bnie podczas uroczysto\u015bci w samym rezerwacie.\n\nTen las ma ju\u017c histori\u0119 ponad 160-letni\u0105. Powsta\u0142 z proces\u00f3w naturalnych. Jest to dorobek paru pokole\u0144, a jego utrata by\u0142aby utrat\u0105 na wiele kolejnych. Chcemy pozostawi\u0107 go nie tylko naszym dzieciom i wnukom, ale tak\u017ce wielu przysz\u0142ym pokoleniom\n\n\u2013 powiedzia\u0142a Paulina Hennig-Kloska.\n\nZwi\u0119kszanie ochrony najcenniejszych teren\u00f3w przyrodniczych to jedna z g\u0142\u00f3wnych inicjatyw, z jak\u0105 rozpocz\u0119li\u015bmy prac\u0119 w Ministerstwie Klimatu i \u015arodowiska. Przez osiem lat poprzedzaj\u0105cych nasz okres tych rezerwat\u00f3w powsta\u0142o jedynie 36, a w ci\u0105gu 12 miesi\u0119cy my utworzyli\u015bmy 100 rezerwat\u00f3w. Rezerwat Le\u015bna Ostoja k. Promna to zamkni\u0119cie pewnego okresu pracy, ale nie zamierzamy zatrzyma\u0107 si\u0119 na setnym rezerwacie. W regionalnych dyrekcjach ochrony \u015brodowiska trwaj\u0105 prace nad kolejnymi\n\n\u2013 doda\u0142a.\n\nNowy rezerwat to:\n\nChroniony obszar, kt\u00f3ry porastaj\u0105 jedne z najmniej zmienionych przez cz\u0142owieka las\u00f3w w regionie. Ro\u015bnie tam wiele ponad 160-letnich drzew, a nawet starsze okazy.\n\nNa terenie nowego rezerwatu wyst\u0119puj\u0105 liczne, chronione p\u0142azy i gady, ponad 40 ptak\u00f3w l\u0119gowych. To miejsce jest tak\u017ce ostoj\u0105 dla nietoperzy, wilka czy orzesznicy leszczynowej.\n\nPowierzchnia chroniona wynosz\u0105ca ponad 55 hektar\u00f3w.\n\nNazwa nowego rezerwatu zwi\u0105zana jest z aukcj\u0105 na rzecz 33. fina\u0142u Wielkiej Orkiestry \u015awi\u0105tecznej Pomocy. Zwyci\u0119\u017cczyni aukcji wspar\u0142a WO\u015aP kwot\u0105 10 tysi\u0119cy z\u0142otych i sta\u0142a si\u0119 matk\u0105 chrzestn\u0105 setnego, nowego rezerwatu utworzonego z okazji 100 lat Las\u00f3w Pa\u0144stwowych.\n\nWsparcie ochrony przyrody w Polsce\n\nNowe rezerwaty obejmuj\u0105 obszary o wyj\u0105tkowych walorach przyrodniczych. Chroni\u0105 m.in. torfowiska, lasy bagienne i naturalne kompleksy le\u015bne. W\u015br\u00f3d nich znalaz\u0142y si\u0119 takie pere\u0142ki jak wielogatunkowe lasy li\u015bciaste w Beskidzie S\u0105deckim, w\u0105wozy le\u015bne w G\u00f3rach \u015awi\u0119tokrzyskich, relikty bor\u00f3w jod\u0142owych oraz unikalne bory sosnowe w centralnej Polsce.\n\nRezerwaty te to r\u00f3wnie\u017c realna odpowied\u017a na wyzwania klimatyczne \u2013 zatrzymuj\u0105 wod\u0119, ograniczaj\u0105 skutki powodzi i chroni\u0105 bior\u00f3\u017cnorodno\u015b\u0107. Powstanie rezerwatu transgranicznego na granicy z Czechami to przyk\u0142ad wsp\u00f3\u0142pracy i skutecznej ochrony przyrody w skali ponadnarodowej.\n\nTo jest kolejne \u015bwi\u0119to \u2013 \u015bwi\u0119to przyrody, kt\u00f3ra nas \u0142\u0105czy. Symboliczny moment. Ten rezerwat ma s\u0142u\u017cy\u0107 ludziom, ale ma tak\u017ce s\u0142u\u017cy\u0107 przyrodzie, kt\u00f3r\u0105 musimy konserwowa\u0107, \u017ceby j\u0105 zachowa\u0107. Rezerwat Le\u015bna Ostoja k. Promna jest setnym rezerwatem, kt\u00f3ry stworzyli\u015bmy zaledwie w ci\u0105gu 12 miesi\u0119cy. Bo przyroda jest wa\u017cna. Przyroda jest cz\u0119\u015bci\u0105 naszej wsp\u00f3lnej to\u017csamo\u015bci. Przyroda jest czym\u015b, o co powinni\u015bmy nieustannie zabiega\u0107 we wsp\u00f3\u0142pracy i kooperacji\n\n\u2013 podkre\u015bli\u0142 wiceminister i G\u0142\u00f3wny Konserwator Przyrody Miko\u0142aj Doro\u017ca\u0142a.\n\nMinisterstwo Klimatu i \u015arodowiska podkre\u015bla, \u017ce w ostatnich miesi\u0105cach przyspieszono dzia\u0142ania na rzecz ochrony przyrody. Od pocz\u0105tku 2024 roku powsta\u0142o ju\u017c niemal dwa razy wi\u0119cej rezerwat\u00f3w ni\u017c w ca\u0142ej poprzedniej dekadzie. Trwaj\u0105 r\u00f3wnie\u017c prace nad utworzeniem pierwszego od 24 lat nowego parku narodowego \u2013 w Dolinie Dolnej Odry.\n\nWa\u017cnym krokiem w kierunku lepszej ochrony \u015brodowiska by\u0142o te\u017c wprowadzenie historycznej subwencji ekologicznej dla samorz\u0105d\u00f3w. 1,47 mld z\u0142otych trafi do gmin wspieraj\u0105cych ochron\u0119 przyrody. Rozwijana jest r\u00f3wnie\u017c koncepcja las\u00f3w spo\u0142ecznych \u2013 obszar\u00f3w le\u015bnych wok\u00f3\u0142 miast, w kt\u00f3rych priorytetem b\u0119d\u0105 potrzeby lokalnych mieszka\u0144c\u00f3w.\n\nDzi\u0119ki zaanga\u017cowaniu Las\u00f3w Pa\u0144stwowych, Regionalnych Dyrekcji Ochrony \u015arodowiska oraz lokalnych spo\u0142eczno\u015bci, projekt \u201e100 rezerwat\u00f3w\u201d jest realnym dowodem na to, \u017ce mo\u017cliwe jest skuteczne dzia\u0142anie na rzecz polskiej przyrody."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Nowy rezerwat w Polsce z wyj\u0105tkow\u0105 nazw\u0105. \"Ten las ma ponad 160-letni\u0105 histori\u0119\"",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/nowy-rezerwat-w-polsce-z-wyj%C4%85tkow%C4%85-nazw%C4%85-ten-las-ma-ponad-160-letni%C4%85-histori%C4%99/ar-AA1EOTat?ocid=BingNewsVerp",
-            "description": "\"Le\u015bna Ostoja\" ko\u0142o Promna jest 100. rezerwatem przyrody powo\u0142anym w ramach projektu \"100 rezerwat\u00f3w na 100-lecie Las\u00f3w ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.z-v2hlfPpR06w9swdesCLi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "Wiadomo\u015bci Radio ZET on MSN22 godz.",
-            "source": "Wiadomo\u015bci Radio ZET on MSN",
-            "article_content": ""
         }
     },
     {
@@ -346,8 +346,24 @@
             "description": "Rozgl\u0105dasz si\u0119 za nowymi \u015bcie\u017ckami nordic walking w pobli\u017cu Ko\u0142obrzegu? Z Traseo mamy dla Ciebie gar\u015b\u0107 propozycji na ten ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.loIpSQGzw-Zk_dH173C8ly&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Ko\u0142obrzeg Nasze Miasto18 godz.",
+            "date": "Ko\u0142obrzeg Nasze Miasto22 godz.",
             "source": "Ko\u0142obrzeg Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Trasy na rower do 8 km od Jaworzna. Podpowiadamy pomys\u0142y na wypraw\u0119. Gdzie w weekend 17 - 18 maja?",
+            "link": "https://jaworzno.naszemiasto.pl/trasy-na-rower-do-8-km-od-jaworzna-podpowiadamy-pomysly-na-wyprawe-gdzie-w-weekend-17-18-maja/ar/c7p1-21831473",
+            "description": "Nim wyruszysz w drog\u0119, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 17 maja w Jaworznie ma by\u0107 10\u00b0C. Prawdopodobie\u0144stwo wyst\u0105pienia deszczu wynosi 83%. W niedziel\u0119 18 maja w Jaworznie ma by\u0107 12\u00b0C.",
+            "image_url": "https://www.bing.pl/th?id=ODF.xuxuzDoKTo_KUVbVG-PJkA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "relikty",
+            "date": "Jaworzno Nasze Miasto23 godz.",
+            "source": "Jaworzno Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -362,9 +378,41 @@
             "description": "Siostry s\u0142u\u017cebniczki z Pleszewa otwieraj\u0105 drzwi do swojego muzeum. Sobot\u0119, 17 maja, czyli w Noc Muze\u00f3w po\u015bwi\u0119cona zostanie ...",
             "image_url": "https://www.bing.pl/th?id=OVF.HgVtwXjIu5%2fXIzxJkwFe6A&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Pleszew Nasze Miasto on MSN1 godz.",
+            "date": "Pleszew Nasze Miasto on MSN5 godz.",
             "source": "Pleszew Nasze Miasto on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Jak sp\u0119dzi\u0107 wolny czas w Koninie i powiecie koni\u0144skim? Oto najciekawsze propozycje. Te miejsca warto zobaczy\u0107",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/jak-sp%C4%99dzi%C4%87-wolny-czas-w-koninie-i-powiecie-koni%C5%84skim-oto-najciekawsze-propozycje-te-miejsca-warto-zobaczy%C4%87/ar-AA1ETs4v?ocid=BingNewsVerp",
+            "description": "Najbardziej rozpoznawalnym, zabytkowym obiektem w Koninie jest S\u0142up Milowy. To w kraju najstarszy drogowskaz, kt\u00f3ry niegdy\u015b ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.PlRklouzgT0GzEVL0339Jw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Konin Nasze Miasto on MSN3 godz.",
+            "source": "Konin Nasze Miasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "To b\u0119dzie Noc Muze\u00f3w! W sobot\u0119 a\u017c do p\u00f3\u0142nocy darmowe zwiedzanie \u0142\u00f3dzkich muze\u00f3w, galerii i siedzib instytucji",
+            "link": "https://dzienniklodzki.pl/to-bedzie-noc-muzeow-w-sobote-az-do-polnocy-darmowe-zwiedzanie-lodzkich-muzeow-galerii-i-siedzib-instytucji/ar/c1p2-27589713",
+            "description": "17 maja to gratka dla mi\u0142o\u015bnik\u00f3w zwiedzania. O godz. 18 startuje tegoroczna ods\u0142ona Nocy Muze\u00f3w. Swoje podwoje za darmo ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.8HBqzhZu7i9Bg8daz%2fEfgw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Dziennik \u0141\u00f3dzki2 godz.",
+            "source": "Dziennik \u0141\u00f3dzki",
+            "article_content": "Content not available"
         }
     },
     {
@@ -378,7 +426,7 @@
             "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
             "image_url": "https://www.bing.pl/th?id=OVF.d0lHATJdEAAW4rYg2zvXsQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "G\u0142os Szczeci\u0144ski on MSN3 godz.",
+            "date": "G\u0142os Szczeci\u0144ski on MSN7 godz.",
             "source": "G\u0142os Szczeci\u0144ski on MSN",
             "article_content": ""
         }
@@ -389,14 +437,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Wiosenne city breaki - jakie miejsca powiniene\u015b mie\u0107 na swojej li\u015bcie?",
-            "link": "https://www.dziennikwschodni.pl/artykuly-zewnetrzne/wiosenne-city-breaki-jakie-miejsca-powinienes-miec-na-swojej-liscie,n,1000361639.html",
-            "description": "Wiosna to idealny moment, \u017ceby wyrwa\u0107 si\u0119 z codzienno\u015bci i z\u0142apa\u0107 oddech. Temperatura jeszcze nie doskwiera, turyst\u00f3w jest ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.R88730vcF0DRSbVg2jEv0S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Warszawianka, kt\u00f3ra pokocha\u0142a Krak\u00f3w \u2013 Krystyna Zachwatowicz ko\u0144czy 95 lat",
+            "link": "https://e-teatr.pl/warszawianka-ktora-pokochala-krakow-krystyna-zachwatowicz-konczy-95-lat-58334",
+            "description": "95 lat temu, 16 maja 1930 r. urodzi\u0142a si\u0119 Krystyna Zachwatowicz-Wajda \u2013 scenograf, aktorka i profesor sztuk plastycznych.",
+            "image_url": "https://www.bing.pl/th?id=OVFT.z6gWDNDRqKWjbdwLt0Msvy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Dziennik Wschodni28 min",
-            "source": "Dziennik Wschodni",
-            "article_content": "Wiosenny city break do Lizbony\n\nLizbona wiosn\u0105 to czysta przyjemno\u015b\u0107. Stolica Portugalii to miasto o wyj\u0105tkowej, leniwej atmosferze. Kolorowe tramwaje sun\u0105 powoli pod g\u00f3r\u0119 pomi\u0119dzy kamienicami. W\u0105skie uliczki Alfamy pachn\u0105 \u015bwie\u017cym praniem i grillowan\u0105 sardynk\u0105, a wieczory up\u0142ywaj\u0105 przy d\u017awi\u0119kach melancholijnego fado, kt\u00f3rego nie da si\u0119 pomyli\u0107 z niczym innym. Architektura zachwyca kolorow\u0105 ceramik\u0105 azulejos, a lokalna kuchnia \u2013 obok kultowych pasteis de nata \u2013 oferuje te\u017c genialne dania z dorsza, kt\u00f3ry w Portugalii przygotowuje si\u0119 na setki sposob\u00f3w. Pogoda jest ju\u017c przyjemnie ciep\u0142a (ok. 20\u00b0C), a miasto nie jest jeszcze zalane przez t\u0142umy turyst\u00f3w. Przed zwiedzaniem warto kupi\u0107 kart\u0119 turystyczn\u0105 Lisboa Card, kt\u00f3ra pozwala zaoszcz\u0119dzi\u0107 na transporcie i wst\u0119pach do muze\u00f3w.\n\nCo zobaczy\u0107 w Lizbonie?\n\nNajpopularniejsze atrakcje i ciekawe miejsca w Lizbonie, to:\n\nAlfama \u2013 najstarsza dzielnica miasta, z w\u0105skimi uliczkami i d\u017awi\u0119kami fado dochodz\u0105cymi z ma\u0142ych knajpek,\n\nTorre de Bel\u00e9m \u2013 wie\u017ca obronna, malowniczo po\u0142o\u017cona przy porcie, w pobli\u017cu uj\u015bcia rzeki Tag do Atlantyku,\n\ntramwaj 28 \u2013 \u017c\u00f3\u0142ty klasyk, kt\u00f3rym przejedziesz przez najciekawsze cz\u0119\u015bci miasta,\n\npunkt widokowy Miradouro da Senhora do Monte \u2013 idealny na zach\u00f3d s\u0142o\u0144ca.\n\nCity break do Budapesztu \u2013 termalne \u017ar\u00f3d\u0142a i kawa\u0142 historii W\u0119gier\n\nStolica W\u0119gier to \u015bwietny pomys\u0142 na city break w rozs\u0105dnej cenie. Bilety z Polski bywaj\u0105 naprawd\u0119 tanie, a noclegi s\u0105 ta\u0144sze ni\u017c w zachodniej Europie. Niesamowite wra\u017cenie robi\u0105 zabytkowe mosty na Dunaju i sun\u0105ce po rzece statki. Wieczorem miasto zachwyca klimatycznym o\u015bwietleniem i romantyczn\u0105 atmosfer\u0105. By\u0107 mo\u017ce dlatego przyje\u017cd\u017ca tu wiele zakochanych par.\n\nAtrakcje i ciekawe miejsca w Budapeszcie\n\nPolecamy takie miejsca i atrakcje, jak:\n\n\u0141a\u017anie termalne Sz\u00e9chenyi \u2013 relaks w gor\u0105cej wodzie na \u015bwie\u017cym powietrzu,\n\nParlament i wzg\u00f3rze Zamkowe \u2013 niesamowita panorama miasta,\n\nMost \u0141a\u0144cuchowy i spacer nad Dunajem \u2013 zw\u0142aszcza o zachodzie s\u0142o\u0144ca,\n\nwieczorny rejs statkiem po Dunaju,\n\nRuin bary \u2013 np. s\u0142ynny Szimpla Kert, czyli klimatyczne bary w starych kamienicach.\n\nAmsterdam \u2013 rowery, kana\u0142y i tulipany\n\nWiosenny city break do Amsterdamu na pewno Ci si\u0119 spodoba. Wiosn\u0105 Amsterdam zachwyca tulipanami \u2013 je\u015bli jeste\u015b w okolicy w kwietniu, koniecznie odwied\u017a Keukenhof \u2013 ogr\u00f3d, w kt\u00f3rym ro\u015bnie ich kilka milion\u00f3w. Poza tym stolica Holandii kojarzy si\u0119 z klimatycznymi kana\u0142ami, po kt\u00f3rych sun\u0105 \u0142odzie i z kamiennymi mostami. Przygotujcie si\u0119 na d\u0142ugie spacery w\u015br\u00f3d klimatycznych park\u00f3w i nadrzecznych alejek.\n\nAmsterdam \u2013 atrakcje na city break\n\nCo zobaczy\u0107 i jak zaplanowa\u0107 zwiedzanie Amsterdamu? Najpopularniejsze atrakcje, to:\n\nrejs kana\u0142ami \u2013 idealny, by poczu\u0107 klimat miasta,\n\nmuzeum Van Gogha i Rijksmuseum \u2013 co\u015b dla fan\u00f3w sztuki,\n\nDzielnica Jordaan \u2013 pe\u0142na ma\u0142ych knajpek i butik\u00f3w,\n\nVondelpark \u2013 wiosn\u0105 rozkwita i zach\u0119ca do piknik\u00f3w.\n\nAteny \u2013 staro\u017cytno\u015b\u0107 pod b\u0142\u0119kitnym niebem\n\nJe\u015bli lubisz histori\u0119 i przyjemne, suche powietrze \u2013 Ateny s\u0105 idealnym kierunkiem na wiosenny city break. Latem bywa tu zbyt gor\u0105co, a w kwietniu i maju pogoda jest w sam raz. Wycieczka do stolicy Grecji to zmys\u0142owe do\u015bwiadczenie, kt\u00f3re \u0142\u0105czy w sobie monumentalne dziedzictwo z \u017cywio\u0142ow\u0105 energi\u0105 wsp\u00f3\u0142czesnej metropolii. Spaceruj\u0105c po ulicach Aten, niemal czujesz obecno\u015b\u0107 filozof\u00f3w i bog\u00f3w, a majestatyczny Akropol g\u00f3ruje nad wszystkim, przypominaj\u0105c o bogatej historii. Powietrze nasycone jest zapachem kwitn\u0105cych bugenwilli i aromatem grillowanych souvlak\u00f3w, a uszy wype\u0142niaj\u0105 melodyjne d\u017awi\u0119ki greckiej muzyki, dobiegaj\u0105ce z tawern.\n\nCo zobaczy\u0107 w Atenach?\n\nMust have planu zwiedzania miasta, to:\n\nwzg\u00f3rze Akropol i Partenon, czyli \u015bwi\u0105tynia antycznych bog\u00f3w \u2013 klasyka, ale obowi\u0105zkowa,\n\nMuzeum Akropolu \u2013 nowoczesne, \u015bwietnie zorganizowane,\n\nPlaka \u2013 klimatyczna dzielnica u st\u00f3p Akropolu, pe\u0142na tawern,\n\nwzg\u00f3rze Likawitos \u2013 najlepszy punkt widokowy na miasto.\n\nCity break do Kopenhagi \u2013 poznaj skandynawski spok\u00f3j i filozofi\u0119 hygge\n\nCho\u0107 Dania nie jest najta\u0144szym kierunkiem, da si\u0119 zorganizowa\u0107 city break w rozs\u0105dnym bud\u017cecie \u2013 szczeg\u00f3lnie wiosn\u0105, gdy loty bywaj\u0105 tanie, a pogoda zaczyna dopisywa\u0107. Co jest ciekawego w Kopenhadze? Turyst\u00f3w zadziwia hygge, czyli styl \u017cycia mieszka\u0144c\u00f3w Kopenhagi, kt\u00f3rzy przoduj\u0105 w rankingach szcz\u0119\u015bliwych spo\u0142eczno\u015bci europejskich. Du\u0144czycy staraj\u0105 si\u0119 otacza\u0107 pozytywnymi lud\u017ami, dbaj\u0105 o sw\u00f3j dobrostan i potrafi\u0105 cieszy\u0107 si\u0119 z drobnych rzeczy. Kto wie, mo\u017ce nauczysz si\u0119 tego od nich podczas wycieczki?\n\nCo zobaczy\u0107 w Kopenhadze?\n\nTuryst\u00f3w zachwycaj\u0105 takie miejsca, jak:\n\nNyhavn \u2013 kolorowe kamienice i nabrze\u017ce portowe, kt\u00f3re kochasz od pierwszego spojrzenia,\n\nOgr\u00f3d Tivoli \u2013 jeden z najstarszych park\u00f3w rozrywki na \u015bwiecie,\n\nZamek Rosenborg i kr\u00f3lewskie ogrody,\n\nWolne Miasto Christiania \u2013 alternatywna dzielnica o ciekawej historii.\n\nO czym warto pami\u0119ta\u0107, planuj\u0105c wiosenny city break?\n\nPlanuj\u0105c wiosenny city break, zacznij od sprawdzenia ofert tanich linii lotniczych oraz od spakowania walizki do samolotu lub plecaka. Solidne, lekkie i pojemne plecaki podr\u0119czne znajdziesz w sklepie internetowym MojaWalizka.pl pod linkiem https://www.mojawalizka.pl/pol_m_Plecaki_Plecaki-do-samolotu-1130.html.\n\nPodr\u00f3\u017c z samym baga\u017cem podr\u0119cznym to \u015bwietny spos\u00f3b, by zaoszcz\u0119dzi\u0107 czas i pieni\u0105dze, a przy okazji unikn\u0105\u0107 kolejek na lotnisku. Dobrym pomys\u0142em jest te\u017c rezerwowanie nocleg\u00f3w z opcj\u0105 darmowej anulacji, na wypadek, gdyby plany nie wypali\u0142y. Warto te\u017c wcze\u015bniej pobra\u0107 map\u0119 miasta do trybu offline \u2013 dzi\u0119ki temu nie zgubisz si\u0119, nawet je\u015bli zabraknie internetu."
+            "date": "e-teatr.pl2 godz.",
+            "source": "e-teatr.pl",
+            "article_content": "95 lat temu, 16 maja 1930 r. urodzi\u0142a si\u0119 Krystyna Zachwatowicz-Wajda \u2013 scenograf, aktorka i profesor sztuk plastycznych. Zwi\u0105zana m. in. z Teatrem Cricot 2 i Piwnic\u0105 Pod Baranami. \u201eScenograf musi mie\u0107 w\u0142asn\u0105 wizj\u0119\u201d \u2013 m\u00f3wi autorka ponad 150 scenografii oraz kostium\u00f3w teatralnych i filmowych.\n\nfot. mat. Filmu Polskiego\n\n\"Mia\u0142am niezwykle szcz\u0119\u015bliwe dzieci\u0144stwo. Zosta\u0142am naprawd\u0119 absolutnie uprzywilejowana, \u017ce mog\u0142am od ma\u0142ego spotyka\u0107 si\u0119 z takimi lud\u017ami jak moi rodzice i dziadkowie. To by\u0142y domy, gdzie nie m\u00f3wi\u0142o si\u0119 o karierze ani pieni\u0105dzach. Ja zupe\u0142nie nie zna\u0142am takich poj\u0119\u0107\" \u2013 opowiada\u0142a w 2020 r. na antenie radiowej Dw\u00f3jki.\n\nAutorka tych s\u0142\u00f3w Krystyna Zachwatowicz urodzi\u0142a si\u0119 16 maja 1930 r. w Warszawie, jak sama opowiada, na \"Marsza\u0142kowskiej, r\u00f3g \u017burawiej\". Dorasta\u0142a w rodzinie wybitnych architekt\u00f3w, kt\u00f3rym zawdzi\u0119czamy odbudow\u0119 wielu zniszczonych w czasie II wojny \u015bwiatowej warszawskich zabytk\u00f3w. Matka, Maria Chod\u017ako-Zachwatowicz, odpowiada\u0142a m.in. za odbudow\u0119 pa\u0142acu Sapieh\u00f3w oraz charakterystycznego ko\u015bcio\u0142a ss. Sakramentek przy Rynku Nowego Miasta. Ojciec, prof. Jan Zachwatowicz, ws\u0142awi\u0142 si\u0119 koncepcj\u0105 odbudowy Starego Miasta i Zamku Kr\u00f3lewskiego.\n\n\"Po wojnie dzi\u0119ki mojemu ojcu zobaczy\u0142am, co to znaczy s\u0142u\u017cba dla idei. Po\u015bwi\u0119ci\u0142 ca\u0142e swoje \u017cycie odbudowie nie tylko Warszawy, ale i Gda\u0144ska. By\u0142 niezwyk\u0142ym, pracowitym, m\u0105drym cz\u0142owiekiem. Jego \u015bmier\u0107 by\u0142a dla mnie wielkim ciosem. By\u0142 dla mnie niedo\u015bcig\u0142ym wzorem\" \u2013 podkre\u015bla\u0142a artystka.\n\nW czasie wojny Zachwatowicz nale\u017ca\u0142a do Szarych Szereg\u00f3w, pos\u0142ugiwa\u0142a si\u0119 pseudonimem \"Czy\u017cyk\". Podczas powstania pe\u0142ni\u0142a funkcj\u0119 \u0142\u0105czniczki i sanitariuszki. \"Mieszkali\u015bmy przy Koszykowej. Na Wilczej by\u0142 punkt informacyjny. Chodzi\u0142am tam codziennie rano w mundurku harcerskim z opask\u0105 bia\u0142o-czerwon\u0105. Mia\u0142am pseudonim Czy\u017cyk. Dawali mi jakie\u015b drobne zadania. Bardzo cz\u0119sto roznosi\u0142am Biuletyn Informacyjny\" \u2013 wspomina\u0142a w rozmowie z \"Gazet\u0105 Wyborcz\u0105\".\n\n\"Sz\u0142am kiedy\u015b z gazetkami podw\u00f3rkami i piwnicami \u2013 Nowym \u015awiatem do Alei Jerozolimskich. Zupe\u0142na pustka, nikogo nie ma. Wchodz\u0119 na podw\u00f3rko, podchodzi do mnie jaki\u015b m\u0119\u017cczyzna i pyta: Dziewczynko, gdzie ty idziesz? Okaza\u0142o si\u0119, \u017ce w domu, do kt\u00f3rego sz\u0142am, byli ju\u017c Niemcy\u2026 Wesz\u0142abym prosto na nich w mundurku i z bia\u0142o-czerwon\u0105 opask\u0105, i to by\u0142by zapewne m\u00f3j koniec\" \u2013 opowiada\u0142a Patrycji Bukalskiej w ksi\u0105\u017cce \"Sierpniowe dziewcz\u0119ta '44\".\n\nArtystka cz\u0119sto porusza\u0142a w wywiadach temat kobiet czekaj\u0105cych w domu na powr\u00f3t swoich bliskich. W tym kontek\u015bcie ciekawa wydaje si\u0119 historia przywo\u0142ana w ksi\u0105\u017cce Agnieszki Cuba\u0142y \"Arty\u015bci '44\". Zachwatowicz podkre\u015bla\u0142a, \u017ce podczas walk jednym z bardziej niebezpiecznych miejsc by\u0142a ulica Marsza\u0142kowska. \"Ja przebieg\u0142am przez t\u0119 Marsza\u0142kowsk\u0105 z meldunkiem na drug\u0105 stron\u0119 (\u2026). To by\u0142o po po\u0142udniu i tamten dow\u00f3dca powiedzia\u0142, \u017ce nie mog\u0119 wraca\u0107, bo si\u0119 zrobi\u0142 bardzo silny ostrza\u0142. Nie przesz\u0142abym\" \u2013 wspomina\u0142a.\n\n\"Wr\u00f3ci\u0142am do domu dopiero rano. Oczywi\u015bcie nie by\u0142o mowy o \u017cadnych telefonach ani \u017cadnej mo\u017cliwo\u015bci zawiadomienia matki, \u017ce ja jestem zdrowa i ca\u0142a, tylko siedz\u0119 po drugiej stronie (\u2026), unieruchomiona. W gruncie rzeczy to jest naprawd\u0119 sprawa nieopisana. Troch\u0119 dotkn\u0105\u0142 tego m\u00f3j m\u0105\u017c (Andrzej Wajda \u2013 PAP) w filmie Katy\u0144. Bo my\u015bl\u0119, \u017ce Katy\u0144 jest w\u0142a\u015bnie o tych kobietach, kt\u00f3re czekaj\u0105. O tej tragedii\" \u2013 podkre\u015bli\u0142a Zachwatowicz.\n\nW 1949 r. uko\u0144czy\u0142a Liceum Sztuk Plastycznych w Warszawie. Nast\u0119pnie zacz\u0119\u0142a studia z historii sztuki na Uniwersytecie Warszawskim, ale szybko przenios\u0142a si\u0119 do Krakowa na Uniwersytet Jagiello\u0144ski. \"By\u0142am na pierwszym roku historii sztuki UW, przyjechali\u015bmy do Krakowa z wycieczk\u0105 studenck\u0105. To by\u0142 rok 1951. I zobaczy\u0142am miasto prawdziwe, z prawdziwym wielkim Rynkiem, z ulicami i z zabytkami, bez ruin. Wyczu\u0142am w nim spok\u00f3j i bezpiecze\u0144stwo. I zakocha\u0142am si\u0119\" \u2013 czytamy na stronie Encyklopedii Teatru Polskiego.\n\nW tym samym czasie przez cztery lata uprawia\u0142a narciarstwo, kt\u00f3rym zainteresowa\u0142a si\u0119, chc\u0105c dor\u00f3wna\u0107 swojej, jak sama opowiada, \"dzieci\u0119cej mi\u0142o\u015bci\", czyli \u015bwietnie je\u017cd\u017c\u0105cemu na nartach Janowi Rodowiczowi \"Anodzie\" z Batalionu \"Zo\u015bka\". Zachwatowicz uprawia\u0142a tak\u017ce wspinaczk\u0119, zosta\u0142a nawet przyj\u0119ta do Klubu Wysokog\u00f3rskiego. Dalszy rozw\u00f3j kariery sportowej przerwa\u0142a jednak kontuzja.\n\nPo uzyskaniu dyplomu na UJ w 1952 r. dosta\u0142a si\u0119 do krakowskiej Akademii Sztuk Pi\u0119knych, gdzie od 1954 r. studiowa\u0142a w pracowni scenografii prof. Karola Frycza. Cztery lata p\u00f3\u017aniej uzyska\u0142a dyplom. W tym czasie by\u0142a ju\u017c zwi\u0105zana z za\u0142o\u017conym przez Piotra Skrzyneckiego kabaretem literackim Piwnica Pod Baranami. To w\u0142a\u015bnie za spraw\u0105 Skrzyneckiego pozna p\u00f3\u017aniej swojego przysz\u0142ego m\u0119\u017ca \u2013 Andrzeja Wajd\u0119. Bra\u0142a tak\u017ce udzia\u0142 w pierwszych spektaklach awangardowego teatru Tadeusza Kantora Cricot 2. \"Kantor chcia\u0142 zrobi\u0107 co\u015b, co b\u0119dzie poza teatrem stacjonarnym, oficjalnym, pa\u0144stwowym. Zwi\u0105zek Plastyk\u00f3w zapewnia\u0142 t\u0119 mo\u017cliwo\u015b\u0107. To by\u0142a du\u017ca sala i by\u0142y warunki na to, \u017ceby postawi\u0107 stoliki, zaprosi\u0107 publiczno\u015b\u0107, na ko\u0144cu tej sali zrobi\u0107 scen\u0119\" \u2013 wspomina\u0142a.\n\nZa\u0142o\u017cony w 1955 r. przez Kantora i Mari\u0119 Jarem\u0119 Cricot 2 by\u0142 jednym z najwa\u017cniejszych \u015bwiatowych teatr\u00f3w eksperymentalnych. Spektakl \"Umar\u0142a klasa\" z 1975 r. zosta\u0142 rok p\u00f3\u017aniej na \u0142amach ameryka\u0144skiego \"Newsweeka\" nazwany najlepszym spektaklem teatralnym \u015bwiata. \"By\u0142 przewodnikiem, kt\u00f3ry potrafi\u0142 zgromadzi\u0107 wok\u00f3\u0142 siebie grup\u0119 wspania\u0142ych ludzi, kt\u00f3r\u0105 zwi\u0105za\u0142 w\u0142asnym, osobnym punktem widzenia na teatr. Talentem. Geniuszem\" \u2013 oceni\u0142a Kantora artystka.\n\nW 1958 r. Zachwatowicz stworzy\u0142a scenografi\u0119 do sztuki \"Cyd\" w re\u017cyserii Eugeniusza Aniszczenki wystawianej w Teatrze im. Aleksandra Fredry w Gnie\u017anie. Tworzy\u0142a r\u00f3wnie\u017c dla Teatru Zag\u0142\u0119bia w Sosnowcu i Nowego w Zabrzu. G\u0142o\u015bna by\u0142a jej scenografia do \"\u015alubu\" Witolda Gombrowicza wyre\u017cyserowanego przez Jerzego Jarockiego w Studenckim Teatrze Gliwice.\n\n\"Beczki, beczki, karoseria zmia\u017cd\u017conej taks\u00f3wki, jaki\u015b strz\u0119p z\u0119batej kosiarki, szoferka ci\u0119\u017carowego wozu. Ugier, br\u0105z, czer\u0144, krwista rdza i popi\u00f3\u0142. Niesamowite to wra\u017cenie, gdy z\u0142om poddany zostaje grze \u015bwiat\u0142a i zaczyna \u017cy\u0107 jakim\u015b upiornym \u017cyciem w ostrym blasku i cieniach reflektor\u00f3w punktowych\" \u2013 recenzowa\u0142 w \"Dialogu\" Bogdan Wojdowski.\n\nW p\u00f3\u017aniejszych latach Zachwatowicz wsp\u00f3\u0142pracowa\u0142a z czo\u0142owymi polskimi scenami teatralnymi \u2013 z warszawskim i wroc\u0142awskim Teatrem Polskim, Juliusza S\u0142owackiego w Krakowie, Stefana Jaracza w \u0141odzi. W latach 1970-1999 by\u0142a scenografem w krakowskim Starym Teatrze. Tworzy\u0142a scenografie tak\u017ce dla scen warszawskich \u2013 Ateneum, Dramatycznego i Powszechnego oraz dla gda\u0144skiego Teatru Wybrze\u017ce. Pracowa\u0142a r\u00f3wnie\u017c za granic\u0105, m.in. w Pary\u017cu, Tokio i Buenos Aires.\n\nNa pocz\u0105tku lat 70. pozna\u0142a Andrzeja Wajd\u0119, kt\u00f3ry wystawia\u0142 w\u00f3wczas \"Biesy\" w krakowskim Starym Teatrze. \"Scenografi\u0119 wymy\u015bli\u0142 genialn\u0105, ale jej realizacja wymaga\u0142a specjalisty. Zapyta\u0142 Piotra Skrzyneckiego, kto m\u00f3g\u0142by mu pom\u00f3c, a on poradzi\u0142 mu mnie. I tak si\u0119 poznali\u015bmy\" \u2013 wyzna\u0142a Zachwatowicz. \"Odt\u0105d przez wiele, wiele lat na takim w\u0142a\u015bnie uzupe\u0142nianiu si\u0119 i wzajemnym zrozumieniu polega\u0107 mia\u0142a nasza - Krystyny i moja - wsp\u00f3lna praca\" \u2013 napisa\u0142 w autobiografii Wajda. Oboje cz\u0119sto podkre\u015blali, \u017ce opr\u00f3cz uczu\u0107 i fascynacji po\u0142\u0105czy\u0142a ich tak\u017ce wsp\u00f3lnota charakter\u00f3w. \"To by\u0142a zgodno\u015b\u0107 charakter\u00f3w, zainteresowa\u0144, stosunku do \u017cycia. W\u0142a\u015bciwie nie by\u0142o \u017cadnego momentu niezgody. Przez tyle lat\" \u2013 podkre\u015bla\u0142a artystka.\n\nKilka lat p\u00f3\u017aniej wzi\u0119li \u015blub. \"Zamieszkali\u015bmy ze sob\u0105 w 1973 r. i nie my\u015bleli\u015bmy, \u017ceby to koniecznie potwierdza\u0107 urz\u0119dowo, ale w 1975 r. wysz\u0142y problemy techniczne, musia\u0142am by\u0107 zameldowana itd. Nie by\u0142o \u017cadnej uroczysto\u015bci. Przyjecha\u0142 z Krakowa nasz przyjaciel Piotr Skrzynecki i przysz\u0142a Basia \u015alesicka, bardzo zaprzyja\u017aniona z nami producentka prawie wszystkich film\u00f3w Andrzeja. Tylko oni, \u015bwiadkowie. Potem zjedli\u015bmy obiad i ju\u017c\" \u2013 wspomina artystka.\n\nMa\u0142\u017conkowie \u015bwietnie dogadywali si\u0119 r\u00f3wnie\u017c na p\u0142aszczy\u017anie zawodowej. \"Przez lata wielokrotnie pracowa\u0142am z re\u017cyserami, kt\u00f3rzy nie mieli \u017cadnego wykszta\u0142cenia plastycznego i w zwi\u0105zku z tym \u017cadnej wyobra\u017ani plastycznej. Od scenografa praca z takim re\u017cyserem wymaga t\u0142umacze\u0144, rysowania, a i tak bardzo cz\u0119sto prowadzi to do konflikt\u00f3w, bo taki re\u017cyser nie potrafi z rysunku odczyta\u0107\" \u2013 czytamy w ksi\u0105\u017cce Bartosza Michalaka \"Wajda. Kronika wypadk\u00f3w filmowych\". \"Pierwszym powa\u017cnym re\u017cyserem, kt\u00f3ry mia\u0142 i wykszta\u0142cenie, i \u015bwietnie rysowa\u0142, by\u0142 Konrad Swinarski. Drugim \u2013 w\u0142a\u015bnie Andrzej. Przy pracy z takim artyst\u0105 porozumienie jest b\u0142yskawiczne\" \u2013 zaznaczy\u0142a.\n\nKiedy w 1972 r. Wajda podj\u0105\u0142 si\u0119 ekranizacji \"Wesela\", to w\u0142a\u015bnie Zachwatowicz w du\u017cej mierze odpowiada\u0142a za wizualn\u0105 cz\u0119\u015b\u0107 filmu. \"W przypadku Wesela od pocz\u0105tku zdecydowali\u015bmy z re\u017cyserem, \u017ce robimy kostiumy historyczne \u2013 \u017cadnych eksperyment\u00f3w, \u017cadnego uwsp\u00f3\u0142cze\u015bniania na si\u0142\u0119 czy innych tego typu zabieg\u00f3w\" \u2013 opowiada\u0142a. \"Ten film powstawa\u0142 przecie\u017c w czasach g\u0142\u0119bokiej komuny, wi\u0119c uwsp\u00f3\u0142cze\u015bnianie wydawa\u0142o nam si\u0119 bez sensu. Wystarczaj\u0105ca by\u0142a sytuacja: Polska zniewolona przez zaborc\u00f3w oraz Polska w kleszczach komuny wyda\u0142y nam si\u0119 podobne\" \u2013 podkre\u015bli\u0142a artystka.\n\nWajda i Zachwatowicz pracowali razem tak\u017ce przy kolejnych filmach re\u017cysera, jak m.in. \"Cz\u0142owiek z marmuru\" (1976), \"Panny z Wilka\" (1979), \"Kronika wypadk\u00f3w mi\u0142osnych\" (1985), \"Korczak\" (1990), \"Katy\u0144\" (2007). W \"Cz\u0142owieku z marmuru\" Zachwatowicz wcieli\u0142a si\u0119 w rol\u0119 Hanki Tomczyk. \"Bardzo d\u0142ugo szukano odtw\u00f3rczy\u0144 roli Hanki. W\u0142a\u015bnie: odtw\u00f3rczy\u0144, bo Hanka w tym filmie pokazywana jest najpierw jako m\u0142oda dziewczyna, a potem jako doros\u0142a kobieta. Nic z tych poszukiwa\u0144 nie wychodzi\u0142o\" \u2013 czytamy w ksi\u0105\u017cce Bartosza Michalaka \"Wajda. Kronika wypadk\u00f3w filmowych\".\n\n\"To Basia \u015alesicka wymy\u015bli\u0142a, \u017ceby spr\u00f3bowa\u0107 ze mn\u0105. Mia\u0142am wtedy 46 lat, ale nie wygl\u0105da\u0142am na tyle. No i nie by\u0142am kompletn\u0105 amatork\u0105, wyst\u0119powa\u0142am przecie\u017c w Piwnicy pod Baranami\" \u2013 zaznaczy\u0142a Zachwatowicz.\n\nArtystka anga\u017cowa\u0142a si\u0119 w dzia\u0142alno\u015b\u0107 NSZZ \"Solidarno\u015b\u0107\". W sierpniu 1980 r. ma\u0142\u017conkowie wsparli tzw. apel 64 \u2013 list 64 warszawskich intelektualist\u00f3w, kierowany do w\u0142adz PRL, by te podj\u0119\u0142y rozmowy ze strajkuj\u0105cymi robotnikami. Oboje fascynowali si\u0119 kultur\u0105 i sztuk\u0105 Japonii. Kiedy w 1987 r. Wajda zosta\u0142 laureatem presti\u017cowej japo\u0144skiej Nagrody Kyoto (Kyoto Prize), ca\u0142\u0105 otrzyman\u0105 w\u00f3wczas sum\u0119 (400 tys. dolar\u00f3w) postanowili przeznaczy\u0107 na za\u0142o\u017cenie Fundacji Kyoto\u2013Krak\u00f3w. Dzi\u0119ki tej inicjatywie w 1994 r. powsta\u0142o Centrum Sztuki i Techniki Japo\u0144skiej \"Manggha\". Pocz\u0105tkowo plac\u00f3wka by\u0142a oddzia\u0142em Muzeum Narodowego w Krakowie. Od 2007 r. stanowi samodzielnie funkcjonuj\u0105ce muzeum.\n\n\"Jako studenci dawnej Akademii Sztuk Pi\u0119knych Krystyna i ja ch\u0142on\u0119li\u015bmy z szeroko otwartymi oczami ten \u015bwiat tak wyrafinowany i doskona\u0142y, kt\u00f3ry dawna Japonia ofiarowuje ka\u017cdemu, kto potrafi zachwyca\u0107 si\u0119 jej pi\u0119knem. Bym m\u00f3g\u0142 wykona\u0107 moje rysunkowe notatki, Krystyna musia\u0142a wzi\u0105\u0107 na siebie niewdzi\u0119czn\u0105 rol\u0119 powstrzymywania tempa naszych po\u015bpiesznych zwiedza\u0144\" \u2013 opisywa\u0142 ich wsp\u00f3lne japo\u0144skie podr\u00f3\u017ce Wajda.\n\nZachwatowicz oddawa\u0142a si\u0119 tak\u017ce pracy naukowej. W 1990 r. uzyska\u0142a habilitacj\u0119 na Wydziale Malarstwa Akademii Sztuk Pi\u0119knych w Krakowie \u2013 od 2001 r. kieruj\u0105c Katedr\u0105 Scenografii. W 2005 r. otrzyma\u0142a tytu\u0142 profesora sztuk pi\u0119knych. To z jej inicjatywy rok p\u00f3\u017aniej na Wydziale Malarstwa krakowskiej ASP powsta\u0142 kierunek scenografia.\n\n\"My\u015bl\u0119, \u017ce najwa\u017cniejsza rzecz w pracy scenografa to umiej\u0119tno\u015b\u0107 czytania tekstu, z kt\u00f3rego b\u0119dzie powstawa\u0142 spektakl. To rzecz pierwsza i podstawowa\" \u2013 wyja\u015bnia\u0142a w 2005 r. w rozmowie dla pisma \"Postscriptum\". \"Czytanie i zrozumienie tekstu to jest stworzenie sobie na podstawie lektury w\u0142asnej wizji spektaklu. Niezale\u017cnie od tego, co potem z rozm\u00f3w z re\u017cyserem wynika, scenograf musi mie\u0107 w\u0142asn\u0105 wizj\u0119 spektaklu\" \u2013 doda\u0142a.\n\nJest autork\u0105 ponad 150 scenografii oraz kostium\u00f3w teatralnych i filmowych. Podkre\u015bla w wywiadach, \u017ce jest scenografem, a nie scenografk\u0105. \"Nigdy nie by\u0142am scenografk\u0105! To wa\u017cne. (\u2026.) scenografka przypomina mi jak\u0105\u015b agrafk\u0119. Scenograf to jest konkretny zaw\u00f3d\" \u2013 zaznaczy\u0142a w rozmowie z \"Gazet\u0105 Wyborcz\u0105\" na pocz\u0105tku 2025 r.\n\n\"Scenograf powinien dopilnowa\u0107 wszystkiego sam, chodzi\u0107 na przymiarki kostium\u00f3w, pilnowa\u0107 wykonania dekoracji, przychodzi\u0107 na pr\u00f3by, gdzie decyduje razem z re\u017cyserem, w jaki spos\u00f3b ta koncepcja nabiera kszta\u0142tu scenicznego. To bardzo wa\u017cne \u2014 scenograf musi by\u0107 jakby w kilku miejscach jednocze\u015bnie\" \u2013 podsumowuje Zachwatowicz."
         }
     },
     {
@@ -405,44 +453,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Pras\u00f3wka 16.05.2025 - wydarzenia dnia, podsumowanie z wczoraj - sprawd\u017a, czy nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego",
-            "link": "https://gazetawroclawska.pl/prasowka-16-05-2025-wydarzenia-dnia-podsumowanie-z-wczoraj-sprawdz-czy-nie-minelo-cie-nic-waznego/ar/c1p1-19960895",
-            "description": "We wtorek (13 maja) we Wroc\u0142awiu dosz\u0142o do tragicznego zdarzenia. Na Stab\u0142owicach na skutek strzelaniny, zgin\u0119\u0142y dwie osoby.",
-            "image_url": "https://www.bing.pl/th?id=OVFT.L9yULSlZs1G4n6_Jukfqgi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Wroc\u0142awska4 godz.",
-            "source": "Gazeta Wroc\u0142awska",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Pras\u00f3wka 16.05.2025. Zobacz zestawienie najwa\u017cniejszych informacji z wczoraj z naszego wojew\u00f3dztwa",
-            "link": "https://dzienniklodzki.pl/prasowka-16-05-2025-zobacz-zestawienie-najwazniejszych-informacji-z-wczoraj-z-naszego-wojewodztwa/ar/c1p1-19960893",
-            "description": "Horoskop dzienny na jutro \u015brod\u0119 14 maja 2025 dla wszystkich znak\u00f3w zodiaku. Baran, Byk, Bli\u017ani\u0119ta, Rak, Lew, Panna, Waga, ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.uXFNIf7gqpRwIp_0Lj7bGi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Dziennik \u0141\u00f3dzki4 godz.",
-            "source": "Dziennik \u0141\u00f3dzki",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Kolekcjonerzy poluj\u0105 na te starocie z PRL - lista, ceny, zdj\u0119cia. Takie pami\u0105tki mog\u0105 okaza\u0107 si\u0119 prawdziwym skarbem [16.05.2025]",
+            "title": "Kolekcjonerzy poluj\u0105 na te starocie z PRL - lista, ceny, zdj\u0119cia. Takie pami\u0105tki mog\u0105 okaza\u0107 si\u0119 prawdziwym skarbem",
             "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/kolekcjonerzy-poluj%C4%85-na-te-starocie-z-prl-lista-ceny-zdj%C4%99cia-takie-pami%C4%85tki-mog%C4%85-okaza%C4%87-si%C4%99-prawdziwym-skarbem/ar-AA1ESyu7?ocid=BingNewsVerp",
             "description": "Przedmioty z czas\u00f3w PRL w 2025 roku zyskuj\u0105 na warto\u015bci. S\u0105 poszukiwane zar\u00f3wno przez kolekcjoner\u00f3w, jak i mi\u0142o\u015bnik\u00f3w retro, ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.M19JZjNTgjJOSwZXhxqvmg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "image_url": "https://www.bing.pl/th?id=OVF.O1Fh9fOELn5svKyAUWtIBQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Pomorska on MSN2 godz.",
+            "date": "Gazeta Pomorska on MSN6 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -454,27 +470,11 @@
         },
         "body": {
             "title": "Dzi\u015b w Krakowie Noc Muze\u00f3w! Na takie atrakcje czekamy ca\u0142y rok. Zobaczcie PROGRAM wydarze\u0144",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/dzi%C5%9B-w-krakowie-noc-muze%C3%B3w-na-takie-atrakcje-czekamy-ca%C5%82y-rok-zobaczcie-program-wydarze%C5%84/ar-AA1EH4Zi?ocid=BingNewsVerp",
+            "link": "https://www.msn.com/pl-pl/historia-i-kultura-spo%C5%82ecze%C5%84stwa/wydarzenia-kulturalne/dzi%C5%9B-w-krakowie-noc-muze%C3%B3w-na-takie-atrakcje-czekamy-ca%C5%82y-rok-zobaczcie-program-wydarze%C5%84/ar-AA1EGQt4?ocid=BingNewsVerp",
             "description": "D\u0142ugie kolejki do muze\u00f3w tego dnia nikogo nie dziwi\u0105, krakowianie pokochali Noc Muze\u00f3w, kt\u00f3ra w tym roku - tradycyjnie - ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.8gN1D5zg9NxnjjG-LYtO1C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Krakowska on MSN36 min",
-            "source": "Gazeta Krakowska on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "W Krakowie Noc Muze\u00f3w wcze\u015bniej ni\u017c w ca\u0142ej Polsce. Na takie atrakcje krakowianie czekaj\u0105 ca\u0142y rok. Zobaczcie PROGRAM wydarze\u0144",
-            "link": "https://www.msn.com/pl-pl/rozrywka/news/w-krakowie-noc-muze%C3%B3w-wcze%C5%9Bniej-ni%C5%BC-w-ca%C5%82ej-polsce-na-takie-atrakcje-krakowianie-czekaj%C4%85-ca%C5%82y-rok-zobaczcie-program-wydarze%C5%84/ar-AA1EGQt4?ocid=BingNewsVerp",
-            "description": "D\u0142ugie kolejki do muze\u00f3w tego dnia nikogo nie dziwi\u0105, krakowianie pokochali Noc Muze\u00f3w, kt\u00f3ra w tym roku - tradycyjnie - ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.8gN1D5zg9NxnjjG-LYtO1C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+numizmatyka",
-            "date": "Krak\u00f3w Nasze Miasto on MSN36 min",
+            "date": "Krak\u00f3w Nasze Miasto on MSN4 godz.",
             "source": "Krak\u00f3w Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -490,9 +490,9 @@
             "description": "Na terenie Nadle\u015bnictwa Lubacz\u00f3w dokonano niezwyk\u0142ego odkrycia. Jeden z poszukiwaczy natrafi\u0142 na zabytkowy przedmiot z prze\u0142omu XIX i XX wieku. Zachowany w doskona\u0142ym stanie trybularz ju\u017c wkr\u00f3tce b\u0119dz ...",
             "image_url": "https://www.bing.pl/th?id=ODF.gqghbhQ0lymmjp4YAd1iQw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Polsat News2 godz.",
+            "date": "Polsat News6 godz.",
             "source": "Polsat News",
-            "article_content": "Content not available"
+            "article_content": "Na terenie Nadle\u015bnictwa Lubacz\u00f3w dokonano niezwyk\u0142ego odkrycia. Jeden z poszukiwaczy natrafi\u0142 na zabytkowy przedmiot z prze\u0142omu XIX i XX wieku. Zachowany w doskona\u0142ym stanie trybularz ju\u017c wkr\u00f3tce b\u0119dzie mo\u017cna podziwia\u0107 w Muzeum Kres\u00f3w w Lubaczowie.\n\nW lasach nieopodal Hory\u0144ca-Zdroju dokonano niezwyk\u0142ego odkrycia. Podczas poszukiwa\u0144 z wykrywaczem metalu pan Tomasz Kornaga natrafi\u0142 na wyj\u0105tkowy zabytek - trybularz, czyli kadzielnic\u0119, pochodz\u0105c\u0105 z prze\u0142omu XIX i XX wieku.\n\nNiezwyk\u0142e odkrycie w podkarpackim lesie. Poszukiwacz znalaz\u0142 trybularz\n\nO znalezisku poinformowa\u0142o Nadle\u015bnictwo Lubacz\u00f3w za po\u015brednictwem medi\u00f3w spo\u0142eczno\u015bciowych.\n\nZOBACZ: Niezwyk\u0142e odkrycie. \"Piekielna mr\u00f3wka\" zmieni\u0142a dotychczasow\u0105 wiedz\u0119\n\n\"Trybularz zosta\u0142 zabezpieczony przez Muzeum Kres\u00f3w w Lubaczowie i mamy nadziej\u0119, \u017ce ju\u017c nied\u0142ugo stanie si\u0119 eksponatem, kt\u00f3ry b\u0119dziemy mogli z zachwytem podziwia\u0107\" - podkre\u015blili le\u015bnicy, przekazuj\u0105c gratulacje dla znalazcy.\n\nTrybularz, kt\u00f3ry niebawem mo\u017ce sta\u0107 si\u0119 jednym z ciekawszych eksponat\u00f3w w lubaczowskim muzeum, s\u0142u\u017cy\u0142 dawniej do spalania kadzid\u0142a podczas obrz\u0119d\u00f3w religijnych.\n\nTrybularz trafi do zbior\u00f3w muzeum. \"Wyj\u0105tkowej urody artefakt\"\n\nZabytek zosta\u0142 ju\u017c zabezpieczony przez Muzeum Kres\u00f3w w Lubaczowie. Pracownicy plac\u00f3wki nie kryj\u0105 entuzjazmu - jak podano w mediach spo\u0142eczno\u015bciowych muzeum, \"dzi\u0119ki panu Tomaszowi Kornadze oraz wsp\u00f3\u0142pracy z Podkarpackim Wojew\u00f3dzkim Konserwatorem Zabytk\u00f3w kolejne le\u015bne znalezisko ju\u017c wkr\u00f3tce trafi do naszych zbior\u00f3w!\".\n\nZOBACZ: Nietypowe odkrycie dzik\u00f3w. Konieczna interwencja policji\n\nPlac\u00f3wka podkre\u015bli\u0142a r\u00f3wnie\u017c, \u017ce znalezisko ma nie tylko warto\u015b\u0107 historyczn\u0105, ale i estetyczn\u0105: \"Ten wyj\u0105tkowej urody artefakt wzbogaci kolekcj\u0119 muzealn\u0105\"."
         }
     },
     {
@@ -506,7 +506,7 @@
             "description": "Pan Tomasz natrafi\u0142 na przedmiot z prze\u0142omu XIX i XX wieku. Trybularz zosta\u0142 ju\u017c zabezpieczony przez muzeum i by\u0107 mo\u017ce ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.beBB0K_k8vNP2lX-36SLpi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "WPROST.pl on MSN17 godz.",
+            "date": "WPROST.pl on MSN21 godz.",
             "source": "WPROST.pl on MSN",
             "article_content": ""
         }
