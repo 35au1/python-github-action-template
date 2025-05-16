@@ -10,8 +10,40 @@
             "description": "Przedmioty z czas\u00f3w PRL w 2025 roku zyskuj\u0105 na warto\u015bci. S\u0105 poszukiwane zar\u00f3wno przez kolekcjoner\u00f3w, jak i mi\u0142o\u015bnik\u00f3w retro, ...",
             "image_url": "https://www.bing.pl/th?id=OVF.M19JZjNTgjJOSwZXhxqvmg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Gazeta Pomorska on MSN10 godz.",
+            "date": "Gazeta Pomorska on MSN14 godz.",
             "source": "Gazeta Pomorska on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Gie\u0142da-gigant ju\u017c w sobot\u0119. By\u0142y czasy, gdy nawet \"\u015awiebodzki\" wygl\u0105da\u0142 przy niej blado. Kiedy\u015b handlowa\u0142a tu ca\u0142a Polska",
+            "link": "https://www.msn.com/pl-pl/news/other/gie%C5%82da-gigant-ju%C5%BC-w-sobot%C4%99-by%C5%82y-czasy-gdy-nawet-%C5%9Bwiebodzki-wygl%C4%85da%C5%82-przy-niej-blado-kiedy%C5%9B-handlowa%C5%82a-tu-ca%C5%82a-polska/ar-AA1EVGpY?ocid=BingNewsVerp",
+            "description": "Gie\u0142da w Lubinie ma ju\u017c przesz\u0142o 40 lat. I cho\u0107 przez dekady kojarzy\u0142a si\u0119 g\u0142\u00f3wnie z samochodami, to dzi\u015b jest ich zaledwie garstka - handluje si\u0119 czym\u015b innym. Obecnie to jedno z najwi\u0119kszych ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.p9YO103MXreScWBGsL62IA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "starocie",
+            "date": "Gazeta Wroc\u0142awska on MSN19 min",
+            "source": "Gazeta Wroc\u0142awska on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Czacz, czyli wie\u015b-pchli targ. Od sobotniego \u015bwitu zacznie si\u0119 tutaj wielkie handlowanie",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/czacz-czyli-wie%C5%9B-pchli-targ-od-sobotniego-%C5%9Bwitu-zacznie-si%C4%99-tutaj-wielkie-handlowanie/ar-AA1ExYLT?ocid=BingNewsVerp",
+            "description": "Czacz przyci\u0105ga kolekcjoner\u00f3w, pasjonat\u00f3w designu i wszystkich, kt\u00f3rzy szukaj\u0105 niebanalnych dodatk\u00f3w do domu. Na miejscu ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.3Xg3gdA8l4Eqbkn5zRaN4C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Gazeta Wroc\u0142awska on MSN29 min",
+            "source": "Gazeta Wroc\u0142awska on MSN",
             "article_content": ""
         }
     },
@@ -26,7 +58,7 @@
             "description": "Stare telefony kom\u00f3rkowe zyskuj\u0105 na warto\u015bci, a ich ceny w 2025 roku potrafi\u0105 zaskoczy\u0107. Co ciekawe, wysoka cena nie zawsze ...",
             "image_url": "https://www.bing.pl/th?id=OVF.koPxu%2fhBfd8LyMHpq%2fFIqQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN13 godz.",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN17 godz.",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
             "article_content": ""
         }
@@ -42,41 +74,9 @@
             "description": "Stanowski bezlito\u015bnie podczas ostatniej debaty w neo-TVP podsumowa\u0142 \u201edziennikark\u0119' Dorot\u0119 Wysock\u0105-Schnepf, nazywaj\u0105c j\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.CkDGvfKGU-iP2D_YJw0cvS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "wPolityce.pl18 godz.",
+            "date": "wPolityce.pl22 godz.",
             "source": "wPolityce.pl",
             "article_content": "Publikacja dost\u0119pna na stronie: https://wpolityce.pl/media/729553-stanowski-vs-onet-i-gw-czuchnowski-przyslal-mi-smsa\n\nDzi\u0119kujemy za przeczytanie artyku\u0142u!\n\nNajwa\u017cniejsze teksty publicystyczne i analityczne w jednym miejscu! Do\u0142\u0105cz do Premium+. Pami\u0119taj, mo\u017cesz ogl\u0105da\u0107 nasz\u0105 telewizj\u0119 na wPolsce24. Buduj z nami niezale\u017cne media na wesprzyj.wpolsce24."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "M\u0142odzie\u017c z pasj\u0105. Poznajcie Towarzystwo Krzewicieli Tradycji Kurpiowskich (wideo)",
-            "link": "https://www.moja-ostroleka.pl/art/1747388399/mlodziez-z-pasja-poznajcie-towarzystwo-krzewicieli-tradycji-kurpiowskich-wideo",
-            "description": "Nasza redakcja wspiera m\u0142odzie\u017c, kt\u00f3ra ma pasje. Nasi rozm\u00f3wcy nie tylko maj\u0105 pasj\u0119, ale tak\u017ce kochaj\u0105 kurpiowsk\u0105 kultur\u0119.",
-            "image_url": "https://www.bing.pl/th?id=OVF.5EjO9BowSKgPC%2b1gSzn5nQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "Moja Ostro\u0142\u0119ka6 godz.",
-            "source": "Moja Ostro\u0142\u0119ka",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Kryszta\u0142y PRL - na takich starych wazonach i naczyniach mo\u017cna zarobi\u0107 - ceny, zdj\u0119cia. W 2025 roku niekt\u00f3re warte s\u0105 krocie [16.05.2025]",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/kryszta%C5%82y-prl-na-takich-starych-wazonach-i-naczyniach-mo%C5%BCna-zarobi%C4%87-ceny-zdj%C4%99cia-w-2025-roku-niekt%C3%B3re-warte-s%C4%85-krocie-11052025/ar-AA1Evbsg?ocid=BingNewsVerp",
-            "description": "Kryszta\u0142y PRL zyskuj\u0105 na popularno\u015bci w 2025 roku \u2013 kolekcjonerzy coraz ch\u0119tniej inwestuj\u0105 w te retro skarby, a ceny rosn\u0105 w ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.LfIp66qHosQTMI57anASDw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "Gazeta Pomorska on MSN13 godz.",
-            "source": "Gazeta Pomorska on MSN",
-            "article_content": ""
         }
     },
     {
@@ -90,7 +90,7 @@
             "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
             "image_url": "https://www.bing.pl/th?id=OVF.d0lHATJdEAAW4rYg2zvXsQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Szczeci\u0144ski on MSN11 godz.",
+            "date": "G\u0142os Szczeci\u0144ski on MSN15 godz.",
             "source": "G\u0142os Szczeci\u0144ski on MSN",
             "article_content": ""
         }
@@ -106,7 +106,7 @@
             "description": "Przedmioty z czas\u00f3w PRL w 2025 roku zyskuj\u0105 na warto\u015bci. S\u0105 poszukiwane zar\u00f3wno przez kolekcjoner\u00f3w, jak i mi\u0142o\u015bnik\u00f3w retro, ...",
             "image_url": "https://www.bing.pl/th?id=OVF.O1Fh9fOELn5svKyAUWtIBQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Gazeta Pomorska on MSN10 godz.",
+            "date": "Gazeta Pomorska on MSN14 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -122,7 +122,7 @@
             "description": "Unikatowy charakter mia\u0142y r\u00f3wnie\u017c przedmioty z tego okresu. Z pewno\u015bci\u0105 wiele os\u00f3b posiada w swoich domach rzeczy z czas\u00f3w ...",
             "image_url": "https://www.bing.pl/th?id=OVF.qLR9iqlGmoxJPH1WOiWDlg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski11 godz.",
+            "date": "G\u0142os Koszali\u0144ski15 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
         }
@@ -138,7 +138,7 @@
             "description": "Na tegoroczn\u0105 Noc Muze\u00f3w najwi\u0119cej atrakcji przygotowa\u0142y oba \u0142om\u017cy\u0144skie oraz drozdowskie muzeum. W t\u0119 og\u00f3lnopolsk\u0105, a szerzej ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.AMUSYfiZGudQkj4TfKc5OC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "4lomza.pl17 min",
+            "date": "4lomza.pl4 godz.",
             "source": "4lomza.pl",
             "article_content": "Na tegoroczn\u0105 Noc Muze\u00f3w najwi\u0119cej atrakcji przygotowa\u0142y oba \u0142om\u017cy\u0144skie oraz drozdowskie muzeum. W t\u0119 og\u00f3lnopolsk\u0105, a szerzej europejsk\u0105, inicjatyw\u0119 w\u0142\u0105czy\u0142o si\u0119 te\u017c jednak a\u017c 17 innych plac\u00f3wek kulturalnych i instytucji, dzi\u0119ki czemu w \u0141om\u017cy, Pi\u0105tnicy i Drozdowie odb\u0119dzie si\u0119 szereg imprez i wydarze\u0144, w tym kilka przygotowanych specjalnie z tej okazji. B\u0119dzie mo\u017cna dojecha\u0107 na nie dwiema bezp\u0142atnymi liniami MPK.\n\nJak co roku najwi\u0119cej zwiedzaj\u0105cych przyci\u0105gaj\u0105 w Noc Muze\u00f3w wystawy. W Muzeum P\u00f3\u0142nocno-Mazowieckim za symboliczn\u0105 z\u0142ot\u00f3wk\u0119 b\u0119dzie mo\u017cna obejrze\u0107 a\u017c sze\u015b\u0107 ekspozycji. Ta premierowa to wystawa \u201ePodarowane Muzeum\u201d, na kt\u00f3rej udost\u0119pniono obiekty podarowane do muzealnych zbior\u00f3w, w tym sporo unikat\u00f3w: od bursztynu z r\u00f3\u017cnych stron \u015bwiata, przez XVI-wieczn\u0105 rze\u017ab\u0119 Chrystusa a\u017c po skarb srebrnych monet z XV i XVI wieku. Dochodz\u0105 do tego wystawy sta\u0142e, w tym jedna z najpi\u0119kniejszych kolekcji lamp naftowych w polskich zasobach muzealnych oraz jedyna w swoim rodzaju ;Bursztyn w dorzeczu Narwi\u201d. W muzealnym oddziale, Galerii Sztuki Wsp\u00f3\u0142czesnej mo\u017cna b\u0119dzie z kolei obejrze\u0107 wystawa malarstwa oraz ilustracji ksi\u0105\u017ckowej El\u017cbiety i Mariana Murawskich, szczeg\u00f3lnie znanych z ponadczasowych ilustracji do klasycznych bajek i ba\u015bni.\n\nMuzeum Diecezjalne zaprasza na swoje wystawy sta\u0142e: \u201eSkarbiec\u201d, z\u0142o\u017con\u0105 z licznych kielich\u00f3w, monstrancji i tego typu obiekt\u00f3w ze srebra i z\u0142ota, wykonanych w ostatnich 500 latach, \u201eNa plebanii\u201d, ukazuj\u0105c\u0105 jej wygl\u0105d typowy dla prze\u0142omu XIX i XX stulecia i \u201eRze\u017aba mi\u0119dzy Ziemi\u0105 a Niebem\u201d, podzielon\u0105 na cz\u0119\u015bci z zabytkami sztuki cerkiewnej, gotyckiej, portretu szlacheckiego oraz p\u00f3\u017anego baroku i sztuki XIX wieku oraz dotycz\u0105cej \u0142om\u017cy\u0144skiej katedry. S\u0105 na niej prezentowane najciekawsze zabytki sakralne ze zbior\u00f3w muzeum, w tym rze\u017aby z XV-XX wieku, z cennymi okazami z pracowni Wita Stwosza w\u0142\u0105cznie, obrazy oraz sztuka cerkiewna. Zostanie te\u017c otwarta wystawa czasowa, rze\u017aby Rafa\u0142a Namioty. Muzeum Przyrody \u2013 Dw\u00f3r Lutos\u0142awskich w Drozdowie r\u00f3wnie\u017c zaprasza na wystawy sta\u0142e i czasowe, w tym \u201eZio\u0142owe tajemnice. Ro\u015bliny lecznicze Doliny Narwi\u201d, \u201eGabinet pami\u0119ci Romana Dmowskiego\u201d oraz \u201ePodwodny \u015bwiat pi\u0119ciu kontynent\u00f3w\u201d.\n\nNie zabraknie te\u017c koncert\u00f3w. Filharmonia Kameralna im. Witolda Lutos\u0142awskiego w \u0141om\u017cy p/d Jana Mi\u0142osza Zarzyckiego wyst\u0105pi dwukrotnie, w ko\u015bciele kapucyn\u00f3w oraz w Muzeum Diecezjalnym. W programie: J.S. Bach - Aria z III Suity orkiestrowej D-dur BWV 1068, H. Czy\u017c - Canzona di barocco, A. Vivaldi - Sinfonia do opery Armida al campo d\u2019Egitto RV 699 oraz J.S. Bach - Koncert na 2 skrzypiec d-moll BWV 1043. Solistami b\u0119d\u0105 znakomici skrzypkowie, koncertmistrzyni Izabela B\u0142awat-Leofreddi oraz jej zast\u0119pca Piotr Sawicki.\n\nW galerii Iwo \u015awi\u0105tkowskiego b\u0119dzie rozbrzmiewa\u0107 jazz, w Galerii Ceramiczneja IWAart za\u015bpiewa Magdalena Dobrza\u0144ska, a w Hali Kultury Tomasz Makowiecki, promuj\u0105cy najnowszy album \u201eBailando\u201d. Odb\u0119dzie si\u0119 te\u017c koncert uczni\u00f3w Pa\u0144stwowej Szko\u0142y Muzycznej I i II st. w \u0141om\u017cy, kt\u00f3rzy zagraj\u0105 w Muzeum Diecezjalnym oraz wyst\u0119py m\u0142odych wokalist\u00f3w ze Studia Wokalnego eMDeK i Studia Piosenki Pop Art MDK-D\u015aT na Starym Rynku. Nie zabraknie wystaw w licznych galeriach, w tym premierowych: uczni\u00f3w Pa\u0144stwowego Liceum Sztuk Plastycznych im. Wojciecha Kossaka w \u0141om\u017cy (Hala Kultury), Iwo \u015awi\u0105tkowskiego \u201eM\u00f3j SOPOT\u201d oraz plakacistki i ilustratorki Natalii To\u0144skiej (IWAart).\n\nWarto r\u00f3wnie\u017c odwiedzi\u0107 Galeri\u0119 Pod Arkadami MDK-D\u015aT na Starym Rynku, gdzie mo\u017cna b\u0119dzie obejrze\u0107 najnowsz\u0105 wystaw\u0119 czasow\u0105 fotografii Mariusza Tomczuka \u201e\u017bywot krzes\u0142a \u2013 niebanalna oczywisto\u015b\u0107\u201d oraz pokaz fotografii \u201eWra\u017cliwo\u015b\u0107 i wyobra\u017ania\u201d Adama Czarniewicza. Zaplanowano r\u00f3wnie\u017c performing artystyczny student\u00f3w Polsko-Japo\u0144skiej Akademii Technik Komputerowych, zatytu\u0142owany \u201e\u017bycie, \u015bmier\u0107 \u2013 kwiat\u201d.\n\nNa te wszystkie oraz wiele innych wydarze\u0144, kt\u00f3rych dok\u0142adny wykaz znajduje si\u0119 poni\u017cej, b\u0119dzie mo\u017cna dojecha\u0107 r\u00f3wnie\u017c dwiema bezp\u0142atnymi liniami MPK: kursuj\u0105c\u0105 w granicach miasta w godzinach 14:30-23:32 oraz do Pi\u0105tnicy i Drozdowa w godzinach 16:30-1:12.\n\nPoza oficjalnym programem Nocy Muze\u00f3w odb\u0119d\u0105 si\u0119 r\u00f3wnie\u017c wydarzenia w Muzeum \u2013 Skansenie Kurpiowskim im. Adama Ch\u0119tnika w Nowogrodzie. Plac\u00f3wka do 15:00 b\u0119dzie dost\u0119pna na normalnych zasadach, po czym przez kolejne pi\u0119\u0107 godzin w ramach Nocy Muze\u00f3w, gdzie bilety b\u0119d\u0105 kosztowa\u0107 z\u0142ot\u00f3wk\u0119. W programie, mi\u0119dzy innymi: warsztaty wycinankarskie Wies\u0142awy Bogda\u0144skiej oraz pokaz kowalski.\n\nWojciech Chamryk\n\nSzczeg\u00f3\u0142owy program Nocy Muze\u00f3w w \u0141om\u017cy, Pi\u0105tnicy i Drozdowie:\n\nMuzeum P\u00f3\u0142nocno-Mazowieckie, ul. Dworna 22 c (wst\u0119p: 1 z\u0142)\n\n17:00-23:00 \u2013 zwiedzanie wystaw sta\u0142ych oraz wystawy czasowej \u201ePodarowane Muzeum\u201d.\n\nGaleria Sztuki Wsp\u00f3\u0142czesnej , ul. D\u0142uga 13\n\n16:00-18:00 \u2013 warsztaty plastyczne dla dzieci (wst\u0119p: 22 z\u0142)\n\n18:00 \u2013 spotkanie z Mari\u0105 Bauchrowicz-Tock\u0105, autork\u0105 ksi\u0105\u017cki \u201e\u0141om\u017cy\u0144skie historie prawdziwe. Ludzie, miejsca, zdarzenia\u201d z udzia\u0142em Magdy Sinoff\n\n18:00-23:00 \u2013 wystawa malarstwa oraz ilustracji ksi\u0105\u017ckowej El\u017cbiety i Mariana Murawskich (wst\u0119p: 1 z\u0142).\n\nMuzeum Diecezjalne, ul. Gie\u0142czy\u0144ska 20 A (17:00-24:00)\n\n17:30 \u2013 wystawa pami\u0105tek biskupa Romualda Ja\u0142brzykowskiego\n\n17:30 \u2013 wystawa rze\u017aby Rafa\u0142a Namioty\n\n18:00 \u2013 prezentacja ksi\u0105\u017cki o ko\u015bciele i parafii Wniebowzi\u0119cia NMP w Ostrowi Mazowieckiej; 18:30 \u2013 koncert uczni\u00f3w Pa\u0144stwowej Szko\u0142y Muzycznej I i II st. w \u0141om\u017cy;\n\n22:00 \u2013 koncert Filharmonii Kameralnej im. Witolda Lutos\u0142awskiego w \u0141om\u017cy. Soli\u015bci: Izabela B\u0142awat-Leofreddi \u2013 skrzypce, Piotr Sawicki \u2013 skrzypce; Jan Mi\u0142osz Zarzycki \u2013 dyrygent. W programie m.in.: Jan S. Bach, Antonio L. Vivaldi.\n\nWystawa zabytkowych pojazd\u00f3w.\n\nHala Kultury, Stary Rynek 6\n\n14:00-16:00 \u2013 warsztaty fotograficzne \u201eTAKE A PHOTO\u201d dla m\u0142odzie\u017cy, doros\u0142ych i senior\u00f3w, bez limitu miejsc, obowi\u0105zuj\u0105 zapisy: tel. 86 215 68 87\n\n17:00 \u2013 wernisa\u017c wystawy prac uczni\u00f3w Pa\u0144stwowego Liceum Sztuk Plastycznych im. W. Kossaka w \u0141om\u017cy\n\n18:00 \u2013 koncert Tomasza Makowieckiego.\n\nGaleria Pod Arkadami, Stary Rynek\n\n18:00, 19:00, 20:00 \u2013 \u201e\u017bywot krzes\u0142a \u2013 niebanalna oczywisto\u015b\u0107\u201d \u2013 zwiedzanie wystawy fotografii Mariusza Tomczuka\n\n20:00 \u2013 Studio eMDeK i Pop Art MDK-D\u015aT\n\n21:00 \u2013 \u201eWra\u017cliwo\u015b\u0107 i wyobra\u017ania\u201d \u2013 pokaz filmowy prac Adama Czarniewicza.\n\nSTARY RYNEK: 17:00-20:00 \u2013 \u201e\u017bycie, \u015bmier\u0107 \u2013 kwiat\u201d \u2013 performing artystyczny student\u00f3w Polsko-Japo\u0144skiej Akademii Technik Komputerowych.\n\nMiejska Biblioteka Publiczna, ul. D\u0142uga 13\n\n14:00-20:00 \u2013 \u201eKiermasz wieczorow\u0105 por\u0105\u201d \u2013 sprzeda\u017c ksi\u0105\u017cek przed siedzib\u0105 biblioteki.\n\n\u0141om\u017cy\u0144skie Towarzystwo Naukowe im. Wag\u00f3w, ul. D\u0142uga 13\n\n16:00-20:00 \u2013 prezentacja jedynego XIX-wiecznego portretu olejnego Jakuba Ignacego Wagi oraz zwiedzanie Gabinetu Janiny i Piotra Ba\u0144kowskich\n\n18:00-19:00 \u2013 \u201ePoznaj co\u015b za zi\u00f3\u0142ko\u201d \u2013 konsultacje genealogiczne po\u0142\u0105czone z warsztatami przyrodniczymi (zapisy: tel. 86 216 32 56).\n\nTeatr Lalki i Aktora, pl. Niepodleg\u0142o\u015bci 14\n\n16:00-18:00 \u2013 warsztaty tw\u00f3rcze \u201eZr\u00f3b sobie lalk\u0119\u201d\n\n17:00 \u2013 spektakl \u201eMa\u0142y ksi\u0105\u017c\u0119\u201d w re\u017cyserii Jaros\u0142awa Antoniuka\n\n18:30 \u2013 czytanie performatywne sztuki Magdy Durdy \u201eO orle nielocie, kt\u00f3ry mia\u0142 l\u0119k wysoko\u015bci\u201d.\n\nGaleria Sztuki Iwo \u015awi\u0105tkowski, ul. Polowa 16, lok. 23, II p.\n\n16:00-20:30 \u2013 wystawa Iwo \u015awi\u0105tkowskiego \u201eM\u00f3j SOPOT\", w ramach wieczoru wyst\u0105pi Duet Gitar Jazzowych.\n\nGaleria autorska Grzegorz Gwizdon, ul. Rz\u0105dowa 9 a\n\n16:00-20:00 \u2013 \u201ePolska z natury\u201d \u2013 prezentacja grafik i fotografii.\n\nGaleria Ceramiczna IWAart, ul. Radziecka 1\n\n13:00, 14:00, 15:00 \u2013 warsztaty dla dzieci, obowi\u0105zuj\u0105 zapisy, tel. 601 711 418\n\n17:00 \u2013 wernisa\u017c plakacistki i ilustratorki Natalii To\u0144skiej\n\n20:00 \u2013 recital Magdaleny Dobrza\u0144skiej.\n\nPa\u0144stwowe Liceum Sztuk Plastycznych im. Wojciecha Kossaka, ul. Marii Sk\u0142odowskiej-Curie 1\n\n19\u00ba\u00ba-22\u00ba\u00ba \u2013 \u201eNoc w Plastyku\u201d \u2013 kiermasz prac uczniowskich\n\nKo\u015bci\u00f3\u0142 pw. Matki Bo\u017cej Bolesnej w \u0141om\u017cy (oo. Kapucyni), ul. Krzywe Ko\u0142o 3\n\n19:00-23:00 \u2013 zwiedzanie katakumb\n\n20:30 \u2013 koncert Filharmonii Kameralnej im. Witolda Lutos\u0142awskiego w \u0141om\u017cy. Soli\u015bci: Izabela B\u0142awat-Leofreddi \u2013 skrzypce, Piotr Sawicki \u2013 skrzypce; Jan Mi\u0142osz Zarzycki \u2013 dyrygent. W programie m.in.: Jan S. Bach, Antonio L. Vivaldi.\n\nLokalna Organizacja Turystyczna Ziemia \u0141om\u017cy\u0144ska\n\n16:30 \u2013 przej\u015bcie podziemnym korytarzem fortu w Pi\u0105tnicy TWIERDZY \u0141OM\u017bA; 18:00 \u2013 udzia\u0142 w spacerze historycznym z przewodnikiem po \u0142om\u017cy\u0144skiej Star\u00f3wce. Rezerwacja miejsc, wy\u0142\u0105cznie osobi\u015bcie, w siedzibie Punktu Informacji Turystycznej w Hali Kultury przy Starym Rynku 6. Zamkni\u0119cie rezerwacji: 16 maja, tel. kontaktowy: 660 163 846.\n\nCEN w \u0141om\u017cy Biblioteka Pedagogiczna (19:00-22:00)\n\nul. Marii Sk\u0142odowskiej-Curie 1\n\n19:00 \u2013 kamishibai: japo\u0144ski teatr obrazkowy dla dzieci\n\n20:00 \u2013 przedstawienie \u201eKr\u00f3lewna \u015anie\u017cka\u201d w wykonaniu uczni\u00f3w Szko\u0142y Podstawowej w Kuziach\n\n21:00 \u2013 \u201eKurpsioskie bajanie\u201d \u2013 wyst\u0119p laureat\u00f3w Konkursu Gadki Kurpiowskiej\n\nRestauracja na Farnej, ul. Farna 9\n\n17:00-23:00 \u2013 \u201e\u0141om\u017ca w starej fotografii\u201d \u2013 pokaz slajd\u00f3w\n\nTowarzystwo Przyjaci\u00f3\u0142 Ziemi \u0141om\u017cy\u0144skiej, ul. Sienkiewicza 8\n\n16.30 \u2013 W MIE\u015aCIE CO BY\u0141O MI RAJEM \u2013 prezentacje laureat\u00f3w X edycji konkursu i tort w dobrym Towarzystwie\n\nArchiwum Pa\u0144stwowe w Bia\u0142ymstoku Oddzia\u0142 w \u0141om\u017cy, al. Legion\u00f3w 36\n\n17:00-23:00 \u2013 zwiedzanie wystawy \u201e\u0141om\u017cyniacy \u2013 Ofiary Zbrodni Katy\u0144skiej\u201d; oraz magazyn\u00f3w Oddzia\u0142u.\n\n17:30, 19:30 \u2013 prelekcja na temat Zbrodni Katy\u0144skiej i pomordowanych \u0141om\u017cyniak\u00f3w.\n\nPi\u0105tnica , ul. Jedwabie\u0144ska 29, twierdzalomza.pl\n\n18:00-01:00 \u2013 zwiedzanie Fort\u00f3w, w tym trzech podziemnych tuneli (jeden jest zalany, zaleca si\u0119 zabranie obuwia gumowego do kolan i latarek); dost\u0119pna sala kominkowa; oferta gastronomiczna: kawa, herbata, grzaniec, dania z grilla, ognisko, muzyka; Stajnia Zielony Zak\u0105tek zaprasza na nocne spotkanie z ko\u0144mi\n\nMuzeum Przyrody \u2013 Dw\u00f3r Lutos\u0142awskich w Drozdowie (wst\u0119p: 3 z\u0142)\n\nDrozdowo, ul. G\u0142\u00f3wna 38\n\n17:00-22:00 \u2013 wystawy sta\u0142e i czasowe\n\n17:00 \u2013 prelekcje \u201eAdam Ch\u0119tnik \u2013 dzia\u0142acz spo\u0142eczny i narodowy\u201d\n\n18:00 \u2013 \u201eUlubione przyprawy Kurpi\u00f3w wed\u0142ug Adama Ch\u0119tnika\u201d\n\n19:00 \u2013 karmienie piranii i innych ryb akwariowych."
         }
@@ -154,7 +154,7 @@
             "description": "Z pewno\u015bci\u0105 ka\u017cdy z nas kojarzy meblo\u015bcianki, kredensy, sto\u0142y, fotele z okresu PRL. Mia\u0142y one sw\u00f3j unikatowy charakter, ...",
             "image_url": "https://www.bing.pl/th?id=OVF.0OMAszgLmaxWiO4cJZL3EA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski11 godz.",
+            "date": "G\u0142os Koszali\u0144ski15 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
         }
@@ -170,7 +170,7 @@
             "description": "Przedmioty z czas\u00f3w PRL w 2025 roku zyskuj\u0105 na warto\u015bci. S\u0105 poszukiwane zar\u00f3wno przez kolekcjoner\u00f3w, jak i mi\u0142o\u015bnik\u00f3w retro, ...",
             "image_url": "https://www.bing.pl/th?id=OVF.M19JZjNTgjJOSwZXhxqvmg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN10 godz.",
+            "date": "Gazeta Pomorska on MSN14 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -186,25 +186,9 @@
             "description": "Unikatowy charakter mia\u0142y r\u00f3wnie\u017c przedmioty z tego okresu. Z pewno\u015bci\u0105 wiele os\u00f3b posiada w swoich domach rzeczy z czas\u00f3w ...",
             "image_url": "https://www.bing.pl/th?id=OVF.qLR9iqlGmoxJPH1WOiWDlg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "G\u0142os Koszali\u0144ski11 godz.",
+            "date": "G\u0142os Koszali\u0144ski15 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Kryszta\u0142y PRL - na takich starych wazonach i naczyniach mo\u017cna zarobi\u0107 - ceny, zdj\u0119cia. W 2025 roku niekt\u00f3re warte s\u0105 krocie [16.05.2025]",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/kryszta%C5%82y-prl-na-takich-starych-wazonach-i-naczyniach-mo%C5%BCna-zarobi%C4%87-ceny-zdj%C4%99cia-w-2025-roku-niekt%C3%B3re-warte-s%C4%85-krocie-11052025/ar-AA1Evbsg?ocid=BingNewsVerp",
-            "description": "Kryszta\u0142y PRL zyskuj\u0105 na popularno\u015bci w 2025 roku \u2013 kolekcjonerzy coraz ch\u0119tniej inwestuj\u0105 w te retro skarby, a ceny rosn\u0105 w ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.LfIp66qHosQTMI57anASDw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN13 godz.",
-            "source": "Gazeta Pomorska on MSN",
-            "article_content": ""
         }
     },
     {
@@ -218,7 +202,7 @@
             "description": "170-letni szampan, odnaleziony latem zesz\u0142ego roku przez polskich nurk\u00f3w w wraku \u017caglowca na po\u0142udnie od wyspy Olandia, ma ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.07xCyL3S0iOOoypvhsZ_li&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Dziennik.pl12 godz.",
+            "date": "Dziennik.pl16 godz.",
             "source": "Dziennik.pl",
             "article_content": "Ekspert wraz z sommelierem spr\u00f3bowa\u0142 zawarto\u015b\u0107 jednej ze 100 butelek.\n\nSzampan zachowa\u0142 si\u0119 w ca\u0142kiem dobrym stanie, ale nie by\u0142 ju\u017c nasycony dwutlenkiem w\u0119gla, a zawarto\u015b\u0107 by\u0142a nieco m\u0119tna\"- przekaza\u0142 Petersson, podkre\u015blaj\u0105c \u017ce dokona\u0142 jedynie niewielkiego testu.\n\nPrzypomnia\u0142, \u017ce \u0142adunek razem z holenderskim szkunerem Henrik i sze\u015bcioosobow\u0105 za\u0142og\u0105 zaton\u0105\u0142 w 1861 roku podczas sztormu. Ekskluzywny trunek mia\u0142 trafi\u0107 do cara Rosji Aleksandra II. Rosyjski dw\u00f3r specjalnie zamawia\u0142 szampana z dodatkowym cukrem - wyja\u015bni\u0142.\n\nNiesamowite, co kry\u0142 wrak na dnie Ba\u0142tyku. Archeolodzy wydobyli skarb sprzed 170 lat\n\nJak poinformowa\u0142o we wtorek przedstawicielstwo administracji rz\u0105dowej hrabstwa Blekinge, nurkowanie przeprowadzono na pocz\u0105tku maja. Celem ekspedycji by\u0142o wydobycie kilku artefakt\u00f3w oraz ich zbadanie; trwaj\u0105 prace nad znalezieniem informacji w \u017ar\u00f3d\u0142ach historycznych na temat za\u0142ogi i \u0142adunku.\n\nReklama\n\nW przedsi\u0119wzi\u0119cie zaanga\u017cowa\u0142 si\u0119 producent szampana Roederer z Francji, kt\u00f3ry dzia\u0142a do dzi\u015b i do Szwecji wys\u0142a\u0142 swojego eksperta. Bardzo im zale\u017cy, aby dokona\u0107 analizy chemicznej trunku i por\u00f3wna\u0107 ze wsp\u00f3\u0142czesnym szampanem - zaznaczy\u0142 Petersson.\n\nWed\u0142ug archeologa nast\u0119pnym krokiem b\u0119dzie publikacja raportu; na razie nie wiadomo, czy wy\u0142owiony szampan trafi na wystaw\u0119 do jednego z muze\u00f3w oraz co stanie si\u0119 z reszt\u0105 spoczywaj\u0105cego we wraku \u0142adunku.\n\nW po\u0142owie lipca 2024 roku nurkowie z grupy Baltictech z Tr\u00f3jmiasta poinformowali o odkryciu 16-metrowego \u017caglowca z drewna, wype\u0142nionego setk\u0105 butelek szampana, wina, wody mineralnej, a tak\u017ce porcelany. Na dow\u00f3d zaprezentowano nagranie wideo i zdj\u0119cia. Szwedzkie media nazwa\u0142y odkrycie sensacyjnym. W sierpniu ubieg\u0142ego roku szwedzka administracja pa\u0144stwowa obj\u0119\u0142a ochron\u0105 prawn\u0105 wrak \u017caglowca, zabraniaj\u0105c nurkowania w jego pobli\u017cu bez zgody w\u0142adz, aby zapobiec pl\u0105drowaniu."
         }
@@ -229,14 +213,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "SEC 2019",
-            "link": "https://gazetawroclawska.pl/tag/sec-2019",
-            "description": "29 i 30 pa\u017adziernika w... Jak wiosna, to i targi. Wraz z rozkwitem zieleni zaczyna si\u0119 sezon imprez plenerowych, a tak\u017ce zamkni\u0119tych. W dniach 24-25 maja 2025 r. na lotnisku w U\u0142\u0119\u017cu na... Kie\u0142basy, ...",
-            "image_url": "https://www.bing.plNo image",
+            "title": "Gie\u0142da-gigant ju\u017c w sobot\u0119. By\u0142y czasy, gdy nawet \"\u015awiebodzki\" wygl\u0105da\u0142 przy niej blado. Kiedy\u015b handlowa\u0142a tu ca\u0142a Polska",
+            "link": "https://www.msn.com/pl-pl/news/other/gie%C5%82da-gigant-ju%C5%BC-w-sobot%C4%99-by%C5%82y-czasy-gdy-nawet-%C5%9Bwiebodzki-wygl%C4%85da%C5%82-przy-niej-blado-kiedy%C5%9B-handlowa%C5%82a-tu-ca%C5%82a-polska/ar-AA1EVGpY?ocid=BingNewsVerp",
+            "description": "Gie\u0142da w Lubinie ma ju\u017c przesz\u0142o 40 lat. I cho\u0107 przez dekady kojarzy\u0142a si\u0119 g\u0142\u00f3wnie z samochodami, to dzi\u015b jest ich zaledwie garstka - handluje si\u0119 czym\u015b innym. Obecnie to jedno z najwi\u0119kszych ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.p9YO103MXreScWBGsL62IA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "gazetawroclawska.pl1 min",
-            "source": "gazetawroclawska.pl",
-            "article_content": "Content not available"
+            "date": "Gazeta Wroc\u0142awska on MSN19 min",
+            "source": "Gazeta Wroc\u0142awska on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Czacz, czyli wie\u015b-pchli targ. Od sobotniego \u015bwitu zacznie si\u0119 tutaj wielkie handlowanie",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/czacz-czyli-wie%C5%9B-pchli-targ-od-sobotniego-%C5%9Bwitu-zacznie-si%C4%99-tutaj-wielkie-handlowanie/ar-AA1ExYLT?ocid=BingNewsVerp",
+            "description": "Czacz przyci\u0105ga kolekcjoner\u00f3w, pasjonat\u00f3w designu i wszystkich, kt\u00f3rzy szukaj\u0105 niebanalnych dodatk\u00f3w do domu. Na miejscu ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.3Xg3gdA8l4Eqbkn5zRaN4C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "Gazeta Wroc\u0142awska on MSN29 min",
+            "source": "Gazeta Wroc\u0142awska on MSN",
+            "article_content": ""
         }
     },
     {
@@ -250,24 +250,8 @@
             "description": "Tak bawili si\u0119 mieszka\u0144cy \u017bar na imprezach organizowanych w mie\u015bcie. Zobaczcie niesamowite zdj\u0119cia sprzed lat, to m.in. Dni ...",
             "image_url": "https://www.bing.pl/th?id=OVF.q0P6Eb1l0p4CRsBTxOJWcA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Gazeta Lubuska on MSN3 godz.",
+            "date": "Gazeta Lubuska on MSN7 godz.",
             "source": "Gazeta Lubuska on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Najbli\u017cszy weekend w \u0141odzi to nie tylko Noc Muze\u00f3w i urodziny Manufaktury. Co robi\u0107 w weekend 16-18 maja 2025? Oto propozycje wydarze\u0144",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/najbli%C5%BCszy-weekend-w-%C5%82odzi-to-nie-tylko-noc-muze%C3%B3w-i-urodziny-manufaktury-co-robi%C4%87-w-weekend-16-18-maja-2025-oto-propozycje-wydarze%C5%84/ar-AA1ERahh?ocid=BingNewsVerp",
-            "description": "W ten weekend Manufaktura obchodzi 19. urodziny. G\u0142\u00f3wne wydarzenia odb\u0119d\u0105 si\u0119 w sobot\u0119 (18 maja). Na rynku W\u0142\u00f3kniarek przez ca\u0142y dzie\u0144 dost\u0119pne b\u0119d\u0105 atrakcje i koncerty Od godz. 12. do 17. rynek opanu ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.uJelon1vmcKYEKRidTlMcA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "targ+staroci",
-            "date": "Dziennik \u0141\u00f3dzki on MSN20 godz.",
-            "source": "Dziennik \u0141\u00f3dzki on MSN",
             "article_content": ""
         }
     },
@@ -282,7 +266,7 @@
             "description": "W ten weekend \u2013 w wi\u0119kszo\u015bci przypadk\u00f3w z soboty na niedziel\u0119 \u2013 czeka nas niezwyk\u0142a noc \u2013 Noc Muze\u00f3w 2025! Podczas niej setki ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.3ka0OrsXyrPr0N-LUEkUSC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Super Nowo\u015bci4 godz.",
+            "date": "Super Nowo\u015bci8 godz.",
             "source": "Super Nowo\u015bci",
             "article_content": "Content not available"
         }
@@ -293,14 +277,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Jakie wydarzenia szykuj\u0105 si\u0119 w Rzeszowie podczas weekendu? Zobacz przegl\u0105d imprez od pi\u0105tku 16 maja do niedzieli 18 maja 2025!",
-            "link": "https://www.msn.com/pl-pl/rozrywka/news/jakie-wydarzenia-szykuj%C4%85-si%C4%99-w-rzeszowie-podczas-weekendu-zobacz-przegl%C4%85d-imprez-od-pi%C4%85tku-16-maja-do-niedzieli-18-maja-2025/ar-AA1ERjFA?ocid=BingNewsVerp",
-            "description": "Przed nami weekend. Jak go sp\u0119dzi\u0107? Znale\u017ali\u015bmy dla Was propozycje wydarze\u0144, na kt\u00f3re warto si\u0119 wybra\u0107 od pi\u0105tku 16 maja do niedzieli 181 maja 2025. Zapraszamy do naszej galerii, w kt\u00f3rej znajduj\u0105 si\u0119 ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.1HhmRsrjdzWJFwhlDAHRNw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "SEC 2019",
+            "link": "https://gazetawroclawska.pl/tag/sec-2019",
+            "description": "Katowice s\u0105 gospodarzem CYBERSEC CEE 2019, czyli najwi\u0119kszego wydarzenia w Europie \u015arodkowo-Wschodniej po\u015bwi\u0119conemu cyberbezpiecze\u0144stwu. 29 i 30 pa\u017adziernika w... Jak wiosna, to i targi. Wraz z rozkwi ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.p9YO103MXreScWBGsL62IA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Rzesz\u00f3w Nasze Miasto on MSN19 godz.",
-            "source": "Rzesz\u00f3w Nasze Miasto on MSN",
-            "article_content": ""
+            "date": "Gazeta Wroc\u0142awska3 godz.",
+            "source": "Gazeta Wroc\u0142awska",
+            "article_content": "Content not available"
         }
     },
     {
@@ -314,7 +298,7 @@
             "description": "Nast\u0119pny przystanek to Brama Pyrzycka, wizyt\u00f3wka miasta, gdzie uczestnicy zg\u0142\u0119bili jej tajemnice za spraw\u0105 Marcina Majewskiego, dyrektora Muzeum Archeologiczno-Historycznego. Bezpo\u015brednio po, ...",
             "image_url": "https://www.bing.pl/th?id=ODF.FXbuaruKlrIR1k4fPHokgw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Stargard Nasze Miasto on MSN1 godz.",
+            "date": "Stargard Nasze Miasto on MSN5 godz.",
             "source": "Stargard Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -330,7 +314,7 @@
             "description": "\u2013 To wa\u017cny krok w kierunku uporz\u0105dkowania i o\u017cywienia tej cz\u0119\u015bci Lublina. Dzi\u0119ki wsp\u00f3\u0142pracy z u\u017cytkownikiem wieczystym tego ...",
             "image_url": "https://www.bing.pl/th?id=OVF.m7WtqqFxt28HeSWmv5prxA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Lublin Nasze Miasto on MSN2 godz.",
+            "date": "Lublin Nasze Miasto on MSN6 godz.",
             "source": "Lublin Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -346,7 +330,7 @@
             "description": "\u2013 To wa\u017cny krok w kierunku uporz\u0105dkowania i o\u017cywienia tej cz\u0119\u015bci Lublina. Dzi\u0119ki wsp\u00f3\u0142pracy z u\u017cytkownikiem wieczystym tego ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.VIQnd9jxOVvjRz5l2DlqHi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Kurier Lubelski on MSN2 godz.",
+            "date": "Kurier Lubelski on MSN6 godz.",
             "source": "Kurier Lubelski on MSN",
             "article_content": ""
         }
@@ -362,7 +346,7 @@
             "description": "Rozgl\u0105dasz si\u0119 za pomys\u0142em na tras\u0119 rowerow\u0105 z O\u015bwi\u0119cimia? Podpowiadamy, gdzie warto si\u0119 wybra\u0107. Przygotowali\u015bmy 5 ciekawych ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.w01An8WufCtv8322UBTr2i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "O\u015bwi\u0119cim Nasze Miasto3 godz.",
+            "date": "O\u015bwi\u0119cim Nasze Miasto7 godz.",
             "source": "O\u015bwi\u0119cim Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -373,14 +357,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Nordic walking do 6 km od Ko\u0142obrzegu. Urocze miejsca na kr\u00f3tk\u0105 tras\u0119 w weekend 17 - 18 maja",
-            "link": "https://kolobrzeg.naszemiasto.pl/nordic-walking-do-6-km-od-kolobrzegu-urocze-miejsca-na-krotka-trase-w-weekend-17-18-maja/ar/c7p1-22319027",
-            "description": "Rozgl\u0105dasz si\u0119 za nowymi trasami nordic walking w okolicy Ko\u0142obrzegu? Z Traseo przygotowali\u015bmy dla Ciebie gar\u015b\u0107 propozycji na ten tydzie\u0144. Je\u017celi przed Tob\u0105 pierwszy marsz nordic walking, nie zaczynaj ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.xGyVXoJ9b0zlcu2rTPA_6w&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Ten opuszczony dom to istny wehiku\u0142 czasu",
+            "link": "https://www.onet.pl/turystyka/sietra-urbex/ten-opuszczony-dom-to-istny-wehikul-czasu/29fyljn,30bc1058",
+            "description": "Eksploracja opuszczonych miejsc to podr\u00f3\u017c w czasie \u2014 tak te\u017c by\u0142o i tym razem, gdy trafi\u0142em do starego, zapomnianego domu w jednej z Polskich wsi.",
+            "image_url": "https://www.bing.pl/th?id=ODF.oQEErXUwbSaDLEJpiIzpEg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Ko\u0142obrzeg Nasze Miasto2 godz.",
-            "source": "Ko\u0142obrzeg Nasze Miasto",
-            "article_content": "Content not available"
+            "date": "Onet3 godz.",
+            "source": "Onet",
+            "article_content": "W \u015brodku panowa\u0142 p\u00f3\u0142mrok, a zapach kurzu i wilgoci unosi\u0142 si\u0119 w powietrzu. Pierwsze, co rzuca\u0142o si\u0119 w oczy, to kilkana\u015bcie zabytkowych telewizor\u00f3w kineskopowych, porozrzucanych po pokojach niczym relikty przesz\u0142o\u015bci. Na zniszczonym tapczanie le\u017ca\u0142 jeden z nich \u2013 Neptun 427 KT. Wielki, drewniany, z pokr\u0119t\u0142ami i kratk\u0105 zasalaj\u0105c\u0105 g\u0142o\u015bnik. W innym pomieszczeniu znajdowa\u0142 si\u0119 stary rega\u0142 pe\u0142en s\u0142oik\u00f3w z przetworami, kt\u00f3re prawdopodobnie pami\u0119taj\u0105 poprzedni ustr\u00f3j. Pozostawione w kuchni rega\u0142y, lod\u00f3wki meble w salonie czy widok\u00f3wki ze znanymi p\u00f3\u0142 wieku temu postaciami robi\u0142y spore wra\u017cenie. Drewniane schody prowadzi\u0142y na pi\u0119tro, gdzie w\u015br\u00f3d porozrzucanych ubra\u0144 i karton\u00f3w czai\u0142a si\u0119 historia ludzi, kt\u00f3rzy tu kiedy\u015b mieszkali. Ka\u017cdy przedmiot by\u0142 \u015bwiadkiem ich \u017cycia, codzienno\u015bci, marze\u0144. To miejsce by\u0142o jak kapsu\u0142a czasu."
         }
     },
     {
@@ -394,9 +378,25 @@
             "description": "Horawa przypomnia\u0142, \u017ce pocz\u0105tki obecno\u015bci Amazon w Polsce si\u0119gaj\u0105 przej\u0119cia firmy Ivona Software - technologii, kt\u00f3ra sta\u0142a ...",
             "image_url": "https://www.bing.pl/th?id=OVF.J1Zo84oiVUvtiuwsxdCehQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Dziennik Zachodni on MSN20 min",
+            "date": "Dziennik Zachodni on MSN4 godz.",
             "source": "Dziennik Zachodni on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Fina\u0142 b\u00f3jki na Szewskiej. Znaleziono bro\u0144 i narkotyki [WIDEO]",
+            "link": "https://glos24.pl/final-bojki-na-szewskiej-znaleziono-bron-i-narkotyki",
+            "description": "Policjanci zatrzymali uczestnik\u00f3w b\u00f3jki, do kt\u00f3rej w lutym dosz\u0142o na ul. Szewskiej w Krakowie. W mieszkaniu dw\u00f3ch z nich znaleziono bro\u0144 i narkotyki.",
+            "image_url": "https://www.bing.pl/th?id=ODF.Xqx_O_P6LauqTUkkRpMOpQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "zabytkowe+przedmioty",
+            "date": "G\u0142os242 godz.",
+            "source": "G\u0142os24",
+            "article_content": "pi\u0105tek, 16 maja 2025 17:43 , aktualizacja 2 godziny temu\n\nKrakowscy policjanci zatrzymali uczestnik\u00f3w b\u00f3jki, do kt\u00f3rej w lutym dosz\u0142o na ul. Szewskiej w Krakowie przed pubem Banialuka. Uczestnicy, kt\u00f3rych nagra\u0142 jeden ze \u015bwiadk\u00f3w, uciekli przed przyjazdem policji. W mieszkaniu dw\u00f3ch z nich znaleziono bro\u0144 i narkotyki.\n\nDo niebezpiecznego zdarzenia dosz\u0142o 24 lutego br. Na nagraniu, opublikowanym na Facebooku przez stron\u0119 Zabytkowe Centrum wida\u0107 m\u0119\u017cczyzn, kt\u00f3rzy gro\u017c\u0105 sobie maczetami i pryskaj\u0105 jakim\u015b gazem na ulicy Szewskiej pod popularnym pubem Banialuka.\n\nRynek G\u0142. Krak\u00f3w: UWA\u017bAJCIE Uzbrojeni i niebezpieczni Opublikowany przez Zabytkowe Centrum Pi\u0105tek, 28 lutego 2025\n\nZanim przyjecha\u0142y radiowozy, uczestnicy b\u00f3jki uciekli.\n\nOd lutego trwa\u0142o policyjne \u015bledztwo, kt\u00f3ra mia\u0142o na celu wykrycie sprawc\u00f3w. Policjanci z komisariatu I Policji w Krakowie, Komendy Miejskiej Policji w Krakowie i z wydzia\u0142u ds. zwalczania przest\u0119pczo\u015bci pseudokibic\u00f3w z KWP w Krakowie analizowali zabezpieczone nagrania pod k\u0105tem ustalenia personali\u00f3w os\u00f3b, kt\u00f3re bra\u0142y udzia\u0142 w tym zdarzeniu. Jak si\u0119 okaza\u0142o, z sukcesem.\n\nPierwsze zatrzymania mia\u0142y miejsce ju\u017c na pocz\u0105tku marca.\n\nDu\u017co trudniej by\u0142o z ustaleniem pozosta\u0142ych czterech napastnik\u00f3w. Jak podkre\u015bla policja, ta sprawa by\u0142a jedn\u0105 z wa\u017cniejszych dla policjant\u00f3w zwalczaj\u0105cych przest\u0119pczo\u015b\u0107 pseudokibicowsk\u0105.\n\n8 maja br. policjanci zwalczaj\u0105cy przest\u0119pczo\u015b\u0107 narkotykow\u0105, wsp\u00f3lnie z funkcjonariuszami z Wydzia\u0142u do spraw Zwalczania Przest\u0119pczo\u015bci Pseudokibic\u00f3w Komendy Wojew\u00f3dzkiej Policji w Krakowie oraz kryminalnymi z Komisariatu Policji VII w Krakowie weszli do ustalonego wcze\u015bniej mieszkania w Nowej Hucie. Zatrzymano w nim dw\u00f3ch 23-letnich pseudokibic\u00f3w i dealer\u00f3w narkotykowych. Podczas przeszukania znaleziono narkotyki, wagi dealerskie, bro\u0144 pneumatyczn\u0105, maczety oraz emblematy kibicowskie. Obaj zostali aresztowani. Policja opublikowa\u0142a film z akcji.\n\nPseudokibice uczestnicz\u0105cy w b\u00f3jce na ul. Szewskiej zatrzymani\u2757 Ma\u0142opolscy policjanci ustalili i zatrzymali 6\ufe0f\u20e3 pseudokibic\u00f3w, kt\u00f3rzy brali udzia\u0142 w b\u00f3jce na ul. Szewskiej w Krakowie w lutym 2025 r. 24 lutego br. w godzinach nocnych na ul. Szewskiej w Krakowie dosz\u0142o do b\u00f3jki z u\u017cyciem niebezpiecznych narz\u0119dzi pomi\u0119dzy dwiema grupami os\u00f3b, kt\u00f3rzy przed przyjazdem Policji uciekli z miejsca zdarzenia i ukryli si\u0119. Spraw\u0105 zaj\u0119li si\u0119 policjanci z komisariatu I Policji w Krakowie, Komendy Miejskiej Policji w Krakowie, jak r\u00f3wnie\u017c policjanci z wydzia\u0142u ds. zwalczania przest\u0119pczo\u015bci pseudokibic\u00f3w z KWP w Krakowie. Policjanci rozpocz\u0119li analizowanie zgromadzonego materia\u0142u pod k\u0105tem ustalenia personali\u00f3w os\u00f3b, kt\u00f3re bra\u0142y udzia\u0142 w tym zdarzeniu. \ud83d\udc494 marca br. do tej sprawy ma\u0142opolscy policjanci zatrzymali 22-latka na terenie Warszawy a tego samego dnia jego r\u00f3wie\u015bnik zosta\u0142 zatrzymany w Krakowie. \ud83d\udc4912 marca br. w Krakowie policjanci dokonali zatrzymania jeszcze jednego uczestnika b\u00f3jki, tym razem 20-latka. Na wniosek Prokuratury s\u0105d zastosowa\u0142 wobec wszystkich trzech podejrzanych tymczasowy areszt. Policjanci ca\u0142y czas pracowali jednak nad ustaleniem pozosta\u0142ych uczestnik\u00f3w b\u00f3jki. Prowadzili czynno\u015bci procesowe i pozaprocesowe. Ta sprawa by\u0142a jedn\u0105 z wa\u017cniejszych dla policjant\u00f3w zwalczaj\u0105cych przest\u0119pczo\u015b\u0107 pseudokibicowsk\u0105. \ud83d\udc498 maja br. policjanci zwalczaj\u0105cy przest\u0119pczo\u015b\u0107 narkotykow\u0105, wsp\u00f3lnie z funkcjonariuszami z Wydzia\u0142u do spraw Zwalczania Przest\u0119pczo\u015bci Pseudokibic\u00f3w Komendy Wojew\u00f3dzkiej Policji w Krakowie oraz kryminalnymi z Komisariatu Policji VII w Krakowie podczas wsp\u00f3lnych dzia\u0142a\u0144 weszli do jednego z mieszka\u0144 na terenie Nowej Huty, gdzie przebywa\u0142y osoby powi\u0105zane ze \u015brodowiskiem pseudokibic\u00f3w. Policjanci zatrzymali dw\u00f3ch 23-latk\u00f3w. Obaj zostali tymczasowo aresztowani. Podczas przeszukania ich mieszka\u0144 zabezpieczono narkotyki, wagi dealerskie, bro\u0144 pneumatyczn\u0105, maczety oraz emblematy kibicowskie. \ud83d\udc4913 maja br. do Komisariatu Policji I w Krakowie zg\u0142osi\u0142 si\u0119 20-latek, r\u00f3wnie\u017c b\u0119d\u0105cy uczestnikiem lutowych zaj\u015b\u0107 na ul. Szewskiej. Policjanci wykonali z nim niezb\u0119dne czynno\u015bci. Zastosowano natomiast policyjny doz\u00f3r oraz zakaz opuszczania kraju Wszyscy m\u0119\u017cczy\u017ani odpowiedz\u0105 karnie za udzia\u0142 w b\u00f3jce z u\u017cyciem niebezpiecznych przedmiot\u00f3w, w kt\u00f3rej nara\u017cono cz\u0142owieka na bezpo\u015brednie niebezpiecze\u0144stwo utraty \u017cycia, za co grozi\u0107 im mo\u017ce do 8 lat wi\u0119zienia. Opublikowany przez Ma\u0142opolska Policja Pi\u0105tek, 16 maja 2025\n\n13 maja br. do Komisariatu Policji I w Krakowie zg\u0142osi\u0142 si\u0119 20-latek, r\u00f3wnie\u017c b\u0119d\u0105cy uczestnikiem lutowych zaj\u015b\u0107 na ul. Szewskiej. Policjanci wykonali z nim niezb\u0119dne czynno\u015bci. Zastosowano natomiast policyjny doz\u00f3r oraz zakaz opuszczania kraju\n\nWszyscy m\u0119\u017cczy\u017ani odpowiedz\u0105 karnie za udzia\u0142 w b\u00f3jce z u\u017cyciem niebezpiecznych przedmiot\u00f3w, w kt\u00f3rej nara\u017cono cz\u0142owieka na bezpo\u015brednie niebezpiecze\u0144stwo utraty \u017cycia, za co grozi\u0107 im mo\u017ce do 8 lat wi\u0119zienia."
         }
     },
     {
@@ -410,7 +410,7 @@
             "description": "Siostry s\u0142u\u017cebniczki z Pleszewa otwieraj\u0105 drzwi do swojego muzeum. Sobot\u0119, 17 maja, czyli w Noc Muze\u00f3w po\u015bwi\u0119cona zostanie ...",
             "image_url": "https://www.bing.pl/th?id=OVF.HgVtwXjIu5%2fXIzxJkwFe6A&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Pleszew Nasze Miasto on MSN9 godz.",
+            "date": "Pleszew Nasze Miasto on MSN13 godz.",
             "source": "Pleszew Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -426,7 +426,7 @@
             "description": "Najbardziej rozpoznawalnym, zabytkowym obiektem w Koninie jest S\u0142up Milowy. To w kraju najstarszy drogowskaz, kt\u00f3ry niegdy\u015b ...",
             "image_url": "https://www.bing.pl/th?id=OVF.PlRklouzgT0GzEVL0339Jw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Konin Nasze Miasto on MSN7 godz.",
+            "date": "Konin Nasze Miasto on MSN11 godz.",
             "source": "Konin Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -437,29 +437,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Wybory prezydenckie. Czy kandydaci s\u0105 mistrzami mowy polskiej, czy te\u017c kalecz\u0105 nasz j\u0119zyk? Jakich s\u0142\u00f3w i sformu\u0142owa\u0144 u\u017cywaj\u0105 najcz\u0119\u015bciej?",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/wybory-prezydenckie-czy-kandydaci-s%C4%85-mistrzami-mowy-polskiej-czy-te%C5%BC-kalecz%C4%85-nasz-j%C4%99zyk-jakich-s%C5%82%C3%B3w-i-sformu%C5%82owa%C5%84-u%C5%BCywaj%C4%85-najcz%C4%99%C5%9Bciej/ar-AA1EUtMs?ocid=BingNewsVerp",
-            "description": "Z doktorem Grzegorzem Zarzecznym, j\u0119zykoznawc\u0105, konsultantem prostego j\u0119zyka, kt\u00f3ry pracuje w Instytucie Filologii Polskiej Uniwersytetu Wroc\u0142awskiego, rozmawiamy o j\u0119zyku, jakiego u\u017cywaj\u0105 kandydaci ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.p9YO103MXreScWBGsL62IA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Alarm bombowy galeria bronowice",
+            "link": "https://krakow.naszemiasto.pl/tag/alarm-bombowy-galeria-bronowice",
+            "description": "Ewakuacja Galerii Bronowice w Krakowie. S\u0142u\u017cby natychmiast przyst\u0105pi\u0142y do ewakuowania wszystkich klient\u00f3w i pracownik\u00f3w ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Wroc\u0142awska on MSN2 godz.",
-            "source": "Gazeta Wroc\u0142awska on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Wycieczki rowerowe do 13 km od Wa\u0142brzycha. Pomys\u0142y na jednodniowy wypad. Gdzie w weekend 17 - 18 maja?",
-            "link": "https://walbrzych.naszemiasto.pl/wycieczki-rowerowe-do-13-km-od-walbrzycha-pomysly-na-jednodniowy-wypad-gdzie-w-weekend-17-18-maja/ar/c7p1-21831457",
-            "description": "Nim wyruszysz w drog\u0119, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 17 maja w Wa\u0142brzychu ma by\u0107 11\u00b0C. Prawdopodobie\u0144stwo ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.0SX2CDc%2bT%2b%2f06sAEgGoZ5g&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Wa\u0142brzych Nasze Miasto3 godz.",
-            "source": "Wa\u0142brzych Nasze Miasto",
+            "date": "Krak\u00f3w Nasze Miasto2 godz.",
+            "source": "Krak\u00f3w Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -469,12 +453,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Kolekcjonerzy poluj\u0105 na te starocie z PRL - lista, ceny, zdj\u0119cia. Takie pami\u0105tki mog\u0105 okaza\u0107 si\u0119 prawdziwym skarbem [16.05.2025]",
+            "title": "Kolekcjonerzy poluj\u0105 na te starocie z PRL - lista, ceny, zdj\u0119cia. Takie pami\u0105tki mog\u0105 okaza\u0107 si\u0119 prawdziwym skarbem",
             "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/kolekcjonerzy-poluj%C4%85-na-te-starocie-z-prl-lista-ceny-zdj%C4%99cia-takie-pami%C4%85tki-mog%C4%85-okaza%C4%87-si%C4%99-prawdziwym-skarbem/ar-AA1ESyu7?ocid=BingNewsVerp",
             "description": "Przedmioty z czas\u00f3w PRL w 2025 roku zyskuj\u0105 na warto\u015bci. S\u0105 poszukiwane zar\u00f3wno przez kolekcjoner\u00f3w, jak i mi\u0142o\u015bnik\u00f3w retro, ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.M19JZjNTgjJOSwZXhxqvmg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "image_url": "https://www.bing.pl/th?id=OVF.O1Fh9fOELn5svKyAUWtIBQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Pomorska on MSN10 godz.",
+            "date": "Gazeta Pomorska on MSN14 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -490,8 +474,24 @@
             "description": "D\u0142ugie kolejki do muze\u00f3w tego dnia nikogo nie dziwi\u0105, krakowianie pokochali Noc Muze\u00f3w, kt\u00f3ra w tym roku - tradycyjnie - ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.8gN1D5zg9NxnjjG-LYtO1C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Krakowska on MSN8 godz.",
+            "date": "Gazeta Krakowska on MSN12 godz.",
             "source": "Gazeta Krakowska on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "W Krakowie Noc Muze\u00f3w wcze\u015bniej ni\u017c w ca\u0142ej Polsce. Na takie atrakcje krakowianie czekaj\u0105 ca\u0142y rok. Zobaczcie PROGRAM wydarze\u0144",
+            "link": "https://www.msn.com/pl-pl/rozrywka/news/w-krakowie-noc-muze%C3%B3w-wcze%C5%9Bniej-ni%C5%BC-w-ca%C5%82ej-polsce-na-takie-atrakcje-krakowianie-czekaj%C4%85-ca%C5%82y-rok-zobaczcie-program-wydarze%C5%84/ar-AA1EGQt4?ocid=BingNewsVerp",
+            "description": "D\u0142ugie kolejki do muze\u00f3w tego dnia nikogo nie dziwi\u0105, krakowianie pokochali Noc Muze\u00f3w, kt\u00f3ra w tym roku - tradycyjnie - ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.8gN1D5zg9NxnjjG-LYtO1C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+numizmatyka",
+            "date": "Krak\u00f3w Nasze Miasto on MSN12 godz.",
+            "source": "Krak\u00f3w Nasze Miasto on MSN",
             "article_content": ""
         }
     },
@@ -506,7 +506,7 @@
             "description": "Na terenie Nadle\u015bnictwa Lubacz\u00f3w dokonano niezwyk\u0142ego odkrycia. Jeden z poszukiwaczy natrafi\u0142 na zabytkowy przedmiot z prze\u0142omu XIX i XX wieku. Zachowany w doskona\u0142ym stanie trybularz ju\u017c wkr\u00f3tce b\u0119dz ...",
             "image_url": "https://www.bing.pl/th?id=ODF.gqghbhQ0lymmjp4YAd1iQw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Polsat News10 godz.",
+            "date": "Polsat News14 godz.",
             "source": "Polsat News",
             "article_content": "Na terenie Nadle\u015bnictwa Lubacz\u00f3w dokonano niezwyk\u0142ego odkrycia. Jeden z poszukiwaczy natrafi\u0142 na zabytkowy przedmiot z prze\u0142omu XIX i XX wieku. Zachowany w doskona\u0142ym stanie trybularz ju\u017c wkr\u00f3tce b\u0119dzie mo\u017cna podziwia\u0107 w Muzeum Kres\u00f3w w Lubaczowie.\n\nW lasach nieopodal Hory\u0144ca-Zdroju dokonano niezwyk\u0142ego odkrycia. Podczas poszukiwa\u0144 z wykrywaczem metalu pan Tomasz Kornaga natrafi\u0142 na wyj\u0105tkowy zabytek - trybularz, czyli kadzielnic\u0119, pochodz\u0105c\u0105 z prze\u0142omu XIX i XX wieku.\n\nNiezwyk\u0142e odkrycie w podkarpackim lesie. Poszukiwacz znalaz\u0142 trybularz\n\nO znalezisku poinformowa\u0142o Nadle\u015bnictwo Lubacz\u00f3w za po\u015brednictwem medi\u00f3w spo\u0142eczno\u015bciowych.\n\nZOBACZ: Niezwyk\u0142e odkrycie. \"Piekielna mr\u00f3wka\" zmieni\u0142a dotychczasow\u0105 wiedz\u0119\n\n\"Trybularz zosta\u0142 zabezpieczony przez Muzeum Kres\u00f3w w Lubaczowie i mamy nadziej\u0119, \u017ce ju\u017c nied\u0142ugo stanie si\u0119 eksponatem, kt\u00f3ry b\u0119dziemy mogli z zachwytem podziwia\u0107\" - podkre\u015blili le\u015bnicy, przekazuj\u0105c gratulacje dla znalazcy.\n\nTrybularz, kt\u00f3ry niebawem mo\u017ce sta\u0107 si\u0119 jednym z ciekawszych eksponat\u00f3w w lubaczowskim muzeum, s\u0142u\u017cy\u0142 dawniej do spalania kadzid\u0142a podczas obrz\u0119d\u00f3w religijnych.\n\nTrybularz trafi do zbior\u00f3w muzeum. \"Wyj\u0105tkowej urody artefakt\"\n\nZabytek zosta\u0142 ju\u017c zabezpieczony przez Muzeum Kres\u00f3w w Lubaczowie. Pracownicy plac\u00f3wki nie kryj\u0105 entuzjazmu - jak podano w mediach spo\u0142eczno\u015bciowych muzeum, \"dzi\u0119ki panu Tomaszowi Kornadze oraz wsp\u00f3\u0142pracy z Podkarpackim Wojew\u00f3dzkim Konserwatorem Zabytk\u00f3w kolejne le\u015bne znalezisko ju\u017c wkr\u00f3tce trafi do naszych zbior\u00f3w!\".\n\nZOBACZ: Nietypowe odkrycie dzik\u00f3w. Konieczna interwencja policji\n\nPlac\u00f3wka podkre\u015bli\u0142a r\u00f3wnie\u017c, \u017ce znalezisko ma nie tylko warto\u015b\u0107 historyczn\u0105, ale i estetyczn\u0105: \"Ten wyj\u0105tkowej urody artefakt wzbogaci kolekcj\u0119 muzealn\u0105\"."
         }
