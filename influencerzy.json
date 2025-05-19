@@ -10,7 +10,7 @@
             "description": "Du\u017co by\u0142o stanowisk z wiosennymi kwiatami i krzewami, odzie\u017c\u0105 i butami w wiosenno-letnich kolekcji, meblami, artyku\u0142ami ...",
             "image_url": "https://www.bing.pl/th?id=OVF.%2fUzCa6BaqvGEukxWY83hOw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN8 godz.",
+            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN11 godz.",
             "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -26,9 +26,25 @@
             "description": "W ostatnich latach przedmioty z czas\u00f3w PRL prze\u017cywaj\u0105 prawdziwy renesans. W 2025 roku kolekcjonerzy coraz ch\u0119tniej poszukuj\u0105 przedmiot\u00f3w z minionej epoki, a ich warto\u015b\u0107 stale ro\u015bnie. Moda na vintage o ...",
             "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "Gazeta Pomorska on MSN7 godz.",
+            "date": "Gazeta Pomorska on MSN10 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Przegl\u0105d prasy W\u0142oc\u0142awek 19.05.2025. Sprawd\u017a zestawienie najwa\u017cniejszych informacji z wczoraj we W\u0142oc\u0142awku",
+            "link": "https://wloclawek.naszemiasto.pl/przeglad-prasy-wloclawek-19-05-2025-sprawdz-zestawienie-najwazniejszych-informacji-z-wczoraj-we-wloclawku/ar/c1p1-19738625",
+            "description": "W niedziel\u0119, 18 maja 2025 roku odby\u0142a si\u0119 w ca\u0142ej Polsce pierwsza tura wybor\u00f3w prezydenckich. Zobaczcie na zdj\u0119ciach, jak przebiega\u0142o g\u0142osowanie w komisjach wyborczych nr 24 i 25 przy ulicy Willowej ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.Bm8piDnsAoinfeChI0AgCw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "starocie",
+            "date": "W\u0142oc\u0142awek Nasze Miasto39 min",
+            "source": "W\u0142oc\u0142awek Nasze Miasto",
+            "article_content": "Content not available"
         }
     },
     {
@@ -42,7 +58,7 @@
             "description": "W blasku porannego s\u0142o\u0144ca i przy wi\u0119kszej temperaturze ni\u017c w ostatnich dniach otworzy\u0142a swoje podwoje przed bia\u0142ostoczanami ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.WtommCuQNMOXnu6RAhO78y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Kurier Poranny13 godz.",
+            "date": "Kurier Poranny16 godz.",
             "source": "Kurier Poranny",
             "article_content": "Content not available"
         }
@@ -58,24 +74,8 @@
             "description": "Pasjonaci starych przedmiot\u00f3w pomimo niskiej jak na po\u0142ow\u0119 maja temperatury pojawili si\u0119 na Targach Staroci, kt\u00f3re odby\u0142y si\u0119 ...",
             "image_url": "https://www.bing.pl/th?id=OVF.GqYkNixXIpPgqvnCgFCREw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Rzesz\u00f3w Nasze Miasto on MSN9 godz.",
+            "date": "Rzesz\u00f3w Nasze Miasto on MSN11 godz.",
             "source": "Rzesz\u00f3w Nasze Miasto on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Rozwadowski Targ Staroci w Stalowej Woli w deszczu. Zobacz zdj\u0119cia",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/rozwadowski-targ-staroci-w-stalowej-woli-w-deszczu-zobacz-zdj%C4%99cia/ar-AA1EZH2L?ocid=BingNewsVerp",
-            "description": "Rozwadowski Targ Staroci zorganizowany w Stalowej Woli w niedziel\u0119, 18 maja by\u0142 sk\u0105pany w deszczu. Odstraszy\u0142o to ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.rZi0JGOjd6ZNVAg2PgcVRy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "Nasze Miasto on MSN14 godz.",
-            "source": "Nasze Miasto on MSN",
             "article_content": ""
         }
     },
@@ -90,7 +90,7 @@
             "description": "Wycena monet z PRL-u zale\u017cy od rzadko\u015bci wyst\u0119powania, jako\u015bci wybicia oraz gradingu, czyli stanu jej zachowania. W Polsce znajdziemy wiele okaz\u00f3w wartych kilkaset z\u0142otych, ale s\u0105 te\u017c takie, na ...",
             "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "G\u0142os Szczeci\u0144ski on MSN20 godz.",
+            "date": "G\u0142os Szczeci\u0144ski on MSN23 godz.",
             "source": "G\u0142os Szczeci\u0144ski on MSN",
             "article_content": ""
         }
@@ -106,7 +106,7 @@
             "description": "W ostatnich latach przedmioty z czas\u00f3w PRL prze\u017cywaj\u0105 prawdziwy renesans. W 2025 roku kolekcjonerzy coraz ch\u0119tniej poszukuj\u0105 przedmiot\u00f3w z minionej epoki, a ich warto\u015b\u0107 stale ro\u015bnie. Moda na vintage o ...",
             "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "Gazeta Pomorska on MSN7 godz.",
+            "date": "Gazeta Pomorska on MSN10 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -122,7 +122,7 @@
             "description": "Unikatowy charakter mia\u0142y r\u00f3wnie\u017c przedmioty z tego okresu. Z pewno\u015bci\u0105 wiele os\u00f3b posiada w swoich domach rzeczy z czas\u00f3w PRL. Mog\u0105 znajdowa\u0107 si\u0119 w piwnicy, na strychu, w schowku, b\u0105d\u017a w kartonie, o ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski on MSN21 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN23 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
@@ -138,7 +138,7 @@
             "description": "BeerBear po cichu (i brutalnie) buduje swoj\u0105 pozycj\u0119 bohatera mem\u00f3w prze\u0142omu 2025 roku. Z bardzo nisk\u0105 cen\u0105 wej\u015bcia.",
             "image_url": "https://www.bing.pl/th?id=OVF.uFBlnHPMjo9OfknsH6swzg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "BitHub.pl5 godz.",
+            "date": "BitHub.pl8 godz.",
             "source": "BitHub.pl",
             "article_content": "Niska cena, wielkie marzenia. Nowy coin mo\u017ce wyprzedzi\u0107 TRUMP i zaskoczy\u0107 wszystkich w 2025 roku\n\nArtyku\u0142 zosta\u0142 nades\u0142any w ca\u0142o\u015bci przez partnera i ma charakter sponsorowany.\n\nW \u015brodku obecnej hossy nowa waluta cyfrowa przyci\u0105ga uwag\u0119 swoim potencja\u0142em znacznego wzrostu. Ta moneta, wyr\u00f3\u017cniaj\u0105ca si\u0119 skromn\u0105 cen\u0105 wej\u015bcia, wywo\u0142uje ekscytacj\u0119 w spo\u0142eczno\u015bci kryptowalut. Jej obietnica le\u017cy nie tylko w zyskach rynkowych, ale tak\u017ce w zmianie oczekiwa\u0144 i przewy\u017cszeniu uznanych token\u00f3w. Wraz z ewolucj\u0105 krajobrazu kryptowalut ta wschodz\u0105ca gwiazda oferuje przekonuj\u0105c\u0105 okazj\u0119, kt\u00f3ra mo\u017ce zdefiniowa\u0107 na nowo strategie rynkowe na ten rok.\n\nBEER za 0,0005? Brzmi jak sen. BeerBear sprawia, \u017ce \u200b\u200bto si\u0119 spe\u0142nia!\n\nZnudzi\u0142y Ci si\u0119 memecoiny, kt\u00f3re obiecuj\u0105 gruszki na wierzbie, ale wygasaj\u0105 przed startem? Czas na projekt, kt\u00f3ry ma prawdziw\u0105 posta\u0107.\n\nNareszcie mamy monet\u0119 dla wymagaj\u0105cych koneser\u00f3w piwa. I tych, kt\u00f3rzy kochaj\u0105 stare dobre dowcipy taty.\n\nfot. materia\u0142y partnera\n\nPoznaj BeerBeer ($BEER) \u2013 brutalnego nied\u017awiedzia, kt\u00f3ry nie zna lito\u015bci dla oszustw. Pojawi\u0142 si\u0119 jako symbol oporu przeciwko scamowi.\n\nOczekuje si\u0119, \u017ce token $BEER, oferowany obecnie za u\u0142amek centa (dok\u0142adnie 0,0005 USD), osi\u0105gnie cen\u0119 0,0020 do ko\u0144ca przedsprzeda\u017cy. Nadal tanio, ale kto rano wstaje, ten dostaje najlepsz\u0105 ofert\u0119. Przyjrzyjmy si\u0119 liczbom:\n\nMasz 100 dolar\u00f3w i kupujesz $BEER za $0.0005 (wyobra\u017a sobie, \u017ce prawdziwe piwo kosztuje tyle, nie\u017ale co?) Dostaniesz 199 999 token\u00f3w.\n\nPoczekasz zbyt d\u0142ugo, wskoczysz za 0,0020 $, a otrzymasz tylko 50 000 token\u00f3w. Czujesz r\u00f3\u017cnic\u0119?\n\nChcesz Z\u0142apa\u0107 Troch\u0119 $BEER? Zr\u00f3b to teraz!\n\nBeerBear to sama akcja. Ju\u017c przed premier\u0105 gra Bear Em All w trybie demonstracyjnym daje mo\u017cliwo\u015b\u0107 zarabiania. Jest to bijatyka w stylu arcade, w kt\u00f3rej BeerBear, zainspirowany Johnem McClane i Rambo, walczy z chciwymi chomikami. Dlaczego chomikami? Poniewa\u017c bezmy\u015blne gry polegaj\u0105ce na stukaniu s\u0105 strat\u0105 czasu. BeerBear przynosi rzeczywisty potencja\u0142 zysku.\n\nObejrzyj teaser gry BeerBear.\n\nBonusy i nagrody dla prawdziwych $BEER Buddies\n\nBeerBear dba o swoj\u0105 ekip\u0119 \u2013 posiadaczy $BEER \u2013 i oferuje im gar\u015b\u0107 fajnych bonus\u00f3w. Aktywni cz\u0142onkowie spo\u0142eczno\u015bci mog\u0105 zdobywa\u0107 punkty Beer Points do 12% od zainwestowanej kwoty. Poza tym istnieje program polece\u0144, w kt\u00f3rym mo\u017cesz zarabia\u0107 nagrody w postaci USDT za zaproszenie znajomych do spo\u0142eczno\u015bci $BEER.\n\nAudyty? Tokenomika? Mapa drogowa? Wszystko sprawdzone\n\nAby walczy\u0107 z oszustwami, BeerBear zapewni\u0142 pe\u0142n\u0105 przejrzysto\u015b\u0107. Projekt przeszed\u0142 audyty agencji najwy\u017cszej klasy: SmartState, Beosin i HashEx \u2014 bez \u017cadnych krytycznych problem\u00f3w. Wi\u0119c tak, BeerBear jest oficjalnie legalny.\n\nTokenomika? Ca\u0142kowita poda\u017c jest ograniczona do 10 miliard\u00f3w token\u00f3w, bez mo\u017cliwo\u015bci dalszej produkcji. Ten niedob\u00f3r mo\u017ce zwi\u0119kszy\u0107 popyt, zw\u0142aszcza \u017ce 60% jest przydzielane kupuj\u0105cym w przedsprzeda\u017cy.\n\nJe\u015bli chodzi o plan dzia\u0142ania: mo\u017cna si\u0119 spodziewa\u0107 pe\u0142nej wersji gry \u201eBear \u2019em All\u201d zapewniaj\u0105cej epickie b\u00f3jki, a tak\u017ce rynku NFT BeerBear z rzadkimi, kolekcjonerskimi sk\u00f3rkami.\n\nDlaczego warto kupi\u0107 $BEER teraz?\n\nBo najlepsza pora na piwo jest ZAWSZE! (Tata by\u0142by zachwycony).\n\nPoniewa\u017c projekt ten jest tak chwytliwy i aktualny, \u017ce $BEER mo\u017ce si\u0119 sko\u0144czy\u0107 zanim mrugniesz (tak, kolejny klasyk ojc\u00f3w). Zakup p\u00f3\u017aniej oznacza\u0142by konieczno\u015b\u0107 zap\u0142acenia wi\u0119cej.\n\nPoniewa\u017c to jest BEER, kt\u00f3rym nie b\u0119dziesz musia\u0142 si\u0119 z nikim dzieli\u0107 (powa\u017cnie, tat\u0119 rozbola\u0142by brzuch ze \u015bmiechu).\n\nI na koniec \u2014 bez \u017cart\u00f3w \u2014 bo $BEER mo\u017ce by\u0107 po prostu tym memecoinem, z kt\u00f3rego si\u0119 \u015bmia\u0142e\u015b, nie kupuj\u0105c go, ale potem zobaczy\u0142e\u015b, \u017ce jest notowany powy\u017cej 1 dolara po wprowadzeniu na gie\u0142d\u0119.\n\nAlbo nie. Sukces zale\u017cy od wielu rzeczy, takich jak nastroje na rynku i realizacja zespo\u0142u. Ale jak dot\u0105d wszystko jest w porz\u0105dku. Audyty zaliczone. Plan dzia\u0142ania ambitny. Tokenomika inteligentna.\n\nTeraz wszystko zale\u017cy od spo\u0142eczno\u015bci \u2014 czy masz odwag\u0119 pom\u00f3c BeerBearowi sta\u0107 si\u0119 kolejnym wielkim memecoinem?\n\nZosta\u0144 najlepszym kumplem BeerBear\u2019a, zanim znajdzie si\u0119 w pierwszej dziesi\u0105tce memecoin\u00f3w\n\nKolejka g\u00f3rska Trump Coin: wzro\u015bnie, czy spadnie?\n\nOfficial Trump (TRUMP) ma zmienno\u015b\u0107 mi\u0119dzy 11,01 a 15,88 USD. Ostatnio zyska\u0142 66,11% w ci\u0105gu miesi\u0105ca, co sugeruje potencjalny byczy impet. Jednak przy prostych \u015brednich krocz\u0105cych blisko siebie trend nie jest jasny. RSI na poziomie 53,27 sugeruje, \u017ce nie jest ani przekupiony, ani wyprzedany, podczas gdy wy\u017cszy stochastyk na poziomie 74,14 wymaga ostro\u017cno\u015bci. Aby wzrosn\u0105\u0107 dalej, musi prze\u0142ama\u0107 op\u00f3r na poziomie 18 USD. Przekroczenie tego mo\u017ce doprowadzi\u0107 do wej\u015bcia w gr\u0119 cel\u00f3w takich jak 22,87 USD, co oznacza wzrost o 40% od obecnych poziom\u00f3w. Jednak niepowodzenie w utrzymaniu mo\u017ce spowodowa\u0107 spadek w kierunku 8,26 USD. Uwa\u017cnie obserwuj zmiany, poniewa\u017c ta moneta mo\u017ce p\u00f3j\u015b\u0107 w obie strony.\n\nWnioski\n\nPodczas gdy rynek wci\u0105\u017c si\u0119 kr\u0119ci, a monety takie jak TRUMP przemierzaj\u0105 sw\u00f3j rollercoaster zmienno\u015bci, BeerBear po cichu (i brutalnie) buduje swoj\u0105 pozycj\u0119 bohatera mem\u00f3w prze\u0142omu 2025 roku. Z bardzo nisk\u0105 cen\u0105 wej\u015bcia, zweryfikowanymi audytami, rzeczywist\u0105 rozgrywk\u0105 i lojaln\u0105, kochaj\u0105c\u0105 \u017carty armi\u0105 za sob\u0105, $BEER nie jest po prostu kolejnym chwytem marketingowym \u2014 to pe\u0142ne smaku po\u0142\u0105czenie u\u017cyteczno\u015bci, humoru i si\u0142y ognia przeciwko oszustwom.\n\nTo nie jest porada finansowa \u2014 ale je\u015bli w tym roku zamierzasz si\u0119 w co\u015b zaanga\u017cowa\u0107, dlaczego nie zrobi\u0107 z tego monety, kt\u00f3ra zwalcza chciwe chomiki, nagradza lojalno\u015b\u0107 i ma w pakiecie kubek pe\u0142en potencja\u0142u?\n\nOtw\u00f3rz portfel, nalej sobie troch\u0119 $BEER i przy\u0142\u0105cz si\u0119 do ruchu, zanim osi\u0105gnie on poziom ekstraklasy.\n\nNa zdrowie za zyski. Na zdrowie za memy. Na zdrowie za BeerBeara.\n\nStrona: Beerbear ($BEAR)\n\nTwitter: https://x.com/BeerBear_Meme\n\nTelegram: Czat\n\nDzi\u0119kujemy, \u017ce przeczyta\u0142e\u015b/a\u015b nasz artyku\u0142 do ko\u0144ca. Obserwuj nas w Wiadomo\u015bciach Google i b\u0105d\u017a na bie\u017c\u0105co!"
         }
@@ -154,7 +154,7 @@
             "description": "Kasety wideo stanowi\u0142y istotny element historii rozwoju technologii wideo. Ich popularno\u015b\u0107 w latach 80. i 90. wp\u0142yn\u0119\u0142a na spos\u00f3b, w jaki konsumowano tre\u015bci... Maj\u00f3wka w PRL-u trwa\u0142a jeden dzie\u0144, bo ro ...",
             "image_url": "https://www.bing.pl/th?id=ODF.lSvQ7lbnEp30GW9jilHB-Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "Express Bydgoski1 godz.",
+            "date": "Express Bydgoski4 godz.",
             "source": "Express Bydgoski",
             "article_content": "Pranie w PRL-u: pami\u0119tasz kultow\u0105 pralk\u0119 Frania? Kojarzysz proszek Cypisek i p\u0142yn FF?\n\nDzisiaj w ka\u017cdym domu stoi pralka czy pralko-suszarka, a wiele os\u00f3b korzysta te\u017c z automatycznej suszarki do prania. Mimo to nie lubimy pra\u0107 i mamy przekonanie,..."
         }
@@ -170,7 +170,7 @@
             "description": "W ostatnich latach przedmioty z czas\u00f3w PRL prze\u017cywaj\u0105 prawdziwy renesans. W 2025 roku kolekcjonerzy coraz ch\u0119tniej poszukuj\u0105 przedmiot\u00f3w z minionej epoki, a ich warto\u015b\u0107 stale ro\u015bnie. Moda na vintage o ...",
             "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN7 godz.",
+            "date": "Gazeta Pomorska on MSN10 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -186,7 +186,7 @@
             "description": "Unikatowy charakter mia\u0142y r\u00f3wnie\u017c przedmioty z tego okresu. Z pewno\u015bci\u0105 wiele os\u00f3b posiada w swoich domach rzeczy z czas\u00f3w PRL. Mog\u0105 znajdowa\u0107 si\u0119 w piwnicy, na strychu, w schowku, b\u0105d\u017a w kartonie, o ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "G\u0142os Koszali\u0144ski on MSN21 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN23 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
@@ -197,13 +197,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Najpi\u0119kniejszy dolno\u015bl\u0105ski biurowiec - pa\u0142ac Tielscha w Wa\u0142brzychu - zachwyca po remoncie i t\u0119tni \u017cyciem. Zobacz - to jego zdj\u0119cia",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/najpi%C4%99kniejszy-dolno%C5%9Bl%C4%85ski-biurowiec-pa%C5%82ac-tielscha-w-wa%C5%82brzychu-zachwyca-po-remoncie-i-t%C4%99tni-%C5%BCyciem-zobacz-to-jego-zdj%C4%99cia/ar-AA1EX9wN?ocid=BingNewsVerp",
-            "description": "Min\u0119\u0142o 18 lat odk\u0105d Gra\u017cyna i Bogus\u0142aw Charczukowie kupili zabytkowy Pa\u0142ac Tielscha w Wa\u0142brzychu. Ich pe\u0142noletnie dzie\u0142o nabra\u0142o kszta\u0142tu, najpi\u0119kniejszy dolno\u015bl\u0105ski biurowiec zyska\u0142 nowe \u017cycie i pono ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.QOhooLrbIKEbFaE6w1Fs8Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Najpi\u0119kniejszy dolno\u015bl\u0105ski biurowiec - pa\u0142ac Tielscha w Wa\u0142brzychu - zachwyca po remoncie i t\u0119tni \u017cyciem. Zobacz jego zdj\u0119cia",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/najpi%C4%99kniejszy-dolno%C5%9Bl%C4%85ski-biurowiec-pa%C5%82ac-tielscha-w-wa%C5%82brzychu-zachwyca-po-remoncie-i-t%C4%99tni-%C5%BCyciem-zobacz-jego-zdj%C4%99cia/ar-AA1EX7dr?ocid=BingNewsVerp",
+            "description": "Min\u0119\u0142o 18 lat odk\u0105d Gra\u017cyna i Bogus\u0142aw Charczukowie kupili zabytkowy Pa\u0142ac Tielscha w Wa\u0142brzychu. Ich pe\u0142noletnie dzie\u0142o ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.A%2bIIOKU3ewciGQ9Rdtig8Q&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Wroc\u0142aw Nasze Miasto on MSN6 godz.",
-            "source": "Wroc\u0142aw Nasze Miasto on MSN",
+            "date": "Gazeta Wroc\u0142awska on MSN20 godz.",
+            "source": "Gazeta Wroc\u0142awska on MSN",
             "article_content": ""
         }
     },
@@ -218,7 +218,7 @@
             "description": "Du\u017co by\u0142o stanowisk z wiosennymi kwiatami i krzewami, odzie\u017c\u0105 i butami w wiosenno-letnich kolekcji, meblami, artyku\u0142ami ...",
             "image_url": "https://www.bing.pl/th?id=OVF.%2fUzCa6BaqvGEukxWY83hOw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN8 godz.",
+            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN11 godz.",
             "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -234,7 +234,7 @@
             "description": "Pasjonaci starych przedmiot\u00f3w pomimo niskiej jak na po\u0142ow\u0119 maja temperatury pojawili si\u0119 na Targach Staroci, kt\u00f3re odby\u0142y si\u0119 ...",
             "image_url": "https://www.bing.pl/th?id=OVF.GqYkNixXIpPgqvnCgFCREw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Rzesz\u00f3w Nasze Miasto on MSN9 godz.",
+            "date": "Rzesz\u00f3w Nasze Miasto on MSN11 godz.",
             "source": "Rzesz\u00f3w Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -250,7 +250,7 @@
             "description": "Rozwadowski Targ Staroci zorganizowany w Stalowej Woli w niedziel\u0119, 18 maja by\u0142 sk\u0105pany w deszczu. Odstraszy\u0142o to ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.rZi0JGOjd6ZNVAg2PgcVRy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Nasze Miasto on MSN14 godz.",
+            "date": "Nasze Miasto on MSN16 godz.",
             "source": "Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -261,14 +261,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Handlowa niedziela. Zimnego maja 2025. Ceny warzyw, owoc\u00f3w, staroci i aut na gie\u0142dzie przy ulicy Andersa w Bia\u0142ymstoku. Tak by\u0142o 18.05.2025",
-            "link": "https://www.msn.com/pl-pl/jedzenie-i-picie/og%C3%B3lne/handlowa-niedziela-zimnego-maja-2025-ceny-warzyw-owoc%C3%B3w-staroci-i-aut-na-gie%C5%82dzie-przy-ulicy-andersa-w-bia%C5%82ymstoku-tak-by%C5%82o-18-05-2025/ar-AA1EZQq2?ocid=BingNewsVerp",
-            "description": "W blasku porannego s\u0142o\u0144ca i przy wi\u0119kszej temperaturze ni\u017c w ostatnich dniach otworzy\u0142a swoje podwoje przed bia\u0142ostoczanami ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.CoNgTm92IGLG3fWaf5EvdC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Przegl\u0105d prasy Rzesz\u00f3w 19.05.2025. Sprawd\u017a zestawienie najwa\u017cniejszych informacji z wczoraj w Rzeszowie",
+            "link": "https://rzeszow.naszemiasto.pl/przeglad-prasy-rzeszow-19-05-2025-sprawdz-zestawienie-najwazniejszych-informacji-z-wczoraj-w-rzeszowie/ar/c1p1-19738391",
+            "description": "W sobot\u0119, 17 maja 20225 roku Rzesz\u00f3w zaprosi\u0142 mieszka\u0144c\u00f3w miasta na wyj\u0105tkow\u0105 Noc Muze\u00f3w \u2014 wiecz\u00f3r pe\u0142en inspiracji, pasji i ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.e%2fZdxTquLPk1bm4tmmbudg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Kurier Poranny on MSN13 godz.",
-            "source": "Kurier Poranny on MSN",
-            "article_content": ""
+            "date": "Rzesz\u00f3w Nasze Miasto41 min",
+            "source": "Rzesz\u00f3w Nasze Miasto",
+            "article_content": "Content not available"
         }
     },
     {
@@ -277,13 +277,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Targi dobrego designu wroc\u0142aw",
-            "link": "https://gazetawroclawska.pl/tag/targi-dobrego-designu-wroclaw",
-            "description": "Bi\u017cuteria, moda, ceramika, kosmetyki, ksi\u0105\u017cki... Mas\u0119 pi\u0119knych rzeczy, prosto od polskich dostawc\u00f3w, znajdziecie na Targach ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.-hbElLTfT5ufTMBp1lCNPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Przegl\u0105d prasy W\u0142oc\u0142awek 19.05.2025. Sprawd\u017a zestawienie najwa\u017cniejszych informacji z wczoraj we W\u0142oc\u0142awku",
+            "link": "https://wloclawek.naszemiasto.pl/przeglad-prasy-wloclawek-19-05-2025-sprawdz-zestawienie-najwazniejszych-informacji-z-wczoraj-we-wloclawku/ar/c1p1-19738625",
+            "description": "W niedziel\u0119, 18 maja 2025 roku odby\u0142a si\u0119 w ca\u0142ej Polsce pierwsza tura wybor\u00f3w prezydenckich. Zobaczcie na zdj\u0119ciach, jak przebiega\u0142o g\u0142osowanie w komisjach wyborczych nr 24 i 25 przy ulicy Willowej ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.Bm8piDnsAoinfeChI0AgCw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Gazeta Wroc\u0142awska11 godz.",
-            "source": "Gazeta Wroc\u0142awska",
+            "date": "W\u0142oc\u0142awek Nasze Miasto39 min",
+            "source": "W\u0142oc\u0142awek Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -298,7 +298,7 @@
             "description": "Europejska Noc Muze\u00f3w 2025 odby\u0142a si\u0119 w sobot\u0119, 17 maja. T\u0142umy zwiedzaj\u0105cych, wieczorne oprowadzanie po ekspozycjach, ...",
             "image_url": "https://www.bing.pl/th?id=OVF.YsmS5F1Af9jfgUm0J9lTJQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN5 godz.",
+            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN8 godz.",
             "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -314,7 +314,7 @@
             "description": "Min\u0119\u0142o 18 lat odk\u0105d Gra\u017cyna i Bogus\u0142aw Charczukowie kupili zabytkowy Pa\u0142ac Tielscha w Wa\u0142brzychu. Ich pe\u0142noletnie dzie\u0142o nabra\u0142o kszta\u0142tu, najpi\u0119kniejszy dolno\u015bl\u0105ski biurowiec zyska\u0142 nowe \u017cycie i pono ...",
             "image_url": "https://www.bing.pl/th?id=ODF.QOhooLrbIKEbFaE6w1Fs8Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Wroc\u0142aw Nasze Miasto on MSN6 godz.",
+            "date": "Wroc\u0142aw Nasze Miasto on MSN9 godz.",
             "source": "Wroc\u0142aw Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -330,7 +330,7 @@
             "description": "Min\u0119\u0142o 18 lat odk\u0105d Gra\u017cyna i Bogus\u0142aw Charczukowie kupili zabytkowy Pa\u0142ac Tielscha w Wa\u0142brzychu. Ich pe\u0142noletnie dzie\u0142o ...",
             "image_url": "https://www.bing.pl/th?id=OVF.A%2bIIOKU3ewciGQ9Rdtig8Q&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Gazeta Wroc\u0142awska on MSN17 godz.",
+            "date": "Gazeta Wroc\u0142awska on MSN20 godz.",
             "source": "Gazeta Wroc\u0142awska on MSN",
             "article_content": ""
         }
@@ -346,7 +346,7 @@
             "description": "Zamek w Mosznej jest jedn\u0105 z najwi\u0119kszych atrakcji Opolszczyzny i jednym z najciekawszych zamk\u00f3w w Polsce. Swoj\u0105 s\u0142aw\u0119 zawdzi\u0119cza bajkowemu wygl\u0105dowi - ma 365 pomieszcze\u0144, 99 wie\u017c i wie\u017cyczek. Do 30 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.hU9b0B80CrRL-uqx7ot5XQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "O\u015bwi\u0119cim Nasze Miasto12 godz.",
+            "date": "O\u015bwi\u0119cim Nasze Miasto15 godz.",
             "source": "O\u015bwi\u0119cim Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -357,12 +357,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Gdzie na nordic walking do 6 km od Ko\u0142obrzegu. Pomys\u0142y na odrobin\u0119 ruchu na powietrzu w weekend 17 - 18 maja",
-            "link": "https://kolobrzeg.naszemiasto.pl/gdzie-na-nordic-walking-do-6-km-od-kolobrzegu-pomysly-na-odrobine-ruchu-na-powietrzu-w-weekend-17-18-maja/ar/c7p1-22319027",
-            "description": "We wsp\u00f3\u0142pracy z Traseo wybrali\u015bmy 3 \u015bcie\u017cki nordic walking w odleg\u0142o\u015bci do 6 km od Ko\u0142obrzegu. Sprawd\u017a, czy szlak polecany przez kogo\u015b innego nadaje si\u0119 r\u00f3wnie\u017c dla Ciebie. Zanim wyjdziesz, sprawd\u017a, ...",
+            "title": "Trasy spacerowe do 6 km od Ko\u0142obrzegu. Podpowiedzi ciekawych tras na weekend 17 - 18 maja",
+            "link": "https://kolobrzeg.naszemiasto.pl/trasy-spacerowe-do-6-km-od-kolobrzegu-podpowiedzi-ciekawych-tras-na-weekend-17-18-maja/ar/c7p1-22115647",
+            "description": "Nie masz pomys\u0142u na urocz\u0105 tras\u0119 na spacer w okolicy Ko\u0142obrzegu? Oto nasze propozycje, gdzie mo\u017cna si\u0119 wybra\u0107. Przygotowali\u015bmy 3 ciekawe propozycje. Mog\u0105 mie\u0107 r\u00f3\u017cn\u0105 d\u0142ugo\u015b\u0107, i dzi\u0119ki temu ka\u017cdy powini ...",
             "image_url": "https://www.bing.pl/th?id=ODF.xGyVXoJ9b0zlcu2rTPA_6w&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Ko\u0142obrzeg Nasze Miasto11 godz.",
+            "date": "Ko\u0142obrzeg Nasze Miasto14 godz.",
             "source": "Ko\u0142obrzeg Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -373,14 +373,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "19 MAJA 2025",
-            "link": "https://krakow.pl/kalendarium/1919,shw,2025-05-19,7,day.html",
-            "description": "Galeria Rzemios\u0142a Artystycznego w Muzeum Narodowym w Krakowie to najwi\u0119ksza tego typu sta\u0142a ekspozycja muzealna w Polsce. Zabytki prezentowane s\u0105 w uk\u0142adzie chronologicznym, od czas\u00f3w wczesnego \u015bredni ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "S\u0105siedzka wojna w kamienicy w Mi\u0119dzyzdrojach. \"Nie mog\u0119 otworzy\u0107 u siebie okna\"",
+            "link": "https://www.fakt.pl/wydarzenia/sasiedzka-wojna-w-miedzyzdrojach-nie-moge-otworzyc-u-siebie-okna/znkxksg",
+            "description": "Ta historia przypomina troch\u0119 motyw z bajki Aleksandra Fredry o Pawle i Gawle. Ale bajk\u0105 nie jest. I jeden s\u0105siad drugiemu zrobi\u0142 niestety nie lada k\u0142opot. Wszystko dzieje si\u0119 w kamienicy w ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.S98F8jIiuGzSo7XWBjLcxA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w3 godz.",
-            "source": "Oficjalny serwis miejski - Magiczny Krak\u00f3w",
-            "article_content": "Krak\u00f3w \u2013 czas okupacji 1939-1945\n\nWystawa mie\u015bci si\u0119 w dawnym budynku administracyjnym Fabryki Emalia Oskara Schindlera przy ul. Lipowej 4 i jest opowie\u015bci\u0105 o Krakowie i losach jego polskich i \u017cydowskich mieszka\u0144c\u00f3w w czasie II wojny \u015bwiatowej, ale te\u017c o Niemcach \u2013 okupantach,..."
+            "date": "Fakt.pl58 min",
+            "source": "Fakt.pl",
+            "article_content": "Ta historia przypomina troch\u0119 motyw z bajki Aleksandra Fredry o Pawle i Gawle. Ale bajk\u0105 nie jest. I jeden s\u0105siad drugiemu zrobi\u0142 niestety nie lada k\u0142opot. Wszystko dzieje si\u0119 w kamienicy w Mi\u0119dzyzdrojach. Nie bez znaczenia jest to, \u017ce kamienica jest zabytkowa.\n\nPan S\u0142awomir (50 l.) i jego ma\u0142\u017conka mieszkaj\u0105 w starej kamienicy w Mi\u0119dzyzdrojach od 25 lat. Do niedawna nic nie wskazywa\u0142o na to, \u017ceby spokojny k\u0105cik mia\u0142 im przysparza\u0107 trosk i zgryzoty.\n\nNiestety sta\u0142o si\u0119 to za spraw\u0105 lokatora z do\u0142u, kt\u00f3ry zaraz po tym, jak wynaj\u0105\u0142 mieszkanie od gminy, zabra\u0142 si\u0119 do jego remontu.\n\nMi\u0119dzyzdroje. Remont w budynku sta\u0142 si\u0119 ko\u015bci\u0105 niezgody\n\nPomimo tego, \u017ce wiekowy budynek znajduje si\u0119 pod opiek\u0105 konserwatora i zosta\u0142 uznany za zabytek, nowy lokator, bez jego zgody, dokona\u0142 szeregu przer\u00f3bek. Jedn\u0105 z innowacji by\u0142o zamontowanie wylotu komina wentylacyjnego z \u0142azienki zaledwie p\u00f3\u0142 metra od okna lokatora z g\u00f3ry. \u2014 Od pocz\u0105tku przeciwko temu protestowali\u015bmy. To jednak nic nie da\u0142o i teraz wszystkie zapachy z \u0142azienki tego pana lec\u0105 wprost do mojego mieszkania. Nie mog\u0119 otworzy\u0107 u siebie okna \u2014 twierdzi pan S\u0142awomir.\n\n\u2014 To jest wentylacja grawitacyjna z \u0142azienki. Bardzo chcia\u0142em poprowadzi\u0107 ja wy\u017cej, ale pan S\u0142awek mi na to nie pozwoli\u0142 \u2014 odpiera lokator z pi\u0119tra ni\u017cej.\n\nZabytkowa kamienica w Mi\u0119dzyzdrojach. Za przer\u00f3bki prawdopodobnie zap\u0142ac\u0105 wszyscy lokatorzy\n\nZachodniopomorski Wojew\u00f3dzki Konserwator Zabytk\u00f3w w Szczecinie nakaza\u0142 przywr\u00f3cenie zabytku do pierwotnego stanu. Ciekawostk\u0105 w tej sprawie jest to, \u017ce cho\u0107 to lokator z do\u0142u wykona\u0142 wszystkie przer\u00f3bki, to jak wskazuje wojew\u00f3dzki inspektor nadzoru budowlanego, jest on jedynie najemc\u0105 lokalu i dlatego obowi\u0105zek naprawienia tego stanu rzeczy nak\u0142ada si\u0119 na w\u0142a\u015bciciela b\u0105d\u017a zarz\u0105dc\u0119 budynku.\n\n\u2014 W naszym budynku jest siedem lokali, z kt\u00f3rych tylko dwa nalez\u0105 do gminy. Teraz b\u0119dziemy jako wsp\u00f3lnota wykona\u0107 to na w\u0142asny koszt, a z tego wynika, \u017ce za likwidacj\u0119 tego komina b\u0119d\u0119 musia\u0142 zap\u0142aci\u0107 r\u00f3wnie\u017c i ja \u2014 denerwuje si\u0119 pan S\u0142awomir.\n\nBrutalny atak w Mi\u0119dzyzdrojach\n\nZnale\u017ali zw\u0142oki w walizce\n\n\u015amiertelnie poparzyli dziecko"
         }
     },
     {
@@ -389,13 +389,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Targi dobrego designu wroc\u0142aw",
-            "link": "https://gazetawroclawska.pl/tag/targi-dobrego-designu-wroclaw",
-            "description": "Bi\u017cuteria, moda, ceramika, kosmetyki, ksi\u0105\u017cki... Mas\u0119 pi\u0119knych rzeczy, prosto od polskich dostawc\u00f3w, znajdziecie na Targach ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.-hbElLTfT5ufTMBp1lCNPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Przegl\u0105d prasy (19.05.2025). Zobacz pras\u00f3wk\u0119 z najwa\u017cniejszymi wydarzeniami z wczoraj. B\u0105d\u017a na bie\u017c\u0105co",
+            "link": "https://nowosci.com.pl/przeglad-prasy-19-05-2025-zobacz-prasowke-z-najwazniejszymi-wydarzeniami-z-wczoraj-badz-na-biezaco/ar/c1p1-19960939",
+            "description": "Zako\u0144czy\u0142a si\u0119 pierwsza tura wybor\u00f3w prezydenckich 2025. Wiemy ju\u017c, \u017ce za dwa tygodnie czeka nas dogrywka. W artykule ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.cx8xYHCtAK1Uu2NKf811GC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Wroc\u0142awska11 godz.",
-            "source": "Gazeta Wroc\u0142awska",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski42 min",
+            "source": "Nowo\u015bci Dziennik Toru\u0144ski",
             "article_content": "Content not available"
         }
     },
@@ -405,14 +405,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Masz je w domu? Te ksi\u0105\u017cki mog\u0105 by\u0107 warte fortun\u0119, nawet 180 tys. z\u0142 za egzemplarz",
-            "link": "https://www.polsatnews.pl/ciekawostki/wiadomosc/2025-05-18/masz-je-w-domu-te-ksiazki-moga-byc-warte-fortune-nawet-180-tys-zl-za-egzemplarz/",
-            "description": "Do niedawna najdro\u017csz\u0105 ksi\u0105\u017ck\u0105 by\u0142 Kodeks Leicester Leonarda da Vinci zakupiony przez za\u0142o\u017cyciela firmy Microsoft Billa ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.ImtvTXcWOm2vDbt4vZj7vi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Pras\u00f3wka ze Szczecina 19.05.2025. Przegl\u0105d prasy - zestawienie najwa\u017cniejszych informacji",
+            "link": "https://szczecin.naszemiasto.pl/prasowka-ze-szczecina-19-05-2025-przeglad-prasy-zestawienie-najwazniejszych-informacji/ar/c1p1-19738367",
+            "description": "Od 15 do 17 sierpnia 2025 roku, na Odrze przy Wa\u0142ach Chrobrego i \u0141asztowni zacumuj\u0105 najpi\u0119kniejsze p\u0142ywaj\u0105ce jednostki, a na l\u0105dzie stan\u0105 stoiska jarmarkowe, dzia\u0107 si\u0119 b\u0119d\u0105 koncerty, pokazy i rodzinne ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.LeMYIePctPbes9rF6zsLgg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "Polsat News17 godz.",
-            "source": "Polsat News",
-            "article_content": "Do niedawna najdro\u017csz\u0105 ksi\u0105\u017ck\u0105 by\u0142 Kodeks Leicester Leonarda da Vinci zakupiony przez za\u0142o\u017cyciela firmy Microsoft Billa Gatesa za ponad 30 mln dolar\u00f3w. Jednak w 2017 roku Ksi\u0119ga Mormona z 1830 zosta\u0142a sprzedana za rekordow\u0105 cen\u0119 35 mln dolar\u00f3w, nabywc\u0105 zosta\u0142 Ko\u015bci\u00f3\u0142 Jezusa Chrystusa \u015awi\u0119tych. Jednak czy ka\u017cda stara ksi\u0105\u017cka to tzw. bia\u0142y kruk? Ile mo\u017ce by\u0107 warty \"Pan Tadeusz\" Adama Mickiewicza?\n\nS\u0142ysz\u0105c s\u0142owo \"antyk\" cz\u0142owiek wyobra\u017ca sobie meble, ozdoby, a nawet zabytkowe samochody. Antykiem bywaj\u0105 te\u017c ksi\u0105\u017cki, bardzo cz\u0119sto stoj\u0105ce na regale lub zakopane w kartonowych pud\u0142ach w piwnicy czy na poddaszu.\n\nWi\u0119ksza cz\u0119\u015b\u0107 z nich nie ma wielkiej warto\u015bci, chyba \u017ce sentymentaln\u0105. Zdarzaj\u0105 si\u0119 jednak sytuacje, kt\u00f3re potrafi\u0105 przyprawi\u0107 o zawr\u00f3t g\u0142owy niejednego bibliofila.\n\nCzym jest bia\u0142y kruk i jakie ceny mo\u017ce osi\u0105gn\u0105\u0107?\n\nBia\u0142ym krukiem okre\u015bla si\u0119 rzeczy unikatowe i jednocze\u015bnie bardzo rzadkie. W literaturze dotyczy to najcz\u0119\u015bciej starych ksi\u0105\u017cek, kt\u00f3rych nak\u0142ad zosta\u0142 wyczerpany lub w trakcie druku pope\u0142niono rozmaite b\u0142\u0119dy - nawet liter\u00f3wka w nazwisku autora potrafi zwi\u0119kszy\u0107 warto\u015b\u0107 danego egzemplarza.\n\nTe ksi\u0105\u017cki mog\u0105 zmieni\u0107 Twoje \u017cycie. Kolekcjonerzy p\u0142ac\u0105 za nie maj\u0105tek!\n\nDla przyk\u0142adu, \"Harry Potter i Kamie\u0144 filozoficzny\" zosta\u0142 sprzedany na aukcji w Londynie za ponad 43 tys. funt\u00f3w. Dlaczego? Bo na tylnej ok\u0142adce brakowa\u0142o drugiej literki \"o\" w s\u0142owie \"Philosopher\u2019s\". Oczywi\u015bcie nie licz\u0105c tego ma\u0142ego b\u0142\u0119du, ksi\u0105\u017cka by\u0142a w doskona\u0142ym stanie.\n\nZOBACZ: \"Harry Potter i przekl\u0119te dziecko\" najlepiej sprzedaj\u0105c\u0105 si\u0119 od 10 lat ksi\u0105\u017ck\u0105 w Wielkiej Brytanii\n\nJak to wygl\u0105da w Polsce? Rynek bia\u0142ych kruk\u00f3w jest tu do\u015b\u0107 niszowy, ale jednocze\u015bnie przyci\u0105ga osoby o naprawd\u0119 zasobnych portfelach. Pierwodruk (pierwsze wydanie tekstu dzie\u0142a jeszcze za \u017cycia autora za jego zgod\u0105 i przy wsp\u00f3\u0142udziale) \"Pana Tadeusza\" Adama Mickiewicza w 2009 roku zosta\u0142 wylicytowany za 99 tys. z\u0142., a to przyk\u0142ady:\n\n\"Zielnik\" Breyniusa z 1687 roku kupiony zosta\u0142 za 180 tys. z\u0142. przy cenie wywo\u0142awczej 70 tys.,\n\nprzy cenie wywo\u0142awczej 70 tys., \"Zbi\u00f3r rysunk\u00f3w\" Magdaleny Morskiej to wydatek rz\u0119du 150 tys. z\u0142. ,\n\n, \"Kordian\" Juliusza S\u0142owackiego zosta\u0142 sprzedany za 19 tys. z\u0142. ,\n\n, \"Chronica Polnoru(m)\" Macieja Miechowity z 1521 roku w 2023 osi\u0105gn\u0119\u0142a rekordow\u0105 cen\u0119 141 900 z\u0142. Zazwyczaj by\u0142a sprzedawana za oko\u0142o 70 tys., jednak ten konkretny egzemplarz nale\u017ca\u0142 do Joachima Lelewela, legendarnego ju\u017c polskiego historyka i bibliografa.\n\nKsi\u0105\u017cki z okresu PRL-u zyskuj\u0105 na warto\u015bci\n\nWarto\u015b\u0107 oczywi\u015bcie zale\u017cna jest od wielu czynnik\u00f3w, przede wszystkim stanu ksi\u0105\u017cki. Pierwsze wydania i niskonak\u0142adowe egzemplarze ciesz\u0105 si\u0119 jednak nies\u0142abn\u0105c\u0105 popularno\u015bci\u0105.\n\nNie wyrzucaj tych ksi\u0105\u017cek! Mog\u0105 by\u0107 warte wi\u0119cej ni\u017c z\u0142oto\n\nKsi\u0105\u017cki wydane w czasach PRL-u, szczeg\u00f3lnie te ilustrowane przez Jana Marcina Szancera (Jana Brzechwy, Juliana Tuwima czy Wandy Chotomskiej) osi\u0105gaj\u0105 przyzwoite ceny (nawet kilkaset z\u0142otych za egzemplarz) nie tylko na aukcjach bibliofilskich, ale te\u017c na popularnych platformach zakupowych.\n\nZOBACZ: \"Czytam po polsku\". Tysi\u0105ce wyprawek z ksi\u0105\u017ck\u0105 Tuwima trafi\u0105 do Wielkiej Brytanii\n\nPodobnie pierwsze wydanie Zbigniewa Herberta czy Wis\u0142awy Szymborskiej. Coraz wi\u0119ksz\u0105 popularno\u015bci\u0105 cieszy si\u0119 tak\u017ce \"Hobbit\" Tolkiena w przek\u0142adzie Marii Skibniewskiej.\n\nred. / Polsatnews.pl"
+            "date": "Szczecin Nasze Miasto41 min",
+            "source": "Szczecin Nasze Miasto",
+            "article_content": "Content not available"
         }
     },
     {
@@ -421,14 +421,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Wyniki sonda\u017cowe: Rafa\u0142 Trzaskowski i Karol Nawrocki w II turze wybor\u00f3w prezydenckich",
-            "link": "https://www.radio.bialystok.pl/wiadomosci/index/id/250330",
-            "description": "Znamy pierwsze wyniki sonda\u017cowe wybor\u00f3w prezydenckich. Wed\u0142ug badania exit poll dla Ipsos pierwsz\u0105 tur\u0119 wygra\u0142 Rafa\u0142 Trzaskowski z wynikiem 30,8 proc., a drugie miejsce zaj\u0105\u0142 Karol Nawrocki z poparcie ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.4rcNUELApOre7fwhbIwxFQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Pras\u00f3wka 19.05.2025 - wydarzenia dnia, podsumowanie z wczoraj - sprawd\u017a, czy nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego",
+            "link": "https://dziennikpolski24.pl/prasowka-19-05-2025-wydarzenia-dnia-podsumowanie-z-wczoraj-sprawdz-czy-nie-minelo-cie-nic-waznego/ar/c1p1-19960929",
+            "description": "W ramach obchod\u00f3w Tysi\u0105clecia Kr\u00f3lestwa Polskiego w Miechowie przypomniano wizyt\u0119 w mie\u015bcie kr\u00f3la Stefana Batorego, do kt\u00f3rej ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.x1qq16oodQ5Rrx8K1r1I3C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Polskie Radio Bia\u0142ystok6 godz.",
-            "source": "Polskie Radio Bia\u0142ystok",
-            "article_content": "Wyniki sonda\u017cowe: Rafa\u0142 Trzaskowski i Karol Nawrocki w II turze wybor\u00f3w prezydenckich\n\nRafa\u0142 Trzaskowski z wynikiem 30,8 proc. g\u0142os\u00f3w i Karol Nawrocki, kt\u00f3ry zdoby\u0142 29,1 proc. poparcia, spotkaj\u0105 si\u0119 w drugiej turze wybor\u00f3w prezydenckich - wynika z sonda\u017cu exit poll wykonanego przez Ipsos dla TVP, TVN24 i Polsat News.\n\nRafa\u0142 Trzaskowski i Karol Nawrocki, \u017ar\u00f3d\u0142o: portal X (@trzaskowski_, @NawrockiKn)\n\nCz\u0119stym problemem przy wy\u015bwietlaniu playera jest u\u017cywanie Adblocka. D\u0142u\u017csze d\u017awi\u0119ki na niekt\u00f3rych wersjach przegl\u0105darki Chrome s\u0105 ucinane.\n\nWed\u0142ug wynik\u00f3w sonda\u017cowych na trzecim miejscu w niedzielnych wyborach prezydenckich znalaz\u0142 si\u0119 S\u0142awomir Mentzen z szacowanym wynikiem 15,4 proc. Kolejne miejsca zaj\u0119li: Grzegorz Braun - 6,2 proc., Adrian Zandberg - 5,2 proc., Szymon Ho\u0142ownia - 4,8 proc., Magdalena Biejat - 4,1 proc., Joanna Senyszyn - 1,3 proc., Krzysztof Stanowski - 1,3 proc., Marek Jakubiak - 0,8 proc., Artur Bartoszewicz - 0,5 proc., Maciej Maciak - 0,4 proc., Marek Woch - 0,1 proc.\n\nSzacowana frekwencja w wyborach si\u0119gn\u0119\u0142a 66,8 proc.\n\n\n\n\n\nJak g\u0142osowa\u0142o Podlaskie?\n\nSonda\u017c Ipsos exit poll podaje r\u00f3wnie\u017c informacj\u0119, jak g\u0142osowano w poszczeg\u00f3lnych wojew\u00f3dztwach. W Podlaskiem wygra\u0142 Karol Nawrocki - 37,2 proc. g\u0142os\u00f3w, a Rafa\u0142 Trzaskowski by\u0142 drugi z wynikiem 26,5 proc. Trzecie miejsce dla S\u0142awomira Mentzena - 16,6 proc., czwarte dla Grzegorza Brauna - 5,9 proc., a pi\u0105te - dla Szymona Ho\u0142owni - 4,6 proc. Kolejne pozycje zaj\u0119li: Magdalena Biejat (3,4 proc.), Adrian Zandberg (2,0 proc.), Joanna Senyszyn (1,6 proc.), Krzysztof Stanowski (0,9 proc.), Marek Jakubiak (0,6 proc.), Maciej Maciak (0,4 proc.), Artur Bartoszewicz (0,2 proc.) i Marek Woch (0,1 proc.)\n\nFrekwencja w Podlaskiem wed\u0142ug sonda\u017cu wynios\u0142a 64,4 proc.\n\n\n\n\n\nTrzaskowski wygra\u0142 w 10 wojew\u00f3dztwach, Nawrocki w sze\u015bciu\n\nRafa\u0142 Trzaskowski w I turze wybor\u00f3w prezydenckich zwyci\u0119\u017cy\u0142 w 10 wojew\u00f3dztwach, Karol Nawrocki w sze\u015bciu - wynika z sonda\u017cu exit poll.\n\nKandydat KO uzyska\u0142 najwy\u017cszy wynik w 10 wojew\u00f3dztwach: dolno\u015bl\u0105skim, kujawsko-pomorskim, lubuskim, mazowieckim, opolskim, pomorskim, \u015bl\u0105skim, warmi\u0144sko-mazurskim, wielkopolskim, zachodniopomorskim.\n\nKandydat popierany przez PiS uzyska\u0142 najwy\u017csze poparcie w sze\u015bciu wojew\u00f3dztwach: lubelskim, \u0142\u00f3dzkim, ma\u0142opolskim, podkarpackim, podlaskim, \u015bwi\u0119tokrzyskim.\n\n\n\n\n\nW\u015br\u00f3d m\u0119\u017cczyzn wygra\u0142 Karol Nawrocki, w\u015br\u00f3d kobiet - Rafa\u0142 Trzaskowski\n\nDane sonda\u017cu exit poll wykonanego przez Ipsos dla TVP, TVN24 i Polsat News wskazuj\u0105, \u017ce m\u0119\u017cczy\u017ani najcz\u0119\u015bciej g\u0142osowali na Karola Nawrockiego - 27,9 proc. Niewiele mniej - 27,4 proc. odda\u0142o g\u0142os na Rafa\u0142a Trzaskowskiego, a 20,9 proc. m\u0119\u017cczyzn wybra\u0142o S\u0142awomira Mentzena.\n\nDalsze miejsca zaj\u0119li: Grzegorz Braun (7,5 proc.), Szymon Ho\u0142ownia (4,4 proc.), Adrian Zandberg (4,3 proc.), Magdalena Biejat (2,4 proc.), Krzysztof Stanowski (1,7 proc.), Joanna Senyszyn (1,3 proc.), Marek Jakubiak (1 proc.), Artur Bartoszewicz (0,6 proc.), Maciej Maciak (0,4 proc.) i Marek Woch (0,2 proc.).\n\nW\u015br\u00f3d kobiet zwyci\u0119zc\u0105 jest Rafa\u0142 Trzaskowski - g\u0142osowa\u0142o na niego 33,8 proc. pa\u0144. Drugim wyborem p\u0142ci pi\u0119knej by\u0142 Karol Nawrocki - 30,3 proc., a trzecim - S\u0142awomir Mentzen (10,4 proc.). Dalsza stawka prezentuje si\u0119 nast\u0119puj\u0105co: Magdalena Biejat (5,5 proc.), Szymon Ho\u0142ownia (5,3 proc.), Grzegorz Braun (5,1 proc.), Joanna Senyszyn (1,4 proc.), Krzysztof Stanowski (0,9 proc.), Marek Jakubiak (0,5 proc.), Artur Bartoszewicz (0,4 proc.), Maciej Maciak (0,3 proc.) oraz Marek Woch (0,1 proc.).\n\n\n\n\n\nWyborcy z miast stawiaj\u0105 na Rafa\u0142a Trzaskowskiego, ze wsi - na Karola Nawrockiego\n\nSonda\u017c Ipsos zbada\u0142 te\u017c, jak rozk\u0142ada\u0142o si\u0119 poparcie wyborc\u00f3w w zale\u017cno\u015bci od miejsca zamieszkania. Wynika z nich, \u017ce najwi\u0119kszym poparciem w du\u017cych miastach (aglomeracjach powy\u017cej 500 tys. mieszka\u0144c\u00f3w) cieszy si\u0119 Rafa\u0142 Trzaskowski - zag\u0142osowa\u0142o na niego 40,1 proc. os\u00f3b. Podobnie jest w miastach od 201 do 500 tys. mieszka\u0144c\u00f3w, od 51 do 200 tys. mieszka\u0144c\u00f3w i do 50 tys. mieszka\u0144c\u00f3w - tam r\u00f3wnie\u017c wygra\u0142 kandydat Koalicji Obywatelskiej (odpowiednio 42,2 proc., 37,4 proc. i 33,6 proc. g\u0142os\u00f3w).\n\nInaczej g\u0142osowali mieszka\u0144cy wsi - oni najch\u0119tniej wybierali Karola Nawrockiego (37,2 proc. g\u0142os\u00f3w wyborc\u00f3w). Rafa\u0142 Trzaskowski uzyska\u0142 na wsi 21,4 proc. poparcia, S\u0142awomir Mentzen - 18,5 proc., a Grzegorz Braun - 7,6 proc.\n\n\n\n\n\nJak rozk\u0142ada\u0142y si\u0119 g\u0142osy w zale\u017cno\u015bci od wykszta\u0142cenia wyborc\u00f3w?\n\nNa Rafa\u0142a Trzaskowskiego ch\u0119tniej g\u0142osowali wyborcy z licencjatem lub z wykszta\u0142ceniem wy\u017cszym (37,8 proc.). Karol Nawrocki bardzo du\u017ce poparcie (51,7 proc.) zdoby\u0142 u os\u00f3b z wykszta\u0142ceniem podstawowym - wynika z sonda\u017cu exit poll pracowni Ipsos dla TVP, TVN24 i Polsat News.\n\nZ sonda\u017cu Ipsos wynika, \u017ce 37,8 proc. wyborc\u00f3w po licencjacie lub z wykszta\u0142ceniem wy\u017cszym zag\u0142osowa\u0142o na Rafa\u0142a Trzaskowskiego. Dla por\u00f3wnania w tej grupie wyborc\u00f3w Karol Nawrocki zdoby\u0142 19,5 proc. g\u0142os\u00f3w. Na kolejnych miejscach znale\u017ali si\u0119 natomiast S\u0142awomir Mentzen (13,6 proc.), Szymon Ho\u0142ownia (6,6 proc.), Adrian Zandberg (6,2 proc.), Magdalena Biejat (5,9 proc.), Grzegorz Braun (5,3 proc.), Joanna Senyszyn (1,7 proc.), Krzysztof Stanowski (1,6 proc.), Marek Jakubiak (0,9 proc.), Artur Bartoszewicz (0,5 proc.), Maciej Maciak (0,3 proc.) i Marek Woch (0,1 proc.).\n\nW grupie wyborc\u00f3w z wykszta\u0142ceniem \u015brednim i pomaturalnym zwyci\u0119\u017cy\u0142 Karol Nawrocki z wynikiem 29 proc., a zaraz za nim Rafa\u0142 Trzaskowski z wynikiem 28,6 proc. Na kolejnych miejscach byli: S\u0142awomir Mentzen (18 proc.), Grzegorz Braun (6,9 proc.) oraz Adrian Zandberg (5,8 proc.). Dalej znale\u017ali si\u0119: Szymon Ho\u0142ownia (4 proc.), Magdalena Biejat (3,2 proc.), Krzysztof Stanowski (1,3 proc.), Joanna Senyszyn (1,3 proc.), Marek Jakubiak (0,8 proc.), Artur Bartoszewicz (0,5 proc.), Maciej Maciak 0,4 proc.) i Marek Woch (0,2 proc.).\n\nKarol Nawrocki zwyci\u0119\u017cy\u0142 r\u00f3wnie\u017c w grupie wyborc\u00f3w z wykszta\u0142ceniem zasadniczym zawodowym, uzyskuj\u0105c 48,3 proc. g\u0142os\u00f3w. Rafa\u0142 Trzaskowski uzyska\u0142 w tej grupie 22,1 proc. g\u0142os\u00f3w, a za nim znale\u017ali si\u0119 S\u0142awomir Mentzen (14,1 proc.), Grzegorz Braun (7,3 proc.), Szymon Ho\u0142ownia (3,1 proc.), Magdalena Biejat (1,7 proc.) i Adrian Zandberg (1,3 proc.). W tej grupie wynik poni\u017cej 1 proc. uzyskali: Joanna Senyszyn (0,5 proc.), Artur Bartoszewicz (0,4 proc.), Krzysztof Stanowski (0,4 proc.), Marek Jakubiak (0,4 proc.), Maciej Maciak (0,3 proc.) i Marek Woch (0,1 proc.).\n\n51,7 proc. wyborc\u00f3w z wykszta\u0142ceniem podstawowym zag\u0142osowa\u0142o na Karola Nawrockiego, a 15,8 proc. na Rafa\u0142a Trzaskowskiego. 13,3 proc. g\u0142os\u00f3w otrzyma\u0142 S\u0142awomir Mentzen, a 5,4 proc. Grzegorz Braun. Z kolei Adrian Zandberg otrzyma\u0142 w tej grupie 5 proc. g\u0142os\u00f3w. Dalej byli: Szymon Ho\u0142ownia (2,5 proc.), Magdalena Biejat (2,4 proc.), Joanna Senyszyn (1,2 proc.), Krzysztof Stanowski (1,1 proc.), Marek Jakubiak (0,6 proc.), Artur Bartoszewicz (0,5 proc.), Maciej Maciak (0,4 proc.) i Marek Woch (0,1 proc.)\n\n\n\n\n\nM\u0142odzi wyborcy najch\u0119tniej g\u0142osowali na S\u0142awomira Mentzena\n\nW\u015br\u00f3d najm\u0142odszych wyborc\u00f3w zwyci\u0119\u017cy\u0142 S\u0142awomir Mentzen, kt\u00f3ry uzyska\u0142 w tej grupie 36,1 proc. g\u0142os\u00f3w - wynika z sonda\u017cu exit poll (Ipsos). Drugi w tej grupie wiekowej by\u0142 Adrian Zandberg, na kt\u00f3rego wskaza\u0142o 19,7 proc. m\u0142odych wyborc\u00f3w.\n\nWed\u0142ug wynik\u00f3w sonda\u017cu exit poll, przeprowadzonego przez Ipsos dla TVP, TVN24 i Polsat News, w I turze wyborc\u00f3w prezydenckich w\u015br\u00f3d wyborc\u00f3w w wieku 18-29 lat najwi\u0119kszym poparciem cieszy\u0142 si\u0119 S\u0142awomir Mentzen. Otrzyma\u0142 on 36,1 proc. g\u0142os\u00f3w. Drugi by\u0142 Adrian Zanberg z 19,7 proc. g\u0142os\u00f3w najm\u0142odszych wyborc\u00f3w. Na trzecim miejscu uplasowa\u0142 si\u0119 Rafa\u0142 Trzaskowski, kt\u00f3ry uzyska\u0142 w tej grupie wiekowej 12,2 proc. g\u0142os\u00f3w, czwarty - Karol Nawrocki z wynikiem 10,5 proc.\n\nW tej grupie wiekowej Grzegorz Braun uzyska\u0142 5,1 proc. g\u0142os\u00f3w, tyle samo otrzyma\u0142a \u2013 wed\u0142ug sonda\u017cu \u2013 Magdalena Biejat. Szymon Ho\u0142ownia zebra\u0142 4 proc. g\u0142os\u00f3w, Joanna Senyszyn 3,2 proc., Krzysztof Stanowski 2,4 proc. Na kolejnych miejscach znale\u017ali si\u0119 Marek Jakubiak (0,8 proc.), Artur Bartoszewicz (0,5 proc.), Maciej Maciak (0,3 proc.) i Marek Woch (0,1 proc.).\n\nInformacja jest aktualizowana.\n\n\u017ar\u00f3d\u0142o: PAP | red: bs, zmj"
+            "date": "Dziennik Polski42 min",
+            "source": "Dziennik Polski",
+            "article_content": "Content not available"
         }
     },
     {
@@ -437,14 +437,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Noc Muze\u00f3w w Szczecinie. Pe\u0142na wra\u017ce\u0144 i za kr\u00f3tka! [ZDJ\u0118CIA]",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/noc-muze%C3%B3w-w-szczecinie-pe%C5%82na-wra%C5%BCe%C5%84-i-za-kr%C3%B3tka-zdj%C4%99cia/ar-AA1EZ9eC?ocid=BingNewsVerp",
-            "description": "Kolejki do muzeum, kolejki do Archiwum, kolejki do Zamku... Setki ch\u0119tnych do obejrzenia wystaw lub miejsc, kt\u00f3re zwykle s\u0105 dla odwiedzaj\u0105cych niedost\u0119pne. Jak min\u0119\u0142a 19 Noc Muze\u00f3w w Szczecinie? - Za ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Pras\u00f3wka 19.05.2025 - najwa\u017cniejsze wydarzenia. Przygotowali\u015bmy przegl\u0105d prasy z wczoraj",
+            "link": "https://gazetawroclawska.pl/prasowka-19-05-2025-najwazniejsze-wydarzenia-przygotowalismy-przeglad-prasy-z-wczoraj/ar/c1p1-19960895",
+            "description": "W niedziel\u0119 (18 maja) wybierali\u015bmy od rana nowego, polskiego prezydenta. Wed\u0142ug sonda\u017cowych wynik\u00f3w najwi\u0119cej g\u0142os\u00f3w zdoby\u0142 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.ipfOvXK_hDz8JEz2nHCTgi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "G\u0142os Szczeci\u0144ski on MSN18 godz.",
-            "source": "G\u0142os Szczeci\u0144ski on MSN",
-            "article_content": ""
+            "date": "Gazeta Wroc\u0142awska43 min",
+            "source": "Gazeta Wroc\u0142awska",
+            "article_content": "Content not available"
         }
     },
     {
@@ -458,7 +458,7 @@
             "description": "W ostatnich latach przedmioty z czas\u00f3w PRL prze\u017cywaj\u0105 prawdziwy renesans. W 2025 roku kolekcjonerzy coraz ch\u0119tniej poszukuj\u0105 przedmiot\u00f3w z minionej epoki, a ich warto\u015b\u0107 stale ro\u015bnie. Moda na vintage o ...",
             "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Pomorska on MSN7 godz.",
+            "date": "Gazeta Pomorska on MSN10 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -474,7 +474,7 @@
             "description": "Wycena monet z PRL-u zale\u017cy od rzadko\u015bci wyst\u0119powania, jako\u015bci wybicia oraz gradingu, czyli stanu jej zachowania. W Polsce znajdziemy wiele okaz\u00f3w wartych kilkaset z\u0142otych, ale s\u0105 te\u017c takie, na ...",
             "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Szczeci\u0144ski on MSN20 godz.",
+            "date": "G\u0142os Szczeci\u0144ski on MSN23 godz.",
             "source": "G\u0142os Szczeci\u0144ski on MSN",
             "article_content": ""
         }
@@ -490,7 +490,7 @@
             "description": "Za\u0142o\u017cycielem by\u0142 Tomasz Zan, p\u00f3\u017aniejszy lider Filaret\u00f3w i wsp\u00f3\u0142tw\u00f3rca Filomat\u00f3w. Promieni\u015bci istnieli miesi\u0105c, ale przeszli ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.EpR_FAiSbwvpePSDXTuP7y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Kresy.pl18 godz.",
+            "date": "Kresy.pl20 godz.",
             "source": "Kresy.pl",
             "article_content": "Content not available"
         }
