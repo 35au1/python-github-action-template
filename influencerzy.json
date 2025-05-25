@@ -10,7 +10,7 @@
             "description": "W ostatnich latach przedmioty z czas\u00f3w PRL prze\u017cywaj\u0105 prawdziwy renesans. W 2025 roku kolekcjonerzy coraz ch\u0119tniej poszukuj\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.JuluveJU-8M5Cf0T3ivpIS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Gazeta Pomorska on MSN6 godz.",
+            "date": "Gazeta Pomorska on MSN11 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -26,25 +26,9 @@
             "description": "W \u017baganiu ruszy\u0142a majowa edycja pchlego targu przy ul. S\u0142owackiego i na parkingu za magistratem (w sobot\u0119 24 maja 2025).",
             "image_url": "https://www.bing.pl/th?id=OVFT.ULhmFaHwFlyofki5uwl8-i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Nasze Miasto on MSN11 godz.",
+            "date": "Nasze Miasto on MSN16 godz.",
             "source": "Nasze Miasto on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Kolejki do laryngologa na NFZ w woj. lubuskim. Ile trzeba czeka\u0107 na wizyt\u0119? Stan na 24.05.2025",
-            "link": "https://gazetalubuska.pl/kolejki-do-laryngologa-na-nfz-w-woj-lubuskim-ile-trzeba-czekac-na-wizyte-stan-na-24-05-2025/ar/c14p1-20523997",
-            "description": "Laryngolog po wst\u0119pnym wywiadzie z pacjentem mo\u017ce wykona\u0107 takie badania jak: obejrzenie nosa, gard\u0142a, ucha, jamy ustnej przez ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.vU_yJIOjvgbBSLwJw4gUFy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "Gazeta Lubuska2 godz.",
-            "source": "Gazeta Lubuska",
-            "article_content": "Content not available"
         }
     },
     {
@@ -58,7 +42,23 @@
             "description": "Chcesz dowiedzie\u0107 si\u0119, jaki jest najbli\u017cszy termin do endokrynologa na NFZ w wojew\u00f3dztwie lubuskim? Kolejki NFZ do ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.OOHZes1U0q2R92EQ2jLR6y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Gazeta Lubuska2 godz.",
+            "date": "Gazeta Lubuska8 godz.",
+            "source": "Gazeta Lubuska",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Kolejki do laryngologa na NFZ w woj. lubuskim. Ile trzeba czeka\u0107 na wizyt\u0119? Stan na 24.05.2025",
+            "link": "https://gazetalubuska.pl/kolejki-do-laryngologa-na-nfz-w-woj-lubuskim-ile-trzeba-czekac-na-wizyte-stan-na-24-05-2025/ar/c14p1-20523997",
+            "description": "Laryngolog po wst\u0119pnym wywiadzie z pacjentem mo\u017ce wykona\u0107 takie badania jak: obejrzenie nosa, gard\u0142a, ucha, jamy ustnej przez ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.vU_yJIOjvgbBSLwJw4gUFy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Gazeta Lubuska8 godz.",
             "source": "Gazeta Lubuska",
             "article_content": "Content not available"
         }
@@ -74,7 +74,7 @@
             "description": "W sobot\u0119, 24 maja, w Chmielnikach zn\u00f3w zapanowa\u0142 wyj\u0105tkowy klimat \u2013 nad jeziorem odby\u0142 si\u0119 cotygodniowy pchli targ, kt\u00f3ry z tygodnia na tydzie\u0144 cieszy si\u0119 coraz wi\u0119kszym zainteresowaniem zar\u00f3wno ...",
             "image_url": "https://www.bing.pl/th?id=ODF.2nPbtyoAS_WXYOaRWpOPhw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "Bydgoszcz Nasze Miasto on MSN6 godz.",
+            "date": "Bydgoszcz Nasze Miasto on MSN11 godz.",
             "source": "Bydgoszcz Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -85,13 +85,29 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Wadliwe monety mog\u0105 by\u0107 w cenie z\u0142ota. Tyle kosztuj\u0105 stare i uszkodzone pieni\u0105dze",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/wadliwe-monety-mog%C4%85-by%C4%87-w-cenie-z%C5%82ota-tyle-kosztuj%C4%85-stare-i-uszkodzone-pieni%C4%85dze/ar-AA1F8TyQ?ocid=BingNewsVerp",
-            "description": "Zanim wydasz swoje monety, warto je dok\u0142adnie obejrze\u0107. Nie uwierzysz, jak bardzo mog\u0105 one zainteresowa\u0107 kolekcjoner\u00f3w ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.1--lJ8tMnPmNitLvZjoRqy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Rzadkie monety z PRL poszukiwane przez kolekcjoner\u00f3w. Sprawd\u017a, kt\u00f3re s\u0105 najdro\u017csze i ile mo\u017cna za nie zarobi\u0107! 25.05.2025",
+            "link": "https://www.msn.com/pl-pl/finanse/og%C3%B3lne/rzadkie-monety-z-prl-poszukiwane-przez-kolekcjoner%C3%B3w-sprawd%C5%BA-kt%C3%B3re-s%C4%85-najdro%C5%BCsze-i-ile-mo%C5%BCna-za-nie-zarobi%C4%87-28-04-2025/ar-AA1xHYvF?ocid=BingNewsVerp",
+            "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ich pojawienia si\u0119 na rynku. Najcz\u0119\u015bciej poszukiwane monety przez kolekcjone ...",
+            "image_url": "https://www.bing.plNo image",
             "category": "stare+monety",
-            "date": "Express Bydgoski on MSN22 godz.",
-            "source": "Express Bydgoski on MSN",
+            "date": "G\u0142os Pomorza on MSN3 godz.",
+            "source": "G\u0142os Pomorza on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Wazony z czas\u00f3w PRL. Od codzienno\u015bci do kolekcjonerskiego hitu. Oto wazony poszukiwane w internecie 25.05.2025",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/wazony-z-czas%C3%B3w-prl-od-codzienno%C5%9Bci-do-kolekcjonerskiego-hitu-oto-wazony-poszukiwane-w-internecie-25052025/ar-AA1xEYBt?ocid=BingNewsVerp",
+            "description": "Wazony ze szk\u0142a prasowanego Szk\u0142o prasowane to jeden z najbardziej charakterystycznych materia\u0142\u00f3w z czas\u00f3w PRL. Produkty tego typu by\u0142y masowe, ale dzi\u0119ki r\u00f3\u017cnorodno\u015bci wzor\u00f3w \u2013 od klasycznych po ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stare+monety",
+            "date": "G\u0142os Pomorza on MSN3 godz.",
+            "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
         }
     },
@@ -106,24 +122,8 @@
             "description": "W ostatnich latach przedmioty z czas\u00f3w PRL prze\u017cywaj\u0105 prawdziwy renesans. W 2025 roku kolekcjonerzy coraz ch\u0119tniej poszukuj\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.JuluveJU-8M5Cf0T3ivpIS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Gazeta Pomorska on MSN6 godz.",
+            "date": "Gazeta Pomorska on MSN11 godz.",
             "source": "Gazeta Pomorska on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Stare kom\u00f3rki warte fortun\u0119 !!! Szukaj\u0105 ich kolekcjonerzy i p\u0142ac\u0105 nawet tysi\u0105c z\u0142otych. Masz takie w domu? 24.05.2025",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/stare-kom%C3%B3rki-warte-fortun%C4%99-szukaj%C4%85-ich-kolekcjonerzy-i-p%C5%82ac%C4%85-nawet-tysi%C4%85c-z%C5%82otych-masz-takie-w-domu-24052025/ar-AA1AKY7w?ocid=BingNewsVerp",
-            "description": "Je\u015bli w twojej szufladzie zalegaj\u0105 stare telefony kom\u00f3rkowe, nie wyrzucaj ich pochopnie! Mog\u0105 by\u0107 warte nawet tysi\u0105c z\u0142otych lub wi\u0119cej, szczeg\u00f3lnie je\u015bli s\u0105 to kultowe modele sprzed lat. Zamiast ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stare+monety",
-            "date": "G\u0142os Pomorza on MSN22 godz.",
-            "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
         }
     },
@@ -138,7 +138,7 @@
             "description": "Najbardziej cenione przez kolekcjoner\u00f3w s\u0105 modele zachowane w oryginalnym stanie. Ogromne znaczenie ma r\u00f3wnie\u017c kompletno\u015b\u0107 \u2013 oryginalne pude\u0142ko, \u0142adowarka, s\u0142uchawki czy instrukcje obs\u0142ugi potrafi\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.csLl8ZFonfuC8KKWalWEGg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN2 godz.",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN8 godz.",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
             "article_content": ""
         }
@@ -154,7 +154,7 @@
             "description": "Unikatowy charakter mia\u0142y r\u00f3wnie\u017c przedmioty z tego okresu. Z pewno\u015bci\u0105 wiele os\u00f3b posiada w swoich domach rzeczy z czas\u00f3w PRL. Mog\u0105 znajdowa\u0107 si\u0119 w piwnicy, na strychu, w schowku, b\u0105d\u017a w kartonie, o ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski on MSN15 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN21 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
@@ -170,8 +170,24 @@
             "description": "Kryszta\u0142y PRL zyskuj\u0105 na popularno\u015bci w 2025 roku \u2013 kolekcjonerzy coraz ch\u0119tniej inwestuj\u0105 w te retro skarby, a ceny rosn\u0105 w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.8usgejDjHyTawZw-41zh_i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN3 godz.",
+            "date": "Gazeta Pomorska on MSN8 godz.",
             "source": "Gazeta Pomorska on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Porcelana z PRL - kolekcjonerski rarytas. Unikalne przedmioty do kupienia na aukcjach internetowych. Masz je w domu? 25.05.2025",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/porcelana-z-prl-kolekcjonerski-rarytas-unikalne-przedmioty-do-kupienia-na-aukcjach-internetowych-masz-je-w-domu-25052025/ar-AA1xHP7I?ocid=BingNewsVerp",
+            "description": "Unikalna porcelana z PRL poszukiwana przez kolekcjoner\u00f3w mo\u017ce zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na niej zarobi\u0107 fortun\u0119! Cz\u0119sto nie mamy \u015bwiadomo\u015bci, \u017ce przedmioty posiadane w domu warte s\u0105 du\u017co ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stara+porcelana",
+            "date": "G\u0142os Pomorza on MSN3 godz.",
+            "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
         }
     },
@@ -186,7 +202,7 @@
             "description": "Unikatowy charakter mia\u0142y r\u00f3wnie\u017c przedmioty z tego okresu. Z pewno\u015bci\u0105 wiele os\u00f3b posiada w swoich domach rzeczy z czas\u00f3w PRL. Mog\u0105 znajdowa\u0107 si\u0119 w piwnicy, na strychu, w schowku, b\u0105d\u017a w kartonie, o ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "G\u0142os Koszali\u0144ski on MSN15 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN21 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
@@ -202,24 +218,8 @@
             "description": "Przedmioty z czas\u00f3w PRL w 2025 roku zyskuj\u0105 na warto\u015bci. S\u0105 poszukiwane zar\u00f3wno przez kolekcjoner\u00f3w, jak i mi\u0142o\u015bnik\u00f3w retro, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.oYe_9A3oB1MVJ4FlkLUTpi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN6 godz.",
+            "date": "Gazeta Pomorska on MSN11 godz.",
             "source": "Gazeta Pomorska on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Stare kom\u00f3rki warte fortun\u0119 !!! Szukaj\u0105 ich kolekcjonerzy i p\u0142ac\u0105 nawet tysi\u0105c z\u0142otych. Masz takie w domu? 24.05.2025",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/stare-kom%C3%B3rki-warte-fortun%C4%99-szukaj%C4%85-ich-kolekcjonerzy-i-p%C5%82ac%C4%85-nawet-tysi%C4%85c-z%C5%82otych-masz-takie-w-domu-24052025/ar-AA1AKY7w?ocid=BingNewsVerp",
-            "description": "Je\u015bli w twojej szufladzie zalegaj\u0105 stare telefony kom\u00f3rkowe, nie wyrzucaj ich pochopnie! Mog\u0105 by\u0107 warte nawet tysi\u0105c z\u0142otych lub wi\u0119cej, szczeg\u00f3lnie je\u015bli s\u0105 to kultowe modele sprzed lat. Zamiast ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stara+porcelana",
-            "date": "G\u0142os Pomorza on MSN22 godz.",
-            "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
         }
     },
@@ -234,8 +234,24 @@
             "description": "W \u017baganiu ruszy\u0142a majowa edycja pchlego targu przy ul. S\u0142owackiego i na parkingu za magistratem (w sobot\u0119 24 maja 2025).",
             "image_url": "https://www.bing.pl/th?id=OVFT.ULhmFaHwFlyofki5uwl8-i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Nasze Miasto on MSN11 godz.",
+            "date": "Nasze Miasto on MSN16 godz.",
             "source": "Nasze Miasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Kolekcjonerzy poszukuj\u0105 tych antyk\u00f3w. Unikalne przedmioty do kupienia w internecie. Masz je w domu? 25.05.2025",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/kolekcjonerzy-poszukuj%C4%85-tych-antyk%C3%B3w-unikalne-przedmioty-do-kupienia-w-internecie-masz-je-w-domu-25052025/ar-AA1xM25C?ocid=BingNewsVerp",
+            "description": "Unikalne antyki poszukiwane przez kolekcjoner\u00f3w mog\u0105 zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na nich zarobi\u0107 fortun\u0119. Cz\u0119sto nie mamy \u015bwiadomo\u015bci, \u017ce przedmioty posiadane w domu warte s\u0105 du\u017co pieni\u0119dzy.",
+            "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "targ+staroci",
+            "date": "G\u0142os Pomorza on MSN3 godz.",
+            "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
         }
     },
@@ -250,9 +266,25 @@
             "description": "W Zajezdni D\u0105bie - Czasoprzestrze\u0144 we Wroc\u0142awiu trwa kolejna edycja festiwalu \"Kupuj \u015awiadomie\". Impreza zaplanowana jest na ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.-hbElLTfT5ufTMBp1lCNPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Gazeta Wroc\u0142awska3 godz.",
+            "date": "Gazeta Wroc\u0142awska8 godz.",
             "source": "Gazeta Wroc\u0142awska",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Targowisko przy ul. Zwi\u0105zk\u00f3w Zawodowych we W\u0142oc\u0142awku - 24 maja 2025. Tanie warzywa, truskawki, kwiaty i nie tylko. Zdj\u0119cia, ceny, wideo",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/targowisko-przy-ul-zwi%C4%85zk%C3%B3w-zawodowych-we-w%C5%82oc%C5%82awku-24-maja-2025-tanie-warzywa-truskawki-kwiaty-i-nie-tylko-zdj%C4%99cia-ceny-wideo/ar-AA1FoIMn?ocid=BingNewsVerp",
+            "description": "W sobotnie przedpo\u0142udnie, 24 maja 2025 roku, w\u0142oc\u0142awskie targowisko przy ulicy Zwi\u0105zk\u00f3w Zawodowych t\u0119tni\u0142o \u017cyciem. S\u0142oneczna pogoda przyci\u0105gn\u0119\u0142a t\u0142umy mieszka\u0144c\u00f3w, kt\u00f3rzy ch\u0119tnie zagl\u0105dali na stragany ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.Bm8piDnsAoinfeChI0AgCw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "targ+staroci",
+            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN3 godz.",
+            "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
+            "article_content": ""
         }
     },
     {
@@ -266,56 +298,8 @@
             "description": "T\u0142umy wroc\u0142awian w Czasoprzestrzeni. Na terenie dawnej zajezdni trwa akcja #Kupuj\u015awiadomie, w ramach kt\u00f3rej zorganizowano ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.-hbElLTfT5ufTMBp1lCNPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Gazeta Wroc\u0142awska3 godz.",
+            "date": "Gazeta Wroc\u0142awska8 godz.",
             "source": "Gazeta Wroc\u0142awska",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Targowisko przy ul. Zwi\u0105zk\u00f3w Zawodowych we W\u0142oc\u0142awku - 24 maja 2025. Tanie warzywa, truskawki, kwiaty i ubrania. Zdj\u0119cia, ceny, wideo",
-            "link": "https://www.msn.com/pl-pl/shopping/og%C3%B3lne/targowisko-przy-ul-zwi%C4%85zk%C3%B3w-zawodowych-we-w%C5%82oc%C5%82awku-24-maja-2025-tanie-warzywa-truskawki-kwiaty-i-ubrania-zdj%C4%99cia-ceny-wideo/ar-AA1FowEA?ocid=BingNewsVerp",
-            "description": "W sobotnie przedpo\u0142udnie, 24 maja 2025 roku, w\u0142oc\u0142awskie targowisko przy ulicy Zwi\u0105zk\u00f3w Zawodowych t\u0119tni\u0142o \u017cyciem. S\u0142oneczna ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.bTyekIyZ2u_LgKjPhXCQrC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "targ+staroci",
-            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN9 godz.",
-            "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Pchli targ nad jeziorem w Chmielnikach. Tak by\u0142o 24 maja! Zobacz zdj\u0119cia i wideo",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/pchli-targ-nad-jeziorem-w-chmielnikach-tak-by%C5%82o-24-maja-zobacz-zdj%C4%99cia-i-wideo/ar-AA1Fp8kb?ocid=BingNewsVerp",
-            "description": "W sobot\u0119, 24 maja, w Chmielnikach zn\u00f3w zapanowa\u0142 wyj\u0105tkowy klimat \u2013 nad jeziorem odby\u0142 si\u0119 cotygodniowy pchli targ, kt\u00f3ry z tygodnia na tydzie\u0144 cieszy si\u0119 coraz wi\u0119kszym zainteresowaniem zar\u00f3wno ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.2nPbtyoAS_WXYOaRWpOPhw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "targ+staroci",
-            "date": "Bydgoszcz Nasze Miasto on MSN6 godz.",
-            "source": "Bydgoszcz Nasze Miasto on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "\u015acie\u017cki rowerowe do 19 km od O\u015bwi\u0119cimia. Pomys\u0142y na jednodniowy wypad. Gdzie w weekend 24 - 25 maja?",
-            "link": "https://oswiecim.naszemiasto.pl/sciezki-rowerowe-do-19-km-od-oswiecimia-pomysly-na-jednodniowy-wypad-gdzie-w-weekend-24-25-maja/ar/c7p1-21831633",
-            "description": "Zamek w Mosznej jest jedn\u0105 z najwi\u0119kszych atrakcji Opolszczyzny i jednym z najciekawszych zamk\u00f3w w Polsce. Swoj\u0105 s\u0142aw\u0119 zawdzi\u0119cza bajkowemu wygl\u0105dowi - ma 365 pomieszcze\u0144, 99 wie\u017c i wie\u017cyczek. Do 30 ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.hU9b0B80CrRL-uqx7ot5XQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "relikty",
-            "date": "O\u015bwi\u0119cim Nasze Miasto7 godz.",
-            "source": "O\u015bwi\u0119cim Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -330,9 +314,25 @@
             "description": "Pierwsza \u0142atka do STALKER Trilogy: Enhanced Edition nie wyeliminowa\u0142a wszystkich problem\u00f3w, ale i tak zosta\u0142a doceniona przez ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.lH3DQk3qlHL9UDaDd1hlWS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "GRY-OnLine.pl10 godz.",
+            "date": "GRY-OnLine.pl16 godz.",
             "source": "GRY-OnLine.pl",
             "article_content": "Wiadomo\u015b\u0107 gry 24 maja 2025, 11:44 autor: Kamil Kleszyk Fatalnie przyj\u0119ta trylogia STALKER odzyskuje zaufanie graczy. Pom\u00f3g\u0142 patch i decyzja o przywr\u00f3ceniu radzieckich relikt\u00f3w Pierwsza \u0142atka do STALKER Trilogy: Enhanced Edition nie wyeliminowa\u0142a wszystkich problem\u00f3w, ale i tak zosta\u0142a doceniona przez fan\u00f3w serii.\n\n\u0179r\u00f3d\u0142o fot. GSC Game World / Pixabay i\n\nPremiera trylogii STALKER: Legends of the Zone Trilogy \u2013 Enhanced Edition daleka by\u0142a od idealnej. Pakiet, w sk\u0142ad kt\u00f3rego wesz\u0142y trzy klasyczne ods\u0142ony serii w od\u015bwie\u017conym wydaniu, musia\u0142 mierzy\u0107 si\u0119 z fal\u0105 negatywnych komentarzy, wywo\u0142anych nie tylko licznymi usterkami, ale tak\u017ce okrojon\u0105 zawarto\u015bci\u0105.\n\nDeweloperzy z GSC Game World wzi\u0119li sobie jednak do serca krytyczne opinie i udost\u0119pnili \u0142atk\u0119 (wi\u0119cej o niej przeczytacie w naszej poprzedniej wiadomo\u015bci), kt\u00f3ra nie tylko skupia si\u0119 na krytycznych b\u0142\u0119dach, ale tak\u017ce przywraca radzieckie relikty, kt\u00f3rych usuni\u0119cie by\u0142o jednym z powod\u00f3w niezadowolenia fan\u00f3w.\n\nCo prawda nie wszystkie b\u0142\u0119dy zosta\u0142y wyeliminowane, ale gracze doceniaj\u0105 sam fakt, \u017ce tw\u00f3rcy s\u0142uchaj\u0105 g\u0142osu spo\u0142eczno\u015bci.\n\n\u201ePos\u0142uchali! Pos\u0142uchali! Pos\u0142uchali!\u201d \u2013 pisze jeden z zadowolonych graczy w po\u015bcie na subreddicie STALKER-a dodaj\u0105c: \u201eEE [Enhanced Edition \u2013 przyp. red.] wci\u0105\u017c ma pewne problemy, ale do cholery, tak si\u0119 ciesz\u0119, \u017ce faktycznie pracuj\u0105 nad napraw\u0105 gry i nie ignoruj\u0105 opinii\u201d.\n\nNa dow\u00f3d u\u017cytkownik udost\u0119pni\u0142 zrzut ekranu z gry, przedstawiaj\u0105cy przywr\u00f3cony pomnik przed elektrowni\u0105 w Czarnobylu.\n\n\u0179r\u00f3d\u0142o: Reddit; r/stalker.\n\nWarto doda\u0107, \u017ce powy\u017cszy komentarz nie jest odosobnion\u0105 opini\u0105. Inni r\u00f3wnie\u017c podzielaj\u0105 ten entuzjazm.\n\nTak, te punkty orientacyjne s\u0105 cz\u0119\u015bci\u0105 Strefy i obszaru zatrzymanego w czasie, historii. Nie ma powodu, by je usuwa\u0107. Dobra decyzja GSC \u2013 chwali inny gracz.\n\nDeweloperzy obrali zatem dobry kierunek, ale czy go utrzymaj\u0105, przekonamy si\u0119 przy okazji udost\u0119pnienia kolejnych poprawek, kt\u00f3re \u2013 miejmy nadziej\u0119 \u2013 wyeliminuj\u0105 problemy z \u201erozmazan\u0105\u201d grafik\u0105 i pomog\u0105 grze w uzyskaniu wi\u0119kszej liczby pozytywnych recenzji."
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "\u015acie\u017cki rowerowe do 19 km od O\u015bwi\u0119cimia. Pomys\u0142y na jednodniowy wypad. Gdzie w weekend 24 - 25 maja?",
+            "link": "https://oswiecim.naszemiasto.pl/sciezki-rowerowe-do-19-km-od-oswiecimia-pomysly-na-jednodniowy-wypad-gdzie-w-weekend-24-25-maja/ar/c7p1-21831633",
+            "description": "Zamek w Mosznej jest jedn\u0105 z najwi\u0119kszych atrakcji Opolszczyzny i jednym z najciekawszych zamk\u00f3w w Polsce. Swoj\u0105 s\u0142aw\u0119 zawdzi\u0119cza bajkowemu wygl\u0105dowi - ma 365 pomieszcze\u0144, 99 wie\u017c i wie\u017cyczek. Do 30 ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.hU9b0B80CrRL-uqx7ot5XQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "relikty",
+            "date": "O\u015bwi\u0119cim Nasze Miasto12 godz.",
+            "source": "O\u015bwi\u0119cim Nasze Miasto",
+            "article_content": "Content not available"
         }
     },
     {
@@ -346,7 +346,7 @@
             "description": "- Zachowa\u0142em nieufno\u015b\u0107 wobec rozwi\u0105zywania problem\u00f3w poprzez tworzenie nowych urz\u0119d\u00f3w i nowych regulacji - m\u00f3wi Janusz ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.9HOcS-D5CgH9WQL7DIW78i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "wnp.pl10 godz.",
+            "date": "wnp.pl16 godz.",
             "source": "wnp.pl",
             "article_content": "- Przed laty o ma\u0142o nie sprowadzi\u0142 pan Jana Krzysztofa Bieleckiego na z\u0142\u0105 drog\u0119. Pami\u0119ta pan?\n\n\n\n- Naprowadzali\u015bmy si\u0119 wzajemnie raczej na dobr\u0105 drog\u0119, co wyznaczy\u0142o styl rz\u0105dzenia Polsk\u0105 w trudnym okresie.\n\n\n\n- No to pan nie pami\u0119ta\u2026 \"Dzi\u0119kuj\u0119 opatrzno\u015bci, \u017ce kiedy w 1988 r. Donald Tusk kaza\u0142 mi napisa\u0107 tekst o Chile w naszym podziemnym Przegl\u0105dzie Politycznym, nie napisa\u0142em peanu na temat Szko\u0142y Chicagowskiej i Miltona Friedmana, kt\u00f3rego wtedy Janusz Lewandowski ka\u017cdemu dawa\u0142 do czytania. Ostatnie zdanie brzmia\u0142o, \u017ce nam nie chodzi tylko o wolny rynek i ZOMO, kt\u00f3re by go pilnowa\u0142o, lecz o wolny rynek i prawa cz\u0142owieka. (\u2026) I nam w latach 80., m\u0142odym wtedy libera\u0142om, chodzi\u0142o przede wszystkim o wolno\u015b\u0107. Rynek by\u0142 dla nas tylko materialn\u0105 r\u0119kojmi\u0105, zabezpieczeniem wolno\u015bci, a nie warto\u015bci\u0105 nadrz\u0119dn\u0105\" - wspomnia\u0142 w rozmowie z nami Jan Krzysztof Bielecki. Te\u017c pan tak wywa\u017ca\u0142 mi\u0119dzy wolno\u015bci\u0105 a liberalizmem gospodarczym?\n\n\n\n- Friedman? Je\u015bli ju\u017c, to poleca\u0142em Friedricha von Hayeka i niemieckich ordolibera\u0142\u00f3w\u2026 \u015arodowisko gda\u0144skich libera\u0142\u00f3w wyr\u00f3\u017cnia\u0142o w\u00f3wczas my\u015blenie o przysz\u0142o\u015bci. Nasi rywale z pi\u0142karskiego boiska, z Ruchu M\u0142odej Polski, \u017cyli sporem, kto mia\u0142 racj\u0119: Dmowski czy Pi\u0142sudski - tak jak inne nurty opozycji, kt\u00f3re przenosi\u0142y na realia \u00f3wczesnej Polski przedwojenne porachunki ideowe.\n\nDALSZA CZ\u0118\u015a\u0106 ARTYKU\u0141U JEST DOST\u0118PNA DLA SUBSKRYBENT\u00d3W STREFY PREMIUM PORTALU WNP.PL Dost\u0119p do zawarto\u015bci pe\u0142nego archiwum portalu ju\u017c od 89 z\u0142 miesi\u0119cznie! Zaloguj si\u0119 Wykup dost\u0119p\n\n\u00a9 Materia\u0142 chroniony prawem autorskim - zasady przedruk\u00f3w okre\u015bla regulamin"
         }
@@ -362,7 +362,7 @@
             "description": "Odkrycia archeologiczne w Polsce. Historia ukryta pod ziemi\u0105 Patrz\u0105c na tegoroczne doniesienia, mo\u017cna odnie\u015b\u0107 wra\u017cenie, \u017ce dzie\u0144 bez odkry\u0107 w Polsce dniem straconym - tak wiele znalezisk jest ujawnian ...",
             "image_url": "https://www.bing.plNo image",
             "category": "relikty",
-            "date": "https on MSN11 godz.",
+            "date": "https on MSN17 godz.",
             "source": "https on MSN",
             "article_content": ""
         }
@@ -378,9 +378,25 @@
             "description": "Zanim wyruszysz w tras\u0119, sprawd\u017a, jaka b\u0119dzie pogoda. W sobot\u0119 24 maja w Ko\u0142obrzegu ma by\u0107 12\u00b0C. Prawdopodobie\u0144stwo wyst\u0105pienia deszczu wynosi 33%. W niedziel\u0119 25 maja w Ko\u0142obrzegu ma by\u0107 16\u00b0C.",
             "image_url": "https://www.bing.pl/th?id=ODF.xGyVXoJ9b0zlcu2rTPA_6w&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Ko\u0142obrzeg Nasze Miasto6 godz.",
+            "date": "Ko\u0142obrzeg Nasze Miasto12 godz.",
             "source": "Ko\u0142obrzeg Nasze Miasto",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Dzie\u0144 Otwarty MPK to strza\u0142 w dziesi\u0105tk\u0119! Wroc\u0142awianie ruszyli t\u0142umnie na Gaj, by bawi\u0107 si\u0119 w\u015br\u00f3d tramwaj\u00f3w, dmucha\u0144c\u00f3w i food truck\u00f3w",
+            "link": "https://www.msn.com/pl-pl/rozrywka/news/dzie%C5%84-otwarty-mpk-to-strza%C5%82-w-dziesi%C4%85tk%C4%99-wroc%C5%82awianie-ruszyli-t%C5%82umnie-na-gaj-by-bawi%C4%87-si%C4%99-w%C5%9Br%C3%B3d-tramwaj%C3%B3w-dmucha%C5%84c%C3%B3w-i-food-truck%C3%B3w/ar-AA1FpKlW?ocid=BingNewsVerp",
+            "description": "W sobot\u0119, 24 maja, Zajezdnia Gaj otworzy\u0142a si\u0119 dla mieszka\u0144c\u00f3w Wroc\u0142awia, a wszystko za spraw\u0105 Dnia Otwartego MPK \u2013 wydarzenia, kt\u00f3re po raz kolejny przyci\u0105gn\u0119\u0142o t\u0142umy wroc\u0142awian spragnionych dobrej z ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.QOhooLrbIKEbFaE6w1Fs8Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "zabytkowe+przedmioty",
+            "date": "Wroc\u0142aw Nasze Miasto on MSN5 godz.",
+            "source": "Wroc\u0142aw Nasze Miasto on MSN",
+            "article_content": ""
         }
     },
     {
@@ -394,7 +410,7 @@
             "description": "Najbardziej cenione przez kolekcjoner\u00f3w s\u0105 modele zachowane w oryginalnym stanie. Ogromne znaczenie ma r\u00f3wnie\u017c kompletno\u015b\u0107 \u2013 oryginalne pude\u0142ko, \u0142adowarka, s\u0142uchawki czy instrukcje obs\u0142ugi potrafi\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.csLl8ZFonfuC8KKWalWEGg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN2 godz.",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN8 godz.",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
             "article_content": ""
         }
@@ -410,41 +426,9 @@
             "description": "Znalezienie drogiego przedmiotu rodzi w g\u0142owie dwie my\u015bli: trzeba go zwr\u00f3ci\u0107 oraz czy co\u015b nam si\u0119 za to nale\u017cy. Wed\u0142ug prawa istnieje co\u015b takiego jak znale\u017ane, ...",
             "image_url": "https://www.bing.pl/th?id=ODF.qXPYOt4opjbuEdbLUjfq7Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "Biznes w INTERIA.PL on MSN11 godz.",
+            "date": "Biznes w INTERIA.PL on MSN16 godz.",
             "source": "Biznes w INTERIA.PL on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "To by\u0142a jedna z najg\u0142o\u015bniejszych afer szpiegowskich Europy z prze\u0142omu XIX i XX wieku. Rozpocz\u0119\u0142a si\u0119 i zako\u0144czy\u0142a w Toruniu",
-            "link": "https://www.msn.com/pl-pl/news/other/to-by%C5%82a-jedna-z-najg%C5%82o%C5%9Bniejszych-afer-szpiegowskich-europy-z-prze%C5%82omu-xix-i-xx-wieku-rozpocz%C4%99%C5%82a-si%C4%99-i-zako%C5%84czy%C5%82a-w-toruniu/ar-AA1Fp1bs?ocid=BingNewsVerp",
-            "description": "\"W poniedzia\u0142ek rozstrzygn\u0105\u0142 si\u0119 proces w sprawie osobisto\u015bci, kt\u00f3ra w ostatnich dw\u00f3ch latach interesowa\u0142a ca\u0142\u0105 nieledwie Europ\u0119 - donosi\u0142a \"Gazeta Toru\u0144ska\" w ostatni\u0105 \u015brod\u0119 maja 1905 roku. - Nie ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.csLl8ZFonfuC8KKWalWEGg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "zabytkowe+przedmioty",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN7 godz.",
-            "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Malarstwo, malarstwo, ale tak\u017ce i wiersze. Barbara Z\u0105bkiewicz prezentuje...",
-            "link": "https://gazetaolsztynska.pl/nowemiasto/1173308,Malarstwo-malarstwo-ale-takze-i-wiersze-Barbara-Zabkiewicz-prezentuje.html",
-            "description": "Barbara Z\u0105bkiewicz twierdzi, \u017ce nie wyobra\u017ca sobie \u017cycia bez malarstwa. Od najm\u0142odszych lat marzy\u0142a, by zosta\u0107 artystk\u0105 i w ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.dFFqijSZOjU_KPMav130nC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Olszty\u0144ska22 godz.",
-            "source": "Gazeta Olszty\u0144ska",
-            "article_content": "Barbara Z\u0105bkiewicz twierdzi, \u017ce nie wyobra\u017ca sobie \u017cycia bez malarstwa. Od najm\u0142odszych lat marzy\u0142a, by zosta\u0107 artystk\u0105 i w r\u00f3\u017cnych formach plastycznych uwiecznia\u0107 otaczaj\u0105cy \u015bwiat \u2013 ludzi, zwierz\u0119ta, krajobrazy. Obecnie w Miejskiej Bibliotece Publicznej, do ko\u0144ca czerwca, czynna jest wystawa jej prac malarskich.\n\nNa otwarciu wystawy zatytu\u0142owanej \u201eNowe Miasto Lubawskie \u2013 moja Ma\u0142a Ojczyzna\u201d, kt\u00f3ra zorganizowana zosta\u0142a przy okazji 700-lecia miasta, pojawili si\u0119 liczni sympatycy tw\u00f3rczo\u015bci pani Barbary. Podczas wernisa\u017cu okaza\u0142o si\u0119, \u017ce w nowomiejskiej malarce drzemi\u0105 tak\u017ce talenty poetyckie, bowiem publicznie zaprezentowa\u0142a pr\u00f3bk\u0119 swojej tw\u00f3rczo\u015bci literackiej. Oto dwa wiersze Barbary Z\u0105bkiewicz."
         }
     },
     {
@@ -458,7 +442,7 @@
             "description": "Zdecydowanie nie takie przedmioty spodziewali si\u0119 odnale\u017a\u0107 w lesie na terenie gminy Rejowiec poszukiwacze zrzeszeni w grupie pod przewodnictwem Krzysztofa Fidlera. Pod ich \u0142opatkami mia\u0142y zazgrzyta\u0107 a ...",
             "image_url": "https://www.bing.pl/th?id=ODF.bIV6tyMBijkOV41ZtsGGRA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "Kronika Tygodnia12 godz.",
+            "date": "Kronika Tygodnia18 godz.",
             "source": "Kronika Tygodnia",
             "article_content": "Lasy, kt\u00f3re rozci\u0105gaj\u0105 si\u0119 nieopodal Sawina, Che\u0142ma, Janowa, Sajczyc, Okszowa czy Zawad\u00f3wki grupa Fidlera przemierza regularnie. Niemal w ka\u017cdy weekend. Zwiadowcy historii nastawieni s\u0105 na artefakty zwi\u0105zane ze szlakiem, jaki przed 80 laty przeby\u0142 I Drezde\u0144ski Korpus Pancerny \u2013 jednostka, kt\u00f3ra zosta\u0142a sformowana nieopodal Sawina i Zawad\u00f3wki w\u0142a\u015bnie, dzia\u0142a\u0142a w ramach Ludowego Wojska Polskiego i sw\u00f3j szlak bojowy zako\u0144czy\u0142a na terenie Niemiec. Okazuje si\u0119 jednak, \u017ce ziemia skrywa o wiele bardziej r\u00f3\u017cnorodny depozyt, ni\u017c mo\u017cna si\u0119 by\u0142o spodziewa\u0107. A je\u015bli nadarzaj\u0105 si\u0119 kolejne okazje do tego, aby dopisa\u0107 do bogatej kroniki naszej historii kolejne karty, to nale\u017cy si\u0119 tylko cieszy\u0107.\n\nCzytaj te\u017c: \u0141abunie: \u015aredniowieczna osada na trasie ekspres\u00f3wki S17! Niesamowite odkrycie archeolog\u00f3w\n\nOrze\u0142 i tarcza\n\n\u2013 Tak, jako poszukiwacze jeste\u015bmy zaskakiwani bezustannie. Ka\u017cde wyj\u015bcie do lasu wi\u0105\u017ce si\u0119 z odnalezieniem jakiego\u015b elementu, kt\u00f3ry uzupe\u0142nia brakuj\u0105ce ogniwo w \u0142a\u0144cuszku naszych dziej\u00f3w. I tak na przyk\u0142ad pojawi\u0142 si\u0119 w naszych zasobach, kt\u00f3re badaj\u0105 w\u0142a\u015bnie specjali\u015bci, charakterystyczny orze\u0142ek czy te\u017c orze\u0142 i tarcza, na kt\u00f3rej by\u0142 przytwierdzony. Na my\u015bl przyszed\u0142 na m od razu ko\u0144c\u00f3wka XVIII wieku i dzia\u0142ania, jakie w tym czasie prowadzi\u0142 Tadeusz Ko\u015bciuszko \u2013 wyja\u015bnia pan Krzysztof.\n\nTe pierwsze podejrzenia potwierdzi\u0142 w rozmowie z nami Pawe\u0142 Wira, kierownik che\u0142mskiej delegatury Wojew\u00f3dzkiego Urz\u0119du Ochrony Zabytk\u00f3w w Lublinie. O ile wi\u0119kszych trudno\u015bci nie nastr\u0119czy\u0142o historykom przypisanie orze\u0142ka do konkretnego okresu w naszej historii, o tyle sporo pyta\u0144 zrodzi\u0142o si\u0119 przy okazji pr\u00f3by przypisania znaleziska do konkretnej formacji wojskowej z tamtego okresu.\n\n- Nie mamy raczej w\u0105tpliwo\u015bci co do tego, \u017ce zar\u00f3wno tarcza, jak i sam orze\u0142 pochodz\u0105 z wojskowej czapki. I nie ma raczej w\u0105tpliwo\u015bci co do tego, \u017ce te artefakty nale\u017cy datowa\u0107 na lata 1791-1794. Orze\u0142 posadowiony jest na panoplium, sk\u0142adaj\u0105cym si\u0119 z dw\u00f3ch granat\u00f3w artyleryjskich w centrum i czterech sztandar\u00f3w po bokach. Widoczne s\u0105 r\u00f3wnie\u017c piramidy z\u0142o\u017cone z trzech kul karabinowych \u2013 z lewej (zgodnie z opisem heraldycznym) i w centrum (mi\u0119dzy granatami). Prawdopodobnie po prawej stronie kompozycji znajdowa\u0142a si\u0119 (symetrycznie) trzecia piramidka z kul. W prawej \u0142apie orze\u0142 trzyma miecz. Nietypowy jest o tyle, \u017ce na or\u0142ach z tego okresu wyst\u0119powa\u0142y jeszcze kr\u00f3lewskie monogramy. Tutaj tego monogramu nie ma \u2013 wyja\u015bni\u0142 nam kierownik Pawe\u0142 Wira.\n\nPrzeczytaj: Powiat zamojski do\u0142o\u017cy do prac przy zabytkowych \u015bwi\u0105tyniach\n\nBadacze potwierdzaj\u0105: To unikat!\n\nOrze\u0142kowi i tarczy przygl\u0105dali si\u0119 ju\u017c mi\u0119dzy innymi dr hab. Maciej Tr\u0105bski, profesor Uniwersytetu Jana D\u0142ugosza w Cz\u0119stochowie, a tak\u017ce dr Tomasz Pietras z Uniwersytetu \u0141\u00f3dzkiego. Obaj badacze potwierdzaj\u0105, \u017ce orze\u0142ek jest faktycznie unikatowy.\n\n- Or\u0142y na nakryciach g\u0142\u00f3w polskich \u017co\u0142nierzy pojawi\u0142y si\u0119 wraz z nowym regulaminem umundurowania z 1791 r. Na kaszkietach (giwerach) piechoty, nad daszkiem, umieszczono blach\u0119 mosi\u0119\u017cn\u0105 lub cynow\u0105 w formie p\u00f3\u0142okr\u0119gu lub szerokiego ostro\u0142uku, na kt\u00f3rej przynitowany by\u0142 stylizowany orze\u0142. Dotychczas znane s\u0105 dwa wzory or\u0142\u00f3w. Spo\u015br\u00f3d pi\u0119ciu jednorodnych egzemplarzy dwa znajduj\u0105 si\u0119 w zbiorach Muzeum Wojska Polskiego w Warszawie, jeden w Muzeum Narodowym w Krakowie, czwarty i pi\u0105ty uszkodzone or\u0142y znaleziono w zesz\u0142ym roku pod Ucha\u0144ka, w miejscu bitwy zw. pod Dubienk\u0105 (1792 r.) w powiecie che\u0142mskim. Jeszcze jeden orze\u0142 zdeponowany jest w zbiorach Muzeum im. gen. W\u0142adys\u0142awa Sikorskiego w Londynie. Cechy wsp\u00f3lne obu typ\u00f3w to: g\u0142owa zwr\u00f3cona ku lewemu skrzyd\u0142u, korpus u\u0142o\u017cony uko\u015bnie w prawo, nieregularnie rozpostarte skrzyd\u0142a, ber\u0142o w szponach prawej \u0142apy i kr\u00f3lewski monogram: SAR. R\u00f3\u017cnice natomiast widoczne s\u0105 w uk\u0142adzie skrzyde\u0142, elemencie trzymanym w szponach prawej \u0142apy \u2013 tarczy lub wie\u0144cu, umieszczeniu kr\u00f3lewskiego monogramu \u2013 na tarczy trzymanej w \u0142apie or\u0142a lub bezpo\u015brednio na jego piersiach \u2013 uwa\u017ca Tr\u0105bski.\n\nI dodaje, \u017ce ze wzgl\u0119du na uk\u0142ad g\u0142owy i tu\u0142owia orze\u0142 podobny jest do egzemplarzy, kt\u00f3re znajduj\u0105 si\u0119 w Muzeum Wojska Polskiego w Warszawie oraz w Muzeum Narodowym w Krakowie. R\u00f3\u017cni si\u0119 jednak posadowieniem na panoplium, skrzyd\u0142ami wzniesionymi do g\u00f3ry \u2013 podobnie do or\u0142\u00f3w na piecz\u0119ciach regimentowych, elementem trzymanym w szponach prawej \u0142apy, kt\u00f3rym jest raczej miecz, a nie ber\u0142o, a przede wszystkim brakiem kr\u00f3lewskiego monogramu.\n\n- Mo\u017cna przypuszcza\u0107, \u017ce by\u0142 to znak z kaszkietu Regimentu Grenadier\u00f3w szefostwa gen. J\u00f3zefa Augusta Ili\u0144skiego lub Regimentu Grenadier\u00f3w szefostwa Miko\u0142aja Czapskiego. Taka indywidualna forma or\u0142a mog\u0142a zosta\u0107 zam\u00f3wiona przez szefa regimentu w celu jego odr\u00f3\u017cnienia od innych oddzia\u0142\u00f3w piechoty wojska koronnego.\n\nOrze\u0142ka uda\u0142o si\u0119 odnale\u017a\u0107 Andrzejowi K\u0119dzierawskiemu. Nieopodal znajdowa\u0142 si\u0119 r\u00f3wnie\u017c, tak\u017ce datowany na XVIII wiek, pier\u015bcionek. Ostatnie poszukiwania przynios\u0142y te\u017c kilka innych, niezwykle ciekawych odkry\u0107.\n\n- Staramy si\u0119 te\u017c dowiedzie\u0107 wi\u0119cej na temat odnalezionej ostatnio kuli, chyba z kartacza i dosy\u0107 charakterystycznego guzika od munduru. Do zbior\u00f3w do\u0142\u0105czyli\u015bmy te\u017c bagnet od rosyjskiego karabinu Mosin. Ca\u0142y czas przybywa zreszt\u0105 w naszych zasobach wi\u0119kszych czy mniejszych przedmiot\u00f3w. Wszystkie s\u0105 niezwykle interesuj\u0105ce, ale ich przebadania wymaga jednak czasu i spokojnej analizy. Mamy nadziej\u0119, \u017ce nasze marzenie o utworzeniu lokalnego muzeum czy te\u017c izby pami\u0119ci zi\u015bci si\u0119 i wszystkie te artefakty b\u0119d\u0105 mog\u0142y zosta\u0107 odpowiednio wyeksponowane \u2013 zaznacza poszukiwacz.\n\nJu\u017c teraz grupa Krzysztofa Fidlera zaprasza na inspiruj\u0105ce przeja\u017cd\u017cki wojskowym honkerem. O samochodzie i zwi\u0105zanymi z nim perypetiami pisali\u015bmy zreszt\u0105 obszernie w innym naszym artykule. Samoch\u00f3d pokonuje le\u015bne trakty naszego regionu, a pan Krzysztof i jego przyjaciele opowiadaj\u0105 najm\u0142odszym o wszystkim tym, czym staraj\u0105 si\u0119, jako poszukiwacze, na co dzie\u0144 \u017cy\u0107. Zara\u017caj\u0105 pasj\u0105, kt\u00f3r\u0105 sami piel\u0119gnuj\u0105.\n\n- O historii warto opowiada\u0107 \u201ena \u017cywo\u201d, w terenie. St\u0105d pomys\u0142 na organizowanie wycieczek wojskowym samochodem. Trudno m\u00f3wi\u0107 o wa\u017cnych do\u015bwiadczeniach bez charakterystycznej otoczki, atmosfery. U\u017cywamy prostych, ale sugestywnych \u015brodk\u00f3w. Tylko tyle i a\u017c tyle \u2013 zaznacza Fidler.\n\nCzytaj te\u017c: Archeolodzy nie spodziewali si\u0119 takiego odkrycia w gm. Lubycza Kr\u00f3lewska. To niesamowity skarb!"
         }
@@ -469,14 +453,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Wadliwe monety mog\u0105 by\u0107 w cenie z\u0142ota. Tyle kosztuj\u0105 stare i uszkodzone pieni\u0105dze",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/wadliwe-monety-mog%C4%85-by%C4%87-w-cenie-z%C5%82ota-tyle-kosztuj%C4%85-stare-i-uszkodzone-pieni%C4%85dze/ar-AA1F8TyQ?ocid=BingNewsVerp",
-            "description": "Zanim wydasz swoje monety, warto je dok\u0142adnie obejrze\u0107. Nie uwierzysz, jak bardzo mog\u0105 one zainteresowa\u0107 kolekcjoner\u00f3w ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.1--lJ8tMnPmNitLvZjoRqy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+numizmatyka",
-            "date": "Express Bydgoski on MSN22 godz.",
-            "source": "Express Bydgoski on MSN",
-            "article_content": ""
+            "title": "Ostatni gwizdek sezonu - Jagiellonia walczy o Europ\u0119. Specjalne wej\u015bcia antenowe i zmiany w programie!",
+            "link": "https://www.radio.bialystok.pl/wiadomosci/index/id/250528",
+            "description": "W sobot\u0119 (24.05) o 17:30 Jagiellonia Bia\u0142ystok zmierzy si\u0119 przed w\u0142asn\u0105 publiczno\u015bci\u0105 z Pogoni\u0105 Szczecin w decyduj\u0105cym dla ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.HfQ7IcRqZggI9o5E5SwjOi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Polskie Radio Bia\u0142ystok17 godz.",
+            "source": "Polskie Radio Bia\u0142ystok",
+            "article_content": "Radio Bia\u0142ystok | Wiadomo\u015bci | Ostatni mecz sezonu. Atmosfera na stadionie i pomeczowe komentarze w naszym specjalny programie\n\nOstatni mecz sezonu. Atmosfera na stadionie i pomeczowe komentarze w naszym specjalny programie\n\nJagiellonia Bia\u0142ystok zremisowa\u0142a w sobot\u0119 (24.05) przed w\u0142asn\u0105 publiczno\u015bci\u0105 z Pogoni\u0105 Szczecin. Stawk\u0105 starcia by\u0142o trzecie miejsce w pi\u0142karskiej ekstraklasie, czyli br\u0105zowy medal i przepustka do europejskich puchar\u00f3w, co uda\u0142o si\u0119 wywalczy\u0107.\n\nJagiellonia Bia\u0142ystok - Pogo\u0144 Szczecin, 24.05.2025, fot. Joanna Szubzda\n\nAtmosfera przed meczem i rozmowy z kibicami z M\u0142odej Ultry - relacja Wojciecha Szubzdy i Jerzego Ku\u0142akowskiego\n\nCeremonia medalowa - relacjonuje Jerzy Ku\u0142akowski\n\nZ Norbertem Wojtuszkiem - strzelcem jedynej bramki w meczu - rozmawia Jerzy Ku\u0142akowski\n\nCzy S\u0142awomir Abramowicz zostaje w Bia\u0142ymstoku? Z bramkarzem Jagi rozmawia Jerzy Ku\u0142akowski\n\nPomeczowy komentarz Jesusa Imaza - rozmawia Jerzy Ku\u0142akowski\n\nTaras Romanczuk ogl\u0105da\u0142 mecz z trybun. Jakie emocje mu towarzyszy\u0142y? - opowiada o tym Jerzemu Ku\u0142akowskiemu\n\n\"Po raz kolejny zawodzimy w ostatnim momencie, w tym najwa\u017cniejszym meczu\" - m\u00f3wi Kamil Grosicki. Pos\u0142uchaj rozmowy\n\n\"Ciesz\u0119 si\u0119, \u017ce mo\u017cemy rozmawia\u0107 z u\u015bmiechem na twarzy\" - m\u00f3wi Mateusz Skrzypczak i podsumowuje sezon w rozmowie z Jerzym Ku\u0142akowskim\n\nAdrian Siemieniec: Niew\u0105tpliwie ta dru\u017cyna zrobi\u0142a co\u015b wielkiego przez dwa ostatnie lata. Trener Jagiellonii o sezonie i meczu\n\nKibice oceniaj\u0105 mecz - relacja Wojciecha Szubzdy"
         }
     },
     {
@@ -490,7 +474,7 @@
             "description": "W ostatnich latach przedmioty z czas\u00f3w PRL prze\u017cywaj\u0105 prawdziwy renesans. W 2025 roku kolekcjonerzy coraz ch\u0119tniej poszukuj\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.JuluveJU-8M5Cf0T3ivpIS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Pomorska on MSN6 godz.",
+            "date": "Gazeta Pomorska on MSN11 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -501,14 +485,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "24 MAJA 2025",
-            "link": "https://www.krakow.pl/kalendarium/1919,shw,2025-05-24,8,day.html",
-            "description": "Ekspozycja przedstawia dzie\u0142a polskiej sztuki \u015bredniowiecznej i nowo\u017cytnej, pochodz\u0105ce ze zbioru gromadzonego od XIX wieku, kt\u00f3re prezentowane s\u0105 w zabytkowych wn\u0119trzach Pa\u0142acu Biskupa Erazma Cio\u0142ka.",
+            "title": "25 MAJA 2025",
+            "link": "https://www.krakow.pl/kalendarium/1919,shw,2025-05-25,8,day.html",
+            "description": "Muzeum Sztuki Wsp\u00f3\u0142czesnej w Krakowie MOCAK we wsp\u00f3\u0142pracy z Narodowym Starym Teatrem im. Heleny Modrzejewskiej w Krakowie otwiera now\u0105 przestrze\u0144 w ramach swojej Kolekcji. Pokazana zostanie interaktyw ...",
             "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w22 godz.",
+            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w3 godz.",
             "source": "Oficjalny serwis miejski - Magiczny Krak\u00f3w",
-            "article_content": "Szukaj wydarzenia\n\nKategoria: -- wszystkie -- Spektakle teatralne Spektakle taneczne Spacery i zwiedzanie Akcje czytelnicze Muzyka rozrywkowa Wystawy czasowe Targi i kiermasze Festiwale Festiwale sztuk wizualnych Muzyka klasyczna Wyk\u0142ady, spacery i warsztaty artystyczne W gminach Metropolii Kabaret Festiwale i przegl\u0105dy filmowe Festiwale muzyczne Festiwale literackie Inne koncerty Inne przedstawienia Festiwale teatralne Pozosta\u0142e Spotkania i slajdowiska Dzieci\u0119ce r\u00f3\u017cno\u015bci Widowiska plenerowe i happeningi Wydarzenia sportowe Muzyka klubowa Spotkania i wyk\u0142ady literackie Wystawy sta\u0142e Inne wydarzenia literackie Pokazy filmowe"
+            "article_content": "Krak\u00f3w \u2013 czas okupacji 1939-1945\n\nWystawa mie\u015bci si\u0119 w dawnym budynku administracyjnym Fabryki Emalia Oskara Schindlera przy ul. Lipowej 4 i jest opowie\u015bci\u0105 o Krakowie i losach jego polskich i \u017cydowskich mieszka\u0144c\u00f3w w czasie II wojny \u015bwiatowej, ale te\u017c o Niemcach \u2013 okupantach,..."
         }
     }
 ]
