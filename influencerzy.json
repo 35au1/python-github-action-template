@@ -10,7 +10,7 @@
             "description": "Wazony z czas\u00f3w PRL w 2025 roku zyskuj\u0105 na warto\u015bci. S\u0105 poszukiwane zar\u00f3wno przez kolekcjoner\u00f3w, jak i mi\u0142o\u015bnik\u00f3w starego ...",
             "image_url": "https://www.bing.pl/th?id=OVF.ZbaMxSxyY%2bsOLOXA9WwAvA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Gazeta Pomorska7 godz.",
+            "date": "Gazeta Pomorska11 godz.",
             "source": "Gazeta Pomorska",
             "article_content": "Content not available"
         }
@@ -26,7 +26,7 @@
             "description": "W 2025 roku znaczki pocztowe z lat PRL ciesz\u0105 si\u0119 popularno\u015bci\u0105 i s\u0105 poszukiwane przez kolekcjoner\u00f3w. Je\u015bli masz takie w domu, przejrzyj je dok\u0142adnie. Mo\u017ce si\u0119 okaza\u0107, \u017ce to prawdziwe kolekcjonerskie ...",
             "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "Gazeta Pomorska7 godz.",
+            "date": "Gazeta Pomorska11 godz.",
             "source": "Gazeta Pomorska",
             "article_content": "Content not available"
         }
@@ -42,24 +42,8 @@
             "description": "Od 9 sierpnia 2025 roku w diecezji rzeszowskiej dojdzie do znacz\u0105cych zmian personalnych. Trzy parafie otrzymaj\u0105 nowych proboszcz\u00f3w, natomiast a\u017c dziewi\u0119ciu kap\u0142an\u00f3w obejmie funkcj\u0119 administrator\u00f3w.",
             "image_url": "https://www.bing.pl/th?id=ODF.f1I8bJbwcln8vUrU0W00ww&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "Nowiny 248 godz.",
+            "date": "Nowiny 2412 godz.",
             "source": "Nowiny 24",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Stare zabawki z czas\u00f3w PRL - w 2025 roku to kolekcjonerskie pere\u0142ki na wag\u0119 z\u0142ota",
-            "link": "https://pomorska.pl/stare-zabawki-z-czasow-prl-w-2025-roku-to-kolekcjonerskie-perelki-na-wage-zlota/ar/c1p2-27696031",
-            "description": "W 2025 roku zabawki z lat PRL ciesz\u0105 si\u0119 popularno\u015bci\u0105 i s\u0105 poszukiwane przez kolekcjoner\u00f3w. Je\u015bli masz jeszcze takie w domu, ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.qfNDUiLxuLyk1ccJnXAzcw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "Gazeta Pomorska40 min",
-            "source": "Gazeta Pomorska",
             "article_content": "Content not available"
         }
     },
@@ -74,7 +58,7 @@
             "description": "Najdro\u017csze monety PRL by\u0142y jednak sprzedawane na aukcjach. Przede wszystkim na rzadkich, dedykowanych spotkaniach ...",
             "image_url": "https://www.bing.pl/th?id=OVF.2JGKrE%2fqRj5b96Mh3TMk%2bQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Toru\u0144 Nasze Miasto6 godz.",
+            "date": "Toru\u0144 Nasze Miasto10 godz.",
             "source": "Toru\u0144 Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -90,8 +74,24 @@
             "description": "Je\u015bli my\u015blisz, \u017ce wszystkie monety z PRL s\u0105 warte tylko kilka groszy, to jeste\u015b w b\u0142\u0119dzie. Istniej\u0105 konkretne egzemplarze, kt\u00f3re na aukcjach internetowych potrafi\u0105 osi\u0105ga\u0107 osza\u0142amiaj\u0105ce ceny \u2013 nawet ...",
             "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "G\u0142os Pomorza6 godz.",
+            "date": "G\u0142os Pomorza10 godz.",
             "source": "G\u0142os Pomorza",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Stare zabawki z czas\u00f3w PRL - w 2025 roku to kolekcjonerskie pere\u0142ki na wag\u0119 z\u0142ota",
+            "link": "https://pomorska.pl/stare-zabawki-z-czasow-prl-w-2025-roku-to-kolekcjonerskie-perelki-na-wage-zlota/ar/c1p2-27696031",
+            "description": "W 2025 roku zabawki z lat PRL ciesz\u0105 si\u0119 popularno\u015bci\u0105 i s\u0105 poszukiwane przez kolekcjoner\u00f3w. Je\u015bli masz jeszcze takie w domu, ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.qfNDUiLxuLyk1ccJnXAzcw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "Gazeta Pomorska4 godz.",
+            "source": "Gazeta Pomorska",
             "article_content": "Content not available"
         }
     },
@@ -106,7 +106,7 @@
             "description": "Czy zdarzy\u0142o Ci si\u0119 kiedy\u015b, \u017ce sprzedawca w sklepie odm\u00f3wi\u0142 przyj\u0119cia banknotu i poprosi\u0142 o inny? Zgodnie z obowi\u0105zuj\u0105cymi ...",
             "image_url": "https://www.bing.pl/th?id=OVF.a2D8jDbqNA%2bCUErIXp952g&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Gazeta Pomorska15 godz.",
+            "date": "Gazeta Pomorska18 godz.",
             "source": "Gazeta Pomorska",
             "article_content": "Content not available"
         }
@@ -122,7 +122,7 @@
             "description": "Istnieje jednak furtka, kt\u00f3ra pozwala unikn\u0105\u0107 tego 19% podatku dochodowego, nawet je\u015bli sprzedasz mieszkanie ze spadku przed ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.-hbElLTfT5ufTMBp1lCNPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Gazeta Wroc\u0142awska14 godz.",
+            "date": "Gazeta Wroc\u0142awska18 godz.",
             "source": "Gazeta Wroc\u0142awska",
             "article_content": "Content not available"
         }
@@ -138,7 +138,7 @@
             "description": "Wazony z czas\u00f3w PRL w 2025 roku zyskuj\u0105 na warto\u015bci. S\u0105 poszukiwane zar\u00f3wno przez kolekcjoner\u00f3w, jak i mi\u0142o\u015bnik\u00f3w starego ...",
             "image_url": "https://www.bing.pl/th?id=OVF.ZbaMxSxyY%2bsOLOXA9WwAvA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska7 godz.",
+            "date": "Gazeta Pomorska11 godz.",
             "source": "Gazeta Pomorska",
             "article_content": "Content not available"
         }
@@ -149,12 +149,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Kryszta\u0142y PRL w cenie z\u0142ota. Tyle kosztuj\u0105 w 2025 roku popularne misy i wazony [18.06.2025]",
-            "link": "https://pomorska.pl/krysztaly-prl-w-cenie-zlota-tyle-kosztuja-w-2025-roku-popularne-misy-i-wazony-18-06-2025/ar/c9p2-27165801",
-            "description": "Kryszta\u0142y z czas\u00f3w PRL, kiedy\u015b powszechnie spotykane w polskich domach, zyska\u0142y nowe \u017cycie jako cenione przedmioty ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.df%2f5qvfchfp5C0%2fX%2f4ABww&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Kryszta\u0142y PRL w cenie z\u0142ota. Tyle kosztuj\u0105 w 2025 roku popularne misy i wazony [18.06.25]",
+            "link": "https://pomorska.pl/krysztaly-prl-w-cenie-zlota-tyle-kosztuja-w-2025-roku-popularne-misy-i-wazony-18-06-25/ar/c9p2-27165801",
+            "description": "Kryszta\u0142y z czas\u00f3w PRL, kiedy\u015b powszechnie spotykane w polskich domach, zyska\u0142y nowe \u017cycie jako cenione przedmioty kolekcjonerskie. W 2025 roku ich warto\u015b\u0107 na rynku znacz\u0105co wzros\u0142a, a kolekcjonerzy ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska19 godz.",
+            "date": "Gazeta Pomorska11 godz.",
             "source": "Gazeta Pomorska",
             "article_content": "Content not available"
         }
@@ -170,7 +170,7 @@
             "description": "Takie przeceny znale\u017ali\u015bmy dzi\u015b (18.06.25) na ubrania w sklepach firmy LPP. Codziennie \u015bledzimy ceny produkt\u00f3w na stronach ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.RGxAKqoc0f9jtIEMC4wNxy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Jaworzno Nasze Miasto12 godz.",
+            "date": "Jaworzno Nasze Miasto16 godz.",
             "source": "Jaworzno Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -186,7 +186,7 @@
             "description": "W Operze i Filharmonii Podlaskiej dobiega ko\u0144ca sezon artystyczny 2024/2025. W niedziel\u0119 (15 czerwca), w 73. rocznic\u0119 \u015bmierci Krystyny Skarbek, w gmachu przy Odeskiej po raz ostatni przed wakacyjna ...",
             "image_url": "https://www.bing.pl/th?id=ODF.z8szwJPfOZTDo97HvHYzSw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Kurier Poranny8 godz.",
+            "date": "Kurier Poranny12 godz.",
             "source": "Kurier Poranny",
             "article_content": "Content not available"
         }
@@ -202,7 +202,7 @@
             "description": "Od 9 sierpnia 2025 roku w diecezji rzeszowskiej dojdzie do znacz\u0105cych zmian personalnych. Trzy parafie otrzymaj\u0105 nowych proboszcz\u00f3w, natomiast a\u017c dziewi\u0119ciu kap\u0142an\u00f3w obejmie funkcj\u0119 administrator\u00f3w.",
             "image_url": "https://www.bing.pl/th?id=ODF.f1I8bJbwcln8vUrU0W00ww&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Nowiny 248 godz.",
+            "date": "Nowiny 2412 godz.",
             "source": "Nowiny 24",
             "article_content": "Content not available"
         }
@@ -218,7 +218,7 @@
             "description": "W 2025 roku zabawki z lat PRL ciesz\u0105 si\u0119 popularno\u015bci\u0105 i s\u0105 poszukiwane przez kolekcjoner\u00f3w. Je\u015bli masz jeszcze takie w domu, ...",
             "image_url": "https://www.bing.pl/th?id=OVF.qfNDUiLxuLyk1ccJnXAzcw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Gazeta Pomorska40 min",
+            "date": "Gazeta Pomorska4 godz.",
             "source": "Gazeta Pomorska",
             "article_content": "Content not available"
         }
@@ -234,7 +234,7 @@
             "description": "W \u015bwiecie, gdzie nawet tanie drony komercyjne mog\u0105 by\u0107 przerobione na platformy szpiegowskie lub bojowe, strategia obronna ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.45iL7nZbCHYhkppeedABwi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "CHIP3 godz.",
+            "date": "CHIP7 godz.",
             "source": "CHIP",
             "article_content": "W \u015bwiecie, gdzie nawet tanie drony komercyjne mog\u0105 by\u0107 przerobione na platformy szpiegowskie lub bojowe, strategia obronna przechodzi rewolucj\u0119. Nie wystarczy ju\u017c pr\u0119dko\u015b\u0107 ani rozmiar. Dzisiejsze okr\u0119ty potrzebuj\u0105 systemu, kt\u00f3ry zareaguje b\u0142yskawicznie, precyzyjnie i inteligentnie, a no to w\u0142a\u015bnie stawiaj\u0105 dzi\u015b Niemcy.\n\nNiemcy stawiaj\u0105 na nowe, wi\u0119ksze dzia\u0142a dla okr\u0119t\u00f3w. Te rzuc\u0105 wyzwanie rosn\u0105cemu zagro\u017ceniu\n\nNiemcy rozpocz\u0119\u0142y szeroko zakrojon\u0105 modernizacj\u0119 floty morskiej, skupiaj\u0105c\u0105 si\u0119 na pozornie drobnym, ale kluczowym elemencie, bo lekkim dziale morskim. 11 czerwca 2025 roku kraj og\u0142osi\u0142 przetarg publiczny pod nazw\u0105 qNFMLG (querschnittliche Nachfolgel\u00f6sung f\u00fcr Marineleichtgesch\u00fctze), a za tym biurokratycznym tytu\u0142em kryje si\u0119 jasny celw postaci zast\u0105pienia przestarza\u0142ych dzia\u0142 MLG 27 mm now\u0105 generacj\u0105 system\u00f3w 30 mm, kt\u00f3re s\u0105 stworzone z my\u015bl\u0105 o zwalczaniu dron\u00f3w i innych bliskich zagro\u017ce\u0144 z chirurgiczn\u0105 precyzj\u0105.\n\nCzytaj te\u017c: Francuzi pokazali now\u0105 bro\u0144. Jest wielka i pe\u0142na niszczycielskiego potencja\u0142u\n\nOkr\u0119towe dzia\u0142o MLG27\n\nW centrum tej zmiany znajduje si\u0119 kaliber 30\u00d7173 mm, a wi\u0119c pozornie niewielka r\u00f3\u017cnica wzgl\u0119dem obecnych 27 mm, ale w rzeczywisto\u015bci ogromna. Wi\u0119kszy kaliber umo\u017cliwia bowiem wykorzystanie programowalnej amunicji od\u0142amkowej (PABM), kt\u00f3ra jest zdolna do precyzyjnego wybuchu w powietrzu wok\u00f3\u0142 szybkich i trudnych do wykrycia cel\u00f3w, jak lataj\u0105ce drony w\u0142a\u015bnie. To radykalnie zwi\u0119ksza szanse skutecznego przechwycenia, a to zw\u0142aszcza wobec zagro\u017ce\u0144, kt\u00f3re zwyk\u0142e pociski mog\u0142yby po prostu min\u0105\u0107. Co istotne, w tym zam\u00f3wieniu Niemcy nie zaczynaj\u0105 od zera, bo wymagaj\u0105, by ka\u017cdy system mia\u0142 poziom gotowo\u015bci TRL 9, czyli by\u0142 w pe\u0142ni sprawdzony operacyjnie.\n\nCzytaj te\u017c: Chi\u0144ski gigant w tajnej bazie. Zdj\u0119cia satelitarne pokaza\u0142y co\u015b, co zwala z n\u00f3g\n\nRheinmetall dzia\u0142o Sea Snake\n\nStarszy system MLG27 mo\u017ce i na przestrzeni lat udowodni\u0142 swoj\u0105 niezawodno\u015b\u0107, ale nie obs\u0142uguje takiej amunicji. Nawet unowocze\u015bniona wersja MLG27-4.0, przeznaczona dla nowych fregat F126, nie spe\u0142nia tych wymaga\u0144. Dlatego te\u017c zam\u00f3wienie opiewa na a\u017c 75 dzia\u0142 z opcj\u0105 rozszerzenia go o kolejne 100. To wystarczy, by nie tylko wymieni\u0107 stare dzia\u0142a, ale te\u017c uzbroi\u0107 nowe fregaty F127, bezza\u0142ogowe jednostki MUsE i wcze\u015bniej nieuzbrojone okr\u0119ty typu 424. B\u0119dzie to wa\u017cne nawet z perspektywy logistycznej, bo amunicja 30\u00d7173 mm to do tej pory szeroko przyj\u0119ty kaliber NATO.\n\nLeonardo MARLIN 30\n\nCzytaj te\u017c: Sta\u0142o si\u0119 nieuniknione. Najpierw flota, a teraz Chiny zrobi\u0142y to\u2026\n\nDo tej pory do przetargu zg\u0142osi\u0142o si\u0119 kilku kluczowych graczy. Przyk\u0142adowo firma Rheinmetall oferuje sw\u00f3j Sea Snake 30, zaprojektowany z my\u015bl\u0105 o amunicji airburst i obronie przed dronami, Leonardo proponuje z kolei MARLIN 30, certyfikowany przez NATO i modu\u0142owy, a BAE Systems wchodzi do gry ze swoim MG, skupionym na zwalczaniu dron\u00f3w. W tym przetargu widzimy nie tylko zakup nowego uzbrojenia, ale te\u017c zmian\u0119 doktryny, bo niemiecka marynarka uznaje to, co analitycy m\u00f3wi\u0105 od dawna \u2013 drony nie s\u0105 ju\u017c marginesem pola walki. To frontowe narz\u0119dzia rozpoznania, n\u0119kania i precyzyjnych atak\u00f3w, a jedyn\u0105 skuteczn\u0105 odpowiedzi\u0105 nie jest brutalna si\u0142a, lecz zdolno\u015b\u0107 do adaptacji. Trudno si\u0119 temu dziwi\u0107, bo je\u015bli roje dron\u00f3w kosztuj\u0105 kilka tysi\u0119cy euro, a potrafi\u0105 sparali\u017cowa\u0107 okr\u0119t, stawka jest znacznie wi\u0119ksza ni\u017c koszt nowej wie\u017cyczki."
         }
@@ -250,7 +250,7 @@
             "description": "Najdro\u017csze monety PRL by\u0142y jednak sprzedawane na aukcjach. Przede wszystkim na rzadkich, dedykowanych spotkaniach ...",
             "image_url": "https://www.bing.pl/th?id=OVF.YuN3NqIPPb5Ceqwk2iev%2fg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski6 godz.",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski10 godz.",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski",
             "article_content": "Content not available"
         }
@@ -266,7 +266,7 @@
             "description": "godz. 19.00 \u2013 uroczysty Koncert Kr\u00f3lewski \u2013 1000 Lat Korony Polskiej wyst\u0105pi\u0105: Anna Soko\u0142awska-Alabrudzi\u0144ska, Mateusz Mijal, ...",
             "image_url": "https://www.bing.pl/th?id=OVF.bq2lT0t5wvieldWMszXqZg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Nowiny 243 godz.",
+            "date": "Nowiny 247 godz.",
             "source": "Nowiny 24",
             "article_content": "Content not available"
         }
@@ -277,14 +277,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Je\u015bli robisz to, aplikuj\u0105c o prac\u0119, uwa\u017caj! Ekspert: to mo\u017ce obr\u00f3ci\u0107 si\u0119 przeciwko tobie",
-            "link": "https://www.onet.pl/styl-zycia/onetkobieta/swiadectwa-pracy-to-fikcja-eksperci-ujawniaja-jak-naprawde-powstaja-referencje/ksz87ps,2b83378a",
-            "description": "Napisa\u0142am sobie \u015bwiadectwo pracy \u2013 nie pierwszy raz. Brzmi jak \u017cart, ale to rzeczywisto\u015b\u0107 tysi\u0119cy pracownik\u00f3w. Referencje ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.1Yqf3oD9vwSJ7zoTlKdZqC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Spacer do 6 km od Ko\u0142obrzegu. Podpowiedzi ciekawych tras na weekend 21 - 22 czerwca",
+            "link": "https://kolobrzeg.naszemiasto.pl/spacer-do-6-km-od-kolobrzegu-podpowiedzi-ciekawych-tras-na-weekend-21-22-czerwca/ar/c7p1-22115647",
+            "description": "Zanim wyruszysz w tras\u0119, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 21 czerwca w Ko\u0142obrzegu ma by\u0107 20\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 22 czerwca w Ko\u0142obrzegu ma by\u0107 25\u00b0C. Nie b\u0119dzie pada\u0107.",
+            "image_url": "https://www.bing.pl/th?id=ODF.xGyVXoJ9b0zlcu2rTPA_6w&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Onet7 godz.",
-            "source": "Onet",
-            "article_content": "Czy kiedykolwiek zastanawia\u0142e\u015b si\u0119, ile naprawd\u0119 warte jest twoje \u015bwiadectwo pracy? A mo\u017ce inaczej \u2014 czy zdarzy\u0142o ci si\u0119 je samemu napisa\u0107? Brzmi absurdalnie, ale tak w\u0142a\u015bnie si\u0119 dzieje i to nie rzadko. Trzech ekspert\u00f3w z bran\u017cy HR wyja\u015bnia, dlaczego pilnie potrzebna jest zmiana.\n\n\"\u015awiadectwa pracy s\u0105 dzi\u015b w wielu firmach raczej dodatkiem, kt\u00f3ry dostaje si\u0119 przy odej\u015bciu na dobrych warunkach. W stylu: wpisz sobie to, co mo\u017ce ci pom\u00f3c w przysz\u0142o\u015bci\" m\u00f3wi Anna-Lena Glismann, Senior Lead w dziale rekrutacji w firmie Momox zajmuj\u0105cej si\u0119 handlem internetowym. Wed\u0142ug niej ta praktyka nie wynika z braku motywacji kadry kierowniczej. Cz\u0119sto po prostu mened\u017cerowie nie maj\u0105 pe\u0142nej wiedzy o rzeczywistych osi\u0105gni\u0119ciach pracownika.\n\nreklama\n\nGlismann sama mia\u0142a podobne do\u015bwiadczenie: \"Pracowa\u0142am w dziale HR startupu i jedn\u0105 z moich r\u00f3l by\u0142o pisanie \u015bwiadectw pracy dla innych pracownik\u00f3w\". Gdy sama z\u0142o\u017cy\u0142a wypowiedzenie, poproszono j\u0105, by sama napisa\u0142a swoje \u015bwiadectwo. \"Szczerze m\u00f3wi\u0105c, po prostu tego nie zrobi\u0142am i do dzi\u015b nie by\u0142o mi ono potrzebne\" przyznaje ekspertka.\n\nTo pokazuje, jak niewielkie znaczenie maj\u0105 cz\u0119sto wymagane referencje \u2014 s\u0105 g\u0142\u00f3wnie formalno\u015bci\u0105, sporz\u0105dzan\u0105 z przyzwyczajenia, a nie dokumentem o rzeczywistej warto\u015bci. Istniej\u0105 jednak r\u00f3\u017cnice: \"Im wi\u0119kszy i bardziej profesjonalny jest dzia\u0142 HR w firmie, tym mniej prawdopodobne, \u017ce pracownik sam b\u0119dzie pisa\u0107 swoje \u015bwiadectwo\" m\u00f3wi Glismann. W takich organizacjach istniej\u0105 bowiem ustandaryzowane procesy i narz\u0119dzia zapewniaj\u0105ce por\u00f3wnywalno\u015b\u0107 ocen.\n\nCzy \u015bwiadectwa pracy maj\u0105 jakiekolwiek znaczenie dla rekruter\u00f3w?\n\nPodobne do\u015bwiadczenia mia\u0142a Anna Luttgen, dyrektor ds. talent\u00f3w w firmie doradztwa personalnego Hays. \"Ja r\u00f3wnie\u017c napisa\u0142am sobie \u015bwiadectwo pracy\" m\u00f3wi. Cz\u0119\u015b\u0107 merytoryczn\u0105 mog\u0142a sformu\u0142owa\u0107 samodzielnie, zanim dzia\u0142 HR j\u0105 poprawi\u0142. Sam\u0105 ocen\u0119 wystawi\u0142 ju\u017c jej prze\u0142o\u017cony.\n\nLuttgen uwa\u017ca, \u017ce by\u0142o to dla niej w porz\u0105dku. \"Zadania, kt\u00f3re by\u0142y dla mnie istotne, zosta\u0142y poprawnie udokumentowane, a m\u00f3j szef m\u00f3g\u0142 doda\u0107 swoj\u0105 perspektyw\u0119\". Jednak zna te\u017c przypadki, w kt\u00f3rych pracownicy samodzielnie tworzyli ca\u0142e \u015bwiadectwa pracy, dlatego podchodzi do nich z ograniczonym zaufaniem. \"\u017baden powa\u017cny rekruter nie podj\u0105\u0142by decyzji o zatrudnieniu wy\u0142\u0105cznie na podstawie \u015bwiadectwa pracy\" podsumowuje.\n\nNie tylko cz\u0119sto nie jest jasne, w jaki spos\u00f3b powsta\u0142o \u015bwiadectwo pracy, ale tak\u017ce na ile pokrywa si\u0119 ono z prawd\u0105, poniewa\u017c zgodnie z orzecznictwem musi by\u0107 sformu\u0142owane w spos\u00f3b \u017cyczliwy. \"I w\u0142a\u015bnie tu le\u017cy problem. \u017byczliwo\u015b\u0107 oznacza, \u017ce nie mog\u0119 po prostu otwarcie i bezpo\u015brednio napisa\u0107, jak naprawd\u0119 wygl\u0105da\u0142a wsp\u00f3\u0142praca, lecz musz\u0119 trzyma\u0107 si\u0119 okre\u015blonych kod\u00f3w, kt\u00f3re ugruntowa\u0142y si\u0119 w \u015bwiecie HR\" wyja\u015bnia Luttgen.\n\nreklama\n\n\u015awiadectwa pracy jako \"czynnik higieniczny\"\n\nLuttgen wie, \u017ce wielu rekruter\u00f3w nie zwraca ju\u017c prawie uwagi na \u015bwiadectwa pracy. W razie w\u0105tpliwo\u015bci wol\u0105 bezpo\u015brednio zdoby\u0107 referencje. \"Osobiste wra\u017cenie podczas rozmowy liczy si\u0119 o wiele bardziej ni\u017c pisemna ocena, kt\u00f3rej znaczenie jest cz\u0119sto niejasne\" dodaje. Mimo to \u015bwiadectwa pracy s\u0105 nadal cz\u0119sto wymagane.\n\n\"Ca\u0142y system HR i prawo pracy w Niemczech s\u0105 do\u015b\u0107 staro\u015bwieckie\" m\u00f3wi ekspertka. Struktury s\u0105 silnie ugruntowane i mocno sformalizowane. \u015awiadectwa pracy s\u0105 wci\u0105\u017c powszechne g\u0142\u00f3wnie dlatego, \u017ce pe\u0142ni\u0105 rol\u0119 \"czynnika higienicznego\" \u2014 s\u0105 wymagane raczej dla kompletno\u015bci dokumentacji ni\u017c dla warto\u015bci merytorycznej.\n\nPodobne stanowisko zajmuje Dominik Beuscher, za\u0142o\u017cyciel i rekruter w firmie doradztwa personalnego Trofeo Consult. Z jego do\u015bwiadczenia wynika, \u017ce wielu pracodawc\u00f3w nadal nalega na \u015bwiadectwa pracy i podejmuje na ich podstawie decyzj\u0119, czy zaprosi\u0107 kandydata na rozmow\u0119. \"W ten spos\u00f3b firmy cz\u0119sto trac\u0105 zmotywowanych kandydat\u00f3w\" zauwa\u017ca.\n\nSam Beuscher ma ograniczone zaufanie do \u015bwiadectw pracy i zna wiele przypadk\u00f3w, w kt\u00f3rych pracownicy pisali je sobie sami \u2014 cz\u0119sto nie znaj\u0105c \"kod\u00f3w\". \"To mo\u017ce obr\u00f3ci\u0107 si\u0119 przeciwko nim\" ostrzega.\n\nObecnie mo\u017cliwe jest r\u00f3wnie\u017c wygenerowanie perfekcyjnego \u015bwiadectwa pracy za pomoc\u0105 sztucznej inteligencji, wykorzystuj\u0105c odpowiednie sformu\u0142owania. Beuscher podkre\u015bla, \u017ce \u015bwiadectwa pracy musz\u0105 by\u0107 napisane w spos\u00f3b \u017cyczliwy, co oznacza, \u017ce s\u0142abe wyniki nie s\u0105 nazywane wprost, lecz \"upi\u0119kszane\" i opisane w spos\u00f3b zawoalowany. Dla niego to jedynie \"zas\u0142ona dymna bez warto\u015bci dodanej\".\n\nreklama\n\n\"\u015awiadectwa pracy to przestarza\u0142e relikty dawnej kultury pracy\" podkre\u015bla. Jego zdaniem ani jemu, ani jego klientom nie przynosz\u0105 one korzy\u015bci, poniewa\u017c nie odzwierciedlaj\u0105 rzeczywistej wydajno\u015bci pracownika, a jedynie dokumentuj\u0105 jego relacje z prze\u0142o\u017conym. \"Znacznie wa\u017cniejsze s\u0105 dla mnie rzeczywiste do\u015bwiadczenia i osobiste rozmowy\" podsumowuje Beuscher.\n\n\u015awiadectwo pracy mo\u017ce pom\u00f3c przy niejasno\u015bciach w CV\n\nEkspertka HR, Luttgen, uwa\u017ca, \u017ce \u015bwiadectwa pracy mog\u0105 pe\u0142ni\u0107 co najwy\u017cej rol\u0119 dodatkowego \u017ar\u00f3d\u0142a informacji w procesie rekrutacyjnym. Mog\u0105 by\u0107 przydatne zw\u0142aszcza wtedy, gdy CV nie daje pe\u0142nego obrazu kariery lub brakuje w nim szczeg\u00f3\u0142owego opisu danej roli.\n\n\"Niekt\u00f3rzy kandydaci s\u0105 w swoich CV niezwykle lakoniczni \u2014 pisz\u0105, \u017ce pracowali gdzie\u015b przez sze\u015b\u0107 lat i wymieniaj\u0105 tylko dwa punkty\" wyja\u015bnia. W takich przypadkach \u015bwiadectwo pracy mo\u017ce dostarczy\u0107 rekruterom pewnych informacji. Jednak interesuje j\u0105 wy\u0142\u0105cznie opis wykonywanych obowi\u0105zk\u00f3w. \"Sama ocena czy ukryte kody zupe\u0142nie mnie nie interesuj\u0105\" podkre\u015bla.\n\nJednak istnieje jeden wyj\u0105tek: \"Je\u015bli po rozmowie kwalifikacyjnej mam wra\u017cenie, \u017ce kandydat nie m\u00f3wi mi ca\u0142ej prawdy, mog\u0119 ponownie zajrze\u0107 do \u015bwiadectwa pracy i sprawdzi\u0107, czy moje przeczucia si\u0119 potwierdzaj\u0105\" m\u00f3wi Luttgen. Je\u015bli na przyk\u0142ad odniesie wra\u017cenie, \u017ce kto\u015b nie jest zbyt zespo\u0142owy, por\u00f3wnanie z tre\u015bci\u0105 \u015bwiadectwa mo\u017ce dostarczy\u0107 wskaz\u00f3wek. Je\u015bli dokument jest podejrzanie og\u00f3lnikowy lub zawiera powtarzaj\u0105ce si\u0119 sugestywne sformu\u0142owania, mo\u017ce to by\u0107 sygna\u0142 ostrzegawczy. Mimo to nigdy nie podj\u0119\u0142aby decyzji wy\u0142\u0105cznie na podstawie oceny zawartej w \u015bwiadectwie.\n\nreklama\n\nDla Luttgen \u015bwiadectwo pracy jest jedynie \"kawa\u0142kiem uk\u0142adanki\" w ca\u0142ym obrazie kandydata. Jej g\u0142\u00f3wna uwaga skupia si\u0119 na CV. Je\u015bli co\u015b wydaje jej si\u0119 dziwne lub zauwa\u017cy luki w do\u015bwiadczeniu zawodowym, zapisuje sobie pytania i zadaje je podczas rozmowy. \"Daje mi to o wiele bardziej warto\u015bciowe informacje ni\u017c standardowa ocena w \u015bwiadectwie\" podkre\u015bla.\n\nZlikwidowa\u0107 czy zreformowa\u0107 \u015bwiadectwa pracy?\n\nCzy zatem \u015bwiadectwa pracy powinny zosta\u0107 ca\u0142kowicie zniesione lub gruntownie zmienione? Dominik Beuscher zdecydowanie opowiada si\u0119 za reform\u0105. \"Je\u015bli \u015bwiadectwa pracy maj\u0105 nadal odgrywa\u0107 rol\u0119 w \u017cyciu zawodowym, konieczne jest ich uproszczenie\" zaznacza. Zamiast ukrytych sformu\u0142owa\u0144, kt\u00f3rych nikt do ko\u0144ca nie rozumie, wola\u0142by \"jasne i ustandaryzowane kryteria oceny\".\n\nAlternatyw\u0105 mog\u0142aby by\u0107 kr\u00f3tka, ale szczera opinia pracodawcy. \"Podobnie jak listy referencyjne, kt\u00f3re s\u0105 standardem w innych krajach. Oszcz\u0119dzi\u0142oby to wszystkim stronom du\u017co czasu, pracy interpretacyjnej i nieporozumie\u0144\" podsumowuje ekspert ds. rekrutacji.\n\nAnna Luttgen ma podobne zdanie. Uwa\u017ca, \u017ce \"neutralna referencja by\u0142aby bardziej sensowna i powinna by\u0107 wydawana ka\u017cdemu pracownikowi przy opuszczaniu firmy\". Bezpo\u015brednia rozmowa z osob\u0105 referencyjn\u0105 dostarcza ostatecznie ja\u015bniejszych i bardziej warto\u015bciowych informacji ni\u017c interpretacja tekstu \u015bwiadectwa pracy, kt\u00f3re musi by\u0107 sformu\u0142owane w \u017cyczliwy spos\u00f3b. \"Obecny formalizm \u015bwiadectw pracy nie oferuje realnej warto\u015bci ani dla kandydat\u00f3w, ani dla rekruter\u00f3w\" podsumowuje."
+            "date": "Ko\u0142obrzeg Nasze Miasto2 godz.",
+            "source": "Ko\u0142obrzeg Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pralka Frania, kasety i saturator. Rozwi\u0105\u017c sentymentalny quiz o kultowych przedmiotach z PRL",
+            "link": "https://superbiz.se.pl/wiadomosci/kultowe-przedmioty-prl-pralka-frania-kasety-saturator-rozwiaz-sentymentalny-quiz-o-kultowych-przedmiotach-aa-tArb-ndRo-MU7Q.html",
+            "description": "Pami\u0119tasz czasy, gdy ka\u017cdy przedmiot w domu mia\u0142 swoj\u0105 histori\u0119? Przedmioty z epoki PRL-u to wi\u0119cej ni\u017c zwyk\u0142e narz\u0119dzia - to ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.C9ca%2bXsqxlMTxhh4jTobDw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "SuperBiznes1 godz.",
+            "source": "SuperBiznes",
+            "article_content": "QUIZ PRL. Do czego s\u0142u\u017cy\u0142y te kultowe przedmioty? 14/14 tylko dla znawc\u00f3w\n\nW naszym nostalgicznym cyklu QUIZY SE tym razem QUIZ z czas\u00f3w PRL, kt\u00f3ry sprawdzi, czy pami\u0119tasz przedmioty, bez kt\u00f3rych nie wyobra\u017cano sobie \u017cycia w polskich domach.\n\nOto ikony Polskiej Rzeczypospolitej Ludowej - rzeczy, kt\u00f3re ka\u017cdy zna\u0142, a kt\u00f3rych posiadanie pisa\u0142o spo\u0142eczn\u0105 histori\u0119.\n\nFrania - rewolucja w domowym praniu\n\nKiedy ka\u017cda kropla wody by\u0142a na wag\u0119 z\u0142ota, a pranie to ci\u0119\u017cka fizyczna praca, pojawi\u0142a si\u0119 ona - pralka wirnikowa Frania. Jej sekret? Obracaj\u0105cy si\u0119 wirnik, kt\u00f3ry miesza\u0142 wod\u0119 z praniem w metalowym b\u0119bnie. To brzmi prosto, ale dla kobiet oznacza\u0142o wyzwolenie z godzin sp\u0119dzonych nad bali\u0105.\n\nPierwsza Frania przyjecha\u0142a do Polski w 1951 roku z importu. Ju\u017c dwa lata p\u00f3\u017aniej kieleckie Zak\u0142ady Wyrob\u00f3w Metalowych pod szyldem SHL - tym samym, gdzie powstawa\u0142y kultowe motocykle - rozpocz\u0119\u0142y produkcj\u0119 polskiej wersji. Frania zmieni\u0142a polskie domy na zawsze.\n\nSyfon - gdy woda mia\u0142a smak przygody\n\nCharakterystyczny syk, gruba szklana butelka, metalowa g\u0142owica - to syfon, symbol gazowanej wody z czas\u00f3w PRL-u. Cho\u0107 wynaleziony w XIX-wiecznej Francji, w socjalistycznej Polsce sta\u0142 si\u0119 niemal kultowy.\n\nSystem by\u0142 genialnie prosty: kupowa\u0142e\u015b wod\u0119 w grubej szklanej butelce z odpowiednim dozownikiem, po wypiciu oddawa\u0142e\u015b pust\u0105 i bra\u0142e\u015b pe\u0142n\u0105. Lata 70. przynios\u0142y prze\u0142om - metalowe syfony wielokrotnego u\u017cytku z nabojami CO2. Nagle ka\u017cdy m\u00f3g\u0142 by\u0107 w\u0142asnym producentem wody gazowanej. Ten chrapliwy d\u017awi\u0119k na ko\u0144cu? To by\u0142a muzyka tamtych czas\u00f3w.\n\nTelewizor Rubin - kolorowy sen w szarej rzeczywisto\u015bci\n\nMasywny, ci\u0119\u017cki jak ska\u0142a, cz\u0119sto kapry\u015bny - radziecki Rubin zmieni\u0142 polskie salony na zawsze. Od 1972 roku warszawskie Zak\u0142ady Telewizyjne produkowa\u0142y te telewizory, kt\u00f3re mia\u0142y przynie\u015b\u0107 kolorow\u0105 rewolucj\u0119 do polskich dom\u00f3w.\n\nJego gabaryty robi\u0142y wra\u017cenie, jako\u015b\u0107 obrazu... mniej. Ale dla wielu rodzin by\u0142 bram\u0105 do nowego \u015bwiata - \u015bwiata, gdzie bajki mia\u0142y kolory, a filmy nabra\u0142y nowego wymiaru. Rubin to nie by\u0142 tylko telewizor. To by\u0142o okno na \u015bwiat, o kt\u00f3rym marzono.\n\nSprawd\u017a swoj\u0105 wiedz\u0119 w naszej zabawie: QUIZ PRL. Do czego s\u0142u\u017cy\u0142y te kultowe przedmioty? 14/14 tylko dla znawc\u00f3w\n\nQUIZ PRL. Kultowe przedmioty PRL-u Pytanie 1 z 14 S\u0142u\u017cy\u0142a do dogrzewania pomieszcze\u0144 jesieni\u0105 i zim\u0105: farelka Frania kuchenka mikrofalowa Nast\u0119pne pytanie\n\nRetroSzoferka - zabytkowe auta z czas\u00f3w PRL - m\u00f3wi Jakub Pietrzak"
         }
     },
     {
@@ -298,7 +314,7 @@
             "description": "Pami\u0119tasz czasy, gdy ka\u017cdy przedmiot w domu mia\u0142 swoj\u0105 histori\u0119? Przedmioty z epoki PRL-u to wi\u0119cej ni\u017c zwyk\u0142e narz\u0119dzia - to kawa\u0142ki \u017cycia, kt\u00f3re definiowa\u0142y ...",
             "image_url": "https://www.bing.pl/th?id=ODF.8Bntd6dZiHqOGQxt0XfRuA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "SuperBiznes3 godz.",
+            "date": "SuperBiznes6 godz.",
             "source": "SuperBiznes",
             "article_content": "QUIZ PRL. Do czego s\u0142u\u017cy\u0142y te kultowe przedmioty? 14/14 tylko dla znawc\u00f3w\n\nW naszym nostalgicznym cyklu QUIZY SE tym razem QUIZ z czas\u00f3w PRL, kt\u00f3ry sprawdzi, czy pami\u0119tasz przedmioty, bez kt\u00f3rych nie wyobra\u017cano sobie \u017cycia w polskich domach.\n\nOto ikony Polskiej Rzeczypospolitej Ludowej - rzeczy, kt\u00f3re ka\u017cdy zna\u0142, a kt\u00f3rych posiadanie pisa\u0142o spo\u0142eczn\u0105 histori\u0119.\n\nFrania - rewolucja w domowym praniu\n\nKiedy ka\u017cda kropla wody by\u0142a na wag\u0119 z\u0142ota, a pranie to ci\u0119\u017cka fizyczna praca, pojawi\u0142a si\u0119 ona - pralka wirnikowa Frania. Jej sekret? Obracaj\u0105cy si\u0119 wirnik, kt\u00f3ry miesza\u0142 wod\u0119 z praniem w metalowym b\u0119bnie. To brzmi prosto, ale dla kobiet oznacza\u0142o wyzwolenie z godzin sp\u0119dzonych nad bali\u0105.\n\nPierwsza Frania przyjecha\u0142a do Polski w 1951 roku z importu. Ju\u017c dwa lata p\u00f3\u017aniej kieleckie Zak\u0142ady Wyrob\u00f3w Metalowych pod szyldem SHL - tym samym, gdzie powstawa\u0142y kultowe motocykle - rozpocz\u0119\u0142y produkcj\u0119 polskiej wersji. Frania zmieni\u0142a polskie domy na zawsze.\n\nSyfon - gdy woda mia\u0142a smak przygody\n\nCharakterystyczny syk, gruba szklana butelka, metalowa g\u0142owica - to syfon, symbol gazowanej wody z czas\u00f3w PRL-u. Cho\u0107 wynaleziony w XIX-wiecznej Francji, w socjalistycznej Polsce sta\u0142 si\u0119 niemal kultowy.\n\nSystem by\u0142 genialnie prosty: kupowa\u0142e\u015b wod\u0119 w grubej szklanej butelce z odpowiednim dozownikiem, po wypiciu oddawa\u0142e\u015b pust\u0105 i bra\u0142e\u015b pe\u0142n\u0105. Lata 70. przynios\u0142y prze\u0142om - metalowe syfony wielokrotnego u\u017cytku z nabojami CO2. Nagle ka\u017cdy m\u00f3g\u0142 by\u0107 w\u0142asnym producentem wody gazowanej. Ten chrapliwy d\u017awi\u0119k na ko\u0144cu? To by\u0142a muzyka tamtych czas\u00f3w.\n\nTelewizor Rubin - kolorowy sen w szarej rzeczywisto\u015bci\n\nMasywny, ci\u0119\u017cki jak ska\u0142a, cz\u0119sto kapry\u015bny - radziecki Rubin zmieni\u0142 polskie salony na zawsze. Od 1972 roku warszawskie Zak\u0142ady Telewizyjne produkowa\u0142y te telewizory, kt\u00f3re mia\u0142y przynie\u015b\u0107 kolorow\u0105 rewolucj\u0119 do polskich dom\u00f3w.\n\nJego gabaryty robi\u0142y wra\u017cenie, jako\u015b\u0107 obrazu... mniej. Ale dla wielu rodzin by\u0142 bram\u0105 do nowego \u015bwiata - \u015bwiata, gdzie bajki mia\u0142y kolory, a filmy nabra\u0142y nowego wymiaru. Rubin to nie by\u0142 tylko telewizor. To by\u0142o okno na \u015bwiat, o kt\u00f3rym marzono.\n\nSprawd\u017a swoj\u0105 wiedz\u0119 w naszej zabawie: QUIZ PRL. Do czego s\u0142u\u017cy\u0142y te kultowe przedmioty? 14/14 tylko dla znawc\u00f3w\n\nQUIZ PRL. Kultowe przedmioty PRL-u Pytanie 1 z 14 S\u0142u\u017cy\u0142a do dogrzewania pomieszcze\u0144 jesieni\u0105 i zim\u0105: farelka Frania kuchenka mikrofalowa Nast\u0119pne pytanie\n\nRetroSzoferka - zabytkowe auta z czas\u00f3w PRL - m\u00f3wi Jakub Pietrzak"
         }
@@ -314,7 +330,7 @@
             "description": "Aldi wprowadza do sprzeda\u017cy nowy produkt sezonowy w niskiej cenie \u2013 to mo\u017ce by\u0107 must-have dla os\u00f3b planuj\u0105cych zagraniczne podr\u00f3\u017ce latem 2025.",
             "image_url": "https://www.bing.pl/th?id=ODF._7p6dJqpV7ewG-MAipcEng&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "bham.pl7 godz.",
+            "date": "bham.pl11 godz.",
             "source": "bham.pl",
             "article_content": "Aldi wprowadza gad\u017cet podr\u00f3\u017cny za jedyne 5,99 GBP. Idealny wyb\u00f3r na wakacje w Europie\n\nAldi wprowadza do sprzeda\u017cy nowy produkt sezonowy w niskiej cenie \u2013 to mo\u017ce by\u0107 must-have dla os\u00f3b planuj\u0105cych zagraniczne podr\u00f3\u017ce latem 2025.\n\nLetnie miesi\u0105ce to czas, w kt\u00f3rym wielu mieszka\u0144c\u00f3w Wielkiej Brytanii planuje zagraniczne wyjazdy \u2013 od s\u0142onecznej Hiszpanii po zabytkowe miasta Europy \u015arodkowej.\n\nW\u015br\u00f3d najwa\u017cniejszych rzeczy do spakowania coraz cz\u0119\u015bciej pojawiaj\u0105 si\u0119 gad\u017cety elektroniczne, kt\u00f3re u\u0142atwiaj\u0105 podr\u00f3\u017cowanie i pozwalaj\u0105 na utrzymanie \u0142\u0105czno\u015bci ze \u015bwiatem.\n\nJednym z kluczowych element\u00f3w ka\u017cdej podr\u00f3\u017cy staje si\u0119 adapter podr\u00f3\u017cny \u2013 i w\u0142a\u015bnie ten produkt trafi\u0142 do sprzeda\u017cy w Aldi w wyj\u0105tkowo atrakcyjnej cenie.\n\n\n\nAdapter podr\u00f3\u017cny z dodatkowymi funkcjami za mniej ni\u017c 6 funt\u00f3w\n\nSie\u0107 Aldi wprowadzi\u0142a do oferty adapter podr\u00f3\u017cny do kraj\u00f3w Unii Europejskiej w cenie zaledwie 5,99 funta.\n\nOferta jest ograniczona do wyczerpania zapas\u00f3w i dost\u0119pna na stronie internetowej dyskontu.\n\nProdukt ten mo\u017ce okaza\u0107 si\u0119 nieoceniony dla os\u00f3b, kt\u00f3re planuj\u0105 podr\u00f3\u017c po krajach UE, gdzie gniazdka elektryczne r\u00f3\u017cni\u0105 si\u0119 od brytyjskich.\n\nAdapter wyr\u00f3\u017cnia si\u0119 nie tylko klasyczn\u0105 funkcj\u0105 konwersji wtyczek. Wyposa\u017cony zosta\u0142 r\u00f3wnie\u017c w dwa porty USB: typu A oraz typu C, co znacznie zwi\u0119ksza jego funkcjonalno\u015b\u0107.\n\n\n\nPozwala to na jednoczesne \u0142adowanie kilku urz\u0105dze\u0144 \u2013 od telefon\u00f3w, przez s\u0142uchawki bezprzewodowe, po powerbanki. Maksymalne obci\u0105\u017cenie adaptera wynosi 10 Amper\u00f3w.\n\nNa stronie Aldi zamieszczono opis produktu: \u201eZadbaj o gotowo\u015b\u0107 swoich urz\u0105dze\u0144 elektronicznych podczas podr\u00f3\u017cy dzi\u0119ki adapterowi EU Travel Adapter\u201d.\n\n\n\nNie tylko adapter \u2013 inne sezonowe okazje r\u00f3wnie\u017c kusz\u0105 cen\u0105\n\nW ofercie Aldi pojawi\u0142o si\u0119 wi\u0119cej letnich produkt\u00f3w, kt\u00f3re maj\u0105 na celu popraw\u0119 komfortu podr\u00f3\u017cy i codziennego funkcjonowania podczas upa\u0142\u00f3w.\n\nJednym z takich artyku\u0142\u00f3w s\u0105 poduszki ch\u0142odz\u0105ce Slumberdown Cooling Pillows, sprzedawane w cenie 7,99 funta za sztuk\u0119. S\u0105 one znacznie ta\u0144sze ni\u017c podobne produkty oferowane przez renomowane sieci handlowe \u2013 r\u00f3\u017cnica w cenie wzgl\u0119dem wersji z John Lewis si\u0119ga ponad 45 funt\u00f3w.\n\n\n\nKiedy najlepiej robi\u0107 zakupy w Aldi, by z\u0142apa\u0107 takie okazje?\n\nAldi posiada sprawdzony harmonogram wprowadzania do sklep\u00f3w tzw. Specialbuys \u2013 unikalnych ofert, kt\u00f3re pojawiaj\u0105 si\u0119 wy\u0142\u0105cznie w czwartki i niedziele.Produkty te s\u0105 dost\u0119pne w ograniczonych ilo\u015bciach, dlatego najlepszym momentem na zakupy jest tu\u017c po otwarciu sklepu. Wi\u0119kszo\u015b\u0107 plac\u00f3wek Aldi otwiera si\u0119 ju\u017c od 7:00 lub 8:00 rano.\n\nW przypadku \u017cywno\u015bci i innych przecenionych produkt\u00f3w spo\u017cywczych, wed\u0142ug zapewnie\u0144 sieci wszystkie przeceny do 50% ceny bazowej pojawiaj\u0105 si\u0119 r\u00f3wnie\u017c tu\u017c przed otwarciem sklep\u00f3w w dniu up\u0142ywu daty wa\u017cno\u015bci. To doskona\u0142y moment na polowanie na okazje w dziale spo\u017cywczym.\n\n\n\nCo jeszcze warto wiedzie\u0107 o zakupach w Aldi latem 2025?\n\nZobacz te\u017c:\n\nDyskont prowadzi obecnie sprzeda\u017c wielu sezonowych artyku\u0142\u00f3w, a oferta zmienia si\u0119 dynamicznie z tygodnia na tydzie\u0144.Warto regularnie sprawdza\u0107 ofert\u0119 na stronie internetowej Aldi oraz odwiedza\u0107 sklepy stacjonarne w dniach, kiedy wprowadzane s\u0105 nowe dostawy Specialbuys.\n\nObecna dost\u0119pno\u015b\u0107 adapter\u00f3w podr\u00f3\u017cnych za 5,99 funta nie jest gwarantowana \u2013 produkt mo\u017ce szybko si\u0119 wyprzeda\u0107 ze wzgl\u0119du na jego przydatno\u015b\u0107 i korzystn\u0105 cen\u0119.\n\nDzi\u0119kujemy za przeczytanie artyku\u0142u do ko\u0144ca! Zach\u0119camy do odwiedzenia naszego Facebooka YouTube . B\u0105d\u017a na bie\u017c\u0105co! Obserwuj nas w Wiadomo\u015bciach Google."
         }
@@ -325,14 +341,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Byli liderami swojej epoki w higienie osobistej. Myli si\u0119... co tydzie\u0144",
-            "link": "https://weekend.gazeta.pl/weekend/7,181991,32025075,byli-liderami-swojej-epoki-w-higienie-osobistej-myli-sie-trzy.html",
-            "description": "Nocne zwiedzanie najwi\u0119kszego zamku na \u015bwiecie, spacer bulwarami, punkt widokowy, a do tego warsztaty r\u0119kodzie\u0142a i rejs - oto ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.P0tyxf01o1lTPdDyddh-IS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Trasy nordic walking do 66 km od Zdu\u0144skiej Woli. Pomys\u0142y na odrobin\u0119 ruchu na powietrzu w weekend 21 - 22 czerwca",
+            "link": "https://zdunskawola.naszemiasto.pl/trasy-nordic-walking-do-66-km-od-zdunskiej-woli-pomysly-na-odrobine-ruchu-na-powietrzu-w-weekend-21-22-czerwca/ar/c7p1-22319047",
+            "description": "Z Obornik \u015al\u0105skich przez Lasy Wilczy\u0144skie, Ozorowice, Strzesz\u00f3w do Ligoty Pi\u0119knej. Tras\u0119 zako\u0144czy\u0142em w rejonie budowy trasy ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.Pyp%2bYJGcpSxDtJ1rutLwHg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Weekend w Gazeta.pl5 godz.",
-            "source": "Weekend w Gazeta.pl",
-            "article_content": "W cyklu \"Miasto na weekend\" prezentujemy miejsca warte odwiedzenia z nieoczywistej, subiektywnej perspektywy naszych autorek i autor\u00f3w oraz os\u00f3b ze \u015bwiata sztuki, kultury i sportu. Teksty b\u0119d\u0105 si\u0119 ukazywa\u0142y w ka\u017cdy pi\u0105tek. O Malborku pisze dziennikarka Katarzyna Sieka\u0144ska.\n\nBlade wspomnienie wycieczki szkolnej i skojarzenie z Krzy\u017cakami \u2013 tyle mia\u0142am w g\u0142owie, wybieraj\u0105c si\u0119 do Malborka. Ponowne spotkanie z tym miastem po latach to mi\u0142e zaskoczenie: czas p\u0142ynie tu wolniej, atmosfera jest lekka i bezpretensjonalna, a wszystkie najwa\u017cniejsze miejsca znajduj\u0105 si\u0119 od siebie w spacerowej odleg\u0142o\u015bci.\n\nREKLAMA\n\nJak si\u0119 przekona\u0142am, do Malborka warto wpa\u015b\u0107 na weekend nie tylko dla samego zamku, cho\u0107 powiedzmy sobie szczerze: to w\u0142a\u015bnie on jest najwa\u017cniejsz\u0105 atrakcj\u0105 tej wizyty. I s\u0142usznie. O tym, \u017ce ma imponuj\u0105ce rozmiary, wszyscy wiemy \u2013 jest najwi\u0119ksz\u0105 na \u015bwiecie tego typu budowl\u0105 pod wzgl\u0119dem powierzchni ca\u0142kowitej. Jako jeden z zaledwie kilku w Europie sk\u0142ada si\u0119 z trzech cz\u0119\u015bci: zamku niskiego, \u015bredniego i wysokiego.\n\nCo te wszystkie has\u0142a oznaczaj\u0105 w praktyce? \u017be budowla ma a\u017c 700 m d\u0142ugo\u015bci i 300 szeroko\u015bci, okalaj\u0105 j\u0105 cztery linie mur\u00f3w, trzy fosy wodne i jedna fosa sucha, wej\u015bcia do zamku broni 15 bram, a na jego terenie znajduj\u0105 si\u0119 cztery mosty sta\u0142e i tyle samo zwodzonych. Na kamiennych fundamentach wznosz\u0105 si\u0119 ceglane mury, kt\u00f3rych grubo\u015b\u0107 si\u0119ga nawet do trzech metr\u00f3w. Robi wra\u017cenie? A zrobi jeszcze wi\u0119ksze, kiedy powiem, \u017ce budowa zamku trwa\u0142a... 130 lat.\n\nWsp\u00f3\u0142czesny kszta\u0142t zamku zawdzi\u0119czamy rekonstrukcji naukowej prowadzonej pod wodz\u0105 Conrada Steinbrechta od lat 80. XIX wieku do lat 20. XX wieku. Na zdj\u0119ciu budowla na litografii Napoleona Ordy, 1880 rok (Fot. Napoleon Orda, biblioteka cyfrowa 'Polona'/Domena publiczna via Wikipedia Commons) , Widok zamku wysokiego od wschodu w formie neogotyckiej, 1901 rok (Fot. Biblioteka Kongresu Stan\u00f3w Zjednoczonych/Domena publiczna via Wikipedia Commons)\n\nZamek krzy\u017cacki noc\u0105\n\nRobi si\u0119 ju\u017c ciemno, zmierzchaj\u0105ce niebo podkre\u015bla gotyck\u0105 bry\u0142\u0119 zamku, a w tle s\u0142ycha\u0107 subtelne g\u0142osy m\u0119skich ch\u00f3r\u00f3w \u2013 nienachalna muzyka dobiegaj\u0105ca z g\u0142o\u015bnik\u00f3w mi\u0119dzy murami i scenograficzne o\u015bwietlenie w kru\u017cgankach pomagaj\u0105 wczu\u0107 si\u0119 w atmosfer\u0119 nocnego zwiedzania.\n\nWchodz\u0105c na teren zamku niskiego, oczami wyobra\u017ani widz\u0119, jak w mennicy, m\u0142ynie i stajni rzemie\u015blnicy pracuj\u0105 w pocie czo\u0142a (dziesi\u0119\u0107 godzin na dob\u0119, sze\u015b\u0107 dni w tygodniu). Przewodnik w stroju krzy\u017cackim wskazuje miejsca, gdzie produkowano bro\u0144 i gdzie sk\u0142adowano \u017cywno\u015b\u0107. Kawa\u0142ek dalej \u2013 szpital i wi\u0119zienie. Od XV wieku nikt tu nie pracowa\u0142, ale przez klimat tego miejsca mo\u017cna odnie\u015b\u0107 wra\u017cenie, \u017ce majstrzy odeszli od stanowisk ledwie chwil\u0119 temu.\n\nIdziemy dalej. Jestem w pierwszej w historii grupie zwiedzaj\u0105cych, kt\u00f3rym zostanie pokazany piec grzewczy w podziemiach. Kolejne pomieszczenia: kuchnia, jadalnia i piekarnia. Z t\u0105 ostatni\u0105 wi\u0105\u017ce si\u0119 legenda. Piekarze mieli przez dziur\u0119 w suficie kra\u015b\u0107 z\u0142oto ze skarbca znajduj\u0105cego si\u0119 pi\u0119tro wy\u017cej, a dziur\u0119 zalepia\u0107 ciastem, z kt\u00f3rego wypiekano chleb. Zostali przy\u0142apani na gor\u0105cym uczynku. Historia ta ma dwa zako\u0144czenia. Wed\u0142ug pierwszego za kar\u0119 winowajc\u00f3w powieszono, wed\u0142ug drugiego \u2013 zostali zamienieni w ptaki i b\u0119d\u0105 nimi dop\u00f3ty, dop\u00f3ki na ziemi nie pozostanie ani jeden z\u0142odziej.\n\nTroch\u0119 historii\n\nWsp\u00f3\u0142czesny kszta\u0142t zamku krzy\u017cackiego zawdzi\u0119czamy rekonstrukcji naukowej prowadzonej pod wodz\u0105 Conrada Steinbrechta od lat 80. XIX wieku do lat 20. XX wieku. Wcze\u015bniej mia\u0142a miejsce pr\u00f3ba odbudowy zamku w okresie romantyzmu, jednak nie odbywa\u0142o si\u0119 to wedle wytycznych naukowych, lecz zgodnie z fantazj\u0105 epoki.\n\nDo Malborka warto wpa\u015b\u0107 na weekend nie tylko dla samego zamku, cho\u0107 powiedzmy sobie szczerze: to w\u0142a\u015bnie on jest najwa\u017cniejsz\u0105 atrakcj\u0105 tej wizyty (Fot. Marketa1982/Shutterstock) , Budowla z lotu ptaka. Na zdj\u0119ciu zamek wysoki i \u015bredni (Fot. U\u017cytkownik o nicku Kapitel/Wikipedia Commons) , Zamek niski w Malborku (Fot. U\u017cytkownik o nicku Kapitel/Wikipedia Commons)\n\nDzie\u0142o Steinbrechta kontynuowa\u0142 niemiecki architekt Bernhard Schmidt. W okresie mi\u0119dzywojnia zamek \u2013 nale\u017c\u0105cy najpierw do Republiki Weimarskiej, a p\u00f3\u017aniej do III Rzeszy \u2013 pe\u0142ni\u0142 funkcj\u0119 reprezentacyjn\u0105 (symbol niemieckiego nacjonalizmu) i militarn\u0105, by\u0142 te\u017c miejscem zlot\u00f3w Hitlerjugend. W\u00f3wczas wiele jego pomieszcze\u0144 wykorzystywano do cel\u00f3w wojskowych, niezgodnie z ich pierwotnymi funkcjami, m.in. na terenie zamku urz\u0105dzono uje\u017cd\u017calni\u0119 koni.\n\nW ostatnim roku wojny zamek zosta\u0142 zaatakowany przez wojsko rosyjskie. Broni\u0142o go dwa tysi\u0105ce \u017co\u0142nierzy niemieckich. W wyniku walk zniszczono oko\u0142o 60 proc. budowli, sp\u0142on\u0119\u0142y dachy zamku wysokiego i \u015bredniego, zawali\u0142y si\u0119 sklepienia.\n\nJedn\u0105 z najdotkliwszych strat w czasie walk w 1945 roku by\u0142o zniszczenie najwi\u0119kszej na \u015bwiecie p\u0142askorze\u017aby Matki Boskiej (8 m wysoko\u015bci, 16 t masy). Trwa\u0142a ona na szczycie zamku od oko\u0142o 1340 roku ob\u0142o\u017cona mozaik\u0105 sk\u0142adaj\u0105c\u0105 si\u0119 z 300 tys. element\u00f3w. Podchodz\u0105cy pod bramy wr\u00f3g mia\u0142, patrz\u0105c na ni\u0105, zdawa\u0107 sobie spraw\u0119, \u017ce nie walczy jedynie przeciwko wojsku, ale przede wszystkim przeciwko samej Madonnie.\n\nPo wojnie podj\u0119to pr\u00f3b\u0119 rozbi\u00f3rki zamku, by pozyskane w ten spos\u00f3b materia\u0142y budowlane wykorzysta\u0107 do odbudowy zniszczonych miast. Z pomys\u0142u ostatecznie zrezygnowano i rozpocz\u0119to stopniow\u0105 jego restauracj\u0119, kt\u00f3ra trwa\u0142a od lat 50. do ko\u0144ca 80., kiedy to zamek odzyska\u0142 funkcj\u0119 turystyczno-muzealn\u0105. W 1949 roku wpisano go do rejestru zabytk\u00f3w, w 1961 powo\u0142ano Muzeum Zamkowe, a w 1997 roku zamek w Malborku zosta\u0142 wpisany na list\u0119 \u015bwiatowego dziedzictwa UNESCO. W 2016 roku z inicjatywy Fundacji Mater Dei odrestaurowano p\u0142askorze\u017ab\u0119 Matki Boskiej.\n\n\u017bycie na zamku? K\u0105piel raz w tygodniu i zapas jedzenia\n\nPo zamku oprowadzaj\u0105 przewodnicy zrzeszeni w Stowarzyszeniu Ko\u0142o Przewodnik\u00f3w Malborskich i\u2026 prawdziwi pasjonaci. Mnie trafi\u0142a si\u0119 przyjemno\u015b\u0107 zwiedzania zamku z panem Bogdanem Krauzem, entuzjast\u0105 techniki, kt\u00f3ry trzy lata temu podj\u0105\u0142 si\u0119 naprawy wszystkich mechanizm\u00f3w technicznych w zamku. Do tej pory uda\u0142o mu si\u0119 uruchomi\u0107 m.in. studni\u0119, most zwodzony, wyci\u0105gark\u0119 zbo\u017ca i kraty obronne. Prace nadal trwaj\u0105.\n\nZ perspektywy rzeki Nogat, np. podczas jednego z organizowanych rejs\u00f3w, mo\u017cna naprawd\u0119 doceni\u0107 ogrom fortyfikacji (Fot. Patryk Kosmider/Shutterstock) , W ostatnim roku II wojny \u015bwiatowej zamek zosta\u0142 zaatakowany przez wojsko rosyjskie. W wyniku walk zniszczono oko\u0142o 60 proc. budowli (Fot. U\u017cytkownik o nicku Hajotthu/Wikipedia Commons)\n\nGdy trafimy na takiego przewodnika, wyjdziemy z zamku z g\u0142ow\u0105 pe\u0142n\u0105 ciekawostek. Dowiemy si\u0119 m.in., \u017ce na sta\u0142e w zamku mieszka\u0142o oko\u0142o 10 braci duchownych, 30 braci rycerzy oraz s\u0142u\u017cba. Jednak zamek musia\u0142 mie\u0107 zapasy jedzenia w ilo\u015bci pozwalaj\u0105cej wy\u017cywi\u0107 nawet 400 os\u00f3b przez dwa lata przy pe\u0142nym obl\u0119\u017ceniu zamku.\n\nOka\u017ce si\u0119 tak\u017ce, \u017ce Krzy\u017cacy byli liderami swojej epoki w higienie osobistej. Kr\u00f3l Ludwik XIV we wspomnieniach zapisa\u0142, \u017ce w \u017cyciu k\u0105pa\u0142 si\u0119 trzy razy. W zamku krzy\u017cackim k\u0105piel odbywa\u0142a si\u0119 co tydzie\u0144! Znajdowa\u0142 si\u0119 tam te\u017c nowatorski system toalet \u2013 umieszczanych nad fosami, by nieczysto\u015bci od razu wyp\u0142ukiwa\u0142a woda. O tym, gdzie znajduje si\u0119 najbli\u017csza toaleta, informowa\u0142y p\u0142askorze\u017aby z wizerunkiem diab\u0142a rozmieszczone na \u015bcianach korytarzy: diabe\u0142 wskazywa\u0142, w kt\u00f3r\u0105 stron\u0119 nale\u017cy i\u015b\u0107, a szeroko\u015b\u0107 jego skrzyde\u0142 \u2013 jak daleka droga przed nami (im szersze, tym dalej).\n\nCo ciekawe, zakon krzy\u017cacki funkcjonuje do dzisiaj i zajmuje si\u0119 dzia\u0142alno\u015bci\u0105 charytatywn\u0105, w tym pomoc\u0105 uchod\u017acom.\n\nNie tylko Krzy\u017cacy\n\nZak\u0142adaj\u0105c, \u017ce zamek zwiedzimy wieczorem (wycieczka w ciemno\u015bciach jest do\u015bwiadczeniem zdecydowanie wartym prze\u017cycia), wcze\u015bniej, za dnia lub nazajutrz, warto wybra\u0107 si\u0119 na niespieszny spacer po mie\u015bcie, zahaczaj\u0105c o jego najwa\u017cniejsze punkty.\n\nNajlepiej rozpocz\u0105\u0107 go na placu z fontann\u0105 i pomnikiem kr\u00f3la Kazimierza Jagiello\u0144czyka (tego samego, kt\u00f3ry w 1457 roku wykupi\u0142 zamek z r\u0105k Krzy\u017cak\u00f3w za 665 kg z\u0142ota) \u2013 to nowe centrum miasta, po tym jak w 1945 roku malborska star\u00f3wka zosta\u0142a zniszczona niemal w ca\u0142o\u015bci. Pod\u0105\u017caj\u0105c w kierunku rzeki, miniemy napis MALBORK i dojdziemy do miniatury zamku krzy\u017cackiego. To kopia bry\u0142y z 1938 roku, wykonana w skali 1:30. Rzut oka na ni\u0105 pozwala obj\u0105\u0107 wyobra\u017ani\u0105 rozmiar budowli i doceni\u0107 architektoniczne detale.\n\nJedn\u0105 z najdotkliwszych strat podczas wojny by\u0142o zniszczenie najwi\u0119kszej na \u015bwiecie p\u0142askorze\u017aby Matki Boskiej. Odrestaurowano j\u0105 w 2016 roku (Fot. Marketa1982/Shutterstock) , Muzeum Zamkowe w Malborku. Mo\u017cna tu zobaczy\u0107 m.in. kuchni\u0119, jadalni\u0119 i piekarni\u0119 (Fot. Jacek Nieckarz/Shutterstock)\n\nId\u0105c dalej, natkniemy si\u0119 na fundamenty budynku Szko\u0142y \u0141aci\u0144skiej, kt\u00f3re pami\u0119taj\u0105 XIV wiek i s\u0105 jednymi z nielicznych oryginalnych pozosta\u0142o\u015bci po przedwojennej star\u00f3wce. Budynek szko\u0142y, zburzony w 1945 roku, pr\u00f3bowano odbudowa\u0107 w latach 70. XX wieku, ale prace uda\u0142o si\u0119 uko\u0144czy\u0107 dopiero w 2010 roku. Obecnie nale\u017cy on do Malborskiego Centrum Kultury i Edukacji, a w \u015brodku znajduj\u0105 si\u0119 sale warsztatowe (przed przyjazdem warto sprawdzi\u0107 aktualny harmonogram zaj\u0119\u0107 z r\u0119kodzie\u0142a dla dzieci i doros\u0142ych!), planetarium i obserwatorium, centrum eksperymentalne SOWA (we wsp\u00f3\u0142pracy z warszawskim Centrum Nauki Kopernik), mediateka i sale konferencyjne.\n\nCzy to ju\u017c wszystko? Ale\u017c sk\u0105d! Gratk\u0105 dla wielbicieli architektury neogotyckiej b\u0119dzie wie\u017ca ci\u015bnie\u0144. Na pocz\u0105tku XX wieku regulowa\u0142a poziom nawodnienia okolicy, dzisiaj zosta\u0142a zaadaptowana do cel\u00f3w kulturalnych i spo\u0142ecznych. Spotyka si\u0119 tam malborska m\u0142odzie\u017c, sp\u0119dzaj\u0105c czas na aktywno\u015bciach artystycznych lub towarzysko (\u015bwietlica jest miejscem spotka\u0144 dru\u017cyny harcerskiej). Przestrze\u0144 wie\u017cy jest te\u017c wykorzystywana jako galeria, w kt\u00f3rej odbywaj\u0105 si\u0119 wystawy i wernisa\u017ce.\n\nMi\u0142o\u015bnikom pi\u0119knych widok\u00f3w polecam wdrapa\u0107 si\u0119 na najwy\u017csze pi\u0119tro wie\u017cy \u2013 to najlepsze miejsce do podziwiania Malborka i rzeki Nogat.\n\nRejs po rzece Nogat i dinozaury\n\nA skoro ju\u017c do rzeki Nogat dotarli\u015bmy \u2013 rejs z widokiem na mury zamku w po\u0142\u0105czeniu z opowie\u015bci\u0105 o legendach i tajemnicach miasta to atrakcyjny dodatek do spaceru po Malborku. Z tej perspektywy mo\u017cna naprawd\u0119 doceni\u0107 ogrom fortyfikacji!\n\nPo rejsie warto rozprostowa\u0107 nogi podczas spaceru bulwarami nad Nogatem. Lub wpa\u015b\u0107 na wystaw\u0119 w przestrzeniach zamku albo w Muzeum Miasta Malborka \u2013 obecnie (wiosna-jesie\u0144 2025) warte odwiedzenia s\u0105 dwie wystawy: \"Ho\u0142d 500. Historia \u2013 Kultura \u2013 Pami\u0119\u0107\" (w zamku) oraz \"Marienburg \u2013 Malbork 1945. Koniec i pocz\u0105tek\" (w muzeum).\n\nMalbork to nie tylko zamek. Wra\u017cenie robi tak\u017ce stare miasto, kt\u00f3remu dodaje uroku wyj\u0105tkowe po\u0142o\u017cenie (Fot. U\u017cytkownik o nicku Konoplytska/Shutterstock)\n\nSpaceruj\u0105c po mie\u015bcie, zachowajcie czujno\u015b\u0107 i wypatrujcie mariank\u00f3w \u2013 niewielkich rze\u017abionych figurek rozsianych w charakterystycznych miejscach miasta. Ka\u017cdy marianek ma inny atrybut, a mo\u017cna je spotka\u0107 m.in. przy napisie MALBORK w centrum, przy punkcie bookcrossingu na bulwarach czy na skwerze Miast Partnerskich.\n\nOko\u0142o 20 minut spacerem od zamku, tu\u017c przy Stadionie Miejskim znajduje si\u0119 jeszcze jedna atrakcja, szczeg\u00f3lnie warta uwagi, gdy podr\u00f3\u017cujemy z dzie\u0107mi. Dinopark to kompleks rozrywkowo-edukacyjny po\u0142o\u017cony w lesie. Czekaj\u0105 tu na nas: \u015bcie\u017cka edukacyjna, park linowy, kino 5D, muzeum skamienia\u0142o\u015bci i mini weso\u0142e miasteczko. A wszystko to tematycznie zwi\u0105zane z dinozaurami i ich histori\u0105.\n\nZobacz wideo Marcin z K\u0119trzyna - wsp\u00f3\u0142czesny mistrz \u015bwiata rycerzy\n\nNabra\u0107 dystansu\u2026 w urz\u0119dzie\n\nJe\u015bli od tego zwiedzania i spacerowania zg\u0142odnieli\u015bcie, mo\u017cecie wst\u0105pi\u0107 do jednej z malborskich restauracji. Polecam m.in. znan\u0105 z pysznej zupy rybnej i du\u017cych porcji Stanic\u0119 U Flisaka (vis-\u00e0-vis zamku, nad sam\u0105 rzek\u0105) lub idealn\u0105 dla rodzin z dzie\u0107mi knajpk\u0119-pizzeri\u0119 Awokado tu\u017c przy placu Kazimierza Jagiello\u0144czyka. Po obiedzie wpadnijcie na deser do jednej z licznych lokalnych cukierni. Warto!\n\nA je\u015bli macie ochot\u0119 na nieco zabawy, te\u017c znajdziecie tu co\u015b dla siebie. Chocia\u017c m\u00f3wi si\u0119, \u017ce m\u0142odzie\u017c z Malborka najch\u0119tniej rozrywek szuka w pobliskim Tr\u00f3jmie\u015bcie, to i na miejscu jest gdzie \"tupn\u0105\u0107 nog\u0105\". Najbardziej znanym klubem jest Magistrat na ty\u0142ach\u2026 urz\u0119du miasta. Warto tam wpa\u015b\u0107 cho\u0107by po to, by przekona\u0107 si\u0119, \u017ce Malbork to miasto nie tylko do r\u00f3\u017ca\u0144ca, ale i do ta\u0144ca.\n\nAutorka podr\u00f3\u017cowa\u0142a na zaproszenie Urz\u0119du Miasta Malborka.\n\nKatarzyna Sieka\u0144ska. Finalistka I edycji Polska Stories. Pisze o relacjach i codzienno\u015bci."
+            "date": "Zdu\u0144ska Wola Nasze Miasto2 godz.",
+            "source": "Zdu\u0144ska Wola Nasze Miasto",
+            "article_content": "Content not available"
         }
     },
     {
@@ -341,29 +357,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "\u015awi\u0119ta wojna o Gietrzwa\u0142d. Broni\u0105 Matki Boskiej przed \"niemieckim szatanem\", Lidl si\u0119 poddaje",
-            "link": "https://olsztyn.wyborcza.pl/olsztyn/7,48726,31933285,swieta-wojna-o-gietrzwald-bronia-matki-boskiej-przed-niemieckim.html",
-            "description": "Protestuj\u0105cy przeciwko budowie centrum logistycznego Lidla w Gietrzwa\u0142dzie w ca\u0142ej Polsce prowadzili - jak si\u0119 okaza\u0142o ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.u2jQdJHFeOCCXEMxc9qMoi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Rowerem do 13 km od Wa\u0142brzycha. Pomys\u0142y na jednodniow\u0105 wypraw\u0119. Gdzie w weekend 21 - 22 czerwca?",
+            "link": "https://walbrzych.naszemiasto.pl/rowerem-do-13-km-od-walbrzycha-pomysly-na-jednodniowa-wyprawe-gdzie-w-weekend-21-22-czerwca/ar/c7p1-21831457",
+            "description": "Zanim wyruszysz na wypraw\u0119, sprawd\u017a, jaka b\u0119dzie pogoda. W sobot\u0119 21 czerwca w Wa\u0142brzychu ma by\u0107 20\u00b0C. Nie powinno pada\u0107. W ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.dEUvcQ0NpXB8kuCP%2beTqZg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Olsztyn.Wyborcza.pl8 godz.",
-            "source": "Olsztyn.Wyborcza.pl",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Przegl\u0105d prasy 18.06.2025. Przygotowali\u015bmy zestaw najwa\u017cniejszych informacji z wczoraj. B\u0105d\u017a na bie\u017c\u0105co z wydarzeniami",
-            "link": "https://gazetalubuska.pl/przeglad-prasy-18-06-2025-przygotowalismy-zestaw-najwazniejszych-informacji-z-wczoraj-badz-na-biezaco-z-wydarzeniami/ar/c1p1-19960919",
-            "description": "We wtorek 17 czerwca rozgrywane by\u0142y spotkania \u00f3smej kolejki U24 Ekstraligi. Per\u0142owa Przysta\u0144 Stal Gorz\u00f3w by\u0142a blisko sprawienia niespodzianki i pokonania na wyje\u017adzie lidera rozgrywek. Przegra\u0142a ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.6oXJf1KayPglPY9d412pqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Lubuska8 godz.",
-            "source": "Gazeta Lubuska",
+            "date": "Wa\u0142brzych Nasze Miasto3 godz.",
+            "source": "Wa\u0142brzych Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -378,7 +378,7 @@
             "description": "W 2025 roku znaczki pocztowe z lat PRL ciesz\u0105 si\u0119 popularno\u015bci\u0105 i s\u0105 poszukiwane przez kolekcjoner\u00f3w. Je\u015bli masz takie w domu, przejrzyj je dok\u0142adnie. Mo\u017ce si\u0119 okaza\u0107, \u017ce to prawdziwe kolekcjonerskie ...",
             "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Pomorska19 godz.",
+            "date": "Gazeta Pomorska23 godz.",
             "source": "Gazeta Pomorska",
             "article_content": "Content not available"
         }
@@ -394,9 +394,25 @@
             "description": "Najdro\u017csze monety PRL by\u0142y jednak sprzedawane na aukcjach. Przede wszystkim na rzadkich, dedykowanych spotkaniach ...",
             "image_url": "https://www.bing.pl/th?id=OVF.o1fH6BwD%2f3aZb3dLxiPVxQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Toru\u0144 Nasze Miasto18 godz.",
+            "date": "Toru\u0144 Nasze Miasto22 godz.",
             "source": "Toru\u0144 Nasze Miasto",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Z\u0142oty Poci\u0105g wreszcie odnaleziony? Ujawniono tre\u015b\u0107 tajemniczego zg\u0142oszenia",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/z%C5%82oty-poci%C4%85g-wreszcie-odnaleziony-ujawniono-tre%C5%9B%C4%87-tajemniczego-zg%C5%82oszenia/ar-AA1GXARY?ocid=BingNewsVerp",
+            "description": "Legendarny Z\u0142oty Poci\u0105g poszukiwany jest od lat. Teraz w sieci opublikowano tajemniczy list, w kt\u00f3rym dok\u0142adnie ujawniono ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.apy6pKJJdPB-UTWG5PgxMC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "odkrycie+zabytkowe+przedmiot",
+            "date": "Wiadomo\u015bci Radio ZET on MSN2 godz.",
+            "source": "Wiadomo\u015bci Radio ZET on MSN",
+            "article_content": ""
         }
     }
 ]
