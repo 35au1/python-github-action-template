@@ -5,12 +5,44 @@
             "Content-Type": "application/json"
         },
         "body": {
+            "title": "Przedmioty z histori\u0105, pieni\u0105dze z nieistniej\u0105cych kraj\u00f3w, meble i... poro\u017ce. Trwa Gie\u0142da Staroci w Wa\u0142brzychu - co w sprzeda\u017cy? Zdj\u0119cia",
+            "link": "https://walbrzych.naszemiasto.pl/przedmioty-z-historia-pieniadze-z-nieistniejacych-krajow-meble-i-poroze-trwa-gielda-staroci-w-walbrzychu-co-w-sprzedazy-zdjecia/ar/c1p2-27708421",
+            "description": "Jak w ka\u017cd\u0105 sobot\u0119, w godzinach porannych na Rynku w Wa\u0142brzychu trwa Gie\u0142da Staroci, Produkt\u00f3w Regionalnych i R\u0119kodzie\u0142a ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.shRWwm7xH2u00ZOmXqzgOg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Wa\u0142brzych Nasze Miasto2 godz.",
+            "source": "Wa\u0142brzych Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pchli targ w Jaros\u0142awiu \u2013 sobotnie skarby i klimatyczne \u0142owy",
+            "link": "https://nowiny24.pl/pchli-targ-w-jaroslawiu-sobotnie-skarby-i-klimatyczne-lowy/ar/c1p2-27708509",
+            "description": "Na stoiskach mo\u017cna by\u0142o znale\u017a\u0107 prawdziwe pere\u0142ki \u2013 od starych winyli, przez porcelan\u0119, a\u017c po oryginalne bibeloty i ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.YW1_WUYc7i0ZiuQmw4EEHy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Nowiny 242 godz.",
+            "source": "Nowiny 24",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
             "title": "Kolekcjonerskie znaczki pocztowe z czas\u00f3w PRL. Tyle w 2025 roku mo\u017cna zarobi\u0107 na filatelistycznych skarbach [21.06.25 r.]",
             "link": "https://pomorska.pl/kolekcjonerskie-znaczki-pocztowe-z-czasow-prl-tyle-w-2025-roku-mozna-zarobic-na-filatelistycznych-skarbach-21-06-25-r/ar/c1p2-27654257",
             "description": "W 2025 roku znaczki pocztowe z lat PRL ciesz\u0105 si\u0119 popularno\u015bci\u0105 i s\u0105 poszukiwane przez kolekcjoner\u00f3w. Je\u015bli masz takie w domu ...",
             "image_url": "https://www.bing.pl/th?id=OVF.Y4hjhkYVRmlDecnIzu1rzg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Gazeta Pomorska1 godz.",
+            "date": "Gazeta Pomorska5 godz.",
             "source": "Gazeta Pomorska",
             "article_content": "Content not available"
         }
@@ -26,7 +58,7 @@
             "description": "Wazony z czas\u00f3w PRL w 2025 roku zyskuj\u0105 na warto\u015bci. S\u0105 poszukiwane zar\u00f3wno przez kolekcjoner\u00f3w, jak i mi\u0142o\u015bnik\u00f3w starego ...",
             "image_url": "https://www.bing.pl/th?id=OVF.O%2b2NIFk9JmQUTfFxlCMbLw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Gazeta Pomorska1 godz.",
+            "date": "Gazeta Pomorska5 godz.",
             "source": "Gazeta Pomorska",
             "article_content": "Content not available"
         }
@@ -37,46 +69,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Scena jak z filmu Top Gun. Izraelski F-16 podczas polowania na drony",
+            "title": "Scena jak z filmu \"Top Gun\". Izraelski F-16 podczas polowania na drony",
             "link": "https://tech.wp.pl/scena-jak-z-filmu-top-gun-izraelski-f-16-podczas-polowania-na-drony,7169711717903232a",
             "description": "Iran kontratakuje nie tylko pociskami balistycznymi, ale tak\u017ce dronami. Te s\u0105 zestrzeliwane przez Izrael nie tylko nad ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.CXYGKVyoor8bfb9UDL3ogy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "WP Tech21 godz.",
+            "date": "WP Tech5 godz.",
             "source": "WP Tech",
-            "article_content": "Drony Shahed s\u0105 prostymi obiektami do zniszczenia, ale im wi\u0119cej Izrael zdo\u0142a ich wyeliminowa\u0107 z dala od zaprogramowanych cel\u00f3w, tym lepiej. Wygl\u0105da, \u017ce w tym celu wykorzystywane jest po\u0142\u0105czenie \u015bmig\u0142owc\u00f3w AH-64 Apache oraz samolot\u00f3w F-16. Te korzystaj\u0105 z dzia\u0142ek lub pocisk\u00f3w kr\u00f3tkiego zasi\u0119gu jak wida\u0107 na poni\u017cszym widowiskowym nagraniu idealnie nadaj\u0105cym si\u0119 do scenariusza filmu Top Gun.\n\nRozwi\u0144\n\nWarto jednak zaznaczy\u0107, \u017ce takie zestrzelenie jest bardzo gro\u017ane dla pilota, poniewa\u017c widoczny na nagraniu F-16 m\u00f3g\u0142 wlecie\u0107 w chmur\u0119 od\u0142amk\u00f3w powsta\u0142ych po zniszczeniu drona. Te mog\u0105 katastrofalnie uszkodzi\u0107 m.in. silnik samolotu, powoduj\u0105c jego utrat\u0119. Takie sytuacje ju\u017c mia\u0142y miejsce nad Ukrain\u0105.\n\nDalsza cz\u0119\u015b\u0107 artyku\u0142u pod materia\u0142em wideo\n\nTydzie\u0144 z Huawei Watch Fit 4 oraz Watch Fit 4 Pro\n\nIzraelskie F-16 vs drony \u2014 oto czego mog\u0105 u\u017cywa\u0107\n\nIzraelski F-16 widoczny na nagraniu wykorzysta\u0142 jaki\u015b wariant pocisku kr\u00f3tkiego zasi\u0119gu AIM-9 Sidewinder lub Python. Bior\u0105c pod uwag\u0119 prostot\u0119 cel\u00f3w, najpewniej s\u0105 to stare modele, kt\u00f3re w innym przypadku musia\u0142yby by\u0107 za par\u0119 lat zez\u0142omowane za niema\u0142e pieni\u0105dze.\n\nZ tego wzgl\u0119du z\u0142omowane bojem podczas polowania na proste drony jest idealnym rozwi\u0105zaniem pozwalaj\u0105cym na oszcz\u0119dzenie zapas\u00f3w nowoczesnego uzbrojenia na trudniejsze cele. By\u0142by to drugi przypadek strzelania starociami po wykorzystaniu np. pocisk\u00f3w AIM-7 Sparrow przez izraelskie samoloty F-15.\n\nStare pociski AIM-9 b\u0119d\u0105ce w izraelskich magazynach to najpewniej modele L i M produkowane kolejno latach 70. i 80. XX wieku, a Pythony to najpewniej wersje 3 i 4 z lat 80. i 90. XX wieku, poniewa\u017c wykorzystanie najnowszych Python 5 nie by\u0142oby optymalne kosztowo je\u015bli \"pod r\u0119k\u0105\" s\u0105 starocie.\n\nPociski AIM-9L/M i Python 3/4 s\u0105 konstrukcjami o zasi\u0119gu poni\u017cej 30 kilometr\u00f3w z g\u0142owic\u0105 naprowadzaj\u0105c\u0105 si\u0119 na \u017ar\u00f3d\u0142o ciep\u0142a. Ta jest jednak znacznie starszym rozwi\u0105zaniem widz\u0105cym tylko punkt ciep\u0142a, a nie termiczny kszta\u0142t celu jak ma to miejsce w nowszych AIM-9X czy Python 5."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Um\u00f3wi\u0142 si\u0119 z 13 latk\u0105",
-            "link": "https://dziennikbaltycki.pl/tag/umowil-sie-z-13-latka",
-            "description": "Przez internet umawia\u0142 si\u0119 na spotkanie z dwiema 13-latkami na gda\u0144skim Suchaninie. Na szcz\u0119\u015bcie zamiast dziewczynek na miejsce pojechali rodzice, kt\u00f3rzy uj\u0119li... Jak podaje gda\u0144ska policja, niedawno ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.5s2nDicEFNR6T9e5rt0xCA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "starocie",
-            "date": "Dziennik Ba\u0142tycki1 godz.",
-            "source": "Dziennik Ba\u0142tycki",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "\"Fronty Wojny\". Oto mechanizm kradzie\u017cy tysi\u0119cy mundur\u00f3w z wojska. \"Zak\u0142amana struktura\"",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/fronty-wojny-oto-mechanizm-kradzie%C5%BCy-tysi%C4%99cy-mundur%C3%B3w-z-wojska-zak%C5%82amana-struktura/ar-AA1H6xQx?ocid=BingNewsVerp",
-            "description": "W najnowszym odcinku podcastu jego autorzy odnie\u015bli si\u0119 do ujawnionej przez nich informacji o tym, \u017ce z wojskowych magazyn\u00f3w znikn\u0119\u0142y ogromne ilo\u015bci mundur\u00f3w. Autorzy skontaktowali si\u0119 z wojskowymi lo ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.qVZJCEn4Awd3TcXwomvMuQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "starocie",
-            "date": "Wiadomo\u015bci Onet on MSN17 godz.",
-            "source": "Wiadomo\u015bci Onet on MSN",
-            "article_content": ""
+            "article_content": "Drony Shahed s\u0105 prostymi obiektami do zniszczenia, ale im wi\u0119cej Izrael zdo\u0142a ich wyeliminowa\u0107 z dala od zaprogramowanych cel\u00f3w, tym lepiej. Wygl\u0105da na to, \u017ce w tym celu wykorzystywane jest po\u0142\u0105czenie \u015bmig\u0142owc\u00f3w AH-64 Apache oraz samolot\u00f3w F-16. Te korzystaj\u0105 z dzia\u0142ek lub pocisk\u00f3w kr\u00f3tkiego zasi\u0119gu, jak wida\u0107 na poni\u017cszym widowiskowym nagraniu idealnie nadaj\u0105cym si\u0119 do scenariusza filmu \"Top Gun\".\n\nRozwi\u0144\n\nWarto jednak zaznaczy\u0107, \u017ce takie zestrzelenie jest bardzo gro\u017ane dla pilota, poniewa\u017c widoczny na nagraniu F-16 m\u00f3g\u0142 wlecie\u0107 w chmur\u0119 od\u0142amk\u00f3w powsta\u0142ych po zniszczeniu drona. Mog\u0105 one katastrofalnie uszkodzi\u0107 m.in. silnik samolotu, powoduj\u0105c jego utrat\u0119. Takie sytuacje ju\u017c mia\u0142y miejsce nad Ukrain\u0105.\n\nDalsza cz\u0119\u015b\u0107 artyku\u0142u pod materia\u0142em wideo\n\nTydzie\u0144 z Huawei Watch Fit 4 oraz Watch Fit 4 Pro\n\nIzraelskie F-16 vs drony \u2014 oto czego mog\u0105 u\u017cywa\u0107\n\nIzraelski F-16 widoczny na nagraniu wykorzysta\u0142 jaki\u015b wariant pocisku kr\u00f3tkiego zasi\u0119gu AIM-9 Sidewinder lub Python. Bior\u0105c pod uwag\u0119 prostot\u0119 cel\u00f3w, najpewniej s\u0105 to stare modele, kt\u00f3re w innym przypadku musia\u0142yby by\u0107 za par\u0119 lat zez\u0142omowane za niema\u0142e pieni\u0105dze.\n\nZ tego wzgl\u0119du z\u0142omowane bojem podczas polowania na proste drony jest idealnym rozwi\u0105zaniem pozwalaj\u0105cym na oszcz\u0119dzenie zapas\u00f3w nowoczesnego uzbrojenia na trudniejsze cele. By\u0142by to drugi przypadek strzelania starociami po wykorzystaniu np. pocisk\u00f3w AIM-7 Sparrow przez izraelskie samoloty F-15.\n\nStare pociski AIM-9 b\u0119d\u0105ce w izraelskich magazynach to najpewniej modele L i M produkowane kolejno latach 70. i 80. XX wieku, a Pythony to najpewniej wersje 3 i 4 z lat 80. i 90. XX wieku, poniewa\u017c wykorzystanie najnowszych Python 5 nie by\u0142oby optymalne kosztowo, je\u015bli \"pod r\u0119k\u0105\" s\u0105 starocie.\n\nPociski AIM-9L/M i Python 3/4 s\u0105 konstrukcjami o zasi\u0119gu poni\u017cej 30 kilometr\u00f3w z g\u0142owic\u0105 naprowadzaj\u0105c\u0105 si\u0119 na \u017ar\u00f3d\u0142o ciep\u0142a. Ta jest jednak znacznie starszym rozwi\u0105zaniem widz\u0105cym tylko punkt ciep\u0142a, a nie termiczny kszta\u0142t celu jak ma to miejsce w nowszych AIM-9X czy Python 5."
         }
     },
     {
@@ -90,7 +90,7 @@
             "description": "Wycena monet z PRL-u zale\u017cy od rzadko\u015bci wyst\u0119powania, jako\u015bci wybicia oraz gradingu, czyli stanu jej zachowania. W Polsce znajdziemy wiele okaz\u00f3w wartych kilkaset z\u0142otych, ale s\u0105 te\u017c takie, na ...",
             "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "G\u0142os Szczeci\u0144ski3 godz.",
+            "date": "G\u0142os Szczeci\u0144ski7 godz.",
             "source": "G\u0142os Szczeci\u0144ski",
             "article_content": "Content not available"
         }
@@ -106,7 +106,7 @@
             "description": "Monety z PRL-u wracaj\u0105 do gry i to z hukiem \u2013 niekt\u00f3re osi\u0105gaj\u0105 takie ceny, \u017ce nawet towarzysz Gomu\u0142ka by si\u0119 zdziwi\u0142! W 2025 ...",
             "image_url": "https://www.bing.pl/th?id=OVF.YvgEh4n4YM3C1WizJzYWPQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Toru\u0144 Nasze Miasto1 godz.",
+            "date": "Toru\u0144 Nasze Miasto5 godz.",
             "source": "Toru\u0144 Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -122,7 +122,7 @@
             "description": "Je\u015bli my\u015blisz, \u017ce wszystkie monety z PRL s\u0105 warte tylko kilka groszy, to jeste\u015b w b\u0142\u0119dzie. Istniej\u0105 konkretne egzemplarze, kt\u00f3re na aukcjach internetowych potrafi\u0105 osi\u0105ga\u0107 osza\u0142amiaj\u0105ce ceny \u2013 nawet ...",
             "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "G\u0142os Pomorza2 godz.",
+            "date": "G\u0142os Pomorza6 godz.",
             "source": "G\u0142os Pomorza",
             "article_content": "Content not available"
         }
@@ -138,7 +138,7 @@
             "description": "W 2025 roku zabawki z lat PRL ciesz\u0105 si\u0119 popularno\u015bci\u0105 i s\u0105 poszukiwane przez kolekcjoner\u00f3w. Je\u015bli masz jeszcze takie w domu, ...",
             "image_url": "https://www.bing.pl/th?id=OVF.t1%2fFaGwIKLj0MuYlcLiutw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Gazeta Pomorska1 godz.",
+            "date": "Gazeta Pomorska5 godz.",
             "source": "Gazeta Pomorska",
             "article_content": "Content not available"
         }
@@ -149,13 +149,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Te meble z PRL s\u0105 warte maj\u0105tek! Masz je w domu? Szukaj\u0105 ich kolekcjonerzy! Zobacz, ile kosztuj\u0105 meble z PRL 21.06.2025",
-            "link": "https://gk24.pl/te-meble-z-prl-sa-warte-majatek-masz-je-w-domu-szukaja-ich-kolekcjonerzy-zobacz-ile-kosztuja-meble-z-prl-21-06-2025/ar/c9p2-27426143",
-            "description": "Z pewno\u015bci\u0105 ka\u017cdy z nas kojarzy meblo\u015bcianki, kredensy, sto\u0142y, fotele z okresu PRL. Mia\u0142y one sw\u00f3j unikatowy charakter, r\u0119czne wyko\u0144czenia i ozdoby. W swoich domach mieli je nasi dziadkowie, b\u0105d\u017a ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Przedmioty z histori\u0105, pieni\u0105dze z nieistniej\u0105cych kraj\u00f3w, meble i... poro\u017ce. Trwa Gie\u0142da Staroci w Wa\u0142brzychu - co w sprzeda\u017cy? Zdj\u0119cia",
+            "link": "https://dzierzoniow.naszemiasto.pl/przedmioty-z-historia-pieniadze-z-nieistniejacych-krajow-meble-i-poroze-trwa-gielda-staroci-w-walbrzychu-co-w-sprzedazy-zdjecia/ar/c1p2-27708421",
+            "description": "Jak w ka\u017cd\u0105 sobot\u0119, w godzinach porannych na Rynku w Wa\u0142brzychu trwa Gie\u0142da Staroci, Produkt\u00f3w Regionalnych i R\u0119kodzie\u0142a ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.qsx9Pzs74HoduxQiUmsgSw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski3 godz.",
-            "source": "G\u0142os Koszali\u0144ski",
+            "date": "Dzier\u017coni\u00f3w Nasze Miasto2 godz.",
+            "source": "Dzier\u017coni\u00f3w Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -170,7 +170,7 @@
             "description": "Kryszta\u0142y z czas\u00f3w PRL, kiedy\u015b powszechnie spotykane w polskich domach, zyska\u0142y nowe \u017cycie jako cenione przedmioty ...",
             "image_url": "https://www.bing.pl/th?id=OVF.dwV8G7fUgp89TRS%2fAmivew&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska1 godz.",
+            "date": "Gazeta Pomorska5 godz.",
             "source": "Gazeta Pomorska",
             "article_content": "Content not available"
         }
@@ -186,7 +186,7 @@
             "description": "Wazony z czas\u00f3w PRL w 2025 roku zyskuj\u0105 na warto\u015bci. S\u0105 poszukiwane zar\u00f3wno przez kolekcjoner\u00f3w, jak i mi\u0142o\u015bnik\u00f3w starego ...",
             "image_url": "https://www.bing.pl/th?id=OVF.O%2b2NIFk9JmQUTfFxlCMbLw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska1 godz.",
+            "date": "Gazeta Pomorska5 godz.",
             "source": "Gazeta Pomorska",
             "article_content": "Content not available"
         }
@@ -197,29 +197,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Unikaty, okazje i klimat \u2013 Pchli Targ zn\u00f3w w Ostro\u0142\u0119ce!",
-            "link": "https://www.eostroleka.pl/unikaty-okazje-i-klimat-pchli-targ-znow-w-ostrolece,art119656.html",
-            "description": "Mi\u0142o\u015bnicy staroci, r\u0119kodzie\u0142a, kolekcjonerskich skarb\u00f3w i wyj\u0105tkowych okazji mog\u0105 ju\u017c zaciera\u0107 r\u0119ce \u2013 w sobot\u0119, 21 czerwca, ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.bXHFOAIllYkFMhiabH2pCC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Pchli targ w Jaros\u0142awiu \u2013 sobotnie skarby i klimatyczne \u0142owy",
+            "link": "https://nowiny24.pl/pchli-targ-w-jaroslawiu-sobotnie-skarby-i-klimatyczne-lowy/ar/c1p2-27708509",
+            "description": "Na stoiskach mo\u017cna by\u0142o znale\u017a\u0107 prawdziwe pere\u0142ki \u2013 od starych winyli, przez porcelan\u0119, a\u017c po oryginalne bibeloty i ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.YW1_WUYc7i0ZiuQmw4EEHy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "eOstroleka21 godz.",
-            "source": "eOstroleka",
-            "article_content": "REKLAMA\n\nREKLAMA\n\nMi\u0142o\u015bnicy staroci, r\u0119kodzie\u0142a, kolekcjonerskich skarb\u00f3w i wyj\u0105tkowych okazji mog\u0105 ju\u017c zaciera\u0107 r\u0119ce \u2013 w sobot\u0119, 21 czerwca, na placu targowym w Ostro\u0142\u0119ce odb\u0119dzie si\u0119 kolejna edycja Pchlego Targu, organizowanego przez Ostro\u0142\u0119cki Klub Kolekcjonera \u201eUnika\u201d dzia\u0142aj\u0105cy przy stowarzyszeniu Przyjazna Gmina.\n\nTo ju\u017c trzecie spotkanie z cyklu zaplanowanego na ca\u0142y sezon \u2013 od kwietnia do pa\u017adziernika, w ka\u017cd\u0105 trzeci\u0105 sobot\u0119 miesi\u0105ca. Pchli Targ to wydarzenie otwarte dla wszystkich: zar\u00f3wno dla tych, kt\u00f3rzy chc\u0105 sprzeda\u0107 niepotrzebne ju\u017c przedmioty, jak i dla tych, kt\u00f3rzy uwielbiaj\u0105 buszowa\u0107 w\u015br\u00f3d unikat\u00f3w i \u0142owi\u0107 okazje.\n\nJakie s\u0105 zasady udzia\u0142u?\n\nUdzia\u0142 w wydarzeniu jest bezp\u0142atny \u2013 zar\u00f3wno dla sprzedaj\u0105cych, jak i kupuj\u0105cych. Wystawcy nie musz\u0105 si\u0119 wcze\u015bniej rejestrowa\u0107 \u2013 wystarczy przyj\u015b\u0107 rano, zaj\u0105\u0107 miejsce i roz\u0142o\u017cy\u0107 swoje stoisko. Mo\u017cna przynie\u015b\u0107 niemal wszystko: ksi\u0105\u017cki, zabawki, ceramik\u0119, ubrania, bibeloty, p\u0142yty, sprz\u0119t domowy, dekoracje, narz\u0119dzia czy kolekcje. Wa\u017cne, by by\u0142y to rzeczy u\u017cywane lub r\u0119kodzie\u0142o \u2013 nowe produkty komercyjne nie s\u0105 mile widziane.\n\nDla kupuj\u0105cych to nie lada gratka \u2013 Pchli Targ to miejsce, gdzie mo\u017cna znale\u017a\u0107 prawdziwe pere\u0142ki w symbolicznych cenach. Ka\u017cde stoisko kryje swoj\u0105 histori\u0119 i co\u015b, czego nie znajdzie si\u0119 w \u017cadnym sklepie.\n\nDlaczego warto przyj\u015b\u0107?\n\nPchli Targ to nie tylko zakupy \u2013 to tak\u017ce okazja do spotkania z lud\u017ami, rozm\u00f3w, wymiany do\u015bwiadcze\u0144 i wsp\u00f3lnego sp\u0119dzenia czasu w niepowtarzalnej atmosferze. To lokalna inicjatywa, kt\u00f3ra z ka\u017cd\u0105 edycj\u0105 zyskuje coraz wi\u0119ksze grono sympatyk\u00f3w, a jej klimat doceniaj\u0105 zar\u00f3wno mieszka\u0144cy, jak i odwiedzaj\u0105cy miasto.\n\nNie przegapcie tej okazji \u2013 widzimy si\u0119 21 czerwca od rana na placu targowym w Ostro\u0142\u0119ce! Przyjd\u017a, kup, sprzedaj, wymie\u0144, porozmawiaj \u2013 i poczuj ducha prawdziwego targowiska."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Lotnisko w szymanowie",
-            "link": "https://wroclaw.naszemiasto.pl/tag/lotnisko-w-szymanowie",
-            "description": "zamieni\u0142o si\u0119 w prawdziwe centrum rodzinnej zabawy i podniebnych emocji! Setki mieszka\u0144c\u00f3w skorzysta\u0142y z okazji, by z bliska zobaczy\u0107... W weekend mi\u0142o\u015bnicy powietrznych akrobacji mogli wybra\u0107 si\u0119 na ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.QOhooLrbIKEbFaE6w1Fs8Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "targ+staroci",
-            "date": "Wroc\u0142aw Nasze Miasto22 godz.",
-            "source": "Wroc\u0142aw Nasze Miasto",
+            "date": "Nowiny 242 godz.",
+            "source": "Nowiny 24",
             "article_content": "Content not available"
         }
     },
@@ -229,14 +213,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Relikty PRL-u w polskich domach. Kolekcjonerzy p\u0142ac\u0105 fortun\u0119 za unikalne przedmioty",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/relikty-prl-u-w-polskich-domach-kolekcjonerzy-p%C5%82ac%C4%85-fortun%C4%99-za-unikalne-przedmioty/ar-AA1H5sWQ?ocid=BingNewsVerp",
-            "description": "W domu wielu Polak\u00f3w kryj\u0105 si\u0119 dzi\u015b niepozorne relikty z czas\u00f3w PRL-u \u2014 od kryszta\u0142\u00f3w i porcelany, przez zabytkowe meble i ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.5EPe0E40w9bifqebLduS0C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "Kultura Onet on MSN22 godz.",
-            "source": "Kultura Onet on MSN",
-            "article_content": ""
+            "title": "Skarby na Pchlim Targu w Ostro\u0142\u0119ce (zdj\u0119cia)",
+            "link": "https://www.moja-ostroleka.pl/art/1750494532/skarby-na-pchlim-targu-w-ostrolece-zdjecia",
+            "description": "Na miejskim targowisku przy Targowej i Zawadzkiego zn\u00f3w zago\u015bcili wystawy oraz kupuj\u0105cy - amatorzy antyk\u00f3w, staroci i ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.-AAAqJ4Au6k5OHjBCKJHzC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "Moja Ostro\u0142\u0119ka4 godz.",
+            "source": "Moja Ostro\u0142\u0119ka",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Skarby z drugiej r\u0119ki wracaj\u0105! W niedziel\u0119 pchli targ na Park&Ride w Stargardzie.",
+            "link": "https://twojeradio.fm/skarby-z-drugiej-reki-wracaja-w-niedziele-pchli-targ-na-parkride-w-stargardzie.html",
+            "description": "Mi\u0142o\u015bnicy okazji, unikalnych przedmiot\u00f3w i s\u0105siedzkiej atmosfery \u2013 rezerwujcie czas! W niedziel\u0119, 22 czerwca, w godzinach od ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.ZNTpOtivH5qt78CRbVrDoC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "Twoje Radio40 min",
+            "source": "Twoje Radio",
+            "article_content": "Mi\u0142o\u015bnicy okazji, unikalnych przedmiot\u00f3w i s\u0105siedzkiej atmosfery \u2013 rezerwujcie czas!\n\nW niedziel\u0119, 22 czerwca, w godzinach od 10:00 do 14:00 na parkingu Park & Ride przy ul. Barnima w Stargardzie odb\u0119dzie si\u0119 pchli targ.\n\nTo idealna okazja, by da\u0107 drugie \u017cycie ubraniom, ksi\u0105\u017ckom, zabawkom, bibelotom i innym rzeczom, kt\u00f3re mog\u0105 jeszcze komu\u015b pos\u0142u\u017cy\u0107. A wszystko w klimacie s\u0105siedzkiego spotkania i w duchu ekologii.\n\nPchli targ cieszy si\u0119 bardzo du\u017cym zainteresowaniem, o czym m\u00f3wi Anna Kraso\u0144, jedna z organizatorek wydarzenia:\n\nWst\u0119p wolny \u2013 zar\u00f3wno dla tych, kt\u00f3rzy chc\u0105 co\u015b sprzeda\u0107, jak i dla tych, kt\u00f3rzy lubi\u0105 buszowa\u0107 w\u015br\u00f3d staroci i szuka\u0107 prawdziwych pere\u0142ek.\n\nDo zobaczenia na Barnima!"
         }
     },
     {
@@ -250,7 +250,7 @@
             "description": "Monety z PRL-u wracaj\u0105 do gry i to z hukiem \u2013 niekt\u00f3re osi\u0105gaj\u0105 takie ceny, \u017ce nawet towarzysz Gomu\u0142ka by si\u0119 zdziwi\u0142! W 2025 ...",
             "image_url": "https://www.bing.pl/th?id=OVF.YvgEh4n4YM3C1WizJzYWPQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Toru\u0144 Nasze Miasto1 godz.",
+            "date": "Toru\u0144 Nasze Miasto5 godz.",
             "source": "Toru\u0144 Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -266,7 +266,23 @@
             "description": "W 2025 roku zabawki z lat PRL ciesz\u0105 si\u0119 popularno\u015bci\u0105 i s\u0105 poszukiwane przez kolekcjoner\u00f3w. Je\u015bli masz jeszcze takie w domu, ...",
             "image_url": "https://www.bing.pl/th?id=OVF.t1%2fFaGwIKLj0MuYlcLiutw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Gazeta Pomorska1 godz.",
+            "date": "Gazeta Pomorska5 godz.",
+            "source": "Gazeta Pomorska",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Stare zabawki z czas\u00f3w PRL - w 2025 roku to kolekcjonerskie pere\u0142ki na wag\u0119 z\u0142ota [21.06.25]",
+            "link": "https://pomorska.pl/stare-zabawki-z-czasow-prl-w-2025-roku-to-kolekcjonerskie-perelki-na-wage-zlota-21-06-25/ar/c1p2-27696031",
+            "description": "W 2025 roku zabawki z lat PRL ciesz\u0105 si\u0119 popularno\u015bci\u0105 i s\u0105 poszukiwane przez kolekcjoner\u00f3w. Je\u015bli masz jeszcze takie w domu, ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.WChBo0Vkj2NuXlW3q7t4Mw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "Gazeta Pomorska18 godz.",
             "source": "Gazeta Pomorska",
             "article_content": "Content not available"
         }
@@ -282,7 +298,7 @@
             "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 20.06. Sprawd\u017a, czy nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego. Czy czyta\u0142e\u015b artyku\u0142: \u201eDni Torunia 2025 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.csLl8ZFonfuC8KKWalWEGg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski4 godz.",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski8 godz.",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski",
             "article_content": "Content not available"
         }
@@ -298,7 +314,7 @@
             "description": "Astronomowie zobrazowali najwi\u0119ksz\u0105 znan\u0105 chmur\u0119 energetycznych cz\u0105stek otaczaj\u0105c\u0105 gromad\u0119 galaktyk. Ich odkrycie stawia nowe ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.C7vnVz1VzIi7QMC-gM6QPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Urania - Post\u0119py Astronomii9 godz.",
+            "date": "Urania - Post\u0119py Astronomii13 godz.",
             "source": "Urania - Post\u0119py Astronomii",
             "article_content": "Content not available"
         }
@@ -309,14 +325,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Relikty PRL-u w polskich domach. Kolekcjonerzy p\u0142ac\u0105 fortun\u0119 za unikalne przedmioty",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/relikty-prl-u-w-polskich-domach-kolekcjonerzy-p%C5%82ac%C4%85-fortun%C4%99-za-unikalne-przedmioty/ar-AA1H5sWQ?ocid=BingNewsVerp",
-            "description": "W domu wielu Polak\u00f3w kryj\u0105 si\u0119 dzi\u015b niepozorne relikty z czas\u00f3w PRL-u \u2014 od kryszta\u0142\u00f3w i porcelany, przez zabytkowe meble i ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.Qgzo_6g88wNDfMlm8Qv0zi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Ju\u017c w niedziel\u0119 kolejna ods\u0142ona Wolnego Jarmarku i pchlego targu na star\u00f3wce! Rynek Nowomiejski zaprasza",
+            "link": "https://nowosci.com.pl/juz-w-niedziele-kolejna-odslona-wolnego-jarmarku-i-pchlego-targu-na-starowce-rynek-nowomiejski-zaprasza/ar/c1p2-27700903",
+            "description": "Smacznie, zdrowo i bardzo ciekawie - tak b\u0119dzie ju\u017c w niedziel\u0119, 22 czerwca, na Rynku Nowomiejskim w Toruniu. Ponownie ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.YenPdt2NCijcN2KxwsXJFS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Kultura Onet on MSN22 godz.",
-            "source": "Kultura Onet on MSN",
-            "article_content": ""
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski3 godz.",
+            "source": "Nowo\u015bci Dziennik Toru\u0144ski",
+            "article_content": "Content not available"
         }
     },
     {
@@ -330,7 +346,7 @@
             "description": "Paulina, Emilka i Micha\u0142 Miko\u0142ajczakowie to rodzina z Poznania, dla kt\u00f3rej podr\u00f3\u017ce s\u0105 najwi\u0119ksz\u0105 \u017cyciow\u0105 pasj\u0105, a o swoich ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.a2dzGCaVKjO4WeriiK1FpC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "G\u0142os Wielkopolski1 godz.",
+            "date": "G\u0142os Wielkopolski5 godz.",
             "source": "G\u0142os Wielkopolski",
             "article_content": "Content not available"
         }
@@ -346,25 +362,9 @@
             "description": "Administracja piotrkowskiego muzeum przenios\u0142a si\u0119 tymczasowo do nowej siedziby. Pracownicy pracuj\u0105 teraz w budynku dawnej ...",
             "image_url": "https://www.bing.pl/th?id=OVFT._R68xjQ1EPEGrjzBuibHpy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "ePiotrkow.pl57 min",
+            "date": "ePiotrkow.pl5 godz.",
             "source": "ePiotrkow.pl",
             "article_content": "Administracja piotrkowskiego muzeum przenios\u0142a si\u0119 tymczasowo do nowej siedziby. Pracownicy pracuj\u0105 teraz w budynku dawnej przychodni przy ul. Dmowskiego. W tej lokalizacji muzeum ma znajdowa\u0107 si\u0119 do ko\u0144ca bie\u017c\u0105cego roku. Przeprowadzka jest spowodowana z\u0142ym stanem budynku przy Zamkowej. Przypomnijmy, \u017ce Muzeum w Piotrkowie Trybunalskim powsta\u0142o z inicjatywy lokalnego oddzia\u0142u Polskiego Towarzystwa Krajoznawczego, za\u0142o\u017conego 20 maja 1908 roku przez Micha\u0142a Rawit\u0119 - Witanowskiego.\n\nJak m\u00f3wi Dariusz Turek, dyrektor Muzeum w Piotrkowie Trybunalskim budynek jest niebezpieczny dla os\u00f3b, kt\u00f3re w nim przebywaj\u0105. Zmiany dotycz\u0105 tylko dzia\u0142u administracji - pracownik\u00f3w biurowych, merytorycznych.\n\n- Ca\u0142y czas prowadzimy dzia\u0142alno\u015b\u0107 bie\u017c\u0105c\u0105. Na miejscu zostaje obs\u0142uga techniczna, obs\u0142uga zamku, tak\u017ce tutaj nic si\u0119 nie zmienia, w tym zakresie wszystko pozostaje tak jak by\u0142o. Przeprowadzki zawsze stwarzaj\u0105 problem. Wi\u0119kszo\u015b\u0107 pracownik\u00f3w przenios\u0142a ju\u017c swoje rzeczy, jeste\u015bmy na walizkach, musimy si\u0119 jeszcze urz\u0105dzi\u0107, natomiast ze strony logistycznej i wype\u0142niania tych naszych podstawowych obowi\u0105zk\u00f3w, je\u017celi chodzi o dzia\u0142alno\u015b\u0107 merytoryczn\u0105, oprowadzanie wycieczek to b\u0119dzie problem poniewa\u017c pracownicy b\u0119d\u0105 musieli si\u0119 przemieszcza\u0107. W sytuacji kiedy b\u0119d\u0105 jakie\u015b wycieczki, jakie\u015b zaj\u0119cia edukacyjne - b\u0119d\u0105 musieli st\u0105d jecha\u0107 do zamku i tam te zaj\u0119cia poprowadzi\u0107, a tutaj mamy administracj\u0119, wi\u0119c jest to dla nas du\u017ce wyzwanie - podkre\u015bla dyrektor plac\u00f3wki.\n\nOddzia\u0142 administracyjny piotrkowskiego Muzeum mieszcz\u0105cego si\u0119 w Zamku Kr\u00f3lewskim dotychczas zajmowa\u0142 budynek obok, w bezpo\u015brednim s\u0105siedztwie wie\u017cy zamkowej. Ostatnie ekspertyzy przeprowadzone przez nadz\u00f3r budowlany pod okiem konserwatora zabytk\u00f3w wykaza\u0142y jednak, \u017ce budynek ten nie nadaje si\u0119 do u\u017cytkowania. Z tego powodu lokalizacja oddzia\u0142u administracyjnego piotrkowskiego muzeum zosta\u0142a przeniesiona do budynku dawnej przychodni przy ulicy Dmowskiego 47.\n\nMuzeum w Piotrkowie Trybunalskim powsta\u0142o z inicjatywy lokalnego oddzia\u0142u Polskiego Towarzystwa Krajoznawczego, za\u0142o\u017conego 20 maja 1908 roku przez Micha\u0142a Rawit\u0119 - Witanowskiego. Wkr\u00f3tce powsta\u0142a sekcja muzealna, kierowana przez Onufrego Krajewskiego. Dzi\u0119ki licznym darom ju\u017c 14 stycznia 1910 roku otwarto pierwsz\u0105 wystaw\u0119 muzealn\u0105, kt\u00f3r\u0105 po\u015bwi\u0119ci\u0142 ks. Eugeniusz Lipi\u0144ski. Podczas I Wojny \u015awiatowej zbiory piotrkowskiego muzeum przeniesiono do refektarza klasztoru oo. Bernardyn\u00f3w. Tam 28 listopada 1915 roku zorganizowano now\u0105 wystaw\u0119. Po I Wojnie \u015awiatowej piotrkowscy krajoznawcy rozpocz\u0119li starania o umieszczenie muzeum w Zamku Jagiellon\u00f3w, co uda\u0142o si\u0119 zrealizowa\u0107 w 1922 roku po zako\u0144czeniu prac remontowych. Muzeum dzia\u0142a\u0142o tam nieprzerwanie a\u017c do II Wojny \u015awiatowej, podczas kt\u00f3rej cz\u0119\u015b\u0107 zbior\u00f3w zosta\u0142a ukryta przez mieszka\u0144c\u00f3w, co uchroni\u0142o je przed zniszczeniem. Po wojnie muzeum odtworzono, a w 1949 roku przesz\u0142o ono pod zarz\u0105d pa\u0144stwa i uzyska\u0142o status regionalnego. Obecnie Muzeum w Piotrkowie Trybunalskim posiada oko\u0142o 17 tysi\u0119cy eksponat\u00f3w z dziedzin archeologii, historii, etnografii i sztuki, a jego siedziba w zamku zosta\u0142a gruntownie odrestaurowana w latach 60. i ponownie otwarta w 1970 roku."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Malta Last Minute. Co zobaczymy na festiwalu w ten weekend",
-            "link": "https://poznan.wyborcza.pl/poznan/7,36001,32036938,malta-last-minute-co-zobaczymy-na-festiwalu-w-ten-weekend.html",
-            "description": "Przegapili\u015bcie bilety na spektakl z Tild\u0105 Swinton? To nic - bez bilet\u00f3w na Malta Festival obejrzycie niezwyk\u0142e spektakle, ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.J4wz4peIWUEYsCoW-PRtyS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Pozna\u0144.Wyborcza.pl1 godz.",
-            "source": "Pozna\u0144.Wyborcza.pl",
-            "article_content": ""
         }
     },
     {
@@ -378,8 +378,24 @@
             "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.o4EwlAsIz5rMM3h8kMS_wi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "G\u0142os Szczeci\u0144ski3 godz.",
+            "date": "G\u0142os Szczeci\u0144ski7 godz.",
             "source": "G\u0142os Szczeci\u0144ski",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pras\u00f3wka 21.06.2025 - wydarzenia dnia, podsumowanie z wczoraj - sprawd\u017a, czy nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego",
+            "link": "https://gazetawroclawska.pl/prasowka-21-06-2025-wydarzenia-dnia-podsumowanie-z-wczoraj-sprawdz-czy-nie-minelo-cie-nic-waznego/ar/c1p1-19960895",
+            "description": "Wieczorem, 19 czerwca, w samym sercu Wroc\u0142awia rozpocz\u0119\u0142o si\u0119 prawdziwe \u015bwietlne widowisko. Multimedialny pokaz \u201eMiasto ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.ZGIcqRcpTTNxc%2bFxaJXQqQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Gazeta Wroc\u0142awska8 godz.",
+            "source": "Gazeta Wroc\u0142awska",
             "article_content": "Content not available"
         }
     },
@@ -394,7 +410,7 @@
             "description": "W 2025 roku znaczki pocztowe z lat PRL ciesz\u0105 si\u0119 popularno\u015bci\u0105 i s\u0105 poszukiwane przez kolekcjoner\u00f3w. Je\u015bli masz takie w domu ...",
             "image_url": "https://www.bing.pl/th?id=OVF.Y4hjhkYVRmlDecnIzu1rzg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Pomorska1 godz.",
+            "date": "Gazeta Pomorska5 godz.",
             "source": "Gazeta Pomorska",
             "article_content": "Content not available"
         }
@@ -410,8 +426,24 @@
             "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.o4EwlAsIz5rMM3h8kMS_wi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Szczeci\u0144ski3 godz.",
+            "date": "G\u0142os Szczeci\u0144ski7 godz.",
             "source": "G\u0142os Szczeci\u0144ski",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Kolekcjonerskie znaczki pocztowe z czas\u00f3w PRL. Tyle w 2025 roku mo\u017cna zarobi\u0107 na filatelistycznych skarbach [21.06.25]",
+            "link": "https://pomorska.pl/kolekcjonerskie-znaczki-pocztowe-z-czasow-prl-tyle-w-2025-roku-mozna-zarobic-na-filatelistycznych-skarbach-21-06-25/ar/c1p2-27654257",
+            "description": "W 2025 roku znaczki pocztowe z lat PRL ciesz\u0105 si\u0119 popularno\u015bci\u0105 i s\u0105 poszukiwane przez kolekcjoner\u00f3w. Je\u015bli masz takie w domu, przejrzyj je dok\u0142adnie. Mo\u017ce si\u0119 okaza\u0107, \u017ce to prawdziwe kolekcjonerskie ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stare+numizmatyka",
+            "date": "Gazeta Pomorska19 godz.",
+            "source": "Gazeta Pomorska",
             "article_content": "Content not available"
         }
     },
@@ -426,7 +458,7 @@
             "description": "Monety z PRL-u wracaj\u0105 do gry i to z hukiem \u2013 niekt\u00f3re osi\u0105gaj\u0105 takie ceny, \u017ce nawet towarzysz Gomu\u0142ka by si\u0119 zdziwi\u0142! W 2025 ...",
             "image_url": "https://www.bing.pl/th?id=OVF.YvgEh4n4YM3C1WizJzYWPQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Toru\u0144 Nasze Miasto1 godz.",
+            "date": "Toru\u0144 Nasze Miasto5 godz.",
             "source": "Toru\u0144 Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -442,7 +474,7 @@
             "description": "Je\u015bli my\u015blisz, \u017ce wszystkie monety z PRL s\u0105 warte tylko kilka groszy, to jeste\u015b w b\u0142\u0119dzie. Istniej\u0105 konkretne egzemplarze, kt\u00f3re na aukcjach internetowych potrafi\u0105 osi\u0105ga\u0107 osza\u0142amiaj\u0105ce ceny \u2013 nawet ...",
             "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Pomorza2 godz.",
+            "date": "G\u0142os Pomorza6 godz.",
             "source": "G\u0142os Pomorza",
             "article_content": "Content not available"
         }
