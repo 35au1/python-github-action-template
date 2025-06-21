@@ -5,13 +5,45 @@
             "Content-Type": "application/json"
         },
         "body": {
+            "title": "Kolekcjonerzy poluj\u0105 na te wazony z PRL. Takie pami\u0105tki z dusz\u0105 mog\u0105 okaza\u0107 si\u0119 prawdziwym skarbem [22.06.25]",
+            "link": "https://pomorska.pl/kolekcjonerzy-poluja-na-te-wazony-z-prl-takie-pamiatki-z-dusza-moga-okazac-sie-prawdziwym-skarbem-22-06-25/ar/c1p2-27606583",
+            "description": "Wazony z czas\u00f3w PRL w 2025 roku zyskuj\u0105 na warto\u015bci. S\u0105 poszukiwane zar\u00f3wno przez kolekcjoner\u00f3w, jak i mi\u0142o\u015bnik\u00f3w starego ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.Aw7AEptcY2WQwVSTkDchiw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Gazeta Pomorska3 godz.",
+            "source": "Gazeta Pomorska",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
             "title": "Przedmioty z histori\u0105, pieni\u0105dze z nieistniej\u0105cych kraj\u00f3w, meble i... poro\u017ce. Trwa Gie\u0142da Staroci w Wa\u0142brzychu - co w sprzeda\u017cy? Zdj\u0119cia",
             "link": "https://walbrzych.naszemiasto.pl/przedmioty-z-historia-pieniadze-z-nieistniejacych-krajow-meble-i-poroze-trwa-gielda-staroci-w-walbrzychu-co-w-sprzedazy-zdjecia/ar/c1p2-27708421",
             "description": "Jak w ka\u017cd\u0105 sobot\u0119, w godzinach porannych na Rynku w Wa\u0142brzychu trwa Gie\u0142da Staroci, Produkt\u00f3w Regionalnych i R\u0119kodzie\u0142a ...",
             "image_url": "https://www.bing.pl/th?id=OVF.shRWwm7xH2u00ZOmXqzgOg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Wa\u0142brzych Nasze Miasto5 godz.",
+            "date": "Wa\u0142brzych Nasze Miasto9 godz.",
             "source": "Wa\u0142brzych Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Kolekcjonerskie znaczki pocztowe z czas\u00f3w PRL. Tyle w 2025 roku mo\u017cna zarobi\u0107 na filatelistycznych skarbach [22.06.25]",
+            "link": "https://pomorska.pl/kolekcjonerskie-znaczki-pocztowe-z-czasow-prl-tyle-w-2025-roku-mozna-zarobic-na-filatelistycznych-skarbach-22-06-25/ar/c1p2-27654257",
+            "description": "W 2025 roku znaczki pocztowe z lat PRL ciesz\u0105 si\u0119 popularno\u015bci\u0105 i s\u0105 poszukiwane przez kolekcjoner\u00f3w. Je\u015bli masz takie w domu ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.rdwX0mMtEbzif0kd4SIisQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Gazeta Pomorska3 godz.",
+            "source": "Gazeta Pomorska",
             "article_content": "Content not available"
         }
     },
@@ -26,40 +58,8 @@
             "description": "W sobot\u0119, 21 czerwca w Chmielnikach zn\u00f3w zapanowa\u0142 wyj\u0105tkowy klimat \u2013 nad jeziorem odby\u0142 si\u0119 cotygodniowy pchli targ, kt\u00f3ry z tygodnia na tydzie\u0144 cieszy si\u0119 coraz wi\u0119kszym zainteresowaniem zar\u00f3wno ...",
             "image_url": "https://www.bing.pl/th?id=ODF.2nPbtyoAS_WXYOaRWpOPhw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "Bydgoszcz Nasze Miasto3 godz.",
+            "date": "Bydgoszcz Nasze Miasto7 godz.",
             "source": "Bydgoszcz Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Kolekcjonerskie znaczki pocztowe z czas\u00f3w PRL. Tyle w 2025 roku mo\u017cna zarobi\u0107 na filatelistycznych skarbach [21.06.25 r.]",
-            "link": "https://pomorska.pl/kolekcjonerskie-znaczki-pocztowe-z-czasow-prl-tyle-w-2025-roku-mozna-zarobic-na-filatelistycznych-skarbach-21-06-25-r/ar/c1p2-27654257",
-            "description": "W 2025 roku znaczki pocztowe z lat PRL ciesz\u0105 si\u0119 popularno\u015bci\u0105 i s\u0105 poszukiwane przez kolekcjoner\u00f3w. Je\u015bli masz takie w domu ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.Y4hjhkYVRmlDecnIzu1rzg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "Gazeta Pomorska9 godz.",
-            "source": "Gazeta Pomorska",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Kolekcjonerzy poluj\u0105 na te wazony z PRL. Takie pami\u0105tki z dusz\u0105 mog\u0105 okaza\u0107 si\u0119 prawdziwym skarbem [21.06.25 r.]",
-            "link": "https://pomorska.pl/kolekcjonerzy-poluja-na-te-wazony-z-prl-takie-pamiatki-z-dusza-moga-okazac-sie-prawdziwym-skarbem-21-06-25-r/ar/c1p2-27606583",
-            "description": "Wazony z czas\u00f3w PRL w 2025 roku zyskuj\u0105 na warto\u015bci. S\u0105 poszukiwane zar\u00f3wno przez kolekcjoner\u00f3w, jak i mi\u0142o\u015bnik\u00f3w starego ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.O%2b2NIFk9JmQUTfFxlCMbLw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "Gazeta Pomorska9 godz.",
-            "source": "Gazeta Pomorska",
             "article_content": "Content not available"
         }
     },
@@ -74,7 +74,7 @@
             "description": "Iran kontratakuje nie tylko pociskami balistycznymi, ale tak\u017ce dronami. Te s\u0105 zestrzeliwane przez Izrael nie tylko nad ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.CXYGKVyoor8bfb9UDL3ogy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "WP Tech8 godz.",
+            "date": "WP Tech12 godz.",
             "source": "WP Tech",
             "article_content": "Drony Shahed s\u0105 prostymi obiektami do zniszczenia, ale im wi\u0119cej Izrael zdo\u0142a ich wyeliminowa\u0107 z dala od zaprogramowanych cel\u00f3w, tym lepiej. Wygl\u0105da na to, \u017ce w tym celu wykorzystywane jest po\u0142\u0105czenie \u015bmig\u0142owc\u00f3w AH-64 Apache oraz samolot\u00f3w F-16. Te korzystaj\u0105 z dzia\u0142ek lub pocisk\u00f3w kr\u00f3tkiego zasi\u0119gu, jak wida\u0107 na poni\u017cszym widowiskowym nagraniu idealnie nadaj\u0105cym si\u0119 do scenariusza filmu \"Top Gun\".\n\nRozwi\u0144\n\nWarto jednak zaznaczy\u0107, \u017ce takie zestrzelenie jest bardzo gro\u017ane dla pilota, poniewa\u017c widoczny na nagraniu F-16 m\u00f3g\u0142 wlecie\u0107 w chmur\u0119 od\u0142amk\u00f3w powsta\u0142ych po zniszczeniu drona. Mog\u0105 one katastrofalnie uszkodzi\u0107 m.in. silnik samolotu, powoduj\u0105c jego utrat\u0119. Takie sytuacje ju\u017c mia\u0142y miejsce nad Ukrain\u0105.\n\nDalsza cz\u0119\u015b\u0107 artyku\u0142u pod materia\u0142em wideo\n\nTydzie\u0144 z Huawei Watch Fit 4 oraz Watch Fit 4 Pro\n\nIzraelskie F-16 vs drony \u2014 oto czego mog\u0105 u\u017cywa\u0107\n\nIzraelski F-16 widoczny na nagraniu wykorzysta\u0142 jaki\u015b wariant pocisku kr\u00f3tkiego zasi\u0119gu AIM-9 Sidewinder lub Python. Bior\u0105c pod uwag\u0119 prostot\u0119 cel\u00f3w, najpewniej s\u0105 to stare modele, kt\u00f3re w innym przypadku musia\u0142yby by\u0107 za par\u0119 lat zez\u0142omowane za niema\u0142e pieni\u0105dze.\n\nZ tego wzgl\u0119du z\u0142omowane bojem podczas polowania na proste drony jest idealnym rozwi\u0105zaniem pozwalaj\u0105cym na oszcz\u0119dzenie zapas\u00f3w nowoczesnego uzbrojenia na trudniejsze cele. By\u0142by to drugi przypadek strzelania starociami po wykorzystaniu np. pocisk\u00f3w AIM-7 Sparrow przez izraelskie samoloty F-15.\n\nStare pociski AIM-9 b\u0119d\u0105ce w izraelskich magazynach to najpewniej modele L i M produkowane kolejno latach 70. i 80. XX wieku, a Pythony to najpewniej wersje 3 i 4 z lat 80. i 90. XX wieku, poniewa\u017c wykorzystanie najnowszych Python 5 nie by\u0142oby optymalne kosztowo, je\u015bli \"pod r\u0119k\u0105\" s\u0105 starocie.\n\nPociski AIM-9L/M i Python 3/4 s\u0105 konstrukcjami o zasi\u0119gu poni\u017cej 30 kilometr\u00f3w z g\u0142owic\u0105 naprowadzaj\u0105c\u0105 si\u0119 na \u017ar\u00f3d\u0142o ciep\u0142a. Ta jest jednak znacznie starszym rozwi\u0105zaniem widz\u0105cym tylko punkt ciep\u0142a, a nie termiczny kszta\u0142t celu jak ma to miejsce w nowszych AIM-9X czy Python 5."
         }
@@ -90,7 +90,7 @@
             "description": "Wycena monet z PRL-u zale\u017cy od rzadko\u015bci wyst\u0119powania, jako\u015bci wybicia oraz gradingu, czyli stanu jej zachowania. W Polsce znajdziemy wiele okaz\u00f3w wartych kilkaset z\u0142otych, ale s\u0105 te\u017c takie, na ...",
             "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "G\u0142os Szczeci\u0144ski11 godz.",
+            "date": "G\u0142os Szczeci\u0144ski15 godz.",
             "source": "G\u0142os Szczeci\u0144ski",
             "article_content": "Content not available"
         }
@@ -101,12 +101,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Cenne monety PRL sprzedawane na portalach aukcyjnych. Tyle kosztuj\u0105 monety z PRL-u w 2025 [21.06.25]",
-            "link": "https://torun.naszemiasto.pl/cenne-monety-prl-sprzedawane-na-portalach-aukcyjnych-tyle-kosztuja-monety-z-prl-u-w-2025-21-06-25/ar/c1p2-27655625",
-            "description": "Najdro\u017csze monety PRL by\u0142y jednak sprzedawane na aukcjach. Przede wszystkim na rzadkich, dedykowanych spotkaniach ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.kzxp3zfJddVZpvkmq5rUvA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Cenne monety PRL sprzedawane na portalach aukcyjnych. Tyle kosztuj\u0105 monety z PRL-u w 2025 [21.06.2025 r.]",
+            "link": "https://torun.naszemiasto.pl/cenne-monety-prl-sprzedawane-na-portalach-aukcyjnych-tyle-kosztuja-monety-z-prl-u-w-2025-21-06-2025-r/ar/c1p2-27655625",
+            "description": "Monety z PRL-u wracaj\u0105 do gry i to z hukiem \u2013 niekt\u00f3re osi\u0105gaj\u0105 takie ceny, \u017ce nawet towarzysz Gomu\u0142ka by si\u0119 zdziwi\u0142! W 2025 ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.YvgEh4n4YM3C1WizJzYWPQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Toru\u0144 Nasze Miasto3 godz.",
+            "date": "Toru\u0144 Nasze Miasto13 godz.",
             "source": "Toru\u0144 Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -122,7 +122,7 @@
             "description": "Je\u015bli my\u015blisz, \u017ce wszystkie monety z PRL s\u0105 warte tylko kilka groszy, to jeste\u015b w b\u0142\u0119dzie. Istniej\u0105 konkretne egzemplarze, kt\u00f3re na aukcjach internetowych potrafi\u0105 osi\u0105ga\u0107 osza\u0142amiaj\u0105ce ceny \u2013 nawet ...",
             "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "G\u0142os Pomorza10 godz.",
+            "date": "G\u0142os Pomorza14 godz.",
             "source": "G\u0142os Pomorza",
             "article_content": "Content not available"
         }
@@ -133,12 +133,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Stare zabawki z czas\u00f3w PRL - w 2025 roku to kolekcjonerskie pere\u0142ki na wag\u0119 z\u0142ota [21.06.25 r.]",
-            "link": "https://pomorska.pl/stare-zabawki-z-czasow-prl-w-2025-roku-to-kolekcjonerskie-perelki-na-wage-zlota-21-06-25-r/ar/c1p2-27696031",
+            "title": "Stare zabawki z czas\u00f3w PRL - w 2025 roku to kolekcjonerskie pere\u0142ki na wag\u0119 z\u0142ota [22.06.25]",
+            "link": "https://pomorska.pl/stare-zabawki-z-czasow-prl-w-2025-roku-to-kolekcjonerskie-perelki-na-wage-zlota-22-06-25/ar/c1p2-27696031",
             "description": "W 2025 roku zabawki z lat PRL ciesz\u0105 si\u0119 popularno\u015bci\u0105 i s\u0105 poszukiwane przez kolekcjoner\u00f3w. Je\u015bli masz jeszcze takie w domu, ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.t1%2fFaGwIKLj0MuYlcLiutw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "image_url": "https://www.bing.pl/th?id=OVF.87qwLwpBUJaQSL2u0kIJcA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Gazeta Pomorska9 godz.",
+            "date": "Gazeta Pomorska3 godz.",
             "source": "Gazeta Pomorska",
             "article_content": "Content not available"
         }
@@ -149,13 +149,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Sklepy niedziela",
-            "link": "https://gazetawroclawska.pl/tag/sklepy-niedziela",
-            "description": "Zakaz handlu w niedziele zostanie zniesiony? Tego chce Platforma Obywatelska. Pos\u0142owie tej partii zapowiadaj\u0105 z\u0142o\u017cenie do Sejmu projektu ustawy likwiduj\u0105cej... SKLEPY ZAMKNI\u0118TE W NIEDZIEL\u0118 - ZIELONE \u015a ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.p9YO103MXreScWBGsL62IA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Sklep ma prawo odm\u00f3wi\u0107 przyj\u0119cia takich pieni\u0119dzy. Takie przepisy obowi\u0105zuj\u0105 w czerwcu [22.06.25]",
+            "link": "https://pomorska.pl/sklep-ma-prawo-odmowic-przyjecia-takich-pieniedzy-takie-przepisy-obowiazuja-w-czerwcu-22-06-25/ar/c1p2-27690649",
+            "description": "Czy zdarzy\u0142o Ci si\u0119 kiedy\u015b, \u017ce sprzedawca w sklepie odm\u00f3wi\u0142 przyj\u0119cia banknotu i poprosi\u0142 o inny? Zgodnie z obowi\u0105zuj\u0105cymi ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.o8e59%2fna0Hnz4r2vpudg3Q&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Gazeta Wroc\u0142awska27 min",
-            "source": "Gazeta Wroc\u0142awska",
+            "date": "Gazeta Pomorska3 godz.",
+            "source": "Gazeta Pomorska",
             "article_content": "Content not available"
         }
     },
@@ -165,12 +165,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Kryszta\u0142y PRL w cenie z\u0142ota. Tyle kosztuj\u0105 w 2025 roku popularne misy i wazony [21.06.25 r.]",
-            "link": "https://pomorska.pl/krysztaly-prl-w-cenie-zlota-tyle-kosztuja-w-2025-roku-popularne-misy-i-wazony-21-06-25-r/ar/c9p2-27165801",
+            "title": "Kryszta\u0142y PRL w cenie z\u0142ota. Tyle kosztuj\u0105 w 2025 roku popularne misy i wazony [22.06.25]",
+            "link": "https://pomorska.pl/krysztaly-prl-w-cenie-zlota-tyle-kosztuja-w-2025-roku-popularne-misy-i-wazony-22-06-25/ar/c9p2-27165801",
             "description": "Kryszta\u0142y z czas\u00f3w PRL, kiedy\u015b powszechnie spotykane w polskich domach, zyska\u0142y nowe \u017cycie jako cenione przedmioty ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.dwV8G7fUgp89TRS%2fAmivew&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "image_url": "https://www.bing.pl/th?id=OVF.gRnUXOim%2fiH%2bB04niZslAg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska9 godz.",
+            "date": "Gazeta Pomorska3 godz.",
             "source": "Gazeta Pomorska",
             "article_content": "Content not available"
         }
@@ -181,12 +181,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Kolekcjonerzy poluj\u0105 na te wazony z PRL. Takie pami\u0105tki z dusz\u0105 mog\u0105 okaza\u0107 si\u0119 prawdziwym skarbem [21.06.25 r.]",
-            "link": "https://pomorska.pl/kolekcjonerzy-poluja-na-te-wazony-z-prl-takie-pamiatki-z-dusza-moga-okazac-sie-prawdziwym-skarbem-21-06-25-r/ar/c1p2-27606583",
+            "title": "Kolekcjonerzy poluj\u0105 na te wazony z PRL. Takie pami\u0105tki z dusz\u0105 mog\u0105 okaza\u0107 si\u0119 prawdziwym skarbem [22.06.25]",
+            "link": "https://pomorska.pl/kolekcjonerzy-poluja-na-te-wazony-z-prl-takie-pamiatki-z-dusza-moga-okazac-sie-prawdziwym-skarbem-22-06-25/ar/c1p2-27606583",
             "description": "Wazony z czas\u00f3w PRL w 2025 roku zyskuj\u0105 na warto\u015bci. S\u0105 poszukiwane zar\u00f3wno przez kolekcjoner\u00f3w, jak i mi\u0142o\u015bnik\u00f3w starego ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.O%2b2NIFk9JmQUTfFxlCMbLw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "image_url": "https://www.bing.pl/th?id=OVF.Aw7AEptcY2WQwVSTkDchiw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska9 godz.",
+            "date": "Gazeta Pomorska3 godz.",
             "source": "Gazeta Pomorska",
             "article_content": "Content not available"
         }
@@ -202,7 +202,7 @@
             "description": "Na stoiskach mo\u017cna by\u0142o znale\u017a\u0107 prawdziwe pere\u0142ki \u2013 od starych winyli, przez porcelan\u0119, a\u017c po oryginalne bibeloty i ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.YW1_WUYc7i0ZiuQmw4EEHy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Nowiny 246 godz.",
+            "date": "Nowiny 249 godz.",
             "source": "Nowiny 24",
             "article_content": "Content not available"
         }
@@ -218,7 +218,7 @@
             "description": "W sobot\u0119, 21 czerwca w Chmielnikach zn\u00f3w zapanowa\u0142 wyj\u0105tkowy klimat \u2013 nad jeziorem odby\u0142 si\u0119 cotygodniowy pchli targ, kt\u00f3ry z tygodnia na tydzie\u0144 cieszy si\u0119 coraz wi\u0119kszym zainteresowaniem zar\u00f3wno ...",
             "image_url": "https://www.bing.pl/th?id=ODF.2nPbtyoAS_WXYOaRWpOPhw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Bydgoszcz Nasze Miasto3 godz.",
+            "date": "Bydgoszcz Nasze Miasto7 godz.",
             "source": "Bydgoszcz Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -234,7 +234,7 @@
             "description": "Na miejskim targowisku przy Targowej i Zawadzkiego zn\u00f3w zago\u015bcili wystawy oraz kupuj\u0105cy - amatorzy antyk\u00f3w, staroci i ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.-AAAqJ4Au6k5OHjBCKJHzC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Moja Ostro\u0142\u0119ka7 godz.",
+            "date": "Moja Ostro\u0142\u0119ka11 godz.",
             "source": "Moja Ostro\u0142\u0119ka",
             "article_content": "Content not available"
         }
@@ -245,14 +245,62 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Skarby z drugiej r\u0119ki wracaj\u0105! W niedziel\u0119 pchli targ na Park&Ride w Stargardzie.",
-            "link": "https://twojeradio.fm/skarby-z-drugiej-reki-wracaja-w-niedziele-pchli-targ-na-parkride-w-stargardzie.html",
-            "description": "Mi\u0142o\u015bnicy okazji, unikalnych przedmiot\u00f3w i s\u0105siedzkiej atmosfery \u2013 rezerwujcie czas! W niedziel\u0119, 22 czerwca, w godzinach od ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.ZNTpOtivH5qt78CRbVrDoC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Splotfest 2025",
+            "link": "https://bedzin.naszemiasto.pl/tag/splotfest-2025",
+            "description": "W sobot\u0119, 21 czerwca 2025 roku, Pa\u0142ac Kultury Zag\u0142\u0119bia w D\u0105browie G\u00f3rniczej t\u0119tni\u0142 \u017cyciem, a jego wn\u0119trza wype\u0142ni\u0142y si\u0119 po ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Twoje Radio4 godz.",
-            "source": "Twoje Radio",
-            "article_content": "Mi\u0142o\u015bnicy okazji, unikalnych przedmiot\u00f3w i s\u0105siedzkiej atmosfery \u2013 rezerwujcie czas!\n\nW niedziel\u0119, 22 czerwca, w godzinach od 10:00 do 14:00 na parkingu Park & Ride przy ul. Barnima w Stargardzie odb\u0119dzie si\u0119 pchli targ.\n\nTo idealna okazja, by da\u0107 drugie \u017cycie ubraniom, ksi\u0105\u017ckom, zabawkom, bibelotom i innym rzeczom, kt\u00f3re mog\u0105 jeszcze komu\u015b pos\u0142u\u017cy\u0107. A wszystko w klimacie s\u0105siedzkiego spotkania i w duchu ekologii.\n\nPchli targ cieszy si\u0119 bardzo du\u017cym zainteresowaniem, o czym m\u00f3wi Anna Kraso\u0144, jedna z organizatorek wydarzenia:\n\nWst\u0119p wolny \u2013 zar\u00f3wno dla tych, kt\u00f3rzy chc\u0105 co\u015b sprzeda\u0107, jak i dla tych, kt\u00f3rzy lubi\u0105 buszowa\u0107 w\u015br\u00f3d staroci i szuka\u0107 prawdziwych pere\u0142ek.\n\nDo zobaczenia na Barnima!"
+            "date": "B\u0119dzin Nasze Miasto29 min",
+            "source": "B\u0119dzin Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Co w weekend",
+            "link": "https://wroclaw.naszemiasto.pl/tag/co-w-weekend",
+            "description": "Oto kilka najciekawszych wydarze\u0144, kt\u00f3re b\u0119d\u0105 mia\u0142y miejsce we Wroc\u0142awiu w najbli\u017cszych dniach. Niezale\u017cnie od tego, czy szukasz relaksu, artystycznych dozna\u0144,... Wroc\u0142aw przygotowa\u0142 na nadchodz\u0105cy we ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.QOhooLrbIKEbFaE6w1Fs8Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "targ+staroci",
+            "date": "Wroc\u0142aw Nasze Miasto2 godz.",
+            "source": "Wroc\u0142aw Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Cenne monety PRL sprzedawane na portalach aukcyjnych. Tyle kosztuj\u0105 monety z PRL-u w 2025 [22.06.2025]",
+            "link": "https://nowosci.com.pl/cenne-monety-prl-sprzedawane-na-portalach-aukcyjnych-tyle-kosztuja-monety-z-prl-u-w-2025-22-06-2025/ar/c1p2-27655625",
+            "description": "Najdro\u017csze monety PRL by\u0142y jednak sprzedawane na aukcjach. Przede wszystkim na rzadkich, dedykowanych spotkaniach ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.A%2bFjl1ip1%2bOfhAFy0rNTGw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski2 godz.",
+            "source": "Nowo\u015bci Dziennik Toru\u0144ski",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Stare zabawki z czas\u00f3w PRL - w 2025 roku to kolekcjonerskie pere\u0142ki na wag\u0119 z\u0142ota [22.06.25]",
+            "link": "https://pomorska.pl/stare-zabawki-z-czasow-prl-w-2025-roku-to-kolekcjonerskie-perelki-na-wage-zlota-22-06-25/ar/c1p2-27696031",
+            "description": "W 2025 roku zabawki z lat PRL ciesz\u0105 si\u0119 popularno\u015bci\u0105 i s\u0105 poszukiwane przez kolekcjoner\u00f3w. Je\u015bli masz jeszcze takie w domu, ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.87qwLwpBUJaQSL2u0kIJcA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "Gazeta Pomorska3 godz.",
+            "source": "Gazeta Pomorska",
+            "article_content": "Content not available"
         }
     },
     {
@@ -266,136 +314,8 @@
             "description": "O gustach si\u0119 nie dyskutuje, ale nie wszyscy dzi\u015b zgadzaj\u0105 si\u0119 z t\u0105 zasad\u0105. Mieszka\u0144c\u00f3w Wa\u0142brzycha cieszy odnawianie \u015bciany ...",
             "image_url": "https://www.bing.pl/th?id=OVF.WdOC58c27sgFAQByMIj%2b7g&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Wa\u0142brzych Nasze Miasto1 godz.",
+            "date": "Wa\u0142brzych Nasze Miasto5 godz.",
             "source": "Wa\u0142brzych Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Pomys\u0142y na spacer w woj. zachodniopomorskim. Gdzie wybra\u0107 si\u0119 w weekend 21 - 22 czerwca? Lista 10 tras",
-            "link": "https://gs24.pl/pomysly-na-spacer-w-woj-zachodniopomorskim-gdzie-wybrac-sie-w-weekend-21-22-czerwca-lista-10-tras/ar/c7p1-22116477",
-            "description": "Nim wyruszysz, sprawd\u017a, jaka b\u0119dzie pogoda. W sobot\u0119 21 czerwca w woj. zachodniopomorskim ma by\u0107 od 11\u00b0C do 26\u00b0C. Nie powinno ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.4HNFtIjtNgDC8rs-mX_VoC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "G\u0142os Szczeci\u0144ski2 godz.",
-            "source": "G\u0142os Szczeci\u0144ski",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Cenne monety PRL sprzedawane na portalach aukcyjnych. Tyle kosztuj\u0105 monety z PRL-u w 2025 [21.06.2025 r.]",
-            "link": "https://torun.naszemiasto.pl/cenne-monety-prl-sprzedawane-na-portalach-aukcyjnych-tyle-kosztuja-monety-z-prl-u-w-2025-21-06-2025-r/ar/c1p2-27655625",
-            "description": "Monety z PRL-u wracaj\u0105 do gry i to z hukiem \u2013 niekt\u00f3re osi\u0105gaj\u0105 takie ceny, \u017ce nawet towarzysz Gomu\u0142ka by si\u0119 zdziwi\u0142! W 2025 ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.YvgEh4n4YM3C1WizJzYWPQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "Toru\u0144 Nasze Miasto9 godz.",
-            "source": "Toru\u0144 Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Stare zabawki z czas\u00f3w PRL - w 2025 roku to kolekcjonerskie pere\u0142ki na wag\u0119 z\u0142ota [21.06.25 r.]",
-            "link": "https://pomorska.pl/stare-zabawki-z-czasow-prl-w-2025-roku-to-kolekcjonerskie-perelki-na-wage-zlota-21-06-25-r/ar/c1p2-27696031",
-            "description": "W 2025 roku zabawki z lat PRL ciesz\u0105 si\u0119 popularno\u015bci\u0105 i s\u0105 poszukiwane przez kolekcjoner\u00f3w. Je\u015bli masz jeszcze takie w domu, ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.t1%2fFaGwIKLj0MuYlcLiutw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "Gazeta Pomorska9 godz.",
-            "source": "Gazeta Pomorska",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Trasy spacerowe do 6 km od Ko\u0142obrzegu. Pomys\u0142y na wypoczynek na powietrzu w weekend 21 - 22 czerwca",
-            "link": "https://kolobrzeg.naszemiasto.pl/trasy-spacerowe-do-6-km-od-kolobrzegu-pomysly-na-wypoczynek-na-powietrzu-w-weekend-21-22-czerwca/ar/c7p1-22115647",
-            "description": "Nim wyruszysz w drog\u0119, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 21 czerwca w Ko\u0142obrzegu ma by\u0107 22\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 22 czerwca w Ko\u0142obrzegu ma by\u0107 26\u00b0C. Nie b\u0119dzie pada\u0107. Stopie\u0144 ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.xGyVXoJ9b0zlcu2rTPA_6w&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "relikty",
-            "date": "Ko\u0142obrzeg Nasze Miasto2 godz.",
-            "source": "Ko\u0142obrzeg Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Dni Tykocina 2025. Miasto \u015bwi\u0119tuje w jubileusz 600-lecia. Zobacz, co dzia\u0142o si\u0119 pierwszego dnia",
-            "link": "https://poranny.pl/dni-tykocina-2025-miasto-swietuje-w-jubileusz-600-lecia-zobacz-co-dzialo-sie-pierwszego-dnia/ar/c13p2-27708795",
-            "description": "Tykocin - pere\u0142ka Podlasia w tym roku \u015bwi\u0119tuje 600-lecie. Dlatego i wyj\u0105tkowe s\u0105 Dni Tykocina 2025. Przez trzy dni mieszka\u0144cy ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.BxPnbfsiomgsI1R4V14RHw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Kurier Poranny1 godz.",
-            "source": "Kurier Poranny",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Stare Miasto w Olsztynie nabiera \u017cycia?",
-            "link": "https://gazetaolsztynska.pl/1181490,Stare-Miasto-w-Olsztynie-nabiera-zycia.html",
-            "description": "Liczne wydarzenia, spotkania z przedsi\u0119biorcami i zapowied\u017a kolejnych dzia\u0142a\u0144 \u2014 tak powoli ratusz o\u017cywia Stare Miasto w ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.dURgleatXUMrG9ZgeBHOrC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Olszty\u0144ska24 min",
-            "source": "Gazeta Olszty\u0144ska",
-            "article_content": "Staromiejscy przedsi\u0119biorcy przez lata narzekali, \u017ce ratusz nie ma pomys\u0142u na o\u017cywienie tej cz\u0119\u015bci Olsztyna. Ich frustracj\u0119 pog\u0142\u0119bia\u0142 widok pustych uliczek, a co za tym idzie \u2014 niewielkiej liczby go\u015bci w prowadzonych przez nich lokalach.\n\n\u2014 To problemy zwi\u0105zane z organizacj\u0105 ruchu, w tym z parkowaniem, planem imprez, kt\u00f3re by przyci\u0105gn\u0119\u0142y go\u015bci. To wreszcie sprawa utrzymania czysto\u015bci \u2014 wylicza sprawy do za\u0142atwienia jeden ze staromiejskich restaurator\u00f3w. Ze swojej strony staromiejscy przedsi\u0119biorcy przygotowali list\u0119 najwa\u017cniejszych problem\u00f3w, kt\u00f3re powinny zosta\u0107 rozwi\u0105zane.\n\nZosta\u0142y one ju\u017c przekazane prezydentowi Olsztyna Robertowi Szewczykowi. Przedsi\u0119biorcy zwracaj\u0105 uwag\u0119 m.in. na konieczno\u015b\u0107 zapewnienia \u015brodk\u00f3w na remonty zabytkowych elewacji kamienic oraz popraw\u0119 o\u015bwietlenia ulic, zw\u0142aszcza w bardziej zaniedbanych cz\u0119\u015bciach star\u00f3wki. Obecny stan architektury zdaniem staromiejskich restaurator\u00f3w cz\u0119sto sprawia wra\u017cenie zaniedbania, co negatywnie wp\u0142ywa na wizerunek Starego Miasta. Tamtejsi przedsi\u0119biorcy proponuj\u0105 te\u017c ca\u0142oroczne ogr\u00f3dki przy pubach i restauracjach. Wa\u017cne jest te\u017c odpowiednie skomunikowanie Starego Miasta z innymi dzielnicami.\n\nRatusz stawia na Stare Miasto\n\n\n\nSiedem lat temu w\u0142adze Olsztyna powo\u0142a\u0142y nawet specgrup\u0119 z\u0142o\u017con\u0105 z urz\u0119dnik\u00f3w i przedsi\u0119biorc\u00f3w. Przedstawiono list\u0119 kilkunastu wydarze\u0144, kt\u00f3re mia\u0142yby zmieni\u0107 sytuacj\u0119. Od tamtej pory jednak niewiele si\u0119 dzia\u0142o. Nastawienie ratusza zaczyna si\u0119 jednak zmienia\u0107. Przyk\u0142adem jest pochylenie si\u0119 nad form\u0105 prowadzenia letnich ogr\u00f3dk\u00f3w. Chc\u0105c go urz\u0105dzi\u0107, ka\u017cdy z restaurator\u00f3w musi zap\u0142aci\u0107 za zaj\u0119cie pasa drogowego. A nie s\u0105 to ma\u0142e pieni\u0105dze; stawka dzienna wynosi kilka z\u0142otych za metr kwadratowy.\n\nTo si\u0119 zaczyna zmienia\u0107. Ze swojej strony w\u0142adze Olsztyna zdecydowa\u0142y o uruchomieniu nocnych kurs\u00f3w tramwajowych, kt\u00f3re doje\u017cd\u017caj\u0105 z Pieczewa. To samo sta\u0142o si\u0119 z ogr\u00f3dkami gastronomicznymi. Od tego sezonu ich uruchomienie jest \u0142atwiejsze i ta\u0144sze. Ratusz poszed\u0142 dalej. Na Starym Mie\u015bcie odbywa si\u0119 co niedziel\u0119 targ. Wystawcy, kt\u00f3rych miasto zaprosi\u0142o do wsp\u00f3\u0142pracy, to wsp\u00f3\u0142cze\u015bni rolnicy i lokalni producenci, sami uprawiaj\u0105cy ro\u015bliny, hoduj\u0105cy zwierz\u0119ta i tworz\u0105cy naturalne produkty inspirowane bogactwem natury regionu. W\u015br\u00f3d nich mo\u017cna znale\u017a\u0107 m.in. \u015bwieczki z wosku od w\u0142asnych pszcz\u00f3\u0142 czy myd\u0142a robione z owczego mleka \u2014 rzeczy, kt\u00f3re \u0142\u0105cz\u0105 tradycj\u0119 z nowoczesnym podej\u015bciem do ekologii i dobrostanu.\n\nCo wa\u017cne, w tym roku nie pobierane s\u0105 op\u0142aty targowe. Wystarczy spe\u0142ni\u0107 warunki zawarte w regulaminie i podpisa\u0107 umow\u0119, by do\u0142\u0105czy\u0107 do spo\u0142eczno\u015bci lokalnych tw\u00f3rc\u00f3w jako\u015bciowej \u017cywno\u015bci. Priorytetem jest jako\u015b\u0107 i autentyczno\u015b\u0107.\n\n\u2014 Nasz targ jest \u017cywy i sezonowy. Pojawia si\u0119 na nim to, co aktualnie daje natura. To niepowtarzalna szansa na zakup \u015bwie\u017cych, lokalnych i ekologicznych produkt\u00f3w, kt\u00f3re trudno znale\u017a\u0107 gdzie indziej \u2014 m\u00f3wi prezydent Olsztyna Robert Szewczyk.\n\nPrezydent Olsztyna spotyka si\u0119 tak\u017ce ze staromiejskimi przedsi\u0119biorcami.\n\n\u2014 Za mn\u0105 kolejne spotkanie z przedsi\u0119biorcami ze Starego Miasta. Rozmowa szczera, konkretna i potrzebna. Bo je\u015bli chcemy, by nasze Stare Miasto znowu t\u0119tni\u0142o \u017cyciem, to musimy je tworzy\u0107 wsp\u00f3lnie: mieszka\u0144cy, przedsi\u0119biorcy, miasto. By\u0142o o tym, co jeszcze mo\u017cemy poprawi\u0107 i co zmieni\u0107, ale i o tym, co si\u0119 uda\u0142o. I tu ogromna rado\u015b\u0107, poniewa\u017c niedawny Olszty\u0144ski Dzie\u0144 Dziecka okaza\u0142 si\u0119 strza\u0142em w dziesi\u0105tk\u0119. Us\u0142ysze\u0107 od lokalnych restaurator\u00f3w, \u017ce takiego ruchu nie by\u0142o od lat \u2014 bezcenne \u2014 stwierdzi\u0142 prezydent Szewczyk po ostatnim takim spotkaniu.\n\nWojciech Kroczek ze stowarzyszenia Star\u00f3wka Razem przyzna\u0142: \u2014 Widzimy zmian\u0119 podej\u015bcia obecnych w\u0142adz do problem\u00f3w Starego Miasta. Zdajemy sobie spraw\u0119 z tego, \u017ce rozwi\u0105zanie pewnych kwestii wymaga czasu. Ale jest \u015bwiate\u0142ko w tunelu, \u017ce uda si\u0119 to za\u0142atwi\u0107, co pokazuj\u0105 podejmowane dzia\u0142ania.\n\nBezp\u0142atne Dni Olsztyna\n\n\n\nRatusz powo\u0142a\u0142 tak\u017ce menad\u017cera \u015ar\u00f3dmie\u015bcia i Starego Miasta.\n\n\u2014 Koordynatorka ds. rozwoju \u015ar\u00f3dmie\u015bcia wraz z zespo\u0142em wspieraj\u0105cym dzia\u0142ania zrealizowa\u0142a i realizuje szereg dzia\u0142a\u0144, kt\u00f3re zmierzaj\u0105 do o\u017cywienia tej cz\u0119\u015bci miasta. W\u015br\u00f3d nich by\u0142y m.in. wiosenne sprz\u0105tanie Starego Miasta, szczeg\u00f3\u0142owa kontrola stanu infrastruktury, w tym zapadlisk chodnik\u00f3w i estetyki przestrzeni publicznej. Poza tym wsparcie zyska\u0142y inicjatywy zwi\u0105zane z popraw\u0105 estetyki ogr\u00f3dk\u00f3w i og\u00f3lnego wizerunku \u015ar\u00f3dmie\u015bcia \u2014 informuje Patryk Pulikowski, rzecznik ratusza, i dodaje: \u2014 Ca\u0142y czas prowadzimy rozmowy z przedsi\u0119biorcami, spotykamy si\u0119 regularnie i dyskutujemy o rozwi\u0105zaniach, kt\u00f3re uatrakcyjni\u0105 staromiejsk\u0105 przestrze\u0144. Te uzgodnione i dopracowane b\u0119d\u0105 stopniowo wprowadzane. Natomiast w\u015br\u00f3d wydarze\u0144 b\u0119d\u0105 cho\u0107by bezp\u0142atne Dni Olsztyna. W ci\u0105gu letniego sezonu zorganizowanych zostanie oko\u0142o 150 imprez, g\u0142\u00f3wnie w przestrzeni Starego Miasta oraz okolic.\n\nSami restauratorzy zaczynaj\u0105 si\u0119 zn\u00f3w pojawia\u0107 na Starym Mie\u015bcie. W\u0142a\u015bnie otworzy\u0142a si\u0119 nowa restauracja. To Orient Cafe. \u201eSk\u0105d wzi\u0105\u0142 si\u0119 pomys\u0142 otworzenia knajpki o profilu orientalno-podr\u00f3\u017cniczym w centrum Olsztyna? Ano st\u0105d, kochani, \u017ce jeste\u015bmy ciekaw\u0105 \u015bwiata i smak\u00f3w rodzin\u0105 podr\u00f3\u017cnik\u00f3w z Olsztyna. Do Azji zacz\u0119li\u015bmy podr\u00f3\u017cowa\u0107 ju\u017c lata temu, zaczynaj\u0105c od Tajlandii i Kambod\u017cy\u201d \u2014 informuj\u0105 jej za\u0142o\u017cyciele.\n\nKolejne otwarcie powoli si\u0119 zbli\u017ca. To Manekin, czyli og\u00f3lnopolska sie\u0107 nale\u015bnikarni, kt\u00f3ra robi prawdziw\u0105 furor\u0119 w ca\u0142ej Polsce. Przed restauracjami, zw\u0142aszcza na ulicy Marsza\u0142kowskiej w Warszawie, codziennie ustawiaj\u0105 si\u0119 gigantyczne kolejki. Zlokalizowana b\u0119dzie w dawnym kinie Awangarda.\n\nGrzegorz Szyd\u0142owski"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Ju\u017c w niedziel\u0119 kolejna ods\u0142ona Wolnego Jarmarku i pchlego targu na star\u00f3wce! Rynek Nowomiejski zaprasza",
-            "link": "https://nowosci.com.pl/juz-w-niedziele-kolejna-odslona-wolnego-jarmarku-i-pchlego-targu-na-starowce-rynek-nowomiejski-zaprasza/ar/c1p2-27700903",
-            "description": "Smacznie, zdrowo i bardzo ciekawie - tak b\u0119dzie ju\u017c w niedziel\u0119, 22 czerwca, na Rynku Nowomiejskim w Toruniu. Ponownie ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.YenPdt2NCijcN2KxwsXJFS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski7 godz.",
-            "source": "Nowo\u015bci Dziennik Toru\u0144ski",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Rusz si\u0119 z domu! 21 miejsc idealnych na kr\u00f3tk\u0105 wycieczk\u0119 w Wielkopolsce. Poleca je Addicted2travel.pl [21.06.2025]",
-            "link": "https://gloswielkopolski.pl/rusz-sie-z-domu-21-miejsc-idealnych-na-krotka-wycieczke-w-wielkopolsce-poleca-je-addicted2travelpl-21062025/ar/c7-13955129",
-            "description": "Paulina, Emilka i Micha\u0142 Miko\u0142ajczakowie to rodzina z Poznania, dla kt\u00f3rej podr\u00f3\u017ce s\u0105 najwi\u0119ksz\u0105 \u017cyciow\u0105 pasj\u0105, a o swoich ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.a2dzGCaVKjO4WeriiK1FpC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "G\u0142os Wielkopolski9 godz.",
-            "source": "G\u0142os Wielkopolski",
             "article_content": "Content not available"
         }
     },
@@ -409,9 +329,121 @@
             "link": "https://oswiecim.naszemiasto.pl/trasy-rowerowe-do-19-km-od-oswiecimia-pomysly-na-jednodniowa-wyprawe-gdzie-w-weekend-21-22-czerwca/ar/c7p1-21831633",
             "description": "Nim wyruszysz w drog\u0119, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 21 czerwca w O\u015bwi\u0119cimiu ma by\u0107 23\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 22 czerwca w O\u015bwi\u0119cimiu ma by\u0107 28\u00b0C. Nie b\u0119dzie pada\u0107.",
             "image_url": "https://www.bing.pl/th?id=ODF.hU9b0B80CrRL-uqx7ot5XQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "zabytkowe+przedmioty",
-            "date": "O\u015bwi\u0119cim Nasze Miasto3 godz.",
+            "category": "relikty",
+            "date": "O\u015bwi\u0119cim Nasze Miasto7 godz.",
             "source": "O\u015bwi\u0119cim Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Trasy nordic walking do 69 km od Koszalina. Podpowiedzi ciekawych tras na weekend 21 - 22 czerwca",
+            "link": "https://koszalin.naszemiasto.pl/trasy-nordic-walking-do-69-km-od-koszalina-podpowiedzi-ciekawych-tras-na-weekend-21-22-czerwca/ar/c7p1-22318903",
+            "description": "Przed marszem sprawd\u017a prognoz\u0119 pogody dla Koszalina. W sobot\u0119 21 czerwca wed\u0142ug prognozy pogody ma by\u0107 22\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 22 czerwca zgodnie z najnowszymi prognozami pogody ma by\u0107 ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.2lnLIQe5bnM9ixvXVTSDQg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "relikty",
+            "date": "Koszalin Nasze Miasto6 godz.",
+            "source": "Koszalin Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "20 rzeczy, kt\u00f3re powinno zrobi\u0107 dziecko, przed uko\u0144czeniem 10, roku \u017cycia",
+            "link": "https://www.edziecko.pl/rodzice/7,79361,31979053,20-rzeczy-ktore-powinno-zrobic-dziecko-przed-ukonczeniem-10.html",
+            "description": "Twoje dziecko sp\u0119dza wi\u0119kszo\u015b\u0107 wolnego czasu w zamkni\u0119tym pomieszczeniu? Zobacz, jak mo\u017cesz kreatywnie sp\u0119dzi\u0107 z nim czas na ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.ka8FLB4a5A-woQb_v0048S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "eDziecko.pl3 godz.",
+            "source": "eDziecko.pl",
+            "article_content": "W dzisiejszych czasach dost\u0119p do smartfon\u00f3w i tablet\u00f3w nawet w przypadku ma\u0142ych dzieci to \u017cadna nowo\u015b\u0107, ale tak\u017ce swego rodzaju wyzwanie. O ile tego typu technologiczne udogodnienia s\u0105 u\u017cyteczne w edukacji, pozyskiwaniu informacji i komunikacji, to maj\u0105 tak\u017ce negatywny wp\u0142yw na ich u\u017cytkownik\u00f3w. Mowa tu m.in. o problemach z koncentracj\u0105, s\u0142abszych umiej\u0119tno\u015bciach spo\u0142ecznych czy nawet problemach zdrowotnych. Pokolenie dzieci urodzonych po 2000 roku dorasta ze smartfonem w r\u0119ku i dane na ten temat s\u0105 zatrwa\u017caj\u0105ce. Jak czytamy na stronie gov.pl, ze smartfon\u00f3w korzysta 42,7 proc. dzieci w wieku 4-9 lat, a w grupie pomi\u0119dzy 10 a 15 rokiem \u017cycia jest to ju\u017c 91,5 proc. Tym samym niestety, dzieci sp\u0119dzaj\u0105 coraz mniej czasu na aktywnej zabawie ruchowej.\n\nREKLAMA\n\nZobacz wideo Kubicka t\u0142umaczy si\u0119 z p\u0142acz\u0105cego dziecka. \"Czasami match\u0119 chc\u0119 sobie zrobi\u0107\"\n\nDzieci coraz wi\u0119cej wolnego czasu sp\u0119dzaj\u0105 w zamkni\u0119tych pomieszczeniach. Dane s\u0105 zatrwa\u017caj\u0105ce\n\nPokolenie lat 90. doskonale pami\u0119ta godziny na zewn\u0105trz, kt\u00f3re up\u0142ywa\u0142y na eksplorowaniu \u015bwiata wok\u00f3\u0142. Zabawa na \u015bwie\u017cym powietrzu w chowanego, wspinaczka na drzewa czy jazda na rowerze i rolkach by\u0142y dla dzieci tamtych lat najbardziej atrakcyjnymi formami relaksu i zabawy. Przez gigantyczny skok technologiczny i pojawienie si\u0119 takich urz\u0105dze\u0144 jak laptopy i smartfony zmieni\u0142 si\u0119 tak\u017ce spos\u00f3b sp\u0119dzania wolnego czasu przez dzieci. Te du\u017co rzadziej bawi\u0105 si\u0119 dzi\u015b na \u015bwie\u017cym powietrzu i wolne chwile sp\u0119dzaj\u0105 g\u0142\u00f3wnie w pomieszczeniach.\n\nCo ciekawe zmieni\u0142o si\u0119 tak\u017ce podej\u015bcie rodzic\u00f3w. Przytoczone przez brytyjski \"Mirror\" badanie wykonane przez jedn\u0105 z najd\u0142u\u017cej dzia\u0142aj\u0105cych na rynku firm turystycznych, Evan Evans Tours, wykaza\u0142o, \u017ce a\u017c 68 proc. rodzic\u00f3w niech\u0119tnie pozwala swoim dzieciom bawi\u0107 si\u0119 na zewn\u0105trz bez \u017cadnego nadzoru, mimo \u017ce bardzo zale\u017cy im na tym, aby ich dzieci zazna\u0142y takiej samej swobodnej zabawy jak oni w czasach swojego dzieci\u0144stwa. Co ciekawe, 62 proc. spo\u015br\u00f3d badanych przyzna\u0142o, \u017ce daj\u0105 swoim dzieciom mniej swobody ni\u017c oni dostawali w dzieci\u0144stwie. Natomiast a\u017c 42 proc. waha si\u0119, czy pozwoli\u0107 dziecku na jak\u0105\u015b aktywno\u015b\u0107 samemu.\n\nW jaki spos\u00f3b sp\u0119dza\u0107 czas z dzie\u0107mi na \u015bwie\u017cym powietrzu? Te propozycje mog\u0105 was zainspirowa\u0107\n\nRodzice zapytani podczas badania o to, co chcieliby, aby robi\u0142y ich dzieci poni\u017cej 10. roku \u017cycia podczas zabawy na \u015bwie\u017cym, powietrzu bardzo cz\u0119sto wymieniali miejsca i parki rozrywki powi\u0105zane z uniwersum Harry'ego Pottera. Podkre\u015blaj\u0105, \u017ce to aktywno\u015b\u0107, kt\u00f3ra raduje nie tylko dzieci, ale anga\u017cuje wszystkich cz\u0142onk\u00f3w rodziny w zabaw\u0119, co pozwala na sp\u0119dzenie jako\u015bciowego czasu z bliskimi.\n\nRodziny pragn\u0105 prze\u017cy\u0107 chwile, kt\u00f3re pobudzaj\u0105 wyobra\u017anie i tworz\u0105 trwa\u0142e wspomnienia takie jak np. wizyta w magicznym \u015bwiecie Harry'ego Pottera czy wsp\u00f3lna eksploracja przyrody\n\n- zauwa\u017cy\u0142 Alexis Peppis, szef sprzeda\u017cy firmy Evan Evans.\n\nFirma turystyczna Evan Evans Tours, kt\u00f3ra przeprowadzi\u0142a badanie, po konsultacji z rodzicami, postanowi\u0142a stworzy\u0107 list\u0119 20 aktywno\u015bci na \u015bwie\u017cym powietrzu, kt\u00f3re dzieci powinny wykonywa\u0107 przed uko\u0144czeniem 10. roku \u017cycia. Dostosowali\u015bmy j\u0105 do polskich reali\u00f3w. Jest to oczywi\u015bcie lista propozycji, kt\u00f3r\u0105 mo\u017cna potraktowa\u0107 jako swego rodzaju inspiracj\u0119. Sprawd\u017acie, czy znajdziecie na niej pomys\u0142, kt\u00f3ry i wam przypadnie do gustu."
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Dni Tykocina 2025. Miasto \u015bwi\u0119tuje w jubileusz 600-lecia. Zobacz, co dzia\u0142o si\u0119 pierwszego dnia",
+            "link": "https://poranny.pl/dni-tykocina-2025-miasto-swietuje-w-jubileusz-600-lecia-zobacz-co-dzialo-sie-pierwszego-dnia/ar/c13p2-27708795",
+            "description": "Tykocin - pere\u0142ka Podlasia w tym roku \u015bwi\u0119tuje 600-lecie. Dlatego i wyj\u0105tkowe s\u0105 Dni Tykocina 2025. Przez trzy dni mieszka\u0144cy ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.BxPnbfsiomgsI1R4V14RHw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Kurier Poranny5 godz.",
+            "source": "Kurier Poranny",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Stare Miasto w Olsztynie nabiera \u017cycia?",
+            "link": "https://gazetaolsztynska.pl/1181490,Starowka-w-Olsztynie-nabiera-zycia.html",
+            "description": "Staromiejscy przedsi\u0119biorcy przez lata narzekali, \u017ce ratusz nie ma pomys\u0142u na o\u017cywienie tej cz\u0119\u015bci Olsztyna. Ich frustracj\u0119 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.dURgleatXUMrG9ZgeBHOrC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Gazeta Olszty\u0144ska4 godz.",
+            "source": "Gazeta Olszty\u0144ska",
+            "article_content": "Staromiejscy przedsi\u0119biorcy przez lata narzekali, \u017ce ratusz nie ma pomys\u0142u na o\u017cywienie tej cz\u0119\u015bci Olsztyna. Ich frustracj\u0119 pog\u0142\u0119bia\u0142 widok pustych uliczek, a co za tym idzie \u2014 niewielkiej liczby go\u015bci w prowadzonych przez nich lokalach.\n\n\u2014 To problemy zwi\u0105zane z organizacj\u0105 ruchu, w tym z parkowaniem, planem imprez, kt\u00f3re by przyci\u0105gn\u0119\u0142y go\u015bci. To wreszcie sprawa utrzymania czysto\u015bci \u2014 wylicza sprawy do za\u0142atwienia jeden ze staromiejskich restaurator\u00f3w. Ze swojej strony staromiejscy przedsi\u0119biorcy przygotowali list\u0119 najwa\u017cniejszych problem\u00f3w, kt\u00f3re powinny zosta\u0107 rozwi\u0105zane.\n\nZosta\u0142y one ju\u017c przekazane prezydentowi Olsztyna Robertowi Szewczykowi. Przedsi\u0119biorcy zwracaj\u0105 uwag\u0119 m.in. na konieczno\u015b\u0107 zapewnienia \u015brodk\u00f3w na remonty zabytkowych elewacji kamienic oraz popraw\u0119 o\u015bwietlenia ulic, zw\u0142aszcza w bardziej zaniedbanych cz\u0119\u015bciach star\u00f3wki. Obecny stan architektury zdaniem staromiejskich restaurator\u00f3w cz\u0119sto sprawia wra\u017cenie zaniedbania, co negatywnie wp\u0142ywa na wizerunek Starego Miasta. Tamtejsi przedsi\u0119biorcy proponuj\u0105 te\u017c ca\u0142oroczne ogr\u00f3dki przy pubach i restauracjach. Wa\u017cne jest te\u017c odpowiednie skomunikowanie Starego Miasta z innymi dzielnicami.\n\nRatusz stawia na Stare Miasto\n\n\n\nSiedem lat temu w\u0142adze Olsztyna powo\u0142a\u0142y nawet specgrup\u0119 z\u0142o\u017con\u0105 z urz\u0119dnik\u00f3w i przedsi\u0119biorc\u00f3w. Przedstawiono list\u0119 kilkunastu wydarze\u0144, kt\u00f3re mia\u0142yby zmieni\u0107 sytuacj\u0119. Od tamtej pory jednak niewiele si\u0119 dzia\u0142o. Nastawienie ratusza zaczyna si\u0119 jednak zmienia\u0107. Przyk\u0142adem jest pochylenie si\u0119 nad form\u0105 prowadzenia letnich ogr\u00f3dk\u00f3w. Chc\u0105c go urz\u0105dzi\u0107, ka\u017cdy z restaurator\u00f3w musi zap\u0142aci\u0107 za zaj\u0119cie pasa drogowego. A nie s\u0105 to ma\u0142e pieni\u0105dze; stawka dzienna wynosi kilka z\u0142otych za metr kwadratowy.\n\nTo si\u0119 zaczyna zmienia\u0107. Ze swojej strony w\u0142adze Olsztyna zdecydowa\u0142y o uruchomieniu nocnych kurs\u00f3w tramwajowych, kt\u00f3re doje\u017cd\u017caj\u0105 z Pieczewa. To samo sta\u0142o si\u0119 z ogr\u00f3dkami gastronomicznymi. Od tego sezonu ich uruchomienie jest \u0142atwiejsze i ta\u0144sze. Ratusz poszed\u0142 dalej. Na Starym Mie\u015bcie odbywa si\u0119 co niedziel\u0119 targ. Wystawcy, kt\u00f3rych miasto zaprosi\u0142o do wsp\u00f3\u0142pracy, to wsp\u00f3\u0142cze\u015bni rolnicy i lokalni producenci, sami uprawiaj\u0105cy ro\u015bliny, hoduj\u0105cy zwierz\u0119ta i tworz\u0105cy naturalne produkty inspirowane bogactwem natury regionu. W\u015br\u00f3d nich mo\u017cna znale\u017a\u0107 m.in. \u015bwieczki z wosku od w\u0142asnych pszcz\u00f3\u0142 czy myd\u0142a robione z owczego mleka \u2014 rzeczy, kt\u00f3re \u0142\u0105cz\u0105 tradycj\u0119 z nowoczesnym podej\u015bciem do ekologii i dobrostanu.\n\nCo wa\u017cne, w tym roku nie pobierane s\u0105 op\u0142aty targowe. Wystarczy spe\u0142ni\u0107 warunki zawarte w regulaminie i podpisa\u0107 umow\u0119, by do\u0142\u0105czy\u0107 do spo\u0142eczno\u015bci lokalnych tw\u00f3rc\u00f3w jako\u015bciowej \u017cywno\u015bci. Priorytetem jest jako\u015b\u0107 i autentyczno\u015b\u0107.\n\n\u2014 Nasz targ jest \u017cywy i sezonowy. Pojawia si\u0119 na nim to, co aktualnie daje natura. To niepowtarzalna szansa na zakup \u015bwie\u017cych, lokalnych i ekologicznych produkt\u00f3w, kt\u00f3re trudno znale\u017a\u0107 gdzie indziej \u2014 m\u00f3wi prezydent Olsztyna Robert Szewczyk.\n\nPrezydent Olsztyna spotyka si\u0119 tak\u017ce ze staromiejskimi przedsi\u0119biorcami.\n\n\u2014 Za mn\u0105 kolejne spotkanie z przedsi\u0119biorcami ze Starego Miasta. Rozmowa szczera, konkretna i potrzebna. Bo je\u015bli chcemy, by nasze Stare Miasto znowu t\u0119tni\u0142o \u017cyciem, to musimy je tworzy\u0107 wsp\u00f3lnie: mieszka\u0144cy, przedsi\u0119biorcy, miasto. By\u0142o o tym, co jeszcze mo\u017cemy poprawi\u0107 i co zmieni\u0107, ale i o tym, co si\u0119 uda\u0142o. I tu ogromna rado\u015b\u0107, poniewa\u017c niedawny Olszty\u0144ski Dzie\u0144 Dziecka okaza\u0142 si\u0119 strza\u0142em w dziesi\u0105tk\u0119. Us\u0142ysze\u0107 od lokalnych restaurator\u00f3w, \u017ce takiego ruchu nie by\u0142o od lat \u2014 bezcenne \u2014 stwierdzi\u0142 prezydent Szewczyk po ostatnim takim spotkaniu.\n\nWojciech Kroczek ze stowarzyszenia Star\u00f3wka Razem przyzna\u0142: \u2014 Widzimy zmian\u0119 podej\u015bcia obecnych w\u0142adz do problem\u00f3w Starego Miasta. Zdajemy sobie spraw\u0119 z tego, \u017ce rozwi\u0105zanie pewnych kwestii wymaga czasu. Ale jest \u015bwiate\u0142ko w tunelu, \u017ce uda si\u0119 to za\u0142atwi\u0107, co pokazuj\u0105 podejmowane dzia\u0142ania.\n\nBezp\u0142atne Dni Olsztyna\n\n\n\nRatusz powo\u0142a\u0142 tak\u017ce menad\u017cera \u015ar\u00f3dmie\u015bcia i Starego Miasta.\n\n\u2014 Koordynatorka ds. rozwoju \u015ar\u00f3dmie\u015bcia wraz z zespo\u0142em wspieraj\u0105cym dzia\u0142ania zrealizowa\u0142a i realizuje szereg dzia\u0142a\u0144, kt\u00f3re zmierzaj\u0105 do o\u017cywienia tej cz\u0119\u015bci miasta. W\u015br\u00f3d nich by\u0142y m.in. wiosenne sprz\u0105tanie Starego Miasta, szczeg\u00f3\u0142owa kontrola stanu infrastruktury, w tym zapadlisk chodnik\u00f3w i estetyki przestrzeni publicznej. Poza tym wsparcie zyska\u0142y inicjatywy zwi\u0105zane z popraw\u0105 estetyki ogr\u00f3dk\u00f3w i og\u00f3lnego wizerunku \u015ar\u00f3dmie\u015bcia \u2014 informuje Patryk Pulikowski, rzecznik ratusza, i dodaje: \u2014 Ca\u0142y czas prowadzimy rozmowy z przedsi\u0119biorcami, spotykamy si\u0119 regularnie i dyskutujemy o rozwi\u0105zaniach, kt\u00f3re uatrakcyjni\u0105 staromiejsk\u0105 przestrze\u0144. Te uzgodnione i dopracowane b\u0119d\u0105 stopniowo wprowadzane. Natomiast w\u015br\u00f3d wydarze\u0144 b\u0119d\u0105 cho\u0107by bezp\u0142atne Dni Olsztyna. W ci\u0105gu letniego sezonu zorganizowanych zostanie oko\u0142o 150 imprez, g\u0142\u00f3wnie w przestrzeni Starego Miasta oraz okolic.\n\nSami restauratorzy zaczynaj\u0105 si\u0119 zn\u00f3w pojawia\u0107 na Starym Mie\u015bcie. W\u0142a\u015bnie otworzy\u0142a si\u0119 nowa restauracja. To Orient Cafe. \u201eSk\u0105d wzi\u0105\u0142 si\u0119 pomys\u0142 otworzenia knajpki o profilu orientalno-podr\u00f3\u017cniczym w centrum Olsztyna? Ano st\u0105d, kochani, \u017ce jeste\u015bmy ciekaw\u0105 \u015bwiata i smak\u00f3w rodzin\u0105 podr\u00f3\u017cnik\u00f3w z Olsztyna. Do Azji zacz\u0119li\u015bmy podr\u00f3\u017cowa\u0107 ju\u017c lata temu, zaczynaj\u0105c od Tajlandii i Kambod\u017cy\u201d \u2014 informuj\u0105 jej za\u0142o\u017cyciele.\n\nKolejne otwarcie powoli si\u0119 zbli\u017ca. To Manekin, czyli og\u00f3lnopolska sie\u0107 nale\u015bnikarni, kt\u00f3ra robi prawdziw\u0105 furor\u0119 w ca\u0142ej Polsce. Przed restauracjami, zw\u0142aszcza na ulicy Marsza\u0142kowskiej w Warszawie, codziennie ustawiaj\u0105 si\u0119 gigantyczne kolejki. Zlokalizowana b\u0119dzie w dawnym kinie Awangarda.\n\nGrzegorz Szyd\u0142owski"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Trasy spacerowe do 35 km od Cieszyna. Urocze miejsca na kr\u00f3tk\u0105 wypraw\u0119 w weekend 21 - 22 czerwca",
+            "link": "https://cieszyn.naszemiasto.pl/trasy-spacerowe-do-35-km-od-cieszyna-urocze-miejsca-na-krotka-wyprawe-w-weekend-21-22-czerwca/ar/c7p1-22115721",
+            "description": "Zanim wyruszysz w drog\u0119, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 21 czerwca w Cieszynie ma by\u0107 21\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.du4L3MONGy5e3iW-cBV_tC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Cieszyn Nasze Miasto6 godz.",
+            "source": "Cieszyn Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Ju\u017c w niedziel\u0119 kolejna ods\u0142ona Wolnego Jarmarku i pchlego targu na star\u00f3wce! Rynek Nowomiejski zaprasza",
+            "link": "https://nowosci.com.pl/juz-w-niedziele-kolejna-odslona-wolnego-jarmarku-i-pchlego-targu-na-starowce-rynek-nowomiejski-zaprasza/ar/c1p2-27700903",
+            "description": "Smacznie, zdrowo i bardzo ciekawie - tak b\u0119dzie ju\u017c w niedziel\u0119, 22 czerwca, na Rynku Nowomiejskim w Toruniu. Ponownie ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.YenPdt2NCijcN2KxwsXJFS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski11 godz.",
+            "source": "Nowo\u015bci Dziennik Toru\u0144ski",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Kolekcjonerskie znaczki pocztowe z czas\u00f3w PRL. Tyle w 2025 roku mo\u017cna zarobi\u0107 na filatelistycznych skarbach [22.06.25]",
+            "link": "https://pomorska.pl/kolekcjonerskie-znaczki-pocztowe-z-czasow-prl-tyle-w-2025-roku-mozna-zarobic-na-filatelistycznych-skarbach-22-06-25/ar/c1p2-27654257",
+            "description": "W 2025 roku znaczki pocztowe z lat PRL ciesz\u0105 si\u0119 popularno\u015bci\u0105 i s\u0105 poszukiwane przez kolekcjoner\u00f3w. Je\u015bli masz takie w domu ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.rdwX0mMtEbzif0kd4SIisQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+numizmatyka",
+            "date": "Gazeta Pomorska3 godz.",
+            "source": "Gazeta Pomorska",
             "article_content": "Content not available"
         }
     },
@@ -426,23 +458,7 @@
             "description": "W 2025 roku znaczki pocztowe z lat PRL ciesz\u0105 si\u0119 popularno\u015bci\u0105 i s\u0105 poszukiwane przez kolekcjoner\u00f3w. Je\u015bli masz takie w domu ...",
             "image_url": "https://www.bing.pl/th?id=OVF.Y4hjhkYVRmlDecnIzu1rzg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Pomorska9 godz.",
-            "source": "Gazeta Pomorska",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Kolekcjonerskie znaczki pocztowe z czas\u00f3w PRL. Tyle w 2025 roku mo\u017cna zarobi\u0107 na filatelistycznych skarbach [21.06.25]",
-            "link": "https://pomorska.pl/kolekcjonerskie-znaczki-pocztowe-z-czasow-prl-tyle-w-2025-roku-mozna-zarobic-na-filatelistycznych-skarbach-21-06-25/ar/c1p2-27654257",
-            "description": "W 2025 roku znaczki pocztowe z lat PRL ciesz\u0105 si\u0119 popularno\u015bci\u0105 i s\u0105 poszukiwane przez kolekcjoner\u00f3w. Je\u015bli masz takie w domu, przejrzyj je dok\u0142adnie. Mo\u017ce si\u0119 okaza\u0107, \u017ce to prawdziwe kolekcjonerskie ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stare+numizmatyka",
-            "date": "Gazeta Pomorska23 godz.",
+            "date": "Gazeta Pomorska13 godz.",
             "source": "Gazeta Pomorska",
             "article_content": "Content not available"
         }
@@ -458,7 +474,7 @@
             "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.o4EwlAsIz5rMM3h8kMS_wi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Szczeci\u0144ski11 godz.",
+            "date": "G\u0142os Szczeci\u0144ski15 godz.",
             "source": "G\u0142os Szczeci\u0144ski",
             "article_content": "Content not available"
         }
@@ -469,12 +485,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Cenne monety PRL sprzedawane na portalach aukcyjnych. Tyle kosztuj\u0105 monety z PRL-u w 2025 [21.06.25]",
-            "link": "https://torun.naszemiasto.pl/cenne-monety-prl-sprzedawane-na-portalach-aukcyjnych-tyle-kosztuja-monety-z-prl-u-w-2025-21-06-25/ar/c1p2-27655625",
-            "description": "Najdro\u017csze monety PRL by\u0142y jednak sprzedawane na aukcjach. Przede wszystkim na rzadkich, dedykowanych spotkaniach ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.kzxp3zfJddVZpvkmq5rUvA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Cenne monety PRL sprzedawane na portalach aukcyjnych. Tyle kosztuj\u0105 monety z PRL-u w 2025 [21.06.2025 r.]",
+            "link": "https://torun.naszemiasto.pl/cenne-monety-prl-sprzedawane-na-portalach-aukcyjnych-tyle-kosztuja-monety-z-prl-u-w-2025-21-06-2025-r/ar/c1p2-27655625",
+            "description": "Monety z PRL-u wracaj\u0105 do gry i to z hukiem \u2013 niekt\u00f3re osi\u0105gaj\u0105 takie ceny, \u017ce nawet towarzysz Gomu\u0142ka by si\u0119 zdziwi\u0142! W 2025 ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.YvgEh4n4YM3C1WizJzYWPQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Toru\u0144 Nasze Miasto3 godz.",
+            "date": "Toru\u0144 Nasze Miasto13 godz.",
             "source": "Toru\u0144 Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -490,7 +506,7 @@
             "description": "Je\u015bli my\u015blisz, \u017ce wszystkie monety z PRL s\u0105 warte tylko kilka groszy, to jeste\u015b w b\u0142\u0119dzie. Istniej\u0105 konkretne egzemplarze, kt\u00f3re na aukcjach internetowych potrafi\u0105 osi\u0105ga\u0107 osza\u0142amiaj\u0105ce ceny \u2013 nawet ...",
             "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Pomorza10 godz.",
+            "date": "G\u0142os Pomorza14 godz.",
             "source": "G\u0142os Pomorza",
             "article_content": "Content not available"
         }
