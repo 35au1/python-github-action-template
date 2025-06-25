@@ -5,12 +5,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Kolekcjonerzy poluj\u0105 na te wazony z PRL. Takie pami\u0105tki z dusz\u0105 mog\u0105 okaza\u0107 si\u0119 prawdziwym skarbem [25.06.25]",
-            "link": "https://pomorska.pl/kolekcjonerzy-poluja-na-te-wazony-z-prl-takie-pamiatki-z-dusza-moga-okazac-sie-prawdziwym-skarbem-25-06-25/ar/c1p2-27606583",
+            "title": "Kolekcjonerzy poluj\u0105 na te wazony z PRL. Takie pami\u0105tki z dusz\u0105 mog\u0105 okaza\u0107 si\u0119 prawdziwym skarbem [25.06.2025]",
+            "link": "https://pomorska.pl/kolekcjonerzy-poluja-na-te-wazony-z-prl-takie-pamiatki-z-dusza-moga-okazac-sie-prawdziwym-skarbem-25-06-2025/ar/c1p2-27606583",
             "description": "Wazony z czas\u00f3w PRL w 2025 roku zyskuj\u0105 na warto\u015bci. S\u0105 poszukiwane zar\u00f3wno przez kolekcjoner\u00f3w, jak i mi\u0142o\u015bnik\u00f3w starego ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.eofeFwx6X%2b47Ym29MwQ4jQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "image_url": "https://www.bing.pl/th?id=OVF.ifWYkTPHoTSVq6G8D5EP6g&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Gazeta Pomorska2 godz.",
+            "date": "Gazeta Pomorska41 min",
             "source": "Gazeta Pomorska",
             "article_content": "Content not available"
         }
@@ -26,25 +26,9 @@
             "description": "Ministerstwo Promocji \u015al\u0105ska - jest nowy pomys\u0142, co zrobi\u0107 po fiasku z j\u0119zykiem regionalnym. Pierwsze spotkanie we wrze\u015bniu w Katowicach. Pomys\u0142 Roberta Talarczyka, kt\u00f3rym podzieli\u0142 si\u0119 na \u0142amach Dzie ...",
             "image_url": "https://www.bing.pl/th?id=ODF.73GKiv_kwPXUhIas-a0ZXQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "Dziennik Zachodni on MSN3 godz.",
+            "date": "Dziennik Zachodni on MSN7 godz.",
             "source": "Dziennik Zachodni on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Gie\u0142da w miedzianej g\u00f3rze",
-            "link": "https://echodnia.eu/swietokrzyskie/tag/gielda-w-miedzianej-gorze",
-            "description": "w niedziel\u0119, 22 czerwca przyci\u0105gn\u0119\u0142a t\u0142umy kupuj\u0105cych poszukuj\u0105cych okazji. A tych nie brakowa\u0142o. Mo\u017cna tu by\u0142o kupi\u0107 unikatowe... Bardzo du\u017co u\u017cywanych samochod\u00f3w wystawiono na sprzeda\u017c na gie\u0142dzie w ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.xmtGTJHQSE_v4D-CWxbvsQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "starocie",
-            "date": "Echo Dnia12 min",
-            "source": "Echo Dnia",
-            "article_content": "Content not available"
         }
     },
     {
@@ -58,8 +42,24 @@
             "description": "Dzisiaj (24.06) po godzinie 16 w Grajewie dosz\u0142o do niebezpiecznego zdarzenia drogowego z udzia\u0142em dw\u00f3ch samochod\u00f3w osobowych.",
             "image_url": "https://www.bing.pl/th?id=ODF.J2HjYlW7BWiryFifLql_kw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "Gazeta Wsp\u00f3\u0142czesna4 godz.",
+            "date": "Gazeta Wsp\u00f3\u0142czesna8 godz.",
             "source": "Gazeta Wsp\u00f3\u0142czesna",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Gie\u0142da w miedzianej g\u00f3rze",
+            "link": "https://echodnia.eu/swietokrzyskie/tag/gielda-w-miedzianej-gorze",
+            "description": "w niedziel\u0119, 22 czerwca przyci\u0105gn\u0119\u0142a t\u0142umy kupuj\u0105cych poszukuj\u0105cych okazji. A tych nie brakowa\u0142o. Mo\u017cna tu by\u0142o kupi\u0107 unikatowe... Bardzo du\u017co u\u017cywanych samochod\u00f3w wystawiono na sprzeda\u017c na gie\u0142dzie w ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.xmtGTJHQSE_v4D-CWxbvsQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "starocie",
+            "date": "Echo Dnia4 godz.",
+            "source": "Echo Dnia",
             "article_content": "Content not available"
         }
     },
@@ -74,7 +74,7 @@
             "description": "W 2025 roku znaczki pocztowe z lat PRL ciesz\u0105 si\u0119 popularno\u015bci\u0105 i s\u0105 poszukiwane przez kolekcjoner\u00f3w. Je\u015bli masz takie w domu ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.scV_qWfr5km0Vx3bqZ7Lly&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Gazeta Pomorska on MSN15 godz.",
+            "date": "Gazeta Pomorska on MSN20 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -90,7 +90,7 @@
             "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ich pojawienia si\u0119 na rynku. Najcz\u0119\u015bciej poszukiwane monety przez kolekcjone ...",
             "image_url": "https://www.bing.pl/th?id=ODF.liWL6w23oefxD6cfFEdIQA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "Nasze Miasto on MSN47 min",
+            "date": "Nasze Miasto on MSN5 godz.",
             "source": "Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -106,7 +106,7 @@
             "description": "Je\u015bli my\u015blisz, \u017ce wszystkie monety z PRL s\u0105 warte tylko kilka groszy, to jeste\u015b w b\u0142\u0119dzie. Istniej\u0105 konkretne egzemplarze, kt\u00f3re na aukcjach internetowych potrafi\u0105 osi\u0105ga\u0107 osza\u0142amiaj\u0105ce ceny \u2013 nawet ...",
             "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "G\u0142os Pomorza on MSN44 min",
+            "date": "G\u0142os Pomorza on MSN5 godz.",
             "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
         }
@@ -117,14 +117,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Zapraszamy na Gie\u0142d\u0119 Kolekcjoner\u00f3w w Na\u0107mierzu. Zobacz zdj\u0119cia",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/zapraszamy-na-gie%C5%82d%C4%99-kolekcjoner%C3%B3w-w-na%C4%87mierzu-zobacz-zdj%C4%99cia/ar-AA1Hnc0u?ocid=BingNewsVerp",
-            "description": "Muzeum Ziemi S\u0142awie\u0144skiej w Na\u0107mierzu (gm. Postomino) organizuje Gie\u0142d\u0119 Kolekcjoner\u00f3w. Mi\u0142o\u015bnicy lokalnej historii pokazuj\u0105 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.rG3K1PUpQj2xNgtdFlcDfC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Stare zabawki z czas\u00f3w PRL - w 2025 roku to kolekcjonerskie pere\u0142ki na wag\u0119 z\u0142ota [25.06.2025]",
+            "link": "https://pomorska.pl/stare-zabawki-z-czasow-prl-w-2025-roku-to-kolekcjonerskie-perelki-na-wage-zlota-25-06-2025/ar/c1p2-27696031",
+            "description": "W 2025 roku zabawki z lat PRL ciesz\u0105 si\u0119 popularno\u015bci\u0105 i s\u0105 poszukiwane przez kolekcjoner\u00f3w. Je\u015bli masz jeszcze takie w domu, ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.34DTPcPGtwJDtIwJLH%2bPgQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "S\u0142awno Nasze Miasto on MSN2 godz.",
-            "source": "S\u0142awno Nasze Miasto on MSN",
-            "article_content": ""
+            "date": "Gazeta Pomorska40 min",
+            "source": "Gazeta Pomorska",
+            "article_content": "Content not available"
         }
     },
     {
@@ -138,7 +138,7 @@
             "description": "Najdro\u017csze monety PRL by\u0142y jednak sprzedawane na aukcjach. Przede wszystkim na rzadkich, dedykowanych spotkaniach ...",
             "image_url": "https://www.bing.pl/th?id=OVF.B65F4FIi9zO5u8rLgo%2fFtw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Toru\u0144 Nasze Miasto on MSN14 godz.",
+            "date": "Toru\u0144 Nasze Miasto on MSN19 godz.",
             "source": "Toru\u0144 Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -149,12 +149,28 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Stare zabawki z czas\u00f3w PRL - w 2025 roku to kolekcjonerskie pere\u0142ki na wag\u0119 z\u0142ota [25.06.25]",
-            "link": "https://pomorska.pl/stare-zabawki-z-czasow-prl-w-2025-roku-to-kolekcjonerskie-perelki-na-wage-zlota-25-06-25/ar/c1p2-27696031",
-            "description": "W 2025 roku zabawki z lat PRL ciesz\u0105 si\u0119 popularno\u015bci\u0105 i s\u0105 poszukiwane przez kolekcjoner\u00f3w. Je\u015bli masz jeszcze takie w domu, ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.l%2bVBvicGG0fEW%2fOrD2yKLg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Znalaz\u0142a skarb pod li\u015b\u0107mi w parku. Takiej zawarto\u015bci si\u0119 nie spodziewa\u0142a",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/znalaz%C5%82a-skarb-pod-li%C5%9B%C4%87mi-w-parku-takiej-zawarto%C5%9Bci-si%C4%99-nie-spodziewa%C5%82a/ar-AA1HnygT?ocid=BingNewsVerp",
+            "description": "Porz\u0105dki zawodowej ogrodniczki ze stanu Vermont doprowadzi\u0142y do zaskakuj\u0105cego odkrycia. Podczas przeprowadzania wiosennych ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.Fae1fwqsH5EQeETixCgBsi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Gazeta Pomorska2 godz.",
+            "date": "Wiadomo\u015bci Radio ZET on MSN2 godz.",
+            "source": "Wiadomo\u015bci Radio ZET on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Kolekcjonerzy poluj\u0105 na te wazony z PRL. Takie pami\u0105tki z dusz\u0105 mog\u0105 okaza\u0107 si\u0119 prawdziwym skarbem [25.06.2025]",
+            "link": "https://pomorska.pl/kolekcjonerzy-poluja-na-te-wazony-z-prl-takie-pamiatki-z-dusza-moga-okazac-sie-prawdziwym-skarbem-25-06-2025/ar/c1p2-27606583",
+            "description": "Wazony z czas\u00f3w PRL w 2025 roku zyskuj\u0105 na warto\u015bci. S\u0105 poszukiwane zar\u00f3wno przez kolekcjoner\u00f3w, jak i mi\u0142o\u015bnik\u00f3w starego ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.ifWYkTPHoTSVq6G8D5EP6g&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stara+porcelana",
+            "date": "Gazeta Pomorska41 min",
             "source": "Gazeta Pomorska",
             "article_content": "Content not available"
         }
@@ -170,24 +186,8 @@
             "description": "Unikalne antyki poszukiwane przez kolekcjoner\u00f3w mog\u0105 zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na nich zarobi\u0107 fortun\u0119. Cz\u0119sto nie ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.M2fw_kVEbAkv5zg2kvCAfS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Krakowska1 godz.",
+            "date": "Gazeta Krakowska5 godz.",
             "source": "Gazeta Krakowska",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Kolekcjonerzy poluj\u0105 na te wazony z PRL. Takie pami\u0105tki z dusz\u0105 mog\u0105 okaza\u0107 si\u0119 prawdziwym skarbem [25.06.25]",
-            "link": "https://pomorska.pl/kolekcjonerzy-poluja-na-te-wazony-z-prl-takie-pamiatki-z-dusza-moga-okazac-sie-prawdziwym-skarbem-25-06-25/ar/c1p2-27606583",
-            "description": "Wazony z czas\u00f3w PRL w 2025 roku zyskuj\u0105 na warto\u015bci. S\u0105 poszukiwane zar\u00f3wno przez kolekcjoner\u00f3w, jak i mi\u0142o\u015bnik\u00f3w starego ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.eofeFwx6X%2b47Ym29MwQ4jQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stara+porcelana",
-            "date": "Gazeta Pomorska2 godz.",
-            "source": "Gazeta Pomorska",
             "article_content": "Content not available"
         }
     },
@@ -202,25 +202,9 @@
             "description": "Unikalne antyki poszukiwane przez kolekcjoner\u00f3w mog\u0105 zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na nich zarobi\u0107 fortun\u0119. Cz\u0119sto nie ...",
             "image_url": "https://www.bing.pl/th?id=OVF.oh%2fP7kHFt22vhiNiD4ZJlQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "G\u0142os Pomorza on MSN1 godz.",
+            "date": "G\u0142os Pomorza on MSN5 godz.",
             "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Gie\u0142da w miedzianej g\u00f3rze",
-            "link": "https://echodnia.eu/swietokrzyskie/tag/gielda-w-miedzianej-gorze",
-            "description": "w niedziel\u0119, 22 czerwca przyci\u0105gn\u0119\u0142a t\u0142umy kupuj\u0105cych poszukuj\u0105cych okazji. A tych nie brakowa\u0142o. Mo\u017cna tu by\u0142o kupi\u0107 unikatowe... Bardzo du\u017co u\u017cywanych samochod\u00f3w wystawiono na sprzeda\u017c na gie\u0142dzie w ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.xmtGTJHQSE_v4D-CWxbvsQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "targ+staroci",
-            "date": "Echo Dnia12 min",
-            "source": "Echo Dnia",
-            "article_content": "Content not available"
         }
     },
     {
@@ -234,8 +218,24 @@
             "description": "Dzisiaj (24.06) po godzinie 16 w Grajewie dosz\u0142o do niebezpiecznego zdarzenia drogowego z udzia\u0142em dw\u00f3ch samochod\u00f3w osobowych.",
             "image_url": "https://www.bing.pl/th?id=ODF.J2HjYlW7BWiryFifLql_kw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Gazeta Wsp\u00f3\u0142czesna4 godz.",
+            "date": "Gazeta Wsp\u00f3\u0142czesna8 godz.",
             "source": "Gazeta Wsp\u00f3\u0142czesna",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Gie\u0142da w miedzianej g\u00f3rze",
+            "link": "https://echodnia.eu/swietokrzyskie/tag/gielda-w-miedzianej-gorze",
+            "description": "w niedziel\u0119, 22 czerwca przyci\u0105gn\u0119\u0142a t\u0142umy kupuj\u0105cych poszukuj\u0105cych okazji. A tych nie brakowa\u0142o. Mo\u017cna tu by\u0142o kupi\u0107 unikatowe... Bardzo du\u017co u\u017cywanych samochod\u00f3w wystawiono na sprzeda\u017c na gie\u0142dzie w ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.xmtGTJHQSE_v4D-CWxbvsQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "targ+staroci",
+            "date": "Echo Dnia4 godz.",
+            "source": "Echo Dnia",
             "article_content": "Content not available"
         }
     },
@@ -250,8 +250,24 @@
             "description": "Po raz kolejny do sto\u0142ecznego Pa\u0142acu Kultury i Nauki zawitali wystawcy, oferuj\u0105cy produkty zwi\u0105zane z kultur\u0105 wschodu. Tym razem g\u0142\u00f3wnym zagadnieniem wydarzenia... W ten weekend w Warszawie mo\u017cna by\u0142o ...",
             "image_url": "https://www.bing.pl/th?id=ODF.RiSZ6cVK2kGKUBp4PkSDCg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Warszawa Nasze Miasto12 godz.",
+            "date": "Warszawa Nasze Miasto16 godz.",
             "source": "Warszawa Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Stare zabawki z czas\u00f3w PRL - w 2025 roku to kolekcjonerskie pere\u0142ki na wag\u0119 z\u0142ota [25.06.2025]",
+            "link": "https://pomorska.pl/stare-zabawki-z-czasow-prl-w-2025-roku-to-kolekcjonerskie-perelki-na-wage-zlota-25-06-2025/ar/c1p2-27696031",
+            "description": "W 2025 roku zabawki z lat PRL ciesz\u0105 si\u0119 popularno\u015bci\u0105 i s\u0105 poszukiwane przez kolekcjoner\u00f3w. Je\u015bli masz jeszcze takie w domu, ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.34DTPcPGtwJDtIwJLH%2bPgQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "Gazeta Pomorska40 min",
+            "source": "Gazeta Pomorska",
             "article_content": "Content not available"
         }
     },
@@ -266,25 +282,9 @@
             "description": "Najdro\u017csze monety PRL by\u0142y jednak sprzedawane na aukcjach. Przede wszystkim na rzadkich, dedykowanych spotkaniach ...",
             "image_url": "https://www.bing.pl/th?id=OVF.NmZYqrM2aB7117UZR7UI%2fw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN3 godz.",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN7 godz.",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Stare zabawki z czas\u00f3w PRL - w 2025 roku to kolekcjonerskie pere\u0142ki na wag\u0119 z\u0142ota [25.06.25]",
-            "link": "https://pomorska.pl/stare-zabawki-z-czasow-prl-w-2025-roku-to-kolekcjonerskie-perelki-na-wage-zlota-25-06-25/ar/c1p2-27696031",
-            "description": "W 2025 roku zabawki z lat PRL ciesz\u0105 si\u0119 popularno\u015bci\u0105 i s\u0105 poszukiwane przez kolekcjoner\u00f3w. Je\u015bli masz jeszcze takie w domu, ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.l%2bVBvicGG0fEW%2fOrD2yKLg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "Gazeta Pomorska2 godz.",
-            "source": "Gazeta Pomorska",
-            "article_content": "Content not available"
         }
     },
     {
@@ -298,7 +298,7 @@
             "description": "Blizzard szykuje si\u0119 w\u0142a\u015bnie do oficjalnej premiery, prezentuj\u0105c pierwszy zwiastun i chwal\u0105c si\u0119 nowo\u015bciami, kt\u00f3re ju\u017c niebawem trafi\u0105 do gry.",
             "image_url": "https://www.bing.pl/th?id=ODF.oRdY5hMnAeLU-bKsx8P3-Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Eurogamer.pl1 godz.",
+            "date": "Eurogamer.pl5 godz.",
             "source": "Eurogamer.pl",
             "article_content": "Niedawno zako\u0144czy\u0142y si\u0119 testy kolejnego sezonu Diablo IV. Blizzard szykuje si\u0119 w\u0142a\u015bnie do oficjalnej premiery, prezentuj\u0105c pierwszy zwiastun i chwal\u0105c si\u0119 nowo\u015bciami, kt\u00f3re ju\u017c niebawem trafi\u0105 do gry.\n\nDziewi\u0105ty sezon wystartuje ju\u017c 1 lipca o godzinie 19:00 czasu polskiego. Warstwa fabularna skupi si\u0119 na poszukiwaniu spaczonych relikt\u00f3w, przesi\u0105kni\u0119tych krwi\u0105 demona Astarota. Odnalezienie i oczyszczenie ka\u017cdego z nich os\u0142abi pot\u0119\u017cnego demona, z kt\u00f3rym przyjdzie nam zmierzy\u0107 si\u0119 pod koniec sezonu. Poznamy te\u017c lepiej histori\u0119 maga Donana, kt\u00f3ry zapiecz\u0119towa\u0142 owe relikty i uwi\u0119zi\u0142 Astarota, a tak\u017ce nieznane fakty z historii Zakonu Horadrim\u00f3w.\n\nWspomniane relikty s\u0105 ukryte w Skarbcach Horadrim\u00f3w - czyli nowym typie miniaturowych podziemi, ukrytych w Podziemiach Koszmar\u00f3w w Sferze Sezonowej i Wieczno\u015bci. Gracze b\u0119d\u0105 mogli znale\u017a\u0107 w nich cenne skarby, ale i nowych przeciwnik\u00f3w. Skarbce b\u0119d\u0105 dost\u0119pne w grze przez ograniczony czas. Po uko\u0144czeniu Skarbc\u00f3w i odnalezieniu specjalnych tom\u00f3w b\u0119dzie mo\u017cna wytworzy\u0107 Klejnoty Horadrim\u00f3w, zapewniaj\u0105ce pot\u0119\u017cne bonusy.\n\nSporym wyzwaniem mog\u0105 okaza\u0107 si\u0119 Spot\u0119gowane Koszmary. To nowa aktywno\u015b\u0107 ko\u0144cowej fazy gry, sk\u0142adaj\u0105ca si\u0119 z trzech coraz trudniejszych Podziemi Koszmar\u00f3w, na ko\u0144cu kt\u00f3rych przyjdzie nam si\u0119 zmierzy\u0107 z Astarotem i jego wierzchowcem Amalgamatem. Sezon 9. wprowadzi te\u017c nieco zmian w afiksach Podziemi Koszmar\u00f3w.\n\nCiekaw\u0105 nowo\u015bci\u0105 s\u0105 Zakl\u0119cia Horadrim\u00f3w, kt\u00f3re b\u0119dzie mo\u017cna personalizowa\u0107. Dzi\u0119ki po\u0142\u0105czeniu Katalizatora (wp\u0142ywaj\u0105cego na podstawow\u0105 moc zakl\u0119cia), Infuzji (modyfikuj\u0105cych \u017cywio\u0142) oraz Arkan\u00f3w (zapewniaj\u0105cych dodatkowe efekty), gracze b\u0119d\u0105 mogli tworzy\u0107 pot\u0119\u017cne, dostosowane do swojego stylu rozgrywki zakl\u0119cia. Moc owych czar\u00f3w b\u0119dzie mo\u017cna te\u017c zwi\u0119kszy\u0107 za pomoc\u0105 Klejnot\u00f3w Horadrim\u00f3w.\n\nDo gry trafi\u0105 te\u017c oczywi\u015bcie nowe przedmioty kosmetyczne. W podstawowym relikwiarzu znajdzie si\u0119 nowy wierzchowiec Ewentyn, pancerz wierzchowca Kropierz Nocnego Zab\u00f3jcy oraz portal miejski Wrota \u017belaznego Demona. Wi\u0119cej nowo\u015bci znajdziemy karnetach bojowych Premium i Deluxe. Na graczy czekaj\u0105 te\u017c nagrody za post\u0119py sezonowe, w tym m.in. zwierz\u0119cy towarzysz - demoniczny pies Dante.\n\nGra doczeka si\u0119 te\u017c drobnych usprawnie\u0144 technicznych, w tym natywnego wsparcia dla technologii generowania klatek DLSS4 oraz obs\u0142ugi myszki i klawiatury na konsolach."
         }
@@ -314,7 +314,7 @@
             "description": "Interdyscyplinarny zesp\u00f3\u0142 naukowc\u00f3w z Polski i Czech w\u0142a\u015bnie zako\u0144czy\u0142 badania dw\u00f3ch zapomnianych podoboz\u00f3w niemieckiego ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.yAclnCfFzX8RwPQq_oOm7y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Gazeta Wroc\u0142awska on MSN15 godz.",
+            "date": "Gazeta Wroc\u0142awska on MSN19 godz.",
             "source": "Gazeta Wroc\u0142awska on MSN",
             "article_content": ""
         }
@@ -330,7 +330,7 @@
             "description": "B\u0142a\u017cej Stencel to polski aktor, piosenkarz i prezenter telewizyjny, kt\u00f3remu szczeg\u00f3ln\u0105 popularno\u015b\u0107 przyni\u00f3s\u0142 program \"Ko\u0142o ...",
             "image_url": "https://www.bing.pl/th?id=OVF.dA8xiM9cTNeVvLweypMs3Q&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski4 godz.",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski8 godz.",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski",
             "article_content": "Content not available"
         }
@@ -346,9 +346,25 @@
             "description": "Unikalne antyki poszukiwane przez kolekcjoner\u00f3w mog\u0105 zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na nich zarobi\u0107 fortun\u0119. Cz\u0119sto nie ...",
             "image_url": "https://www.bing.pl/th?id=OVF.Bx20g2uXhlGqM3vnsztSPg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Dziennik \u0141\u00f3dzki1 godz.",
+            "date": "Dziennik \u0141\u00f3dzki5 godz.",
             "source": "Dziennik \u0141\u00f3dzki",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Francuska trasa. Do Santiago de Compostela rowerem",
+            "link": "https://opoka.org.pl/News/Swiat/2025/francuska-trasa-do-santiago-de-compostela-rowerem",
+            "description": "Dlaczego wybra\u0142em Camino Frances? Bo jest najbardziej popularne \u2013 du\u017ca ilo\u015b\u0107 schronisk, dobre trasy dla roweru, klimat i ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.bB4Qlrx1UfGfo98M8sdpLS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "OPOKA10 min",
+            "source": "OPOKA",
+            "article_content": "Camino staje si\u0119 coraz popularniejsze w\u015br\u00f3d polskich piechur\u00f3w \u2013 co roku oko\u0142o 10 tys. naszych rodak\u00f3w rusza na pielgrzymk\u0119 do Santiago de Compostela. Rok temu, kiedy pielgrzymowa\u0142em przez miesi\u0105c z Sewilli rozmawia\u0142em z nielicznymi rowerzystami-pielgrzymami. W jednym z albergue, czyli schronisku dla pielgrzym\u00f3w, zobaczy\u0142em ma\u0142y biuletyn po angielsku \u201eDroga francuska na rowerze\u201d. Chodzi o Camino Francuskie, kt\u00f3re jest najpopularniejsze. Ten folderek zainspirowa\u0142 mnie do zorganizowania w maju bie\u017c\u0105cego roku pielgrzymki rowerowej w Hiszpanii.\n\nKlasyfikacja g\u00f3rska\n\nHiszpani\u0119 z wielu wzgl\u0119d\u00f3w jest warto zwiedza\u0107 na rowerze. Cho\u0107 \u015bcie\u017cek rowerowych jest chyba mniej ni\u017c w Polsce, to dobrze jest tu rozwini\u0119ta sie\u0107 dr\u00f3g lokalnych z minimalnym ruchem. Natomiast na drogach wojew\u00f3dzkich mamy szerokie pobocza.\n\nJazda rowerem pozwala na zwiedzenie ogromnej liczby zabytk\u00f3w i r\u00f3\u017cnych ciekawych miejsc. Na Camino Frances odwiedzimy takie s\u0142ynne miejsca jak Burgos, Leon czy Astorga (w tych dw\u00f3ch ostatnich s\u0105 nawet budynki s\u0142ynnego Gaudiego). Przyroda zmienia si\u0119 nieustannie: g\u00f3ry, wzg\u00f3rza, tereny rolnicze i lasy czy mesety \u2013 suche p\u0142askowy\u017ce Kastylii, malutkie, malownicze puebla. W Hiszpanii cz\u0119sto w szczerym polu stoi gotycka katedra lub roma\u0144ski ko\u015bci\u00f3\u0142ek, a historia si\u0119ga tu czas\u00f3w rzymskich. Teren jest bardzo urozmaicony i w du\u017cej cz\u0119\u015bci zaliczy\u0142bym go do \u201eklasyfikacji g\u00f3rskiej\u201d.\n\nCamino czyli podr\u00f3\u017c do Santiago de Compostela to jedna z najs\u0142ynniejszych pielgrzymek \u015bwiata. Jej pocz\u0105tki si\u0119gaj\u0105 wczesnego \u015bredniowiecza. Od XI do XV w. z ca\u0142ej Europy sz\u0142o do relikwii \u015bw. Jakuba Aposto\u0142a tak wielu p\u0105tnik\u00f3w, \u017ce specjalnie dla nich budowano mosty i przytu\u0142ki/schroniska. Wraz z wybuchem wojen religijnych w XVI w. zwyczaje pielgrzymkowe zacz\u0119\u0142y zanika\u0107. Dopiero w latach 70. XX w. Camino zacz\u0119\u0142o si\u0119 odradza\u0107, wskutek czego w 2024 r. odnotowano rekordow\u0105 liczb\u0119 pielgrzym\u00f3w: 1,5 mln! Jest to zjawisko zupe\u0142nie spontaniczne. Opr\u00f3cz Hiszpan\u00f3w najwi\u0119cej jest Amerykan\u00f3w, Francuz\u00f3w, W\u0142och\u00f3w, Korea\u0144czyk\u00f3w, Japo\u0144czyk\u00f3w, Niemc\u00f3w, ale mo\u017cemy tu spotka\u0107 ludzi dos\u0142ownie z ca\u0142ego \u015bwiata. Wi\u0119kszo\u015b\u0107 pielgrzymuje kilka dni, ale du\u017ca cz\u0119\u015b\u0107 oko\u0142o miesi\u0105ca, a spotkamy te\u017c takich, kt\u00f3rzy id\u0105 p\u00f3\u0142 roku z kraj\u00f3w ba\u0142tyckich, Polski czy Ukrainy.\n\nCel podr\u00f3\u017cy \u2013 katedra w Santiago de Compostela\n\nPrzez prze\u0142\u0119cze\n\nCamino rowerowe ma swoj\u0105 specyfik\u0119. Oczywi\u015bcie mo\u017cemy lojalnie jecha\u0107 g\u0142\u00f3wn\u0105 tras\u0105, zazwyczaj \u017cwir\u00f3wk\u0105, ale mo\u017cemy te\u017c jecha\u0107 odcinkami oddzielnie wyznaczonymi dla rowerzyst\u00f3w. G\u0142\u00f3wna trasa stwarza pewne problemy. Po pierwsze cz\u0119sto, g\u0119sto b\u0119dziemy musieli mija\u0107 pieszych pielgrzym\u00f3w. Czasami g\u0142\u00f3wna trasa prowadzi kamienistymi drogami przez g\u00f3ry i je\u015bli mo\u017cna takie odcinki wymin\u0105\u0107, to warto to zrobi\u0107. Droga asfaltowa b\u0119dzie mo\u017ce troch\u0119 d\u0142u\u017csza, ale za to b\u0119dziemy wygodnie jecha\u0107, a nie ci\u0105gn\u0105\u0107 rower po kamieniach lub b\u0142ocie. Dlatego dobrze ka\u017cdego dnia przygotowa\u0107 sobie wst\u0119pnie tras\u0119 korzystaj\u0105c z mapy.com (dawne .ch), openstreet maps, strava czy innej aplikacji rowerowej. Cz\u0119sto wzd\u0142u\u017c Camino, oznaczonej charakterystyczn\u0105 muszelk\u0105 lub \u017c\u00f3\u0142t\u0105 strza\u0142k\u0105 na niebieskim tle, lub niedaleko od niej, znajduje si\u0119 jedna z europejskich tras EV (EuroVelo).\n\nCa\u0142a \u201efrancuska\u201d trasa ma 800 km i zaczyna si\u0119 oficjalnie we Francji tu\u017c przed Pirenejami w Saint-Jean-Pied-de-Port.\n\nMy rozpocz\u0119li\u015bmy \u201ejeden dzie\u0144 p\u00f3\u017aniej\u201d w Pampelunie, aby pierwszego dnia z marszu nie mierzy\u0107 si\u0119 z prze\u0142\u0119cz\u0105 w Pirenejach na wysoko\u015bci 1480 m n.p.m. (1250 m przewy\u017csze\u0144). Tras\u0119 pokonali\u015bmy w 10 dni, nie spiesz\u0105c si\u0119 zbytnio po 70, maksymalnie 115 km. Najtrudniejsze by\u0142y oczywi\u015bcie podjazdy (najwy\u017cszy na Cruz de Ferro, 1504 m n.p.m.). Niestety z\u0142o\u015bliwo\u015b\u0107 trasy jest taka, \u017ce cz\u0119sto mamy d\u0142ugie nieznaczne podjazdy, a potem zjazdy na na \u0142eb, na szyj\u0119.\n\nRanne ptaszki\n\nOpr\u00f3cz wyznaczonej trasy Camino ma jeszcze jedn\u0105 wa\u017cn\u0105 zalet\u0119: to albergue czyli schroniska. Przypominaj\u0105 one nasze schroniska g\u00f3rskie. Zazwyczaj du\u017ce sypialnie (damsko-m\u0119skie) z pi\u0119trowymi \u0142\u00f3\u017ckami, prysznice i toalety. S\u0105 te\u017c pralki \u2013 z regu\u0142y p\u0142atne. Jest te\u017c kuchnia, ale r\u00f3\u017cnie wyposa\u017cona: mog\u0105 by\u0107 p\u0142yty kuchenne, mikrofal\u00f3wki, ale czasami zdarza si\u0119, \u017ce nie ma\u2026 czajnika lub naczy\u0144. Mo\u017cna temu zaradzi\u0107 bior\u0105c ze sob\u0105 male\u0144k\u0105 grza\u0142k\u0119 do wody i mena\u017ck\u0119. Czysto\u015b\u0107 utrzymuj\u0105 sami pielgrzymi, ale po odje\u017adzie obs\u0142uga oczywi\u015bcie wszystko sprz\u0105ta. W schroniskach mamy niezwyk\u0142\u0105 okazj\u0119 poznawa\u0107 ludzi z ca\u0142ego \u015bwiata.\n\nCena jest niezwykle atrakcyjna: zazwyczaj oko\u0142o 10 euro, a s\u0105 te\u017c takie schroniska gdzie p\u0142acimy \u201eco \u0142aska\u201d. Istnieje kilka rodzaj\u00f3w schronisk: municypalne czyli gminne \u2013 niekt\u00f3re male\u0144kie 1-2 pokojowe, inne ogromne przyjmuj\u0105ce po 100 os\u00f3b. Schroniska ko\u015bcielne: najstarsze i najciekawsze w wystroju \u2013 ceny niskie. Schroniska pa\u0144stwowe w Galicji \u2013 bli\u017cej Santiago \u2013 du\u017ce i bardzo nowoczesne (po 10 euro). Schroniska prywatne s\u0105 bardzo ro\u017cnych standard\u00f3w \u2013 cena zaczyna si\u0119 gdzie\u015b od 15 euro. Zawsze lepiej zawczasu sprawdzi\u0107 na aplikacji Buen Camino lub Gronze jakie w danej miejscowo\u015bci s\u0105 schroniska, wyposa\u017cenie i ceny oraz czy dane schronisko przyjmuje rowerzyst\u00f3w?\n\nIstnieje zasada, \u017ce schroniska przyjmuj\u0105 najpierw pieszych pielgrzym\u00f3w, a dopiero potem tych na rowerach. Piesi wstaj\u0105 zawsze wcze\u015bnie rano o 5-6 (o 8 rano nale\u017cy opu\u015bci\u0107 lokal), aby ju\u017c wczesnym popo\u0142udniem, unikaj\u0105c skwaru dnia, zaj\u0105\u0107 miejsce w schronisku.\n\nW schroniskach municypalnych, ko\u015bcielnych i pa\u0144stwowych nie ma rezerwacji, natomiast przez booking mo\u017cna rezerwowa\u0107 miejsca w schroniskach prywatnych, hostelach i oczywi\u015bcie hotelach (te dwa ostatnie odpowiednio dro\u017csze). Na 11 dni jazdy mieli\u015bmy dwa razy problemy z noclegiem: raz w malutkiej miejscowo\u015bci, gdzie by\u0142o du\u017co pielgrzym\u00f3w, a drugi raz bli\u017cej Santiago w Portomarin, bardzo popularnym miejscem wypoczynkowym i jednym z bardziej znanych miejscowo\u015bci noclegowych na trasie. Problem polega\u0142 na tym, \u017ce wyje\u017cd\u017cali\u015bmy oko\u0142o 9 rano i przybywali\u015bmy do schroniska jako jedni z ostatnich, wi\u0119c miejsc mog\u0142o zabrakn\u0105\u0107. Ostatecznie przy \u017cyczliwej postawie hosteliere (kierownika schroniska) jaki\u015b k\u0105t si\u0119 znajdowa\u0142. Na wszelki wypadek mieli\u015bmy materace, gdyby trzeba nocowa\u0107 pod chmurk\u0105, cho\u0107 takiej potrzeby w ko\u0144cu nie by\u0142o. Przy okazji: \u015bpiw\u00f3r obowi\u0105zkowy \u2013 w schronisku zazwyczaj daj\u0105 tylko papierowe prze\u015bcierad\u0142o. Ja mia\u0142em najcie\u0144szy z mo\u017cliwych, a i tak nigdy si\u0119 w nim nie zamyka\u0142em. Materaca u\u017cy\u0142em tylko raz, kiedy ze wzgl\u0119du na chrapanie kolegi spa\u0142em w pralni. Aby spa\u0107 po tak niskich cenach w Alebergue trzeba mie\u0107 credential czyli paszport pielgrzyma, kt\u00f3ry stemplujemy na ka\u017cdym noclegu. Paszport mo\u017cna zakupi\u0107 w r\u00f3\u017cnych miejscach, w tym tak\u017ce w niekt\u00f3rych schroniskach lub\u2026 zam\u00f3wi\u0107 przez internet w Polsce.\n\nWa\u017cny jest termin pielgrzymki.\n\nW czerwcu-sierpniu liczba pielgrzym\u00f3w, szczeg\u00f3lnie na Camino Frances (60-70 proc. ca\u0142o\u015bci), jest ogromna, co przek\u0142ada si\u0119 na brak miejsc w schroniskach. Opr\u00f3cz tego doskwiera ogromny upa\u0142.\n\nPami\u0119tajmy, \u017ce czas astronomiczny przesuni\u0119ty jest do rzeczywistego o oko\u0142o 2 godz. tzn. \u017ce s\u0142o\u0144ce jest w zenicie oko\u0142o 14:00. Najlepszy termin to maj -kwiecie\u0144 i wrzesie\u0144-pa\u017adziernik. Nie jest jeszcze tak gor\u0105co, o wiele mniej piechur\u00f3w. Pogoda mo\u017ce by\u0107 r\u00f3\u017cna, w tym deszcze, a temperatura nad ranem w g\u00f3rach czasami spada w okolice zera. Teren przez kt\u00f3ry b\u0119dziemy jecha\u0107: Nawarra, Kastylia-Leon, Galicja przez cz\u0119\u015b\u0107 roku ma klimat dosy\u0107 podobny do polskiego, ale latem jest wiele cieplej. Dlaczego wybra\u0142em Camino Frances? Bo jest najbardziej popularne \u2013 du\u017ca ilo\u015b\u0107 schronisk, dobre trasy dla roweru, klimat i jedne z najciekawszych. Ze wzgl\u0119du na du\u017c\u0105 ilo\u015b\u0107 pieszych pielgrzym\u00f3w, zdecydowa\u0142em, \u017ce Frances lepiej zrobi\u0107 na rowerze, ni\u017c na piechot\u0119 i to by\u0142 strza\u0142 w dziesi\u0105tk\u0119. Mo\u017cna oczywi\u015bcie wybra\u0107 inne Camino, ale z w\u0142asnego do\u015bwiadczenia wiem, \u017ce np. Via de la Plata z Sewilli dla roweru nie jest zbyt dobra.\n\nPan jedzie, rower zostaje\n\nLogistyka wymaga decyzji. Mo\u017cna jecha\u0107 samochodem, co zajmie nam ze 2 dni i poch\u0142onie niema\u0142e koszty (p\u0142atne autostrady we Francji) w jedn\u0105 stron\u0119. My lecieli\u015bmy samolotem do Barcelony (mo\u017cliwo\u015b\u0107 odwiedzenia najbardziej turystycznego miasta Hiszpanii ze s\u0142ynn\u0105 katedr\u0105 Sagrada Familia) tam i z powrotem (1 tys. z\u0142, mo\u017cna te\u017c do Madrytu; dodatkowe 500 z\u0142 za rower), nast\u0119pnie poci\u0105giem do Pampeluny. I tu zaczynaj\u0105 si\u0119 problemy, poniewa\u017c kupuj\u0105c bilet na poci\u0105g przez internet nie za\u0142atwimy rezerwacji miejsca dla roweru. Wed\u0142ug podanej informacji w internecie rower jest traktowany jako normalny baga\u017c, musi by\u0107 spakowany w specjaln\u0105 torb\u0119 (i tak je kupili\u015bmy do samolotu \u2013 ale potem nie wozili\u015bmy ich ze sob\u0105 tylko wys\u0142ali\u015bmy je poczt\u0105 do Santiago, mo\u017cna np. na poste restante) o okre\u015blonym rozmiarze. Trzeba przyzna\u0107, \u017ce ci\u0105gni\u0119cie takiej torby z lotniska na dworzec troch\u0119 nas kosztowa\u0142o.\n\nNiestety przy wej\u015bciu do poci\u0105gu pani konduktor mo\u017ce wam o\u015bwiadczy\u0107, \u017ce\u2026 nie ma miejsca na rower. Owszem mo\u017cecie pojecha\u0107, ale rower zostanie na peronie.\n\nRozwi\u0105zanie to posiadanie specjalnego bezp\u0142atnego biletu na rower, kt\u00f3ry mo\u017cna dosta\u0107 w kasie, je\u015bli kupili\u015bcie bilet na stronie kolei (przynajmniej tak nas informowano, ale jak jest w rzeczywisto\u015bci nie jest jasne). Do biletu kupionego przez po\u015brednika talonu na rower nie dostaniecie. Tak wi\u0119c jeden bilet stracili\u015bmy, ale uda\u0142o nam si\u0119 w kasie kupi\u0107 inny z przesiadk\u0105 w Saragossie z talonem na rower (ci\u0105gle spakowany w torbie). Oczywi\u015bcie w sezonie mo\u017ce by\u0107 jaki\u015b problem z biletami, wi\u0119c niekoniecznie mo\u017cna kupi\u0107 go na najbli\u017cszy poci\u0105g, szczeg\u00f3lnie jad\u0105c z rowerem. W Hiszpanii istnieje mn\u00f3stwo rodzaj\u00f3w poci\u0105g\u00f3w (w tym prywatne) i trudno si\u0119 w przepisach zorientowa\u0107. Pro\u015bciej jest w poci\u0105gach lokalnych (jak nasza SKM czy Koleje Mazowieckie), gdzie wchodzimy z rowerem (zapakowanym lub nie) stawiamy w miejscy dla inwalidy (hak\u00f3w nie widzieli\u015bmy) i ewentualnie konduktor poprosi z nas 3 Euro. Pami\u0119tajmy, \u017ce Hiszpanie s\u0105 bardzo \u017cyczliwi, ale maj\u0105 inn\u0105 mentalno\u015b\u0107 od Polak\u00f3w \u2013 my dla nich my\u015blimy i dzia\u0142amy jak Niemcy. Hiszpania jest bardziej wyluzowana co do termin\u00f3w i obowi\u0105zk\u00f3w.\n\nKiedy znale\u017ali\u015bmy si\u0119 w Santiago, nauczeni do\u015bwiadczeniem zasi\u0119gn\u0119li\u015bmy wcze\u015bniej informacji na dworcu na temat mo\u017cliwo\u015bci transportu roweru. Nie by\u0142a zach\u0119caj\u0105ca \u2013 wszystko zale\u017cy od decyzji konduktora, kt\u00f3ry dzia\u0142a wed\u0142ug zasady: nie wezm\u0119 pana roweru i co pan mi zrobi? Po r\u00f3\u017cnych dywagacjach wys\u0142ali\u015bmy rowery do Polski poczt\u0105. Przyjemno\u015b\u0107 ta kosztuje 100 euro i w Santiago na star\u00f3wce znajduje si\u0119 urz\u0105d pocztowy specjalizuj\u0105cy si\u0119 w tej operacji, z pani\u0105 (imienia nie pami\u0119tam, ale by\u0142a super sympatyczna), kt\u00f3ra wy\u0107wiczona od lat jednym rzutem wstawia rower do pud\u0142a. Ze wzgl\u0119du na du\u017c\u0105 wysy\u0142k\u0119 rower\u00f3w lepiej na poczcie zjawi\u0107 si\u0119 z rana. W Polsce otrzymali\u015bmy go z dostaw\u0105 do domu po oko\u0142o 2 tygodniach.\n\nReasumuj\u0105c, co bym zrobi\u0142 nast\u0119pnym razem? Wys\u0142a\u0142bym rower kurierem (dla mnie to proste bo wsz\u0119dzie mam w Hiszpanii jezuit\u00f3w) do um\u00f3wionego wcze\u015bniej hostelu albo lepiej polecia\u0142 do Barcelony czy Bilbao (z tego ostatniego miasta mo\u017cna dojecha\u0107 do trasy Camino rowerem), a potem zaryzykowa\u0142 i kupowa\u0142 bilety kolejowe na miejscu (w tym na linie lokalne), natomiast z powrotem na pewno wys\u0142a\u0142bym rower poczt\u0105 \u2013 tak jest najtaniej i najprzyjemniej, \u017ceby nie kr\u0119ci\u0107 si\u0119 po Hiszpanii z rowerem w torbie, tylko spokojnie podr\u00f3\u017cowa\u0107 i zwiedza\u0107 po drodze np. Barcelon\u0119.\n\nI jeszcze jedna uwaga: w Hiszpanii najstraszniejsze akty terrorystyczne mia\u0142y miejsce w poci\u0105gach i w zwi\u0105zku z tym wej\u015bcie do nich przypomina czasami kontrol\u0119 na lotnisku \u2013 jeden z nas straci\u0142 w ten spos\u00f3b n\u00f3\u017c (miejcie go przy sobie, to raczej przejdzie), a na lotnisku zabrano mu jeszcze gum\u0119 mocuj\u0105c\u0105 do roweru.\n\nNa miejscu si\u0119 za\u0142atwi\n\nJak si\u0119 przygotowa\u0107? Przede wszystkim pami\u0119tajmy, \u017ce nie jedziemy do Mongolii czy Gwinei \u2013 tutaj wszystko mo\u017cna kupi\u0107 i za\u0142atwi\u0107. Nie jestem zwolennikiem brania ze sob\u0105 ca\u0142ego dobytku. Rowerem trudno jecha\u0107, plus dochodzi\u0142oby codziennie pakowanie g\u00f3ry niepotrzebnych rzeczy w schronisku, gdzie zazwyczaj nie ma wiele miejsca. Dobrze mie\u0107 ze sob\u0105 Europejskiego Kart\u0119 Ubezpieczenia. Nie s\u0105dz\u0119, by mia\u0142o sens bra\u0107 ze sob\u0105 ca\u0142y warsztat rowerowy i wszystkie cz\u0119\u015bci w\u0142\u0105czaj\u0105c. Po prostu rower przed wyjazdem powinien przej\u015b\u0107 solidny serwis. Bierzmy rzeczy najbardziej niezb\u0119dne: d\u0119tk\u0119, zestaw do naprawy \u0142a\u0144cucha, \u015brubki, podstawowe narz\u0119dzia \u2013 je\u015bli jedziemy grup\u0105, mo\u017cna to rozdzieli\u0107 na wszystkich uczestnik\u00f3w. Po drodze co kilkadziesi\u0105t kilometr\u00f3w b\u0119dziecie mieli dobry warsztat rowerowy (plus sklep), gdzie mile was obs\u0142u\u017c\u0105 i nie b\u0119dzie to was kosztowa\u0107 wi\u0119cej ni\u017c w Polsce. Miejscowy spec za 20 z\u0142 wyregulowa\u0142 mi przerzutki tak, jak mi tego nigdy w Polsce nie zrobiono. Je\u015bli kto\u015b musi mie\u0107 wszystko ze sob\u0105 to mo\u017ce korzysta\u0107 z us\u0142ug firmy wo\u017c\u0105cej baga\u017ce samochodem, ale wtedy trzeba zawczasu wiedzie\u0107, gdzie b\u0119dzie nast\u0119pny nocleg. W Hiszpanii trzeba zak\u0142ada\u0107 kaski, ale nikt si\u0119 tym specjalnie nie interesuje.\n\nCamino to pielgrzymka, ale wyruszaj\u0105 na nie wszyscy, niezale\u017cnie od swoich zapatrywa\u0144 religijnych. Oczywi\u015bcie na rowerze pielgrzymka nie jest tak intensywna jak na piechot\u0119, poniewa\u017c nasza uwaga musi by\u0107 ci\u0105gle zwr\u00f3cona na drog\u0119. Na trasie b\u0119dziemy mieli jednak du\u017co ko\u015bci\u00f3\u0142k\u00f3w lub cichych, przepi\u0119knych miejsc, gdzie mo\u017cna si\u0119 pomodli\u0107.\n\nNiestety nie znalaz\u0142em w internecie gotowych materia\u0142\u00f3w do modlitwy podczas Camino, ale zawsze mo\u017cna korzysta\u0107 z ju\u017c istniej\u0105cych podcast\u00f3w takich jak Modlitwa w drodze. Tymczasem ze wsp\u00f3\u0142bra\u0107mi szykujemy si\u0119 do stworzenia specjalnej aplikacji, kt\u00f3ra b\u0119dzie dawa\u0142a mo\u017cliwo\u015b\u0107 odprawienia rekolekcji na Camino. Jest pewien problem z uczestnictwem we Mszy \u015awi\u0119tej, poniewa\u017c w Hiszpanii jest mn\u00f3stwo ko\u015bcio\u0142\u00f3w, ale ma\u0142o ksi\u0119\u017cy. Jeden ksi\u0105dz obs\u0142uguje cz\u0119sto kilka parafii, wi\u0119c trudno trafi\u0107 w danym dniu akurat do tego Ko\u015bcio\u0142a, gdzie b\u0119dzie odprawiana Msza. Mo\u017ce to u\u0142atwi\u0107 missas.org. Opr\u00f3cz tego mog\u0119 poleci\u0107 camino.net.pl.\n\nTak wi\u0119c do zobaczenia w Hiszpanii i \u201eBuen Camino\u201d!\n\nDzi\u0119kujemy za przeczytanie artyku\u0142u. Je\u015bli chcesz wesprze\u0107 nasz\u0105 dzia\u0142alno\u015b\u0107, mo\u017cesz to zrobi\u0107 tutaj."
         }
     },
     {
@@ -362,7 +378,7 @@
             "description": "Firma Primost Po\u0142udnie Sp. z o. o. z\u0142o\u017cy\u0142a odwo\u0142anie do Krajowej Izby Odwo\u0142awczej. Chodzi o przetarg na wznowienie prac na ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.Nn_bq1ofPfyUEtT-J4_Igi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "TCZ.PL30 min",
+            "date": "TCZ.PL4 godz.",
             "source": "TCZ.PL",
             "article_content": "Zaloguj si\u0119\n\nNie pamietasz has\u0142a: przypomnij has\u0142o Nie masz konta: zarejestruj si\u0119"
         }
@@ -378,7 +394,7 @@
             "description": "Spaceruj\u0105c po wn\u0119trzu opuszczonego szpitala psychiatrycznego w Katowicach ci\u0119\u017cko si\u0119 nie wzdrygn\u0105\u0107, jako \u017ce budynek w obecnych czasach wygl\u0105da jak gotowa scenografia horroru. Puste, ceglane korytarze ...",
             "image_url": "https://www.bing.pl/th?id=ODF.waTvG9_emdLbHMzcAnsfoA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "Katowice Nasze Miasto on MSN2 godz.",
+            "date": "Katowice Nasze Miasto on MSN7 godz.",
             "source": "Katowice Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -389,46 +405,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Pras\u00f3wka 25.06.2025. Zobacz zestawienie najwa\u017cniejszych informacji z wczoraj z naszego wojew\u00f3dztwa",
-            "link": "https://nto.pl/prasowka-25-06-2025-zobacz-zestawienie-najwazniejszych-informacji-z-wczoraj-z-naszego-wojewodztwa/ar/c1p1-19960921",
-            "description": "Trzy dni zabawy, koncert\u00f3w i \u015bwi\u0119toja\u0144skich tradycji \u2013 tak mieszka\u0144cy Praszki i okolic bawili si\u0119 podczas tegorocznych Dni ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.YYMeeqtb9pn28P1A%2fYhoGw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Zab\u00f3jstwa w Horseshoe Lake. Najpierw zabi\u0142 matk\u0119, a po 24 latach jej c\u00f3rk\u0119",
+            "link": "https://www.onet.pl/informacje/thecrimespl/zabojstwa-w-horseshoe-lake-najpierw-zabil-matke-a-po-24-latach-jej-corke/6rek9kk,30bc1058",
+            "description": "Zab\u00f3jstwa w Horseshoe Lake w 2020 r. zszokowa\u0142y Amerykan\u00f3w. Pomi\u0119dzy morderstwami, jakie pope\u0142ni\u0142 Travis Lewis min\u0119\u0142y 24 lata ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.YgCb-5Kdr2Kmm8Stmh8z_C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Nowa Trybuna Opolska4 godz.",
-            "source": "Nowa Trybuna Opolska",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Jak zadba\u0107 o koncentracj\u0119 s\u0142uchaczy?",
-            "link": "https://mojafirma.infor.pl/etykieta-w-biznesie/narady-i-spotkania/263392,Jak-zadbac-o-koncentracje-sluchaczy.html",
-            "description": "eksperymentuj\u0105 z t\u0142ami, kolorami, czcionkami i wymy\u015blnymi punktorami. Je\u015bli s\u0105 zdj\u0119cia, to wci\u015bni\u0119te w wolne od tekstu miejsce. St\u0105d ju\u017c prosta droga do wielu popularnych brzydactw. Tu nawet nie chodz ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.FGwlTbDFoy0NxwtOHfjtAQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "zabytkowe+przedmioty",
-            "date": "Moja firma28 min",
-            "source": "Moja firma",
-            "article_content": "Usu\u0144 to co odci\u0105ga uwag\u0119 od g\u0142\u00f3wnego przekazu slajdu. Zostaw to, co najwa\u017cniejsze, a umys\u0142y Twoich s\u0142uchaczy odwdzi\u0119cz\u0105 ci si\u0119 swoj\u0105 koncentracj\u0105 w trakcie ca\u0142ej prezentacji.\n\nREKLAMA\n\nWi\u0119kszo\u015b\u0107 autor\u00f3w prezentacji poprzestaje na domy\u015blnym szablonie PowerPointa: tytu\u0142 slajdu u g\u00f3ry, poni\u017cej tekst w punktach. Ci, kt\u00f3rzy chc\u0105 wyj\u015b\u0107 poza schemat, przewa\u017cnie\n\neksperymentuj\u0105 z t\u0142ami, kolorami, czcionkami i wymy\u015blnymi punktorami. Je\u015bli s\u0105 zdj\u0119cia, to wci\u015bni\u0119te w wolne od tekstu miejsce. St\u0105d ju\u017c prosta droga do wielu popularnych brzydactw. Tu nawet nie chodzi o estetyk\u0119, bo to kwestia gustu, ale o czytelno\u015b\u0107 czyli skuteczno\u015b\u0107 osi\u0105gni\u0119cia celu prezentacji.\n\nREKLAMA\n\nWe\u017amy taki slajd o zamku w Malborku: w lewym g\u00f3rnym roku niebieska mapa Polski z czerwon\u0105 krop\u0105 oznaczaj\u0105c\u0105 Malbork. Obok czarnymi literami podpis \u201eZamek krzy\u017cacki w Malborku\u201d, a pod nim zdj\u0119cie fragmentu dziedzi\u0144ca z czerwonymi \u015bcianami. Z boku po prawo znajduje si\u0119 jedna kolumna niewielkich kwadracik\u00f3w z czerwonym t\u0142em i bia\u0142ymi cyframi oznaczaj\u0105cymi numer bie\u017c\u0105cego slajdu w ca\u0142ej prezentacji. Wreszcie na samym dole slajdu w jednym wierszu znajduje si\u0119 logo projektu \u201eZabytki 2010\u201d (litery granatowe), notka o prawie autorskim do zdj\u0119cia (litery czarne) i data pokazu prezentacji (litery czarne).\n\nPrzeczytaj r\u00f3wnie\u017c: Czego unika\u0107 w wypowiedziach ustnych - grzeczno\u015b\u0107 j\u0119zyka\n\nJe\u015bli zm\u0119czy\u0142o ci\u0119 wyobra\u017canie sobie tego slajdu, to podobnie czuj\u0105 si\u0119 widzowie kt\u00f3rzy zobaczyliby go na \u017cywo. Ich uwag\u0119 rozprasza na tym slajdzie wiele rzeczy. A gdyby jego tre\u015b\u0107 by\u0142a mniej oczywista, a przez to bardziej przyjazna dla s\u0142uchaczy?\n\nPolecamy serwis Dobry wizerunek\n\nDalszy ci\u0105g materia\u0142u pod wideo\n\nTaki slajd zawiera tylko i wy\u0142\u0105cznie zdj\u0119cie dziedzi\u0144ca zamku. Bia\u0142e marginesy na slajdzie nie sprawiaj\u0105 wra\u017cenia ani chudych, ani grubych tzn. s\u0105 szerokie w sam raz. Z regu\u0142y \u201e5 minut i 15 slajd\u00f3w\u201d wynika, \u017ce slajd ten ma by\u0107 widoczny na ekranie przez co najmniej 3 minuty. Uwaga s\u0142uchaczy mo\u017ce wi\u0119c swobodnie skupia\u0107 na obrazie i na s\u0142owach m\u00f3wcy. Wzrok uczestnika nie ma okazji by przedziera\u0107 si\u0119 przez dodatkowe elementy i wy\u0142uskiwa\u0107 z nich tre\u015bci.\n\nUsu\u0144 to co odci\u0105ga uwag\u0119 od g\u0142\u00f3wnego przekazu slajdu.\n\nZostaw to co najwa\u017cniejsze, a umys\u0142y twoich s\u0142uchaczy odwdzi\u0119cz\u0105 ci si\u0119 swoj\u0105 koncentracj\u0105. I najpewniej otrzymasz szczere brawa na koniec wyst\u0105pienia!\n\nFragment pochodzi z ksi\u0105\u017cki \u201eMistrzowskie prezentacje. Slajdowy poradnik M\u00f3wcy Doskona\u0142ego\u201d Agaty i Jerzego Rz\u0119dowskich (Wydawnictwo Helion/Onepress, 2010). Wykorzystanie za wiedz\u0105 Wydawcy."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Nawet 39 tysi\u0119cy za monety z PRL. A\u017c tyle mog\u0105 zap\u0142aci\u0107 kolekcjonerzy. Masz takie w domu? Zobacz, ile mo\u017cna zrobi\u0107 (zdj\u0119cia) 25.06.2025",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/nawet-39-tysi%C4%99cy-za-monety-z-prl-a%C5%BC-tyle-mog%C4%85-zap%C5%82aci%C4%87-kolekcjonerzy-masz-takie-w-domu-zobacz-ile-mo%C5%BCna-zrobi%C4%87-zdj%C4%99cia-25062025/ar-AA1GsWDX?ocid=BingNewsVerp",
-            "description": "Je\u015bli my\u015blisz, \u017ce wszystkie monety z PRL s\u0105 warte tylko kilka groszy, to jeste\u015b w b\u0142\u0119dzie. Istniej\u0105 konkretne egzemplarze, kt\u00f3re na aukcjach internetowych potrafi\u0105 osi\u0105ga\u0107 osza\u0142amiaj\u0105ce ceny \u2013 nawet ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stare+numizmatyka",
-            "date": "G\u0142os Pomorza on MSN44 min",
-            "source": "G\u0142os Pomorza on MSN",
-            "article_content": ""
+            "date": "Onet4 godz.",
+            "source": "Onet",
+            "article_content": "Zab\u00f3jstwa w Horseshoe Lake\n\nGdy policjanci natkn\u0119li si\u0119 na cia\u0142a 75-letniej Sarah \"Sally\" Snowden oraz jej 52-letniego siostrze\u0144ca Josepha \"Lee\" Bakera, te jeszcze si\u0119 tli\u0142y. Niewiele wcze\u015bniej funkcjonariusze przyj\u0119li zg\u0142oszenie o podpaleniu jednego z dom\u00f3w po\u0142o\u017conego w ma\u0142ym miasteczku o nazwie Horseshoe Lake.\n\nWszystko zacz\u0119\u0142o si\u0119 oko\u0142o po\u0142udnia 10 wrze\u015bnia 1996 r., gdy dw\u00f3ch mieszka\u0144c\u00f3w Horseshoe Lake odnalaz\u0142o na drodze porzucon\u0105 Toyot\u0119 Coroll\u0119 nale\u017c\u0105c\u0105 do Sally. Samoch\u00f3d znajdowa\u0142 si\u0119 oko\u0142o p\u00f3\u0142tora kilometra od miasteczka i wszystko wskazywa\u0142o, \u017ce kieruj\u0105cy pojazdem wpierw uderzy\u0142 w drzewo, a nast\u0119pnie wyl\u0105dowa\u0142 w p\u0142ytkim rowie. Zaniepokojeni m\u0119\u017cczy\u017ani niezw\u0142ocznie udali si\u0119 w stron\u0119 domu Pani Snowden, a gdy po dotarciu na miejsce zauwa\u017cyli wydobywaj\u0105cy si\u0119 ze \u015brodka budynku dym, zawiadomili s\u0142u\u017cby.\n\nreklama\n\nPraca \u015bledczych przynios\u0142a szokuj\u0105ce ustalenia. Sally i Lee zostali zastrzeleni, a zapr\u00f3szony ogie\u0144 mia\u0142 na celu jedynie zatai\u0107 \u015blady zab\u00f3jstwa. Do zdarzenia dosz\u0142o pomi\u0119dzy 10.30 a 11.00, a ofiary zosta\u0142y zamordowane, poniewa\u017c ich obecno\u015b\u0107 zaskoczy\u0142a i przestraszy\u0142a sprawc\u0119. Uciekaj\u0105c z miejsca zbrodni zab\u00f3jca zastawi\u0142 wej\u015bcie do domu samochodem nale\u017c\u0105cym do Lee Bakera, pr\u00f3buj\u0105c w ten spos\u00f3b utrudni\u0107 dzia\u0142anie s\u0142u\u017cb ratunkowych.\n\nWskazano na rabunkowy motyw zbrodni. Pani Snowden by\u0142a w\u0142a\u015bcicielk\u0105 oraz zarz\u0105dc\u0105 prywatnego osiedla po\u0142o\u017conego w miasteczku i sk\u0142adaj\u0105cego si\u0119 z trzydziestu dom\u00f3w. W dniu swojej \u015bmierci, podobnie jak 10-ego dnia ka\u017cdego miesi\u0105ca pobra\u0142a od mieszka\u0144c\u00f3w czynsz. Pieni\u0105dze otrzymywa\u0142a w got\u00f3wce, a do czasu wp\u0142acenia ich do banku, przetrzymywa\u0142a je w swoim domu. Zebranych \u015brodk\u00f3w oraz paru innych kosztowno\u015bci, w mieszkaniu nie odnaleziono.\n\nObie ofiary by\u0142y znane i rozpoznawalne, a ich \u015bmier\u0107 poruszy\u0142a lokaln\u0105 spo\u0142eczno\u015b\u0107. Lee Baker by\u0142 \u015bwiatowej s\u0142awy gitarzyst\u0105 bluesowym, kt\u00f3ry w latach \u015bwietno\u015bci wsp\u00f3\u0142pracowa\u0142 z Iggy Popem. Po latach, gdy jego kariera muzyczna zwolni\u0142a, podj\u0105\u0142 si\u0119 pracy w pobliskiej szkole, prowadz\u0105c zaj\u0119cia z j\u0119zyka angielskiego. Sally natomiast wywodzi\u0142a si\u0119 z rodziny, o ogromnym dla miejscowej ludno\u015bci znaczeniu.\n\nThecrimes.pl Od lewej: Sally Snowden, Lee Baker, Marthy McKay (domeny publiczne)\n\nRodzina Snowden\u00f3w\n\nAmerykanie darz\u0105 swoich za\u0142o\u017cycieli mi\u0142o\u015bci\u0105 bezwarunkow\u0105. Tworz\u0105 wok\u00f3\u0142 nich mityczn\u0105 aur\u0119 oraz otaczaj\u0105 kultem niezale\u017cnie od tego, czy tyczy si\u0119 to bohater\u00f3w narodowych, czy postaci o randze lokalnej. Do takich os\u00f3b bez w\u0105tpienia zaliczali si\u0119 przodkowie Sally Snowden.\n\nPierwsze wzmianki o rodzinie pochodz\u0105 z XVI w., ale g\u0142\u00f3wn\u0105 postaci\u0105 rodu by\u0142 Robert Snowden, zas\u0142u\u017cony, w randze pu\u0142kownika weteran Wojny Secesyjnej. Na pocz\u0105tku XX w. silnie przyczyni\u0142 si\u0119 do rozwoju stan\u00f3w Arkansas, Missisipi oraz Tennessee, a Memphis do dzi\u015b oddaje mu ho\u0142d nazywaj\u0105c jego nazwiskiem szko\u0142\u0119 podstawow\u0105 oraz jedn\u0105 z wi\u0119kszych alei w mie\u015bcie.\n\nNiemniej zas\u0142u\u017cony by\u0142 jego wnuk, kt\u00f3remu r\u00f3wnie\u017c nadano przy narodzeniu imi\u0119 Robert. Ten z kolei by\u0142 pilotem podczas I Wojny \u015awiatowej, a po zako\u0144czeniu konfliktu zbrojnego i powrocie w rodzime strony zakupi\u0142 nad urokliwym jeziorem ziemi\u0119, na kt\u00f3rej w przysz\u0142o\u015bci powsta\u0142o Horseshoe Lake. Robert Snowden II by\u0142 cz\u0142owiekiem o szerokich horyzontach, posiada\u0142 plantacj\u0119 bawe\u0142ny, by\u0142 konstruktorem samolot\u00f3w oraz realizowa\u0142 si\u0119 na rynku deweloperskim. Za jego czas\u00f3w miejscowo\u015b\u0107 si\u0119 rozros\u0142a i powsta\u0142o w niej kilkadziesi\u0105t dom\u00f3w, kt\u00f3re pocz\u0105tkowo s\u0142u\u017cy\u0142y pracownikom plantacji. Ukoronowaniem jego ambicji budowniczych by\u0142 wzniesiony w 1949 r. Snowden House - trzypi\u0119trowy, licz\u0105cy sobie 550 metr\u00f3w kwadratowych dom. Blisko p\u00f3\u0142 wieku p\u00f3\u017aniej, ten stylowy i bogato wyko\u0144czony budynek pos\u0142u\u017cy\u0142 jako sceneria g\u0142o\u015bnego filmu \"Klient\", z Susan Sarandon i Tommym Lee Jonesem w rolach g\u0142\u00f3wnych.\n\nRobert Snowden II do\u017cywszy 86 lat, zmar\u0142 w 1982 r., a sched\u0119 po nim odziedziczy\u0142a jedna z trzech c\u00f3rek \u2013 Sally. Z wykszta\u0142cenia by\u0142a ksi\u0119gow\u0105, wi\u0119c idealnie nadawa\u0142a si\u0119 do przej\u0119cia rodzinnego biznesu, kt\u00f3ry po latach ograniczy\u0142 si\u0119 do zarz\u0105dzania nieruchomo\u015bciami powsta\u0142ymi za czas\u00f3w jej ojca. Kobieta zamieszka\u0142a w jednym z mniejszych dom\u00f3w, a do s\u0105siedniego wprowadzi\u0142 si\u0119 Lee Baker, syn jednej z si\u00f3str Sally.\n\nThecrimes.pl Robert Snowden I (1836-1909) oraz Robert Snowden II (1896-1982) (fot. domeny publiczne)\n\nSamo miasteczko liczy\u0142o sobie 300 mieszka\u0144c\u00f3w, jedn\u0105 restauracj\u0119, stacj\u0119 benzynow\u0105 i jeden sklep, kt\u00f3re zreszt\u0105 znajdowa\u0142y si\u0119 w jednym budynku. Do tej pory w Horseshoe nie ma posterunku policji, poczty, banku, a poszczeg\u00f3lne domy nie s\u0105 ponumerowane. Do najbli\u017cszego du\u017cego miasta, jakim jest Memphis prowadzi trasa, kt\u00f3rej przejazd samochodem zajmuje 40 minut.\n\nreklama\n\nTravis Lewis\n\nMotyw rabunkowy oraz nieprzypadkowa data zbrodni sugerowa\u0142y, \u017ce sprawc\u0119 nale\u017ca\u0142o szuka\u0107 w\u015br\u00f3d mieszka\u0144c\u00f3w Horseshoe. Dodatkowo nieudolna pr\u00f3ba zatarcia \u015blad\u00f3w oraz nieumiej\u0119tno\u015b\u0107 zapanowania nad pojazdem na prostej drodze, kt\u00f3ra w konsekwencji zaowocowa\u0142a wjechaniem do rowu, zdradza\u0142y potencjalnie m\u0142ody wiek poszukiwanego.\n\nOdnalezione w samochodzie \u015blady krwi oznacza\u0142y, \u017ce morderca w wyniku wypadku poni\u00f3s\u0142 obra\u017cenia. Postanowiono przyjrze\u0107 si\u0119 m\u0142odym ludziom z okolicy, zw\u0142aszcza tym, kt\u00f3rzy zdradzali oznaki jakichkolwiek st\u0142ucze\u0144 lub mieli widoczne zadrapania. W tym celu \u015bledczy sprawdzili rejestry najbli\u017cszych przychodni i szpitali oraz rozpytywali okolicznych mieszka\u0144c\u00f3w, czy ich znajomi uskar\u017cali si\u0119 ostatnio na doznane kontuzje.\n\nWkr\u00f3tce \u015bledczy zatrzymali 15-letniego Travisa Lewisa, kt\u00f3rego rodzina od lat mieszka\u0142a w okolicy i wynajmowa\u0142a od Snowden\u00f3w dom, a jego matka by\u0142a pokoj\u00f3wk\u0105 w Snowden House.\n\nMimo, \u017ce Travis w przesz\u0142o\u015bci by\u0142 zamieszany w kilka b\u00f3jek i drobnych napa\u015bci, nie sprawia\u0142 problem\u00f3w wychowawczych. Uczy\u0142 si\u0119 ca\u0142kiem dobrze i przez rok ucz\u0119szcza\u0142 na zaj\u0119cia prowadzone przez Lee Bakera oraz blisko przyja\u017ani\u0142 si\u0119 z jego synami. Ostatecznie to oni nakierowali policj\u0119 na trop Travisa, zeznaj\u0105c, \u017ce kilka miesi\u0119cy wcze\u015bniej nakryli go na kradzie\u017cy z ich domu gier komputerowych.\n\nPodczas przes\u0142ucha\u0144 Travis wydawa\u0142 si\u0119 pewny siebie, twierdz\u0105c, \u017ce w momencie zab\u00f3jstwa przebywa\u0142 w szkole. Jednak\u017ce alibi nastolatka run\u0119\u0142o jak domek z kart, gdy okaza\u0142o si\u0119, \u017ce feralnego dnia ch\u0142opak by\u0142 zawieszony w prawach ucznia.\n\nDo policjant\u00f3w dotar\u0142y tak\u017ce wyniki bada\u0144 laboratoryjnych. Krew znaleziona w samochodzie nale\u017ca\u0142a do Travisa, podobnie jak odkryty w tym samym miejscu w\u0142os. Odciski palc\u00f3w ch\u0142opaka zabezpieczono zar\u00f3wno w poje\u017adzie, jak i na miejscu zbrodni.\n\nreklama\n\nLewis zosta\u0142 aresztowany dwa miesi\u0105ce po zab\u00f3jstwach. Postawiono mu zarzuty, za kt\u00f3re mia\u0142 odpowiada\u0107 jako osoba doros\u0142a, co oznacza\u0142o, \u017ce grozi\u0142a mu kara \u015bmierci.\n\nTravis Lewis w obliczu przedstawionych dowod\u00f3w zmieni\u0142 swoj\u0105 narracj\u0119. Przyzna\u0142 si\u0119 do przebywania na miejscu zbrodni, ale jako faktycznego zab\u00f3jc\u0119 wskaza\u0142 swojego koleg\u0119, kt\u00f3rego wymieni\u0142 z imienia i nazwiska. Opisa\u0142 go jako pomys\u0142odawc\u0119 rabunku oraz osob\u0119, kt\u00f3ra podczas ucieczki spowodowa\u0142a wypadek, a u\u017cyt\u0105 bro\u0144 wyrzuci\u0142a do jeziora Horseshoe.\n\nI faktycznie, kolega Travisa zdaniem \u015bwiadk\u00f3w w okolicach dnia pope\u0142nionych morderstw uskar\u017ca\u0142 si\u0119 na obra\u017cenia g\u0142owy. Podczas przes\u0142ucha\u0144 obla\u0142 test wariografem, a jego alibi by\u0142o mocno naci\u0105gane, poparte jedynie przez jego dziewczyn\u0119. Niemniej, na miejscu zbrodni nie odnaleziono jakichkolwiek \u015blad\u00f3w pochodz\u0105cych od niego, wobec czego jedynym podejrzanym w sprawie pozosta\u0142 Travis Lewis. Ten, przyparty do muru, cho\u0107 wci\u0105\u017c twierdz\u0105cy o swojej niewinno\u015bci przyj\u0105\u0142 propozycj\u0119 ugody prokuratorskiej. Na jej mocy stan Arkansas zyska\u0142 na kosztach procesu, a Travis Lewis oszcz\u0119dzi\u0142 \u017cycie. Ostatecznie w dniu 7 kwietnia 1998 r., m\u0119\u017cczyzn\u0119 skazano na kar\u0119 28 i p\u00f3\u0142 roku pozbawienia wolno\u015bci, z mo\u017cliwo\u015bci\u0105 warunkowego wyj\u015bcia po odbyciu 70 proc. kary, czyli po 20 latach.\n\nWyrok ten usatysfakcjonowa\u0142 rodzin\u0119 Snowden\u00f3w, kt\u00f3ra jawnie wyra\u017ca\u0142a sw\u00f3j sprzeciw wobec potencjalnego wyroku kary \u015bmierci dla nieletniego Travisa Lewisa.\n\nMartha McKay\n\nMarthy McKay by\u0142a c\u00f3rk\u0105 Sally Snowden, kt\u00f3ra po kilku latach \u017cycia w Kalifornii, w 2004 r. wr\u00f3ci\u0142a do rodzinnej posiad\u0142o\u015bci. Jako kobieta o artystycznej duszy, z umiej\u0119tno\u015bci\u0105 i zami\u0142owaniem do renowacji starych dom\u00f3w postawi\u0142a sobie za cel przywr\u00f3ci\u0107 dawny presti\u017c Snowden House i zamienienia go w luksusowy pensjonat z mo\u017cliwo\u015bci\u0105 organizacji wesel i przyj\u0119\u0107 okoliczno\u015bciowych. Dzi\u0119ki ci\u0119\u017ckiej pracy i ogromnym nak\u0142adom finansowym, kilka lat p\u00f3\u017aniej w broszurze reklamowej zapisano: \"Snowden House to ponadczasowe miejsce, w kt\u00f3rym skromna elegancja domu nale\u017c\u0105cego do jednej z rodzin za\u0142o\u017cycielskich Memphis \u0142\u0105czy si\u0119 z majestatycznym pi\u0119knem nadbrze\u017cnego otoczenia. Wspania\u0142e magnolie i d\u0119by zdobi\u0105ce teren wzd\u0142u\u017c brzegu jeziora Horseshoe stworz\u0105 idealnie spokojn\u0105 i magiczn\u0105 sceneri\u0119 na Tw\u00f3j \u015blub lub przyj\u0119cie\".\n\nThecrimes.pl Snowden House oraz Marthy McKay w jego wn\u0119trzu (fot. Jack Kenner)\n\nMartha McKay, kt\u00f3ra znana by\u0142a ze swojego eleganckiego stylu oraz dobrego serca, doskonale spe\u0142nia\u0142a swoj\u0105 rol\u0119 potomkini wyj\u0105tkowej rodziny. By\u0142a te\u017c praktykuj\u0105c\u0105 buddystk\u0105, kt\u00f3ra g\u0142\u0119boko wierzy\u0142a w przebaczenie.\n\nreklama\n\nDo\u015b\u0107 szybko wybaczy\u0142a Travisowi zab\u00f3jstwo jej matki oraz kuzyna. Ma\u0142o tego, uwierzy\u0142a w jego zapewnienia o niewinno\u015bci i zatrudni\u0142a prywatnego detektywa, maj\u0105c nadziej\u0119, \u017ce jego praca pozwoli ponownie otworzy\u0107 \u015bledztwo w sprawie. Wielokrotnie odwiedza\u0142a go w wi\u0119zieniu, pisa\u0142a do niego listy, a nawet stawi\u0142a si\u0119 na komisji, kt\u00f3ra decydowa\u0142a o jego przedterminowym zwolnieniu. Wbrew pozosta\u0142ej cz\u0119\u015bci rodziny g\u0142o\u015bno nawo\u0142ywa\u0142a do wypuszczenia m\u0119\u017cczyzny.\n\nTravis \u0142\u0105cznie przesiedzia\u0142 22 lata. Gdy w 2018 r. opuszcza\u0142 mury wi\u0119zienia, doskonale wiedzia\u0142, gdzie powinien si\u0119 uda\u0107. Wcze\u015bniej Martha zaproponowa\u0142a mu pok\u00f3j w Snowden House oraz prac\u0119 w charakterze konserwatora na terenie posiad\u0142o\u015bci. Aby zadba\u0107 o jego komfort, ponownie na stanowisku gosposi zatrudni\u0142a jego matk\u0119.\n\nPrzez dwa lata Travis nie sprawia\u0142 powa\u017cnych problem\u00f3w, cho\u0107 wiadomo by\u0142o o jego zami\u0142owaniu do narkotyk\u00f3w. Z czasem zacz\u0105\u0142 wykrada\u0107 matce drobne sumy pieni\u0119\u017cne, a na wszelkie pr\u00f3by zwr\u00f3cenia uwagi reagowa\u0142 agresj\u0105. Ostatecznie kobieta zerwa\u0142a ze swoim synem wszelkie kontakty i ostrzeg\u0142a Marth\u0119, aby \"uwa\u017ca\u0142a na Travisa, gdy\u017c ten zacz\u0105\u0142 wraca\u0107 do swoich starych nawyk\u00f3w\".\n\nThecrimes.pl Travis Lewis jako m\u0142ody i doros\u0142y (fot. Crittenden County Sheriffs Deparment)\n\nDruga \u015bmier\u0107\n\nW dniu 25 marca 2020 r., oko\u0142o godziny 10.00 funkcjonariusze policji przyj\u0119li zg\u0142oszenie dotycz\u0105ce zdarzenia w Snowden House. Pochodzi\u0142o ono z zainstalowanego w domu alarmu, kt\u00f3ry m\u00f3g\u0142 by\u0107 uruchomiony tylko poprzez naci\u015bniecie guzika w pilocie.\n\nPolicjanci, kt\u00f3rzy przyjechali na miejsce zauwa\u017cyli otwarte tylne drzwi i dzi\u0119ki nim dostali si\u0119 do \u015brodka. Niemal od razu ich uwag\u0119 przyku\u0142 unosz\u0105cy si\u0119 w powietrzu zapach \u0142atwopalnych substancji. W domu panowa\u0142 ba\u0142agan, a na ka\u017cdym pi\u0119trze porozrzucane by\u0142y stosy ubra\u0144 i koc\u00f3w. Pomimo, \u017ce policjanci g\u0142o\u015bno wo\u0142ali imi\u0119 Marthy, po kobiecie nie by\u0142o \u017cadnego \u015bladu.\n\nreklama\n\nChwil\u0119 p\u00f3\u017aniej funkcjonariusze zwr\u00f3cili uwag\u0119 na ha\u0142as dobiegaj\u0105cy z \u0142azienki na pi\u0119trze. Gdy do niej weszli natkn\u0119li si\u0119 na m\u0119\u017cczyzn\u0119, kt\u00f3ry w tym samym momencie zeskakiwa\u0142 z okna na teren podw\u00f3rza. Wszelkie pr\u00f3by zatrzymania go okaza\u0142y si\u0119 nieskuteczne, policjanci u\u017cyli zar\u00f3wno tasera elektrycznego, jak i strza\u0142\u00f3w ostrzegawczych. Uciekaj\u0105cemu uda\u0142o si\u0119 dosta\u0107 do zaparkowanego samochodu i odjecha\u0107 kilkana\u015bcie metr\u00f3w, po czym, ku jego nieszcz\u0119\u015bciu, opony pojazdu utkn\u0119\u0142y w g\u0142\u0119bokim b\u0142ocie, a auto odm\u00f3wi\u0142o pos\u0142usze\u0144stwa. M\u0119\u017cczyzna wybieg\u0142 z auta i pobieg\u0142 w stron\u0119 lodowatego o tej porze roku jeziora. \"Zanurzy\u0142 si\u0119 pod wod\u0119 i ju\u017c nie wyp\u0142yn\u0105\u0142\" - skomentowa\u0142 p\u00f3\u017aniej Mike Allen, szeryf hrabstwa Crittenden.\n\nCia\u0142o 63-letniej Marthy McKay odkryto na szczycie schod\u00f3w. By\u0142o ob\u0142o\u017cone kocami i szmatami oraz oblane \u0142atwopaln\u0105 substancj\u0105. Autopsja wykaza\u0142a, \u017ce kobiet\u0119 pobito oraz \u015bmiertelnie ugodzono no\u017cem. Obok zw\u0142ok znaleziono torb\u0119 z nale\u017c\u0105cymi do niej kosztowno\u015bciami, w tym cennymi pami\u0105tkami rodzinnymi oraz zakrwawiony n\u00f3\u017c kuchenny.\n\nZako\u0144czenie\n\nWezwana na miejsce ekipa poszukiwawcza przeszuka\u0142a jezioro Horseshoe i po trzech godzinach odnalaz\u0142a w nim zw\u0142oki 39-letniego Travisa Santaya Lewisa. Sekcja zw\u0142ok wykaza\u0142a, \u017ce w momencie utoni\u0119cia, w jego organizmie znajdowa\u0142y si\u0119 kokaina, metamfetamina oraz marihuana.\n\nOdnaleziony po \u015bmierci Marthy pami\u0119tnik rzuci\u0142 nowe \u015bwiat\u0142o na jej relacj\u0119 z morderc\u0105. Kobieta na kr\u00f3tko przed swoj\u0105 \u015bmierci\u0105 wyrzuci\u0142a m\u0119\u017cczyzn\u0119 ze swojego domu. Dzie\u0144 wcze\u015bniej sprzeda\u0142a zabytkowy \u017cyrandol, nale\u017c\u0105cy przez dziesi\u0105tki lat do jej rodziny, a otrzymane pieni\u0105dze, w kwocie 10 000. dolar\u00f3w schowa\u0142a w domu. Jedynym \u015bwiadkiem tych wydarze\u0144 by\u0142 Travis i gdy pieni\u0105dze znikn\u0119\u0142y, zrzuci\u0142a na niego odpowiedzialno\u015b\u0107 za ich kradzie\u017c. Jednocze\u015bnie czu\u0142a ogromny zaw\u00f3d w stosunku do m\u0119\u017cczyzny, dla kt\u00f3rego tak wiele zrobi\u0142a.\n\nreklama\n\nNajwyra\u017aniej Travis wr\u00f3ci\u0142 kilka dni p\u00f3\u017aniej, celem rabunku kolejnych rzeczy. Nigdy nie ustalono, czy tylko kradzie\u017c by\u0142a jego zamiarem, a Martha zgin\u0119\u0142a jako niewygodny \u015bwiadek, czy te\u017c to ona by\u0142a g\u0142\u00f3wnym celem sprawcy, a rabunek nast\u0105pi\u0142 przy okazji.\n\nPewne by\u0142o, \u017ce Travis chcia\u0142 zastosowa\u0107 podobne \u015brodki by zatrze\u0107 swoje \u015blady swojej zbrodni. Identycznie, jak 24 lata wcze\u015bniej pr\u00f3bowa\u0142 spali\u0107 cia\u0142o ofiary oraz posiad\u0142o\u015b\u0107, w kt\u00f3rej dosz\u0142o do zab\u00f3jstwa.\n\nZastanawia r\u00f3wnie\u017c kr\u00f3tki okres, jaki nast\u0105pi\u0142 pomi\u0119dzy dokonaniem drugiej zbrodni, a czasem, kiedy Travis opu\u015bci\u0142 mury wi\u0119zienne. Jedna z organizacji zajmuj\u0105cych si\u0119 morderstwami dokonanymi przez osoby m\u0142odociane zauwa\u017ca, \u017ce nieletni zab\u00f3jcy cechuj\u0105 si\u0119 wy\u017cszym brakiem empatii, i wysokim wska\u017anikiem recydywy, gdy\u017c pope\u0142niane zbrodnie i pobyty w wi\u0119zieniach wyznaczaj\u0105 kierunek ich przysz\u0142ych zachowa\u0144.\n\nUrokliwy i majestatyczny Snowden House zosta\u0142 po \u015bmierci Marthy sprzedany osobie spoza rodziny za jedynie 725 tys. dolar\u00f3w. Wkr\u00f3tce zosta\u0142 zburzony, a teren pod nim przygotowano pod now\u0105 inwestycj\u0119.\n\nNajwa\u017cniejsze \u017ar\u00f3d\u0142a:"
         }
     },
     {
@@ -442,8 +426,24 @@
             "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ich pojawienia si\u0119 na rynku. Najcz\u0119\u015bciej poszukiwane monety przez kolekcjone ...",
             "image_url": "https://www.bing.pl/th?id=ODF.liWL6w23oefxD6cfFEdIQA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "Toru\u0144 Nasze Miasto on MSN48 min",
+            "date": "Toru\u0144 Nasze Miasto on MSN5 godz.",
             "source": "Toru\u0144 Nasze Miasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Nawet 39 tysi\u0119cy za monety z PRL. A\u017c tyle mog\u0105 zap\u0142aci\u0107 kolekcjonerzy. Masz takie w domu? Zobacz, ile mo\u017cna zrobi\u0107 (zdj\u0119cia) 25.06.2025",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/nawet-39-tysi%C4%99cy-za-monety-z-prl-a%C5%BC-tyle-mog%C4%85-zap%C5%82aci%C4%87-kolekcjonerzy-masz-takie-w-domu-zobacz-ile-mo%C5%BCna-zrobi%C4%87-zdj%C4%99cia-25062025/ar-AA1GsWDX?ocid=BingNewsVerp",
+            "description": "Je\u015bli my\u015blisz, \u017ce wszystkie monety z PRL s\u0105 warte tylko kilka groszy, to jeste\u015b w b\u0142\u0119dzie. Istniej\u0105 konkretne egzemplarze, kt\u00f3re na aukcjach internetowych potrafi\u0105 osi\u0105ga\u0107 osza\u0142amiaj\u0105ce ceny \u2013 nawet ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stare+numizmatyka",
+            "date": "G\u0142os Pomorza on MSN5 godz.",
+            "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
         }
     },
@@ -458,7 +458,7 @@
             "description": "Najdro\u017csze monety PRL by\u0142y jednak sprzedawane na aukcjach. Przede wszystkim na rzadkich, dedykowanych spotkaniach ...",
             "image_url": "https://www.bing.pl/th?id=OVF.B65F4FIi9zO5u8rLgo%2fFtw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Toru\u0144 Nasze Miasto on MSN14 godz.",
+            "date": "Toru\u0144 Nasze Miasto on MSN19 godz.",
             "source": "Toru\u0144 Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -474,7 +474,7 @@
             "description": "Czy chcesz pozna\u0107 histori\u0119 jednego z najwi\u0119kszych przedwojennych zak\u0142ad\u00f3w przemys\u0142owych Krakowa? Czy chcesz dowiedzie\u0107 si\u0119, do czego s\u0142u\u017cy rozwierak, a do czego pa\u0142asz i jak wygl\u0105da naw\u00f3z ze szk\u0142a? A ...",
             "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w10 godz.",
+            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w14 godz.",
             "source": "Oficjalny serwis miejski - Magiczny Krak\u00f3w",
             "article_content": "Krak\u00f3w \u2013 czas okupacji 1939-1945\n\nWystawa mie\u015bci si\u0119 w dawnym budynku administracyjnym Fabryki Emalia Oskara Schindlera przy ul. Lipowej 4 i jest opowie\u015bci\u0105 o Krakowie i losach jego polskich i \u017cydowskich mieszka\u0144c\u00f3w w czasie II wojny \u015bwiatowej, ale te\u017c o Niemcach \u2013 okupantach,..."
         }
@@ -485,14 +485,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "W USA zrobi\u0142o si\u0119 g\u0142o\u015bno. Mowa o odkryciu w Polsce",
-            "link": "https://www.rmf.fm/styl-zycia/news,80506,w-usa-zrobilo-sie-glosno-mowa-o-odkryciu-w-polsce.html",
-            "description": "Niezwyk\u0142e odkrycie archeolog\u00f3w w Polsce! Pod klasztorem w Che\u0142mie znaleziono rzadkie p\u0142ytki pochodz\u0105ce z okresu XVIII wieku.",
-            "image_url": "https://www.bing.pl/th?id=OVFT.vj5QGHG_3ljOIXGdQDSnUy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "RMF FM20 godz.",
-            "source": "RMF FM",
-            "article_content": "Niezwyk\u0142e odkrycie archeolog\u00f3w w Polsce! Pod klasztorem w Che\u0142mie znaleziono rzadkie p\u0142ytki pochodz\u0105ce z okresu XVIII wieku. Wie\u015b\u0107 o znalezieniu zabytk\u00f3w przyku\u0142a uwag\u0119 ameryka\u0144skich medi\u00f3w, kt\u00f3re okre\u015blaj\u0105 je jako prze\u0142omowe.\n\nNiezwyk\u0142e odkrycie w Polsce\n\nPrzypomnijmy, \u017ce jaki\u015b czas w pobli\u017cu Bazyliki Narodzenia Naj\u015bwi\u0119tszej Maryi Panny w Che\u0142mie, na terenie klasztoru, archeolodzy odnale\u017ali p\u0142ytki datowane na okres XVIII wieku. Sama \u015bwi\u0105tynia zosta\u0142a zbudowana w XIII wieku i na przestrzeni lat by\u0142a zwi\u0105zana z wyznaniem prawos\u0142awnym, greckokatolickim, a obecnie rzymskokatolickim. Ameryka\u0144skie media teraz zwr\u00f3ci\u0142y uwag\u0119 na niezwyk\u0142e znalezisko w Polsce. Portal Fox News rozpisuje si\u0119 na temat p\u0142ytek wykopanych przy klasztorze Bazylian\u00f3w, le\u017c\u0105cego obok \u015bwi\u0105tyni.\n\nCo znalaz\u0142o si\u0119 na p\u0142ytkach? Zgodnie z informacjami przekazanymi przez Lubelskiego Wojew\u00f3dzkiego Konserwatora Zabytk\u00f3w:\n\nWykonano je na specjalne zam\u00f3wienie: mia\u0142y okre\u015blon\u0105 symbolik\u0119, herb biskupi, tytulatur\u0119. Aktualnie trwaj\u0105 prace nad inwentaryzacj\u0105, wyklejaniem i opracowaniem odkrytych niezwyk\u0142ych artefakt\u00f3w.\n\nMedia w USA pisz\u0105 o odkryciu w Polsce\n\nAmeryka\u0144ski Fox News opisa\u0142 odkrycie archeolog\u00f3w w Polsce. W artykule znalaz\u0142y si\u0119 cytaty konserwatora zabytk\u00f3w i dok\u0142adny opis odnalezionych kafli. Dziennikarze podkre\u015blaj\u0105, \u017ce znalezisko to krok naprz\u00f3d w kierunku poznania ciekawostek z \u017cycia XVIII-wiecznego spo\u0142ecze\u0144stwa w okolicach klasztoru. Dowiadujemy si\u0119, \u017ce kafle najprawdopodobniej obudowywa\u0142y piec, o czym ma \u015bwiadczy\u0107 staranne wykonanie. Na razie nie wiadomo jednak, kt\u00f3ra manufaktura odpowiada za wytworzenie niezwyk\u0142ych znalezisk. Badacze s\u0105 jednak pewni, \u017ce zdobi\u0142y one piec i wn\u0119trze w klasztorze.\n\nCzytaj dalej:"
+            "title": "Upadek firmy",
+            "link": "https://dolnoslaskie.naszemiasto.pl/tag/upadek-firmy",
+            "description": "Zosta\u0142o dok\u0142adnie kilkadziesi\u0105t godzin do definitywnego zako\u0144czenia wielkiej historii Diory \u015awidnica. Firmy, kt\u00f3ra od 5 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "wykopano+zabytkowe",
+            "date": "Dolno\u015bl\u0105skie Nasze Miasto42 min",
+            "source": "Dolno\u015bl\u0105skie Nasze Miasto",
+            "article_content": "Content not available"
         }
     },
     {
@@ -501,14 +501,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Kolekcjonerzy poszukuj\u0105 tych antyk\u00f3w. Unikalne przedmioty do kupienia w Internecie. Masz je w domu? 25.06.2025",
-            "link": "https://gazetakrakowska.pl/kolekcjonerzy-poszukuja-tych-antykow-unikalne-przedmioty-do-kupienia-w-internecie-masz-je-w-domu-25062025/ar/c9-17262255",
-            "description": "Unikalne antyki poszukiwane przez kolekcjoner\u00f3w mog\u0105 zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na nich zarobi\u0107 fortun\u0119. Cz\u0119sto nie ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.M2fw_kVEbAkv5zg2kvCAfS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Z\u0142oty skarb wiking\u00f3w odkryty. Archeolodzy przecieraj\u0105 oczy ze zdumienia",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/z%C5%82oty-skarb-wiking%C3%B3w-odkryty-archeolodzy-przecieraj%C4%85-oczy-ze-zdumienia/ar-AA1HnTa7?ocid=BingNewsVerp",
+            "description": "Do\u015bwiadczony poszukiwacz metali, Ronald Clucas, odnalaz\u0142 misternie wykonany fragment z\u0142otego wiki\u0144skiego pier\u015bcienia na rami\u0119 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.HG9oCUuMuEFVuSEbkAceZy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Gazeta Krakowska1 godz.",
-            "source": "Gazeta Krakowska",
-            "article_content": "Content not available"
+            "date": "Planeta on MSN1 godz.",
+            "source": "Planeta on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Wyj\u0105tkowe odkrycia archeologiczne na ul. Masarskiej w Zielonej G\u00f3rze. Artefakty trafi\u0105 na wystaw\u0119",
+            "link": "https://wiadomosci.wp.pl/wyjatkowe-odkrycia-archeologiczne-na-ul-masarskiej-w-zielonej-gorze-artefakty-trafia-na-wystawe-7171469490285440a",
+            "description": "Archeolodzy natrafili na unikatowe artefakty podczas prac na ul. Masarskiej w Zielonej G\u00f3rze. Znaleziska trafi\u0105 na wystaw\u0119. Z ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.LioRsNoh_KtgoxyP471kRC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "odkrycie+zabytkowe+przedmiot",
+            "date": "WP Wiadomo\u015bci4 godz.",
+            "source": "WP Wiadomo\u015bci",
+            "article_content": "Pobieranie, zwielokrotnianie, przechowywanie lub jakiekolwiek inne wykorzystywanie tre\u015bci dost\u0119pnych w niniejszym serwisie - bez wzgl\u0119du na ich charakter i spos\u00f3b wyra\u017cenia (w szczeg\u00f3lno\u015bci lecz nie wy\u0142\u0105cznie: s\u0142owne, s\u0142owno-muzyczne, muzyczne, audiowizualne, audialne, tekstowe, graficzne i zawarte w nich dane i informacje, bazy danych i zawarte w nich dane) oraz form\u0119 (np. literackie, publicystyczne, naukowe, kartograficzne, programy komputerowe, plastyczne, fotograficzne) wymaga uprzedniej i jednoznacznej zgody Wirtualna Polska Media Sp\u00f3\u0142ka Akcyjna z siedzib\u0105 w Warszawie, b\u0119d\u0105cej w\u0142a\u015bcicielem niniejszego serwisu, bez wzgl\u0119du na spos\u00f3b ich eksploracji i wykorzystan\u0105 metod\u0119 (manualn\u0105 lub zautomatyzowan\u0105 technik\u0119, w tym z u\u017cyciem program\u00f3w uczenia maszynowego lub sztucznej inteligencji). Powy\u017csze zastrze\u017cenie nie dotyczy wykorzystywania jedynie w celu u\u0142atwienia ich wyszukiwania przez wyszukiwarki internetowe oraz korzystania w ramach stosunk\u00f3w umownych lub dozwolonego u\u017cytku okre\u015blonego przez w\u0142a\u015bciwe przepisy prawa.\n\nSzczeg\u00f3\u0142owa tre\u015b\u0107 dotycz\u0105ca niniejszego zastrze\u017cenia znajduje si\u0119 tutaj."
         }
     }
 ]
