@@ -5,12 +5,28 @@
             "Content-Type": "application/json"
         },
         "body": {
+            "title": "Przegl\u0105d prasy 29.06.2025. Zestawili\u015bmy dla Ciebie najwa\u017cniejsze wydarzenia z wczoraj. Zobacz nasz\u0105 pras\u00f3wk\u0119",
+            "link": "https://dzienniklodzki.pl/przeglad-prasy-29-06-2025-zestawilismy-dla-ciebie-najwazniejsze-wydarzenia-z-wczoraj-zobacz-nasza-prasowke/ar/c1p1-19960893",
+            "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 28.06. Sprawd\u017a, czy nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego. Czy czyta\u0142e\u015b artyku\u0142: \u201eNajbardziej ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.uJelon1vmcKYEKRidTlMcA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "starocie",
+            "date": "Dziennik \u0141\u00f3dzki52 min",
+            "source": "Dziennik \u0141\u00f3dzki",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
             "title": "Pchli targ nad jeziorem w Chmielnikach pod Bydgoszcz\u0105. Tak by\u0142o 28 czerwca 2025 - zobaczcie zdj\u0119cia",
             "link": "https://www.msn.com/pl-pl/wiadomosci/other/pchli-targ-nad-jeziorem-w-chmielnikach-pod-bydgoszcz%C4%85-tak-by%C5%82o-28-czerwca-2025-zobaczcie-zdj%C4%99cia/ar-AA1HAI6n?ocid=BingNewsVerp",
             "description": "W sobot\u0119, 21 czerwca w Chmielnikach zn\u00f3w zapanowa\u0142 wyj\u0105tkowy klimat \u2013 nad jeziorem odby\u0142 si\u0119 cotygodniowy pchli targ, kt\u00f3ry z ...",
             "image_url": "https://www.bing.pl/th?id=OVF.hAC07yfPRKkYi3%2bhe0uKRw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Bydgoszcz Nasze Miasto on MSN13 godz.",
+            "date": "Bydgoszcz Nasze Miasto on MSN16 godz.",
             "source": "Bydgoszcz Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -26,7 +42,7 @@
             "description": "Stadion Startu \u0141\u00f3d\u017a zn\u00f3w t\u0119tni \u017cyciem! 28 i 29 czerwca mi\u0142o\u015bnicy motoryzacji, historii i zabytk\u00f3w po raz kolejny spotkali si\u0119 ...",
             "image_url": "https://www.bing.pl/th?id=OVF.pA3p%2fPEAO5DrTMWh7Up4PQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Dziennik \u0141\u00f3dzki10 godz.",
+            "date": "Dziennik \u0141\u00f3dzki12 godz.",
             "source": "Dziennik \u0141\u00f3dzki",
             "article_content": "Content not available"
         }
@@ -42,25 +58,9 @@
             "description": "Ten targ staroci przyci\u0105ga mi\u0142o\u015bnik\u00f3w stylu retro, kolekcjoner\u00f3w i entuzjast\u00f3w r\u0119kodzie\u0142a. Sprawdzili\u015bmy, jakie skarby mo\u017cna ...",
             "image_url": "https://www.bing.pl/th?id=OVF.wPOPZ8qVqFV0bqb%2bw89KDA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Gazeta Wroc\u0142awska on MSN17 godz.",
+            "date": "Gazeta Wroc\u0142awska on MSN20 godz.",
             "source": "Gazeta Wroc\u0142awska on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "P\u0142yty winylowe",
-            "link": "https://pomorska.pl/tag/plyty-winylowe",
-            "description": "Stare p\u0142yty winylowe s\u0105 obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli posiadasz takie wydania, warto przyjrze\u0107 si\u0119 im bli\u017cej \u2013... Muzyka na starych no\u015bnikach, takich j ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "starocie",
-            "date": "Gazeta Pomorska5 godz.",
-            "source": "Gazeta Pomorska",
-            "article_content": "Content not available"
         }
     },
     {
@@ -74,7 +74,7 @@
             "description": "Gdy jesieni\u0105 ub.r. z\u0142o\u017cyli\u015bmy mu wizyt\u0119, nosi\u0142 si\u0119 z zamiarem uruchomienia galerii swych dzie\u0142. Teraz wszystkich ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.vv6t-F4Ll2w53jEZY9DHaC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "netTG.pl14 godz.",
+            "date": "netTG.pl17 godz.",
             "source": "netTG.pl",
             "article_content": "28 czerwca 2025 12:46\n\nRozmawia\u0142: Kajetan Berezowski\n\nW Piekarach \u015al\u0105skich emerytowany g\u00f3rnik otworzy\u0142 jedyn\u0105 w swoim rodzaju galeri\u0119\n\nGdy jesieni\u0105 ub.r. z\u0142o\u017cyli\u015bmy mu wizyt\u0119, nosi\u0142 si\u0119 z zamiarem uruchomienia galerii swych dzie\u0142. Teraz wszystkich zainteresowanych serdecznie do niej zaprasza. Adam Gut z Piekar \u015al\u0105skich to artysta nietuzinkowy. Z niczego potrafi stworzy\u0107 co\u015b. Jego prace pe\u0142ne s\u0105 emocji i specyficznego klimatu z pogranicza recyklingu i postindustrialu.\n\nJu\u017c przy wej\u015bciu wiadomo, \u017ce w galerii zobaczymy co\u015b wyj\u0105tkowego. Stalowe drzwi ozdobione s\u0105 stylow\u0105 klamk\u0105 wykonan\u0105 z klucza monterskiego. Zamykaj\u0105 si\u0119 za pomoc\u0105 k\u00f3\u0142ka typowego dla sejf\u00f3w bankowych. W dw\u00f3ch niewielkich izbach Adam Gut zebra\u0142 najcenniejsze przedmioty, kt\u00f3re skonstruowa\u0142 w ci\u0105gu minionych dziesi\u0119ciu lat. W swoim mieszkaniu w Brzezinach nie by\u0142 ju\u017c w stanie wszystkich ich pomie\u015bci\u0107.\n\n\u2013 Trzyma\u0142em je w r\u00f3\u017cnych miejscach, w piwnicy, w jakich\u015b schowkach, u\u017cyczonych grzeczno\u015bciowo pomieszczeniach. Tylko te najcenniejsze sta\u0142y w domu. Teraz prawie wszystkie mo\u017cna ogl\u0105da\u0107 w galerii \u2013 opowiada.\n\nREKLAMA\n\n\n\nJest wi\u0119c fotel wykonany z siedziska traktora oraz powrozu o wi\u0119kszych wymiarach ogniw, lampa biurowa z podstaw\u0105 wykonan\u0105 z \u0142o\u017cyska mechanizmu r\u00f3\u017cnicowego skrzyni bieg\u00f3w oraz kloszem z filtra powietrza ci\u0119\u017car\u00f3wki. Nowe miejsce znalaz\u0142 te\u017c stolik okoliczno\u015bciowy wraz z krzes\u0142ami. Komplet wa\u017cy \u2013 bagatela \u2013 ze 100 kilogram\u00f3w, a mo\u017ce nawet wi\u0119cej. Powsta\u0142 bowiem z solidnego g\u00f3rniczego \u0142a\u0144cucha. I wreszcie mozaiki. Przestrzenne, mozolnie uk\u0142adane z najdrobniejszych \u015brubek i k\u00f3\u0142 z\u0119batych. Dla nich artysta zarezerwowa\u0142 miejsce na \u015bcianach galerii.\n\n\u2013 Przepracowa\u0142em w piekarskich kopalniach blisko \u0107wier\u0107 wieku i jak poszed\u0142em na emerytur\u0119, to wypada\u0142o si\u0119 czym\u015b po\u017cytecznym zaj\u0105\u0107. Zabra\u0142em si\u0119 za majsterkowanie. By\u0142a pandemia, \u017cona narzeka\u0142a, \u017ce s\u0105 w domu trzy lampy i ani jedna nie dzia\u0142a. No to z trzech zrobi\u0142em jedn\u0105. Co\u015b mi wtedy za\u015bwita\u0142o, \u017ce przecie\u017c ze starych grat\u00f3w te\u017c mo\u017cna wyczarowa\u0107 fajne rzeczy.\n\nREKLAMA\n\nKrok po kroku\n\nREKLAMA\n\n\u2013 Ludzie pytaj\u0105 mnie, w jaki spos\u00f3b wyczarowuj\u0119 te cuda. W przypadku stolika najpierw wyci\u0105\u0142em z blachy wz\u00f3r blatu sto\u0142u, a nast\u0119pnie wymierzy\u0142em odcinek \u0142a\u0144cucha. Krok po kroku, ogniwo po ogniwie spawa\u0142em, aby uzyska\u0107 kszta\u0142t ko\u0142a. Na koniec wkomponowa\u0142em w to szklany blat. Proste odcinki \u0142a\u0144cucha doskonale nadaj\u0105 si\u0119 na nogi. Zawieszam je na haku, a nast\u0119pnie \u0142\u0105cz\u0119 ogniwa, spawaj\u0105c je z sob\u0105. Oczywi\u015bcie za ka\u017cdym razem maluj\u0119 odpowiedni\u0105 farb\u0105 \u2013 wyja\u015bnia.\n\nRuchomy blat to istne cudo. Jest posadowiony na cieniutkich, stalowych linkach. Mo\u017cna nim porusza\u0107. Chwieje si\u0119 co prawda na lewo i prawo, za ka\u017cdym razem wracaj\u0105c do swej pierwotnej pozy.\n\n\n\nZ nowo\u015bci, kt\u00f3re tw\u00f3rca zaprezentowa\u0142 w galerii, w oczy rzucaj\u0105 si\u0119 przede wszystkim lampy. Jedn\u0105 z nich, w kszta\u0142cie ludzkiej g\u0142owy, Adam Gut wykona\u0142 z kilkuset nakr\u0119tek m16 i jednej du\u017cej nakr\u0119tki kolejowej. Natomiast stolik industrialny powsta\u0142 z g\u00f3rniczych \u0142a\u0144cuch\u00f3w. Dwa stanowi\u0105 podstaw\u0119, kolejny, wymontowany z rukcuga, czyli wyci\u0105garko-opuszczarki, otacza szklany blat. Waga? 30 kg co najmniej. Figlarnie prezentuj\u0105 si\u0119 lampy w kszta\u0142cie kobiecych popiersi, zw\u0142aszcza jedna, wykonana z ponad 1100 cz\u0119\u015bci. Czeg\u00f3\u017c tam nie ma: mutry, \u015bruby, nakr\u0119tki. Wszystkie pi\u0119knie l\u015bni\u0105 metaliczn\u0105 barw\u0105.\n\nREKLAMA\n\n\n\n\u2013 Lubi\u0119 sk\u0142ada\u0107 co\u015b, co dawniej s\u0142u\u017cy\u0142o na dole, w kopalni. Sam przecie\u017c jestem g\u00f3rnikiem, tyle \u017ce na emeryturze \u2013 t\u0142umaczy, oprowadzaj\u0105c po galerii.\n\n\u2013 A to jest m\u00f3j b\u0119bniarz. Do jego skonstruowania u\u017cy\u0142em \u0142a\u0144cucha pochodz\u0105cego z przeno\u015bnika ta\u015bmowego, korbowodu z ci\u0119\u017car\u00f3wki i sporej liczby nakr\u0119tek typu m16 \u2013 opowiada, wskazuj\u0105c na kolejny eksponat.\n\nB\u0119bniarz trzyma w r\u0119kach werble wykonane z pod\u0142u\u017cnych \u017car\u00f3wek. Sam b\u0119ben r\u00f3wnie\u017c ma w sobie zainstalowan\u0105 \u017car\u00f3wk\u0119. Je\u015bli w\u0142\u0105czy\u0107 iluminacj\u0119, to wychodzi z tego idealna lampa, i to jeszcze z zegarem udaj\u0105cym twarz b\u0119bniarza.\n\n\u017beby nie by\u0142o nudno\n\nREKLAMA\n\n\u2013 U mnie najlepiej, jak si\u0119 co\u015b rusza, gra, \u015bwieci, tyka. Ot tak, \u017ceby nie by\u0142o nudno \u2013 obja\u015bnia tajniki swego warsztatu.\n\nDzi\u0119ki uruchomieniu galerii \u015bwiat\u0142o dzienne ujrza\u0142 tak\u017ce zestaw mebli barowych. Centralne miejsce zajmuje tu wysoki stolik z kolejn\u0105 sporych rozmiar\u00f3w lamp\u0105 o podstawie z k\u00f3\u0142 z\u0119batych. Klosz powsta\u0142 dzi\u0119ki odpowiedniemu dobraniu kluczy monterskich, krzes\u0142a natomiast z felg samochodowych, wa\u0142\u00f3w korbowych i siedzisk, ongi\u015b stanowi\u0105cych wyposa\u017cenie maszyn rolniczych.\n\nOsobny rozdzia\u0142 maj\u0105 instrumenty, zw\u0142aszcza gitary, do kt\u00f3rych Adam Gut ma szczeg\u00f3lny sentyment. Zbudowa\u0142 nawet jedn\u0105 dwugryfow\u0105. Jest ponadto wiolonczela i ogromny kontrabas ozdobiony zegarami. Na innym b\u0119bnie, powsta\u0142ym z \u0142a\u0144cucha b\u0119d\u0105cego cz\u0119\u015bci\u0105 rozrz\u0105du i kluczy do \u015brub, mo\u017cna gra\u0107. Wydaje ciekawy d\u017awi\u0119k. Podobno muzykom z zespo\u0142u Oberschlesien przypad\u0142 do gustu i cz\u0119sto po\u017cyczaj\u0105 go na koncerty.\n\nZnalaz\u0142o si\u0119 te\u017c miejsce dla najci\u0119\u017cszych eksponat\u00f3w, kt\u00f3rymi s\u0105 modele motocykli.\n\n\n\nLecz najch\u0119tniej ogl\u0105danymi eksponatami s\u0105 \u2013 jak potwierdza sam artysta \u2013 metalowe konstrukcje przedstawiaj\u0105ce kobiece cia\u0142a. Do niedawna zdobi\u0142y \u015bcian\u0119 sypialni pa\u0144stwa Gut\u00f3w, bezpo\u015brednio nad \u0142\u00f3\u017ckiem. Teraz mo\u017cna podziwia\u0107 je w galerii. Wisz\u0105 wysoko pod sufitem. \u015awietnie prezentuje si\u0119 zw\u0142aszcza kobieca podobizna trzymaj\u0105ca w r\u0119kach biustonosz. Waga tej cz\u0119\u015bci damskiej garderoby przekracza 5 kg, a ca\u0142ej postaci z dziesi\u0119\u0107 razy tyle. I nie ma si\u0119 specjalnie czemu dziwi\u0107. Do z\u0142o\u017cenia tej instalacji Adam Gut u\u017cy\u0142 ca\u0142ego mn\u00f3stwa z\u0119batek, spr\u0119\u017cyn i podk\u0142adek. T\u0142o za\u015b stanowi\u0105 elementy skrzyni bieg\u00f3w wyprutej z samochodu ci\u0119\u017carowego.\n\nREKLAMA\n\n\n\nInna kobieca posta\u0107 r\u00f3wnie\u017c stworzona zosta\u0142a z z\u0119batek rowerowych.\n\n\u2013 Do zbudowania tej figury zu\u017cy\u0142em cz\u0119\u015bci z oko\u0142o stu jedno\u015blad\u00f3w. Przez okr\u0105g\u0142y rok je zbiera\u0142em, a sama robota przy ich uk\u0142adaniu zaj\u0119\u0142a mi dwa miesi\u0105ce \u2013 wylicza.\n\n\u2013 Bo\u017ce, ile ja w to wszystko w\u0142o\u017cy\u0142em roboty i serca, to chyba ja tylko sam jeden wiem, no mo\u017ce jeszcze ma\u0142\u017conka. Ca\u0142a ta tw\u00f3rczo\u015b\u0107 to taki rodzaj recyklingu. Starocie dostaj\u0105 nowe \u017cycie. Na co\u015b si\u0119 przydaj\u0105 \u2013 przyznaje Adam Gut.\n\nZa narz\u0119dzia s\u0142u\u017c\u0105 mu szlifierka k\u0105towa, wiertarka i spawarka. Od kilku miesi\u0119cy pos\u0142uguje si\u0119 now\u0105 spawark\u0105 wykorzystuj\u0105c\u0105 drut w os\u0142onie gazu, co znacznie ma przyspieszy\u0107 realizacj\u0119 kolejnych pomys\u0142\u00f3w.\n\nDwa razy w tygodniu odwiedza r\u00f3\u017cne wysypiska starych grat\u00f3w, aby wybiera\u0107 to, co akurat wpadnie mu w oko.\n\n\u2013 Ja rzadko kiedy planuj\u0119 stworzenie czegokolwiek, poniewa\u017c nie wiem, co znajd\u0119 na szrocie. Jak ju\u017c wybior\u0119 to \u201eco\u015b\u201d, to ogl\u0105dn\u0119, sprawdz\u0119, pomy\u015bl\u0119 i tak tworz\u0119 plan. Mam wiele element\u00f3w, \u015brub, przek\u0142adni, z kt\u00f3rymi jeszcze nie wiem, co zrobi\u0119. Le\u017c\u0105 i czekaj\u0105 na swoje nowe \u017cycie \u2013 \u015bmieje si\u0119 artysta.\n\n\n\nIndustrial GUT \u201eajza projekt\u201d to przestrze\u0144, w kt\u00f3rej mo\u017cna podziwia\u0107 prace Adama Guta. Galeria mie\u015bci si\u0119 przy ul. Tarnog\u00f3rskiej 61 w Piekarach \u015al\u0105skich.\n\nREKLAMA\n\nJe\u015bli chcesz mie\u0107 dost\u0119p do artyku\u0142\u00f3w z Trybuny G\u00f3rniczej, w dniu ukazania si\u0119 tygodnika, zam\u00f3w elektroniczn\u0105 prenumerat\u0119 PREMIUM. Szczeg\u00f3\u0142y: nettg.pl/premium. Je\u017celi chcesz codziennie otrzymywa\u0107 informacje o aktualnych publikacjach ukazuj\u0105cych si\u0119 na portalu netTG.pl Gospodarka i Ludzie, zapisz si\u0119 do newslettera."
         }
@@ -86,11 +86,11 @@
         },
         "body": {
             "title": "Rzadkie monety z PRL poszukiwane przez kolekcjoner\u00f3w. Sprawd\u017a, kt\u00f3re s\u0105 najdro\u017csze i ile mo\u017cna za nie zarobi\u0107! 28.06.2025",
-            "link": "https://www.msn.com/pl-pl/finanse/og%C3%B3lne/rzadkie-monety-z-prl-poszukiwane-przez-kolekcjoner%C3%B3w-sprawd%C5%BA-kt%C3%B3re-s%C4%85-najdro%C5%BCsze-i-ile-mo%C5%BCna-za-nie-zarobi%C4%87-28-06-2025/ar-AA1HrJHz?ocid=BingNewsVerp",
+            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/rzadkie-monety-z-prl-poszukiwane-przez-kolekcjoner%C3%B3w-sprawd%C5%BA-kt%C3%B3re-s%C4%85-najdro%C5%BCsze-i-ile-mo%C5%BCna-za-nie-zarobi%C4%87-28062025/ar-AA1HrJHz?ocid=BingNewsVerp",
             "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.MrR85NeTIDsAbOpFrBnLci&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "image_url": "https://www.bing.pl/th?id=OVF.7yZqgctlw1Mjqp7E9DXCgA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Pomorza on MSN20 godz.",
+            "date": "G\u0142os Pomorza on MSN23 godz.",
             "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
         }
@@ -106,7 +106,7 @@
             "description": "Najdro\u017csze monety PRL by\u0142y jednak sprzedawane na aukcjach. Przede wszystkim na rzadkich, dedykowanych spotkaniach ...",
             "image_url": "https://www.bing.pl/th?id=OVF.Mtto3ULwoxLntmMj7nedHA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Nasze Miasto on MSN9 godz.",
+            "date": "Nasze Miasto on MSN11 godz.",
             "source": "Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -117,14 +117,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Stare telefony kom\u00f3rkowe, kt\u00f3re dzi\u015b s\u0105 warte fortun\u0119. Masz takie?",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/stare-telefony-kom%C3%B3rkowe-kt%C3%B3re-dzi%C5%9B-s%C4%85-warte-fortun%C4%99-masz-takie/ar-AA1Hsewg?ocid=BingNewsVerp",
-            "description": "Pokolenie dzisiejszych 30- i 40-latk\u00f3w dorasta\u0142o z pierwszymi kom\u00f3rkami w r\u0119kach. D\u017awi\u0119k kultowego dzwonka Nokii 3310, gry w ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.-MS9f4TcHDrG0x8W_Na2eS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Przegl\u0105d prasy 29.06.2025. Przygotowali\u015bmy zestaw najwa\u017cniejszych informacji z wczoraj. B\u0105d\u017a na bie\u017c\u0105co z wydarzeniami",
+            "link": "https://gp24.pl/przeglad-prasy-29-06-2025-przygotowalismy-zestaw-najwazniejszych-informacji-z-wczoraj-badz-na-biezaco-z-wydarzeniami/ar/c1p1-19960927",
+            "description": "W pi\u0105tek, 27 czerwca, w szko\u0142ach podstawowych, ponadpodstawowych i bran\u017cowych w S\u0142upsku oficjalnie zako\u0144czy\u0142 si\u0119 rok szkolny ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.vaEwAFaraQvP4FJQ4eQ8vw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Pomorza on MSN7 godz.",
-            "source": "G\u0142os Pomorza on MSN",
-            "article_content": ""
+            "date": "G\u0142os Pomorza52 min",
+            "source": "G\u0142os Pomorza",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pras\u00f3wka 29.06.2025 - najwa\u017cniejsze wydarzenia. Przygotowali\u015bmy przegl\u0105d prasy z wczoraj",
+            "link": "https://gazetalubuska.pl/prasowka-29-06-2025-najwazniejsze-wydarzenia-przygotowalismy-przeglad-prasy-z-wczoraj/ar/c1p1-19960919",
+            "description": "Podczas weekendu (27-29.06) trwa\u0107 b\u0119dzie \u201eII. Festiwal Podr\u00f3\u017cy \u2013 Campowisko'. To jedyne tego typu wydarzenie w \u015brodkowej ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.3Ad2UoS1mYKloJa-YA57PS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "Gazeta Lubuska52 min",
+            "source": "Gazeta Lubuska",
+            "article_content": "Content not available"
         }
     },
     {
@@ -138,25 +154,9 @@
             "description": "W 2025 roku bi\u017cuteria z lat PRL cieszy si\u0119 popularno\u015bci\u0105 i jest poszukiwana przez kolekcjoner\u00f3w. Je\u015bli masz jeszcze tak\u0105 w ...",
             "image_url": "https://www.bing.pl/th?id=OVF.3N1qNvXZPy6VqgQ%2bKSQCoA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Gazeta Pomorska on MSN18 godz.",
+            "date": "Gazeta Pomorska on MSN21 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "To mia\u0142 by\u0107 spokojny urlop\u2026 a\u017c znale\u017ali TO w piasku! Pla\u017cowicze w szoku!",
-            "link": "https://www.eswinoujscie.pl/to-mial-byc-spokojny-urlop-az-znalezli-to-w-piasku-plazowicze-w-szoku/",
-            "description": "To mia\u0142 by\u0107 spokojny urlop Morze Ba\u0142tyckie to nie tylko pi\u0119kne widoki i wakacyjna sielanka. To tak\u017ce miejsce pe\u0142ne historii, ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.8lCUWJOuHYykW7_1CKWOti&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "\u015awinouj\u015bcie w sieci7 godz.",
-            "source": "\u015awinouj\u015bcie w sieci",
-            "article_content": "Zaskakuj\u0105ce znaleziska na pla\u017cach Ba\u0142tyku \u2013 od bursztyn\u00f3w po niebezpieczne niewybuchy\n\nTo mia\u0142 by\u0107 spokojny urlop \u2013 Wakacyjny spacer brzegiem morza to dla wielu os\u00f3b czas relaksu, wyciszenia i kontaktu z natur\u0105. Jednak niekt\u00f3rzy tury\u015bci nad Ba\u0142tykiem do\u015bwiadczyli czego\u015b zupe\u0142nie innego. Co jaki\u015b czas pojawiaj\u0105 si\u0119 informacje o zaskakuj\u0105cych, a czasem niebezpiecznych znaleziskach w piasku. Od pi\u0119knych bursztyn\u00f3w, przez historyczne artefakty, a\u017c po gro\u017ane niewybuchy \u2013 Ba\u0142tyk wci\u0105\u017c zaskakuje.\n\nBursztyn \u2013 ba\u0142tyckie z\u0142oto warte setki tysi\u0119cy\n\nNie bez powodu bursztyn nazywany jest z\u0142otem Ba\u0142tyku. Jego obecno\u015b\u0107 na pla\u017cach to dla wielu turyst\u00f3w pow\u00f3d do rado\u015bci. Najwi\u0119cej bursztynu mo\u017cna znale\u017a\u0107 tu\u017c po sztormach, zw\u0142aszcza na pla\u017cach wschodniego wybrze\u017ca, od Piask\u00f3w po Ustk\u0119. Morze wyrzuca wtedy na brzeg nie tylko ga\u0142\u0119zie czy wodorosty, ale tak\u017ce z\u0142ociste bry\u0142ki \u017cywicy sprzed milion\u00f3w lat.\n\nNajwi\u0119ksze okazy wa\u017c\u0105 nawet kilkaset gram\u00f3w i mog\u0105 zawiera\u0107 inkluzje \u2013 zatopione wewn\u0105trz owady lub fragmenty ro\u015blin sprzed 35 milion\u00f3w lat. Takie egzemplarze osi\u0105gaj\u0105 na rynku warto\u015b\u0107 kilkunastu tysi\u0119cy z\u0142otych. Zdarza si\u0119, \u017ce przypadkowy spacerowicz znajduje bursztyn, kt\u00f3ry trafia potem do muzeum lub kolekcjonera.\n\nBia\u0142y fosfor \u2013 pu\u0142apka w piasku\n\nNiestety, nie wszystko, co wygl\u0105da jak bursztyn, jest bezpieczne. Bia\u0142y fosfor, kt\u00f3ry czasem pojawia si\u0119 na pla\u017cach, mo\u017ce wygl\u0105da\u0107 niemal identycznie jak bursztyn. Problem polega na tym, \u017ce po wyschni\u0119ciu mo\u017ce si\u0119 samoistnie zapali\u0107. Jego kontakt ze sk\u00f3r\u0105 powoduje ci\u0119\u017ckie poparzenia. W ostatnich latach odnotowano kilka przypadk\u00f3w powa\u017cnych obra\u017ce\u0144 po kontakcie z bia\u0142ym fosforem na pla\u017cy Uznamu.\n\nWarto pami\u0119ta\u0107, \u017ce fosfor to pozosta\u0142o\u015b\u0107 po dzia\u0142aniach wojennych. Podczas II wojny \u015bwiatowej wiele toksycznych substancji zosta\u0142o zrzuconych do Ba\u0142tyku, gdzie do dzi\u015b zalegaj\u0105 na dnie. Cz\u0119\u015b\u0107 z nich po sztormach mo\u017ce trafia\u0107 na pla\u017ce.\n\nNiewybuchy \u2013 gro\u017ane pami\u0105tki wojenne\n\nNajbardziej niebezpiecznymi znaleziskami s\u0105 bez w\u0105tpienia niewybuchy. Na polskim wybrze\u017cu ka\u017cdego roku saperzy interweniuj\u0105 w kilkudziesi\u0119ciu przypadkach. Niewielkie bomby lotnicze, miny morskie, granaty i inne materia\u0142y wybuchowe zalegaj\u0105 w piasku od czas\u00f3w wojny. Zdarza si\u0119, \u017ce s\u0105 wykopywane przez dzieci bawi\u0105ce si\u0119 \u0142opatk\u0105, przez spacerowicz\u00f3w lub przez osoby poszukuj\u0105ce skarb\u00f3w z wykrywaczem metali.\n\nWzmo\u017cone dzia\u0142ania Policji i Stra\u017cy Granicznej na granicy w \u015awinouj\u015bciu\n\n\u015awinouj\u015bcie \u2013 zobacz co dzieje si\u0119 w naszym mie\u015bcie \u2013 FILM\n\nLekarz POZ w \u015awinouj\u015bciu \u2013 Tw\u00f3j pierwszy kontakt z opiek\u0105 zdrowotn\u0105\n\nW czerwcu w Dziwnowie podczas sprz\u0105tania pla\u017cy odnaleziono metalowy przedmiot przypominaj\u0105cy puszk\u0119. Jak si\u0119 okaza\u0142o, by\u0142 to granat, kt\u00f3ry znajdowa\u0142 si\u0119 zaledwie 10 centymetr\u00f3w pod powierzchni\u0105 piasku. Natychmiast ewakuowano pla\u017c\u0119 i wezwano patrol saperski.\n\nSkarby historii \u2013 nie tylko zagro\u017cenie\n\nPla\u017ca to tak\u017ce miejsce, gdzie mo\u017cna znale\u017a\u0107 cenne pami\u0105tki historyczne. Stare monety, fragmenty porcelany, elementy wyposa\u017cenia statk\u00f3w, a nawet butelki z wiadomo\u015bciami. Te znaleziska maj\u0105 ogromn\u0105 warto\u015b\u0107 sentymentaln\u0105 i historyczn\u0105. Zdarza si\u0119, \u017ce kto\u015b znajduje medalion, kt\u00f3ry okazuje si\u0119 by\u0107 w\u0142asno\u015bci\u0105 niemieckiego oficera z czas\u00f3w wojny.\n\nTanie apartamenty nad morzem? Uwa\u017caj na oszust\u00f3w! Sezon wakacyjny to \u017cniwa dla naci\u0105gaczy\n\nW niekt\u00f3rych miejscach, jak Hel czy Ustka, mo\u017cna natkn\u0105\u0107 si\u0119 na fragmenty fortyfikacji z czas\u00f3w II wojny \u015bwiatowej. Pla\u017ce te bywaj\u0105 monitorowane przez pasjonat\u00f3w historii i archeolog\u00f3w, kt\u00f3rzy badaj\u0105 pozosta\u0142o\u015bci militarne oraz osady zatopione w piasku.\n\nJak zachowa\u0107 si\u0119, gdy co\u015b znajdziesz?\n\nW przypadku bursztynu \u2013 wystarczy zabra\u0107 go ze sob\u0105, oczy\u015bci\u0107 i cieszy\u0107 si\u0119 naturalnym skarbem. Je\u015bli jednak mamy cho\u0107 cie\u0144 w\u0105tpliwo\u015bci co do znaleziska, lepiej zachowa\u0107 ostro\u017cno\u015b\u0107.\n\nJe\u015bli podejrzewasz, \u017ce znalaz\u0142e\u015b co\u015b niebezpiecznego:\n\nNie dotykaj przedmiotu i nie pr\u00f3buj go przenosi\u0107 Oznacz miejsce i oddal si\u0119 na bezpieczn\u0105 odleg\u0142o\u015b\u0107 Poinformuj s\u0142u\u017cby ratunkowe \u2013 policj\u0119 lub stra\u017c miejsk\u0105 Je\u015bli to mo\u017cliwe, zr\u00f3b zdj\u0119cie z daleka, by \u0142atwiej mo\u017cna by\u0142o zidentyfikowa\u0107 obiekt\n\nPami\u0119taj \u2013 nawet przedmiot wygl\u0105daj\u0105cy jak zwyk\u0142y kamie\u0144 mo\u017ce okaza\u0107 si\u0119 granatem lub bomb\u0105 lotnicz\u0105.\n\nEdukacja i \u015bwiadomo\u015b\u0107 kluczem do bezpiecze\u0144stwa\n\nW wielu nadmorskich miejscowo\u015bciach organizowane s\u0105 akcje edukacyjne na temat bezpiecznego korzystania z pla\u017c i rozpoznawania niebezpiecznych obiekt\u00f3w. Pla\u017cowicze s\u0105 informowani o tym, jak odr\u00f3\u017cni\u0107 bursztyn od bia\u0142ego fosforu, a dzieci ucz\u0105 si\u0119, by nie kopa\u0107 g\u0142\u0119boko w piasku bez nadzoru.\n\nBa\u0142tyk wci\u0105\u017c skrywa tajemnice\n\nMorze Ba\u0142tyckie to nie tylko pi\u0119kne widoki i wakacyjna sielanka. To tak\u017ce miejsce pe\u0142ne historii, kt\u00f3re mo\u017ce nas zaskoczy\u0107 \u2013 czasem pozytywnie, a czasem niebezpiecznie. Spaceruj\u0105c po pla\u017cy warto zachowa\u0107 czujno\u015b\u0107 i rozwag\u0119. Czasem przypadkowy spacer mo\u017ce zako\u0144czy\u0107 si\u0119 odkryciem \u017cycia, innym razem wezwaniem saper\u00f3w.\n\nCzy Ty r\u00f3wnie\u017c znalaz\u0142e\u015b co\u015b niezwyk\u0142ego na pla\u017cy? Podziel si\u0119 swoj\u0105 histori\u0105 w komentarzu!"
         }
     },
     {
@@ -170,7 +170,7 @@
             "description": "W 2025 roku porcelana z lat PRL cieszy si\u0119 popularno\u015bci\u0105 i jest poszukiwana przez kolekcjoner\u00f3w. Je\u015bli masz jeszcze tak\u0105 w ...",
             "image_url": "https://www.bing.pl/th?id=OVF.7%2fLeG0u3exRbpmrOoyPHCA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN8 godz.",
+            "date": "Gazeta Pomorska on MSN11 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -186,7 +186,7 @@
             "description": "Ten targ staroci przyci\u0105ga mi\u0142o\u015bnik\u00f3w stylu retro, kolekcjoner\u00f3w i entuzjast\u00f3w r\u0119kodzie\u0142a. Sprawdzili\u015bmy, jakie skarby mo\u017cna ...",
             "image_url": "https://www.bing.pl/th?id=OVF.wPOPZ8qVqFV0bqb%2bw89KDA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Gazeta Wroc\u0142awska on MSN17 godz.",
+            "date": "Gazeta Wroc\u0142awska on MSN20 godz.",
             "source": "Gazeta Wroc\u0142awska on MSN",
             "article_content": ""
         }
@@ -202,7 +202,7 @@
             "description": "Tysi\u0105ce mi\u0142o\u015bnik\u00f3w motoryzacji pr\u00f3buje dosta\u0107 si\u0119 na stadion Tarczy\u0144ski Arena. Gigantyczny \"ogon\" ci\u0105gnie si\u0119 a\u017c do ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.icvrtBKQFnj2sVlNzFSGgC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Gazeta Wroc\u0142awska on MSN12 godz.",
+            "date": "Gazeta Wroc\u0142awska on MSN15 godz.",
             "source": "Gazeta Wroc\u0142awska on MSN",
             "article_content": ""
         }
@@ -218,7 +218,7 @@
             "description": "Dolno\u015bl\u0105ski O\u015brodek Doradztwa Rolniczego przy ul. Zwyci\u0119skiej zamieni\u0142 si\u0119 w serce wiejskich tradycji, smak\u00f3w i kolor\u00f3w.",
             "image_url": "https://www.bing.pl/th?id=OVF.hibYk5JdMiFy2LCtYiQtww&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Gazeta Wroc\u0142awska on MSN13 godz.",
+            "date": "Gazeta Wroc\u0142awska on MSN16 godz.",
             "source": "Gazeta Wroc\u0142awska on MSN",
             "article_content": ""
         }
@@ -234,7 +234,7 @@
             "description": "W sobot\u0119, 21 czerwca w Chmielnikach zn\u00f3w zapanowa\u0142 wyj\u0105tkowy klimat \u2013 nad jeziorem odby\u0142 si\u0119 cotygodniowy pchli targ, kt\u00f3ry z ...",
             "image_url": "https://www.bing.pl/th?id=OVF.hAC07yfPRKkYi3%2bhe0uKRw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Bydgoszcz Nasze Miasto on MSN13 godz.",
+            "date": "Bydgoszcz Nasze Miasto on MSN16 godz.",
             "source": "Bydgoszcz Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -245,14 +245,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "S\u0142ynne targowiska w woj. \u015bl\u0105skim - sprawd\u017a LIST\u0118! Tu kupisz wszystko \u2013 od aut i mebli po jajka i ubrania. Znasz te kultowe gie\u0142dy i rynki?",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/s%C5%82ynne-targowiska-w-woj-%C5%9Bl%C4%85skim-sprawd%C5%BA-list%C4%99-tu-kupisz-wszystko-od-aut-i-mebli-po-jajka-i-ubrania-znasz-te-kultowe-gie%C5%82dy-i-rynki/ar-AA1HxE5O?ocid=BingNewsVerp",
-            "description": "W wojew\u00f3dztwie \u015bl\u0105skim dzia\u0142a wiele popularnych targowisk, kt\u00f3re przyci\u0105gaj\u0105 t\u0142umy kupuj\u0105cych. Mo\u017cna na nich znale\u017a\u0107 ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.uPvQp0dG0VYwTZ%2fI8mxHXQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Ponad milion uchod\u017ac\u00f3w z Syrii szuka schronienia w Libanie",
+            "link": "https://www.rp.pl/wydarzenia/swiat/spoleczenstwo/646",
+            "description": "Liczba syryjskich uchod\u017ac\u00f3w w Libanie przekroczy\u0142a milion - informuje ONZ, zwracaj\u0105c uwag\u0119, \u017ce to prawie 1/4 populacji ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.TwfyZCG9hSlr-5O_bkT0hS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Cz\u0119stochowa Nasze Miasto on MSN8 godz.",
-            "source": "Cz\u0119stochowa Nasze Miasto on MSN",
-            "article_content": ""
+            "date": "Rzeczpospolita35 min",
+            "source": "Rzeczpospolita",
+            "article_content": "Hermitage\n\nDolina Rodanu jest jednym z g\u0142\u00f3wnych francuskich region\u00f3w winnych, a bior\u0105c pod uwag\u0119 ilo\u015b\u0107 wytwarzanego tam wina \u2013 nawet drugim po Bordeaux. Poniewa\u017c pr\u00f3b..."
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pras\u00f3wka 29.06.2025 - najwa\u017cniejsze wydarzenia. Przygotowali\u015bmy przegl\u0105d prasy z wczoraj",
+            "link": "https://nowosci.com.pl/prasowka-29-06-2025-najwazniejsze-wydarzenia-przygotowalismy-przeglad-prasy-z-wczoraj/ar/c1p1-19960939",
+            "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 28.06.",
+            "image_url": "https://www.bing.pl/th?id=OVFT.hLVPISn5bL8XeQ_6kf2AdS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski52 min",
+            "source": "Nowo\u015bci Dziennik Toru\u0144ski",
+            "article_content": "Content not available"
         }
     },
     {
@@ -266,7 +282,7 @@
             "description": "Rekin, kt\u00f3ry nagle nieruchomieje, gdy tylko zostanie odwr\u00f3cony na grzbiet, przypomina ofiar\u0119 ataku paniki lub\u2026 stworzenie, kt\u00f3re zapomnia\u0142o, jak by\u0107 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.f3l-vLfSgS4QmXoT6XJFew&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Focus3 godz.",
+            "date": "Focus5 godz.",
             "source": "Focus",
             "article_content": "W \u015bwiecie przyrody nieruchomo\u015b\u0107 potrafi ratowa\u0107 \u017cycie. Oposy i kr\u00f3liki znane s\u0105 z udawania martwych, by zmyli\u0107 drapie\u017cniki. To klasyczny przyk\u0142ad tzw. immobilizacji tonicznej \u2013 fizjologicznego stanu, w kt\u00f3rym cia\u0142o zwierz\u0119cia sztywnieje, a mi\u0119\u015bnie przestaj\u0105 pracowa\u0107, jakby ca\u0142e \u017cycie zatrzyma\u0142o si\u0119 na chwil\u0119 w oczekiwaniu, a\u017c zagro\u017cenie minie.\n\nCzytaj te\u017c: Wygl\u0105da upiornie, ale spokojnie \u2013 to tylko ryba. Nowy gatunek odkryty u wybrze\u017cy Tajlandii\n\nW najnowszym badaniu opublikowanym w czasopi\u015bmie Reviews in Fish Biology and Fisheries, mi\u0119dzynarodowy zesp\u00f3\u0142 naukowc\u00f3w przyjrza\u0142 si\u0119 tej reakcji u rekin\u00f3w, p\u0142aszczek i tzw. chimerom, zwanym potocznie rekinami-widmami. Wyniki zaskoczy\u0142y: cho\u0107 zjawisko immobilizacji tonicznej wyst\u0119puje u niekt\u00f3rych z tych morskich stworze\u0144, nie daje im \u017cadnej oczywistej przewagi. Co wi\u0119cej \u2013 mo\u017ce by\u0107 dla nich szkodliwe.\n\nDlaczego rekiny zachowuj\u0105 si\u0119 w dziwny spos\u00f3b?\n\nBadacze przetestowali 13 gatunk\u00f3w ryb chrz\u0119stnoszkieletowych, delikatnie odwracaj\u0105c je pod wod\u0105 w pozycji \u201cdo g\u00f3ry brzuchem\u201d. U siedmiu gatunk\u00f3w zaobserwowano klasyczne objawy immobilizacji tonicznej \u2013 zwiotczenie mi\u0119\u015bni, spowolnienie ruch\u00f3w, stan przypominaj\u0105cy trans. U pozosta\u0142ych sze\u015bciu efekt ten nie wyst\u0105pi\u0142. Wtedy pojawi\u0142o si\u0119 pytanie: dlaczego?\n\nCzytaj te\u017c: G\u0142odny rekin posmakowa\u0142 kolczatki i szybko tego po\u017ca\u0142owa\u0142\n\nBy znale\u017a\u0107 odpowied\u017a, naukowcy si\u0119gn\u0119li po narz\u0119dzia analizy filogenetycznej \u2013 pozwalaj\u0105ce prze\u015bledzi\u0107 zachowanie w kontek\u015bcie milion\u00f3w lat ewolucji. I chocia\u017c w \u015bwiecie zwierz\u0105t nieruchomienie cz\u0119sto bywa strategi\u0105 obronn\u0105, wyniki badania jednoznacznie podwa\u017cy\u0142y t\u0119 hipotez\u0119 w przypadku rekin\u00f3w.\n\nPierwszym tropem by\u0142o za\u0142o\u017cenie, \u017ce immobilizacja toniczna mo\u017ce chroni\u0107 rekiny przed drapie\u017cnikami. Skoro ofiara wygl\u0105da na martw\u0105, mo\u017ce przesta\u0107 by\u0107 atrakcyjna. Problem w tym, \u017ce \u017cadne dane nie potwierdzaj\u0105 tej teorii w odniesieniu do rekin\u00f3w. Przeciwnie \u2013 wiadomo, \u017ce np. orki potrafi\u0105 wykorzysta\u0107 to zjawisko przeciwko rekinom: celowo je odwracaj\u0105, by unieruchomi\u0107 i z \u0142atwo\u015bci\u0105 wyj\u0105\u0107 z nich bogat\u0105 w t\u0142uszcz w\u0105trob\u0119. To nie obrona, a s\u0142abo\u015b\u0107.\n\nImmobilizacja toniczna u rekin\u00f3w to pami\u0105tka po przodkach /Fot. Rachel Moore, Reviews in Fish Biology and Fisheries\n\nDrugim pomys\u0142em by\u0142o znaczenie reprodukcyjne. U niekt\u00f3rych gatunk\u00f3w samce podczas kopulacji odwracaj\u0105 samice, wi\u0119c mo\u017ce immobilizacja toniczna u\u0142atwia przebieg aktu? Jednak badacze nie zaobserwowali \u017cadnych r\u00f3\u017cnic mi\u0119dzy reakcjami samc\u00f3w i samic. Co wi\u0119cej \u2013 pozostanie nieruchomym mog\u0142oby wr\u0119cz zwi\u0119ksza\u0107 ryzyko wymuszonej kopulacji lub obra\u017ce\u0144.\n\nTrzecia hipoteza zak\u0142ada\u0142a, \u017ce immobilizacja toniczna to rodzaj \u201czwarcia uk\u0142adu nerwowego\u201d \u2013 odpowied\u017a na przeci\u0105\u017cenie sensoryczne. Jednak i ten trop okaza\u0142 si\u0119 ma\u0142o wiarygodny, g\u0142\u00f3wnie dlatego, \u017ce nie zosta\u0142 dot\u0105d w spos\u00f3b kontrolowany przetestowany.\n\nWobec braku solidnych wyja\u015bnie\u0144, autorzy badania zaproponowali rozwi\u0105zanie, kt\u00f3re nie ma nic wsp\u00f3lnego z korzy\u015bci\u0105. Wed\u0142ug nich \u201czamro\u017cenie\u201d u rekin\u00f3w to relikt \u2013 pozosta\u0142o\u015b\u0107 po przodkach, kt\u00f3ra nie pe\u0142ni dzi\u015b \u017cadnej znacz\u0105cej funkcji.\n\nRelikty z g\u0142\u0119bin czasu\n\nZgodnie z analiz\u0105 ewolucyjn\u0105, immobilizacja toniczna jest cech\u0105 plezjomorficzn\u0105 \u2013 czyli obecn\u0105 u wsp\u00f3lnego przodka rekin\u00f3w, p\u0142aszczek i chimer. Wraz z up\u0142ywem milion\u00f3w lat, niekt\u00f3re linie ewolucyjne t\u0119 cech\u0119 utraci\u0142y \u2013 i to niezale\u017cnie od siebie, co najmniej pi\u0119ciokrotnie. Oznacza to, \u017ce zachowanie to nie tylko nie by\u0142o konieczne, ale wr\u0119cz mog\u0142o przeszkadza\u0107.\n\nWyobra\u017amy sobie ma\u0142ego rekina przemierzaj\u0105cego g\u0119sto rozga\u0142\u0119zione koralowce. W tak skomplikowanym \u015brodowisku odruchowe zwiotczenie cia\u0142a mo\u017ce prowadzi\u0107 do utkni\u0119cia, braku mo\u017cliwo\u015bci ucieczki, a nawet \u015bmierci. Nic dziwnego, \u017ce naturalna selekcja pozby\u0142a si\u0119 tego mechanizmu tam, gdzie zacz\u0105\u0142 przynosi\u0107 wi\u0119cej szkody ni\u017c po\u017cytku. Immobilizacja toniczna zatem nie jest ani inteligentn\u0105 strategi\u0105, ani mechanizmem adaptacyjnym. Jest jak organ szcz\u0105tkowy \u2013 niepotrzebny, ale niewystarczaj\u0105co szkodliwy, by znikn\u0105\u0107 ca\u0142kowicie.\n\nHistoria immobilizacji tonicznej pokazuje, \u017ce nie ka\u017cda cecha obecna w organizmach jest wynikiem przemy\u015blanej \u201cprojektanckiej\u201d logiki ewolucji. Czasem zachowania, kt\u00f3re dzi\u015b wydaj\u0105 si\u0119 nieprzydatne \u2013 albo wr\u0119cz niebezpieczne \u2013 po prostu przetrwa\u0142y, bo nie by\u0142o wystarczaj\u0105cego nacisku selekcyjnego, by je usun\u0105\u0107.\n\nTo istotna lekcja, bo zbyt cz\u0119sto zak\u0142adamy, \u017ce ka\u017cde zachowanie musi s\u0142u\u017cy\u0107 przetrwaniu. Tymczasem ewolucja dzia\u0142a nie jak in\u017cynier, ale jak mechanik z ograniczonym zestawem narz\u0119dzi, kt\u00f3ry bardziej naprawia i \u0142ata, ni\u017c projektuje od zera."
         }
@@ -282,7 +298,7 @@
             "description": "Najdro\u017csze monety PRL by\u0142y jednak sprzedawane na aukcjach. Przede wszystkim na rzadkich, dedykowanych spotkaniach ...",
             "image_url": "https://www.bing.pl/th?id=OVF.Mtto3ULwoxLntmMj7nedHA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Nasze Miasto on MSN9 godz.",
+            "date": "Nasze Miasto on MSN11 godz.",
             "source": "Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -298,7 +314,7 @@
             "description": "Prze\u0142\u0119cz Kocierska (718 m) \u2013 prze\u0142\u0119cz w Beskidzie Ma\u0142ym, mi\u0119dzy szczytami B\u0142asiak\u00f3wka i Roczenka. Stanowi najni\u017cszy punkt w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.2_foFobl3izTeY9JqTyxxi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Jaworzno Nasze Miasto12 godz.",
+            "date": "Jaworzno Nasze Miasto15 godz.",
             "source": "Jaworzno Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -314,25 +330,9 @@
             "description": "Kiedy\u015b Cupertino nie tylko pokazywa\u0142o nowe produkty, ale definiowa\u0142o przysz\u0142o\u015b\u0107 bran\u017cy. Dzi\u015b czekam na iPhone'a 17 jak na nowy sezon starego serialu, z przyzwyczajenia.",
             "image_url": "https://www.bing.pl/th?id=ODF.ptB34tLeIblT2r1CFaj5lw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Spider\u2019s Web11 godz.",
+            "date": "Spider\u2019s Web14 godz.",
             "source": "Spider\u2019s Web",
             "article_content": "Problem le\u017cy gdzie indziej. Przez ponad dekad\u0119 iPhone by\u0142 synonimem przysz\u0142o\u015bci. Jego premiery wyznacza\u0142y kierunki rozwoju ca\u0142ej bran\u017cy. Dzi\u015b iPhone jest synonimem przesz\u0142o\u015bci - doskonale wypolerowanej, niezawodnej, ale ostatecznie przewidywalnej. Firma, kt\u00f3ra kiedy\u015b m\u00f3wi\u0142a nam, czego potrzebujemy, zanim zd\u0105\u017cyli\u015bmy si\u0119 tego domy\u015bli\u0107, dzi\u015b stara si\u0119 nad\u0105\u017cy\u0107 za trendami wyznaczanymi przez innych. I w\u0142a\u015bnie dlatego nie czekam na iPhone'a 17. Nie dlatego, \u017ce b\u0119dzie z\u0142y, ale dlatego, \u017ce b\u0119dzie dok\u0142adnie taki, jakiego si\u0119 spodziewam. A przysz\u0142o\u015b\u0107 powinna nas zaskakiwa\u0107."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Rowerem do 19 km od O\u015bwi\u0119cimia. Podpowiadamy pomys\u0142y na wypraw\u0119. Gdzie w weekend 28 - 29 czerwca?",
-            "link": "https://oswiecim.naszemiasto.pl/rowerem-do-19-km-od-oswiecimia-podpowiadamy-pomysly-na-wyprawe-gdzie-w-weekend-28-29-czerwca/ar/c7p1-21831633",
-            "description": "Nim wyruszysz w drog\u0119, sprawd\u017a, jaka b\u0119dzie pogoda. W sobot\u0119 28 czerwca w O\u015bwi\u0119cimiu ma by\u0107 25\u00b0C. Nie powinno pada\u0107. W ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.ecHlVBX2R4ZgGdCnycHw9A&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "O\u015bwi\u0119cim Nasze Miasto12 godz.",
-            "source": "O\u015bwi\u0119cim Nasze Miasto",
-            "article_content": "Content not available"
         }
     },
     {
@@ -346,7 +346,7 @@
             "description": "Decyzj\u0105 Mazowieckiego Wojew\u00f3dzkiego Konserwatora Zabytk\u00f3w do rejestru zosta\u0142a wpisana kamienica Adolfa Gurewicza przy ulicy ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.Epk5EyA5l9G6jXj8SrKP2y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "TVN2418 godz.",
+            "date": "TVN2421 godz.",
             "source": "TVN24",
             "article_content": "Kamienica przy Ch\u0142odnej 41 trafi\u0142a do rejestru zabytk\u00f3w \u0179r\u00f3d\u0142o: MWKZ Kamienica przy Ch\u0142odnej 41 trafi\u0142a do rejestru zabytk\u00f3w \u0179r\u00f3d\u0142o: MWKZ Kamienica przy Ch\u0142odnej 41 trafi\u0142a do rejestru zabytk\u00f3w \u0179r\u00f3d\u0142o: MWKZ Kamienica przy Ch\u0142odnej 41 trafi\u0142a do rejestru zabytk\u00f3w \u0179r\u00f3d\u0142o: MWKZ Kamienica przy Ch\u0142odnej 41 trafi\u0142a do rejestru zabytk\u00f3w \u0179r\u00f3d\u0142o: MWKZ Kamienica przy Ch\u0142odnej 41 trafi\u0142a do rejestru zabytk\u00f3w \u0179r\u00f3d\u0142o: MWKZ Kamienica przy Ch\u0142odnej 41 trafi\u0142a do rejestru zabytk\u00f3w \u0179r\u00f3d\u0142o: MWKZ Kamienica przy Ch\u0142odnej 41 trafi\u0142a do rejestru zabytk\u00f3w \u0179r\u00f3d\u0142o: MWKZ Kamienica przy Ch\u0142odnej 41 trafi\u0142a do rejestru zabytk\u00f3w \u0179r\u00f3d\u0142o: MWKZ\n\nPos\u0142uchaj artyku\u0142u Wykup subskrypcj\u0119 TVN24+, aby pos\u0142ucha\u0107 artyku\u0142u.\n\n\n\nMasz subskrypcj\u0119? Zaloguj si\u0119. Dowiedz si\u0119 wi\u0119cej Udost\u0119pnij Facebook Kopiuj link\n\nJak poinformowa\u0142o biuro MWKZ, kamienica przy Ch\u0142odnej 41 stanowi\u0142a w\u0142asno\u015b\u0107 Icka Nuty Winera (Wienera) i Adolfa Gurewicza, przemys\u0142owca, \u00f3wczesnego cz\u0142onka zarz\u0105du firmy Bracia Br\u00fcner, Hugo Schneider i R. Ditmar, produkuj\u0105cej lampy, palniki i wyroby metalowe.\n\n\"W pierwszej po\u0142owie 1912 r. zatwierdzono projekt budowy pi\u0119ciopi\u0119trowego domu i oficyny. Autor projektu jak dot\u0105d nie jest znany. Zgodnie z og\u0142oszeniami prasowymi z 1913 r., 'nowo wyko\u0144czony dom' przy ul. Ch\u0142odnej 41 wyr\u00f3\u017cnia\u0142 si\u0119 wysokim standardem: wind\u0105, instalacj\u0105 gazow\u0105 i elektryczn\u0105, obszernymi dwupokojowymi lokalami z kuchni\u0105 i dwoma wej\u015bciami. Reprezentacyjn\u0105 form\u0119 otrzyma\u0142 sze\u015bciokondygnacyjny budynek frontowy z dachem mansardowym krytym dach\u00f3wk\u0105 i zamkni\u0119tym \u0142ukiem szczytem w centralnej partii\" - czytamy w komunikacie konserwatora.\n\nJak podano dalej, w 1919 r. nieruchomo\u015b\u0107 zakupili Abram Szyja Rembaum i Ludwik Go\u0142\u0105b oraz sp\u00f3\u0142ka akcyjna handlu i eksploatacji przemys\u0142owej ro\u015blin lekarskich \"Planta\". W kolejnych latach w\u0142a\u015bcicielami kamienicy byli m.in. Josef Salomon, Icek i Chaia Reinfeldowie i ich spadkobiercy, Hersz Dukarewicz.\n\nBy\u0142a cz\u0119\u015bci\u0105 getta, ocala\u0142a\n\nW czasie II wojny \u015bwiatowej budynek znalaz\u0142 si\u0119 na terenie warszawskiego getta, bezpo\u015brednio przy jego zachodniej granicy. Przy kamienicy przy znajdowa\u0142a si\u0119 brama nr 2 z wartowni\u0105. Konserwator przypomnia\u0142, \u017ce przed likwidacj\u0105 dzielnicy \u017cydowskiej teren w rejonie ulicy Ch\u0142odnej zosta\u0142 z niej wy\u0142\u0105czony, co uchroni\u0142o kamienic\u0119 przed zniszczeniem.\n\n\"W czasie Powstania Warszawskiego przy budynku znajdowa\u0142a si\u0119 barykada powsta\u0144cza. Kamienica uleg\u0142a powa\u017cnemu zniszczeniu w 1944 r. Prace remontowe przeprowadzano pocz\u0105tkowo dorywczo, w 1950 r. zlecono kompleksowy remont budynku. W tym czasie w kamienicy znajdowa\u0142y si\u0119 mieszkania kwaterunkowe. W kolejnych latach przeprowadzano dora\u017ane prace zabezpieczaj\u0105ce i remontowe, obejmuj\u0105ce m.in. remont balkon\u00f3w\" - opisano w komunikacie.\n\nJeden z najwy\u017cszych budynk\u00f3w\n\nKonserwator zwraca uwag\u0119, \u017ce kamienica Adolfa Gurewicza by\u0142a jednym z najwy\u017cszych budynk\u00f3w wzniesionych przed wybuchem I wojny \u015bwiatowej wzd\u0142u\u017c ulicy Ch\u0142odnej. \"Wyr\u00f3\u017cnia\u0142a si\u0119 swoj\u0105 harmonijn\u0105, wielkomiejsk\u0105 elewacj\u0105 czerpi\u0105c\u0105 z nurtu wczesnego modernizmu oraz wysokim standardem, podkre\u015blanym w anonsach prasowych. Tym samym budynek posiada znaczn\u0105 warto\u015b\u0107 jako dokument przedwojennej zabudowy ulicy Ch\u0142odnej, w du\u017cym stopniu zniszczonej w trakcie dzia\u0142a\u0144 wojennych\" - podkre\u015bla MWKZ.\n\nWylicza, \u017ce w kolejnych latach dom nale\u017ca\u0142 do przedstawicieli spo\u0142eczno\u015bci \u017cydowskiej, by\u0142 siedzib\u0105 Towarzystwa Uniwersytetu Robotniczego (TUR), jednej z najwa\u017cniejszych instytucji o\u015bwiatowych prowadzonych przez Polsk\u0105 Parti\u0119 Socjalistyczn\u0105. Odbywa\u0142y si\u0119 w nim liczne spotkania i zjazdy przedstawicieli klasy robotniczej.\n\nKonserwator przypomina, \u017ce budynek przy Ch\u0142odnej 41 nale\u017cy do grupy tzw. wolskich osta\u0144c\u00f3w, czyli zbioru kamienic znajduj\u0105cych si\u0119 na terenie, kt\u00f3ry by\u0142 cz\u0119\u015bci\u0105 warszawskiego getta. Pomimo zniszcze\u0144 tej cz\u0119\u015bci miasta w czasie II wojny \u015bwiatowej oraz p\u00f3\u017aniejszych rozbi\u00f3rek w czasie odbudowy kamienice przetrwa\u0142y do dzi\u015b i stanowi\u0105 cenn\u0105 pami\u0105tk\u0119 z czas\u00f3w przedwojennej Warszawy.\n\nCzytaj te\u017c: Zrujnowana, odrapana, po\u015br\u00f3d szklanych wie\u017cowc\u00f3w. Miasto chce sprzeda\u0107 kamienic\u0119 przy rondzie ONZ\n\nKamienica Lejba Osnosa przy ulicy Twardej \u0179r\u00f3d\u0142o: Mateusz M\u017cyk/tvnwarszawa.pl"
         }
@@ -362,7 +362,7 @@
             "description": "Aby cofn\u0105\u0107 si\u0119 w czasie i zobaczy\u0107 autentyczne pami\u0105tki po \u017bydach zamieszkuj\u0105cych Ma\u0142opolsk\u0119, przede wszystkim warto ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.fvbC990Oy0yqdm1a1ZUdni&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Krak\u00f3w.Wyborcza.pl14 godz.",
+            "date": "Krak\u00f3w.Wyborcza.pl17 godz.",
             "source": "Krak\u00f3w.Wyborcza.pl",
             "article_content": ""
         }
@@ -378,7 +378,7 @@
             "description": "Jedyny program \"z przymru\u017ceniem oka\" na antenie TVN24 i TVN24 BiS. Gospodarze programu, wraz z zaproszonymi do studia satyrykami lub dziennikarzami, w lu\u017anej konwencji komentuj\u0105 bie\u017c\u0105ce wydarzenia pol ...",
             "image_url": "https://www.bing.pl/th?id=ODF.64zms-dqm9CeVRcHtHJOtA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "TVN244 godz.",
+            "date": "TVN247 godz.",
             "source": "TVN24",
             "article_content": "Niekt\u00f3re s\u0105 bez skrzyde\u0142 i ju\u017c nigdy nie polec\u0105. Inne podrosn\u0105 i rusz\u0105 do Afryki"
         }
@@ -394,7 +394,7 @@
             "description": "Czy chcesz pozna\u0107 histori\u0119 jednego z najwi\u0119kszych przedwojennych zak\u0142ad\u00f3w przemys\u0142owych Krakowa? Czy chcesz dowiedzie\u0107 si\u0119, do czego s\u0142u\u017cy rozwierak, a do czego pa\u0142asz i jak wygl\u0105da naw\u00f3z ze szk\u0142a? A ...",
             "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w3 godz.",
+            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w6 godz.",
             "source": "Oficjalny serwis miejski - Magiczny Krak\u00f3w",
             "article_content": "Krak\u00f3w \u2013 czas okupacji 1939-1945\n\nWystawa mie\u015bci si\u0119 w dawnym budynku administracyjnym Fabryki Emalia Oskara Schindlera przy ul. Lipowej 4 i jest opowie\u015bci\u0105 o Krakowie i losach jego polskich i \u017cydowskich mieszka\u0144c\u00f3w w czasie II wojny \u015bwiatowej, ale te\u017c o Niemcach \u2013 okupantach,..."
         }
@@ -410,7 +410,7 @@
             "description": "W woj. warmi\u0144sko-mazurskim jest wiele ciekawych tras spacerowych. Zebrali\u015bmy dla Was 10 podpowiedzi. Mo\u017cecie nam\u00f3wi\u0107 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.iW0GNRizcjYrWAcGxdNKyy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Wsp\u00f3\u0142czesna11 godz.",
+            "date": "Gazeta Wsp\u00f3\u0142czesna14 godz.",
             "source": "Gazeta Wsp\u00f3\u0142czesna",
             "article_content": "Content not available"
         }
@@ -426,7 +426,7 @@
             "description": "Najdro\u017csze monety PRL by\u0142y jednak sprzedawane na aukcjach. Przede wszystkim na rzadkich, dedykowanych spotkaniach kolekcjoner\u00f3w, kt\u00f3re s\u0105 sprofilowane na najrzadsze okazy. Tam te\u017c monety mog\u0105 by\u0107 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.liWL6w23oefxD6cfFEdIQA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "Toru\u0144 Nasze Miasto on MSN9 godz.",
+            "date": "Toru\u0144 Nasze Miasto on MSN11 godz.",
             "source": "Toru\u0144 Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -442,7 +442,7 @@
             "description": "Obecny prezydent otrzymuje wynagrodzenie zasadnicze w wysoko\u015bci 12 365 z\u0142 brutto miesi\u0119cznie, dodatek funkcyjny - 5 299 z\u0142 oraz dodatek za wys\u0142ug\u0119 lat. W sumie... Od 2027 roku maj\u0105 obowi\u0105zywa\u0107 nowe li ...",
             "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Pomorska13 godz.",
+            "date": "Gazeta Pomorska16 godz.",
             "source": "Gazeta Pomorska",
             "article_content": "Content not available"
         }
