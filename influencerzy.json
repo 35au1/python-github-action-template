@@ -5,28 +5,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Handlowa niedziela na Pchlim Targu - 29 czerwca 2025. Ubrania, kwiaty, starocie. Zdj\u0119cia, ceny, wideo",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/handlowa-niedziela-na-pchlim-targu-29-czerwca-2025-ubrania-kwiaty-starocie-zdj%C4%99cia-ceny-wideo/ar-AA1HD2v0?ocid=BingNewsVerp",
-            "description": "W ciep\u0142\u0105 i przyjemn\u0105 niedziel\u0119, 29 czerwca 2025 roku, na Pchli Targ przy alei Kazimierza Wielkiego we W\u0142oc\u0142awku od rana ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.V78Yk1PxetVToLdoLvIiJC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "Lipno Nasze Miasto on MSN23 godz.",
-            "source": "Lipno Nasze Miasto on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
             "title": "Gwarna niedzielna Gie\u0142da Staroci w Lublinie. Takich t\u0142um\u00f3w dawno nie by\u0142o! Zobacz zdj\u0119cia [CZ\u0118\u015a\u0106 I]",
             "link": "https://www.msn.com/pl-pl/wiadomosci/other/gwarna-niedzielna-gie%C5%82da-staroci-w-lublinie-takich-t%C5%82um%C3%B3w-dawno-nie-by%C5%82o-zobacz-zdj%C4%99cia-cz%C4%99%C5%9B%C4%87-i/ar-AA1HDaUD?ocid=BingNewsVerp",
             "description": "Gie\u0142da odbywa si\u0119 cyklicznie w ka\u017cd\u0105 ostatni\u0105 niedziel\u0119 miesi\u0105ca na Placu Zamkowym w Lublinie w godz. 7\u201314. Wydarzenie ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.IZl-gMgwnve9C7c-MGu44S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Kurier Lubelski on MSN4 godz.",
+            "date": "Kurier Lubelski on MSN10 godz.",
             "source": "Kurier Lubelski on MSN",
             "article_content": ""
         }
@@ -42,7 +26,7 @@
             "description": "Tradycyjny jarmark staroci naprzeciwko wej\u015bcia do Parku Krasnala w Nowej Soli rozpocz\u0105\u0142 si\u0119 dzi\u015b (niedziela 29 czerwca) o ...",
             "image_url": "https://www.bing.pl/th?id=OVF.Q7Bgdfk%2ba9QVD8BYKFx%2bQA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Gazeta Lubuska on MSN14 godz.",
+            "date": "Gazeta Lubuska on MSN20 godz.",
             "source": "Gazeta Lubuska on MSN",
             "article_content": ""
         }
@@ -58,7 +42,7 @@
             "description": "W ciep\u0142\u0105 i przyjemn\u0105 niedziel\u0119, 29 czerwca 2025 roku, na Pchli Targ przy alei Kazimierza Wielkiego we W\u0142oc\u0142awku od rana ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.5zIq_5eiIfg-Xc5UuHSlhi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Lipno Nasze Miasto16 godz.",
+            "date": "Lipno Nasze Miasto22 godz.",
             "source": "Lipno Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -74,9 +58,41 @@
             "description": "W ciep\u0142\u0105 i przyjemn\u0105 niedziel\u0119, 29 czerwca 2025 roku, na Pchli Targ przy alei Kazimierza Wielkiego we W\u0142oc\u0142awku od rana ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.nhloMioBuMxOk-0WxKGw1i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "W\u0142oc\u0142awek Nasze Miasto16 godz.",
+            "date": "W\u0142oc\u0142awek Nasze Miasto22 godz.",
             "source": "W\u0142oc\u0142awek Nasze Miasto",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Nowosolski Piknik Zdrowia",
+            "link": "https://gazetalubuska.pl/tag/nowosolski-piknik-zdrowia",
+            "description": "Du\u017co atrakcji czeka\u0142o na mieszka\u0144c\u00f3w podczas Nowosolskiego Pikniku Zdrowia. - Warto organizowa\u0107 takie wydarzenia cz\u0119\u015bciej: np. wiosn\u0105, latem i jesieni\u0105 \u2013... Ta impreza cieszy si\u0119 du\u017cym zainteresowanie ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.6oXJf1KayPglPY9d412pqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "starocie",
+            "date": "Gazeta Lubuska7 godz.",
+            "source": "Gazeta Lubuska",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Taka 5 z\u0142ot\u00f3wka i inne monety s\u0105 w cenie z\u0142ota. Sprawd\u017a, ile mo\u017cna na nich zarobi\u0107!",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/taka-5-z%C5%82ot%C3%B3wka-i-inne-monety-s%C4%85-w-cenie-z%C5%82ota-sprawd%C5%BA-ile-mo%C5%BCna-na-nich-zarobi%C4%87/ar-AA1HIzhs?ocid=BingNewsVerp",
+            "description": "Kolekcjonerzy szukaj\u0105 monet z okresu PRL, ale nie tylko, gdy\u017c tak\u017ce monety starsze, a nawet te wsp\u00f3\u0142czesne mog\u0105 by\u0107 cenne. Je\u015bli jeste\u015b w posiadaniu starych monet, najlepiej, zanim j\u0105 komu\u015b sprzedasz, ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stare+monety",
+            "date": "Gazeta Pomorska on MSN2 godz.",
+            "source": "Gazeta Pomorska on MSN",
+            "article_content": ""
         }
     },
     {
@@ -90,7 +106,7 @@
             "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ich pojawienia si\u0119 na rynku. Najcz\u0119\u015bciej poszukiwane monety przez ...",
             "image_url": "https://www.bing.plNo image",
             "category": "stare+monety",
-            "date": "gp24.pl9 godz.",
+            "date": "gp24.pl15 godz.",
             "source": "gp24.pl",
             "article_content": "Content not available"
         }
@@ -106,7 +122,7 @@
             "description": "Wycena monet z PRL-u zale\u017cy od rzadko\u015bci wyst\u0119powania, jako\u015bci wybicia oraz gradingu, czyli stanu jej zachowania. W Polsce znajdziemy wiele okaz\u00f3w wartych kilkaset z\u0142otych, ale s\u0105 te\u017c takie, na ...",
             "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "G\u0142os Szczeci\u0144ski on MSN15 godz.",
+            "date": "G\u0142os Szczeci\u0144ski on MSN21 godz.",
             "source": "G\u0142os Szczeci\u0144ski on MSN",
             "article_content": ""
         }
@@ -122,7 +138,7 @@
             "description": "Stare zegary to pi\u0119kne przedmioty, kt\u00f3rymi lubimy si\u0119 otacza\u0107; podobnie jak monety i dzia\u0142a sztuki rzadkich egzemplarzy zegar\u00f3w poszukuj\u0105 kolekcjonerzy. R\u00f3wnie\u017c te z okresu PRL-u s\u0105 modne i wracaj\u0105 do ...",
             "image_url": "https://www.bing.plNo image",
             "category": "stare+monety",
-            "date": "gazetawroclawska.pl10 godz.",
+            "date": "gazetawroclawska.pl16 godz.",
             "source": "gazetawroclawska.pl",
             "article_content": "Content not available"
         }
@@ -134,29 +150,13 @@
         },
         "body": {
             "title": "Ten banknot 50 z\u0142otych jest wart fortun\u0119! A to nie jedyny okaz, kt\u00f3rego szukaj\u0105 kolekcjonerzy",
-            "link": "https://www.msn.com/pl-pl/finanse/og%C3%B3lne/ten-banknot-50-z%C5%82otych-jest-wart-fortun%C4%99-a-to-nie-jedyny-okaz-kt%C3%B3rego-szukaj%C4%85-kolekcjonerzy/ar-AA1HFzTB?ocid=BingNewsVerp",
-            "description": "Banknoty i monety mog\u0105 by\u0107 cenniejsze, ni\u017c wskazuje ich nomina\u0142 - czasem wystarczy jeden szczeg\u00f3\u0142, by ich warto\u015b\u0107 si\u0119gn\u0119\u0142a ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.37HFo61hHdhbCb5mJSTR1i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/ten-banknot-50-z%C5%82otych-jest-wart-fortun%C4%99-a-to-nie-jedyny-okaz-kt%C3%B3rego-szukaj%C4%85-kolekcjonerzy/ar-AA1HFzTB?ocid=BingNewsVerp",
+            "description": "Z pozoru zwyczajny banknot o nominale 50 z\u0142 mo\u017ce by\u0107 wart o wiele wi\u0119cej - nawet kilkadziesi\u0105t tysi\u0119cy z\u0142otych! Rzadkie, ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.XdF8YuBGBseZgZBcG738ng&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Gazeta Pomorska on MSN13 godz.",
+            "date": "Gazeta Pomorska on MSN19 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Nawet 39 tysi\u0119cy za monety z PRL. A\u017c tyle mog\u0105 zap\u0142aci\u0107 kolekcjonerzy. Masz takie w domu? Zobacz, ile mo\u017cna zrobi\u0107 (zdj\u0119cia) 30.06.2025",
-            "link": "https://gp24.pl/nawet-39-tysiecy-za-monety-z-prl-az-tyle-moga-zaplacic-kolekcjonerzy-masz-takie-w-domu-zobacz-ile-mozna-zrobic-zdjecia-30-06-2025/ar/c3p2-27672673",
-            "description": "Czy w Twojej starej szufladzie, puszce po herbacie lub zapomnianej szkatu\u0142ce le\u017c\u0105 monety z czas\u00f3w PRL? Je\u015bli tak, to mo\u017cesz by\u0107 posiadaczem prawdziwego skarbu. Coraz wi\u0119cej kolekcjoner\u00f3w z ca\u0142ej ...",
-            "image_url": "https://www.bing.plNo image",
-            "category": "stare+monety",
-            "date": "gp24.pl9 godz.",
-            "source": "gp24.pl",
-            "article_content": "Content not available"
         }
     },
     {
@@ -170,7 +170,7 @@
             "description": "W 2025 roku porcelana z lat PRL cieszy si\u0119 popularno\u015bci\u0105 i jest poszukiwana przez kolekcjoner\u00f3w. Je\u015bli masz jeszcze tak\u0105 w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.W76EuKrR_ZJVuU56VOgr5i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN7 godz.",
+            "date": "Gazeta Pomorska on MSN2 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -186,8 +186,24 @@
             "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 29.06.",
             "image_url": "https://www.bing.pl/th?id=OVF.c4s3WJvJ0Rki5qb0qSkGwQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska16 godz.",
+            "date": "Gazeta Pomorska22 godz.",
             "source": "Gazeta Pomorska",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Najdro\u017csze stare zegary. Kt\u00f3re zegary s\u0105 najbardziej poszukiwane? Zegary z PRL-u zn\u00f3w modne. Zobacz ceny, zdj\u0119cia z OLX [30.06]",
+            "link": "https://gazetawroclawska.pl/najdrozsze-stare-zegary-ktore-zegary-sa-najbardziej-poszukiwane-zegary-z-prl-u-znow-modne-zobacz-ceny-zdjecia-z-olx-30-06/ar/c1p2-27721821",
+            "description": "Do tego gar\u015b\u0107 ciekawostek - zegary okr\u0119towe, podr\u00f3\u017cne, kuchenne, autobusowe, kolejowe... Drewniane, porcelanowe i inne. wprost z Warszawy, \u017buka, czy Jelcza. Te monety i banknoty z PRL kosztuj\u0105 dzi\u015b ...",
+            "image_url": "https://www.bing.plNo image",
+            "category": "stara+porcelana",
+            "date": "gazetawroclawska.pl16 godz.",
+            "source": "gazetawroclawska.pl",
             "article_content": "Content not available"
         }
     },
@@ -202,25 +218,9 @@
             "description": "Od 1 lipca Zamek Ksi\u0105\u017c w Wa\u0142brzychu udost\u0119pnia zwiedzaj\u0105cym now\u0105, niezwyk\u0142\u0105 atrakcj\u0119. To Gabinet Osobliwo\u015bci odtworzony na ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.3FlsjRfxl-NffYcu11aaRi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Wa\u0142brzych Nasze Miasto on MSN52 min",
+            "date": "Wa\u0142brzych Nasze Miasto on MSN6 godz.",
             "source": "Wa\u0142brzych Nasze Miasto on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Najdro\u017csze stare zegary. Kt\u00f3re zegary s\u0105 najbardziej poszukiwane? Zegary z PRL-u zn\u00f3w modne. Zobacz ceny, zdj\u0119cia z OLX [30.06]",
-            "link": "https://gazetawroclawska.pl/najdrozsze-stare-zegary-ktore-zegary-sa-najbardziej-poszukiwane-zegary-z-prl-u-znow-modne-zobacz-ceny-zdjecia-z-olx-30-06/ar/c1p2-27721821",
-            "description": "Do tego gar\u015b\u0107 ciekawostek - zegary okr\u0119towe, podr\u00f3\u017cne, kuchenne, autobusowe, kolejowe... Drewniane, porcelanowe i inne. wprost z Warszawy, \u017buka, czy Jelcza. Te monety i banknoty z PRL kosztuj\u0105 dzi\u015b ...",
-            "image_url": "https://www.bing.plNo image",
-            "category": "stara+porcelana",
-            "date": "gazetawroclawska.pl10 godz.",
-            "source": "gazetawroclawska.pl",
-            "article_content": "Content not available"
         }
     },
     {
@@ -234,24 +234,8 @@
             "description": "Najbardziej cenione przez kolekcjoner\u00f3w s\u0105 modele zachowane w oryginalnym stanie. Ogromne znaczenie ma r\u00f3wnie\u017c kompletno\u015b\u0107 \u2013 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.0HRpWTtiFkZjJDXKQflTNi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN14 godz.",
+            "date": "Gazeta Pomorska on MSN20 godz.",
             "source": "Gazeta Pomorska on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Handlowa niedziela na Pchlim Targu - 29 czerwca 2025. Ubrania, kwiaty, starocie. Zdj\u0119cia, ceny, wideo",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/handlowa-niedziela-na-pchlim-targu-29-czerwca-2025-ubrania-kwiaty-starocie-zdj%C4%99cia-ceny-wideo/ar-AA1HD2v0?ocid=BingNewsVerp",
-            "description": "W ciep\u0142\u0105 i przyjemn\u0105 niedziel\u0119, 29 czerwca 2025 roku, na Pchli Targ przy alei Kazimierza Wielkiego we W\u0142oc\u0142awku od rana ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.V78Yk1PxetVToLdoLvIiJC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "targ+staroci",
-            "date": "Lipno Nasze Miasto on MSN23 godz.",
-            "source": "Lipno Nasze Miasto on MSN",
             "article_content": ""
         }
     },
@@ -266,24 +250,8 @@
             "description": "Mo\u017cliwo\u015bci mamy kilka, a s\u0105 w\u015br\u00f3d nich targi staroci, domy aukcyjne, a tak\u017ce wyspecjalizowane w tym antykwariaty. Obecnie handel antykami coraz bardziej przenosi si\u0119 tak\u017ce do sieci, gdzie swoje oferty ...",
             "image_url": "https://www.bing.plNo image",
             "category": "targ+staroci",
-            "date": "Kurier Lubelski11 godz.",
+            "date": "Kurier Lubelski17 godz.",
             "source": "Kurier Lubelski",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Pras\u00f3wka W\u0142oc\u0142awek 30.06.2025 - wydarzenia dnia. Podsumowanie z wczoraj - sprawd\u017a, czy we W\u0142oc\u0142awku nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego",
-            "link": "https://wloclawek.naszemiasto.pl/prasowka-wloclawek-30-06-2025-wydarzenia-dnia-podsumowanie-z-wczoraj-sprawdz-czy-we-wloclawku-nie-minelo-cie-nic-waznego/ar/c1p1-19738625",
-            "description": "W ciep\u0142\u0105 i przyjemn\u0105 niedziel\u0119, 29 czerwca 2025 roku, na Pchli Targ przy alei Kazimierza Wielkiego we W\u0142oc\u0142awku od rana ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.nhloMioBuMxOk-0WxKGw1i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "targ+staroci",
-            "date": "W\u0142oc\u0142awek Nasze Miasto16 godz.",
-            "source": "W\u0142oc\u0142awek Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -298,8 +266,40 @@
             "description": "W ciep\u0142\u0105 i przyjemn\u0105 niedziel\u0119, 29 czerwca 2025 roku, na Pchli Targ przy alei Kazimierza Wielkiego we W\u0142oc\u0142awku od rana ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.5zIq_5eiIfg-Xc5UuHSlhi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Lipno Nasze Miasto16 godz.",
+            "date": "Lipno Nasze Miasto22 godz.",
             "source": "Lipno Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pras\u00f3wka W\u0142oc\u0142awek 30.06.2025 - wydarzenia dnia. Podsumowanie z wczoraj - sprawd\u017a, czy we W\u0142oc\u0142awku nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego",
+            "link": "https://wloclawek.naszemiasto.pl/prasowka-wloclawek-30-06-2025-wydarzenia-dnia-podsumowanie-z-wczoraj-sprawdz-czy-we-wloclawku-nie-minelo-cie-nic-waznego/ar/c1p1-19738625",
+            "description": "W ciep\u0142\u0105 i przyjemn\u0105 niedziel\u0119, 29 czerwca 2025 roku, na Pchli Targ przy alei Kazimierza Wielkiego we W\u0142oc\u0142awku od rana ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.nhloMioBuMxOk-0WxKGw1i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "W\u0142oc\u0142awek Nasze Miasto22 godz.",
+            "source": "W\u0142oc\u0142awek Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Ile kosztuj\u0105",
+            "link": "https://kurierlubelski.pl/tag/ile-kosztuja",
+            "description": "Truskawki, czere\u015bnie, pomidory i m\u0142ode ziemniaczki. Te towary schodz\u0105 jak \u015bwie\u017ce bu\u0142eczki. A ile kosztuj\u0105? Sprawdzili\u015bmy. 7403 kibic\u00f3w zasiada\u0142o na stadionie przy Alejach Zygmuntowskich, aby obejrze\u0107 ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.lto-jgjLT22CJn-xbZRKjA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "targ+staroci",
+            "date": "Kurier Lubelski4 godz.",
+            "source": "Kurier Lubelski",
             "article_content": "Content not available"
         }
     },
@@ -314,7 +314,7 @@
             "description": "T\u0142umy odwiedzaj\u0105cych, dziesi\u0105tki stoisk i setki przedmiot\u00f3w z histori\u0105 \u2013 tak wygl\u0105da\u0142a ostatnia w czerwcu ods\u0142ona Lubelskiej Gie\u0142dy Staroci. Plac Zamkowy w Lublinie po raz kolejny zamieni\u0142 si\u0119 w raj d ...",
             "image_url": "https://www.bing.pl/th?id=ODF.lto-jgjLT22CJn-xbZRKjA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Kurier Lubelski on MSN12 godz.",
+            "date": "Kurier Lubelski on MSN17 godz.",
             "source": "Kurier Lubelski on MSN",
             "article_content": ""
         }
@@ -330,7 +330,7 @@
             "description": "Najdro\u017csze monety PRL by\u0142y jednak sprzedawane na aukcjach. Przede wszystkim na rzadkich, dedykowanych spotkaniach ...",
             "image_url": "https://www.bing.pl/th?id=OVF.RB1VRbaZzW7DPHW%2fLQfYEg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN14 godz.",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN19 godz.",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
             "article_content": ""
         }
@@ -346,7 +346,7 @@
             "description": "Zanim wyruszysz w drog\u0119, sprawd\u017a, jaka b\u0119dzie pogoda. W sobot\u0119 05 lipca w Ko\u0142obrzegu ma by\u0107 20\u00b0C. Prawdopodobie\u0144stwo wyst\u0105pienia deszczu wynosi 25%. W niedziel\u0119 06 lipca w Ko\u0142obrzegu ma by\u0107 22\u00b0C.",
             "image_url": "https://www.bing.pl/th?id=ODF.xGyVXoJ9b0zlcu2rTPA_6w&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Ko\u0142obrzeg Nasze Miasto6 godz.",
+            "date": "Ko\u0142obrzeg Nasze Miasto12 godz.",
             "source": "Ko\u0142obrzeg Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -362,23 +362,7 @@
             "description": "Przed drog\u0105 sprawd\u017a, jaka b\u0119dzie pogoda w Gryficach. W sobot\u0119 5 lipca wed\u0142ug prognozy pogody ma by\u0107 21\u00b0C. Nie powinno pada\u0107.",
             "image_url": "https://www.bing.pl/th?id=OVFT.1uQ0RHyXexlXbSnNNnmT0S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Gryfice Nasze Miasto6 godz.",
-            "source": "Gryfice Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "\u015acie\u017cki spacerowe do 65 km od Gryfic. Podpowiadamy, gdzie warto si\u0119 wybra\u0107 w weekend 5 - 6 lipca",
-            "link": "https://gryfice.naszemiasto.pl/sciezki-spacerowe-do-65-km-od-gryfic-podpowiadamy-gdzie-warto-sie-wybrac-w-weekend-5-6-lipca/ar/c7p1-22116005",
-            "description": "Zanim wyruszysz w drog\u0119, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 05 lipca w Gryficach ma by\u0107 21\u00b0C. Nie powinno pada\u0107. W ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.d1cilLBj9QF5s7lPBvCaPy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "Gryfice Nasze Miasto6 godz.",
+            "date": "Gryfice Nasze Miasto11 godz.",
             "source": "Gryfice Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -394,7 +378,7 @@
             "description": "Tomasz Terlikowski to dobrze znany polski dziennikarz, filozof i publicysta. W przesz\u0142o\u015bci kierowa\u0142 Telewizj\u0105 Republika, a dzi\u015b jest g\u0142\u00f3wnym prowadz\u0105cym Porannej Rozmowy w RMF FM. Z \u017con\u0105 Ma\u0142gorzat\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.csLl8ZFonfuC8KKWalWEGg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski16 godz.",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski22 godz.",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski",
             "article_content": "Content not available"
         }
@@ -405,14 +389,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Ten kompas m\u00f3g\u0142 nale\u017ce\u0107 do Kopernika. Niezwyk\u0142e odkrycie we Fromborku",
-            "link": "https://spidersweb.pl/2025/06/kompas-kopernik-frombork.html",
-            "description": "Podczas eksploracji ogrod\u00f3w archikatedry we Fromborku z wykorzystaniem georadaru natrafiono na podziemn\u0105 komor\u0119 z trzema ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.vhBYcwsYlds6k0PK1ar1gC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Spider\u2019s Web6 godz.",
-            "source": "Spider\u2019s Web",
-            "article_content": "Cho\u0107 nie ma dowod\u00f3w jednoznacznie przypisuj\u0105cych kompas Kopernikowi, zbie\u017cno\u015b\u0107 lokalizacji, forma przedmiotu i kontekst historyczny sprawiaj\u0105, \u017ce nie mo\u017cna wykluczy\u0107 tej hipotezy. A nawet je\u015bli nie by\u0142 jego w\u0142asno\u015bci\u0105, mo\u017ce pochodzi\u0107 z warsztatu naukowego tej samej epoki i regionu. Warto przy tym pami\u0119ta\u0107, \u017ce to ju\u017c drugi taki instrument odnaleziony na terenie katedry, co ka\u017ce postawi\u0107 pytanie: ile jeszcze pami\u0105tek po wielkim astronomie skrywa warmi\u0144ska ziemia?"
+            "title": "\u015acie\u017cki spacerowe do 65 km od Gryfic. Podpowiadamy, gdzie warto si\u0119 wybra\u0107 w weekend 5 - 6 lipca",
+            "link": "https://gryfice.naszemiasto.pl/sciezki-spacerowe-do-65-km-od-gryfic-podpowiadamy-gdzie-warto-sie-wybrac-w-weekend-5-6-lipca/ar/c7p1-22116005",
+            "description": "Zanim wyruszysz w drog\u0119, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 05 lipca w Gryficach ma by\u0107 21\u00b0C. Nie powinno pada\u0107. W ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.d1cilLBj9QF5s7lPBvCaPy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "Gryfice Nasze Miasto12 godz.",
+            "source": "Gryfice Nasze Miasto",
+            "article_content": "Content not available"
         }
     },
     {
@@ -426,7 +410,7 @@
             "description": "Z kolei kolekcjonerzy twierdz\u0105, \u017ce graniczna b\u0119dzie data zako\u0144czenia II wojny \u015bwiatowej i tylko przedmioty wcze\u015bniej wykonane maj\u0105 charakter antyku. Jeszcze inaczej na t\u0119 kwesti\u0119 patrz\u0105 antykwariusze, ...",
             "image_url": "https://www.bing.plNo image",
             "category": "zabytkowe+przedmioty",
-            "date": "Kurier Lubelski11 godz.",
+            "date": "Kurier Lubelski17 godz.",
             "source": "Kurier Lubelski",
             "article_content": "Content not available"
         }
@@ -437,12 +421,44 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Wycieczki w okolicach Krakowa. Sprawd\u017a ciekawe miejsca, kt\u00f3re warto odwiedzi\u0107! [30.06.2025]",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/wycieczki-w-okolicach-krakowa-sprawd%C5%BA-ciekawe-miejsca-kt%C3%B3re-warto-odwiedzi%C4%87-30-06-2025/ar-AA1HrHpY?ocid=BingNewsVerp",
-            "description": "Urokliwe miasteczka, wiekowe zamki, malownicze parki i spokojne zak\u0105tki \u2013 to wszystko czeka na odkrycie tu\u017c za rogatkami ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.8L0I1Kh7F7im0h3KPJKlEy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Odkryli 22 tony z\u0142ota na pok\u0142adzie statku. Ujawnili, gdzie jest zatopiony skarb",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/odkryli-22-tony-z%C5%82ota-na-pok%C5%82adzie-statku-ujawnili-gdzie-jest-zatopiony-skarb/ar-AA1HGMCM?ocid=BingNewsVerp",
+            "description": "Naukowcy z Lizbony zwi\u0105zani zawodowo z tamtejszym Uniwersytetem Nowym dokonali niezwyk\u0142ego odkrycia. Ustalili po\u0142o\u017cenie 250 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.wsqlEV0zGn2Tblb_jvLubi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "G\u0142os Wielkopolski on MSN13 godz.",
+            "date": "Wiadomo\u015bci Radio ZET on MSN13 godz.",
+            "source": "Wiadomo\u015bci Radio ZET on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Ten kompas m\u00f3g\u0142 nale\u017ce\u0107 do Kopernika. Niezwyk\u0142e odkrycie we Fromborku",
+            "link": "https://spidersweb.pl/2025/06/kompas-kopernik-frombork.html",
+            "description": "Podczas eksploracji ogrod\u00f3w archikatedry we Fromborku z wykorzystaniem georadaru natrafiono na podziemn\u0105 komor\u0119 z trzema ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.vhBYcwsYlds6k0PK1ar1gC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Spider\u2019s Web11 godz.",
+            "source": "Spider\u2019s Web",
+            "article_content": "Cho\u0107 nie ma dowod\u00f3w jednoznacznie przypisuj\u0105cych kompas Kopernikowi, zbie\u017cno\u015b\u0107 lokalizacji, forma przedmiotu i kontekst historyczny sprawiaj\u0105, \u017ce nie mo\u017cna wykluczy\u0107 tej hipotezy. A nawet je\u015bli nie by\u0142 jego w\u0142asno\u015bci\u0105, mo\u017ce pochodzi\u0107 z warsztatu naukowego tej samej epoki i regionu. Warto przy tym pami\u0119ta\u0107, \u017ce to ju\u017c drugi taki instrument odnaleziony na terenie katedry, co ka\u017ce postawi\u0107 pytanie: ile jeszcze pami\u0105tek po wielkim astronomie skrywa warmi\u0144ska ziemia?"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Wycieczki w okolicach Krakowa. Sprawd\u017a ciekawe miejsca, kt\u00f3re warto odwiedzi\u0107! [30.06.2025]",
+            "link": "https://www.msn.com/pl-pl/podroze/wycieczki-po-historycznych-miejscach-i-zabytkach/wycieczki-w-okolicach-krakowa-sprawd%C5%BA-ciekawe-miejsca-kt%C3%B3re-warto-odwiedzi%C4%87-26-06-2025/ar-AA1HrHpY?ocid=BingNewsVerp",
+            "description": "Krak\u00f3w to bez w\u0105tpienia jedno z najpi\u0119kniejszych i najciekawszych miast Polski, ale warto pami\u0119ta\u0107, \u017ce i jego najbli\u017csze ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.IEWb39KwoC9PYosWRxzgVg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "G\u0142os Wielkopolski on MSN18 godz.",
             "source": "G\u0142os Wielkopolski on MSN",
             "article_content": ""
         }
@@ -453,14 +469,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Trasy nordic walking w woj. \u015bl\u0105skim. Gdzie i\u015b\u0107 w weekend 5 - 6 lipca. 3 najciekawsze trasy",
-            "link": "https://dziennikzachodni.pl/trasy-nordic-walking-w-woj-slaskim-gdzie-isc-w-weekend-5-6-lipca-3-najciekawsze-trasy/ar/c7p1-22302727",
-            "description": "Nordic walking w woj. \u015bl\u0105skim mo\u017cna uprawia\u0107 niemal wsz\u0119dzie. Jednak zach\u0119camy do wybrania tras sprawdzonych przez innych ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.qPAQ8mmWtpizH0zT_PZcXS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "01 LIPCA 2025",
+            "link": "https://www.krakow.pl/kalendarium/1919,shw,2025-07-01,6,day.html",
+            "description": "Czy chcesz pozna\u0107 histori\u0119 jednego z najwi\u0119kszych przedwojennych zak\u0142ad\u00f3w przemys\u0142owych Krakowa? Czy chcesz dowiedzie\u0107 si\u0119, do czego s\u0142u\u017cy rozwierak, a do czego pa\u0142asz i jak wygl\u0105da naw\u00f3z ze szk\u0142a? A ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "Dziennik Zachodni6 godz.",
-            "source": "Dziennik Zachodni",
-            "article_content": "Content not available"
+            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w3 godz.",
+            "source": "Oficjalny serwis miejski - Magiczny Krak\u00f3w",
+            "article_content": "Szlak \u017cywego Muzeum Witra\u017cu\n\nW Muzeum Witra\u017cu przestrzenie ekspozycyjne przeplataj\u0105 si\u0119 z mieszcz\u0105ca si\u0119 tu od 1902 roku pracowni\u0105 witra\u017cy. Podczas zwiedzania mo\u017cna obserwowa\u0107 niezmieniony od setek lat proces powstawania witra\u017cy. Struktura kamienicy, w kt\u00f3rej..."
         }
     },
     {
@@ -469,14 +485,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Rowerem do 13 km od Wa\u0142brzycha. Podpowiedzi jednodniowych wypraw. Gdzie w weekend 5 - 6 lipca?",
-            "link": "https://walbrzych.naszemiasto.pl/rowerem-do-13-km-od-walbrzycha-podpowiedzi-jednodniowych-wypraw-gdzie-w-weekend-5-6-lipca/ar/c7p1-21831457",
-            "description": "Nim wyruszysz w drog\u0119, sprawd\u017a, jaka b\u0119dzie pogoda. W sobot\u0119 05 lipca w Wa\u0142brzychu ma by\u0107 22\u00b0C. Nie powinno pada\u0107. W ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.cv0hwRI8egwcUEf9fjdlMS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Wa\u0142brzych Nasze Miasto7 godz.",
-            "source": "Wa\u0142brzych Nasze Miasto",
-            "article_content": "Content not available"
+            "title": "Taka 5 z\u0142ot\u00f3wka i inne monety s\u0105 w cenie z\u0142ota. Sprawd\u017a, ile mo\u017cna na nich zarobi\u0107!",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/taka-5-z%C5%82ot%C3%B3wka-i-inne-monety-s%C4%85-w-cenie-z%C5%82ota-sprawd%C5%BA-ile-mo%C5%BCna-na-nich-zarobi%C4%87/ar-AA1HIzhs?ocid=BingNewsVerp",
+            "description": "Kolekcjonerzy szukaj\u0105 monet z okresu PRL, ale nie tylko, gdy\u017c tak\u017ce monety starsze, a nawet te wsp\u00f3\u0142czesne mog\u0105 by\u0107 cenne. Je\u015bli jeste\u015b w posiadaniu starych monet, najlepiej, zanim j\u0105 komu\u015b sprzedasz, ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stare+numizmatyka",
+            "date": "Gazeta Pomorska on MSN2 godz.",
+            "source": "Gazeta Pomorska on MSN",
+            "article_content": ""
         }
     },
     {
@@ -490,7 +506,7 @@
             "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je przejrze\u0107, bo niekt\u00f3re warte s\u0105 obecnie naprawd\u0119 sporo. Kolekcjonerzy p\u0142ac\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Szczeci\u0144ski on MSN15 godz.",
+            "date": "G\u0142os Szczeci\u0144ski on MSN21 godz.",
             "source": "G\u0142os Szczeci\u0144ski on MSN",
             "article_content": ""
         }
@@ -506,7 +522,7 @@
             "description": "Z pozoru zwyczajny banknot o nominale 50 z\u0142 mo\u017ce by\u0107 wart o wiele wi\u0119cej - nawet kilkadziesi\u0105t tysi\u0119cy z\u0142otych! Rzadkie, ...",
             "image_url": "https://www.bing.pl/th?id=OVF.XdF8YuBGBseZgZBcG738ng&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Pomorska on MSN13 godz.",
+            "date": "Gazeta Pomorska on MSN19 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -517,14 +533,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Najstarsza polska moneta",
-            "link": "https://kalisz.naszemiasto.pl/tag/najstarsza-polska-moneta",
-            "description": "To unikatowy polski skarb. Wykopano go na polu 42 lata temu. Wybity przez Boles\u0142awa Chrobrego srebrny denar z lat 992-997, b\u0119d\u0105cy w posiadaniu Muzeum Pomorza... To jedyny taki skarb. Najstarsza moneta ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.VfeOcVpbp4pu9W6WCOdHHg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "01 LIPCA 2025",
+            "link": "https://www.krakow.pl/kalendarium/1919,shw,2025-07-01,7,day.html",
+            "description": "Czy chcesz pozna\u0107 histori\u0119 jednego z najwi\u0119kszych przedwojennych zak\u0142ad\u00f3w przemys\u0142owych Krakowa? Czy chcesz dowiedzie\u0107 si\u0119, do czego s\u0142u\u017cy rozwierak, a do czego pa\u0142asz i jak wygl\u0105da naw\u00f3z ze szk\u0142a? A ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "Kalisz Nasze Miasto6 godz.",
-            "source": "Kalisz Nasze Miasto",
-            "article_content": "Content not available"
+            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w3 godz.",
+            "source": "Oficjalny serwis miejski - Magiczny Krak\u00f3w",
+            "article_content": "Szlak \u017cywego Muzeum Witra\u017cu\n\nW Muzeum Witra\u017cu przestrzenie ekspozycyjne przeplataj\u0105 si\u0119 z mieszcz\u0105ca si\u0119 tu od 1902 roku pracowni\u0105 witra\u017cy. Podczas zwiedzania mo\u017cna obserwowa\u0107 niezmieniony od setek lat proces powstawania witra\u017cy. Struktura kamienicy, w kt\u00f3rej..."
         }
     },
     {
@@ -538,25 +554,9 @@
             "description": "Najdro\u017csze monety PRL by\u0142y jednak sprzedawane na aukcjach. Przede wszystkim na rzadkich, dedykowanych spotkaniach ...",
             "image_url": "https://www.bing.pl/th?id=OVF.uf4mQ3jFb9LO6qFQnEdQUg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Toru\u0144 Nasze Miasto on MSN14 godz.",
+            "date": "Toru\u0144 Nasze Miasto on MSN19 godz.",
             "source": "Toru\u0144 Nasze Miasto on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Nawet 39 tysi\u0119cy za monety z PRL. A\u017c tyle mog\u0105 zap\u0142aci\u0107 kolekcjonerzy. Masz takie w domu? Zobacz, ile mo\u017cna zrobi\u0107 (zdj\u0119cia) 30.06.2025",
-            "link": "https://gp24.pl/nawet-39-tysiecy-za-monety-z-prl-az-tyle-moga-zaplacic-kolekcjonerzy-masz-takie-w-domu-zobacz-ile-mozna-zrobic-zdjecia-30-06-2025/ar/c3p2-27672673",
-            "description": "Opcji jest kilka \u2013 od aukcji stacjonarnych po platformy online. 1. Domy aukcyjne i antykwariaty numizmatyczne To najbezpieczniejsza forma sprzeda\u017cy cennych monet. Specjali\u015bci wyceni\u0105 monet\u0119, zadbaj\u0105 o ...",
-            "image_url": "https://www.bing.plNo image",
-            "category": "stare+numizmatyka",
-            "date": "gp24.pl9 godz.",
-            "source": "gp24.pl",
-            "article_content": "Content not available"
         }
     },
     {
@@ -570,7 +570,7 @@
             "description": "W sobot\u0119, 28 czerwca 2025 roku Stowarzyszenie Poszukiwaczy \u015alad\u00f3w Historii Denar Kalisz poinformowa\u0142o o znalezieniu pi\u0119knie ...",
             "image_url": "https://www.bing.pl/th?id=OVF.sgyH9leF8SdKy3GdYHu0Pw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "wykopano+zabytkowe",
-            "date": "Kalisz Nasze Miasto on MSN9 godz.",
+            "date": "Kalisz Nasze Miasto on MSN14 godz.",
             "source": "Kalisz Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -586,7 +586,7 @@
             "description": "Na razie nie wiadomo, co znajduje si\u0119 w naczyniu, kt\u00f3re trafi\u0142o w r\u0119ce przedstawiciele konserwatora zabytk\u00f3w. Do tematu wkr\u00f3tce wr\u00f3cimy ... w gminie Mycielin ko\u0142o Kalisza. W 1935 r. wykopano tam a\u017c 13 ...",
             "image_url": "https://www.bing.plNo image",
             "category": "wykopano+zabytkowe",
-            "date": "gloswielkopolski7 godz.",
+            "date": "gloswielkopolski12 godz.",
             "source": "gloswielkopolski",
             "article_content": "Content not available"
         }
@@ -602,7 +602,7 @@
             "description": "Podczas eksploracji ogrod\u00f3w archikatedry we Fromborku z wykorzystaniem georadaru natrafiono na podziemn\u0105 komor\u0119 z trzema ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.vhBYcwsYlds6k0PK1ar1gC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Spider\u2019s Web6 godz.",
+            "date": "Spider\u2019s Web11 godz.",
             "source": "Spider\u2019s Web",
             "article_content": "Cho\u0107 nie ma dowod\u00f3w jednoznacznie przypisuj\u0105cych kompas Kopernikowi, zbie\u017cno\u015b\u0107 lokalizacji, forma przedmiotu i kontekst historyczny sprawiaj\u0105, \u017ce nie mo\u017cna wykluczy\u0107 tej hipotezy. A nawet je\u015bli nie by\u0142 jego w\u0142asno\u015bci\u0105, mo\u017ce pochodzi\u0107 z warsztatu naukowego tej samej epoki i regionu. Warto przy tym pami\u0119ta\u0107, \u017ce to ju\u017c drugi taki instrument odnaleziony na terenie katedry, co ka\u017ce postawi\u0107 pytanie: ile jeszcze pami\u0105tek po wielkim astronomie skrywa warmi\u0144ska ziemia?"
         }
@@ -618,7 +618,7 @@
             "description": "Na razie nie wiadomo, co znajduje si\u0119 w naczyniu, kt\u00f3re trafi\u0142o w r\u0119ce przedstawiciele konserwatora zabytk\u00f3w. Do tematu wkr\u00f3tce wr\u00f3cimy, Przypomnijmy, \u017ce trzy tygodnie wcze\u015bniej cz\u0142onkowie Denara ...",
             "image_url": "https://www.bing.plNo image",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "gloswielkopolski7 godz.",
+            "date": "gloswielkopolski12 godz.",
             "source": "gloswielkopolski",
             "article_content": "Content not available"
         }
