@@ -10,7 +10,7 @@
             "description": "Pieni\u0105dze z czas\u00f3w PRL w 2024 roku ciesz\u0105 si\u0119 rosn\u0105cym zainteresowaniem. Egzemplarze z lat 40., 50. czy 60. mog\u0105 by\u0107 w 2024 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.yLl9G9Iy7IsTjy2vVfoJYy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Gazeta Pomorska on MSN1 godz.",
+            "date": "Gazeta Pomorska on MSN5 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -26,7 +26,7 @@
             "description": "Antyki to nie tylko przedmioty o warto\u015bci estetycznej, ale tak\u017ce inwestycja, kt\u00f3ra mo\u017ce przynosi\u0107 zyski. W 2025 roku takie ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.lK599dzPRBeQpA9FXmgcKy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Gazeta Pomorska on MSN10 godz.",
+            "date": "Gazeta Pomorska on MSN14 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -42,7 +42,7 @@
             "description": "Street Food Awards to najwi\u0119kszy konkurs jedzenia ulicznego na \u015bwiecie. W Krakowie odby\u0142 si\u0119 fina\u0142 konkursu w Polsce. Wygra\u0142 w nim food track \"Bubu ...",
             "image_url": "https://www.bing.pl/th?id=ODF.HjClkBco3nIXj5Su8fjgAg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "Dziennik Polski17 godz.",
+            "date": "Dziennik Polski21 godz.",
             "source": "Dziennik Polski",
             "article_content": "Content not available"
         }
@@ -58,8 +58,24 @@
             "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
             "image_url": "https://www.bing.pl/th?id=OVF.ay8sv9FNpZdHcDdzioib4A&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Pomorza on MSN1 godz.",
+            "date": "G\u0142os Pomorza on MSN5 godz.",
             "source": "G\u0142os Pomorza on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Ta moneta z PRL mo\u017ce by\u0107 warta nawet 30 tys. z\u0142otych! Koniecznie zobacz swoje szuflady [ZDJ\u0118CIA] 04.07.2025",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/ta-moneta-z-prl-mo%C5%BCe-by%C4%87-warta-nawet-30-tys-z%C5%82otych-koniecznie-zobacz-swoje-szuflady-zdj%C4%99cia-04072025/ar-AA1HFaiJ?ocid=BingNewsVerp",
+            "description": "Wycena monet z PRL-u zale\u017cy od rzadko\u015bci wyst\u0119powania, jako\u015bci wybicia oraz gradingu, czyli stanu jej zachowania. W Polsce ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.pM531g1foWeOKq99qYJVCy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "G\u0142os Szczeci\u0144ski on MSN8 godz.",
+            "source": "G\u0142os Szczeci\u0144ski on MSN",
             "article_content": ""
         }
     },
@@ -74,25 +90,9 @@
             "description": "Czas w dobrym towarzystwie wydaje si\u0119 p\u0142yn\u0105\u0107 szybciej, a w dla oczekuj\u0105cych w kolejce moment ci\u0105gnie si\u0119 w niesko\u0144czono\u015b\u0107.",
             "image_url": "https://www.bing.pl/th?id=OVF.pBJG%2fWSqPpw4TyrglfBmlQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Gazeta Wroc\u0142awska2 godz.",
+            "date": "Gazeta Wroc\u0142awska7 godz.",
             "source": "Gazeta Wroc\u0142awska",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Ta moneta z PRL mo\u017ce by\u0107 warta nawet 30 tys. z\u0142otych! Koniecznie zobacz swoje szuflady [ZDJ\u0118CIA] 04.07.2025",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/ta-moneta-z-prl-mo%C5%BCe-by%C4%87-warta-nawet-30-tys-z%C5%82otych-koniecznie-zobacz-swoje-szuflady-zdj%C4%99cia-04072025/ar-AA1HFaiJ?ocid=BingNewsVerp",
-            "description": "Wycena monet z PRL-u zale\u017cy od rzadko\u015bci wyst\u0119powania, jako\u015bci wybicia oraz gradingu, czyli stanu jej zachowania. W Polsce ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.pM531g1foWeOKq99qYJVCy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "G\u0142os Szczeci\u0144ski on MSN3 godz.",
-            "source": "G\u0142os Szczeci\u0144ski on MSN",
-            "article_content": ""
         }
     },
     {
@@ -106,7 +106,7 @@
             "description": "Pieni\u0105dze z czas\u00f3w PRL w 2024 roku ciesz\u0105 si\u0119 rosn\u0105cym zainteresowaniem. Egzemplarze z lat 40., 50. czy 60. mog\u0105 by\u0107 w 2024 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.yLl9G9Iy7IsTjy2vVfoJYy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Gazeta Pomorska on MSN1 godz.",
+            "date": "Gazeta Pomorska on MSN5 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -122,8 +122,24 @@
             "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.o4EwlAsIz5rMM3h8kMS_wi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Szczeci\u0144ski on MSN3 godz.",
+            "date": "G\u0142os Szczeci\u0144ski on MSN8 godz.",
             "source": "G\u0142os Szczeci\u0144ski on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Kasety magnetofonowe wracaj\u0105 do \u0142ask. Takie kolekcjonerskie egzemplarze warte s\u0105 kilkaset z\u0142otych [4.07.2025]",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/kasety-magnetofonowe-wracaj%C4%85-do-%C5%82ask-takie-kolekcjonerskie-egzemplarze-warte-s%C4%85-kilkaset-z%C5%82otych-4072025/ar-AA1HRNjF?ocid=BingNewsVerp",
+            "description": "W 2025 roku kasety magnetofonowe z czas\u00f3w PRL ciesz\u0105 si\u0119 popularno\u015bci\u0105 i s\u0105 poszukiwane przez kolekcjoner\u00f3w i meloman\u00f3w ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.4V7KJNkqShhQElMp0obfti&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stara+porcelana",
+            "date": "Gazeta Pomorska on MSN31 min",
+            "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
     },
@@ -138,7 +154,7 @@
             "description": "Czas w dobrym towarzystwie wydaje si\u0119 p\u0142yn\u0105\u0107 szybciej, a w dla oczekuj\u0105cych w kolejce moment ci\u0105gnie si\u0119 w niesko\u0144czono\u015b\u0107.",
             "image_url": "https://www.bing.pl/th?id=OVF.pBJG%2fWSqPpw4TyrglfBmlQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Wroc\u0142awska2 godz.",
+            "date": "Gazeta Wroc\u0142awska7 godz.",
             "source": "Gazeta Wroc\u0142awska",
             "article_content": "Content not available"
         }
@@ -149,46 +165,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Kasety magnetofonowe wracaj\u0105 do \u0142ask. Takie kolekcjonerskie egzemplarze warte s\u0105 kilkaset z\u0142otych [4.07.2025 r.]",
-            "link": "https://pomorska.pl/kasety-magnetofonowe-wracaja-do-lask-takie-kolekcjonerskie-egzemplarze-warte-sa-kilkaset-zlotych-4-07-2025-r/ar/c1p2-27742565",
-            "description": "W 2025 roku kasety magnetofonowe z czas\u00f3w PRL ciesz\u0105 si\u0119 popularno\u015bci\u0105 i s\u0105 poszukiwane przez kolekcjoner\u00f3w i meloman\u00f3w ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.RA8213ZYN8NblDdB4HXX6w&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stara+porcelana",
-            "date": "Gazeta Pomorska3 godz.",
-            "source": "Gazeta Pomorska",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Ogr\u00f3d, kt\u00f3ry pami\u0119ta: historie ukryte w zieleni \u0141azienek Kr\u00f3lewskich",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/ogr%C3%B3d-kt%C3%B3ry-pami%C4%99ta-historie-ukryte-w-zieleni-%C5%82azienek-kr%C3%B3lewskich/ar-AA1HTDbi?ocid=BingNewsVerp",
-            "description": "Wystawa \u201e\u017bycie Kr\u00f3lewskiego Ogrodu', zorganizowana w \u0141azienkach Kr\u00f3lewskich, to nie tylko spacer przez epoki i style ogrodowe, lecz tak\u017ce g\u0142\u0119boka opowie\u015b\u0107 o ludziach, kt\u00f3rzy ten ogr\u00f3d tworzyli, piel\u0119g ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.XjKNxK0Eo1rSSBvAQm83ZA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stara+porcelana",
-            "date": "Euronews Polski on MSN21 godz.",
-            "source": "Euronews Polski on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "\u017bary zapraszaj\u0105 na targi staroci",
-            "link": "https://zachod.pl/1278755/zary-zapraszaja-na-targi-staroci-2/",
-            "description": "\u017barski magistrat zaprasza mieszka\u0144c\u00f3w na targ staroci i r\u0119kodzie\u0142a. Wydarzenie zaplanowano w niedziel\u0119 przy miejskim rynku.",
-            "image_url": "https://www.bing.pl/th?id=OVFT.Z1kX1ygyaBXvlOBdFUKG6C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Koniec piachu i b\u0142ota! Niedzielny Targ zmienia swoj\u0105 lokalizacj\u0119. Od 20 lipca b\u0119dzie ju\u017c w nowym miejscu",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/koniec-piachu-i-b%C5%82ota-niedzielny-targ-zmienia-swoj%C4%85-lokalizacj%C4%99-od-20-lipca-b%C4%99dzie-ju%C5%BC-w-nowym-miejscu/ar-AA1HXI2n?ocid=BingNewsVerp",
+            "description": "B\u0142oto, piach i brak dost\u0119pu do pr\u0105du. To zdecydowa\u0142o, \u017ce Targ Niedzielny przenosi si\u0119 w now\u0105 lokalizacj\u0119. Jeszcze przez dwie niedziele b\u0119dzie funkcjonowa\u0142 obok Avenidy.",
+            "image_url": "https://www.bing.pl/th?id=ODF.U-Vp0xK7SYVhjnH4oToWdw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Radio Zach\u00f3d23 godz.",
-            "source": "Radio Zach\u00f3d",
-            "article_content": "Content not available"
+            "date": "G\u0142os Wielkopolski on MSN2 godz.",
+            "source": "G\u0142os Wielkopolski on MSN",
+            "article_content": ""
         }
     },
     {
@@ -202,40 +186,8 @@
             "description": "Unikalne antyki poszukiwane przez kolekcjoner\u00f3w mog\u0105 zapewni\u0107 Wam du\u017co pieni\u0119dzy. Mo\u017cemy na nich zarobi\u0107 fortun\u0119. Cz\u0119sto nie ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.M2fw_kVEbAkv5zg2kvCAfS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "G\u0142os Pomorza1 godz.",
+            "date": "G\u0142os Pomorza5 godz.",
             "source": "G\u0142os Pomorza",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Bia\u0142ystok. Ceny warzyw i owoc\u00f3w w sezonie letnim na gie\u0142dzie [ZDJ\u0118CIA]",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/bia%C5%82ystok-ceny-warzyw-i-owoc%C3%B3w-w-sezonie-letnim-na-gie%C5%82dzie-zdj%C4%99cia/ar-AA1HThFx?ocid=BingNewsVerp",
-            "description": "Gie\u0142da przy ul. Andersa 40 w Bia\u0142ymstoku cieszy si\u0119 du\u017cym zainteresowaniem mieszka\u0144c\u00f3w. O ka\u017cdej porze roku mo\u017cna zaopatrzy\u0107 si\u0119 mi\u0119dzy innymi w \u015bwie\u017ce warzywa i owoce. W artykule zwracamy uwag\u0119 na ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.RYdSFD03zp-LKg45iy1sdw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "targ+staroci",
-            "date": "Bia\u0142ystok Nasze Miasto on MSN21 godz.",
-            "source": "Bia\u0142ystok Nasze Miasto on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Piotr \u015aliwka przygotowuje si\u0119 do wyst\u0119pu na Uniwersjadzie",
-            "link": "https://zachod.pl/1278784/piotr-sliwka-przygotowuje-sie-do-wystepu-na-uniwersjadzie/",
-            "description": "Piotr \u015aliwka - przyjmuj\u0105cy pierwszoligowej ekipy siatkarskiej Astry Nowa S\u00f3l zosta\u0142 powo\u0142any ???? do kadry Polski na ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.MuAYpS9SFbC0QzFuQkneXS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "targ+staroci",
-            "date": "Radio Zach\u00f3d22 godz.",
-            "source": "Radio Zach\u00f3d",
             "article_content": "Content not available"
         }
     },
@@ -250,7 +202,7 @@
             "description": "Og\u00f3lnopolski Festiwal Kapel i \u015apiewak\u00f3w Ludowych z przytupem przeszed\u0142 do historii. W tym roku przewodnim regionem wydarzenia ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.jqCkW6Gz4HWJDZte3Q4IJC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Kurier Lubelski4 godz.",
+            "date": "Kurier Lubelski8 godz.",
             "source": "Kurier Lubelski",
             "article_content": "Content not available"
         }
@@ -261,30 +213,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Kto spr\u00f3bowa\u0142 na Steam, da\u0142 10/10. Pobierz za darmo na PC, PlayStation i Xbox",
-            "link": "https://planetagracza.pl/day-of-the-shell-prolog-demo-za-darmo-steam-playstation-xbox/",
-            "description": "Day of the Shell, czyli taktyczna gra roguelite, zapowiada si\u0119 \u015bwietnie. Prolog mo\u017cesz pobra\u0107 za darmo na PC, PS5 i konsolach ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.56Q7mnr61ZVAmvlNZjAQey&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "PlanetaGracza.pl20 godz.",
-            "source": "PlanetaGracza.pl",
-            "article_content": "\u015awiat si\u0119 rozpad\u0142, wody zala\u0142y l\u0105dy, a bogowie zes\u0142ali sw\u00f3j gniew na ludzko\u015b\u0107. W tych beznadziejnych okoliczno\u015bciach samotna \u0142owczyni potwor\u00f3w wyrusza w podr\u00f3\u017c po ton\u0105cych wyspach, by stawi\u0107 czo\u0142a boskim istotom. Tak zaczyna si\u0119 Day of the Shell, czyli taktyczna gra roguelite. Prolog mo\u017cesz pobra\u0107 za darmo na PC, PS5 i konsolach Xbox.\n\nDay of the Shell to dynamiczna, turowa gra roguelite, w kt\u00f3rej ka\u017cde klikni\u0119cie to decyzja \u2013 ruch, strza\u0142 lub taktyczny unik. Osadzona w \u015bwiecie zniszczonym przez potop, stawia gracza w roli samotnej \u0142owczyni potwor\u00f3w, przemierzaj\u0105cej rozproszone wyspy w celu zmierzenia si\u0119 z gniewem bog\u00f3w. Premiera pe\u0142nej wersji jest planowana jeszcze w tym miesi\u0105cu \u2013 29 lipca. Natomiast ju\u017c teraz mo\u017cemy sprawdzi\u0107 gr\u0119 za darmo jako prolog/demo.\n\nSprawdzaj za darmo Day of the Shell, bo warto\n\nMechanika \u201ejeden klik \u2013 jedna akcja\u201d sprawia, \u017ce rozgrywka jest prosta w obs\u0142udze, ale pe\u0142na g\u0142\u0119bi strategicznej. Eksploruj\u0105c kolejne wyspy, gracz musi przetrwa\u0107 starcia z niebezpiecznymi wrogami, zdobywa\u0107 relikty i b\u0142ogos\u0142awie\u0144stwa oraz aktywowa\u0107 portale prowadz\u0105ce coraz g\u0142\u0119biej w serce archipelagu.\n\nRozgrywka opiera si\u0119 na systemie progresji znanym z roguelite\u2019\u00f3w, czyli ka\u017cda \u015bmier\u0107 jest lekcj\u0105, a odrodzenie daje szans\u0119 na trwa\u0142e ulepszenie postaci i modyfikacj\u0119 stylu gry. Gra zach\u0119ca do eksperymentowania z r\u00f3\u017cnymi kombinacjami b\u0142ogos\u0142awie\u0144stw, broni i relikt\u00f3w, co sprawia, \u017ce ka\u017cda sesja jest inna.\n\nProlog zdoby\u0142 ju\u017c kilkana\u015bcie ocen na Steam, z kt\u00f3rych \u015brednia wynosi 10/10. R\u00f3wnie\u017c posiadacze konsoli PS5 go docenili, cho\u0107 tutaj oceny s\u0105 nieco ni\u017csze ze \u015bredni\u0105 4.44/5.\n\nDarmowy prolog Day of the Shell zawiera:\n\n13 zr\u00f3\u017cnicowanych wysp do odwiedzenia w jednym, sp\u00f3jnym \u015bwiecie,\n\nw jednym, sp\u00f3jnym \u015bwiecie, 2 rodzaje broni : klasyczny rewolwer oraz precyzyjna kusza,\n\n: klasyczny rewolwer oraz precyzyjna kusza, 9 b\u0142ogos\u0142awie\u0144stw i 12 relikt\u00f3w , kt\u00f3re mo\u017cna dowolnie \u0142\u0105czy\u0107, by budowa\u0107 unikalne strategie,\n\n, kt\u00f3re mo\u017cna dowolnie \u0142\u0105czy\u0107, by budowa\u0107 unikalne strategie, 7 run , kt\u00f3re zapewniaj\u0105 trwa\u0142e ulepszenia postaci,\n\n, kt\u00f3re zapewniaj\u0105 trwa\u0142e ulepszenia postaci, 5 r\u00f3\u017cnych typ\u00f3w przeciwnik\u00f3w, ka\u017cdy z w\u0142asnym stylem walki.\n\nCh\u0119tni zagra\u0107, poni\u017cej znajd\u0105 linki do pobrania oraz \u015bwie\u017cutki trailer gry.\n\n\u0179r\u00f3d\u0142o: Steam"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Emerycie, zobacz, jakie podwy\u017cki emerytur planowane s\u0105 na 2026 rok!",
-            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/emerycie-zobacz-jakie-podwy%C5%BCki-emerytur-planowane-s%C4%85-na-2026-rok/ar-AA1Hpb3X?ocid=BingNewsVerp",
-            "description": "Emerycie, chcesz wiedzie\u0107, ile wynios\u0105 Twoje \u015bwiadczenia w 2026 roku? Mamy \u015bwie\u017ce wyliczenia waloryzacji, kt\u00f3re poka\u017c\u0105 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.byB0X3yPU5PG89PFzMiIcC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN2 godz.",
-            "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
-            "article_content": ""
+            "title": "European street food awards",
+            "link": "https://dziennikpolski24.pl/tag/european-street-food-awards",
+            "description": "Street Food Awards to najwi\u0119kszy konkurs jedzenia ulicznego na \u015bwiecie. W Krakowie odby\u0142 si\u0119 fina\u0142 konkursu w Polsce. Wygra\u0142 w nim food track \"Bubu ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.HjClkBco3nIXj5Su8fjgAg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "targ+staroci",
+            "date": "Dziennik Polski21 godz.",
+            "source": "Dziennik Polski",
+            "article_content": "Content not available"
         }
     },
     {
@@ -298,9 +234,25 @@
             "description": "Zanim wyruszysz na wypraw\u0119, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 05 lipca w Warszawie ma by\u0107 28\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 06 lipca w Warszawie ma by\u0107 31\u00b0C. Nie b\u0119dzie pada\u0107. Stopie\u0144 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.RiSZ6cVK2kGKUBp4PkSDCg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Warszawa Nasze Miasto19 godz.",
+            "date": "Warszawa Nasze Miasto23 godz.",
             "source": "Warszawa Nasze Miasto",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Emerycie, zobacz, jakie podwy\u017cki emerytur planowane s\u0105 na 2026 rok!",
+            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/emerycie-zobacz-jakie-podwy%C5%BCki-emerytur-planowane-s%C4%85-na-2026-rok/ar-AA1Hpb3X?ocid=BingNewsVerp",
+            "description": "Emerycie, chcesz wiedzie\u0107, ile wynios\u0105 Twoje \u015bwiadczenia w 2026 roku? Mamy \u015bwie\u017ce wyliczenia waloryzacji, kt\u00f3re poka\u017c\u0105 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.byB0X3yPU5PG89PFzMiIcC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN7 godz.",
+            "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
+            "article_content": ""
         }
     },
     {
@@ -314,9 +266,25 @@
             "description": "Wi\u0119\u017aniowie tego niemieckiego obozu byli zmuszani do budowania supertajnej nazistowskiej broni V1. Teraz archeologom uda\u0142o si\u0119 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.2JrIG1qTLY_QEgWjPM9AuS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "National Geographic Polska18 godz.",
+            "date": "National Geographic Polska22 godz.",
             "source": "National Geographic Polska",
             "article_content": "Spis tre\u015bci:\n\nReklama\n\nNaukowcy z Katedry Antropologii Uniwersytetu Przyrodniczego we Wroc\u0142awiu i Katedry Archeologii Uniwersytetu Zachodnioczeskiego w Pil\u017anie podsumowali w\u0142a\u015bnie szeroko zakrojony projekt badawczy.\n\nJego celem by\u0142o kompleksowe rozpoznanie dw\u00f3ch podoboz\u00f3w niemieckich KL Gross-Rosen: AL Halbau (Czy\u017c\u00f3wek) i AL Kittlitztreben (Karczmarka). To pierwsze tak szczeg\u00f3\u0142owe opracowanie tych miejsc, do tej pory b\u0119d\u0105cych poza zainteresowaniem naukowc\u00f3w.\n\nWyniki opublikowano na \u0142amach \u201eAntiquity\u201d, a sfinansowano w ramach projektu Narodowego Centrum Nauki.\n\nAL Kittlitztreben \u2013 wi\u0119\u017aniowie pracuj\u0105cy nad supertajn\u0105 broni\u0105\n\nW Karczmarce (AL Kittlitztreben) ob\u00f3z powsta\u0142 w 1944 r. By\u0142 zlokalizowany na terenie pot\u0119\u017cnego kompleksu Luftwaffe, gdzie wi\u0119\u017aniowie pracowali przy produkcji i transporcie amunicji, m.in. bomb kierowanych Fritz X oraz V-1.\n\nV-1 (niem. Vergeltungswaffe-1, bro\u0144 odwetowa nr 1) by\u0142 tajnym niemieckim samolotem-pociskiem manewruj\u0105cym opracowanym przez nazist\u00f3w w czasie II wojny \u015bwiatowej. Produkcja pocisk\u00f3w V-1 rozrzucona by\u0142a po ca\u0142ych Niemczech, a testowano je w Peenem\u00fcnde.\n\nDruga z zaawansowanych broni produkowanych w tym miejscu to Fritz X. By\u0142a to niemiecka bomba kierowana zdalnie (radiowo), przeznaczona do zwalczania silnie opancerzonych okr\u0119t\u00f3w.\n\nKlamra od pasa pracownika obozu Reichsarbeitsdienst w Karczmarce /Fot. N. Ga\u0142dyn\n\nCa\u0142y kompleks zajmowa\u0142 ponad 5,5 hektara, podzielony by\u0142 na strefy: koszarowo-logistyczn\u0105 (z obozem), magazynow\u0105 oraz produkcyjn\u0105. Przyjmuje si\u0119, \u017ce przez ob\u00f3z przesz\u0142o w sumie ok. 1700\u20132500 wi\u0119\u017ani\u00f3w, g\u0142\u00f3wnie \u017byd\u00f3w pochodz\u0105cych z Polski i W\u0119gier, ale te\u017c z Niemiec, Austrii, Belgii i Holandii.\n\nCzego dowiedzieli\u015bmy si\u0119 o obozie AL Kittlitztreben?\n\nZ nowych bada\u0144 wynika, \u017ce ob\u00f3z koncentracyjny mia\u0142 regularny, prostok\u0105tny uk\u0142ad z wewn\u0119trzn\u0105 drog\u0105, r\u00f3wnolegle ustawionymi barakami i uk\u0142adem infrastruktury technicznej.\n\nZachowa\u0142y si\u0119 fundamenty barak\u00f3w, systemy kanalizacyjne, elementy ogrodzenia, a nawet relikty \u0142a\u017ani z betonowymi korytami. Cz\u0119\u015b\u0107 z nich zosta\u0142a przekszta\u0142cona po wojnie \u2013 do lat 90. XX wieku miejsce to pe\u0142ni\u0142o funkcj\u0119 bazy Armii Radzieckiej.\n\nNaukowcy natrafili tak\u017ce na relikty przedwojennej zieleni, m.in. czerwone d\u0119by prawdopodobnie sadzone w okresie funkcjonowania w tym miejscu wcze\u015bniejszego obozu S\u0142u\u017cby Pracy Rzeszy (Reichsarbeitsdienst, RAD).\n\nOb\u00f3z AL Kittlitztreben nale\u017ca\u0142 do sieci ponad 100 podoboz\u00f3w Gross-Rosen. Ich historia i funkcje by\u0142y odmienne, ale \u0142\u0105czy\u0142 je wsp\u00f3lny cel: wykorzystanie wi\u0119\u017ani\u00f3w do przymusowej pracy w przemy\u015ble zbrojeniowym i logistyce wojennej nazistowskich Niemiec.\n\nMroczne tajemnice nadal czekaj\u0105 na odkrycie\n\nDzi\u0119ki zastosowaniu interdyscyplinarnego podej\u015bcia, obejmuj\u0105cego r\u00f3\u017cne metody teledetekcji (w tym LiDAR), badania powierzchniowe i wykopaliska, po raz pierwszy uda\u0142o si\u0119 precyzyjnie okre\u015bli\u0107 dok\u0142adne po\u0142o\u017cenie obozu koncentracyjnego w kompleksie Karczmarka.\n\nNie uda\u0142o si\u0119 jednak odpowiedzie\u0107 na wszystkie pytania. \u2013 Mimo zastosowania zaawansowanych metod i dok\u0142adnej analizy relacji \u015bwiadk\u00f3w, lokalizacja mogi\u0142 masowych nadal pozostaje nieznana \u2013 komentuje prof. Pawe\u0142 Konczewski z Uniwersytetu Przyrodniczego we Wroc\u0142awiu, kierownik projektu i wsp\u00f3\u0142autor publikacji. Chodzi zar\u00f3wno o ob\u00f3z AL Halbau (Czy\u017c\u00f3wek) i AL Kittlitztreben (Karczmarka).\n\nW badaniach uczestniczyli ochotnicy. \u2013 Pomoc wolontariuszy, zar\u00f3wno z Polski, jak i z zagranicy by\u0142a nieoceniona \u2013 dodaje dr Rados\u0142aw Biel, wsp\u00f3\u0142autor publikacji.\n\nWykonano wnikliw\u0105 kwerend\u0119 \u017ar\u00f3d\u0142ow\u0105 oraz sprawdzono wszystkie charakterystyczne lokalizacje, w tym tak\u017ce takie wskazywane przez lokalnych regionalist\u00f3w, ale jak dot\u0105d nie natrafiono na \u017cadne ludzkie szcz\u0105tki. Cz\u0119\u015b\u0107 ludzi zmuszona do pracy w tych obozach zosta\u0142a zamordowana w czasie jego funkcjonowania, a cze\u015b\u0107 \u2013 podczas Marszu \u015amierci pod koniec II wojny \u015bwiatowej. Ich mogi\u0142y nadal nie s\u0105 rozpoznane.\n\nReklama\n\n\u0179rod\u0142o: Antiquity\n\nNasz autor"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Trudny QUIZ podr\u00f3\u017cniczy o zabytkach. 100 proc. tylko dla znawc\u00f3w W\u0142och",
+            "link": "https://podroze.dziennik.pl/aktualnosci/quizy/9834128,trudny-quiz-podrozniczy-o-zabytkach-100-proc-tylko-dla-znawcow-wloch.html",
+            "description": "W\u0142ochy to jeden z ulubionych cel\u00f3w podr\u00f3\u017cy Polak\u00f3w. Ten kraj jest pe\u0142en zabytk\u00f3w i dzie\u0142 sztuki. Jada si\u0119 tam pyszne rzeczy, ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.xjkozsjChmoaMexbK88opC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Podr\u00f3\u017ce - Dziennik.pl12 min",
+            "source": "Podr\u00f3\u017ce - Dziennik.pl",
+            "article_content": "W\u0142ochy to jeden z ulubionych cel\u00f3w podr\u00f3\u017cy Polak\u00f3w. Ten kraj jest pe\u0142en zabytk\u00f3w i dzie\u0142 sztuki. Jada si\u0119 tam pyszne rzeczy, morze jest ciep\u0142e, a ludzie go\u015bcinni i przyja\u017ani. Potraficie umiejscowi\u0107 w\u0142oskie zabytki w miastach? Sprawd\u017acie si\u0119 w tym quizie.\n\nPrzejd\u017a do quizu"
         }
     },
     {
@@ -330,7 +298,7 @@
             "description": "W 2025 roku antyki ciesz\u0105 si\u0119 popularno\u015bci\u0105 i s\u0105 poszukiwane przez kolekcjoner\u00f3w. Je\u015bli masz jeszcze takie w domu, przyjrzyj ...",
             "image_url": "https://www.bing.pl/th?id=OVF.Fj%2f8WO2k%2bGcJg0eshuZKxQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Express Bydgoski on MSN10 godz.",
+            "date": "Express Bydgoski on MSN15 godz.",
             "source": "Express Bydgoski on MSN",
             "article_content": ""
         }
@@ -346,8 +314,24 @@
             "description": "Antyki to nie tylko przedmioty o warto\u015bci estetycznej, ale tak\u017ce inwestycja, kt\u00f3ra mo\u017ce przynosi\u0107 zyski. W 2025 roku takie ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.lK599dzPRBeQpA9FXmgcKy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Pomorska on MSN10 godz.",
+            "date": "Gazeta Pomorska on MSN14 godz.",
             "source": "Gazeta Pomorska on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Wyniki egzaminu \u00f3smoklasisty w Bia\u0142ymstoku. Sprawd\u017a, kt\u00f3re szko\u0142y poradzi\u0142y sobie najlepiej",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/wyniki-egzaminu-%C3%B3smoklasisty-w-bia%C5%82ymstoku-sprawd%C5%BA-kt%C3%B3re-szko%C5%82y-poradzi%C5%82y-sobie-najlepiej/ar-AA1HXYRl?ocid=BingNewsVerp",
+            "description": "Uczniowie klas \u00f3smych poznali ju\u017c swoje wyniki z egzamin\u00f3w ko\u0144cz\u0105cych szko\u0142\u0119 podstawow\u0105. Zajrzyj do naszej galerii i sprawd\u017a, ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.e3PVrBvl4XUtmQdcm0pjjA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Kurier Poranny on MSN1 godz.",
+            "source": "Kurier Poranny on MSN",
             "article_content": ""
         }
     },
@@ -362,41 +346,9 @@
             "description": "To ju\u017c pewne - Dolno\u015bl\u0105ski Wojew\u00f3dzki Konserwator Zabytk\u00f3w wyda\u0142 pozwolenie na remont i rewaloryzacj\u0119 mostu Grunwaldzkiego we ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.p4W0Va5p_nyaqkWD78aFkC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Radio Wroc\u0142aw3 godz.",
+            "date": "Radio Wroc\u0142aw7 godz.",
             "source": "Radio Wroc\u0142aw",
             "article_content": "Most Grunwaldzki ma odzyska\u0107 przedwojenny wygl\u0105d. Pojawi si\u0119 mi\u0119dzy innymi niemiecki napis. Wiemy, kiedy b\u0119dzie gotowy projekt!\n\nMost Grunwaldzki ma odzyska\u0107 przedwojenny wygl\u0105d. Fot. Dolno\u015bl\u0105ski Wojew\u00f3dzki Konserwator Zabytk\u00f3w/RW\n\nTo ju\u017c pewne - Dolno\u015bl\u0105ski Wojew\u00f3dzki Konserwator Zabytk\u00f3w wyda\u0142 pozwolenie na remont i rewaloryzacj\u0119 mostu Grunwaldzkiego we Wroc\u0142awiu. Projekt zak\u0142ada nie tylko wzmocnienie konstrukcji i odnowienie nawierzchni, ale te\u017c pr\u00f3b\u0119 odtworzenia wygl\u0105du mostu sprzed II wojny \u015bwiatowej. W planach jest rekonstrukcja wielu detali, kt\u00f3re znikn\u0119\u0142y po 1945 roku - w tym oryginalnych latarni, dekoracyjnych p\u0142askorze\u017ab, zwie\u0144cze\u0144 oraz historycznego napisu \u201eKaiser Br\u00fccke\u201d.\n\nJeden z najbardziej rozpoznawalnych most\u00f3w Wroc\u0142awia ma odzyska\u0107 sw\u00f3j przedwojenny charakter. Most Grunwaldzki doczeka si\u0119 remontu, kt\u00f3ry nie ograniczy si\u0119 do prac technicznych. Miasto planuje rekonstrukcj\u0119 zniszczonych po wojnie detali \u2013 wr\u00f3c\u0105 kopu\u0142y, ozdobne p\u0142askorze\u017aby, latarnie i historyczny napis \u201eKaiser Br\u00fccke\u201d.\n\n- Podczas prac b\u0119dzie utrudniony ruch ko\u0142owy i tramwajowy. To jest naturalna kolej rzeczy, natomiast absolutnie nie przewidujemy zamkni\u0119cia tego obiektu. To jest niemo\u017cliwe. Dokumentacj\u0119 projektow\u0105 mamy nadziej\u0119 odebra\u0107 ju\u017c w pe\u0142nej wersji z ko\u0144cem wakacji, mo\u017ce na pocz\u0105tku wrze\u015bnia najp\u00f3\u017aniej - informuje Tomasz Staruchowicz, dyrektor Zarz\u0105du Dr\u00f3g i Utrzymania Miasta we Wroc\u0142awiu.\n\nplay\n\npause\n\nstop Aby ods\u0142ucha\u0107 za\u0142\u0105czonego d\u017awi\u0119ku zaktualizuj przegl\u0105dark\u0119 lub/i wtyczk\u0119 Adobe Flash Player.\n\nNajpierw dwa inne mosty, potem Grunwaldzki\n\nZgoda konserwatora zabytk\u00f3w ju\u017c zosta\u0142a wydana, m\u00f3wi Tomasz Staruchowicz:\n\n- My, dzisiaj realizuj\u0105c projekt jego remontu, opr\u00f3cz aspekt\u00f3w technicznych, typowo in\u017cynierskich, zwr\u00f3cili\u015bmy uwag\u0119 r\u00f3wnie\u017c na walory estetyczne i architektoniczne, aby dokumentacja zawiera\u0142a przywr\u00f3cenie tych element\u00f3w. Zak\u0142adamy, \u017ce \u2013 o ile b\u0119dzie to technicznie mo\u017cliwe \u2013 podniesiemy jego no\u015bno\u015b\u0107 z 30 ton, jak ma to miejsce dzi\u015b, do 40 ton.\n\nplay\n\npause\n\nstop Aby ods\u0142ucha\u0107 za\u0142\u0105czonego d\u017awi\u0119ku zaktualizuj przegl\u0105dark\u0119 lub/i wtyczk\u0119 Adobe Flash Player.\n\nTo pierwszy tak kompleksowy projekt przywracaj\u0105cy mostowi jego oryginalny wygl\u0105d z pocz\u0105tku XX wieku. Zanim jednak na mo\u015bcie pojawi\u0105 si\u0119 rusztowania, magistrat musi przygotowa\u0107 objazdy tramwajowe - przede wszystkim przebudowa\u0107 torowisko na mo\u015bcie Pokoju oraz wyremontowa\u0107 most Piaskowy. Dopiero wtedy most Grunwaldzki stanie si\u0119 placem budowy."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Most Grunwaldzki ma odzyska\u0107 przedwojenny wygl\u0105d. Wiemy, kiedy b\u0119dzie gotowy projekt!",
-            "link": "https://www.radiowroclaw.pl/articles/view/152329/Most-Grunwaldzki-ma-odzyskac-przedwojenny-wyglad-Wiemy-kiedy-bedzie-gotowy-projekt",
-            "description": "To ju\u017c pewne - Dolno\u015bl\u0105ski Wojew\u00f3dzki Konserwator Zabytk\u00f3w wyda\u0142 pozwolenie na remont i rewaloryzacj\u0119 mostu Grunwaldzkiego we ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.JTE4wnw1lXmOhjdTqo06US&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Radio Wroc\u0142aw3 godz.",
-            "source": "Radio Wroc\u0142aw",
-            "article_content": "Most Grunwaldzki ma odzyska\u0107 przedwojenny wygl\u0105d. Pojawi si\u0119 mi\u0119dzy innymi niemiecki napis. Wiemy, kiedy b\u0119dzie gotowy projekt!\n\nMost Grunwaldzki ma odzyska\u0107 przedwojenny wygl\u0105d. Fot. Dolno\u015bl\u0105ski Wojew\u00f3dzki Konserwator Zabytk\u00f3w/RW\n\nTo ju\u017c pewne - Dolno\u015bl\u0105ski Wojew\u00f3dzki Konserwator Zabytk\u00f3w wyda\u0142 pozwolenie na remont i rewaloryzacj\u0119 mostu Grunwaldzkiego we Wroc\u0142awiu. Projekt zak\u0142ada nie tylko wzmocnienie konstrukcji i odnowienie nawierzchni, ale te\u017c pr\u00f3b\u0119 odtworzenia wygl\u0105du mostu sprzed II wojny \u015bwiatowej. W planach jest rekonstrukcja wielu detali, kt\u00f3re znikn\u0119\u0142y po 1945 roku - w tym oryginalnych latarni, dekoracyjnych p\u0142askorze\u017ab, zwie\u0144cze\u0144 oraz historycznego napisu \u201eKaiser Br\u00fccke\u201d.\n\nJeden z najbardziej rozpoznawalnych most\u00f3w Wroc\u0142awia ma odzyska\u0107 sw\u00f3j przedwojenny charakter. Most Grunwaldzki doczeka si\u0119 remontu, kt\u00f3ry nie ograniczy si\u0119 do prac technicznych. Miasto planuje rekonstrukcj\u0119 zniszczonych po wojnie detali \u2013 wr\u00f3c\u0105 kopu\u0142y, ozdobne p\u0142askorze\u017aby, latarnie i historyczny napis \u201eKaiser Br\u00fccke\u201d.\n\n- Podczas prac b\u0119dzie utrudniony ruch ko\u0142owy i tramwajowy. To jest naturalna kolej rzeczy, natomiast absolutnie nie przewidujemy zamkni\u0119cia tego obiektu. To jest niemo\u017cliwe. Dokumentacj\u0119 projektow\u0105 mamy nadziej\u0119 odebra\u0107 ju\u017c w pe\u0142nej wersji z ko\u0144cem wakacji, mo\u017ce na pocz\u0105tku wrze\u015bnia najp\u00f3\u017aniej - informuje Tomasz Staruchowicz, dyrektor Zarz\u0105du Dr\u00f3g i Utrzymania Miasta we Wroc\u0142awiu.\n\nplay\n\npause\n\nstop Aby ods\u0142ucha\u0107 za\u0142\u0105czonego d\u017awi\u0119ku zaktualizuj przegl\u0105dark\u0119 lub/i wtyczk\u0119 Adobe Flash Player.\n\nNajpierw dwa inne mosty, potem Grunwaldzki\n\nZgoda konserwatora zabytk\u00f3w ju\u017c zosta\u0142a wydana, m\u00f3wi Tomasz Staruchowicz:\n\n- My, dzisiaj realizuj\u0105c projekt jego remontu, opr\u00f3cz aspekt\u00f3w technicznych, typowo in\u017cynierskich, zwr\u00f3cili\u015bmy uwag\u0119 r\u00f3wnie\u017c na walory estetyczne i architektoniczne, aby dokumentacja zawiera\u0142a przywr\u00f3cenie tych element\u00f3w. Zak\u0142adamy, \u017ce \u2013 o ile b\u0119dzie to technicznie mo\u017cliwe \u2013 podniesiemy jego no\u015bno\u015b\u0107 z 30 ton, jak ma to miejsce dzi\u015b, do 40 ton.\n\nplay\n\npause\n\nstop Aby ods\u0142ucha\u0107 za\u0142\u0105czonego d\u017awi\u0119ku zaktualizuj przegl\u0105dark\u0119 lub/i wtyczk\u0119 Adobe Flash Player.\n\nTo pierwszy tak kompleksowy projekt przywracaj\u0105cy mostowi jego oryginalny wygl\u0105d z pocz\u0105tku XX wieku. Zanim jednak na mo\u015bcie pojawi\u0105 si\u0119 rusztowania, magistrat musi przygotowa\u0107 objazdy tramwajowe - przede wszystkim przebudowa\u0107 torowisko na mo\u015bcie Pokoju oraz wyremontowa\u0107 most Piaskowy. Dopiero wtedy most Grunwaldzki stanie si\u0119 placem budowy."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "To on tworzy\u0142 kinowy biznes w Krakowie. Pami\u0119tacie Graffiti? Krzysztof Gierat: Boli mnie widok kina Wanda",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/to-on-tworzy%C5%82-kinowy-biznes-w-krakowie-pami%C4%99tacie-graffiti-krzysztof-gierat-boli-mnie-widok-kina-wanda/ar-AA1HX0Tr?ocid=BingNewsVerp",
-            "description": "Krzysztof Gierat - cz\u0142owiek-instytucja krakowskiego \u017cycia filmowego w\u0142a\u015bnie po\u017cegna\u0142 si\u0119 z kierowanym przez siebie prze 25 ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.yn%2faOxkSlPMYX5r7zoWqfQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Krakowska on MSN1 godz.",
-            "source": "Gazeta Krakowska on MSN",
-            "article_content": ""
         }
     },
     {
@@ -410,7 +362,7 @@
             "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.o4EwlAsIz5rMM3h8kMS_wi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Szczeci\u0144ski on MSN3 godz.",
+            "date": "G\u0142os Szczeci\u0144ski on MSN8 godz.",
             "source": "G\u0142os Szczeci\u0144ski on MSN",
             "article_content": ""
         }
@@ -421,30 +373,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Wakacje 2025. Pla\u017ca Kopa\u0144 nad Ba\u0142tykiem w gm. Dar\u0142owo. Zdj\u0119cia",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/wakacje-2025-pla%C5%BCa-kopa%C5%84-nad-ba%C5%82tykiem-w-gm-dar%C5%82owo-zdj%C4%99cia/ar-AA1Hk4lM?ocid=BingNewsVerp",
-            "description": "Ziemia Dar\u0142owska po\u0142o\u017cona jest w p\u00f3\u0142nocno-wschodniej cz\u0119\u015bci wojew\u00f3dztwa zachodniopomorskiego. Swoisty mikroklimat, ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.SYJbqBJH9TLH4ZwUrJv7MS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "wykopano+zabytkowe",
-            "date": "S\u0142awno Nasze Miasto on MSN23 godz.",
-            "source": "S\u0142awno Nasze Miasto on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "\u015aredniowieczny miecz na dnie Wis\u0142y. Ciekawe znalezisko podczas po\u0142owu ryb",
-            "link": "https://wiadomosci.wp.pl/sredniowieczny-miecz-na-dnie-wisly-ciekawe-znalezisko-podczas-polowu-ryb-7174345607150304a",
-            "description": "Mieszkaniec Tarchomina natrafi\u0142 na \u015bredniowieczny miecz podczas w\u0119dkowania w Wi\u015ble. Bro\u0144 zosta\u0142a przekazana sto\u0142ecznemu ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.rHt28tTaPDKltr047YrJWC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Niezwyk\u0142e odkrycie w dolno\u015bl\u0105skiej wsi. Znaleziono \u015bredniowieczny skarb",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/niezwyk%C5%82e-odkrycie-w-dolno%C5%9Bl%C4%85skiej-wsi-znaleziono-%C5%9Bredniowieczny-skarb/ar-AA1HXHOd?ocid=BingNewsVerp",
+            "description": "W gminie Milicz na Dolnym \u015al\u0105sku podczas poszukiwa\u0144 zabytk\u00f3w dokonano niezwyk\u0142ego odkrycia. Powiadomiono o tym Dolno\u015bl\u0105skiego ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.eCHi9SU29qAgmTyUQ90AIS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "WP Wiadomo\u015bci20 godz.",
-            "source": "WP Wiadomo\u015bci",
-            "article_content": "Pobieranie, zwielokrotnianie, przechowywanie lub jakiekolwiek inne wykorzystywanie tre\u015bci dost\u0119pnych w niniejszym serwisie - bez wzgl\u0119du na ich charakter i spos\u00f3b wyra\u017cenia (w szczeg\u00f3lno\u015bci lecz nie wy\u0142\u0105cznie: s\u0142owne, s\u0142owno-muzyczne, muzyczne, audiowizualne, audialne, tekstowe, graficzne i zawarte w nich dane i informacje, bazy danych i zawarte w nich dane) oraz form\u0119 (np. literackie, publicystyczne, naukowe, kartograficzne, programy komputerowe, plastyczne, fotograficzne) wymaga uprzedniej i jednoznacznej zgody Wirtualna Polska Media Sp\u00f3\u0142ka Akcyjna z siedzib\u0105 w Warszawie, b\u0119d\u0105cej w\u0142a\u015bcicielem niniejszego serwisu, bez wzgl\u0119du na spos\u00f3b ich eksploracji i wykorzystan\u0105 metod\u0119 (manualn\u0105 lub zautomatyzowan\u0105 technik\u0119, w tym z u\u017cyciem program\u00f3w uczenia maszynowego lub sztucznej inteligencji). Powy\u017csze zastrze\u017cenie nie dotyczy wykorzystywania jedynie w celu u\u0142atwienia ich wyszukiwania przez wyszukiwarki internetowe oraz korzystania w ramach stosunk\u00f3w umownych lub dozwolonego u\u017cytku okre\u015blonego przez w\u0142a\u015bciwe przepisy prawa.\n\nSzczeg\u00f3\u0142owa tre\u015b\u0107 dotycz\u0105ca niniejszego zastrze\u017cenia znajduje si\u0119 tutaj."
+            "date": "Radio ZET on MSN1 godz.",
+            "source": "Radio ZET on MSN",
+            "article_content": ""
         }
     },
     {
@@ -458,7 +394,7 @@
             "description": "W \u015brod\u0119, 2 lipca sto\u0142eczny konserwator zabytk\u00f3w poinformowa\u0142 w mediach spo\u0142eczno\u015bciowych o niezwyk\u0142ym odkryciu. Jak si\u0119 okaza\u0142o, spacerowicz wy\u0142owi\u0142 z Wis\u0142y w Warszawie prawdziwy skarb - \u015bredniowieczn ...",
             "image_url": "https://www.bing.pl/th?id=ODF.LC6ZJEycVuCnutN0oFpk4A&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Warszawa Radio ESKA on MSN16 godz.",
+            "date": "Warszawa Radio ESKA on MSN20 godz.",
             "source": "Warszawa Radio ESKA on MSN",
             "article_content": ""
         }
