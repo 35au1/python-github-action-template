@@ -10,7 +10,7 @@
             "description": "Po zapiekanki w okr\u0105glaku ju\u017c ustawiaj\u0105 si\u0119 kolejki, w \u015brodku kr\u00f3luj\u0105 lody i kawa. A na placu przy okr\u0105glaku kwitnie handel.",
             "image_url": "https://www.bing.pl/th?id=OVFT.BiGZ4nTPFYul8SYSQGNfdC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Gazeta Krakowska on MSN10 godz.",
+            "date": "Gazeta Krakowska on MSN12 godz.",
             "source": "Gazeta Krakowska on MSN",
             "article_content": ""
         }
@@ -26,8 +26,24 @@
             "description": "W sobot\u0119, 5 lipca w Chmielnikach zn\u00f3w zapanowa\u0142 wyj\u0105tkowy klimat \u2013 nad jeziorem odby\u0142 si\u0119 cotygodniowy pchli targ, kt\u00f3ry z ...",
             "image_url": "https://www.bing.pl/th?id=OVF.J5kCgFzWISJgHagf0Kzjtw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Bydgoszcz Nasze Miasto on MSN10 godz.",
+            "date": "Bydgoszcz Nasze Miasto on MSN13 godz.",
             "source": "Bydgoszcz Nasze Miasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Wielki Targ Gara\u017cowy na Powietrzu w Krakowie. Mo\u017cna tu sprzeda\u0107, kupi\u0107 lub wymieni\u0107 wszystko. I znale\u017a\u0107 prawdziwe pere\u0142ki!",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/wielki-targ-gara%C5%BCowy-na-powietrzu-w-krakowie-mo%C5%BCna-tu-sprzeda%C4%87-kupi%C4%87-lub-wymieni%C4%87-wszystko-i-znale%C5%BA%C4%87-prawdziwe-pere%C5%82ki/ar-AA1I163q?ocid=BingNewsVerp",
+            "description": "Natomiast na targach zdrowej \u017cywno\u015bci mo\u017cna naby\u0107 \u015bwie\u017ce, starannie przygotowane produkty spo\u017cywcze prosto od producent\u00f3w, na ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.FXIsx127mklOI%2f%2bTcOKG0w&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Dziennik Polski on MSN18 godz.",
+            "source": "Dziennik Polski on MSN",
             "article_content": ""
         }
     },
@@ -42,25 +58,9 @@
             "description": "W sobot\u0119 z rana, 5 lipca, w Starachowicach by\u0142o s\u0142onecznie i ciep\u0142o. Starachowicka Gie\u0142da Staroci i R\u00f3\u017cno\u015bci na parkingu ...",
             "image_url": "https://www.bing.pl/th?id=OVF.Ka4kBPzpJikabIw3MKdU8g&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Echo Dnia13 godz.",
+            "date": "Echo Dnia15 godz.",
             "source": "Echo Dnia",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Wielki Targ Gara\u017cowy na Powietrzu w Krakowie. Mo\u017cna tu sprzeda\u0107, kupi\u0107 lub wymieni\u0107 wszystko. I znale\u017a\u0107 prawdziwe pere\u0142ki!",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/wielki-targ-gara%C5%BCowy-na-powietrzu-w-krakowie-mo%C5%BCna-tu-sprzeda%C4%87-kupi%C4%87-lub-wymieni%C4%87-wszystko-i-znale%C5%BA%C4%87-prawdziwe-pere%C5%82ki/ar-AA1I163q?ocid=BingNewsVerp",
-            "description": "Natomiast na targach zdrowej \u017cywno\u015bci mo\u017cna naby\u0107 \u015bwie\u017ce, starannie przygotowane produkty spo\u017cywcze prosto od producent\u00f3w, na ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.FXIsx127mklOI%2f%2bTcOKG0w&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "Dziennik Polski on MSN15 godz.",
-            "source": "Dziennik Polski on MSN",
-            "article_content": ""
         }
     },
     {
@@ -74,7 +74,7 @@
             "description": "Radni przeg\u0142osowali bud\u017cet obywatelski. Mieszka\u0144cy b\u0119d\u0105 mogli sk\u0142ada\u0107 swoje propozycje zmian w Nowej Soli, a p\u00f3\u017aniej w drodze g\u0142osowania zostan\u0105 wybrane te,... Rowerzy\u015bci na placu na starej \u201eOdrze' zo ...",
             "image_url": "https://www.bing.pl/th?id=ODF.6oXJf1KayPglPY9d412pqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "Gazeta Lubuska38 min",
+            "date": "Gazeta Lubuska3 godz.",
             "source": "Gazeta Lubuska",
             "article_content": "Content not available"
         }
@@ -90,7 +90,7 @@
             "description": "Czas w dobrym towarzystwie wydaje si\u0119 p\u0142yn\u0105\u0107 szybciej, a w dla oczekuj\u0105cych w kolejce moment ci\u0105gnie si\u0119 w niesko\u0144czono\u015b\u0107.",
             "image_url": "https://www.bing.pl/th?id=OVF.HwNcqvZcgNFLoGLFUJqHBQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Wa\u0142brzych Nasze Miasto6 godz.",
+            "date": "Wa\u0142brzych Nasze Miasto9 godz.",
             "source": "Wa\u0142brzych Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -106,7 +106,7 @@
             "description": "Wycena monet z PRL-u zale\u017cy od rzadko\u015bci wyst\u0119powania, jako\u015bci wybicia oraz gradingu, czyli stanu jej zachowania. W Polsce ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.pM531g1foWeOKq99qYJVCy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Szczeci\u0144ski on MSN20 godz.",
+            "date": "G\u0142os Szczeci\u0144ski on MSN23 godz.",
             "source": "G\u0142os Szczeci\u0144ski on MSN",
             "article_content": ""
         }
@@ -122,7 +122,7 @@
             "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
             "image_url": "https://www.bing.pl/th?id=OVFT._V-rWLu6pRQ3UWKHtZMwMi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Pomorza on MSN20 godz.",
+            "date": "G\u0142os Pomorza on MSN23 godz.",
             "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
         }
@@ -134,13 +134,13 @@
         },
         "body": {
             "title": "Nawet 39 tysi\u0119cy za monety z PRL. A\u017c tyle mog\u0105 zap\u0142aci\u0107 kolekcjonerzy. Masz takie w domu? Zobacz, ile mo\u017cna zrobi\u0107 (zdj\u0119cia) 05.07.2025",
-            "link": "https://gp24.pl/nawet-39-tysiecy-za-monety-z-prl-az-tyle-moga-zaplacic-kolekcjonerzy-masz-takie-w-domu-zobacz-ile-mozna-zrobic-zdjecia-05-07-2025/ar/c3p2-27672673",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/nawet-39-tysi%C4%99cy-za-monety-z-prl-a%C5%BC-tyle-mog%C4%85-zap%C5%82aci%C4%87-kolekcjonerzy-masz-takie-w-domu-zobacz-ile-mo%C5%BCna-zrobi%C4%87-zdj%C4%99cia-25062025/ar-AA1GsWDX?ocid=BingNewsVerp",
             "description": "Je\u015bli my\u015blisz, \u017ce wszystkie monety z PRL s\u0105 warte tylko kilka groszy, to jeste\u015b w b\u0142\u0119dzie. Istniej\u0105 konkretne egzemplarze, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.tw52sR1Gr8BtTBjw6L7GSi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Pomorza20 godz.",
-            "source": "G\u0142os Pomorza",
-            "article_content": "Content not available"
+            "date": "G\u0142os Pomorza on MSN23 godz.",
+            "source": "G\u0142os Pomorza on MSN",
+            "article_content": ""
         }
     },
     {
@@ -154,7 +154,7 @@
             "description": "Czy wiesz, \u017ce zwyk\u0142a moneta z czas\u00f3w PRL-u mo\u017ce dzi\u015b kosztowa\u0107 nawet kilkadziesi\u0105t tysi\u0119cy z\u0142otych? Niepozorne grosze, dwuz\u0142ot\u00f3wki czy pi\u0105tki, kt\u00f3re kiedy\u015b by\u0142y w obiegu, dzi\u015b s\u0105 prawdziwym skarbem dl ...",
             "image_url": "https://www.bing.pl/th?id=ODF.Csifhlzyww1FJ6gtveoOMA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "Super Express on MSN1 godz.",
+            "date": "Super Express on MSN4 godz.",
             "source": "Super Express on MSN",
             "article_content": ""
         }
@@ -170,7 +170,7 @@
             "description": "Czas w dobrym towarzystwie wydaje si\u0119 p\u0142yn\u0105\u0107 szybciej, a w dla oczekuj\u0105cych w kolejce moment ci\u0105gnie si\u0119 w niesko\u0144czono\u015b\u0107.",
             "image_url": "https://www.bing.pl/th?id=OVF.HwNcqvZcgNFLoGLFUJqHBQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Wa\u0142brzych Nasze Miasto6 godz.",
+            "date": "Wa\u0142brzych Nasze Miasto9 godz.",
             "source": "Wa\u0142brzych Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -186,7 +186,7 @@
             "description": "W 2025 roku kasety magnetofonowe z czas\u00f3w PRL ciesz\u0105 si\u0119 popularno\u015bci\u0105 i s\u0105 poszukiwane przez kolekcjoner\u00f3w i meloman\u00f3w ...",
             "image_url": "https://www.bing.pl/th?id=OVF.Ll4XKm8G0J4MlU8r2V2qOQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN8 godz.",
+            "date": "Gazeta Pomorska on MSN11 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -202,7 +202,7 @@
             "description": "Kto zboczy ze szlaku wiod\u0105cego do Dzikowca i jego nowej wie\u017cy widokowej, mo\u017ce natrafi\u0107 na pozosta\u0142o\u015bci ruin grobowca. Tu by\u0142 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.SUuD1Y0AVEjbcZK25hhCMy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Wa\u0142brzych Nasze Miasto on MSN6 godz.",
+            "date": "Wa\u0142brzych Nasze Miasto on MSN9 godz.",
             "source": "Wa\u0142brzych Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -218,7 +218,7 @@
             "description": "Natomiast na targach zdrowej \u017cywno\u015bci mo\u017cna naby\u0107 \u015bwie\u017ce, starannie przygotowane produkty spo\u017cywcze prosto od producent\u00f3w, na ...",
             "image_url": "https://www.bing.pl/th?id=OVF.FXIsx127mklOI%2f%2bTcOKG0w&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Dziennik Polski on MSN15 godz.",
+            "date": "Dziennik Polski on MSN18 godz.",
             "source": "Dziennik Polski on MSN",
             "article_content": ""
         }
@@ -234,25 +234,9 @@
             "description": "Przy okazji wakacyjnej wizyty w Kiermusach warto odwiedzi\u0107 te\u017c pobliski Tykocin. Miasto Pomnik Historii \u015bwi\u0119tuje w tym roku ...",
             "image_url": "https://www.bing.pl/th?id=OVF.kWgT2aUuPNkF8SMQ4sZLHw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Kurier Poranny on MSN14 godz.",
+            "date": "Kurier Poranny on MSN17 godz.",
             "source": "Kurier Poranny on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "T\u0142umy na sobotniej Gie\u0142dzie Staroci i R\u00f3\u017cno\u015bci w Starachowicach. Zobacz, co mo\u017cna tu kupi\u0107",
-            "link": "https://echodnia.eu/swietokrzyskie/tlumy-na-sobotniej-gieldzie-staroci-i-roznosci-w-starachowicach-zobacz-co-mozna-tu-kupic/ar/c1p2-27754033",
-            "description": "W sobot\u0119 z rana, 5 lipca, w Starachowicach by\u0142o s\u0142onecznie i ciep\u0142o. Starachowicka Gie\u0142da Staroci i R\u00f3\u017cno\u015bci na parkingu ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.Ka4kBPzpJikabIw3MKdU8g&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "targ+staroci",
-            "date": "Echo Dnia13 godz.",
-            "source": "Echo Dnia",
-            "article_content": "Content not available"
         }
     },
     {
@@ -266,7 +250,7 @@
             "description": "W sobot\u0119, 5 lipca, na targowisku w Starachowicach najwi\u0119cej sprzedawano czere\u015bni i og\u00f3rk\u00f3w gruntowych. Drugie miejsce mia\u0142y ...",
             "image_url": "https://www.bing.pl/th?id=OVF.F%2bJNS4asGzZZbCVBkzccTg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Echo Dnia12 godz.",
+            "date": "Echo Dnia15 godz.",
             "source": "Echo Dnia",
             "article_content": "Content not available"
         }
@@ -277,13 +261,29 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Koniec piachu i b\u0142ota! Niedzielny Targ zmienia swoj\u0105 lokalizacj\u0119. Od 20 lipca b\u0119dzie ju\u017c w nowym miejscu. Co w dawnej lokalizacji?",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/koniec-piachu-i-b%C5%82ota-niedzielny-targ-zmienia-swoj%C4%85-lokalizacj%C4%99-od-20-lipca-b%C4%99dzie-ju%C5%BC-w-nowym-miejscu-co-w-dawnej-lokalizacji/ar-AA1HXI2n?ocid=BingNewsVerp",
-            "description": "B\u0142oto, piach i brak dost\u0119pu do pr\u0105du. To zdecydowa\u0142o, \u017ce Targ Niedzielny przenosi si\u0119 w now\u0105 lokalizacj\u0119. Jeszcze przez dwie ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.9IXY80nyI%2fr%2bq7Lg2RKVMg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "T\u0142umy na sobotniej Gie\u0142dzie Staroci i R\u00f3\u017cno\u015bci w Starachowicach. Zobacz, co mo\u017cna tu kupi\u0107",
+            "link": "https://echodnia.eu/swietokrzyskie/tlumy-na-sobotniej-gieldzie-staroci-i-roznosci-w-starachowicach-zobacz-co-mozna-tu-kupic/ar/c1p2-27754033",
+            "description": "W sobot\u0119 z rana, 5 lipca, w Starachowicach by\u0142o s\u0142onecznie i ciep\u0142o. Starachowicka Gie\u0142da Staroci i R\u00f3\u017cno\u015bci na parkingu ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.Ka4kBPzpJikabIw3MKdU8g&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "G\u0142os Wielkopolski on MSN19 godz.",
-            "source": "G\u0142os Wielkopolski on MSN",
+            "date": "Echo Dnia15 godz.",
+            "source": "Echo Dnia",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "T\u0142umy na lipcowych Targach Staroci przy Centrum Kultury i Sztuki",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/t%C5%82umy-na-lipcowych-targach-staroci-przy-centrum-kultury-i-sztuki/ar-AA1I1bSc?ocid=BingNewsVerp",
+            "description": "W sobot\u0119, 5 lipca, pogoda dopisa\u0142a zar\u00f3wno wystawcom, jak i odwiedzaj\u0105cym skierniewickie Targi Staroci przy Centrum Kultury i Sztuki.",
+            "image_url": "https://www.bing.pl/th?id=ODF.pwaUguVI7i8kVlP1M_FRxA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "targ+staroci",
+            "date": "Nasze Miasto on MSN17 godz.",
+            "source": "Nasze Miasto on MSN",
             "article_content": ""
         }
     },
@@ -298,7 +298,7 @@
             "description": "Nawet mieszka\u0144cy Oksywia mog\u0105 nie wiedzie\u0107, \u017ce przy ul. \u015amidowicza 59 stoj\u0105 dwa relikty przesz\u0142o\u015bci - betonowa sortownia oraz ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.CEt1pZVLLOpFuh5dOCovgi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Trojmiasto.pl10 godz.",
+            "date": "Trojmiasto.pl13 godz.",
             "source": "Trojmiasto.pl",
             "article_content": "Content not available"
         }
@@ -314,7 +314,7 @@
             "description": "Szukasz pomys\u0142u na wypraw\u0119 rowerow\u0105 z O\u015bwi\u0119cimia? Podpowiadamy, gdzie warto si\u0119 wybra\u0107. Mamy 5 ciekawych tras. S\u0105 r\u00f3\u017cne pod ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.w6Izgn-H1PEKem0uyERIny&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "O\u015bwi\u0119cim Nasze Miasto12 godz.",
+            "date": "O\u015bwi\u0119cim Nasze Miasto15 godz.",
             "source": "O\u015bwi\u0119cim Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -330,7 +330,7 @@
             "description": "Zanim wyruszysz w tras\u0119, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 05 lipca w Sieradzu ma by\u0107 27\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 06 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.ha7L6Ph_8XHo-R7_1u4qQC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Sieradz Nasze Miasto12 godz.",
+            "date": "Sieradz Nasze Miasto15 godz.",
             "source": "Sieradz Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -346,7 +346,7 @@
             "description": "W sobot\u0119 5 lipca wed\u0142ug prognozy pogody ma by\u0107 23\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 6 lipca zgodnie z najnowszymi prognozami ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.WIVQ1Y5DzVPy34aeEtU61S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Ko\u0142obrzeg Nasze Miasto11 godz.",
+            "date": "Ko\u0142obrzeg Nasze Miasto14 godz.",
             "source": "Ko\u0142obrzeg Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -357,14 +357,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Trasy rowerowe do 18 km od Grodziska Mazowieckiego. Pomys\u0142y na jednodniowy wypad. Gdzie w weekend 5 - 6 lipca?",
-            "link": "https://grodziskmazowiecki.naszemiasto.pl/trasy-rowerowe-do-18-km-od-grodziska-mazowieckiego-pomysly-na-jednodniowy-wypad-gdzie-w-weekend-5-6-lipca/ar/c7p1-21831681",
-            "description": "Zanim wyruszysz w drog\u0119, sprawd\u017a, jaka b\u0119dzie pogoda. W sobot\u0119 05 lipca w Grodzisku Mazowieckim ma by\u0107 26\u00b0C. Nie powinno ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.ha7L6Ph_8XHo-R7_1u4qQC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Jak i gdzie przygotowywano si\u0119 w Gda\u0144sku do III wojny \u015bwiatowej",
+            "link": "https://www.trojmiasto.pl/wiadomosci/Jak-i-gdzie-przygotowywano-sie-w-Gdansku-do-III-wojny-swiatowej-n205237.html",
+            "description": "Ujawnione przez MON wiele lat temu plany dzia\u0142ania m.in. si\u0142 7 \u0141DD na wypadek wybuchu III wojny \u015bwiatowej. Widoczne w pasie ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.E7T1XPJ7P_iB1pbQvaFnbi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Grodzisk Mazowiecki Nasze Miasto12 godz.",
-            "source": "Grodzisk Mazowiecki Nasze Miasto",
+            "date": "Trojmiasto.pl21 godz.",
+            "source": "Trojmiasto.pl",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Kraje wschodniej Europy szykuj\u0105 si\u0119 na inwazj\u0119. Polska planuje ewakuacj\u0119",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/kraje-wschodniej-europy-szykuj%C4%85-si%C4%99-na-inwazj%C4%99-polska-planuje-ewakuacj%C4%99/ar-AA1I0LCS?ocid=BingNewsVerp",
+            "description": "Kraje Europy Wschodniej przygotowuj\u0105 si\u0119 na najczarniejszy scenariusz. Polska, Litwa, \u0141otwa i Estonia opracowuj\u0105 plany, kt\u00f3re ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.mvKt3yL4EzugeEZUpa8EGA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "BiznesINFO.pl on MSN20 godz.",
+            "source": "BiznesINFO.pl on MSN",
+            "article_content": ""
         }
     },
     {
@@ -378,7 +394,7 @@
             "description": "Co miesi\u0119czny, dwudniowy, Jarmark Staroci i R\u0119kodzie\u0142a Ludowego w Kiermusach sta\u0142 si\u0119 jedn\u0105 z najbardziej rozpoznawalnych, plenerowych imprez pod chmurk\u0105 w woj. podlaskim. Bez wzgl\u0119du na por\u0119 roku i a ...",
             "image_url": "https://www.bing.pl/th?id=ODF.z8szwJPfOZTDo97HvHYzSw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "Kurier Poranny on MSN14 godz.",
+            "date": "Kurier Poranny on MSN17 godz.",
             "source": "Kurier Poranny on MSN",
             "article_content": ""
         }
@@ -389,14 +405,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Kraje wschodniej Europy szykuj\u0105 si\u0119 na inwazj\u0119. Polska planuje ewakuacj\u0119",
-            "link": "https://www.msn.com/pl-pl/news/other/kraje-wschodniej-europy-szykuj%C4%85-si%C4%99-na-inwazj%C4%99-polska-planuje-ewakuacj%C4%99/ar-AA1I0LCS?ocid=BingNewsVerp",
-            "description": "Kraje Europy Wschodniej przygotowuj\u0105 si\u0119 na najczarniejszy scenariusz. Polska, Litwa, \u0141otwa i Estonia opracowuj\u0105 plany, kt\u00f3re ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.mvKt3yL4EzugeEZUpa8EGA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Przegl\u0105d prasy 6.07.2025. Zestawili\u015bmy dla Ciebie najwa\u017cniejsze wydarzenia z wczoraj. Zobacz nasz\u0105 pras\u00f3wk\u0119",
+            "link": "https://nto.pl/przeglad-prasy-6-07-2025-zestawilismy-dla-ciebie-najwazniejsze-wydarzenia-z-wczoraj-zobacz-nasza-prasowke/ar/c1p1-19960921",
+            "description": "Odra Opole uleg\u0142a Zag\u0142\u0119biu Lubin 1:2 w czwartym letnim meczu kontrolnym. Przed rozpocz\u0119ciem spotkania zaprezentowana zosta\u0142a ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.HTOndiP%2fFLKjv3a34PdPGw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "BiznesINFO.pl on MSN18 godz.",
-            "source": "BiznesINFO.pl on MSN",
-            "article_content": ""
+            "date": "Nowa Trybuna Opolska48 min",
+            "source": "Nowa Trybuna Opolska",
+            "article_content": "Content not available"
         }
     },
     {
@@ -405,14 +421,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Koncerty w zabytkowych wn\u0119trzach ko\u015bcio\u0142\u00f3w w Pasymiu i D\u017awierzutach",
-            "link": "https://radioolsztyn.pl/koncerty-w-zabytkowych-wnetrzach-kosciolow-w-pasymiu-i-dzwierzutach/01825336",
-            "description": "Po raz 28. odbywaj\u0105 si\u0119 Pasymskie Koncerty Muzyki Organowej i Kameralnej. W soboty i niedziele w zabytkowych wn\u0119trzach ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.JEgRYdu8eeazZ13hmPZbxy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Pras\u00f3wka 6.07.2025 - wydarzenia dnia, podsumowanie z wczoraj - sprawd\u017a, czy nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego",
+            "link": "https://nowiny24.pl/prasowka-6-07-2025-wydarzenia-dnia-podsumowanie-z-wczoraj-sprawdz-czy-nie-minelo-cie-nic-waznego/ar/c1p1-19960915",
+            "description": "W \u015brod\u0119, 2 lipca, Jezioro Tarnobrzeskie prze\u017cywa\u0142o prawdziwe obl\u0119\u017cenie. Letnia pogoda i wysoka temperatura sprawi\u0142y, \u017ce pla\u017ce ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.NuWAQqHnJgkTJWeYR9e5hS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Radio Olsztyn12 godz.",
-            "source": "Radio Olsztyn",
-            "article_content": "Koncerty w zabytkowych wn\u0119trzach ko\u015bcio\u0142\u00f3w w Pasymiu i D\u017awierzutach\n\nPo raz 28. odbywaj\u0105 si\u0119 Pasymskie Koncerty Muzyki Organowej i Kameralnej. W soboty i niedziele w zabytkowych wn\u0119trzach ko\u015bcio\u0142\u00f3w ewangelickich w Pasymiu i D\u017awierzutach prezentuj\u0105 si\u0119 soli\u015bci, duety, wyst\u0105pi tak\u017ce ch\u00f3r.\n\nOrganizator koncert\u00f3w ksi\u0105dz Witold Twardzik podkre\u015bla, i\u017c w \u015bwi\u0105tyniach tych s\u0105 znakomicie brzmi\u0105ce historyczne instrumenty. Pasymskie barokowe organy powsta\u0142y w 1705 roku, za\u015b w D\u017awierzutach w 1750 roku.\n\nW sobot\u0119 (5 lipca) w Pasymiu utwory Jana Sebastina Bacha zagra w\u0119gierski organista Zsolt M\u00e1t\u00e9 M\u00e9sz\u00e1ros, natomiast w niedziel\u0119 w D\u017awierzutach pianista, klawesynista i organista Gianluigi Spaziani zaprezentuje program zbudowany przede wszystkim na kompozycjach artyst\u00f3w w\u0142oskich.\n\nWydarzenia rozpoczynaj\u0105 si\u0119 zawsze o godz. 18. Pasymskie koncerty b\u0119d\u0105 trwa\u0142y do 27 lipca.\n\nPos\u0142uchaj wypowiedzi\n\nAutor: R. Lesi\u0144ski\n\nRedakcja: \u0141. Sadlak"
+            "date": "Nowiny 2448 min",
+            "source": "Nowiny 24",
+            "article_content": "Content not available"
         }
     },
     {
@@ -421,29 +437,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Na Rynku G\u0142\u00f3wnym w Krakowie pojawi\u0105 si\u0119 nowe drzewa. W specjalnych, podziemnych donicach. Czy okoliczne kamienice b\u0119d\u0105 bezpieczne?",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/na-rynku-g%C5%82%C3%B3wnym-w-krakowie-pojawi%C4%85-si%C4%99-nowe-drzewa-w-specjalnych-podziemnych-donicach-czy-okoliczne-kamienice-b%C4%99d%C4%85-bezpieczne/ar-AA1I0oCj?ocid=BingNewsVerp",
-            "description": "B\u0119d\u0105 r\u00f3wnie\u017c sprawdzone lipy \u2013 drobnolistna i srebrzysta. W s\u0105siedztwie \u201ekwiaciarek' jest ju\u017c jedna, ale chcemy zrobi\u0107 ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.R0yeYfAIXNio3ahb4taBUQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Pras\u00f3wka 6.07.2025. Zobacz zestawienie najwa\u017cniejszych informacji z wczoraj z naszego wojew\u00f3dztwa",
+            "link": "https://gazetalubuska.pl/prasowka-6-07-2025-zobacz-zestawienie-najwazniejszych-informacji-z-wczoraj-z-naszego-wojewodztwa/ar/c1p1-19960919",
+            "description": "Od pi\u0105tku 4 lipca 2025 w Szprotawie trwa 33. edycja festiwalu grup \u015bpiewaczych Ziemia i Pie\u015b\u0144. W sobot\u0119 mo\u017cna by\u0142o nie tylko ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.uXFNIf7gqpRwIp_0Lj7bGi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Krakowska on MSN21 godz.",
-            "source": "Gazeta Krakowska on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Pomys\u0142y na spacer w woj. \u015bwi\u0119tokrzyskim. Gdzie warto i\u015b\u0107 w weekend 5 - 6 lipca? Lista 10 tras",
-            "link": "https://echodnia.eu/swietokrzyskie/pomysly-na-spacer-w-woj-swietokrzyskim-gdzie-warto-isc-w-weekend-5-6-lipca-lista-10-tras/ar/c7p1-22116489",
-            "description": "Zanim wyruszysz, sprawd\u017a, jaka b\u0119dzie pogoda. W sobot\u0119 05 lipca w woj. \u015bwi\u0119tokrzyskim ma by\u0107 od 10\u00b0C do 25\u00b0C. Nie powinno ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.w6HpjZ4R-Y66C19lpN-vGS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Echo Dnia11 godz.",
-            "source": "Echo Dnia",
+            "date": "Gazeta Lubuska48 min",
+            "source": "Gazeta Lubuska",
             "article_content": "Content not available"
         }
     },
@@ -458,7 +458,7 @@
             "description": "Czy wiesz, \u017ce zwyk\u0142a moneta z czas\u00f3w PRL-u mo\u017ce dzi\u015b kosztowa\u0107 nawet kilkadziesi\u0105t tysi\u0119cy z\u0142otych? Niepozorne grosze, dwuz\u0142ot\u00f3wki czy pi\u0105tki, kt\u00f3re kiedy\u015b by\u0142y w obiegu, dzi\u015b s\u0105 prawdziwym skarbem dl ...",
             "image_url": "https://www.bing.pl/th?id=ODF.Csifhlzyww1FJ6gtveoOMA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "Super Express on MSN1 godz.",
+            "date": "Super Express on MSN4 godz.",
             "source": "Super Express on MSN",
             "article_content": ""
         }
@@ -474,7 +474,7 @@
             "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je przejrze\u0107, bo niekt\u00f3re warte s\u0105 obecnie naprawd\u0119 sporo. Kolekcjonerzy p\u0142ac\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Szczeci\u0144ski on MSN20 godz.",
+            "date": "G\u0142os Szczeci\u0144ski on MSN23 godz.",
             "source": "G\u0142os Szczeci\u0144ski on MSN",
             "article_content": ""
         }
@@ -486,13 +486,13 @@
         },
         "body": {
             "title": "Nawet 39 tysi\u0119cy za monety z PRL. A\u017c tyle mog\u0105 zap\u0142aci\u0107 kolekcjonerzy. Masz takie w domu? Zobacz, ile mo\u017cna zrobi\u0107 (zdj\u0119cia) 05.07.2025",
-            "link": "https://gp24.pl/nawet-39-tysiecy-za-monety-z-prl-az-tyle-moga-zaplacic-kolekcjonerzy-masz-takie-w-domu-zobacz-ile-mozna-zrobic-zdjecia-05-07-2025/ar/c3p2-27672673",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/nawet-39-tysi%C4%99cy-za-monety-z-prl-a%C5%BC-tyle-mog%C4%85-zap%C5%82aci%C4%87-kolekcjonerzy-masz-takie-w-domu-zobacz-ile-mo%C5%BCna-zrobi%C4%87-zdj%C4%99cia-25062025/ar-AA1GsWDX?ocid=BingNewsVerp",
             "description": "Je\u015bli my\u015blisz, \u017ce wszystkie monety z PRL s\u0105 warte tylko kilka groszy, to jeste\u015b w b\u0142\u0119dzie. Istniej\u0105 konkretne egzemplarze, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.tw52sR1Gr8BtTBjw6L7GSi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Pomorza20 godz.",
-            "source": "G\u0142os Pomorza",
-            "article_content": "Content not available"
+            "date": "G\u0142os Pomorza on MSN23 godz.",
+            "source": "G\u0142os Pomorza on MSN",
+            "article_content": ""
         }
     }
 ]
