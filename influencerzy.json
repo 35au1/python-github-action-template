@@ -5,13 +5,29 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Pchli targ w Toruniu w lipcu 2025. Powr\u00f3t z bogat\u0105 ofert\u0105 i wielk\u0105 frekwencj\u0105",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/pchli-targ-w-toruniu-w-lipcu-2025-powr%C3%B3t-z-bogat%C4%85-ofert%C4%85-i-wielk%C4%85-frekwencj%C4%85/ar-AA1I4FW9?ocid=BingNewsVerp",
-            "description": "Inn\u0105 przeszkod\u0105 w organizacji pchlego targu przy Grudzi\u0105dzkiej mo\u017ce by\u0107 pogoda, a raczej niepogoda. Odbywa si\u0119 on przecie\u017c na ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.Gf0gJs999d-SqPb39RK-ki&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Pa\u0142ac herbsta wsyatwa",
+            "link": "https://dzienniklodzki.pl/tag/palac-herbsta-wsyatwa",
+            "description": "W pi\u0105tek o godz. 18 w Pa\u0142acu Herbsta otwarta zostanie Galeria Sztuki Dawnej. Tym samym zako\u0144czy si\u0119 pierwszy etap rewitalizacji zabytkowego pa\u0142acu, oddzia\u0142u... Na pi\u0105tek (21 marca) zapowiedziano wielk ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.uJelon1vmcKYEKRidTlMcA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "Toru\u0144 Nasze Miasto on MSN20 godz.",
-            "source": "Toru\u0144 Nasze Miasto on MSN",
+            "date": "Dziennik \u0141\u00f3dzki17 min",
+            "source": "Dziennik \u0141\u00f3dzki",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Retro w cenie z\u0142ota. Tyle kosztuj\u0105 rzeczy w starym stylu w lipcu 2025 - potrafi\u0105 by\u0107 warte krocie [8.07.2025 r.]",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/retro-w-cenie-z%C5%82ota-tyle-kosztuj%C4%85-rzeczy-w-starym-stylu-w-lipcu-2025-potrafi%C4%85-by%C4%87-warte-krocie-8072025-r/ar-AA1I9W3w?ocid=BingNewsVerp",
+            "description": "W 2025 roku retro cieszy si\u0119 popularno\u015bci\u0105. Przedmioty w takim stylu s\u0105 poszukiwane przez kolekcjoner\u00f3w. Je\u015bli masz takie w ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.b6TYSd7RJd1io37%2fo589rA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN13 godz.",
+            "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
             "article_content": ""
         }
     },
@@ -26,24 +42,8 @@
             "description": "W lipcu ch\u0119tnie si\u0119gamy po \u015bwie\u017ce \"wakacyjne\" owoce. Na targu w Starogardzie Gda\u0144skim sprawdzi\u0142em, ile kosztuj\u0105 m.in.",
             "image_url": "https://www.bing.pl/th?id=OVFT.PBapOol1KEw_r2NDQ8mx9S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Kobieta on MSN5 godz.",
+            "date": "Kobieta on MSN9 godz.",
             "source": "Kobieta on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Retro w cenie z\u0142ota. Tyle kosztuj\u0105 rzeczy w starym stylu w lipcu 2025 - potrafi\u0105 by\u0107 warte krocie [8.07.2025 r.]",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/retro-w-cenie-z%C5%82ota-tyle-kosztuj%C4%85-rzeczy-w-starym-stylu-w-lipcu-2025-potrafi%C4%85-by%C4%87-warte-krocie-8072025-r/ar-AA1I9W3w?ocid=BingNewsVerp",
-            "description": "W 2025 roku retro cieszy si\u0119 popularno\u015bci\u0105. Przedmioty w takim stylu s\u0105 poszukiwane przez kolekcjoner\u00f3w. Je\u015bli masz takie w ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.b6TYSd7RJd1io37%2fo589rA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN10 godz.",
-            "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
             "article_content": ""
         }
     },
@@ -58,7 +58,7 @@
             "description": "Niemcy maj\u0105 planowa\u0107 przywr\u00f3cenie pot\u0119gi Bundeswehry z czas\u00f3w zimnej wojny. W gr\u0119 wchodzi zakup kilku tysi\u0119cy pojazd\u00f3w, w tym ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.7QDb4zEdXxW3k8-02H3LIi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "WP Tech13 godz.",
+            "date": "WP Tech16 godz.",
             "source": "WP Tech",
             "article_content": "Jak podaje Bloomberg, Niemcy rozwa\u017caj\u0105 zakup do 2500 opancerzonych pojazd\u00f3w i nawet 1000 czo\u0142g\u00f3w w ramach wsp\u00f3lnego europejskiego wysi\u0142ku na rzecz utworzenia nowych brygad NATO w celu odstraszania Rosji, wed\u0142ug os\u00f3b zaznajomionych ze spraw\u0105.\n\nOznacza\u0142oby to powstanie siedmiu brygad w ci\u0105gu najbli\u017cszej dekady. Rozwa\u017cane przez ministra obrony Borisa Pistoriusa i najwy\u017cszych genera\u0142\u00f3w Bundeswehry wzmocnienie si\u0142 oznacza\u0142oby konieczno\u015b\u0107 zam\u00f3wienia nawet 1000 czo\u0142g\u00f3w Leopard 2 i do 2500 opancerzonych pojazd\u00f3w GTK Boxer.\n\nDalsza cz\u0119\u015b\u0107 artyku\u0142u pod materia\u0142em wideo\n\nStanowi\u0142oby to ogromny wydatek dla bud\u017cetu si\u0119gaj\u0105cy nawet 25 mld euro, ale wi\u0119kszo\u015b\u0107 tej kwoty i tak zosta\u0142aby wpompowana w lokalne przedsi\u0119biorstwa Rheinmetall i KNDS.\n\nPozwoli\u0142oby to jednak przywr\u00f3ci\u0107 status Bundeswehry prawie do tego z ko\u0144ca zimnej wojny, kiedy to na stanie Niemcy mia\u0142y oko\u0142o 2000 czo\u0142g\u00f3w Leopard 2. By\u0142oby to znacz\u0105ce wzmocnienie dla tak\u017ce buduj\u0105cej liczne si\u0142y pancerne Polski b\u0119d\u0105cej tarcz\u0105 wschodniej cz\u0119\u015bci NATO w razie konfliktu z Rosj\u0105.\n\nWarto jednak zaznaczy\u0107, \u017ce negocjacje wci\u0105\u017c trwaj\u0105, wi\u0119c liczba zam\u00f3wionego sprz\u0119tu mo\u017ce by\u0107 ni\u017csza. Ponadto r\u00f3wnocze\u015bnie Niemcy chc\u0105 zwi\u0119kszy\u0107 liczebno\u015b\u0107 Bundeswehry o dodatkowe 60 tys. \u017co\u0142nierzy, co stanowi 1/3 obecnej liczebno\u015bci.\n\nCzo\u0142gi Leopard 2 - pancerna pi\u0119\u015b\u0107 Europy\n\nZam\u00f3wione czo\u0142gi to b\u0119d\u0105 najpewniej produkowane od zera wersje Leopard 2A8, b\u0119d\u0105ce szczytowym osi\u0105gni\u0119ciem europejskiego przemys\u0142u zbrojeniowego. Obecnie ju\u017c na rynku nie ma skorup starszych maszyn, kt\u00f3re mo\u017cna by\u0142oby podda\u0107 przebudowie. Czo\u0142g Leopard 2A8 wyr\u00f3\u017cnia si\u0119 przede wszystkim integracj\u0105 z izraelskim systemem obrony aktywnej Trophy.\n\nSystem ten, stosowany r\u00f3wnie\u017c w ameryka\u0144skich czo\u0142gach M1A2 SEP V2/3 Abrams, umo\u017cliwia neutralizacj\u0119 z dala od pancerza nadlatuj\u0105cych pocisk\u00f3w przeciwpancernych lub dron\u00f3w z g\u0142owicami kumulacyjnymi.\n\nSystem Trophy opracowany przez Rafael Advanced Defense Systems, wykorzystuje radary umieszczone na wie\u017cy czo\u0142gu do wykrywania zagro\u017ce\u0144. Dostarczaj\u0105 one kluczowe dane, takie jak pr\u0119dko\u015b\u0107 i odleg\u0142o\u015b\u0107 od czo\u0142gu nadlatuj\u0105cych obiekt\u00f3w, co pozwala komputerowi na wyb\u00f3r odpowiedniej wyrzutni kontrpocisk\u00f3w. Te zawieraj\u0105 pociski z g\u0142owic\u0105 formowan\u0105 wybuchowo tworz\u0105c\u0105 kinetyczny penetrator niszcz\u0105cy nadlatuj\u0105cy obiekt.\n\nIntegracja z systemem Trophy jest kluczowa, poniewa\u017c czo\u0142gi s\u0105 najlepiej opancerzone z przodu, podczas gdy ich boki, ty\u0142 i g\u00f3ra s\u0105 znacznie gorzej chronione. W\u0142a\u015bnie w te regiony chc\u0105 trafi\u0107 przeciwnicy, jak pokazuj\u0105 liczne nagrania z Ukrainy czy Strefy Gazy. Taka taktyka jest skuteczna wobec klasycznych czo\u0142g\u00f3w, ale nie przeciw czo\u0142gom z Trophy.\n\nDodatkowo czo\u0142g Leopard 2A8 zosta\u0142 wyposa\u017cony w now\u0105 optoelektronik\u0119, nowoczesne systemy \u0142\u0105czno\u015bci oraz wzmocniony strop wie\u017cy i burty kad\u0142uba, co zwi\u0119ksza ochron\u0119 przed amunicj\u0105 kasetow\u0105."
         }
@@ -74,7 +74,7 @@
             "description": "Czas w dobrym towarzystwie wydaje si\u0119 p\u0142yn\u0105\u0107 szybciej, a w dla oczekuj\u0105cych w kolejce moment ci\u0105gnie si\u0119 w niesko\u0144czono\u015b\u0107.",
             "image_url": "https://www.bing.pl/th?id=OVF.LJEtDKOEbzbu3oAIMj5y4Q&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Wa\u0142brzych Nasze Miasto10 godz.",
+            "date": "Wa\u0142brzych Nasze Miasto14 godz.",
             "source": "Wa\u0142brzych Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -90,8 +90,24 @@
             "description": "Je\u015bli my\u015blisz, \u017ce wszystkie monety z PRL s\u0105 warte tylko kilka groszy, to jeste\u015b w b\u0142\u0119dzie. Istniej\u0105 konkretne egzemplarze, ...",
             "image_url": "https://www.bing.pl/th?id=OVF.LnMrotZiC80b9edEbgcmbQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Pomorza on MSN10 godz.",
+            "date": "G\u0142os Pomorza on MSN14 godz.",
             "source": "G\u0142os Pomorza on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Szukali drogi, znale\u017ali skarb. Tyle jest wart",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/szukali-drogi-znale%C5%BAli-skarb-tyle-jest-wart/ar-AA1Id49c?ocid=BingNewsVerp",
+            "description": "Polskie Stowarzyszenie Poszukiwaczy \u201eHusaria' dokona\u0142o fascynuj\u0105cego odkrycia na terenie powiatu wo\u0142omi\u0144skiego. \u201eJak one si\u0119 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.pOpx_mm4FtWylHEvCooYIC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "WPROST.pl on MSN2 godz.",
+            "source": "WPROST.pl on MSN",
             "article_content": ""
         }
     },
@@ -106,7 +122,7 @@
             "description": "Skarb w Polsce odkryty \u2013 niezwyk\u0142e znalezisko na terenie Mazowsza. Gdy inni szukaj\u0105 Z\u0142otego Poci\u0105gu, cz\u0142onkowie Polskiego ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.UsNpdLkbniHUImrtiOuKxS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Planeta on MSN1 godz.",
+            "date": "Planeta on MSN5 godz.",
             "source": "Planeta on MSN",
             "article_content": ""
         }
@@ -122,7 +138,7 @@
             "description": "Po kilkuset latach le\u017cenia pod wod\u0105, w ko\u0144cu doczeka\u0142y si\u0119 wydobycia. Fragmenty latarni morskiej z Faros \u2013 jednego z siedmiu ...",
             "image_url": "https://www.bing.pl/th?id=OVF.MwUtacD3nWDKu5h8%2bPCWyg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "RMF242 godz.",
+            "date": "RMF246 godz.",
             "source": "RMF24",
             "article_content": "Po kilkuset latach le\u017cenia pod wod\u0105, w ko\u0144cu doczeka\u0142y si\u0119 wydobycia. Fragmenty latarni morskiej z Faros \u2013 jednego z siedmiu cud\u00f3w \u015bwiata antycznego, wy\u0142owiono niedawno u wybrze\u017cy Egiptu. Budowla wci\u0105\u017c pobudza wyobra\u017ani\u0119 badaczy, kt\u00f3rzy chc\u0105 dokona\u0107 jej cyfrowej rekonstrukcji.\n\nO pracach z antycznym zabytkiem - w ramach projektu \"PHAROS\" - pisze m.in. portal Archeology News.\n\nZa operacj\u0105 stoi francuskie Narodowe Centrum Bada\u0144 Naukowych oraz egipskie Centrum Studi\u00f3w Aleksandryjskich pod nadzorem tamtejszego Ministerstwa Turystyki i Staro\u017cytno\u015bci.\n\nCelem jest wirtualna rekonstrukcja latarni.\n\nW trakcie najnowszych dzia\u0142a\u0144 naukowcy wydobyli z wody masywne nadpro\u017ca i s\u0142upy, kt\u00f3re niegdy\u015b sk\u0142ada\u0142y si\u0119 na wej\u015bcie do latarni. Opr\u00f3cz tego wy\u0142owiono kamienie progowe, p\u0142yty fundamentowe i fragmenty wcze\u015bniej niezinwentaryzowanego pylonu. Jego drzwi maj\u0105 by\u0107 intryguj\u0105cym przyk\u0142adem \u0142\u0105cznia egipskich element\u00f3w stylistycznych z greckimi technikami budowlanymi (latarni\u0119 zbudowali Ptolemeusze i Grecy).\n\nKa\u017cdy z blok\u00f3w - wa\u017c\u0105cych nawet 80 ton - zostanie zeskanowany, przeanalizowany i wirtualnie dopasowany do reszty tak, aby stworzy\u0107 cyfrowy model budowli.\n\nBadacze, podejmuj\u0105c \u00f3w trud, chc\u0105 m.in. zrozumie\u0107, dlaczego latarnia run\u0119\u0142a.\n\nSzczeg\u00f3\u0142owe badania trwaj\u0105 ju\u017c 30 lat\n\nLatarnia morska z Faros, zwana r\u00f3wnie\u017c Aleksandryjsk\u0105, powsta\u0142a na pocz\u0105tku III w. p.n.e. Mia\u0142a ponad 100 metr\u00f3w wysoko\u015bci. Jak pisze Archeology News, trz\u0119sienie ziemi z 1303 r. finalnie uniemo\u017cliwi\u0142o jej u\u017cytkowanie. Su\u0142tan Al-Aszraf Sajf ad-Din Kajtbaj podda\u0142 fragmenty budowli recyklingowi, buduj\u0105c na miejscu latarni fortec\u0119, kt\u00f3ra stoi tam do dzi\u015b.\n\nRysunkowe wyobra\u017cenie latarni z Faros stworzone na podstawie zachowanych opis\u00f3w / Science Photo Library / East News\n\nSystematyczne prace archeologiczne nad antycznym zabytkiem zacz\u0119\u0142y si\u0119 w 1994 r. za spraw\u0105 francuskiego archeologia Jeana-Yvesa Empereura. Jego zesp\u00f3\u0142 udokumentowa\u0142 ponad 3300 obiekt\u00f3w (sfinks\u00f3w, obelisk\u00f3w, kolumn, blok\u00f3w granitowych), spo\u015br\u00f3d kt\u00f3rych 100 zosta\u0142o zeskanowanych cyfrowo na dnie morza w ci\u0105gu ostatniej dekady.\n\nAby uzupe\u0142ni\u0107 luki w cyfrowej rekonstrukcji latarni, eksperci zbieraj\u0105 jej opisy i przedstawienia wizualne, od staro\u017cytno\u015bci po \u015bredniowiecze. Pomocne mog\u0105 by\u0107 m.in. stare monety."
         }
@@ -133,28 +149,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Rzeczy z PRL-u dzi\u015b warte fortun\u0119! Kolekcjonerzy wydaj\u0105 na nie gigantyczne pieni\u0105dze. Sprawd\u017a co mo\u017cna sprzeda\u0107 08.07.2025",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/rzeczy-z-prl-u-dzi%C5%9B-warte-fortun%C4%99-kolekcjonerzy-wydaj%C4%85-na-nie-gigantyczne-pieni%C4%85dze-sprawd%C5%BA-co-mo%C5%BCna-sprzeda%C4%87-08072025/ar-AA1HEY50?ocid=BingNewsVerp",
-            "description": "Trwa prawdziwy sza\u0142 na meble i przedmioty z czas\u00f3w PRL-u. Poszukuj\u0105 ich w\u0142a\u015bciciele muze\u00f3w, a tak\u017ce prywatni kolekcjonerzy.",
-            "image_url": "https://www.bing.pl/th?id=OVFT.U2ZqQWmmCYuk2m1i7UQCVy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "G\u0142os Szczeci\u0144ski on MSN11 godz.",
-            "source": "G\u0142os Szczeci\u0144ski on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Kasety magnetofonowe wracaj\u0105 do \u0142ask. Takie kolekcjonerskie egzemplarze warte s\u0105 kilkaset z\u0142otych [8.07.2025]",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/kasety-magnetofonowe-wracaj%C4%85-do-%C5%82ask-takie-kolekcjonerskie-egzemplarze-warte-s%C4%85-kilkaset-z%C5%82otych-8072025/ar-AA1HRNjF?ocid=BingNewsVerp",
+            "title": "Kasety magnetofonowe wracaj\u0105 do \u0142ask. Takie kolekcjonerskie egzemplarze warte s\u0105 kilkaset z\u0142otych [9.07.2025]",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/kasety-magnetofonowe-wracaj%C4%85-do-%C5%82ask-takie-kolekcjonerskie-egzemplarze-warte-s%C4%85-kilkaset-z%C5%82otych-4072025/ar-AA1HRNjF?ocid=BingNewsVerp",
             "description": "W 2025 roku kasety magnetofonowe z czas\u00f3w PRL ciesz\u0105 si\u0119 popularno\u015bci\u0105 i s\u0105 poszukiwane przez kolekcjoner\u00f3w i meloman\u00f3w ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.fJa-AKs1di2HgBey9H5YPC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "image_url": "https://www.bing.pl/th?id=OVFT.5MR1cLjyQEdKOug6Hd5A8i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN4 godz.",
+            "date": "Gazeta Pomorska on MSN3 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -165,12 +165,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Retro w cenie z\u0142ota. Tyle kosztuj\u0105 rzeczy w starym stylu w lipcu 2025 - potrafi\u0105 by\u0107 warte krocie [8.07.2025]",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/retro-w-cenie-z%C5%82ota-tyle-kosztuj%C4%85-rzeczy-w-starym-stylu-w-lipcu-2025-potrafi%C4%85-by%C4%87-warte-krocie-8072025/ar-AA1I9W3w?ocid=BingNewsVerp",
+            "title": "Retro w cenie z\u0142ota. Tyle kosztuj\u0105 rzeczy w starym stylu w lipcu 2025 - potrafi\u0105 by\u0107 warte krocie [8.07.2025 r.]",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/retro-w-cenie-z%C5%82ota-tyle-kosztuj%C4%85-rzeczy-w-starym-stylu-w-lipcu-2025-potrafi%C4%85-by%C4%87-warte-krocie-8072025-r/ar-AA1I9W3w?ocid=BingNewsVerp",
             "description": "W 2025 roku retro cieszy si\u0119 popularno\u015bci\u0105. Przedmioty w takim stylu s\u0105 poszukiwane przez kolekcjoner\u00f3w. Je\u015bli masz takie w ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.OVNR%2fOFd7lgqci9vGyB%2bNQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "image_url": "https://www.bing.pl/th?id=OVF.b6TYSd7RJd1io37%2fo589rA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN12 godz.",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN13 godz.",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
             "article_content": ""
         }
@@ -186,7 +186,7 @@
             "description": "Czas w dobrym towarzystwie wydaje si\u0119 p\u0142yn\u0105\u0107 szybciej, a w dla oczekuj\u0105cych w kolejce moment ci\u0105gnie si\u0119 w niesko\u0144czono\u015b\u0107.",
             "image_url": "https://www.bing.pl/th?id=OVF.LJEtDKOEbzbu3oAIMj5y4Q&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Wa\u0142brzych Nasze Miasto10 godz.",
+            "date": "Wa\u0142brzych Nasze Miasto14 godz.",
             "source": "Wa\u0142brzych Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -202,7 +202,7 @@
             "description": "Tu na pocz\u0105tku XX w. istnia\u0142y domki otoczone klimatycznym ogrodem za\u0142o\u017conym przez i dla ksi\u0119\u017cnej Daisy. Ostatnia pani na ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.soulqsSNaN_Z_9m9eg54Ly&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Wroc\u0142awska on MSN10 godz.",
+            "date": "Gazeta Wroc\u0142awska on MSN14 godz.",
             "source": "Gazeta Wroc\u0142awska on MSN",
             "article_content": ""
         }
@@ -218,24 +218,8 @@
             "description": "Kto zboczy ze szlaku wiod\u0105cego do Dzikowca i jego nowej wie\u017cy widokowej, mo\u017ce natrafi\u0107 na pozosta\u0142o\u015bci ruin grobowca. Tu by\u0142 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.68sxPSxRjX-OEzHPdm8ZWy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Wa\u0142brzych Nasze Miasto on MSN10 godz.",
+            "date": "Wa\u0142brzych Nasze Miasto on MSN14 godz.",
             "source": "Wa\u0142brzych Nasze Miasto on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Pchli targ w Toruniu w lipcu 2025. Powr\u00f3t z bogat\u0105 ofert\u0105 i wielk\u0105 frekwencj\u0105",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/pchli-targ-w-toruniu-w-lipcu-2025-powr%C3%B3t-z-bogat%C4%85-ofert%C4%85-i-wielk%C4%85-frekwencj%C4%85/ar-AA1I4FW9?ocid=BingNewsVerp",
-            "description": "Inn\u0105 przeszkod\u0105 w organizacji pchlego targu przy Grudzi\u0105dzkiej mo\u017ce by\u0107 pogoda, a raczej niepogoda. Odbywa si\u0119 on przecie\u017c na ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.Gf0gJs999d-SqPb39RK-ki&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "targ+staroci",
-            "date": "Toru\u0144 Nasze Miasto on MSN20 godz.",
-            "source": "Toru\u0144 Nasze Miasto on MSN",
             "article_content": ""
         }
     },
@@ -250,7 +234,7 @@
             "description": "Na pocz\u0105tku lipca stoiska wr\u0119cz uginaj\u0105 si\u0119 pod ci\u0119\u017carem towar\u00f3w, a liczba odwiedzaj\u0105cych sprawia, \u017ce znalezienie wolnego ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.xrv8iHDw71Oj_Ni5I2XaTy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Bia\u0142ystok Nasze Miasto9 godz.",
+            "date": "Bia\u0142ystok Nasze Miasto12 godz.",
             "source": "Bia\u0142ystok Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -261,14 +245,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Oto najwi\u0119ksze targowiska w wojew\u00f3dztwie \u015bl\u0105skim. Tu kupisz wszystko - warzywa, ubrania, a nawet meble i... auta. Dobrze zna\u0107 t\u0119 list\u0119",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/oto-najwi%C4%99ksze-targowiska-w-wojew%C3%B3dztwie-%C5%9Bl%C4%85skim-tu-kupisz-wszystko-warzywa-ubrania-a-nawet-meble-i-auta-dobrze-zna%C4%87-t%C4%99-list%C4%99/ar-AA1I0Yqw?ocid=BingNewsVerp",
-            "description": "W dobie zakup\u00f3w online, ogromnych galerii handlowych i samoobs\u0142ugowych kas, jest jeszcze miejsce, gdzie handel ma zupe\u0142nie ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.5OkwUxCbrrvBGkMHOQIl8w&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Pa\u0142ac herbsta wsyatwa",
+            "link": "https://dzienniklodzki.pl/tag/palac-herbsta-wsyatwa",
+            "description": "W pi\u0105tek o godz. 18 w Pa\u0142acu Herbsta otwarta zostanie Galeria Sztuki Dawnej. Tym samym zako\u0144czy si\u0119 pierwszy etap rewitalizacji zabytkowego pa\u0142acu, oddzia\u0142u... Na pi\u0105tek (21 marca) zapowiedziano wielk ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.uJelon1vmcKYEKRidTlMcA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Dziennik Zachodni on MSN11 godz.",
-            "source": "Dziennik Zachodni on MSN",
-            "article_content": ""
+            "date": "Dziennik \u0141\u00f3dzki17 min",
+            "source": "Dziennik \u0141\u00f3dzki",
+            "article_content": "Content not available"
         }
     },
     {
@@ -282,7 +266,7 @@
             "description": "Dzisiaj dopisa\u0142a pogoda, przyby\u0142o zatem grubo ponad stu sprzedawc\u00f3w i mn\u00f3stwo kupuj\u0105cych. Oferowane towary trudno wr\u0119cz ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.G0j9kFtZ0c-ac17eLmTuMi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Kurier Lubelski on MSN9 godz.",
+            "date": "Kurier Lubelski on MSN13 godz.",
             "source": "Kurier Lubelski on MSN",
             "article_content": ""
         }
@@ -293,14 +277,46 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Wakacje z \u017carskim muzeum",
-            "link": "https://zachod.pl/1281806/wakacje-z-zarskim-muzeum-3/",
-            "description": "Muzeum Pogranicza \u015al\u0105sko-\u0141u\u017cyckiego zaprasza najm\u0142odszych \u017caran do udzia\u0142u w wakacyjnych spotkaniach. Plac\u00f3wka przygotowa\u0142a szereg ciekawych propozycji. Najbli\u017csze zaj\u0119cia ju\u017c jutro.",
-            "image_url": "https://www.bing.pl/th?id=ODF.YOku2jV4G43w2F6davb6nw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Oto najwi\u0119ksze targowiska w wojew\u00f3dztwie \u015bl\u0105skim. Tu kupisz wszystko - warzywa, ubrania, a nawet meble i... auta. Dobrze zna\u0107 t\u0119 list\u0119",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/oto-najwi%C4%99ksze-targowiska-w-wojew%C3%B3dztwie-%C5%9Bl%C4%85skim-tu-kupisz-wszystko-warzywa-ubrania-a-nawet-meble-i-auta-dobrze-zna%C4%87-t%C4%99-list%C4%99/ar-AA1I0Yqw?ocid=BingNewsVerp",
+            "description": "W dobie zakup\u00f3w online, ogromnych galerii handlowych i samoobs\u0142ugowych kas, jest jeszcze miejsce, gdzie handel ma zupe\u0142nie ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.5OkwUxCbrrvBGkMHOQIl8w&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Radio Zach\u00f3d7 godz.",
-            "source": "Radio Zach\u00f3d",
-            "article_content": "Content not available"
+            "date": "Dziennik Zachodni on MSN14 godz.",
+            "source": "Dziennik Zachodni on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Za \u0142ubiank\u0119 truskawek na targu zap\u0142aci\u0142em prawie 40 z\u0142. To us\u0142ysza\u0142em od sprzedawcy",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/za-%C5%82ubiank%C4%99-truskawek-na-targu-zap%C5%82aci%C5%82em-prawie-40-z%C5%82-to-us%C5%82ysza%C5%82em-od-sprzedawcy/ar-AA1IbvD4?ocid=BingNewsVerp",
+            "description": "W lipcu ch\u0119tnie si\u0119gamy po \u015bwie\u017ce \"wakacyjne\" owoce. Na targu w Starogardzie Gda\u0144skim sprawdzi\u0142em, ile kosztuj\u0105 m.in.",
+            "image_url": "https://www.bing.pl/th?id=OVFT.PBapOol1KEw_r2NDQ8mx9S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "Kobieta on MSN9 godz.",
+            "source": "Kobieta on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Odkopana p\u0142yta nagrobna \"rycerzyka\" z XIII wieku przejdzie konserwacj\u0119. Jakie jeszcze tajemnice kryje Sukiennicza w Gda\u0144sku?",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/odkopana-p%C5%82yta-nagrobna-rycerzyka-z-xiii-wieku-przejdzie-konserwacj%C4%99-jakie-jeszcze-tajemnice-kryje-sukiennicza-w-gda%C5%84sku/ar-AA1IdbQp?ocid=BingNewsVerp",
+            "description": "Jak informuje gdansk.pl, p\u0142askorze\u017aba pochodzi z pocz\u0105tk\u00f3w XIII wieku, ma 150 centymetr\u00f3w d\u0142ugo\u015bci. Przedstawia posta\u0107 ...",
+            "image_url": "https://www.bing.pl/th?id=OVF.nR7Ij%2f62usyBQs7XMkKrPw&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "Dziennik Ba\u0142tycki on MSN1 godz.",
+            "source": "Dziennik Ba\u0142tycki on MSN",
+            "article_content": ""
         }
     },
     {
@@ -314,7 +330,7 @@
             "description": "Na terenie nowego dworca \u0141\u00f3d\u017a Kaliska trwaj\u0105 ostatnie prace wyko\u0144czeniowe. Pasa\u017cerowie mog\u0105 ju\u017c korzysta\u0107 z hallu g\u0142\u00f3wnego, w ...",
             "image_url": "https://www.bing.pl/th?id=OVF.argU1pKrIfLO7C9Mg3%2fUYg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Express Ilustrowany on MSN2 godz.",
+            "date": "Express Ilustrowany on MSN6 godz.",
             "source": "Express Ilustrowany on MSN",
             "article_content": ""
         }
@@ -330,7 +346,7 @@
             "description": "Zanim wyruszysz w tras\u0119, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 12 lipca w Pleszewie ma by\u0107 18\u00b0C. Prawdopodobie\u0144stwo wyst\u0105pienia ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.qMpWWNl31aA8jUwGuUyVLi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Pleszew Nasze Miasto3 godz.",
+            "date": "Pleszew Nasze Miasto6 godz.",
             "source": "Pleszew Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -346,7 +362,7 @@
             "description": "Nim wyruszysz w drog\u0119, sprawd\u017a, jaka b\u0119dzie pogoda. W sobot\u0119 12 lipca w O\u015bwi\u0119cimiu ma by\u0107 19\u00b0C. Prawdopodobie\u0144stwo ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.yiocI2oDfGURnJsW7lAkti&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "O\u015bwi\u0119cim Nasze Miasto3 godz.",
+            "date": "O\u015bwi\u0119cim Nasze Miasto7 godz.",
             "source": "O\u015bwi\u0119cim Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -362,7 +378,7 @@
             "description": "Zanim wyruszysz na wypraw\u0119, sprawd\u017a, jaka b\u0119dzie pogoda. W sobot\u0119 12 lipca w Jaworznie ma by\u0107 18\u00b0C. Prawdopodobie\u0144stwo ...",
             "image_url": "https://www.bing.pl/th?id=OVF.g8mLGsLqYXuDTZlIIf4%2fqg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Jaworzno Nasze Miasto3 godz.",
+            "date": "Jaworzno Nasze Miasto7 godz.",
             "source": "Jaworzno Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -373,28 +389,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "\u015acie\u017cki rowerowe do 66 km od Zdu\u0144skiej Woli. Pomys\u0142y na jednodniow\u0105 wypraw\u0119. Gdzie w weekend 12 - 13 lipca?",
-            "link": "https://zdunskawola.naszemiasto.pl/sciezki-rowerowe-do-66-km-od-zdunskiej-woli-pomysly-na-jednodniowa-wyprawe-gdzie-w-weekend-12-13-lipca/ar/c7p1-21831605",
-            "description": "W sobot\u0119 9 maja, odby\u0142 si\u0119 XI Suchedniowski Rajd Rowerowy zorganizowany przez Suchedniowskie Stowarzyszenie Cyklist\u00f3w. W tym ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.nSntXQXANQi7mOdJ4UXD9y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "Zdu\u0144ska Wola Nasze Miasto3 godz.",
-            "source": "Zdu\u0144ska Wola Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
             "title": "Wichura zrywa\u0142a dachy i \u0142ama\u0142a drzewa. Najtrudniejsza sytuacja jest w powiecie \u0142a\u0144cuckim",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/wichura-zrywa%C5%82a-dachy-i-%C5%82ama%C5%82a-drzewa-najtrudniejsza-sytuacja-jest-w-powiecie-%C5%82a%C5%84cuckim/ar-AA1IcaiG?ocid=BingNewsVerp",
+            "link": "https://www.msn.com/pl-pl/infrastruktura-miejska/s%C5%82u%C5%BCby-ratunkowe-i-infrastruktura/wichura-zrywa%C5%82a-dachy-i-%C5%82ama%C5%82a-drzewa-najtrudniejsza-sytuacja-jest-w-powiecie-%C5%82a%C5%84cuckim/ar-AA1IcaiG?ocid=BingNewsVerp",
             "description": "G\u0142uch\u00f3w ucierpia\u0142 najmocniej - nawa\u0142nica sia\u0142a tam prawdziwe spustoszenie. Szalej\u0105cy wiatr zrywa\u0142 dachy, \u0142ama\u0142 drzewa, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.m8mNCJhIGQQVh_85HRvqKi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Nowiny 24 on MSN2 godz.",
+            "date": "Nowiny 24 on MSN6 godz.",
             "source": "Nowiny 24 on MSN",
             "article_content": ""
         }
@@ -410,9 +410,25 @@
             "description": "Rada Miasta Opola na wniosek prezydenta da\u0142a zgod\u0119 na szukanie przedsi\u0119biorcy, kt\u00f3ry chcia\u0142by wydzier\u017cawi\u0107 budynek dawnej ...",
             "image_url": "https://www.bing.pl/th?id=OVF.noTwn2wXFQ%2bYdHBUXVH21A&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Opole Nasze Miasto on MSN4 godz.",
+            "date": "Opole Nasze Miasto on MSN8 godz.",
             "source": "Opole Nasze Miasto on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pa\u0142ac herbsta wsyatwa",
+            "link": "https://dzienniklodzki.pl/tag/palac-herbsta-wsyatwa",
+            "description": "W pi\u0105tek o godz. 18 w Pa\u0142acu Herbsta otwarta zostanie Galeria Sztuki Dawnej. Tym samym zako\u0144czy si\u0119 pierwszy etap rewitalizacji zabytkowego pa\u0142acu, oddzia\u0142u... Na pi\u0105tek (21 marca) zapowiedziano wielk ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.uJelon1vmcKYEKRidTlMcA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "zabytkowe+przedmioty",
+            "date": "Dziennik \u0141\u00f3dzki17 min",
+            "source": "Dziennik \u0141\u00f3dzki",
+            "article_content": "Content not available"
         }
     },
     {
@@ -426,7 +442,7 @@
             "description": "Drogerie sieci Rossmann to nie tylko ulubione miejsce zakup\u00f3w wielu klient\u00f3w, ale i z\u0142odziejskich \u0142ow\u00f3w. Za spraw\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.bL9XIP0L5vpXdBPmyOEmCC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN11 godz.",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN15 godz.",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
             "article_content": ""
         }
@@ -437,30 +453,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Sezon k\u0105pieliskowy w Wielkopolsce trwa w najlepsze. Gdzie warto si\u0119 wybra\u0107? Kt\u00f3re k\u0105pieliska s\u0105 otwarte? Sprawd\u017a list\u0119 k\u0105pielisk w regionie!",
-            "link": "https://www.msn.com/pl-pl/podroze/aktywno%C5%9B%C4%87-na-%C5%9Bwie%C5%BCym-powietrzu/sezon-k%C4%85pieliskowy-w-wielkopolsce-twa-w-najlepsze-gdzie-warto-si%C4%99-wybra%C4%87-kt%C3%B3re-k%C4%85pieliska-s%C4%85-otwarte-sprawd%C5%BA-list%C4%99-k%C4%85pielisk-w-regionie/ar-AA1Ic1Pi?ocid=BingNewsVerp",
-            "description": "Otwieraj\u0105c k\u0105pielisko, cz\u0119sto uruchamiane s\u0105 r\u00f3wnie\u017c wypo\u017cyczalnie sprz\u0119tu wodnego, takiego jak kajaki czy rowerki wodne, a ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.jYupWYVt4%2bBJ%2broZ9%2f9TVA&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Czy kultowa Stacja Turystyczna Orle zmieni gospodarza? Jest przetarg na jej dzier\u017caw\u0119. Przez lata gospodarzem by\u0142 tu Stanis\u0142aw Kornafel",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/czy-kultowa-stacja-turystyczna-orle-zmieni-gospodarza-jest-przetarg-na-jej-dzier%C5%BCaw%C4%99-przez-lata-gospodarzem-by%C5%82-tu-stanis%C5%82aw-kornafel/ar-AA1IcAm6?ocid=BingNewsVerp",
+            "description": "Stanis\u0142aw Kornafel zacz\u0105\u0142 gospodarowa\u0107 w Stacji Orle w 199 roku. Przejmowa\u0142 zrujnowane budynki. Przez lata je remontowa\u0142 i ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.e5Yo3qRLX3Hfc9YVDrEDPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Nasze Miasto on MSN2 godz.",
-            "source": "Nasze Miasto on MSN",
+            "date": "Jelenia G\u00f3ra Nasze Miasto on MSN5 godz.",
+            "source": "Jelenia G\u00f3ra Nasze Miasto on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "To koniec kultowego schroniska? Po 32 latach, ma si\u0119 pojawi\u0107 nowy dzier\u017cawca i gospodarz",
-            "link": "https://gazetawroclawska.pl/czy-kultowa-stacja-turystyczna-orle-zmieni-gospodarza-jest-przetarg-na-jej-dzierzawe-przez-lata-gospodarzem-byl-tu-stanislaw-kornafel/ar/c1p2-27759377",
-            "description": "P\u00f3\u017aniej w budynku administracyjnym huty funkcjonowa\u0142a le\u015bnicz\u00f3wka, a w latach 30. XX wieku Niemcy ustanowili tu posterunek Grenzschutzu \u2013 s\u0142u\u017cb granicznych. Po II wojnie \u015bwiatowej funkcjonowa\u0142a tutaj ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.p9YO103MXreScWBGsL62IA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Wroc\u0142awska1 godz.",
-            "source": "Gazeta Wroc\u0142awska",
-            "article_content": "Content not available"
         }
     },
     {
@@ -474,24 +474,8 @@
             "description": "Je\u015bli my\u015blisz, \u017ce wszystkie monety z PRL s\u0105 warte tylko kilka groszy, to jeste\u015b w b\u0142\u0119dzie. Istniej\u0105 konkretne egzemplarze, ...",
             "image_url": "https://www.bing.pl/th?id=OVF.LnMrotZiC80b9edEbgcmbQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Pomorza on MSN10 godz.",
+            "date": "G\u0142os Pomorza on MSN14 godz.",
             "source": "G\u0142os Pomorza on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Banknoty PRL-u warte maj\u0105tek? Zobacz ceny na aukcjach i aktualne oferty!",
-            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/banknoty-prl-u-warte-maj%C4%85tek-zobacz-ceny-na-aukcjach-i-aktualne-oferty/ar-AA1HpfvD?ocid=BingNewsVerp",
-            "description": "\u015arodki p\u0142atnicze z czas\u00f3w PRL-u przyci\u0105gaj\u0105 kolekcjoner\u00f3w \u2013 dotyczy to zar\u00f3wno monet, jak i banknot\u00f3w. W artykule wyja\u015bniamy, ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.lvJ2E4RkC%2fzN8UOg%2b4tOdg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+numizmatyka",
-            "date": "Toru\u0144 Nasze Miasto on MSN23 godz.",
-            "source": "Toru\u0144 Nasze Miasto on MSN",
             "article_content": ""
         }
     },
@@ -506,7 +490,7 @@
             "description": "Skarb w Polsce odkryty \u2013 niezwyk\u0142e znalezisko na terenie Mazowsza. Gdy inni szukaj\u0105 Z\u0142otego Poci\u0105gu, cz\u0142onkowie Polskiego ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.UsNpdLkbniHUImrtiOuKxS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Planeta on MSN1 godz.",
+            "date": "Planeta on MSN5 godz.",
             "source": "Planeta on MSN",
             "article_content": ""
         }
@@ -517,13 +501,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Szukali drogi , znale\u017ali skarb. Niezwyk\u0142e odkrycie w lesie",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/szukali-drogi-znale%C5%BAli-skarb-niezwyk%C5%82e-odkrycie-w-lesie/ar-AA1Ic83P?ocid=BingNewsVerp",
-            "description": "Poszukiwacze z Polskiego Stowarzyszenia Poszukiwaczy \"Husaria\", szukaj\u0105c w lesie \u015blad\u00f3w \u015bredniowiecznej drogi, odkryli ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.BC%2fDEOIEUKfvF5dRYgpk7g&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Szukali drogi, znale\u017ali skarb. Tyle jest wart",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/szukali-drogi-znale%C5%BAli-skarb-tyle-jest-wart/ar-AA1Id49c?ocid=BingNewsVerp",
+            "description": "Polskie Stowarzyszenie Poszukiwaczy \u201eHusaria' dokona\u0142o fascynuj\u0105cego odkrycia na terenie powiatu wo\u0142omi\u0144skiego. \u201eJak one si\u0119 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.pOpx_mm4FtWylHEvCooYIC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Wydarzenia w INTERIA.PL on MSN3 godz.",
-            "source": "Wydarzenia w INTERIA.PL on MSN",
+            "date": "WPROST.pl on MSN2 godz.",
+            "source": "WPROST.pl on MSN",
             "article_content": ""
         }
     }
