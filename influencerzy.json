@@ -10,9 +10,41 @@
             "description": "Najnowsze wiadomo\u015bci, aktualno\u015bci z Warszawy. Wiadomo\u015bci lokalne, wydarzenia, dzielnice Warszawy, informacje dla mieszka\u0144c\u00f3w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.GyhFeCOwwVP7_F_fmSGChC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "metrowarszawa - gazeta.pl16 godz.",
+            "date": "metrowarszawa - gazeta.pl20 godz.",
             "source": "metrowarszawa - gazeta.pl",
             "article_content": "Wed\u0142ug Financial Times ju\u017c zacz\u0119\u0142y si\u0119 rozmowy o wyprowadzce biur z londy\u0144skiego City i przeprowadzce do Warszawy. Polski wicepremier Mateusz Morawiecki przyjedzie w czwartek do Londynu, aby zach\u0119ci\u0107 zagraniczne banki i fundusze inwestycyjne do przeniesienia si\u0119 do Polski. Czy Warszawa zast\u0105pi stolic\u0119 Wielkiej Brytanii jako nowa finansowa stolica Europy?"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Apele nie pomagaj\u0105. Wystarczy\u0142o has\u0142o \"ZUS\", aby katowiczanka straci\u0142a cz\u0119\u015b\u0107 oszcz\u0119dno\u015bci \u017cycia",
+            "link": "https://katowice.wyborcza.pl/katowice/7,35063,32113280,apele-nie-pomagaja-wystarczylo-haslo-zus-aby-katowiczanka.html",
+            "description": "74-letnia mieszkanka Katowic przekaza\u0142a oszustom bi\u017cuteri\u0119 oraz 50 tys. z\u0142 w got\u00f3wce. Policjanci znale\u017ali j\u0105 w banku, gdy ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.TNab52btbkMOobTSHzIXei&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "Katowice.Wyborcza.pl2 godz.",
+            "source": "Katowice.Wyborcza.pl",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Jak malowano wie\u017c\u0119 Eiffla w XX wieku",
+            "link": "https://www.onet.pl/informacje/fakt/rosnace-uzaleznienie-od-moskwy-niepokoj-elit-a-takze-oznaki-zmeczenia-systemem-ktory/vfgyq6k,7fa8ac5e",
+            "description": "Rosn\u0105ce uzale\u017cnienie od Moskwy, niepok\u00f3j elit, a tak\u017ce oznaki zm\u0119czenia systemem, kt\u00f3ry przez lata opiera\u0142 si\u0119 na represjach ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.4SYDJbeMnhzGlRWSX4Msii&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "Onet2 godz.",
+            "source": "Onet",
+            "article_content": "Rosn\u0105ce uzale\u017cnienie od Moskwy, niepok\u00f3j elit, a tak\u017ce oznaki zm\u0119czenia systemem, kt\u00f3ry przez lata opiera\u0142 si\u0119 na represjach i propagandzie, tworz\u0105 mieszank\u0119, kt\u00f3r\u0105 trudno zignorowa\u0107 \u2014 nawet w Mi\u0144sku. \u2014 Bia\u0142oruska nomenklatura dzieli si\u0119 i grupuje wy\u0142\u0105cznie wok\u00f3\u0142 \u0141ukaszenki, orientuj\u0105c si\u0119 na spe\u0142nianie jego oczekiwa\u0144. Nikt w jego otoczeniu nie gra przeciwko niemu, bo to zbyt ryzykowne i niebezpieczne. W razie jego \u015bmierci zabraknie kluczowego elementu spajaj\u0105cego ca\u0142y system \u2014 m\u00f3wi \"Faktowi\" Kamil K\u0142ysi\u0144ski, ekspert O\u015brodka Studi\u00f3w Wschodnich."
         }
     },
     {
@@ -26,7 +58,7 @@
             "description": "B\u0105d\u017a szczeg\u00f3lnie uwa\u017cny sprz\u0105taj\u0105c swoje szuflady. Cenne okazy mog\u0105 kurzy\u0107 si\u0119 w zapomnieniu, a monety z PRL mog\u0105 by\u0107 czasami ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.mbMT8HOU8wdbZ4_Ji1PvMS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Szczeci\u0144ski on MSN6 godz.",
+            "date": "G\u0142os Szczeci\u0144ski on MSN9 godz.",
             "source": "G\u0142os Szczeci\u0144ski on MSN",
             "article_content": ""
         }
@@ -42,24 +74,8 @@
             "description": "O tym, \u017ce monety potrafi\u0105 by\u0107 warte fortun\u0119, wiemy wszyscy. A banknoty? Ma\u0142o z nas zdaje sobie spraw\u0119, \u017ce mog\u0105 kosztowa\u0107 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.iKsj76OqGOVqhre9Vs3vDy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Szczeci\u0144ski on MSN6 godz.",
+            "date": "G\u0142os Szczeci\u0144ski on MSN9 godz.",
             "source": "G\u0142os Szczeci\u0144ski on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Ta moneta jest warta krocie. Kolekcjonerzy jej poszukuj\u0105, koniecznie sprawd\u017a szuflady",
-            "link": "https://www.msn.com/pl-pl/news/other/ta-moneta-jest-warta-krocie-kolekcjonerzy-jej-poszukuj%C4%85-koniecznie-sprawd%C5%BA-szuflady/ar-AA1IPLdx?ocid=BingNewsVerp",
-            "description": "Wielu Polak\u00f3w mo\u017ce nawet nie zdawa\u0107 sobie sprawy, \u017ce maj\u0105 w portfelu lub na dnie szuflady prawdziw\u0105 pere\u0142k\u0119, kt\u00f3rej poszukuj\u0105 ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.H%2ftt91wP5hwIZ5SdQilCZg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "BiznesINFO.pl on MSN4 godz.",
-            "source": "BiznesINFO.pl on MSN",
             "article_content": ""
         }
     },
@@ -74,7 +90,7 @@
             "description": "Nadchodz\u0105cy weekend w regionie ostro\u0142\u0119ckim zapowiada si\u0119 wyj\u0105tkowo intensywnie i r\u00f3\u017cnorodnie \u2013 ka\u017cdy znajdzie co\u015b dla siebie! Od rodzinnych festyn\u00f3w i muzycznych koncert\u00f3w, przez policyjne pikniki, gi ...",
             "image_url": "https://www.bing.pl/th?id=ODF.WHWxYXUhXrwkKbodkfgwYw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "eOstroleka5 godz.",
+            "date": "eOstroleka8 godz.",
             "source": "eOstroleka",
             "article_content": "REKLAMA\n\nREKLAMA\n\nNadchodz\u0105cy weekend w regionie ostro\u0142\u0119ckim zapowiada si\u0119 wyj\u0105tkowo intensywnie i r\u00f3\u017cnorodnie \u2013 ka\u017cdy znajdzie co\u015b dla siebie! Od rodzinnych festyn\u00f3w i muzycznych koncert\u00f3w, przez policyjne pikniki, gie\u0142dy kolekcjonerskie i wydarzenia kulturalne, a\u017c po manifestacje spo\u0142eczne \u2013 19 i 20 lipca mieszka\u0144c\u00f3w Ostro\u0142\u0119ki i okolic czeka prawdziwa eksplozja lokalnych inicjatyw.\n\nB\u0119dzie co\u015b dla mi\u0142o\u015bnik\u00f3w tradycji, dobrej zabawy, lokalnego r\u0119kodzie\u0142a i muzyki na \u017cywo. To idealny czas, by wyj\u015b\u0107 z domu, spotka\u0107 si\u0119 z s\u0105siadami i wsp\u00f3lnie sp\u0119dzi\u0107 czas \u2013 aktywnie, kulturalnie i po kurpiowsku. Sprawd\u017a, co, gdzie i kiedy si\u0119 wydarzy!\n\nRepertuar Kina Jantar w Ostro\u0142\u0119ce\n\nSmerfy: Wielki film, Superman, Piknik pod wisz\u0105c\u0105 ska\u0142\u0105, Materiali\u015bci.\n\nRepertuar Kina Helios w \u0141om\u017cy\n\nHarry Potter; Mini maraton, Smerfy: Wielki film, Koszmar minionego lata, Superman, Basia. Mam sw\u00f3j \u015bwiat, Jurassic World: Odrodzenie, F1, Jak wytresowa\u0107 smoka, Lilo i Stitch, Heidi ratuje Rysia, Brzydka siostra, Dziewczyna z Kolonii, Stra\u017cak Sam.\n\nPi\u0105tek, 18 lipca\n\ngodz. 12:00 - Rodzinny piknik policyjny w Ostro\u0142\u0119ce\n\nJu\u017c w najbli\u017cszy pi\u0105tek mieszka\u0144cy Ostro\u0142\u0119ki i okolic b\u0119d\u0105 mogli zanurzy\u0107 si\u0119 w policyjny klimat podczas wyj\u0105tkowego pikniku prewencyjnego. Od godziny 12:00 przy ul. J. Korczaka 16 na odwiedzaj\u0105cych czeka moc atrakcji \u2013 pokazy ps\u00f3w s\u0142u\u017cbowych, prezentacje sprz\u0119tu, widowiskowe akcje grupy realizacyjnej, a tak\u017ce profilaktyczne badania i animacje dla dzieci. To doskona\u0142a okazja, by lepiej pozna\u0107 prac\u0119 policjant\u00f3w i sp\u0119dzi\u0107 czas aktywnie oraz bezpiecznie \u2013 w rodzinnym gronie. Wst\u0119p wolny, wi\u0119c nie przegapcie tej okazji!\n\nSobota, 19 lipca\n\ngodz. 7:00 - Pchli Targ w Ostro\u0142\u0119ce \u2013 poluj na skarby!\n\nW sobot\u0119, 19 lipca, miejskie targowisko przy ul. Zawadzkiego \u201eZo\u015bki\u201d ponownie zamieni si\u0119 w raj dla mi\u0142o\u015bnik\u00f3w okazji i unikat\u00f3w. Od godziny 7:00 rano rusza kolejna edycja Pchlego Targu organizowanego przez Ostro\u0142\u0119cki Klub Kolekcjonera \u201eUnikat\u201d. To \u015bwietna okazja, by znale\u017a\u0107 co\u015b wyj\u0105tkowego, pozby\u0107 si\u0119 niepotrzebnych rzeczy i da\u0107 im drugie \u017cycie \u2013 wszystko w lu\u017anej, s\u0105siedzkiej atmosferze. Wst\u0119p wolny zar\u00f3wno dla wystawc\u00f3w, jak i odwiedzaj\u0105cych, wi\u0119c warto zajrze\u0107 \u2013 mo\u017ce trafisz na prawdziw\u0105 pere\u0142k\u0119!\n\ngodz. 12:00 - Protest Konfederacji \u201eSTOP IMIGRANTOM\u201d \u2013 19 lipca w Ostro\u0142\u0119ce\n\nW sobot\u0119, 19 lipca o godzinie 12:00 pod Urz\u0119dem Wojew\u00f3dzkim w Ostro\u0142\u0119ce (ul. Fieldorfa \u201eNila\u201d 15) odb\u0119dzie si\u0119 manifestacja zorganizowana przez lokalnych dzia\u0142aczy Konfederacji oraz pos\u0142a Krzysztofa Mulaw\u0119. Protest pod has\u0142em \u201eSTOP IMIGRANTOM\u201d ma by\u0107 cz\u0119\u015bci\u0105 og\u00f3lnopolskiej akcji wyra\u017caj\u0105cej sprzeciw wobec obecnej polityki migracyjnej. Organizatorzy zapowiadaj\u0105 wyra\u017ane stanowisko przeciwko tzw. paktowi migracyjnemu oraz postuluj\u0105 dzia\u0142ania na rzecz bezpiecze\u0144stwa obywateli. Wydarzenie jest otwarte dla wszystkich, kt\u00f3rzy chc\u0105 zamanifestowa\u0107 swoje pogl\u0105dy w tej sprawie.\n\ngodz. 17:00 - Kurpiowska zabawa w Kadzidle \u2013 \u015bwi\u0119to smak\u00f3w, tradycji i dobrej energii!\n\nW sobot\u0119, 19 lipca o godzinie 17:00, plac przy Centrum Kultury Kurpiowskiej w Kadzidle zamieni si\u0119 w t\u0119tni\u0105ce \u017cyciem centrum rodzinnej rozrywki. Ko\u0142a Gospody\u0144 Wiejskich zapraszaj\u0105 na wyj\u0105tkowe wydarzenie pe\u0142ne lokalnych smak\u00f3w, muzyki, ta\u0144ca i atrakcji dla ca\u0142ych rodzin. W programie m.in. strefy kreatywna i sportowa, dmucha\u0144ce, kuchnia regionalna, piana party i wieczorna zabawa z MXDJ. To \u015bwietna okazja, by poczu\u0107 kurpiowsk\u0105 atmosfer\u0119 i sp\u0119dzi\u0107 lato tak, jak trzeba \u2013 rado\u015bnie i razem!\n\nNiedziela, 20 lipca\n\ngodz. 11:00 - Gie\u0142da kolekcjonerska w Klubie Lokator \u2013 odkryj skarby przesz\u0142o\u015bci!\n\nW niedziel\u0119, 20 lipca, Klub Lokator w Ostro\u0142\u0119ce zaprasza wszystkich pasjonat\u00f3w historii i unikalnych przedmiot\u00f3w na gie\u0142d\u0119 kolekcjonersk\u0105. W godzinach 11:00\u201313:00 b\u0119dzie mo\u017cna przegl\u0105da\u0107, kupowa\u0107 i wymienia\u0107 stare monety, znaczki, poczt\u00f3wki, winyle i wiele innych kolekcjonerskich rarytas\u00f3w. To wyj\u0105tkowe spotkanie dla tych, kt\u00f3rzy kochaj\u0105 rzeczy z dusz\u0105 i niepowtarzaln\u0105 histori\u0105. Wst\u0119p wolny \u2013 przyjd\u017a, poszukaj skarb\u00f3w i daj si\u0119 wci\u0105gn\u0105\u0107 w \u015bwiat kolekcjonerskiej pasji!\n\ngodz. 11:00 - Wzory, barwy i opowie\u015bci \u2013 oprowadzenie kuratorskie w Muzeum Kultury Kurpiowskiej\n\nW niedziel\u0119, 20 lipca o godzinie 11:00, Muzeum Kultury Kurpiowskiej w Ostro\u0142\u0119ce zaprasza na wyj\u0105tkowe oprowadzenie kuratorskie po wystawie po\u015bwi\u0119conej Julii Grodeckiej \u2013 projektantce tkanin z lat 30. XX wieku. W\u015br\u00f3d barwnych kilim\u00f3w i wzorzystych tkanin go\u015bci oprowadzi kuratorka Barbara Kalinowska, dziel\u0105c si\u0119 histori\u0105 i kontekstem niezwyk\u0142ych eksponat\u00f3w. To doskona\u0142a okazja, by zanurzy\u0107 si\u0119 w \u015bwiat przedwojennego designu i pozna\u0107 nieco zapomnian\u0105 tw\u00f3rczo\u015b\u0107 o unikalnym charakterze. Wst\u0119p wolny \u2013 warto zajrze\u0107!\n\ngodz. 14:00 - Festyn Rodzinny w Pupkowiznie \u2013 bawimy si\u0119 bez alkoholu!\n\nW sobot\u0119, 20 lipca od godziny 14:00, plac przy Szkole Podstawowej w Pupkowiznie zamieni si\u0119 w kolorow\u0105 przestrze\u0144 rodzinnej zabawy. KGW Pupkowizna i So\u0142ectwo Pupkowizna zapraszaj\u0105 na Festyn Rodzinny pod has\u0142em \u201eBawimy si\u0119 bez alkoholu\u201d \u2013 pe\u0142en atrakcji dla dzieci i doros\u0142ych. W programie m.in. ciuchcia ALDO, dmucha\u0144ce, animacje, wyst\u0119py artystyczne, pokazy OSP \u0141yse, pocz\u0119stunek oraz ognisko z pieczonymi ziemniakami. To idealna okazja, by wsp\u00f3lnie sp\u0119dzi\u0107 czas w atmosferze rado\u015bci i lokalnej integracji. Wst\u0119p wolny \u2013 przyjd\u017acie ca\u0142ymi rodzinami!\n\ngodz. 18:00 - Muzyczna niedziela w Troszynie \u2013 koncerty w amfiteatrze\n\nW niedziel\u0119, 20 lipca o godzinie 18:00, Amfiteatr w Troszynie rozbrzmi d\u017awi\u0119kami wyj\u0105tkowej muzyki w ramach \u201eWakacyjnej oferty Gminy Troszyn\u201d. Na scenie wyst\u0105pi Larysa Tsoy oraz Arkadiusz Korytkowski z koncertem muzyki akordeonowej. To doskona\u0142a okazja, by zako\u0144czy\u0107 weekend w klimatycznej, artystycznej atmosferze i pos\u0142ucha\u0107 brzmie\u0144, kt\u00f3re porusz\u0105 serca. Wst\u0119p wolny \u2013 nie przegap tego muzycznego wieczoru!"
         }
@@ -85,29 +101,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Tygodniowy przegl\u0105d informacji z sektora finans\u00f3w i bankowo\u015bci",
-            "link": "https://pl.investing.com/news/stock-market-news/tygodniowy-przeglad-informacji-z-sektora-finansow-i-bankowosci-1014194",
-            "description": "TFI: Aktywa krajowych funduszy inwestycyjnych wzros\u0142y o 1,8% m/m do 381,9 mld z\u0142 na koniec czerwcu 2025 r., poda\u0142y Analizy.pl i Izba Zarz\u0105dzaj\u0105cych Funduszami i Aktywami (IZFiA).",
-            "image_url": "https://www.bing.pl/th?id=ODF.dmnAZYmmfW5wO4mN-GsnMw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stare+monety",
-            "date": "Investing.com Polska1 godz.",
-            "source": "Investing.com Polska",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "T\u0142umy turyst\u00f3w odwiedza \u0106miel\u00f3w. Jest tu Porcelanowy Rynek, jedyny taki w Europie",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/t%C5%82umy-turyst%C3%B3w-odwiedza-%C4%87miel%C3%B3w-jest-tu-porcelanowy-rynek-jedyny-taki-w-europie/ar-AA1IaaY4?ocid=BingNewsVerp",
-            "description": "\u0106miel\u00f3w, ma\u0142e miasteczko zlokalizowane w wojew\u00f3dztwie \u015bwi\u0119tokrzyskim, zyskuje na popularno\u015bci jako cel turystyczny w Polsce.",
-            "image_url": "https://www.bing.pl/th?id=OVFT.Na2FHIWA2dYbkywYlrIjqi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Jedyne takie muzeum w Polsce znajduje si\u0119 w Krakowie. Pan Tomasz stworzy\u0142 tu aromatyczny wehiku\u0142 czasu dla kawoszy",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/jedyne-takie-muzeum-w-polsce-znajduje-si%C4%99-w-krakowie-pan-tomasz-stworzy%C5%82-tu-aromatyczny-wehiku%C5%82-czasu-dla-kawoszy/ar-AA1IQYhE?ocid=BingNewsVerp",
+            "description": "Czy wiesz, \u017ce w Krakowie istnieje jedyne w Polsce muzeum kawy? Nie znajdziesz tu g\u0142o\u015bnych turyst\u00f3w ani barist\u00f3w w modnych ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.r7hGDpm4iXD5nr8tUu2Qxi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Eska Regiony on MSN9 godz.",
-            "source": "Eska Regiony on MSN",
+            "date": "Krak\u00f3w Nasze Miasto on MSN3 godz.",
+            "source": "Krak\u00f3w Nasze Miasto on MSN",
             "article_content": ""
         }
     },
@@ -122,7 +122,7 @@
             "description": "Weekend we Wroc\u0142awiu to gwarancja dobrej zabawy. W dniach 18-20 lipca w stolicy Dolnego \u015al\u0105ska czeka mn\u00f3stwo atrakcji m.in.: ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.woHtdqZCi-gMwphMNjjPxS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Gazeta Wroc\u0142awska on MSN4 godz.",
+            "date": "Gazeta Wroc\u0142awska on MSN8 godz.",
             "source": "Gazeta Wroc\u0142awska on MSN",
             "article_content": ""
         }
@@ -133,13 +133,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Trwa walka o utrzymanie i dalszy remont pa\u0142acu Gorzan\u00f3w. Kto tu raz przyjedzie, b\u0119dzie powraca\u0142 do tej wyj\u0105tkowej budowli. Zobaczcie zdj\u0119cia",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/trwa-walka-o-utrzymanie-i-dalszy-remont-pa%C5%82acu-gorzan%C3%B3w-kto-tu-raz-przyjedzie-b%C4%99dzie-powraca%C5%82-do-tej-wyj%C4%85tkowej-budowli-zobaczcie-zdj%C4%99cia/ar-AA1IPV8r?ocid=BingNewsVerp",
-            "description": "Pa\u0142ac Gorzan\u00f3w w Kotlinie K\u0142odzkiej, mo\u017ce imponowa\u0107 nie tylko architektur\u0105, wielko\u015bci\u0105 i rozmachem, z jakim zosta\u0142 wybudowany ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.4kcL4I8VbZ_KeCErMFbpSC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Zarobki we Wroc\u0142awiu rosn\u0105. Por\u00f3wnali\u015bmy pensje z uwzgl\u0119dnieniem inflacji. Nawet 14 tys. z\u0142otych. Gdzie tyle zarobimy? Oferty pracy",
+            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/zarobki-we-wroc%C5%82awiu-rosn%C4%85-por%C3%B3wnali%C5%9Bmy-pensje-z-uwzgl%C4%99dnieniem-inflacji-nawet-14-tys-z%C5%82otych-gdzie-tyle-zarobimy-oferty-pracy/ar-AA1IRcyT?ocid=BingNewsVerp",
+            "description": "Cho\u0107 pensje we Wroc\u0142awiu rosn\u0105 systematycznie od lat, dopiero teraz pracownicy naprawd\u0119 to odczuwaj\u0105. Wzrost p\u0142ac w 2025 roku ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.V5_8elYLjImoMCerUtLJkC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Wa\u0142brzych Nasze Miasto on MSN3 godz.",
-            "source": "Wa\u0142brzych Nasze Miasto on MSN",
+            "date": "Gazeta Wroc\u0142awska on MSN2 godz.",
+            "source": "Gazeta Wroc\u0142awska on MSN",
             "article_content": ""
         }
     },
@@ -154,7 +154,7 @@
             "description": "Zapowiada si\u0119 intensywny weekend pe\u0142en r\u00f3\u017cnorodnych wydarze\u0144 \u2013 od warsztat\u00f3w i koncert\u00f3w, po rodzinne festyny, pikniki i ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.U3sMJFMksXz6BM2jWJ66dS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "LM.pl2 godz.",
+            "date": "LM.pl6 godz.",
             "source": "LM.pl",
             "article_content": "WA\u017bNA INFORMACJA\n\nDrogi Czytelniku! Od 25.05.2018 w Polsce stosuje si\u0119 przepisy Rozporz\u0105dzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony os\u00f3b fizycznych w zwi\u0105zku z przetwarzaniem danych osobowych i w sprawie swobodnego przep\u0142ywu takich danych oraz uchylenia dyrektywy 95/46/WE (okre\u015blane jako \"RODO\", \"ORODO\", \"GDPR\" lub \"Og\u00f3lne Rozporz\u0105dzenie o Ochronie Danych\"). Aktualna informacja o tym jak przetwarzamy Twoje dane oraz jak mo\u017cesz skorzysta\u0107 ze swoich praw, w tym zakresie, znajduje si\u0119 w sekcji \"Polityka prywatno\u015bci\"."
         }
@@ -165,13 +165,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Archeologiczna sensacja w Gda\u0144sku. Pisz\u0105 o tym nawet za granic\u0105. \"Kawa\u0142 ch\u0142opa\"",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/archeologiczna-sensacja-w-gda%C5%84sku-pisz%C4%85-o-tym-nawet-za-granic%C4%85-kawa%C5%82-ch%C5%82opa/ar-AA1IMDF6?ocid=BingNewsVerp",
-            "description": "W samym sercu Gda\u0144ska archeolodzy natrafili na wyj\u0105tkowe znalezisko sprzed stuleci. Pod jedn\u0105 z p\u0142yt nagrobnych natrafiono na ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.GKnS1BQaNYWksNuhghtVPC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Skarby pod S\u0142upskiem? Archeolodzy rozpocz\u0119li wykopaliska przy dawnym kinie Milenium",
+            "link": "https://www.msn.com/pl-pl/historia-i-kultura-spo%C5%82ecze%C5%84stwa/historia/skarby-pod-s%C5%82upskiem-archeolodzy-rozpocz%C4%99li-wykopaliska-przy-dawnym-kinie-milenium/ar-AA1IRksp?ocid=BingNewsVerp",
+            "description": "Rozpocz\u0119\u0142y si\u0119 badania archeologiczne w samym centrum miasta - na terenach wok\u00f3\u0142 dawnego kina Milenium. Prace potrwaj\u0105 oko\u0142o ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.GrJrCuZ5bKzbzlfyE-N0sy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Wiadomo\u015bci Radio ZET on MSN23 godz.",
-            "source": "Wiadomo\u015bci Radio ZET on MSN",
+            "date": "G\u0142os Pomorza on MSN1 godz.",
+            "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
         }
     },
@@ -181,13 +181,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Odkryli grobowiec sprzed 3800 lat. Skrywa\u0142 ogromny szkielet",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/odkryli-grobowiec-sprzed-3800-lat-skrywa%C5%82-ogromny-szkielet/ar-AA1IMUi6?ocid=BingNewsVerp",
-            "description": "Tajemniczy kurhan na p\u00f3\u0142nocy Azerbejd\u017canu Azerbejd\u017can skrywa w sobie wiele pozosta\u0142o\u015bci antycznych kultur, kt\u00f3re rozkwita\u0142y ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.JehsKez4rQtAMo6kNSZgFC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Cenne banknoty PRL - po tyle kupuj\u0105 je na aukcjach. Sprawd\u017a aktualne ceny na aukcjach",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/cenne-banknoty-prl-po-tyle-kupuj%C4%85-je-na-aukcjach-sprawd%C5%BA-aktualne-ceny-na-aukcjach/ar-AA1HpfvD?ocid=BingNewsVerp",
+            "description": "Masz banknoty z PRL-u? Sprawd\u017a, ile mog\u0105 kosztowa\u0107 \u2013 niekt\u00f3re zaskocz\u0105 Ci\u0119 warto\u015bci\u0105. W tek\u015bcie wyja\u015bniamy, dlaczego warto przejrze\u0107 swoje zbiory, nawet te ukryte na strychu.Zobacz wi\u0119cej zdj\u0119\u0107 (19) ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.liWL6w23oefxD6cfFEdIQA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "GeekWeek w INTERIA.PL on MSN22 godz.",
-            "source": "GeekWeek w INTERIA.PL on MSN",
+            "date": "Toru\u0144 Nasze Miasto on MSN1 godz.",
+            "source": "Toru\u0144 Nasze Miasto on MSN",
             "article_content": ""
         }
     },
@@ -197,13 +197,29 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "\"Rewelacyjne\" znalezisko w Szczecinie. Dot\u0105d by\u0142o znane tylko ze zdj\u0119\u0107",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/rewelacyjne-znalezisko-w-szczecinie-dot%C4%85d-by%C5%82o-znane-tylko-ze-zdj%C4%99%C4%87/ar-AA1IPPOC?ocid=BingNewsVerp",
-            "description": "Od ponad miesi\u0105ca trwaj\u0105 prace na terenie przyleg\u0142ym do legendarnej Wie\u017cy Quistorpa w Lasku Arko\u0144skim. Okazuje si\u0119, \u017ce ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.Sg5QtGAK69bjxsAJ6EDMYS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Walcz\u0105 o mistrzostwa \u015bwiata. Na Diamentowej Lidze! Polacy prosz\u0105 o wsparcie",
+            "link": "https://wiadomosci.radiozet.pl/sport/walcza-o-mistrzostwa-swiata-na-diamentowej-lidze-polacy-prosza-o-wsparcie",
+            "description": "16 sierpnia na Diamentowej Lidze na Stadionie \u015al\u0105skim reprezentacja Polski w sztafecie 4x400 metr\u00f3w walczy o minimum na ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.VmrQacqKbQIVLfW06SDkuS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Radio ZET on MSN3 godz.",
-            "source": "Radio ZET on MSN",
+            "date": "Wiadomo\u015bci Radio ZET7 min",
+            "source": "Wiadomo\u015bci Radio ZET",
+            "article_content": "Z tego artyku\u0142u dowiesz si\u0119: Co oznacza udzia\u0142 w Diamentowej Lidze dla polskich lekkoatlet\u00f3w.\n\nJakie szanse na awans na M\u015a ma polska sztafeta 4x400 metr\u00f3w.\n\nKt\u00f3re polskie gwiazdy sportu wyst\u0105pi\u0105 na Memoriale Skolimowskiej.\n\nKiedy i gdzie odb\u0119dzie si\u0119 Silesia Memoria\u0142 Kamili Skolimowskiej.\n\nMemoria\u0142 Skolimowskiej przepustk\u0105 na M\u015a\n\nO tym, \u017ce dla najlepszych polskich lekkoatlet\u00f3w 16 sierpnia 2025 jest od dawna dat\u0105 zakre\u015blon\u0105 grubym markerem w kalendarzu, ju\u017c powiedziano wiele. Diamentowa Liga \u2013 podkre\u015blaj\u0105 nasze gwiazdy \u2013 oznacza presti\u017c. Jednak tym razem wyst\u0119p w tym cyklu na w\u0142asnej ziemi, opr\u00f3cz rozg\u0142osu, mo\u017ce przynie\u015b\u0107 niekt\u00f3rym realn\u0105 korzy\u015b\u0107.\n\n\u2013 Mamy przyjemno\u015b\u0107 og\u0142osi\u0107, \u017ce w ramach Silesia Memoria\u0142u Kamili Skolimowskiej w tym roku polska sztafeta 4x400 metr\u00f3w m\u0119\u017cczyzn b\u0119dzie bi\u0142a si\u0119 o awans na wrze\u015bniowe mistrzostwa \u015bwiata w Tokio \u2013 zapowiada Marek Plawgo, wiceprezes PZLA.\n\nNasi sprinterzy w tej specjalno\u015bci jako jedyni nie zdo\u0142ali wywalczy\u0107 sobie bilet\u00f3w do Japonii poprzez World Relays \u2013 imprez\u0119 dedykowan\u0105 sztafetom, kt\u00f3ra ju\u017c wedle tradycji jest g\u0142\u00f3wn\u0105 przepustk\u0105 na docelowe wydarzenie sezonu. W Guangzhou zabrak\u0142o niewiele, ale ju\u017c wtedy liderzy ekipy zapowiadali, \u017ce niepowodzenie w Chinach nie przekre\u015bla ich aspiracji. W ko\u0144cu 4x400 pan\u00f3w to grupa, kt\u00f3ra ma bogate tradycje: medale mistrzostw \u015bwiata, \u015bwietne miejsce na igrzyskach w Tokio, a tak\u017ce np. halowy rekord \u015bwiata z 2018 roku. Im po prostu wypada walczy\u0107 do ko\u0144ca.\n\n\u2013 Sport bywa brutalny, ale my nie sk\u0142adamy broni. Wiem, \u017ce w trakcie sezonu b\u0119dziemy jeszcze rozmawiali o przeprowadzeniu ataku na awans. Je\u015bli nie uda\u0142o si\u0119 wej\u015b\u0107 drzwiami, wejdziemy oknem \u2013 zapowiada\u0142 Maksymilian Szwed, indywidualny halowy wicemistrz Europy na 400 m.\n\nKluczowe jest to, gdzie i kto to okno im wybuduje.\n\n\u2013 Postanowili\u015bmy, \u017ce b\u0119dziemy to my: najwi\u0119kszy, najmocniejszy mityng w Polsce, najlepszy na \u015bwiecie w ca\u0142ym sezonie 2024, jak wskazuje ranking World Athletics. Wielka widownia, \u015bwietny mo-ment w sezonie i ranga powinny uskrzydli\u0107 Polak\u00f3w w walce o potrzebny czas. Nikt si\u0119 nawet nie zastanawia\u0142, kiedy pojawi\u0142 si\u0119 pomys\u0142, \u017ceby ten bieg \u201edrugiej szansy\u201d odby\u0142 si\u0119 na Superauto.pl Stadionie \u015al\u0105skim 16 sierpnia \u2013 przyznaje Piotr Ma\u0142achowski, dyrektor sportowy Diamentowej Ligi.\n\nWynik, jaki w tej chwili jest potrzebny do awansu na M\u015a, to 2:59.12. Tyle w marcu ubieg\u0142ego roku pobiegli zawodnicy z Zambii. Bia\u0142o-czerwoni s\u0105 czwarci pod kresk\u0105, ale po wyst\u0119pie dalekim od pe\u0142ni ich potencja\u0142u. A przynajmniej w to wierz\u0105 sami zainteresowani.\n\n\u2013 Bieg przy takiej widowni, w takim miejscu, o tak\u0105 stawk\u0119? Pi\u0119kne. Czuj\u0119 ciarki na sam\u0105 my\u015bl. Mam nadziej\u0119, \u017ce kibice b\u0119d\u0105 tam z nami. Bieganie z orze\u0142kiem na piersi na naszej ziemi to szcze-g\u00f3lny moment, taki nie do opisania i mam nadziej\u0119, \u017ce to samo b\u0119d\u0119 m\u00f3g\u0142 powiedzie\u0107 po tej rywalizacji \u2013 m\u00f3wi Szwed.\n\nPZLA, kt\u00f3ry od strony formalnej organizuje wydarzenie, potwierdzi\u0142 udzia\u0142 sztafet z Hiszpanii i W\u0142och. Ci pierwsi s\u0105 tu\u017c pod Polakami w \u015bwiatowym rankingu. Italia natomiast to pierwsza ekipa bez kwalifikacji. Obie z pewno\u015bci\u0105 pojawi\u0105 si\u0119 na \u015al\u0105sku w najmocniejszych sk\u0142adach, a niewykluczone, \u017ce to tego grona do\u0142\u0105czy kto\u015b jeszcze.\n\nDiamentowa Liga w Polsce - gwiazdy\n\nJednak Diamentowa Liga w Polsce to nie tylko okazja, \u017ceby zobaczy\u0107 sztafet\u0119. \u2013 Co roku staramy si\u0119, \u017ceby kibice na stadionie podziwiali \u015bcis\u0142\u0105 elit\u0119 naszych zawodnik\u00f3w. Najwi\u0119ksze gwiazdy, ci ludzie, kt\u00f3rzy na wielkich imprezach zmuszaj\u0105 organizator\u00f3w do grania Mazurka D\u0105browskiego \u2013 przekonuje Ma\u0142achowski.\n\nI ma na to dowody. 16 sierpnia na Superauto.pl Stadionie \u015al\u0105skim zobaczymy na pewno jedyn\u0105 polsk\u0105 medalistk\u0119 olimpijsk\u0105 z Pary\u017ca \u2013 Natali\u0119 Bukowieck\u0105, kt\u00f3ra niedawno w Monako zesz\u0142a na 400 m poni\u017cej 50 sekund i sygnalizuje wysok\u0105 form\u0119. Pobiegnie te\u017c Ewa Swoboda, czyli sprinterka na 100 m, kt\u00f3ra w\u0142a\u015bnie w tym miejscu ustanowi\u0142a w\u0142asn\u0105 \u017cyci\u00f3wk\u0119. Ten legendarny duet, a tak\u017ce tyczkarz Piotr Lisek maj\u0105 zreszt\u0105 przywilej \u201eposiadania\u201d w\u0142asnej trybuny. Kibice mog\u0105 wybiera\u0107 na \u015al\u0105skim takie sektory, aby znale\u017a\u0107 si\u0119 w gronie najbardziej zaanga\u017cowanych fan\u00f3w tych lekkoatlet\u00f3w. I liczy\u0107 na niespodzianki, o kt\u00f3rych jednak sami zawodnicy na razie nie chc\u0105 m\u00f3wi\u0107. Bo to w ko\u0144cu niespodzianki.\n\n\u2013 W biegu na 100 m pp\u0142 gwiazd\u0105 b\u0119dzie nasza Pia Skrzyszowska, kt\u00f3ra w hali z\u0142ama\u0142a wieloletni rekord Polski i jest na \u015bwietnym kursie po wi\u0119cej. Analogicznie w m\u0119skiej rywalizacji p\u0142otkarzy dojdzie do stadionowego rewan\u017cu za halowe M\u015a. Bo to u nas Jakub Szyma\u0144ski zn\u00f3w po\u015bciga si\u0119 z wielkim Grantem Holloway'em. W memoria\u0142owej konkurencji, czyli rzucie m\u0142otem, nie zabraknie natomiast gigant\u00f3w kadry: Paw\u0142a Fajdka i Wojciecha Nowickiego. Kula? Konrad Bukowiecki. Oszczep? \u015awietny ostatnio Cyprian Mrzyg\u0142\u00f3d. Wzwy\u017c? Maria \u017bodzik, kt\u00f3ra celuje w skok na dwa metry i podejmie rekordzistk\u0119 \u015bwiata Jaros\u0142aw\u0119 Mahuczich. To nie jest zwyk\u0142a lista startowa, to jest deszcz gwiazd \u2013 zaciera r\u0119ce Ma\u0142achowski.\n\nOczywi\u015bcie na bie\u017cni te\u017c nie zabraknie polskich akcent\u00f3w. Poza wymienion\u0105 Bukowieck\u0105 i Swobod\u0105, ciekawie b\u0119dzie te\u017c na dystansach. Kibice b\u0119d\u0105 mogli podziwia\u0107 walk\u0119 Weroniki Lizakowskiej \u2013 rekordzistki Polski na 1500 m \u2013 czy Anny Wielgosz, \u015bwie\u017co upieczonej halowej mistrzyni Europy na 800 m. W m\u0119skiej stawce na \u201ep\u00f3\u0142toraka\u201d spr\u00f3buje si\u0119 odnale\u017a\u0107 nieprzewidywalny Filip Rak. A w kr\u00f3lewskim sprincie tor za znakomity wyst\u0119p w Dru\u017cynowych ME otrzyma\u0142 Oliwer Wdowik.\n\n\u2013 Tam pobieg\u0142 10.10 s. Pytanie, kiedy padnie magiczna granica, nie dotyczy ju\u017c \u201eczy w og\u00f3le\u201d, tylko \u201ekiedy\u201d \u2013 ma nadziej\u0119 Plawgo.\n\nBilety na Memoria\u0142 Skolimowskiej\n\nBilety na Polsk\u0105 Diamentow\u0105 Lig\u0119 na Stadionie \u015al\u0105skim \u2013 Silesia Memoria\u0142 Kamili Skolimowskiej s\u0105 dost\u0119pne na stronie MemorialKamili.pl. Aktualno\u015bci zwi\u0105zane z wydarzeniem mo\u017cna \u015bledzi\u0107 na kana\u0142ach imprezy w mediach spo\u0142eczno\u015bciowych \u2013 Facebooku, Instagramie, platformie X, TikToku i YouTube.\n\n\u0179r\u00f3d\u0142o: Radio ZET/Materia\u0142y prasowe"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Ca\u0142y \u015bwiat m\u00f3wi o tym znalezisku nad polskim Ba\u0142tykiem. \"Odkrycie stulecia\"",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/ca%C5%82y-%C5%9Bwiat-m%C3%B3wi-o-tym-znalezisku-nad-polskim-ba%C5%82tykiem-odkrycie-stulecia/ar-AA1IR8hu?ocid=BingNewsVerp",
+            "description": "Ko\u0142obrzeg kojarzy si\u0119 Polakom g\u0142\u00f3wnie z Morzem Ba\u0142tyckim i szerok\u0105 pla\u017c\u0105. W tym popularnym uzdrowisku s\u0105 jednak inne atrakcje ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.alwl8RcOcFcW2z9gzCE7Ji&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Wiadomo\u015bci Radio ZET on MSN1 godz.",
+            "source": "Wiadomo\u015bci Radio ZET on MSN",
             "article_content": ""
         }
     },
@@ -218,7 +234,7 @@
             "description": "Wa\u017cne odkrycie historyczne w Albanii. Nad s\u0142ynnym jeziorem, kt\u00f3re uwielbiaj\u0105 tury\u015bci, archeolodzy odkryli staro\u017cytn\u0105 osad\u0119. Jak informuje agencja Reutera, mo\u017ce mie\u0107 nawet 8 tysi\u0119cy lat i zamieszkiwa\u0142a ...",
             "image_url": "https://www.bing.pl/th?id=ODF.DvkV1aWY4dNaGRBFvmZA2A&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "Planeta.pl on MSN2 godz.",
+            "date": "Planeta.pl on MSN6 godz.",
             "source": "Planeta.pl on MSN",
             "article_content": ""
         }
@@ -230,11 +246,11 @@
         },
         "body": {
             "title": "Wycieczki w okolicach Krakowa. Sprawd\u017a ciekawe miejsca, kt\u00f3re warto odwiedzi\u0107! [18.07.2025]",
-            "link": "https://www.msn.com/pl-pl/podroze/wycieczki-po-historycznych-miejscach-i-zabytkach/wycieczki-w-okolicach-krakowa-sprawd%C5%BA-ciekawe-miejsca-kt%C3%B3re-warto-odwiedzi%C4%87-18-07-2025/ar-AA1HrHpY?ocid=BingNewsVerp",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/wycieczki-w-okolicach-krakowa-sprawd%C5%BA-ciekawe-miejsca-kt%C3%B3re-warto-odwiedzi%C4%87-18-07-2025/ar-AA1HrHpY?ocid=BingNewsVerp",
             "description": "Urokliwe miasteczka, wiekowe zamki, malownicze parki i spokojne zak\u0105tki \u2013 to wszystko czeka na odkrycie tu\u017c za rogatkami ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.8L0I1Kh7F7im0h3KPJKlEy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "G\u0142os Wielkopolski on MSN4 godz.",
+            "date": "G\u0142os Wielkopolski on MSN8 godz.",
             "source": "G\u0142os Wielkopolski on MSN",
             "article_content": ""
         }
@@ -245,29 +261,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Moc weekendowych wydarze\u0144 kulturalnych w Podlaskiem. Festiwale, festyny i konkurs skok\u00f3w na nartach wodnych",
-            "link": "https://www.radio.bialystok.pl/wiadomosci/index/id/252218",
-            "description": "Kolejny wakacyjny weekend w wojew\u00f3dztwie podlaskim zapowiada si\u0119 niezwykle ciekawie. Konkurs skok\u00f3w na nartach wodnych w ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.uyXMUZoDs0FczeKSqayk5C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Za poszukiwania \"z\u0142otego poci\u0105gu\" wzi\u0119\u0142a si\u0119 nowa ekipa. U\u017cywaj\u0105 okultystycznej metody",
+            "link": "https://www.msn.com/pl-pl/podroze/podr%C3%B3%C5%BCe-kolej%C4%85/za-poszukiwania-z%C5%82otego-poci%C4%85gu-wzi%C4%99%C5%82a-si%C4%99-nowa-ekipa-u%C5%BCywaj%C4%85-okultystycznej-metody/ar-AA1IRhhQ?ocid=BingNewsVerp",
+            "description": "Akcje poszukiwawcze legendarnego \"z\u0142otego poci\u0105gu\" towarzysz\u0105 nam od lat. To jedna z najwi\u0119kszych niewyja\u015bnionych zagadek II ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.ZFxjJ52mqGNKagoCYJtauS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Polskie Radio Bia\u0142ystok5 godz.",
-            "source": "Polskie Radio Bia\u0142ystok",
-            "article_content": "Moc weekendowych wydarze\u0144 kulturalnych w Podlaskiem. Festiwale, festyny i konkurs skok\u00f3w na nartach wodnych\n\nKolejny wakacyjny weekend w wojew\u00f3dztwie podlaskim zapowiada si\u0119 niezwykle ciekawie. Konkurs skok\u00f3w na nartach wodnych w Augustowie, festiwal Podlasie SlowFest, piknik rodzinny na Buduku czy kino plenerowe w Suwa\u0142kach - to tylko nieliczne z nadchodz\u0105cych atrakcji.\n\nLotto Netta Cup, fot. Marta So\u0142tys\n\nPi\u0105tek\n\nPodlasie SlowFest by \u0141OM\u017bA\n\nFestiwal Podlasie SlowFest rozpocznie si\u0119 w \u0141om\u017cy dwoma wydarzeniami muzycznymi - w pi\u0105tek spektaklem o charyzmatycznej Bonie Sforzy d`Aragonie z librettem Micha\u0142a Zab\u0142ockiego i w sobot\u0119 koncertem austriackiego zespo\u0142u o znacz\u0105cej nazwie SlowKlang. W kolejne wakacyjne dni muzyka zago\u015bci tak\u017ce w Supra\u015blu - szczeg\u00f3\u0142y dotycz\u0105ce festiwalu s\u0105 na stronie internetowej.\n\n\n\n\n\nS\u0142uchowisko \"Ob\u0142awa\" w Gibach\n\n\"Ob\u0142awa\" to wyj\u0105tkowe s\u0142uchowisko, kt\u00f3re przybli\u017ca tragiczne wydarzenia sprzed 80 lat. W pi\u0105tek w Gibach mieszka\u0144cy regionu b\u0119d\u0105 mieli okazj\u0119 wsp\u00f3lnie zg\u0142\u0119bi\u0107 losy ofiar Ob\u0142awy Augustowskiej - dawnych mieszka\u0144c\u00f3w dzisiejszego powiatu sejne\u0144skiego.\n\nHistoria zawarta w s\u0142uchowisku obejmuje trzy plany. Pierwszy to lipiec 1945 roku, gdy poznajemy nastoletni\u0105 dziewczyn\u0119 - g\u0142\u00f3wn\u0105 bohaterk\u0119. Potem kolejno, ona - ju\u017c jako starsza pani udziela wywiadu dziennikarce. W ostatniej ods\u0142onie dwaj wsp\u00f3\u0142cze\u015bni m\u0142odzi ludzie spr\u00f3buj\u0105 rozwik\u0142a\u0107 zagadk\u0119 sprzed 80 lat.\n\nPremiera \"Ob\u0142awy\" odby\u0142a si\u0119 w ubieg\u0142\u0105 niedziel\u0119 (13.07) w Studiu Rembrandt Polskiego Radia Bia\u0142ystok, kt\u00f3ry jest wsp\u00f3\u0142tw\u00f3rc\u0105 tego s\u0142uchowiska. Powsta\u0142o ono tak\u017ce przy wsp\u00f3\u0142pracy Instytutu Pami\u0119ci Narodowej oraz Radia Olsztyn.\n\nRodziny ofiar i mieszka\u0144cy regionu, na kt\u00f3rego terenach 80 lat temu aresztowano i wywieziono w nieznanym kierunku kilkaset os\u00f3b, spotkaj\u0105 si\u0119 w pi\u0105tek o 19:00 w ko\u015bciele pw. \u015bw Anny w Gibach, \u017ceby wsp\u00f3lnie wys\u0142ucha\u0107 \"Ob\u0142aw\u0119\" w re\u017cyserii Macieja Mydlaka.\n\n\n\n\n\nSobota\n\nKolejne spotkanie z jog\u0105 w Bia\u0142ymstoku\n\nW sobot\u0119 po raz kolejny w Ogrodach Pa\u0142acu Branickich b\u0119dzie mo\u017cna wzi\u0105\u0107 udzia\u0142 w zaj\u0119ciach z jogi. O 9:00 poprowadzi je nauczycielka jogi i podr\u00f3\u017cniczka Ania Chomczyk, czyli Joginka w podr\u00f3\u017cy. Jak si\u0119 przygotowa\u0107? Trzeba przynie\u015b\u0107 mat\u0119 do \u0107wicze\u0144, wod\u0119 i ubra\u0107 si\u0119 w str\u00f3j sportowy. Zaj\u0119cia s\u0105 darmowe.\n\nTerminy kolejnych spotka\u0144:\n\n26.07 (sobota 9:00-10:15)\n\n2.08 (sobota 9:00-10:15)\n\n9.08 (sobota 9:00-10:15)\n\n16.08 (sobota 9:00-10:15)\n\n23.08 (sobota 9:00-10:15)\n\n31.08 (niedziela 9:00-10:15)\n\n\n\n\n\n472. urodziny Zab\u0142udowa\n\nWiele atrakcji b\u0119dzie w sobot\u0119 w Zab\u0142udowie. Miasto obchodzi 472. urodziny i z tej okazji od 13:00 w Parku Dworskim b\u0119dzie mo\u017cna odwiedzi\u0107 wiosk\u0119 rekreacyjno-sportow\u0105, stoiska k\u00f3\u0142 gospody\u0144 wiejskich z produktami regionalnymi i stoiska animacyjne. B\u0119dzie tak\u017ce pokaz zabytkowych samochod\u00f3w, a imprez\u0119 u\u015bwietni\u0105 wyst\u0119py ma\u017coretek i takich zespo\u0142\u00f3w jak Dawid Szymczuk Band czy Kwestia 07. Gwiazd\u0105 wieczoru b\u0119dzie Zenon Martyniuk i Akcent Band.\n\nPodczas wydarzenia odb\u0119dzie si\u0119 zbi\u00f3rka charytatywna na rzecz Marysi Walczuk, prowadzona przez Stowarzyszenie Moto Dziki Podlasie we wsp\u00f3\u0142pracy z Fundacj\u0105 Podlascy Anio\u0142owie.\n\n\n\n\n\nDni Moniek\n\nW weekend odb\u0119d\u0105 si\u0119 Dni Moniek. Impreza rozpocznie si\u0119 w sobot\u0119 o 9:30 Turniejem Pla\u017cowej Pi\u0142ki Siatkowej w Szkole Podstawowej nr 2. Tego dnia b\u0119dzie te\u017c turniej pi\u0142ki no\u017cnej, szachowy i spartakiada senior\u00f3w.\n\nW niedziel\u0119 Dni Moniek rozpoczn\u0105 si\u0119 msz\u0105 \u015bwi\u0119ta w ko\u015bciele pw. \u015aw. Brata Alberta Chmielowskiego. P\u00f3\u017aniej w amfiteatrze miejskim b\u0119dzie wiele atrakcji - wyst\u0105pi\u0105 tacy arty\u015bci jak Drefix, Orlando, Toczyd\u0142owscy, X-Band czy Arek Braxton, a gwiazd\u0105 wieczoru b\u0119dzie Landberry.\n\nNie zabraknie atrakcji dla dzieci, a Oddzia\u0142 Rejonowy Polskiego Czerwonego Krzy\u017ca w Mo\u0144kach zaprasza do akcji oddawania krwi.\n\n\n\n\n\nFestiwal Ko\u0142owrotek w Krainie Otwartych Okiennic\n\n19 i 20 lipca odb\u0119dzie si\u0119 Festiwal Kultur Lokalnych Ko\u0142owrotek. W sobot\u0119 w Trze\u015bciance odb\u0119d\u0105 si\u0119 warsztaty tkackie, fotograficzne i snycerskie. W niedziel\u0119 w Kaniukach o 11:30 rozpocznie si\u0119 spacer kulturowy, a potem spotkanie z tw\u00f3rc\u0105 W\u0142odzimierzem Naumiukiem i koncert zespo\u0142u Hajda Banda.\n\nW Trze\u015bciance o 17:00 odb\u0119dzie si\u0119 potkanie z tkaczk\u0105 Urszul\u0105 Mendryk i warsztaty podczas kt\u00f3rych b\u0119dzie mo\u017cna pomalowa\u0107 p\u0142ot we wzory tkackie. Na zako\u0144czenie - pota\u0144c\u00f3wka z zespo\u0142em Hajda Banda.\n\nWydarzenia s\u0105 bezp\u0142atne, ale obowi\u0105zuj\u0105 zapisy drog\u0105 mailow\u0105 na adres festiwalkolowrotek@gmail.com.\n\n\n\n\n\nBarciowisko w Augustowie\n\nTo jednodniowa impreza, kt\u00f3rej celem jest pokazanie jak wa\u017cn\u0105 rol\u0119 w \u017cyciu cz\u0142owieka odkrywaj\u0105 pszczo\u0142y. W sobot\u0119 przy Hotelu Karmel w Augustowie po raz XII odb\u0119dzie si\u0119 impreza \u201eBarciowisko\u201d.\n\nB\u0119dzie mo\u017cna zobaczy\u0107 konkurs dziania k\u0142\u00f3d bartnych przy u\u017cyciu tradycyjnych narz\u0119dzi. Nadle\u015bnictwo August\u00f3w b\u0119dzie te\u017c prowadzi\u0107 warsztaty edukacyjne - b\u0119dzie mo\u017cna dowiedzie\u0107 si\u0119, jak\u0105 rol\u0119 pe\u0142ni\u0105 zapylacze w naszym \u015brodowisku i jak ka\u017cdy z nas mo\u017ce przyczyni\u0107 si\u0119 do ochronnych tych po\u017cytecznych istot. Pocz\u0105tek o 10:30.\n\n\n\n\n\nWyprzeda\u017c gara\u017cowa \u201eGara\u017cowe Love\u201d w Grab\u00f3wce\n\nKo\u0142o Gospody\u0144 Wiejskich \u201eS\u0142owia\u0144skie Wianki\u201d w Grab\u00f3wce zaprasza na wyprzeda\u017c gara\u017cow\u0105 \u201eGara\u017cowe Love\u201d w sobot\u0119 w godzinach 11:00-15:00 na boisku w Za\u015bciankach przy ulicy G\u00f3rka Tomka. Wej\u015bcie dla os\u00f3b sprzedaj\u0105cych jest mo\u017cliwe od godziny 10:00.\n\nB\u0119dzie mo\u017cna sprzeda\u0107 i kupi\u0107 nowe i u\u017cywane ubrania, buty, ksi\u0105\u017cki, zabawki, drobny sprz\u0119t gospodarstwa domowego czy naczynia. Niesprzedane przedmioty b\u0119dzie mo\u017cna przekaza\u0107 Stowarzyszeniu \u201eMy dla Innych\u201d, by wesprze\u0107 jego dzia\u0142ania na rzecz os\u00f3b z niepe\u0142nosprawno\u015bciami.\n\nPodczas wyprzeda\u017cy gara\u017cowej dzieci i doro\u015bli b\u0119d\u0105 mogli wzi\u0105\u0107 udzia\u0142 w kreatywnych zaj\u0119ciach - dowiedz\u0105 si\u0119 m.in. jak przygotowa\u0107 \u201e\u0142apacz sn\u00f3w\u201d.\n\n\n\n\n\nKonkurs Skok\u00f3w na Nartach Wodnych Netta Cup 2025\n\nTakie zawody mo\u017cna zobaczy\u0107 tylko w Augustowie. Ju\u017c w sobot\u0119 odb\u0119dzie si\u0119 tam Konkurs Skok\u00f3w na Nartach Wodnych Netta Cup 2025. Kilkunastu zawodnik\u00f3w b\u0119dzie rywalizowa\u0142o w dw\u00f3ch rundach dziennych oraz jednej nocnej.\n\nZawody rozpoczn\u0105 si\u0119 o godzinie 16:00. Nocne skoki b\u0119dzie mo\u017cna ogl\u0105da\u0107 od 21:30. To one s\u0105 najwi\u0119ksz\u0105 atrakcj\u0105 zawod\u00f3w, poniewa\u017c zawodnicy naje\u017cd\u017caj\u0105 z pr\u0119dko\u015bci\u0105 oko\u0142o 100 km/h na skoczni\u0119 i l\u0105duj\u0105 na wodzie jedynie przy \u015bwietle reflektor\u00f3w.\n\nZawody najlepiej obserwowa\u0107 na bulwarach przy hotelu Karmel lub na mo\u015bcie na ulicy Mostowej. Wst\u0119p jest bezp\u0142atny.\n\n\n\n\n\nFestiwal \"Na Iwana na Kupa\u0142a\" w Dubiczach Cerkiewnych\n\nNad zalewem Bachmaty w Dubiczach Cerkiewnych zap\u0142on\u0105 kupalskie ogniska, a na jego wodach pop\u0142yn\u0105 wianki. Malownicze miejsce, inscenizacja prastarego obrz\u0119du i ukrai\u0144ska muzyka - takie atrakcje, rokrocznie, w lipcu przyci\u0105gaj\u0105 do tej miejscowo\u015bci w powiecie hajnowskim tysi\u0105ce os\u00f3b na festiwal \u201eNa Iwana na Kupa\u0142a\u201d.\n\nTegoroczn\u0105 ukrai\u0144sk\u0105 noc Kupa\u0142y nad zalewem Bachmaty rozpocznie o 17:30 korowod\u00f3w uczestnik\u00f3w. Nast\u0119pnie na festiwalowej scenie zaprezentuj\u0105 si\u0119 arty\u015bci z Polski i Ukrainy. W ich wykonaniu mo\u017cna b\u0119dzie us\u0142ysze\u0107 ukrai\u0144sk\u0105 tradycyjn\u0105, folkow\u0105, a tak\u017ce estradow\u0105 muzyk\u0119.\n\nKulminacyjnym punktem wydarzenia jest folklorystyczne widowisko nocy Kupa\u0142y - z ogniskami, wiankami i obowi\u0105zkow\u0105 k\u0105piel\u0105 dla tych, kt\u00f3rzy chc\u0105 je wy\u0142owi\u0107. Inscenizacj\u0119 staro\u017cytnego obrz\u0119du dope\u0142niaj\u0105 fajerwerki. Imprez\u0119 zako\u0144czy folk-rockowy koncert zespo\u0142\u00f3w \u201eHoyraky\u201d i \u201eHarazd\u201d oraz ukrai\u0144ska folkowa dyskoteka.\n\nKoncertom towarzyszy\u0107 b\u0119dzie Jarmark Kupalski, z r\u0119kodzie\u0142em z Polski i Ukrainy oraz regionaln\u0105 kuchni\u0105.\n\n\n\n\n\nNiedziela\n\nWernisa\u017c wystawy \u201eZio\u0142a w kulturze ludowej\u201d\n\nNa terenie Podlaskiego Muzeum Kultury Ludowej w niedziel\u0119 b\u0119dzie mo\u017cna wzi\u0105\u0107 udzia\u0142 w wernisa\u017cu wystawy \u201eZio\u0142a w kulturze ludowej\u201d. W programie atrakcje dla dzieci, degustacje napoj\u00f3w zio\u0142owych a tak\u017ce warsztaty ucierania pieprzu zio\u0142owego, wykonywania magnes\u00f3w i kosmetyk\u00f3w naturalnych.\n\nNa te ostatnie trzeba si\u0119 wcze\u015bniej zapisa\u0107 pod numerem 509 336 816. Na wszystkie pozosta\u0142e atrakcje - wst\u0119p wolny.\n\n\n\n\n\n\u015awi\u0119to pu\u0142ku w Augustowie\n\nByli bohaterami, a miastu nadali blask - dzi\u015b mieszka\u0144cy czcz\u0105 ich pami\u0119\u0107. W niedziel\u0119 w Augustowie odb\u0119dzie si\u0119 \u015awi\u0119to 1 Pu\u0142ku U\u0142an\u00f3w Krechowieckich imienia pu\u0142kownika Boles\u0142awa Mo\u015bcickiego.\n\nUroczysto\u015bci rozpoczn\u0105 si\u0119 msz\u0105 \u015bwi\u0119t\u0105 o godzinie 12:00 w ko\u015bciele pw. Matki Boskiej Cz\u0119stochowskiej. Po nabo\u017ce\u0144stwie zaplanowano okoliczno\u015bciowe przem\u00f3wienia, wr\u0119czenie wyr\u00f3\u017cnie\u0144 i odznak, a tak\u017ce apel pami\u0119ci i salw\u0119 honorow\u0105. Natomiast o 14:00 przy amfiteatrze obok Pla\u017cy Miejskiej rozpocznie si\u0119 piknik wojskowy.\n\n\u015awi\u0119to 1 Pu\u0142ku U\u0142an\u00f3w Krechowieckich jest obchodzone w ca\u0142ej Polsce 24 lipca, na pami\u0105tk\u0119 bitwy pod Krechowicami w lipcu 1917 roku. W\u00f3wczas pu\u0142k powstrzyma\u0142 natarcie Niemc\u00f3w na Stanis\u0142aw\u00f3w. Krechowiacy w dwudziestoleciu mi\u0119dzywojennym stacjonowali w Augustowie.\n\n\n\n\n\nPiknik Rodzinny na Buduku\n\nNadle\u015bnictwo G\u0142\u0119boki Br\u00f3d i Fundacja Buduk zapraszaj\u0105 do lasu na piknik pe\u0142en atrakcji. W niedziel\u0119 w Gaj\u00f3wce Buduk w Gulbinie od 10:00 b\u0119d\u0105 zaj\u0119cia z le\u015bnikami, poszukiwanie mchu i paproci, wyk\u0142ady o drewnie czy warsztaty plastyczne.\n\nImprez\u0119 u\u015bwietni\u0105 wyst\u0119py takich wykonawc\u00f3w jak Jazz Tr\u0105balski i Piano Blues Band.\n\n\n\n\n\nKino plenerowe na suwalskich bulwarach\n\nB\u0119dzie mo\u017cna za darmo obejrze\u0107 filmy pod go\u0142ym niebem. W niedziel\u0119 Suwalski O\u015brodek Kultury rozpoczyna cykl darmowych pokaz\u00f3w filmowych na bulwarach nad Czarn\u0105 Ha\u0144cz\u0105. B\u0119dzie co\u015b dla dzieci i m\u0142odzie\u017cy, dla koneser\u00f3w starego kina oraz hity kinowe.\n\nNa pocz\u0105tek, w niedziel\u0119 o 11:00 Suwalska Grupa Filmowa zaprasza na pokaz film\u00f3w kr\u00f3tkometra\u017cowych. Tego dnia o 13:00 b\u0119dzie mo\u017cna obejrze\u0107 tak\u017ce \u201ePrzygody B\u0142\u0119kitnego Rycerzyka\u201d.\n\nPe\u0142en repertuar dost\u0119pny jest na stronie Suwalskiego O\u015brodka Kultury.\n\n\n\n\n\nVII Dzie\u0144 Rodziny w Hodyszewie\n\nTo czas dobrej zabawy, rodzinnych spotka\u0144, ale tak\u017ce okazja, \u017ceby wesprze\u0107 Fundacj\u0119 Pojednanie. W niedziel\u0119 w Hodyszewie odb\u0119dzie si\u0119 VII Dzie\u0144 Rodziny. Organizatorzy przygotowali koncerty, konkursy i atrakcje dla najm\u0142odszych. Zaplanowane jest tak\u017ce debata mi\u0119dzypokoleniowa.\n\nNa stoiskach b\u0119dzie mo\u017cna cofn\u0105\u0107 si\u0119 w czasie i ogl\u0105da\u0107 sprz\u0119ty i pojazdy z czas\u00f3w PRL. Zaprezentuj\u0105 si\u0119 r\u00f3wnie\u017c bracia kurkowi.\n\nW czasie ca\u0142ej imprezy b\u0119d\u0105 licytacje, loterie i zbi\u00f3rka pieni\u0119dzy na rzecz Fundacji Pojednanie. B\u0119d\u0105 one wykorzystanie na budow\u0119 o\u015brodka terapii dla os\u00f3b uzale\u017cnionych i pomocy rodzinie w Hodyszewie.\n\nFestyn rozpoczyna si\u0119 w niedzielne po\u0142udnie msz\u0105 w Sanktuarium Matki Bo\u017cej Pojednania w Hodyszewie. Patronat nad imprez\u0105 ma Polskie Radio Bia\u0142ystok.\n\n| red: bs"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Tajemnicza twarz sprzed tysi\u0105ca lat. Le\u017ca\u0142a na dnie jeziora Lednickiego",
-            "link": "https://poznan.wyborcza.pl/poznan/7,36001,32111490,tajemnicza-twarz-sprzed-tysiaca-lat-znaleziono-ja-na-dnie-jeziora.html",
-            "description": "Zesp\u00f3\u0142 archeolog\u00f3w podwodnych z Uniwersytetu Miko\u0142aja Kopernika w Toruniu, wsp\u00f3\u0142pracuj\u0105cy z Muzeum Pierwszych Piast\u00f3w na ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.CM3pIjxXHaLkei%2bN14n6fQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Pozna\u0144.Wyborcza.pl9 godz.",
-            "source": "Pozna\u0144.Wyborcza.pl",
+            "date": "naTemat.pl on MSN1 godz.",
+            "source": "naTemat.pl on MSN",
             "article_content": ""
         }
     },
@@ -282,8 +282,24 @@
             "description": "Gdyby J\u00f3zef Majnert poprzesta\u0142 na podrabianiu poszukiwanych przez kolekcjoner\u00f3w monet historycznych, zapewne nie zyska\u0142by ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.MUuwfQnju7pmrVGN_vKpnC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Rzeczpospolita on MSN8 godz.",
+            "date": "Rzeczpospolita on MSN11 godz.",
             "source": "Rzeczpospolita on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Ca\u0142y \u015bwiat m\u00f3wi o tym znalezisku nad polskim Ba\u0142tykiem. \"Odkrycie stulecia\"",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/ca%C5%82y-%C5%9Bwiat-m%C3%B3wi-o-tym-znalezisku-nad-polskim-ba%C5%82tykiem-odkrycie-stulecia/ar-AA1IR8hu?ocid=BingNewsVerp",
+            "description": "Ko\u0142obrzeg kojarzy si\u0119 Polakom g\u0142\u00f3wnie z Morzem Ba\u0142tyckim i szerok\u0105 pla\u017c\u0105. W tym popularnym uzdrowisku s\u0105 jednak inne atrakcje ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.alwl8RcOcFcW2z9gzCE7Ji&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "odkrycie+zabytkowe+przedmiot",
+            "date": "Wiadomo\u015bci Radio ZET on MSN1 godz.",
+            "source": "Wiadomo\u015bci Radio ZET on MSN",
             "article_content": ""
         }
     },
@@ -295,10 +311,10 @@
         "body": {
             "title": "Niezwyk\u0142e odkrycie w niewielkiej wsi w Polsce. Znale\u017ali dzie\u0142a w\u0142oskiego mistrza",
             "link": "https://turystyka.wp.pl/niezwykle-odkrycie-w-niewielkiej-wsi-w-polsce-znalezli-dziela-wloskiego-mistrza-7179587142658784a",
-            "description": "Barokowe malowid\u0142a autorstwa w\u0142oskiego mistrza Francesco Arculario odkryto w polskim klasztorze. Rzuca to nowe \u015bwiat\u0142o na ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.PbYRfefCQm_K3qKX75TdFS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "description": "Barokowe malowid\u0142a autorstwa w\u0142oskiego mistrza Francesco Arculario odkryto w polskim klasztorze. Rzuca to nowe \u015bwiat\u0142o na histori\u0119 niewielkiej wsi w wojew\u00f3dztwie lubuskim, gdzie dokonano artystycznego ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.w5yo2cGK5kAWe0d0_ELtAw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "WP Turystyka2 godz.",
+            "date": "WP Turystyka6 godz.",
             "source": "WP Turystyka",
             "article_content": "Podczas prac konserwatorskich w kapitularzu dawnego klasztoru cysters\u00f3w w Go\u015bcikowie-Parady\u017cu odkryto barokowe freski. Barbara Bielinis-Kope\u0107, lubuska konserwator zabytk\u00f3w, poinformowa\u0142a, \u017ce autorem malowide\u0142 jest w\u0142oski artysta Francesco Arculario, co ustali\u0142 prof. Andrzej Kozie\u0142.\n\nFreski przedstawiaj\u0105 sceny z \u017cycia \u015bwi\u0119tych cysterskich, w tym \u015bwi\u0119tego Benedykta i \u015bwi\u0119tego Bernarda z Clairvaux. Prof. Kozie\u0142 wyja\u015bni\u0142, \u017ce malowid\u0142a powsta\u0142y w latach 1747-1752, kiedy Arculario przebywa\u0142 w Wielkopolsce. Dzi\u0119ki technice fresku mokrego, malowid\u0142a zachowa\u0142y si\u0119 w doskona\u0142ym stanie.\n\nRozwi\u0144\n\nHistoria klasztoru\n\nGo\u015bcikowo to wie\u015b w Polsce po\u0142o\u017cona w wojew\u00f3dztwie lubuskim, w powiecie \u015bwiebodzi\u0144skim. Parady\u017c jest jej cz\u0119\u015bci\u0105 obejmuj\u0105c\u0105 historyczne zabudowania ko\u015bcielne i klasztorne przy drodze \u0142\u0105cz\u0105cej Zielon\u0105 G\u00f3r\u0119 z Gorzowem Wielkopolskim. Historyczna nazwa Parady\u017c pochodzi od sformu\u0142owania Paradisus Sanctae Mariae czyli Raj Matki Bo\u017cej, kt\u00f3ra by\u0142a nazw\u0105 nadan\u0105 miejscowo\u015bci po przybyciu do niej cysters\u00f3w.\n\nDalsza cz\u0119\u015b\u0107 artyku\u0142u pod materia\u0142em wideo\n\nJak podr\u00f3\u017cuj\u0105 Polacy? Nie tylko wyjazdy w lipcu i sierpniu\n\nKlasztor w Go\u015bcikowie-Parady\u017cu powsta\u0142 w XIII w. i funkcjonowa\u0142 przez blisko sze\u015b\u0107set lat, a\u017c do jego likwidacji przez w\u0142adze pruskie w 1834 r. Po wojnie teren sta\u0142 si\u0119 w\u0142asno\u015bci\u0105 Ko\u015bcio\u0142a rzymskokatolickiego i jest obecnie dost\u0119pny dla zwiedzaj\u0105cych.\n\nPlany na przysz\u0142o\u015b\u0107\n\nBarbara Bielinis-Kope\u0107 podkre\u015bli\u0142a, \u017ce obecne fundusze pozwalaj\u0105 jedynie na prace przy sklepieniach, ale istnieje nadzieja na dalsze wsparcie finansowe. Odkryto tak\u017ce dekoracje malarskie na \u015bcianach, kt\u00f3re wymagaj\u0105 dalszych bada\u0144 i konserwacji.\n\nOdkrycie fresk\u00f3w w Go\u015bcikowie-Parady\u017cu to wa\u017cny krok w badaniach nad histori\u0105 tego miejsca, kt\u00f3re wci\u0105\u017c kryje wiele tajemnic."
         }
