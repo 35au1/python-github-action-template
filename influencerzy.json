@@ -5,77 +5,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Takie s\u0105 najcenniejsze monety PRL. Taka moneta 10 groszy kosztuje a\u017c 33 tysi\u0105ce",
-            "link": "https://www.msn.com/pl-pl/finanse/finanse-osobiste/takie-s%C4%85-najcenniejsze-monety-prl-taka-moneta-10-groszy-kosztuje-a%C5%BC-33-tysi%C4%85ce/ar-AA1JdbOm?ocid=BingNewsVerp",
-            "description": "Monety z PRL mog\u0105 mie\u0107 spor\u0105 warto\u015b\u0107, cho\u0107 w sklepie ju\u017c nimi nie zap\u0142acimy. Kolekcjonerzy poluj\u0105 w szczeg\u00f3lno\u015bci na ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.1HbzDTdaOBQotZ7pR8W2Vi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "Toru\u0144 Nasze Miasto on MSN8 godz.",
-            "source": "Toru\u0144 Nasze Miasto on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Masz te banknoty? To prawdziwe skarby! Za jeden mo\u017cesz otrzyma\u0107 kilka tysi\u0119cy z\u0142otych! [ZDJ\u0118CIA] 24.07.2025",
-            "link": "https://gs24.pl/masz-te-banknoty-to-prawdziwe-skarby-za-jeden-mozesz-otrzymac-kilka-tysiecy-zlotych-zdjecia-24072025/ar/c1-17930573",
-            "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je przejrze\u0107, bo niekt\u00f3re warte s\u0105 obecnie naprawd\u0119 sporo. Kolekcjonerzy p\u0142ac\u0105 z ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stare+monety",
-            "date": "G\u0142os Szczeci\u0144ski22 godz.",
-            "source": "G\u0142os Szczeci\u0144ski",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Stare telefony kom\u00f3rkowe, kt\u00f3re dzi\u015b s\u0105 warte fortun\u0119. Masz takie? 24.07.2025",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/stare-telefony-kom%C3%B3rkowe-kt%C3%B3re-dzi%C5%9B-s%C4%85-warte-fortun%C4%99-masz-takie-24-07-2025/ar-AA1Hsewg?ocid=BingNewsVerp",
-            "description": "W erze superszybkich smartfon\u00f3w z potr\u00f3jnymi aparatami, ekranami AMOLED i sztuczn\u0105 inteligencj\u0105 na pok\u0142adzie, ma\u0142o kto spodziewa\u0142by si\u0119, \u017ce to w\u0142a\u015bnie telefony sprzed 20 lat prze\u017cywaj\u0105 dzi\u015b drug\u0105 m\u0142od ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stare+monety",
-            "date": "G\u0142os Pomorza on MSN14 godz.",
-            "source": "G\u0142os Pomorza on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Kurs JPY/PLN 24 lipca 2025 r.",
-            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/kurs-jpypln-24-lipca-2025-r/ar-AA1JbDag?ocid=BingNewsVerp",
-            "description": "Jad\u0105c do Japonii czy to w celach turystycznych, czy te\u017c biznesowych, warto zna\u0107 aktualny kurs jena (JPY). Z tego artyku\u0142u ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.vEp3OYPtpUEAcX-Ut3RAeC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "Business Insider Polska on MSN15 godz.",
-            "source": "Business Insider Polska on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Wernisa\u017c obraz\u00f3w Anny Bere\u017anickiej-Kalkowskiej - Drugie \u017cycie",
-            "link": "https://www.trojmiasto.pl/imprezy/Wernisaz-obrazow-Anny-Bereznickiej-Kalkowskiej-Drugie-zycie-imp578469.html",
-            "description": "Zapraszamy na wernisa\u017c wystawy obraz\u00f3w Anny Bere\u017anickiej-Kalkowskiej - Drugie \u017cycie w sobot\u0119, 26 lipca, o godz. 17:00!",
-            "image_url": "https://www.bing.pl/th?id=ODF.TioSfvyB6Ie4qA25KB6RoA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Stalowa wola odkomarzanie",
+            "link": "https://echodnia.eu/podkarpackie/tag/stalowa-wola-odkomarzanie",
+            "description": "Upalne i suche lato sprawia, \u017ce niewiele komar\u00f3w dokucza mieszka\u0144com Stalowej Woli. Jednak odkomarzanie jest konieczne, o czym \u015bwiadcz\u0105 g\u0142osy os\u00f3b ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.xmtGTJHQSE_v4D-CWxbvsQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Trojmiasto.pl7 godz.",
-            "source": "Trojmiasto.pl",
+            "date": "Echo Dnia6 godz.",
+            "source": "Echo Dnia",
             "article_content": "Content not available"
         }
     },
@@ -90,9 +26,25 @@
             "description": "Je\u015bli najbli\u017cszy weekend sp\u0119dzacie w \u0141om\u017cy to wcale nie b\u0119dziecie si\u0119 nudzi\u0107. Nie brakuje opcji zar\u00f3wno na gorsz\u0105 jak i ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.O3f5gaPf2x7hy44i0eMB6i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Eska Regiony on MSN11 godz.",
+            "date": "Eska Regiony on MSN16 godz.",
             "source": "Eska Regiony on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Wernisa\u017c obraz\u00f3w Anny Bere\u017anickiej-Kalkowskiej - Drugie \u017cycie",
+            "link": "https://www.trojmiasto.pl/imprezy/Wernisaz-obrazow-Anny-Bereznickiej-Kalkowskiej-Drugie-zycie-imp578469.html",
+            "description": "Zapraszamy na wernisa\u017c wystawy obraz\u00f3w Anny Bere\u017anickiej-Kalkowskiej - Drugie \u017cycie w sobot\u0119, 26 lipca, o godz. 17:00!",
+            "image_url": "https://www.bing.pl/th?id=ODF.TioSfvyB6Ie4qA25KB6RoA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "targ+staroci",
+            "date": "Trojmiasto.pl12 godz.",
+            "source": "Trojmiasto.pl",
+            "article_content": "Content not available"
         }
     },
     {
@@ -106,7 +58,7 @@
             "description": "Lato w Lublinie nabiera rozp\u0119du, a ostatni weekend lipca zapowiada si\u0119 wyj\u0105tkowo intensywnie. Na mieszka\u0144c\u00f3w i turyst\u00f3w czekaj\u0105 wydarzenia plenerowe, festiwale, jarmarki, koncerty i widowiska. Niezale ...",
             "image_url": "https://www.bing.pl/th?id=ODF.r4JwLyIyRiNXNS2u8RPM0A&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Eska Regiony on MSN7 godz.",
+            "date": "Eska Regiony on MSN12 godz.",
             "source": "Eska Regiony on MSN",
             "article_content": ""
         }
@@ -118,11 +70,11 @@
         },
         "body": {
             "title": "Ta osada przez dziesi\u0119ciolecia nie mia\u0142a kanalizacji ani infrastruktury. Mieszka\u0144cy m\u00f3wili, \u017ce s\u0105 w \u0141odzi \"tylko na papierze\"",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/ta-osada-przez-dziesi%C4%99ciolecia-nie-mia%C5%82a-kanalizacji-ani-infrastruktury-mieszka%C5%84cy-m%C3%B3wili-%C5%BCe-s%C4%85-w-%C5%82odzi-tylko-na-papierze/ar-AA1JcZfo?ocid=BingNewsVerp",
+            "link": "https://www.msn.com/pl-pl/historia-i-kultura-spo%C5%82ecze%C5%84stwa/historia/ta-osada-przez-dziesi%C4%99ciolecia-nie-mia%C5%82a-kanalizacji-ani-infrastruktury-mieszka%C5%84cy-m%C3%B3wili-%C5%BCe-s%C4%85-w-%C5%82odzi-tylko-na-papierze/ar-AA1JcZfo?ocid=BingNewsVerp",
             "description": "Mileszki to peryferyjne osiedle \u0141odzi z bogat\u0105 histori\u0105, si\u0119gaj\u0105c\u0105 czas\u00f3w wcze\u015bniejszych ni\u017c powstanie samego miasta. Od ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.usbBhlwEJPssFnd42_QkHS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "\u0141\u00f3d\u017a Radio ESKA on MSN6 godz.",
+            "date": "\u0141\u00f3d\u017a Radio ESKA on MSN14 godz.",
             "source": "\u0141\u00f3d\u017a Radio ESKA on MSN",
             "article_content": ""
         }
@@ -138,8 +90,40 @@
             "description": "S\u0105siaduj\u0105ca z bazylik\u0105 kamienica przy Ko\u015bcielnej 7 w Grudzi\u0105dzu skrywa ciekawostki historyczne. Niestety, nie s\u0105 powszechnie ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.iyZ-PfmmKfMLEPlzcRZ9-S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Gazeta Pomorska on MSN15 godz.",
+            "date": "Gazeta Pomorska on MSN20 godz.",
             "source": "Gazeta Pomorska on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "25 LIPCA 2025",
+            "link": "https://krakow.pl/kalendarium/1919,shw,2025-07-25,8,day.html",
+            "description": "Wystawa mie\u015bci si\u0119 w dawnym budynku administracyjnym Fabryki Emalia Oskara Schindlera przy ul. Lipowej 4 i jest opowie\u015bci\u0105 o Krakowie i losach jego polskich i \u017cydowskich mieszka\u0144c\u00f3w w czasie II wojny ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "zabytkowe+przedmioty",
+            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w3 godz.",
+            "source": "Oficjalny serwis miejski - Magiczny Krak\u00f3w",
+            "article_content": "Krak\u00f3w \u2013 czas okupacji 1939-1945\n\nWystawa mie\u015bci si\u0119 w dawnym budynku administracyjnym Fabryki Emalia Oskara Schindlera przy ul. Lipowej 4 i jest opowie\u015bci\u0105 o Krakowie i losach jego polskich i \u017cydowskich mieszka\u0144c\u00f3w w czasie II wojny \u015bwiatowej, ale te\u017c o Niemcach \u2013 okupantach,..."
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "\u015aremska Fara kryje niejedn\u0105 tajemnic\u0119 i ciekawostk\u0119",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/%C5%9Bremska-fara-kryje-niejedn%C4%85-tajemnic%C4%99-i-ciekawostk%C4%99/ar-AA1ITOo5?ocid=BingNewsVerp",
+            "description": "Historia \u015bremskiej Fary jest bardzo ciekawa. Okazj\u0105 do poznania kilku fakt\u00f3w na temat tej \u015bwi\u0105tyni by\u0142y spacery historyczne ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.foRnkhFrydPcfiV_cYhRoy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "\u015arem Nasze Miasto on MSN18 godz.",
+            "source": "\u015arem Nasze Miasto on MSN",
             "article_content": ""
         }
     },
@@ -154,25 +138,9 @@
             "description": "Szukali pozosta\u0142o\u015bci po testowanej podczas II wojny \u015bwiatowej rakiecie V-2, a znale\u017ali trzy garnki. Ten ostatni mo\u017ce by\u0107 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.Z8ZZbl93T4Y82p5PupNTxC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "TVN249 godz.",
+            "date": "TVN2415 godz.",
             "source": "TVN24",
             "article_content": "Znale\u017ali garnek ze z\u0142otem sprzed dw\u00f3ch tysi\u0119cy lat \u0179r\u00f3d\u0142o: Kaliskie Stowarzyszenie Poszukiwaczy \u015alad\u00f3w Historii DENAR\n\nPos\u0142uchaj artyku\u0142u Wykup subskrypcj\u0119 TVN24+, aby pos\u0142ucha\u0107 artyku\u0142u.\n\n\n\nMasz subskrypcj\u0119? Zaloguj si\u0119. Dowiedz si\u0119 wi\u0119cej Udost\u0119pnij Facebook Kopiuj link\n\nKaliskie Stowarzyszenie Poszukiwaczy \u015alad\u00f3w Historii DENAR od kilku tygodni prowadzi prace w okolicach Kalisza. Dok\u0142adnej lokalizacji nie mog\u0105 poda\u0107 ze wzgl\u0119d\u00f3w bezpiecze\u0144stwa. A jest co chroni\u0107.\n\nW ci\u0105gu pi\u0119ciu tygodni badacze znale\u017ali trzy garnki - dwa pierwsze datowane s\u0105 na okres wczesnego \u015bredniowiecza. Ostatnie znalezisko mo\u017ce by\u0107 szczeg\u00f3lne cenne. Pod ziemi\u0105 trafili na garnek ze z\u0142otem.\n\n- Tym razem znale\u017ali\u015bmy skarb innej kultury. Mo\u017ce by\u0107 z okresu wp\u0142yw\u00f3w rzymskich, a mo\u017ce nawet przedrzymskich. Mo\u017cliwe, \u017ce jest to garnek datowany na II wiek przed nasz\u0105 er\u0105 do IV wieku naszej ery. Dok\u0142adne datowanie b\u0119dzie mo\u017cliwe dopiero w momencie, kiedy ten garnek zostanie otwarty i eksperci wezm\u0105 go na warsztat - m\u00f3wi nam Przemys\u0142aw Kurowiak, prezes Kaliskiego Stowarzyszenia Poszukiwaczy \u015alad\u00f3w Historii DENAR.\n\nTo si\u0119 nie dzieje naprawd\u0119 !!! My znale\u017ali\u015bmy koniec t\u0119czy \ud83d\ude0d Garnek nr. 3 \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d Posted by DENAR Kalisz - Stowarzyszenie Poszukiwaczy \u015alad\u00f3w Historii on Sunday, July 13, 2025 Rozwi\u0144\n\nJak dodaje, eksploratorzy podejrzewaj\u0105, \u017ce skarb mo\u017ce mie\u0107 ponad dwa tysi\u0105ce lat, bo to w\u0142a\u015bnie tamte kultury sk\u0142ada\u0142y w darach, w grobach tego typu z\u0142ote elementy. Dodatkowo na kultur\u0119 przedrzymsk\u0105 lub rzymsk\u0105 mo\u017ce wskazywa\u0107 sama ceramika.\n\n\"Z\u0142oty Graal\" i \"koniec t\u0119czy\"\n\nNa nagraniach i zdj\u0119ciach z prac Kaliskiego Stowarzyszenia Poszukiwaczy \u015alad\u00f3w Historii DENAR wyra\u017anie wida\u0107 wystaj\u0105cy z garnka z\u0142oty element. Na pocz\u0105tku podejrzewali, \u017ce to bransoletka. Po pierwszych, wst\u0119pnych badaniach rentgenowskich pojawi\u0142y si\u0119 jednak w\u0105tpliwo\u015bci.\n\n- Mo\u017ce to by\u0107 naszyjnik. Na zdj\u0119ciu rentgenowskim jest zarys, \u017ce mo\u017ce to by\u0107 posk\u0142adany naszyjnik. Tak to wygl\u0105da, ale nie mo\u017cemy tego potwierdzi\u0107, dop\u00f3ki nie zostanie to wydobyte - m\u00f3wi Kurowiak. I dodaje: - R\u00f3\u017cnie si\u0119 przedmioty uk\u0142adaj\u0105 w garnku. Kiedy\u015b my\u015bleli\u015bmy, \u017ce znale\u017ali\u015bmy sygnet, a si\u0119 okaza\u0142o, \u017ce to monety si\u0119 tak u\u0142o\u017cy\u0142y i by\u0142o takie z\u0142udzenie.\n\nJak twierdzi, monet tam raczej nie ma, prawdopodobnie jest sama bi\u017cuteria.\n\nZnale\u017ali garnek ze z\u0142otem. Mo\u017ce mie\u0107 ponad dwa tysi\u0105ce lat \u0179r\u00f3d\u0142o: Kaliskie Stowarzyszenie Poszukiwaczy \u015alad\u00f3w Historii DENAR\n\nStowarzyszenie DENAR na skarby trafi\u0142o przypadkiem. Szukali szcz\u0105tk\u00f3w rakiety V-2 z czas\u00f3w II wojny \u015bwiatowej, kt\u00f3re by\u0142y testowane w tym regionie. - Szli\u015bmy takim \u015bladem, ale jak to w \u017cyciu bywa, cz\u0142owiek szuka czego\u015b innego i znajduje co\u015b innego - m\u00f3wi prezes.\n\nBadacze nie kryj\u0105 szcz\u0119\u015bcia. Podkre\u015blaj\u0105, \u017ce garnek ze z\u0142otem to bardzo cenne znalezisko.\n\n- Kiedy takie skarby odkrywane s\u0105 przypadkowo, mog\u0105 zosta\u0107 przez przypadek uszkodzone. My znale\u017ali\u015bmy trzy garnki i tak, jak te dwa zakopano 950 lat temu, a trzeci dwa tysi\u0105ce lat temu, tak je wykopali\u015bmy. To jest \u015awi\u0119ty Graal dla archeolog\u00f3w - podkre\u015bla Kurowiak.\n\nZnale\u017ali garnek ze z\u0142otem. Mo\u017ce mie\u0107 ponad dwa tysi\u0105ce lat \u0179r\u00f3d\u0142o: Kaliskie Stowarzyszenie Poszukiwaczy \u015alad\u00f3w Historii DENAR\n\nSamo znalezienie trzech garnk\u00f3w w tak kr\u00f3tkim odst\u0119pie czasu jest rzadko\u015bci\u0105.\n\n- M\u00f3j kolega powiedzia\u0142, \u017ce znale\u017ali\u015bmy koniec t\u0119czy, wiemy, gdzie ona jest - m\u00f3wi Kurowiak.\n\nDyrektor muzeum: tyle czasu le\u017ca\u0142y w ziemi, warto poczeka\u0107\n\nWszystkie znaleziska trafi\u0105 do Muzeum Okr\u0119gowego Ziemi Kaliskiej. Zanim jednak b\u0119dzie mo\u017cna je zobaczy\u0107, minie jeszcze troch\u0119 czasu. Garnki musz\u0105 zosta\u0107 dok\u0142adnie przebadane, wpisane do rejestru zabytk\u00f3w, skatalogowane i zakonserwowane.\n\n- Skoro tyle czasu le\u017ca\u0142y w ziemi, to warto jeszcze troch\u0119 poczeka\u0107. Nie mo\u017cna si\u0119 spieszy\u0107, \u017ceby nie pope\u0142ni\u0107 niepotrzebnych b\u0142\u0119d\u00f3w, \u017ceby niczego nie uszkodzi\u0107 - m\u00f3wi nam Marcin Magdzi\u0144ski, dyrektor Muzeum Okr\u0119gowego Ziemi Kaliskiej.\n\nDodaje, \u017ce w ostatnim garnku mo\u017ce by\u0107 jedynie z\u0142oty naszyjnik. Tak wynika z badania tomografem.\n\n- To jednak wst\u0119pne badanie, kt\u00f3re musi zosta\u0107 jeszcze opracowane przez lekarzy - t\u0142umaczy dyrektor. I dodaje: - Dwa wcze\u015bniej odkryte garnki, te z wczesnego \u015bredniowiecza, r\u00f3wnie\u017c do nas trafi\u0105. Na razie tylko z jednego zosta\u0142y wydobyte przedmioty.\n\nNa pocz\u0105tek skarby trafi\u0105 na wystaw\u0119 czasow\u0105, p\u00f3\u017aniej mo\u017ce te\u017c na wystaw\u0119 sta\u0142\u0105.\n\nInna dzia\u0142ka, inna epoka, kolejny skarb \ud83d\ude0d To niewiarygodne wr\u0119cz Historyczne ale w ci\u0105gu pi\u0119ciu tygodni uda\u0142o nam si\u0119... Posted by DENAR Kalisz - Stowarzyszenie Poszukiwaczy \u015alad\u00f3w Historii on Monday, July 14, 2025 Rozwi\u0144"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "W dwie godziny dooko\u0142a \u015bwiata",
-            "link": "https://gazetaolsztynska.pl/1191067,W-dwie-godziny-dookola-swiata.html",
-            "description": "Zrozumie\u0107 i poczu\u0107 \u015bwiat Warto podkre\u015bli\u0107, \u017ce muzeum jest otwarte codziennie, r\u00f3wnie\u017c w niedziele (od godziny 11), a ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.7xMligugTyVeTIucC8%2fC6A&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Olszty\u0144ska11 godz.",
-            "source": "Gazeta Olszty\u0144ska",
-            "article_content": "Grupa s\u0142uchaczy Uniwersytetu Trzeciego Wieku z Dobrego Miasta, jak zwykle ciekawa otaczaj\u0105cej rzeczywisto\u015bci, 22 lipca wybra\u0142a si\u0119 na jednodniow\u0105 wycieczk\u0119 do Seminarium Ksi\u0119\u017cy Werbist\u00f3w w Pieni\u0119\u017cnie - \"misyjnego serca Polski\", jak o nim powiedzia\u0142 jeden z ksi\u0119\u017cy biskup\u00f3w. Bez w\u0105tpienia miejsca wyj\u0105tkowego. Sporo os\u00f3b, mimo \u017ce pochodz\u0105 przecie\u017c st\u0105d, nie wiedzia\u0142o o jego istnieniu. Dlaczego o tym pisz\u0119? Poniewa\u017c nadal wielu mieszka\u0144c\u00f3w naszego regionu nie zdaje sobie sprawy, \u017ce mamy tak blisko tak wspania\u0142y i cenny kulturowo zak\u0105tek.\n\nZostali\u015bmy w Pieni\u0119\u017cnie przyj\u0119ci z ogromn\u0105 serdeczno\u015bci\u0105 i go\u015bcinno\u015bci\u0105. Spotkali si\u0119 z nami ojciec dr Jan Bocian SVD, ojciec mgr lic. Ireneusz Piskorek SVD oraz kleryk \u0141ukasz Go\u0142awski (ubieg\u0142oroczny, sympatyczny m\u00f3j student z UWM w Olsztynie), kt\u00f3rym bardzo dzi\u0119kuj\u0119 za \u017cyczliwe przyj\u0119cie. Gospodarze miejsca podzielili si\u0119 z nami refleksjami na temat duchowo\u015bci werbistowskiej, historii zgromadzenia, drogi powo\u0142a\u0144, a tak\u017ce codziennego \u017cycia w seminarium. Podzieleni na dwie grupy odwiedzili\u015bmy rozleg\u0142y, zabytkowy gmach seminarium, przeszli\u015bmy si\u0119 jego korytarzami, zajrzeli\u015bmy do pi\u0119knego ko\u015bcio\u0142a seminaryjnego, zachwycili\u015bmy si\u0119 ogrodem i zatrzymali\u015bmy na chwil\u0119 modlitwy i zadumy przy grobach misjonarzy na seminaryjnym cmentarzu. W\u015br\u00f3d bardzo prostych, jednakowych krzy\u017cy i tabliczek grob\u00f3w werbist\u00f3w, mo\u017cna wyczyta\u0107 ciche historie ludzi, kt\u00f3rzy nie\u015bli Ewangeli\u0119 do najdalszych zak\u0105tk\u00f3w globu albo te\u017c pracowali ofiarnie w Polsce.\n\nPonad 8 tysi\u0119cy artefakt\u00f3w\n\n\n\nG\u0142\u00f3wnym punktem naszego pobytu by\u0142o jednak Muzeum Misyjno-Etnograficzne, kt\u00f3re po niedawno zako\u0144czonej modernizacji zyska\u0142o now\u0105 jako\u015b\u0107 i mog\u0119 chyba tak powiedzie\u0107 \u2013 dusz\u0119, do kt\u00f3rego zwiedzenia zapraszam i zach\u0119cam. Muzeum to jest naprawd\u0119 warte zobaczenia! Nie jest ju\u017c tylko tradycyjna ekspozycja, to nowoczesna, multimedialna przestrze\u0144, zaprojektowana z wyczuciem i znawstwem, tak by ka\u017cda osoba, bez wzgl\u0119du na wiek, wiedz\u0119 czy sprawno\u015b\u0107, mog\u0142a w spos\u00f3b przyst\u0119pny, ciekawy i anga\u017cuj\u0105cy zapozna\u0107 si\u0119 z bogactwem kultur ca\u0142ego \u015bwiata.\n\nMuzeum przesz\u0142o gruntown\u0105 restrukturyzacj\u0119 i od\u015bwie\u017cenie, zar\u00f3wno od strony merytorycznej, jak i architektonicznej. Ekspozycja zosta\u0142a zaplanowana na nowo, z zastosowaniem element\u00f3w interaktywnych, ekran\u00f3w dotykowych, materia\u0142\u00f3w audiowizualnych, film\u00f3w i nagra\u0144. Sale tematyczne s\u0105 przejrzyste, logicznie zorganizowane i pe\u0142ne przestrzeni. Nie ma tu poczucia przyt\u0142oczenia, ani ciasnoty. I co najwa\u017cniejsze \u2013 to nie s\u0105 zakurzone eksponaty, kt\u00f3re przemawiaj\u0105 tylko do specjalist\u00f3w. To raczej opowie\u015b\u0107 o najdalszych zak\u0105tkach \u015bwiata podana \u017cywo, intryguj\u0105co, ciekawie przy pomocy zgromadzonych tam przedmiot\u00f3w. Dzi\u0119ki tej formie muzeum staje si\u0119 przyjazne zar\u00f3wno dla dzieci i m\u0142odzie\u017cy, jak i dla os\u00f3b starszych. Seniorzy mog\u0105 bez po\u015bpiechu ogl\u0105da\u0107 eksponaty, kt\u00f3re s\u0105 czytelnie opisane, dzieci za\u015b odkrywa\u0107 \u015bwiat wszystkimi zmys\u0142ami. To ogromna zaleta tego muzeum.\n\nW zbiorach znajduje si\u0119 ponad 8 tysi\u0119cy artefakt\u00f3w \u2013 przedmiot\u00f3w codziennego u\u017cytku, ozd\u00f3b, masek rytualnych, instrument\u00f3w muzycznych, tkanin, rze\u017ab, figurek, broni, ksi\u0105\u017cek, odzienia, bi\u017cuterii, naczy\u0144 i szat liturgicznych. Jest nawet przyk\u0142ad dawnych cel zakonnik\u00f3w, a nawet... motocykl, kt\u00f3rym misjonarz przemieszcza\u0142 si\u0119 w trudnych warunkach. Co najwa\u017cniejsze \u2013 te przedmioty s\u0105 oryginalne. Nie pochodz\u0105 z przypadkowych zakup\u00f3w ani muzealnych aukcji, nie s\u0105 podr\u00f3bkami, ale zosta\u0142y przywiezione przez misjonarzy, kt\u00f3rzy pracowali w r\u00f3\u017cnych miejscach globu \u2013 Azji, Afryce, Ameryce P\u00f3\u0142nocnej i Po\u0142udniowej, Oceanii. Ka\u017cdy przedmiot to \u015blad innej kultury, obyczaju, tradycji, religii.\n\nNasze zwiedzanie poprowadzi\u0142a przewodniczka, kt\u00f3ra w spos\u00f3b rzeczowy i kompetentny przeprowadzi\u0142a nas przez kolejne cz\u0119\u015bci ekspozycji, co upro\u015bci\u0142o i skr\u00f3ci\u0142o nam zwiedzanie.\n\nZrozumie\u0107 i poczu\u0107 \u015bwiat\n\n\n\nWarto podkre\u015bli\u0107, \u017ce muzeum jest otwarte codziennie, r\u00f3wnie\u017c w niedziele (od godziny 11), a zwiedzanie, jak na razie, odbywa si\u0119 na zasadzie dobrowolnej ofiary \u2013 co \u0142aska. Nie ma wyznaczonego cennika, co sprawia, \u017ce dost\u0119p do tej wyj\u0105tkowej plac\u00f3wki pozwala ka\u017cdemu, niezale\u017cnie od sytuacji, skorzysta\u0107 z jej bogactwa.\n\nMuzeum znajduje si\u0119 zaledwie kilkadziesi\u0105t kilometr\u00f3w od Olsztyna czy Lidzbarka Warmi\u0144skiego, co czyni je doskona\u0142ym miejscem na wakacyjn\u0105 lub weekendow\u0105 wypraw\u0119 zar\u00f3wno dla rodzin z dzie\u0107mi, grup szkolnych, jak i senior\u00f3w czy turyst\u00f3w indywidualnych.\n\nW drodze powrotnej d\u0142ugo jeszcze rozmawiali\u015bmy o tym, czego do\u015bwiadczyli\u015bmy. Jedna z naszych uczestniczek powiedzia\u0142a: \u201eTo by\u0142o jak podr\u00f3\u017c dooko\u0142a \u015bwiata\u201d. I rzeczywi\u015bcie \u2013 nie przesadz\u0119, je\u015bli powiem, \u017ce to muzeum nie tylko pokazuje \u015bwiat, ale pozwala go lepiej zrozumie\u0107 i poczu\u0107, co, zw\u0142aszcza wsp\u00f3\u0142cze\u015bnie, jest po\u017c\u0105dan\u0105 cech\u0105 og\u00f3lnej kultury cz\u0142owieka. I co te\u017c wa\u017cne \u2013 u\u015bwiadamia jak wiele pracy, po\u015bwi\u0119cenia i gorliwo\u015bci w\u0142o\u017cyli, i jeszcze musz\u0105 w\u0142o\u017cy\u0107, misjonarki i misjonarze na ca\u0142ym \u015bwiecie, aby uczyni\u0107 go lepszym i \u015bwi\u0119tszym, dzi\u0119ki g\u0142oszeniu Dobrej Nowiny.\n\nTrzeba powiedzie\u0107, \u017ce to Muzeum Misyjno-Etnograficzne w Pieni\u0119\u017cnie to nie tylko atrakcja turystyczna, ale doskona\u0142a przestrze\u0144 spotkania i refleksji nad inno\u015bci\u0105 ludzi i miejsc. W czasach, gdy \u015bwiat wydaje si\u0119 cz\u0119sto podzielony, niezrozumia\u0142y, zdominowany przez r\u00f3\u017cne stereotypy, ksenofobi\u0119, czyli l\u0119k przed tym, co obce i nieznane, tu odnajduje si\u0119 jego sensown\u0105 r\u00f3\u017cnorodno\u015b\u0107 i jej, przynajmniej cz\u0119\u015bciowe, wyja\u015bnienie.\n\nPolecam to miejsce na czas wakacji i nie tylko, tym wszystkim, kt\u00f3rzy chc\u0105 zobaczy\u0107 wi\u0119cej ni\u017c tylko zebrane artefakty, ale kt\u00f3rzy te\u017c chc\u0105 zrozumie\u0107 \u015bwiat w jego rozmaitych ods\u0142onach i jego specyfice.\n\n\n\nZdzis\u0142awa Kobyli\u0144ska"
         }
     },
     {
@@ -186,7 +154,7 @@
             "description": "Prze\u0142om lata i jesieni to idealny moment, aby wybra\u0107 si\u0119 do lasu i poszuka\u0107 grzyb\u00f3w. Wielkopolska natomiast to idealne miejsce, aby z wyprawy do lasu wr\u00f3ci\u0107 z pe\u0142nym koszykiem. Pora na grzyby zbli\u017ca s ...",
             "image_url": "https://www.bing.pl/th?id=ODF.U-Vp0xK7SYVhjnH4oToWdw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "G\u0142os Wielkopolski on MSN2 godz.",
+            "date": "G\u0142os Wielkopolski on MSN7 godz.",
             "source": "G\u0142os Wielkopolski on MSN",
             "article_content": ""
         }
@@ -197,62 +165,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Masz te banknoty? To prawdziwe skarby! Za jeden mo\u017cesz otrzyma\u0107 kilka tysi\u0119cy z\u0142otych! [ZDJ\u0118CIA] 24.07.2025",
-            "link": "https://gs24.pl/masz-te-banknoty-to-prawdziwe-skarby-za-jeden-mozesz-otrzymac-kilka-tysiecy-zlotych-zdjecia-24072025/ar/c1-17930573",
-            "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je przejrze\u0107, bo niekt\u00f3re warte s\u0105 obecnie naprawd\u0119 sporo. Kolekcjonerzy p\u0142ac\u0105 z ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Szukana fraza: raport z wypadku",
+            "link": "https://www.moto.egospodarka.pl/art/s/raport-z-wypadku.html",
+            "description": "... urlopu latem lub te\u017c preferuj\u0105 zwiedzanie bez towarzystwa t\u0142umu innych turyst\u00f3w. Raport \u201ePolak jedzie na wakacje\" dowodzi ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.vJ8Z78rvWuk3ao3TCKKOZC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "G\u0142os Szczeci\u0144ski22 godz.",
-            "source": "G\u0142os Szczeci\u0144ski",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "24 LIPCA 2025",
-            "link": "https://krakow.pl/kalendarium/1919,shw,2025-07-24,7,day.html",
-            "description": "Z okazji 25. rocznicy otwarcia Muzeum Archidiecezjalnego Kardyna\u0142a Karola Wojty\u0142y w Krakowie, przypadaj\u0105cej na dzie\u0144 5. Maja 2019 roku, powsta\u0142a wystawa sta\u0142a, kt\u00f3ra stanowi podr\u00f3\u017c poprzez sztuk\u0119 i ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "zabytkowe+przedmioty",
-            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w21 godz.",
-            "source": "Oficjalny serwis miejski - Magiczny Krak\u00f3w",
-            "article_content": "Szukaj wydarzenia\n\nKategoria: -- wszystkie -- Akcje czytelnicze Spektakle teatralne Spacery i zwiedzanie Spektakle taneczne Festiwale Wystawy czasowe Muzyka rozrywkowa Targi i kiermasze Wyk\u0142ady, spacery i warsztaty artystyczne Muzyka klasyczna W gminach Metropolii Festiwale i przegl\u0105dy filmowe Kabaret Festiwale muzyczne Inne przedstawienia Pozosta\u0142e Inne koncerty Festiwale teatralne Wydarzenia sportowe Widowiska plenerowe i happeningi Cykle filmowe Muzyka klubowa Spotkania i wyk\u0142ady literackie Inne wydarzenia literackie Pokazy filmowe Wystawy sta\u0142e"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Masz te banknoty? To prawdziwe skarby! Za jeden mo\u017cesz otrzyma\u0107 kilka tysi\u0119cy z\u0142otych! [ZDJ\u0118CIA] 24.07.2025",
-            "link": "https://gs24.pl/masz-te-banknoty-to-prawdziwe-skarby-za-jeden-mozesz-otrzymac-kilka-tysiecy-zlotych-zdjecia-24072025/ar/c1-17930573",
-            "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je przejrze\u0107, bo niekt\u00f3re warte s\u0105 obecnie naprawd\u0119 sporo. Kolekcjonerzy p\u0142ac\u0105 z ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stare+numizmatyka",
-            "date": "G\u0142os Szczeci\u0144ski22 godz.",
-            "source": "G\u0142os Szczeci\u0144ski",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "24 LIPCA 2025",
-            "link": "https://krakow.pl/kalendarium/1919,shw,2025-07-24,7,day.html",
-            "description": "Z okazji 25. rocznicy otwarcia Muzeum Archidiecezjalnego Kardyna\u0142a Karola Wojty\u0142y w Krakowie, przypadaj\u0105cej na dzie\u0144 5. Maja 2019 roku, powsta\u0142a wystawa sta\u0142a, kt\u00f3ra stanowi podr\u00f3\u017c poprzez sztuk\u0119 i ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stare+numizmatyka",
-            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w21 godz.",
-            "source": "Oficjalny serwis miejski - Magiczny Krak\u00f3w",
-            "article_content": "Szukaj wydarzenia\n\nKategoria: -- wszystkie -- Akcje czytelnicze Spektakle teatralne Spacery i zwiedzanie Spektakle taneczne Festiwale Wystawy czasowe Muzyka rozrywkowa Targi i kiermasze Wyk\u0142ady, spacery i warsztaty artystyczne Muzyka klasyczna W gminach Metropolii Festiwale i przegl\u0105dy filmowe Kabaret Festiwale muzyczne Inne przedstawienia Pozosta\u0142e Inne koncerty Festiwale teatralne Wydarzenia sportowe Widowiska plenerowe i happeningi Cykle filmowe Muzyka klubowa Spotkania i wyk\u0142ady literackie Inne wydarzenia literackie Pokazy filmowe Wystawy sta\u0142e"
+            "date": "moto.egospodarka.pl16 godz.",
+            "source": "moto.egospodarka.pl",
+            "article_content": "... . Grubsza nie oznacza nic innego ni\u017c to, \u017ce na auto nak\u0142adana by\u0142a kolejna warstwa lakieru. W takim wypadku nabywca powinien zwr\u00f3ci\u0107 uwag\u0119 na spos\u00f3b lakierowania. W tym celu nale\u017cy si\u0119 przyjrze\u0107, czy na kraw\u0119dziach elementu ... . Co istotne, eliminuje to konieczno\u015b\u0107 jazdy do sprzedawcy - ekspert zrobi to za nas, a my otrzymamy gotowy raport. To proste ..."
         }
     }
 ]
