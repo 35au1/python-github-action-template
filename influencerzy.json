@@ -5,13 +5,29 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "T\u0142umy na Pchlim Targu - 17 sierpnia 2025. Meble, bi\u017cuteria, ubrania, narz\u0119dzia i starocie. Zdj\u0119cia, ceny",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/t%C5%82umy-na-pchlim-targu-17-sierpnia-2025-meble-bi%C5%BCuteria-ubrania-narz%C4%99dzia-i-starocie-zdj%C4%99cia-ceny/ar-AA1KFDCL?ocid=BingNewsVerp",
-            "description": "W bardzo przyjemn\u0105 pogodowo trzeci\u0105 niedziel\u0119 sierpnia 2025 na Pchlim Targu we W\u0142oc\u0142awku przy alei Kazimierza Wielkiego ruch ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.qsIIIHAIGsTFQKwN9nu35S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Tak by\u0142o na Pikniku \"Pod kujawskim niebem\" 2025 w Ogrodzie na Pompce we W\u0142oc\u0142awku. Zdj\u0119cia, wideo",
+            "link": "https://www.msn.com/pl-pl/rozrywka/muzyka/tak-by%C5%82o-na-pikniku-pod-kujawskim-niebem-2025-w-ogrodzie-na-pompce-we-w%C5%82oc%C5%82awku-zdj%C4%99cia-wideo/ar-AA1KGdg8?ocid=BingNewsVerp",
+            "description": "W niedziel\u0119, 17 sierpnia w Ogrodzie na Pompce we W\u0142oc\u0142awku odby\u0142 si\u0119 \"Piknik pod kujawskim niebem\" \u2013 plenerowe wydarzenie, ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.Uk7dYzoRatDBbSFMdRdobC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN22 godz.",
+            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN4 godz.",
             "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Odpust na \u015bwi\u0119tego Rocha w W\u0105chocku zgromadzi\u0142 t\u0142umy. Regionalne przysmaki, kramy i inne atrakcje",
+            "link": "https://www.msn.com/pl-pl/historia-i-kultura-spo%C5%82ecze%C5%84stwa/%C5%9Bwi%C4%99ta-i-uroczysto%C5%9Bci/odpust-na-%C5%9Bwi%C4%99tego-rocha-w-w%C4%85chocku-zgromadzi%C5%82-t%C5%82umy-regionalne-przysmaki-kramy-i-inne-atrakcje/ar-AA1KIwy8?ocid=BingNewsVerp",
+            "description": "Kolorowe jarmarki, baloniki, zabawki, kapiszony, starocie i obwarzanki, ale przede wszystkim smako\u0142yki od pa\u0144 z K\u00f3\u0142 Gospody\u0144 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.ljjJWbhE7g71-TCY_TEcsi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Echo Dnia on MSN16 godz.",
+            "source": "Echo Dnia on MSN",
             "article_content": ""
         }
     },
@@ -26,7 +42,7 @@
             "description": "Uwaga kierowcy! Od najbli\u017cszego poniedzia\u0142ku w Tychach rusza remont ul. Beskidzkiej. Na trasie krajowej \"jedynki\" mi\u0119dzy ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.Zs6zWKBywWzua7i6IQnN9y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Fakt.pl39 min",
+            "date": "Fakt.pl6 godz.",
             "source": "Fakt.pl",
             "article_content": ""
         }
@@ -42,24 +58,8 @@
             "description": "gara\u017c- Najnowsze wiadomo\u015bci, przydatne informacje, zdj\u0119cia i wideo. Newsy, Ludzie, Polityka, Sport, Turystyka. Wszystko, co ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.m0uobpTziD7j00sLLzyvOy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Fakt.pl3 godz.",
+            "date": "Fakt.pl9 godz.",
             "source": "Fakt.pl",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Odpust na \u015bwi\u0119tego Rocha w W\u0105chocku zgromadzi\u0142 t\u0142umy. Regionalne przysmaki, kramy i inne atrakcje",
-            "link": "https://www.msn.com/pl-pl/historia-i-kultura-spo%C5%82ecze%C5%84stwa/%C5%9Bwi%C4%99ta-i-uroczysto%C5%9Bci/odpust-na-%C5%9Bwi%C4%99tego-rocha-w-w%C4%85chocku-zgromadzi%C5%82-t%C5%82umy-regionalne-przysmaki-kramy-i-inne-atrakcje/ar-AA1KIwy8?ocid=BingNewsVerp",
-            "description": "Kolorowe jarmarki, baloniki, zabawki, kapiszony, starocie i obwarzanki, ale przede wszystkim smako\u0142yki od pa\u0144 z K\u00f3\u0142 Gospody\u0144 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.ljjJWbhE7g71-TCY_TEcsi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "Echo Dnia on MSN11 godz.",
-            "source": "Echo Dnia on MSN",
             "article_content": ""
         }
     },
@@ -74,7 +74,7 @@
             "description": "Masz star\u0105 szkatu\u0142k\u0119 po babci? A mo\u017ce pude\u0142ko z drobiazgami po dziadku? Nie ignoruj ich! W\u015br\u00f3d domowych rupieci mo\u017ce kry\u0107 si\u0119 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.bpGTM-_do5iAHEOLcUPWRy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Fakt.pl5 godz.",
+            "date": "Fakt.pl11 godz.",
             "source": "Fakt.pl",
             "article_content": ""
         }
@@ -90,7 +90,7 @@
             "description": "monety- Najnowsze wiadomo\u015bci, przydatne informacje, zdj\u0119cia i wideo. Newsy, Ludzie, Polityka, Sport, Turystyka. Wszystko, co ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.XfXVyabnRErQ7Vduppelny&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Fakt.pl3 godz.",
+            "date": "Fakt.pl8 godz.",
             "source": "Fakt.pl",
             "article_content": ""
         }
@@ -106,7 +106,7 @@
             "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.CMLmagtUzUeybHzJbck5Ry&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Toru\u0144 Nasze Miasto on MSN12 godz.",
+            "date": "Toru\u0144 Nasze Miasto on MSN18 godz.",
             "source": "Toru\u0144 Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -122,7 +122,7 @@
             "description": "Stara bi\u017cuteria, ksi\u0105\u017cki, bibeloty czy stare pieni\u0105dze to i nie tylko mo\u017cna by\u0142o kupi\u0107 na Piotrkowskiej Gie\u0142dzie Staroci ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.DqA5H6N0_IrqPnfVz68SPy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "ePiotrkow.pl13 godz.",
+            "date": "ePiotrkow.pl18 godz.",
             "source": "ePiotrkow.pl",
             "article_content": "Co mo\u017cna by\u0142o kupi\u0107 na Piotrkowskiej Gie\u0142dzie Staroci?\n\nStara bi\u017cuteria, ksi\u0105\u017cki, bibeloty czy stare pieni\u0105dze to i nie tylko mo\u017cna by\u0142o kupi\u0107 na Piotrkowskiej Gie\u0142dzie Staroci zorganizowanej na dziedziniec Muzeum w Piotrkowie Trybunalskim. W\u015br\u00f3d odwiedzaj\u0105cych gie\u0142d\u0119 jak zawsze najwi\u0119ksz\u0105 popularno\u015bci\u0105 cieszy\u0142 si\u0119 przedmioty zwi\u0105zane z Piotrkowem takie jak szk\u0142o z huty Hortensja, pami\u0105tkowe medale czy regionalne ksi\u0105\u017cki.\n\nWykryto bloker reklam! Tre\u015b\u0107 artyku\u0142u zosta\u0142a zablokowana, poniewa\u017c wykryli\u015bmy, \u017ce u\u017cywasz blokera reklam. Aby odblokowa\u0107 tre\u015b\u0107, prosz\u0119 wy\u0142\u0105czy\u0107 bloker reklam na tej stronie. Dowiedz si\u0119, jak doda\u0107 nasz\u0105 stron\u0119 do wyj\u0105tk\u00f3w\n\nNiedzielna (17.08) Piotrkowska Gie\u0142da Staroci od lat wpisuje si\u0119 w kalendarz imprez dla mi\u0142o\u015bnik\u00f3w niezwyk\u0142ych przedmiot\u00f3w. Gie\u0142da Staroci \u2013 miejsce, gdzie ka\u017cda moneta, zegar, ksi\u0105\u017cka czy porcelanowa fili\u017canka opowiada w\u0142asn\u0105 histori\u0119. To spotkanie ludzi z pasj\u0105, kt\u00f3rzy wierz\u0105, \u017ce przedmioty z dusz\u0105 potrafi\u0105 przetrwa\u0107 pokolenia i wci\u0105\u017c budzi\u0107 zachwyt - czytamy na stronie organizatora wydarzenia - piotrkowskiego muzeum."
         }
@@ -133,13 +133,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Mamy list\u0119 banknot\u00f3w, kt\u00f3re straci\u0142y wa\u017cno\u015b\u0107. Niekt\u00f3re z nich ca\u0142y czas mo\u017cna wymieni\u0107 [19.08.2025 r.]",
-            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/mamy-list%C4%99-banknot%C3%B3w-kt%C3%B3re-straci%C5%82y-wa%C5%BCno%C5%9B%C4%87-niekt%C3%B3re-z-nich-ca%C5%82y-czas-mo%C5%BCna-wymieni%C4%87-19-08-2025-r/ar-AA1JorPU?ocid=BingNewsVerp",
-            "description": "Banknoty, kt\u00f3re mamy w obiegu nie maj\u0105 terminu przydatno\u015bci, jednak s\u0105 sytuacje, w kt\u00f3rych papierowe pieni\u0105dze trac\u0105 wa\u017cno\u015b\u0107.",
-            "image_url": "https://www.bing.pl/th?id=OVFT.oX3ofgzPQ7UEDWSa5rrkay&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Stare telefony kom\u00f3rkowe, kt\u00f3re dzi\u015b s\u0105 warte fortun\u0119. Masz takie? 18.08.2025",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/stare-telefony-kom%C3%B3rkowe-kt%C3%B3re-dzi%C5%9B-s%C4%85-warte-fortun%C4%99-masz-takie-18082025/ar-AA1Hsewg?ocid=BingNewsVerp",
+            "description": "W erze superszybkich smartfon\u00f3w z potr\u00f3jnymi aparatami, ekranami AMOLED i sztuczn\u0105 inteligencj\u0105 na pok\u0142adzie, ma\u0142o kto ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.s8a06NQK8uMYX7RftG-MRS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Toru\u0144 Nasze Miasto on MSN3 godz.",
-            "source": "Toru\u0144 Nasze Miasto on MSN",
+            "date": "G\u0142os Pomorza on MSN18 godz.",
+            "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
         }
     },
@@ -154,7 +154,7 @@
             "description": "Pot\u0119\u017cna dzia\u0142ka mi\u0119dzy ulicami Karmelick\u0105 i Dolnych M\u0142yn\u00f3w na sprzeda\u017c! Radni Starego Miasta protestuj\u0105. Chc\u0105 by obecny ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.RJCFpFn34FoffS2KFbhHzy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Fakt.pl7 godz.",
+            "date": "Fakt.pl12 godz.",
             "source": "Fakt.pl",
             "article_content": ""
         }
@@ -170,8 +170,24 @@
             "description": "zwi\u0105zek- Najnowsze wiadomo\u015bci, przydatne informacje, zdj\u0119cia i wideo. Newsy, Ludzie, Polityka, Sport, Turystyka. Wszystko, co ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.snP6P9pl4F8WHfz5yUMmLC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Fakt.pl9 godz.",
+            "date": "Fakt.pl14 godz.",
             "source": "Fakt.pl",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pchli targ w Komornikach zn\u00f3w przyci\u0105gn\u0105\u0142 t\u0142umy. Sprawd\u017a, co mo\u017cna by\u0142o upolowa\u0107 w niedziel\u0119, 17 sierpnia. Zobacz zdj\u0119cia i ceny!",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/pchli-targ-w-komornikach-zn%C3%B3w-przyci%C4%85gn%C4%85%C5%82-t%C5%82umy-sprawd%C5%BA-co-mo%C5%BCna-by%C5%82o-upolowa%C4%87-w-niedziel%C4%99-17-sierpnia-zobacz-zdj%C4%99cia-i-ceny/ar-AA1KFB9S?ocid=BingNewsVerp",
+            "description": "Pchli targ przyci\u0105gn\u0105\u0142 t\u0142umy mi\u0142o\u015bnik\u00f3w staroci, r\u0119kodzie\u0142a i unikalnych przedmiot\u00f3w. W\u015br\u00f3d setek kolorowych stoisk mo\u017cna ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.N85dWBZhCgPYbSdY2-qE6y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "Pozna\u0144 Nasze Miasto on MSN2 godz.",
+            "source": "Pozna\u0144 Nasze Miasto on MSN",
             "article_content": ""
         }
     },
@@ -186,40 +202,8 @@
             "description": "Po\u0142owa sierpnia za nami, a to oznacza, \u017ce najwy\u017cszy czas na wakacyjn\u0105 ods\u0142on\u0119 Jarmarku Staroci w D\u0105browie G\u00f3rniczej. Pomimo ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.n42N3Mo86VjujJxJvEJvBi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Dziennik Zachodni on MSN5 godz.",
+            "date": "Dziennik Zachodni on MSN10 godz.",
             "source": "Dziennik Zachodni on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "T\u0142umy na Pchlim Targu - 17 sierpnia 2025. Meble, bi\u017cuteria, ubrania, narz\u0119dzia i starocie. Zdj\u0119cia, ceny",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/t%C5%82umy-na-pchlim-targu-17-sierpnia-2025-meble-bi%C5%BCuteria-ubrania-narz%C4%99dzia-i-starocie-zdj%C4%99cia-ceny/ar-AA1KFUS9?ocid=BingNewsVerp",
-            "description": "W bardzo przyjemn\u0105 pogodowo trzeci\u0105 niedziel\u0119 sierpnia 2025 na Pchlim Targu we W\u0142oc\u0142awku przy alei Kazimierza Wielkiego ruch ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.qsIIIHAIGsTFQKwN9nu35S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "targ+staroci",
-            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN22 godz.",
-            "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "boles\u0142awiec - Newsy",
-            "link": "https://www.fakt.pl/temat/boleslawiec?page=3",
-            "description": "boles\u0142awiec- Najnowsze wiadomo\u015bci, przydatne informacje, zdj\u0119cia i wideo. Newsy, Ludzie, Polityka, Sport, Turystyka. Wszystko ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.H5HPHiwtnn4MUnwc3zQYdC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "targ+staroci",
-            "date": "Fakt.pl32 min",
-            "source": "Fakt.pl",
             "article_content": ""
         }
     },
@@ -234,7 +218,7 @@
             "description": "Stara bi\u017cuteria, ksi\u0105\u017cki, bibeloty czy stare pieni\u0105dze to i nie tylko mo\u017cna by\u0142o kupi\u0107 na Piotrkowskiej Gie\u0142dzie Staroci ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.DqA5H6N0_IrqPnfVz68SPy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "ePiotrkow.pl13 godz.",
+            "date": "ePiotrkow.pl18 godz.",
             "source": "ePiotrkow.pl",
             "article_content": "Co mo\u017cna by\u0142o kupi\u0107 na Piotrkowskiej Gie\u0142dzie Staroci?\n\nStara bi\u017cuteria, ksi\u0105\u017cki, bibeloty czy stare pieni\u0105dze to i nie tylko mo\u017cna by\u0142o kupi\u0107 na Piotrkowskiej Gie\u0142dzie Staroci zorganizowanej na dziedziniec Muzeum w Piotrkowie Trybunalskim. W\u015br\u00f3d odwiedzaj\u0105cych gie\u0142d\u0119 jak zawsze najwi\u0119ksz\u0105 popularno\u015bci\u0105 cieszy\u0142 si\u0119 przedmioty zwi\u0105zane z Piotrkowem takie jak szk\u0142o z huty Hortensja, pami\u0105tkowe medale czy regionalne ksi\u0105\u017cki.\n\nWykryto bloker reklam! Tre\u015b\u0107 artyku\u0142u zosta\u0142a zablokowana, poniewa\u017c wykryli\u015bmy, \u017ce u\u017cywasz blokera reklam. Aby odblokowa\u0107 tre\u015b\u0107, prosz\u0119 wy\u0142\u0105czy\u0107 bloker reklam na tej stronie. Dowiedz si\u0119, jak doda\u0107 nasz\u0105 stron\u0119 do wyj\u0105tk\u00f3w\n\nNiedzielna (17.08) Piotrkowska Gie\u0142da Staroci od lat wpisuje si\u0119 w kalendarz imprez dla mi\u0142o\u015bnik\u00f3w niezwyk\u0142ych przedmiot\u00f3w. Gie\u0142da Staroci \u2013 miejsce, gdzie ka\u017cda moneta, zegar, ksi\u0105\u017cka czy porcelanowa fili\u017canka opowiada w\u0142asn\u0105 histori\u0119. To spotkanie ludzi z pasj\u0105, kt\u00f3rzy wierz\u0105, \u017ce przedmioty z dusz\u0105 potrafi\u0105 przetrwa\u0107 pokolenia i wci\u0105\u017c budzi\u0107 zachwyt - czytamy na stronie organizatora wydarzenia - piotrkowskiego muzeum."
         }
@@ -245,14 +229,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Skarby, pasja i historia. Tak wygl\u0105da\u0142 sierpniowy Zamkowy Jarmark Staroci",
-            "link": "https://sucha24.pl/artykul/skarby-pasja-i-historia-n1768337",
-            "description": "Niedzielny poranek, 17 sierpnia, przywita\u0142 Such\u0105 Beskidzk\u0105 wyj\u0105tkowym klimatem \u2013 na parkingu przy Zamku Suskim odby\u0142 si\u0119 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.vqlGRnzdEFufFHUNsrRvZy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "boles\u0142awiec - Newsy",
+            "link": "https://www.fakt.pl/temat/boleslawiec?page=3",
+            "description": "boles\u0142awiec- Najnowsze wiadomo\u015bci, przydatne informacje, zdj\u0119cia i wideo. Newsy, Ludzie, Polityka, Sport, Turystyka. Wszystko ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.H5HPHiwtnn4MUnwc3zQYdC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Sucha247 godz.",
-            "source": "Sucha24",
-            "article_content": "Content not available"
+            "date": "Fakt.pl5 godz.",
+            "source": "Fakt.pl",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Auschwitz - Newsy",
+            "link": "https://www.fakt.pl/temat/auschwitz?page=2",
+            "description": "Uroczysto\u015bci z okazji 80. rocznicy wyzwolenia obozu Auschwitz, w kt\u00f3rym zgin\u0119\u0142y miliony \u017byd\u00f3w, odb\u0119d\u0105 si\u0119 bez Binjamina ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.NqFoIIYqM2ExDc2Fy2py2i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "Fakt.pl2 godz.",
+            "source": "Fakt.pl",
+            "article_content": ""
         }
     },
     {
@@ -266,7 +266,7 @@
             "description": "Dolno\u015bl\u0105skie uzdrowiska przyci\u0105gaj\u0105 odwiedzaj\u0105cych jak magnes, ale nie ka\u017cde z nich zachwyci nie tylko kuracjuszy, ale te\u017c ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.-oVfqbMF2pQqV850owmrwC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Gazeta Wroc\u0142awska on MSN1 godz.",
+            "date": "Gazeta Wroc\u0142awska on MSN6 godz.",
             "source": "Gazeta Wroc\u0142awska on MSN",
             "article_content": ""
         }
@@ -282,7 +282,7 @@
             "description": "W P\u0142otach zosta\u0142 usuni\u0119ty jeden z ostatnich symboli propagandy komunistycznej na Pomorzu Zachodnim. Decyzja ta by\u0142a ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.ykO4gyHAn5TZy1syZGhGPC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Niezale\u017cna.pl on MSN9 godz.",
+            "date": "Niezale\u017cna.pl on MSN15 godz.",
             "source": "Niezale\u017cna.pl on MSN",
             "article_content": ""
         }
@@ -298,7 +298,7 @@
             "description": "Liczba transakcji bankomatowych od dw\u00f3ch lat utrzymuje si\u0119 na sta\u0142ym poziomie. Wed\u0142ug NBP warto\u015b\u0107 wyp\u0142acanej got\u00f3wki w II ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.b6rL1rGk9kXIdXtIPM4VmS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Fakt.pl2 godz.",
+            "date": "Fakt.pl7 godz.",
             "source": "Fakt.pl",
             "article_content": ""
         }
@@ -314,7 +314,7 @@
             "description": "bank- Najnowsze wiadomo\u015bci, przydatne informacje, zdj\u0119cia i wideo. Newsy, Ludzie, Polityka, Sport, Turystyka. Wszystko, co ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.YSGIhHXK9-ZXYPs_532fyi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Fakt.pl7 godz.",
+            "date": "Fakt.pl12 godz.",
             "source": "Fakt.pl",
             "article_content": ""
         }
@@ -330,7 +330,23 @@
             "description": "Fantazja mo\u017cnych nie zna granic! Miliarder Jeff Bezos (58 l.) chce rozebra\u0107 most w Rotterdamie, bo jego wypasiony jacht nie ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.uzHrKBwQZWp74l3sHq5o2i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Fakt.pl5 godz.",
+            "date": "Fakt.pl10 godz.",
+            "source": "Fakt.pl",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "skarb - Newsy",
+            "link": "https://www.fakt.pl/temat/skarb?page=3",
+            "description": "skarb- Najnowsze wiadomo\u015bci, przydatne informacje, zdj\u0119cia i wideo. Newsy, Ludzie, Polityka, Sport, Turystyka. Wszystko, co ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.x8C-HS4N3um6jWX7R9RIoi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Fakt.pl7 godz.",
             "source": "Fakt.pl",
             "article_content": ""
         }
@@ -346,24 +362,8 @@
             "description": "Koszali\u0144skie Muzeum zaprasza na wydarzenie organizowane w ramach spotka\u0144 muzealnych \u201eW samo po\u0142udnie' pod has\u0142em \u201eZabytek w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.9rGkz-_xk3J0t48R1yK6Bi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "G\u0142os Koszali\u0144ski on MSN2 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN8 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Tokio - Newsy",
-            "link": "https://www.fakt.pl/temat/tokio",
-            "description": "Informacje o celach przetwarzania danych znajdziesz w \u201eUstawieniach zaawansowanych', a szczeg\u00f3\u0142ow\u0105 informacj\u0119 o przetwarzaniu ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.bgZtUZmhv6d7SU1hE0N6PC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Fakt.pl32 min",
-            "source": "Fakt.pl",
             "article_content": ""
         }
     },
@@ -378,7 +378,7 @@
             "description": "Szcz\u0105tki \u015bredniowiecznej broni, ale te\u017c przedmioty z czas\u00f3w rzymskich i r\u00f3wnie\u017c pochodz\u0105ce z nie tak odleg\u0142ej przesz\u0142o\u015bci, znaleziono w tym roku na polach w Wilczu ko\u0142o Koronowa.",
             "image_url": "https://www.bing.pl/th?id=ODF.Hvqnk8dTAXFkTFgqefVz6Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "Polskie Radio PiK2 godz.",
+            "date": "Polskie Radio PiK7 godz.",
             "source": "Polskie Radio PiK",
             "article_content": "2025-08-18, 19:41 El\u017cbieta Rupniewska/Redakcja\n\nNa polach w Wilczu po raz kolejny pojawili si\u0119 mi\u0142o\u015bnicy historii i archeologii\n\nSzcz\u0105tki \u015bredniowiecznej broni, ale te\u017c przedmioty z czas\u00f3w rzymskich i r\u00f3wnie\u017c pochodz\u0105ce z nie tak odleg\u0142ej przesz\u0142o\u015bci, znaleziono w tym roku na polach w Wilczu ko\u0142o Koronowa.\n\nW miniony weekend odby\u0142 si\u0119 tam 4. Zlot Poszukiwaczy Bitwy pod Koronowem. Zjecha\u0142o 500 detektoryst\u00f3w z regionu, z kraju i z zagranicy.\n\n\n\n- Ten rok by\u0142 wyj\u0105tkowo obfity w znaleziska - m\u00f3wi Piotr Glimasi\u0144ski, prezes Stowarzyszenia Historyczno-Archeologicznego \u201eBractwo\u201d, kt\u00f3re organizuje zloty. - Znale\u017ali\u015bmy kilka grot\u00f3w i be\u0142t\u00f3w od kuszy i od \u0142uk\u00f3w, a tak\u017ce cz\u0119\u015bci od miecza, ostrog\u0119, toporek rycerski. Do tego denar, ostrog\u0119 z br\u0105zu, mn\u00f3stwo zapinek i monet.\n\n\n\nZnalezione na polach przedmioty jak zwykle trafi\u0105 do Wojew\u00f3dzkiego Konserwatora Zabytk\u00f3w, kt\u00f3ry oszacuje ich warto\u015b\u0107 historyczno-archeologiczn\u0105. Potem b\u0119dzie mo\u017cna je ogl\u0105da\u0107 w Muzeum Okr\u0119gowym im. Leona Wycz\u00f3\u0142kowskiego w Bydgoszczy."
         }
@@ -389,14 +389,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Zaginione skarby z grobowca cesarza Nintoku. Odnaleziono je po ponad 150 latach",
-            "link": "https://www.focus.pl/artykul/skarby-grobowiec-cesarza-nintoku-japonia",
-            "description": "Archeolog Taro Fukazawa z Uniwersytetu Kokugakuin podkre\u015bla symboliczne znaczenie odkry\u0107. Jak zauwa\u017ca, nie by\u0142a to bro\u0144 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.b_y2OY0ZptG3lbn0mT4Cyi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "19 SIERPNIA 2025",
+            "link": "https://www.krakow.pl/kalendarium/1919,shw,2025-08-19,7,day.html",
+            "description": "Wystawa mie\u015bci si\u0119 w dawnym budynku administracyjnym Fabryki Emalia Oskara Schindlera przy ul. Lipowej 4 i jest opowie\u015bci\u0105 o Krakowie i losach jego polskich i \u017cydowskich mieszka\u0144c\u00f3w w czasie II wojny ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "Focus23 godz.",
-            "source": "Focus",
-            "article_content": "Pierwszy fizyczny dow\u00f3d od 1872 roku. Co ujawni\u0142y poszukiwania?\n\nUniwersytet Kokugakuin pozyska\u0142 w ubieg\u0142ym roku niezwyk\u0142e znaleziska od handlarza dzie\u0142ami sztuki. Chodzi o poz\u0142acany n\u00f3\u017c ceremonialny i fragmenty zbroi pochodz\u0105ce z prywatnej kolekcji Masudy Takashiego, przemys\u0142owca \u017cyj\u0105cego w latach 1858-1938. To pierwsze materialne dowody z grobowca Daisenryo Kofun w prefekturze Osaka, kt\u00f3re wsp\u00f3\u0142cze\u015bni archeolodzy mog\u0105 zbada\u0107 nowoczesnymi metodami. Sam grobowiec robi wra\u017cenie rozmiarami, poniewa\u017c mierzy 486 metr\u00f3w d\u0142ugo\u015bci, 300 metr\u00f3w szeroko\u015bci i wznosi si\u0119 na 34 metry. Ta charakterystyczna budowla z trzema fosami to miejsce spoczynku cesarza Nintoku, kt\u00f3ry panowa\u0142 w latach 313-399. Podobne konstrukcje w kszta\u0142cie dziurki od klucza powstawa\u0142y od ko\u0144ca III wieku, b\u0119d\u0105c \u015bwiadectwem pot\u0119gi dawnych w\u0142adc\u00f3w. Spo\u015br\u00f3d 20 tysi\u0119cy takich obiekt\u00f3w z okresu od III do VI wieku, w\u0142a\u015bnie te by\u0142y najwi\u0119ksze i najbardziej wyrafinowane.\n\nfot. Kokugakuin University Museum\n\nCzytaj te\u017c: Przesz\u0142o\u015b\u0107 naszych przodk\u00f3w sta\u0142a si\u0119 jeszcze bardziej zagadkowa. To efekt odkry\u0107 z Kenii\n\nHistoria odnalezionych przedmiot\u00f3w si\u0119ga 1872 roku, gdy budowniczy Kaichiro Kashiwagi prowadzi\u0142 prace naprawcze po osuwisku. W\u00f3wczas przypadkowo ods\u0142oni\u0142 fragment kamiennej komory grobowej. Cho\u0107 prawo zabrania\u0142o eksploracji, m\u0119\u017cczyzna udokumentowa\u0142 znalezisko, po czym\u2026 zasypa\u0142 komor\u0119. Przynajmniej oficjalnie. Papierowe opakowania z odr\u0119cznymi notatkami i piecz\u0119ci\u0105 Kashiwagiego nie pozostawiaj\u0105 w\u0105tpliwo\u015bci. Budowniczy potajemnie wyni\u00f3s\u0142 cz\u0119\u015b\u0107 zawarto\u015bci grobowca. W swoich zapiskach wymieni\u0142 obecno\u015b\u0107 no\u017cy, element\u00f3w zbroi, he\u0142m\u00f3w, oku\u0107 mieczy oraz wyrob\u00f3w szklanych. Trafno\u015b\u0107 tego opisu potwierdzaj\u0105 w\u0142a\u015bnie odzyskane artefakty. Prawdopodobnie przedmioty przesz\u0142y z r\u0105k Kashiwagiego do kolekcji Masudy Takashiego, by nast\u0119pnie kr\u0105\u017cy\u0107 w\u015br\u00f3d handlarzy przez kolejne pokolenia. Ten niezwyk\u0142y los pokazuje, jak cenne zabytki mog\u0105 znika\u0107 z oficjalnego obiegu na dziesi\u0105tki lat, by pojawi\u0107 si\u0119 w najmniej oczekiwanym momencie.\n\nWsp\u00f3\u0142czesne badania, czyli nowe podej\u015bcie do starej sprawy\n\nLaboratoryjne analizy ujawni\u0142y niezwyk\u0142e detale wykonania. Poz\u0142acany n\u00f3\u017c ceremonialny posiada \u017celazne ostrze w pochwie z drewna cyprysowego, pokrytej cienk\u0105 na p\u00f3\u0142 milimetra poz\u0142acan\u0105 blach\u0105 miedzian\u0105, przymocowan\u0105 pi\u0119cioma srebrnymi nitami. Z\u0142amane ostrze ma oko\u0142o 15 centymetr\u00f3w d\u0142ugo\u015bci. W przypadku fragment\u00f3w zbroi badacze zweryfikowali wcze\u015bniejsze przekonania. XIX-wieczne ilustracje przedstawia\u0142y je jako miedziane z poz\u0142acaniem, podczas gdy faktycznie chodzi o \u017celazo pokryte bezpo\u015brednio z\u0142otem. Ta r\u00f3\u017cnica pokazuje, jak wsp\u00f3\u0142czesna nauka potrafi korygowa\u0107 historyczne przekazy i pog\u0142\u0119bia\u0107 wiedz\u0119 o dawnych technikach rzemie\u015blniczych.\n\nCzytaj te\u017c: Tajemnicze petroglify obok \u015blad\u00f3w dinozaur\u00f3w w Brazylii. Staro\u017cytni ludzie zostawili nam fascynuj\u0105c\u0105 zagadk\u0119\n\nArcheolog Taro Fukazawa z Uniwersytetu Kokugakuin podkre\u015bla symboliczne znaczenie odkry\u0107. Jak zauwa\u017ca, nie by\u0142a to bro\u0144 bojowa, lecz presti\u017cowe przedmioty, stworzone wy\u0142\u0105cznie jako ofiary, demonstruj\u0105ce ogromn\u0105 polityczn\u0105 i ekonomiczn\u0105 pot\u0119g\u0119 dworu cesarskiego. Brak podobnych poz\u0142acanych no\u017cy w innych grobowcach z V wieku dodatkowo podkre\u015bla wyj\u0105tkowo\u015b\u0107 tych znalezisk. Do 7 wrze\u015bnia 2025 roku artefakty mo\u017cna ogl\u0105da\u0107 w Muzeum Miasta Sakai. To rzadka okazja, by zobaczy\u0107 skarby pochodz\u0105ce z niedost\u0119pnego miejsca. Opisywane odkrycie mo\u017ce da\u0107 impuls badaniom nad okresem kofun, szczeg\u00f3lnie w kontek\u015bcie restrykcyjnej polityki japo\u0144skiego rz\u0105du dotycz\u0105cej cesarskich grobowc\u00f3w. Cho\u0107 Daisenryo Kofun prawdopodobnie pozostanie zamkni\u0119ty, analiza tych artefakt\u00f3w dostarcza bezcennych wskaz\u00f3wek o kunszcie i bogactwie staro\u017cytnych w\u0142adc\u00f3w."
+            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w3 godz.",
+            "source": "Oficjalny serwis miejski - Magiczny Krak\u00f3w",
+            "article_content": "Szlak \u017cywego Muzeum Witra\u017cu\n\nW Muzeum Witra\u017cu przestrzenie ekspozycyjne przeplataj\u0105 si\u0119 z mieszcz\u0105ca si\u0119 tu od 1902 roku pracowni\u0105 witra\u017cy. Podczas zwiedzania mo\u017cna obserwowa\u0107 niezmieniony od setek lat proces powstawania witra\u017cy. Struktura kamienicy, w kt\u00f3rej..."
         }
     },
     {
@@ -410,7 +410,7 @@
             "description": "Masz star\u0105 szkatu\u0142k\u0119 po babci? A mo\u017ce pude\u0142ko z drobiazgami po dziadku? Nie ignoruj ich! W\u015br\u00f3d domowych rupieci mo\u017ce kry\u0107 si\u0119 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.bpGTM-_do5iAHEOLcUPWRy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Fakt.pl5 godz.",
+            "date": "Fakt.pl11 godz.",
             "source": "Fakt.pl",
             "article_content": ""
         }
@@ -426,7 +426,7 @@
             "description": "skarb- Najnowsze wiadomo\u015bci, przydatne informacje, zdj\u0119cia i wideo. Newsy, Ludzie, Polityka, Sport, Turystyka. Wszystko, co ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.ppFbU_SVfk-PXB7nNLQlAC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Fakt.pl2 godz.",
+            "date": "Fakt.pl7 godz.",
             "source": "Fakt.pl",
             "article_content": ""
         }
@@ -442,7 +442,7 @@
             "description": "Muzeum Archeologiczne- Najnowsze wiadomo\u015bci, przydatne informacje, zdj\u0119cia i wideo. Newsy, Ludzie, Polityka, Sport, Turystyka ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.l4f_0cdolxWNrwmTOmNVzy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "wykopano+zabytkowe",
-            "date": "Fakt.pl2 godz.",
+            "date": "Fakt.pl7 godz.",
             "source": "Fakt.pl",
             "article_content": ""
         }
@@ -453,12 +453,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "miecz - Newsy",
-            "link": "https://www.fakt.pl/temat/miecz",
-            "description": "miecz- Najnowsze wiadomo\u015bci, przydatne informacje, zdj\u0119cia i wideo. Newsy, Ludzie, Polityka, Sport, Turystyka. Wszystko, co ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.TAljDQsjB0EAjceiobIK7i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "archeolodzy - Newsy",
+            "link": "https://www.fakt.pl/temat/archeolodzy?page=2",
+            "description": "Robotnicy buduj\u0105cy niedaleko Jawora (woj. dolno\u015bl\u0105skie) fabryk\u0119 Mercedesa odkryli miasteczko sprzed 1800 lat. Niweluj\u0105c teren ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.kqD0CZ23HqbZIa_oJ-Pyxi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "wykopano+zabytkowe",
-            "date": "Fakt.pl1 godz.",
+            "date": "Fakt.pl7 godz.",
             "source": "Fakt.pl",
             "article_content": ""
         }
@@ -474,7 +474,7 @@
             "description": "PKN Orlen poinformowa\u0142 o odkryciu najwi\u0119kszych od wielu lat z\u0142\u00f3\u017c ropy w Polsce. \"To du\u017cy sukces naszych geolog\u00f3w i in\u017cynier\u00f3w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.UZqNhdoejEY3dtZlfxS5CC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Fakt.pl7 godz.",
+            "date": "Fakt.pl12 godz.",
             "source": "Fakt.pl",
             "article_content": ""
         }
@@ -490,7 +490,7 @@
             "description": "skarb- Najnowsze wiadomo\u015bci, przydatne informacje, zdj\u0119cia i wideo. Newsy, Ludzie, Polityka, Sport, Turystyka. Wszystko, co ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.x8C-HS4N3um6jWX7R9RIoi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Fakt.pl2 godz.",
+            "date": "Fakt.pl7 godz.",
             "source": "Fakt.pl",
             "article_content": ""
         }
