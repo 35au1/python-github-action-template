@@ -5,12 +5,28 @@
             "Content-Type": "application/json"
         },
         "body": {
+            "title": "T\u0142umy na sobotniej Gie\u0142dzie Staroci i Ro\u017cno\u015bci w Starachowicach. Co kupowano?",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/t%C5%82umy-na-sobotniej-gie%C5%82dzie-staroci-i-ro%C5%BCno%C5%9Bci-w-starachowicach-co-kupowano/ar-AA1L4RW0?ocid=BingNewsVerp",
+            "description": "W sobot\u0119 23 sierpnia, w Starachowicach by\u0142o s\u0142onecznie i do\u015b\u0107 ciep\u0142o. Mi\u0119dzy innymi z tego powodu Starachowicka Gie\u0142da ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.hgV8ksYSygpNt69WcGsPUS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Starachowice Nasze Miasto on MSN57 min",
+            "source": "Starachowice Nasze Miasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
             "title": "XVIII Jarmark \u015bw. Bart\u0142omieja w Koninie. Najwi\u0119ksze wydarzenie w sercu star\u00f3wki",
             "link": "https://www.lm.pl/aktualnosci/xviii-jarmark-sw-bartlomieja-w-koninie-najwieksze-wydarzenie-w-sercu-starowki",
             "description": "R\u0119kodzielnicy, rzemie\u015blnicy i starocie, a do tego wystawy, wyk\u0142ady i zwiedzanie zabytk\u00f3w z przewodnikami \u2014 na koni\u0144skim pl.",
             "image_url": "https://www.bing.pl/th?id=OVFT.g0kFK74iQw52NLbeuNCqqy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "LM.pl19 godz.",
+            "date": "LM.pl23 godz.",
             "source": "LM.pl",
             "article_content": "R\u0119kodzielnicy, rzemie\u015blnicy i starocie, a do tego wystawy, wyk\u0142ady i zwiedzanie zabytk\u00f3w z przewodnikami \u2014 na koni\u0144skim pl. Wolno\u015bci odb\u0119dzie si\u0119 XVIII Jarmark \u015bw. Bart\u0142omieja.\n\nDwudniowe wydarzenie pe\u0142ne b\u0119dzie atrakcji. W najbli\u017csz\u0105 sobot\u0119 i niedziel\u0119 (23 i 24 sierpnia) w sercu star\u00f3wki sporo si\u0119 b\u0119dzie dzia\u0142o. Nie zabraknie kiermaszu staroci, ale te\u017c stoisk lokalnych r\u0119kodzielnik\u00f3w i rzemie\u015blnik\u00f3w. B\u0119d\u0105 r\u00f3wnie\u017c naturalne produkty \u017cywno\u015bciowe, spacery z przewodnikiem i prelekcje w Domu Zeme\u0142ki.\n\nImpreza rozpocznie si\u0119 o godz. 12:00 i potrwa do godz. 20:00. O godz. 13:00 i 14:00 mo\u017cliwe b\u0119dzie zwiedzanie najstarszej kamienicy na rynku (wej\u015bcie od podw\u00f3rza). W Domu Zeme\u0142ki zobaczy\u0107 b\u0119dzie mo\u017cna wystaw\u0119 Archiw\u00f3w Pa\u0144stwowych \u201eBezsenne g\u0142owy, co d\u017awigaj\u0105 korony\u2026\u201d, a tak\u017ce wzi\u0105\u0107 udzia\u0142 w wyk\u0142adach: o godz. 14:00 \u2014 \u201eKoni\u0144skie lata Mieczys\u0142awa G. Bekkera i rodziny Bekker\u00f3w w materia\u0142ach archiwalnych\u201d (Piotr Rybczy\u0144ski), a o godz. 15:00 \u2014 \u201eJan Zeme\u0142ka\u201d (Wanda Gruszczy\u0144ska). B\u0119dzie te\u017c \u201eKr\u00f3lewski Konin \u2013 1000 lat\u201d oraz \u201eRegion Wielkopolski w cyfrowych bazach internetowych\u201d (Jerzy \u0141ojko).\n\nDrugiego dnia jarmark trwa\u0107 b\u0119dzie od godz. 9:00 do 17:00. Na godz. 10:00 zaplanowano spacer z przewodnikiem \u201e\u015aladami M. Bekkera\u201d (zbi\u00f3rka na dziedzi\u0144cu Domu Zeme\u0142ki). O godz. 12:45 odprawiona zostanie msza \u015bw. w ko\u015bciele \u015bw. Bart\u0142omieja, a po nabo\u017ce\u0144stwie mo\u017cliwe b\u0119dzie zwiedzanie \u015bwi\u0105tyni z przewodnikiem (zbi\u00f3rka przed ko\u015bcio\u0142em). Od godz. 9:00 do 16:00 w Domu Zeme\u0142ki b\u0119dzie mo\u017cna obejrze\u0107 wystaw\u0119 \u201eBezsenne g\u0142owy, co d\u017awigaj\u0105 korony\u2026\u201d.\n\nSzczeg\u00f3\u0142owy program dost\u0119pny TUTAJ."
         }
@@ -26,9 +42,25 @@
             "description": "Zwiedzanie domu Zeme\u0142ki, wystawy, wyk\u0142ady i oczywi\u015bcie stoiska \u2013 to wszystko czeka na mieszka\u0144c\u00f3w Konina podczas sobotniej ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.pbPBarO69vLJ-sxstuovmi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "LM.pl2 godz.",
+            "date": "LM.pl7 godz.",
             "source": "LM.pl",
             "article_content": "Zwiedzanie domu Zeme\u0142ki, wystawy, wyk\u0142ady i oczywi\u015bcie stoiska \u2013 to wszystko czeka na mieszka\u0144c\u00f3w Konina podczas sobotniej cz\u0119\u015bci XVIII Jarmarku \u015bw. Bart\u0142omieja.\n\nJarmark rozpocznie si\u0119 o godz. 12.00 i potrwa do godz. 20.00. Na placu Wolno\u015bci odwiedzi\u0107 b\u0119dzie mo\u017cna stoiska rzemie\u015blnicze, r\u0119kodzielnicze, z naturalnymi produktami \u017cywno\u015bciowymi i starociami.\n\nOpr\u00f3cz tego sporo b\u0119dzie dzia\u0142o si\u0119 w domu Zeme\u0142ki. O godz. 13.00 i 14.00 zaplanowane jest zwiedzanie zabytku wraz z przewodnikiem. W \u015brodku ogl\u0105da\u0107 b\u0119dzie dwie wystawy \u2013 \u201eBezsenne g\u0142owy co d\u017awigaj\u0105 korony\u2026\u201d o polskich w\u0142adcach autorstwa Archiw\u00f3w Pa\u0144stwowych oraz \u201eRegion Wielkopolski w cyfrowych bazach internetowych\u201d autorstwa Jerzego \u0141ojko.\n\nPonadto zaplanowano trzy wyk\u0142ady. O godz. 14.00 Piotr Rybczy\u0144ski opowie o dzieci\u0119cych latach Mieczys\u0142awa Bekkera w Koninie, godzin\u0119 p\u00f3\u017aniej Wanda Gruszczy\u0144ska przedstawi histori\u0119 Jana Zeme\u0142ki, a o godz. 15.30 odb\u0119dzie si\u0119 wyk\u0142ad \u201eKr\u00f3lewski Konin \u2013 1000 lat\u201d."
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Mamy list\u0119 banknot\u00f3w, kt\u00f3re straci\u0142y wa\u017cno\u015b\u0107. Niekt\u00f3re z nich ca\u0142y czas mo\u017cna wymieni\u0107 [23.08.25]",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/mamy-list%C4%99-banknot%C3%B3w-kt%C3%B3re-straci%C5%82y-wa%C5%BCno%C5%9B%C4%87-niekt%C3%B3re-z-nich-ca%C5%82y-czas-mo%C5%BCna-wymieni%C4%87-230825/ar-AA1JoySg?ocid=BingNewsVerp",
+            "description": "Banknoty, kt\u00f3re mamy w obiegu nie maj\u0105 terminu przydatno\u015bci, jednak s\u0105 sytuacje, w kt\u00f3rych papierowe pieni\u0105dze trac\u0105 wa\u017cno\u015b\u0107.",
+            "image_url": "https://www.bing.pl/th?id=OVFT.YWO2XIPLjs4QYJfkRauhLS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "Express Bydgoski on MSN29 min",
+            "source": "Express Bydgoski on MSN",
+            "article_content": ""
         }
     },
     {
@@ -42,7 +74,7 @@
             "description": "W wielu polskich domach, zw\u0142aszcza na strychach i w piwnicach, kryj\u0105 si\u0119 prawdziwe skarby z czas\u00f3w PRL. Zakurzone meble, ...",
             "image_url": "https://www.bing.pl/th?id=OVF.NGmDHZZGkFdJfsD7fNlNTQ&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Fakt.pl17 godz.",
+            "date": "Fakt.pl21 godz.",
             "source": "Fakt.pl",
             "article_content": "Stoliki, fotele, czy kryszta\u0142owe kieliszki, kt\u00f3re od lat kurzy\u0142y si\u0119 w piwnicach, zyska\u0142y ogromne grono fan\u00f3w. Na platformach sprzeda\u017cowych przedmioty z PRL-u osi\u0105gaj\u0105 cen\u0119 od kilkuset z\u0142otych do nawet kilku tysi\u0119cy. Ale to nie wszystko. Ro\u015bnie te\u017c zainteresowanie...monetami z tamtego okresu.\n\n\u2014 Od pandemii kolekcjonowanie monet zrobi\u0142o si\u0119 bardzo du\u017c\u0105 form\u0105 inwestycji. Ludzie wtedy uciekali od got\u00f3wki, bo bali si\u0119, co b\u0119dzie dalej. Kupowali monety z\u0142ote, potem kolekcjonerskie. Od tamtej pory tak naprawd\u0119 z roku na rok rynek ro\u015bnie i jest coraz wi\u0119cej kolekcjoner\u00f3w \u2014 m\u00f3wi \"Faktowi\" S\u0142awomir Stec, numizmatyk prowadz\u0105cy Galeri\u0119 Numizmatyczn\u0105 SIS Remonet w Warszawie.\n\nNa aukcjach internetowych coraz cz\u0119\u015bciej pojawiaj\u0105 si\u0119 kultowe fotele 366 zaprojektowane przez J\u00f3zefa Chierowskiego w 1962 r. Ich ceny zaczynaj\u0105 si\u0119 od kilkudziesi\u0119ciu z\u0142otych, ale odrestaurowane to np. wydatek rz\u0119du 999 z\u0142 (ceny z Allegro).\n\n- / - Fotel 366 zaprojektowany przez Chierowskiego. Je\u015bli masz podobny w domu, mo\u017cesz uwa\u017ca\u0107 si\u0119 za szcz\u0119\u015bciarza.\n\nPopularne s\u0105 tak\u017ce sekretarzyki z lat 60. i 70., kt\u00f3re dzi\u0119ki funkcjonalno\u015bci i ponadczasowemu designowi idealnie pasuj\u0105 do dzisiejszych wn\u0119trz. Ceny takich mebli si\u0119gaj\u0105 nawet powy\u017cej 1 tys. z\u0142 i wi\u0119cej.\n\n- / - Tak kiedy\u015b wygl\u0105da\u0142y wn\u0119trza polskich dom\u00f3w. Obecnie coraz wi\u0119cej kolekcjoner\u00f3w szuka ich do swoich mieszka\u0144.\n\nKomody typu \"jamnik\" i kredensy z tamtej epoki to kolejny hit \u2014 ich styl i funkcjonalno\u015b\u0107 sprawiaj\u0105, \u017ce s\u0105 poszukiwane przez kolekcjoner\u00f3w i mi\u0142o\u015bnik\u00f3w retro.\n\n- / - Popularny kredens. Za szklan\u0105 szybk\u0105 cz\u0119sto trzymano zastawy dla go\u015bci, wazony czy kryszta\u0142y.\n\nKsi\u0105\u017cki i publikacje drugiego obiegu \u2014\n\nWarto te\u017c przejrze\u0107 stare biblioteczki. Ksi\u0105\u017cki drugiego obiegu, samizdaty czy oficyny opozycyjne z czas\u00f3w PRL maj\u0105 dzi\u015b warto\u015b\u0107 finansow\u0105 i sentymentaln\u0105.\n\nPublikacje takie jak \"Czarna ksi\u0119ga cenzury PRL\" czy wydania oficyny NOWa, CDN i Kr\u0105g mog\u0105 osi\u0105ga\u0107 od kilkudziesi\u0119ciu z\u0142otych wzwy\u017c.\n\n\u2014 Ludzie, kt\u00f3rzy maj\u0105 tego typu rzeczy, nawet w 99 proc., w og\u00f3le si\u0119 nie orientuj\u0105, co maj\u0105 \u2014 m\u00f3wi \"Faktowi\" Tomasz Latos, bukinista od lat sprzedaj\u0105cy ksi\u0105\u017cki w Warszawie.\n\n\u2014 PRL niestety charakteryzowa\u0142 si\u0119 tym, je\u015bli chodzi o ksi\u0105\u017ck\u0119, \u017ce nak\u0142ady by\u0142y pot\u0119\u017cne. Nak\u0142ady ksi\u0105\u017cek by\u0142y bardzo du\u017ce, one sz\u0142y niekiedy w milionach egzemplarzy. Z tego okresu wybra\u0107 naprawd\u0119 bardzo rzadk\u0105 rzecz jest niezwykle trudno. Oczywi\u015bcie, mo\u017cna znale\u017a\u0107 co\u015b rzadkiego, ale nie b\u0119dzie to ksi\u0105\u017cka warta 100 tys. z\u0142 \u2014 dodaje nasz ekspert.\n\nJakie zatem ksi\u0105\u017cki mog\u0105 by\u0107 warto\u015bciowe? \u2014 Ja my\u015bl\u0119, \u017ce na pewno ksi\u0105\u017cki z autografami znanych autor\u00f3w. Ale to te\u017c nie b\u0119d\u0105 jakie\u015b horrendalne kwoty z tego. Ostatnio mia\u0142em autograf Broniewskiego na przyk\u0142ad \u2014 obecnie jest wart jakie\u015b 600 czy 700 z\u0142, to s\u0105 tego typu kwoty \u2014 m\u00f3wi pan Tomasz.\n\n\u2014 Bardziej si\u0119 op\u0142aca fotel sprzeda\u0107 babciny \u2014 m\u00f3wi na koniec z u\u015bmiechem nasz rozm\u00f3wca.\n\nRz\u0105d szykuje bolesne podwy\u017cki dw\u00f3ch sklepowych podatk\u00f3w. Dotkn\u0105 ka\u017cdego z nas\n\nMonety z PRL \u2014 skarby z szuflady babci\n\nArkadiusz Zi\u00f3\u0142ek / East News Za tak\u0105 dziesi\u0119ciogrosz\u00f3wk\u0119 nie otrzymamy prawie nic. Ale je\u015bli szcz\u0119\u015bcie b\u0119dzie nam sprzyja\u0107, mo\u017cemy znale\u017a\u0107 wyj\u0105tkowy egzemplarz i dosta\u0107 za niego fortun\u0119.\n\n- / 123RF Monety z PRL-u. Warto si\u0119 im przyjrze\u0107 i sprawdzi\u0107, czy w klaserach dziadka nie ma podobnych.\n\nMonety z czas\u00f3w PRL, cho\u0107 masowo produkowane, maj\u0105 kilka wyj\u0105tk\u00f3w, kt\u00f3re ciesz\u0105 si\u0119 nies\u0142abn\u0105cym zainteresowaniem kolekcjoner\u00f3w.\n\nPrzyk\u0142ady najcenniejszych z nich to m.in.:\n\n10 groszy z 1973 r. bez znaku mennicy, do kupienia za 9 tys. 777 z\u0142 na OLX\n\n1 z\u0142oty z 1957 r. (aluminium) \u2014 za 1 tys. 500 z\u0142 na OLX\n\npr\u00f3bne monety 100 z\u0142 z 1979 r. zwane \"Ry\u015b\" \u2014 do nabycia za 800 z\u0142 na OLX\n\nCeny zale\u017c\u0105 przede wszystkim od stanu zachowania, rzadko\u015bci wyst\u0119powania, a tak\u017ce... b\u0142\u0119d\u00f3w menniczych, na kt\u00f3re niekt\u00f3rzy kolekcjonerzy maj\u0105 ogromn\u0105 chrapk\u0119.\n\nS\u0142awomir Stec, numizmatyk z Warszawy m\u00f3wi, \u017ce najcenniejsze monety s\u0105 monetami najrzadszymi i to niezale\u017cnie od okresu.\n\n\u2014 I to samo dotyczy okresu PRL u. Dlatego najcenniejsz\u0105 monet\u0105 jest taka s\u0142awna dziesi\u0119ciogrosz\u00f3wka z 1973 r. bez znaku mennicy. Legendy m\u00f3wi\u0105, \u017ce by\u0142a wybita seria pr\u00f3bna w postaci mo\u017ce kilkunastu sztuk w mennicy w Czechos\u0142owacji. I w zasadzie chyba nawet nie trafi\u0142a do obiegu. Ale zdarza si\u0119 na rynku, \u017ce je\u015bli rzeczywi\u015bcie tak\u0105 monet\u0119 si\u0119 znajdzie, to mo\u017cna za ni\u0105 dosta\u0107 do kilkunastu tysi\u0119cy z\u0142otych \u2014 m\u00f3wi \"Faktowi\" ekspert.\n\nA jak rozpozna\u0107 tak\u0105 monet\u0119 z morza innych dziesi\u0119ciogrosz\u00f3wek z tego okresu? Nie jest to \u0142atwe, ale ekspert wskazuje, na co zwr\u00f3ci\u0107 uwag\u0119.\n\n\u2014 Na monetach, kt\u00f3re wysz\u0142y z mennicy w Kremnicy w \u00f3wczesnej Czechos\u0142owacji, zabrak\u0142o znaku mennicy, kt\u00f3ry zwykle znajdowa\u0142 si\u0119 pod lew\u0105 \u0142ap\u0105 or\u0142a \u2014 po tym mo\u017cna rozpozna\u0107 ten wyj\u0105tkowy egzemplarz \u2014 m\u00f3wi S\u0142awomir Stec.\n\nWarto szuka\u0107 tak\u017ce innej monety. Chodzi o tzw. rybaka. \u2014 Rybak, czyli pi\u0119cioz\u0142ot\u00f3wka aluminiowa z wizerunkiem rybaka z 1958 r. jest jedn\u0105 z najdro\u017cszych monet PRL-u. W przypadku rybaka liczy si\u0119 tylko 1958 rok i moneta musi by\u0107 w idealnym stanie \u2014 dodaje numizmatyk.\n\n\u2014 Je\u015bli kto\u015b mia\u0142 w portfelu, jaki\u015b dziadek, babcia czy ojciec, tak\u0105 monet\u0119 i wrzuci\u0142 j\u0105 do szuflady, to zasadniczo niewiele to nam daje. Moneta bowiem jest powycierana, zniszczona i poobijana. Ona musi by\u0107 pi\u0119kna, idealna. I wtedy ceny s\u0105 rz\u0119du kilku tysi\u0119cy z\u0142otych w zale\u017cno\u015bci od stanu zachowania \u2014 m\u00f3wi \"Faktowi\" na koniec ekspert.\n\n10-grosz\u00f3wka z 1973 r. bez znaku mennicy jest jedyn\u0105 obiegow\u0105 monet\u0105 PRL, kt\u00f3ra w katalogach monet tego okresu nie posiada wyceny, a oznaczenie c.a. \u2014 cena amatorska. Obecnie jej cena na rynku aukcyjnym waha si\u0119 w granicach 10 tys. z\u0142.\n\npodaje portalnumizmatyczny.pl.\n\nCo ciekawe, w grudniu zesz\u0142ego roku jedn\u0105 z takich dziesi\u0119ciogrosz\u00f3wek sprzedano za 33 tys. z\u0142 \u2014 by\u0142a \u015bwietnie zachowana, poniewa\u017c przez lata spoczywa\u0142a w klaserze numizmatycznym. Cztery lata wcze\u015bniej inna dziesi\u0119ciogrosz\u00f3wka a z tym samym defektem zosta\u0142a sprzedana za 29 tys. 900 z\u0142.\n\nU\u017cytkowanie wieczyste wraca? Rz\u0105d planuje zmiany w prawie mieszkaniowym\n\nDlaczego to takie popularne?\n\nStyl vintage i nostalgia za dawnymi czasami sprawiaj\u0105, \u017ce przedmioty z PRL interesuj\u0105 coraz wi\u0119ksz\u0105 grup\u0119 os\u00f3b \u2014 nie tylko kolekcjoner\u00f3w, ale i ludzi urz\u0105dzaj\u0105cych mieszkania w stylu retro.\n\nW internecie nie brakuje zabawek z PRL, p\u0142yt, starych sprz\u0119t\u00f3w RTV czy kryszta\u0142\u00f3w. W wielu domach le\u017c\u0105 kieliszki i naczynia, kt\u00f3re w tamtych czasach uchodzi\u0142y za luksus. Teraz ich warto\u015b\u0107 jest znaczna, a kolekcjonerzy szukaj\u0105 unikatowych egzemplarzy ca\u0142ymi latami.\n\nGdzie szuka\u0107 i kupowa\u0107 albo sprzedawa\u0107 rarytasy z tamtej epoki?\n\nNajlepiej zajrze\u0107 na internetowe portale aukcyjne, przeszukiwa\u0107 antykwariaty i sklepy vintage. Pomocne mog\u0105 si\u0119 te\u017c okaza\u0107 media spo\u0142eczno\u015bciowe \u2014 istnieje wiele grup, w kt\u00f3rych u\u017cytkownicy wyszukuj\u0105 unikalnych ofert.\n\nPorz\u0105dkujesz banknoty w portfelu? Psycholodzy maj\u0105 na ten temat teori\u0119"
         }
@@ -58,7 +90,7 @@
             "description": "W erze superszybkich smartfon\u00f3w z potr\u00f3jnymi aparatami, ekranami AMOLED i sztuczn\u0105 inteligencj\u0105 na pok\u0142adzie, ma\u0142o kto spodziewa\u0142by si\u0119, \u017ce to w\u0142a\u015bnie telefony sprzed 20 lat prze\u017cywaj\u0105 dzi\u015b drug\u0105 m\u0142od ...",
             "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "G\u0142os Pomorza on MSN2 godz.",
+            "date": "G\u0142os Pomorza on MSN6 godz.",
             "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
         }
@@ -69,29 +101,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Mamy list\u0119 banknot\u00f3w, kt\u00f3re straci\u0142y wa\u017cno\u015b\u0107. Niekt\u00f3re z nich ca\u0142y czas mo\u017cna wymieni\u0107 [23.08.2025 r.]",
-            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/mamy-list%C4%99-banknot%C3%B3w-kt%C3%B3re-straci%C5%82y-wa%C5%BCno%C5%9B%C4%87-niekt%C3%B3re-z-nich-ca%C5%82y-czas-mo%C5%BCna-wymieni%C4%87-23-08-2025-r/ar-AA1JorPU?ocid=BingNewsVerp",
-            "description": "Banknoty, kt\u00f3re mamy w obiegu nie maj\u0105 terminu przydatno\u015bci, jednak s\u0105 sytuacje, w kt\u00f3rych papierowe pieni\u0105dze trac\u0105 wa\u017cno\u015b\u0107.",
-            "image_url": "https://www.bing.pl/th?id=OVFT.oX3ofgzPQ7UEDWSa5rrkay&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Najpi\u0119kniejsze nadmorskie zak\u0105tki na rowerowym szlaku Velo Baltica. Przejechali\u015bmy z Mielna do Mrze\u017cyna",
+            "link": "https://szczecin.wyborcza.pl/szczecin/7,34939,32172498,rowerem-wzdluz-baltyku.html",
+            "description": "Velo Baltica, czyli szlak rowerowy wzd\u0142u\u017c Morza Ba\u0142tyckiego, przyci\u0105ga tysi\u0105ce turyst\u00f3w. W jego zachodniopomorskiej cz\u0119\u015bci ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT._qpAfcwDLIpTNm_JOwD4Pi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Toru\u0144 Nasze Miasto on MSN2 godz.",
-            "source": "Toru\u0144 Nasze Miasto on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Dlaczego warto przyjecha\u0107 na Wolin?",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/dlaczego-warto-przyjecha%C4%87-na-wolin/ar-AA1L1ctt?ocid=BingNewsVerp",
-            "description": "Mi\u0119dzy Morzem Ba\u0142tyckim a Zalewem Szczeci\u0144skim: Wolin znajduje si\u0119 zaledwie rzut kamieniem od \u015awinouj\u015bcia, a mimo to jest ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.cvFsPr9_-6K4pePdkmM_5C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "Podr\u00f3\u017ce Onet on MSN20 godz.",
-            "source": "Podr\u00f3\u017ce Onet on MSN",
+            "date": "Szczecin Wyborcza.pl2 godz.",
+            "source": "Szczecin Wyborcza.pl",
             "article_content": ""
         }
     },
@@ -106,8 +122,24 @@
             "description": "Szukasz domu w atrakcyjnej cenie? Ceny wywo\u0142awcze nieruchomo\u015bci komorniczych zdecydowanie odbiegaj\u0105 od tych rynkowych. Zobacz ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.5xswsBYgxodMiE9_bdic9y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Kurier Lubelski on MSN23 godz.",
+            "date": "Kurier Lubelski on MSN4 godz.",
             "source": "Kurier Lubelski on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Najszybciej rozwijaj\u0105ce si\u0119 uzdrowisko Dolnego \u015al\u0105ska. Jeden dzie\u0144 w Polanicy-Zdroju jest jak ca\u0142y urlop - zdj\u0119cia [23.08.2025]",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/najszybciej-rozwijaj%C4%85ce-si%C4%99-uzdrowisko-dolnego-%C5%9Bl%C4%85ska-jeden-dzie%C5%84-w-polanicy-zdroju-jest-jak-ca%C5%82y-urlop-zdj%C4%99cia-23-08-2025/ar-AA1KF7TY?ocid=BingNewsVerp",
+            "description": "Dolno\u015bl\u0105skie uzdrowiska przyci\u0105gaj\u0105 odwiedzaj\u0105cych jak magnes, ale nie ka\u017cde z nich zachwyci nie tylko kuracjuszy, ale te\u017c ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.g_fSBhmM3B-p_HQTQuEHAC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "Gazeta Wroc\u0142awska on MSN5 godz.",
+            "source": "Gazeta Wroc\u0142awska on MSN",
             "article_content": ""
         }
     },
@@ -122,25 +154,9 @@
             "description": "Na budowie placu Centralnego (cz\u0119\u015b\u0107 placu Defilad) odkopali\u015bmy niedawno posadzk\u0119 jednej z kamienic, kt\u00f3re sta\u0142y w tym miejscu ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.VBHHvRxynBQWHRdLBgK1Fy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "TOK FM8 godz.",
+            "date": "TOK FM13 godz.",
             "source": "TOK FM",
             "article_content": "- Spodziewali\u015bmy si\u0119, \u017ce te fragmenty tam s\u0105. Natomiast zaskoczeniem jest to, \u017ce s\u0105 one stosunkowo g\u0142\u0119boko, czyli powy\u017cej 2 metr\u00f3w obecnego poziomu gruntu, a wi\u0119c te wszystkie relikty zosta\u0142y pokryte kolejnymi warstwami nasypu - powiedzia\u0142 o najnowszym odkryciu prof. Jakub Lewicki, mazowiecki wojew\u00f3dzki konserwator zabytku. Podkre\u015bli\u0142, \u017ce mamy do czynienia z odkryciem 'unikalnych fragment\u00f3w bruku i dawnej zabudowy'.\n\n- Jeste\u015bmy dopiero na pocz\u0105tku bada\u0144. Do\u0142o\u017c\u0119 wszelkich stara\u0144, by by\u0142y one pieczo\u0142owicie i dok\u0142adnie prowadzone i \u017ceby jak najwi\u0119cej dowiedzie\u0107 si\u0119 o przesz\u0142o\u015bci tego miejsca - doda\u0142 Lewicki.\n\nDrogowcy przypomnieli, \u017ce to jedno z wielu znalezisk dokonanych w trakcie prac. 'Inwestycja od pocz\u0105tku ma nadz\u00f3r archeolog\u00f3w, wsp\u00f3\u0142pracujemy te\u017c z konserwatorem zabytk\u00f3w. Kilka dni temu rozstrzygn\u0119li\u015bmy przetarg na dodatkowe badania ods\u0142oni\u0119tych relikt\u00f3w' - dodali. Latem podczas prac pod powierzchni\u0105 placu Defilad robotnicy odkryli elementy infrastruktury ulicy Wielkiej i Z\u0142otej.\n\nPa\u0142ac Kultury i Nauki i jego otoczenie powsta\u0142y na terenie 50 hektar\u00f3w pomi\u0119dzy Alejami Jerozolimskimi, Marsza\u0142kowsk\u0105, \u015awi\u0119tokrzysk\u0105 i Emilii Plater. W tym celu w latach 50. XX wieku zlikwidowano liczne ulice i pozosta\u0142o\u015bci 80 kamienic. W cz\u0119\u015bci przeznaczonej na plac budowy znajduj\u0105 si\u0119 fragmenty ul. Chmielnej, Z\u0142otej, Siennej, \u015aliskiej, Pa\u0144skiej, Zielnej oraz cz\u0119\u015b\u0107 Marsza\u0142kowskiej. W trakcie budowy Pa\u0142acu w ca\u0142o\u015bci znikn\u0119\u0142a ulica Wielka, biegn\u0105ca r\u00f3wnolegle do Marsza\u0142kowskiej.\n\nNa prze\u0142omie XIX i XX wieku teren obecnego placu Defilad wype\u0142nia\u0142y wysokie secesyjne kamienice. Znajdowa\u0142o si\u0119 na nim oko\u0142o 180 budynk\u00f3w mieszkalnych.\n\nJu\u017c po zako\u0144czeniu dokumentacji, docelowy uk\u0142ad chodnik\u00f3w i zieleni na placu odwzoruje sie\u0107 dawnych ulic i zarys budynk\u00f3w z 1939 roku.\n\nPosadzka placu - zaprojektowana przez architekt\u00f3w z pracowni A-A Collective - zostanie u\u0142o\u017cona z sze\u015bciu rodzaj\u00f3w kamieni. Obrysy dawnych kamienic powstan\u0105 z wielkoformatowych p\u0142yt kamiennych w r\u00f3\u017cnych wybarwieniach: szarym i czerwonym. Dawne dziedzi\u0144ce zostan\u0105 wybrukowane ponownie wykorzystan\u0105 kostk\u0105 granitow\u0105 oraz uzupe\u0142nione p\u0142ytami granitowymi z okolic trybuny honorowej.\n\nPiS ma kandydata na prezydenta Warszawy? 'Jestem w puli os\u00f3b'"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Najszybciej rozwijaj\u0105ce si\u0119 uzdrowisko Dolnego \u015al\u0105ska. Jeden dzie\u0144 w Polanicy-Zdroju jest jak ca\u0142y urlop - zdj\u0119cia [23.08.2025]",
-            "link": "https://www.msn.com/pl-pl/podroze/aktywno%C5%9B%C4%87-na-%C5%9Bwie%C5%BCym-powietrzu/najszybciej-rozwijaj%C4%85ce-si%C4%99-uzdrowisko-dolnego-%C5%9Bl%C4%85ska-jeden-dzie%C5%84-w-polanicy-zdroju-jest-jak-ca%C5%82y-urlop-zdj%C4%99cia-23-08-2025/ar-AA1KF7TY?ocid=BingNewsVerp",
-            "description": "Dolno\u015bl\u0105skie uzdrowiska przyci\u0105gaj\u0105 odwiedzaj\u0105cych jak magnes, ale nie ka\u017cde z nich zachwyci nie tylko kuracjuszy, ale te\u017c ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.g_fSBhmM3B-p_HQTQuEHAC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "Gazeta Wroc\u0142awska on MSN1 godz.",
-            "source": "Gazeta Wroc\u0142awska on MSN",
-            "article_content": ""
         }
     },
     {
@@ -154,7 +170,7 @@
             "description": "Robotnicy pracuj\u0105cy na remontowanym placu Defilad znale\u017ali \u015bwi\u0105teczn\u0105 niespodziank\u0119. W jednej z piwnic przedwojennej ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.sRxzcjEM_oPFfL43FHVoQy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "TOK FM8 godz.",
+            "date": "TOK FM13 godz.",
             "source": "TOK FM",
             "article_content": "\"Bombowe znalezisko na budowie placu Centralnego (cz\u0119\u015b\u0107 placu Defilad - PAP), a raczej bombkowe. Wykopaliska archeologiczne co i raz uraczaj\u0105 nas ciekawymi przedmiotami. Bardzo mi\u0142o ze strony inwestycji, \u017ce w grudniu obdarowa\u0142a nas niespodziank\u0105 okoliczno\u015bciow\u0105. W jednej z piwnic, kt\u00f3re pozosta\u0142y po przedwojennych kamienicach, znale\u017ali\u015bmy przedmiot b\u0119d\u0105cy najprawdopodobniej star\u0105 bombk\u0105 bo\u017conarodzeniow\u0105\" - poinformowa\u0142 w mediach spo\u0142eczno\u015bciowych Zarz\u0105d Dr\u00f3g Miejskich.\n\nTo nie jedyne znalezisko archeologiczne na tej inwestycji. Pod koniec listopada robotnicy odkryli tam posadzk\u0119 jednej z kamienic, kt\u00f3re sta\u0142y w tym miejscu przed wojn\u0105. Latem - podczas prac pod powierzchni\u0105 placu - robotnicy odkryli elementy infrastruktury ulicy Wielkiej i Z\u0142otej.\n\nMazowiecki wojew\u00f3dzki konserwator zabytk\u00f3w prof. Jakub Lewicki wyja\u015bni\u0142 wtedy, \u017ce w trakcie prac odkryto unikalne fragmenty bruku i dawnej zabudowy. - Spodziewali\u015bmy si\u0119, \u017ce te fragmenty tam s\u0105. Natomiast zaskoczeniem jest to, \u017ce s\u0105 one stosunkowo g\u0142\u0119boko, czyli powy\u017cej 2 metr\u00f3w obecnego poziomu gruntu, a wi\u0119c te wszystkie relikty zosta\u0142y pokryte kolejnymi warstwami nasypu. Jeste\u015bmy dopiero na pocz\u0105tku bada\u0144. Do\u0142o\u017c\u0119 wszelkich stara\u0144, by by\u0142y one pieczo\u0142owicie i dok\u0142adnie prowadzone i \u017ceby jak najwi\u0119cej dowiedzie\u0107 si\u0119 o przesz\u0142o\u015bci tego miejsca - doda\u0142.\n\nWyj\u0105tkowe znalezisko w \u0141odzi da\u0142o pocz\u0105tek nowemu pomnikowi. 'To w\u0142a\u015bciwe miejsce'\n\nPa\u0142ac Kultury i Nauki i jego otoczenie powsta\u0142y na terenie 50 hektar\u00f3w pomi\u0119dzy Alejami Jerozolimskimi, Marsza\u0142kowsk\u0105, \u015awi\u0119tokrzysk\u0105 i Emilii Plater. W tym celu w latach 50. XX wieku zlikwidowano liczne ulice i pozosta\u0142o\u015bci 80 kamienic. W cz\u0119\u015bci przeznaczonej na plac budowy znajduj\u0105 si\u0119 fragmenty ul. Chmielnej, Z\u0142otej, Siennej, \u015aliskiej, Pa\u0144skiej, Zielnej oraz cz\u0119\u015b\u0107 Marsza\u0142kowskiej. W trakcie budowy Pa\u0142acu w ca\u0142o\u015bci znikn\u0119\u0142a ulica Wielka, biegn\u0105ca r\u00f3wnolegle do Marsza\u0142kowskiej.\n\nNa prze\u0142omie XIX i XX wieku teren obecnego placu Defilad wype\u0142nia\u0142y wysokie secesyjne kamienice. Znajdowa\u0142o si\u0119 na nim oko\u0142o 180 budynk\u00f3w mieszkalnych."
         }
@@ -170,8 +186,40 @@
             "description": "Or\u0142owo pod Inowroc\u0142awiem w centrum zainteresowania archeolog\u00f3w i antropolog\u00f3w dzi\u0119ki budowie gazoci\u0105gu. To podczas niej ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.vTqK99NU-iaRo1D679ugvy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Bydgoszcz.Wyborcza.pl12 godz.",
+            "date": "Bydgoszcz.Wyborcza.pl16 godz.",
             "source": "Bydgoszcz.Wyborcza.pl",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Klub rozdaje mieszka\u0144com zatyczki do uszu. To koniec spokojnego centrum Krakowa?",
+            "link": "https://krakow.wyborcza.pl/krakow/7,44425,32195246,uchwala-antyhalasowa-do-kosza-koniec-z-cichszymi-nocami-w-centrum.html",
+            "description": "- W centrum brakuje cywilizacji. A jeste\u015bmy miastem europejskim, na zach\u00f3d od Uralu i z tego co wiem, nie planujemy tego ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.2tGjlspx8Ko-BkfF3AcvkC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Krak\u00f3w.Wyborcza.pl4 godz.",
+            "source": "Krak\u00f3w.Wyborcza.pl",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Lubicie si\u0119 ba\u0107? To najbardziej nawiedzone miejsca w Lubuskiem",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/lubicie-si%C4%99-ba%C4%87-to-najbardziej-nawiedzone-miejsca-w-lubuskiem/ar-AA1L4uPL?ocid=BingNewsVerp",
+            "description": "Lubicie si\u0119 ba\u0107? O tym, \u017ce w Lubuskiem straszy przekonuj\u0105 nie tylko te historie. Pono\u0107 w naszym regionie znajduj\u0105 si\u0119 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.WmyFB8NEvTTCB89o4afqYS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Gazeta Lubuska on MSN3 godz.",
+            "source": "Gazeta Lubuska on MSN",
             "article_content": ""
         }
     },
@@ -186,25 +234,9 @@
             "description": "Znalezisko to prehistoryczny sztylet z epoki br\u0105zu licz\u0105cy sobie oko\u0142o 3500 lat. Ostatni raz ludzka d\u0142o\u0144 trzyma\u0142a go w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.J7FZja3hY540VKeKBjXeiy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Focus54 min",
+            "date": "Focus5 godz.",
             "source": "Focus",
             "article_content": "Skarb sprzed kilku tysi\u0119cy lat\n\nZnalezisko to prehistoryczny sztylet z epoki br\u0105zu licz\u0105cy sobie oko\u0142o 3500 lat. Ostatni raz ludzka d\u0142o\u0144 trzyma\u0142a go w czasach, gdy w Egipcie rz\u0105dzili faraonowie, a Europa dopiero kszta\u0142towa\u0142a swoje pierwsze z\u0142o\u017cone spo\u0142ecze\u0144stwa. Stan zachowania artefaktu jest naprawd\u0119 imponuj\u0105cy, co zdumia\u0142o nawet do\u015bwiadczonych archeolog\u00f3w. Daniel Scherf z Urz\u0119du Ochrony Zabytk\u00f3w i Archeologii w Weimarze nie kryje swojego zdumienia. Jak zauwa\u017ca, przedmioty takie jak ten nie s\u0105 codziennymi odkryciami. Zobaczy\u0107 sztylet z epoki br\u0105zu w tak dobrym stanie, to jego zdaniem co\u015b naprawd\u0119 wyj\u0105tkowego. Okolica Gudersleben charakteryzuje si\u0119 specyficzn\u0105 budow\u0105 geologiczn\u0105 z licznymi strukturami i zjawiskami krasowymi. Ruchy gruntu, zapadliska czy podziemne cieki wodne sprawiaj\u0105, \u017ce ziemia w tym regionie \u017cyje w\u0142asnym rytmem. Intensywne opady deszczu kt\u00f3re nawiedzi\u0142y okolic\u0119 w ostatnim czasie, zmy\u0142y wierzchni\u0105 warstw\u0119 gleby, ods\u0142aniaj\u0105c skarb ukryty przez wieki. To swoisty paradoks: te same si\u0142y natury, kt\u00f3re przez milenia chroni\u0142y artefakt, nagle \u201cpostanowi\u0142y\u201d go ujawni\u0107.\n\nCzytaj te\u017c: Odnale\u017ali zatopione miasto u wybrze\u017cy Egiptu. Sensacyjne odkrycie podsyca dyskusj\u0119 o Atlantydzie\n\nOdkryty sztylet to typ z p\u0142ytkowym trzpieniem, rodzaj charakterystyczny dla \u015brodkowej epoki br\u0105zu. W przeciwie\u0144stwie do wsp\u00f3\u0142czesnych no\u017cy, te prehistoryczne bronie mia\u0142y szeroki, p\u0142aski trzonek przeznaczony do mocowania r\u0119koje\u015bci z drewna lub ko\u015bci. Wymaga\u0142o to nie lada kunsztu, poczynaj\u0105c od precyzyjnego odlania w br\u0105zie a\u017c po staranne montowanie wszystkich element\u00f3w. Br\u0105z w tamtych czasach by\u0142 materia\u0142em niezwykle cennym, wymagaj\u0105cym dost\u0119pu do rud miedzi i cyny oraz zaawansowanej wiedzy metalurgicznej. Bro\u0144 z niego wytworzona stanowi\u0142a nie tylko narz\u0119dzie walki, ale i symbol statusu. Mo\u017cna sobie tylko wyobra\u017ca\u0107, ile wysi\u0142ku i umiej\u0119tno\u015bci wymaga\u0142o stworzenie takiego przedmiotu.\n\nSpo\u0142eczno\u015bci sprzed wiek\u00f3w i wzorowe zachowanie odkrywcy\n\nEpoka br\u0105zu to czas dynamicznych przemian spo\u0142ecznych. Wy\u0142ania\u0142y si\u0119 w\u00f3wczas pierwsze zhierarchizowane struktury, rozwija\u0142 si\u0119 handel na du\u017ce odleg\u0142o\u015bci, kwit\u0142o \u017cycie ceremonialne. Metalurgia sta\u0142a si\u0119 si\u0142\u0105 nap\u0119dow\u0105 tych zmian, a bro\u0144 taka jak znaleziony sztylet by\u0142a prawdopodobnie w\u0142asno\u015bci\u0105 kogo\u015b wa\u017cnego. By\u0107 mo\u017ce lokalnego przyw\u00f3dcy, b\u0105d\u017a wojownika strzeg\u0105cego szlak\u00f3w handlowych. Ciekawe jest to, \u017ce takie przedmioty cz\u0119sto pe\u0142ni\u0142y podw\u00f3jn\u0105 rol\u0119, czyli praktycznego narz\u0119dzia i symbolu w\u0142adzy. Sztylet z Gudersleben m\u00f3g\u0142 by\u0107 cz\u0119\u015bci\u0105 wyposa\u017cenia grobowego lub ofiar\u0105 rytualn\u0105. Sam region ma bogat\u0105 histori\u0119 osadnictwa, co potwierdzaj\u0105 liczne \u015blady archeologiczne w okolicy. Maik B\u00f6hner zas\u0142uguje na uznanie za swoj\u0105 postaw\u0119. Zamiast pr\u00f3bowa\u0107 samodzielnie wydoby\u0107 znalezisko, natychmiast powiadomi\u0142 odpowiednie s\u0142u\u017cby. Takie podej\u015bcie pozwoli\u0142o archeologom na profesjonalne zabezpieczenie artefaktu i dokumentacj\u0119 kontekstu znaleziska.\n\nCzytaj te\u017c: Makabryczne znalezisko w Alzacji. Odci\u0119te ramiona jako trofea\n\nW Niemczech, podobnie zreszt\u0105 jak w Polsce, nieautoryzowane u\u017cywanie wykrywaczy metali jest zabronione. Odpowiedzialne zg\u0142aszanie przypadkowych znalezisk to najlepszy spos\u00f3b na ochron\u0119 dziedzictwa archeologicznego. Sztylet trafi\u0142 do pracowni konserwatorskich w Weimarze, gdzie przejdzie szczeg\u00f3\u0142owe badania i zabiegi konserwatorskie. Po zako\u0144czeniu prac artefakt b\u0119dzie mo\u017cna ogl\u0105da\u0107 w Muzeum Historii Lokalnej w Ellrich. Tego typu odkrycia maj\u0105 w sobie co\u015b magicznego, gdy\u017c pozwalaj\u0105 nam dos\u0142ownie dotkn\u0105\u0107 przesz\u0142o\u015bci. Kiedy patrzymy na taki przedmiot, mo\u017cemy si\u0119 zastanawia\u0107, kim by\u0142 jego ostatni w\u0142a\u015bciciel, jakie by\u0142y jego troski i nadzieje, jak wygl\u0105da\u0142o jego codzienne \u017cycie. To bezcenna lekcja historii, kt\u00f3ra przypomina, \u017ce mimo up\u0142ywu tysi\u0119cy lat, ludzkie do\u015bwiadczenia wci\u0105\u017c pozostaj\u0105 w wielu aspektach podobne."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Stary budynek ukryty \"Na Op\u0142otkach\"",
-            "link": "https://www.trojmiasto.pl/historia/Stary-budynek-ukryty-Na-Oplotkach-n207150.html",
-            "description": "Olszynka to wyj\u0105tkowa dzielnica o niemal wiejskim charakterze, cho\u0107 zlokalizowana tu\u017c obok \u015br\u00f3dmie\u015bcia Gda\u0144ska. Znajduje si\u0119 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.9mBQBVy5bC0P3Hhf8ipViy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Trojmiasto.pl1 godz.",
-            "source": "Trojmiasto.pl",
-            "article_content": "Content not available"
         }
     },
     {
@@ -218,7 +250,7 @@
             "description": "NA PIERWSZY OGIE\u0143 | Od p\u00f3\u0142tora miesi\u0105ca Wroc\u0142aw \u017cyje kontrowersj\u0105 wok\u00f3\u0142 rekonstrukcji starego, budowanego jeszcze w 1910 r.",
             "image_url": "https://www.bing.pl/th?id=OVFT.vrXJAoN1fJfPFSUR7WSQSS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Do Rzeczy14 godz.",
+            "date": "Do Rzeczy19 godz.Opinion",
             "source": "Do Rzeczy",
             "article_content": "Most nie budzi\u0142by wi\u0119kszych kontrowersji, gdyby nie rozpocz\u0119ta jaki\u015b czas temu konserwacja, nad kt\u00f3r\u0105 sprawuje piecz\u0119 miejski konserwator zabytk\u00f3w. Ten zobowi\u0105za\u0142 firmy remontuj\u0105ce obiekt do tego, by przy okazji przywr\u00f3ci\u0107 go do kszta\u0142tu z 1910 r. Jak si\u0119 okaza\u0142o, w planie jest przywr\u00f3cenie skutego w 1947 r. napisu \u201eKaiserbr\u00fccke\u201d oraz du\u017cego symbolu korony cesarzy Niemiec wraz z dwiema stylizowanymi wie\u017cyczkami stra\u017cniczymi. No i oczywi\u015bcie takie projekty wywo\u0142a\u0142y g\u0142osy krytyki ze strony samorz\u0105dowc\u00f3w PiS.\n\nJak to bywa z polskimi sporami historyczno-symbolicznymi, czo\u0142owym obro\u0144c\u0105 niemieckiego napisu i kaizerowskiej korony sta\u0142a si\u0119 lokalna \u201eGazeta Wyborcza\u201d. I co charakterystyczne, zacz\u0119to wali\u0107 z publicystycznej grubej artylerii."
         }
@@ -229,14 +261,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Odkrycie z przesz\u0142o\u015bci: Nietypowa urna domkowa",
-            "link": "https://www.rmf24.pl/regiony/trojmiasto/news-odkrycie-z-przeszlosci-nietypowa-urna-domkowa,nId,8012831",
-            "description": "Urna domkowa sprzed oko\u0142o 2600 lat. Ten niezwyk\u0142y zabytek zosta\u0142 odnaleziony w 2023 roku w miejscowo\u015bci Bo\u017cepole Wielkie w ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.Rzn16kOcyNrbKO2BNlj8TC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Stary budynek ukryty \"Na Op\u0142otkach\"",
+            "link": "https://www.trojmiasto.pl/historia/Stary-budynek-ukryty-Na-Oplotkach-n207150.html",
+            "description": "Olszynka to wyj\u0105tkowa dzielnica o niemal wiejskim charakterze, cho\u0107 zlokalizowana tu\u017c obok \u015br\u00f3dmie\u015bcia Gda\u0144ska. Znajduje si\u0119 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.9mBQBVy5bC0P3Hhf8ipViy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "RMF2420 godz.",
-            "source": "RMF24",
-            "article_content": "Urna domkowa sprzed oko\u0142o 2600 lat. Ten niezwyk\u0142y zabytek zosta\u0142 odnaleziony w 2023 roku w miejscowo\u015bci Bo\u017cepole Wielkie w powiecie wejherowskim. Teraz urn\u0119 pokaza\u0142o \u200bMuzeum Archeologiczne w Gda\u0144sku.\n\nUrna domkowa z wczesnej epoki \u017celaza prezentowana w Muzeum Archeologicznym w Gda\u0144sku. / Adam War\u017cawa / PAP\n\nPrezentacja urny domkowej\n\nNietypowy eksponat zaprezentowano w oddziale Muzeum Archeologicznego w Gda\u0144sku, w Spichlerzu B\u0142\u0119kitny Baranek.\n\nTo zabytek wyj\u0105tkowy ze wzgl\u0119du na to, \u017ce jest to dopiero czwarta taka popielnica domkowa odkryta po II wojnie \u015bwiatowej, a tak\u017ce ze wzgl\u0119du na stan zachowania tego zabytku - powiedzia\u0142 kierownik Dzia\u0142u Wczesnej Epoki \u017belaza w Muzeum Archeologicznym w Gda\u0144sku dr Piotr Fudzi\u0144ski.\n\nUrna powsta\u0142a oko\u0142o 2600 lat temu. Jak informuje strona internetowa Muzeum Archeologicznego w Gda\u0144sku, przedmiot ma nietypowy kszta\u0142t przypominaj\u0105cy gliniany dom stoj\u0105cy na dziewi\u0119ciu n\u00f3\u017ckach.\n\nEksponat ma docelowo trafi\u0107 na now\u0105 wystaw\u0119 archeologiczn\u0105 w wyremontowanym Domu Przyrodnik\u00f3w przy ul. Mariackiej w Gda\u0144sku.\n\n\n\nDo czego s\u0142u\u017cy\u0142 ten przedmiot?\n\nJak wyja\u015bni\u0142 Piotr Fudzi\u0144ski, w VII w. p.n.e. na obszarze Pomorza Wschodniego stosowany by\u0142 cia\u0142opalny obrz\u0105dek pogrzebowy.\n\nTo znaczy, \u017ce osoba, kt\u00f3ra zmar\u0142a, by\u0142a sk\u0142adana na stosie i skrupulatnie dbano o to, \u017ceby wybra\u0107 po procesie kremacji wszystkie ko\u015bci i z\u0142o\u017cy\u0107 je do takiej urny, razem z drobnymi przedmiotami stanowi\u0105cymi wyposa\u017cenie osoby zmar\u0142ej. Z regu\u0142y by\u0142y to drobne przedmioty metalowe, najcz\u0119\u015bciej br\u0105zowe - m\u00f3wi\u0142.\n\nUrna zosta\u0142a u\u017cyta do poch\u00f3wku wielokrotnego.\n\nTo znaczy, \u017ce w jednej popielnicy by\u0142y z\u0142o\u017cone ko\u015bci wi\u0119cej ni\u017c jednej osoby. W tym wypadku na pewno mamy po\u015bwiadczony przez antropologa poch\u00f3wek dziecka powy\u017cej dziesi\u0105tego roku \u017cycia i m\u0119\u017cczyzny oraz prawdopodobnie jeszcze dw\u00f3ch innych os\u00f3b, w tym prawdopodobnie kobiety - t\u0142umaczy\u0142 Fudzi\u0144ski.\n\nHistoria eksponatu\n\nUrn\u0119 domkow\u0105 odnaleziono w 2023 roku w Bo\u017cepolu Wielkim podczas bada\u0144 ratowniczych prowadzonych przez Fundacj\u0119 Dziedzictwa Archeologicznego.\n\nPrzedmiot znaleziono w grobie skrzynkowym, wykonanym ze starannie u\u0142o\u017conych p\u0142yt kamiennych.\n\nPomorski Wojew\u00f3dzki Konserwator Zabytk\u00f3w podj\u0105\u0142 decyzj\u0119 o przekazaniu eksponatu do Muzeum Archeologicznego w Gda\u0144sku, gdzie ten zosta\u0142 poddany konserwacji i badaniom. Wykonano mi\u0119dzy innymi opracowanie antropologiczne ludzkich szcz\u0105tk\u00f3w kostnych. Prace maj\u0105ce zabezpieczy\u0107 zabytek przed zniszczeniem i odtworzenie jej pierwotnego kszta\u0142tu trwa\u0142y \u0142\u0105cznie 2 lata.\n\n\n\n"
+            "date": "Trojmiasto.pl5 godz.",
+            "source": "Trojmiasto.pl",
+            "article_content": "Content not available"
         }
     },
     {
@@ -245,30 +277,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "W pokoju hotelowym musi by\u0107 telefon stacjonarny. Hotelarze pytaj\u0105 \"po co?\"",
-            "link": "https://www.gazetaprawna.pl/firma-i-prawo/artykuly/9868475,w-pokoju-hotelowym-musi-byc-telefon-stacjonarny-hotelarze-pytaja-po.html",
-            "description": "Telefon stacjonarny jest nadal obowi\u0105zkowym elementem wyposa\u017cenia pokoi hotelowych w Polsce. Ten i inne archaiczne wymogi ...",
-            "image_url": "https://www.bing.pl/th?id=OVF.%2fQNhi05BmXY4sDm7SZdGJg&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "GazetaPrawna.pl19 godz.",
-            "source": "GazetaPrawna.pl",
-            "article_content": "Polscy hotelarze apeluj\u0105 od lat od zmian\u0119 przepis\u00f3w dotycz\u0105cych kategoryzacji hoteli. Dzi\u015b reguluje to rozporz\u0105dzenie z 19 sierpnia 2004 r. w sprawie obiekt\u00f3w hotelarskich i innych obiekt\u00f3w, w kt\u00f3rych s\u0105 \u015bwiadczone us\u0142ugi hotelarskie (t.j. Dz.U. z 2017 r., poz. 2166 ze zm.). Przedstawiciele tej bran\u017cy zwr\u00f3cili si\u0119 z pro\u015bb\u0105 o interwencj\u0119 do pos\u0142anki Katarzyny Osos (KO).\n\n\u201ePrzedsi\u0119biorcy z bran\u017cy hotelarskiej uwa\u017caj\u0105, \u017ce nadszed\u0142 czas na aktualizacj\u0119 rodzimych przepis\u00f3w, aby dostosowa\u0107 je do obowi\u0105zuj\u0105cych od kilku lat standard\u00f3w HSU (red. Hotelstars Union) i u\u0142atwi\u0107 polskim hotelom konkurowanie na rynku mi\u0119dzynarodowym\u201d pisze pos\u0142anka w interpelacji do ministra sportu i turystyki.\n\nMinibary i telefony stacjonarne to hotelowy prze\u017cytek?\n\nZdaniem hotelarzy pora zrezygnowa\u0107 z obowi\u0105zku wyposa\u017cania pokoi w minibary lub lod\u00f3wki, bo generuje to niepotrzebne koszty i nie jest ekologiczne. Dzisiaj, zgodnie ze standardami HSU, zast\u0119puje si\u0119 minibar w pokoju automatami lub kioskami samoobs\u0142ugowymi, dost\u0119pnymi w cz\u0119\u015bciach wsp\u00f3lnych hotelu. Pora te\u017c, wed\u0142ug przedsi\u0119biorc\u00f3w, wykre\u015bli\u0107 z rozporz\u0105dzenia wym\u00f3g wyposa\u017cania ka\u017cdego pokoju w telefon stacjonarny, poniewa\u017c wi\u0119kszo\u015b\u0107 go\u015bci ma w\u0142asne telefony kom\u00f3rkowe i ze stacjonarnych nie korzysta.\n\nReklama\n\nZ obserwacji bran\u017cy wynika, \u017ce r\u00f3wnie zb\u0119dne, jak telefony stacjonarne, s\u0105 zestawy do szycia i polerowania but\u00f3w. Przepisy wymagaj\u0105, by by\u0142y dost\u0119pne w ka\u017cdym pokoju, a u\u017cywane s\u0105 rzadko. Kolejny postulat dotyczy wyposa\u017cania pokoi w szafy okre\u015blonych wymiar\u00f3w, co zdaniem hotelarzy, jest niepraktyczne i koliduje z zastosowaniem nowoczesnych rozwi\u0105za\u0144 aran\u017cacyjnych.\n\nSprz\u0105tanie na \u017cyczenie, automatyczne meldowanie w hotelu\n\nNowy katalog klasyfikacyjny wyeliminowa\u0142by przestarza\u0142e wymagania i wprowadzi\u0142 bardziej elastyczne rozwi\u0105zania, usuwaj\u0105c obowi\u0105zek wyposa\u017cania pokoi w zb\u0119dne przedmioty, a na przyk\u0142ad, wprowadzaj\u0105c mo\u017cliwo\u015bci w pe\u0142ni zautomatyzowanego zameldowania i wymeldowania czy dostosowuj\u0105c us\u0142ugi sprz\u0105tania do \u017cycze\u0144 go\u015bci. - Wystarczy zmieni\u0107 za\u0142\u0105cznik do rozporz\u0105dzenia, o co zabiegamy od 10 lat. Mo\u017cna przyj\u0105\u0107 kategoryzacj\u0119 HSU, kt\u00f3ra jest rozpoznawalna na \u015bwiecie i wprowadzono j\u0105 na 16 rynkach europejskich lub stworzy\u0107 w\u0142asn\u0105, ale uwzgl\u0119dniaj\u0105c\u0105 dzisiejsze potrzeby go\u015bci, jak\u0105 jest na przyk\u0142ad umieszczenie gniazdka elektrycznego ko\u0142o \u0142\u00f3\u017cka, bo ka\u017cdy dzi\u015b chce mie\u0107 mo\u017cliwo\u015b\u0107 pod\u0142\u0105czenia tam telefonu do \u0142adowarki. A r\u00f3wnocze\u015bnie usun\u0105\u0107 wymogi, kt\u00f3re nie przystaj\u0105 do dzisiejszych czas\u00f3w \u2013 m\u00f3wi Krzysztof Szadurski, sekretarz generalny Izby Gospodarczej Hotelarstwa Polskiego, kt\u00f3ra nie inspirowa\u0142a interpelacji, ale zgadza si\u0119 z jej tre\u015bci\u0105. IGHP jest cz\u0142onkiem HSU.\n\nZ now\u0105 kategoryzacj\u0105 wi\u0105\u017c\u0105 du\u017ce nadzieje obiekty unikatowe, kt\u00f3rych mamy w Polsce wiele. Cz\u0119sto dzia\u0142aj\u0105 w zabytkowych wn\u0119trzach, oferuj\u0105 bardzo wysoki standard us\u0142ug, ale oficjalnie to nie s\u0105 hotele, bo nie wyst\u0119puj\u0105 o kategoryzacj\u0119. Nie robi\u0105 tego, poniewa\u017c konserwator zabytk\u00f3w nie pozwala na powi\u0119kszenie pokoi. Z tego powodu, zgodnie z obowi\u0105zuj\u0105cym rozporz\u0105dzeniem, zakwalifikowaliby si\u0119 jako obiekty dwugwiazdkowe, co by\u0142oby dla nich krzywdz\u0105ce. Z drugiej strony Ci, kt\u00f3rzy zbudowali nowe hotele pi\u0119ciogwiazdkowe z du\u017cymi pokojami mog\u0105 uzna\u0107, \u017ce z\u0142agodzenie wymaga\u0144, co do powierzchni, na kt\u00f3rym skorzysta ich konkurencja nie jest fair wobec nich.\n\nPo\u0142udnie ma trzy razy \u201eS\u201d. A nasze hotele czym maj\u0105 si\u0119 przyci\u0105ga\u0107?\n\n- Nie mo\u017cemy konkurowa\u0107 z trzy razy \u201eS\u201d ( red. sun, sand, seaview) kraj\u00f3w po\u0142udnia. Musimy mie\u0107 inne atuty, kt\u00f3re przyci\u0105gn\u0105 go\u015bci. Jednym z nich by\u0142by rozpoznawalny w ca\u0142ej Europie system kategoryzacji. Spodziewam si\u0119, \u017ce za 10 lat b\u0119dzie obowi\u0105zywa\u0142 w wi\u0119kszo\u015bci kraj\u00f3w \u2013 dodaje Krzysztof Szadurski.\n\nPos\u0142anka Osos poprosi\u0142a 10 czerwca w interpelacji ministra sportu i turystki o udzielenie informacji, czy w ministerstwie zostan\u0105 podj\u0119te analizy celem nowelizacji rozporz\u0105dzenia? Je\u015bli tak, kiedy zostan\u0105 one przeprowadzone i kiedy mo\u017ce nast\u0105pi\u0107 aktualizacja wskazanych przepis\u00f3w? Resort na interpelacj\u0119 nie odpowiedzia\u0142."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "23 SIERPNIA 2025",
-            "link": "https://www.krakow.pl/kalendarium/1919,shw,2025-08-23,7,day.html",
-            "description": "Wystawa mie\u015bci si\u0119 w dawnym budynku administracyjnym Fabryki Emalia Oskara Schindlera przy ul. Lipowej 4 i jest opowie\u015bci\u0105 o Krakowie i losach jego polskich i \u017cydowskich mieszka\u0144c\u00f3w w czasie II wojny ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stare+numizmatyka",
-            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w10 godz.",
-            "source": "Oficjalny serwis miejski - Magiczny Krak\u00f3w",
-            "article_content": "Szukaj wydarzenia\n\nKategoria: -- wszystkie -- Spektakle teatralne Akcje czytelnicze Spacery i zwiedzanie Spektakle taneczne Muzyka rozrywkowa Wystawy czasowe Festiwale Targi i kiermasze Muzyka klasyczna Wyk\u0142ady, spacery i warsztaty artystyczne W gminach Metropolii Festiwale i przegl\u0105dy filmowe Kabaret Festiwale muzyczne Festiwale teatralne Inne przedstawienia Inne koncerty Dzieci\u0119ce r\u00f3\u017cno\u015bci Pozosta\u0142e Spotkania i slajdowiska Cykle filmowe Wydarzenia sportowe Muzyka klubowa Widowiska plenerowe i happeningi Pokazy filmowe Inne wydarzenia literackie Spotkania i wyk\u0142ady literackie Wystawy sta\u0142e"
+            "title": "Odkrycie sprzed 5,5 tys. lat. Natkn\u0119li si\u0119 na nie archeolodzy",
+            "link": "https://www.o2.pl/informacje/odkrycie-sprzed-5-5-tys-lat-natkneli-sie-na-nie-archeolodzy-7192289223854848a",
+            "description": "Archeolodzy z Uniwersytetu Rzeszowskiego prowadz\u0105cy badania w Or\u0142ach (woj. podkarpackie) natrafili na \u015blady jednej z ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.T5ON-YerouUxKdUrEcWobC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "odkrycie+zabytkowe+przedmiot",
+            "date": "o26 godz.",
+            "source": "o2",
+            "article_content": "Wykopaliska w Or\u0142ach w powiecie przemyskim (wojew\u00f3dztwo podkarpackie) rozpocz\u0119\u0142y si\u0119 jesieni\u0105 2024 roku. Po wznowieniu prac w tym roku archeologom pod przewodnictwem dr. Dariusza Kr\u00f3la uda\u0142o si\u0119 natrafi\u0107 na niezwyk\u0142e znalezisko. \"Wykopaliska ujawni\u0142y \u015blady jednej z najstarszych kultur (sprzed 5,5 tys. lat temu), jakie funkcjonowa\u0142y na ziemiach obecnej Polski\" - informuje facebookowy profil Podkarpacki Opiekun Zabytk\u00f3w.\n\nW trakcie wykopalisk natkni\u0119to si\u0119 na fragmenty ceramiki ozdobione motywami typowymi dla jednej z najstarszych kultur osiad\u0142ych na tych ziemiach. W\u015br\u00f3d odkrytych przedmiot\u00f3w znalaz\u0142y si\u0119 puchary i amfory, naczynia z wyra\u017anie zarysowan\u0105 kryz\u0105 oraz kubki. Ka\u017cdy z tych element\u00f3w nie tylko dokumentuje codzienne \u017cycie dawnych mieszka\u0144c\u00f3w, ale tak\u017ce stanowi cenny materia\u0142 do analizy stylu i technik zdobniczych sprzed tysi\u0119cy lat.\n\nTo nie jedyne znalezisko, na jakie natrafili badacze z Uniwersytetu Rzeszowskiego. W trakcie prac archeologicznych odkryto r\u00f3wnie\u017c ludzkie szcz\u0105tki datowane na XI\u2013XII wiek. Znalezisko to, w postaci dobrze zachowanego szkieletu, rzuca \u015bwiat\u0142o na p\u00f3\u017aniejsze dzieje tego terenu, potwierdzaj\u0105c, \u017ce obszar by\u0142 zamieszkany r\u00f3wnie\u017c w okresie \u015bredniowiecza. To cenne uzupe\u0142nienie wcze\u015bniejszych odkry\u0107, kt\u00f3re pokazuje, \u017ce historia osadnictwa w Or\u0142ach mia\u0142a charakter ci\u0105g\u0142y \u2014 si\u0119gaj\u0105c zar\u00f3wno pradziej\u00f3w, jak i czas\u00f3w piastowskich.\n\nDalsza cz\u0119\u015b\u0107 artyku\u0142u pod materia\u0142em wideo\n\nPrzele\u017ca\u0142y wieki pod mostem. Wyj\u0105tkowe odkrycie w stolicy Peru\n\nCenne znaleziska\n\nOdkrycia archeolog\u00f3w to kolejny dow\u00f3d na to, \u017ce obszar ten zamieszkiwa\u0142a ludno\u015b\u0107 kultury puchar\u00f3w lejkowatych, datowana na oko\u0142o 5,5 tysi\u0105ca lat temu. Nazwa tej pradziejowej kultury nie jest przypadkowa \u2013 wywodzi si\u0119 od charakterystycznego kszta\u0142tu naczy\u0144, kt\u00f3re tworzyli jej przedstawiciele. Wyr\u00f3\u017cnia\u0142y si\u0119 one baniastym brzu\u015bcem i szeroko rozchylonym ko\u0142nierzem, przypominaj\u0105cym odwr\u00f3cony lej.\n\nRozwi\u0144"
         }
     },
     {
@@ -282,25 +298,9 @@
             "description": "Znalezisko to prehistoryczny sztylet z epoki br\u0105zu licz\u0105cy sobie oko\u0142o 3500 lat. Ostatni raz ludzka d\u0142o\u0144 trzyma\u0142a go w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.J7FZja3hY540VKeKBjXeiy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Focus55 min",
+            "date": "Focus5 godz.",
             "source": "Focus",
             "article_content": "Skarb sprzed kilku tysi\u0119cy lat\n\nZnalezisko to prehistoryczny sztylet z epoki br\u0105zu licz\u0105cy sobie oko\u0142o 3500 lat. Ostatni raz ludzka d\u0142o\u0144 trzyma\u0142a go w czasach, gdy w Egipcie rz\u0105dzili faraonowie, a Europa dopiero kszta\u0142towa\u0142a swoje pierwsze z\u0142o\u017cone spo\u0142ecze\u0144stwa. Stan zachowania artefaktu jest naprawd\u0119 imponuj\u0105cy, co zdumia\u0142o nawet do\u015bwiadczonych archeolog\u00f3w. Daniel Scherf z Urz\u0119du Ochrony Zabytk\u00f3w i Archeologii w Weimarze nie kryje swojego zdumienia. Jak zauwa\u017ca, przedmioty takie jak ten nie s\u0105 codziennymi odkryciami. Zobaczy\u0107 sztylet z epoki br\u0105zu w tak dobrym stanie, to jego zdaniem co\u015b naprawd\u0119 wyj\u0105tkowego. Okolica Gudersleben charakteryzuje si\u0119 specyficzn\u0105 budow\u0105 geologiczn\u0105 z licznymi strukturami i zjawiskami krasowymi. Ruchy gruntu, zapadliska czy podziemne cieki wodne sprawiaj\u0105, \u017ce ziemia w tym regionie \u017cyje w\u0142asnym rytmem. Intensywne opady deszczu kt\u00f3re nawiedzi\u0142y okolic\u0119 w ostatnim czasie, zmy\u0142y wierzchni\u0105 warstw\u0119 gleby, ods\u0142aniaj\u0105c skarb ukryty przez wieki. To swoisty paradoks: te same si\u0142y natury, kt\u00f3re przez milenia chroni\u0142y artefakt, nagle \u201cpostanowi\u0142y\u201d go ujawni\u0107.\n\nCzytaj te\u017c: Odnale\u017ali zatopione miasto u wybrze\u017cy Egiptu. Sensacyjne odkrycie podsyca dyskusj\u0119 o Atlantydzie\n\nOdkryty sztylet to typ z p\u0142ytkowym trzpieniem, rodzaj charakterystyczny dla \u015brodkowej epoki br\u0105zu. W przeciwie\u0144stwie do wsp\u00f3\u0142czesnych no\u017cy, te prehistoryczne bronie mia\u0142y szeroki, p\u0142aski trzonek przeznaczony do mocowania r\u0119koje\u015bci z drewna lub ko\u015bci. Wymaga\u0142o to nie lada kunsztu, poczynaj\u0105c od precyzyjnego odlania w br\u0105zie a\u017c po staranne montowanie wszystkich element\u00f3w. Br\u0105z w tamtych czasach by\u0142 materia\u0142em niezwykle cennym, wymagaj\u0105cym dost\u0119pu do rud miedzi i cyny oraz zaawansowanej wiedzy metalurgicznej. Bro\u0144 z niego wytworzona stanowi\u0142a nie tylko narz\u0119dzie walki, ale i symbol statusu. Mo\u017cna sobie tylko wyobra\u017ca\u0107, ile wysi\u0142ku i umiej\u0119tno\u015bci wymaga\u0142o stworzenie takiego przedmiotu.\n\nSpo\u0142eczno\u015bci sprzed wiek\u00f3w i wzorowe zachowanie odkrywcy\n\nEpoka br\u0105zu to czas dynamicznych przemian spo\u0142ecznych. Wy\u0142ania\u0142y si\u0119 w\u00f3wczas pierwsze zhierarchizowane struktury, rozwija\u0142 si\u0119 handel na du\u017ce odleg\u0142o\u015bci, kwit\u0142o \u017cycie ceremonialne. Metalurgia sta\u0142a si\u0119 si\u0142\u0105 nap\u0119dow\u0105 tych zmian, a bro\u0144 taka jak znaleziony sztylet by\u0142a prawdopodobnie w\u0142asno\u015bci\u0105 kogo\u015b wa\u017cnego. By\u0107 mo\u017ce lokalnego przyw\u00f3dcy, b\u0105d\u017a wojownika strzeg\u0105cego szlak\u00f3w handlowych. Ciekawe jest to, \u017ce takie przedmioty cz\u0119sto pe\u0142ni\u0142y podw\u00f3jn\u0105 rol\u0119, czyli praktycznego narz\u0119dzia i symbolu w\u0142adzy. Sztylet z Gudersleben m\u00f3g\u0142 by\u0107 cz\u0119\u015bci\u0105 wyposa\u017cenia grobowego lub ofiar\u0105 rytualn\u0105. Sam region ma bogat\u0105 histori\u0119 osadnictwa, co potwierdzaj\u0105 liczne \u015blady archeologiczne w okolicy. Maik B\u00f6hner zas\u0142uguje na uznanie za swoj\u0105 postaw\u0119. Zamiast pr\u00f3bowa\u0107 samodzielnie wydoby\u0107 znalezisko, natychmiast powiadomi\u0142 odpowiednie s\u0142u\u017cby. Takie podej\u015bcie pozwoli\u0142o archeologom na profesjonalne zabezpieczenie artefaktu i dokumentacj\u0119 kontekstu znaleziska.\n\nCzytaj te\u017c: Makabryczne znalezisko w Alzacji. Odci\u0119te ramiona jako trofea\n\nW Niemczech, podobnie zreszt\u0105 jak w Polsce, nieautoryzowane u\u017cywanie wykrywaczy metali jest zabronione. Odpowiedzialne zg\u0142aszanie przypadkowych znalezisk to najlepszy spos\u00f3b na ochron\u0119 dziedzictwa archeologicznego. Sztylet trafi\u0142 do pracowni konserwatorskich w Weimarze, gdzie przejdzie szczeg\u00f3\u0142owe badania i zabiegi konserwatorskie. Po zako\u0144czeniu prac artefakt b\u0119dzie mo\u017cna ogl\u0105da\u0107 w Muzeum Historii Lokalnej w Ellrich. Tego typu odkrycia maj\u0105 w sobie co\u015b magicznego, gdy\u017c pozwalaj\u0105 nam dos\u0142ownie dotkn\u0105\u0107 przesz\u0142o\u015bci. Kiedy patrzymy na taki przedmiot, mo\u017cemy si\u0119 zastanawia\u0107, kim by\u0142 jego ostatni w\u0142a\u015bciciel, jakie by\u0142y jego troski i nadzieje, jak wygl\u0105da\u0142o jego codzienne \u017cycie. To bezcenna lekcja historii, kt\u00f3ra przypomina, \u017ce mimo up\u0142ywu tysi\u0119cy lat, ludzkie do\u015bwiadczenia wci\u0105\u017c pozostaj\u0105 w wielu aspektach podobne."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Odkrycie z przesz\u0142o\u015bci: Nietypowa urna domkowa",
-            "link": "https://www.rmf24.pl/regiony/trojmiasto/news-odkrycie-z-przeszlosci-nietypowa-urna-domkowa,nId,8012831",
-            "description": "Urna domkowa sprzed oko\u0142o 2600 lat. Ten niezwyk\u0142y zabytek zosta\u0142 odnaleziony w 2023 roku w miejscowo\u015bci Bo\u017cepole Wielkie w ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.Rzn16kOcyNrbKO2BNlj8TC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "RMF2420 godz.",
-            "source": "RMF24",
-            "article_content": "Urna domkowa sprzed oko\u0142o 2600 lat. Ten niezwyk\u0142y zabytek zosta\u0142 odnaleziony w 2023 roku w miejscowo\u015bci Bo\u017cepole Wielkie w powiecie wejherowskim. Teraz urn\u0119 pokaza\u0142o \u200bMuzeum Archeologiczne w Gda\u0144sku.\n\nUrna domkowa z wczesnej epoki \u017celaza prezentowana w Muzeum Archeologicznym w Gda\u0144sku. / Adam War\u017cawa / PAP\n\nPrezentacja urny domkowej\n\nNietypowy eksponat zaprezentowano w oddziale Muzeum Archeologicznego w Gda\u0144sku, w Spichlerzu B\u0142\u0119kitny Baranek.\n\nTo zabytek wyj\u0105tkowy ze wzgl\u0119du na to, \u017ce jest to dopiero czwarta taka popielnica domkowa odkryta po II wojnie \u015bwiatowej, a tak\u017ce ze wzgl\u0119du na stan zachowania tego zabytku - powiedzia\u0142 kierownik Dzia\u0142u Wczesnej Epoki \u017belaza w Muzeum Archeologicznym w Gda\u0144sku dr Piotr Fudzi\u0144ski.\n\nUrna powsta\u0142a oko\u0142o 2600 lat temu. Jak informuje strona internetowa Muzeum Archeologicznego w Gda\u0144sku, przedmiot ma nietypowy kszta\u0142t przypominaj\u0105cy gliniany dom stoj\u0105cy na dziewi\u0119ciu n\u00f3\u017ckach.\n\nEksponat ma docelowo trafi\u0107 na now\u0105 wystaw\u0119 archeologiczn\u0105 w wyremontowanym Domu Przyrodnik\u00f3w przy ul. Mariackiej w Gda\u0144sku.\n\n\n\nDo czego s\u0142u\u017cy\u0142 ten przedmiot?\n\nJak wyja\u015bni\u0142 Piotr Fudzi\u0144ski, w VII w. p.n.e. na obszarze Pomorza Wschodniego stosowany by\u0142 cia\u0142opalny obrz\u0105dek pogrzebowy.\n\nTo znaczy, \u017ce osoba, kt\u00f3ra zmar\u0142a, by\u0142a sk\u0142adana na stosie i skrupulatnie dbano o to, \u017ceby wybra\u0107 po procesie kremacji wszystkie ko\u015bci i z\u0142o\u017cy\u0107 je do takiej urny, razem z drobnymi przedmiotami stanowi\u0105cymi wyposa\u017cenie osoby zmar\u0142ej. Z regu\u0142y by\u0142y to drobne przedmioty metalowe, najcz\u0119\u015bciej br\u0105zowe - m\u00f3wi\u0142.\n\nUrna zosta\u0142a u\u017cyta do poch\u00f3wku wielokrotnego.\n\nTo znaczy, \u017ce w jednej popielnicy by\u0142y z\u0142o\u017cone ko\u015bci wi\u0119cej ni\u017c jednej osoby. W tym wypadku na pewno mamy po\u015bwiadczony przez antropologa poch\u00f3wek dziecka powy\u017cej dziesi\u0105tego roku \u017cycia i m\u0119\u017cczyzny oraz prawdopodobnie jeszcze dw\u00f3ch innych os\u00f3b, w tym prawdopodobnie kobiety - t\u0142umaczy\u0142 Fudzi\u0144ski.\n\nHistoria eksponatu\n\nUrn\u0119 domkow\u0105 odnaleziono w 2023 roku w Bo\u017cepolu Wielkim podczas bada\u0144 ratowniczych prowadzonych przez Fundacj\u0119 Dziedzictwa Archeologicznego.\n\nPrzedmiot znaleziono w grobie skrzynkowym, wykonanym ze starannie u\u0142o\u017conych p\u0142yt kamiennych.\n\nPomorski Wojew\u00f3dzki Konserwator Zabytk\u00f3w podj\u0105\u0142 decyzj\u0119 o przekazaniu eksponatu do Muzeum Archeologicznego w Gda\u0144sku, gdzie ten zosta\u0142 poddany konserwacji i badaniom. Wykonano mi\u0119dzy innymi opracowanie antropologiczne ludzkich szcz\u0105tk\u00f3w kostnych. Prace maj\u0105ce zabezpieczy\u0107 zabytek przed zniszczeniem i odtworzenie jej pierwotnego kszta\u0142tu trwa\u0142y \u0142\u0105cznie 2 lata.\n\n\n\n"
         }
     }
 ]
