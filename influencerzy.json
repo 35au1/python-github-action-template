@@ -5,12 +5,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Na Targowisku przy ul. Kaliskiej we W\u0142oc\u0142awku tanie pomidory, dynie i orzechy - 6 wrze\u015bnia 2025. Zdj\u0119cia, ceny, wideo",
-            "link": "https://www.msn.com/pl-pl/kuchnia/wiadomosci-o-zywieniu/na-targowisku-przy-ul-kaliskiej-we-w%C5%82oc%C5%82awku-tanie-pomidory-dynie-i-orzechy-6-wrze%C5%9Bnia-2025-zdj%C4%99cia-ceny-wideo/ar-AA1M0GOj?ocid=BingNewsVerp",
+            "title": "Targowisko przy ul. Kaliskiej we W\u0142oc\u0142awku. Tanie pomidory, dynie i orzechy - 6 wrze\u015bnia 2025. Zdj\u0119cia, ceny, wideo",
+            "link": "https://www.msn.com/pl-pl/shopping/og%C3%B3lne/targowisko-przy-ul-kaliskiej-we-w%C5%82oc%C5%82awku-tanie-pomidory-dynie-i-orzechy-6-wrze%C5%9Bnia-2025-zdj%C4%99cia-ceny-wideo/ar-AA1M0GOj?ocid=BingNewsVerp",
             "description": "We W\u0142oc\u0142awku dzia\u0142aj\u0105 dwa g\u0142\u00f3wne targowiska miejskie oraz pchli targ, kt\u00f3ry odbywa si\u0119 w niedziele. Jedno z targowisk ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.65lqhc6oOcerI_1U25SX1S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN1 godz.",
+            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN3 godz.",
             "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -21,12 +21,28 @@
             "Content-Type": "application/json"
         },
         "body": {
+            "title": "Komputer u\u017cywany z OLX, laptop u\u017cywany do 1000 z\u0142otych. Czy op\u0142aca si\u0119 kupowa\u0107 u\u017cywany komputer? Oto aktualne dolno\u015bl\u0105skie oferty",
+            "link": "https://www.msn.com/pl-pl/technologia/elektronika-u%C5%BCytkowa/komputer-u%C5%BCywany-z-olx-laptop-u%C5%BCywany-do-1000-z%C5%82otych-czy-op%C5%82aca-si%C4%99-kupowa%C4%87-u%C5%BCywany-komputer-oto-aktualne-dolno%C5%9Bl%C4%85skie-oferty/ar-AA1LZWQg?ocid=BingNewsVerp",
+            "description": "Wrzesie\u0144 to okres intensywnych przygotowa\u0144 do pracy i nauki. Nauczyciele, studenci oraz rodzice poszukuj\u0105 nowego komputera ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.2O3Gt7MMuAnUwBPh0pf-4C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "Wa\u0142brzych Nasze Miasto on MSN45 min",
+            "source": "Wa\u0142brzych Nasze Miasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
             "title": "Stare telefony kom\u00f3rkowe, kt\u00f3re dzi\u015b s\u0105 warte fortun\u0119. Masz takie? 06.09.2025",
-            "link": "https://www.msn.com/pl-pl/technologia/elektronika-u%C5%BCytkowa/stare-telefony-kom%C3%B3rkowe-kt%C3%B3re-dzi%C5%9B-s%C4%85-warte-fortun%C4%99-masz-takie-06-09-2025/ar-AA1Hsewg?ocid=BingNewsVerp",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/stare-telefony-kom%C3%B3rkowe-kt%C3%B3re-dzi%C5%9B-s%C4%85-warte-fortun%C4%99-masz-takie-06092025/ar-AA1Hsewg?ocid=BingNewsVerp",
             "description": "W erze superszybkich smartfon\u00f3w z potr\u00f3jnymi aparatami, ekranami AMOLED i sztuczn\u0105 inteligencj\u0105 na pok\u0142adzie, ma\u0142o kto ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.s8a06NQK8uMYX7RftG-MRS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Pomorza on MSN10 godz.",
+            "date": "G\u0142os Pomorza on MSN14 godz.",
             "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
         }
@@ -37,44 +53,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Zajrzyj do \u015brodka i przenie\u015b si\u0119 w czasie. Wyj\u0105tkowe miejsce na Pradze dla mi\u0142o\u015bnik\u00f3w uroczych staroci",
-            "link": "https://www.msn.com/pl-pl/historia-i-kultura-spo%C5%82ecze%C5%84stwa/historia/zajrzyj-do-%C5%9Brodka-i-przenie%C5%9B-si%C4%99-w-czasie-wyj%C4%85tkowe-miejsce-na-pradze-dla-mi%C5%82o%C5%9Bnik%C3%B3w-uroczych-staroci/ar-AA1LZMEo?ocid=BingNewsVerp",
-            "description": "Look Inside to niezwyk\u0142y antykwariat, czy te\u017c, jak to si\u0119 teraz m\u00f3wi, sklep vintage w samym sercu Pragi. Tutaj czas p\u0142ynie ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.0nEMumtS2L_7UVVNbCIzvy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "Warszawa Nasze Miasto on MSN9 godz.",
-            "source": "Warszawa Nasze Miasto on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Symulator \u017cycia z nut\u0105 kapitalizmu, Discounty to co\u015b wi\u0119cej ni\u017c kopia Stardew Valley",
-            "link": "https://www.gry-online.pl/newsroom/symulator-zycia-z-nuta-kapitalizmu-discounty-to-cos-wiecej-niz-ko/z22ebed",
-            "description": "Cozy gaming rozwija si\u0119 spokojnie w swojej niszy i zamiast symulatora \u017cycia na farmie mo\u017cna zagra\u0107 w bardziej kapitalistyczn\u0105 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.lpXIXqw9kxiVY5DVFgt99S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "GRY-OnLine.pl23 godz.",
-            "source": "GRY-OnLine.pl",
-            "article_content": "Wiadomo\u015b\u0107 opinie 5 wrze\u015bnia 2025, 18:17 autor: Sonia Selerska Symulator \u017cycia z nut\u0105 kapitalizmu, Discounty to co\u015b wi\u0119cej ni\u017c kopia Stardew Valley Cozy gaming rozwija si\u0119 spokojnie w swojej niszy i zamiast symulatora \u017cycia na farmie mo\u017cna zagra\u0107 w bardziej kapitalistyczn\u0105 wersj\u0119. Discounty zachowuje jednak autonomi\u0119 i w\u0142asn\u0105 to\u017csamo\u015b\u0107, a to w starciu ze Stardew Valley wcale nie jest \u0142atwe.\n\nUrocze symulatory \u017cycia na farmie maj\u0105 do\u015b\u0107 bogat\u0105 histori\u0119. Ju\u017c w drugiej po\u0142owie lat 90. powsta\u0142a seria Harvest Moon, kt\u00f3ra przez kilkana\u015bcie lat zgromadzi\u0142a w\u0142asn\u0105 spo\u0142eczno\u015b\u0107 graczy, b\u0119d\u0105c \u2013 przede wszystkim w Azji \u2013 prawie tym samym co The Sims dla symulator\u00f3w \u017cycia. Marka ta napotka\u0142a jednak po drodze do\u015b\u0107 du\u017co komplikacji, a po 2016 roku zosta\u0142a przy\u0107miona przez inspirowane ni\u0105, niezale\u017cne Stardew Valley, kt\u00f3re okaza\u0142o si\u0119 fenomenem na skal\u0119 \u015bwiatow\u0105 i pozostaje nim po dzi\u015b dzie\u0144.\n\nWraz z rozkwitem szeroko poj\u0119tej sceny gier cozy, kt\u00f3ry jest mocno widoczny w ostatnich latach, element prowadzenia w\u0142asnego gospodarstwa staje si\u0119 coraz popularniejszy w najr\u00f3\u017cniejszych wariacjach i interpretacjach. I nie ma w tym w zasadzie nic dziwnego \u2013 wielu z nas, \u017cyj\u0105c w miastach, marzy o sielankowej odskoczni, a wirtualna rzeczywisto\u015b\u0107 pozwala jej zazna\u0107 bez trudnych do zliczenia wyzwa\u0144, z jakimi na co dzie\u0144 mierz\u0105 si\u0119 ludzie zawodowo zajmuj\u0105cy si\u0119 rol\u0105.\n\nMimo to ma\u0142o kt\u00f3ra produkcja celuj\u0105ca w fan\u00f3w tego typu rozgrywki jest w stanie osi\u0105gn\u0105\u0107 chocia\u017cby u\u0142amek sukcesu Stardew Valley. Ludzie wci\u0105\u017c czekaj\u0105 na aktualizacje ich ukochanej pozycji lub z coraz wi\u0119ksz\u0105 niecierpliwo\u015bci\u0105 oczekuj\u0105 premiery kolejnego dzie\u0142a ich ulubionego tw\u00f3rcy w postaci zapowiedzianego w 2021 roku Haunted Chocolatier.\n\nCzy zdziwi\u0142oby Was jednak, \u017ce niekt\u00f3rzy wierz\u0105, i\u017c t\u0119 kanciast\u0105 dziur\u0119 w naszych sercach jest w stanie wype\u0142ni\u0107 gra, kt\u00f3ra wywraca praktycznie ca\u0142\u0105 konwencj\u0119 Stardew Valley do g\u00f3ry nogami i nie ma \u017cadnego zwi\u0105zku z symulatorem farmy? Wydaje mi si\u0119, \u017ce a\u017c takie nakre\u015blenie t\u0142a by\u0142o niezb\u0119dne, by przyjrze\u0107 si\u0119 Discounty pod k\u0105tem, kt\u00f3ry od pierwszych zapowiedzi zastanawia\u0142 wielu graczy.\n\nBior\u0105c pod uwag\u0119, \u017ce Discounty zosta\u0142o wydane pod koniec sierpnia i wiele os\u00f3b czytaj\u0105cych ten tekst nie zdo\u0142a\u0142o jeszcze uko\u0144czy\u0107 gry lub nawet nigdy o niej nie s\u0142ysza\u0142o, w poni\u017cszym tek\u015bcie brak powa\u017cnych spoiler\u00f3w. Znajdziecie tu wy\u0142\u0105cznie szerszy zarys fabu\u0142y, opisy postaci czy screeny zrobione w pierwszych kilku godzinach rozgrywki. Je\u017celi jednak wolicie gra\u0107 w gry zupe\u0142nie w ciemno, miejcie to na uwadze. Je\u015bli z kolei nie mieli\u015bcie wcze\u015bniej styczno\u015bci ze Stardew Valley, zdecydowanie zach\u0119cam do zrobienia tego przed lektur\u0105 tego artyku\u0142u \u2013 ale to chyba do\u015b\u0107 oczywiste.\n\nZupe\u0142nie inna bajka\n\nDiscounty to uroczy symulator prowadzenia sklepu w ma\u0142ym miasteczku Blomkest. Wcielaj\u0105c si\u0119 w g\u0142\u00f3wn\u0105 posta\u0107, kt\u00f3rej mo\u017cemy nada\u0107 wybrane imi\u0119, wprowadzamy si\u0119 do kampera naszej ciotki, kt\u00f3ra \u2013 b\u0119d\u0105c ju\u017c starsz\u0105 osob\u0105 \u2013 poprosi\u0142a nas o pomoc w zarz\u0105dzaniu jej biznesem. Jako cz\u0142owiek orkiestra zajmujemy si\u0119 wi\u0119c r\u00f3wnocze\u015bnie kas\u0105, inwentaryzacj\u0105, sprz\u0105taniem, wystrojem, odpadkami oraz nawi\u0105zywaniem wsp\u00f3\u0142pracy z lokalnymi przedsi\u0119biorcami.\n\nS\u0119k w tym, \u017ce nasza obrotno\u015b\u0107 i przedsi\u0119biorczo\u015b\u0107 mo\u017ce nie wystarczy\u0107, gdy w gr\u0119 zaczyna wchodzi\u0107 tak\u017ce presja ze strony gigantycznej korporacji, lokalna polityka, tajemnicze wydarzenia w okolicy oraz nie zawsze pozytywne nastawienie spo\u0142eczno\u015bci wzgl\u0119dem naszych poczyna\u0144. Nie unikniemy rozterek moralnych zwi\u0105zanych z dobrem naszego biznesu oraz ludzi wok\u00f3\u0142 nas i histori\u0105 malowniczej mie\u015bciny.\n\nSk\u0105d skojarzenia ze Stardew Valley?\n\nJak niepowa\u017cnie by to nie zabrzmia\u0142o, pierwsze i wr\u0119cz natychmiastowe skojarzenia ze Stardew Valley w przypadku Discounty wynikaj\u0105 najprawdopodobniej niemal wy\u0142\u0105cznie z pixelartowego stylu graficznego i znajomej perspektywy kamery. Fani tej estetyki zauwa\u017c\u0105 jednak, \u017ce nawet na tym polu gry nie s\u0105 ca\u0142kiem identyczne.\n\nMimo wszystko, kiedy g\u0142\u0119biej zastanowimy si\u0119 nad tymi pozycjami, znajdziemy mi\u0119dzy nimi ca\u0142kiem sporo wsp\u00f3lnych punkt\u00f3w. Obydwie oparte s\u0105 na do\u015b\u0107 uniwersalnym motywie ucieczki do ma\u0142ej mie\u015bciny i pr\u00f3bie wpasowania si\u0119 w hermetyczn\u0105 spo\u0142eczno\u015b\u0107. W obu wyst\u0119puje system stale up\u0142ywaj\u0105cego czasu, proste opcje dekoracji wn\u0119trz czy przyziemno\u015b\u0107 wymiany towar\u00f3w i us\u0142ug.\n\nDiscounty, Crinkle Cut Games, 2025.\n\nWszystkie te por\u00f3wnania brzmi\u0105 jednak do\u015b\u0107 ma\u0142ostkowo, gdy we\u017amiemy pod uwag\u0119, \u017ce Stardew Valley jest od pierwszej do ostatniej sekundy nietrudn\u0105 do zinterpretowania krytyk\u0105 kapitalizmu, a uosobienie z\u0142a w opowiadanej tu historii stanowi korporacja, kt\u00f3ra stara si\u0119 zaburzy\u0107 odporny przez lata na wp\u0142ywy mechanizm mikroskalowego rynku Pelican Town. Obranie \u015bcie\u017cki skorzystania z profit\u00f3w zapewnianych przez JojaMart zamyka przed nami mo\u017cliwo\u015b\u0107 wykonania podstawowych misji gry w ich oryginalnej wersji i przez wi\u0119kszo\u015b\u0107 fan\u00f3w nie jest uznawane za sensowny czy prawid\u0142owy styl rozgrywki.\n\nZ kolei w Discounty wchodzimy praktycznie w buty odpowiednika Morrisa w tym uniwersum \u2013 prowadzimy franczyz\u0119 du\u017cej sieci sklep\u00f3w, przybywaj\u0105c do miasta z bogat\u0105 histori\u0105, kt\u00f3rej nie rozumiemy, wprowadzaj\u0105c monopol marki i zmiany mog\u0105ce zasmuci\u0107 tych, kt\u00f3rzy pami\u0119taj\u0105 czasy sprzed jego zaistnienia. Cen\u0105 wype\u0142nienia zleconej nam misji mo\u017ce by\u0107 utrata pracy przez inn\u0105 osob\u0119 lub wymazanie cz\u0119\u015bci minionej kultury, a wygoda starszej klientki potrafi znale\u017a\u0107 si\u0119 na drugim planie w obliczu pr\u00f3b zjednania sobie kogo\u015b znacznie bardziej wp\u0142ywowego.\n\nCzy w zwi\u0105zku z tym mo\u017cemy nazwa\u0107 Discounty kapitalistycznym Stardew Valley? Absolutnie! Nie jest to jednak dos\u0142owne odbicie lustrzane bezmy\u015blnie krytykuj\u0105ce staro\u015bwieckie funkcjonowanie osady. Widma moralnie w\u0105tpliwych priorytet\u00f3w nie s\u0105 tu zbyt subtelne i pokazuj\u0105 w szerszym stopniu drug\u0105 stron\u0119 tej samej monety.\n\nDiscounty, Crinkle Cut Games, 2025.\n\nNie nasz\u0105 win\u0105 jest t\u0119sknota za tym \u201ejak to kiedy\u015b by\u0142o\u201d innych mieszka\u0144c\u00f3w. Nasza ciotka nie jest \u017c\u0105dn\u0105 wp\u0142yw\u00f3w i pieni\u0119dzy businesswoman, tylko osob\u0105, kt\u00f3ra na sw\u00f3j spos\u00f3b stara si\u0119 jak najlepiej wspiera\u0107 swoj\u0105 okolic\u0119 \u2013 nawet je\u015bli ma to oznacza\u0107 wi\u0119cej turyst\u00f3w zje\u017cd\u017caj\u0105cych z autostrady na zakupy. A my? My jeste\u015bmy szarym cz\u0142owiekiem staraj\u0105cym si\u0119 najlepiej wykonywa\u0107 swoj\u0105 prac\u0119 i zadowoli\u0107 nasz\u0105 krewn\u0105. Czas sp\u0119dzony w Blomkest mo\u017ce zmieni\u0107 nasze podej\u015bcie do biznesu, ale to wci\u0105\u017c bardzo prozaiczna opowie\u015b\u0107, zapewniaj\u0105ca przyjemno\u015b\u0107 z min-maxingu, bez sk\u0142aniania do przesadnych rozmy\u015bla\u0144 nad sensem ludzkiej egzystencji.\n\nPodobnie jak w Stardew Valley polityczne, spo\u0142eczne i gospodarcze akcenty s\u0105 tu dla tych, kt\u00f3rzy ich szukaj\u0105. To nie manifest czy protest, kt\u00f3ry wymaga tytu\u0142\u00f3w naukowych do zrozumienia i przeanalizowania. Przy tym pozostaje naprawd\u0119 ciekaw\u0105 odpowiedzi\u0105 na t\u0119 niepopularn\u0105 \u015bcie\u017ck\u0119 w owej kultowej pozycji.\n\nPrzyjemno\u015b\u0107 ze stania za kas\u0105 w czasie wolnym\n\nWszystkie te r\u00f3\u017cnice i podobie\u0144stwa przek\u0142adaj\u0105 si\u0119 bardzo wyra\u017anie na gameplay. D\u0142uga p\u0119tla rozgrywki to ci\u0105g\u0142e zarabianie pieni\u0119dzy, inwestycja w sklep i odkrywanie rozwijaj\u0105cej si\u0119 w tle historii. Kr\u00f3tsza p\u0119tla to ka\u017cdy mijaj\u0105cy i stosunkowo powtarzalny dzie\u0144.\n\nNa tym polu chyba najwyra\u017aniej wida\u0107 r\u00f3\u017cnic\u0119 mi\u0119dzy obiema grami. Chocia\u017c podobnie jak w Stardew Valley to do nas nale\u017cy priorytetyzowanie zada\u0144 i pe\u0142na kontrola nad \u015bcie\u017ckami, kt\u00f3rymi pod\u0105\u017camy, nie jeste\u015bmy w stanie unikn\u0105\u0107 punktu centralnego rozgrywki \u2013 codziennie o 9:00 otwieramy sw\u00f3j sklep i a\u017c do 17:00 (lub d\u0142u\u017cej przy kolejce stoj\u0105cej jeszcze po zamkni\u0119ciu) obs\u0142ugujemy klient\u00f3w.\n\nOdbiera to wolno\u015b\u0107 zarz\u0105dzania szczeg\u00f3\u0142owym planem dnia i wyb\u00f3r r\u00f3\u017cnorodnych zaj\u0119\u0107, za to wprowadza unikalny aspekt arcade\u2019owej zabawy. To za ka\u017cdym razem ciekawa mieszanka zr\u0119czno\u015bciowego latania mi\u0119dzy alejkami i magazynem z powt\u00f3rk\u0105 z tabliczki mno\u017cenia pod presj\u0105 czasu (co moim zdaniem nie zosta\u0142o do ko\u0144ca wygodnie zrealizowane w wersji na Switcha, gdzie klikanie cyferek na kasie potrafi irytowa\u0107). Ten element wype\u0142ni\u0142 w pewnym stopniu pustk\u0119 w moim sercu po flashowych grach przegl\u0105darkowych polegaj\u0105cych na zarz\u0105dzaniu restauracj\u0105, hotelem czy spa, staraj\u0105c si\u0119 zd\u0105\u017cy\u0107 z obs\u0142ug\u0105 wszystkich, nim cierpliwo\u015b\u0107 go\u015bci w kolejce si\u0119 wyczerpie.\n\nDiscounty, Crinkle Cut Games, 2025.\n\nTo z jednej strony prosta rutyna, a z drugiej bardzo dynamiczny przeskok mi\u0119dzy dwoma tempami zabawy. Mo\u017cemy do\u015b\u0107 spokojnie przed i po pracy rozmawia\u0107 z NPC, dokonywa\u0107 inwentaryzacji i zmian w sklepie czy robi\u0107 w\u0142asne zakupy oraz szuka\u0107 pobocznych zaj\u0119\u0107. Aby nie dzia\u0142a\u0107 w przesadnym po\u015bpiechu, mamy tak\u017ce jeden dzie\u0144 wolny, podczas kt\u00f3rego sklep jest zamkni\u0119ty, a my mo\u017cemy w pe\u0142ni odda\u0107 si\u0119 wszystkiemu innemu, co \u015bwiat gry ma do zaoferowania.\n\nChocia\u017c sklepikarz nie mierzy si\u0119 z tymi samymi wyzwaniami co farmer, musz\u0105cy mie\u0107 na uwadze mijaj\u0105ce pory roku i zmiany pogody, w Discounty up\u0142yw czasu i pewien rytm tak\u017ce jest zauwa\u017calny. Ka\u017cdy poniedzia\u0142ek przynosi kilka nowych zada\u0144 oraz otwiera mo\u017cliwo\u015bci, na kt\u00f3re cierpliwie musieli\u015bmy czeka\u0107 nierzadko przez ca\u0142y tydzie\u0144. Nie u\u015bwiadczymy tu r\u00f3wnie\u017c typowego systemu levelowania, jednak profesjonalizm i oddanie firmie matce przynosz\u0105 opcje nieodbiegaj\u0105ce daleko od koncepcji drzewka umiej\u0119tno\u015bci. Inwestuj\u0105c przyznawane nam punkty, mo\u017cemy delikatnie ulepszy\u0107 swoj\u0105 posta\u0107, a tak\u017ce otworzy\u0107 sobie drog\u0119 do bardziej wymagaj\u0105cej rozgrywki.\n\nDiscounty, Crinkle Cut Games, 2025.\n\nWi\u0119kszy sklep to przestrze\u0144 pozwalaj\u0105ca pomie\u015bci\u0107 du\u017c\u0105 ilo\u015b\u0107 towaru, ale i wi\u0119cej pod\u0142ogi do zmywania. Wi\u0119cej produkt\u00f3w to wi\u0119cej szans na zarobek, ale i wi\u0119cej cen do zapami\u0119tania czy wyszukiwania, a tak\u017ce potencjalnie wi\u0119cej uzupe\u0142niania pustych p\u00f3\u0142ek. Mo\u017cemy optymalizowa\u0107 sprzeda\u017c, korzystaj\u0105c ze specjalnych przedmiot\u00f3w zwi\u0119kszaj\u0105cych zainteresowanie klient\u00f3w, jednak ich szybkie wyprzedanie po otwarciu oznacza zaw\u00f3d pozosta\u0142ych kupuj\u0105cych. To naprawd\u0119 sporo przyjemnej kombinatoryki.\n\nGra nie cechuje si\u0119 przy tym specjalnie wysokim poziomem skomplikowania i my\u015bl\u0119, \u017ce ze wzgl\u0119du na mniejsz\u0105 skal\u0119 problem\u00f3w do rozwi\u0105zania poleci\u0142abym j\u0105 m\u0142odym i niedo\u015bwiadczonym graczom pr\u0119dzej ni\u017c Stardew Valley, kt\u00f3re momentami bardzo trudno w pe\u0142ni zoptymalizowa\u0107.\n\nCzego w\u0142a\u015bciwie si\u0119 spodziewa\u0107?\n\nW Discounty wyst\u0119puje du\u017co istotnych r\u00f3\u017cnic i zaskakuj\u0105co wiele podobie\u0144stw do Stardew Valley, zar\u00f3wno pod wzgl\u0119dem og\u00f3lnych za\u0142o\u017ce\u0144, jak i ca\u0142ej rozgrywki. Z pe\u0142nym przekonaniem mog\u0119 jednak powiedzie\u0107, \u017ce jest ono czym\u015b wi\u0119cej ni\u017c kapitalistycznym Stardew Valley, podobnie jak Stardew Valley jest czym\u015b wi\u0119cej ni\u017c niezale\u017cnym i unowocze\u015bnionym Harvest Moonem \u2013 do tego w\u0142a\u015bnie potrzebny by\u0142 tak d\u0142ugi wst\u0119p.\n\nKa\u017cdy z nas zna wiele tytu\u0142\u00f3w, kt\u00f3re \u0142atwo opisa\u0107, por\u00f3wnuj\u0105c je do innych. Wydaje mi si\u0119 jednak, \u017ce to widoczne mi\u0119dzy nimi r\u00f3\u017cnice w ostatecznym rozrachunku czyni\u0105 je udanymi pozycjami z punktem wsp\u00f3lnym lub nieudanymi kopiami. Discounty zdecydowanie ma sw\u00f3j indywidualny charakter.\n\nDiscounty, Crinkle Cut Games, 2025.\n\nCzy produkcja debiutuj\u0105cego na Steamie studia mo\u017ce usatysfakcjonowa\u0107 graczy \u0142akn\u0105cych nowo\u015bci po latach sp\u0119dzonych przed logiem Concerned Ape? My\u015bl\u0119, \u017ce to mocno zale\u017cy od tego, co najbardziej cenimy w Stardew Valley. Je\u015bli pokochali\u015bmy je za sandboxowe za\u0142o\u017cenia, du\u017co bardziej rygorystyczne w swojej linearno\u015bci Discounty nie b\u0119dzie spe\u0142nieniem naszych marze\u0144. Podobnie zawiedzeni poczuj\u0105 si\u0119 ludzie, kt\u00f3rzy uwa\u017caj\u0105 si\u0119 po prostu za fan\u00f3w sadzenia i zbierania plon\u00f3w czy zajmowania si\u0119 zwierz\u0119tami, co jest raczej oczywiste. Je\u015bli jednak do zaspokojenia wewn\u0119trznej potrzeby wystarczy Wam ma\u0142omiasteczkowy klimat, pixelartowa estetyka i odrobina zarz\u0105dzania czasem, powinni\u015bcie by\u0107 zadowoleni.\n\nNajlepiej za\u015b patrze\u0107 na te tytu\u0142y jak na zupe\u0142nie oddzielne, acz zbie\u017cne na wielu p\u0142aszczyznach gry, co z pewno\u015bci\u0105 ucieszy ich tw\u00f3rc\u00f3w i nie dostarczy komukolwiek b\u0142\u0119dnych za\u0142o\u017ce\u0144. Podobnie zdaj\u0105 si\u0119 my\u015ble\u0107 dziennikarze i gracze, kt\u00f3re ju\u017c spr\u00f3bowali swoich si\u0142 w prowadzeniu sklepu. Produkcja studia Crinkle Cut Games mo\u017ce si\u0119 obecnie pochwali\u0107 \u015bredni\u0105 ocen 79/100 w serwisie Metacritic oraz przewa\u017caj\u0105co pozytywnymi opiniami na platformie Valve. Ale, wiadomo, zawsze najlepiej wyrobi\u0107 sobie przecie\u017c opini\u0119 na podstawie w\u0142asnych do\u015bwiadcze\u0144."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Stara porcelana z PRL bije rekordy. Kolekcjonerzy ci\u0105gle poluj\u0105 na te naczynia, wazony i figurki [6.09.2025 r.]",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/stara-porcelana-z-prl-bije-rekordy-kolekcjonerzy-ci%C4%85gle-poluj%C4%85-na-te-naczynia-wazony-i-figurki-6092025-r/ar-AA1L6ze7?ocid=BingNewsVerp",
+            "title": "Stara porcelana z PRL bije rekordy. Kolekcjonerzy ci\u0105gle poluj\u0105 na te naczynia, wazony i figurki [7.09.2025]",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/stara-porcelana-z-prl-bije-rekordy-kolekcjonerzy-ci%C4%85gle-poluj%C4%85-na-te-naczynia-wazony-i-figurki-7-09-2025/ar-AA1L6ze7?ocid=BingNewsVerp",
             "description": "Porcelana z czas\u00f3w PRL-u jest obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli posiadasz wazony ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.mQOajxtDGS0-NyUHIg9bEC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN9 godz.",
+            "date": "Gazeta Pomorska on MSN3 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -90,7 +74,7 @@
             "description": "W ten weekend odbywa si\u0119 Jarmark Staroci i R\u0119kodzie\u0142a Ludowego w Kiermusach. Na Czarciej Polanie od sobotniego poranka du\u017co ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.1NGPWb9lJ-e7FJVHHU8PAi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Kurier Poranny on MSN3 godz.",
+            "date": "Kurier Poranny on MSN7 godz.",
             "source": "Kurier Poranny on MSN",
             "article_content": ""
         }
@@ -102,12 +86,60 @@
         },
         "body": {
             "title": "Trwaj\u0105 wrze\u015bniowe targi staroci w Skierniewicach",
-            "link": "https://www.msn.com/pl-pl/shopping/og%C3%B3lne/trwaj%C4%85-wrze%C5%9Bniowe-targi-staroci-w-skierniewicach/ar-AA1M02ZF?ocid=BingNewsVerp",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/trwaj%C4%85-wrze%C5%9Bniowe-targi-staroci-w-skierniewicach/ar-AA1M02ZF?ocid=BingNewsVerp",
             "description": "Deszczowa pogoda nie odstraszy\u0142a najbardziej wytrwa\u0142ych bywalc\u00f3w skierniewickich targ\u00f3w kolekcjoner\u00f3w, kt\u00f3rzy poszukiwali ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.e7mV5XQ-ObE699MKULhQ5i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Nasze Miasto on MSN6 godz.",
+            "date": "Nasze Miasto on MSN10 godz.",
             "source": "Nasze Miasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Tajemnicze uroczysko w Puszczy Bukowej. Skrywa relikty mrocznej przesz\u0142o\u015bci",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/tajemnicze-uroczysko-w-puszczy-bukowej-skrywa-relikty-mrocznej-przesz%C5%82o%C5%9Bci/ar-AA1M1dop?ocid=BingNewsVerp",
+            "description": "W\u015br\u00f3d g\u0119stego lasu, ale niedaleko szczeci\u0144skich osiedli, mieszcz\u0105 si\u0119 tajemnicze konstrukcje. Betonowe wiadukty pami\u0119taj\u0105 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.md9nfFMp-_RRjgzMlacrKS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "Strona Podr\u00f3\u017cy on MSN2 godz.",
+            "source": "Strona Podr\u00f3\u017cy on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Po\u017cegnanie lata z Muzeum PRL-u [FOTORELACJA]",
+            "link": "https://rudaslaska.com.pl/i,pozegnanie-lata-z-muzeum-prl-u-fotorelacja,200274,1624271.html",
+            "description": "Dzia\u0142o si\u0119, oj dzia\u0142o w sobot\u0119 w Muzeum PRL-u. Uda\u0142o nam si\u0119 dotrze\u0107 w godzinach popo\u0142udniowych, aby sfotografowa\u0107 ich ekspozycj\u0119 oraz ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.-aLsci8gTKtcAbDSAPjCVQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "relikty",
+            "date": "RudaSlaska.com.pl48 min",
+            "source": "RudaSlaska.com.pl",
+            "article_content": "Dzia\u0142o si\u0119, oj dzia\u0142o w sobot\u0119 w Muzeum PRL-u. Uda\u0142o nam si\u0119 dotrze\u0107 w godzinach popo\u0142udniowych, aby sfotografowa\u0107 ich ekspozycj\u0119 oraz \u015bwietny zlot zabytkowych samochod\u00f3w.\n\nPRL - zobacz jak wygl\u0105da\u0142\n\nNa muzealnym placu - mimo p\u00f3\u017anej pory - sporo ludzi podziwiaj\u0105cych znajduj\u0105ce si\u0119 tam eksponaty. Co jaki\u015b czas rusza\u0142y prelekcje i oprowadzanie z przewodnikiem. Wiekowe pomniki, stare samochody, maszyny, szyldy, sprz\u0119t wszelaki - relikty minionej (pono\u0107 s\u0142usznie) epoki. Lekcja historii wsp\u00f3\u0142czesnej podana w lekki, cz\u0119sto humorystyczny spos\u00f3b, bardzo przyst\u0119pny.\n\nW zabudowaniach - wystawy po\u015bwi\u0119cone motoryzacji i \u017cyciu codziennemu w czasach Polski Ludowej. Lekko nie by\u0142o, cho\u0107 ciekawie. Sporo os\u00f3b pewnie doskonale pami\u0119ta wiele przedmiot\u00f3w.\n\nZlot zabytkowych samochod\u00f3w\n\nPrzed bram\u0105 muzeum ustawiono kilkadziesi\u0105t wiekowych pojazd\u00f3w, z kt\u00f3rych najstarszym by\u0142 brytyjski MG z lat 50-tych ubieg\u0142ego wieku. Zachowany w \u015bwietnych stanie, cieszy\u0142 oko, podobnie jak wiele innych pojazd\u00f3w.\n\nWok\u00f3\u0142 niego garbusy, fiaty wszelakie, w tym rzadko spotykany Maluch \u201cBombel\u201d. By\u0142y Polonezy, by\u0142y stare Saaby, Skody, \u0141ady i gar\u015b\u0107 pojazd\u00f3w zza wielkiej wody. Co ciekawe i warte podkre\u015blenia, wi\u0119kszo\u015b\u0107 wizualnie prezentowa\u0142a si\u0119 rewelacyjnie, kto\u015b w\u0142o\u017cy\u0142 w nie ogrom pracy.\n\nNo i w\u0142asno\u015b\u0107 Muzeum, tramwaj Konstal 105, do kt\u00f3rego mo\u017cna wsi\u0105\u0107, by przypomnie\u0107 sobie t\u0119 metalowo-dyktow\u0105 \u201cpuszk\u0119\u201d z twardymi, plastikowymi siedzeniami.\n\nWarto by\u0142o, co, mamy nadziej\u0119, wida\u0107 na zdj\u0119ciach.\n\n"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Najszybciej rozwijaj\u0105ce si\u0119 uzdrowisko Dolnego \u015al\u0105ska. Jeden dzie\u0144 w Polanicy-Zdroju jest jak ca\u0142y urlop - zdj\u0119cia",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/najszybciej-rozwijaj%C4%85ce-si%C4%99-uzdrowisko-dolnego-%C5%9Bl%C4%85ska-jeden-dzie%C5%84-w-polanicy-zdroju-jest-jak-ca%C5%82y-urlop-zdj%C4%99cia/ar-AA1L6hfC?ocid=BingNewsVerp",
+            "description": "Dolno\u015bl\u0105skie uzdrowiska przyci\u0105gaj\u0105 odwiedzaj\u0105cych jak magnes, ale nie ka\u017cde z nich zachwyci nie tylko kuracjuszy, ale te\u017c ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.B_6ZNVxXPI5EETa1CKCYyy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "Wa\u0142brzych Nasze Miasto on MSN51 min",
+            "source": "Wa\u0142brzych Nasze Miasto on MSN",
             "article_content": ""
         }
     },
@@ -122,7 +154,7 @@
             "description": "Koncerty, wystawy, pikniki, sesje naukowe czy pokazy \u2013 to m.in. wydarzenia odbywaj\u0105ce si\u0119 w dwa weekendy (13-14, 20-21) ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.pTUL11TTKuj_ZDDmMYpNii&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Bstok.pl3 godz.",
+            "date": "Bstok.pl7 godz.",
             "source": "Bstok.pl",
             "article_content": "Koncerty, wystawy, pikniki, sesje naukowe czy pokazy \u2013 to m.in. wydarzenia odbywaj\u0105ce si\u0119 w dwa weekendy (13-14, 20-21) wrze\u015bnia w ramach Europejskich Dni Dziedzictwa 2025. To r\u00f3wnie\u017c mo\u017cliwo\u015b\u0107 bezpo\u015bredniego obcowania z dziedzictwem kulturowym oraz mo\u017cliwo\u015b\u0107 jego poznania poprzez zwiedzanie zabytk\u00f3w, muze\u00f3w, skansen\u00f3w czy miejsc na co dzie\u0144 niedost\u0119pnych.\n\nUczestnicy EDD maj\u0105 znakomit\u0105 szans\u0119 do skorzystania z licznych atrakcji, a tak\u017ce wzi\u0119cia udzia\u0142u w \u017cywej lekcji historii i tradycji danego regionu. To doskona\u0142a okazja do swoistej \u201epodr\u00f3\u017cy w czasie\u201d i poznania dziedzictwa kulturowego naszego kraju. W ubieg\u0142ym roku w ramach EDD odby\u0142o si\u0119 a\u017c 50 000 wydarze\u0144 w Europie, z czego 1500 w Polsce.\n\nMuzeum Historyczne w Bia\u0142ymstoku, ul. Warszawska 37\n\n14 wrze\u015bnia godz. 15.00\n\nWyk\u0142ad Brama Warszawska w Bia\u0142ymstoku\n\nUlica Warszawska jest jedn\u0105 z najstarszych ulic Bia\u0142egostoku. Jej pocz\u0105tki si\u0119gaj\u0105 wieku XVIII, kiedy dominium bia\u0142ostockie nale\u017ca\u0142o do rodu Branickich herbu Gryf. Nazywa\u0142a si\u0119 w\u00f3wczas Nowe Miasto, a jej wylot zamyka\u0142a murowana Brama, zwana Warszawsk\u0105. Brama strzeg\u0142a wjazdu z traktu warszawskiego prowadz\u0105cego ze stolicy kraju przez Bra\u0144sk i Bielsk do miasta i rezydencji Branickich.\n\nXVIII, kiedy dominium bia\u0142ostockie nale\u017ca\u0142o do rodu Branickich herbu Gryf. Nazywa\u0142a si\u0119 w\u00f3wczas Nowe Miasto, a jej wylot zamyka\u0142a murowana Brama, zwana Warszawsk\u0105. Brama strzeg\u0142a wjazdu z traktu warszawskiego prowadz\u0105cego ze stolicy kraju przez Bra\u0144sk i Bielsk do miasta i rezydencji Branickich.\n\nW 2012 roku podczas nadzoru archeologicznego na ulicy Warszawskiej, na wysoko\u015bci budynk\u00f3w nr 55 i 44, Irena Taranta z Muzeum Podlaskiego w Bia\u0142ymstoku odkry\u0142a relikty solidnych fundament\u00f3w kamienno-ceglanych, spi\u0119tych \u0142ukiem konstrukcyjnym, b\u0119d\u0105cych zapewne przyk\u0142adem fundowania arkadowego stosowanego na gruntach s\u0142abych i bagnistych. Na nich wzniesiono mury pi\u0119trowej Bramy Warszawskiej ze sklepionym przejazdem w dolnej kondygnacji.\n\nMuzeum Obojga Narod\u00f3w w Bielsku Podlaskim, ul. Adama Mickiewicza 45\n\n14 wrze\u015bnia godz. 15.00\n\nRatusz w czasie \u2013 podr\u00f3\u017c przez wieki\n\nW ramach 33. edycji Europejskich Dni Dziedzictwa, kt\u00f3ra odb\u0119dzie si\u0119 we wrze\u015bniu 2025 roku pod has\u0142em \u201eW stron\u0119 architektury. M\u0142ode dziedzictwo\u201d, zapraszamy mieszka\u0144c\u00f3w i go\u015bci na wyj\u0105tkowe wydarzenia celebruj\u0105ce bogactwo lokalnej historii i barokowego pi\u0119kna.\n\nPierwszym b\u0119dzie spacer historyczny po bielskim Ratuszu z muzealnym przewodnikiem, kt\u00f3ry odkryje przed Wami tajemnice jednego z najbardziej okaza\u0142ych przyk\u0142ad\u00f3w miejskiej architektury barokowej. Ratusz, od ponad dw\u00f3ch wiek\u00f3w wpisuj\u0105cy si\u0119 w krajobraz Bielska Podlaskiego, to swoisty pomost mi\u0119dzy przesz\u0142o\u015bci\u0105 a wsp\u00f3\u0142czesno\u015bci\u0105 miasta.\n\nKolejnym wydarzeniem b\u0119dzie kameralna wystawa, prezentacja pt.: \u201eRatusz w czasie \u2013 podr\u00f3\u017c przez wieki\u201d. W przestrzeni muzealnej zaprezentujemy unikatowe materia\u0142y archiwalne: najstarsze fotografie, oraz wsp\u00f3\u0142czesne plany budynku zaprojektowanego przez Jana S\u0119kowskiego \u2013 nadwornego architekta hetmana wielkiego koronnego Jana Klemensa Branickiego.\n\nMi\u0142o\u015bnikom sztuki przygotowali\u015bmy kreatywne warsztaty graficzne, podczas kt\u00f3rych b\u0119dzie mo\u017cna w\u0142asnor\u0119cznie tworzy\u0107 prace nawi\u0105zuj\u0105ce do motyw\u00f3w architektury barokowej \u2013 z nut\u0105 wsp\u00f3\u0142czesnej interpretacji.\n\nSzczeg\u00f3\u0142y programu oraz godziny wydarze\u0144 ju\u017c wkr\u00f3tce. Do\u0142\u0105cz do nas \u2013 odkrywaj, tw\u00f3rz i dziedzicz!\n\nMuzeum Ikon w Supra\u015blu, ul. Klasztorna 1\n\n14 wrze\u015bnia godz. 11.00\n\nArchitektura w ikonografii\n\nSpotkanie odb\u0119dzie si\u0119 na wystawie czasowej \u201eUskrzydleni pos\u0142a\u0144cy \u2013 byty anielskie w ikonografii\u201d, gdzie na przyk\u0142adzie prezentowanych zabytk\u00f3w b\u0119dzie mo\u017cna prze\u015bledzi\u0107 sposoby przedstawiania element\u00f3w architektury w ikonach w r\u00f3\u017cnych okresach i tradycjach ikonograficznych: pocz\u0105wszy od przyk\u0142adu repliki ikonograficznej i rekonstrukcji XVII-wiecznych carskich wr\u00f3t z cerkwi pw. Za\u015bni\u0119cia NMP w Czy\u017cach, po XIX-wieczne wizerunki szko\u0142y wietkowskiej.\n\nProwadzenie: Anna Motowicka, Kustoszka Muzeum Ikon w Supra\u015blu\n\n21 wrze\u015bnia 2025, godz. 11.00\n\nIkonografia we wn\u0119trzach cerkiewnych\n\nSpotkanie odb\u0119dzie si\u0119 na wystawie czasowej \u201eUskrzydleni pos\u0142a\u0144cy \u2013 byty anielskie w ikonografii\u201d, gdzie pocz\u0105wszy od repliki ikonograficznej ikon Jerzego Nowosielskiego z carskich wr\u00f3t z cerkwi pw. Narodzenia NMP w Gr\u00f3dku, zostan\u0105 om\u00f3wione r\u00f3\u017cne przyk\u0142ady zrealizowanych i niezrealizowanych projekt\u00f3w wystroju malarskiego podlaskich \u015bwi\u0105ty\u0144, kt\u00f3rych autorem lub wsp\u00f3\u0142autorem by\u0142 Jerzy Nowosielski.\n\nProwadzenie: Ewa Zalewska, Kustoszka Muzeum Ikon w Supra\u015blu\n\nMuzeum Rze\u017aby Alfonsa Karnego, ul. \u015awi\u0119toja\u0144ska 17\n\n20 wrze\u015bnia 2025 r., godz. 11.00 \u2013 zaj\u0119cia dla dzieci w wieku 4-6 lat wraz z opiekunami21 wrze\u015bnia 2025 r., godz. 11.00 \u2013 zaj\u0119cia dla dzieci w wieku 7-12 lat wraz z opiekunami\n\nDobry adres \u015awi\u0119toja\u0144ska 17\n\nZapraszamy na zaj\u0119cia interaktywne o architekturze drewnianej dawnego Bia\u0142egostoku z will\u0105 przy \u015awi\u0119toja\u0144skiej 17 w roli g\u0142\u00f3wnej.\n\nSpaceruj\u0105c po bia\u0142ostockim Parku Planty trudno nie zauwa\u017cy\u0107 s\u0105siaduj\u0105cej z nim pi\u0119knej willi, kt\u00f3ra jest dzi\u015b pere\u0142k\u0105 architektury drewnianej miasta. Rezydencj\u0119 zbudowano pod koniec XIX w. dla carskiego genera\u0142a, kt\u00f3ry zgodnie z panuj\u0105c\u0105 w tym czasie mod\u0105, urz\u0105dzi\u0142 j\u0105 w stylu eklektycznym. Jej wn\u0119trze ci\u0105gle zachwyca, a od patrzenia na bogato zdobione sufity mo\u017ce zakr\u0119ci\u0107 si\u0119 w g\u0142owie! Dzi\u015b to siedziba Muzeum Rze\u017aby Alfonsa Karnego z ekspozycj\u0105 rze\u017ab tego wybitnego artysty, a dawnej? Zapraszamy na niezwyk\u0142\u0105 podro\u017c w czasie do przedwojennego Bia\u0142egostoku!\n\nProwadzenie: Anna Malesi\u0144ska\n\nLiczba uczestnik\u00f3w: 12 os\u00f3b + opiekunowie\n\nCzas trwania zaj\u0119\u0107: ok. 90 min.\n\nKoszt: wst\u0119p bezp\u0142atny\n\nInformacje i zapisy: tel. 509 336 862\n\nRatusz w Bia\u0142ymstoku, Rynek Ko\u015bciuszki 10\n\n13 wrze\u015bnia 2025 r., godz. 11.00 \u2013 zaj\u0119cia dla dzieci w wieku 5-12 lat wraz z opiekunami14 wrze\u015bnia 2025 r., godz. 11.00 \u2013 zaj\u0119cia dla dzieci w wieku 5-12 lat wraz z opiekunami\n\nPejza\u017ce Bia\u0142egostoku w malarstwie Miko\u0142aja Wo\u0142kowyckiego.\n\nW ramach tegorocznych Europejskich Dni Dziedzictwa zapraszamy wszystkie rodziny na weekendowe zaj\u0119cia po\u015bwi\u0119cone tw\u00f3rczo\u015bci Miko\u0142aja Wo\u0142kowyckiego \u2013 wybitnego malarza pejza\u017cysty zwi\u0105zanego z regionem Podlasia.\n\nSpotkanie rozpoczniemy od zwiedzania wystawy, na kt\u00f3rej b\u0119dzie mo\u017cna podziwia\u0107 szeroki przekr\u00f3j tw\u00f3rczo\u015bci artysty, kt\u00f3ry zas\u0142yn\u0105\u0142 z nastrojowych pejza\u017cy przyrody \u2013 zw\u0142aszcza jego rodzinnej Bia\u0142owie\u017cy. W jego pracowni przy ul. Pi\u0142sudskiego w Bia\u0142ymstoku powstawa\u0142y jednak tak\u017ce weduty- malarskie wizerunki miasta. To na nich skupimy si\u0119 podczas zwiedzania i stan\u0105 si\u0119 one punktem wyj\u015bcia do dzia\u0142a\u0144 tw\u00f3rczych.\n\nW cz\u0119\u015bci warsztatowej uczestnicy chwyc\u0105 za p\u0119dzle i stworz\u0105 w\u0142asne wizerunki miasta. Zobaczymy jak zmieni\u0142a si\u0119 architektura miejsc, kt\u00f3re malowa\u0142 Wo\u0142kowycki blisko 50 lat temu i spr\u00f3bujemy utrwali\u0107 na p\u0142\u00f3tnie wsp\u00f3\u0142czesne widoki Bia\u0142egostoku.\n\nProwadzenie: Anna Charabin\n\nLiczba miejsc: 10 os\u00f3b + opiekunowie\n\nCzas trwania zaj\u0119\u0107: ok. 90 min.\n\nKoszt: wydarzenie bezp\u0142atne, organizowane w ramach Europejskich Dni Dziedzictwa.\n\nInformacje i zapisy: tel. 516 141 960\n\nMuzeum Fotografii Wiktora Wo\u0142kowa w Turo\u015bni Ko\u015bcielnej, ul. Lipowa 4\n\n14 wrze\u015bnia 2025 r., godz. 10.00\n\nSloWo\u0142kow PhotoWalk \u2013 spacer fotograficzny\n\nMuzeum Fotografii Wiktora Wo\u0142kowa w Turo\u015bni Ko\u015bcielnej Oddzia\u0142 Muzeum Podlaskie w Bia\u0142ymstoku organizuje cykliczne, fotograficzne spotkania plenerowe pod nazw\u0105 \u201eSloWo\u0142kow PhotoWalk\u201d. Wydarzenia kierowane s\u0105 do wszystkich ch\u0119tnych zainteresowanych fotografi\u0105 i wykonywaniem zdj\u0119\u0107, bez wzgl\u0119du na stopie\u0144 zaawansowania.\n\nW ramach Europejskich Dni Dziedzictwa 2025 rok \u2013 \u201eW stron\u0119 architektury. M\u0142ode dziedzictwo\u201d chcemy zorganizowa\u0107 wrze\u015bniowy \u201eSloWo\u0142kow PhotoWalk\u201d pod has\u0142em Turo\u015b\u0144 \u201eKo\u015bcielna wczoraj i dzi\u015b\u201d. Podczas spaceru zwr\u00f3cimy uwag\u0119 na r\u00f3\u017cnorodno\u015b\u0107 architektury tej miejscowo\u015bci. Przyjrzymy si\u0119 jak zmienia\u0142a si\u0119 na przestrzeni kilkuset lat. Utrwalimy na zdj\u0119ciach to jak wygl\u0105da obecnie, w 2025 roku.\n\nNa spacer zabierzemy ze sob\u0105 aparat otworkowy (camera obscura). \u00d3w prosty przyrz\u0105d optyczny da\u0142 pocz\u0105tek wynalazkowi fotografii i by\u0142 pierwowzorem aparatu fotograficznego. Camera obscura to zaciemnione pude\u0142ko z ma\u0142ym otworem, przez kt\u00f3ry wpadaj\u0105ce \u015bwiat\u0142o na przeciwleg\u0142\u0105 \u015bciank\u0119 daje odwr\u00f3cony obraz otoczenia. Je\u017celi na tej \u015bciance umie\u015bcimy materia\u0142 \u015bwiat\u0142oczu\u0142y, mo\u017cemy tym sposobem wykona\u0107 zdj\u0119cie. Podczas spaceru ka\u017cdy z uczestnik\u00f3w b\u0119dzie mia\u0142 mo\u017cliwo\u015b\u0107 zrobienia zdj\u0119cia tym prostym sprz\u0119tem.\n\nTuro\u015b\u0144 Ko\u015bcielna to wie\u015b gminna o bogatej historii. Najstarsze wzmianki o Turo\u015bni Ko\u015bcielnej pochodz\u0105 z XVI wieku. Obecnie w miejscowo\u015bci znajduj\u0105 si\u0119 m.in. dwie zabytkowe barokowe osiemnastowieczne budowle \u2013 Ko\u015bci\u00f3\u0142 \u015awi\u0119tej Tr\u00f3jcy oraz zabytkowy pawilon dworski nazywany te\u017c pawilonem my\u015bliwskim, w kt\u00f3rym ma swoj\u0105 siedzib\u0119 Muzeum Fotografii Wiktora Wo\u0142kowa. Turo\u015b\u0144 Ko\u015bcielna to mieszanka starszej i nowszej architektury. Cz\u0119\u015b\u0107 XX-wiecznej zabudowy mieszkalnej posadowiona jest w malowniczym otoczeniu przydomowych ogr\u00f3dk\u00f3w. Niekt\u00f3re domy drewniane posiadaj\u0105 interesuj\u0105ce zdobienia charakterystyczne dla tego rejonu Polski. W miejscowo\u015bci mo\u017cna r\u00f3wnie\u017c znale\u017a\u0107 sporo budowlanych relikt\u00f3w typowych dla epoki PRL. Jest oczywi\u015bcie obecna tak\u017ce wsp\u00f3\u0142czesna architektura \u2013 miejscowo\u015b\u0107 szybko si\u0119 rozbudowuje. Ta mieszanka architektoniczna sprawia, \u017ce Turo\u015b\u0144 Ko\u015bcielna to znakomita przestrze\u0144 do fotografowania i rozm\u00f3w o historii.\n\nLiczba uczestnik\u00f3w: 12 os\u00f3b\n\nCzas trwania ok. 3 godz.\n\nProwadz\u0105cy: Piotr \u0141ukaszuk\n\n\u017ar\u00f3d\u0142o: Muzeum Podlaskie w Bia\u0142ymstoku\n\n\u0179r\u00f3d\u0142o: Urz\u0105d Marsza\u0142kowski"
         }
@@ -133,29 +165,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Najszybciej rozwijaj\u0105ce si\u0119 uzdrowisko Dolnego \u015al\u0105ska. Jeden dzie\u0144 w Polanicy-Zdroju jest jak ca\u0142y urlop - oto zdj\u0119cia",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/najszybciej-rozwijaj%C4%85ce-si%C4%99-uzdrowisko-dolnego-%C5%9Bl%C4%85ska-jeden-dzie%C5%84-w-polanicy-zdroju-jest-jak-ca%C5%82y-urlop-oto-zdj%C4%99cia/ar-AA1L6hfC?ocid=BingNewsVerp",
-            "description": "Dolno\u015bl\u0105skie uzdrowiska przyci\u0105gaj\u0105 odwiedzaj\u0105cych jak magnes, ale nie ka\u017cde z nich zachwyci nie tylko kuracjuszy, ale te\u017c innych turyst\u00f3w. Gdzie przyjecha\u0107 podczas weekendu, czy urlopu na jeden dzie\u0144 ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.b7cDqWcxCJUoLca1qpYJLg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "relikty",
-            "date": "Wa\u0142brzych Nasze Miasto on MSN8 godz.",
-            "source": "Wa\u0142brzych Nasze Miasto on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Opolskie zabytki techniki. Niesamowite fortyfikacje, dawne fabryki, mosty, zak\u0142ady rzemie\u015blnicze na Opolszczy\u017anie",
-            "link": "https://www.msn.com/pl-pl/technologia/og%C3%B3lne/opolskie-zabytki-techniki-niesamowite-fortyfikacje-dawne-fabryki-mosty-zak%C5%82ady-rzemie%C5%9Blnicze-na-opolszczy%C5%BAnie/ar-AA1LZWMS?ocid=BingNewsVerp",
-            "description": "Na \u015al\u0105sku Opolskim mo\u017cemy zwiedzi\u0107 wiele zabytk\u00f3w techniki. Do obejrzenia s\u0105 m.in. wyj\u0105tkowy dworzec kolejowy, kt\u00f3ry zagra\u0142 w filmie; pierwszy w Europie wisz\u0105cy most \u017celazny czy budynki fabryczne po d ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.U7tHWt6afQwcI4sCY6tjaA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "relikty",
-            "date": "Nowa Trybuna Opolska on MSN9 godz.",
-            "source": "Nowa Trybuna Opolska on MSN",
+            "title": "Jakie reparacje?!",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/jakie-reparacje/ar-AA1LZMlg?ocid=BingNewsVerp",
+            "description": "Tomasz Ka\u017amierowski | \u2013 Kwestia reparacji wojennych od Niemiec zosta\u0142a, je\u015bli dobrze pami\u0119tam, formalnie zako\u0144czona w 1953 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.ce4LePEb5dz4a8Sivkjw4y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Do Rzeczy on MSN13 godz.Opinion",
+            "source": "Do Rzeczy on MSN",
             "article_content": ""
         }
     },
@@ -170,41 +186,9 @@
             "description": "W Polsce powstaje coraz wi\u0119cej spektakularnych ekspozycji piel\u0119gnuj\u0105cych nasz\u0105 przesz\u0142o\u015b\u0107, ale o\u015brodk\u00f3w kultury buduj\u0105cych ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.n1Im_zZRkD7AGY7OvB-r1i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Autokult4 godz.",
+            "date": "Autokult8 godz.",
             "source": "Autokult",
             "article_content": "Technik\u0119 mo\u017cna uprawia\u0107 na ka\u017cdym poziomie. S\u0105 wybitne jednostki, kt\u00f3re zostan\u0105 milionerami w m\u0142odym wieku, ale s\u0105 te\u017c osoby zajmuj\u0105ce si\u0119 zwyk\u0142ym \"mechanikowaniem\", bo ono zawsze b\u0119dzie potrzebne. M\u00f3j znakomity, ju\u017c nie\u017cyj\u0105cy przyjaciel J\u00f3zek Kie\u0142bania [polski kierowca wy\u015bcigowy, kilkukrotny Mistrz Polski w r\u00f3\u017cnych formu\u0142ach od lat 60. do 80. - przyp. red.] wychowa\u0142 ca\u0142e pokolenia wspania\u0142ych fachowc\u00f3w, kt\u00f3rzy \u015bwietnie si\u0119 poruszaj\u0105 w technice na poziomie absolutnie nieuniwersyteckim, nawet niematuralnym, i oni zawsze znajd\u0105 prac\u0119, nie b\u0119d\u0105 t\u0105 sfrustrowan\u0105 cz\u0119\u015bci\u0105 spo\u0142ecze\u0144stwa, kt\u00f3ra nie ma si\u0119 gdzie podzia\u0107. Z drugiej strony, czytam wiele doktorat\u00f3w os\u00f3b, kt\u00f3re ewidentnie nie czuj\u0105 fizyki i pisz\u0105 straszne bzdury. Nie potrzeba nieprzeci\u0119tnych umiej\u0119tno\u015bci umys\u0142owych - trzeba po prostu lubi\u0107 to, co si\u0119 robi i czu\u0107, \u017ce to dzia\u0142anie ma sens."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Jakie reparacje?!",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/jakie-reparacje/ar-AA1LZMlg?ocid=BingNewsVerp",
-            "description": "Tomasz Ka\u017amierowski | \u2013 Kwestia reparacji wojennych od Niemiec zosta\u0142a, je\u015bli dobrze pami\u0119tam, formalnie zako\u0144czona w 1953 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.ce4LePEb5dz4a8Sivkjw4y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Do Rzeczy on MSN9 godz.",
-            "source": "Do Rzeczy on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Na co mog\u0105 liczy\u0107 w Polsce poszukiwacze skarb\u00f3w i zabytk\u00f3w? I co dostaj\u0105",
-            "link": "https://www.msn.com/pl-pl/historia-i-kultura-spo%C5%82ecze%C5%84stwa/historia/na-co-mog%C4%85-liczy%C4%87-w-polsce-poszukiwacze-skarb%C3%B3w-i-zabytk%C3%B3w-i-co-dostaj%C4%85/ar-AA1LZfpo?ocid=BingNewsVerp",
-            "description": "Do ministra kultury rocznie wp\u0142ywa kilkana\u015bcie wniosk\u00f3w o nagrody za amatorskie odkrycie zabytk\u00f3w. Niekt\u00f3re z nich s\u0105 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.TiIqy2VU_7sowcv7OkrdHy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Gda\u0144sk Nasze Miasto on MSN13 godz.",
-            "source": "Gda\u0144sk Nasze Miasto on MSN",
-            "article_content": ""
         }
     },
     {
@@ -218,7 +202,7 @@
             "description": "Barwnym przemarszem rekonstruktor\u00f3w rozpocznie si\u0119 w sobot\u0119 \u201eWeekend z archeologi\u0105' w Lublinie. W programie s\u0105 m.in. pokazy ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.eSA8hlmXLEbl6VUlJJs8XS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Portal Samorz\u0105dowy10 godz.",
+            "date": "Portal Samorz\u0105dowy14 godz.",
             "source": "Portal Samorz\u0105dowy",
             "article_content": "Kolejna edycja \"Weekendu z archeologi\u0105\" w Lublinie ju\u017c 6 i 7 wrze\u015bnia 2025 r.\n\nBarwnym przemarszem rekonstruktor\u00f3w rozpocznie si\u0119 w sobot\u0119 \u201eWeekend z archeologi\u0105\u201d w Lublinie. W programie s\u0105 m.in. pokazy walk, warsztaty rzemie\u015blnicze, turniej plebejski, pokaz mody \u015bredniowiecznej.\n\nKoordynatorka sekcji archeologii w Muzeum Narodowym w Lublinie Marta Cyran poinformowa\u0142a, \u017ce wydarzenie odb\u0119dzie si\u0119 pod has\u0142em \"Na piastowskim dworze\". - W ten weekend dziedziniec zamku lubelskiego zamieni si\u0119 w \u015bredniowieczny plac pe\u0142en warsztat\u00f3w, gdzie b\u0119dzie mo\u017cna zobaczy\u0107 pokazy walk, wzi\u0105\u0107 udzia\u0142 w turniejach i zabawach plebejskich. B\u0119dzie mo\u017cna spr\u00f3bowa\u0107 swoich si\u0142 w kaligrafii czy wybijaniu monet - zapowiedzia\u0142a.\n\nNajpierw przemarsz rekonstruktor\u00f3w z Placu Litewskiego na Zamek Lubelski\n\nImpreza rozpocznie si\u0119 w sobot\u0119 o godz. 13 od barwnego przemarszu rekonstruktor\u00f3w z Placu Litewskiego na Zamek Lubelski. Przez dwa dni na zgromadzonych b\u0119d\u0105 czeka\u0107 m.in. warsztaty rzemie\u015blnicze, inscenizacje historyczne, kino historyczne, koncert muzyki dawnej.\n\nPrezes Stowarzyszenia \"Chor\u0105giew Rycerstwa Ziemi Lubelskiej\" S\u0142awomir Guz podkre\u015bli\u0142, \u017ce w programie znalaz\u0142y si\u0119 pokazy dawnych rzemios\u0142. - B\u0119dzie mo\u017cna ujrze\u0107 przy pracy r\u00f3\u017cnych rzemie\u015blnik\u00f3w np. kowala, tkaczki. Nowo\u015bci\u0105 b\u0119dzie iluminator, czyli osoba, kt\u00f3ra od \u015bredniowiecza zdobi\u0142a ksi\u0119gi - zobaczymy, jak wtedy malowano, w jaki spos\u00f3b uzyskiwano pigmenty - opisa\u0142.\n\n\"Archeologia dzisiaj to nie tylko wykopaliska, zabytki czy publikacji naukowe, ale i rekonstrukcja\"\n\nGuz zwr\u00f3ci\u0142 uwag\u0119, \u017ce archeologia to dzisiaj nie tylko wykopaliska, zabytki w muzeach czy publikacje naukowe, ale w ostatnich latach ogromn\u0105 popularno\u015bci\u0105 cieszy si\u0119 rekonstrukcja archeologiczna. - Chodzi o ukazanie przedmiot\u00f3w z czas\u00f3w naszych przodk\u00f3w w u\u017cytku codziennym. Czym innym jest obejrze\u0107 topory czy narz\u0119dzia w gablocie muzealnej, a czym innym m\u00f3c wzi\u0105\u0107 je do r\u0119ki, sprawdzi\u0107, ile realnie wa\u017cy\u0142y, czy zobaczy\u0107 te przedmioty przy pracy - podkre\u015bli\u0142 prezes stowarzyszenia.\n\nDla najm\u0142odszych przygotowano w sobot\u0119 te\u017c spektakl marionetkowy przybli\u017caj\u0105cy nieznane fakty z \u017cycia Boles\u0142awa Chrobrego. Za\u015b w niedziel\u0119 publiczno\u015b\u0107 obejrzy pokaz mody \u015bredniowiecznej.\n\nDwudniowa impreza w ramach Europejskich Dni Dziedzictwa\n\nMarta Cyran przypomnia\u0142a, \u017ce pomys\u0142 na wydarzenie zrodzi\u0142 si\u0119 pi\u0119\u0107 lat temu.\n\n- Chcieli\u015bmy zorganizowa\u0107 nasze autorskie wydarzenie kulturalno-edukacyjne, kt\u00f3re b\u0119dzie przybli\u017ca\u0142o archeologi\u0119 i histori\u0119 lubelskiej publiczno\u015bci i go\u015bciom z ca\u0142ej Polski. Jest to jednocze\u015bnie zabawa, nauka historii, ale i zdobywanie wiedzy - doda\u0142a.\n\n\"Weekend z archeologi\u0105\" odb\u0119dzie si\u0119 6-7 wrze\u015bnia na dziedzi\u0144cu Zamku Lubelskiego. Wydarzenie organizowane jest w ramach Europejskich Dni Dziedzictwa.\n\nNie przegap najwa\u017cniejszych wiadomo\u015bci Obserwuj nas w Google News"
         }
@@ -229,14 +213,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Marsza\u0142ek opolski Szymon Og\u0142aza: \"Nie jeste\u015bmy wielcy obszarem, ale mo\u017cemy robi\u0107 spore zamieszanie",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/marsza%C5%82ek-opolski-szymon-og%C5%82aza-nie-jeste%C5%9Bmy-wielcy-obszarem-ale-mo%C5%BCemy-robi%C4%87-spore-zamieszanie/ar-AA1LW0u8?ocid=BingNewsVerp",
-            "description": "W wywiadzie dla \u201eNTO\" marsza\u0142ek Szymon Og\u0142aza przedstawia swoj\u0105 wizj\u0119 regionu, kt\u00f3ry ma oferowa\u0107 mieszka\u0144com wy\u017cszy komfort ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.8Esyq1PWrQ1QGOvQJbbA5C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Na co mog\u0105 liczy\u0107 w Polsce poszukiwacze skarb\u00f3w i zabytk\u00f3w? I co dostaj\u0105",
+            "link": "https://www.msn.com/pl-pl/historia-i-kultura-spo%C5%82ecze%C5%84stwa/historia/na-co-mog%C4%85-liczy%C4%87-w-polsce-poszukiwacze-skarb%C3%B3w-i-zabytk%C3%B3w-i-co-dostaj%C4%85/ar-AA1LZmEm?ocid=BingNewsVerp",
+            "description": "Do ministra kultury rocznie wp\u0142ywa kilkana\u015bcie wniosk\u00f3w o nagrody za amatorskie odkrycie zabytk\u00f3w. Niekt\u00f3re z nich s\u0105 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.TiIqy2VU_7sowcv7OkrdHy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Nowa Trybuna Opolska on MSN7 godz.",
-            "source": "Nowa Trybuna Opolska on MSN",
+            "date": "Dziennik Ba\u0142tycki on MSN17 godz.",
+            "source": "Dziennik Ba\u0142tycki on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "06 WRZE\u015aNIA 2025",
+            "link": "https://www.krakow.pl/kalendarium/1919,shw,2025-09-06,7,day.html",
+            "description": "Wystawa mie\u015bci si\u0119 w dawnym budynku administracyjnym Fabryki Emalia Oskara Schindlera przy ul. Lipowej 4 i jest opowie\u015bci\u0105 o Krakowie i losach jego polskich i \u017cydowskich mieszka\u0144c\u00f3w w czasie II wojny ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "zabytkowe+przedmioty",
+            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w20 godz.",
+            "source": "Oficjalny serwis miejski - Magiczny Krak\u00f3w",
+            "article_content": "Szlak \u017cywego Muzeum Witra\u017cu\n\nW Muzeum Witra\u017cu przestrzenie ekspozycyjne przeplataj\u0105 si\u0119 z mieszcz\u0105ca si\u0119 tu od 1902 roku pracowni\u0105 witra\u017cy. Podczas zwiedzania mo\u017cna obserwowa\u0107 niezmieniony od setek lat proces powstawania witra\u017cy. Struktura kamienicy, w kt\u00f3rej..."
         }
     },
     {
@@ -250,7 +250,7 @@
             "description": "Do ministra kultury rocznie wp\u0142ywa kilkana\u015bcie wniosk\u00f3w o nagrody za amatorskie odkrycie zabytk\u00f3w. Niekt\u00f3re z nich s\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.TiIqy2VU_7sowcv7OkrdHy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "wykopano+zabytkowe",
-            "date": "Dziennik Ba\u0142tycki on MSN13 godz.",
+            "date": "Dziennik Ba\u0142tycki on MSN17 godz.",
             "source": "Dziennik Ba\u0142tycki on MSN",
             "article_content": ""
         }
@@ -266,7 +266,7 @@
             "description": "Do ministra kultury rocznie wp\u0142ywa kilkana\u015bcie wniosk\u00f3w o nagrody za amatorskie odkrycie zabytk\u00f3w. Niekt\u00f3re z nich s\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.TiIqy2VU_7sowcv7OkrdHy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Dziennik Ba\u0142tycki on MSN13 godz.",
+            "date": "Dziennik Ba\u0142tycki on MSN17 godz.",
             "source": "Dziennik Ba\u0142tycki on MSN",
             "article_content": ""
         }
@@ -282,7 +282,7 @@
             "description": "Podczas przelotu nad Wis\u0142\u0105, motolotniarz zauwa\u017cy\u0142 tajemniczy obiekt. Znajduje si\u0119 on na ods\u0142oni\u0119tym fragmencie dna rzeki.",
             "image_url": "https://www.bing.pl/th?id=OVFT.6Ol2CDI9jzl-UFaFC2Kxti&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "WP Wiadomo\u015bci7 godz.",
+            "date": "WP Wiadomo\u015bci11 godz.",
             "source": "WP Wiadomo\u015bci",
             "article_content": "Pobieranie, zwielokrotnianie, przechowywanie lub jakiekolwiek inne wykorzystywanie tre\u015bci dost\u0119pnych w niniejszym serwisie - bez wzgl\u0119du na ich charakter i spos\u00f3b wyra\u017cenia (w szczeg\u00f3lno\u015bci lecz nie wy\u0142\u0105cznie: s\u0142owne, s\u0142owno-muzyczne, muzyczne, audiowizualne, audialne, tekstowe, graficzne i zawarte w nich dane i informacje, bazy danych i zawarte w nich dane) oraz form\u0119 (np. literackie, publicystyczne, naukowe, kartograficzne, programy komputerowe, plastyczne, fotograficzne) wymaga uprzedniej i jednoznacznej zgody Wirtualna Polska Media Sp\u00f3\u0142ka Akcyjna z siedzib\u0105 w Warszawie, b\u0119d\u0105cej w\u0142a\u015bcicielem niniejszego serwisu, bez wzgl\u0119du na spos\u00f3b ich eksploracji i wykorzystan\u0105 metod\u0119 (manualn\u0105 lub zautomatyzowan\u0105 technik\u0119, w tym z u\u017cyciem program\u00f3w uczenia maszynowego lub sztucznej inteligencji). Powy\u017csze zastrze\u017cenie nie dotyczy wykorzystywania jedynie w celu u\u0142atwienia ich wyszukiwania przez wyszukiwarki internetowe oraz korzystania w ramach stosunk\u00f3w umownych lub dozwolonego u\u017cytku okre\u015blonego przez w\u0142a\u015bciwe przepisy prawa.\n\nSzczeg\u00f3\u0142owa tre\u015b\u0107 dotycz\u0105ca niniejszego zastrze\u017cenia znajduje si\u0119 tutaj."
         }
