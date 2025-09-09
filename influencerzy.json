@@ -5,28 +5,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Zn\u00f3w t\u0142umy na Pchlim Targu. Ubrania, kwiaty, meble i starocie - 7 wrze\u015bnia 2025. Zdj\u0119cia, ceny, wideo",
-            "link": "https://www.msn.com/pl-pl/shopping/og%C3%B3lne/zn%C3%B3w-t%C5%82umy-na-pchlim-targu-ubrania-kwiaty-meble-i-starocie-7-wrze%C5%9Bnia-2025-zdj%C4%99cia-ceny-wideo/ar-AA1M31wr?ocid=BingNewsVerp",
-            "description": "W pochmurn\u0105, ale przyjemn\u0105 niedziel\u0119, 7 wrze\u015bnia 2025 roku, na Pchlim Targu we W\u0142oc\u0142awku przy alei Kazimierza Wielkiego ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.peWosYcXoTwvsi3DUz6NCy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN23 godz.",
-            "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
             "title": "Potrzebujemy nowej akcji na drogach",
             "link": "https://www.trojmiasto.pl/raport/Potrzebujemy-nowej-akcji-na-drogach-rt436661.html",
             "description": "Szczeg\u00f3lnie na Trakcie \u015aw. Wojciecha dla aut z kierunku Pruszcza. S\u0142u\u017cby powinny kontrolowa\u0107 stan aut a nie trze\u017awo\u015b\u0107. Jakim cudem kierowca autem na 8 letnich oponach ze skorodowany mi progami i podwo ...",
             "image_url": "https://www.bing.pl/th?id=ODF.TioSfvyB6Ie4qA25KB6RoA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "Trojmiasto.pl8 godz.",
+            "date": "Trojmiasto.pl13 godz.",
             "source": "Trojmiasto.pl",
             "article_content": "Content not available"
         }
@@ -37,12 +21,28 @@
             "Content-Type": "application/json"
         },
         "body": {
+            "title": "T\u0142umy poszukiwaczy skarb\u00f3w, wyj\u0105tkowe okazje i unikatowe przedmioty! Pchli targ przy M1 w Poznaniu w niedziel\u0119, 7 wrze\u015bnia. Zobacz zdj\u0119cia!",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/t%C5%82umy-poszukiwaczy-skarb%C3%B3w-wyj%C4%85tkowe-okazje-i-unikatowe-przedmioty-pchli-targ-przy-m1-w-poznaniu-w-niedziel%C4%99-7-wrze%C5%9Bnia-zobacz-zdj%C4%99cia/ar-AA1M2M90?ocid=BingNewsVerp",
+            "description": "Parking przed M1 w Poznaniu zn\u00f3w zape\u0142ni\u0142 si\u0119 sprzedawcami, kolekcjonerami i mi\u0142o\u015bnikami unikatowych przedmiot\u00f3w. T\u0142umy ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.32K1GmXJ3AEGOUnecTbZTC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Pozna\u0144 Nasze Miasto on MSN17 godz.",
+            "source": "Pozna\u0144 Nasze Miasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
             "title": "Ta moneta z PRL mo\u017ce by\u0107 warta nawet 30 tys. z\u0142otych! Koniecznie zobacz swoje szuflady [ZDJ\u0118CIA] 08.09.2025",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/ta-moneta-z-prl-mo%C5%BCe-by%C4%87-warta-nawet-30-tys-z%C5%82otych-koniecznie-zobacz-swoje-szuflady-zdj%C4%99cia-08092025/ar-AA1M60i5?ocid=BingNewsVerp",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/ta-moneta-z-prl-mo%C5%BCe-by%C4%87-warta-nawet-30-tys-z%C5%82otych-koniecznie-zobacz-swoje-szuflady-zdj%C4%99cia-08-09-2025/ar-AA1M60i5?ocid=BingNewsVerp",
             "description": "B\u0105d\u017a szczeg\u00f3lnie uwa\u017cny sprz\u0105taj\u0105c swoje szuflady. Cenne okazy mog\u0105 kurzy\u0107 si\u0119 w zapomnieniu, a monety z PRL mog\u0105 by\u0107 czasami ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.mbMT8HOU8wdbZ4_Ji1PvMS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Szczeci\u0144ski on MSN11 godz.",
+            "date": "G\u0142os Szczeci\u0144ski on MSN17 godz.",
             "source": "G\u0142os Szczeci\u0144ski on MSN",
             "article_content": ""
         }
@@ -54,11 +54,11 @@
         },
         "body": {
             "title": "Masz te banknoty? To prawdziwe skarby! Za jeden mo\u017cesz otrzyma\u0107 kilka tysi\u0119cy z\u0142otych! [ZDJ\u0118CIA] 08.09.2025",
-            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/masz-te-banknoty-to-prawdziwe-skarby-za-jeden-mo%C5%BCesz-otrzyma%C4%87-kilka-tysi%C4%99cy-z%C5%82otych-zdj%C4%99cia-08092025/ar-AA1M682N?ocid=BingNewsVerp",
+            "link": "https://www.msn.com/pl-pl/finanse/og%C3%B3lne/masz-te-banknoty-to-prawdziwe-skarby-za-jeden-mo%C5%BCesz-otrzyma%C4%87-kilka-tysi%C4%99cy-z%C5%82otych-zdj%C4%99cia-08-09-2025/ar-AA1M682N?ocid=BingNewsVerp",
             "description": "O tym, \u017ce monety potrafi\u0105 by\u0107 warte fortun\u0119, wiemy wszyscy. A banknoty? Ma\u0142o z nas zdaje sobie spraw\u0119, \u017ce mog\u0105 kosztowa\u0107 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.iKsj76OqGOVqhre9Vs3vDy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Szczeci\u0144ski on MSN11 godz.",
+            "date": "G\u0142os Szczeci\u0144ski on MSN17 godz.",
             "source": "G\u0142os Szczeci\u0144ski on MSN",
             "article_content": ""
         }
@@ -74,7 +74,7 @@
             "description": "Ile z\u0142otych to jeden funt szterling? Dzisiaj 08 wrze\u015bnia 2025 r. kurs GBP/PLN o godzinie 12 w po\u0142udnie wynosi 4,8936 z\u0142. Kurs ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.l8sZzgdB5lQvB8yjwLQS-S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Fakt.pl8 godz.",
+            "date": "Fakt.pl13 godz.",
             "source": "Fakt.pl",
             "article_content": "Ile z\u0142otych to jeden funt szterling? Dzisiaj 08 wrze\u015bnia 2025 r. kurs GBP/PLN o godzinie 12 w po\u0142udnie wynosi 4,8936 z\u0142. Kurs funta szterlinga zmieni\u0142 si\u0119 o 0,0039 z\u0142 w por\u00f3wnaniu do zesz\u0142ego pi\u0105tku. Kurs GBP/PLN w tym tygodniu uleg\u0142 zmianie o 0,0333 z\u0142 wzgl\u0119dem zesz\u0142ego tygodnia.\n\nJaki jest kurs GBP/PLN?\n\nFunt szterling po angielsku to pound sterling. Mo\u017cna te\u017c u\u017cywa\u0107 nazwy funt brytyjski, ale jest ona rzadziej u\u017cywana. Jego oznaczenie globalne to GBP. Jest walut\u0105 Wielkiej Brytanii. W jakich krajach obowi\u0105zuje funt szterling? Funty nale\u017cy mie\u0107 przy sobie w Wielkiej Brytanii, Szkocji, Irlandii P\u0142n., w Walii, na Gibraltarze, Falklandach oraz na wyspie Man.\n\nJakie wyst\u0119puj\u0105 nomina\u0142y w funcie szterlingu? Funt szterling jest podzielony na 100 pens\u00f3w. Kt\u00f3re dziel\u0105 si\u0119 kolejno na monety: 1p, 2p, 5p, 10p, 20p, 50p. Banknoty wyst\u0119puj\u0105 w nomina\u0142ach 5, 10, 20, 50. Dodatkowo w Szkocji i Irlandii P\u0142n. wyst\u0119puje banknot 100. Bank of England jest centralnym bankiem Wielkiej Brytanii i odpowiada za emisj\u0119 funt\u00f3w. Dzi\u015b funt jest jedn\u0105 z najwa\u017cniejszych walut w mi\u0119dzynarodowym handlu.\n\nSymbol funta, to litera L pisana w starym stylu. Ta litera pochodzi od \u0142aci\u0144skiego s\u0142owa libra, kt\u00f3re oznacza wag\u0119, oraz jednostk\u0119 masy - funt. Przekre\u015blenie oznacza, \u017ce jest to skr\u00f3t. S\u0142owo szterling dodano dla odr\u00f3\u017cnienia jednostki pieni\u0119\u017cnej od wagi. Przez wieki wygl\u0105d monet funta ulega\u0142 licznym zmianom, od \u015bredniowiecznych monet do wsp\u00f3\u0142czesnych z wizerunkiem kr\u00f3lowej.\n\nKurs walut oparto na danych pochodz\u0105cych z Narodowego Banku Polskiego (NBP)."
         }
@@ -90,7 +90,7 @@
             "description": "Tegoroczna edycja najwi\u0119kszych technologicznych targ\u00f3w IFA 2025 w Berlinie by\u0142a konserwatywna, nie tylko jak na standardy ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.0-dkgKCiwaRpOcLKF3cZwi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Komputer \u015awiat8 godz.",
+            "date": "Komputer \u015awiat14 godz.",
             "source": "Komputer \u015awiat",
             "article_content": "AI odmieniane przez wszystkie przypadki\n\nWchodz\u0105c na hale tegorocznych targ\u00f3w IFA w Berlinie spodziewa\u0142em si\u0119 niespodziewanego. Jak zawsze w tego typu miejscach, czeka\u0142em, aby co\u015b mnie zaskoczy\u0142o i sprawi\u0142o, \u017ce b\u0119d\u0119 chcia\u0142 dzieli\u0107 si\u0119 na social mediach zdj\u0119ciami i filmami, dodaj\u0105c w tonie specjalisty \"tak, to jest przysz\u0142o\u015b\u0107\". Niestety, pod tym wzgl\u0119dem producenci sprz\u0119tu i oprogramowania z ca\u0142ego \u015bwiata nie dowie\u017ali. G\u0142\u00f3wnie przez to, \u017ce najwi\u0119kszym zaskoczeniem by\u0142o chyba to, \u017ce da si\u0119 jeszcze wi\u0119cej i g\u0142o\u015bniej m\u00f3wi\u0107 o AI, a to wciskane jest dzi\u015b w niemal ka\u017cdy zakamarek sprz\u0119t\u00f3w mobilnych, RTV i AGD.\n\nCo\u015b, co kiedy\u015b by\u0142o zwyk\u0142ym czujnikiem badaj\u0105cym np. przep\u0142yw \u015bwiat\u0142a przez przezroczyst\u0105 rurk\u0119 z wod\u0105 w zmywarce, by sprawdzi\u0107 jak brudna jest woda z op\u0142ukanych wst\u0119pnie naczy\u0144 (im mniej \u015bwiat\u0142a odbierze czujnik po drugiej stronie, tym d\u0142u\u017cszy program i wy\u017csz\u0105 temperatur\u0119 trzeba ustawi\u0107), dzi\u015b urasta do miana sztucznej inteligencji i \"analizy potrzeb konsumenta w czasie rzeczywistym\".\n\nAI Wash \u017br\u00f3d\u0142o: Komputer \u015awiat / Bart\u0142omiej Sieja\n\nOczywi\u015bcie, nie w\u0105tpi\u0119, \u017ce w tej zmywarce jest sztuczna inteligencja, bo jak producent tak m\u00f3wi, to tak przecie\u017c jest, ale przechadzanie si\u0119 po stoiskach berli\u0144skich targ\u00f3w da\u0142o mi jasno do zrozumienia, \u017ce nie t\u0119dy droga, a zasypywanie stoisk wsz\u0119dobylskimi literkami \"A\" oraz \"I\" wywo\u0142uje w ludziach efekt satiacji semantycznej, gdy to ca\u0142e \"ejaj\" staje si\u0119 dla naszego m\u00f3zgu li szumem statycznym. Nasz wewn\u0105trzczaszkowy adblock dzia\u0142a ca\u0142y czas, a marketingowcy zdaj\u0105 si\u0119 tego nadal nie dostrzega\u0107. I w\u0142a\u015bnie chyba przez to \u2014 zupe\u0142nie paradoksalnie \u2014 sprz\u0119tem, kt\u00f3ry wbi\u0142 mi si\u0119 najbardziej w pami\u0119\u0107 na prezentacji i stoisku Samsunga, by\u0142y kolumny imprezowe Sound Tower ST50F i ST40F, podczas prezentacji kt\u00f3rych, ani s\u0142owa o AI nie us\u0142ysza\u0142em\u2026\n\nKa\u017cdy ma swoj\u0105 automatyzacj\u0119\n\nSztuczna inteligencja pojawia si\u0119 na IFA 2025 nie tylko jako prze\u0142om, ale jako coraz powszechniejsza integracja. Przyk\u0142adowo, Tuya Smart zaprezentowa\u0142a portfolio AI w produktach takich jak s\u0142uchawki, kamery czy systemy zarz\u0105dzania energi\u0105 w domach, kt\u00f3re potrafi\u0105 optymalizowa\u0107 zu\u017cycie pr\u0105du na podstawie AI, prognoz pogodowych i cen energii. Z du\u017cych marek r\u00f3wnie\u017c Samsung zaprezentowa\u0142 swoj\u0105 wizj\u0119 automatyzacji, jak i obni\u017cania rachunk\u00f3w za pr\u0105d.\n\nGdy jednak spojrzymy na taki scenariusz:\n\nWstajesz rano, w\u0142\u0105cza si\u0119 ekspres, zaczyna gra\u0107 twoja ulubiona muzyka, rolety powoli si\u0119 podnosz\u0105, dostajesz informacje na telefon o wydarzeniach i pogodzie, termostat zmienia temperatur\u0119\u2026 a gdy wychodzisz z domu, robot sprz\u0105taj\u0105cy zaczyna odkurza\u0107, pralka pra\u0107, zmywarka zmywa\u0107 itd.\n\nNie spos\u00f3b nie zauwa\u017cy\u0107, \u017ce dok\u0142adnie w ten sam spos\u00f3b swoje smart home reklamowali inny producenci, jak chocia\u017cby Somfy, tylko, \u017ce wtedy ChatGPT jeszcze nie istnia\u0142 i sztuczna inteligencja kojarzy\u0107 si\u0119 mog\u0142a wielu raczej z wizj\u0105 komputera HAL 9000, kt\u00f3ry mo\u017ce si\u0119 nam sprzeciwia\u0107, wi\u0119c wszystko by\u0142o po prostu \"smart\". Dzi\u015b napis \"smart\" zmieni\u0142 si\u0119 na \"AI\", ale reklamy pozosta\u0142y takie same. No i wi\u0119cej firm w to idzie, co dla klient\u00f3w powinno by\u0107 plusem, bo wi\u0119ksza konkurencja i szersze wdro\u017cenia to zwykle ta\u0144sze produkty. S\u0142owo-klucz to jednak w tym wypadku \"zwykle\".\n\nJak technologie Smart Home rewolucjonizuj\u0105 codzienne \u017cycie w naszych domach? \u017br\u00f3d\u0142o: Samsung\n\nS\u0105dz\u0119 jednak, \u017ce przysz\u0142o\u015b\u0107 przyniesie nam bez w\u0105tpienia rosn\u0105c\u0105 sp\u00f3jno\u015b\u0107 ekosystem\u00f3w inteligentnego domu. Philips Hue rozszerzy\u0142o ofert\u0119 o now\u0105 generacj\u0119 mostk\u00f3w Hue Bridge Pro i inteligentnych \u017car\u00f3wek kompatybilnych z markami trzecimi, co ma u\u0142atwi\u0107 komunikacj\u0119 mi\u0119dzy r\u00f3\u017cnymi platformami smart home. Samsung chwali si\u0119, \u017ce ich ekosystem domowy r\u00f3wnie\u017c \u0142\u0105czy tysi\u0105ce zewn\u0119trznych produkt\u00f3w. To wa\u017cne w dobie coraz lepszych zamiennik\u00f3w. Dzi\u015b \"made in China\" wcale nie musi oznacza\u0107 produktu o z\u0142ej jako\u015bci i producenci zaczynaj\u0105 rozumie\u0107, \u017ce niekiedy to w\u0142a\u015bnie \"chi\u0144skie podr\u00f3bki\" wsp\u00f3\u0142dzia\u0142aj\u0105ce z ich ekosystemami b\u0119d\u0105 fundamentem na wielu rynkach, gdzie klient inwestuje bezpiecznie w rozwi\u0105zania, kt\u00f3rych jeszcze nie sprawdzi\u0142, by z czasem zdecydowa\u0107 si\u0119 na ekspansj\u0119 i flagowe modele.\n\n\"To samo\", ale lepiej\n\nTo nie tak jednak, \u017ce \u017cadnych nowych technologii nie do\u015bwiadczy\u0142em. Wida\u0107, \u017ce powa\u017cnie traktowana jest przez producent\u00f3w telewizor\u00f3w nowa metoda pod\u015bwietlania matryc za pomoc\u0105 coraz to mniejszych diod RGB. W praktyce oznacza to, \u017ce zamiast pod\u015bwietlania matrycy pojedynczymi diodami o barwie niebieskiej, kt\u00f3re przechodz\u0105 najpierw przez filtr zmieniaj\u0105cy barw\u0119 na bia\u0142y, a nast\u0119pnie na filtr RGB, kt\u00f3ry definiuj\u0119 barw\u0119 pojedynczego piksela, to w metodzie pod\u015bwietlania RGB mamy niejako drug\u0105 warstw\u0119 nadawania obrazowi kolor\u00f3w \u2014 ju\u017c bezpo\u015brednio w pod\u015bwietleniu.\n\nSony RGB Sony\n\nNa targach swoje rozwi\u0105zania w tej dziedzinie pokaza\u0142o nam Sony, Hisense i Samsung. Ci pierwsi na razie w formie prototypu, kt\u00f3rym Sony pokazuje, \u017ce dzia\u0142a w tej materii i ostrzy sobie z\u0119by na przysz\u0142y rok. Hisense i Samsung przywie\u017ali jednak do Berlina dzia\u0142aj\u0105ce telewizory LED RGB, a chi\u0144ski producent chwali\u0142 si\u0119 nawet, \u017ce jego model jest najwi\u0119kszy na \u015bwiecie. Co jest faktem, bowiem ich 116-calowa konstrukcja o ca\u0142y jeden cal bije rozwi\u0105zanie Samsunga, ale poza wi\u0119kszym ekranem zastosowali te\u017c\u2026 wi\u0119ksze diody. A to ju\u017c gorzej.\n\nChodzi bowiem o to, by liczba diod za ekranem odpowiada\u0142a jak najbli\u017cej liczbie pikseli na ekranie, a wi\u0119ksze diody to mo\u017cliwo\u015b\u0107 umieszczenia ich mniejszej liczby, co zmniejsza dok\u0142adno\u015b\u0107 pokrywania si\u0119 kolor\u00f3w pod\u015bwietlenia z kolorami na ekranie. Dlatego te\u017c najwi\u0119kszy telewizor Hisense okre\u015blany jest mianem mini-LED RGB, a Samsung swoj\u0105 technologi\u0119 okre\u015bla ju\u017c jako micro-LED RGB. O jak ma\u0142ym rozmiarze m\u00f3wimy? Korea\u0144czycy nie chwal\u0105 si\u0119 tym dok\u0142adnie, ale podaj\u0105 wielko\u015b\u0107 pojedynczej diody na \"poni\u017cej 100 mikrometr\u00f3w\", co oznacza mniej ni\u017c 0,1 mm. Warto tu jednak zaznaczy\u0107, \u017ce w tym wypadku \"pojedyncza dioda\" odnosi si\u0119 zapewne do jednego z 9 element\u00f3w (po 3 dla koloru czerwonego, zielonego i niebieskiego), z kt\u00f3rych sk\u0142ada si\u0119 ca\u0142y micro-LED.\n\nSamsung MicroRGB \u017br\u00f3d\u0142o: Komputer \u015awiat / Bart\u0142omiej Sieja\n\nWojenki pomi\u0119dzy producentami od\u017cywaj\u0105 wi\u0119c na nowo, my mamy o czym pisa\u0107, a dla konsument\u00f3w mo\u017ce to by\u0107 kolejny pow\u00f3d do niezrozumienia w\u0142a\u015bciwej nomenklatury i zastanawiania si\u0119 czym si\u0119 mini-LED r\u00f3\u017cni od micro-LED i mini-LED RGB i czy to wszystko to w zasadzie lepsze od OLED, czy w og\u00f3le nie\u2026\n\nCzy jednak jest to jaka\u015b rewolucja? No\u2026 nie. Jest to ciekawa technologia, kt\u00f3ra ma widoczny wp\u0142yw na jako\u015b\u0107 obrazu, ale nie stanowi wielkiego prze\u0142omu. No i pozostaje kwestia ceny. Za prezentowany przez Samsunga telewizor micro-LED RGB o przek\u0105tnej 115 cali trzeba b\u0119dzie zap\u0142aci\u0107 oko\u0142o 120 tys. z\u0142.\n\nPrzysz\u0142o\u015b\u0107 zr\u00f3wnowa\u017conej technologii\n\nIFA 2025 pokaza\u0142a wzrost znaczenia technologii ekologicznych. Przyk\u0142adem jest TCL z modelem TCL Ecora, materia\u0142em stworzonym z upcyklingu ceramicznych odpad\u00f3w, kt\u00f3ry \u0142\u0105czy trwa\u0142o\u015b\u0107 z ekologicznym podej\u015bciem, zmieniaj\u0105c odpady w wysokiej jako\u015bci wype\u0142niacz do tworzyw sztucznych. To wyra\u017ana manifestacja zr\u00f3wnowa\u017conego designu i redukcji odpad\u00f3w w bran\u017cy.\n\nMam jednak wra\u017cenie, \u017ce rozmowy o ekologii schodz\u0105 na dalszy plan, ze wzgl\u0119du na do\u015b\u0107 powa\u017cn\u0105 obaw\u0119 przed oskar\u017ceniem o hipokryzj\u0119. W dobie AI zapotrzebowanie energetyczne najwi\u0119kszych \u015bwiatowych koncern\u00f3w ro\u015bnie w zastraszaj\u0105cym tempie i wszystkie deklaracje o zeroemisyjno\u015bci sk\u0142adane jeszcze cztery lata temu dzi\u015b s\u0105 albo zamiatane pod dywan, albo przekszta\u0142cane tak, by nie eksponowa\u0107 ich na pierwszym planie.\n\nZnacznie wi\u0119cej m\u00f3wi si\u0119 wi\u0119c o recyklingu, braku u\u017cywania toksycznego kadmu w swoich urz\u0105dzeniach, ni\u017c zmniejszeniu emisji w uj\u0119ciu ca\u0142ej firmy. Je\u017celi ju\u017c to marki takie, jak Samsung, LG i Bosch ch\u0119tnie obni\u017c\u0105 zu\u017cycie pr\u0105du w naszych domach, by\u015bmy to my mniej p\u0142acili za rachunki. A \u017ce w tych wszystkich urz\u0105dzeniach siedzi AI, kt\u00f3rego moc obliczeniowa przyczynia si\u0119 do wzrostu temperatury na Ziemi? To ju\u017c nie jest modny temat do rozm\u00f3w na targach elektronicznych\u2026\n\nNowe technologie w klasycznym wydaniu\n\nW\u015br\u00f3d urz\u0105dze\u0144 codziennego u\u017cytku dominuj\u0105 usprawnienia istniej\u0105cych form. Miele pokaza\u0142a inteligentne systemy kuchenne, a Morphy Richards zaprezentowa\u0142a nowoczesne sprz\u0119ty AGD integruj\u0105ce tradycj\u0119 z nowoczesno\u015bci\u0105, np. ekspres do kawy sterowany telefonem. Samsung przedstawi\u0142 tablet Galaxy Tab S11 Ultra jako konkurencj\u0119 dla iPada Pro oraz nowy smartfon Galaxy S25 FE, stawiaj\u0105c na dopracowane wersje sprawdzonych produkt\u00f3w.\n\nWr\u00f3ci\u0142y te\u017c stare technologie w nowym wydaniu. Zar\u00f3wno Plaud, jak i Anker przywie\u017ali do Berlina swoje \"voice recordery\", czyli co\u015b na zasadzie klasycznych dyktafon\u00f3w, ale uszytych na miar\u0119 XXI w. I tak Anker Soundcore Work to niewielki klips/naszyjnik wielko\u015bci monety (chocia\u017c od niej grubszy), kt\u00f3ry s\u0142u\u017cy do nagrywania g\u0142os\u00f3w z otoczenia. Jest w stanie nagra\u0107 ich nawet kilka godzin, a co najwa\u017cniejsze przeprowadzi dla nas transkrypcj\u0119 ca\u0142o\u015bci, a wi\u0119c niczego nie musimy przepisywa\u0107, ani te\u017c u\u017cywa\u0107 zewn\u0119trznych aplikacji.\n\nAnker Soundcore Work Anker\n\nDro\u017cszy jest z kolei \"dyktafon\" Plaud NotePin, kt\u00f3ry oferuje to samo, co konkurent, ale z dodatkowym asystentem AI, pozwalaj\u0105cym na wydawanie polece\u0144, zmiany tryb\u00f3w nagrywania i og\u00f3lnie nieco wi\u0119cej \"bajer\u00f3w\". Oba te urz\u0105dzenia to ciekawe przyk\u0142ady tego, jak popularne niegdy\u015b urz\u0105dzenia, kt\u00f3rych dzi\u015b w zasadzie ju\u017c nie widujemy, mog\u0105 powr\u00f3ci\u0107 do \u015bwiadomo\u015bci klient\u00f3w dzi\u0119ki nowszym rozwi\u0105zaniom.\n\nNajlepsze zmiany to te najmniejsze, ale sprytne!\n\nW obliczu jednak niewielu zaskocze\u0144, najwi\u0119ksze wra\u017cenia robi\u0142y detale, kt\u00f3re jednak zdaj\u0105 si\u0119 mie\u0107 sens i rozwi\u0105zywa\u0107 problemy. Tutaj na my\u015bl przychodzi mi g\u0142\u00f3wnie Lenovo ThinkBook VertiFlex, a wi\u0119c laptop z funkcj\u0105 pivot w ekranie. Mieli\u015bmy ju\u017c ekrany, kt\u00f3re si\u0119 obraca\u0142y, mogli\u015bmy te\u017c w niekt\u00f3rych urz\u0105dzeniach odczepi\u0107 ekran od klawiatury i postawi\u0107 go pionowo, ale tym razem Chi\u0144czycy wpadli na pomys\u0142, by m\u00f3c ustawi\u0107 pionow\u0105 orientacj\u0119 ekranu laptopa\u2026 bez jego oddzielania od reszty. Oznacza to w praktyce, \u017ce ekran jest stale przymocowany do podstawki, kt\u00f3ra jest z kolei po\u0142\u0105czona zawiasem z p\u0142yt\u0105 g\u0142\u00f3wn\u0105, bateri\u0105 i klawiatur\u0105.\n\nCzy jest to niezb\u0119dne? Oczywi\u015bcie, \u017ce nie. Czy komu\u015b si\u0119 przyda? Jak najbardziej. O ile cena nie b\u0119dzie zwala\u0142a z n\u00f3g. Dla os\u00f3b, kt\u00f3re na co dzie\u0144 wol\u0105 pracowa\u0107 na pionowej orientacji ekranu i potrzebuj\u0105 wydajno\u015bci laptopa, a nie li wy\u0142\u0105cznie tabletu, mo\u017ce to by\u0107 dodatkowy punkt przy wyborze kolejnego sprz\u0119tu do pracy. Niby proste \u2014 a robi wra\u017cenie. By\u0107 mo\u017ce jest to zas\u0142ug\u0105 tego, \u017ce coraz mniej prostych rzeczy zosta\u0142o nam do odkrycia i mamy takie prze\u015bwiadczenie, \u017ce \"wszystko ju\u017c wymy\u015blono\"? Okazuje si\u0119, \u017ce mo\u017ce nas jeszcze zaskoczy\u0107 prosty obr\u00f3t ekranu laptopa!\n\nCisza przed burz\u0105?\n\nGdy jednak sztuczna inteligencja zdaje nam si\u0119 wychodzi\u0107 nawet z lod\u00f3wki, pojawia si\u0119 na scenie Jack Huynh, jeden z szef\u00f3w AMD, i stawia zaskakuj\u0105c\u0105 tez\u0119: AI nie jest przereklamowane \u2013 wr\u0119cz przeciwnie, jest \"niedohajpowane\". Wed\u0142ug niego dzisiejsze sukcesy to dopiero preludium \u2014 jak pierwsze strony internetowe w latach 90., kt\u00f3re w niczym nie zapowiada\u0142y erupcji sieci spo\u0142eczno\u015bciowych, streamingu czy globalnej gospodarki cyfrowej.\n\nCz\u0142owiek i sztuczna inteligencja Stworzone przy u\u017cyciu AI / Shutterstock AI\n\nPrzysz\u0142o\u015b\u0107 AI mo\u017ce otworzy\u0107 drzwi do rzeczy, kt\u00f3re dzi\u015b wydaj\u0105 si\u0119 jeszcze niedopracowane: automatyczne generowanie wideo z samego tekstu, asystenci dzia\u0142aj\u0105cy lokalnie i bez chmury, inteligencje zdolne dzia\u0142a\u0107 bardziej jak wsp\u00f3\u0142tw\u00f3rcy ni\u017c narz\u0119dzia. W tym sensie dzisiejsze \"przesycenie AI\" to by\u0107 mo\u017ce z\u0142udzenie \u2014 objaw powierzchownego kontaktu z czym\u015b, co dopiero si\u0119 wy\u0142ania i pewnego niezrozumienia prawdziwego potencja\u0142u, jak i pr\u00f3by \"wci\u015bni\u0119cia\" klientowi ka\u017cdej nowo\u015bci przez maj\u0105ce miliardowe bud\u017cety dzia\u0142y marketingowe wielkich korporacji. A tymczasem prawdziwa rewolucja AI jest daleko pod tymi lod\u00f3wkami, kt\u00f3re same dozuj\u0105 detergent.\n\nWszystko wskazuje wi\u0119c na to, \u017ce stoimy na kraw\u0119dzi g\u0142\u0119bokiej technologicznej zmiany, kt\u00f3rej nie dostrzegamy, bo znu\u017ceni jeste\u015bmy codziennym szumem informacyjnym i powierzchownymi zastosowaniami AI. To, co dzi\u015b nazywamy \"AI\" to raczej prolog do prawdziwej rewolucji, kt\u00f3ra mo\u017ce odmieni\u0107 ka\u017cd\u0105 dziedzin\u0119 \u017cycia \u2014 od medycyny, przez edukacj\u0119, po spos\u00f3b, w jaki rozumiemy i kszta\u0142tujemy swoje otoczenie.\n\nMam z tym jednak taki problem, \u017ce doskonale pami\u0119tam jeszcze wszelkie konferencje po\u015bwi\u0119cone temu, jak 5G zmieni medycyn\u0119, rolnictwo, prac\u0119 w fabrykach, ka\u017cdy b\u0119dzie mia\u0142 VR na g\u0142owie, a czujniki na naszym ciele b\u0119d\u0105 w czasie rzeczywistym diagnozowa\u0107 choroby. Nie zaprzeczam, \u017ce tak b\u0119dzie. Kiedy\u015b. Kiedy? Nie wiadomo\u2026"
         }
@@ -101,28 +101,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "08 WRZE\u015aNIA 2025",
-            "link": "https://www.krakow.pl/kalendarium/1919,shw,2025-09-08,4,day.html",
-            "description": "Obrazy, rysunki i fotografie - \u0142\u0105cznie 250 prac z prywatnej kolekcji Anny i Piotra Dmochowskich, marszand\u00f3w i przyjaci\u00f3\u0142 nie\u017cyj\u0105cego artysty od pa\u017adziernika 2016 roku mo\u017cna ogl\u0105da\u0107 w Galerii Zdzis\u0142awa ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stare+monety",
-            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w21 godz.",
-            "source": "Oficjalny serwis miejski - Magiczny Krak\u00f3w",
-            "article_content": "Przekroje. Galeria architektury polskiej XX i XXI wieku\n\nCzym jest i czym mo\u017ce by\u0107 architektura? W jaki spos\u00f3b mo\u017cna opisa\u0107 relacje \u0142\u0105cz\u0105ce j\u0105 z cz\u0142owiekiem? Na nowej wystawie sta\u0142ej w Kamienicy Szo\u0142ayskich przez pryzmat tych pyta\u0144 poznamy histori\u0119, a tak\u017ce wsp\u00f3\u0142czesne oblicze polskiej..."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Stara porcelana z PRL bije rekordy. Kolekcjonerzy nadal poluj\u0105 na te naczynia, wazony i figurki [9.09.2025]",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/stara-porcelana-z-prl-bije-rekordy-kolekcjonerzy-nadal-poluj%C4%85-na-te-naczynia-wazony-i-figurki-9-09-2025/ar-AA1L6ze7?ocid=BingNewsVerp",
+            "title": "Stara porcelana z PRL bije rekordy. Kolekcjonerzy nadal poluj\u0105 na te naczynia, wazony i figurki",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/stara-porcelana-z-prl-bije-rekordy-kolekcjonerzy-nadal-poluj%C4%85-na-te-naczynia-wazony-i-figurki/ar-AA1L6ze7?ocid=BingNewsVerp",
             "description": "Porcelana z czas\u00f3w PRL-u jest obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli posiadasz wazony ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.mQOajxtDGS0-NyUHIg9bEC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN3 godz.",
+            "date": "Gazeta Pomorska on MSN8 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -138,7 +122,7 @@
             "description": "Nieod\u0142\u0105cznym elementem Winobrania jest jarmark, a nieod\u0142\u0105cznym elementem jarmarku jest targ staroci. Tradycyjnie znajdziemy ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.bdut8DbBcI-QmAWB1-_LCi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Gazeta Lubuska on MSN2 godz.",
+            "date": "Gazeta Lubuska on MSN7 godz.",
             "source": "Gazeta Lubuska on MSN",
             "article_content": ""
         }
@@ -154,7 +138,7 @@
             "description": "Corocznie podczas Winobrania na zielonog\u00f3rskim deptaku pojawia si\u0119 targ staroci. To gratka dla mi\u0142o\u015bnik\u00f3w antyk\u00f3w. Sprzedawcy ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.HdQ1ioYckx6KRDw6cQt-3i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Radio Zach\u00f3d9 godz.",
+            "date": "Radio Zach\u00f3d14 godz.",
             "source": "Radio Zach\u00f3d",
             "article_content": "Corocznie podczas Winobrania na zielonog\u00f3rskim deptaku pojawia si\u0119 targ staroci. To gratka dla mi\u0142o\u015bnik\u00f3w antyk\u00f3w.\n\nSprzedawcy maj\u0105 w swojej ofercie wiele zabytkowych i starych przedmiot\u00f3w takich jak bi\u017cuteria, ceramika, rze\u017aby, p\u0142yty winylowe oraz militaria.\n\n\u2013 Jest wszystko, ka\u017cdy znajdzie tu co\u015b dla siebie \u2013 zach\u0119caj\u0105 handlarze:\n\nW\u015br\u00f3d stoisk mo\u017cna spotka\u0107 wielu odwiedzaj\u0105cych, zar\u00f3wno tych m\u0142odszych, jak i starszych:\n\nWinobraniowy Targ Staroci znajduje si\u0119 na deptaku w g\u00f3rnej cz\u0119\u015bci ulicy Kupieckiej."
         }
@@ -165,13 +149,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Zn\u00f3w t\u0142umy na Pchlim Targu. Ubrania, kwiaty, meble i starocie - 7 wrze\u015bnia 2025. Zdj\u0119cia, ceny, wideo",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/zn%C3%B3w-t%C5%82umy-na-pchlim-targu-ubrania-kwiaty-meble-i-starocie-7-wrze%C5%9Bnia-2025-zdj%C4%99cia-ceny-wideo/ar-AA1M36nE?ocid=BingNewsVerp",
-            "description": "W pochmurn\u0105, ale przyjemn\u0105 niedziel\u0119, 7 wrze\u015bnia 2025 roku, na Pchlim Targu we W\u0142oc\u0142awku przy alei Kazimierza Wielkiego ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.peWosYcXoTwvsi3DUz6NCy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "T\u0142umy poszukiwaczy skarb\u00f3w, wyj\u0105tkowe okazje i unikatowe przedmioty! Pchli targ przy M1 w Poznaniu w niedziel\u0119, 7 wrze\u015bnia. Zobacz zdj\u0119cia!",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/t%C5%82umy-poszukiwaczy-skarb%C3%B3w-wyj%C4%85tkowe-okazje-i-unikatowe-przedmioty-pchli-targ-przy-m1-w-poznaniu-w-niedziel%C4%99-7-wrze%C5%9Bnia-zobacz-zdj%C4%99cia/ar-AA1M2M90?ocid=BingNewsVerp",
+            "description": "Parking przed M1 w Poznaniu zn\u00f3w zape\u0142ni\u0142 si\u0119 sprzedawcami, kolekcjonerami i mi\u0142o\u015bnikami unikatowych przedmiot\u00f3w. T\u0142umy ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.32K1GmXJ3AEGOUnecTbZTC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN23 godz.",
-            "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
+            "date": "Pozna\u0144 Nasze Miasto on MSN17 godz.",
+            "source": "Pozna\u0144 Nasze Miasto on MSN",
             "article_content": ""
         }
     },
@@ -186,7 +170,7 @@
             "description": "Jutro od godziny 16 na stadionie przy ulicy Sulechowskiej w Zielonej G\u00f3rze odb\u0119dzie si\u0119 tradycyjny lekkoatletyczny mityng ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.UyBrWXtw-mGCIsSccJxqYS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Radio Zach\u00f3d9 godz.",
+            "date": "Radio Zach\u00f3d14 godz.",
             "source": "Radio Zach\u00f3d",
             "article_content": "Jutro od godziny 16 na stadionie przy ulicy Sulechowskiej w Zielonej G\u00f3rze odb\u0119dzie si\u0119 tradycyjny lekkoatletyczny mityng Winobraniowy.\n\nNa imprez\u0119 w kt\u00f3rej mo\u017ce wystartowa\u0107 ka\u017cdy zaprasza Miros\u0142aw Krzy\u017canowski \u2013 dyrektor ZLKL Zielona G\u00f3ra:"
         }
@@ -202,7 +186,7 @@
             "description": "Szczeg\u00f3lnie na Trakcie \u015aw. Wojciecha dla aut z kierunku Pruszcza. S\u0142u\u017cby powinny kontrolowa\u0107 stan aut a nie trze\u017awo\u015b\u0107. Jakim cudem kierowca autem na 8 letnich oponach ze skorodowany mi progami i podwo ...",
             "image_url": "https://www.bing.pl/th?id=ODF.TioSfvyB6Ie4qA25KB6RoA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Trojmiasto.pl8 godz.",
+            "date": "Trojmiasto.pl13 godz.",
             "source": "Trojmiasto.pl",
             "article_content": "Content not available"
         }
@@ -218,7 +202,7 @@
             "description": "Startuj\u0105 przetargi na kluczowe odcinki linii Igrek. W 2032 r. podr\u00f3\u017c z Warszawy do Wroc\u0142awia ma skr\u00f3ci\u0107 si\u0119 do nieco ponad 2 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.ifAh7PverUO6fYZqJ7Vgny&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Biznes - GazetaPrawna.pl4 godz.",
+            "date": "Biznes - GazetaPrawna.pl10 godz.",
             "source": "Biznes - GazetaPrawna.pl",
             "article_content": "Wa\u017cna aktualizacja\n\nZe wzgl\u0119du na wej\u015bcie w \u017cycie nowych przepis\u00f3w RODO zmienili\u015bmy spos\u00f3b logowania do produktu i sklepu internetowego, w taki spos\u00f3b aby chroni\u0107 dane osobowe zgodnie z najwy\u017cszymi standardami.\n\nProsimy o zmian\u0119 dotychczasowego loginu na taki, kt\u00f3ry b\u0119dzie adresem e-mail."
         }
@@ -234,7 +218,7 @@
             "description": "Ampu\u0142ki z jodyn\u0105, butelki po mleku, metalowe \u0142\u00f3\u017cko i inne przedmioty znale\u017ali archeolodzy podczas wykopalisk przy ulicy ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.o_wKo_y3vfECW9vr-kINYy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Warszawa.Wyborcza.pl12 godz.",
+            "date": "Warszawa.Wyborcza.pl17 godz.",
             "source": "Warszawa.Wyborcza.pl",
             "article_content": ""
         }
@@ -250,7 +234,7 @@
             "description": "Decyzj\u0105 Mazowieckiego Wojew\u00f3dzkiego Konserwatora Zabytk\u00f3w, zesp\u00f3\u0142 budynk\u00f3w biurowych przy Alejach Jerozolimskich - a w\u015br\u00f3d nich popularny \"Orbis\" - trafi\u0142 do rejestru zabytk\u00f3w. To unikalny przyk\u0142ad po ...",
             "image_url": "https://www.bing.pl/th?id=ODF.LC6ZJEycVuCnutN0oFpk4A&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Warszawa Radio ESKA on MSN11 godz.",
+            "date": "Warszawa Radio ESKA on MSN16 godz.",
             "source": "Warszawa Radio ESKA on MSN",
             "article_content": ""
         }
@@ -266,7 +250,7 @@
             "description": "Ruszy\u0142 plebiscyt National Geographic Traveler Cuda Polski 2025. W wojew\u00f3dztwie podlaskim w rywalizacji znalaz\u0142y si\u0119 trzy ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.d5BsERpghUflbxvHD2b-yy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Bia\u0142ystok Online6 godz.",
+            "date": "Bia\u0142ystok Online12 godz.",
             "source": "Bia\u0142ystok Online",
             "article_content": "Ruszy\u0142 plebiscyt National Geographic Traveler \"Cuda Polski 2025\". W wojew\u00f3dztwie podlaskim w rywalizacji znalaz\u0142y si\u0119 trzy wyj\u0105tkowe miejsca: Cerkiew Staroobrz\u0119dowc\u00f3w w Gabowych Gr\u0105dach, Wzg\u00f3rza Sok\u00f3lskie i K\u0142adka \u015aliwno-Waniewo\n\nFot: https://www.choroszcz.pl\n\nNational Geographic Traveler po raz kolejny zach\u0119ca czytelnik\u00f3w do odkrywania mniej znanych, ale niezwykle warto\u015bciowych zak\u0105tk\u00f3w Polski. W ramach plebiscytu \"Cuda Polski 2025\" przez sze\u015b\u0107 tygodni mo\u017cna g\u0142osowa\u0107 na wyj\u0105tkowe miejsca w ka\u017cdym z 16 wojew\u00f3dztw. Celem akcji jest promocja lokalnej turystyki oraz zwr\u00f3cenie uwagi na te lokalizacje, kt\u00f3re zachwycaj\u0105 przyrod\u0105, histori\u0105 czy kultur\u0105.\n\n\n\nNa li\u015bcie nominowanych w wojew\u00f3dztwie podlaskim znalaz\u0142y si\u0119: Cerkiew Staroobrz\u0119dowc\u00f3w w Gabowych Gr\u0105dach, Wzg\u00f3rza Sok\u00f3lskie oraz K\u0142adka \u015aliwno-Waniewo.\n\n\n\nCerkiew Staroobrz\u0119dowc\u00f3w w Gabowych Gr\u0105dach\n\n\n\nTo unikalna \u015bwi\u0105tynia prawos\u0142awna, zachowuj\u0105ca obrz\u0119dy sprzed XVII wieku. W cerkwi znajduj\u0105 si\u0119 cenne zabytki: siedemnastowieczne ikony, starodruki i przedmioty liturgiczne charakterystyczne dla staroobrz\u0119dowc\u00f3w. Miejsce to jest wa\u017cnym elementem dziedzictwa kulturowego Podlasia i centrum kultywowania tradycji religijnych.\n\n\n\nWzg\u00f3rza Sok\u00f3lskie\n\n\n\nTen pas wzniesie\u0144 mi\u0119dzy dolinami Biebrzy, Niemna i \u015awis\u0142oczy powsta\u0142 dzi\u0119ki lodowcowi z p\u00f3\u0142nocnej Europy. Wzg\u00f3rza oferuj\u0105 malownicze krajobrazy, a w ich okolicy mo\u017cna natkn\u0105\u0107 si\u0119 na zabytkowe wiatraki i stare drewniane domy. Pasmo obejmuje m.in. Bohoniki, Bogusze, Malewicze i Sokolany, kt\u00f3re nale\u017c\u0105 do najbardziej inspiruj\u0105cych miejsc wojew\u00f3dztwa.\n\n\n\nK\u0142adka \u015aliwno-Waniewo\n\n\n\nMalownicza drewniana trasa piesza prowadzi przez bagienne tereny Narwia\u0144skiego Parku Narodowego, \u0142\u0105cz\u0105c wsie \u015aliwno i Waniewo. Jej wyj\u0105tkow\u0105 atrakcj\u0105 s\u0105 ruchome platformy umo\u017cliwiaj\u0105ce przepraw\u0119 nad rozlewiskami Narwi. K\u0142adka zapewnia niezapomniane widoki, bliski kontakt z przyrod\u0105 oraz obserwacj\u0119 licznych gatunk\u00f3w ptak\u00f3w wodnych. Jest rajem dla mi\u0142o\u015bnik\u00f3w fotografii oraz spacer\u00f3w w\u015br\u00f3d dzikiej natury.\n\n\n\n\u2013 Ka\u017cdego roku jeste\u015bmy zaskoczeni, jak wiele pi\u0119knych, a wci\u0105\u017c nieodkrytych miejsc znajduje si\u0119 w Polsce. Tegoroczne nominacje pokazuj\u0105, \u017ce nawet niedu\u017ce lokalizacje mog\u0105 sta\u0107 si\u0119 prawdziwymi pere\u0142kami \u2013 m\u00f3wi Micha\u0142 Cessanis, redaktor prowadz\u0105cy National Geographic Traveler.\n\n\n\nG\u0142osowanie potrwa do 13 pa\u017adziernika 2025 roku, a ju\u017c dzie\u0144 p\u00f3\u017aniej poznamy 16 zwyci\u0119zc\u00f3w \u2013 po jednym w ka\u017cdym wojew\u00f3dztwie. Wyniki zostan\u0105 opublikowane na stronie national-geographic.pl. Ka\u017cde zwyci\u0119skie miejsce zostanie r\u00f3wnie\u017c opisane w wydaniu drukowanym magazynu Traveler.\n\n\n\nG\u0142osowa\u0107 mo\u017cna na: cudapolski.national-geographic.pl."
         }
@@ -282,7 +266,7 @@
             "description": "Ampu\u0142ki z jodyn\u0105, butelki po mleku, metalowe \u0142\u00f3\u017cko i inne przedmioty znale\u017ali archeolodzy podczas wykopalisk przy ulicy ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.o_wKo_y3vfECW9vr-kINYy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Warszawa.Wyborcza.pl12 godz.",
+            "date": "Warszawa.Wyborcza.pl17 godz.",
             "source": "Warszawa.Wyborcza.pl",
             "article_content": ""
         }
@@ -298,7 +282,7 @@
             "description": "Ruszy\u0142 pierwszy etap prac budowlanych na terenie dawnej cukrowni w Pruszczu Gda\u0144skim. Oznacza to, \u017ce ko\u0144cz\u0105 si\u0119 prace ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.WDoD-frDEpCNTF8LAvKWCi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Trojmiasto.pl13 godz.",
+            "date": "Trojmiasto.pl18 godz.",
             "source": "Trojmiasto.pl",
             "article_content": "Content not available"
         }
@@ -314,7 +298,7 @@
             "description": "O tym, \u017ce monety potrafi\u0105 by\u0107 warte fortun\u0119, wiemy wszyscy. A banknoty? Ma\u0142o z nas zdaje sobie spraw\u0119, \u017ce mog\u0105 kosztowa\u0107 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.iKsj76OqGOVqhre9Vs3vDy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "G\u0142os Szczeci\u0144ski on MSN11 godz.",
+            "date": "G\u0142os Szczeci\u0144ski on MSN17 godz.",
             "source": "G\u0142os Szczeci\u0144ski on MSN",
             "article_content": ""
         }
@@ -330,7 +314,7 @@
             "description": "Sto lat temu, na polskim Pomorzu, naprzeciw siebie stan\u0119\u0142o kilkana\u015bcie tysi\u0119cy \u017co\u0142nierzy. Piechota, kawaleria, artyleria, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.FCS6sSjIIe7Ewhe0VHwMfC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN11 godz.",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN16 godz.",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
             "article_content": ""
         }
