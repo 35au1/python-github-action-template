@@ -5,12 +5,44 @@
             "Content-Type": "application/json"
         },
         "body": {
+            "title": "Hanwha ocean",
+            "link": "https://gazetakrakowska.pl/tag/hanwha-ocean",
+            "description": "Politechnika Gda\u0144ska i Hanwha Ocean podpisa\u0142y memorandum of understanding (MoU), obejmuj\u0105ce wsp\u00f3\u0142prac\u0119 badawcz\u0105 w zakresie ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.Qe_Ru3USMdCrrIzZ0Ok0bi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Gazeta Krakowska18 min",
+            "source": "Gazeta Krakowska",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Czarcie oko",
+            "link": "https://gazetawroclawska.pl/tag/czarcie-oko",
+            "description": "Dolno\u015bl\u0105skie lasy skrywaj\u0105 mn\u00f3stwo tajemnic i relikt\u00f3w historii. Te niedaleko miejscowo\u015bci Trzebie\u0144 to prawdziwa gratka dla mi\u0142o\u015bnik\u00f3w powojennej historii.... Ten pa\u0142ac podzieli\u0142 los wielu innych ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.p9YO103MXreScWBGsL62IA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "starocie",
+            "date": "Gazeta Wroc\u0142awska47 min",
+            "source": "Gazeta Wroc\u0142awska",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
             "title": "Pchli targ nad Jeziorem w Chmielnikach pod Bydgoszcz\u0105. Tak by\u0142o 13 wrze\u015bnia 2025 - Zobaczcie zdj\u0119cia i wideo",
             "link": "https://www.msn.com/pl-pl/podroze/aktywno%C5%9B%C4%87-na-%C5%9Bwie%C5%BCym-powietrzu/pchli-targ-nad-jeziorem-w-chmielnikach-pod-bydgoszcz%C4%85-tak-by%C5%82o-13-wrze%C5%9Bnia-2025-zobaczcie-zdj%C4%99cia-i-wideo/ar-AA1MudHc?ocid=BingNewsVerp",
             "description": "W sobot\u0119, 13 wrze\u015bnia w Chmielnikach zn\u00f3w zapanowa\u0142 wyj\u0105tkowy klimat \u2013 nad jeziorem odby\u0142 si\u0119 cotygodniowy pchli targ, kt\u00f3ry ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.sdvBzKYLdGN4Hq4mIdlQEi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Bydgoszcz Nasze Miasto on MSN7 godz.",
+            "date": "Bydgoszcz Nasze Miasto on MSN10 godz.",
             "source": "Bydgoszcz Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -26,7 +58,7 @@
             "description": "Podczas tegorocznego MSPO w Kielcach przedsi\u0119biorstwo Czechoslovak Group (CSG) potwierdzi\u0142o, \u017ce jest zainteresowane ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.rVZQTBFsMyVqtBMwXvAMly&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Nowiny 2413 godz.",
+            "date": "Nowiny 2416 godz.",
             "source": "Nowiny 24",
             "article_content": "Content not available"
         }
@@ -42,40 +74,8 @@
             "description": "Lekkie materia\u0142y idealnie wpisuj\u0105 si\u0119 w potrzeby bran\u017cy obronnej. Obserwujemy ogromny popyt na tzw. lightweight structures \u2013 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.3eoQtikE6G1i3Kek0VfuOS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Gazeta Lubuska13 godz.",
+            "date": "Gazeta Lubuska15 godz.",
             "source": "Gazeta Lubuska",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Centrum Weterana",
-            "link": "https://gp24.pl/tag/centrum-weterana",
-            "description": "Podczas XXXIII Mi\u0119dzynarodowego Salonu Przemys\u0142u Obronnego (MSPO) w Kielcach, firma ICEYE podpisa\u0142a porozumienie o wsp\u00f3\u0142pracy ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.q30z31py044L_c2_G-JmVC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "G\u0142os Pomorza14 godz.",
-            "source": "G\u0142os Pomorza",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Obrazowanie SAR",
-            "link": "https://gp24.pl/tag/obrazowanie-sar",
-            "description": "Firma Iceye specjalizuj\u0105ca si\u0119 w dziedzinie wykorzystywania satelit\u00f3w wyposa\u017conych w radar z syntetyczn\u0105 apertur\u0105 (SAR), ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.q30z31py044L_c2_G-JmVC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "G\u0142os Pomorza14 godz.",
-            "source": "G\u0142os Pomorza",
             "article_content": "Content not available"
         }
     },
@@ -90,7 +90,7 @@
             "description": "To jedyny taki skarb. Najstarsza moneta w Polsce. Wybity przez Boles\u0142awa Chrobrego srebrny denar z lat 992-997, b\u0119d\u0105cy w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Toru\u0144 Nasze Miasto12 godz.",
+            "date": "Toru\u0144 Nasze Miasto14 godz.",
             "source": "Toru\u0144 Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -106,23 +106,7 @@
             "description": "Wycena monet z PRL-u zale\u017cy od rzadko\u015bci wyst\u0119powania, jako\u015bci wybicia oraz gradingu, czyli stanu jej zachowania. W Polsce znajdziemy wiele okaz\u00f3w wartych kilkaset z\u0142otych, ale s\u0105 te\u017c takie, na ...",
             "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "G\u0142os Szczeci\u0144ski on MSN18 godz.",
-            "source": "G\u0142os Szczeci\u0144ski on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Masz te banknoty? To prawdziwe skarby! Za jeden mo\u017cesz otrzyma\u0107 kilka tysi\u0119cy z\u0142otych! [ZDJ\u0118CIA] 13.09.2025",
-            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/masz-te-banknoty-to-prawdziwe-skarby-za-jeden-mo%C5%BCesz-otrzyma%C4%87-kilka-tysi%C4%99cy-z%C5%82otych-zdj%C4%99cia-13092025/ar-AA1M682N?ocid=BingNewsVerp",
-            "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je przejrze\u0107, bo niekt\u00f3re warte s\u0105 obecnie naprawd\u0119 sporo. Kolekcjonerzy p\u0142ac\u0105 ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stare+monety",
-            "date": "G\u0142os Szczeci\u0144ski on MSN18 godz.",
+            "date": "G\u0142os Szczeci\u0144ski on MSN21 godz.",
             "source": "G\u0142os Szczeci\u0144ski on MSN",
             "article_content": ""
         }
@@ -138,7 +122,7 @@
             "description": "Je\u015bli my\u015blisz, \u017ce wszystkie monety z PRL s\u0105 warte tylko kilka groszy, to jeste\u015b w b\u0142\u0119dzie. Istniej\u0105 konkretne egzemplarze, kt\u00f3re na aukcjach internetowych potrafi\u0105 osi\u0105ga\u0107 osza\u0142amiaj\u0105ce ceny \u2013 nawet ...",
             "image_url": "https://www.bing.plNo image",
             "category": "stare+monety",
-            "date": "G\u0142os Pomorza on MSN19 godz.",
+            "date": "G\u0142os Pomorza on MSN22 godz.",
             "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
         }
@@ -149,14 +133,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Stare telefony kom\u00f3rkowe, kt\u00f3re dzi\u015b s\u0105 warte fortun\u0119. Masz takie? 13.09.2025",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/stare-telefony-kom%C3%B3rkowe-kt%C3%B3re-dzi%C5%9B-s%C4%85-warte-fortun%C4%99-masz-takie-13-09-2025/ar-AA1Hsewg?ocid=BingNewsVerp",
-            "description": "W erze superszybkich smartfon\u00f3w z potr\u00f3jnymi aparatami, ekranami AMOLED i sztuczn\u0105 inteligencj\u0105 na pok\u0142adzie, ma\u0142o kto ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.s8a06NQK8uMYX7RftG-MRS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Masz te banknoty? To prawdziwe skarby! Za jeden mo\u017cesz otrzyma\u0107 kilka tysi\u0119cy z\u0142otych! [ZDJ\u0118CIA] 13.09.2025",
+            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/masz-te-banknoty-to-prawdziwe-skarby-za-jeden-mo%C5%BCesz-otrzyma%C4%87-kilka-tysi%C4%99cy-z%C5%82otych-zdj%C4%99cia-13092025/ar-AA1M682N?ocid=BingNewsVerp",
+            "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je przejrze\u0107, bo niekt\u00f3re warte s\u0105 obecnie naprawd\u0119 sporo. Kolekcjonerzy p\u0142ac\u0105 ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "G\u0142os Pomorza on MSN19 godz.",
-            "source": "G\u0142os Pomorza on MSN",
+            "date": "G\u0142os Szczeci\u0144ski on MSN21 godz.",
+            "source": "G\u0142os Szczeci\u0144ski on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Trzy medale papie\u017ca Paw\u0142a II odkryto na Placu Weneckim",
+            "link": "https://www.onet.pl/informacje/vatican-news/trzy-medale-papieza-pawla-ii-odkryto-na-placu-weneckim/c5sd3nc,0666d3f1",
+            "description": "Trzy medale z wizerunkiem papie\u017ca Paw\u0142a II z XV wieku znaleziono podczas budowy stacji metra przy rzymskim Placu Weneckim.",
+            "image_url": "https://www.bing.pl/th?id=OVFT.K0QQGMb0LWo2qSEGkBkOcC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "Onet18 godz.",
+            "source": "Onet",
+            "article_content": "Du\u017co czytania, a ma\u0142o czasu? Sprawd\u017a skr\u00f3t artyku\u0142u\n\nBudowa stacji metra linii C przy Placu Weneckim jest jednocze\u015bnie wielkim stanowiskiem archeologicznym. Jak informuje w\u0142oskie Ministerstwo Kultury, w\u0142a\u015bnie podczas prac wykopaliskowych, prowadzonych przez Specjaln\u0105 Dyrekcj\u0119 Archeologiczn\u0105 w Rzymie odnaleziono gliniany dzbanek, zawieraj\u0105cy trzy br\u0105zowe medale pami\u0105tkowe z 1465 roku. Przedstawiaj\u0105 one wizerunek papie\u017ca Paw\u0142a II, kt\u00f3ry zleci\u0142 budow\u0119 kompleksu Pa\u0142acu Weneckiego oraz s\u0105siedniego Palazzetto, powsta\u0142ego w 1467 roku.\n\nPoznaj kontekst z AI Gdzie znaleziono medale papie\u017ca Paw\u0142a II?\n\nZ jakiego wieku pochodz\u0105 medale?\n\nCo przedstawiaj\u0105 medale?\n\nJakie znaczenie ma odkrycie medali wed\u0142ug Ministerstwa Kultury?\n\nreklama\n\nPraktyki pami\u0105tkowe z epoki renesansu\n\n\"Odkrycie tych medali, prawdopodobnie ukrytych w momencie wznoszenia budynku, ukazuje nam praktyk\u0119 dobrego omen, zwi\u0105zan\u0105 z dzia\u0142alno\u015bci\u0105 budowlan\u0105 p\u00f3\u017anego XV wieku\" \u2013 wyja\u015bnia na stronie Ministerstwa Kultury Daniela Porro, Specjalna Konserwator Zabytk\u00f3w Rzymu. \"To niezwykle sugestywne, \u017ce odkrycia dokonano w\u0142a\u015bnie podczas trwaj\u0105cego Jubileuszu, poniewa\u017c daje nam ono okazj\u0119 do poszerzenia wiedzy o bardzo szczeg\u00f3lnym aspekcie \u017cycia codziennego i praktykach zwi\u0105zanych z tradycjami pami\u0105tkowymi, a mo\u017ce nawet przes\u0105dami, towarzysz\u0105cymi dzia\u0142alno\u015bci budowlanej papieskiego Rzymu w czasach renesansu\" \u2013 dodaje.\n\nStara tradycja\n\nJak informuje Ministerstwo Kultury, Palazzetto Venezia zosta\u0142 przesuni\u0119ty na pocz\u0105tku XX wieku, aby umo\u017cliwi\u0107 budow\u0119 Placu Weneckiego i Vittoriano. W tamtym czasie archeolog Rodolfo Lanciani donosi\u0142 o podobnych znaleziskach, odkrytych podczas prac przy fundamentach Palazzo Venezia \u2013 zawieraj\u0105cych od trzech do pi\u0119ciu monet lub medali.\n\n\"Ukrywanie takich przedmiot\u00f3w w fundamentach du\u017cych i ma\u0142ych budynk\u00f3w \u2013 kontynuuje Marta Baumgartner, archeolog z Dyrekcji i kierownik naukowy wykopalisk \u2013 to praktyka dobrego omen o znacznie starszej tradycji, b\u0119d\u0105ca form\u0105 rytua\u0142u za\u0142o\u017cycielskiego zwi\u0105zanego ze wznoszeniem wa\u017cnych budowli, takich jak pa\u0142ace czy ko\u015bcio\u0142y. Ma ona swoje odpowiedniki r\u00f3wnie\u017c dzisiaj, nawet w zwyk\u0142ym budownictwie prywatnym\".\n\nNiezwyk\u0142e bogactwo historyczne Rzymu\n\nZdaniem Luigiego La Rocca, dyrektora Departamentu Ochrony w Ministerstwie Kultury wykopaliska na Placu Weneckim ujawni\u0142y ju\u017c wa\u017cne struktury z epoki rzymskiej, ale odkrycie tego ma\u0142ego skarbu ukrytego w fundamentach Palazzetto Venezia, opr\u00f3cz swojej warto\u015bci historycznej, kt\u00f3ra potwierdza dat\u0119 budowy kompleksu w 1467 roku, po raz kolejny pokazuje niezwyk\u0142\u0105 g\u0142\u0119bi\u0119 historycznej warstwowo\u015bci miasta."
         }
     },
     {
@@ -170,7 +170,7 @@
             "description": "Porcelana z czas\u00f3w PRL-u jest obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli posiadasz wazony, zastawy sto\u0142owe czy figurki z lat 60., 70. czy 80., warto przyjrze\u0107 si\u0119 i ...",
             "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN8 godz.",
+            "date": "Gazeta Pomorska on MSN11 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -186,9 +186,25 @@
             "description": "Wa\u0142brzyska Gie\u0142da Ceramiki i Porcelany 2025 trwa 13 wrze\u015bnia na terenie Starej Kopalni. Czwarta edycja wydarzenia pod has\u0142em \"Uroda kszta\u0142t\u00f3w i barw\" przyci\u0105gn\u0119\u0142a rekordow\u0105 liczb\u0119 odwiedzaj\u0105cych.",
             "image_url": "https://www.bing.pl/th?id=ODF.b7cDqWcxCJUoLca1qpYJLg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "Wa\u0142brzych Nasze Miasto on MSN7 godz.",
+            "date": "Wa\u0142brzych Nasze Miasto on MSN10 godz.",
             "source": "Wa\u0142brzych Nasze Miasto on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Rocznica Powstania Warszawskiego w \u017baganiu",
+            "link": "https://gazetalubuska.pl/tag/rocznica-powstania-warszawskiego-w-zaganiu",
+            "description": "Mieszka\u0144cy \u017bagania obchodzili w pi\u0105tek 1 sierpnia 2025, 81. rocznic\u0119 wybuchu Powstania Warszawskiego. Uroczysto\u015bci obywaj\u0105 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.3eoQtikE6G1i3Kek0VfuOS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "Gazeta Lubuska2 godz.",
+            "source": "Gazeta Lubuska",
+            "article_content": "Content not available"
         }
     },
     {
@@ -202,7 +218,7 @@
             "description": "W sobot\u0119, 13 wrze\u015bnia w Chmielnikach zn\u00f3w zapanowa\u0142 wyj\u0105tkowy klimat \u2013 nad jeziorem odby\u0142 si\u0119 cotygodniowy pchli targ, kt\u00f3ry ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.sdvBzKYLdGN4Hq4mIdlQEi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Bydgoszcz Nasze Miasto on MSN7 godz.",
+            "date": "Bydgoszcz Nasze Miasto on MSN10 godz.",
             "source": "Bydgoszcz Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -213,29 +229,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Kultowy sklep z kaw\u0105 w Krakowie. \"Wizyta tutaj to niedzielny rytua\u0142\". Pan Stanis\u0142aw od lat serwuje tu te\u017c pozytywny nastr\u00f3j",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/kultowy-sklep-z-kaw%C4%85-w-krakowie-wizyta-tutaj-to-niedzielny-rytua%C5%82-pan-stanis%C5%82aw-od-lat-serwuje-tu-te%C5%BC-pozytywny-nastr%C3%B3j/ar-AA1MqPqi?ocid=BingNewsVerp",
-            "description": "W niedzielne przedpo\u0142udnie ci\u0119\u017cko dosta\u0107 si\u0119 do \u015brodka. Ma\u0142y, niepozorny sklepik z kaw\u0105 w dniu gie\u0142dy staroci prze\u017cywa ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.N5WTCnrpcUwHtbfkE2nFMS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Pota\u0144c\u00f3wka 2025",
+            "link": "https://gazetawroclawska.pl/tag/potancowka-2025",
+            "description": "To ju\u017c ostatnia Wroc\u0142awska Pota\u0144c\u00f3wka w 2024 roku, a jej motywem przewodnim jest has\u0142o \u201eNiech \u017cyje bal!' W sobot\u0119 (7 wrze\u015bnia ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.-hbElLTfT5ufTMBp1lCNPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Krak\u00f3w Nasze Miasto on MSN21 godz.",
-            "source": "Krak\u00f3w Nasze Miasto on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Tak winobraniowi go\u015bcie oceniaj\u0105 nasze \u015bwi\u0119to. Co im si\u0119 u nas najbardziej podoba?",
-            "link": "https://gazetalubuska.pl/tak-winobraniowi-goscie-oceniaja-nasze-swieto-co-im-sie-u-nas-najbardziej-podoba/ar/c1p2-27962039",
-            "description": "Winobranie cieszy si\u0119 w\u015br\u00f3d turyst\u00f3w du\u017c\u0105 popularno\u015bci\u0105. Nie tylko winiarze i organizatorzy m\u00f3wi\u0105, \u017ce mamy wi\u0119cej go\u015bci ni\u017c w poprzednich latach. Jak nas widz\u0105, co im si\u0119 podoba a co nie? \u2013 ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.6oXJf1KayPglPY9d412pqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "targ+staroci",
-            "date": "Gazeta Lubuska11 godz.",
-            "source": "Gazeta Lubuska",
+            "date": "Gazeta Wroc\u0142awska12 min",
+            "source": "Gazeta Wroc\u0142awska",
             "article_content": "Content not available"
         }
     },
@@ -245,12 +245,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Pogo\u0144 KS UJ",
-            "link": "https://dziennikpolski24.pl/tag/pogon-ks-uj",
-            "description": "Nie by\u0142y faworytkami pi\u0142karki KS UJ Krak\u00f3w w wyjazdowej konfrontacji z Pogoni\u0105 Szczecin, a jednak pod Wa\u0142ami Chrobrego ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.4Jy1n8CZRo2PSjmlLIVOaS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Pras\u00f3wka 14.09.2025 - najwa\u017cniejsze wydarzenia. Przygotowali\u015bmy przegl\u0105d prasy z wczoraj",
+            "link": "https://dziennikpolski24.pl/prasowka-14-09-2025-najwazniejsze-wydarzenia-przygotowalismy-przeglad-prasy-z-wczoraj/ar/c1p1-19960929",
+            "description": "Na koniec letniego okienka Wieczysta Krak\u00f3w mia\u0142a przeprowadzi\u0107 hitowe transfery i przeprowadzi\u0142a. W poniedzia\u0142ek, 8 wrze\u015bnia 2025 r., do dru\u017cyny z Betclic 1. Ligi oficjalnie do\u0142\u0105czy\u0142 Miki Villar, ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.HjClkBco3nIXj5Su8fjgAg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Dziennik Polski9 godz.",
+            "date": "Dziennik Polski36 min",
             "source": "Dziennik Polski",
             "article_content": "Content not available"
         }
@@ -261,13 +261,29 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Wroclavia salon gier",
-            "link": "https://wroclaw.naszemiasto.pl/tag/wroclavia-salon-gier",
-            "description": "Wroc\u0142awska policja zatrzyma\u0142a trzy osoby podejrzewane o napad rabunkowy na pracownic\u0119 jednego z salon\u00f3w gier w rejonie ul.",
-            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Pota\u0144c\u00f3wka wroc\u0142aw 2025",
+            "link": "https://gazetawroclawska.pl/tag/potancowka-wroclaw-2025",
+            "description": "Fina\u0142 Ligi Konferencji 2025. Oko\u0142o po\u0142udnia na wroc\u0142awskim rynku kr\u00f3lowali fani Betisu. Po nocnych zamieszkach nie ma \u015bladu.",
+            "image_url": "https://www.bing.pl/th?id=OVFT.-hbElLTfT5ufTMBp1lCNPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Wroc\u0142aw Nasze Miasto15 godz.",
-            "source": "Wroc\u0142aw Nasze Miasto",
+            "date": "Gazeta Wroc\u0142awska43 min",
+            "source": "Gazeta Wroc\u0142awska",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Twierdza srebnra g\u00f3ra",
+            "link": "https://gazetawroclawska.pl/tag/twierdza-srebnra-gora",
+            "description": "Le\u015bne Sanatorium ksi\u0119\u017cnej Daisy w Wa\u0142brzychu by\u0142o niezwyk\u0142ym miejscem, kt\u00f3re w latach 20. XX wieku zapewnia\u0142o schronienie i ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.-hbElLTfT5ufTMBp1lCNPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "Gazeta Wroc\u0142awska32 min",
+            "source": "Gazeta Wroc\u0142awska",
             "article_content": "Content not available"
         }
     },
@@ -282,25 +298,9 @@
             "description": "Jest taki dowcip. Pyta rolnik rolnika: 'Czy podoba Ci si\u0119 moja 'osiemdziesi\u0105tka'? - A jest po 50-tce? - odpowiada zagadany - ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.NPiLsFkMo0v_6HUMuGhANy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Wiadomo\u015bci Rolnicze Polska17 godz.",
+            "date": "Wiadomo\u015bci Rolnicze Polska19 godz.",
             "source": "Wiadomo\u015bci Rolnicze Polska",
             "article_content": "Jest taki dowcip. Pyta rolnik rolnika: \u201cCzy podoba Ci si\u0119 moja \u201cosiemdziesi\u0105tka\u201d? \u2013 A jest po 50-tce? \u2013 odpowiada zagadany \u2013 Bo po dw\u00f3ch, to nawet bardzo\u201d. C\u00f3\u017c, Ursus C-358 mo\u017ce si\u0119 dzi\u015b podoba\u0107 nawet na trze\u017awo, ale czy w dzisiejszych czasach jest praktyczny? No i czy warto go dzi\u015b kupi\u0107?\n\nreklama\n\nreklama\n\nGdy w lipcu 1969 roku z hali Zak\u0142ad\u00f3w Mechanicznych Ursus wytoczy\u0142 si\u0119 pierwszy egzemplarz modelu C-385, \u00f3wczesna w\u0142adza ludowa mog\u0142a odtr\u0105bi\u0107 sukces. By\u0142o czym si\u0119 chwali\u0107.\n\nOto Polska Ludowa doczeka\u0142a si\u0119 \u201eci\u0119\u017ckiego\u201d ci\u0105gnika \u2013 maszyny, kt\u00f3ra mia\u0142a ora\u0107 hektary w PGR-ach, wyr\u0119cza\u0107 traktorzyst\u00f3w na pa\u0144stwowych polach i pokaza\u0107 Zachodowi, \u017ce nad Wis\u0142\u0105 te\u017c potrafimy robi\u0107 wielkie maszyny.\n\nreklama\n\nreklama\n\nTaka w\u0142adzy polityka \u2013 ci\u0105gnik nie dla rolnika\n\nJednak trzeba tu od razu co\u015b doda\u0107: zwyk\u0142y rolnik m\u00f3g\u0142 co najwy\u017cej popatrze\u0107 na niego z daleka, stoj\u0105c za p\u0142otem kombinatu. Nie dla niego by\u0142 nowy ci\u0105gnik. Dlaczego?\n\nreklama\n\nreklama\n\nPo pierwsze \u2013 cena. W czasach, gdy C-330 czy C-4011 by\u0142y szczytem marze\u0144 gospodarza, C-385 kosztowa\u0142 tyle, \u017ce m\u00f3g\u0142by sobie kupi\u0107 za to p\u00f3\u0142 wsi.\n\nPo drugie \u2013 brak rozdzielnika. Wi\u0119kszo\u015b\u0107 produkcji trafia\u0142a wprost do PGR-\u00f3w, SKR-\u00f3w czy innych instytucji pa\u0144stwowych. Tam ci\u0105gniki s\u0142u\u017cy\u0142y wszystkim i nikomu. A \u017ce o cudze si\u0119 nie dba, to wiadomo od wiek\u00f3w \u2013 \u017ce traktory zaje\u017cd\u017cano do granic mo\u017cliwo\u015bci.\n\nreklama\n\nreklama\n\nDopiero gdy pa\u0144stwowe gospodarstwa i zak\u0142ady wypluwa\u0142y je jako zu\u017cyty z\u0142om, maszyny trafia\u0142y na przetargi. I tu zaczyna si\u0119 druga m\u0142odo\u015b\u0107 \u201eosiemdziesi\u0105tki-pi\u0105tki\u201d.\n\nRolnicy indywidualni, kt\u00f3rzy zdobyli egzemplarz, nieraz rozbierali go do \u015brubki, prostowali, spawali, wymieniali i sk\u0142adali na nowo. Dzi\u0119ki temu niekt\u00f3re sztuki dotrwa\u0142y do dzi\u015b \u2013 a nawet dalej, bo wci\u0105\u017c mo\u017cna je spotka\u0107 na polach.\n\nZalety po pi\u0119\u0107dziesi\u0105tce\n\nTrzeba przyzna\u0107: jak na p\u00f3\u0142 wieku na karku, Ursus C-385 wci\u0105\u017c potrafi pokaza\u0107 charakter.\n\nProstota konstrukcji \u2013 \u017cadnych komputer\u00f3w, sensor\u00f3w, kabli CAN. Rolnik z podstawowym zestawem kluczy i m\u0142otkiem poradzi sobie z wi\u0119kszo\u015bci\u0105 usterek.\n\n\u2013 \u017cadnych komputer\u00f3w, sensor\u00f3w, kabli CAN. Rolnik z podstawowym zestawem kluczy i m\u0142otkiem poradzi sobie z wi\u0119kszo\u015bci\u0105 usterek. Moc \u2013 oko\u0142o 76\u201382 KM (a w wersji Turbo nawet ponad 100 KM) to wci\u0105\u017c si\u0142a, kt\u00f3ra uci\u0105gnie p\u0142ug czteroskibowy, rozrzutnik czy ci\u0119\u017csz\u0105 maszyn\u0119 uprawow\u0105.\n\n\u2013 oko\u0142o 76\u201382 KM (a w wersji Turbo nawet ponad 100 KM) to wci\u0105\u017c si\u0142a, kt\u00f3ra uci\u0105gnie p\u0142ug czteroskibowy, rozrzutnik czy ci\u0119\u017csz\u0105 maszyn\u0119 uprawow\u0105. Cz\u0119\u015bci zamienne \u2013 paradoksalnie \u0142atwiej dzi\u015b kupi\u0107 podzespo\u0142y do C-385 ni\u017c do wielu \u201enowoczesnych\u201d zachodnich traktor\u00f3w sprzed 20 lat.\n\n\u2013 paradoksalnie \u0142atwiej dzi\u015b kupi\u0107 podzespo\u0142y do C-385 ni\u017c do wielu \u201enowoczesnych\u201d zachodnich traktor\u00f3w sprzed 20 lat. Nostalgia i klimat \u2013 dla niekt\u00f3rych to pow\u00f3d najwa\u017cniejszy. Ten charakterystyczny warkot silnika, masywna sylwetka i \u015bwiadomo\u015b\u0107, \u017ce prowadzi si\u0119 kawa\u0142ek historii polskiej mechanizacji.\n\nWady, czyli trudy codzienno\u015bci Ursusa C-385\n\nNo dobrze, ale powiedzmy sobie szczerze: czas zrobi\u0142 swoje.\n\nZu\u017cycie \u2013 wi\u0119kszo\u015b\u0107 egzemplarzy ma za sob\u0105 \u017cycie \u201ena PGR-ze\u201d, a wi\u0119c bezlitosn\u0105 eksploatacj\u0119. Luzy w uk\u0142adzie kierowniczym, wyrobione biegi, wys\u0142u\u017cone mosty \u2013 to standard, nie wyj\u0105tek.\n\n\u2013 wi\u0119kszo\u015b\u0107 egzemplarzy ma za sob\u0105 \u017cycie \u201ena PGR-ze\u201d, a wi\u0119c bezlitosn\u0105 eksploatacj\u0119. Luzy w uk\u0142adzie kierowniczym, wyrobione biegi, wys\u0142u\u017cone mosty \u2013 to standard, nie wyj\u0105tek. Komfort pracy \u2013 w latach 70. kabina z ogrzewaniem i wentylacj\u0105 by\u0142a luksusem. Dzi\u015b ha\u0142as, wibracje i twarde siedzenie mog\u0105 skutecznie odebra\u0107 rado\u015b\u0107 z jazdy.\n\n\u2013 w latach 70. kabina z ogrzewaniem i wentylacj\u0105 by\u0142a luksusem. Dzi\u015b ha\u0142as, wibracje i twarde siedzenie mog\u0105 skutecznie odebra\u0107 rado\u015b\u0107 z jazdy. Spalanie \u2013 przy pe\u0142nym obci\u0105\u017ceniu ci\u0105gnik potrafi \u0142ykn\u0105\u0107 paliwo jak smok. O ekonomii w por\u00f3wnaniu do nowoczesnych Perkins\u00f3w czy Deutz\u00f3w nie ma co m\u00f3wi\u0107.\n\n\u2013 przy pe\u0142nym obci\u0105\u017ceniu ci\u0105gnik potrafi \u0142ykn\u0105\u0107 paliwo jak smok. O ekonomii w por\u00f3wnaniu do nowoczesnych Perkins\u00f3w czy Deutz\u00f3w nie ma co m\u00f3wi\u0107. Trudny start zim\u0105 \u2013 kto zna stare diesle, ten wie, \u017ce rozruch w mrozie to czasem loteria, a grzanie p\u0142omieni\u00f3wk\u0105 nie zawsze rozwi\u0105zuje problem.\n\nUrsus C-385 dzi\u015b \u2013 narz\u0119dzie czy eksponat?\n\nCzy wi\u0119c C-385 po pi\u0119\u0107dziesi\u0119ciu latach to jeszcze pe\u0142noprawny ci\u0105gnik rolniczy? Odpowied\u017a brzmi: i tak, i nie.\n\nTak \u2013 bo w wielu gospodarstwach wci\u0105\u017c pracuje, jako ci\u0105gnik pomocniczy, czasem do ci\u0119\u017cszych prac polowych, albo jako rezerwowy w sezonie \u017cniwnym.\n\n\u2013 bo w wielu gospodarstwach wci\u0105\u017c pracuje, jako ci\u0105gnik pomocniczy, czasem do ci\u0119\u017cszych prac polowych, albo jako rezerwowy w sezonie \u017cniwnym. Nie \u2013 bo zachowane w dobrym stanie egzemplarze coraz cz\u0119\u015bciej trafiaj\u0105 nie na pole, a na\u2026 wystawy zabytkowych traktor\u00f3w. Pasjonaci restauruj\u0105 je z pietyzmem, traktuj\u0105c jak relikty epoki PRL.\n\nWarto kupi\u0107 dzi\u015b Ursusa C-385 czy nie?\n\nJe\u015bli szukasz taniego \u017ar\u00f3d\u0142a mocy, nie boisz si\u0119 remont\u00f3w i masz sentyment do \u201e\u017celaznych\u201d maszyn \u2013 C-385 wci\u0105\u017c mo\u017ce by\u0107 niez\u0142ym wyborem. Ale je\u015bli liczysz na komfort, oszcz\u0119dno\u015b\u0107 paliwa i wygod\u0119 rodem z XXI wieku \u2013 lepiej zainwestowa\u0107 w co\u015b m\u0142odszego.\n\nTak czy inaczej \u2013 C-385 to kawa\u0142 historii, kt\u00f3ry uczy nas, \u017ce w czasach, gdy w sklepach brakowa\u0142o wszystkiego, a maszyny trafia\u0142y g\u0142\u00f3wnie do pa\u0144stwowych instytucji, rolnik musia\u0142 czeka\u0107, kombinowa\u0107 i ratowa\u0107, co si\u0119 da\u0142o.\n\nA \u017ce niekt\u00f3re z tych ci\u0105gnik\u00f3w wci\u0105\u017c je\u017cd\u017c\u0105 \u2013 to najlepszy dow\u00f3d, \u017ce in\u017cynierowie z Ursusa i Brna jednak wiedzieli, co robi\u0105.\n\nNa co zwr\u00f3ci\u0107 uwag\u0119 przy zakupie Ursusa C-385?\n\n1. Silnik\n\nSprawd\u017a czy odpala na zimno bez wspomagania (p\u0142omieni\u00f3wka, hol).\n\nZwr\u00f3\u0107 uwag\u0119 na dymienie \u2013 niebieski dym to olej, czarny przy lekkim obci\u0105\u017ceniu oznacza zu\u017cycie wtrysk\u00f3w lub turbospr\u0119\u017carki (je\u015bli Turbo).\n\nPos\u0142uchaj pracy \u2013 stukanie mo\u017ce zdradza\u0107 zu\u017cycie panewek.\n\n2. Skrzynia bieg\u00f3w\n\nWrzucaj kolejno biegi \u2013 zgrzyty i wypadanie prze\u0142o\u017ce\u0144 to oznaka powa\u017cnego zu\u017cycia.\n\nSprawd\u017a czy reduktor dzia\u0142a p\u0142ynnie.\n\n3. Tylny most i podno\u015bnik\n\nSprawd\u017a szczelno\u015b\u0107 i luz na p\u00f3\u0142osiach.\n\nPodnie\u015b jak\u0105\u015b ci\u0119\u017ck\u0105 maszyn\u0119 (np. p\u0142ug) \u2013 je\u015bli opada szybko, pompa hydrauliczna lub/i rozdzielacz wymagaj\u0105 remontu.\n\n4. Uk\u0142ad kierowniczy i hamulce\n\nKierownica nie powinna mie\u0107 \u201ep\u00f3\u0142 obrotu luzu\u201d.\n\nHamulce cz\u0119sto s\u0105 niesprawne \u2013 sprawd\u017a przed zakupem, bo naprawa bywa kosztowna. Nie m\u00f3wi\u0105c o problemach na przegl\u0105dzie.\n\n5. Kabina i komfort\n\nObejrzyj stan ramy i mocowania \u2013 p\u0119kni\u0119cia to cz\u0119sty problem.\n\nUszczelki i drzwi? Ha\u0142as w kabinie zawsze b\u0119dzie du\u017cy, ale mo\u017cesz sprawdzi\u0107, czy da si\u0119 go cho\u0107 troch\u0119 ograniczy\u0107.\n\nSprawd\u017a stan zawieszenia kabiny.\n\n6. Historia ci\u0105gnika\n\nJe\u015bli to egzemplarz po PGR-ze, z automatu licz si\u0119 z wi\u0119kszym zu\u017cyciem.\n\nMasz szcz\u0119\u015bcie, gdy kupujesz od rolnika indywidualnego, kt\u00f3ry w ostatnich latach dba\u0142 o sprz\u0119t po zakupie z przetargu.\n\nRada ko\u0144cowa: lepiej kupi\u0107 dro\u017csz\u0105, zadban\u0105 sztuk\u0119 ni\u017c ta\u0144szego \u201etrupa\u201d, kt\u00f3ry poch\u0142onie drugie tyle na remonty.\n\nA Ty jak my\u015blisz \u2013 Ursus C-385 to wci\u0105\u017c ko\u0144 roboczy, czy ju\u017c muzealny klasyk?\n\nPodzielcie si\u0119 waszym zdaniem."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Betonowe bunkry i ruiny w \u015brodku lasu na stoku D\u0142u\u017cyny w G\u00f3rach Wa\u0142brzyskich. Co tutaj by\u0142o?",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/betonowe-bunkry-i-ruiny-w-%C5%9Brodku-lasu-na-stoku-d%C5%82u%C5%BCyny-w-g%C3%B3rach-wa%C5%82brzyskich-co-tutaj-by%C5%82o/ar-AA1MtImx?ocid=BingNewsVerp",
-            "description": "Pod\u0105\u017caj\u0105cy szlakami G\u00f3r Wa\u0142brzyskich w stron\u0119 Borowej i Wo\u0142owca przechodz\u0105 przez D\u0142u\u017cyn\u0119 (685 m n.p.m.). W drodze do tutejszej platformy widokowej natrafiaj\u0105 na betonowy kompleks i pojedyncze \"bunkry\" ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.b7cDqWcxCJUoLca1qpYJLg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "relikty",
-            "date": "Wa\u0142brzych Nasze Miasto on MSN10 godz.",
-            "source": "Wa\u0142brzych Nasze Miasto on MSN",
-            "article_content": ""
         }
     },
     {
@@ -314,7 +314,7 @@
             "description": "Znana warszawiakom zabytkowa barka z Portu Praskiego doszcz\u0119tnie sp\u0142on\u0119\u0142a w nocy z soboty na niedziel\u0119. Zabytkowa kamienica ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Warszawa Nasze Miasto4 godz.",
+            "date": "Warszawa Nasze Miasto7 godz.",
             "source": "Warszawa Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -330,7 +330,7 @@
             "description": "O tym, czym r\u00f3\u017cni\u0142o si\u0119 Zakopane od Katowic. O tym, jak (nie) dosta\u0107 si\u0119 na architektur\u0119 w Krakowie dzi\u0119ki ojcu bryd\u017cy\u015bcie. O francuskich inspiracjach katowickiej architektury i o tym, jak powstawa\u0142y ...",
             "image_url": "https://www.bing.pl/th?id=ODF.waTvG9_emdLbHMzcAnsfoA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Katowice Nasze Miasto on MSN7 godz.",
+            "date": "Katowice Nasze Miasto on MSN10 godz.",
             "source": "Katowice Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -341,13 +341,61 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Trasy na rower do 128 km od Sieradza. Podpowiedzi jednodniowych wypraw. Gdzie w weekend 13 - 14 wrze\u015bnia?",
-            "link": "https://sieradz.naszemiasto.pl/trasy-na-rower-do-128-km-od-sieradza-podpowiedzi-jednodniowych-wypraw-gdzie-w-weekend-13-14-wrzesnia/ar/c7p1-21831603",
-            "description": "Zanim wyruszysz w tras\u0119, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 13 wrze\u015bnia w Sieradzu ma by\u0107 18\u00b0C. Prawdopodobie\u0144stwo wyst\u0105pienia deszczu wynosi 91%. W niedziel\u0119 14 wrze\u015bnia w Sieradzu ma by\u0107 17\u00b0C.",
-            "image_url": "https://www.bing.pl/th?id=ODF.2znMXsinn_2JLbFa36URyA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Betonowe bunkry i ruiny w \u015brodku lasu na stoku D\u0142u\u017cyny w G\u00f3rach Wa\u0142brzyskich. Co tutaj by\u0142o?",
+            "link": "https://www.msn.com/pl-pl/podroze/og%C3%B3lne/betonowe-bunkry-i-ruiny-w-%C5%9Brodku-lasu-na-stoku-d%C5%82u%C5%BCyny-w-g%C3%B3rach-wa%C5%82brzyskich-co-tutaj-by%C5%82o/ar-AA1MtMCJ?ocid=BingNewsVerp",
+            "description": "Pod\u0105\u017caj\u0105cy szlakami G\u00f3r Wa\u0142brzyskich w stron\u0119 Borowej i Wo\u0142owca przechodz\u0105 przez D\u0142u\u017cyn\u0119 (685 m n.p.m.). W drodze do ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.09gLRl_XIn1XouyOw6faky&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Sieradz Nasze Miasto12 godz.",
-            "source": "Sieradz Nasze Miasto",
+            "date": "Wa\u0142brzych Nasze Miasto on MSN14 godz.",
+            "source": "Wa\u0142brzych Nasze Miasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pras\u00f3wka 14.09.2025 - wydarzenia dnia, podsumowanie z wczoraj - sprawd\u017a, czy nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego",
+            "link": "https://gazetawroclawska.pl/prasowka-14-09-2025-wydarzenia-dnia-podsumowanie-z-wczoraj-sprawdz-czy-nie-minelo-cie-nic-waznego/ar/c1p1-19960895",
+            "description": "W sobot\u0119 (13 wrze\u015bnia) Tor Wrotkarski na Nowym Dworze zamieni\u0142 si\u0119 w centrum sportowej zabawy. Przez ca\u0142y dzie\u0144 trwa tam czwarta edycja festynu Spartan-Skate, podczas kt\u00f3rego mo\u017cna zobaczy\u0107 mi\u0119dzy ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.p9YO103MXreScWBGsL62IA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "zabytkowe+przedmioty",
+            "date": "Gazeta Wroc\u0142awska36 min",
+            "source": "Gazeta Wroc\u0142awska",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pras\u00f3wka 14.09.2025 - najwa\u017cniejsze wydarzenia. Przygotowali\u015bmy przegl\u0105d prasy z wczoraj",
+            "link": "https://dziennikpolski24.pl/prasowka-14-09-2025-najwazniejsze-wydarzenia-przygotowalismy-przeglad-prasy-z-wczoraj/ar/c1p1-19960929",
+            "description": "Na koniec letniego okienka Wieczysta Krak\u00f3w mia\u0142a przeprowadzi\u0107 hitowe transfery i przeprowadzi\u0142a. W poniedzia\u0142ek, 8 wrze\u015bnia 2025 r., do dru\u017cyny z Betclic 1. Ligi oficjalnie do\u0142\u0105czy\u0142 Miki Villar, ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.HjClkBco3nIXj5Su8fjgAg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "zabytkowe+przedmioty",
+            "date": "Dziennik Polski36 min",
+            "source": "Dziennik Polski",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Przegl\u0105d prasy 14.09.2025. Przygotowali\u015bmy zestaw najwa\u017cniejszych informacji z wczoraj. B\u0105d\u017a na bie\u017c\u0105co z wydarzeniami",
+            "link": "https://gazetakrakowska.pl/przeglad-prasy-14-09-2025-przygotowalismy-zestaw-najwazniejszych-informacji-z-wczoraj-badz-na-biezaco-z-wydarzeniami/ar/c1p1-19960891",
+            "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 13.09. Sprawd\u017a, czy nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego. Czy czyta\u0142e\u015b artyku\u0142: \u201ePe\u0142ne trybuny, g ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.XL5bGs_n6w06Ok0ARb1y3Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "zabytkowe+przedmioty",
+            "date": "Gazeta Krakowska36 min",
+            "source": "Gazeta Krakowska",
             "article_content": "Content not available"
         }
     },
@@ -362,7 +410,7 @@
             "description": "Wakacje w tym popularnym w\u015br\u00f3d turyst\u00f3w z Polski kraju mog\u0105 zako\u0144czy\u0107 si\u0119 dramatycznie. Pieni\u0105dze, dowody to\u017csamo\u015bci, karty ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.xdcIRlfbHVQp1DDsdv8dBC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Biznes w INTERIA.PL1 godz.",
+            "date": "Biznes w INTERIA.PL4 godz.",
             "source": "Biznes w INTERIA.PL",
             "article_content": "We W\u0142oszech uwa\u017caj na z\u0142odziei! Pilnuj swoich dokument\u00f3w, rzeczy warto\u015bciowych i pieni\u0119dzy...\n\nWakacje we W\u0142oszech mog\u0105 zako\u0144czy\u0107 si\u0119 nieprzyjemn\u0105 niespodziank\u0105. Ostrze\u017cenie wydane przez polsk\u0105 ambasad\u0119 w Italii dotyczy wszystkich najcz\u0119\u015bciej odwiedzanych przez Polak\u00f3w miejsc, a wi\u0119c Wenecji, Florencji, Mediolanu i wielu, wielu innych \"obowi\u0105zkowych\" cel\u00f3w wycieczek z Polski.\n\nJednak szczeg\u00f3lnie nara\u017ceni na kradzie\u017c mo\u017cemy by\u0107 w Rzymie. Co wa\u017cne, dodatkowy alert skierowany jest do w\u0142a\u015bcicieli samochod\u00f3w, kt\u00f3rzy - w wakacyjnej euforii i przyp\u0142ywie naiwno\u015bci potrafi\u0105 pozostawi\u0107 zaparkowany pojazd, a w jego wn\u0119trzu warto\u015bciowe przedmioty. Takie zachowanie to ju\u017c pewna \"recepta\" na k\u0142opoty. W du\u017cych o\u015brodkach turystycznych we W\u0142oszech dzia\u0142aj\u0105 wyspecjalizowane grupy \"trudni\u0105ce\" si\u0119 okradaniem aut.\n\nWakacje we W\u0142oszech mog\u0105 zako\u0144czy\u0107 si\u0119 kradzie\u017c\u0105: \"Okradanych Polak\u00f3w mamy na pot\u0119g\u0119\"\n\n- Okradanych Polak\u00f3w mamy na pot\u0119g\u0119 - przekazali przedstawiciele polskich s\u0142u\u017cb konsularnych we W\u0142oszech. Bardzo cz\u0119sto pracownicy udzielaj\u0105 pomocy tym, kt\u00f3rzy wraz z pieni\u0119dzmi trac\u0105 dokumenty to\u017csamo\u015bci: paszporty i dowody osobiste.\n\nPolacy cz\u0119sto je\u017cd\u017c\u0105cy do W\u0142och powinni ju\u017c by\u0107 oswojeni z zagro\u017ceniem. Od lat okradanie zagranicznych turyst\u00f3w w najcz\u0119\u015bciej odwiedzanych przez nich miejscach jest prawdziw\u0105 plag\u0105 i mimo wysi\u0142k\u00f3w s\u0142u\u017cb porz\u0105dkowych i wzmocnionych patroli policyjnych sytuacja nie poprawia si\u0119.\n\nPolacy okradani we W\u0142oszech. Gdzie trzeba szczeg\u00f3lnie uwa\u017ca\u0107?\n\nGdzie trzeba szczeg\u00f3lnie uwa\u017ca\u0107? Wyja\u015bnienia w\u0142oskiej policji czy cho\u0107by s\u0142u\u017c konsularnych nie pozostawiaj\u0105 w\u0105tpliwo\u015bci. Trzeba uwa\u017ca\u0107 wsz\u0119dzie i ca\u0142y czas!\n\nTury\u015bci, w tym wielu Polak\u00f3w, staj\u0105 si\u0119 celem kradzie\u017cy cz\u0119sto w metrze oraz w autobusach i w rejonie najwi\u0119kszych atrakcji turystycznych. Przyczyn\u0105 jest t\u0142ok w \u015brodkach komunikacji, ale tak\u017ce obni\u017cona czujno\u015b\u0107 w pobli\u017cu zabytk\u00f3w, gdy uwaga turyst\u00f3w skupiona jest na tym, co ogl\u0105daj\u0105 - alarmuj\u0105 s\u0142u\u017cby konsularne.\n\nUwaga na samochody we W\u0142oszech. Nie mo\u017cna w nich zostawia\u0107 warto\u015bciowych rzeczy\n\nOkradane s\u0105 tak\u017ce wynajmowane przez turyst\u00f3w samochody. Dlatego te\u017c apeluje si\u0119, by nic w nich nie zostawia\u0107.\n\nNa stronie ambasady RP we W\u0142oszech opublikowane jest ostrze\u017cenie: \"Uwa\u017caj na z\u0142odziei! Pilnuj swoich dokument\u00f3w, rzeczy warto\u015bciowych i pieni\u0119dzy. Nie trzymaj ich w jednym miejscu. W miejscach publicznych zawsze miej oko na swoj\u0105 torb\u0119 lub baga\u017c. Czasami wystarczy postawienie torby na chodniku lub \u0142awce, na kt\u00f3rej siedzisz, by zosta\u0107 okradzionym. Kradzie\u017ce w miejscach turystycznych zdarzaj\u0105 si\u0119 naprawd\u0119 cz\u0119sto\".\n\n\"Nie zostawiaj w samochodzie w widocznym miejscu \u017cadnych baga\u017cy ani toreb. W szczeg\u00f3lno\u015bci nie pozostawiaj w poje\u017adzie pieni\u0119dzy ani dokument\u00f3w. Je\u015bli baga\u017ce musz\u0105 zosta\u0107 na noc w samochodzie - zaparkuj w o\u015bwietlonym miejscu obj\u0119tym monitoringiem\" - ostrzega ambasada.\n\nOkradli ci\u0119 we W\u0142oszech? Szukaj posterunku Carabinieri\n\nDlatego wi\u0119c przed wakacjami we W\u0142oszech lepiej si\u0119 przygotowa\u0107 i zaopatrzy\u0107 chocia\u017cby w nerki na paskach, kt\u00f3re pozwol\u0105 nam nosi\u0107 wszystkie najwa\u017cniejsze dokumenty przy sobie ca\u0142y czas. \"Je\u017celi utracisz dokumenty lub padniesz ofiar\u0105 przest\u0119pstwa bezzw\u0142ocznie zg\u0142o\u015b spraw\u0119 na najbli\u017cszym posterunku karabinier\u00f3w (carabinieri) lub policji (polizia)\" - zaleca polska ambasada. Ostrze\u017cenie dla polskich turyst\u00f3w we W\u0142oszech znajduje si\u0119 pod TYM linkiem.\n\n***"
         }
@@ -378,57 +426,9 @@
             "description": "Badania na terenach niedaleko Kalisza (Wielkopolska) trwaj\u0105 od kilku lat. Archeolodzy wiedzieli wi\u0119c, \u017ce w jednym z miejsc mog\u0142a by\u0107 kiedy\u015b t\u0119tni\u0105ca \u017cyciem osada. Teraz znale\u017ali tam bi\u017cuteri\u0119 i monety ...",
             "image_url": "https://www.bing.pl/th?id=ODF.64zms-dqm9CeVRcHtHJOtA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "TVN2411 godz.",
+            "date": "TVN2413 godz.",
             "source": "TVN24",
             "article_content": "Znale\u017ali bi\u017cuteri\u0119 i monety sprzed ponad dw\u00f3ch tysi\u0119cy lat \u0179r\u00f3d\u0142o: TVN24\n\nPos\u0142uchaj artyku\u0142u Wykup subskrypcj\u0119 TVN24+, aby pos\u0142ucha\u0107 artyku\u0142u.\n\n\n\nMasz subskrypcj\u0119? Zaloguj si\u0119. Dowiedz si\u0119 wi\u0119cej Udost\u0119pnij Facebook Kopiuj link\n\nW polu, niedaleko Kalisza, badacze odkryli osad\u0119 z okresu wp\u0142yw\u00f3w rzymskich. Ze wzgl\u0119d\u00f3w bezpiecze\u0144stwa nie ujawniaj\u0105 dok\u0142adnej lokalizacji swoich prac. Archeolodzy znale\u017ali zabytki sprzed ponad dw\u00f3ch tysi\u0119cy lat - monety i bi\u017cuteri\u0119. Licz\u0105, \u017ce znajd\u0105 te\u017c elementy stroj\u00f3w, zapinki, dzi\u0119ki kt\u00f3rym okre\u015blenie daty istnienia osady b\u0119dzie dok\u0142adniejsze.\n\nJak m\u00f3wi archeolog dr Marcin \u0141awniczak, legion\u00f3w Cezara tam nie by\u0142o, ale \"kontakt z Rzymem by\u0142\".\n\nZnaleziony na miejscu denar \u0179r\u00f3d\u0142o: TVN24\n\n- Z pewno\u015bci\u0105 oni widzieli ten Rzym, wiedzieli, \u017ce on istnieje i importowali stamt\u0105d r\u00f3\u017cne rzeczy, na przyk\u0142ad monety i naczynia - opowiada. I dodaje: - Rzym sam importowa\u0142 z wybrze\u017cy Ba\u0142tyku, by\u0107 mo\u017ce przez ten region, bursztyn. Za\u0142o\u017ceniem tego, \u017ce na tych terenach mog\u0142o by\u0107 tak du\u017co ludzi, w okresie oko\u0142o dw\u00f3ch tysi\u0119cy lat temu, odpowiedzi\u0105 na to mo\u017ce by\u0107 fakt, \u017ce by\u0142 to wa\u017cny punkt na szlaku bursztynowym.\n\nZabytki trafi\u0105 do Izby Pami\u0119ci\n\nNa miejscu prace nadal trwaj\u0105. Wszystkie znalezione zabytki trafi\u0105, tak jak poprzednie, do Izby Pami\u0119ci w Nowych Skalmierzycach.\n\n- G\u0142\u00f3wnym przyczynkiem do powstania tej Izby by\u0142y badania archeologiczne, kt\u00f3re odby\u0142y si\u0119 w 2021 roku. Archeolodzy znale\u017ali wtedy bardzo ciekawe przedmioty z Rzymu - m\u00f3wi Aleksander Liebert, kierownik Referatu Kultury, Sportu oraz Promocji Gminy Nowe Skalmierzyce. I podkre\u015bla: - Wielkie muzea zajmuj\u0105 si\u0119 histori\u0105 narodu, a my w\u0142a\u015bciwie histori\u0105 rodzin.\n\nZnalezione zabytki trafiaj\u0105 do Izby Pami\u0119ci w Nowych Skalmierzycach Znalezione zabytki trafiaj\u0105 do Izby Pami\u0119ci w Nowych Skalmierzycach \u0179r\u00f3d\u0142o: TVN24 Znalezione zabytki trafiaj\u0105 do Izby Pami\u0119ci w Nowych Skalmierzycach \u0179r\u00f3d\u0142o: TVN24 Znalezione zabytki trafiaj\u0105 do Izby Pami\u0119ci w Nowych Skalmierzycach \u0179r\u00f3d\u0142o: TVN24 Znalezione zabytki trafiaj\u0105 do Izby Pami\u0119ci w Nowych Skalmierzycach \u0179r\u00f3d\u0142o: TVN24\n\nOGL\u0104DAJ: TVN24 HD"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Co dalej z Myszkami Molly w centrum Bydgoszczy? Wszcz\u0119to post\u0119powania w sprawie trzech figurek [14.09.2025]",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/co-dalej-z-myszkami-molly-w-centrum-bydgoszczy-wszcz%C4%99to-post%C4%99powania-w-sprawie-trzech-figurek-14-09-2025/ar-AA1Mswo3?ocid=BingNewsVerp",
-            "description": "Chodzi o trzy figurki, kt\u00f3re pojawi\u0142y si\u0119 na Starym Mie\u015bcie. W sprawie Myszek Molly stanowisko zaj\u0119li drogowcy i prezydent ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.pI3Zr90IgW0zEY6y6NE_BS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Express Bydgoski on MSN6 godz.",
-            "source": "Express Bydgoski on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Na pla\u017c\u0119 europa",
-            "link": "https://poranny.pl/tag/na-plaze-europa",
-            "description": "Polska jest coraz cz\u0119\u015bciej doceniana przez turyst\u00f3w z Zachodniej Europy, i to nie tylko za zabytki Krakowa czy Gda\u0144ska i ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.dbg2XfvSWHgonXZbUvUiLS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Kurier Poranny1 godz.",
-            "source": "Kurier Poranny",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "14 WRZE\u015aNIA 2025",
-            "link": "https://www.krakow.pl/kalendarium/1919,shw,2025-09-14,6,day.html",
-            "description": "Wystawa mie\u015bci si\u0119 w dawnym budynku administracyjnym Fabryki Emalia Oskara Schindlera przy ul. Lipowej 4 i jest opowie\u015bci\u0105 o Krakowie i losach jego polskich i \u017cydowskich mieszka\u0144c\u00f3w w czasie II wojny ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "zabytkowe+przedmioty",
-            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w3 godz.",
-            "source": "Oficjalny serwis miejski - Magiczny Krak\u00f3w",
-            "article_content": "Krak\u00f3w \u2013 czas okupacji 1939-1945\n\nWystawa mie\u015bci si\u0119 w dawnym budynku administracyjnym Fabryki Emalia Oskara Schindlera przy ul. Lipowej 4 i jest opowie\u015bci\u0105 o Krakowie i losach jego polskich i \u017cydowskich mieszka\u0144c\u00f3w w czasie II wojny \u015bwiatowej, ale te\u017c o Niemcach \u2013 okupantach,..."
         }
     },
     {
@@ -442,7 +442,7 @@
             "description": "To jedyny taki skarb. Najstarsza moneta w Polsce. Wybity przez Boles\u0142awa Chrobrego srebrny denar z lat 992-997, b\u0119d\u0105cy w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Toru\u0144 Nasze Miasto12 godz.",
+            "date": "Toru\u0144 Nasze Miasto14 godz.",
             "source": "Toru\u0144 Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -458,7 +458,7 @@
             "description": "Stare banknoty z czas\u00f3w PRL znajduj\u0105 si\u0119 wci\u0105\u017c w tysi\u0105cach dom\u00f3w. S\u0105 w starych szafach, piwnicach, na strychach - warto je przejrze\u0107, bo niekt\u00f3re warte s\u0105 obecnie naprawd\u0119 sporo. Kolekcjonerzy p\u0142ac\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Szczeci\u0144ski on MSN18 godz.",
+            "date": "G\u0142os Szczeci\u0144ski on MSN21 godz.",
             "source": "G\u0142os Szczeci\u0144ski on MSN",
             "article_content": ""
         }
@@ -474,25 +474,9 @@
             "description": "Je\u015bli my\u015blisz, \u017ce wszystkie monety z PRL s\u0105 warte tylko kilka groszy, to jeste\u015b w b\u0142\u0119dzie. Istniej\u0105 konkretne egzemplarze, kt\u00f3re na aukcjach internetowych potrafi\u0105 osi\u0105ga\u0107 osza\u0142amiaj\u0105ce ceny \u2013 nawet ...",
             "image_url": "https://www.bing.plNo image",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Pomorza on MSN19 godz.",
+            "date": "G\u0142os Pomorza on MSN22 godz.",
             "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Przegl\u0105d prasy (13.09.2025). Zobacz pras\u00f3wk\u0119 z najwa\u017cniejszymi wydarzeniami z wczoraj. B\u0105d\u017a na bie\u017c\u0105co",
-            "link": "https://nowosci.com.pl/przeglad-prasy-13-09-2025-zobacz-prasowke-z-najwazniejszymi-wydarzeniami-z-wczoraj-badz-na-biezaco/ar/c1p1-19960939",
-            "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 12.09. Sprawd\u017a, czy nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego. Czy czyta\u0142e\u015b artyku\u0142: \u201eKH Energa Toru\u0144 ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.csLl8ZFonfuC8KKWalWEGg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stare+numizmatyka",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski21 godz.",
-            "source": "Nowo\u015bci Dziennik Toru\u0144ski",
-            "article_content": "Content not available"
         }
     },
     {
@@ -506,8 +490,24 @@
             "description": "Wiele os\u00f3b pyta o stroiki i wie\u0144ce na groby swoich bliskich. Sprawdzili\u015bmy w kwiaciarniach, jakie wzory stroik\u00f3w mo\u017cna kupi\u0107 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "wykopano+zabytkowe",
-            "date": "Wroc\u0142aw Nasze Miasto18 godz.",
+            "date": "Wroc\u0142aw Nasze Miasto21 godz.",
             "source": "Wroc\u0142aw Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Dzie\u0144 pami\u0119ci star\u00f3wki 2025",
+            "link": "https://warszawa.naszemiasto.pl/tag/dzien-pamieci-starowki-2025",
+            "description": "W sobot\u0119 2 sierpnia 2025 odby\u0142 si\u0119 w Warszawie II Nightskating Powsta\u0144czy - nocny przejazd na rolkach ulicami miasta, kt\u00f3ry ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "odkrycie+zabytkowe+przedmiot",
+            "date": "Warszawa Nasze Miasto1 godz.",
+            "source": "Warszawa Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -522,24 +522,8 @@
             "description": "Czy akt lokacyjny Olsztyna, przyczyniaj\u0105cy si\u0119 do powstania obecnej stolicy wojew\u00f3dztwa warmi\u0144sko-mazurskiego nadano w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.tnCgfADtdC3kwdER2plOOS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Super Express on MSN20 godz.",
+            "date": "Super Express on MSN23 godz.",
             "source": "Super Express on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Odkryto tajemniczy przedmiot sprzed 3 tys. lat. S\u0142u\u017cy\u0142 staro\u017cytnej \u201epolicji'?",
-            "link": "https://www.msn.com/pl-pl/news/other/odkryto-tajemniczy-przedmiot-sprzed-3-tys-lat-s%C5%82u%C5%BCy%C5%82-staro%C5%BCytnej-policji/ar-AA1MtFqY?ocid=BingNewsVerp",
-            "description": "Staro\u017cytni Egipcjanie u\u017cywali nietypowego instrumentu \u2013 gwizdka wykonanego z ko\u015bci palca krowy. Nowe badania rzucaj\u0105 nowe ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.r3wiw7feMSMgdILgzZcpii&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "WPROST.pl on MSN12 godz.",
-            "source": "WPROST.pl on MSN",
             "article_content": ""
         }
     }
