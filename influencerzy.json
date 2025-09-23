@@ -10,7 +10,7 @@
             "description": "Targowisko miejskie przy ul. Kazimierza Sprawiedliwego w G\u0142ogowie znane jest w okolicy. Jeszcze dekad\u0119 temu by\u0142o jedno z wi\u0119kszych w regionie, dlatego w dni targowe zje\u017cd\u017ca\u0142o si\u0119 zar\u00f3wno wielu ...",
             "image_url": "https://www.bing.pl/th?id=ODF.FETt9HmhEdCeF1upvrR1eA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "G\u0142og\u00f3w Nasze Miasto5 godz.",
+            "date": "G\u0142og\u00f3w Nasze Miasto9 godz.",
             "source": "G\u0142og\u00f3w Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -21,13 +21,29 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Marcinkowskie spotkania folklorem",
-            "link": "https://echodnia.eu/swietokrzyskie/tag/marcinkowskie-spotkania-folklorem",
-            "description": "Osob\u00f3wka i ci\u0119\u017car\u00f3wka zderzy\u0142y si\u0119 we wtorek, 12 sierpnia po godzinie 12.30 na krajowej trasie numer 42 w W\u0105chocku w powiecie ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.OlAu1bnOzeBTIhhXx8Eu3y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "13 rowerowa pielgrzymka diecezji kieleckiej",
+            "link": "https://kielce.naszemiasto.pl/tag/13-rowerowa-pielgrzymka-diecezji-kieleckiej",
+            "description": "Wyj\u0105tkowy peleton ju\u017c w trasie. 13. Rowerowa Pielgrzymka Diecezji Kieleckiej na Jasn\u0105 G\u00f3r\u0119 dotrze do celu 23 sierpnia. Zobacz ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Echo Dnia1 min",
-            "source": "Echo Dnia",
+            "date": "Kielce Nasze Miasto1 godz.",
+            "source": "Kielce Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Psy do adopcji kielc",
+            "link": "https://kielce.naszemiasto.pl/tag/psy-do-adopcji-kielc",
+            "description": "26 sierpnia wszystkie pieski maj\u0105 swoje \u015bwi\u0119to. Tego w\u0142a\u015bnie tego dnia obchodzony jest Mi\u0119dzynarodowy Dzie\u0144 Psa. Pieski z ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Kielce Nasze Miasto2 godz.",
+            "source": "Kielce Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -42,7 +58,7 @@
             "description": "Znakomity argenty\u0144ski trener, kieruj\u0105cy obecnie siatkarsk\u0105 reprezentacj\u0105 Ukrainy, opowiada o polskiej mi\u0142o\u015bci do alkoholu, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.Msdv2j4-G5iVXnzrkBWXTC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Gazeta Wyborcza9 godz.",
+            "date": "Gazeta Wyborcza13 godz.",
             "source": "Gazeta Wyborcza",
             "article_content": ""
         }
@@ -53,12 +69,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Starachowice zespo\u0142y ludowe",
-            "link": "https://echodnia.eu/swietokrzyskie/tag/starachowice-zespoly-ludowe",
-            "description": "Oliwii Biniek z Rataj, w gminie W\u0105chock, uczennica II Liceum Og\u00f3lnokszta\u0142c\u0105cego w Starachowicach i Szko\u0142y Muzycznej II ...",
+            "title": "Marcinkowskie spotkania folklorem",
+            "link": "https://echodnia.eu/swietokrzyskie/tag/marcinkowskie-spotkania-folklorem",
+            "description": "Osob\u00f3wka i ci\u0119\u017car\u00f3wka zderzy\u0142y si\u0119 we wtorek, 12 sierpnia po godzinie 12.30 na krajowej trasie numer 42 w W\u0105chocku w powiecie ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.OlAu1bnOzeBTIhhXx8Eu3y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Echo Dnia1 godz.",
+            "date": "Echo Dnia3 godz.",
             "source": "Echo Dnia",
             "article_content": "Content not available"
         }
@@ -69,13 +85,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Prawdziwe PERE\u0141KI na D\u0105browskim Jarmarku Staroci! Zabytkowe meble, pami\u0105tki z PRL-u i \u015bwiatowe waluty...a to nie wszystko. Zobacz te ZDJ\u0118CIA",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/prawdziwe-pere%C5%82ki-na-d%C4%85browskim-jarmarku-staroci-zabytkowe-meble-pami%C4%85tki-z-prl-u-i-%C5%9Bwiatowe-walutya-to-nie-wszystko-zobacz-te-zdj%C4%99cia/ar-AA1N0HBs?ocid=BingNewsVerp",
-            "description": "W D\u0105browie G\u00f3rniczej, na sta\u0142e wpisa\u0142 si\u0119 w kalendarz wydarze\u0144, Jarmark Staroci, kt\u00f3ry w ka\u017cd\u0105 trzeci\u0105 niedziel\u0119 miesi\u0105ca ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.B3HHthKliN2BJq722ZSnzi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "D\u0105browa G\u00f3rnicza Nasze Miasto on MSN8 godz.",
-            "source": "D\u0105browa G\u00f3rnicza Nasze Miasto on MSN",
+            "title": "Taka 5 z\u0142ot\u00f3wka i inne monety s\u0105 w cenie z\u0142ota. Sprawd\u017a, ile mo\u017cna na nich zarobi\u0107! [24.09.2025]",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/taka-5-z%C5%82ot%C3%B3wka-i-inne-monety-s%C4%85-w-cenie-z%C5%82ota-sprawd%C5%BA-ile-mo%C5%BCna-na-nich-zarobi%C4%87-24092025/ar-AA1N7dxE?ocid=BingNewsVerp",
+            "description": "Kolekcjonerzy szukaj\u0105 monet z okresu PRL, ale nie tylko, gdy\u017c tak\u017ce monety starsze, a nawet te wsp\u00f3\u0142czesne mog\u0105 by\u0107 cenne.",
+            "image_url": "https://www.bing.pl/th?id=OVFT.iGvHMyM4IWuyTJGpACkQji&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "Gazeta Pomorska on MSN3 godz.",
+            "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
     },
@@ -90,23 +106,7 @@
             "description": "W 2025 roku kolekcjonerzy nadal intensywnie interesuj\u0105 si\u0119 starymi pieni\u0119dzmi z okresu Polskiej Rzeczpospolitej Ludowej. Ceny ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.3x8ae7evFyuFCIgViObT-i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Gazeta Pomorska on MSN59 min",
-            "source": "Gazeta Pomorska on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Taka 5 z\u0142ot\u00f3wka i inne monety s\u0105 w cenie z\u0142ota. Sprawd\u017a, ile mo\u017cna na nich zarobi\u0107!",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/taka-5-z%C5%82ot%C3%B3wka-i-inne-monety-s%C4%85-w-cenie-z%C5%82ota-sprawd%C5%BA-ile-mo%C5%BCna-na-nich-zarobi%C4%87/ar-AA1N7dxE?ocid=BingNewsVerp",
-            "description": "W naszych domach mog\u0105 si\u0119 kry\u0107 prawdziwe skarby. Warto przejrze\u0107 pud\u0142a ze starymi rzeczami, pami\u0105tkami, pawlacze i schowki, ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.HWzaOzIrx_ukoLz1Y0QaDC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "Gazeta Pomorska on MSN1 godz.",
+            "date": "Gazeta Pomorska on MSN4 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -122,8 +122,24 @@
             "description": "Je\u015bli my\u015blisz, \u017ce wszystkie monety z PRL s\u0105 warte tylko kilka groszy, to jeste\u015b w b\u0142\u0119dzie. Istniej\u0105 konkretne egzemplarze, kt\u00f3re na aukcjach internetowych potrafi\u0105 osi\u0105ga\u0107 osza\u0142amiaj\u0105ce ceny \u2013 nawet ...",
             "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "G\u0142os Pomorza7 godz.",
+            "date": "G\u0142os Pomorza11 godz.",
             "source": "G\u0142os Pomorza",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Takimi pieni\u0119dzy z portfela mo\u017cesz nie zap\u0142aci\u0107 ju\u017c w 2025 roku. Te banknoty trac\u0105 wa\u017cno\u015b\u0107 [24.09.2025]",
+            "link": "https://pomorska.pl/takimi-pieniedzy-z-portfela-mozesz-nie-zaplacic-juz-w-2025-roku-te-banknoty-traca-waznosc-24-09-2025/ar/c1p2-27972805",
+            "description": "Banknoty emitowane od 1995 roku, a tak\u017ce te z 2014 roku z od\u015bwie\u017conym wygl\u0105dem, s\u0105 pe\u0142noprawnym \u015brodkiem p\u0142atniczym. Obecnie w obiegu znajdziesz banknoty o nomina\u0142ach 10, 20, 50, 100, 200 i 500 ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stare+monety",
+            "date": "Gazeta Pomorska3 godz.",
+            "source": "Gazeta Pomorska",
             "article_content": "Content not available"
         }
     },
@@ -138,7 +154,7 @@
             "description": "Jad\u0105c do Japonii czy to w celach turystycznych, czy te\u017c biznesowych, warto zna\u0107 aktualny kurs jena (JPY). Z tego artyku\u0142u ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.vEp3OYPtpUEAcX-Ut3RAeC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Business Insider Polska on MSN11 godz.",
+            "date": "Business Insider Polska on MSN15 godz.",
             "source": "Business Insider Polska on MSN",
             "article_content": ""
         }
@@ -149,28 +165,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Co naprawd\u0119 dzieje si\u0119 podczas kontroli bezpiecze\u0144stwa - fakty, mity i praktyczne wskaz\u00f3wki dla rzadko lataj\u0105cych",
-            "link": "https://www.wirtualnygarwolin.pl/artykul/21267,co-naprawde-dzieje-sie-podczas-kontroli-bezpieczenstwa-fakty-mity-i-praktyczne-wskazowki-dla-rzadko-latajacych",
-            "description": "Dla os\u00f3b, kt\u00f3re lataj\u0105 rzadko, kontrola bezpiecze\u0144stwa na lotnisku cz\u0119sto bywa momentem stresuj\u0105cym. Zdarza si\u0119, \u017ce ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.3dlu8wf7UvvPgBUnz0oKQi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "Wirtualny Garwolin22 godz.",
-            "source": "Wirtualny Garwolin",
-            "article_content": "Istota i cel kontroli bezpiecze\u0144stwa\n\nG\u0142\u00f3wnym zadaniem kontroli bezpiecze\u0144stwa jest ochrona pasa\u017cer\u00f3w i za\u0142ogi w transporcie lotniczym. Nie jest to przeszkoda stworzona po to, aby uprzykrzy\u0107 \u017cycie podr\u00f3\u017cnym, lecz kluczowy element ca\u0142ego systemu. Na ca\u0142ym \u015bwiecie, a zw\u0142aszcza w krajach Unii Europejskiej, procedury zosta\u0142y ujednolicone i dzia\u0142aj\u0105 zgodnie ze wsp\u00f3lnymi standardami. Oznacza to, \u017ce gdziekolwiek polecimy, scenariusz kontroli b\u0119dzie bardzo podobny.\n\nNa tym etapie sprawdzany jest zar\u00f3wno baga\u017c rejestrowany, jak i baga\u017c podr\u0119czny oraz sam pasa\u017cer. Operator kontroli bezpiecze\u0144stwa wykorzystuje urz\u0105dzenia rentgenowskie, skanery czy bramki wykrywaj\u0105ce metal. Czasem pojawiaj\u0105 si\u0119 te\u017c dodatkowe testy, na przyk\u0142ad w kierunku materia\u0142\u00f3w wybuchowych. Warto podkre\u015bli\u0107, \u017ce nikt nie robi tego \u201edla zasady\u201d - ca\u0142y proces powsta\u0142 po to, by eliminowa\u0107 realne zagro\u017cenia.\n\nJak wygl\u0105da kontrola krok po kroku?\n\nScenariusz wed\u0142ug kt\u00f3rego przebiega kontrola bezpiecze\u0144stwa na lotnisku zawsze przebiega podobnie. Najpierw nale\u017cy podej\u015b\u0107 do odpowiedniego stanowiska i przygotowa\u0107 sw\u00f3j baga\u017c do prze\u015bwietlenia. Do plastikowych tacek wk\u0142adamy torb\u0119, kurtk\u0119 lub inne okrycie, a tak\u017ce wszystkie wi\u0119ksze urz\u0105dzenia elektroniczne: laptopy, tablety. Telefony kom\u00f3rkowe mog\u0105 pozosta\u0107 w torbie podr\u0119cznej. Do osobnej torebki powinny trafi\u0107 p\u0142yny w butelkach do 100 ml - w\u0142o\u017cone do przezroczystej kosmetyczki, by operator m\u00f3g\u0142 je szybko obejrze\u0107. Wi\u0119cej szczeg\u00f3\u0142\u00f3w na temat kontroli znajdziemy na stronie https://lotniska.net/blog/kontrola-bezpieczenstwa-na-lotnisku-jak-wyglada/\n\nKolejnym krokiem jest przej\u015bcie przez bramk\u0119. Z kieszeni trzeba wyj\u0105\u0107 przedmioty metalowe: monety, klucze, a tak\u017ce pasek z metalow\u0105 klamr\u0105 czy zegarek. Je\u015bli co\u015b \u201ewywo\u0142a\u201d sygna\u0142, osoba odpowiedzialna za kontrol\u0119 mo\u017ce poprosi\u0107 o dodatkowe sprawdzenie. To wszystko trwa zazwyczaj kilka minut, o ile jeste\u015bmy dobrze przygotowani.\n\nFakty i mity o przedmiotach zabronionych\n\nW przesz\u0142o\u015bci naros\u0142o wiele przekona\u0144, kt\u00f3re nie maj\u0105 wiele wsp\u00f3lnego z rzeczywisto\u015bci\u0105. Najpopularniejszy mit m\u00f3wi, \u017ce nie wolno przewozi\u0107 \u017cadnych p\u0142yn\u00f3w. Prawda jest taka, \u017ce mo\u017cna, lecz w ma\u0142ych pojemnikach i w odpowiedniej torebce. Podobnie wygl\u0105da kwestia lek\u00f3w - wbrew obawom s\u0105 one dozwolone, tak\u017ce w formie p\u0142ynnej. Dobrze jednak mie\u0107 przy sobie recept\u0119 lub za\u015bwiadczenie, je\u015bli wybieramy si\u0119 w d\u0142u\u017csz\u0105 podr\u00f3\u017c.\n\nInny mit g\u0142osi, \u017ce drobna bi\u017cuteria zawsze uruchamia bramk\u0119. W praktyce nowoczesne systemy s\u0105 w stanie ignorowa\u0107 niewielkie elementy, a problem pojawia si\u0119 raczej przy wi\u0119kszych, metalowych cz\u0119\u015bciach garderoby. Spotka\u0107 mo\u017cna si\u0119 r\u00f3wnie\u017c z przekonaniem, \u017ce dzieci przechodz\u0105 inn\u0105 kontrol\u0119. To nieprawda - procedura jest identyczna, cho\u0107 obs\u0142uga podchodzi do najm\u0142odszych z wi\u0119ksz\u0105 cierpliwo\u015bci\u0105.\n\nKomfort i przygotowanie pasa\u017cera\n\nWarto pami\u0119ta\u0107, \u017ce to, jak si\u0119 przygotujemy, znacz\u0105co skraca czas sp\u0119dzony przy stanowisku. Lepiej spakowa\u0107 kosmetyki i elektronik\u0119 tak, aby \u0142atwo je wyj\u0105\u0107, ni\u017c w po\u015bpiechu szuka\u0107 ich przy ta\u015bmie. Str\u00f3j r\u00f3wnie\u017c ma znaczenie. Buty na wysokiej podeszwie czy z metalowymi elementami mog\u0105 wymaga\u0107 zdj\u0119cia, dlatego w podr\u00f3\u017cy najlepiej sprawdzaj\u0105 si\u0119 wygodne, proste modele. Lu\u017ane kieszenie, brak nadmiaru bi\u017cuterii i spokojne nastawienie to przepis na szybkie przej\u015bcie.\n\nNiekt\u00f3rzy pasa\u017cerowie przechodz\u0105 kontrol\u0119 w napi\u0119ciu, gdy tymczasem ca\u0142a procedura to czysta rutyna. Je\u015bli sprawdzana osoba wsp\u00f3\u0142pracuje i s\u0142ucha wskaz\u00f3wek, ca\u0142o\u015b\u0107 przebiega sprawnie i bez zb\u0119dnych emocji.\n\nCzas i organizacja\n\nWielu pasa\u017cer\u00f3w przyznaje, \u017ce kontrola bywa najbardziej czasoch\u0142onnym punktem odprawy. Po pierwsze - same czynno\u015bci zabieraj\u0105 kilka minut. Po drugie - najwi\u0119kszym wyzwaniem s\u0105 kolejki, kt\u00f3re w szczycie sezonu potrafi\u0105 ci\u0105gn\u0105\u0107 si\u0119 przez kilkadziesi\u0105t metr\u00f3w. Dlatego zaleca si\u0119 przybycie na lotnisko z du\u017cym zapasem: na lot europejski co najmniej dwie godziny, a w przypadku po\u0142\u0105cze\u0144 mi\u0119dzykontynentalnych nawet trzy.\n\nNiekt\u00f3re porty lotnicze oferuj\u0105 specjalne przej\u015bcia Fast Track, kt\u00f3re pozwalaj\u0105 omin\u0105\u0107 d\u0142u\u017csze kolejki. To opcja dodatkowo p\u0142atna, ale w sezonie wakacyjnym cz\u0119sto ratuje podr\u00f3\u017cnych od stresu i patrzenia nerwowo na zegarek. Obsada punkt\u00f3w kontrolnych stara si\u0119 pracowa\u0107 jak najsprawniej, ale czasem po prostu liczba pasa\u017cer\u00f3w jest tak du\u017ca, \u017ce cierpliwo\u015b\u0107 okazuje si\u0119 najcenniejszym \u201ebaga\u017cem\u201d.\n\nDodatkowa kontrola w punkcie kontroli bezpiecze\u0144stwa - kiedy i dlaczego?\n\nCzasami przychodzi moment, kiedy zostajemy wytypowani do dodatkowej kontroli. Nie oznacza to wcale, \u017ce zrobili\u015bmy co\u015b \u017ale. Cz\u0119sto takie sprawdzenie ma charakter losowy. Mo\u017ce to by\u0107 szybkie sprawdzenie odzie\u017cy przez pracownika tej samej p\u0142ci albo dok\u0142adniejsze przejrzenie baga\u017cu podr\u0119cznego.\n\nTaka akcja trwa zwykle kilka minut i ko\u0144czy si\u0119 od razu po wyja\u015bnieniu w\u0105tpliwo\u015bci. Wa\u017cne, by zachowa\u0107 spok\u00f3j i pami\u0119ta\u0107, \u017ce r\u00f3wnie\u017c tutaj chodzi o nasze bezpiecze\u0144stwo. Dodatkowa kontrola to element codziennej pracy systemu, a nie sygna\u0142, \u017ce pasa\u017cer zrobi\u0142 co\u015b podejrzanego.\n\nR\u00f3\u017cnice mi\u0119dzy lotniskami i krajami\n\nChocia\u017c scenariusz jest podobny, poszczeg\u00f3lne kraje i porty lotnicze mog\u0105 r\u00f3\u017cni\u0107 si\u0119 szczeg\u00f3\u0142ami. W Polsce i wi\u0119kszo\u015bci kraj\u00f3w UE nie ma obowi\u0105zku zdejmowania obuwia. Mo\u017ce mie\u0107 to miejsce sporadycznie tylko na polecenie obs\u0142ugi. Warto w tym miejscu, doda\u0107, \u017ce dopiero w lipcu 2025 roku w USA zniesiono obowi\u0105zek zdejmowania obuwia podczas kontroli. Wsp\u00f3\u0142czesna technologia u\u0142atwia \u017cycie zar\u00f3wno s\u0142u\u017cbom odpowiedzialnych za bezpiecze\u0144stwo, jak i samym pasa\u017cerom. Zdarza si\u0119, \u017ce kontrola w pozaeuropejskich krajach jest bardziej szczeg\u00f3\u0142owa i wieloetapowa.\n\nNowo\u015bci\u0105 staj\u0105 si\u0119 skanery 3D, kt\u00f3re nie s\u0105 jeszcze standardem we wszystkich portach lotniczych. Wprowadzane s\u0105 stopniowo np. w Wielkiej Brytanii, Holandii, cz\u0119\u015bciowo w Niemczech. Ppzwalaj\u0105 przewozi\u0107 p\u0142yny w wi\u0119kszych butelkach, bez konieczno\u015bci ich pakowania do osobnych torebek. To znak, \u017ce procedury zmieniaj\u0105 si\u0119 wraz z rozwojem technologii. Warto wi\u0119c przed podr\u00f3\u017c\u0105 sprawdzi\u0107 aktualne zasady obowi\u0105zuj\u0105ce w miejscu wylotu - wtedy nie zaskoczy nas \u017caden dodatkowy wym\u00f3g.\n\nPodsumowanie\n\nCho\u0107 dla wielu pasa\u017cer\u00f3w kontrola bezpiecze\u0144stwa wydaje si\u0119 stresuj\u0105cym etapem podr\u00f3\u017cy, w praktyce jest to rutynowa procedura maj\u0105ca na celu ochron\u0119 wszystkich os\u00f3b korzystaj\u0105cych z transportu lotniczego. Znajomo\u015b\u0107 zasad od pakowania p\u0142yn\u00f3w i urz\u0105dze\u0144 elektronicznych, przez zdj\u0119cie okrycia czy wyj\u0119cie kluczy i monet, a\u017c po spokojne podej\u015bcie do ewentualnej dodatkowej kontroli pozwala przej\u015b\u0107 przez ten etap bez nerw\u00f3w. Warto pami\u0119ta\u0107, \u017ce im lepiej przygotujemy si\u0119 wcze\u015bniej, tym szybciej i sprawniej pokonamy ten obowi\u0105zkowy punkt na lotnisku. Dzi\u0119ki temu ca\u0142a podr\u00f3\u017c zaczyna si\u0119 spokojniej, a my, zamiast stresu mo\u017cemy cieszy\u0107 si\u0119 perspektyw\u0105 kolejnej przygody.\n\nMateria\u0142 zewn\u0119trzny"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Stara porcelana z PRL bije rekordy. Kolekcjonerzy nadal poluj\u0105 na te naczynia, wazony i figurki [23.09.2025]",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/stara-porcelana-z-prl-bije-rekordy-kolekcjonerzy-nadal-poluj%C4%85-na-te-naczynia-wazony-i-figurki-23092025/ar-AA1L6ze7?ocid=BingNewsVerp",
-            "description": "Porcelana z czas\u00f3w PRL-u jest obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli posiadasz wazony, zastawy sto\u0142owe czy figurki z lat 60., 70. czy 80., warto przyjrze\u0107 si\u0119 i ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Stara porcelana z PRL bije rekordy. Kolekcjonerzy nadal poluj\u0105 na te naczynia, wazony i figurki [24.09.2025]",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/stara-porcelana-z-prl-bije-rekordy-kolekcjonerzy-nadal-poluj%C4%85-na-te-naczynia-wazony-i-figurki-24092025/ar-AA1L6ze7?ocid=BingNewsVerp",
+            "description": "Porcelana z czas\u00f3w PRL-u jest obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli posiadasz wazony ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.aNLFaN7X2zhMLt81xmM8kS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN23 godz.",
+            "date": "Gazeta Pomorska on MSN3 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -186,7 +186,7 @@
             "description": "Targowisko miejskie przy ul. Kazimierza Sprawiedliwego w G\u0142ogowie znane jest w okolicy. Jeszcze dekad\u0119 temu by\u0142o jedno z wi\u0119kszych w regionie, dlatego w dni targowe zje\u017cd\u017ca\u0142o si\u0119 zar\u00f3wno wielu ...",
             "image_url": "https://www.bing.pl/th?id=ODF.FETt9HmhEdCeF1upvrR1eA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "G\u0142og\u00f3w Nasze Miasto5 godz.",
+            "date": "G\u0142og\u00f3w Nasze Miasto9 godz.",
             "source": "G\u0142og\u00f3w Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -202,7 +202,7 @@
             "description": "W D\u0105browie G\u00f3rniczej, na sta\u0142e wpisa\u0142 si\u0119 w kalendarz wydarze\u0144, Jarmark Staroci, kt\u00f3ry w ka\u017cd\u0105 trzeci\u0105 niedziel\u0119 miesi\u0105ca ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.B3HHthKliN2BJq722ZSnzi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "D\u0105browa G\u00f3rnicza Nasze Miasto on MSN8 godz.",
+            "date": "D\u0105browa G\u00f3rnicza Nasze Miasto on MSN12 godz.",
             "source": "D\u0105browa G\u00f3rnicza Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -218,7 +218,7 @@
             "description": "Gie\u0142da Staroci Pchli Targ przy Centrum Handlowym M1 odbywa si\u0119 w ka\u017cd\u0105 niedziel\u0119 w godzinach od 6 do 14. Ka\u017cdy znajdzie tam ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.R5UQWsACZa1FLToeMIb0SC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Pozna\u0144 Nasze Miasto on MSN8 godz.",
+            "date": "Pozna\u0144 Nasze Miasto on MSN12 godz.",
             "source": "Pozna\u0144 Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -231,10 +231,10 @@
         "body": {
             "title": "W miejscu dawnego hotelu Ikar w Poznaniu powstaje Four Points by Sheraton. Otwarcie zaplanowano na 2026 rok. Zobaczcie zdj\u0119cia",
             "link": "https://www.msn.com/pl-pl/wiadomosci/polska/w-miejscu-dawnego-hotelu-ikar-w-poznaniu-powstaje-four-points-by-sheraton-otwarcie-zaplanowano-na-2026-rok-zobaczcie-zdj%C4%99cia/ar-AA1MaWov?ocid=BingNewsVerp",
-            "description": "Po d\u0142u\u017cszej przerwie wznowiono remont dawnego hotelu Ikar mieszcz\u0105cego si\u0119 przy ulicy Solnej w Poznaniu. Sp\u00f3\u0142ka PHH Hotele nale\u017c\u0105ca do Grupy Kapita\u0142owej Polskiego Holdingu Hotelowego wybra\u0142a nowego ge ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.Cya7j59Rws2Si6qfmk5ljw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "description": "Po d\u0142u\u017cszej przerwie wznowiono remont dawnego hotelu Ikar mieszcz\u0105cego si\u0119 przy ulicy Solnej w Poznaniu. Sp\u00f3\u0142ka PHH Hotele ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.1Ep5ohXOuUocYuivkZ2Qwi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Pozna\u0144 Nasze Miasto on MSN7 godz.",
+            "date": "Pozna\u0144 Nasze Miasto on MSN12 godz.",
             "source": "Pozna\u0144 Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -245,13 +245,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Bia\u0142ystok. Towar przeceniony o po\u0142ow\u0119! Rabatowy wtorek w Sklepie Pod Wiatrakiem [ZDJ\u0118CIA]",
-            "link": "https://bialystok.naszemiasto.pl/bialystok-towar-przeceniony-o-polowe-rabatowy-wtorek-w-sklepie-pod-wiatrakiem-zdjecia/ar/c3p2-27844057",
-            "description": "Sklep Pod Wiatrakiem przy ul. Boruty 19 w Bia\u0142ymstoku to bogactwo rozmaito\u015bci. Dzi\u015b rabatowy wtorek, wi\u0119c warto si\u0119 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.pGKnIUR10nKqs2iyJaFdIS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Odpady tekstylne",
+            "link": "https://poznan.naszemiasto.pl/tag/odpady-tekstylne",
+            "description": "Pozna\u0144ska Po-Dzielnia wprowadza drastyczne ograniczenia aby poradzi\u0107 sobie z nap\u0142ywem niskiej jako\u015bci ubra\u0144. Wielkie worki ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Bia\u0142ystok Nasze Miasto12 godz.",
-            "source": "Bia\u0142ystok Nasze Miasto",
+            "date": "Pozna\u0144 Nasze Miasto1 godz.",
+            "source": "Pozna\u0144 Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -263,10 +263,10 @@
         "body": {
             "title": "Sz\u00f3sty sezon prac archeologicznych na s\u0105deckim zamku przyni\u00f3s\u0142 prze\u0142omowe odkrycie. Odkopano XIII-wieczn\u0105 wie\u017c\u0119 zamkow\u0105",
             "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/sz%C3%B3sty-sezon-prac-archeologicznych-na-s%C4%85deckim-zamku-przyni%C3%B3s%C5%82-prze%C5%82omowe-odkrycie-odkopano-xiii-wieczn%C4%85-wie%C5%BC%C4%99-zamkow%C4%85/ar-AA1N96Du?ocid=BingNewsVerp",
-            "description": "Na wzg\u00f3rzu zamkowym w Nowym S\u0105czu trwa ju\u017c sz\u00f3sty sezon prac archeologicznych. Tegoroczne badania przynios\u0142y wyj\u0105tkowe odkrycie - relikty czwartej wie\u017cy zamkowej, kt\u00f3ra jak wskazuj\u0105 wst\u0119pne analizy ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.XL5bGs_n6w06Ok0ARb1y3Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "description": "Na wzg\u00f3rzu zamkowym w Nowym S\u0105czu trwa ju\u017c sz\u00f3sty sezon prac archeologicznych. Tegoroczne badania przynios\u0142y wyj\u0105tkowe ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.OJeHH9QaOGVuqF0yqdjqNS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Gazeta Krakowska on MSN1 godz.",
+            "date": "Gazeta Krakowska on MSN5 godz.",
             "source": "Gazeta Krakowska on MSN",
             "article_content": ""
         }
@@ -282,41 +282,9 @@
             "description": "Basteja Hioba, jeden z cenniejszych zachowanych fragment\u00f3w \u015bredniowiecznych fortyfikacji Wroc\u0142awia, zosta\u0142a w\u0142a\u015bnie ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.QMsb24oT1ZObsCCDT6lCOi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Onet3 godz.",
+            "date": "Onet7 godz.",
             "source": "Onet",
             "article_content": "\u2013 Podczas prac zabezpieczyli\u015bmy i wzmocnili\u015bmy konstrukcj\u0119 tego historycznego obiektu, uzupe\u0142nili\u015bmy ubytki, powsta\u0142y nowe schody, chodniki z drena\u017cem i trawniki. Odnowili\u015bmy te\u017c chodnik od alei S\u0142owackiego, a obok stan\u0119\u0142a makieta z br\u0105zu (1:100) i szklana tablica z ilustracj\u0105 dawnych mur\u00f3w obronnych miasta \u2013 m\u00f3wi prezydent Wroc\u0142awia Jacek Sutryk.\n\nPoznaj kontekst z AI Kiedy Basteja Hioba zosta\u0142a wyremontowana?\n\nIle pieni\u0119dzy przyznano na remont Bastei Hioba?\n\nGdzie dok\u0142adnie stoi Basteja Hioba?\n\nJakie zmiany wprowadzono podczas remontu Bastei Hioba?\n\nW ramach Rz\u0105dowego Programu Odbudowy Zabytk\u00f3w przyznano na remont tego historycznego obiektu ponad 1,6 mln z\u0142, kolejn\u0105 cz\u0119\u015b\u0107 kwoty na prace ratunkowe przy zabytku do\u0142o\u017cy\u0142o miasto i uda\u0142o si\u0119 pi\u0119knie odnowi\u0107 ten historyczny obiekt.\n\nBasteja Hioba stoi przy al. S\u0142owackiego przy Galerii Dominika\u0144skiej. Gdy j\u0105 budowano ponad 500 lat temu, w tym miejscu znajdowa\u0142o si\u0119 uj\u015bcie rzeki O\u0142awy do fosy miejskiej. Jest cz\u0119\u015bci\u0105 dawnych system\u00f3w obronnych miasta.\n\nPartner Strefa Miast Historyczny obiekt mo\u017cna ogl\u0105da\u0107 po p\u00f3\u0142nocnej stronie Galerii Dominika\u0144skiej\n\nTo najlepiej zachowany relikt obwarowa\u0144 Wroc\u0142awia prze\u0142omu \u015bredniowiecza i czas\u00f3w nowo\u017cytnych. Zachowane mury i strzelnice o uskokowych zaokr\u0105glonych o\u015bcie\u017cach stanowi\u0105 wyj\u0105tkowy przyk\u0142ad \u015bredniowiecznej architektury militarnej stolicy historycznego \u015al\u0105ska.\n\nreklama\n\n\u2013 Relikty umocnie\u0144 \u015bredniowiecznego Wroc\u0142awia na powierzchni s\u0105 nieliczne, dlatego tym bardziej cieszymy si\u0119, \u017ce zabezpieczyli\u015bmy ten ciekawy obiekt \u2013 komentuje prezydent Jacek Sutryk\n\nBasteja powsta\u0142a w 1486 r. i mia\u0142a za zadanie zabezpiecza\u0107 wp\u0142yw rzeki O\u0142awy do fosy miejskiej oraz os\u0142ania\u0107 fragmenty zewn\u0119trznego pasa fortyfikacji miasta. Fortyfikacja zosta\u0142a zniszczona i zabudowana w XIX w., kiedy wojska napoleo\u0144skie zdoby\u0142y miasto i Hieronim Bonaparte podj\u0105\u0142 decyzj\u0119 o zburzeniu mur\u00f3w. Na nowo ods\u0142oni\u0119ta by\u0142a dzi\u0119ki budowie nieistniej\u0105cego ju\u017c hotelu Panorama w 1967 r. Dzi\u0119ki \u00f3wczesnej interwencji profesora Edmunda Ma\u0142achowicza, kt\u00f3ry by\u0142 w\u00f3wczas konserwatorem zabytk\u00f3w, relikty jej zabezpieczono i pierwszy raz zrekonstruowano."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "\u015acie\u017cki nordic walking do 49 km od Koszalina. Urocze miejsca na kr\u00f3tk\u0105 tras\u0119 w weekend 27 - 28 wrze\u015bnia",
-            "link": "https://koszalin.naszemiasto.pl/sciezki-nordic-walking-do-49-km-od-koszalina-urocze-miejsca-na-krotka-trase-w-weekend-27-28-wrzesnia/ar/c7p1-22318903",
-            "description": "Reduta Morast - inaczej nazywana Redut\u0105 Bagienn\u0105, wybudowana w latach 1770-1774 na Wyspie Solnej, stanowi\u0142a w raz z Fortem Uj\u015bcie kluczowy punkt obrony portu i uj\u015bcia rzeki Pars\u0119ty. Wsp\u00f3\u0142cze\u015bnie ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.2lnLIQe5bnM9ixvXVTSDQg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "relikty",
-            "date": "Koszalin Nasze Miasto1 godz.",
-            "source": "Koszalin Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Pomys\u0142y na spacer w woj. zachodniopomorskim. Gdzie warto si\u0119 wybra\u0107 w weekend 27 - 28 wrze\u015bnia? Lista 10 tras",
-            "link": "https://gs24.pl/pomysly-na-spacer-w-woj-zachodniopomorskim-gdzie-warto-sie-wybrac-w-weekend-27-28-wrzesnia-lista-10-tras/ar/c7p1-22116477",
-            "description": "Nim wyruszysz, sprawd\u017a, jaka b\u0119dzie pogoda. W sobot\u0119 27 wrze\u015bnia w woj. zachodniopomorskim ma by\u0107 od 7\u00b0C do 17\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 28 wrze\u015bnia w woj. zachodniopomorskim ma by\u0107 od 7\u00b0C do ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "relikty",
-            "date": "G\u0142os Szczeci\u0144ski2 godz.",
-            "source": "G\u0142os Szczeci\u0144ski",
-            "article_content": "Content not available"
         }
     },
     {
@@ -330,9 +298,41 @@
             "description": "Kto nie s\u0142ysza\u0142 jeszcze o Cudach Polski? Od tygodni mi\u0142o\u015bnicy urzekaj\u0105cych, nieodkrytych miejsc w Polsce g\u0142osuj\u0105 na swoich ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.xndrT24XS-TPYOONmFrOPC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "National Geographic Polska on MSN3 godz.",
+            "date": "National Geographic Polska on MSN7 godz.",
             "source": "National Geographic Polska on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "\u015acie\u017cki nordic walking do 49 km od Koszalina. Urocze miejsca na kr\u00f3tk\u0105 tras\u0119 w weekend 27 - 28 wrze\u015bnia",
+            "link": "https://koszalin.naszemiasto.pl/sciezki-nordic-walking-do-49-km-od-koszalina-urocze-miejsca-na-krotka-trase-w-weekend-27-28-wrzesnia/ar/c7p1-22318903",
+            "description": "Reduta Morast - inaczej nazywana Redut\u0105 Bagienn\u0105, wybudowana w latach 1770-1774 na Wyspie Solnej, stanowi\u0142a w raz z Fortem Uj\u015bcie kluczowy punkt obrony portu i uj\u015bcia rzeki Pars\u0119ty. Wsp\u00f3\u0142cze\u015bnie ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.2lnLIQe5bnM9ixvXVTSDQg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "relikty",
+            "date": "Koszalin Nasze Miasto5 godz.",
+            "source": "Koszalin Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Nie tylko pieni\u0105dze",
+            "link": "https://wydarzenia.interia.pl/felietony/news-nie-tylko-pieniadze,nId,2428801",
+            "description": "Stratedzy ekonomiczni obecnej ekipy rz\u0105dz\u0105cej zdali sobie spraw\u0119, \u017ce szumnie zachwalany program budowy mieszka\u0144 na wynajem nie powiedzie si\u0119 bez ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.QNbwRCYYoWKzPucecngi8w&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "relikty",
+            "date": "Wydarzenia w INTERIA.PL1 godz.Opinion",
+            "source": "Wydarzenia w INTERIA.PL",
+            "article_content": "Ale nadmierna dotychczas ochrona lokator\u00f3w to nie jedyna przeszkoda stoj\u0105ca na drodze do rozwoju rynku wynajmu mieszka\u0144, ochrony i powi\u0119kszania zasob\u00f3w lokalowych oraz og\u00f3lnej poprawy sytuacji mieszkaniowej w Polsce. Polacy nie chc\u0105 mieszka\u0107 w wynajmowanych, lecz we w\u0142asnych. Powody tego tkwi\u0105 w kulturze, zatem nie ma mo\u017cliwo\u015bci zmiany tych sk\u0142onno\u015bci i nawyk\u00f3w samymi bod\u017acami materialnymi i regulacjami prawnymi.\n\nNajwy\u017cszy w Europie odsetek obywateli mieszkaj\u0105cych w lokalach wynajmowanych wykazuj\u0105 Austria, Szwajcaria, Niemcy i Dania. Poniewa\u017c to r\u00f3wnocze\u015bnie jedne z najbogatszych pa\u0144stw europejskich, zatem oczywiste jest, \u017ce nie bieda jest powodem niskiego u nich udzia\u0142u ludno\u015bci posiadaj\u0105cej mieszkania na w\u0142asno\u015b\u0107. S\u0105 to spo\u0142ecze\u0144stwa o g\u0142\u0119boko zakorzenionych tradycjach mieszcza\u0144skich, a w zakresie tych\u017ce mie\u015bci si\u0119 wynajmowanie lokum w mieszcza\u0144skich kamienicach i miejskich budynkach.\n\nPolacy, jak wiadomo, s\u0105 w przewa\u017caj\u0105cej wi\u0119kszo\u015bci pochodzenia ch\u0142opskiego i ukszta\u0142towani przez kultur\u0119 wiejsk\u0105. A na wsi nie mieszka si\u0119 w wynajmowanym, lecz swoim. W cudzym mieszkali tylko parobkowie. Polak czy Polka rozpoczynaj\u0105cy doros\u0142e \u017cycie, zw\u0142aszcza wchodz\u0105cy w zwi\u0105zek ma\u0142\u017ce\u0144ski, s\u0142ysz\u0105 wi\u0119c cz\u0119sto pytanie czy maj\u0105 ju\u017c mieszkanie i nie chodzi o to czy maj\u0105 gdzie mieszka\u0107, zatem czy ju\u017c co\u015b wynaj\u0119li.\n\nMieszkanie u kogo\u015b, w cudzym, wynajmowanym, wielu Polak\u00f3w uwa\u017ca nie tyko za uw\u0142aczaj\u0105ce, ale i nierozs\u0105dne. W\u0142a\u015bciciel traktowany jest jak wyzyskiwacz, a p\u0142acenie mu jak frajerstwo. Przecie\u017c te pieni\u0105dze mo\u017cna przeznaczy\u0107 na sp\u0142at\u0119 raty za kredyt hipoteczny zaci\u0105gni\u0119ty na kupno w\u0142asnego mieszkania. Nawet je\u015bli jego sp\u0142ata potrwa kilkadziesi\u0105t lat, a w tym czasie zostanie si\u0119 przywi\u0105zanym do zakupionego mieszkania jak niegdy\u015b ch\u0142op do ziemi.\n\nS\u0142abo w Polsce rozwini\u0119t\u0105 kultur\u0119 mieszcza\u0144sk\u0105, w tym kultur\u0119 najmu mieszka\u0144, podobnie jak wiele innych przymiot\u00f3w rozwini\u0119tej cywilizacji, zniszczy\u0142 socjalizm, g\u0142osz\u0105cy i uprawiaj\u0105cy doktrynaln\u0105 walk\u0119 z \"bur\u017cuazyjnymi prze\u017cytkami\". Tzw. szczeg\u00f3lny tryb najmu (przymusowe dokwaterowywanie lokator\u00f3w do mieszcza\u0144skich kamienic), administracyjne regulowanie czynsz\u00f3w, przydzielanie mieszka\u0144 po uwa\u017caniu w\u0142adzy, pseudosp\u00f3\u0142dzielczo\u015b\u0107 mieszkaniowa, potworna korupcja i inne patologie temu towarzysz\u0105ce, to dziedzictwo, z kt\u00f3rym trudno si\u0119 upora\u0107, a wci\u0105\u017c wp\u0142ywaj\u0105ce na stosunki mieszkaniowe w Polsce. To w\u0142a\u015bnie te patologie i liczne wci\u0105\u017c relikty socjalizmu - a nie tylko zaprowadzony po 1989 roku kult w\u0142asno\u015bci prywatnej, jak zarzucaj\u0105 lewicowcy - sprawiaj\u0105, \u017ce Polacy tak usilnie d\u0105\u017c\u0105 do posiadania w\u0142asnych mieszka\u0144. W rezultacie mamy jeden z najni\u017cszych w Europie wska\u017anik mieszka\u0144 przypadaj\u0105cych na liczb\u0119 obywateli, ale jeden z najwy\u017cszych odsetek mieszka\u0144 w\u0142asno\u015bciowych. Tylko 5 proc. Polak\u00f3w mieszka w wynajmowanych wolnorynkowo.\n\nPierwsze pytania jakie pad\u0142y po og\u0142oszeniu przez rz\u0105dz\u0105c\u0105 obecnie ekip\u0119 programu wsparcia budowy mieszka\u0144 na wynajem (pod szumn\u0105 nazw\u0105 \"mieszkanie+\") dotyczy\u0142y kryteri\u00f3w przydzielania takich mieszka\u0144, sposobu pozbywania si\u0119 lokator\u00f3w niep\u0142ac\u0105cych czynszu b\u0105d\u017a dewastuj\u0105cych przydzielony lokal, mo\u017cliwo\u015bci dziedziczenia prawa najmu oraz wykupu mieszkania na w\u0142asno\u015b\u0107. A wi\u0119c odzwierciedla\u0142y i ujawnia\u0142y najwa\u017cniejsze anomalie i patologie systemu mieszkaniowego w Polsce. U\u0142atwienie eksmisji \u0142agodzi tylko jedn\u0105 z nich.\n\nRozw\u00f3j budownictwa mieszkaniowego w naszym kraju jest wi\u0119c nie tylko problemem materialnym (dotycz\u0105cym \u017ar\u00f3de\u0142 finansowania), ale tak\u017ce kulturowym. Upowszechnienie kultury wynajmu mieszka\u0144 wymaga wsparcia w\u0142adz publicznych, ale nie materialnego, lecz prawnego. Stosunki najmu - ka\u017cdego, nie tylko tzw. instytucjonalnego - musz\u0105 by\u0107 klarowne i przejrzyste, a procedury proste i \u0142atwe. To wymaga wyeliminowania tych patologii i anomalii, kt\u00f3re pozosta\u0142y po komunizmie, a przez cz\u0119\u015b\u0107 \u015brodowisk lewicowych, stowarzyszenia lokatorskie czy niekt\u00f3rych aktywist\u00f3w miejskich s\u0105 kultywowane i bronione."
         }
     },
     {
@@ -346,7 +346,7 @@
             "description": "W D\u0105browie G\u00f3rniczej, na sta\u0142e wpisa\u0142 si\u0119 w kalendarz wydarze\u0144, Jarmark Staroci, kt\u00f3ry w ka\u017cd\u0105 trzeci\u0105 niedziel\u0119 miesi\u0105ca ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.B3HHthKliN2BJq722ZSnzi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "D\u0105browa G\u00f3rnicza Nasze Miasto on MSN8 godz.",
+            "date": "D\u0105browa G\u00f3rnicza Nasze Miasto on MSN12 godz.",
             "source": "D\u0105browa G\u00f3rnicza Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -357,14 +357,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "\"Z\u0142ote, a skromne\"? Gdzie tam! S\u0105 tu szmaragdy, per\u0142y, a wszystko ocieka z\u0142otem. Bezcenny skarb b\u0119dzie mo\u017cna zobaczy\u0107 we Wroc\u0142awiu",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/z%C5%82ote-a-skromne-gdzie-tam-s%C4%85-tu-szmaragdy-per%C5%82y-a-wszystko-ocieka-z%C5%82otem-bezcenny-skarb-b%C4%99dzie-mo%C5%BCna-zobaczy%C4%87-we-wroc%C5%82awiu/ar-AA1N9811?ocid=BingNewsVerp",
-            "description": "To jeden z najcenniejszych skarb\u00f3w odnalezionych w Europie w XX w. Od pa\u017adziernika do ko\u0144ca tego roku b\u0119dzie go mo\u017cna ogl\u0105da\u0107 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.WifwBSo4AYKnrNbLtZG-sS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Przez trzy wieki w szkolnej \u0142awie. Muzeum Historii Kielc opowie o najstarszej szkole",
+            "link": "https://radiokielce.pl/1341914/przez-trzy-wieki-w-szkolnej-lawie-muzeum-historii-kielc-opowie-o-najstarszej-szkole/",
+            "description": "To wyprawa przez wieki z histori\u0105 w tle i z niezwyk\u0142ymi postaciami. W Muzeum Historii Kielc powstaje nowa wystawa ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.CuWw1iS6q50jMUMkdgN7eC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Wroc\u0142awska on MSN19 min",
-            "source": "Gazeta Wroc\u0142awska on MSN",
-            "article_content": ""
+            "date": "Radio Kielce1 godz.",
+            "source": "Radio Kielce",
+            "article_content": "To wyprawa przez wieki z histori\u0105 w tle i z niezwyk\u0142ymi postaciami. W Muzeum Historii Kielc powstaje nowa wystawa zatytu\u0142owana: \u201eW szkolnej \u0142awie. 300 lat najstarszej szko\u0142y \u015bredniej w Kielcach\u201d.\n\nTrwaj\u0105ce trzy wieki dzieje plac\u00f3wki zosta\u0142y podzielone na mniejsze okresy. Za najstarszy odpowiada Bart\u0142omiej Tambor, kt\u00f3ry przypomina, \u017ce szko\u0142a zosta\u0142a otwarta w 1727 roku.\n\n\u2013 Oczywi\u015bcie historia zacz\u0119\u0142a si\u0119 wcze\u015bniej, kiedy pojawi\u0142y si\u0119 starania o to, by tak\u0105 szko\u0142\u0119 za\u0142o\u017cy\u0107. Akt erekcyjny podpisano w 1926 roku, st\u0105d mamy t\u0119 okr\u0105g\u0142\u0105 rocznic\u0119 300 lat, kt\u00f3r\u0105 w\u0142a\u015bnie obchodzimy m.in. w Muzeum Historii Kielc \u2013 zaznacza.\n\nDodaje, \u017ce by\u0142a to szko\u0142a prowadzona przez ksi\u0119\u017cy komunist\u00f3w.\n\n\u2013 Jej za\u0142o\u017cycielem by\u0142 biskup Konstanty Felicjan Szaniawski. Chcia\u0142, aby kszta\u0142ci\u0142a przysz\u0142ych kandydat\u00f3w do seminarium duchowego, kt\u00f3re r\u00f3wnie\u017c w\u00f3wczas zosta\u0142o powo\u0142ane w Kielcach. Wi\u0119kszo\u015b\u0107 uczni\u00f3w pochodzi\u0142a z rodzin ziemia\u0144skich, wywodz\u0105cych si\u0119 z okolicznej szlachty \u2013 zaznacza.\n\nSzko\u0142a mie\u015bci\u0142a si\u0119 przy dzisiejszej ulicy Jana Paw\u0142a II, w gmachu wybudowanym specjalnie w tym celu. Dzisiaj w tym miejscu swoj\u0105 siedzib\u0119 maj\u0105 Pedagogiczna Biblioteka Wojew\u00f3dzka oraz Muzeum Stefana \u017beromskiego.\n\n\u2013 Na tej cz\u0119\u015bci wystawy pokazane zostan\u0105 najstarsze druki zwi\u0105zane ze szko\u0142\u0105; ksi\u0105\u017cki, kt\u00f3re mog\u0142y pochodzi\u0107, a cz\u0119\u015b\u0107 pochodzi z dawnej biblioteczki gimnazjum, rzeczy zwi\u0105zane z nauczycielami oraz uczniami \u2013 zaznacza Bart\u0142omiej Tambor.\n\nZaproszenie do dawnej szko\u0142y\n\nPlac\u00f3wka przechodzi\u0142a r\u00f3\u017cne koleje losu.\n\n\u2013 Te zmiany nast\u0119powa\u0142y przez ca\u0142y XIX wiek. Wi\u0105za\u0142y si\u0119 z przemianami spo\u0142eczno-gospodarczo-politycznymi. Dzia\u0142a\u0142y tu m.in. Gimnazjum Wojew\u00f3dzkie (Gubernialne), Szko\u0142a Wy\u017csza Realna, Gimnazjum Klasyczne, M\u0119skie Gimnazjum Rz\u0105dowe, kt\u00f3re po odzyskaniu niepodleg\u0142o\u015bci przekszta\u0142ci\u0142o si\u0119 w Pa\u0144stwowe Gimnazjum m. Miko\u0142aja Reja, a w roku 1934 na wniosek samych uczni\u00f3w i grona nauczycielskiego przemianowano szko\u0142\u0119 i nadano jej imi\u0119 jednego z absolwent\u00f3w, czyli Stefana \u017beromskiego. Od tego czasu absolwenci tej szko\u0142y nazywaj\u0105 si\u0119 dumne \u201e\u017beromszczakami\u201d \u2013 wyja\u015bnia Marcin Kolasa.\n\nMarcin Kolasa zabierze widz\u00f3w do czas\u00f3w dwudziestolecia mi\u0119dzywojennego, zaprosi ich do wn\u0119trza sal dawnej szko\u0142y.\n\n\u2013 Zaczynamy od rekonstrukcji sali gimnastycznej, poniewa\u017c wychowanie fizyczne by\u0142o bardzo wa\u017cne w \u00f3wczesnej edukacji. Uczniowie pod okiem nauczycieli przygotowywali pokazy gimnastyczne, kt\u00f3re cieszy\u0142y si\u0119 du\u017cym zainteresowaniem kielczan. Mamy przedmioty zwi\u0105zane np. ze szkolnym klubem sportowym \u201eRejak\u201d z czas\u00f3w, kiedy szko\u0142a jeszcze nosi\u0142a imi\u0119 Miko\u0142aja Reja. Mamy medale zdobyte za osi\u0105gni\u0119cia sportowe, takie jak pchni\u0119cie kul\u0105, skok o tycze, czy bieg na dystansie 100 m \u2013 wymienia.\n\nB\u0119dzie pracownia prac r\u0119cznych i rysunku, gdzie pokazanych zostanie kilka obraz\u00f3w Czes\u0142awa Oberty\u0144skiego, czyli jednego z profesor\u00f3w.\n\nKolejn\u0105 sal\u0105 b\u0119dzie klasa lekcyjna, z takimi eksponatami, jak \u0142awka pochodz\u0105ca z dwudziestolecia mi\u0119dzywojennego. W du\u017cej, szklanej gablocie znajdzie si\u0119 stary mikroskop, preparaty mikroskopowe, oryginalny zielnik, liczne szklane fiolki, a dominowa\u0107 b\u0119dzie wielka, czarna tablica, po kt\u00f3rej pisa\u0142o si\u0119 kred\u0105.\n\nJak m\u00f3wi Marcin Kolasa, w klasie nie mog\u0142o zabrakn\u0105\u0107 wizerunk\u00f3w \u00f3wczesnych przyw\u00f3dc\u00f3w: J\u00f3zefa Pi\u0142sudskiego i prezydenta Ignacego Mo\u015bcickiego oraz herbu wz\u00f3r 29.\n\nPe\u0142ne wyzwa\u0144 tajne nauczanie\n\nZ kolei w czasy okupacji przeniesie Magdalena Lang-Trela. Jak m\u00f3wi, to by\u0142 trudny czas do pokazania na ekspozycji. Jak przedstawi\u0107 edukacj\u0119, kt\u00f3ra toczy\u0142a si\u0119 w warunkach konspiracji?\n\n\u2013 P\u0142ynnie przechodzimy przez oryginalne, zabytkowe drzwi do pokoju, jaki m\u00f3g\u0142 si\u0119 znajdowa\u0107 w wi\u0119kszo\u015bci mieszka\u0144 kielczan. To salonik, w kt\u00f3rym nie b\u0119dzie zbyt wielu obiekt\u00f3w muzealnych, cho\u0107 oczywi\u015bcie b\u0119d\u0105 meble z epoki, ale to, co b\u0119dzie najwa\u017cniejsze, b\u0119dzie ukryte. Zwiedzaj\u0105cy b\u0119dzie musia\u0142 odnale\u017a\u0107 wi\u0119kszo\u015b\u0107 informacji. B\u0119dzie musia\u0142 co\u015b odsun\u0105\u0107, otworzy\u0107, znale\u017a\u0107 tajn\u0105 skrytk\u0119, gdzie b\u0119d\u0105 ukryte wiadomo\u015bci o tym, jak nauczano, jak si\u0119 uczono, jakie to by\u0142o po\u015bwi\u0119cenie ze strony rodzic\u00f3w, m\u0142odzie\u017cy oraz nauczycieli \u2013 zaznacza.\n\nPrzypomniana zostanie historia sztandaru szko\u0142y, kt\u00f3ry zosta\u0142 uratowany, zanim Niemcy zaj\u0119li budynek plac\u00f3wki, wyja\u015bnione b\u0119dzie, co si\u0119 w tym czasie dzia\u0142o z budynkiem \u201e\u017beromskiego\u201d, ale te\u017c jak wygl\u0105da\u0142 system ostrzegania na tajnych kompletach, jak ukrywano materia\u0142y.\n\nCzasy powojenne\n\nZnajdzie si\u0119 r\u00f3wnie\u017c miejsce na pokazanie tego, co w szkole si\u0119 dzia\u0142o po II wojnie \u015bwiatowej. Jak m\u00f3wi Marcin Kolasa, w czasie PRL-u by\u0142y dwie postawy.\n\n\u2013 Niekt\u00f3rzy trwali w oporze, wierni przedwojennej tradycji, a niekt\u00f3rzy p\u0142yn\u0119li z nurtem nowej propagandy. Te postawy te\u017c b\u0119dziemy chcieli pokaza\u0107. Dominuj\u0105cym elementem w tej cz\u0119\u015bci wystawy b\u0119dzie g\u0142owa W\u0142odzimierza Lenina, kt\u00f3ra jest widocznym \u015bladem zmiany w \u017cyciu szko\u0142y. Tu r\u00f3wnie\u017c uda\u0142o nam si\u0119 zgromadzi\u0107 r\u00f3\u017cne druki, legitymacje, znaczki organizacji, kt\u00f3re w\u00f3wczas dzia\u0142a\u0142y w szkole. Tu te\u017c pokazujemy siermi\u0119\u017cno\u015b\u0107 tamtych czas\u00f3w, przejawiaj\u0105c\u0105 si\u0119 w wyposa\u017ceniu sal, jak i w do\u015b\u0107 nachalnej propagandzie, kt\u00f3ra si\u0119 pojawia\u0142a w podr\u0119cznikach czy lekturach. Jedn\u0105 z ksi\u0105\u017cek, z kt\u00f3rych korzystano na lekcjach muzyki, by\u0142y \u201ePie\u015bni o Stalinie\u201d \u2013 przywo\u0142uje.\n\nNa wystawie przedstawione zostan\u0105 sylwetki absolwent\u00f3w i grona pedagogicznego. To subiektywny wyb\u00f3r autor\u00f3w wystawy, ale za tymi nazwiskami cz\u0119sto stoj\u0105 jakie\u015b znacz\u0105ce dzia\u0142ania, albo te\u017c szczeg\u00f3lna pami\u0119\u0107 o nich. Marcin Kolasa zaznacza, \u017ce jedn\u0105 z takich os\u00f3b by\u0142 Jan Strasz, kt\u00f3ry si\u0119 przewija przez kilka rozdzia\u0142\u00f3w z \u017cycia \u201e\u017beromskiego\u201d.\n\n\u2013 Jan Strasz by\u0142 absolwentem rosyjskiego gimnazjum. Mamy jego zdj\u0119cie jako ucznia z prze\u0142omu XIX i XX wieku. W dwudziestoleciu mi\u0119dzywojennym. Po uko\u0144czeniu studi\u00f3w zosta\u0142 nauczycielem, w czasie okupacji dzia\u0142a\u0142 jako nauczyciel tajnego nauczania, a po wojnie przez kr\u00f3tki czas by\u0142 dyrektorem tej szko\u0142y. Jego losy zako\u0144czy\u0142y si\u0119 tragicznie. Jest przekaz, wed\u0142ug kt\u00f3rego zmuszano go, by wst\u0105pi\u0142 do partii, ale on odm\u00f3wi\u0142. Pozbawiono go wtedy stanowiska dyrektora, a poniewa\u017c by\u0142 ju\u017c cz\u0142owiekiem w wieku podesz\u0142ym jego serce nie wytrzyma\u0142o i zmar\u0142. By\u0142 to cz\u0142owiek bardzo zaanga\u017cowany w \u017cycie szko\u0142y. Uczy\u0142 fizyki i chemii. Z kolei jego \u017cona, Stefania uczy\u0142a \u0142aciny \u2013 wskazuje.\n\nNie tylko dla \u201e\u017beromszczak\u00f3w\u201d\n\nTych historii, ciekawych \u017cyciorys\u00f3w jest o wiele wi\u0119cej. Znanych absolwent\u00f3w b\u0119dzie mo\u017cna pozna\u0107 tak\u017ce w ostatniej cz\u0119\u015bci wystawy, po\u015bwi\u0119conej Stowarzyszeniu Absolwent\u00f3w Liceum Og\u00f3lnokszta\u0142c\u0105cego im. Stefana \u017beromskiego w Kielcach \u201e\u017beromszczacy\u201d.\n\nMagdalena Lang-Trela jako kurator i koordynator ekspozycji podkre\u015bla, \u017ce jest ona skierowana do ka\u017cdej osoby, nie tylko absolwenta Liceum Og\u00f3lnokszta\u0142c\u0105cego im. Stefana \u017beromskiego.\n\n\u2013 Ta wystawa nie jest laurk\u0105 zrobion\u0105 dla \u201e\u017beromszczak\u00f3w\u201d. Z tej szko\u0142y wszyscy kielczanie mog\u0105 by\u0107 dumni. Nie do\u015b\u0107, \u017ce najstarsza, to jeszcze wyda\u0142a wielu wybitnych absolwent\u00f3w, kt\u00f3rzy rozs\u0142awili nie tylko nasze miasto, ale i ca\u0142y kraj \u2013 zaznacza.\n\nKurator zwraca uwag\u0119 na spos\u00f3b prowadzenia narracji.\n\n\u2013 Tutaj zanurzymy si\u0119 w t\u0119 przesz\u0142o\u015b\u0107 wszystkimi zmys\u0142ami i emocjami. Wielu rzeczy b\u0119dzie mo\u017cna dotkn\u0105\u0107, wypr\u00f3bowa\u0107, jak co\u015b dzia\u0142a\u0142o, wi\u0119c to b\u0119dzie \u015bwietne miejsce dla dziadk\u00f3w czy rodzic\u00f3w z dzie\u0107mi. Jest te\u017c wirtualny przewodnik \u2013 to ch\u0142opiec, kt\u00f3ry porusza si\u0119 w czasie, w\u0142a\u015bciwie zawsze jest uczniem i ma na imi\u0119 Stefek. Wi\u0119c ta historia jest opowiadana z punktu widzenia m\u0142odego odbiorcy \u2013 podkre\u015bla.\n\nWystawa spe\u0142nia wymagania os\u00f3b ze szczeg\u00f3lnymi potrzebami. Mo\u017cna si\u0119 na niej porusza\u0107 na w\u00f3zku, jest przygotowana audiodeskrypcja, informacje s\u0105 dost\u0119pne w polskim j\u0119zyku migowym oraz w alfabecie Braille\u2019a.\n\nEkspozycja powsta\u0142a we wsp\u00f3\u0142pracy z I Liceum Og\u00f3lnokszta\u0142c\u0105cym im. Stefana \u017beromskiego w Kielcach oraz Stowarzyszeniem Absolwent\u00f3w Liceum Og\u00f3lnokszta\u0142c\u0105cego im. Stefana \u017beromskiego w Kielcach \u201e\u017beromszczacy\u201d. Jest cz\u0119\u015bci\u0105 obchod\u00f3w Jubileuszu 300-lecia I Liceum Og\u00f3lnokszta\u0142c\u0105cego im. Stefana \u017beromskiego.\n\nWernisa\u017c odb\u0119dzie si\u0119 w pi\u0105tek, 26 wrze\u015bnia, o godz. 17."
         }
     },
     {
@@ -378,7 +378,7 @@
             "description": "Zarzuci\u0142 w\u0119dk\u0119 i zamiast ryby wyci\u0105gn\u0105\u0142 bro\u0144 z XVII wieku Skarby mo\u017cna odnajdywa\u0107 na wiele sposob\u00f3w i nie zawsze wi\u0105\u017ce si\u0119 to z prac\u0105 archeolog\u00f3w na wykopaliskach. Czasem warto\u015bciowe z punktu widzenia ...",
             "image_url": "https://www.bing.pl/th?id=ODF.MBpsyBj36RbhUgA8g_KCng&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "GeekWeek w INTERIA.PL on MSN3 godz.",
+            "date": "GeekWeek w INTERIA.PL on MSN7 godz.",
             "source": "GeekWeek w INTERIA.PL on MSN",
             "article_content": ""
         }
@@ -394,7 +394,7 @@
             "description": "KIERMASH od lat gromadzi projektant\u00f3w i producent\u00f3w, kt\u00f3rzy stawiaj\u0105 na autorskie kolekcje, lokalne rzemios\u0142o i zr\u00f3wnowa\u017cone podej\u015bcie do zakup\u00f3w. To tak\u017ce okazja, by spotka\u0107 tw\u00f3rc\u00f3w osobi\u015bcie, ...",
             "image_url": "https://www.bing.pl/th?id=ODF.XL5bGs_n6w06Ok0ARb1y3Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Krakowska on MSN3 godz.",
+            "date": "Gazeta Krakowska on MSN7 godz.",
             "source": "Gazeta Krakowska on MSN",
             "article_content": ""
         }
@@ -405,14 +405,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Tajemniczy lud Etrusk\u00f3w. Kim byli i jak \u017cyli mieszka\u0144cy Etrurii?",
-            "link": "https://www.onet.pl/informacje/kronikidziejow-2/tajemniczy-lud-etruskow-kim-byli-i-jak-zyli-mieszkancy-etrurii/1hgjhyl,0666d3f1",
-            "description": "Etruskowie pojawili si\u0119 w \u015brodkowej Italii w wyniku migracji, oko\u0142o roku 1000 oraz, z drug\u0105 fal\u0105, oko\u0142o roku 800 p.n.e.",
-            "image_url": "https://www.bing.pl/th?id=OVFT.pbHg9PmgFKqLZiVsw7oxYy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Mikrotech sprzedaje biura w Kro\u015bnie",
+            "link": "https://www.propertynews.pl/biura/mikrotech-sprzedaje-biura-w-krosnie,192665.html",
+            "description": "Syndyk masy upad\u0142o\u015bciowej sp\u00f3\u0142ki Mikrotech og\u0142osi\u0142 przetarg na sprzeda\u017c nieruchomo\u015bci zlokalizowanej przy ul. Sk\u0142adowej 9 w ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.7AJhyLFLAGFXF94Ar9ngkC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Onet2 godz.",
-            "source": "Onet",
-            "article_content": "Onet Materia\u0142 archiwalny\n\nPortret Etrusk\u00f3w \u2013 jak wygl\u0105dali i jak \u017cyli mieszka\u0144cy Etrurii?\n\nBadania antropologiczne staro\u017cytnej ludno\u015bci nie s\u0105 proste. Etruskowie pocz\u0105tkowo spopielali swoich zmar\u0142ych, co jest charakterystyczn\u0105 cech\u0105 tzw. okresu kultury willanowia\u0144skiej (IX \u2013 VIII w. p.n.e.) W po\u0142owie VIII wieku p.n.e. rozpocz\u0119\u0142y si\u0119 poch\u00f3wki szkieletowe, dzi\u0119ki czemu naukowcy uzyskali dost\u0119p do materia\u0142\u00f3w badawczych. Portrety, w postaci zabytk\u00f3w figuralnych, tak\u017ce dostarczaj\u0105 wyobra\u017ce\u0144, jak mogli wygl\u0105da\u0107 przedstawiciele tajemniczego ludu Rasenna, jak nazywali sami siebie Etruskowie. Pokrywy sarkofag\u00f3w dekorowano rze\u017abami zmar\u0142ych os\u00f3b (od oko\u0142o VI w.p.n.e.) Znanym zabytkiem jest terakotowy sarkofag z Cerveteri, na kt\u00f3rym utrwalono ma\u0142\u017conk\u00f3w, spoczywaj\u0105cych obok siebie na \u0142o\u017cu, w czasie uczty pogrzebowej. M\u0119\u017cczyzna, o owalnej twarzy, okolonej brod\u0105, ma lekko sko\u015bne oczy i prosty nos. Obejmuje swoj\u0105 \u017con\u0119, kobiet\u0119 z misternie u\u0142o\u017conymi w\u0142osami, o greckich rysach twarzy. Etruskowie, zauroczeni sztuk\u0105 greck\u0105, pozostawili sw\u00f3j wizerunek, ukszta\u0142towany przez wp\u0142yw stylu jo\u0144skiego. Inne sarkofagi ukazuj\u0105 cz\u0119sto osoby pulchne, co mo\u017ce wskazywa\u0107 na zbytni\u0105 sk\u0142onno\u015b\u0107 mieszka\u0144c\u00f3w Etrurii, z okresu schy\u0142kowego, do ucztowania \u2014 np. nagrobek z San Guliano, ko\u0142o Viterbo lub sarkofag szlacheckiej rodziny Partunu z Tarkwinii. Dzi\u0119ki badaniom ustalono, i\u017c m\u0119\u017cczy\u017ani etruscy osi\u0105gali przeci\u0119tnie 164 cm wzrostu, natomiast kobiety \u2014 155 cm. M\u0119\u017cczy\u017ani do\u017cywali \u015brednio 41 lat, natomiast kobiety umiera\u0142y wcze\u015bniej, w wieku oko\u0142o 40 lat.\n\nPoznaj kontekst z AI Kiedy Etruskowie pojawili si\u0119 w Italii?\n\nJakie by\u0142y cechy charakterystyczne dla etruskiej cywilizacji?\n\nJak wygl\u0105da\u0142y poch\u00f3wki Etrusk\u00f3w?\n\nJakie by\u0142y g\u0142\u00f3wne b\u00f3stwa etruskie?\n\nEtruskowie \u017cyli w urodzajnym kraju. Dzi\u0119ki systemowi kana\u0142\u00f3w i ruroci\u0105g\u00f3w ujarzmiono rzeki, a podziemne kana\u0142y, tzw. cucniculi, odprowadza\u0142y nadmierne ilo\u015bci wody. Odprowadzano z miast nieczysto\u015bci, starano si\u0119 osusza\u0107 tereny bagniste, dzi\u0119ki czemu zyskano \u017cyzne gleby i zapobiegano rozwojowi malarii. Do czas\u00f3w wsp\u00f3\u0142czesnych przetrwa\u0142 tunel na rzece Cremery, reguluj\u0105cy jej bieg. Bogactwem Etrurii by\u0142o zbo\u017ce, kt\u00f3rym handlowano z s\u0105siednimi pa\u0144stwami. Ceniono dobre wino, wi\u0119c uprawie winnej latoro\u015bli po\u015bwi\u0119cano szczeg\u00f3lnie du\u017co uwagi. Ogrodnicy etruscy opracowali techniki szczepienia i krzy\u017cowania ro\u015blin \u2014 z produkcji doskona\u0142ych win s\u0142yn\u0119\u0142o wiele miast. W Etrurii hodowano \u015bwinie i owce. Przysmakiem, wytwarzanym z owczego mleka, by\u0142 ser pecorino, o wadze dochodz\u0105cej do 300 kg, wytwarzany na granicy Ligurii, w Luni. Wo\u0142y wykorzystywano do pracy na roli. Poszukiwane by\u0142y bia\u0142e ja\u0142\u00f3wki, sk\u0142adane w ofierze bogom. Polowano na dzikie zwierz\u0119ta i ptaki, licznie wyst\u0119puj\u0105ce w lasach i zaro\u015blach. Rozwija\u0142o si\u0119 rybo\u0142\u00f3wstwo. \u0141owiono przede wszystkim tu\u0144czyki, kt\u00f3re dostarczano na targi rybne. Etruskowie zarybili rybami morskimi jeziora Bracciano i Vico \u2013 hodowano w nich morskie okonie, dorady i wszelkie morskie ryby, zdolne do \u017cycia w zbiorniku s\u0142odkowodnym.\n\nCiekawostka: Wy\u0107wiczone \u015bwinie pod\u0105\u017ca\u0142y za pasterzem, wygrywaj\u0105cym na tr\u0105bie znan\u0105 zwierz\u0119tom melodi\u0119.\n\nEtruria podzielona by\u0142a na miasta-pa\u0144stwa. Przy ich zak\u0142adaniu obowi\u0105zywa\u0142y rytua\u0142y, tzw. Etrusco ritu, dzi\u0119ki kt\u00f3rym wyznaczano kierunek g\u0142\u00f3wnej ulicy i wyznaczano zarys miejskich mur\u00f3w. Prawid\u0142owo za\u0142o\u017cone miasta mia\u0142y trzy bramy, trzy ulice oraz trzy \u015bwi\u0105tynie \u2013 Junony, Minerwy i Jowisza. Miasta zak\u0142adano w miejscu pierwotnych osad okresu willanowia\u0144skiego oraz nad morzem. Nale\u017ca\u0142y do nich takie miasta jak Weje, Caere, Tarkwinia, Vulci, Wetulonia, Populonia, Wolaterrae i Rusellae. Nad Tybrem i jego dop\u0142ywami znajdowa\u0142y si\u0119 Wolsynie, Orvieto, Clusium, Peruzja, Cortona i inne. W VI w. p.n.e. powsta\u0142 zwi\u0105zek dwunastu miast etruskich. Ich ksi\u0105\u017c\u0119ta, pe\u0142ni\u0105cy rol\u0119 reprezentant\u00f3w, spotykali si\u0119 co roku w \u015bwi\u0105tyni boga Voltumny, niedaleko miasta Orvieto. Radzili nad podj\u0119ciem religijnych i politycznych przedsi\u0119wzi\u0119\u0107. Zdobycie i zburzenie przez Rzymian Volsinii, w 265 roku p.n.e., po\u0142o\u017cy\u0142o kres corocznym zjazdom. Prawdopodobnie mi\u0119dzy miastami budowani \u0142\u0105cz\u0105ce je drogi, jednak okre\u015blenie ich przebiegu i stanu przed okresem rzymskim jest bardzo trudne. Po etruskich drogach porusza\u0142y si\u0119 wozy wojenne, rodzaje lekkich bryczek na dw\u00f3ch ko\u0142ach, tzw. carpentum oraz wozy czteroko\u0142owe \u2013 pilentum.\n\nNixdorf / Kroniki Dziej\u00f3w Rze\u017aba przedstawiaj\u0105ca g\u0142ow\u0119 etruskiego wojownika - fot. Nixdorf licencja CC BY-SA 3.0\n\nEtruskie spo\u0142ecze\u0144stwo \u2013 panowie i s\u0142udzy\n\nreklama\n\nW VIII wieku p. n.e. rozpocz\u0105\u0142 si\u0119 proces spo\u0142ecznego zr\u00f3\u017cnicowania, w wyniku kt\u00f3rego wyra\u017anie wyodr\u0119bni\u0142y si\u0119 klasa panuj\u0105ca oraz klasa ni\u017csza, obejmuj\u0105ca ogromn\u0105 zbiorowo\u015b\u0107 s\u0142ug, s\u0142u\u017c\u0105cych panom. Nie istnia\u0142a klasa \u015brednia. Pocz\u0105tkowo w miastach-pa\u0144stwach rz\u0105dzili kr\u00f3lowie luchme, kt\u00f3rzy jednocze\u015bnie byli najwy\u017cszymi kap\u0142anami i sprawowali w\u0142adz\u0119 s\u0105downicz\u0105 i wojskow\u0105. Kr\u00f3l nosi\u0142 bogat\u0105 szat\u0119 wierzchni\u0105, z wyszytymi z\u0142otymi gwiazdami oraz spodni\u0105 \u2013 bia\u0142\u0105 tunik\u0119, si\u0119gaj\u0105c\u0105 po\u0142owy uda, z kr\u00f3tkimi r\u0119kawami. Obuwie stanowi\u0142y charakterystyczne trzewiki, z uniesionymi noskami. W\u0142adca zasiada\u0142 na taborecie bez oparcia, zdobionym p\u0142ytkami z ko\u015bci s\u0142oniowej. W lewej r\u0119ce trzyma\u0142 ber\u0142o. Przed kr\u00f3lem szli liktorowie, nios\u0105cy na ramieniu p\u0119ki r\u00f3zeg, z toporem o dw\u00f3ch ostrzach w \u015brodku. Ostatnim kr\u00f3lem Rzymu, podbitego przez Etrusk\u00f3w pod koniec VII wieku p.n.e., by\u0142 prawdopodobnie okrutny Tarkwiniusz Pyszny, kt\u00f3rego tyra\u0144skie rz\u0105dy doprowadzi\u0142y do wybuchu niezadowolenia spo\u0142ecznego i wyp\u0119dzenia w\u0142adcy z miasta.\n\nMonarchiczny ustr\u00f3j uleg\u0142 zmianie na prze\u0142omie VI i V wieku p.n.e. Po w\u0142adz\u0119 si\u0119gn\u0119li principes \u2013 arystokracja, do kt\u00f3rej nale\u017ca\u0142a ziemia oraz kopalnie metali. Rodzina matki mia\u0142a mniejsze znaczenie ni\u017c rodzina ojca. Do senatu, jedynego politycznego zgromadzenia, wchodzili tylko szlachetnie urodzeni principes. Lud nie mia\u0142 wp\u0142ywu na podejmowane decyzje polityczne. Do zmiany tego stanu rzeczy dosz\u0142o dopiero po burzliwych wyst\u0105pieniach spo\u0142ecznych, w IV wieku p.n.e. Obok klasy pan\u00f3w istnia\u0142a jedynie zr\u00f3\u017cnicowana klasa familia, s\u0142ug \u2013 niewolnik\u00f3w. W domach bogaczy przebywali tzw. domownicy, us\u0142uguj\u0105cy panu we wszystkich, nawet najdrobniejszych czynno\u015bciach codziennych, w czasie uczt lub w czasie igrzysk pogrzebowych. Niewolnicy tworzyli r\u00f3wnie\u017c trupy artystyczne. W posiad\u0142o\u015bciach wiejskich pracowali niewolnicy, zajmuj\u0105cy si\u0119 upraw\u0105 roli i hodowl\u0105 zwierz\u0105t \u2014 mieli oni prawo w\u0142asno\u015bci. Najci\u0119\u017csz\u0105 prac\u0119 wykonywali niewolnicy osuszaj\u0105cy bagna, pracuj\u0105cy w kamienio\u0142omach i kopalniach. Niekt\u00f3rzy zostali wyzwoleni, chocia\u017c nadal pozostawali zale\u017cni od pana. Mogli zawiera\u0107 ma\u0142\u017ce\u0144stwa, bogaci\u0107 si\u0119, awansowa\u0107 spo\u0142ecznie, a tak\u017ce posiada\u0107 niewolnik\u00f3w i wyzwole\u0144c\u00f3w. Najwy\u017cej w hierarchii familia stali klienci \u2014 wyzwole\u0144cy, kt\u00f3rzy mieli swoje miejsce w rodzinnych grobowcach, nawet na r\u00f3wni z synami pana, a w miastach otaczani byli szczeg\u00f3ln\u0105 opiek\u0105.\n\nWyj\u0105tkowymi wzgl\u0119dami, niespotykanymi w \u015bwiecie staro\u017cytnym, obdarzane by\u0142y etruskie kobiety. Wiedz\u0119 o ich pozycji czerpiemy z malowide\u0142 i rze\u017ab na sarkofagach oraz z materia\u0142\u00f3w pisanych, pochodz\u0105cych jednak z obcych \u017ar\u00f3de\u0142, takich, jak np. relacja greckiego historyka z Chios, Teopompa. Kobiety zamieszkuj\u0105ce Etruri\u0119 dba\u0142y o urod\u0119. Przedstawiane s\u0105 w pi\u0119knych strojach, zdobi je wspania\u0142a bi\u017cuteria i misterne fryzury. By\u0142y obdarzane swoim w\u0142asnym imieniem, np. Ramtha, Fasti, Velia. Inskrypcje etruskie zawieraj\u0105 zar\u00f3wno imi\u0119 ojca, jak i matki. Kobieta w Etrurii razem z m\u0119\u017cczyznami bra\u0142a udzia\u0142 w uroczysto\u015bciach, mog\u0142a sama wychodzi\u0107 z domu, uczestniczy\u0107 w \u017cyciu publicznym i prywatnym. Umia\u0142a pisa\u0107 i czyta\u0107. Archeolodzy odkryli naczynia, ze stemplami, oznaczonymi kobiecymi imionami, co dowodzi, \u017ce kobiety mog\u0142y posiada\u0107 w\u0142asne warsztaty. Odmienny styl \u017cycia, jaki prowadzi\u0142y, by\u0142 powodem niesprawiedliwej opinii Grek\u00f3w i Rzymian, uwa\u017caj\u0105cych etruskie kobiety za niemoralne. Niestety, nic nie wiemy o \u017cyciu i pozycji ch\u0142opek.\n\nreklama\n\nReligia, sztuka i j\u0119zyk staro\u017cytnej cywilizacji\n\nEtruskowie byli ludem niezwykle religijnym. W\u015br\u00f3d innych spo\u0142ecze\u0144stw staro\u017cytnych wyr\u00f3\u017cniali si\u0119 przyk\u0142adaniem szczeg\u00f3lnej wagi do w\u0142a\u015bciwego odprawiania rytua\u0142\u00f3w, przestrzegania nakaz\u00f3w i religijnych przepis\u00f3w. Podobnie jak Grecy, Etruskowie byli przekonani, \u017ce bogowie kieruj\u0105 losem zwyk\u0142ych \u015bmiertelnik\u00f3w. W\u015br\u00f3d najwa\u017cniejszych b\u00f3stw znajdowali si\u0119: bogini urodzaju i p\u0142odno\u015bci \u2013 Cel, nazywana matk\u0105, ati, \u015bwi\u0119ta triada \u2013 Tinia, b\u00f3g ciskaj\u0105cy pioruny (uto\u017csamiany z Zeusem), jego ma\u0142\u017conka Uni (odpowiedniczka Hery) oraz Menrva, patronka miast i uzdrowicielka (Atena). W \u015bwi\u0105tyni w Volsinii oddawano cze\u015b\u0107 b\u00f3stwu rdzennie etruskiemu \u2013 Nortii. Wed\u0142ug etruskich wierze\u0144, po \u015bmierci istnia\u0142o dalsze \u017cycie, podobne do \u017cycia prowadzonego na ziemi. Groby etruskie wyposa\u017cano wi\u0119c w przedmioty, s\u0142u\u017c\u0105ce zmar\u0142emu za \u017cycia. W podziemnym \u015bwiecie kr\u00f3lowa\u0142y zar\u00f3wno b\u00f3stwa przyjazne, jak i demony \u015bmierci. W Etrurii starano si\u0119 pozna\u0107 wyroki b\u00f3stw, poprzez stosowanie rozmaitych technik wr\u00f3\u017cbiarskich. Wr\u00f3\u017cbici, zwani haruspikami, badaj\u0105c wn\u0119trzno\u015bci zwierz\u0105t \u2013 w\u0105trob\u0119, p\u0142uca, \u015bledzion\u0119 lub serce \u2013 przepowiadali przysz\u0142e wydarzenia. Wr\u00f3\u017cono r\u00f3wnie\u017c z lotu ptak\u00f3w oraz z b\u0142yskawic, kt\u00f3re pojawia\u0142y si\u0119 w okre\u015blonej cz\u0119\u015bci nieba \u2013 w p\u00f3\u0142nocno-zachodniej wr\u00f3\u017cy\u0142y z\u0142\u0105 nowin\u0119, natomiast na p\u00f3\u0142nocno-wschodniej \u2013 dobr\u0105. Wr\u00f3\u017cbici cieszyli si\u0119 wielkim powa\u017caniem i bez ich przepowiedni nie podejmowano \u017cadnej wa\u017cnej decyzji.\n\nArty\u015bci i rzemie\u015blnicy etruscy wykorzystywali dokonania artyst\u00f3w greckich, zachwycali si\u0119 pi\u0119knymi wschodnimi przedmiotami i cenili ciekawe rozwi\u0105zania problem\u00f3w technicznych, \u0142\u0105cz\u0105c to wszystko z kultur\u0105 rodzim\u0105. Przyk\u0142adem s\u0105 kamienne rze\u017aby etruskie z Vetulonii, kt\u00f3re powsta\u0142y poprzez powi\u0119kszenie niewielkich pos\u0105\u017ck\u00f3w greckich kariatyd. W\u015br\u00f3d wyposa\u017cenia grobowego zwraca uwag\u0119 ceramika oraz wspania\u0142e freski, zdobi\u0105ce \u015bciany grobowc\u00f3w, \u0142\u0105cz\u0105ce wzory etruskie z greckimi. Malowana ceramika, powsta\u0142a pod wp\u0142ywem greckim, zdobiona jest scenami inspirowanymi mitologi\u0105. Archeolodzy odkryli tak\u017ce liczne kunsztowne wytwory plastyczne \u2013 p\u0142askorze\u017aby i figurki, wykonane w br\u0105zie. W Etrurii rozwin\u0119\u0142o si\u0119 z\u0142otnictwo. Do wykonania pi\u0119knej bi\u017cuterii stosowano rozmaite techniki z\u0142otnicze. Ceniona by\u0142a skomplikowana technika granulacji, polegaj\u0105ca na \u0142\u0105czeniu male\u0144kich z\u0142otych kuleczek ze z\u0142ot\u0105 blaszk\u0105, tak, by tworzy\u0142y okre\u015blony wz\u00f3r, najcz\u0119\u015bciej ro\u015blinny.\n\nreklama\n\nPrzyk\u0142ady zabytk\u00f3w:\n\nWaza lub ka\u0142amarz \u2013 wyobra\u017cenie koguta, na kt\u00f3rym wyryto etruski alfabet \u2013 VII wiek p.n.e.\n\nTarczowata z\u0142ota fibula, wykonana metod\u0105 granulacji oraz z\u0142ota bransoleta \u2013 znaleziska w grobowcu Regolini Galassi, w Cerveteri \u2013 VII wiek p.n.e.\n\nTerakotowy Sarkofag Ma\u0142\u017conk\u00f3w \u2013 cmentarzysko Banditaccia, w Cerveteri \u2013 oko\u0142o 520 roku p.n.e.\n\nGliniana polichromowana g\u0142owa m\u0119\u017cczyzny, z Cerveteri \u2013 III wiek p.n.e.\n\nOd III \u2013 I wieku p.n.e., Etruria znalaz\u0142a si\u0119 pod panowaniem rzymskim. Panuje w\u00f3wczas tzw. okres hellenistyczny, w kt\u00f3rym nadal bujnie rozwija\u0142a si\u0119 sztuka etruska. Jej oryginalno\u015b\u0107 sko\u0144czy\u0142a si\u0119 wraz z wch\u0142oni\u0119ciem przez sztuk\u0119 rzymsk\u0105.\n\nJ\u0119zyk etruski nie nale\u017cy do j\u0119zyk\u00f3w z rodziny indoeuropejskich. Do dzisiaj nie zosta\u0142 odczytany, pomimo tego, \u017ce Etruskowie zapisywali swoje teksty alfabetem greckim, kt\u00f3ry dostosowali do w\u0142asnego systemu fonetycznego, tworz\u0105c w ten spos\u00f3b alfabet, sk\u0142adaj\u0105cy si\u0119 z 21 liter. Odkryto oko\u0142o 10 tys. inskrypcji, na kt\u00f3rych znajduj\u0105 si\u0119 zapisane imiona w\u0142asne, pokrewie\u0144stwa lub urz\u0119dy \u2013 takie wyrazy zosta\u0142y odczytane. Nie jest znana tre\u015b\u0107 innych zapis\u00f3w, np. tekstu na lnianych zwojach, okrywaj\u0105cych mumi\u0119 z Zagrzebia, sk\u0142adaj\u0105cy si\u0119 1190 wyraz\u00f3w. Zwraca uwag\u0119, \u017ce wyrazy etruskie oddzielane s\u0105 kropkami. Uwa\u017ca si\u0119, \u017ce dzi\u0119ki Etruskom pismo i sztuka czytania rozpowszechni\u0142y si\u0119 w\u015br\u00f3d innych lud\u00f3w Italii.\n\nBibliografia:\n\nJ. Heurgon, \u017bycie codzienne Etrusk\u00f3w, PIW, Warszawa 1966 r.\n\nJ. Heurgon, Rzym i \u015bwiat \u015br\u00f3dziemnomorski do wojen punickich, PIW, Warszawa 1973 r.\n\nEtruskowie. Tajemnice staro\u017cytnych cywilizacji, z. 23, Oxford Educational, Pozna\u0144."
+            "date": "PropertyNews7 godz.",
+            "source": "PropertyNews",
+            "article_content": "Syndyk masy upad\u0142o\u015bciowej sp\u00f3\u0142ki Mikrotech og\u0142osi\u0142 przetarg na sprzeda\u017c nieruchomo\u015bci zlokalizowanej przy ul. Sk\u0142adowej 9 w Kro\u015bnie. Na dzia\u0142kach znajduj\u0105 si\u0119 budynki biurowe.\n\nSyndyk masy upad\u0142o\u015bciowej Mikrotech wystawia na sprzeda\u017c nieruchomo\u015b\u0107 w Kro\u015bnie.\n\nNa dzia\u0142ce znajduje si\u0119 obiekt biurowy.\n\nCena wywo\u0142awcza wynosi 3 398 400 z\u0142 netto, a oferty nale\u017cy sk\u0142ada\u0107 do 8 pa\u017adziernika 2025 roku.\n\nSyndyk masy upad\u0142o\u015bciowej Mikrotech og\u0142osi\u0142 przetarg na sprzeda\u017c prawa w\u0142asno\u015bci nieruchomo\u015bci gruntowej zlokalizowanej w Kro\u015bnie przy ul. Sk\u0142adowej 9. Nieruchomo\u015b\u0107 jest zabudowana obiektem biurowym i sk\u0142ada si\u0119 z dw\u00f3ch dzia\u0142ek oraz udzia\u0142\u00f3w w drogach.\n\nPrzetarg na sprzeda\u017c nieruchomo\u015bci w Kro\u015bnie\n\nCena wywo\u0142awcza przedmiotu przetargu zosta\u0142a ustalona na 3 398 400 z\u0142 netto. Warunkiem uczestnictwa jest wp\u0142acenie wadium w wysoko\u015bci 300 000 z\u0142.\n\nZainteresowani mog\u0105 sk\u0142ada\u0107 oferty do 8 pa\u017adziernika 2025 roku na adres S\u0105du Rejonowego w Rzeszowie. Otwarcie ofert i ich wyb\u00f3r nast\u0105pi 10 pa\u017adziernika 2025 roku o godzinie 11:00 w siedzibie s\u0105du."
         }
     },
     {
@@ -421,12 +421,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Taka 5 z\u0142ot\u00f3wka i inne monety s\u0105 w cenie z\u0142ota. Sprawd\u017a, ile mo\u017cna na nich zarobi\u0107!",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/taka-5-z%C5%82ot%C3%B3wka-i-inne-monety-s%C4%85-w-cenie-z%C5%82ota-sprawd%C5%BA-ile-mo%C5%BCna-na-nich-zarobi%C4%87/ar-AA1N7dxE?ocid=BingNewsVerp",
-            "description": "W naszych domach mog\u0105 si\u0119 kry\u0107 prawdziwe skarby. Warto przejrze\u0107 pud\u0142a ze starymi rzeczami, pami\u0105tkami, pawlacze i schowki, ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.HWzaOzIrx_ukoLz1Y0QaDC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Taka 5 z\u0142ot\u00f3wka i inne monety s\u0105 w cenie z\u0142ota. Sprawd\u017a, ile mo\u017cna na nich zarobi\u0107! [24.09.2025]",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/taka-5-z%C5%82ot%C3%B3wka-i-inne-monety-s%C4%85-w-cenie-z%C5%82ota-sprawd%C5%BA-ile-mo%C5%BCna-na-nich-zarobi%C4%87-24092025/ar-AA1N7dxE?ocid=BingNewsVerp",
+            "description": "Kolekcjonerzy szukaj\u0105 monet z okresu PRL, ale nie tylko, gdy\u017c tak\u017ce monety starsze, a nawet te wsp\u00f3\u0142czesne mog\u0105 by\u0107 cenne.",
+            "image_url": "https://www.bing.pl/th?id=OVFT.iGvHMyM4IWuyTJGpACkQji&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Pomorska on MSN1 godz.",
+            "date": "Gazeta Pomorska on MSN3 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -442,7 +442,7 @@
             "description": "W 2025 roku kolekcjonerzy nadal intensywnie interesuj\u0105 si\u0119 starymi pieni\u0119dzmi z okresu Polskiej Rzeczpospolitej Ludowej. Ceny ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.3x8ae7evFyuFCIgViObT-i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Pomorska on MSN1 godz.",
+            "date": "Gazeta Pomorska on MSN4 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -458,7 +458,7 @@
             "description": "Je\u015bli my\u015blisz, \u017ce wszystkie monety z PRL s\u0105 warte tylko kilka groszy, to jeste\u015b w b\u0142\u0119dzie. Istniej\u0105 konkretne egzemplarze, kt\u00f3re na aukcjach internetowych potrafi\u0105 osi\u0105ga\u0107 osza\u0142amiaj\u0105ce ceny \u2013 nawet ...",
             "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Pomorza7 godz.",
+            "date": "G\u0142os Pomorza11 godz.",
             "source": "G\u0142os Pomorza",
             "article_content": "Content not available"
         }
@@ -474,7 +474,7 @@
             "description": "Sta\u0142a ekspozycja w Pa\u0142acu Muzeum Ksi\u0105\u017c\u0105t Czartoryskich prezentuje najcenniejsz\u0105 w Polsce i jedn\u0105 z najcenniejszych kolekcji sztuki w Europie. Na wystawie znalaz\u0142y si\u0119 nie tylko arcydzie\u0142a \u015bwiatowego m ...",
             "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w18 godz.",
+            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w22 godz.",
             "source": "Oficjalny serwis miejski - Magiczny Krak\u00f3w",
             "article_content": "Szukaj wydarzenia\n\nKategoria: -- wszystkie -- Spektakle teatralne Spacery i zwiedzanie Spektakle taneczne Akcje czytelnicze Muzyka rozrywkowa Wystawy czasowe Festiwale Targi i kiermasze Festiwale sztuk wizualnych Muzyka klasyczna Wyk\u0142ady, spacery i warsztaty artystyczne W gminach Metropolii Kabaret Festiwale i przegl\u0105dy filmowe Festiwale muzyczne Inne koncerty Inne przedstawienia Spotkania i slajdowiska Festiwale teatralne Pozosta\u0142e Dzieci\u0119ce r\u00f3\u017cno\u015bci Wydarzenia sportowe Muzyka klubowa Cykle filmowe Wystawy sta\u0142e Spotkania i wyk\u0142ady literackie Pokazy filmowe Inne wydarzenia literackie"
         }
@@ -490,7 +490,7 @@
             "description": "Zarzuci\u0142 w\u0119dk\u0119 i zamiast ryby wyci\u0105gn\u0105\u0142 bro\u0144 z XVII wieku Skarby mo\u017cna odnajdywa\u0107 na wiele sposob\u00f3w i nie zawsze wi\u0105\u017ce si\u0119 to z prac\u0105 archeolog\u00f3w na wykopaliskach. Czasem warto\u015bciowe z punktu widzenia ...",
             "image_url": "https://www.bing.pl/th?id=ODF.MBpsyBj36RbhUgA8g_KCng&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "GeekWeek w INTERIA.PL on MSN3 godz.",
+            "date": "GeekWeek w INTERIA.PL on MSN7 godz.",
             "source": "GeekWeek w INTERIA.PL on MSN",
             "article_content": ""
         }
@@ -506,7 +506,7 @@
             "description": "W D\u0105browie G\u00f3rniczej, na sta\u0142e wpisa\u0142 si\u0119 w kalendarz wydarze\u0144, Jarmark Staroci, kt\u00f3ry w ka\u017cd\u0105 trzeci\u0105 niedziel\u0119 miesi\u0105ca ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.B3HHthKliN2BJq722ZSnzi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "D\u0105browa G\u00f3rnicza Nasze Miasto on MSN8 godz.",
+            "date": "D\u0105browa G\u00f3rnicza Nasze Miasto on MSN12 godz.",
             "source": "D\u0105browa G\u00f3rnicza Nasze Miasto on MSN",
             "article_content": ""
         }
