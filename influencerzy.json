@@ -5,12 +5,28 @@
             "Content-Type": "application/json"
         },
         "body": {
+            "title": "\u0141ukasz narewski",
+            "link": "https://wloclawek.naszemiasto.pl/tag/lukasz-narewski",
+            "description": "Nieca\u0142y miesi\u0105c temu pisali\u015bmy o szansie, jak\u0105 dosta\u0142 \u0141ukasz. O tym, \u017ce mo\u017ce wyzdrowie\u0107. Teraz nadesz\u0142a tragiczna wiadomo\u015b\u0107: ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "W\u0142oc\u0142awek Nasze Miasto27 min",
+            "source": "W\u0142oc\u0142awek Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
             "title": "Targ staroci na targowisku miejskim w G\u0142ogowie. Znajdziesz tu niemal wszystko. Galeria zdj\u0119\u0107",
             "link": "https://glogow.naszemiasto.pl/targ-staroci-na-targowisku-miejskim-w-glogowie-znajdziesz-tu-niemal-wszystko-galeria-zdjec/ar/c1p2-28006149",
             "description": "Targowisko miejskie przy ul. Kazimierza Sprawiedliwego w G\u0142ogowie znane jest w okolicy. Jeszcze dekad\u0119 temu by\u0142o jedno z wi\u0119kszych w regionie, dlatego w dni targowe zje\u017cd\u017ca\u0142o si\u0119 zar\u00f3wno wielu ...",
             "image_url": "https://www.bing.pl/th?id=ODF.FETt9HmhEdCeF1upvrR1eA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "G\u0142og\u00f3w Nasze Miasto14 godz.",
+            "date": "G\u0142og\u00f3w Nasze Miasto17 godz.",
             "source": "G\u0142og\u00f3w Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -26,7 +42,7 @@
             "description": "W \u015brod\u0119, 24 wrze\u015bnia, rusza g\u0142osowanie w tegorocznej edycji Kieleckiego Bud\u017cetu Obywatelskiego. To od mieszka\u0144c\u00f3w zale\u017cy, na ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.OlAu1bnOzeBTIhhXx8Eu3y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Echo Dnia2 godz.",
+            "date": "Echo Dnia5 godz.",
             "source": "Echo Dnia",
             "article_content": "Content not available"
         }
@@ -42,7 +58,7 @@
             "description": "W Kielcach, przy ulicy Sienkiewicza, zako\u0144czy\u0142 si\u0119 w niedziel\u0119 Street Food Polska Festival. Przez trzy dni mo\u017cna tu by\u0142o ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.OlAu1bnOzeBTIhhXx8Eu3y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Echo Dnia2 godz.",
+            "date": "Echo Dnia5 godz.",
             "source": "Echo Dnia",
             "article_content": "Content not available"
         }
@@ -58,25 +74,9 @@
             "description": "Znakomity argenty\u0144ski trener, kieruj\u0105cy obecnie siatkarsk\u0105 reprezentacj\u0105 Ukrainy, opowiada o polskiej mi\u0142o\u015bci do alkoholu, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.Msdv2j4-G5iVXnzrkBWXTC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Gazeta Wyborcza18 godz.",
+            "date": "Gazeta Wyborcza21 godz.",
             "source": "Gazeta Wyborcza",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "13 rowerowa pielgrzymka diecezji kieleckiej",
-            "link": "https://kielce.naszemiasto.pl/tag/13-rowerowa-pielgrzymka-diecezji-kieleckiej",
-            "description": "Wyj\u0105tkowy peleton ju\u017c w trasie. 13. Rowerowa Pielgrzymka Diecezji Kieleckiej na Jasn\u0105 G\u00f3r\u0119 dotrze do celu 23 sierpnia. Zobacz ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "Kielce Nasze Miasto6 godz.",
-            "source": "Kielce Nasze Miasto",
-            "article_content": "Content not available"
         }
     },
     {
@@ -90,7 +90,7 @@
             "description": "Kolekcjonerzy szukaj\u0105 monet z okresu PRL, ale nie tylko, gdy\u017c tak\u017ce monety starsze, a nawet te wsp\u00f3\u0142czesne mog\u0105 by\u0107 cenne.",
             "image_url": "https://www.bing.pl/th?id=OVFT.iGvHMyM4IWuyTJGpACkQji&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Gazeta Pomorska on MSN8 godz.",
+            "date": "Gazeta Pomorska on MSN11 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -106,7 +106,7 @@
             "description": "W 2025 roku kolekcjonerzy nadal intensywnie interesuj\u0105 si\u0119 starymi pieni\u0119dzmi z okresu Polskiej Rzeczpospolitej Ludowej. Ceny ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.3x8ae7evFyuFCIgViObT-i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Gazeta Pomorska on MSN10 godz.",
+            "date": "Gazeta Pomorska on MSN12 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -122,7 +122,7 @@
             "description": "Je\u015bli my\u015blisz, \u017ce wszystkie monety z PRL s\u0105 warte tylko kilka groszy, to jeste\u015b w b\u0142\u0119dzie. Istniej\u0105 konkretne egzemplarze, kt\u00f3re na aukcjach internetowych potrafi\u0105 osi\u0105ga\u0107 osza\u0142amiaj\u0105ce ceny \u2013 nawet ...",
             "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "G\u0142os Pomorza16 godz.",
+            "date": "G\u0142os Pomorza19 godz.",
             "source": "G\u0142os Pomorza",
             "article_content": "Content not available"
         }
@@ -133,12 +133,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Takimi pieni\u0119dzy z portfela mo\u017cesz nie zap\u0142aci\u0107 ju\u017c w 2025 roku. Te banknoty trac\u0105 wa\u017cno\u015b\u0107 [24.09.2025]",
-            "link": "https://pomorska.pl/takimi-pieniedzy-z-portfela-mozesz-nie-zaplacic-juz-w-2025-roku-te-banknoty-traca-waznosc-24-09-2025/ar/c1p2-27972805",
-            "description": "Banknoty emitowane od 1995 roku, a tak\u017ce te z 2014 roku z od\u015bwie\u017conym wygl\u0105dem, s\u0105 pe\u0142noprawnym \u015brodkiem p\u0142atniczym. Obecnie w obiegu znajdziesz banknoty o nomina\u0142ach 10, 20, 50, 100, 200 i 500 ...",
+            "title": "Pras\u00f3wka 24.09.2025 - wydarzenia dnia, podsumowanie z wczoraj - sprawd\u017a, czy nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego",
+            "link": "https://pomorska.pl/prasowka-24-09-2025-wydarzenia-dnia-podsumowanie-z-wczoraj-sprawdz-czy-nie-minelo-cie-nic-waznego/ar/c1p1-19960903",
+            "description": "Waloryzacja emerytur na rok 2026 zapowiada si\u0119 mniej obiecuj\u0105co, z prognozowanym wzrostem o 4,9 procent. W rezultacie, osoby pobieraj\u0105ce emerytury, szczeg\u00f3lnie kobiety w wieku powy\u017cej 60 lat i ...",
             "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "Gazeta Pomorska8 godz.",
+            "date": "Gazeta Pomorska39 min",
             "source": "Gazeta Pomorska",
             "article_content": "Content not available"
         }
@@ -149,14 +149,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Kurs JPY/PLN 23 wrze\u015bnia 2025 r.",
-            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/kurs-jpypln-23-wrze%C5%9Bnia-2025-r/ar-AA1N6Q4U?ocid=BingNewsVerp",
-            "description": "Jad\u0105c do Japonii czy to w celach turystycznych, czy te\u017c biznesowych, warto zna\u0107 aktualny kurs jena (JPY). Z tego artyku\u0142u ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.vEp3OYPtpUEAcX-Ut3RAeC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Zn\u00f3w mo\u017cesz \u0142atwo odnale\u017a\u0107 koleg\u00f3w z podstaw\u00f3wki i prosi\u0107 ich o pieni\u0105dze",
+            "link": "https://www.msn.com/pl-pl/news/other/zn%C3%B3w-mo%C5%BCesz-%C5%82atwo-odnale%C5%BA%C4%87-koleg%C3%B3w-z-podstaw%C3%B3wki-i-prosi%C4%87-ich-o-pieni%C4%85dze/ar-AA1NbfMW?ocid=BingNewsVerp",
+            "description": "Wraca Nasza Klasa. Tym razem w formie aplikacji mobilnej, kt\u00f3ra obiecuje dok\u0142adnie to samo, co kiedy\u015b: profile klas, znajomi ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.C64aV8hfpNqdubW1hwE61S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Business Insider Polska on MSN20 godz.",
-            "source": "Business Insider Polska on MSN",
-            "article_content": ""
+            "date": "Bezprawnik on MSN34 min",
+            "source": "Bezprawnik on MSN",
+            "article_content": "Content not available"
         }
     },
     {
@@ -170,9 +170,25 @@
             "description": "Porcelana z czas\u00f3w PRL-u jest obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli posiadasz wazony ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.aNLFaN7X2zhMLt81xmM8kS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN8 godz.",
+            "date": "Gazeta Pomorska on MSN11 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pras\u00f3wka 24.09.2025 - wydarzenia dnia, podsumowanie z wczoraj - sprawd\u017a, czy nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego",
+            "link": "https://pomorska.pl/prasowka-24-09-2025-wydarzenia-dnia-podsumowanie-z-wczoraj-sprawdz-czy-nie-minelo-cie-nic-waznego/ar/c1p1-19960903",
+            "description": "Waloryzacja emerytur na rok 2026 zapowiada si\u0119 mniej obiecuj\u0105co, z prognozowanym wzrostem o 4,9 procent. W rezultacie, osoby pobieraj\u0105ce emerytury, szczeg\u00f3lnie kobiety w wieku powy\u017cej 60 lat i ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stara+porcelana",
+            "date": "Gazeta Pomorska39 min",
+            "source": "Gazeta Pomorska",
+            "article_content": "Content not available"
         }
     },
     {
@@ -186,7 +202,7 @@
             "description": "Targowisko miejskie przy ul. Kazimierza Sprawiedliwego w G\u0142ogowie znane jest w okolicy. Jeszcze dekad\u0119 temu by\u0142o jedno z wi\u0119kszych w regionie, dlatego w dni targowe zje\u017cd\u017ca\u0142o si\u0119 zar\u00f3wno wielu ...",
             "image_url": "https://www.bing.pl/th?id=ODF.FETt9HmhEdCeF1upvrR1eA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "G\u0142og\u00f3w Nasze Miasto14 godz.",
+            "date": "G\u0142og\u00f3w Nasze Miasto17 godz.",
             "source": "G\u0142og\u00f3w Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -202,7 +218,7 @@
             "description": "W D\u0105browie G\u00f3rniczej, na sta\u0142e wpisa\u0142 si\u0119 w kalendarz wydarze\u0144, Jarmark Staroci, kt\u00f3ry w ka\u017cd\u0105 trzeci\u0105 niedziel\u0119 miesi\u0105ca ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.B3HHthKliN2BJq722ZSnzi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "D\u0105browa G\u00f3rnicza Nasze Miasto on MSN18 godz.",
+            "date": "D\u0105browa G\u00f3rnicza Nasze Miasto on MSN20 godz.",
             "source": "D\u0105browa G\u00f3rnicza Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -218,7 +234,7 @@
             "description": "Gie\u0142da Staroci Pchli Targ przy Centrum Handlowym M1 odbywa si\u0119 w ka\u017cd\u0105 niedziel\u0119 w godzinach od 6 do 14. Ka\u017cdy znajdzie tam ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.R5UQWsACZa1FLToeMIb0SC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Pozna\u0144 Nasze Miasto on MSN17 godz.",
+            "date": "Pozna\u0144 Nasze Miasto on MSN20 godz.",
             "source": "Pozna\u0144 Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -229,14 +245,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "W miejscu dawnego hotelu Ikar w Poznaniu powstaje Four Points by Sheraton. Otwarcie zaplanowano na 2026 rok. Zobaczcie zdj\u0119cia",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/w-miejscu-dawnego-hotelu-ikar-w-poznaniu-powstaje-four-points-by-sheraton-otwarcie-zaplanowano-na-2026-rok-zobaczcie-zdj%C4%99cia/ar-AA1MaWov?ocid=BingNewsVerp",
-            "description": "Po d\u0142u\u017cszej przerwie wznowiono remont dawnego hotelu Ikar mieszcz\u0105cego si\u0119 przy ulicy Solnej w Poznaniu. Sp\u00f3\u0142ka PHH Hotele ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.1Ep5ohXOuUocYuivkZ2Qwi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Pras\u00f3wka z G\u0142ogowa 24.09.2025. Przegl\u0105d prasy - zestawienie najwa\u017cniejszych informacji",
+            "link": "https://glogow.naszemiasto.pl/prasowka-z-glogowa-24-09-2025-przeglad-prasy-zestawienie-najwazniejszych-informacji/ar/c1p1-19738679",
+            "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 23.09, w ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.kcreyGx3MhzC5pFGPzYI3S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Pozna\u0144 Nasze Miasto on MSN17 godz.",
-            "source": "Pozna\u0144 Nasze Miasto on MSN",
-            "article_content": ""
+            "date": "G\u0142og\u00f3w Nasze Miasto35 min",
+            "source": "G\u0142og\u00f3w Nasze Miasto",
+            "article_content": "Content not available"
         }
     },
     {
@@ -245,13 +261,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Pieszy potr\u0105cony",
-            "link": "https://dabrowagornicza.naszemiasto.pl/tag/pieszy-potracony",
-            "description": "D\u0105browa G\u00f3rnicza: Potr\u0105cenie pieszego. M\u0119\u017cczyzna by\u0142 pod wp\u0142ywem alkoholu. Wtargn\u0105\u0142 pod ko\u0142a pojazdu. Kierowca by\u0142 trze\u017awy.",
+            "title": "Don juan w jeleniej",
+            "link": "https://jeleniagora.naszemiasto.pl/tag/don-juan-w-jeleniej",
+            "description": "Bilety dla jeleniog\u00f3rzan. Dla naszych Czytelnik\u00f3w mamy dwuosobowe zaproszenia na \"Don Juana\", najnowsze przedstawienie Teatru ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "D\u0105browa G\u00f3rnicza Nasze Miasto5 godz.",
-            "source": "D\u0105browa G\u00f3rnicza Nasze Miasto",
+            "date": "Jelenia G\u00f3ra Nasze Miasto56 min",
+            "source": "Jelenia G\u00f3ra Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -266,7 +282,7 @@
             "description": "Na wzg\u00f3rzu zamkowym w Nowym S\u0105czu trwa ju\u017c sz\u00f3sty sezon prac archeologicznych. Tegoroczne badania przynios\u0142y wyj\u0105tkowe ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.OJeHH9QaOGVuqF0yqdjqNS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Gazeta Krakowska on MSN10 godz.",
+            "date": "Gazeta Krakowska on MSN13 godz.",
             "source": "Gazeta Krakowska on MSN",
             "article_content": ""
         }
@@ -282,7 +298,7 @@
             "description": "Basteja Hioba, jeden z cenniejszych zachowanych fragment\u00f3w \u015bredniowiecznych fortyfikacji Wroc\u0142awia, zosta\u0142a w\u0142a\u015bnie ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.QMsb24oT1ZObsCCDT6lCOi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Onet12 godz.",
+            "date": "Onet15 godz.",
             "source": "Onet",
             "article_content": "\u2013 Podczas prac zabezpieczyli\u015bmy i wzmocnili\u015bmy konstrukcj\u0119 tego historycznego obiektu, uzupe\u0142nili\u015bmy ubytki, powsta\u0142y nowe schody, chodniki z drena\u017cem i trawniki. Odnowili\u015bmy te\u017c chodnik od alei S\u0142owackiego, a obok stan\u0119\u0142a makieta z br\u0105zu (1:100) i szklana tablica z ilustracj\u0105 dawnych mur\u00f3w obronnych miasta \u2013 m\u00f3wi prezydent Wroc\u0142awia Jacek Sutryk.\n\nPoznaj kontekst z AI Kiedy Basteja Hioba zosta\u0142a wyremontowana?\n\nIle pieni\u0119dzy przyznano na remont Bastei Hioba?\n\nGdzie dok\u0142adnie stoi Basteja Hioba?\n\nJakie zmiany wprowadzono podczas remontu Bastei Hioba?\n\nW ramach Rz\u0105dowego Programu Odbudowy Zabytk\u00f3w przyznano na remont tego historycznego obiektu ponad 1,6 mln z\u0142, kolejn\u0105 cz\u0119\u015b\u0107 kwoty na prace ratunkowe przy zabytku do\u0142o\u017cy\u0142o miasto i uda\u0142o si\u0119 pi\u0119knie odnowi\u0107 ten historyczny obiekt.\n\nBasteja Hioba stoi przy al. S\u0142owackiego przy Galerii Dominika\u0144skiej. Gdy j\u0105 budowano ponad 500 lat temu, w tym miejscu znajdowa\u0142o si\u0119 uj\u015bcie rzeki O\u0142awy do fosy miejskiej. Jest cz\u0119\u015bci\u0105 dawnych system\u00f3w obronnych miasta.\n\nPartner Strefa Miast Historyczny obiekt mo\u017cna ogl\u0105da\u0107 po p\u00f3\u0142nocnej stronie Galerii Dominika\u0144skiej\n\nTo najlepiej zachowany relikt obwarowa\u0144 Wroc\u0142awia prze\u0142omu \u015bredniowiecza i czas\u00f3w nowo\u017cytnych. Zachowane mury i strzelnice o uskokowych zaokr\u0105glonych o\u015bcie\u017cach stanowi\u0105 wyj\u0105tkowy przyk\u0142ad \u015bredniowiecznej architektury militarnej stolicy historycznego \u015al\u0105ska.\n\nreklama\n\n\u2013 Relikty umocnie\u0144 \u015bredniowiecznego Wroc\u0142awia na powierzchni s\u0105 nieliczne, dlatego tym bardziej cieszymy si\u0119, \u017ce zabezpieczyli\u015bmy ten ciekawy obiekt \u2013 komentuje prezydent Jacek Sutryk\n\nBasteja powsta\u0142a w 1486 r. i mia\u0142a za zadanie zabezpiecza\u0107 wp\u0142yw rzeki O\u0142awy do fosy miejskiej oraz os\u0142ania\u0107 fragmenty zewn\u0119trznego pasa fortyfikacji miasta. Fortyfikacja zosta\u0142a zniszczona i zabudowana w XIX w., kiedy wojska napoleo\u0144skie zdoby\u0142y miasto i Hieronim Bonaparte podj\u0105\u0142 decyzj\u0119 o zburzeniu mur\u00f3w. Na nowo ods\u0142oni\u0119ta by\u0142a dzi\u0119ki budowie nieistniej\u0105cego ju\u017c hotelu Panorama w 1967 r. Dzi\u0119ki \u00f3wczesnej interwencji profesora Edmunda Ma\u0142achowicza, kt\u00f3ry by\u0142 w\u00f3wczas konserwatorem zabytk\u00f3w, relikty jej zabezpieczono i pierwszy raz zrekonstruowano."
         }
@@ -298,25 +314,9 @@
             "description": "Nawi\u0105zuj\u0105c do artyku\u0142u: Na terenie sad\u00f3w ma powsta\u0107 osiedle. Trwaj\u0105 konsultacje Panie Prezydencie - nie ma czego\u015b takiego jak ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.w2TVSNNVKfrfUMqepoPwVC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "TCZ.PL19 godz.",
+            "date": "TCZ.PL22 godz.",
             "source": "TCZ.PL",
             "article_content": "Jakie pomys\u0142y na tczewsk\u0105 kultur\u0119 na nowy dyrektor Centrum Kultury i Sztuki?"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Cuda Polski 2025 \u2013 nominacje z wojew\u00f3dztw opolskiego i zachodniopomorskiego",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/cuda-polski-2025-nominacje-z-wojew%C3%B3dztw-opolskiego-i-zachodniopomorskiego/ar-AA1N8Gq3?ocid=BingNewsVerp",
-            "description": "Kto nie s\u0142ysza\u0142 jeszcze o Cudach Polski? Od tygodni mi\u0142o\u015bnicy urzekaj\u0105cych, nieodkrytych miejsc w Polsce g\u0142osuj\u0105 na swoich ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.xndrT24XS-TPYOONmFrOPC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "National Geographic Polska on MSN12 godz.",
-            "source": "National Geographic Polska on MSN",
-            "article_content": ""
         }
     },
     {
@@ -330,7 +330,7 @@
             "description": "Reduta Morast - inaczej nazywana Redut\u0105 Bagienn\u0105, wybudowana w latach 1770-1774 na Wyspie Solnej, stanowi\u0142a w raz z Fortem Uj\u015bcie kluczowy punkt obrony portu i uj\u015bcia rzeki Pars\u0119ty. Wsp\u00f3\u0142cze\u015bnie ...",
             "image_url": "https://www.bing.pl/th?id=ODF.2lnLIQe5bnM9ixvXVTSDQg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Koszalin Nasze Miasto10 godz.",
+            "date": "Koszalin Nasze Miasto13 godz.",
             "source": "Koszalin Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -341,14 +341,46 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "\"Z\u0142ote, a skromne\"? Gdzie tam! S\u0105 tu szmaragdy, per\u0142y, a wszystko ocieka z\u0142otem. Bezcenny skarb b\u0119dzie mo\u017cna zobaczy\u0107 we Wroc\u0142awiu",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/z%C5%82ote-a-skromne-gdzie-tam-s%C4%85-tu-szmaragdy-per%C5%82y-a-wszystko-ocieka-z%C5%82otem-bezcenny-skarb-b%C4%99dzie-mo%C5%BCna-zobaczy%C4%87-we-wroc%C5%82awiu/ar-AA1N9811?ocid=BingNewsVerp",
-            "description": "Korony by\u0142y czym\u015b wi\u0119cej ni\u017c tylko cenn\u0105 ozdob\u0105 kr\u00f3lewskiej g\u0142owy. Stanowi\u0142y znak najwy\u017cszej w\u0142adzy nadanej bo\u017c\u0105 r\u0119k\u0105 i ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.WtMuln0SPAqr2iVMASMeJS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Wroc\u0142awska on MSN9 godz.",
-            "source": "Gazeta Wroc\u0142awska on MSN",
+            "title": "Cuda Polski 2025 \u2013 nominacje z wojew\u00f3dztw opolskiego i zachodniopomorskiego",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/cuda-polski-2025-nominacje-z-wojew%C3%B3dztw-opolskiego-i-zachodniopomorskiego/ar-AA1N8Gq3?ocid=BingNewsVerp",
+            "description": "Kto nie s\u0142ysza\u0142 jeszcze o Cudach Polski? Od tygodni mi\u0142o\u015bnicy urzekaj\u0105cych, nieodkrytych miejsc w Polsce g\u0142osuj\u0105 na swoich ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.xndrT24XS-TPYOONmFrOPC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "National Geographic Polska on MSN15 godz.",
+            "source": "National Geographic Polska on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Przegl\u0105d prasy 24.09.2025. Zestawili\u015bmy dla Ciebie najwa\u017cniejsze wydarzenia z wczoraj. Zobacz nasz\u0105 pras\u00f3wk\u0119",
+            "link": "https://gazetakrakowska.pl/przeglad-prasy-24-09-2025-zestawilismy-dla-ciebie-najwazniejsze-wydarzenia-z-wczoraj-zobacz-nasza-prasowke/ar/c1p1-19960891",
+            "description": "To ma by\u0107 prze\u0142omowy dzie\u0144 dla Krakowa pod wzgl\u0119dem planowania podziemnej komunikacji. W \u015brod\u0119, 24 wrze\u015bnia, ma si\u0119 odby\u0107 konferencja po\u015bwi\u0119cona prezentacji wynik\u00f3w prac nad \u201eStudium rozwoju metra w ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.XL5bGs_n6w06Ok0ARb1y3Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "zabytkowe+przedmioty",
+            "date": "Gazeta Krakowska39 min",
+            "source": "Gazeta Krakowska",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pras\u00f3wka 24.09.2025 - wydarzenia dnia, podsumowanie z wczoraj - sprawd\u017a, czy nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego",
+            "link": "https://pomorska.pl/prasowka-24-09-2025-wydarzenia-dnia-podsumowanie-z-wczoraj-sprawdz-czy-nie-minelo-cie-nic-waznego/ar/c1p1-19960903",
+            "description": "Waloryzacja emerytur na rok 2026 zapowiada si\u0119 mniej obiecuj\u0105co, z prognozowanym wzrostem o 4,9 procent. W rezultacie, osoby pobieraj\u0105ce emerytury, szczeg\u00f3lnie kobiety w wieku powy\u017cej 60 lat i ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "zabytkowe+przedmioty",
+            "date": "Gazeta Pomorska39 min",
+            "source": "Gazeta Pomorska",
+            "article_content": "Content not available"
         }
     },
     {
@@ -362,8 +394,24 @@
             "description": "W D\u0105browie G\u00f3rniczej, na sta\u0142e wpisa\u0142 si\u0119 w kalendarz wydarze\u0144, Jarmark Staroci, kt\u00f3ry w ka\u017cd\u0105 trzeci\u0105 niedziel\u0119 miesi\u0105ca ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.B3HHthKliN2BJq722ZSnzi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "D\u0105browa G\u00f3rnicza Nasze Miasto on MSN18 godz.",
+            "date": "D\u0105browa G\u00f3rnicza Nasze Miasto on MSN20 godz.",
             "source": "D\u0105browa G\u00f3rnicza Nasze Miasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "\"Z\u0142ote, a skromne\"? Gdzie tam! S\u0105 tu szmaragdy, per\u0142y, a wszystko ocieka z\u0142otem. Bezcenny skarb b\u0119dzie mo\u017cna zobaczy\u0107 we Wroc\u0142awiu",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/z%C5%82ote-a-skromne-gdzie-tam-s%C4%85-tu-szmaragdy-per%C5%82y-a-wszystko-ocieka-z%C5%82otem-bezcenny-skarb-b%C4%99dzie-mo%C5%BCna-zobaczy%C4%87-we-wroc%C5%82awiu/ar-AA1N9811?ocid=BingNewsVerp",
+            "description": "Korony by\u0142y czym\u015b wi\u0119cej ni\u017c tylko cenn\u0105 ozdob\u0105 kr\u00f3lewskiej g\u0142owy. Stanowi\u0142y znak najwy\u017cszej w\u0142adzy nadanej bo\u017c\u0105 r\u0119k\u0105 i ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.WtMuln0SPAqr2iVMASMeJS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Gazeta Wroc\u0142awska on MSN12 godz.",
+            "source": "Gazeta Wroc\u0142awska on MSN",
             "article_content": ""
         }
     },
@@ -378,41 +426,9 @@
             "description": "Gda\u0144sk, Gdynia i Sopot to prawdziwe turystyczne zag\u0142\u0119bie, kt\u00f3re o ka\u017cdej porze roku przyci\u0105ga go\u015bci z ca\u0142ej Polski, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Gda\u0144sk Nasze Miasto5 godz.",
+            "date": "Gda\u0144sk Nasze Miasto7 godz.",
             "source": "Gda\u0144sk Nasze Miasto",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Niesamowite odkrycie. W\u0119dkarz wy\u0142owi\u0142 z Wis\u0142y skarb",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/niesamowite-odkrycie-w%C4%99dkarz-wy%C5%82owi%C5%82-z-wis%C5%82y-skarb/ar-AA1N8zZo?ocid=BingNewsVerp",
-            "description": "Zarzuci\u0142 w\u0119dk\u0119 i zamiast ryby wyci\u0105gn\u0105\u0142 bro\u0144 z XVII wieku Skarby mo\u017cna odnajdywa\u0107 na wiele sposob\u00f3w i nie zawsze wi\u0105\u017ce si\u0119 to z prac\u0105 archeolog\u00f3w na wykopaliskach. Czasem warto\u015bciowe z punktu widzenia ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.MBpsyBj36RbhUgA8g_KCng&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "zabytkowe+przedmioty",
-            "date": "GeekWeek w INTERIA.PL on MSN12 godz.",
-            "source": "GeekWeek w INTERIA.PL on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Przez trzy wieki w szkolnej \u0142awie. Muzeum Historii Kielc opowie o najstarszej szkole",
-            "link": "https://radiokielce.pl/1341914/przez-trzy-wieki-w-szkolnej-lawie-muzeum-historii-kielc-opowie-o-najstarszej-szkole/",
-            "description": "To wyprawa przez wieki z histori\u0105 w tle i z niezwyk\u0142ymi postaciami. W Muzeum Historii Kielc powstaje nowa wystawa ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.CuWw1iS6q50jMUMkdgN7eC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Radio Kielce7 godz.",
-            "source": "Radio Kielce",
-            "article_content": "To wyprawa przez wieki z histori\u0105 w tle i z niezwyk\u0142ymi postaciami. W Muzeum Historii Kielc powstaje nowa wystawa zatytu\u0142owana: \u201eW szkolnej \u0142awie. 300 lat najstarszej szko\u0142y \u015bredniej w Kielcach\u201d.\n\nTrwaj\u0105ce trzy wieki dzieje plac\u00f3wki zosta\u0142y podzielone na mniejsze okresy. Za najstarszy odpowiada Bart\u0142omiej Tambor, kt\u00f3ry przypomina, \u017ce szko\u0142a zosta\u0142a otwarta w 1727 roku.\n\n\u2013 Oczywi\u015bcie historia zacz\u0119\u0142a si\u0119 wcze\u015bniej, kiedy pojawi\u0142y si\u0119 starania o to, by tak\u0105 szko\u0142\u0119 za\u0142o\u017cy\u0107. Akt erekcyjny podpisano w 1926 roku, st\u0105d mamy t\u0119 okr\u0105g\u0142\u0105 rocznic\u0119 300 lat, kt\u00f3r\u0105 w\u0142a\u015bnie obchodzimy m.in. w Muzeum Historii Kielc \u2013 zaznacza.\n\nDodaje, \u017ce by\u0142a to szko\u0142a prowadzona przez ksi\u0119\u017cy komunist\u00f3w.\n\n\u2013 Jej za\u0142o\u017cycielem by\u0142 biskup Konstanty Felicjan Szaniawski. Chcia\u0142, aby kszta\u0142ci\u0142a przysz\u0142ych kandydat\u00f3w do seminarium duchowego, kt\u00f3re r\u00f3wnie\u017c w\u00f3wczas zosta\u0142o powo\u0142ane w Kielcach. Wi\u0119kszo\u015b\u0107 uczni\u00f3w pochodzi\u0142a z rodzin ziemia\u0144skich, wywodz\u0105cych si\u0119 z okolicznej szlachty \u2013 zaznacza.\n\nSzko\u0142a mie\u015bci\u0142a si\u0119 przy dzisiejszej ulicy Jana Paw\u0142a II, w gmachu wybudowanym specjalnie w tym celu. Dzisiaj w tym miejscu swoj\u0105 siedzib\u0119 maj\u0105 Pedagogiczna Biblioteka Wojew\u00f3dzka oraz Muzeum Stefana \u017beromskiego.\n\n\u2013 Na tej cz\u0119\u015bci wystawy pokazane zostan\u0105 najstarsze druki zwi\u0105zane ze szko\u0142\u0105; ksi\u0105\u017cki, kt\u00f3re mog\u0142y pochodzi\u0107, a cz\u0119\u015b\u0107 pochodzi z dawnej biblioteczki gimnazjum, rzeczy zwi\u0105zane z nauczycielami oraz uczniami \u2013 zaznacza Bart\u0142omiej Tambor.\n\nZaproszenie do dawnej szko\u0142y\n\nPlac\u00f3wka przechodzi\u0142a r\u00f3\u017cne koleje losu.\n\n\u2013 Te zmiany nast\u0119powa\u0142y przez ca\u0142y XIX wiek. Wi\u0105za\u0142y si\u0119 z przemianami spo\u0142eczno-gospodarczo-politycznymi. Dzia\u0142a\u0142y tu m.in. Gimnazjum Wojew\u00f3dzkie (Gubernialne), Szko\u0142a Wy\u017csza Realna, Gimnazjum Klasyczne, M\u0119skie Gimnazjum Rz\u0105dowe, kt\u00f3re po odzyskaniu niepodleg\u0142o\u015bci przekszta\u0142ci\u0142o si\u0119 w Pa\u0144stwowe Gimnazjum m. Miko\u0142aja Reja, a w roku 1934 na wniosek samych uczni\u00f3w i grona nauczycielskiego przemianowano szko\u0142\u0119 i nadano jej imi\u0119 jednego z absolwent\u00f3w, czyli Stefana \u017beromskiego. Od tego czasu absolwenci tej szko\u0142y nazywaj\u0105 si\u0119 dumne \u201e\u017beromszczakami\u201d \u2013 wyja\u015bnia Marcin Kolasa.\n\nMarcin Kolasa zabierze widz\u00f3w do czas\u00f3w dwudziestolecia mi\u0119dzywojennego, zaprosi ich do wn\u0119trza sal dawnej szko\u0142y.\n\n\u2013 Zaczynamy od rekonstrukcji sali gimnastycznej, poniewa\u017c wychowanie fizyczne by\u0142o bardzo wa\u017cne w \u00f3wczesnej edukacji. Uczniowie pod okiem nauczycieli przygotowywali pokazy gimnastyczne, kt\u00f3re cieszy\u0142y si\u0119 du\u017cym zainteresowaniem kielczan. Mamy przedmioty zwi\u0105zane np. ze szkolnym klubem sportowym \u201eRejak\u201d z czas\u00f3w, kiedy szko\u0142a jeszcze nosi\u0142a imi\u0119 Miko\u0142aja Reja. Mamy medale zdobyte za osi\u0105gni\u0119cia sportowe, takie jak pchni\u0119cie kul\u0105, skok o tycze, czy bieg na dystansie 100 m \u2013 wymienia.\n\nB\u0119dzie pracownia prac r\u0119cznych i rysunku, gdzie pokazanych zostanie kilka obraz\u00f3w Czes\u0142awa Oberty\u0144skiego, czyli jednego z profesor\u00f3w.\n\nKolejn\u0105 sal\u0105 b\u0119dzie klasa lekcyjna, z takimi eksponatami, jak \u0142awka pochodz\u0105ca z dwudziestolecia mi\u0119dzywojennego. W du\u017cej, szklanej gablocie znajdzie si\u0119 stary mikroskop, preparaty mikroskopowe, oryginalny zielnik, liczne szklane fiolki, a dominowa\u0107 b\u0119dzie wielka, czarna tablica, po kt\u00f3rej pisa\u0142o si\u0119 kred\u0105.\n\nJak m\u00f3wi Marcin Kolasa, w klasie nie mog\u0142o zabrakn\u0105\u0107 wizerunk\u00f3w \u00f3wczesnych przyw\u00f3dc\u00f3w: J\u00f3zefa Pi\u0142sudskiego i prezydenta Ignacego Mo\u015bcickiego oraz herbu wz\u00f3r 29.\n\nPe\u0142ne wyzwa\u0144 tajne nauczanie\n\nZ kolei w czasy okupacji przeniesie Magdalena Lang-Trela. Jak m\u00f3wi, to by\u0142 trudny czas do pokazania na ekspozycji. Jak przedstawi\u0107 edukacj\u0119, kt\u00f3ra toczy\u0142a si\u0119 w warunkach konspiracji?\n\n\u2013 P\u0142ynnie przechodzimy przez oryginalne, zabytkowe drzwi do pokoju, jaki m\u00f3g\u0142 si\u0119 znajdowa\u0107 w wi\u0119kszo\u015bci mieszka\u0144 kielczan. To salonik, w kt\u00f3rym nie b\u0119dzie zbyt wielu obiekt\u00f3w muzealnych, cho\u0107 oczywi\u015bcie b\u0119d\u0105 meble z epoki, ale to, co b\u0119dzie najwa\u017cniejsze, b\u0119dzie ukryte. Zwiedzaj\u0105cy b\u0119dzie musia\u0142 odnale\u017a\u0107 wi\u0119kszo\u015b\u0107 informacji. B\u0119dzie musia\u0142 co\u015b odsun\u0105\u0107, otworzy\u0107, znale\u017a\u0107 tajn\u0105 skrytk\u0119, gdzie b\u0119d\u0105 ukryte wiadomo\u015bci o tym, jak nauczano, jak si\u0119 uczono, jakie to by\u0142o po\u015bwi\u0119cenie ze strony rodzic\u00f3w, m\u0142odzie\u017cy oraz nauczycieli \u2013 zaznacza.\n\nPrzypomniana zostanie historia sztandaru szko\u0142y, kt\u00f3ry zosta\u0142 uratowany, zanim Niemcy zaj\u0119li budynek plac\u00f3wki, wyja\u015bnione b\u0119dzie, co si\u0119 w tym czasie dzia\u0142o z budynkiem \u201e\u017beromskiego\u201d, ale te\u017c jak wygl\u0105da\u0142 system ostrzegania na tajnych kompletach, jak ukrywano materia\u0142y.\n\nCzasy powojenne\n\nZnajdzie si\u0119 r\u00f3wnie\u017c miejsce na pokazanie tego, co w szkole si\u0119 dzia\u0142o po II wojnie \u015bwiatowej. Jak m\u00f3wi Marcin Kolasa, w czasie PRL-u by\u0142y dwie postawy.\n\n\u2013 Niekt\u00f3rzy trwali w oporze, wierni przedwojennej tradycji, a niekt\u00f3rzy p\u0142yn\u0119li z nurtem nowej propagandy. Te postawy te\u017c b\u0119dziemy chcieli pokaza\u0107. Dominuj\u0105cym elementem w tej cz\u0119\u015bci wystawy b\u0119dzie g\u0142owa W\u0142odzimierza Lenina, kt\u00f3ra jest widocznym \u015bladem zmiany w \u017cyciu szko\u0142y. Tu r\u00f3wnie\u017c uda\u0142o nam si\u0119 zgromadzi\u0107 r\u00f3\u017cne druki, legitymacje, znaczki organizacji, kt\u00f3re w\u00f3wczas dzia\u0142a\u0142y w szkole. Tu te\u017c pokazujemy siermi\u0119\u017cno\u015b\u0107 tamtych czas\u00f3w, przejawiaj\u0105c\u0105 si\u0119 w wyposa\u017ceniu sal, jak i w do\u015b\u0107 nachalnej propagandzie, kt\u00f3ra si\u0119 pojawia\u0142a w podr\u0119cznikach czy lekturach. Jedn\u0105 z ksi\u0105\u017cek, z kt\u00f3rych korzystano na lekcjach muzyki, by\u0142y \u201ePie\u015bni o Stalinie\u201d \u2013 przywo\u0142uje.\n\nNa wystawie przedstawione zostan\u0105 sylwetki absolwent\u00f3w i grona pedagogicznego. To subiektywny wyb\u00f3r autor\u00f3w wystawy, ale za tymi nazwiskami cz\u0119sto stoj\u0105 jakie\u015b znacz\u0105ce dzia\u0142ania, albo te\u017c szczeg\u00f3lna pami\u0119\u0107 o nich. Marcin Kolasa zaznacza, \u017ce jedn\u0105 z takich os\u00f3b by\u0142 Jan Strasz, kt\u00f3ry si\u0119 przewija przez kilka rozdzia\u0142\u00f3w z \u017cycia \u201e\u017beromskiego\u201d.\n\n\u2013 Jan Strasz by\u0142 absolwentem rosyjskiego gimnazjum. Mamy jego zdj\u0119cie jako ucznia z prze\u0142omu XIX i XX wieku. W dwudziestoleciu mi\u0119dzywojennym. Po uko\u0144czeniu studi\u00f3w zosta\u0142 nauczycielem, w czasie okupacji dzia\u0142a\u0142 jako nauczyciel tajnego nauczania, a po wojnie przez kr\u00f3tki czas by\u0142 dyrektorem tej szko\u0142y. Jego losy zako\u0144czy\u0142y si\u0119 tragicznie. Jest przekaz, wed\u0142ug kt\u00f3rego zmuszano go, by wst\u0105pi\u0142 do partii, ale on odm\u00f3wi\u0142. Pozbawiono go wtedy stanowiska dyrektora, a poniewa\u017c by\u0142 ju\u017c cz\u0142owiekiem w wieku podesz\u0142ym jego serce nie wytrzyma\u0142o i zmar\u0142. By\u0142 to cz\u0142owiek bardzo zaanga\u017cowany w \u017cycie szko\u0142y. Uczy\u0142 fizyki i chemii. Z kolei jego \u017cona, Stefania uczy\u0142a \u0142aciny \u2013 wskazuje.\n\nNie tylko dla \u201e\u017beromszczak\u00f3w\u201d\n\nTych historii, ciekawych \u017cyciorys\u00f3w jest o wiele wi\u0119cej. Znanych absolwent\u00f3w b\u0119dzie mo\u017cna pozna\u0107 tak\u017ce w ostatniej cz\u0119\u015bci wystawy, po\u015bwi\u0119conej Stowarzyszeniu Absolwent\u00f3w Liceum Og\u00f3lnokszta\u0142c\u0105cego im. Stefana \u017beromskiego w Kielcach \u201e\u017beromszczacy\u201d.\n\nMagdalena Lang-Trela jako kurator i koordynator ekspozycji podkre\u015bla, \u017ce jest ona skierowana do ka\u017cdej osoby, nie tylko absolwenta Liceum Og\u00f3lnokszta\u0142c\u0105cego im. Stefana \u017beromskiego.\n\n\u2013 Ta wystawa nie jest laurk\u0105 zrobion\u0105 dla \u201e\u017beromszczak\u00f3w\u201d. Z tej szko\u0142y wszyscy kielczanie mog\u0105 by\u0107 dumni. Nie do\u015b\u0107, \u017ce najstarsza, to jeszcze wyda\u0142a wielu wybitnych absolwent\u00f3w, kt\u00f3rzy rozs\u0142awili nie tylko nasze miasto, ale i ca\u0142y kraj \u2013 zaznacza.\n\nKurator zwraca uwag\u0119 na spos\u00f3b prowadzenia narracji.\n\n\u2013 Tutaj zanurzymy si\u0119 w t\u0119 przesz\u0142o\u015b\u0107 wszystkimi zmys\u0142ami i emocjami. Wielu rzeczy b\u0119dzie mo\u017cna dotkn\u0105\u0107, wypr\u00f3bowa\u0107, jak co\u015b dzia\u0142a\u0142o, wi\u0119c to b\u0119dzie \u015bwietne miejsce dla dziadk\u00f3w czy rodzic\u00f3w z dzie\u0107mi. Jest te\u017c wirtualny przewodnik \u2013 to ch\u0142opiec, kt\u00f3ry porusza si\u0119 w czasie, w\u0142a\u015bciwie zawsze jest uczniem i ma na imi\u0119 Stefek. Wi\u0119c ta historia jest opowiadana z punktu widzenia m\u0142odego odbiorcy \u2013 podkre\u015bla.\n\nWystawa spe\u0142nia wymagania os\u00f3b ze szczeg\u00f3lnymi potrzebami. Mo\u017cna si\u0119 na niej porusza\u0107 na w\u00f3zku, jest przygotowana audiodeskrypcja, informacje s\u0105 dost\u0119pne w polskim j\u0119zyku migowym oraz w alfabecie Braille\u2019a.\n\nEkspozycja powsta\u0142a we wsp\u00f3\u0142pracy z I Liceum Og\u00f3lnokszta\u0142c\u0105cym im. Stefana \u017beromskiego w Kielcach oraz Stowarzyszeniem Absolwent\u00f3w Liceum Og\u00f3lnokszta\u0142c\u0105cego im. Stefana \u017beromskiego w Kielcach \u201e\u017beromszczacy\u201d. Jest cz\u0119\u015bci\u0105 obchod\u00f3w Jubileuszu 300-lecia I Liceum Og\u00f3lnokszta\u0142c\u0105cego im. Stefana \u017beromskiego.\n\nWernisa\u017c odb\u0119dzie si\u0119 w pi\u0105tek, 26 wrze\u015bnia, o godz. 17."
         }
     },
     {
@@ -426,7 +442,7 @@
             "description": "Kolekcjonerzy szukaj\u0105 monet z okresu PRL, ale nie tylko, gdy\u017c tak\u017ce monety starsze, a nawet te wsp\u00f3\u0142czesne mog\u0105 by\u0107 cenne.",
             "image_url": "https://www.bing.pl/th?id=OVFT.iGvHMyM4IWuyTJGpACkQji&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Pomorska on MSN8 godz.",
+            "date": "Gazeta Pomorska on MSN11 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -442,7 +458,7 @@
             "description": "W 2025 roku kolekcjonerzy nadal intensywnie interesuj\u0105 si\u0119 starymi pieni\u0119dzmi z okresu Polskiej Rzeczpospolitej Ludowej. Ceny ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.3x8ae7evFyuFCIgViObT-i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Pomorska on MSN10 godz.",
+            "date": "Gazeta Pomorska on MSN12 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -458,7 +474,7 @@
             "description": "Je\u015bli my\u015blisz, \u017ce wszystkie monety z PRL s\u0105 warte tylko kilka groszy, to jeste\u015b w b\u0142\u0119dzie. Istniej\u0105 konkretne egzemplarze, kt\u00f3re na aukcjach internetowych potrafi\u0105 osi\u0105ga\u0107 osza\u0142amiaj\u0105ce ceny \u2013 nawet ...",
             "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Pomorza16 godz.",
+            "date": "G\u0142os Pomorza19 godz.",
             "source": "G\u0142os Pomorza",
             "article_content": "Content not available"
         }
@@ -474,7 +490,7 @@
             "description": "Zarzuci\u0142 w\u0119dk\u0119 i zamiast ryby wyci\u0105gn\u0105\u0142 bro\u0144 z XVII wieku Skarby mo\u017cna odnajdywa\u0107 na wiele sposob\u00f3w i nie zawsze wi\u0105\u017ce si\u0119 to z prac\u0105 archeolog\u00f3w na wykopaliskach. Czasem warto\u015bciowe z punktu widzenia ...",
             "image_url": "https://www.bing.pl/th?id=ODF.MBpsyBj36RbhUgA8g_KCng&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "GeekWeek w INTERIA.PL on MSN12 godz.",
+            "date": "GeekWeek w INTERIA.PL on MSN15 godz.",
             "source": "GeekWeek w INTERIA.PL on MSN",
             "article_content": ""
         }
@@ -490,7 +506,7 @@
             "description": "W D\u0105browie G\u00f3rniczej, na sta\u0142e wpisa\u0142 si\u0119 w kalendarz wydarze\u0144, Jarmark Staroci, kt\u00f3ry w ka\u017cd\u0105 trzeci\u0105 niedziel\u0119 miesi\u0105ca ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.B3HHthKliN2BJq722ZSnzi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "D\u0105browa G\u00f3rnicza Nasze Miasto on MSN18 godz.",
+            "date": "D\u0105browa G\u00f3rnicza Nasze Miasto on MSN20 godz.",
             "source": "D\u0105browa G\u00f3rnicza Nasze Miasto on MSN",
             "article_content": ""
         }
