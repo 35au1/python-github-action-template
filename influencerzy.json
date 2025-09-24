@@ -5,14 +5,62 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "\u0141ukasz narewski",
-            "link": "https://wloclawek.naszemiasto.pl/tag/lukasz-narewski",
-            "description": "Nieca\u0142y miesi\u0105c temu pisali\u015bmy o szansie, jak\u0105 dosta\u0142 \u0141ukasz. O tym, \u017ce mo\u017ce wyzdrowie\u0107. Teraz nadesz\u0142a tragiczna wiadomo\u015b\u0107: ...",
+            "title": "PERE\u0141KI na D\u0105browskim Jarmarku Staroci! Zabytkowe meble, pami\u0105tki z PRL-u i \u015bwiatowe waluty...a to nie wszystko. Zobacz te ZDJ\u0118CIA",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/pere%C5%82ki-na-d%C4%85browskim-jarmarku-staroci-zabytkowe-meble-pami%C4%85tki-z-prl-u-i-%C5%9Bwiatowe-walutya-to-nie-wszystko-zobacz-te-zdj%C4%99cia/ar-AA1N0HBs?ocid=BingNewsVerp",
+            "description": "WEEKEND. W D\u0105browie G\u00f3rniczej, na sta\u0142e wpisa\u0142 si\u0119 w kalendarz wydarze\u0144, Jarmark Staroci, kt\u00f3ry w ka\u017cd\u0105 trzeci\u0105 niedziel\u0119 miesi\u0105ca przyci\u0105ga rzesze mi\u0142o\u015bnik\u00f3w historii i unikalnych przedmiot\u00f3w. To ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.XRLxX5vOF0R4QGkP4pWBhg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "starocie",
+            "date": "D\u0105browa G\u00f3rnicza Nasze Miasto on MSN2 godz.",
+            "source": "D\u0105browa G\u00f3rnicza Nasze Miasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Najwi\u0119kszy w Polsce Jarmark Staroci i Osobliwo\u015bci ju\u017c w najbli\u017cszy weekend w stolicy Karkonoszy",
+            "link": "https://www.msn.com/pl-pl/rozrywka/news/najwi%C4%99kszy-w-polsce-jarmark-staroci-i-osobliwo%C5%9Bci-ju%C5%BC-w-najbli%C5%BCszy-weekend-w-stolicy-karkonoszy/ar-AA1NbAvq?ocid=BingNewsVerp",
+            "description": "Przed nami 56. Jarmark Staroci i Osobliwo\u015bci w Jeleniej G\u00f3rze, kt\u00f3ry od kilku lat odbywa si\u0119 dwa razy w roku - wiosn\u0105 i jesieni\u0105. To w\u0142a\u015bnie w ostatni weekend wrze\u015bnia do stolicy Karkonoszy ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.h8OGMXjFuz807iNXn1avLw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "starocie",
+            "date": "Jelenia G\u00f3ra Nasze Miasto on MSN2 godz.",
+            "source": "Jelenia G\u00f3ra Nasze Miasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Centrum Kultury Zameczek",
+            "link": "https://jeleniagora.naszemiasto.pl/tag/centrum-kultury-zameczek",
+            "description": "Przed nami 56. Jarmark Staroci i Osobliwo\u015bci w Jeleniej G\u00f3rze, kt\u00f3ry od kilku lat odbywa si\u0119 dwa razy w roku - wiosn\u0105 i ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "W\u0142oc\u0142awek Nasze Miasto27 min",
-            "source": "W\u0142oc\u0142awek Nasze Miasto",
+            "date": "Jelenia G\u00f3ra Nasze Miasto1 godz.",
+            "source": "Jelenia G\u00f3ra Nasze Miasto",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Krocie za poszukiwane wazony PRL. Tyle w 2025 r. p\u0142ac\u0105 kolekcjonerzy za stare wazony",
+            "link": "https://www.msn.com/pl-pl/finanse/ekonomia/krocie-za-poszukiwane-wazony-prl-tyle-w-2025-r-p%C5%82ac%C4%85-kolekcjonerzy-za-stare-wazony/ar-AA1NbSSs?ocid=BingNewsVerp",
+            "description": "Wazony z czas\u00f3w PRL-u ciesz\u0105 si\u0119 obecnie ogromnym zainteresowaniem. Warto przeszuka\u0107 zakamarki piwnic i strych\u00f3w w ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT._ieNmRWkTHzrNcIry_MNry&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Express Bydgoski on MSN1 godz.",
+            "source": "Express Bydgoski on MSN",
+            "article_content": ""
         }
     },
     {
@@ -26,57 +74,9 @@
             "description": "Targowisko miejskie przy ul. Kazimierza Sprawiedliwego w G\u0142ogowie znane jest w okolicy. Jeszcze dekad\u0119 temu by\u0142o jedno z wi\u0119kszych w regionie, dlatego w dni targowe zje\u017cd\u017ca\u0142o si\u0119 zar\u00f3wno wielu ...",
             "image_url": "https://www.bing.pl/th?id=ODF.FETt9HmhEdCeF1upvrR1eA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "G\u0142og\u00f3w Nasze Miasto17 godz.",
+            "date": "G\u0142og\u00f3w Nasze Miasto21 godz.",
             "source": "G\u0142og\u00f3w Nasze Miasto",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Kielce bud\u017cet obywatelski 2025",
-            "link": "https://echodnia.eu/swietokrzyskie/tag/kielce-budzet-obywatelski-2025",
-            "description": "W \u015brod\u0119, 24 wrze\u015bnia, rusza g\u0142osowanie w tegorocznej edycji Kieleckiego Bud\u017cetu Obywatelskiego. To od mieszka\u0144c\u00f3w zale\u017cy, na ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.OlAu1bnOzeBTIhhXx8Eu3y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "Echo Dnia5 godz.",
-            "source": "Echo Dnia",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Kielce street food polska",
-            "link": "https://echodnia.eu/swietokrzyskie/tag/kielce-street-food-polska",
-            "description": "W Kielcach, przy ulicy Sienkiewicza, zako\u0144czy\u0142 si\u0119 w niedziel\u0119 Street Food Polska Festival. Przez trzy dni mo\u017cna tu by\u0142o ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.OlAu1bnOzeBTIhhXx8Eu3y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "Echo Dnia5 godz.",
-            "source": "Echo Dnia",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Raul Lozano dla \"Wyborczej\" o eksplorowaniu \u015bwiata. I o tym, co w Polsce kocha, a czego nie",
-            "link": "https://wyborcza.pl/7,154903,32269256,raul-lozano-dla-wyborczej-o-eksplorowaniu-swiata-i-o-tym.html",
-            "description": "Znakomity argenty\u0144ski trener, kieruj\u0105cy obecnie siatkarsk\u0105 reprezentacj\u0105 Ukrainy, opowiada o polskiej mi\u0142o\u015bci do alkoholu, ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.Msdv2j4-G5iVXnzrkBWXTC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "Gazeta Wyborcza21 godz.",
-            "source": "Gazeta Wyborcza",
-            "article_content": ""
         }
     },
     {
@@ -90,7 +90,7 @@
             "description": "Kolekcjonerzy szukaj\u0105 monet z okresu PRL, ale nie tylko, gdy\u017c tak\u017ce monety starsze, a nawet te wsp\u00f3\u0142czesne mog\u0105 by\u0107 cenne.",
             "image_url": "https://www.bing.pl/th?id=OVFT.iGvHMyM4IWuyTJGpACkQji&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Gazeta Pomorska on MSN11 godz.",
+            "date": "Gazeta Pomorska on MSN15 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -106,7 +106,7 @@
             "description": "W 2025 roku kolekcjonerzy nadal intensywnie interesuj\u0105 si\u0119 starymi pieni\u0119dzmi z okresu Polskiej Rzeczpospolitej Ludowej. Ceny ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.3x8ae7evFyuFCIgViObT-i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Gazeta Pomorska on MSN12 godz.",
+            "date": "Gazeta Pomorska on MSN17 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -122,7 +122,7 @@
             "description": "Je\u015bli my\u015blisz, \u017ce wszystkie monety z PRL s\u0105 warte tylko kilka groszy, to jeste\u015b w b\u0142\u0119dzie. Istniej\u0105 konkretne egzemplarze, kt\u00f3re na aukcjach internetowych potrafi\u0105 osi\u0105ga\u0107 osza\u0142amiaj\u0105ce ceny \u2013 nawet ...",
             "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "G\u0142os Pomorza19 godz.",
+            "date": "G\u0142os Pomorza23 godz.",
             "source": "G\u0142os Pomorza",
             "article_content": "Content not available"
         }
@@ -133,14 +133,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Pras\u00f3wka 24.09.2025 - wydarzenia dnia, podsumowanie z wczoraj - sprawd\u017a, czy nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego",
-            "link": "https://pomorska.pl/prasowka-24-09-2025-wydarzenia-dnia-podsumowanie-z-wczoraj-sprawdz-czy-nie-minelo-cie-nic-waznego/ar/c1p1-19960903",
-            "description": "Waloryzacja emerytur na rok 2026 zapowiada si\u0119 mniej obiecuj\u0105co, z prognozowanym wzrostem o 4,9 procent. W rezultacie, osoby pobieraj\u0105ce emerytury, szczeg\u00f3lnie kobiety w wieku powy\u017cej 60 lat i ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Stare telefony kom\u00f3rkowe, kt\u00f3re dzi\u015b s\u0105 warte fortun\u0119. Masz takie? 24.09.2025",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/stare-telefony-kom%C3%B3rkowe-kt%C3%B3re-dzi%C5%9B-s%C4%85-warte-fortun%C4%99-masz-takie-24092025/ar-AA1Hsewg?ocid=BingNewsVerp",
+            "description": "Pokolenie dzisiejszych 30- i 40-latk\u00f3w dorasta\u0142o z pierwszymi kom\u00f3rkami w r\u0119kach. D\u017awi\u0119k kultowego dzwonka Nokii 3310, gry w \u201eW\u0119\u017ca' czy rozk\u0142adane Motorole przywo\u0142uj\u0105 wspomnienia m\u0142odo\u015bci. 2. Rzadko\u015b\u0107 ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "Gazeta Pomorska39 min",
-            "source": "Gazeta Pomorska",
-            "article_content": "Content not available"
+            "date": "G\u0142os Pomorza on MSN1 godz.",
+            "source": "G\u0142os Pomorza on MSN",
+            "article_content": ""
         }
     },
     {
@@ -149,14 +149,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Zn\u00f3w mo\u017cesz \u0142atwo odnale\u017a\u0107 koleg\u00f3w z podstaw\u00f3wki i prosi\u0107 ich o pieni\u0105dze",
-            "link": "https://www.msn.com/pl-pl/news/other/zn%C3%B3w-mo%C5%BCesz-%C5%82atwo-odnale%C5%BA%C4%87-koleg%C3%B3w-z-podstaw%C3%B3wki-i-prosi%C4%87-ich-o-pieni%C4%85dze/ar-AA1NbfMW?ocid=BingNewsVerp",
-            "description": "Wraca Nasza Klasa. Tym razem w formie aplikacji mobilnej, kt\u00f3ra obiecuje dok\u0142adnie to samo, co kiedy\u015b: profile klas, znajomi ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.C64aV8hfpNqdubW1hwE61S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Krocie za poszukiwane wazony PRL. Tyle w 2025 r. p\u0142ac\u0105 kolekcjonerzy za stare wazony",
+            "link": "https://www.msn.com/pl-pl/finanse/ekonomia/krocie-za-poszukiwane-wazony-prl-tyle-w-2025-r-p%C5%82ac%C4%85-kolekcjonerzy-za-stare-wazony/ar-AA1NbSSs?ocid=BingNewsVerp",
+            "description": "Wazony z czas\u00f3w PRL-u ciesz\u0105 si\u0119 obecnie ogromnym zainteresowaniem. Warto przeszuka\u0107 zakamarki piwnic i strych\u00f3w w ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT._ieNmRWkTHzrNcIry_MNry&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Bezprawnik on MSN34 min",
-            "source": "Bezprawnik on MSN",
-            "article_content": "Content not available"
+            "date": "Express Bydgoski on MSN1 godz.",
+            "source": "Express Bydgoski on MSN",
+            "article_content": ""
         }
     },
     {
@@ -170,7 +170,7 @@
             "description": "Porcelana z czas\u00f3w PRL-u jest obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli posiadasz wazony ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.aNLFaN7X2zhMLt81xmM8kS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN11 godz.",
+            "date": "Gazeta Pomorska on MSN15 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -186,7 +186,7 @@
             "description": "Waloryzacja emerytur na rok 2026 zapowiada si\u0119 mniej obiecuj\u0105co, z prognozowanym wzrostem o 4,9 procent. W rezultacie, osoby pobieraj\u0105ce emerytury, szczeg\u00f3lnie kobiety w wieku powy\u017cej 60 lat i ...",
             "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska39 min",
+            "date": "Gazeta Pomorska4 godz.",
             "source": "Gazeta Pomorska",
             "article_content": "Content not available"
         }
@@ -197,29 +197,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Targ staroci na targowisku miejskim w G\u0142ogowie. Znajdziesz tu niemal wszystko. Galeria zdj\u0119\u0107",
-            "link": "https://glogow.naszemiasto.pl/targ-staroci-na-targowisku-miejskim-w-glogowie-znajdziesz-tu-niemal-wszystko-galeria-zdjec/ar/c1p2-28006149",
-            "description": "Targowisko miejskie przy ul. Kazimierza Sprawiedliwego w G\u0142ogowie znane jest w okolicy. Jeszcze dekad\u0119 temu by\u0142o jedno z wi\u0119kszych w regionie, dlatego w dni targowe zje\u017cd\u017ca\u0142o si\u0119 zar\u00f3wno wielu ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.FETt9HmhEdCeF1upvrR1eA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "targ+staroci",
-            "date": "G\u0142og\u00f3w Nasze Miasto17 godz.",
-            "source": "G\u0142og\u00f3w Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Prawdziwe PERE\u0141KI na D\u0105browskim Jarmarku Staroci! Zabytkowe meble, pami\u0105tki z PRL-u i \u015bwiatowe waluty...a to nie wszystko. Zobacz te ZDJ\u0118CIA",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/prawdziwe-pere%C5%82ki-na-d%C4%85browskim-jarmarku-staroci-zabytkowe-meble-pami%C4%85tki-z-prl-u-i-%C5%9Bwiatowe-walutya-to-nie-wszystko-zobacz-te-zdj%C4%99cia/ar-AA1N0HBs?ocid=BingNewsVerp",
-            "description": "W D\u0105browie G\u00f3rniczej, na sta\u0142e wpisa\u0142 si\u0119 w kalendarz wydarze\u0144, Jarmark Staroci, kt\u00f3ry w ka\u017cd\u0105 trzeci\u0105 niedziel\u0119 miesi\u0105ca ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.B3HHthKliN2BJq722ZSnzi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "targ+staroci",
-            "date": "D\u0105browa G\u00f3rnicza Nasze Miasto on MSN20 godz.",
-            "source": "D\u0105browa G\u00f3rnicza Nasze Miasto on MSN",
+            "title": "Awantura w J\u00f3zefowie. Fabryka jak wyspa po\u015br\u00f3d dom\u00f3w jednorodzinnych i bunt mieszka\u0144c\u00f3w przeciwko jej rozbudowie",
+            "link": "https://warszawa.wyborcza.pl/warszawa/7,54420,32271104,awantura-w-jozefowie-fabryka-jak-wyspa-posrod-domow-jednorodzinnych.html",
+            "description": "Fabryka ko\u0142o Warszawy, w kt\u00f3rej na trzy zmiany pracuje 250 os\u00f3b, dzia\u0142a w \u015brodku osiedla dom\u00f3w jednorodzinnych. Tiry ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.hZMP3WvoTMSudzJ91ypGjy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stara+porcelana",
+            "date": "Warszawa.Wyborcza.pl5 godz.",
+            "source": "Warszawa.Wyborcza.pl",
             "article_content": ""
         }
     },
@@ -229,13 +213,29 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Ostatnia niedziela lata przyci\u0105gn\u0119\u0142a t\u0142umy na parking przy Centrum Handlowym M1. Tak by\u0142o na pchlim targu 21 wrze\u015bnia. Zobacz zdj\u0119cia",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/ostatnia-niedziela-lata-przyci%C4%85gn%C4%99%C5%82a-t%C5%82umy-na-parking-przy-centrum-handlowym-m1-tak-by%C5%82o-na-pchlim-targu-21-wrze%C5%9Bnia-zobacz-zdj%C4%99cia/ar-AA1N0afk?ocid=BingNewsVerp",
-            "description": "Gie\u0142da Staroci Pchli Targ przy Centrum Handlowym M1 odbywa si\u0119 w ka\u017cd\u0105 niedziel\u0119 w godzinach od 6 do 14. Ka\u017cdy znajdzie tam ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.R5UQWsACZa1FLToeMIb0SC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "targ+staroci",
-            "date": "Pozna\u0144 Nasze Miasto on MSN20 godz.",
-            "source": "Pozna\u0144 Nasze Miasto on MSN",
+            "title": "Jeleniog\u00f3rski Jarmark Staroci i Osobliwo\u015bci tradycyjnie w ostatni weekend wrze\u015bnia",
+            "link": "https://nj24.pl/jeleniogorski-jarmark-staroci-i-osobliwosci-tradycyjnie-w-ostatni-weekend-wrzesnia/",
+            "description": "W ostatni weekend wrze\u015bnia Centrum Kultury Zameczek i Miasto Jelenia G\u00f3ra zapraszaj\u0105 na 56. Jeleniog\u00f3rski Jarmark Staroci i Osobliwo\u015bci. W sobot\u0119 i niedziel\u0119, 27 i 28 wrze\u015bnia na Placu Ratuszowym i wz ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.JbmE_Pv0fqIT13oFkHo4rQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stara+porcelana",
+            "date": "Nowiny Jeleniog\u00f3rskie2 godz.",
+            "source": "Nowiny Jeleniog\u00f3rskie",
+            "article_content": "\u2716\n\nInformacja o plikach cookies / RODO\n\nSzanowni Pa\u0144stwo,\n\nInformujemy, \u017ce od 25 maja obowi\u0105zuje Rozporz\u0105dzenie Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony os\u00f3b fizycznych w zwi\u0105zku z przetwarzaniem danych osobowych i w sprawie swobodnego przep\u0142ywu takich danych oraz uchylenia dyrektywy 95/46/WE (og\u00f3lne rozporz\u0105dzenie o ochronie danych).\n\nInformujemy, \u017ce administratorem Pani/ Pana danych osobowych \u2013 imi\u0119 i nazwisko, adres e-mailowy, adres korespondencyjny, numer telefonu, (lub inne udost\u0119pnione przez Pa\u0144stwa dane) \u2013 s\u0105 Nowiny Jeleniog\u00f3rskie Sp. z o.o z siedzib\u0105 w Jeleniej G\u00f3rze, ul. M. Sk\u0142odowskiej Curie 13, NIP 6112733455, Regon 003272934, KRS 0000490201\n\nJe\u015bli Pani/Pan \u017cyczy sobie, aby dane te zosta\u0142y usuni\u0119te z naszej bazy, prosimy o informacj\u0119 \u2013 nowiny@nj24.pl, tel 75 6424420.\n\nPa\u0144stwa dane s\u0105 przez nas wykorzystywane wy\u0142\u0105cznie w celu wymiany wzajemnej korespondencji, realizacji Pa\u0144stwa zlece\u0144, wystawiania faktur, z tytu\u0142u realizacji zobowi\u0105za\u0144 Nowin Jeleniog\u00f3rskich jako p\u0142atnika (ZUS, US).\n\nGwarantujemy spe\u0142nienie wszystkich praw wynikaj\u0105cych z og\u00f3lnego rozporz\u0105dzenia o ochronie danych, tj. prawo dost\u0119pu, sprostowania i usuni\u0119cia danych oraz ograniczenia ich przetwarzania.\n\nOdbiorcy danych. Twoje dane b\u0119d\u0105 przetwarza\u0107 wy\u0142\u0105cznie administrator oraz zaufani partnerzy: Google Inc., Facebook Inc, AddThis, a tak\u017ce podmioty uprawnione do uzyskania danych na podstawie obowi\u0105zuj\u0105cego prawa.\n\nCele przetwarzania danych. W naszym serwisie u\u017cywamy technologii, takich jak pliki cookie, do zbierania i przetwarzania danych osobowych w celu \u015bwiadczenie us\u0142ug drog\u0105 elektroniczn\u0105, dopasowanie tre\u015bci stron internetowych do preferencji i zainteresowa\u0144 oraz analizowania ruchu na stronach i w Internecie w celu udoskonalania \u015bwiadczonych przez nas us\u0142ug.\n\nPodstawy prawne przetwarzania danych. W ramach us\u0142ug serwisu Twoje dane b\u0119d\u0105 przetwarzane wy\u0142\u0105cznie na podstawie jednej z dopuszczonych przez RODO podstaw prawnych (art. 6 ust. 1 lit a Rozporz\u0105dzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony os\u00f3b fizycznych w zwi\u0105zku z przetwarzaniem danych osobowych i w sprawie swobodnego przep\u0142ywu takich danych oraz uchylenia dyrektywy 95/46/WE \u2013 \u201eRODO\u201d). i wy\u0142\u0105cznie w celu dostosowanym do danej podstawy:\n\n\u015bwiadczenie us\u0142ug drog\u0105 elektroniczn\u0105 \u2013 niezb\u0119dno\u015b\u0107 przetwarzania danych do zawarcia lub wykonania umowy, kt\u00f3rej jeste\u015b stron\u0105;\n\nanalizowanie ruchu na stronach i w Internecie w celu udoskonalania \u015bwiadczonych przez nas us\u0142ug \u2013 niezb\u0119dno\u015b\u0107 przetwarzania do cel\u00f3w wynikaj\u0105cych z prawnie uzasadnionych interes\u00f3w realizowanych przez administratora.\n\n\n\nTwoje dane przetwarzane b\u0119d\u0105 do czasu istnienia podstawy do ich przetwarzania \u2013 czyli w przypadku udzielenia zgody do momentu jej cofni\u0119cia lub ograniczenia, w przypadku niezb\u0119dno\u015bci danych do wykonania umowy \u2013 przez czas jej wykonywania, a w przypadku, gdy podstaw\u0105 przetwarzania danych jest uzasadniony interes administratora \u2013 do czasu istnienia uzasadnionego interesu.\n\nW ka\u017cdym czasie mo\u017ce Pani/Pan wnie\u015b\u0107 r\u00f3wnie\u017c skarg\u0119 do Prezesa Urz\u0119du Ochrony Danych Osobowych z siedzib\u0105 w Warszawie (00-193), przy ul. Stawki 2.\n\nZ powa\u017caniem,\n\nZarz\u0105d\n\nNowin Jeleniog\u00f3rskich"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Oto Katowice z lat 70. Tych unikalnych fotografii jeszcze nie widzia\u0142e\u015b! S\u0105 od genialnego architekta, kt\u00f3ry budowa\u0142 miasto",
+            "link": "https://www.msn.com/pl-pl/historia-i-kultura-spo%C5%82ecze%C5%84stwa/historia/oto-katowice-z-lat-70-tych-unikalnych-fotografii-jeszcze-nie-widzia%C5%82e%C5%9B-s%C4%85-od-genialnego-architekta-kt%C3%B3ry-budowa%C5%82-miasto/ar-AA1MpVCy?ocid=BingNewsVerp",
+            "description": "HISTORIA MIASTA. Tak wygl\u0105da\u0142y Katowice w latach 70! Jeden z najs\u0142ynniejszych, najbardziej zas\u0142u\u017conych architekt\u00f3w w historii ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.7jkwNqalNuXFkM8merNTTS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "Katowice Nasze Miasto on MSN3 godz.",
+            "source": "Katowice Nasze Miasto on MSN",
             "article_content": ""
         }
     },
@@ -245,29 +245,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Pras\u00f3wka z G\u0142ogowa 24.09.2025. Przegl\u0105d prasy - zestawienie najwa\u017cniejszych informacji",
-            "link": "https://glogow.naszemiasto.pl/prasowka-z-glogowa-24-09-2025-przeglad-prasy-zestawienie-najwazniejszych-informacji/ar/c1p1-19738679",
-            "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 23.09, w ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.kcreyGx3MhzC5pFGPzYI3S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "targ+staroci",
-            "date": "G\u0142og\u00f3w Nasze Miasto35 min",
-            "source": "G\u0142og\u00f3w Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Don juan w jeleniej",
-            "link": "https://jeleniagora.naszemiasto.pl/tag/don-juan-w-jeleniej",
-            "description": "Bilety dla jeleniog\u00f3rzan. Dla naszych Czytelnik\u00f3w mamy dwuosobowe zaproszenia na \"Don Juana\", najnowsze przedstawienie Teatru ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "targ+staroci",
-            "date": "Jelenia G\u00f3ra Nasze Miasto56 min",
-            "source": "Jelenia G\u00f3ra Nasze Miasto",
+            "title": "Przegl\u0105d prasy 24.09.2025 Nowy S\u0105cz. Zobacz wczorajsz\u0105 pras\u00f3wk\u0119, poznaj najwa\u017cniejsze informacje z Nowego S\u0105cza",
+            "link": "https://nowysacz.naszemiasto.pl/przeglad-prasy-24-09-2025-nowy-sacz-zobacz-wczorajsza-prasowke-poznaj-najwazniejsze-informacje-z-nowego-sacza/ar/c1p1-19738649",
+            "description": "Na wzg\u00f3rzu zamkowym w Nowym S\u0105czu trwa ju\u017c sz\u00f3sty sezon prac archeologicznych. Tegoroczne badania przynios\u0142y wyj\u0105tkowe odkrycie - relikty czwartej wie\u017cy zamkowej, kt\u00f3ra jak wskazuj\u0105 wst\u0119pne analizy ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.T_VXpRsCTaVF08x1xkPCVA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "relikty",
+            "date": "Nowy S\u0105cz Nasze Miasto3 godz.",
+            "source": "Nowy S\u0105cz Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -282,7 +266,7 @@
             "description": "Na wzg\u00f3rzu zamkowym w Nowym S\u0105czu trwa ju\u017c sz\u00f3sty sezon prac archeologicznych. Tegoroczne badania przynios\u0142y wyj\u0105tkowe ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.OJeHH9QaOGVuqF0yqdjqNS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Gazeta Krakowska on MSN13 godz.",
+            "date": "Gazeta Krakowska on MSN17 godz.",
             "source": "Gazeta Krakowska on MSN",
             "article_content": ""
         }
@@ -298,25 +282,9 @@
             "description": "Basteja Hioba, jeden z cenniejszych zachowanych fragment\u00f3w \u015bredniowiecznych fortyfikacji Wroc\u0142awia, zosta\u0142a w\u0142a\u015bnie ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.QMsb24oT1ZObsCCDT6lCOi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Onet15 godz.",
+            "date": "Onet19 godz.",
             "source": "Onet",
             "article_content": "\u2013 Podczas prac zabezpieczyli\u015bmy i wzmocnili\u015bmy konstrukcj\u0119 tego historycznego obiektu, uzupe\u0142nili\u015bmy ubytki, powsta\u0142y nowe schody, chodniki z drena\u017cem i trawniki. Odnowili\u015bmy te\u017c chodnik od alei S\u0142owackiego, a obok stan\u0119\u0142a makieta z br\u0105zu (1:100) i szklana tablica z ilustracj\u0105 dawnych mur\u00f3w obronnych miasta \u2013 m\u00f3wi prezydent Wroc\u0142awia Jacek Sutryk.\n\nPoznaj kontekst z AI Kiedy Basteja Hioba zosta\u0142a wyremontowana?\n\nIle pieni\u0119dzy przyznano na remont Bastei Hioba?\n\nGdzie dok\u0142adnie stoi Basteja Hioba?\n\nJakie zmiany wprowadzono podczas remontu Bastei Hioba?\n\nW ramach Rz\u0105dowego Programu Odbudowy Zabytk\u00f3w przyznano na remont tego historycznego obiektu ponad 1,6 mln z\u0142, kolejn\u0105 cz\u0119\u015b\u0107 kwoty na prace ratunkowe przy zabytku do\u0142o\u017cy\u0142o miasto i uda\u0142o si\u0119 pi\u0119knie odnowi\u0107 ten historyczny obiekt.\n\nBasteja Hioba stoi przy al. S\u0142owackiego przy Galerii Dominika\u0144skiej. Gdy j\u0105 budowano ponad 500 lat temu, w tym miejscu znajdowa\u0142o si\u0119 uj\u015bcie rzeki O\u0142awy do fosy miejskiej. Jest cz\u0119\u015bci\u0105 dawnych system\u00f3w obronnych miasta.\n\nPartner Strefa Miast Historyczny obiekt mo\u017cna ogl\u0105da\u0107 po p\u00f3\u0142nocnej stronie Galerii Dominika\u0144skiej\n\nTo najlepiej zachowany relikt obwarowa\u0144 Wroc\u0142awia prze\u0142omu \u015bredniowiecza i czas\u00f3w nowo\u017cytnych. Zachowane mury i strzelnice o uskokowych zaokr\u0105glonych o\u015bcie\u017cach stanowi\u0105 wyj\u0105tkowy przyk\u0142ad \u015bredniowiecznej architektury militarnej stolicy historycznego \u015al\u0105ska.\n\nreklama\n\n\u2013 Relikty umocnie\u0144 \u015bredniowiecznego Wroc\u0142awia na powierzchni s\u0105 nieliczne, dlatego tym bardziej cieszymy si\u0119, \u017ce zabezpieczyli\u015bmy ten ciekawy obiekt \u2013 komentuje prezydent Jacek Sutryk\n\nBasteja powsta\u0142a w 1486 r. i mia\u0142a za zadanie zabezpiecza\u0107 wp\u0142yw rzeki O\u0142awy do fosy miejskiej oraz os\u0142ania\u0107 fragmenty zewn\u0119trznego pasa fortyfikacji miasta. Fortyfikacja zosta\u0142a zniszczona i zabudowana w XIX w., kiedy wojska napoleo\u0144skie zdoby\u0142y miasto i Hieronim Bonaparte podj\u0105\u0142 decyzj\u0119 o zburzeniu mur\u00f3w. Na nowo ods\u0142oni\u0119ta by\u0142a dzi\u0119ki budowie nieistniej\u0105cego ju\u017c hotelu Panorama w 1967 r. Dzi\u0119ki \u00f3wczesnej interwencji profesora Edmunda Ma\u0142achowicza, kt\u00f3ry by\u0142 w\u00f3wczas konserwatorem zabytk\u00f3w, relikty jej zabezpieczono i pierwszy raz zrekonstruowano."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Nie ma czego\u015b takiego jak \"Sady Ba\u0142dowskie\"",
-            "link": "https://www.tcz.pl/index.php?p=1,62,0,tcz-24&item=207dc6dbef362bc5&title=nie-ma-czegos-takiego-jak-sady-baldowskie",
-            "description": "Nawi\u0105zuj\u0105c do artyku\u0142u: Na terenie sad\u00f3w ma powsta\u0107 osiedle. Trwaj\u0105 konsultacje Panie Prezydencie - nie ma czego\u015b takiego jak ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.w2TVSNNVKfrfUMqepoPwVC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "TCZ.PL22 godz.",
-            "source": "TCZ.PL",
-            "article_content": "Jakie pomys\u0142y na tczewsk\u0105 kultur\u0119 na nowy dyrektor Centrum Kultury i Sztuki?"
         }
     },
     {
@@ -330,7 +298,7 @@
             "description": "Reduta Morast - inaczej nazywana Redut\u0105 Bagienn\u0105, wybudowana w latach 1770-1774 na Wyspie Solnej, stanowi\u0142a w raz z Fortem Uj\u015bcie kluczowy punkt obrony portu i uj\u015bcia rzeki Pars\u0119ty. Wsp\u00f3\u0142cze\u015bnie ...",
             "image_url": "https://www.bing.pl/th?id=ODF.2lnLIQe5bnM9ixvXVTSDQg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Koszalin Nasze Miasto13 godz.",
+            "date": "Koszalin Nasze Miasto17 godz.",
             "source": "Koszalin Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -341,13 +309,45 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Cuda Polski 2025 \u2013 nominacje z wojew\u00f3dztw opolskiego i zachodniopomorskiego",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/cuda-polski-2025-nominacje-z-wojew%C3%B3dztw-opolskiego-i-zachodniopomorskiego/ar-AA1N8Gq3?ocid=BingNewsVerp",
-            "description": "Kto nie s\u0142ysza\u0142 jeszcze o Cudach Polski? Od tygodni mi\u0142o\u015bnicy urzekaj\u0105cych, nieodkrytych miejsc w Polsce g\u0142osuj\u0105 na swoich ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.xndrT24XS-TPYOONmFrOPC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "National Geographic Polska on MSN15 godz.",
-            "source": "National Geographic Polska on MSN",
+            "title": "PERE\u0141KI na D\u0105browskim Jarmarku Staroci! Zabytkowe meble, pami\u0105tki z PRL-u i \u015bwiatowe waluty...a to nie wszystko. Zobacz te ZDJ\u0118CIA",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/pere%C5%82ki-na-d%C4%85browskim-jarmarku-staroci-zabytkowe-meble-pami%C4%85tki-z-prl-u-i-%C5%9Bwiatowe-walutya-to-nie-wszystko-zobacz-te-zdj%C4%99cia/ar-AA1N0HBs?ocid=BingNewsVerp",
+            "description": "WEEKEND. W D\u0105browie G\u00f3rniczej, na sta\u0142e wpisa\u0142 si\u0119 w kalendarz wydarze\u0144, Jarmark Staroci, kt\u00f3ry w ka\u017cd\u0105 trzeci\u0105 niedziel\u0119 miesi\u0105ca przyci\u0105ga rzesze mi\u0142o\u015bnik\u00f3w historii i unikalnych przedmiot\u00f3w. To ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.XRLxX5vOF0R4QGkP4pWBhg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "zabytkowe+przedmioty",
+            "date": "D\u0105browa G\u00f3rnicza Nasze Miasto on MSN2 godz.",
+            "source": "D\u0105browa G\u00f3rnicza Nasze Miasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Stra\u017c Graniczna udaremni\u0142a pr\u00f3by wywozu skradzionych pojazd\u00f3w i rower\u00f3w na Ukrain\u0119",
+            "link": "https://kresy.pl/wydarzenia/straz-graniczna-udaremnila-proby-wywozu-skradzionych-pojazdow-i-rowerow-na-ukraine/",
+            "description": "Na przej\u015bciach granicznych w Kro\u015bcienku i Korczowej funkcjonariusze Stra\u017cy Granicznej zatrzymali autobus oraz rowery, kt\u00f3re ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.hgVv5n3bK3bnUlFGsH9DQy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Kresy.pl1 godz.",
+            "source": "Kresy.pl",
+            "article_content": "Na przej\u015bciach granicznych w Kro\u015bcienku i Korczowej funkcjonariusze Stra\u017cy Granicznej zatrzymali autobus oraz rowery, kt\u00f3re wcze\u015bniej zosta\u0142y skradzione we Francji i Niemczech. Oba przypadki dotyczy\u0142y obywateli Ukrainy pr\u00f3buj\u0105cych przewie\u017a\u0107 przedmioty na Ukrain\u0119.\n\nFunkcjonariusze Stra\u017cy Granicznej na Podkarpaciu w ostatnich dniach odnotowali dwie pr\u00f3by przewozu skradzionych przedmiot\u00f3w przez granic\u0119 polsko-ukrai\u0144sk\u0105. Do zdarze\u0144 dosz\u0142o na przej\u015bciach w Kro\u015bcienku oraz Korczowej.\n\nPierwsze z zatrzyma\u0144 mia\u0142o miejsce 18 wrze\u015bnia na przej\u015bciu granicznym w Kro\u015bcienku. Do odprawy na wyjazd z Polski zg\u0142osi\u0142 si\u0119 obywatel Ukrainy kieruj\u0105cy autobusem marki Iveco. Podczas szczeg\u00f3\u0142owej weryfikacji legalno\u015bci pochodzenia pojazdu funkcjonariusze ustalili, \u017ce autobus, kt\u00f3rego warto\u015b\u0107 oszacowano na oko\u0142o 110 tys. z\u0142otych, figuruje w bazach danych jako skradziony na terytorium Francji. Pojazd posiada\u0142 aktualnie holenderskie tablice rejestracyjne. W zwi\u0105zku z ustaleniami autobus zosta\u0142 zatrzymany, a jego kierowca przekazany Policji celem dalszych czynno\u015bci.\n\nDo kolejnej sytuacji dosz\u0142o 21 wrze\u015bnia na przej\u015bciu granicznym w Korczowej. W trakcie kontroli pojazdu nale\u017c\u0105cego do obywatela Ukrainy ujawniono trzy rowery marki Cube. Jak ustalono, jedno\u015blady zosta\u0142y skradzione w Niemczech w ci\u0105gu ostatniego miesi\u0105ca. Sprz\u0119t zosta\u0142 zabezpieczony, a dalsze czynno\u015bci w sprawie prowadz\u0105 funkcjonariusze Stra\u017cy Granicznej.\n\nOba przypadki wskazuj\u0105 na aktywno\u015b\u0107 os\u00f3b usi\u0142uj\u0105cych przewozi\u0107 przez polsko-ukrai\u0144sk\u0105 granic\u0119 mienie pochodz\u0105ce z przest\u0119pstwa. Stra\u017c Graniczna podkre\u015bla, \u017ce dzia\u0142ania kontrolne obejmuj\u0105 zar\u00f3wno weryfikacj\u0119 dokument\u00f3w podr\u00f3\u017cnych, jak i dok\u0142adne sprawdzanie pojazd\u00f3w czy przewo\u017conych przedmiot\u00f3w w mi\u0119dzynarodowych bazach danych.\n\nPrzeczytaj: 15 Kolumbijczyk\u00f3w i Wenezuelczyk nielegalnie zatrudnieni w Polsce [+FOTO]\n\nZobacz tak\u017ce: Nielegalne zatrudnienie 161 cudzoziemc\u00f3w w powiecie tarnog\u00f3rskim\n\nKresy.pl/SG"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "\"Z\u0142ote, a skromne\"? Gdzie tam! S\u0105 tu szmaragdy, per\u0142y, a wszystko ocieka z\u0142otem. Bezcenny skarb b\u0119dzie mo\u017cna zobaczy\u0107 we Wroc\u0142awiu",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/z%C5%82ote-a-skromne-gdzie-tam-s%C4%85-tu-szmaragdy-per%C5%82y-a-wszystko-ocieka-z%C5%82otem-bezcenny-skarb-b%C4%99dzie-mo%C5%BCna-zobaczy%C4%87-we-wroc%C5%82awiu/ar-AA1N9811?ocid=BingNewsVerp",
+            "description": "Korony by\u0142y czym\u015b wi\u0119cej ni\u017c tylko cenn\u0105 ozdob\u0105 kr\u00f3lewskiej g\u0142owy. Stanowi\u0142y znak najwy\u017cszej w\u0142adzy nadanej bo\u017c\u0105 r\u0119k\u0105 i ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.WtMuln0SPAqr2iVMASMeJS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Gazeta Wroc\u0142awska on MSN16 godz.",
+            "source": "Gazeta Wroc\u0142awska on MSN",
             "article_content": ""
         }
     },
@@ -362,7 +362,7 @@
             "description": "To ma by\u0107 prze\u0142omowy dzie\u0144 dla Krakowa pod wzgl\u0119dem planowania podziemnej komunikacji. W \u015brod\u0119, 24 wrze\u015bnia, ma si\u0119 odby\u0107 konferencja po\u015bwi\u0119cona prezentacji wynik\u00f3w prac nad \u201eStudium rozwoju metra w ...",
             "image_url": "https://www.bing.pl/th?id=ODF.XL5bGs_n6w06Ok0ARb1y3Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Krakowska39 min",
+            "date": "Gazeta Krakowska4 godz.",
             "source": "Gazeta Krakowska",
             "article_content": "Content not available"
         }
@@ -378,56 +378,8 @@
             "description": "Waloryzacja emerytur na rok 2026 zapowiada si\u0119 mniej obiecuj\u0105co, z prognozowanym wzrostem o 4,9 procent. W rezultacie, osoby pobieraj\u0105ce emerytury, szczeg\u00f3lnie kobiety w wieku powy\u017cej 60 lat i ...",
             "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Pomorska39 min",
+            "date": "Gazeta Pomorska4 godz.",
             "source": "Gazeta Pomorska",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Prawdziwe PERE\u0141KI na D\u0105browskim Jarmarku Staroci! Zabytkowe meble, pami\u0105tki z PRL-u i \u015bwiatowe waluty...a to nie wszystko. Zobacz te ZDJ\u0118CIA",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/prawdziwe-pere%C5%82ki-na-d%C4%85browskim-jarmarku-staroci-zabytkowe-meble-pami%C4%85tki-z-prl-u-i-%C5%9Bwiatowe-walutya-to-nie-wszystko-zobacz-te-zdj%C4%99cia/ar-AA1N0HBs?ocid=BingNewsVerp",
-            "description": "W D\u0105browie G\u00f3rniczej, na sta\u0142e wpisa\u0142 si\u0119 w kalendarz wydarze\u0144, Jarmark Staroci, kt\u00f3ry w ka\u017cd\u0105 trzeci\u0105 niedziel\u0119 miesi\u0105ca ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.B3HHthKliN2BJq722ZSnzi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "D\u0105browa G\u00f3rnicza Nasze Miasto on MSN20 godz.",
-            "source": "D\u0105browa G\u00f3rnicza Nasze Miasto on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "\"Z\u0142ote, a skromne\"? Gdzie tam! S\u0105 tu szmaragdy, per\u0142y, a wszystko ocieka z\u0142otem. Bezcenny skarb b\u0119dzie mo\u017cna zobaczy\u0107 we Wroc\u0142awiu",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/z%C5%82ote-a-skromne-gdzie-tam-s%C4%85-tu-szmaragdy-per%C5%82y-a-wszystko-ocieka-z%C5%82otem-bezcenny-skarb-b%C4%99dzie-mo%C5%BCna-zobaczy%C4%87-we-wroc%C5%82awiu/ar-AA1N9811?ocid=BingNewsVerp",
-            "description": "Korony by\u0142y czym\u015b wi\u0119cej ni\u017c tylko cenn\u0105 ozdob\u0105 kr\u00f3lewskiej g\u0142owy. Stanowi\u0142y znak najwy\u017cszej w\u0142adzy nadanej bo\u017c\u0105 r\u0119k\u0105 i ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.WtMuln0SPAqr2iVMASMeJS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Wroc\u0142awska on MSN12 godz.",
-            "source": "Gazeta Wroc\u0142awska on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Przeprawa promowa",
-            "link": "https://gdansk.naszemiasto.pl/tag/przeprawa-promowa",
-            "description": "Gda\u0144sk, Gdynia i Sopot to prawdziwe turystyczne zag\u0142\u0119bie, kt\u00f3re o ka\u017cdej porze roku przyci\u0105ga go\u015bci z ca\u0142ej Polski, ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Gda\u0144sk Nasze Miasto7 godz.",
-            "source": "Gda\u0144sk Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -442,7 +394,7 @@
             "description": "Kolekcjonerzy szukaj\u0105 monet z okresu PRL, ale nie tylko, gdy\u017c tak\u017ce monety starsze, a nawet te wsp\u00f3\u0142czesne mog\u0105 by\u0107 cenne.",
             "image_url": "https://www.bing.pl/th?id=OVFT.iGvHMyM4IWuyTJGpACkQji&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Pomorska on MSN11 godz.",
+            "date": "Gazeta Pomorska on MSN15 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -458,7 +410,7 @@
             "description": "W 2025 roku kolekcjonerzy nadal intensywnie interesuj\u0105 si\u0119 starymi pieni\u0119dzmi z okresu Polskiej Rzeczpospolitej Ludowej. Ceny ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.3x8ae7evFyuFCIgViObT-i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Pomorska on MSN12 godz.",
+            "date": "Gazeta Pomorska on MSN17 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -474,9 +426,25 @@
             "description": "Je\u015bli my\u015blisz, \u017ce wszystkie monety z PRL s\u0105 warte tylko kilka groszy, to jeste\u015b w b\u0142\u0119dzie. Istniej\u0105 konkretne egzemplarze, kt\u00f3re na aukcjach internetowych potrafi\u0105 osi\u0105ga\u0107 osza\u0142amiaj\u0105ce ceny \u2013 nawet ...",
             "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Pomorza19 godz.",
+            "date": "G\u0142os Pomorza23 godz.",
             "source": "G\u0142os Pomorza",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "PERE\u0141KI na D\u0105browskim Jarmarku Staroci! Zabytkowe meble, pami\u0105tki z PRL-u i \u015bwiatowe waluty...a to nie wszystko. Zobacz te ZDJ\u0118CIA",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/pere%C5%82ki-na-d%C4%85browskim-jarmarku-staroci-zabytkowe-meble-pami%C4%85tki-z-prl-u-i-%C5%9Bwiatowe-walutya-to-nie-wszystko-zobacz-te-zdj%C4%99cia/ar-AA1N0HBs?ocid=BingNewsVerp",
+            "description": "WEEKEND. W D\u0105browie G\u00f3rniczej, na sta\u0142e wpisa\u0142 si\u0119 w kalendarz wydarze\u0144, Jarmark Staroci, kt\u00f3ry w ka\u017cd\u0105 trzeci\u0105 niedziel\u0119 miesi\u0105ca przyci\u0105ga rzesze mi\u0142o\u015bnik\u00f3w historii i unikalnych przedmiot\u00f3w. To ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.XRLxX5vOF0R4QGkP4pWBhg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "odkrycie+zabytkowe+przedmiot",
+            "date": "D\u0105browa G\u00f3rnicza Nasze Miasto on MSN2 godz.",
+            "source": "D\u0105browa G\u00f3rnicza Nasze Miasto on MSN",
+            "article_content": ""
         }
     },
     {
@@ -490,24 +458,8 @@
             "description": "Zarzuci\u0142 w\u0119dk\u0119 i zamiast ryby wyci\u0105gn\u0105\u0142 bro\u0144 z XVII wieku Skarby mo\u017cna odnajdywa\u0107 na wiele sposob\u00f3w i nie zawsze wi\u0105\u017ce si\u0119 to z prac\u0105 archeolog\u00f3w na wykopaliskach. Czasem warto\u015bciowe z punktu widzenia ...",
             "image_url": "https://www.bing.pl/th?id=ODF.MBpsyBj36RbhUgA8g_KCng&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "GeekWeek w INTERIA.PL on MSN15 godz.",
+            "date": "GeekWeek w INTERIA.PL on MSN19 godz.",
             "source": "GeekWeek w INTERIA.PL on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Prawdziwe PERE\u0141KI na D\u0105browskim Jarmarku Staroci! Zabytkowe meble, pami\u0105tki z PRL-u i \u015bwiatowe waluty...a to nie wszystko. Zobacz te ZDJ\u0118CIA",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/prawdziwe-pere%C5%82ki-na-d%C4%85browskim-jarmarku-staroci-zabytkowe-meble-pami%C4%85tki-z-prl-u-i-%C5%9Bwiatowe-walutya-to-nie-wszystko-zobacz-te-zdj%C4%99cia/ar-AA1N0HBs?ocid=BingNewsVerp",
-            "description": "W D\u0105browie G\u00f3rniczej, na sta\u0142e wpisa\u0142 si\u0119 w kalendarz wydarze\u0144, Jarmark Staroci, kt\u00f3ry w ka\u017cd\u0105 trzeci\u0105 niedziel\u0119 miesi\u0105ca ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.B3HHthKliN2BJq722ZSnzi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "D\u0105browa G\u00f3rnicza Nasze Miasto on MSN20 godz.",
-            "source": "D\u0105browa G\u00f3rnicza Nasze Miasto on MSN",
             "article_content": ""
         }
     }
