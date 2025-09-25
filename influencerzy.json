@@ -5,13 +5,45 @@
             "Content-Type": "application/json"
         },
         "body": {
+            "title": "Istne CUDE\u0143KA na D\u0105browskim Jarmarku Staroci! Zabytkowe meble, pami\u0105tki z PRL-u i \u015bwiatowe waluty...a to nie wszystko. Zobacz te ZDJ\u0118CIA",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/istne-cude%C5%84ka-na-d%C4%85browskim-jarmarku-staroci-zabytkowe-meble-pami%C4%85tki-z-prl-u-i-%C5%9Bwiatowe-walutya-to-nie-wszystko-zobacz-te-zdj%C4%99cia/ar-AA1N0HBs?ocid=BingNewsVerp",
+            "description": "STAROCIE. W D\u0105browie G\u00f3rniczej, na sta\u0142e wpisa\u0142 si\u0119 w kalendarz wydarze\u0144, Jarmark Staroci, kt\u00f3ry w ka\u017cd\u0105 trzeci\u0105 niedziel\u0119 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.B7w8eknsafxHulB_uiCIoC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "D\u0105browa G\u00f3rnicza Nasze Miasto on MSN20 min",
+            "source": "D\u0105browa G\u00f3rnicza Nasze Miasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
             "title": "Blok komunalny K\u0119ty",
             "link": "https://oswiecim.naszemiasto.pl/tag/blok-komunalny-kety",
             "description": "Budowa bloku komunalnego w K\u0119tach jest na finiszu. Jego przekazanie do u\u017cytku ma nast\u0105pi\u0107 na pocz\u0105tku 2026 roku. Przygotowano ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "O\u015bwi\u0119cim Nasze Miasto5 godz.",
+            "date": "O\u015bwi\u0119cim Nasze Miasto9 godz.",
             "source": "O\u015bwi\u0119cim Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Bismillah kebab",
+            "link": "https://echodnia.eu/swietokrzyskie/tag/bismillah-kebab",
+            "description": "W ostatni\u0105 niedziel\u0119, 3 sierpnia, w Kielcach otwarto nowy lokal serwuj\u0105cy kebab - popularne danie kuchni bliskowschodniej, ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.OlAu1bnOzeBTIhhXx8Eu3y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Echo Dnia2 godz.",
+            "source": "Echo Dnia",
             "article_content": "Content not available"
         }
     },
@@ -26,7 +58,7 @@
             "description": "W Kielcach, przy ulicy Sienkiewicza, zako\u0144czy\u0142 si\u0119 w niedziel\u0119 Street Food Polska Festival. Przez trzy dni mo\u017cna tu by\u0142o ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.OlAu1bnOzeBTIhhXx8Eu3y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Echo Dnia4 godz.",
+            "date": "Echo Dnia8 godz.",
             "source": "Echo Dnia",
             "article_content": "Content not available"
         }
@@ -42,40 +74,8 @@
             "description": "Polska osi\u0105ga znaczne sukcesy na gie\u0142dzie, jednak brakuje jej du\u017cych, prywatnych firm z bran\u017cy przemys\u0142owej i technologicznej ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.3eoQtikE6G1i3Kek0VfuOS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Gazeta Lubuska7 godz.",
+            "date": "Gazeta Lubuska11 godz.",
             "source": "Gazeta Lubuska",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Sektor finansowy",
-            "link": "https://gazetalubuska.pl/tag/sektor-finansowy",
-            "description": "Firma WB Electronics poinformowa\u0142a, \u017ce zysk netto grupy w 2024 roku wyni\u00f3s\u0142 622,8 mln z\u0142, wobec 234,1 mln z\u0142 na koniec 2023 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.3eoQtikE6G1i3Kek0VfuOS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "Gazeta Lubuska7 godz.",
-            "source": "Gazeta Lubuska",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "bran\u017ca noclegowa",
-            "link": "https://gloswielkopolski.pl/tag/branza-noclegowa",
-            "description": "Wakacje 2025 pokaza\u0142y, \u017ce Polacy potrafi\u0105 b\u0142yskawicznie dostosowa\u0107 swoje plany do pogody i rosn\u0105cych cen. Z danych wynika, \u017ce ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.EMSAaZirpw6ML_A7kNwxky&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "G\u0142os Wielkopolski8 godz.",
-            "source": "G\u0142os Wielkopolski",
             "article_content": "Content not available"
         }
     },
@@ -90,7 +90,7 @@
             "description": "W naszych domach mog\u0105 si\u0119 kry\u0107 prawdziwe skarby. Warto przejrze\u0107 pud\u0142a ze starymi rzeczami, pami\u0105tkami, pawlacze i schowki, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.HWzaOzIrx_ukoLz1Y0QaDC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Gazeta Pomorska on MSN19 godz.",
+            "date": "Gazeta Pomorska on MSN23 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -101,14 +101,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Przegl\u0105d prasy (25.09.2025). Zobacz pras\u00f3wk\u0119 z najwa\u017cniejszymi wydarzeniami z wczoraj. B\u0105d\u017a na bie\u017c\u0105co",
-            "link": "https://pomorska.pl/przeglad-prasy-25-09-2025-zobacz-prasowke-z-najwazniejszymi-wydarzeniami-z-wczoraj-badz-na-biezaco/ar/c1p1-19960903",
-            "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 24.09. Sprawd\u017a, czy nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego. Czy czyta\u0142e\u015b artyku\u0142: \u201eZawisza ...",
+            "title": "Mennica gda\u0144ska",
+            "link": "https://torun.naszemiasto.pl/tag/mennica-gdanska",
+            "description": "W Polsce powsta\u0142 w\u0142a\u015bnie prawdziwy unikat i to w skali \u015bwiatowej. Gda\u0144ska Mennica wybi\u0142a bowiem monet\u0119 kolekcjonersk\u0105 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "Toru\u0144 Nasze Miasto52 min",
+            "source": "Toru\u0144 Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Masz takie banknoty w portfelu? Nimi mo\u017cesz ju\u017c nie zap\u0142aci\u0107 w 2025 roku. Te banknoty trac\u0105 wa\u017cno\u015b\u0107",
+            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/masz-takie-banknoty-w-portfelu-nimi-mo%C5%BCesz-ju%C5%BC-nie-zap%C5%82aci%C4%87-w-2025-roku-te-banknoty-trac%C4%85-wa%C5%BCno%C5%9B%C4%87/ar-AA1MESlA?ocid=BingNewsVerp",
+            "description": "Nie wszystkie banknoty i monety zachowuj\u0105 wa\u017cno\u015b\u0107 bez ko\u0144ca. W 2025 roku cz\u0119\u015b\u0107 z nich nie b\u0119dzie ju\u017c pe\u0142noprawnym \u015brodkiem p\u0142atniczym. Sprawd\u017a, kt\u00f3re pieni\u0105dze musisz wymieni\u0107, aby unikn\u0105\u0107 problem\u00f3w ...",
             "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "Gazeta Pomorska39 min",
-            "source": "Gazeta Pomorska",
-            "article_content": "Content not available"
+            "date": "Gazeta Pomorska on MSN3 godz.",
+            "source": "Gazeta Pomorska on MSN",
+            "article_content": ""
         }
     },
     {
@@ -122,7 +138,7 @@
             "description": "Jak podkre\u015blaj\u0105 organizatorzy, gie\u0142da to nie tylko miejsce zakup\u00f3w. To tak\u017ce przestrze\u0144 spotka\u0144 i wymiany pasji. Do udzia\u0142u zach\u0119cani s\u0105 nie tylko do\u015bwiadczeni kolekcjonerzy, ale i ci, kt\u00f3rzy dopiero ...",
             "image_url": "https://www.bing.pl/th?id=ODF.xmtGTJHQSE_v4D-CWxbvsQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "Echo Dnia on MSN15 godz.",
+            "date": "Echo Dnia on MSN19 godz.",
             "source": "Echo Dnia on MSN",
             "article_content": ""
         }
@@ -133,13 +149,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Zarobki urz\u0119dnik\u00f3w",
-            "link": "https://wspolczesna.pl/tag/zarobki-urzednikow",
-            "description": "Utrzymujemy coraz wi\u0119cej urz\u0119dnik\u00f3w, kt\u00f3rych pensje ci\u0105gle rosn\u0105. Nauczyciele rozpoczynaj\u0105cy prac\u0119 w szkole mog\u0105 liczy\u0107 na ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.f3lYh4QSZp-fsIOR8zb0py&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Przegl\u0105d prasy (25.09.2025). Zobacz pras\u00f3wk\u0119 z najwa\u017cniejszymi wydarzeniami z wczoraj. B\u0105d\u017a na bie\u017c\u0105co",
+            "link": "https://pomorska.pl/przeglad-prasy-25-09-2025-zobacz-prasowke-z-najwazniejszymi-wydarzeniami-z-wczoraj-badz-na-biezaco/ar/c1p1-19960903",
+            "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 24.09. Sprawd\u017a, czy nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego. Czy czyta\u0142e\u015b artyku\u0142: \u201eZawisza ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "Gazeta Wsp\u00f3\u0142czesna11 min",
-            "source": "Gazeta Wsp\u00f3\u0142czesna",
+            "date": "Gazeta Pomorska4 godz.",
+            "source": "Gazeta Pomorska",
             "article_content": "Content not available"
         }
     },
@@ -149,28 +165,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Stare telefony kom\u00f3rkowe, kt\u00f3re dzi\u015b s\u0105 warte fortun\u0119. Masz takie? 24.09.2025",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/stare-telefony-kom%C3%B3rkowe-kt%C3%B3re-dzi%C5%9B-s%C4%85-warte-fortun%C4%99-masz-takie-24092025/ar-AA1Hsewg?ocid=BingNewsVerp",
-            "description": "Pokolenie dzisiejszych 30- i 40-latk\u00f3w dorasta\u0142o z pierwszymi kom\u00f3rkami w r\u0119kach. D\u017awi\u0119k kultowego dzwonka Nokii 3310, gry w \u201eW\u0119\u017ca' czy rozk\u0142adane Motorole przywo\u0142uj\u0105 wspomnienia m\u0142odo\u015bci. 2. Rzadko\u015b\u0107 ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stare+monety",
-            "date": "G\u0142os Pomorza on MSN21 godz.",
-            "source": "G\u0142os Pomorza on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Stara porcelana z PRL bije rekordy. Kolekcjonerzy nadal poluj\u0105 na te naczynia, wazony i figurki [24.09.2025]",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/stara-porcelana-z-prl-bije-rekordy-kolekcjonerzy-nadal-poluj%C4%85-na-te-naczynia-wazony-i-figurki-24-09-2025/ar-AA1L6ze7?ocid=BingNewsVerp",
+            "title": "Ta stara porcelana z PRL bije rekordy popularno\u015bci. Kolekcjonerzy poluj\u0105 na te naczynia, wazony i figurki",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/ta-stara-porcelana-z-prl-bije-rekordy-popularno%C5%9Bci-kolekcjonerzy-poluj%C4%85-na-te-naczynia-wazony-i-figurki/ar-AA1L6ze7?ocid=BingNewsVerp",
             "description": "Porcelana z czas\u00f3w PRL-u jest obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli posiadasz wazony ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.mQOajxtDGS0-NyUHIg9bEC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "image_url": "https://www.bing.pl/th?id=OVFT.jmkIY3uQ4PKX-1uE2QOCBi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN21 godz.",
+            "date": "Gazeta Pomorska on MSN3 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -186,41 +186,9 @@
             "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 24.09. Sprawd\u017a, czy nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego. Czy czyta\u0142e\u015b artyku\u0142: \u201eZawisza ...",
             "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska39 min",
+            "date": "Gazeta Pomorska4 godz.",
             "source": "Gazeta Pomorska",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Ada rychwalska",
-            "link": "https://pomorska.pl/tag/ada-rychwalska",
-            "description": "Aleksandra Kwa\u015bniewska i Kuba Badach, znana para w\u015br\u00f3d polskich celebryt\u00f3w, mieszkaj\u0105 w eleganckim domu, kt\u00f3ry \u0142\u0105czy nowoczesno\u015b\u0107 z przytulno\u015bci\u0105. Skrzyd\u0142okwiat (Spathiphyllum) to jedna z ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stara+porcelana",
-            "date": "Gazeta Pomorska13 godz.",
-            "source": "Gazeta Pomorska",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Jeleniog\u00f3rski Jarmark Staroci i Osobliwo\u015bci tradycyjnie w ostatni weekend wrze\u015bnia",
-            "link": "https://nj24.pl/jeleniogorski-jarmark-staroci-i-osobliwosci-tradycyjnie-w-ostatni-weekend-wrzesnia/",
-            "description": "W ostatni weekend wrze\u015bnia Centrum Kultury Zameczek i Miasto Jelenia G\u00f3ra zapraszaj\u0105 na 56. Jeleniog\u00f3rski Jarmark Staroci i Osobliwo\u015bci. W sobot\u0119 i niedziel\u0119, 27 i 28 wrze\u015bnia na Placu Ratuszowym i wz ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.JbmE_Pv0fqIT13oFkHo4rQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stara+porcelana",
-            "date": "Nowiny Jeleniog\u00f3rskie22 godz.",
-            "source": "Nowiny Jeleniog\u00f3rskie",
-            "article_content": "\u2716\n\nInformacja o plikach cookies / RODO\n\nSzanowni Pa\u0144stwo,\n\nInformujemy, \u017ce od 25 maja obowi\u0105zuje Rozporz\u0105dzenie Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony os\u00f3b fizycznych w zwi\u0105zku z przetwarzaniem danych osobowych i w sprawie swobodnego przep\u0142ywu takich danych oraz uchylenia dyrektywy 95/46/WE (og\u00f3lne rozporz\u0105dzenie o ochronie danych).\n\nInformujemy, \u017ce administratorem Pani/ Pana danych osobowych \u2013 imi\u0119 i nazwisko, adres e-mailowy, adres korespondencyjny, numer telefonu, (lub inne udost\u0119pnione przez Pa\u0144stwa dane) \u2013 s\u0105 Nowiny Jeleniog\u00f3rskie Sp. z o.o z siedzib\u0105 w Jeleniej G\u00f3rze, ul. M. Sk\u0142odowskiej Curie 13, NIP 6112733455, Regon 003272934, KRS 0000490201\n\nJe\u015bli Pani/Pan \u017cyczy sobie, aby dane te zosta\u0142y usuni\u0119te z naszej bazy, prosimy o informacj\u0119 \u2013 nowiny@nj24.pl, tel 75 6424420.\n\nPa\u0144stwa dane s\u0105 przez nas wykorzystywane wy\u0142\u0105cznie w celu wymiany wzajemnej korespondencji, realizacji Pa\u0144stwa zlece\u0144, wystawiania faktur, z tytu\u0142u realizacji zobowi\u0105za\u0144 Nowin Jeleniog\u00f3rskich jako p\u0142atnika (ZUS, US).\n\nGwarantujemy spe\u0142nienie wszystkich praw wynikaj\u0105cych z og\u00f3lnego rozporz\u0105dzenia o ochronie danych, tj. prawo dost\u0119pu, sprostowania i usuni\u0119cia danych oraz ograniczenia ich przetwarzania.\n\nOdbiorcy danych. Twoje dane b\u0119d\u0105 przetwarza\u0107 wy\u0142\u0105cznie administrator oraz zaufani partnerzy: Google Inc., Facebook Inc, AddThis, a tak\u017ce podmioty uprawnione do uzyskania danych na podstawie obowi\u0105zuj\u0105cego prawa.\n\nCele przetwarzania danych. W naszym serwisie u\u017cywamy technologii, takich jak pliki cookie, do zbierania i przetwarzania danych osobowych w celu \u015bwiadczenie us\u0142ug drog\u0105 elektroniczn\u0105, dopasowanie tre\u015bci stron internetowych do preferencji i zainteresowa\u0144 oraz analizowania ruchu na stronach i w Internecie w celu udoskonalania \u015bwiadczonych przez nas us\u0142ug.\n\nPodstawy prawne przetwarzania danych. W ramach us\u0142ug serwisu Twoje dane b\u0119d\u0105 przetwarzane wy\u0142\u0105cznie na podstawie jednej z dopuszczonych przez RODO podstaw prawnych (art. 6 ust. 1 lit a Rozporz\u0105dzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony os\u00f3b fizycznych w zwi\u0105zku z przetwarzaniem danych osobowych i w sprawie swobodnego przep\u0142ywu takich danych oraz uchylenia dyrektywy 95/46/WE \u2013 \u201eRODO\u201d). i wy\u0142\u0105cznie w celu dostosowanym do danej podstawy:\n\n\u015bwiadczenie us\u0142ug drog\u0105 elektroniczn\u0105 \u2013 niezb\u0119dno\u015b\u0107 przetwarzania danych do zawarcia lub wykonania umowy, kt\u00f3rej jeste\u015b stron\u0105;\n\nanalizowanie ruchu na stronach i w Internecie w celu udoskonalania \u015bwiadczonych przez nas us\u0142ug \u2013 niezb\u0119dno\u015b\u0107 przetwarzania do cel\u00f3w wynikaj\u0105cych z prawnie uzasadnionych interes\u00f3w realizowanych przez administratora.\n\n\n\nTwoje dane przetwarzane b\u0119d\u0105 do czasu istnienia podstawy do ich przetwarzania \u2013 czyli w przypadku udzielenia zgody do momentu jej cofni\u0119cia lub ograniczenia, w przypadku niezb\u0119dno\u015bci danych do wykonania umowy \u2013 przez czas jej wykonywania, a w przypadku, gdy podstaw\u0105 przetwarzania danych jest uzasadniony interes administratora \u2013 do czasu istnienia uzasadnionego interesu.\n\nW ka\u017cdym czasie mo\u017ce Pani/Pan wnie\u015b\u0107 r\u00f3wnie\u017c skarg\u0119 do Prezesa Urz\u0119du Ochrony Danych Osobowych z siedzib\u0105 w Warszawie (00-193), przy ul. Stawki 2.\n\nZ powa\u017caniem,\n\nZarz\u0105d\n\nNowin Jeleniog\u00f3rskich"
         }
     },
     {
@@ -234,7 +202,7 @@
             "description": "Kolejny niedzielny targ dzia\u0142a\u0107 b\u0119dzie na pozna\u0144skim Franowie. Pyra Targ b\u0119dzie odbywa\u0142 si\u0119 w ka\u017cd\u0105 niedziel\u0119 od pierwszej niedzieli pa\u017adziernika.",
             "image_url": "https://www.bing.pl/th?id=ODF.Cya7j59Rws2Si6qfmk5ljw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Pozna\u0144 Nasze Miasto16 godz.",
+            "date": "Pozna\u0144 Nasze Miasto20 godz.",
             "source": "Pozna\u0144 Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -245,12 +213,28 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "PERE\u0141KI na D\u0105browskim Jarmarku Staroci! Zabytkowe meble, pami\u0105tki z PRL-u i \u015bwiatowe waluty...a to nie wszystko. Zobacz te ZDJ\u0118CIA",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/pere%C5%82ki-na-d%C4%85browskim-jarmarku-staroci-zabytkowe-meble-pami%C4%85tki-z-prl-u-i-%C5%9Bwiatowe-walutya-to-nie-wszystko-zobacz-te-zdj%C4%99cia/ar-AA1N0HBs?ocid=BingNewsVerp",
-            "description": "WEEKEND. W D\u0105browie G\u00f3rniczej, na sta\u0142e wpisa\u0142 si\u0119 w kalendarz wydarze\u0144, Jarmark Staroci, kt\u00f3ry w ka\u017cd\u0105 trzeci\u0105 niedziel\u0119 miesi\u0105ca przyci\u0105ga rzesze mi\u0142o\u015bnik\u00f3w historii i unikalnych przedmiot\u00f3w. To ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.XRLxX5vOF0R4QGkP4pWBhg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Pog\u00f3rza\u0144skie Targowisko Staroci w skansenie w...",
+            "link": "https://gazetakrakowska.pl/pogorzanskie-targowisko-staroci-w-skansenie-w-szymbarku-czyli-wielkie-swieto-milosnikow-staroci-z-dusza-i-na-kazda-kieszen/gh/c1p2-27880503/14",
+            "description": "Dokonywanie zwielokrotnie\u0144 w celu eksploracji tekstu i danych, w tym systematyczne pobieranie tre\u015bci, danych lub informacji z niniejszej strony internetowej, w tym ze znajduj\u0105cych si\u0119 na niej publikac ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.XL5bGs_n6w06Ok0ARb1y3Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "D\u0105browa G\u00f3rnicza Nasze Miasto on MSN22 godz.",
+            "date": "Gazeta Krakowska2 godz.",
+            "source": "Gazeta Krakowska",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Istne CUDE\u0143KA na D\u0105browskim Jarmarku Staroci! Zabytkowe meble, pami\u0105tki z PRL-u i \u015bwiatowe waluty...a to nie wszystko. Zobacz te ZDJ\u0118CIA",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/istne-cude%C5%84ka-na-d%C4%85browskim-jarmarku-staroci-zabytkowe-meble-pami%C4%85tki-z-prl-u-i-%C5%9Bwiatowe-walutya-to-nie-wszystko-zobacz-te-zdj%C4%99cia/ar-AA1N0HBs?ocid=BingNewsVerp",
+            "description": "STAROCIE. W D\u0105browie G\u00f3rniczej, na sta\u0142e wpisa\u0142 si\u0119 w kalendarz wydarze\u0144, Jarmark Staroci, kt\u00f3ry w ka\u017cd\u0105 trzeci\u0105 niedziel\u0119 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.B7w8eknsafxHulB_uiCIoC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "D\u0105browa G\u00f3rnicza Nasze Miasto on MSN20 min",
             "source": "D\u0105browa G\u00f3rnicza Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -266,7 +250,7 @@
             "description": "Huta Stalowa Wola ma od, 5 lipca, wtorku podpisany kontrakt na dostawy 70 bezza\u0142ogowych wie\u017c. Warto\u015b\u0107 umowy to 1,7 miliarda ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.OlAu1bnOzeBTIhhXx8Eu3y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Echo Dnia7 godz.",
+            "date": "Echo Dnia11 godz.",
             "source": "Echo Dnia",
             "article_content": "Content not available"
         }
@@ -282,7 +266,7 @@
             "description": "Jak podkre\u015blaj\u0105 organizatorzy, gie\u0142da to nie tylko miejsce zakup\u00f3w. To tak\u017ce przestrze\u0144 spotka\u0144 i wymiany pasji. Do udzia\u0142u zach\u0119cani s\u0105 nie tylko do\u015bwiadczeni kolekcjonerzy, ale i ci, kt\u00f3rzy dopiero ...",
             "image_url": "https://www.bing.pl/th?id=ODF.xmtGTJHQSE_v4D-CWxbvsQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Echo Dnia on MSN15 godz.",
+            "date": "Echo Dnia on MSN19 godz.",
             "source": "Echo Dnia on MSN",
             "article_content": ""
         }
@@ -293,14 +277,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Ostatnia niedziela lata przyci\u0105gn\u0119\u0142a t\u0142umy na parking przy Centrum Handlowym M1. Tak by\u0142o na pchlim targu 21 wrze\u015bnia. Zobaczcie zdj\u0119cia",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/ostatnia-niedziela-lata-przyci%C4%85gn%C4%99%C5%82a-t%C5%82umy-na-parking-przy-centrum-handlowym-m1-tak-by%C5%82o-na-pchlim-targu-21-wrze%C5%9Bnia-zobaczcie-zdj%C4%99cia/ar-AA1N0afk?ocid=BingNewsVerp",
-            "description": "Gie\u0142da Staroci Pchli Targ przy Centrum Handlowym M1 odbywa si\u0119 w ka\u017cd\u0105 niedziel\u0119 w godzinach od 6 do 14. Ka\u017cdy znajdzie tam ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.R5UQWsACZa1FLToeMIb0SC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "targ+staroci",
-            "date": "Pozna\u0144 Nasze Miasto on MSN22 godz.",
-            "source": "Pozna\u0144 Nasze Miasto on MSN",
+            "title": "\"Relikty przesz\u0142o\u015bci\" we W\u0142oszech. Polak\u00f3w ten widok mo\u017ce zaskoczy\u0107",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/relikty-przesz%C5%82o%C5%9Bci-we-w%C5%82oszech-polak%C3%B3w-ten-widok-mo%C5%BCe-zaskoczy%C4%87/ar-AA1NfIqL?ocid=BingNewsVerp",
+            "description": "Podczas zwiedzania W\u0142och Polacy mog\u0105 natkn\u0105\u0107 si\u0119 na \"relikty przesz\u0142o\u015bci\" we w\u0142oskich miejscowo\u015bciach, czyli automaty ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.UjJi-rVIMXTlbFrBaK7fKi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "Biznes w INTERIA.PL on MSN3 godz.",
+            "source": "Biznes w INTERIA.PL on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Teneryfa, Fuerteventura, a mo\u017ce Gran Canaria? Poznaj Wyspy Kanaryjskie i wybierz swoj\u0105 wakacyjn\u0105 destynacj\u0119",
+            "link": "https://forsal.pl/lifestyle/turystyka/artykuly/9896022,teneryfa-fuerteventura-a-moze-gran-canaria-poznaj-wyspy-kanaryjskie.html",
+            "description": "Marzy Ci si\u0119 pla\u017ca z jasnym, z\u0142otym piaskiem, czy mo\u017ce wolisz dzikie, tajemnicze wybrze\u017ca pokryte czarnym, wulkanicznym py\u0142em ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.zb_nvrOZX0P9iyWtNdXA9S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "Forsal.pl40 min",
+            "source": "Forsal.pl",
+            "article_content": "Poznaj sekrety Wysp Kanaryjskich i zdecyduj, kt\u00f3ra skradnie Twoje serce w tym sezonie!\n\nReklama\n\nPogoda na Wyspach Kanaryjskich\n\nKlimat wiecznej wiosny to nie tylko marketingowe has\u0142o \u2013 to rzeczywisto\u015b\u0107, kt\u00f3ra sprawia, \u017ce Wyspy Kanaryjskie magnetycznie przyci\u0105gaj\u0105 miliony turyst\u00f3w z ca\u0142ego \u015bwiata. Dzi\u0119ki klimatowi subtropikalnemu archipelag zapewnia niezwykle stabilne warunki pogodowe, z temperaturami oscyluj\u0105cymi wok\u00f3\u0142 22\u00b0C. Zim\u0105 termometry rzadko spadaj\u0105 poni\u017cej 18\u00b0C, a latem utrzymuj\u0105 si\u0119 na poziomie 24\u201326\u00b0C, co praktycznie eliminuje tradycyjny podzia\u0142 na sezony. Ta wyj\u0105tkowa stabilno\u015b\u0107 termiczna sprawia, \u017ce k\u0105piele w oceanie s\u0105 mo\u017cliwe nawet w styczniu, kiedy temperatura wody wynosi komfortowe 18\u201319\u00b0C.\n\nDeszcz na Kanarach rzadko psuje wakacyjne plany. Latem oraz na s\u0142onecznych po\u0142udniowych wybrze\u017cach opady s\u0105 zjawiskiem sporadycznym. Cho\u0107 na p\u00f3\u0142nocy i w partiach g\u00f3rskich pada cz\u0119\u015bciej, to w\u0142a\u015bnie tym opadom regiony te zawdzi\u0119czaj\u0105 swoj\u0105 bujn\u0105, soczyst\u0105 ziele\u0144, kt\u00f3ra zachwyca przez ca\u0142y rok. Bez wzgl\u0119du na por\u0119 roku na Wyspach Kanaryjskich zawsze znajdzie si\u0119 miejsce dla mi\u0142o\u015bnik\u00f3w aktywno\u015bci fizycznej, odkrywc\u00f3w lokalnych smak\u00f3w i tych, kt\u00f3rzy stawiaj\u0105 na relaks po\u015br\u00f3d natury.\n\nTeneryfa \u2013 wyspa o wielu obliczach\n\nTeneryfa jest najwi\u0119ksz\u0105 wysp\u0105 archipelagu, kt\u00f3ra zachwyca r\u00f3\u017cnorodno\u015bci\u0105 krajobraz\u00f3w i bogactwem atrakcji. Jej sercem jest majestatyczny Park Narodowy Teide, w kt\u00f3rym dominuje surowy, wulkaniczny krajobraz. Wznosi si\u0119 tu najwy\u017cszy szczyt Hiszpanii, czyli wulkan Teide o wysoko\u015bci 3718 m n.p.m. Otaczaj\u0105 go niemal ksi\u0119\u017cycowe pejza\u017ce zastyg\u0142ej lawy i formacji skalnych. Obok surowej, wulkanicznej natury, oferuje bujne, zielone lasy wawrzynowe, z\u0142ociste i czarne pla\u017ce oraz urokliwe, historyczne miasteczka z kolonialn\u0105 architektur\u0105. To miejsce, gdzie pot\u0119ga przyrody spotyka si\u0119 z bogactwem kultury, kt\u00f3rej najbarwniejszym wyrazem jest s\u0142ynny karnawa\u0142 w stolicy wyspy, czyli Santa Cruz de Tenerife.\n\nJest to drugi co do wielko\u015bci karnawa\u0142 na \u015bwiecie po Rio de Janeiro. Odbywa si\u0119 on zazwyczaj na prze\u0142omie lutego i marca i przyci\u0105ga t\u0142umy turyst\u00f3w z ca\u0142ego \u015bwiata. Przez kilka dni ulice miasta zamieniaj\u0105 si\u0119 w kolorow\u0105, t\u0119tni\u0105c\u0105 \u017cyciem scen\u0119 pe\u0142n\u0105 muzyki, ta\u0144ca i barwnych parad. Kulminacyjnym punktem jest Wielka Parada Karnawa\u0142owa, a tradycyjnym zako\u0144czeniem \u2013 symboliczny Pogrzeb Sardynki, kt\u00f3ry oznacza koniec radosnego \u015bwi\u0119towania i pocz\u0105tek Wielkiego Postu. Uczestnictwo w tym wydarzeniu to gwarancja niezapomnianych wra\u017ce\u0144 i bliskiego kontaktu z lokaln\u0105 kultur\u0105 i rado\u015bci\u0105 \u017cycia.\n\nP\u00f3\u0142nocna cz\u0119\u015b\u0107 Teneryfy\n\nP\u00f3\u0142noc Teneryfy to kraina, w kt\u00f3rej natura rz\u0105dzi si\u0119 swoimi prawami. Wilgotny klimat, kszta\u0142towany przez regularne opady deszczu i cz\u0119ste mg\u0142y, sprawia, \u017ce niemal przez ca\u0142y rok sk\u0105pana jest w bujnej zieleni, kt\u00f3rej pr\u00f3\u017cno szuka\u0107 w innych zak\u0105tkach wyspy. G\u0119ste lasy wawrzynowe i strome, mgli\u015bcie spowite zbocza masywu Anaga przypominaj\u0105 relikty prehistorycznych puszcz. Urok tej cz\u0119\u015bci wyspy podkre\u015blaj\u0105 malownicze wioski, ukryte w\u015br\u00f3d zielonych wzg\u00f3rz, bujne plantacje banan\u00f3w oraz lokalne winnice, z kt\u00f3rych s\u0142ynie region La Orotava.\n\nW\u015br\u00f3d labiryntu szlak\u00f3w turystycznych czekaj\u0105 ukryte punkty widokowe, z kt\u00f3rych rozci\u0105gaj\u0105 si\u0119 spektakularne panoramy na ocean i urwiste klify. Codzienne \u017cycie miasteczek (takich jak historyczna La Laguna czy spokojne Puerto de la Cruz) toczy si\u0119 tu w rytmie kanaryjskich tradycji \u2013 pomi\u0119dzy zabytkowymi uliczkami, ogrodami botanicznymi i lokalnymi kafejkami. Na p\u00f3\u0142nocy Teneryfy natura zawsze jest na wyci\u0105gni\u0119cie r\u0119ki \u2013 dzika, nieokie\u0142znana i inspiruj\u0105ca ka\u017cdego, kto zdecyduje si\u0119 tu zajrze\u0107.\n\nPo\u0142udnie wyspy\n\nPo\u0142udniowa cz\u0119\u015b\u0107 wyspy to wakacyjny raj pe\u0142en s\u0142o\u0144ca. Przez wi\u0119kszo\u015b\u0107 roku kr\u00f3luje tu wysoka temperatura, a opady deszczu s\u0105 rzadko\u015bci\u0105, dzi\u0119ki czemu pla\u017cowanie jest mo\u017cliwe niemal przez ca\u0142y rok. Wybrze\u017ce zachwyca r\u00f3\u017cnorodno\u015bci\u0105 pla\u017c \u2013 zar\u00f3wno tych pokrytych z\u0142otym piaskiem (Playa de las Vistas, Playa del Duque, Playa de las Am\u00e9ricas), jak i dzikich, wulkanicznych odcink\u00f3w z czarnym, egzotycznym piaskiem.\n\nKurorty po\u0142udniowego wybrze\u017ca takie jak Costa Adeje, Los Cristianos czy El M\u00e9dano kusz\u0105 setkami hoteli All Inclusive z doskona\u0142\u0105 infrastruktur\u0119 sportowo-rozrywkow\u0105. W tej cz\u0119\u015bci wyspy znajdziesz te\u017c popularne parki wodne, w tym najwi\u0119kszy w Europie Siam Park, oraz liczne szko\u0142y surfingu i kitesurfingu, kt\u00f3re co roku przyci\u0105gaj\u0105 mi\u0142o\u015bnik\u00f3w aktywno\u015bci z r\u00f3\u017cnych zak\u0105tk\u00f3w \u015bwiata. Po zachodzie s\u0142o\u0144ca wybrze\u017ce zamienia si\u0119 w t\u0119tni\u0105c\u0105 \u017cyciem promenad\u0119 pe\u0142n\u0105 restauracji, bar\u00f3w i klub\u00f3w, w kt\u00f3rych zabawa trwa do p\u00f3\u017anych godzin nocnych. Wszystko to sprawia, \u017ce po\u0142udniowa Teneryfa mo\u017ce by\u0107 wakacyjnym celem ka\u017cdego \u2013 bez wzgl\u0119du na wiek i zainteresowania.\n\nFuerteventura \u2013 raj dla pla\u017cowicz\u00f3w i mi\u0142o\u015bnik\u00f3w sport\u00f3w wodnych\n\nFuerteventura to prawdziwa mekka dla mi\u0142o\u015bnik\u00f3w bezkresnych, piaszczystych pla\u017c. Niemal 150 km wybrze\u017ca \u0142\u0105czy w sobie egzotyczny urok z bezpiecze\u0144stwem i komfortem europejskiego kierunku. Na szerokich pasach drobnego, z\u0142ocistego piasku idealne warunki znajd\u0105 zar\u00f3wno ci, kt\u00f3rzy marz\u0105 o spokojnym wypoczynku, jak i pasjonaci wodnych sport\u00f3w. Dzi\u0119ki sta\u0142ym, silnym wiatrom pasatowym, Fuerteventura jest jednym z najlepszych miejsc na \u015bwiecie do uprawiania wind- i kitesurfingu. Na s\u0142ynnej Playa de Sotavento regularnie odbywaj\u0105 si\u0119 zawody Pucharu \u015awiata, a r\u00f3\u017cnorodno\u015b\u0107 spot\u00f3w gwarantuje, \u017ce ka\u017cdy sportowiec znajdzie tu miejsce odpowiednie dla swojego poziomu zaawansowania.\n\nDla mi\u0142o\u015bnik\u00f3w adrenaliny Fuerteventura otwiera \u015bwiat pe\u0142nych mo\u017cliwo\u015bci, za\u015b spokojniejsze miejsca zapewniaj\u0105 wymarzony relaks. Doskona\u0142e warunki pogodowe, wysoki standard infrastruktury hotelowej, szko\u0142y i wypo\u017cyczalnie sprz\u0119tu oraz niezapomniane krajobrazy z turkusowym morzem w tle sprawiaj\u0105, \u017ce wyspa staje si\u0119 idealnym kierunkiem zar\u00f3wno na rodzinne, jak i aktywne wakacje.\n\nAtrakcje Fuerteventury\n\nFuerteventura nie jest jednak wy\u0142\u0105cznie destynacj\u0105 dla pla\u017cowicz\u00f3w i surfer\u00f3w. Charakter wyspy kszta\u0142tuj\u0105 tak\u017ce surowe, wulkaniczne krajobrazy, kt\u00f3re w po\u0142\u0105czeniu z ubog\u0105 ro\u015blinno\u015bci\u0105 daj\u0105 poczucie autentyczno\u015bci i odr\u00f3\u017cniaj\u0105 t\u0119 wysp\u0119 od innych w archipelagu. Pustynne r\u00f3wniny przeplatane sto\u017ckami wygas\u0142ych wulkan\u00f3w tworz\u0105 krajobraz bardziej przypominaj\u0105cy Sahar\u0119 ni\u017c typowy nadmorski kurort. Najlepiej wida\u0107 to w Parku Przyrody Corralejo, gdzie wielokilometrowe pole wydm z drobnego piasku nawianego z Afryki styka si\u0119 z turkusowym Atlantykiem i czerwieni\u0105 wulkanu Monta\u00f1a Roja.\n\nChroniony obszar stanowi spektakularne t\u0142o dla pieszych w\u0119dr\u00f3wek, sesji zdj\u0119ciowych i wydarze\u0144 plenerowych takich jak coroczny Mi\u0119dzynarodowy Festiwal Latawc\u00f3w. Mimo popularno\u015bci wyspy nietrudno tu o niemal puste zatoczki, w kt\u00f3rych mo\u017cna delektowa\u0107 si\u0119 cisz\u0105 i blisko\u015bci\u0105 natury. Wystarczy kr\u00f3tki trekking na kraw\u0119d\u017a wulkanu Calder\u00f3n Hondo, aby podziwia\u0107 rozleg\u0142\u0105 panoram\u0119 p\u00f3\u0142nocnej Fuerteventury i s\u0105siedniej Lanzarote.\n\nKiedy najlepiej lecie\u0107 na Fuerteventur\u0119?\n\nFuerteventur\u0119 mo\u017cna wybra\u0107 o ka\u017cdej porze roku \u2013 i o ka\u017cdej porze b\u0119dzie to dobry wyb\u00f3r. Latem temperatury nale\u017c\u0105 do najwy\u017cszych w ca\u0142ym archipelagu \u2013 od czerwca do sierpnia termometry pokazuj\u0105 zwykle oko\u0142o 26\u201329\u00b0C w ci\u0105gu dnia, a nawet w nocy temperatura rzadko spada poni\u017cej 22\u00b0C. Woda w Oceanie Atlantyckim ogrzewa si\u0119 do przyjemnych 22\u201323\u00b0C, co pozwala na d\u0142ugie k\u0105piele i uprawianie sport\u00f3w wodnych nawet przez osoby, kt\u00f3re nie przepadaj\u0105 za ch\u0142odem. Nawet jesieni\u0105 Fuerteventura zachwyca idealn\u0105 pogod\u0105 \u2013 we wrze\u015bniu i pa\u017adzierniku temperatury powietrza wci\u0105\u017c oscyluj\u0105 w granicach 23\u201327\u00b0C, a temperatura wody w Oceanie Atlantyckim utrzymuje si\u0119 na poziomie komfortowych 22\u201323\u00b0C.\n\nTo r\u00f3wnie\u017c \u015bwietny kierunek na ucieczk\u0119 przed mrozem i szarug\u0105 polskiej zimy. W styczniu i lutym temperatury w ci\u0105gu dnia oscyluj\u0105 wok\u00f3\u0142 20\u201322\u00b0C, noc\u0105 spadaj\u0105 do 14\u201315\u00b0C. Sze\u015b\u0107 godzin s\u0142o\u0144ca dziennie i znikome opady umo\u017cliwiaj\u0105 spacery po pla\u017cach czy sesje z desk\u0105 na falach bez potrzeby grubych warstw odzie\u017cy. Dzi\u0119ki tak stabilnej i \u0142agodnej pogodzie Fuerteventura jest wymarzonym kierunkiem na spontaniczne wyjazdy Last Minute. Oferty pojawiaj\u0105ce si\u0119 poza szczytem sezonu pozwalaj\u0105 odkry\u0107 wysp\u0119 w najbardziej autentycznej ods\u0142onie. To idealna propozycja dla tych, kt\u00f3rzy pragn\u0105 uciec od jesiennej aury i na\u0142adowa\u0107 baterie w promieniach kanaryjskiego s\u0142o\u0144ca.\n\nGran Canaria \u2013 kontynent w miniaturze\n\nGran Canaria cz\u0119sto okre\u015blana jest mianem \u201eminiaturowego kontynentu\u201d ze wzgl\u0119du na niezwyk\u0142\u0105 r\u00f3\u017cnorodno\u015b\u0107 krajobraz\u00f3w i mikroklimat\u00f3w, kt\u00f3re mo\u017cna tu odnale\u017a\u0107 na stosunkowo niewielkiej powierzchni. P\u00f3\u0142nocno-wschodnia cz\u0119\u015b\u0107 wyspy zachwyca zielonymi krajobrazami, bujnymi lasami sosnowymi i wyj\u0105tkowo zr\u00f3\u017cnicowan\u0105 faun\u0105 i flor\u0105, kt\u00f3ra znajduje tutaj doskona\u0142e warunki do rozwoju. Dzi\u0119ki wilgotnym pasatom znad Atlantyku region ten jest wyra\u017anie ch\u0142odniejszy, a powietrze jest tam bardziej rze\u015bkie ni\u017c w innych rejonach wyspy.\n\nWystarczy jednak przejecha\u0107 kilkadziesi\u0105t kilometr\u00f3w na po\u0142udnie, aby znale\u017a\u0107 si\u0119 w zupe\u0142nie innym \u015bwiecie. Rozleg\u0142e, z\u0142ote wydmy Maspalomas przypominaj\u0105 pustynne bezkresy, kt\u00f3re si\u0119gaj\u0105 a\u017c po turkusowe wody Oceanu Atlantyckiego. To wymarzone miejsce na d\u0142ugie spacery i podziwianie osza\u0142amiaj\u0105cych zachod\u00f3w s\u0142o\u0144ca. W niewielkiej odleg\u0142o\u015bci znajduje si\u0119 Puerto de Mog\u00e1n, czyli malownicze miasteczko portowe, kt\u00f3re nazywane jest \u201ekanaryjsk\u0105 Wenecj\u0105\u201d ze wzgl\u0119du na urokliwe kana\u0142y, kolorowe domki i kwieciste uliczki.\n\nW samym sercu wyspy kr\u00f3luj\u0105 pot\u0119\u017cne, wulkaniczne masywy oraz g\u0142\u0119bokie w\u0105wozy, przecinane licznymi, znakowanymi szlakami turystycznymi. Symbolem tego surowego krajobrazu jest Roque Nublo, majestatyczny monolit skalny, kt\u00f3ry by\u0142 niegdy\u015b \u015bwi\u0119tym miejscem dla rdzennych mieszka\u0144c\u00f3w wyspy. Z jego szczytu mo\u017cna podziwia\u0107 panoram\u0119 centralnej cz\u0119\u015bci Gran Canarii, a przy dobrej pogodzie dostrzec nawet s\u0105siedni\u0105 Teneryf\u0119 i wulkan Teide. R\u00f3wnie spektakularne panoramy roztaczaj\u0105 si\u0119 z Pico de las Nieves, czyli najwy\u017cszego szczytu Gran Canarii.\n\nWioski i miasteczka\n\nPrawdziw\u0105 dusz\u0119 Gran Canarii odkrywa si\u0119 tak\u017ce w jej urokliwych miasteczkach, w kt\u00f3rych codzienno\u015b\u0107 wci\u0105\u017c p\u0142ynie w rytmie dawnych kanaryjskich tradycji. W\u015br\u00f3d nich wyr\u00f3\u017cnia si\u0119 historyczne Teror, kt\u00f3ry zachwyca kolonialn\u0105 architektur\u0105, charakterystycznymi drewnianymi balkonami i bazylik\u0105 Matki Bo\u017cej Sosnowej (patronki wyspy). Fataga to z kolei miejscowo\u015b\u0107 po\u0142o\u017cona w malowniczym w\u0105wozie. To prawdziwa oaza spokoju, w kt\u00f3rej bia\u0142e domy kontrastuj\u0105 z zieleni\u0105 palmowych gaj\u00f3w. Najwy\u017cej po\u0142o\u017con\u0105 wiosk\u0105 na Gran Canarii jest natomiast Artenara. Znana jest z unikalnych dom\u00f3w wykutych bezpo\u015brednio w ska\u0142ach, w kt\u00f3rych nadal mieszkaj\u0105 ludzie kontynuuj\u0105cy tradycje rdzennych mieszka\u0144c\u00f3w wyspy.\n\nSercem kulturalnym i historycznym wyspy jest jej stolica, Las Palmas de Gran Canaria, a w szczeg\u00f3lno\u015bci jej najstarsza dzielnica \u2013 Vegueta. To tu, w labiryncie w\u0105skich, brukowanych uliczek, przeniesiesz si\u0119 w czasie do epoki wielkich odkry\u0107 geograficznych i poznasz prawdziwy klimat Wysp Kanaryjskich. Centralnym punktem jest tu Plaza de Santa Ana, przy kt\u00f3rym wznosi si\u0119 majestatyczna Katedra \u015awi\u0119tej Anny. W pobli\u017cu znajduje si\u0119 Casa de Col\u00f3n, czyli pa\u0142ac, w kt\u00f3rym wed\u0142ug legendy zatrzyma\u0142 si\u0119 Krzysztof Kolumb. Dzi\u015b mie\u015bci si\u0119 tam muzeum po\u015bwi\u0119cone epoce wielkich odkry\u0107.\n\nA Ty kt\u00f3r\u0105 wysp\u0119 wybierzesz?\n\nNie ma jednej recepty na idealne wakacje na Wyspach Kanaryjskich. To miejsce, kt\u00f3re potrafi zaskoczy\u0107 i oczarowa\u0107 ka\u017cdego, niezale\u017cnie od oczekiwa\u0144 i stylu podr\u00f3\u017cowania. Ostateczny wyb\u00f3r zale\u017cy od tego, czy Twoje serce bije szybciej na my\u015bl o g\u00f3rskiej w\u0119dr\u00f3wce po wulkanicznych szlakach Teneryfy, leniwym dniu na z\u0142ocistych pla\u017cach Fuerteventury, czy mo\u017ce o odkrywaniu t\u0119tni\u0105cych \u017cyciem ulic i kulturalnych zak\u0105tk\u00f3w Gran Canarii.\n\nJednak niezale\u017cnie od tego, kt\u00f3ra wyspa zauroczy Ci\u0119 jako pierwsza, potraktuj ten wyb\u00f3r jako wst\u0119p do fascynuj\u0105cej podr\u00f3\u017cy. Dzi\u0119ki \u015bwietnie rozwini\u0119tej siatce po\u0142\u0105cze\u0144 lotniczych i atrakcyjnym ofertom wakacyjnym mo\u017cesz swobodnie planowa\u0107 kolejne wyjazdy i odkrywa\u0107 kolejne zak\u0105tki archipelagu."
         }
     },
     {
@@ -314,7 +314,7 @@
             "description": "Czy wiemy gdzie si\u0119 schowa\u0107 przed dronami? Czy znacie aplikacj\u0119 strazak\u00f3w? Rozmawiamy z ekspertem - Aleksandrem Fiedorkiem.",
             "image_url": "https://www.bing.pl/th?id=OVFT.LCUZMfXrt7K5K8B8uGFP9y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "OKO.press3 godz.",
+            "date": "OKO.press7 godz.",
             "source": "OKO.press",
             "article_content": "Kiedy za nasz\u0105 wschodni\u0105 granic\u0105 toczy si\u0119 wojna, a w polskiej przestrzeni powietrznej spadaj\u0105 drony, coraz cz\u0119\u015bciej pojawia si\u0119 w naszych g\u0142owach pytanie: czy wiemy gdzie si\u0119 schowa\u0107? W poszukiwaniu odpowiedzi rozmawiamy z ekspertem \u2013 Aleksandrem Fiedorkiem.\n\nMi\u0119dzy pa\u017adziernikiem 2022 a lutym 2023 roku Stra\u017c Po\u017carna sprawdzi\u0142a w ca\u0142ej Polsce, gdzie mo\u017cna by si\u0119 schroni\u0107 w razie zagro\u017cenia. Analizie poddano wszystkie obiekty, kt\u00f3re nale\u017c\u0105 do instytucji pa\u0144stwowych, samorz\u0105dowych, wsp\u00f3lnot mieszkaniowych, sp\u00f3\u0142dzielni oraz podmiot\u00f3w gospodarczych prowadz\u0105cych dzia\u0142alno\u015b\u0107 po\u017cytku publicznego. Do spisu trafi\u0142o ponad 234 tys. miejsc \u2013 i tylko niespe\u0142na 11 tys. to budowle ochronne, czyli obiekty faktycznie projektowane z my\u015bl\u0105 o bezpiecze\u0144stwie.\n\nTeoretycznie s\u0105 to miejsca, gdzie miliony os\u00f3b mog\u0142aby znale\u017a\u0107 schronienie w razie wojny czy katastrofy. Ale w praktyce wi\u0119kszo\u015b\u0107 z nich to piwnice z czas\u00f3w PRL, projektowane bardziej pod k\u0105tem zimnowojennego strachu ni\u017c realnych zagro\u017ce\u0144 XXI wieku. W praktyce miejsca stworzone, by ratowa\u0107 \u017cycie, coraz cz\u0119\u015bciej przypominaj\u0105 relikty przesz\u0142o\u015bci ni\u017c realne wsparcie w sytuacji zagro\u017cenia.\n\nBy sprawdzi\u0107, czy w pobli\u017cu naszego domu znajduje si\u0119 schron, najlepiej zrobi\u0107 to poprzez aplikacj\u0119 stworzon\u0105 przez Pa\u0144stwow\u0105 Stra\u017c Po\u017carn\u0105 dost\u0119pn\u0105 pod tym linkiem . Interaktywna mapa pozwala na znalezienie adresu naszego zamieszkania i wyszukania najbli\u017cszego miejsca schronienia w podziale na kategorie \u2013 miejsca dora\u017anego schronienia (piwnice, gara\u017ce), ukrycia i schronu.\n\nZaloguj si\u0119 przez Google Zaloguj si\u0119 przez Facebook Zaloguj si\u0119 przez Apple\n\nMi\u0119dzy pa\u017adziernikiem 2022 a lutym 2023 roku Stra\u017c Po\u017carna sprawdzi\u0142a w ca\u0142ej Polsce, gdzie mo\u017cna by si\u0119 schroni\u0107 w razie zagro\u017cenia. Analizie poddano wszystkie obiekty, kt\u00f3re nale\u017c\u0105 do instytucji pa\u0144stwowych, samorz\u0105dowych, wsp\u00f3lnot mieszkaniowych, sp\u00f3\u0142dzielni oraz podmiot\u00f3w gospodarczych prowadz\u0105cych dzia\u0142alno\u015b\u0107 po\u017cytku publicznego. Do spisu trafi\u0142o ponad 234 tys. miejsc \u2013 i tylko niespe\u0142na 11 tys. to budowle ochronne, czyli obiekty faktycznie projektowane z my\u015bl\u0105 o bezpiecze\u0144stwie.\n\nI tu wa\u017cna uwaga: zebrane dane przez Pa\u0144stwow\u0105 Stra\u017c Po\u017carn\u0105 mog\u0105 ju\u017c nie by\u0107 aktualne, dlatego najlepiej traktowa\u0107 aplikacj\u0119 jedynie jako pomocnicze \u017ar\u00f3d\u0142o informacji o mo\u017cliwych miejscach schronienia.\n\nPo napa\u015bci Rosji na Ukrain\u0119 sytuacja schron\u00f3w w Polsce jest w op\u0142akanym stanie. Wi\u0119kszo\u015b\u0107 budowli pochodzi z lat 50. i 60. W Starachowicach w wojew\u00f3dztwie \u015bwi\u0119tokrzyskim jest 30 schron\u00f3w, kt\u00f3re mog\u0105 pomie\u015bci\u0107 oko\u0142o 3,5 tys. os\u00f3b. Cz\u0119\u015b\u0107 schron\u00f3w ma zardzewia\u0142e drzwi, kt\u00f3rych nie mo\u017cna domkn\u0105\u0107. Znajduj\u0105 si\u0119 g\u0142\u00f3wnie pod blokami mieszkalnymi, ale wiele z nich zosta\u0142o zaadaptowane na piwnice czy kom\u00f3rki lokatorskie. Tylko w nielicznych da si\u0119 jeszcze skorzysta\u0107 z wyj\u015b\u0107 ewakuacyjnych. W wi\u0119kszo\u015bci zosta\u0142y one zamurowane albo przerobione pod budow\u0119 parking\u00f3w."
         }
@@ -325,14 +325,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Forwark moczyd\u0142o",
-            "link": "https://warszawa.naszemiasto.pl/tag/forwark-moczydlo",
-            "description": "Mazowiecki Konserwator Zabytk\u00f3w, prof. dr hab. Jakub Lewicki, wpisa\u0142 do rejestru zabytk\u00f3w budynek stajni dawnego folwarku ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Samochody znikn\u0119\u0142y st\u0105d ju\u017c na sta\u0142e. Pod ziemi\u0105 czekaj\u0105 pozosta\u0142o\u015bci ko\u015bcio\u0142a zniszczonego 200 lat temu",
+            "link": "https://wszczecinie.pl/samochody-zniknely-stad-juz-na-stale-pod-ziemia-czekaja-pozostalosci-kosciola-zniszczonego-200-lat-temu/52391",
+            "description": "Docelowy pomys\u0142 jest taki, \u017ceby fundamenty \u015bredniowiecznego ko\u015bcio\u0142a \u015bw. Miko\u0142aja mo\u017cna by\u0142o ogl\u0105da\u0107 przez przeszklone otwory ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.8Aw5fJSHFK-C0vmOt-0Qmy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Warszawa Nasze Miasto3 godz.",
-            "source": "Warszawa Nasze Miasto",
-            "article_content": "Content not available"
+            "date": "wSzczecinie.pl3 godz.",
+            "source": "wSzczecinie.pl",
+            "article_content": "Docelowy pomys\u0142 jest taki, \u017ceby fundamenty \u015bredniowiecznego ko\u015bcio\u0142a \u015bw. Miko\u0142aja mo\u017cna by\u0142o ogl\u0105da\u0107 przez przeszklone otwory w nawierzchni Rynku Nowego. Najpierw jednak powstanie wystawa, a model 3D schowanych pod ziemi\u0105 relikt\u00f3w \u015bwi\u0105tyni b\u0119dzie do wy\u015bwietlenia na ekranach smartfon\u00f3w. \u2013 To bezinwazyjna metoda na dzisiaj. Skoro nie mo\u017cemy ich na razie pokaza\u0107 fizycznie, zrobimy to wirtualnie \u2013 t\u0142umaczy Micha\u0142 D\u0119bowski, miejski konserwator zabytk\u00f3w.\n\nSpis Tre\u015bci\n\nPozosta\u0142o\u015bci nieistniej\u0105cego od dw\u00f3ch wiek\u00f3w ko\u015bcio\u0142a ponownie ujrza\u0142y \u015bwiat\u0142o dzienne podczas prowadzonych w 2022 roku prac archeologicznych. Najcenniejszym znaleziskiem okaza\u0142 si\u0119 fragment \u015bciany ze s\u0142u\u017ckami, czyli cienkimi kolumnami, kt\u00f3re zdobi\u0105 filar podtrzymuj\u0105cy dawne sklepienie. Mo\u017ce mie\u0107 ponad 800 lat.\n\nPomys\u0142 jest, potrzebne s\u0105 pieni\u0105dze\n\nFragmenty historycznych mur\u00f3w dok\u0142adnie udokumentowano, zabezpieczono, a nast\u0119pnie zasypano. Jednocze\u015bnie powsta\u0142a koncepcja wyeksponowania ich w przysz\u0142o\u015bci. Zak\u0142ada, \u017ce relikty zostan\u0105 szczelnie obudowane konstrukcj\u0105, w kt\u00f3rej znajd\u0105 si\u0119 przeszklone otwory. Spaceruj\u0105c po Rynku Nowym b\u0119dzie mo\u017cna spojrze\u0107 w d\u00f3\u0142, by zobaczy\u0107 \u015blady historii sprzed setek lat.\n\nTyle tylko, \u017ce taka przebudowa placu mi\u0119dzy Ratuszem Staromiejskim a hotelem ibis to du\u017cy wydatek. S\u0142yszymy, \u017ce mo\u017ce si\u0119gn\u0105\u0107 10 mln z\u0142.\n\n\u2013 B\u0119d\u0119 robi\u0142 wszystko, \u017ceby w perspektywie najbli\u017cszych lat znalaz\u0142y si\u0119 niezb\u0119dne pieni\u0105dze \u2013 zapowiada Micha\u0142 D\u0119bowski. \u2013 Na razie znikn\u0105\u0142 parking, kt\u00f3ry ju\u017c tutaj nie wr\u00f3ci. Nowy Rynek wymaga opowiedzenia na nowo, nie chc\u0119, \u017ceby plac sta\u0142 pusty, jak jest to obecnie.\n\nZadbaj\u0105 nie tylko o tre\u015b\u0107, ale r\u00f3wnie\u017c o form\u0119\n\nSt\u0105d pomys\u0142 wystawy, kt\u00f3ra ma pojawi\u0107 si\u0119 na Rynku Nowym wiosn\u0105 przysz\u0142ego roku. Standy i pylony z materia\u0142ami o historii tego miejsca b\u0119d\u0105 nawi\u0105zywa\u0107 form\u0105 do filar\u00f3w z dawnego ko\u015bcio\u0142a. Kod QR przeniesie ogl\u0105daj\u0105cych do modeli 3D relikt\u00f3w architektonicznych znajduj\u0105cych si\u0119 pod ich stopami pozosta\u0142o\u015bci \u015bwi\u0105tyni.\n\n\u2013 Zostanie te\u017c zaznaczony rzut ko\u015bcio\u0142a w posadzce placu. Koncepcja wystawy jest bardzo ciekawa \u2013 zapewnia Micha\u0142 D\u0119bowski.\n\nSp\u0142on\u0105\u0142 na pocz\u0105tku XIX wieku\n\nKo\u015bci\u00f3\u0142 \u015bw. Miko\u0142aja sta\u0142 na Podzamczu przez kilka stuleci. Pierwsze wzmianki o wzniesionej w tym miejscu kaplicy pochodz\u0105 z trzeciej \u0107wierci XIII wieku, to wtedy rozpocz\u0119\u0142a si\u0119 budowa pierwszego ceglanego ko\u015bcio\u0142a..\n\nGdy w 1806 r. Szczecin przej\u0119\u0142a administracja francuska, ko\u015bci\u00f3\u0142 \u015bw. Miko\u0142aja zosta\u0142 zamieniony w magazyn siana dla wojsk napoleo\u0144skich. Dlatego po\u017car, kt\u00f3ry wybuch\u0142 5 lat p\u00f3\u017aniej (w nocy z 9 na 10 grudnia 1811 r.) musia\u0142 mie\u0107 olbrzymie rozmiary. Zniszczeniu uleg\u0142a nie tylko \u015bwi\u0105tynia, ale te\u017c okoliczne domy. Spalony ko\u015bci\u00f3\u0142 rozebrano do fundament\u00f3w, a plac wybrukowano i nadano mu nazw\u0119 Nowego Rynku."
         }
     },
     {
@@ -341,12 +341,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Katowice z lat 70 - ZDJ\u0118CIA. Tych unikalnych fotografii jeszcze nie widzia\u0142e\u015b! S\u0105 od genialnego architekta, kt\u00f3ry budowa\u0142 miasto",
-            "link": "https://www.msn.com/pl-pl/historia-i-kultura-spo%C5%82ecze%C5%84stwa/historia/katowice-z-lat-70-zdj%C4%99cia-tych-unikalnych-fotografii-jeszcze-nie-widzia%C5%82e%C5%9B-s%C4%85-od-genialnego-architekta-kt%C3%B3ry-budowa%C5%82-miasto/ar-AA1MpVCy?ocid=BingNewsVerp",
-            "description": "HISTORIA. Tak wygl\u0105da\u0142y Katowice w latach 70! Jeden z najs\u0142ynniejszych, najbardziej zas\u0142u\u017conych architekt\u00f3w w historii miasta ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.-v0i9hZEtm1Vv2ZDzPBr-i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Tak wygl\u0105da\u0142y Katowice z lat 70 - zobacz to! Tych unikalnych zdj\u0119\u0107 jeszcze nie widzia\u0142e\u015b! S\u0105 od genialnego architekta, kt\u00f3ry budowa\u0142 miasto",
+            "link": "https://www.msn.com/pl-pl/historia-i-kultura-spo%C5%82ecze%C5%84stwa/historia/tak-wygl%C4%85da%C5%82y-katowice-z-lat-70-zobacz-to-tych-unikalnych-zdj%C4%99%C4%87-jeszcze-nie-widzia%C5%82e%C5%9B-s%C4%85-od-genialnego-architekta-kt%C3%B3ry-budowa%C5%82-miasto/ar-AA1MpVCy?ocid=BingNewsVerp",
+            "description": "WSPOMINAMY. Tak wygl\u0105da\u0142y Katowice w latach 70! Jeden z najs\u0142ynniejszych, najbardziej zas\u0142u\u017conych architekt\u00f3w w historii ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.lwjozOeOunmVraIA431HlC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Katowice Nasze Miasto on MSN14 godz.",
+            "date": "Katowice Nasze Miasto on MSN3 godz.",
             "source": "Katowice Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -357,45 +357,45 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Kula haka",
-            "link": "https://echodnia.eu/radomskie/tag/kula-haka",
-            "description": "Os\u0142ona na kul\u0119 haka holowniczego mo\u017ce mie\u0107 r\u00f3\u017cne kszta\u0142ty. W przesz\u0142o\u015bci kierowcy stosowali mi\u0119dzy innymi wyci\u0119te pi\u0142eczki ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.OlAu1bnOzeBTIhhXx8Eu3y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "Echo Dnia8 godz.",
-            "source": "Echo Dnia",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Uk\u0142ad ABS",
-            "link": "https://echodnia.eu/radomskie/tag/uklad-abs",
-            "description": "Uk\u0142ad hamulcowy to jeden z najwa\u017cniejszych element\u00f3w decyduj\u0105cych o bezpiecze\u0144stwie kierowcy i pasa\u017cer\u00f3w. Klocki hamulcowe ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.OlAu1bnOzeBTIhhXx8Eu3y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "Echo Dnia7 godz.",
-            "source": "Echo Dnia",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Przegl\u0105d prasy 25.09.2025. Przygotowali\u015bmy zestaw najwa\u017cniejszych informacji z wczoraj. B\u0105d\u017a na bie\u017c\u0105co z wydarzeniami",
-            "link": "https://gazetakrakowska.pl/przeglad-prasy-25-09-2025-przygotowalismy-zestaw-najwazniejszych-informacji-z-wczoraj-badz-na-biezaco-z-wydarzeniami/ar/c1p1-19960891",
-            "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 24.09.",
-            "image_url": "https://www.bing.pl/th?id=OVFT.OdZRXPTfGqpq32oVul00Bi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "XVII-wieczne domy, kafle i przedmioty codziennego u\u017cytku odkryte na Podzamczu",
+            "link": "https://www.dziennikwschodni.pl/lublin/xvii-wieczne-domy-kafle-i-przedmioty-codziennego-uzytku-odkryte-na-podzamczu,n,1000367312.html",
+            "description": "Podczas ratowniczych bada\u0144 archeologicznych prowadzonych w rejonie ulic Zamkowej i Podwale w Lublinie archeolodzy natrafili ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.U_ydLVGA0ch1jn_TG4U1mC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Krakowska39 min",
-            "source": "Gazeta Krakowska",
+            "date": "Dziennik Wschodni1 godz.",
+            "source": "Dziennik Wschodni",
+            "article_content": "W pierwszym etapie badacze skupili si\u0119 na reliktach murowanych dom\u00f3w z XIX i XX wieku. Szybko okaza\u0142o si\u0119 jednak, \u017ce pod nimi kryj\u0105 si\u0119 starsze konstrukcje drewniane \u2013 w tym \u015bwietnie zachowany dom mieszkalny z XVII wieku.\n\nDom mia\u0142 co najmniej dwie izby, drewnian\u0105 pod\u0142og\u0119 u\u0142o\u017con\u0105 na legarach i kaflowy piec grzewczy. Jak wskazuj\u0105 \u015blady spalenizny, to w\u0142a\u015bnie on m\u00f3g\u0142 by\u0107 przyczyn\u0105 po\u017caru, kt\u00f3ry zako\u0144czy\u0142 \u017cycie budynku. Obok odnaleziono kana\u0142 \u015bciekowy lub odwadniaj\u0105cy, wielokrotnie naprawiany i przebudowywany.\n\nBadania obfitowa\u0142y w znaleziska \u2013 archeolodzy wydobyli m.in. kafle piecowe zdobione motywem or\u0142a, typowym dla XVII stulecia, a tak\u017ce liczne fragmenty naczy\u0144: garnk\u00f3w, mis, dzbank\u00f3w czy p\u00f3\u0142majoliki, czyli popularnej w epoce nowo\u017cytnej zastawy sto\u0142owej. Odkryto te\u017c g\u0142\u00f3wki fajek, fragmenty butelek i szklanic, elementy okiennych gom\u00f3\u0142ek i o\u0142owianych szczeblinek.\n\nNa uwag\u0119 zas\u0142uguj\u0105 wyj\u0105tkowo rzadko zachowuj\u0105ce si\u0119 w ziemi drewniane przedmioty codziennego u\u017cytku: \u0142y\u017cka, klepka od wiaderka i dno skopka. Nie zabrak\u0142o tak\u017ce przedmiot\u00f3w metalowych \u2013 od uchwytu sztu\u0107ca i \u017celaznego zawiasu, przez dzwonek i krzesiwo, a\u017c po kulki muszkietowe. Do tego guziki, monety i plomby towarowe.\n\n\u0141\u0105cznie z dawnej posesji przy Zamkowej 5 wydobyto kilka tysi\u0119cy zabytk\u00f3w. Wszystkie trafiaj\u0105 teraz do konserwacji i szczeg\u00f3\u0142owych opracowa\u0144, kt\u00f3re pozwol\u0105 pe\u0142niej odtworzy\u0107 histori\u0119 tej cz\u0119\u015bci Lublina.\n\nBadania prowadzi\u0142a Pracownia Archeologiczna Archeja pod kierunkiem Jacka Tkaczyka. Dokumentacja fotograficzna znalezisk zosta\u0142a udost\u0119pniona przez zesp\u00f3\u0142 archeolog\u00f3w."
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Istne CUDE\u0143KA na D\u0105browskim Jarmarku Staroci! Zabytkowe meble, pami\u0105tki z PRL-u i \u015bwiatowe waluty...a to nie wszystko. Zobacz te ZDJ\u0118CIA",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/istne-cude%C5%84ka-na-d%C4%85browskim-jarmarku-staroci-zabytkowe-meble-pami%C4%85tki-z-prl-u-i-%C5%9Bwiatowe-walutya-to-nie-wszystko-zobacz-te-zdj%C4%99cia/ar-AA1N0HBs?ocid=BingNewsVerp",
+            "description": "STAROCIE. W D\u0105browie G\u00f3rniczej, na sta\u0142e wpisa\u0142 si\u0119 w kalendarz wydarze\u0144, Jarmark Staroci, kt\u00f3ry w ka\u017cd\u0105 trzeci\u0105 niedziel\u0119 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.B7w8eknsafxHulB_uiCIoC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "D\u0105browa G\u00f3rnicza Nasze Miasto on MSN20 min",
+            "source": "D\u0105browa G\u00f3rnicza Nasze Miasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Zabytkowy ratusz chorz\u00f3w",
+            "link": "https://dziennikzachodni.pl/tag/zabytkowy-ratusz-chorzow",
+            "description": "Zaniepokojone rosn\u0105c\u0105 si\u0142\u0105 kierowc\u00f3w ci\u0119\u017car\u00f3wek, kt\u00f3rzy sparali\u017cowali stolic\u0119 Kanady, w\u0142adze Ottawy og\u0142osi\u0142y wprowadzenie stanu wyj\u0105tkowego. Wystarczy\u0142 kaszel w czasie, gdy przemawia\u0142 Joe Biden, aby ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.73GKiv_kwPXUhIas-a0ZXQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "zabytkowe+przedmioty",
+            "date": "Dziennik Zachodni1 godz.",
+            "source": "Dziennik Zachodni",
             "article_content": "Content not available"
         }
     },
@@ -410,7 +410,7 @@
             "description": "Trwa remont jednego z najstarszych zabytk\u00f3w powiatu polickiego. W B\u0119dargowie odnawiany jest XIII-wieczny ko\u015bci\u00f3\u0142 pw. Naj\u015bwi\u0119tszej Maryi Panny Wspomo\u017cenia Wiernych. Inwestycja zako\u0144czy si\u0119 jesieni\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "G\u0142os Szczeci\u0144ski39 min",
+            "date": "G\u0142os Szczeci\u0144ski4 godz.",
             "source": "G\u0142os Szczeci\u0144ski",
             "article_content": "Content not available"
         }
@@ -426,40 +426,8 @@
             "description": "Gda\u0144sk, Gdynia i Sopot to prawdziwe turystyczne zag\u0142\u0119bie, kt\u00f3re o ka\u017cdej porze roku przyci\u0105ga go\u015bci z ca\u0142ej Polski, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Warszawa Nasze Miasto33 min",
+            "date": "Warszawa Nasze Miasto4 godz.",
             "source": "Warszawa Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Pras\u00f3wka 25.09.2025. Zobacz zestawienie najwa\u017cniejszych informacji z wczoraj z naszego wojew\u00f3dztwa",
-            "link": "https://dziennikpolski24.pl/prasowka-25-09-2025-zobacz-zestawienie-najwazniejszych-informacji-z-wczoraj-z-naszego-wojewodztwa/ar/c1p1-19960929",
-            "description": "W poniedzia\u0142ek, 22 wrze\u015bnia, wieczorem mo\u017cna ju\u017c zobaczy\u0107 k\u0142adk\u0119 Kazimierz - Ludwin\u00f3w ze wszystkimi trzema pomostami. Przez ca\u0142y dzie\u0144 trwa\u0142 monta\u017c brakuj\u0105cego elementu tzw. sinusa, kt\u00f3rym b\u0119dzie ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.HjClkBco3nIXj5Su8fjgAg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "zabytkowe+przedmioty",
-            "date": "Dziennik Polski37 min",
-            "source": "Dziennik Polski",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Przegl\u0105d prasy (25.09.2025). Zobacz pras\u00f3wk\u0119 z najwa\u017cniejszymi wydarzeniami z wczoraj. B\u0105d\u017a na bie\u017c\u0105co",
-            "link": "https://pomorska.pl/przeglad-prasy-25-09-2025-zobacz-prasowke-z-najwazniejszymi-wydarzeniami-z-wczoraj-badz-na-biezaco/ar/c1p1-19960903",
-            "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 24.09. Sprawd\u017a, czy nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego. Czy czyta\u0142e\u015b artyku\u0142: \u201eZawisza ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Pomorska39 min",
-            "source": "Gazeta Pomorska",
             "article_content": "Content not available"
         }
     },
@@ -474,7 +442,7 @@
             "description": "W naszych domach mog\u0105 si\u0119 kry\u0107 prawdziwe skarby. Warto przejrze\u0107 pud\u0142a ze starymi rzeczami, pami\u0105tkami, pawlacze i schowki, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.HWzaOzIrx_ukoLz1Y0QaDC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Pomorska on MSN19 godz.",
+            "date": "Gazeta Pomorska on MSN23 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -486,13 +454,29 @@
         },
         "body": {
             "title": "25 WRZE\u015aNIA 2025",
-            "link": "https://www.krakow.pl/kalendarium/1919,shw,2025-09-25,7,day.html",
-            "description": "Wystawa mie\u015bci si\u0119 w dawnym budynku administracyjnym Fabryki Emalia Oskara Schindlera przy ul. Lipowej 4 i jest opowie\u015bci\u0105 o Krakowie i losach jego polskich i \u017cydowskich mieszka\u0144c\u00f3w w czasie II wojny ...",
+            "link": "https://www.krakow.pl/kalendarium/1919,shw,2025-09-25,6,day.html",
+            "description": "Wystawa plenerowa na terenie dawnego niemieckiego nazistowskiego obozu pracy i koncentracyjnego Plaszow. Pomi\u0119dzy ul. Kamie\u0144skiego i Wielick\u0105, w miejscach wa\u017cnych dla historii obozu ustawiono 19 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w6 godz.",
+            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w10 godz.",
             "source": "Oficjalny serwis miejski - Magiczny Krak\u00f3w",
-            "article_content": "Krak\u00f3w \u2013 czas okupacji 1939-1945\n\nWystawa mie\u015bci si\u0119 w dawnym budynku administracyjnym Fabryki Emalia Oskara Schindlera przy ul. Lipowej 4 i jest opowie\u015bci\u0105 o Krakowie i losach jego polskich i \u017cydowskich mieszka\u0144c\u00f3w w czasie II wojny \u015bwiatowej, ale te\u017c o Niemcach \u2013 okupantach,..."
+            "article_content": "Szukaj wydarzenia\n\nKategoria: -- wszystkie -- Spektakle taneczne Spektakle teatralne Spacery i zwiedzanie Akcje czytelnicze Muzyka rozrywkowa Wystawy czasowe Festiwale Targi i kiermasze Festiwale sztuk wizualnych Muzyka klasyczna Wyk\u0142ady, spacery i warsztaty artystyczne W gminach Metropolii Kabaret Festiwale i przegl\u0105dy filmowe Festiwale muzyczne Inne przedstawienia Spotkania i slajdowiska Inne koncerty Festiwale teatralne Pozosta\u0142e Dzieci\u0119ce r\u00f3\u017cno\u015bci Wydarzenia sportowe Muzyka klubowa Cykle filmowe Wystawy sta\u0142e Inne wydarzenia literackie Spotkania i wyk\u0142ady literackie Pokazy filmowe"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Istne CUDE\u0143KA na D\u0105browskim Jarmarku Staroci! Zabytkowe meble, pami\u0105tki z PRL-u i \u015bwiatowe waluty...a to nie wszystko. Zobacz te ZDJ\u0118CIA",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/istne-cude%C5%84ka-na-d%C4%85browskim-jarmarku-staroci-zabytkowe-meble-pami%C4%85tki-z-prl-u-i-%C5%9Bwiatowe-walutya-to-nie-wszystko-zobacz-te-zdj%C4%99cia/ar-AA1N0HBs?ocid=BingNewsVerp",
+            "description": "STAROCIE. W D\u0105browie G\u00f3rniczej, na sta\u0142e wpisa\u0142 si\u0119 w kalendarz wydarze\u0144, Jarmark Staroci, kt\u00f3ry w ka\u017cd\u0105 trzeci\u0105 niedziel\u0119 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.B7w8eknsafxHulB_uiCIoC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "odkrycie+zabytkowe+przedmiot",
+            "date": "D\u0105browa G\u00f3rnicza Nasze Miasto on MSN21 min",
+            "source": "D\u0105browa G\u00f3rnicza Nasze Miasto on MSN",
+            "article_content": ""
         }
     },
     {
@@ -506,24 +490,8 @@
             "description": "Budowa hali sportowej w Rokitnicy pod Z\u0142otoryj\u0105, ruszy\u0142a na pocz\u0105tku wrze\u015bnia, ale szybko zosta\u0142a wstrzymana. Na zapleczu szko\u0142y podstawowej, podczas wyznaczania terenu pod drog\u0119 dojazdow\u0105 do obiektu ...",
             "image_url": "https://www.bing.pl/th?id=ODF.p9YO103MXreScWBGsL62IA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Gazeta Wroc\u0142awska on MSN18 godz.",
+            "date": "Gazeta Wroc\u0142awska on MSN22 godz.",
             "source": "Gazeta Wroc\u0142awska on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "PERE\u0141KI na D\u0105browskim Jarmarku Staroci! Zabytkowe meble, pami\u0105tki z PRL-u i \u015bwiatowe waluty...a to nie wszystko. Zobacz te ZDJ\u0118CIA",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/pere%C5%82ki-na-d%C4%85browskim-jarmarku-staroci-zabytkowe-meble-pami%C4%85tki-z-prl-u-i-%C5%9Bwiatowe-walutya-to-nie-wszystko-zobacz-te-zdj%C4%99cia/ar-AA1N0HBs?ocid=BingNewsVerp",
-            "description": "WEEKEND. W D\u0105browie G\u00f3rniczej, na sta\u0142e wpisa\u0142 si\u0119 w kalendarz wydarze\u0144, Jarmark Staroci, kt\u00f3ry w ka\u017cd\u0105 trzeci\u0105 niedziel\u0119 miesi\u0105ca przyci\u0105ga rzesze mi\u0142o\u015bnik\u00f3w historii i unikalnych przedmiot\u00f3w. To ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.XRLxX5vOF0R4QGkP4pWBhg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "D\u0105browa G\u00f3rnicza Nasze Miasto on MSN22 godz.",
-            "source": "D\u0105browa G\u00f3rnicza Nasze Miasto on MSN",
             "article_content": ""
         }
     }
