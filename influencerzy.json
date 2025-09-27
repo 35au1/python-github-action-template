@@ -5,12 +5,60 @@
             "Content-Type": "application/json"
         },
         "body": {
+            "title": "10 rzeczy, kt\u00f3re musicie wiedzie\u0107 o Jarmarku Staroci i Osobliwo\u015bci w Jeleniej G\u00f3rze, kt\u00f3ry odbywa si\u0119 w sobot\u0119 i niedziel\u0119 (27 i 28. 09)",
+            "link": "https://jeleniagora.naszemiasto.pl/10-rzeczy-ktore-musicie-wiedziec-o-jarmarku-staroci-i-osobliwosci-w-jeleniej-gorze-ktory-odbywa-sie-w-sobote-i-niedziele-27-i-28-09/ar/c1p2-28019481",
+            "description": "Jarmark ma dwie edycje wiosenn\u0105 ( na og\u00f3\u0142 w kwietniu) oraz jesienn\u0105, kt\u00f3ra organizowana jest w ostatni weekend wrze\u015bnia Jarmark nale\u017cy do najstarszych i najwi\u0119kszych w Polsce. Odbywa si\u0119 po raz 56.",
+            "image_url": "https://www.bing.pl/th?id=ODF.h8OGMXjFuz807iNXn1avLw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "starocie",
+            "date": "Jelenia G\u00f3ra Nasze Miasto3 godz.",
+            "source": "Jelenia G\u00f3ra Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Tragiczny wypadek na S8 pod Wroc\u0142awiem. Dwie osoby zgin\u0119\u0142y na miejscu, cztery s\u0105 ranne",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/tragiczny-wypadek-na-s8-pod-wroc%C5%82awiem-dwie-osoby-zgin%C4%99%C5%82y-na-miejscu-cztery-s%C4%85-ranne/ar-AA1NpbM5?ocid=BingNewsVerp",
+            "description": "AKTUALIZACJA. GODZ. 12.04. Generalna Dyrekcja Dr\u00f3g Krajowych i Autostrad poinformowa\u0142a, \u017ce opr\u00f3cz dw\u00f3ch os\u00f3b zabitych w wypadku pod Ole\u015bnic\u0105, cztery kolejne osoby s\u0105 ranne. Do tragicznego wypadku dosz ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.p9YO103MXreScWBGsL62IA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "starocie",
+            "date": "Gazeta Wroc\u0142awska on MSN2 godz.",
+            "source": "Gazeta Wroc\u0142awska on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Targ staroci w \u017baganiu. Dziergane kwiaty i inne cuda",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/targ-staroci-w-%C5%BCaganiu-dziergane-kwiaty-i-inne-cuda/ar-AA1Npc77?ocid=BingNewsVerp",
+            "description": "W sobot\u0119 27 wrze\u015bnia na ul. S\u0142owackiego w \u017baganiu i na parkingu za magistratem mo\u017cna by\u0142o pohandlowa\u0107 skarbami ze strychu i z piwnicy. Przepi\u0119kne r\u0119kodzie\u0142a zaprezentowa\u0142y panie Marzena i Barbara.",
+            "image_url": "https://www.bing.pl/th?id=ODF.pX4YdD8AJfP2NmyjxQBFZw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "starocie",
+            "date": "Nasze Miasto on MSN2 godz.",
+            "source": "Nasze Miasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
             "title": "Ryszard grygiel",
             "link": "https://dzienniklodzki.pl/tag/ryszard-grygiel",
             "description": "Muzeum Archeologiczne i Etnograficzne w \u0141odzi rozpocz\u0119\u0142o remont budynk\u00f3w stanowi\u0105cych zaplecze dla najbardziej znanego gmachu ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.LquyZC1lhc9E3iO8lVMmhi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Dziennik \u0141\u00f3dzki1 godz.",
+            "date": "Dziennik \u0141\u00f3dzki5 godz.",
             "source": "Dziennik \u0141\u00f3dzki",
             "article_content": "Content not available"
         }
@@ -26,41 +74,9 @@
             "description": "Nowoczesne domy z widokiem na panoram\u0119 Kielc, wysoki salon i w\u0142asny ogr\u00f3d \u2013 tak wygl\u0105da Wile\u0144ska Park, kameralne osiedle ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.OlAu1bnOzeBTIhhXx8Eu3y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Echo Dnia2 godz.",
+            "date": "Echo Dnia6 godz.",
             "source": "Echo Dnia",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Kielce i liceum absolwenci",
-            "link": "https://echodnia.eu/tag/kielce-i-liceum-absolwenci",
-            "description": "W pi\u0105tek, 26 wrze\u015bnia, absolwenci I Liceum Og\u00f3lnokszta\u0142c\u0105cego imienia Stefana \u017beromskiego w Kielcach spotkali si\u0119 na ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.OlAu1bnOzeBTIhhXx8Eu3y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "Echo Dnia15 godz.",
-            "source": "Echo Dnia",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Amerykanie wydali zgod\u0119. Tym b\u0119d\u0105 strzela\u0107 niemieckie F-35A",
-            "link": "https://tech.wp.pl/amerykanie-wydali-zgode-tym-beda-strzelac-niemieckie-f-35a,7204463875226400a",
-            "description": "Ameryka\u0144ska agencja Defense Security Cooperation Agency (DSCA) wyrazi\u0142a zgod\u0119 na potencjaln\u0105 sprzeda\u017c Niemcom pocisk\u00f3w AIM-120D-3 AMRAAM i powi\u0105zanego sprz\u0119tu o warto\u015bci szacowanej na 1,23 mld dol. Ot ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.J2srGq-eV9OZZ9ObclYodQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "starocie",
-            "date": "WP Tech17 godz.",
-            "source": "WP Tech",
-            "article_content": "25 wrze\u015bnia 2025 r. DSCA poinformowa\u0142a o zgodzie dla potencjalnej sprzeda\u017cy do Niemiec za maksymaln\u0105 kwot\u0119 1,23 mld dolar\u00f3w 400 pocisk\u00f3w powietrze-powietrze \u015bredniego zasi\u0119gu AIM-120D-3 AMRAAM, 12 sekcji naprowadzaj\u0105cych AIM-120D-3 oraz pojedynczego modu\u0142u M-Core i testowego pocisku AIM-120 AMRAAM. Do tego dochodzi wsparcie logistyczne w postaci cz\u0119\u015bci zamiennych, pomocy technicznej i oprogramowania.\n\nCo ciekawe jest to kwota o 10 mln dolar\u00f3w ni\u017csza od podobnej propozycji dla Polski z kwietnia 2025 roku. Warto jednak zaznaczy\u0107, \u017ce kwoty podane w komunikatach DSCA s\u0105 warto\u015bci\u0105 maksymaln\u0105, a p\u00f3\u017aniej podpisane umowy wykonawcze na sprz\u0119t s\u0105 zwykle ni\u017csze.\n\nSprzeda\u017c ma wspiera\u0107 cele polityki zagranicznej i bezpiecze\u0144stwa Stan\u00f3w Zjednoczonych poprzez zwi\u0119kszenie potencja\u0142u sojusznika NATO, kt\u00f3ry odgrywa istotn\u0105 rol\u0119 w stabilno\u015bci politycznej i gospodarczym rozwoju Europy. G\u0142\u00f3wnym wykonawc\u0105 kontraktu b\u0119dzie firma RTX Corporation z Arlington w stanie Wirginia.\n\nAIM-120D-3 AMRAAM \u2014 najnowsza wersja standardu lotnictwa NATO\n\nAIM-120D-3 reprezentuje najnowsz\u0105 generacj\u0119 pocisk\u00f3w powietrze-powietrze AIM-120 AMRAAM b\u0119d\u0105c\u0105 w stanie zwalcza\u0107 cele na dystansie do 180 km. Pociski mog\u0105 by\u0107 wykorzystywane przez r\u00f3\u017cne platformy, pocz\u0105wszy od samolot\u00f3w F-16, F-35, Eurofighter czy JAS 39 Gripen, a sko\u0144czywszy na naziemnych systemach obrony powietrznej NASAMS.\n\nW przypadku Niemiec najpewniej pociski s\u0105 przeznaczone dla pozyskanych samolot\u00f3w F-35, poniewa\u017c Eurofightery mog\u0105 korzysta\u0107 oferuj\u0105cych jeszcze wi\u0119kszy zasi\u0119g pocisk\u00f3w MBDA Meteor.\n\nWersja AIM-120D-3 wyr\u00f3\u017cnia si\u0119 na tle wcze\u015bniejszych modeli poprawion\u0105 nawigacj\u0105 i dodaniem dwukierunkowego \u0142\u0105cza komunikacyjnego zapewniaj\u0105cego \u0142\u0105czno\u015b\u0107 z samolotem po wystrzeleniu. To pozwala na przesy\u0142anie przez samolot korekt pozycji celu do pocisku, zanim ten zbli\u017cy si\u0119 na tyle, aby naprowadzanie przej\u0119\u0142a pok\u0142adowa aktywna g\u0142owica radiolokacyjna.\n\nAIM-120D-3 AMRAAM \u2014 \u0142\u0105cze komunikacyjne zapewnia nowe mo\u017cliwo\u015bci\n\nWarto jednak pami\u0119ta\u0107, \u017ce ze wzgl\u0119du na kompaktowe rozmiary, zasi\u0119g radaru zamontowanego w pocisku jest ograniczony \u2013 szacuje si\u0119, \u017ce zawiera si\u0119 on w przedziale 20-40 km dla klasycznego samolotu. Do tego czasu pocisk po prostu leci do obszaru, gdzie wedle wylicze\u0144 powinien si\u0119 znajdowa\u0107 cel naprowadzany przez nawigacj\u0119 inercyjn\u0105.\n\nZ kolei \u0142\u0105cze komunikacyjne zapewnia przesy\u0142anie aktualizacji pozycji celu na \u017cywo oraz w razie konieczno\u015bci zmian\u0119 celu na inny je\u015bli pierwotny obiekt zosta\u0142 zniszczony np. przez inny pocisk."
         }
     },
     {
@@ -74,7 +90,7 @@
             "description": "Je\u015bli my\u015blisz, \u017ce wszystkie monety z PRL s\u0105 warte tylko kilka groszy, to jeste\u015b w b\u0142\u0119dzie. Istniej\u0105 konkretne egzemplarze, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.Z_ZyJgYKibDUqWvSQQ7Upi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Pomorza3 godz.",
+            "date": "G\u0142os Pomorza7 godz.",
             "source": "G\u0142os Pomorza",
             "article_content": "Content not available"
         }
@@ -90,8 +106,24 @@
             "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ich pojawienia si\u0119 na rynku. Najcz\u0119\u015bciej poszukiwane monety przez kolekcjone ...",
             "image_url": "https://www.bing.pl/th?id=ODF.liWL6w23oefxD6cfFEdIQA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "Nasze Miasto on MSN3 godz.",
+            "date": "Nasze Miasto on MSN7 godz.",
             "source": "Nasze Miasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Trwa remont Schod\u00f3w Rycerskich w Przemy\u015blu i przyleg\u0142ych chodnik\u00f3w",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/trwa-remont-schod%C3%B3w-rycerskich-w-przemy%C5%9Blu-i-przyleg%C5%82ych-chodnik%C3%B3w/ar-AA1NphCZ?ocid=BingNewsVerp",
+            "description": "Obluzowane stopnie stanowi\u0142y zagro\u017cenie dla pieszych. Je\u015bli warunki atmosferyczne b\u0119d\u0105 sprzyjaj\u0105ce, remont Schod\u00f3w Rycerskich, a tak\u017ce chodnika, powinien zako\u0144czy\u0107 si\u0119 w po\u0142owie pa\u017adziernika.",
+            "image_url": "https://www.bing.pl/th?id=ODF._CJ_s5N1mkl0bz_y0DaBlA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stare+monety",
+            "date": "Przemy\u015bl Nasze Miasto on MSN1 godz.",
+            "source": "Przemy\u015bl Nasze Miasto on MSN",
             "article_content": ""
         }
     },
@@ -106,25 +138,9 @@
             "description": "W czasach Polskiej Rzeczypospolitej Ludowej (PRL) wn\u0119trza polskich dom\u00f3w wype\u0142nia\u0142y przedmioty, kt\u00f3re dzi\u015b prze\u017cywaj\u0105 swoj\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.IL8KRDrxvOLkKrRrYKbPki&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Pomorza on MSN3 godz.",
+            "date": "G\u0142os Pomorza on MSN7 godz.",
             "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "EA Sports FC 26 - jak zmieni\u0107 stroje, herb i stadion",
-            "link": "https://www.eurogamer.pl/ea-sports-fc-26-jak-zmienic-stroje-herb-i-stadion",
-            "description": "Tylko wtedy b\u0119dziesz mia\u0142 gwarancj\u0119, \u017ce koszulki obu zespo\u0142\u00f3w nie b\u0119d\u0105 zlewa\u0107 si\u0119 ze sob\u0105 na boisku. Oczywi\u015bcie gra domy\u015blnie ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.9oIhp0V7q1OeL9cm9dh8Hy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "Eurogamer.pl16 min",
-            "source": "Eurogamer.pl",
-            "article_content": "Nie ma nic bardziej satysfakcjonuj\u0105cego w trybie Ultimate Team w EA Sports FC 26 (FIFA 26) od widoku ulubionych pi\u0142karzy z twojego wymarzonego sk\u0142adu graj\u0105cych w koszulkach ulubionego klubu pi\u0142karskiego. W\u0142a\u015bnie - nie dla wszystkich to mo\u017ce by\u0107 oczywiste, wi\u0119c na tej stronie wyja\u015bniamy jak zmieni\u0107 stroje podstawowe i wyjazdowe oraz jak wybra\u0107 nowy herb klubowy.\n\nJak zmieni\u0107 stadion, stroje i herb\n\nWykonaj nast\u0119puj\u0105ce kroki, aby dosta\u0107 si\u0119 do miejsca personalizacji klubu w Ultimate Team.\n\nb\u0119d\u0105c w menu trybu Ultimate Team, wybierz zak\u0142adk\u0119 Klub na g\u00f3rnym pasku.\n\nna g\u00f3rnym pasku. teraz wybierz zak\u0142adk\u0119 Stadion .\n\n. personalizacja stadionu odbywa si\u0119 poprzez zak\u0142adki Konstrukcja i Oprawa . Wystarczy wej\u015b\u0107 do nich i aktywowa\u0107 w\u0142a\u015bciwe opcje.\n\n. Wystarczy wej\u015b\u0107 do nich i aktywowa\u0107 w\u0142a\u015bciwe opcje. zmiany stroj\u00f3w i herbu dokonamy w zak\u0142adce Klub .\n\n. w tym miejscu znajdziesz inne elementy personalizacji (np. hymn klubu czy d\u017awi\u0119k po strzelonym golu). Aktywne przedmioty kosmetyczne s\u0105 oznaczone malutk\u0105 zielon\u0105 koszulk\u0105.\n\nJak zdobywa\u0107 przedmioty kosmetyczne\n\nWszelkie przedmioty kosmetyczne dla naszego klubu zdobywamy otwieraj\u0105c paczki, wykonuj\u0105c zadania lub kupuj\u0105c przedmioty na rynku transferowym. T\u0119 ostatni\u0105 opcj\u0119 odradzamy w pierwszych godzinach, bo na starcie mamy ma\u0142o monet UT. Zarobione coinsy lepiej wyda\u0107 na zbudowanie solidnego sk\u0142adu, a dopiero potem zaj\u0105\u0107 si\u0119 personalizacj\u0105 klubu. Ma\u0142o tego, po drodze pewnie dostaniemy wiele darmowych paczek, z kt\u00f3rych wylec\u0105 nam r\u00f3\u017cne ciekawe rzeczy do personalizacji.\n\nJak zmieni\u0107 stroje przed meczem\n\nNajlepsza mo\u017cliwa porada - zawsze dobieraj kontrastuj\u0105ce ze sob\u0105 stroje podstawowe i wyjazdowe. Rekomendujemy dob\u00f3r jednego jasnego i jednego ciemnego stroju. Ubi\u00f3r naszych pi\u0142karzy i zawodnik\u00f3w rywala mo\u017cesz zmieni\u0107 tu\u017c przed meczem, ale ju\u017c po po\u0142\u0105czeniu z przeciwnikiem. Najpierw zatwierd\u017a sw\u00f3j str\u00f3j, a potem potwierd\u017a str\u00f3j rywala i dopiero wtedy wci\u015bnij przycisk Dalej.\n\nTylko wtedy b\u0119dziesz mia\u0142 gwarancj\u0119, \u017ce koszulki obu zespo\u0142\u00f3w nie b\u0119d\u0105 zlewa\u0107 si\u0119 ze sob\u0105 na boisku. Oczywi\u015bcie gra domy\u015blnie stara si\u0119 dobiera\u0107 kontrastowe stroje, ale nie zawsze wychodzi jej to dobrze. Je\u017celi chcesz jeszcze bardziej poprawi\u0107 widoczno\u015b\u0107 na murawie, to zalecamy wy\u0142\u0105czenie cieni pi\u0142karzy i stadionu.\n\nNast\u0119pnie: EA Sports FC 26 - jak szybko zarabia\u0107 monety w Ultimate Team\n\nPoprzednio: EA Sports FC 26 - jak dzia\u0142a paczka z podgl\u0105dem"
         }
     },
     {
@@ -138,7 +154,7 @@
             "description": "Uniwersytet Opolski ruszy\u0142 z najwi\u0119kszym pakietem modernizacji od lat. Ponad 3,5 mln z\u0142 trafi na remonty, kt\u00f3re maj\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.KF0LAwYC9ods4aiL9btHkC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Nowa Trybuna Opolska1 godz.",
+            "date": "Nowa Trybuna Opolska5 godz.",
             "source": "Nowa Trybuna Opolska",
             "article_content": "Content not available"
         }
@@ -149,14 +165,46 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Stara porcelana z PRL bije rekordy popularno\u015bci. Kolekcjonerzy poluj\u0105 na te naczynia, wazony i figurki",
+            "title": "Stara porcelana z PRL bije rekordy popularno\u015bci w\u015br\u00f3d kolekcjoner\u00f3w. Te naczynia, wazony i figurki zyskuj\u0105 na warto\u015bci",
             "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/stara-porcelana-z-prl-bije-rekordy-popularno%C5%9Bci-kolekcjonerzy-poluj%C4%85-na-te-naczynia-wazony-i-figurki/ar-AA1L6ze7?ocid=BingNewsVerp",
             "description": "Porcelana z czas\u00f3w PRL-u jest obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli posiadasz wazony ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.mQOajxtDGS0-NyUHIg9bEC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "image_url": "https://www.bing.pl/th?id=OVFT.jmkIY3uQ4PKX-1uE2QOCBi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN11 godz.",
+            "date": "Gazeta Pomorska on MSN35 min",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "10 rzeczy, kt\u00f3re musicie wiedzie\u0107 o Jarmarku Staroci i Osobliwo\u015bci w Jeleniej G\u00f3rze, kt\u00f3ry odbywa si\u0119 w sobot\u0119 i niedziel\u0119 (27 i 28. 09)",
+            "link": "https://jeleniagora.naszemiasto.pl/10-rzeczy-ktore-musicie-wiedziec-o-jarmarku-staroci-i-osobliwosci-w-jeleniej-gorze-ktory-odbywa-sie-w-sobote-i-niedziele-27-i-28-09/ar/c1p2-28019481",
+            "description": "Jarmark ma dwie edycje wiosenn\u0105 ( na og\u00f3\u0142 w kwietniu) oraz jesienn\u0105, kt\u00f3ra organizowana jest w ostatni weekend wrze\u015bnia Jarmark nale\u017cy do najstarszych i najwi\u0119kszych w Polsce. Odbywa si\u0119 po raz 56.",
+            "image_url": "https://www.bing.pl/th?id=ODF.h8OGMXjFuz807iNXn1avLw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stara+porcelana",
+            "date": "Jelenia G\u00f3ra Nasze Miasto3 godz.",
+            "source": "Jelenia G\u00f3ra Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Sk\u0142adany z Indii albo granit premium. Nagrobek w Polsce mo\u017ce kosztowa\u0107 nawet 80 tys. z\u0142",
+            "link": "https://www.fakt.pl/pieniadze/jak-wyglada-rynek-nagrobkow-ekspert-wyjasnia-kulisy-branzy-kamieniarskiej/n20v82y",
+            "description": "Rynek nagrobk\u00f3w w Polsce to z\u0142o\u017cona mieszanka lokalnej produkcji, importu oraz specyfiki regionalnych tradycji. Andrzej Gil, w\u0142a\u015bciciel Zak\u0142adu Pogrzebowego Ogr\u00f3d Sn\u00f3w w Wolbromiu, w rozmowie z ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.S98F8jIiuGzSo7XWBjLcxA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stara+porcelana",
+            "date": "Fakt.pl6 godz.",
+            "source": "Fakt.pl",
+            "article_content": "Rynek nagrobk\u00f3w w Polsce to z\u0142o\u017cona mieszanka lokalnej produkcji, importu oraz specyfiki regionalnych tradycji. Andrzej Gil, w\u0142a\u015bciciel Zak\u0142adu Pogrzebowego Ogr\u00f3d Sn\u00f3w w Wolbromiu, w rozmowie z \"Faktem\" opowiedzia\u0142 o wyzwaniach, kosztach i r\u00f3\u017cnicach w produkcji pomnik\u00f3w w Polsce i za granic\u0105. \u2014 Wszystko zale\u017cy od kamieniarza i od tego, czy powie prawd\u0119 \u2014 podkre\u015bla i dodaje, \u017ce z grobami jest jak z meblami z IKEI. Te produkowane masowo zawsze b\u0119d\u0105 ta\u0144sze od tych robionych na zam\u00f3wienie.\n\nPolski rynek kamieniarski w du\u017cej mierze opiera si\u0119 na imporcie surowc\u00f3w. Jak wyja\u015bnia Andrzej Gil, w\u0142a\u015bciciel Zak\u0142adu Pogrzebowego Ogr\u00f3d Sn\u00f3w, granity sprowadzane s\u0105 z r\u00f3\u017cnych zak\u0105tk\u00f3w \u015bwiata \u2014 od Ukrainy, Chin i Indii, a\u017c po RPA. Cena materia\u0142u zale\u017cy od jego jako\u015bci, sposobu obr\u00f3bki oraz g\u0119sto\u015bci. Najta\u0144sze pomniki, jak te wykonane z tzw. br\u0105zu kr\u00f3lewskiego, docieraj\u0105 do Polski w formie gotowych produkt\u00f3w, kt\u00f3re wystarczy zamontowa\u0107 na miejscu.\n\n\u2014 Gotowe pomniki z Chin czy Indii s\u0105 ta\u0144sze, ale ich monta\u017c w Polsce wymaga pracy kilku os\u00f3b. Wi\u0119kszo\u015b\u0107 operacji odbywa si\u0119 r\u0119cznie, co zwi\u0119ksza koszty \u2014 od transportu na cmentarz, po sam\u0105 instalacj\u0119 \u2014 wyja\u015bnia \"Faktowi\" Gil. Co wi\u0119cej, je\u015bli pomnik nie pasuje idealnie do otoczenia, konieczne s\u0105 dodatkowe prace, co r\u00f3wnie\u017c wp\u0142ywa na finaln\u0105 cen\u0119.\n\nZ grobami jak z meblami z IKEI\n\n\u2014 Wiadomo, \u017ce je\u015bli gr\u00f3b jest robiony od podstaw, to cena zawsze jest wy\u017csza. Bo jest robiony na zam\u00f3wienie \u2014 tak samo, jak jest z meblami. Kupuje pani meble w Ikei, kt\u00f3re s\u0105 masowo produkowane, to b\u0119dzie inna cena, a zupe\u0142nie inna b\u0119dzie na przyk\u0142ad w Kalwarii Zebrzydowskiej, gdzie s\u0105 firmy, kt\u00f3re si\u0119 stricte tym trudni\u0105 \u2014 t\u0142umaczy nasz rozm\u00f3wca.\n\n\u2014 I tak samo jest z grobem. Zale\u017cy, jaka jest \"napis\u00f3wka\". Wazon naturalny czy sztuczny? Krzy\u017c nierdzewny, napis nierdzewny, czy nie? A s\u0105 trzy rodzaje napis\u00f3w: pe\u0142ne, robione z nierdzewki albo aluminiowane. Wszystko zale\u017cy od kamieniarza i od tego, czy powie prawd\u0119. Najta\u0144szy kamieniarz pomnik zrobi w jeden dzie\u0144, ale nie patrzy, czy kleje dobre, czy wie\u0144ca nie dotknie \u2014 a po czterech, pi\u0119ciu latach co\u015b odpada. Kamieniarz ze \u015bredniej p\u00f3\u0142ki cenowej i dro\u017cszy przyje\u017cd\u017ca trzy, cztery razy, wszystko sprawdza, i wtedy jest solidnie. Tak jak z fachowcem budowlanym \u2014 jeden jest taki, a drugi taki \u2014 podkre\u015bla Gil.\n\nZobacz tak\u017ce Zasi\u0142ek pogrzebowy pr\u0119dko nie wzro\u015bnie. Luka w przepisach\n\nI dodaje: \u2014 Trzeba te\u017c pami\u0119ta\u0107, \u017ce warsztaty kamieniarskie maj\u0105 prac\u0119 tylko przez 8-9 miesi\u0119cy w roku, a kilka miesi\u0119cy zim\u0105 maj\u0105 wolnego. W tym okresie praktycznie nic si\u0119 nie robi, bo klienci nie przychodz\u0105. Dlatego kamieniarze pracuj\u0105 w sezonie, \u017ceby p\u00f3\u017aniej spokojnie przetrwa\u0107 zim\u0119 \u2014 m\u00f3wi \"Faktowi\" w\u0142a\u015bciciel zak\u0142adu pogrzebowego.\n\nPani Katarzyna niedawno pochowa\u0142a swoj\u0105 mam\u0119. Podczas rozmowy z \"Faktem\" m\u00f3wi wprost: \u2014 Nie op\u0142aca si\u0119 umiera\u0107. Naprawd\u0119 w cenie dobrego samochodu mo\u017cna sobie zafundowa\u0107 pomnik, mo\u017ce dlatego wiele os\u00f3b za \u017cycia nie skupia si\u0119 na tym wydatku, zostawiaj\u0105c to rodzinie \u2014 podkre\u015bla.\n\n\u2014 W zale\u017cno\u015bci od tego, czy chcesz mie\u0107 z\u0142oty napis, czy tylko naklejony, to cena r\u00f3\u017cni si\u0119 o kilkaset z\u0142otych. Tak samo zdj\u0119cie: tradycyjne na bia\u0142ym tle, czy z efektem wow: szklane 3D. A mo\u017ce chcesz mie\u0107 za tysi\u0105c z\u0142otych przymocowany, pasuj\u0105cy do grobu wazon, kt\u00f3rego nikt nie ukradnie? No i jeszcze na koniec \u0142aweczka i kostka brukowa wok\u00f3\u0142 grobu \u2014 dolicz do rachunku 2-3 tys. z\u0142. Ale przynajmniej nie stoisz w b\u0142ocie na Wszystkich \u015awi\u0119tych \u2014 m\u00f3wi nasza rozm\u00f3wczyni.\n\nW jej przypadku uda\u0142o si\u0119 z nagrobkiem zamkn\u0105\u0107 w kwocie 16 tys. z\u0142. \u2014To i tak ma\u0142o \u2014 dodaje na koniec pani Katarzyna.\n\nTrzynastki i czternastki ju\u017c pewne w 2026 roku. Rz\u0105d ujawnia szczeg\u00f3\u0142y bud\u017cetu\n\nKoszty produkcji: Polska vs. zagranica\n\nProdukcja nagrobk\u00f3w w Polsce, od podstaw, jest dro\u017csza ni\u017c import gotowych pomnik\u00f3w. Wynika to z wy\u017cszych koszt\u00f3w pracy, energii oraz maszyn. \u2014 Surowa, niewypolerowana p\u0142yta granitowa mo\u017ce kosztowa\u0107 oko\u0142o 1 tys. 700 z\u0142. Do tego dochodz\u0105 koszty ci\u0119cia, polerowania i monta\u017cu. W efekcie ceny nagrobk\u00f3w w Polsce s\u0105 wy\u017csze \u2014 t\u0142umaczy \"Faktowi\" Andrzej Gil.\n\nDla por\u00f3wnania, gotowe pomniki sprowadzane w kontenerach z Chin czy Indii s\u0105 ta\u0144sze, cho\u0107 ich cena r\u00f3wnie\u017c wzros\u0142a w ostatnich latach. \u2014 Koszt transportu morskiego wzr\u00f3s\u0142, co automatycznie prze\u0142o\u017cy\u0142o si\u0119 na wy\u017csze ceny gotowych nagrobk\u00f3w \u2014 dodaje Gil.\n\nKoniec biurokracji po poronieniu. Zasi\u0142ek macierzy\u0144ski i pogrzebowy bez zb\u0119dnych formalno\u015bci\n\nR\u00f3\u017cnice regionalne i specyfika cmentarzy\n\nCeny i rodzaje nagrobk\u00f3w r\u00f3\u017cni\u0105 si\u0119 w zale\u017cno\u015bci od regionu Polski. Na przyk\u0142ad na Pomorzu popularne s\u0105 groby ziemne, podczas gdy w innych cz\u0119\u015bciach kraju dominuj\u0105 groby z piwnicami. \u2014 Pe\u0142nowymiarowy gr\u00f3b, kt\u00f3ry ma d\u0142ugo\u015b\u0107 2,40 m, jest dro\u017cszy ni\u017c mniejszy, o d\u0142ugo\u015bci 1,90 m. To wszystko wp\u0142ywa na finaln\u0105 cen\u0119 \u2014 m\u00f3wi w\u0142a\u015bciciel zak\u0142adu pogrzebowego.\n\nDodatkowo niekt\u00f3re cmentarze wymagaj\u0105 u\u017cycia biodegradowalnych urn, co r\u00f3wnie\u017c wp\u0142ywa na wyb\u00f3r materia\u0142\u00f3w i koszt\u00f3w. Gil wspomina tak\u017ce o alternatywach, takich jak \"drzewa pami\u0119ci\" \u2014 rozwi\u0105zanie popularne w Niemczech, gdzie w miejscu poch\u00f3wku sadzi si\u0119 drzewo z nasionami, co kosztuje oko\u0142o 140 euro.\n\nZUS przyspieszy wyp\u0142aty zasi\u0142k\u00f3w pogrzebowych: co si\u0119 zmieni?\n\nCeny nagrobk\u00f3w: od 8 tys. do nawet 80 tys. z\u0142\n\nKoszt nagrobka zale\u017cy od wielu czynnik\u00f3w, takich jak rodzaj kamienia, wielko\u015b\u0107 grobu, spos\u00f3b monta\u017cu oraz dodatkowe elementy, jak wazony czy krzy\u017ce. \u2014 Ceny zaczynaj\u0105 si\u0119 od oko\u0142o 8 tys. z\u0142 za prosty, pojedynczy nagrobek, ale mog\u0105 si\u0119ga\u0107 nawet 70-80 tys. z\u0142 za bardziej skomplikowane projekty z rze\u017abami czy wykonane z dro\u017cszych materia\u0142\u00f3w, takich jak piaskowiec \u2014 wyja\u015bnia Gil w rozmowie z \"Faktem\".\n\nUrnowe pomniki s\u0105 ta\u0144sze \u2014 ich ceny zaczynaj\u0105 si\u0119 od 2 tys. 800 z\u0142, cho\u0107, jak zaznacza ekspert, s\u0105 to bardzo ma\u0142e konstrukcje. \u2014 Ka\u017cdy dodatkowy metr kwadratowy, element dekoracyjny czy rodzaj wyko\u0144czenia wp\u0142ywa na ostateczn\u0105 kwot\u0119 \u2014 dodaje.\n\nOd czego zale\u017cy cena nagrobka granitowego w 2025 r.?\n\nJak podaje funeralo.pl istnieje kilka czynnik\u00f3w, kt\u00f3re wp\u0142ywaj\u0105 na cen\u0119.\n\nNa co dok\u0142adnie patrzy kamieniarz przy wycenie?\n\nRodzaj granitu \u2014 kamie\u0144 z Polski, np. granit Strzegomski, jest znacznie ta\u0144szy ni\u017c importowany Viscont White z Indii czy czarny granit szwedzki. W cenie liczy si\u0119 pochodzenie, dost\u0119pno\u015b\u0107, kolor i struktura kamienia.\n\n\u2014 kamie\u0144 z Polski, np. granit Strzegomski, jest znacznie ta\u0144szy ni\u017c importowany Viscont White z Indii czy czarny granit szwedzki. W cenie liczy si\u0119 pochodzenie, dost\u0119pno\u015b\u0107, kolor i struktura kamienia. Typ nagrobka \u2014 najta\u0144sze s\u0105 proste pomniki urnowe, dro\u017csze pojedyncze i podw\u00f3jne nagrobki, a najkosztowniejsze \u2014 rodzinne grobowce, gdzie potrzeba wi\u0119cej materia\u0142u i bardziej rozbudowanego projektu.\n\n\u2014 najta\u0144sze s\u0105 proste pomniki urnowe, dro\u017csze pojedyncze i podw\u00f3jne nagrobki, a najkosztowniejsze \u2014 rodzinne grobowce, gdzie potrzeba wi\u0119cej materia\u0142u i bardziej rozbudowanego projektu. Projekt i wyko\u0144czenie \u2014 prosty, klasyczny nagrobek kosztuje mniej ni\u017c model z rze\u017abionymi detalami, zaokr\u0105glonymi kraw\u0119dziami, satynowym lub matowym wyko\u0144czeniem.\n\n\u2014 prosty, klasyczny nagrobek kosztuje mniej ni\u017c model z rze\u017abionymi detalami, zaokr\u0105glonymi kraw\u0119dziami, satynowym lub matowym wyko\u0144czeniem. Dodatki i akcesoria \u2014 liternictwo z\u0142ocone lub piaskowane, zdj\u0119cia porcelanowe, lampiony, wazy, rze\u017aby czy dodatkowe p\u0142yty inskrypcyjne podbijaj\u0105 cen\u0119.\n\n\u2014 liternictwo z\u0142ocone lub piaskowane, zdj\u0119cia porcelanowe, lampiony, wazy, rze\u017aby czy dodatkowe p\u0142yty inskrypcyjne podbijaj\u0105 cen\u0119. Monta\u017c i przygotowanie pod\u0142o\u017ca \u2014 wycena zale\u017cy te\u017c od lokalizacji cmentarza, konieczno\u015bci przygotowania fundament\u00f3w, wyr\u00f3wnania terenu czy demonta\u017cu starego pomnika.\n\nOrientacyjne ceny nagrobk\u00f3w:\n\nCho\u0107 ka\u017cda realizacja jest inna, mo\u017cna wskaza\u0107 wide\u0142ki cenowe:\n\nNagrobek urnowy \u2014 od 2 tys. 800 do 5 tys. z\u0142\n\n\u2014 od 2 tys. 800 do 5 tys. z\u0142 Nagrobek pojedynczy \u2014 od 5 tys. do 20 tys.z\u0142\n\n\u2014 od 5 tys. do 20 tys.z\u0142 Nagrobek podw\u00f3jny \u2014 od 8 tys. do 25 tys. z\u0142\n\n\u2014 od 8 tys. do 25 tys. z\u0142 Pomnik rodzinny lub grobowiec \u2014 od 15 tys. z\u0142 wzwy\u017c\n\n\u2014 od 15 tys. z\u0142 wzwy\u017c Nagrobki premium \u2014 od 40 tys. z\u0142 do nawet ponad 100 tys. z\u0142\n\nCzy wy\u017cszy zasi\u0142ek pogrzebowy podniesie ceny?\n\nOd stycznia 2026 r. rz\u0105d planuje podnie\u015b\u0107 zasi\u0142ek pogrzebowy z 4 do 7 tys. z\u0142. Czy to oznacza wzrost cen us\u0142ug pogrzebowych? \u2014 Rynek jest uzale\u017cniony od poda\u017cy i popytu. Je\u015bli producenci trumien, kwiat\u00f3w czy us\u0142ug pogrzebowych podnios\u0105 ceny, z pewno\u015bci\u0105 wp\u0142ynie to na koszty ca\u0142o\u015bciowe \u2014 zauwa\u017ca Gil.\n\nI podkre\u015bla, \u017ce dodatkowo wzrost koszt\u00f3w pracy i energii w Polsce r\u00f3wnie\u017c mo\u017ce prze\u0142o\u017cy\u0107 si\u0119 na wy\u017csze ceny nagrobk\u00f3w od przysz\u0142ego roku.\n\n\u0179r\u00f3d\u0142o: funeralo.pl"
         }
     },
     {
@@ -170,8 +218,24 @@
             "description": "W pi\u0105tek 26 wrze\u015bnia na rynku w O\u017carowie odby\u0142a si\u0119 wyj\u0105tkowa akcja organizowana przez Echo Dnia - \u201eWrzosy za surowce wt\u00f3rne' ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.gZyRBojgptoSkdeeK4zuGC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Echo Dnia on MSN18 godz.",
+            "date": "Echo Dnia on MSN22 godz.",
             "source": "Echo Dnia on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Targ staroci w \u017baganiu. Dziergane kwiaty i inne cuda",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/targ-staroci-w-%C5%BCaganiu-dziergane-kwiaty-i-inne-cuda/ar-AA1Npc77?ocid=BingNewsVerp",
+            "description": "W sobot\u0119 27 wrze\u015bnia na ul. S\u0142owackiego w \u017baganiu i na parkingu za magistratem mo\u017cna by\u0142o pohandlowa\u0107 skarbami ze strychu i z piwnicy. Przepi\u0119kne r\u0119kodzie\u0142a zaprezentowa\u0142y panie Marzena i Barbara.",
+            "image_url": "https://www.bing.pl/th?id=ODF.pX4YdD8AJfP2NmyjxQBFZw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "targ+staroci",
+            "date": "Nasze Miasto on MSN2 godz.",
+            "source": "Nasze Miasto on MSN",
             "article_content": ""
         }
     },
@@ -186,7 +250,7 @@
             "description": "Gie\u0142da Staroci Pchli Targ przy Centrum Handlowym M1 odbywa si\u0119 w ka\u017cd\u0105 niedziel\u0119 w godzinach od 6 do 14. Ka\u017cdy znajdzie tam ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.R5UQWsACZa1FLToeMIb0SC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Pozna\u0144 Nasze Miasto on MSN2 godz.",
+            "date": "Pozna\u0144 Nasze Miasto on MSN6 godz.",
             "source": "Pozna\u0144 Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -197,14 +261,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "TOP 10 kawiarni w Krakowie polecanych przez Google. Kawa lub herbata idealna na jesie\u0144? Tu poczujesz klimat",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/top-10-kawiarni-w-krakowie-polecanych-przez-google-kawa-lub-herbata-idealna-na-jesie%C5%84-tu-poczujesz-klimat/ar-AA1NoVBZ?ocid=BingNewsVerp",
-            "description": "Jesie\u0144 w Krakowie pachnie cynamonem, dyni\u0105 i \u015bwie\u017co palon\u0105 kaw\u0105. Z\u0142ote li\u015bcie wiruj\u0105 na brukowanych ulicach, a klimatyczne ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.SKlI-7X8k2Iwxws9iJZEWS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "10 rzeczy, kt\u00f3re musicie wiedzie\u0107 o Jarmarku Staroci i Osobliwo\u015bci w Jeleniej G\u00f3rze, kt\u00f3ry odbywa si\u0119 w sobot\u0119 i niedziel\u0119 (27 i 28. 09)",
+            "link": "https://gazetawroclawska.pl/10-rzeczy-ktore-musicie-wiedziec-o-jarmarku-staroci-i-osobliwosci-w-jeleniej-gorze-ktory-odbywa-sie-w-sobote-i-niedziele-27-i-28-09/ar/c1p2-28019481",
+            "description": "Jarmark ma dwie edycje wiosenn\u0105 ( na og\u00f3\u0142 w kwietniu) oraz jesienn\u0105, kt\u00f3ra organizowana jest w ostatni weekend wrze\u015bnia Jarmark nale\u017cy do najstarszych i najwi\u0119kszych w Polsce. Odbywa si\u0119 po raz 56.",
+            "image_url": "https://www.bing.pl/th?id=ODF.p9YO103MXreScWBGsL62IA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Krak\u00f3w Nasze Miasto on MSN2 godz.",
-            "source": "Krak\u00f3w Nasze Miasto on MSN",
-            "article_content": ""
+            "date": "Gazeta Wroc\u0142awska3 godz.",
+            "source": "Gazeta Wroc\u0142awska",
+            "article_content": "Content not available"
         }
     },
     {
@@ -218,9 +282,57 @@
             "description": "Cho\u0107 lotnisko \u0141awica w Poznaniu kojarzy si\u0119 g\u0142\u00f3wnie z miejscem start\u00f3w i l\u0105dowa\u0144 samolot\u00f3w, opr\u00f3cz pas\u00f3w startowych i ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Pozna\u0144 Nasze Miasto16 godz.",
+            "date": "Pozna\u0144 Nasze Miasto20 godz.",
             "source": "Pozna\u0144 Nasze Miasto",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pras\u00f3wka 27.09.2025 - najwa\u017cniejsze wydarzenia. Przygotowali\u015bmy przegl\u0105d prasy z wczoraj",
+            "link": "https://kurierlubelski.pl/prasowka-27-09-2025-najwazniejsze-wydarzenia-przygotowalismy-przeglad-prasy-z-wczoraj/ar/c1p1-19960905",
+            "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 26.09. Sprawd\u017a, czy nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego. Czy czyta\u0142e\u015b artyku\u0142: \u201eBudowa odcinka ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.lto-jgjLT22CJn-xbZRKjA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "targ+staroci",
+            "date": "Kurier Lubelski8 godz.",
+            "source": "Kurier Lubelski",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Podziemia Starego Miasta w O\u015bwi\u0119cimiu. Kryj\u0105 jeszcze wiele tajemnic. Tylko cz\u0119\u015b\u0107 jest udost\u0119pnionych do zwiedzania",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/podziemia-starego-miasta-w-o%C5%9Bwi%C4%99cimiu-kryj%C4%85-jeszcze-wiele-tajemnic-tylko-cz%C4%99%C5%9B%C4%87-jest-udost%C4%99pnionych-do-zwiedzania/ar-AA1NpmPC?ocid=BingNewsVerp",
+            "description": "Jedna z legend o podziemiach O\u015bwi\u0119cimia m\u00f3wi o \u015bredniowiecznym po\u0142\u0105czeniu zamku ksi\u0105\u017c\u0105t o\u015bwi\u0119cimskich z odleg\u0142ym o kilkaset ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.rZz8DC0jYrFndiBDHLuqVy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "Gazeta Krakowska on MSN2 godz.",
+            "source": "Gazeta Krakowska on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Oto Katowice w latach 70. Tych zdj\u0119\u0107 nie widzieli\u015bcie!",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/tak-wygl%C4%85da%C5%82y-katowice-w-latach-70-tych-unikatowych-zdj%C4%99%C4%87-jeszcze-nie-widzia%C5%82e%C5%9B-s%C4%85-od-genialnego-architekta-kt%C3%B3ry-budowa%C5%82-miasto/ar-AA1Mqd14?ocid=BingNewsVerp",
+            "description": "HISTORIA. Tak wygl\u0105da\u0142y Katowice w latach 70! Jeden z najs\u0142ynniejszych, najbardziej zas\u0142u\u017conych architekt\u00f3w w historii miasta. Zaprojektowa\u0142 domy handlowe Zenit i Skarbek, a tak\u017ce m.in. Bibliotek\u0119 ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.waTvG9_emdLbHMzcAnsfoA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "relikty",
+            "date": "Katowice Nasze Miasto on MSN3 godz.",
+            "source": "Katowice Nasze Miasto on MSN",
+            "article_content": ""
         }
     },
     {
@@ -234,7 +346,7 @@
             "description": "W wodach niemieckich spoczywa oko\u0142o 1,5 mln ton zatopionej broni, g\u0142\u00f3wnie z dw\u00f3ch wojen \u015bwiatowych. Na dawnych sk\u0142adowiskach materia\u0142\u00f3w wybuchowych naukowcy odkryli zaskakuj\u0105co liczne skupiska \u017cycia m ...",
             "image_url": "https://www.bing.pl/th?id=ODF.XjKNxK0Eo1rSSBvAQm83ZA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Euronews Polski on MSN1 godz.",
+            "date": "Euronews Polski on MSN5 godz.",
             "source": "Euronews Polski on MSN",
             "article_content": ""
         }
@@ -250,7 +362,7 @@
             "description": "Zanim wyruszysz, sprawd\u017a, jaka b\u0119dzie pogoda. W sobot\u0119 27 wrze\u015bnia w woj. zachodniopomorskim ma by\u0107 od 8\u00b0C do 17\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 28 wrze\u015bnia w woj. zachodniopomorskim ma by\u0107 od 7\u00b0C ...",
             "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "G\u0142os Szczeci\u0144ski18 godz.",
+            "date": "G\u0142os Szczeci\u0144ski22 godz.",
             "source": "G\u0142os Szczeci\u0144ski",
             "article_content": "Content not available"
         }
@@ -261,13 +373,29 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Ponad 200 lat temu zosta\u0142a rozebrana Brama Warszawska w Bia\u0142ymstoku. Tak wygl\u0105da\u0142a!",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/ponad-200-lat-temu-zosta%C5%82a-rozebrana-brama-warszawska-w-bia%C5%82ymstoku-tak-wygl%C4%85da%C5%82a/ar-AA1NmTWN?ocid=BingNewsVerp",
-            "description": "Min\u0119\u0142o ponad 200 lat, odk\u0105d Brama Warszawska, dumnie stoj\u0105ca na najbardziej reprezentacyjnej ulicy Bia\u0142egostoku, zosta\u0142a rozebrana, ust\u0119puj\u0105c miejsca zmieniaj\u0105cemu si\u0119 miastu. Dzi\u015b, kiedy niewiele os\u00f3 ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.XeB7ZuZxPFmNRcVIaCurgw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "relikty",
-            "date": "Eska Regiony on MSN20 godz.",
-            "source": "Eska Regiony on MSN",
+            "title": "10 rzeczy, kt\u00f3re musicie wiedzie\u0107 o Jarmarku Staroci i Osobliwo\u015bci w Jeleniej G\u00f3rze, kt\u00f3ry odbywa si\u0119 w sobot\u0119 i niedziel\u0119 (27 i 28. 09)",
+            "link": "https://gazetawroclawska.pl/10-rzeczy-ktore-musicie-wiedziec-o-jarmarku-staroci-i-osobliwosci-w-jeleniej-gorze-ktory-odbywa-sie-w-sobote-i-niedziele-27-i-28-09/ar/c1p2-28019481",
+            "description": "Jarmark ma dwie edycje wiosenn\u0105 ( na og\u00f3\u0142 w kwietniu) oraz jesienn\u0105, kt\u00f3ra organizowana jest w ostatni weekend wrze\u015bnia Jarmark nale\u017cy do najstarszych i najwi\u0119kszych w Polsce. Odbywa si\u0119 po raz 56.",
+            "image_url": "https://www.bing.pl/th?id=ODF.p9YO103MXreScWBGsL62IA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "zabytkowe+przedmioty",
+            "date": "Gazeta Wroc\u0142awska3 godz.",
+            "source": "Gazeta Wroc\u0142awska",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Oto Katowice w latach 70. Tych zdj\u0119\u0107 nie widzieli\u015bcie!",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/tak-wygl%C4%85da%C5%82y-katowice-w-latach-70-tych-unikatowych-zdj%C4%99%C4%87-jeszcze-nie-widzia%C5%82e%C5%9B-s%C4%85-od-genialnego-architekta-kt%C3%B3ry-budowa%C5%82-miasto/ar-AA1Mqd14?ocid=BingNewsVerp",
+            "description": "HISTORIA. Tak wygl\u0105da\u0142y Katowice w latach 70! Jeden z najs\u0142ynniejszych, najbardziej zas\u0142u\u017conych architekt\u00f3w w historii miasta. Zaprojektowa\u0142 domy handlowe Zenit i Skarbek, a tak\u017ce m.in. Bibliotek\u0119 ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.waTvG9_emdLbHMzcAnsfoA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "zabytkowe+przedmioty",
+            "date": "Katowice Nasze Miasto on MSN3 godz.",
+            "source": "Katowice Nasze Miasto on MSN",
             "article_content": ""
         }
     },
@@ -277,13 +405,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Kontrole drogowe postomino",
-            "link": "https://slawno.naszemiasto.pl/tag/kontrole-drogowe-postomino",
-            "description": "Policjanci z Wydzia\u0142u Ruchu Drogowego zatrzymali w Jaros\u0142awcu kieruj\u0105cego motorowerem, kt\u00f3ry jecha\u0142 bez kasku ochronnego. - ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "\u017baga\u0144skie Stowarzyszenie Ratowania Zabytk\u00f3w",
+            "link": "https://gazetalubuska.pl/tag/zaganskie-stowarzyszenie-ratowania-zabytkow",
+            "description": "Rada Miasta \u017baga\u0144 przyj\u0119\u0142a program opieki nad bezdomnymi zwierz\u0119tami. Jest spora rzesza ludzi o ogromnych sercach, ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.3eoQtikE6G1i3Kek0VfuOS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "S\u0142awno Nasze Miasto16 min",
-            "source": "S\u0142awno Nasze Miasto",
+            "date": "Gazeta Lubuska18 godz.",
+            "source": "Gazeta Lubuska",
             "article_content": "Content not available"
         }
     },
@@ -298,7 +426,7 @@
             "description": "Energa Trefl Gda\u0144sk uleg\u0142a w meczu towarzyskim Indykpol AZS Olsztyn 1:3. By\u0142 to nietypowy sparing w kt\u00f3rym rywale um\u00f3wili si\u0119 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.WhWGAT8JQk5jlssbsUunfy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Trojmiasto.pl4 godz.",
+            "date": "Trojmiasto.pl8 godz.",
             "source": "Trojmiasto.pl",
             "article_content": "Content not available"
         }
@@ -309,46 +437,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Ryszard grygiel",
-            "link": "https://dzienniklodzki.pl/tag/ryszard-grygiel",
-            "description": "Muzeum Archeologiczne i Etnograficzne w \u0141odzi rozpocz\u0119\u0142o remont budynk\u00f3w stanowi\u0105cych zaplecze dla najbardziej znanego gmachu ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.LquyZC1lhc9E3iO8lVMmhi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Albania po sezonie: spokojniej, taniej, pi\u0119kniej \u2013 sprawd\u017a, czy warto!",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/albania-po-sezonie-spokojniej-taniej-pi%C4%99kniej-sprawd%C5%BA-czy-warto/ar-AA1NmEwt?ocid=BingNewsVerp",
+            "description": "Albania kusi nie tylko latem. Jesieni\u0105 odkryjesz tu spokojne pla\u017ce, g\u00f3rskie szlaki bez t\u0142um\u00f3w i zabytkowe miasta w kameralnej ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.6e4IPiYFK1pgcdMaeH6xky&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Dziennik \u0141\u00f3dzki1 godz.",
-            "source": "Dziennik \u0141\u00f3dzki",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Nacmierz policja kontrola",
-            "link": "https://slawno.naszemiasto.pl/tag/nacmierz-policja-kontrola",
-            "description": "Policjanci z Wydzia\u0142u Ruchu Drogowego zatrzymali w Jaros\u0142awcu kieruj\u0105cego motorowerem, kt\u00f3ry jecha\u0142 bez kasku ochronnego. - ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "S\u0142awno Nasze Miasto41 min",
-            "source": "S\u0142awno Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "\u017baga\u0144skie Stowarzyszenie Ratowania Zabytk\u00f3w",
-            "link": "https://gazetalubuska.pl/tag/zaganskie-stowarzyszenie-ratowania-zabytkow",
-            "description": "Rada Miasta \u017baga\u0144 przyj\u0119\u0142a program opieki nad bezdomnymi zwierz\u0119tami. Jest spora rzesza ludzi o ogromnych sercach, ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.3eoQtikE6G1i3Kek0VfuOS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Lubuska13 godz.",
-            "source": "Gazeta Lubuska",
-            "article_content": "Content not available"
+            "date": "Strona Podr\u00f3\u017cy on MSN23 godz.",
+            "source": "Strona Podr\u00f3\u017cy on MSN",
+            "article_content": ""
         }
     },
     {
@@ -362,7 +458,7 @@
             "description": "Je\u015bli my\u015blisz, \u017ce wszystkie monety z PRL s\u0105 warte tylko kilka groszy, to jeste\u015b w b\u0142\u0119dzie. Istniej\u0105 konkretne egzemplarze, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.Z_ZyJgYKibDUqWvSQQ7Upi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Pomorza3 godz.",
+            "date": "G\u0142os Pomorza7 godz.",
             "source": "G\u0142os Pomorza",
             "article_content": "Content not available"
         }
@@ -378,7 +474,7 @@
             "description": "W czwartek (25 wrze\u015bnia), po godzinie 19, zadysponowa\u0142o zast\u0119p OSP z Jordanowa \u015al\u0105skiego do miejscowo\u015bci Tomice. Samoch\u00f3d ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.HM9AhXZrWMWACfkJe3_drS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Gazeta Wroc\u0142awska4 godz.",
+            "date": "Gazeta Wroc\u0142awska8 godz.",
             "source": "Gazeta Wroc\u0142awska",
             "article_content": "Content not available"
         }
