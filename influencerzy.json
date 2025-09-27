@@ -5,12 +5,44 @@
             "Content-Type": "application/json"
         },
         "body": {
+            "title": "Ryszard grygiel",
+            "link": "https://dzienniklodzki.pl/tag/ryszard-grygiel",
+            "description": "Muzeum Archeologiczne i Etnograficzne w \u0141odzi rozpocz\u0119\u0142o remont budynk\u00f3w stanowi\u0105cych zaplecze dla najbardziej znanego gmachu ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.LquyZC1lhc9E3iO8lVMmhi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Dziennik \u0141\u00f3dzki1 godz.",
+            "source": "Dziennik \u0141\u00f3dzki",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Wile\u0144ska Park",
+            "link": "https://echodnia.eu/swietokrzyskie/tag/wilenska-park",
+            "description": "Nowoczesne domy z widokiem na panoram\u0119 Kielc, wysoki salon i w\u0142asny ogr\u00f3d \u2013 tak wygl\u0105da Wile\u0144ska Park, kameralne osiedle ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.OlAu1bnOzeBTIhhXx8Eu3y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Echo Dnia2 godz.",
+            "source": "Echo Dnia",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
             "title": "Kielce i liceum absolwenci",
             "link": "https://echodnia.eu/tag/kielce-i-liceum-absolwenci",
             "description": "W pi\u0105tek, 26 wrze\u015bnia, absolwenci I Liceum Og\u00f3lnokszta\u0142c\u0105cego imienia Stefana \u017beromskiego w Kielcach spotkali si\u0119 na ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.OlAu1bnOzeBTIhhXx8Eu3y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Echo Dnia11 godz.",
+            "date": "Echo Dnia15 godz.",
             "source": "Echo Dnia",
             "article_content": "Content not available"
         }
@@ -26,7 +58,7 @@
             "description": "Ameryka\u0144ska agencja Defense Security Cooperation Agency (DSCA) wyrazi\u0142a zgod\u0119 na potencjaln\u0105 sprzeda\u017c Niemcom pocisk\u00f3w AIM-120D-3 AMRAAM i powi\u0105zanego sprz\u0119tu o warto\u015bci szacowanej na 1,23 mld dol. Ot ...",
             "image_url": "https://www.bing.pl/th?id=ODF.J2srGq-eV9OZZ9ObclYodQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "WP Tech13 godz.",
+            "date": "WP Tech17 godz.",
             "source": "WP Tech",
             "article_content": "25 wrze\u015bnia 2025 r. DSCA poinformowa\u0142a o zgodzie dla potencjalnej sprzeda\u017cy do Niemiec za maksymaln\u0105 kwot\u0119 1,23 mld dolar\u00f3w 400 pocisk\u00f3w powietrze-powietrze \u015bredniego zasi\u0119gu AIM-120D-3 AMRAAM, 12 sekcji naprowadzaj\u0105cych AIM-120D-3 oraz pojedynczego modu\u0142u M-Core i testowego pocisku AIM-120 AMRAAM. Do tego dochodzi wsparcie logistyczne w postaci cz\u0119\u015bci zamiennych, pomocy technicznej i oprogramowania.\n\nCo ciekawe jest to kwota o 10 mln dolar\u00f3w ni\u017csza od podobnej propozycji dla Polski z kwietnia 2025 roku. Warto jednak zaznaczy\u0107, \u017ce kwoty podane w komunikatach DSCA s\u0105 warto\u015bci\u0105 maksymaln\u0105, a p\u00f3\u017aniej podpisane umowy wykonawcze na sprz\u0119t s\u0105 zwykle ni\u017csze.\n\nSprzeda\u017c ma wspiera\u0107 cele polityki zagranicznej i bezpiecze\u0144stwa Stan\u00f3w Zjednoczonych poprzez zwi\u0119kszenie potencja\u0142u sojusznika NATO, kt\u00f3ry odgrywa istotn\u0105 rol\u0119 w stabilno\u015bci politycznej i gospodarczym rozwoju Europy. G\u0142\u00f3wnym wykonawc\u0105 kontraktu b\u0119dzie firma RTX Corporation z Arlington w stanie Wirginia.\n\nAIM-120D-3 AMRAAM \u2014 najnowsza wersja standardu lotnictwa NATO\n\nAIM-120D-3 reprezentuje najnowsz\u0105 generacj\u0119 pocisk\u00f3w powietrze-powietrze AIM-120 AMRAAM b\u0119d\u0105c\u0105 w stanie zwalcza\u0107 cele na dystansie do 180 km. Pociski mog\u0105 by\u0107 wykorzystywane przez r\u00f3\u017cne platformy, pocz\u0105wszy od samolot\u00f3w F-16, F-35, Eurofighter czy JAS 39 Gripen, a sko\u0144czywszy na naziemnych systemach obrony powietrznej NASAMS.\n\nW przypadku Niemiec najpewniej pociski s\u0105 przeznaczone dla pozyskanych samolot\u00f3w F-35, poniewa\u017c Eurofightery mog\u0105 korzysta\u0107 oferuj\u0105cych jeszcze wi\u0119kszy zasi\u0119g pocisk\u00f3w MBDA Meteor.\n\nWersja AIM-120D-3 wyr\u00f3\u017cnia si\u0119 na tle wcze\u015bniejszych modeli poprawion\u0105 nawigacj\u0105 i dodaniem dwukierunkowego \u0142\u0105cza komunikacyjnego zapewniaj\u0105cego \u0142\u0105czno\u015b\u0107 z samolotem po wystrzeleniu. To pozwala na przesy\u0142anie przez samolot korekt pozycji celu do pocisku, zanim ten zbli\u017cy si\u0119 na tyle, aby naprowadzanie przej\u0119\u0142a pok\u0142adowa aktywna g\u0142owica radiolokacyjna.\n\nAIM-120D-3 AMRAAM \u2014 \u0142\u0105cze komunikacyjne zapewnia nowe mo\u017cliwo\u015bci\n\nWarto jednak pami\u0119ta\u0107, \u017ce ze wzgl\u0119du na kompaktowe rozmiary, zasi\u0119g radaru zamontowanego w pocisku jest ograniczony \u2013 szacuje si\u0119, \u017ce zawiera si\u0119 on w przedziale 20-40 km dla klasycznego samolotu. Do tego czasu pocisk po prostu leci do obszaru, gdzie wedle wylicze\u0144 powinien si\u0119 znajdowa\u0107 cel naprowadzany przez nawigacj\u0119 inercyjn\u0105.\n\nZ kolei \u0142\u0105cze komunikacyjne zapewnia przesy\u0142anie aktualizacji pozycji celu na \u017cywo oraz w razie konieczno\u015bci zmian\u0119 celu na inny je\u015bli pierwotny obiekt zosta\u0142 zniszczony np. przez inny pocisk."
         }
@@ -37,13 +69,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "And other stories sklep",
-            "link": "https://warszawa.naszemiasto.pl/tag/and-other-stories-sklep",
-            "description": "& Other Stories to marka-siostra takich znanych sklep\u00f3w, jak H&M i COS. Wiadomo, \u017ce pierwszy sklep powstanie w Warszawie, w ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "Warszawa Nasze Miasto22 godz.",
-            "source": "Warszawa Nasze Miasto",
+            "title": "Tych monet i banknot\u00f3w szukaj\u0105 kolekcjonerzy. Masz takie w domu? P\u0142ac\u0105 za nie nawet 40 tysi\u0119cy z\u0142otych. Mo\u017cna du\u017co zarobi\u0107 27.09.2025",
+            "link": "https://gp24.pl/tych-monet-i-banknotow-szukaja-kolekcjonerzy-masz-takie-w-domu-placa-za-nie-nawet-40-tysiecy-zlotych-mozna-duzo-zarobic-27-09-2025/ar/c3p2-27672673",
+            "description": "Je\u015bli my\u015blisz, \u017ce wszystkie monety z PRL s\u0105 warte tylko kilka groszy, to jeste\u015b w b\u0142\u0119dzie. Istniej\u0105 konkretne egzemplarze, ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.Z_ZyJgYKibDUqWvSQQ7Upi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "G\u0142os Pomorza3 godz.",
+            "source": "G\u0142os Pomorza",
             "article_content": "Content not available"
         }
     },
@@ -53,12 +85,28 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Stare telefony kom\u00f3rkowe, kt\u00f3re dzi\u015b s\u0105 warte fortun\u0119. Masz takie? 26.09.2025",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/stare-telefony-kom%C3%B3rkowe-kt%C3%B3re-dzi%C5%9B-s%C4%85-warte-fortun%C4%99-masz-takie-26092025/ar-AA1Hsewg?ocid=BingNewsVerp",
-            "description": "W erze superszybkich smartfon\u00f3w z potr\u00f3jnymi aparatami, ekranami AMOLED i sztuczn\u0105 inteligencj\u0105 na pok\u0142adzie, ma\u0142o kto spodziewa\u0142by si\u0119, \u017ce to w\u0142a\u015bnie telefony sprzed 20 lat prze\u017cywaj\u0105 dzi\u015b drug\u0105 m\u0142od ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Rzadkie monety z PRL poszukiwane przez kolekcjoner\u00f3w. Sprawd\u017a, kt\u00f3re s\u0105 najdro\u017csze i ile mo\u017cna za nie zarobi\u0107! 27.09.2025",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/rzadkie-monety-z-prl-poszukiwane-przez-kolekcjoner%C3%B3w-sprawd%C5%BA-kt%C3%B3re-s%C4%85-najdro%C5%BCsze-i-ile-mo%C5%BCna-za-nie-zarobi%C4%87-27092025/ar-AA1NoBej?ocid=BingNewsVerp",
+            "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ich pojawienia si\u0119 na rynku. Najcz\u0119\u015bciej poszukiwane monety przez kolekcjone ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.liWL6w23oefxD6cfFEdIQA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "G\u0142os Pomorza on MSN15 godz.",
+            "date": "Nasze Miasto on MSN3 godz.",
+            "source": "Nasze Miasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Wazony z czas\u00f3w PRL. Od codzienno\u015bci do kolekcjonerskiego hitu. Oto wazony poszukiwane w Internecie 27.09.2025",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/wazony-z-czas%C3%B3w-prl-od-codzienno%C5%9Bci-do-kolekcjonerskiego-hitu-oto-wazony-poszukiwane-w-internecie-27092025/ar-AA1NoLkI?ocid=BingNewsVerp",
+            "description": "W czasach Polskiej Rzeczypospolitej Ludowej (PRL) wn\u0119trza polskich dom\u00f3w wype\u0142nia\u0142y przedmioty, kt\u00f3re dzi\u015b prze\u017cywaj\u0105 swoj\u0105 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.IL8KRDrxvOLkKrRrYKbPki&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "G\u0142os Pomorza on MSN3 godz.",
             "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
         }
@@ -69,14 +117,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Polski banknot trafi\u0142 na aukcj\u0119 w Holandii. Trwa zaciek\u0142a licytacja. Tyle jest wart",
-            "link": "https://www.biznesinfo.pl/polski-banknot-trafil-na-aukcje-w-holandii-trwa-zaciekla-licytacja-tyle-jest-wart-jb-wac-260925",
-            "description": "Nie jest tajemnic\u0105 fakt, \u017ce polskie banknoty i monety z minionych epok potrafi\u0105 znacz\u0105co zyska\u0107 na warto\u015bci. Niewiele os\u00f3b spodziewa si\u0119 ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.W5Y4MI3IF_FGCvkznSbrPQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "EA Sports FC 26 - jak zmieni\u0107 stroje, herb i stadion",
+            "link": "https://www.eurogamer.pl/ea-sports-fc-26-jak-zmienic-stroje-herb-i-stadion",
+            "description": "Tylko wtedy b\u0119dziesz mia\u0142 gwarancj\u0119, \u017ce koszulki obu zespo\u0142\u00f3w nie b\u0119d\u0105 zlewa\u0107 si\u0119 ze sob\u0105 na boisku. Oczywi\u015bcie gra domy\u015blnie ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.9oIhp0V7q1OeL9cm9dh8Hy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "BiznesINFO.pl21 godz.",
-            "source": "BiznesINFO.pl",
-            "article_content": "Polski banknot trafi\u0142 na aukcj\u0119 w Holandii. Trwa zaciek\u0142a licytacja. Tyle jest wart\n\nNie jest tajemnic\u0105 fakt, \u017ce polskie banknoty i monety z minionych epok potrafi\u0105 znacz\u0105co zyska\u0107 na warto\u015bci. Niewiele os\u00f3b spodziewa si\u0119 jednak, \u017ce to zainteresowanie si\u0119ga daleko poza granice kraju. Na holenderskim serwisie aukcyjnym pojawi\u0142a si\u0119 intryguj\u0105ca oferta, tak\u0105 warto\u015b\u0107 zyska\u0142 banknot z PRL. Kto\u015b ma szans\u0119 si\u0119 wzbogaci\u0107.\n\nStare pieni\u0105dze zyskuj\u0105 na warto\u015bci\n\nJaka jest realna warto\u015b\u0107 pieni\u0119dzy z czas\u00f3w PRL? Warto\u015b\u0107 numizmatyczna starych banknot\u00f3w nie ma nic wsp\u00f3lnego z ich pierwotnym nomina\u0142em, a kluczowym czynnikiem jest stan zachowania egzemplarza. W \u015bwiecie kolekcjoner\u00f3w funkcjonuje precyzyjna skala oceny.\n\nNajwy\u017csz\u0105 warto\u015b\u0107 osi\u0105gaj\u0105 egzemplarze w \u201cstanie bankowym\u201d (UNC - Uncirculated), kt\u00f3re nigdy nie trafi\u0142y do obiegu, maj\u0105 ostre rogi i zachowa\u0142y oryginalny, drukarski po\u0142ysk. Ka\u017cde, nawet najdrobniejsze zgi\u0119cie, zabrudzenie czy naderwanie drastycznie obni\u017ca ich warto\u015b\u0107. Egzemplarze \u201dprawie nieobiegowe\u201d (AU - About Uncirculated) mog\u0105 mie\u0107 minimalne \u015blady, na przyk\u0142ad po liczeniu, a te w \"stanie pi\u0119knym\u201d (XF - Extremely Fine) nosz\u0105 ju\u017c lekkie \u015blady obiegu.\n\nFot. ARKADIUSZ ZIOLEK/East News\n\nNa polskim rynku kolekcjonerskim idealnie zachowany banknot sprzed dekad mo\u017cna naby\u0107 za oko\u0142o 300-500 z\u0142otych. Egzemplarze nosz\u0105ce wyra\u017ane \u015blady zu\u017cycia, wielokrotnie sk\u0142adane i przybrudzone, s\u0105 warte symboliczn\u0105 kwot\u0119, cz\u0119sto nieprzekraczaj\u0105c\u0105 kilkudziesi\u0119ciu z\u0142otych. Opr\u00f3cz stanu zachowania, na cen\u0119 wp\u0142ywa r\u00f3wnie\u017c seria i numer banknotu, egzemplarze z pierwszych serii (np. oznaczonych liter\u0105 A) lub o nietypowych numerach (np. radar - palindrom) bywaj\u0105 dro\u017csze.\n\nW\u015br\u00f3d kolekcjoner\u00f3w du\u017c\u0105 popularno\u015bci\u0105 ciesz\u0105 si\u0119 tzw. b\u0142\u0119dnodruki, czyli banknoty z wadami powsta\u0142ymi na etapie produkcji, na przyk\u0142ad przesuni\u0119tym nadrukiem, brakiem cz\u0119\u015bci element\u00f3w graficznych czy nietypowym kolorem. Takie egzemplarze s\u0105 rzadkie i przez to osi\u0105gaj\u0105 ceny znacznie wy\u017csze ni\u017c standardowe banknoty w tym samym stanie zachowania. Warto r\u00f3wnie\u017c pami\u0119ta\u0107, \u017ce rynek numizmatyczny jest dynamiczny, a moda na okre\u015blone nomina\u0142y lub emisje si\u0119 zmienia. Niekt\u00f3re banknoty z czas\u00f3w PRL, kt\u00f3re jeszcze kilkana\u015bcie lat temu by\u0142y \u0142atwo dost\u0119pne i tanie, dzi\u015b potrafi\u0105 by\u0107 poszukiwanym rarytasem.\n\nTak jest mi\u0119dzy innymi z tym konkretnym banknotem, kt\u00f3ry pojawi\u0142 si\u0119 na aukcji. Jej autorem jest Portugalczyk, a zainteresowanie polskimi pieni\u0119dzmi przykuwa uwag\u0119.\n\nPieni\u0105dze z PRL na aukcjach\n\nBanknot z Reymontem, datowany na 1 czerwca 1991 roku, nie jest dzie\u0142em przypadku, lecz namacalnym dowodem szalej\u0105cej na prze\u0142omie lat 80. i 90. hiperinflacji. U progu transformacji ustrojowej polska gospodarka znalaz\u0142a si\u0119 w stanie zapa\u015bci. Uwalnianie cen i niedobory towar\u00f3w nap\u0119dza\u0142y spiral\u0119 inflacyjn\u0105 do niebotycznych rozmiar\u00f3w.\n\nWska\u017anik inflacji w 1989 roku wyni\u00f3s\u0142 251,1 proc., a w rekordowym 1990 roku a\u017c 585 proc. Narodowy Bank Polski, pr\u00f3buj\u0105c nad\u0105\u017cy\u0107 za p\u0119dz\u0105cymi cenami, zmuszony by\u0142 drukowa\u0107 banknoty o coraz wy\u017cszych nomina\u0142ach. W obiegu pojawi\u0142y si\u0119 banknoty z wizerunkami wielkich Polak\u00f3w, opiewaj\u0105ce na 200 000 z\u0142 z Mieszkiem I, 500 000 z\u0142 z Henrykiem Sienkiewiczem, a w ko\u0144cu milion i dwa miliony z\u0142otych.\n\nFot. ARKADIUSZ ZIOLEK/East News\n\nPensje wyp\u0142acane w milionach by\u0142y norm\u0105, jednak ich realna warto\u015b\u0107 pozwala\u0142a na zaspokojenie jedynie podstawowych potrzeb. Za przeci\u0119tn\u0105 pensj\u0119, kt\u00f3ra pod koniec 1994 roku wynosi\u0142a ok. 6 mln starych z\u0142otych, mo\u017cna by\u0142o kupi\u0107 niewiele. Ten monetarny chaos zako\u0144czy\u0142a denominacja, kt\u00f3ra wesz\u0142a w \u017cycie 1 stycznia 1995 roku. Operacja polega\u0142a na \"obci\u0119ciu\u201d czterech zer, w zwi\u0105zku z czym jeden nowy polski z\u0142oty (PLN) zast\u0105pi\u0142 dziesi\u0119\u0107 tysi\u0119cy starych z\u0142otych (PLZ).\n\nBanknot o nominale miliona z\u0142otych z dnia na dzie\u0144 sta\u0142 si\u0119 wi\u0119c r\u00f3wnowarto\u015bci\u0105 stu z\u0142otych, a stare pieni\u0105dze mo\u017cna by\u0142o wymienia\u0107 do ko\u0144ca 1996 roku, po czym bezpowrotnie straci\u0142y warto\u015b\u0107 p\u0142atnicz\u0105.\n\nPo latach ponownie zacz\u0119\u0142y jednak zyskiwa\u0107 na warto\u015bci. Wida\u0107 to wyra\u017anie na aukcji, na kt\u00f3rej pojawi\u0142 si\u0119 banknot z wizerunkiem W\u0142adys\u0142awa Reymonta.\n\nZobacz: Bon senioralny nie dla wszystkich. Zmiany w rz\u0105dowym programie, te osoby nie dostan\u0105 wsparcia\n\nTyle jest warty banknot z PRL, aukcja trwa\n\nWydawa\u0142oby si\u0119, \u017ce stare pieni\u0105dze, kt\u00f3re wysz\u0142y z obiegu dekady temu, to jedynie makulatura. Nic bardziej mylnego. Na jednym z holenderskich portali aukcyjnych, Catawiki, pojawi\u0142 si\u0119 niedawno banknot o nominale miliona z\u0142otych z wizerunkiem W\u0142adys\u0142awa Reymonta.\n\nCo ciekawe, wystawiony zosta\u0142 przez sprzedawc\u0119 z Portugalii, co dowodzi mi\u0119dzynarodowego zainteresowania polsk\u0105 histori\u0105. Aukcja szybko przyci\u0105gn\u0119\u0142a uwag\u0119 kolekcjoner\u00f3w, a licytacja sta\u0142a si\u0119 niezwykle zaci\u0119ta. Eksperci szacowali warto\u015b\u0107 banknotu na oko\u0142o 120-140 euro, a na ten moment bior\u0105cy udzia\u0142 w aukcji podbili cen\u0119 do 74 euro (ok. 315 z\u0142). Mowa o 13 osobach, kt\u00f3re aktywnie uczestnicz\u0105 oraz 30 obserwatorach.\n\nTo nie pierwszy raz, kiedy podobny banknot wyl\u0105dowa\u0142 na portalu i zosta\u0142 wylicytowany. W innych przypadkach na Onebid potrafi\u0142y osi\u0105gn\u0105\u0107 one ceny od 200 do nawet 5000 z\u0142, a \u015brednia kwota waha\u0142a si\u0119 mi\u0119dzy 300 a 400 z\u0142.\n\nZainteresowanie tym konkretnym egzemplarzem pokazuje, \u017ce pami\u0105tki z okresu PRL, cz\u0119sto chowane na dnie szuflad, zyskuj\u0105 na warto\u015bci i staj\u0105 si\u0119 obiektem po\u017c\u0105dania nie tylko na lokalnym rynku. Dla wielu Polak\u00f3w to przypomnienie o czasach, kiedy niemal ka\u017cdy by\u0142 milionerem, cho\u0107 si\u0142a nabywcza tych milion\u00f3w by\u0142a znikoma. Popularno\u015b\u0107 portali aukcyjnych sprawia, \u017ce rynek kolekcjonerski sta\u0142 si\u0119 globalny. Dzi\u015b ka\u017cdy, kto znajdzie w domu dobrze zachowany egzemplarz, mo\u017ce z \u0142atwo\u015bci\u0105 dotrze\u0107 do kupc\u00f3w z ca\u0142ego \u015bwiata, a sentyment i historia zamkni\u0119ta w kawa\u0142ku papieru potrafi\u0105 wywindowa\u0107 cen\u0119 znacznie powy\u017cej rynkowych standard\u00f3w."
+            "date": "Eurogamer.pl16 min",
+            "source": "Eurogamer.pl",
+            "article_content": "Nie ma nic bardziej satysfakcjonuj\u0105cego w trybie Ultimate Team w EA Sports FC 26 (FIFA 26) od widoku ulubionych pi\u0142karzy z twojego wymarzonego sk\u0142adu graj\u0105cych w koszulkach ulubionego klubu pi\u0142karskiego. W\u0142a\u015bnie - nie dla wszystkich to mo\u017ce by\u0107 oczywiste, wi\u0119c na tej stronie wyja\u015bniamy jak zmieni\u0107 stroje podstawowe i wyjazdowe oraz jak wybra\u0107 nowy herb klubowy.\n\nJak zmieni\u0107 stadion, stroje i herb\n\nWykonaj nast\u0119puj\u0105ce kroki, aby dosta\u0107 si\u0119 do miejsca personalizacji klubu w Ultimate Team.\n\nb\u0119d\u0105c w menu trybu Ultimate Team, wybierz zak\u0142adk\u0119 Klub na g\u00f3rnym pasku.\n\nna g\u00f3rnym pasku. teraz wybierz zak\u0142adk\u0119 Stadion .\n\n. personalizacja stadionu odbywa si\u0119 poprzez zak\u0142adki Konstrukcja i Oprawa . Wystarczy wej\u015b\u0107 do nich i aktywowa\u0107 w\u0142a\u015bciwe opcje.\n\n. Wystarczy wej\u015b\u0107 do nich i aktywowa\u0107 w\u0142a\u015bciwe opcje. zmiany stroj\u00f3w i herbu dokonamy w zak\u0142adce Klub .\n\n. w tym miejscu znajdziesz inne elementy personalizacji (np. hymn klubu czy d\u017awi\u0119k po strzelonym golu). Aktywne przedmioty kosmetyczne s\u0105 oznaczone malutk\u0105 zielon\u0105 koszulk\u0105.\n\nJak zdobywa\u0107 przedmioty kosmetyczne\n\nWszelkie przedmioty kosmetyczne dla naszego klubu zdobywamy otwieraj\u0105c paczki, wykonuj\u0105c zadania lub kupuj\u0105c przedmioty na rynku transferowym. T\u0119 ostatni\u0105 opcj\u0119 odradzamy w pierwszych godzinach, bo na starcie mamy ma\u0142o monet UT. Zarobione coinsy lepiej wyda\u0107 na zbudowanie solidnego sk\u0142adu, a dopiero potem zaj\u0105\u0107 si\u0119 personalizacj\u0105 klubu. Ma\u0142o tego, po drodze pewnie dostaniemy wiele darmowych paczek, z kt\u00f3rych wylec\u0105 nam r\u00f3\u017cne ciekawe rzeczy do personalizacji.\n\nJak zmieni\u0107 stroje przed meczem\n\nNajlepsza mo\u017cliwa porada - zawsze dobieraj kontrastuj\u0105ce ze sob\u0105 stroje podstawowe i wyjazdowe. Rekomendujemy dob\u00f3r jednego jasnego i jednego ciemnego stroju. Ubi\u00f3r naszych pi\u0142karzy i zawodnik\u00f3w rywala mo\u017cesz zmieni\u0107 tu\u017c przed meczem, ale ju\u017c po po\u0142\u0105czeniu z przeciwnikiem. Najpierw zatwierd\u017a sw\u00f3j str\u00f3j, a potem potwierd\u017a str\u00f3j rywala i dopiero wtedy wci\u015bnij przycisk Dalej.\n\nTylko wtedy b\u0119dziesz mia\u0142 gwarancj\u0119, \u017ce koszulki obu zespo\u0142\u00f3w nie b\u0119d\u0105 zlewa\u0107 si\u0119 ze sob\u0105 na boisku. Oczywi\u015bcie gra domy\u015blnie stara si\u0119 dobiera\u0107 kontrastowe stroje, ale nie zawsze wychodzi jej to dobrze. Je\u017celi chcesz jeszcze bardziej poprawi\u0107 widoczno\u015b\u0107 na murawie, to zalecamy wy\u0142\u0105czenie cieni pi\u0142karzy i stadionu.\n\nNast\u0119pnie: EA Sports FC 26 - jak szybko zarabia\u0107 monety w Ultimate Team\n\nPoprzednio: EA Sports FC 26 - jak dzia\u0142a paczka z podgl\u0105dem"
         }
     },
     {
@@ -85,45 +133,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Wystawi\u0142 na aukcji \"milion\u00f3wk\u0119\" z PRL. Taki banknot mo\u017ce by\u0107 wart kilka tys. z\u0142",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/wystawi%C5%82-na-aukcji-milion%C3%B3wk%C4%99-z-prl-taki-banknot-mo%C5%BCe-by%C4%87-wart-kilka-tys-z%C5%82/ar-AA1Nl2Ug?ocid=BingNewsVerp",
-            "description": "W Polsce ro\u015bnie zainteresowanie kolekcjonowaniem monet i banknot\u00f3w z czas\u00f3w Polskiej Rzeczypospolitej Ludowej. Cho\u0107 wielu wci\u0105\u017c postrzega je jako stosunkowo nowe w por\u00f3wnaniu z historycznymi dukatami ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.Y_NBXQC-7-xdFa0P1xXxXw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Dzie\u0144 edukacji narodowej 2020",
+            "link": "https://nto.pl/tag/dzien-edukacji-narodowej-2020",
+            "description": "Uniwersytet Opolski ruszy\u0142 z najwi\u0119kszym pakietem modernizacji od lat. Ponad 3,5 mln z\u0142 trafi na remonty, kt\u00f3re maj\u0105 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.KF0LAwYC9ods4aiL9btHkC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Kobieta on MSN19 godz.",
-            "source": "Kobieta on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Przebudowa targowiska w s\u0142awnie",
-            "link": "https://slawno.naszemiasto.pl/tag/przebudowa-targowiska-w-slawnie",
-            "description": "Bia\u0142ego kruka kupi\u0142 na targowisku w S\u0142awnie. Konkretnie Modlitewnik \u017bo\u0142nierski wydany w 1934 roku. Kupi\u0142, jak m\u00f3wi, za kilka ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "S\u0142awno Nasze Miasto23 godz.",
-            "source": "S\u0142awno Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Jagody s\u0142awno",
-            "link": "https://slawno.naszemiasto.pl/tag/jagody-slawno",
-            "description": "Wiosenny i wielkanocny handel na targowisku miejskim w S\u0142awnie we wtorek - 25 marca 2025 roku. Byli\u015bmy tam. Zobaczcie ceny ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "S\u0142awno Nasze Miasto4 godz.",
-            "source": "S\u0142awno Nasze Miasto",
+            "date": "Nowa Trybuna Opolska1 godz.",
+            "source": "Nowa Trybuna Opolska",
             "article_content": "Content not available"
         }
     },
@@ -135,28 +151,12 @@
         "body": {
             "title": "Stara porcelana z PRL bije rekordy popularno\u015bci. Kolekcjonerzy poluj\u0105 na te naczynia, wazony i figurki",
             "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/stara-porcelana-z-prl-bije-rekordy-popularno%C5%9Bci-kolekcjonerzy-poluj%C4%85-na-te-naczynia-wazony-i-figurki/ar-AA1L6ze7?ocid=BingNewsVerp",
-            "description": "Porcelana z czas\u00f3w PRL-u jest obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli posiadasz wazony, zastawy sto\u0142owe czy figurki z lat 60., 70. czy 80., warto przyjrze\u0107 si\u0119 i ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "description": "Porcelana z czas\u00f3w PRL-u jest obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli posiadasz wazony ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.mQOajxtDGS0-NyUHIg9bEC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN23 godz.",
+            "date": "Gazeta Pomorska on MSN11 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Przegl\u0105d prasy (27.09.2025). Zobacz pras\u00f3wk\u0119 z najwa\u017cniejszymi wydarzeniami z wczoraj. B\u0105d\u017a na bie\u017c\u0105co",
-            "link": "https://pomorska.pl/przeglad-prasy-27-09-2025-zobacz-prasowke-z-najwazniejszymi-wydarzeniami-z-wczoraj-badz-na-biezaco/ar/c1p1-19960903",
-            "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 26.09. Sprawd\u017a, czy nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego. Czy czyta\u0142e\u015b artyku\u0142: \u201eW Grudzi\u0105dzu rok ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stara+porcelana",
-            "date": "Gazeta Pomorska38 min",
-            "source": "Gazeta Pomorska",
-            "article_content": "Content not available"
         }
     },
     {
@@ -170,7 +170,7 @@
             "description": "W pi\u0105tek 26 wrze\u015bnia na rynku w O\u017carowie odby\u0142a si\u0119 wyj\u0105tkowa akcja organizowana przez Echo Dnia - \u201eWrzosy za surowce wt\u00f3rne' ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.gZyRBojgptoSkdeeK4zuGC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Echo Dnia on MSN14 godz.",
+            "date": "Echo Dnia on MSN18 godz.",
             "source": "Echo Dnia on MSN",
             "article_content": ""
         }
@@ -181,12 +181,44 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "W miejscu dawnego hotelu Ikar w Poznaniu powstaje Four Points by Sheraton. Otwarcie zaplanowano na 2026 rok. Zobacz zdj\u0119cia",
-            "link": "https://poznan.naszemiasto.pl/w-miejscu-dawnego-hotelu-ikar-w-poznaniu-powstaje-four-points-by-sheraton-otwarcie-zaplanowano-na-2026-rok-zobacz-zdjecia/ar/c9p2-27949835",
-            "description": "Po d\u0142u\u017cszej przerwie wznowiono remont dawnego hotelu Ikar mieszcz\u0105cego si\u0119 przy ulicy Solnej w Poznaniu. Sp\u00f3\u0142ka PHH Hotele ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.85uexrpCbs20BRC8gcZsPy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Ostatnia niedziela lata przyci\u0105gn\u0119\u0142a t\u0142umy na parking przy Centrum Handlowym M1. Tak by\u0142o na pchlim targu 21 wrze\u015bnia. Zobaczcie zdj\u0119cia",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/ostatnia-niedziela-lata-przyci%C4%85gn%C4%99%C5%82a-t%C5%82umy-na-parking-przy-centrum-handlowym-m1-tak-by%C5%82o-na-pchlim-targu-21-wrze%C5%9Bnia-zobaczcie-zdj%C4%99cia/ar-AA1N0afk?ocid=BingNewsVerp",
+            "description": "Gie\u0142da Staroci Pchli Targ przy Centrum Handlowym M1 odbywa si\u0119 w ka\u017cd\u0105 niedziel\u0119 w godzinach od 6 do 14. Ka\u017cdy znajdzie tam ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.R5UQWsACZa1FLToeMIb0SC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Pozna\u0144 Nasze Miasto22 godz.",
+            "date": "Pozna\u0144 Nasze Miasto on MSN2 godz.",
+            "source": "Pozna\u0144 Nasze Miasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "TOP 10 kawiarni w Krakowie polecanych przez Google. Kawa lub herbata idealna na jesie\u0144? Tu poczujesz klimat",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/top-10-kawiarni-w-krakowie-polecanych-przez-google-kawa-lub-herbata-idealna-na-jesie%C5%84-tu-poczujesz-klimat/ar-AA1NoVBZ?ocid=BingNewsVerp",
+            "description": "Jesie\u0144 w Krakowie pachnie cynamonem, dyni\u0105 i \u015bwie\u017co palon\u0105 kaw\u0105. Z\u0142ote li\u015bcie wiruj\u0105 na brukowanych ulicach, a klimatyczne ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.SKlI-7X8k2Iwxws9iJZEWS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "Krak\u00f3w Nasze Miasto on MSN2 godz.",
+            "source": "Krak\u00f3w Nasze Miasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Miejsce modlitwy",
+            "link": "https://poznan.naszemiasto.pl/tag/miejsce-modlitwy",
+            "description": "Cho\u0107 lotnisko \u0141awica w Poznaniu kojarzy si\u0119 g\u0142\u00f3wnie z miejscem start\u00f3w i l\u0105dowa\u0144 samolot\u00f3w, opr\u00f3cz pas\u00f3w startowych i ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "Pozna\u0144 Nasze Miasto16 godz.",
             "source": "Pozna\u0144 Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -197,46 +229,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Przegl\u0105d prasy 27.09.2025. Przygotowali\u015bmy zestaw najwa\u017cniejszych informacji z wczoraj. B\u0105d\u017a na bie\u017c\u0105co z wydarzeniami",
-            "link": "https://gloswielkopolski.pl/przeglad-prasy-27-09-2025-przygotowalismy-zestaw-najwazniejszych-informacji-z-wczoraj-badz-na-biezaco-z-wydarzeniami/ar/c1p1-19960897",
-            "description": "Ania Bardowska da\u0142a si\u0119 pozna\u0107 szerszej publiczno\u015bci za spraw\u0105 udzia\u0142u w programie 'Rolnik szuka \u017cony'. Dzi\u015b pr\u0119\u017cnie dzia\u0142a w mediach spo\u0142eczno\u015bciowych, gdzie na co dzie\u0144 mo\u017cna \u015bledzi\u0107 \u017cycie nie tylko ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.U-Vp0xK7SYVhjnH4oToWdw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "targ+staroci",
-            "date": "G\u0142os Wielkopolski38 min",
-            "source": "G\u0142os Wielkopolski",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Pras\u00f3wka 27.09.2025 - najwa\u017cniejsze wydarzenia. Przygotowali\u015bmy przegl\u0105d prasy z wczoraj",
-            "link": "https://kurierlubelski.pl/prasowka-27-09-2025-najwazniejsze-wydarzenia-przygotowalismy-przeglad-prasy-z-wczoraj/ar/c1p1-19960905",
-            "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 26.09. Sprawd\u017a, czy nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego. Czy czyta\u0142e\u015b artyku\u0142: \u201eBudowa odcinka ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.lto-jgjLT22CJn-xbZRKjA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "targ+staroci",
-            "date": "Kurier Lubelski38 min",
-            "source": "Kurier Lubelski",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "My\u015bla\u0142, \u017ce znalaz\u0142 zabawk\u0119. Odkry\u0142 rzymski skarb sprzed 2000 lat",
-            "link": "https://historia.wprost.pl/odkrycia/12133615/anglia-na-polu-znalazl-brosze-z-czasow-rzymskich-skarb-ma-ponad-2000-lat.html",
-            "description": "To, co na pierwszy rzut oka wygl\u0105da\u0142o jak zwyk\u0142a zabawka, okaza\u0142o si\u0119 bezcennym skarbem sprzed dw\u00f3ch tysi\u0119cy lat.",
-            "image_url": "https://www.bing.pl/th?id=OVFT.wbD0kfObCcDr-1n1JnO8_C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Naukowcy odkryli \u017cycie morskie na zatopionej broni z czas\u00f3w II wojny \u015bwiatowej",
+            "link": "https://www.msn.com/pl-pl/nauka/biologia/naukowcy-odkryli-%C5%BCycie-morskie-na-zatopionej-broni-z-czas%C3%B3w-ii-wojny-%C5%9Bwiatowej/ar-AA1NoY8B?ocid=BingNewsVerp",
+            "description": "W wodach niemieckich spoczywa oko\u0142o 1,5 mln ton zatopionej broni, g\u0142\u00f3wnie z dw\u00f3ch wojen \u015bwiatowych. Na dawnych sk\u0142adowiskach materia\u0142\u00f3w wybuchowych naukowcy odkryli zaskakuj\u0105co liczne skupiska \u017cycia m ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.XjKNxK0Eo1rSSBvAQm83ZA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Historia Wprost23 godz.",
-            "source": "Historia Wprost",
-            "article_content": "Martin Williams, mieszkaniec Dorchester w Wielkiej Brytanii, ruszy\u0142 z wykrywaczem metalu na \u015bwie\u017co zaorane pole nieopodal swojego domu. Ju\u017c po pi\u0119tnastu minutach poszukiwa\u0144 natrafi\u0142 na przedmiot, kt\u00f3ry \u2013 jak s\u0105dzi\u0142 \u2013 by\u0142 dzieci\u0119c\u0105 zabawk\u0105 lub odznak\u0105. Obecno\u015b\u0107 starych modeli samochod\u00f3w z lat sze\u015b\u0107dziesi\u0105tych i siedemdziesi\u0105tych tylko umocni\u0142a go w przekonaniu, \u017ce to wsp\u00f3\u0142czesny drobiazg.\n\n\u2013 Na pocz\u0105tku zobaczy\u0142em z ty\u0142u zatrzask i pomy\u015bla\u0142em, \u017ce to jaka\u015b odznaka, kt\u00f3r\u0105 dziecko mog\u0142o nosi\u0107 \u2013 wspomina 54-latek. Dopiero w domu, po oczyszczeniu znaleziska, zrozumia\u0142, \u017ce trzyma w r\u0119kach przedmiot sprzed blisko dw\u00f3ch tysi\u0119cy lat \u2013 rzymsk\u0105 brosz\u0119 z br\u0105zu.\n\n\"Zabawka\" okaza\u0142a si\u0119 skarbem\n\nSpecjali\u015bci wst\u0119pnie okre\u015blili wiek broszy na 1800\u20132000 lat. Oznacza to, \u017ce mog\u0142a by\u0107 noszona w czasach panowania Rzymian w Brytanii, kt\u00f3re trwa\u0142o do oko\u0142o 410 roku naszej ery. Cho\u0107 w pobli\u017cu nie przebiega \u017cadna znana rzymska droga, Williams przypuszcza, \u017ce przedmiot m\u00f3g\u0142 nale\u017ce\u0107 do osoby odwiedzaj\u0105cej dzi\u015b opuszczony ko\u015bci\u00f3\u0142 w okolicy.\n\nLokalny oficer ds. znalezisk potwierdzi\u0142, \u017ce brosza jest wyj\u0105tkowa w skali regionu Dorset i nale\u017cy do rzadko spotykanych w ca\u0142ej Wielkiej Brytanii.\n\nTo nie pierwsze cenne znalezisko na koncie poszukiwacza\n\nMartin Williams nie jest nowicjuszem. Od czterech lat z pasj\u0105 zajmuje si\u0119 poszukiwaniem artefakt\u00f3w i zgromadzi\u0142 ju\u017c oko\u0142o 30 skrzy\u0144 znalezisk. W\u015br\u00f3d nich znalaz\u0142o si\u0119 mi\u0119dzy innymi 14 topor\u00f3w z epoki br\u0105zu, dzi\u015b przechowywanych w British Museum, oko\u0142o 30 monet rzymskich i dwa \u015bredniowieczne pier\u015bcienie, wyceniane na ponad 1000 funt\u00f3w ka\u017cdy.\n\nCo ciekawe, korzysta z u\u017cywanego wykrywacza metali kupionego za 600 funt\u00f3w (blisko 3 tysi\u0105ce z\u0142otych), a w teren wyrusza g\u0142\u00f3wnie w weekendy. \u2013 Uwielbiam to uczucie, gdy znajduj\u0119 co\u015b nienaruszonego od setek, a czasem tysi\u0119cy lat i mog\u0119 po\u0142\u0105czy\u0107 to z histori\u0105. To fascynuj\u0105ce \u2013 podkre\u015bla.\n\nZnalazca mo\u017ce liczy\u0107 na nagrod\u0119?\n\nZgodnie z brytyjskim prawem, ka\u017cdy przedmiot mog\u0105cy zosta\u0107 uznany za skarb musi by\u0107 zg\u0142oszony do lokalnego urz\u0119dnika ds. znalezisk. Status \u201eskarbu\u201d nadawany jest przedmiotom, kt\u00f3re maj\u0105 co najmniej 300 lat i zawieraj\u0105 minimum 10 procent metalu szlachetnego. W takim przypadku przejmuj\u0105 je muzea, a znalazca otrzymuje rekompensat\u0119 finansow\u0105.\n\nJe\u015bli artefakt nie spe\u0142nia tych warunk\u00f3w, wraca do odkrywcy, a o sprawie informowany jest w\u0142a\u015bciciel terenu, na kt\u00f3rym znaleziono przedmiot. Williams zapowiedzia\u0142, \u017ce je\u015bli brosza zostanie mu zwr\u00f3cona, podaruje j\u0105 jednemu z w\u0142a\u015bcicieli ziemi w ramach wdzi\u0119czno\u015bci za mo\u017cliwo\u015b\u0107 prowadzenia tam poszukiwa\u0144.\n\nCzytaj te\u017c:\n\n\u201eNiezwyk\u0142e znalezisko\u201d w Krakowie. Tajemnicze \u201erelikty krypt\u201dCzytaj te\u017c:\n\nStaro\u017cytny dzban skrywa\u0142 tajemnicz\u0105, lepk\u0105 ma\u017a. Naukowcy wiedz\u0105 ju\u017c, co to"
+            "date": "Euronews Polski on MSN1 godz.",
+            "source": "Euronews Polski on MSN",
+            "article_content": ""
         }
     },
     {
@@ -250,25 +250,9 @@
             "description": "Zanim wyruszysz, sprawd\u017a, jaka b\u0119dzie pogoda. W sobot\u0119 27 wrze\u015bnia w woj. zachodniopomorskim ma by\u0107 od 8\u00b0C do 17\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 28 wrze\u015bnia w woj. zachodniopomorskim ma by\u0107 od 7\u00b0C ...",
             "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "G\u0142os Szczeci\u0144ski14 godz.",
+            "date": "G\u0142os Szczeci\u0144ski18 godz.",
             "source": "G\u0142os Szczeci\u0144ski",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Radni z Warszawy proponuj\u0105 wielkie sprz\u0105tanie Wis\u0142y. Niski stan wody to idealna okazja na porz\u0105dki",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/radni-z-warszawy-proponuj%C4%85-wielkie-sprz%C4%85tanie-wis%C5%82y-niski-stan-wody-to-idealna-okazja-na-porz%C4%85dki/ar-AA1NkHCd?ocid=BingNewsVerp",
-            "description": "Tego lata Wis\u0142a w Warszawie kilkukrotnie bi\u0142a rekordy najni\u017cszego w historii pomiar\u00f3w stanu wody. Ale mo\u017ce zamiast za\u0142amywa\u0107 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.64nQgM65pJx5dGzibNfayS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "Warszawa Nasze Miasto on MSN22 godz.",
-            "source": "Warszawa Nasze Miasto on MSN",
-            "article_content": ""
         }
     },
     {
@@ -282,7 +266,7 @@
             "description": "Min\u0119\u0142o ponad 200 lat, odk\u0105d Brama Warszawska, dumnie stoj\u0105ca na najbardziej reprezentacyjnej ulicy Bia\u0142egostoku, zosta\u0142a rozebrana, ust\u0119puj\u0105c miejsca zmieniaj\u0105cemu si\u0119 miastu. Dzi\u015b, kiedy niewiele os\u00f3 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.XeB7ZuZxPFmNRcVIaCurgw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Eska Regiony on MSN16 godz.",
+            "date": "Eska Regiony on MSN20 godz.",
             "source": "Eska Regiony on MSN",
             "article_content": ""
         }
@@ -293,13 +277,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "\u015acie\u017cki spacerowe do 6 km od Ko\u0142obrzegu. Urokliwe trasy na weekend 27 - 28 wrze\u015bnia",
-            "link": "https://kolobrzeg.naszemiasto.pl/sciezki-spacerowe-do-6-km-od-kolobrzegu-urokliwe-trasy-na-weekend-27-28-wrzesnia/ar/c7p1-22115647",
-            "description": "Zanim wyruszysz w tras\u0119, sprawd\u017a, jaka b\u0119dzie pogoda. W sobot\u0119 27 wrze\u015bnia w Ko\u0142obrzegu ma by\u0107 17\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 28 wrze\u015bnia w Ko\u0142obrzegu ma by\u0107 17\u00b0C. Nie b\u0119dzie pada\u0107. Stopie\u0144 ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.xGyVXoJ9b0zlcu2rTPA_6w&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "relikty",
-            "date": "Ko\u0142obrzeg Nasze Miasto14 godz.",
-            "source": "Ko\u0142obrzeg Nasze Miasto",
+            "title": "Kontrole drogowe postomino",
+            "link": "https://slawno.naszemiasto.pl/tag/kontrole-drogowe-postomino",
+            "description": "Policjanci z Wydzia\u0142u Ruchu Drogowego zatrzymali w Jaros\u0142awcu kieruj\u0105cego motorowerem, kt\u00f3ry jecha\u0142 bez kasku ochronnego. - ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "S\u0142awno Nasze Miasto16 min",
+            "source": "S\u0142awno Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -314,7 +298,7 @@
             "description": "Energa Trefl Gda\u0144sk uleg\u0142a w meczu towarzyskim Indykpol AZS Olsztyn 1:3. By\u0142 to nietypowy sparing w kt\u00f3rym rywale um\u00f3wili si\u0119 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.WhWGAT8JQk5jlssbsUunfy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Trojmiasto.pl14 min",
+            "date": "Trojmiasto.pl4 godz.",
             "source": "Trojmiasto.pl",
             "article_content": "Content not available"
         }
@@ -325,13 +309,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Przegl\u0105d prasy 27.09.2025. Zestawili\u015bmy dla Ciebie najwa\u017cniejsze wydarzenia z wczoraj. Zobacz nasz\u0105 pras\u00f3wk\u0119",
-            "link": "https://expressbydgoski.pl/przeglad-prasy-27-09-2025-zestawilismy-dla-ciebie-najwazniejsze-wydarzenia-z-wczoraj-zobacz-nasza-prasowke/ar/c1p1-19960937",
-            "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 26.09. Sprawd\u017a, czy nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego. Czy czyta\u0142e\u015b artyku\u0142: \u201e\u015awi\u0119to \u015awiat\u0142a ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.lSvQ7lbnEp30GW9jilHB-Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Ryszard grygiel",
+            "link": "https://dzienniklodzki.pl/tag/ryszard-grygiel",
+            "description": "Muzeum Archeologiczne i Etnograficzne w \u0141odzi rozpocz\u0119\u0142o remont budynk\u00f3w stanowi\u0105cych zaplecze dla najbardziej znanego gmachu ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.LquyZC1lhc9E3iO8lVMmhi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Express Bydgoski37 min",
-            "source": "Express Bydgoski",
+            "date": "Dziennik \u0141\u00f3dzki1 godz.",
+            "source": "Dziennik \u0141\u00f3dzki",
             "article_content": "Content not available"
         }
     },
@@ -341,13 +325,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Pras\u00f3wka 27.09.2025 - najwa\u017cniejsze wydarzenia. Przygotowali\u015bmy przegl\u0105d prasy z wczoraj",
-            "link": "https://dziennikpolski24.pl/prasowka-27-09-2025-najwazniejsze-wydarzenia-przygotowalismy-przeglad-prasy-z-wczoraj/ar/c1p1-19960929",
-            "description": "25 wrze\u015bnia mija 15 lat od oddania do u\u017cytku nowego stadionu Cracovii. Wielkiemu otwarciu towarzyszy\u0142o has\u0142o: \"Stadion, kt\u00f3ry wyr\u00f3s\u0142 z marze\u0144\". Prace przebiega\u0142y niezwykle szybko, nieco ponad rok. W ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.HjClkBco3nIXj5Su8fjgAg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Nacmierz policja kontrola",
+            "link": "https://slawno.naszemiasto.pl/tag/nacmierz-policja-kontrola",
+            "description": "Policjanci z Wydzia\u0142u Ruchu Drogowego zatrzymali w Jaros\u0142awcu kieruj\u0105cego motorowerem, kt\u00f3ry jecha\u0142 bez kasku ochronnego. - ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Dziennik Polski37 min",
-            "source": "Dziennik Polski",
+            "date": "S\u0142awno Nasze Miasto41 min",
+            "source": "S\u0142awno Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -362,7 +346,7 @@
             "description": "Rada Miasta \u017baga\u0144 przyj\u0119\u0142a program opieki nad bezdomnymi zwierz\u0119tami. Jest spora rzesza ludzi o ogromnych sercach, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.3eoQtikE6G1i3Kek0VfuOS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Lubuska10 godz.",
+            "date": "Gazeta Lubuska13 godz.",
             "source": "Gazeta Lubuska",
             "article_content": "Content not available"
         }
@@ -373,30 +357,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Albania po sezonie: spokojniej, taniej, pi\u0119kniej \u2013 sprawd\u017a, czy warto!",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/albania-po-sezonie-spokojniej-taniej-pi%C4%99kniej-sprawd%C5%BA-czy-warto/ar-AA1NmEwt?ocid=BingNewsVerp",
-            "description": "Albania kusi nie tylko latem. Jesieni\u0105 odkryjesz tu spokojne pla\u017ce, g\u00f3rskie szlaki bez t\u0142um\u00f3w i zabytkowe miasta w kameralnej ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.6e4IPiYFK1pgcdMaeH6xky&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Strona Podr\u00f3\u017cy on MSN15 godz.",
-            "source": "Strona Podr\u00f3\u017cy on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Polski banknot trafi\u0142 na aukcj\u0119 w Holandii. Trwa zaciek\u0142a licytacja. Tyle jest wart",
-            "link": "https://www.biznesinfo.pl/polski-banknot-trafil-na-aukcje-w-holandii-trwa-zaciekla-licytacja-tyle-jest-wart-jb-wac-260925",
-            "description": "Nie jest tajemnic\u0105 fakt, \u017ce polskie banknoty i monety z minionych epok potrafi\u0105 znacz\u0105co zyska\u0107 na warto\u015bci. Niewiele os\u00f3b spodziewa si\u0119 ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.W5Y4MI3IF_FGCvkznSbrPQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Tych monet i banknot\u00f3w szukaj\u0105 kolekcjonerzy. Masz takie w domu? P\u0142ac\u0105 za nie nawet 40 tysi\u0119cy z\u0142otych. Mo\u017cna du\u017co zarobi\u0107 27.09.2025",
+            "link": "https://gp24.pl/tych-monet-i-banknotow-szukaja-kolekcjonerzy-masz-takie-w-domu-placa-za-nie-nawet-40-tysiecy-zlotych-mozna-duzo-zarobic-27-09-2025/ar/c3p2-27672673",
+            "description": "Je\u015bli my\u015blisz, \u017ce wszystkie monety z PRL s\u0105 warte tylko kilka groszy, to jeste\u015b w b\u0142\u0119dzie. Istniej\u0105 konkretne egzemplarze, ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.Z_ZyJgYKibDUqWvSQQ7Upi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "BiznesINFO.pl21 godz.",
-            "source": "BiznesINFO.pl",
-            "article_content": "Polski banknot trafi\u0142 na aukcj\u0119 w Holandii. Trwa zaciek\u0142a licytacja. Tyle jest wart\n\nNie jest tajemnic\u0105 fakt, \u017ce polskie banknoty i monety z minionych epok potrafi\u0105 znacz\u0105co zyska\u0107 na warto\u015bci. Niewiele os\u00f3b spodziewa si\u0119 jednak, \u017ce to zainteresowanie si\u0119ga daleko poza granice kraju. Na holenderskim serwisie aukcyjnym pojawi\u0142a si\u0119 intryguj\u0105ca oferta, tak\u0105 warto\u015b\u0107 zyska\u0142 banknot z PRL. Kto\u015b ma szans\u0119 si\u0119 wzbogaci\u0107.\n\nStare pieni\u0105dze zyskuj\u0105 na warto\u015bci\n\nJaka jest realna warto\u015b\u0107 pieni\u0119dzy z czas\u00f3w PRL? Warto\u015b\u0107 numizmatyczna starych banknot\u00f3w nie ma nic wsp\u00f3lnego z ich pierwotnym nomina\u0142em, a kluczowym czynnikiem jest stan zachowania egzemplarza. W \u015bwiecie kolekcjoner\u00f3w funkcjonuje precyzyjna skala oceny.\n\nNajwy\u017csz\u0105 warto\u015b\u0107 osi\u0105gaj\u0105 egzemplarze w \u201cstanie bankowym\u201d (UNC - Uncirculated), kt\u00f3re nigdy nie trafi\u0142y do obiegu, maj\u0105 ostre rogi i zachowa\u0142y oryginalny, drukarski po\u0142ysk. Ka\u017cde, nawet najdrobniejsze zgi\u0119cie, zabrudzenie czy naderwanie drastycznie obni\u017ca ich warto\u015b\u0107. Egzemplarze \u201dprawie nieobiegowe\u201d (AU - About Uncirculated) mog\u0105 mie\u0107 minimalne \u015blady, na przyk\u0142ad po liczeniu, a te w \"stanie pi\u0119knym\u201d (XF - Extremely Fine) nosz\u0105 ju\u017c lekkie \u015blady obiegu.\n\nFot. ARKADIUSZ ZIOLEK/East News\n\nNa polskim rynku kolekcjonerskim idealnie zachowany banknot sprzed dekad mo\u017cna naby\u0107 za oko\u0142o 300-500 z\u0142otych. Egzemplarze nosz\u0105ce wyra\u017ane \u015blady zu\u017cycia, wielokrotnie sk\u0142adane i przybrudzone, s\u0105 warte symboliczn\u0105 kwot\u0119, cz\u0119sto nieprzekraczaj\u0105c\u0105 kilkudziesi\u0119ciu z\u0142otych. Opr\u00f3cz stanu zachowania, na cen\u0119 wp\u0142ywa r\u00f3wnie\u017c seria i numer banknotu, egzemplarze z pierwszych serii (np. oznaczonych liter\u0105 A) lub o nietypowych numerach (np. radar - palindrom) bywaj\u0105 dro\u017csze.\n\nW\u015br\u00f3d kolekcjoner\u00f3w du\u017c\u0105 popularno\u015bci\u0105 ciesz\u0105 si\u0119 tzw. b\u0142\u0119dnodruki, czyli banknoty z wadami powsta\u0142ymi na etapie produkcji, na przyk\u0142ad przesuni\u0119tym nadrukiem, brakiem cz\u0119\u015bci element\u00f3w graficznych czy nietypowym kolorem. Takie egzemplarze s\u0105 rzadkie i przez to osi\u0105gaj\u0105 ceny znacznie wy\u017csze ni\u017c standardowe banknoty w tym samym stanie zachowania. Warto r\u00f3wnie\u017c pami\u0119ta\u0107, \u017ce rynek numizmatyczny jest dynamiczny, a moda na okre\u015blone nomina\u0142y lub emisje si\u0119 zmienia. Niekt\u00f3re banknoty z czas\u00f3w PRL, kt\u00f3re jeszcze kilkana\u015bcie lat temu by\u0142y \u0142atwo dost\u0119pne i tanie, dzi\u015b potrafi\u0105 by\u0107 poszukiwanym rarytasem.\n\nTak jest mi\u0119dzy innymi z tym konkretnym banknotem, kt\u00f3ry pojawi\u0142 si\u0119 na aukcji. Jej autorem jest Portugalczyk, a zainteresowanie polskimi pieni\u0119dzmi przykuwa uwag\u0119.\n\nPieni\u0105dze z PRL na aukcjach\n\nBanknot z Reymontem, datowany na 1 czerwca 1991 roku, nie jest dzie\u0142em przypadku, lecz namacalnym dowodem szalej\u0105cej na prze\u0142omie lat 80. i 90. hiperinflacji. U progu transformacji ustrojowej polska gospodarka znalaz\u0142a si\u0119 w stanie zapa\u015bci. Uwalnianie cen i niedobory towar\u00f3w nap\u0119dza\u0142y spiral\u0119 inflacyjn\u0105 do niebotycznych rozmiar\u00f3w.\n\nWska\u017anik inflacji w 1989 roku wyni\u00f3s\u0142 251,1 proc., a w rekordowym 1990 roku a\u017c 585 proc. Narodowy Bank Polski, pr\u00f3buj\u0105c nad\u0105\u017cy\u0107 za p\u0119dz\u0105cymi cenami, zmuszony by\u0142 drukowa\u0107 banknoty o coraz wy\u017cszych nomina\u0142ach. W obiegu pojawi\u0142y si\u0119 banknoty z wizerunkami wielkich Polak\u00f3w, opiewaj\u0105ce na 200 000 z\u0142 z Mieszkiem I, 500 000 z\u0142 z Henrykiem Sienkiewiczem, a w ko\u0144cu milion i dwa miliony z\u0142otych.\n\nFot. ARKADIUSZ ZIOLEK/East News\n\nPensje wyp\u0142acane w milionach by\u0142y norm\u0105, jednak ich realna warto\u015b\u0107 pozwala\u0142a na zaspokojenie jedynie podstawowych potrzeb. Za przeci\u0119tn\u0105 pensj\u0119, kt\u00f3ra pod koniec 1994 roku wynosi\u0142a ok. 6 mln starych z\u0142otych, mo\u017cna by\u0142o kupi\u0107 niewiele. Ten monetarny chaos zako\u0144czy\u0142a denominacja, kt\u00f3ra wesz\u0142a w \u017cycie 1 stycznia 1995 roku. Operacja polega\u0142a na \"obci\u0119ciu\u201d czterech zer, w zwi\u0105zku z czym jeden nowy polski z\u0142oty (PLN) zast\u0105pi\u0142 dziesi\u0119\u0107 tysi\u0119cy starych z\u0142otych (PLZ).\n\nBanknot o nominale miliona z\u0142otych z dnia na dzie\u0144 sta\u0142 si\u0119 wi\u0119c r\u00f3wnowarto\u015bci\u0105 stu z\u0142otych, a stare pieni\u0105dze mo\u017cna by\u0142o wymienia\u0107 do ko\u0144ca 1996 roku, po czym bezpowrotnie straci\u0142y warto\u015b\u0107 p\u0142atnicz\u0105.\n\nPo latach ponownie zacz\u0119\u0142y jednak zyskiwa\u0107 na warto\u015bci. Wida\u0107 to wyra\u017anie na aukcji, na kt\u00f3rej pojawi\u0142 si\u0119 banknot z wizerunkiem W\u0142adys\u0142awa Reymonta.\n\nZobacz: Bon senioralny nie dla wszystkich. Zmiany w rz\u0105dowym programie, te osoby nie dostan\u0105 wsparcia\n\nTyle jest warty banknot z PRL, aukcja trwa\n\nWydawa\u0142oby si\u0119, \u017ce stare pieni\u0105dze, kt\u00f3re wysz\u0142y z obiegu dekady temu, to jedynie makulatura. Nic bardziej mylnego. Na jednym z holenderskich portali aukcyjnych, Catawiki, pojawi\u0142 si\u0119 niedawno banknot o nominale miliona z\u0142otych z wizerunkiem W\u0142adys\u0142awa Reymonta.\n\nCo ciekawe, wystawiony zosta\u0142 przez sprzedawc\u0119 z Portugalii, co dowodzi mi\u0119dzynarodowego zainteresowania polsk\u0105 histori\u0105. Aukcja szybko przyci\u0105gn\u0119\u0142a uwag\u0119 kolekcjoner\u00f3w, a licytacja sta\u0142a si\u0119 niezwykle zaci\u0119ta. Eksperci szacowali warto\u015b\u0107 banknotu na oko\u0142o 120-140 euro, a na ten moment bior\u0105cy udzia\u0142 w aukcji podbili cen\u0119 do 74 euro (ok. 315 z\u0142). Mowa o 13 osobach, kt\u00f3re aktywnie uczestnicz\u0105 oraz 30 obserwatorach.\n\nTo nie pierwszy raz, kiedy podobny banknot wyl\u0105dowa\u0142 na portalu i zosta\u0142 wylicytowany. W innych przypadkach na Onebid potrafi\u0142y osi\u0105gn\u0105\u0107 one ceny od 200 do nawet 5000 z\u0142, a \u015brednia kwota waha\u0142a si\u0119 mi\u0119dzy 300 a 400 z\u0142.\n\nZainteresowanie tym konkretnym egzemplarzem pokazuje, \u017ce pami\u0105tki z okresu PRL, cz\u0119sto chowane na dnie szuflad, zyskuj\u0105 na warto\u015bci i staj\u0105 si\u0119 obiektem po\u017c\u0105dania nie tylko na lokalnym rynku. Dla wielu Polak\u00f3w to przypomnienie o czasach, kiedy niemal ka\u017cdy by\u0142 milionerem, cho\u0107 si\u0142a nabywcza tych milion\u00f3w by\u0142a znikoma. Popularno\u015b\u0107 portali aukcyjnych sprawia, \u017ce rynek kolekcjonerski sta\u0142 si\u0119 globalny. Dzi\u015b ka\u017cdy, kto znajdzie w domu dobrze zachowany egzemplarz, mo\u017ce z \u0142atwo\u015bci\u0105 dotrze\u0107 do kupc\u00f3w z ca\u0142ego \u015bwiata, a sentyment i historia zamkni\u0119ta w kawa\u0142ku papieru potrafi\u0105 wywindowa\u0107 cen\u0119 znacznie powy\u017cej rynkowych standard\u00f3w."
+            "date": "G\u0142os Pomorza3 godz.",
+            "source": "G\u0142os Pomorza",
+            "article_content": "Content not available"
         }
     },
     {
@@ -407,10 +375,10 @@
         "body": {
             "title": "Pras\u00f3wka 27.09.2025. Zobacz zestawienie najwa\u017cniejszych informacji z wczoraj z naszego wojew\u00f3dztwa",
             "link": "https://gazetawroclawska.pl/prasowka-27-09-2025-zobacz-zestawienie-najwazniejszych-informacji-z-wczoraj-z-naszego-wojewodztwa/ar/c1p1-19960895",
-            "description": "W czwartek (25 wrze\u015bnia), po godzinie 19, zadysponowa\u0142o zast\u0119p OSP z Jordanowa \u015al\u0105skiego do miejscowo\u015bci Tomice. Samoch\u00f3d osobowy wypad\u0142 tam z drogi, wpad\u0142 do przydro\u017cnego rowu i uderzy\u0142 w betonowy ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.p9YO103MXreScWBGsL62IA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "description": "W czwartek (25 wrze\u015bnia), po godzinie 19, zadysponowa\u0142o zast\u0119p OSP z Jordanowa \u015al\u0105skiego do miejscowo\u015bci Tomice. Samoch\u00f3d ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.HM9AhXZrWMWACfkJe3_drS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Gazeta Wroc\u0142awska38 min",
+            "date": "Gazeta Wroc\u0142awska4 godz.",
             "source": "Gazeta Wroc\u0142awska",
             "article_content": "Content not available"
         }
