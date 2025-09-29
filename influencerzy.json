@@ -10,7 +10,7 @@
             "description": "W niedziel\u0119, 28 wrze\u015bnia 2025 roku na tradycyjnym Pchlim Targu we W\u0142oc\u0142awku przy alei Kazimierza Wielkiego panowa\u0142a sprzyjaj\u0105ca aura. Zobaczcie na zdj\u0119ciach, co oferowali sprzedaj\u0105cy na popularnej ...",
             "image_url": "https://www.bing.pl/th?id=ODF.Bm8piDnsAoinfeChI0AgCw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN15 godz.",
+            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN18 godz.",
             "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -26,7 +26,7 @@
             "description": "W miniony weekend w Stawkach po raz kolejny odby\u0142 si\u0119 mini targ staroci. W sobot\u0119 i niedziel\u0119 od po\u0142udnia na placu pojawi\u0142o ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.AtqNQdZJSJbaPQigPt1JLS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Aleksandr\u00f3w Kujawski Nasze Miasto on MSN10 godz.",
+            "date": "Aleksandr\u00f3w Kujawski Nasze Miasto on MSN12 godz.",
             "source": "Aleksandr\u00f3w Kujawski Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -42,8 +42,24 @@
             "description": "Tradycyjnie ju\u017c niedziela to dla wielu bia\u0142ostoczan obowi\u0105zkowa wizyta na gie\u0142dzie przy ulicy Andersa. Wielu z nich robi tam zakupy spo\u017cywcze na kilka dni. Niekt\u00f3rzy przychodz\u0105 po auta, sprz\u0119t AGD, ...",
             "image_url": "https://www.bing.pl/th?id=ODF.z8szwJPfOZTDo97HvHYzSw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "Kurier Poranny16 godz.",
+            "date": "Kurier Poranny19 godz.",
             "source": "Kurier Poranny",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Targowisko na m\u0142ynie",
+            "link": "https://gazetawroclawska.pl/tag/targowisko-na-mlynie",
+            "description": "Targowisko M\u0142yn, czyli \"ma\u0142y \u015awiebodzki\" cieszy si\u0119 spor\u0105 popularno\u015bci\u0105 w\u015br\u00f3d wroc\u0142awian, kt\u00f3rzy szukaj\u0105 niecodziennych ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.-hbElLTfT5ufTMBp1lCNPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Gazeta Wroc\u0142awska17 godz.",
+            "source": "Gazeta Wroc\u0142awska",
             "article_content": "Content not available"
         }
     },
@@ -58,57 +74,9 @@
             "description": "W niedziel\u0119, 28 wrze\u015bnia, przed centrum handlowym M1 w Poznaniu zn\u00f3w zrobi\u0142o si\u0119 t\u0142oczno. Parking wype\u0142nili sprzedawcy, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.B41av0wRo9vaNUveNyt_Vi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Pozna\u0144 Nasze Miasto on MSN11 godz.",
+            "date": "Pozna\u0144 Nasze Miasto on MSN13 godz.",
             "source": "Pozna\u0144 Nasze Miasto on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Targowisko na m\u0142ynie",
-            "link": "https://gazetawroclawska.pl/tag/targowisko-na-mlynie",
-            "description": "Targowisko M\u0142yn, czyli \"ma\u0142y \u015awiebodzki\" cieszy si\u0119 spor\u0105 popularno\u015bci\u0105 w\u015br\u00f3d wroc\u0142awian, kt\u00f3rzy szukaj\u0105 niecodziennych ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.-hbElLTfT5ufTMBp1lCNPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "Gazeta Wroc\u0142awska15 godz.",
-            "source": "Gazeta Wroc\u0142awska",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Tyle teraz p\u0142ac\u0105 za stare monety. Niekt\u00f3re s\u0105 warte spore pieni\u0105dze",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/tyle-teraz-p%C5%82ac%C4%85-za-stare-monety-niekt%C3%B3re-s%C4%85-warte-spore-pieni%C4%85dze/ar-AA1Nra76?ocid=BingNewsVerp",
-            "description": "Je\u015bli posiadasz stare monety, warto sprawdzi\u0107 ich warto\u015b\u0107. Niekt\u00f3re z nich mog\u0105 by\u0107 warte nawet kilka tysi\u0119cy z\u0142otych. Prezentujemy najpopularniejsze monety z II RP i PRL, kt\u00f3rymi zachwycaj\u0105 si\u0119 ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.U7tHWt6afQwcI4sCY6tjaA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stare+monety",
-            "date": "Nowa Trybuna Opolska on MSN22 godz.",
-            "source": "Nowa Trybuna Opolska on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Monety II RP",
-            "link": "https://nto.pl/tag/monety-ii-rp",
-            "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.KF0LAwYC9ods4aiL9btHkC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "Nowa Trybuna Opolska22 godz.",
-            "source": "Nowa Trybuna Opolska",
-            "article_content": "Content not available"
         }
     },
     {
@@ -122,7 +90,7 @@
             "description": "W naszych domach mog\u0105 si\u0119 kry\u0107 prawdziwe skarby. Warto przejrze\u0107 pud\u0142a ze starymi rzeczami, pami\u0105tkami, pawlacze i schowki, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.HWzaOzIrx_ukoLz1Y0QaDC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Gazeta Pomorska on MSN5 godz.",
+            "date": "Gazeta Pomorska on MSN8 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -138,7 +106,7 @@
             "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.CMLmagtUzUeybHzJbck5Ry&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Toru\u0144 Nasze Miasto on MSN18 godz.",
+            "date": "Toru\u0144 Nasze Miasto on MSN20 godz.",
             "source": "Toru\u0144 Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -149,14 +117,46 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Ta moneta z PRL bije wszystkie rekordy. Kolekcjonerzy p\u0142ac\u0105 za ni\u0105 maj\u0105tek",
-            "link": "https://www.biznesinfo.pl/ta-moneta-z-prl-bije-wszystkie-rekordy-kolekcjonerzy-placa-za-nia-majatek-sm-wks-280925",
-            "description": "Na pierwszy rzut oka niczym nie r\u00f3\u017cni si\u0119 od tysi\u0119cy innych, kt\u00f3re kr\u0105\u017cy\u0142y w obiegu w czasach PRL. Dzi\u015b jednak jej warto\u015b\u0107 przyprawia o ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.W5Y4MI3IF_FGCvkznSbrPQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Przegl\u0105d prasy 29.09.2025. Przygotowali\u015bmy zestaw najwa\u017cniejszych informacji z wczoraj. B\u0105d\u017a na bie\u017c\u0105co z wydarzeniami",
+            "link": "https://nto.pl/przeglad-prasy-29-09-2025-przygotowalismy-zestaw-najwazniejszych-informacji-z-wczoraj-badz-na-biezaco-z-wydarzeniami/ar/c1p1-19960921",
+            "description": "Mieszka\u0144cy Strzelec Opolskich masowo przesy\u0142aj\u0105 zg\u0142oszenia o nieprawid\u0142owo\u015bciach, kt\u00f3re zauwa\u017cyli w ich okolicy. Tylko w ubieg\u0142ym tygodniu przes\u0142ali do urz\u0119du a\u017c 129 interwencji. By\u0142o to mo\u017cliwe ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.U7tHWt6afQwcI4sCY6tjaA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "BiznesINFO.pl7 godz.",
-            "source": "BiznesINFO.pl",
-            "article_content": "Ta moneta z PRL bije wszystkie rekordy. Kolekcjonerzy p\u0142ac\u0105 za ni\u0105 maj\u0105tek\n\nNa pierwszy rzut oka niczym nie r\u00f3\u017cni si\u0119 od tysi\u0119cy innych, kt\u00f3re kr\u0105\u017cy\u0142y w obiegu w czasach PRL. Dzi\u015b jednak jej warto\u015b\u0107 przyprawia o zawr\u00f3t g\u0142owy. Co sprawi\u0142o, \u017ce tak pospolity bilon sta\u0142 si\u0119 przedmiotem po\u017c\u0105dania i osi\u0105gn\u0105\u0142 status numizmatycznej pere\u0142ki? Rynek kolekcjonerski nie przestaje zaskakiwa\u0107, a ka\u017cdy nowy rekord udowadnia, \u017ce historia mo\u017ce kry\u0107 si\u0119 w najmniej spodziewanych miejscach. Czy w Twoim domu r\u00f3wnie\u017c znajduje si\u0119 taki skarb?\n\nDlaczego monety z PRL wci\u0105\u017c budz\u0105 tak du\u017ce emocje?\n\nCho\u0107 czasy Polskiej Rzeczpospolitej Ludowej kojarz\u0105 si\u0119 raczej z pustymi p\u00f3\u0142kami i gospodark\u0105 planow\u0105 ni\u017c z bogactwem, to w\u0142a\u015bnie z tego okresu pochodzi wiele przedmiot\u00f3w, kt\u00f3re dzisiaj maj\u0105 nieocenion\u0105 warto\u015b\u0107 kolekcjonersk\u0105. W\u015br\u00f3d nich znajduj\u0105 si\u0119 monety obiegowe, kt\u00f3re jeszcze kilkadziesi\u0105t lat temu ka\u017cdy nosi\u0142 w kieszeni.\n\nNumizmatyka to pasja, kt\u00f3ra od lat przyci\u0105ga ludzi gotowych wyda\u0107 fortun\u0119 na unikatowy egzemplarz. To rynek, na kt\u00f3rym nawet drobne detale potrafi\u0105 przes\u0105dzi\u0107 o warto\u015bci ca\u0142ej kolekcji. Monety z PRL s\u0105 szczeg\u00f3lnie cenione, bo mimo ogromnych nak\u0142ad\u00f3w, niekt\u00f3re warianty czy b\u0142\u0119dy mennicze uczyni\u0142y je dzi\u015b prawdziwymi bia\u0142ymi krukami.\n\nCo ciekawe, wiele os\u00f3b wci\u0105\u017c nie zdaje sobie sprawy, \u017ce w ich domach mog\u0105 znajdowa\u0107 si\u0119 monety, kt\u00f3re kolekcjonerzy s\u0105 gotowi wylicytowa\u0107 za astronomiczne kwoty. A wszystko przez szczeg\u00f3\u0142y, kt\u00f3re w codziennym obiegu pozosta\u0142yby niezauwa\u017cone.\n\nFot. Fot. Pixabay/FUHMariaM\n\nSekrety ukryte w drobnym bilonie\n\nWielu kolekcjoner\u00f3w podkre\u015bla, \u017ce to w\u0142a\u015bnie detale na monetach czyni\u0105 je wyj\u0105tkowymi. Drobny b\u0142\u0105d w procesie produkcji albo brak charakterystycznego oznaczenia potrafi diametralnie zmieni\u0107 ich warto\u015b\u0107. Dlatego nawet najzwyklejsza dziesi\u0119ciogrosz\u00f3wka sprzed p\u00f3\u0142 wieku mo\u017ce dzi\u015b by\u0107 warta znacznie wi\u0119cej, ni\u017c ktokolwiek m\u00f3g\u0142by przypuszcza\u0107.\n\nEksperci rynku numizmatycznego zaznaczaj\u0105, \u017ce du\u017ca cz\u0119\u015b\u0107 takich monet powstawa\u0142a poza granicami Polski \u2013 w okresach zwi\u0119kszonego zapotrzebowania polskie bilony bito mi\u0119dzy innymi w czechos\u0142owackiej mennicy w Kremnicy. To w\u0142a\u015bnie tam, w wyniku technologicznego niedopatrzenia, mog\u0142y powsta\u0107 egzemplarze bez oznaczenia menniczego.\n\nJeszcze kilka lat temu my\u015bl, \u017ce moneta z PRL mo\u017ce kosztowa\u0107 tyle, co samoch\u00f3d, wydawa\u0142a si\u0119 abstrakcyjna. Jednak kolejne aukcje dowodz\u0105, \u017ce dla pasjonat\u00f3w historia zamkni\u0119ta w kawa\u0142ku metalu bywa bezcenna. Jak du\u017ce kwoty wchodz\u0105 tu w gr\u0119?\n\nRekordowa dziesi\u0119ciogrosz\u00f3wka i astronomiczna cena\n\nOdpowied\u017a przysz\u0142a w 2023 roku, kiedy na jednej z aukcji numizmatycznych sprzedano 10-grosz\u00f3wk\u0119 z 1973 roku za zawrotn\u0105 kwot\u0119 33 tysi\u0119cy z\u0142otych. Po doliczeniu op\u0142at ko\u0144cowych cena si\u0119gn\u0119\u0142a niemal 39 tysi\u0119cy z\u0142otych \u2013 tyle, ile mo\u017cna zap\u0142aci\u0107 za u\u017cywane auto w dobrym stanie. To absolutny rekord, je\u015bli chodzi o pieni\u0105dze obiegowe z okresu PRL.\n\nCo przes\u0105dzi\u0142o o tak wysokiej warto\u015bci? Na rewersie monety brakuje znaku mennicy, kt\u00f3ry standardowo powinien znajdowa\u0107 si\u0119 pod lew\u0105 \u0142ap\u0105 or\u0142a. To w\u0142a\u015bnie ten rzadki defekt uczyni\u0142 zwyk\u0142y bilon prawdziwym skarbem.\n\nFot. Arkadiusz Ziolek/East News\n\nJeszcze w 2020 roku podobny egzemplarz zosta\u0142 wylicytowany za 29,9 tys. z\u0142. Dzisiejsze wyniki jasno pokazuj\u0105, \u017ce zainteresowanie monetami PRL w\u015br\u00f3d kolekcjoner\u00f3w stale ro\u015bnie. Co ciekawe, w\u0142a\u015bcicielem rekordu nie by\u0142 zawodowy numizmatyk, a osoba, kt\u00f3ra odziedziczy\u0142a klaser po krewnym. Dopiero wycena spadku w domu aukcyjnym ujawni\u0142a, \u017ce w plastikowej kieszonce od lat spoczywa\u0142 prawdziwy rarytas.\n\nHistoria ta jest najlepszym dowodem na to, \u017ce skarb numizmatyczny mo\u017ce kry\u0107 si\u0119 nawet w pozornie zwyczajnym domowym albumie. Drobny detal sprawi\u0142, \u017ce przedmiot o warto\u015bci groszy sta\u0142 si\u0119 obiektem po\u017c\u0105dania, a nowy w\u0142a\u015bciciel zap\u0142aci\u0142 za niego kwot\u0119, kt\u00f3ra wielu przyprawia o zawr\u00f3t g\u0142owy.\n\nPrzypadek rekordowej dziesi\u0119ciogrosz\u00f3wki pokazuje, \u017ce monety PRL to nie tylko pami\u0105tka po minionej epoce, ale tak\u017ce potencjalna inwestycja. Rynek numizmatyczny ma swoj\u0105 dynamik\u0119, a ceny potrafi\u0105 rosn\u0105\u0107 w b\u0142yskawicznym tempie. Je\u015bli wi\u0119c w starym albumie wci\u0105\u017c trzymasz bilon sprzed p\u00f3\u0142 wieku, warto sprawdzi\u0107, czy nie kryje si\u0119 tam egzemplarz, kt\u00f3ry odmieni domowy bud\u017cet."
+            "date": "Nowa Trybuna Opolska39 min",
+            "source": "Nowa Trybuna Opolska",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Najpi\u0119kniejsze ko\u015bcio\u0142y w wojew\u00f3dztwie opolskim. Te \u015bwi\u0105tynie robi\u0105 wra\u017cenie",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/najpi%C4%99kniejsze-ko%C5%9Bcio%C5%82y-w-wojew%C3%B3dztwie-opolskim-te-%C5%9Bwi%C4%85tynie-robi%C4%85-wra%C5%BCenie/ar-AA1NsbM8?ocid=BingNewsVerp",
+            "description": "Ko\u015bci\u00f3\u0142 katolicki ma na \u015al\u0105sku Opolskim wielowiekow\u0105 i bogat\u0105 tradycj\u0119. Najstarsze \u015bwi\u0105tynie na \u015al\u0105sku Opolskim maj\u0105 nawet 800 lat. Nic dziwnego, \u017ce mamy u nas wspania\u0142e i majestatyczne budowle ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.U7tHWt6afQwcI4sCY6tjaA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stare+monety",
+            "date": "Nowa Trybuna Opolska on MSN19 godz.",
+            "source": "Nowa Trybuna Opolska on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Banknoty, kt\u00f3rymi ju\u017c nie zap\u0142aci\u0107 w 2025 roku. One trac\u0105 wa\u017cno\u015b\u0107 i koniecznie trzeba je wymieni\u0107",
+            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/banknoty-kt%C3%B3rymi-ju%C5%BC-nie-zap%C5%82aci%C4%87-w-2025-roku-one-trac%C4%85-wa%C5%BCno%C5%9B%C4%87-i-koniecznie-trzeba-je-wymieni%C4%87/ar-AA1MESlA?ocid=BingNewsVerp",
+            "description": "Nie wszystkie banknoty i monety zachowuj\u0105 wa\u017cno\u015b\u0107 bez ko\u0144ca. W 2025 roku cz\u0119\u015b\u0107 z nich nie b\u0119dzie ju\u017c pe\u0142noprawnym \u015brodkiem p\u0142atniczym. Sprawd\u017a, kt\u00f3re pieni\u0105dze musisz wymieni\u0107, aby unikn\u0105\u0107 problem\u00f3w ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stare+monety",
+            "date": "Gazeta Pomorska on MSN11 godz.",
+            "source": "Gazeta Pomorska on MSN",
+            "article_content": ""
         }
     },
     {
@@ -166,11 +166,11 @@
         },
         "body": {
             "title": "Stara porcelana z PRL bije rekordy popularno\u015bci. Kolekcjonerzy nadal poluj\u0105 na te naczynia, wazony i figurki",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/stara-porcelana-z-prl-bije-rekordy-popularno%C5%9Bci-kolekcjonerzy-nadal-poluj%C4%85-na-te-naczynia-wazony-i-figurki/ar-AA1L6ze7?ocid=BingNewsVerp",
-            "description": "Porcelana z czas\u00f3w PRL-u jest obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli posiadasz wazony, zastawy sto\u0142owe czy figurki z lat 60., 70. czy 80., warto przyjrze\u0107 si\u0119 i ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/stara-porcelana-z-prl-bije-rekordy-popularno%C5%9Bci-w%C5%9Br%C3%B3d-kolekcjoner%C3%B3w-te-naczynia-wazony-i-figurki-teraz-zyskuj%C4%85-na-warto%C5%9Bci/ar-AA1L6ze7?ocid=BingNewsVerp",
+            "description": "Porcelana z czas\u00f3w PRL-u jest obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli posiadasz wazony ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.8L45VlkFcK0pkSf5PrB1pi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN18 godz.",
+            "date": "Gazeta Pomorska on MSN21 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -186,8 +186,40 @@
             "description": "Wyj\u0105tkowe w\u0142a\u015bciwo\u015bci kasztan\u00f3w znane s\u0105 od lat. Kasztany przyci\u0105gaj\u0105 pieni\u0105dze, zdrowie i szcz\u0119\u015bcie a odpychaj\u0105 z\u0142\u0105 energi\u0119.",
             "image_url": "https://www.bing.pl/th?id=OVFT.4VIreEZXv1g10mhCwbLy2y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska15 godz.",
+            "date": "Gazeta Pomorska18 godz.",
             "source": "Gazeta Pomorska",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Challenge Szon Patrol",
+            "link": "https://pomorska.pl/tag/challenge-szon-patrol",
+            "description": "Szon Patrole d\u0142ugo rozwija\u0142y si\u0119 w internecie poza wiedz\u0105 doros\u0142ych. Gdy zrobi\u0142o si\u0119 o nich g\u0142o\u015bno, nawet ci doro\u015bli si\u0119 ich ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.4VIreEZXv1g10mhCwbLy2y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stara+porcelana",
+            "date": "Gazeta Pomorska18 godz.",
+            "source": "Gazeta Pomorska",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Trump zapowiedzia\u0142 wysokie c\u0142a na leki i ci\u0119\u017car\u00f3wki",
+            "link": "https://kresy.pl/wydarzenia/gospodarka/trump-zapowiedzial-wysokie-cla-na-leki-i-ciezarowki/",
+            "description": "Prezydent Stan\u00f3w Zjednoczonych Donald Trump og\u0142osi\u0142 nowe, wysokie c\u0142a na produkty farmaceutyczne, ci\u0119\u017car\u00f3wki oraz meble i ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.Tzy2BdaAYTU2Er4qBKI43y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stara+porcelana",
+            "date": "Kresy.pl19 godz.",
+            "source": "Kresy.pl",
             "article_content": "Content not available"
         }
     },
@@ -202,7 +234,7 @@
             "description": "W miniony weekend w Stawkach po raz kolejny odby\u0142 si\u0119 mini targ staroci. W sobot\u0119 i niedziel\u0119 od po\u0142udnia na placu pojawi\u0142o ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.AtqNQdZJSJbaPQigPt1JLS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Aleksandr\u00f3w Kujawski Nasze Miasto on MSN10 godz.",
+            "date": "Aleksandr\u00f3w Kujawski Nasze Miasto on MSN12 godz.",
             "source": "Aleksandr\u00f3w Kujawski Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -218,25 +250,9 @@
             "description": "Targ staroci w Boles\u0142awcu. Pere\u0142ki na straganach przy Bankowej. Tam mo\u017cna by\u0142o kupi\u0107 stare p\u0142yty analogowe, metalowe zawiasy, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.XlEkQNbdfXoPEpU6Qt1xdi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Gazeta Lubuska5 godz.",
+            "date": "Gazeta Lubuska8 godz.",
             "source": "Gazeta Lubuska",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Jesienna aura na targu staroci",
-            "link": "https://www.dziennikwschodni.pl/lublin/jesienna-aura-na-targu-staroci,n,1000367462.html",
-            "description": "Plac Zamkowy w Lublinie, jak zwykle w ostatni\u0105 niedziel\u0119 miesi\u0105ca, zamieni\u0142 si\u0119 w olbrzymi pchli targ. Ju\u017c od rana ustawiali ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.rAPDRCcKazd1HMaRvlx7ji&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "targ+staroci",
-            "date": "Dziennik Wschodni13 godz.",
-            "source": "Dziennik Wschodni",
-            "article_content": "Roman Pr\u00f3szy\u0144ski przywi\u00f3z\u0142 lampy naftowe. Najdro\u017csza w jego kolekcji by\u0142a lampa mi\u015bnie\u0144ska, w typie cebulowym. Wyceni\u0142 j\u0105 na 4000 z\u0142.\n\nSprzedawca spod Kra\u015bnika oferowa\u0142 du\u017c\u0105 maszyn\u0119 do pisania, kultowej marki Remington. Wiekowa, bo z lat 20. XX wieku, zosta\u0142a przywieziona z Niemiec. Gad\u017cet zosta\u0142 wyceniony na 500 zl.\n\nCiekawostk\u0105 by\u0142 obraz \u201eYacht of America Cup\u201d, kupiony za 300 z\u0142 przez Anit\u0119 i Paw\u0142a z Lublina. Sprzedawcy jednak nie mieli dobrego humoru. Cz\u0119\u015b\u0107 z nich twierdzi\u0142a, \u017ce frekwencja na dzisiejszej gie\u0142dzie jest niska. \u2013 Poza tym ludzie si\u0119 targuj\u0105. Rzadko kupuj\u0105 i proponuj\u0105 bardzo niskie ceny \u2013 doda\u0142 jeden z nich. Typowy odwieczny konflikt sprzedaj\u0105cego i kupuj\u0105cego."
         }
     },
     {
@@ -250,9 +266,25 @@
             "description": "W niedziel\u0119, 28 wrze\u015bnia 2025 roku na tradycyjnym Pchlim Targu we W\u0142oc\u0142awku przy alei Kazimierza Wielkiego panowa\u0142a sprzyjaj\u0105ca aura. Zobaczcie na zdj\u0119ciach, co oferowali sprzedaj\u0105cy na popularnej ...",
             "image_url": "https://www.bing.pl/th?id=ODF.Bm8piDnsAoinfeChI0AgCw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN15 godz.",
+            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN18 godz.",
             "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Jesienna aura na targu staroci",
+            "link": "https://www.dziennikwschodni.pl/lublin/jesienna-aura-na-targu-staroci,n,1000367462.html",
+            "description": "Plac Zamkowy w Lublinie, jak zwykle w ostatni\u0105 niedziel\u0119 miesi\u0105ca, zamieni\u0142 si\u0119 w olbrzymi pchli targ. Ju\u017c od rana ustawiali ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.rAPDRCcKazd1HMaRvlx7ji&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "Dziennik Wschodni16 godz.",
+            "source": "Dziennik Wschodni",
+            "article_content": "Roman Pr\u00f3szy\u0144ski przywi\u00f3z\u0142 lampy naftowe. Najdro\u017csza w jego kolekcji by\u0142a lampa mi\u015bnie\u0144ska, w typie cebulowym. Wyceni\u0142 j\u0105 na 4000 z\u0142.\n\nSprzedawca spod Kra\u015bnika oferowa\u0142 du\u017c\u0105 maszyn\u0119 do pisania, kultowej marki Remington. Wiekowa, bo z lat 20. XX wieku, zosta\u0142a przywieziona z Niemiec. Gad\u017cet zosta\u0142 wyceniony na 500 zl.\n\nCiekawostk\u0105 by\u0142 obraz \u201eYacht of America Cup\u201d, kupiony za 300 z\u0142 przez Anit\u0119 i Paw\u0142a z Lublina. Sprzedawcy jednak nie mieli dobrego humoru. Cz\u0119\u015b\u0107 z nich twierdzi\u0142a, \u017ce frekwencja na dzisiejszej gie\u0142dzie jest niska. \u2013 Poza tym ludzie si\u0119 targuj\u0105. Rzadko kupuj\u0105 i proponuj\u0105 bardzo niskie ceny \u2013 doda\u0142 jeden z nich. Typowy odwieczny konflikt sprzedaj\u0105cego i kupuj\u0105cego."
         }
     },
     {
@@ -266,7 +298,7 @@
             "description": "To ju\u017c tradycja, \u017ce w czwart\u0105 niedziel\u0119 miesi\u0105ca w budynku I Liceum Og\u00f3lnokszta\u0142c\u0105cego w Przemy\u015blu spotykaj\u0105 si\u0119 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.jVz-SAGC1bHQrU3dONuHFC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Polskie Radio Rzesz\u00f3w11 godz.",
+            "date": "Polskie Radio Rzesz\u00f3w13 godz.",
             "source": "Polskie Radio Rzesz\u00f3w",
             "article_content": "To ju\u017c tradycja, \u017ce w czwart\u0105 niedziel\u0119 miesi\u0105ca w budynku I Liceum Og\u00f3lnokszta\u0142c\u0105cego w Przemy\u015blu spotykaj\u0105 si\u0119 kolekcjonerzy i sprzedawcy starych i pi\u0119knych przedmiot\u00f3w.\n\nPrzemyska Gie\u0142da Staroci to okazja, aby powi\u0119kszy\u0107 swoj\u0105 kolekcj\u0119 lub po prostu kupi\u0107 co\u015b, co nas zachwyci. Ksi\u0105\u017cki, bi\u017cuteria, numizmatyka, porcelana, kryszta\u0142y i r\u00f3\u017cnego rodzaju bibeloty, jak zwykle, cieszy\u0142y si\u0119 du\u017cym zainteresowaniem.\n\nKolejna Przemyska Gie\u0142da Staroci odb\u0119dzie si\u0119, jak zwykle, w czwart\u0105 niedziel\u0119 miesi\u0105ca, czyli 26 pa\u017adziernika."
         }
@@ -282,7 +314,7 @@
             "description": "Podziemia Starego Miasta w O\u015bwi\u0119cimiu kryj\u0105 jeszcze wiele tajemnic. Kr\u0105\u017c\u0105 o nich r\u00f3\u017cne opowie\u015bci i legendy. Tylko cz\u0119\u015b\u0107 jest ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.k3ImpFMjh3YX3KGd6Zpkii&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Gazeta Krakowska on MSN13 godz.",
+            "date": "Gazeta Krakowska on MSN15 godz.",
             "source": "Gazeta Krakowska on MSN",
             "article_content": ""
         }
@@ -294,11 +326,11 @@
         },
         "body": {
             "title": "Ostr\u00f3w Lednicki \u2013 wyspa, na kt\u00f3rej narodzi\u0142a si\u0119 Polska. 25 atrakcji Wielkopolski na 25-lecie naszemiasto.pl",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/ostr%C3%B3w-lednicki-wyspa-na-kt%C3%B3rej-narodzi%C5%82a-si%C4%99-polska-25-atrakcji-wielkopolski-na-25-lecie-naszemiasto-pl/ar-AA1Nsgrp?ocid=BingNewsVerp",
-            "description": "Z okazji 25-lecia portalu naszemiasto.pl zapraszamy Was w podr\u00f3\u017c po Polsce pe\u0142nej niezwyk\u0142ych i nieoczywistych miejsc. Przez ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.1Y6I9v1o_iRPut6mxs-0BC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/ostr%C3%B3w-lednicki-wyspa-na-kt%C3%B3rej-narodzi%C5%82a-si%C4%99-polska-25-atrakcji-wielkopolski-na-25-lecie-naszemiastopl/ar-AA1Nsgrp?ocid=BingNewsVerp",
+            "description": "Z okazji 25-lecia portalu naszemiasto.pl zapraszamy Was w podr\u00f3\u017c po Polsce pe\u0142nej niezwyk\u0142ych i nieoczywistych miejsc. Przez ca\u0142e lato b\u0119dziemy prezentowa\u0107 wyj\u0105tkowe pere\u0142ki z naszego regionu \u2013 miejsc ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.MfW9_TyV4p2LpK5Oh7nsWA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Gniezno Nasze Miasto on MSN13 godz.",
+            "date": "Gniezno Nasze Miasto on MSN16 godz.",
             "source": "Gniezno Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -314,7 +346,7 @@
             "description": "Zanim wyruszysz w tras\u0119, sprawd\u017a, jaka b\u0119dzie pogoda. W sobot\u0119 04 pa\u017adziernika w Ko\u0142obrzegu ma by\u0107 13\u00b0C. Nie powinno pada\u0107.",
             "image_url": "https://www.bing.pl/th?id=ODF.xGyVXoJ9b0zlcu2rTPA_6w&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Ko\u0142obrzeg Nasze Miasto11 godz.",
+            "date": "Ko\u0142obrzeg Nasze Miasto14 godz.",
             "source": "Ko\u0142obrzeg Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -330,7 +362,7 @@
             "description": "Dzieje O\u015bwi\u0119cimia stanowi\u0105 pasjonuj\u0105c\u0105 opowie\u015b\u0107 i dotyczy to r\u00f3\u017cnych okres\u00f3w. Do poznania historii zwi\u0105zanej z II wojn\u0105 \u015bwiatow\u0105 i niemieck\u0105 okupacj\u0105 zach\u0119ca m\u0142odych ludzi Stowarzyszenie na Rzecz ...",
             "image_url": "https://www.bing.pl/th?id=ODF.XL5bGs_n6w06Ok0ARb1y3Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Gazeta Krakowska on MSN19 godz.",
+            "date": "Gazeta Krakowska on MSN22 godz.",
             "source": "Gazeta Krakowska on MSN",
             "article_content": ""
         }
@@ -346,8 +378,40 @@
             "description": "Szukasz ciekawych tras do nordic walking niedaleko Gryfic? Razem z Traseo przygotowali\u015bmy dla Ciebie kilka propozycji na najbli\u017cszy weekend. Je\u017celi przed Tob\u0105 pierwszy marsz nordic walking, nie zaczyn ...",
             "image_url": "https://www.bing.pl/th?id=ODF.JS3kPnL-cw_uVSguStd8Cg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Gryfice Nasze Miasto11 godz.",
+            "date": "Gryfice Nasze Miasto13 godz.",
             "source": "Gryfice Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Przegl\u0105d prasy 29.09.2025. Zestawili\u015bmy dla Ciebie najwa\u017cniejsze wydarzenia z wczoraj. Zobacz nasz\u0105 pras\u00f3wk\u0119",
+            "link": "https://gloswielkopolski.pl/przeglad-prasy-29-09-2025-zestawilismy-dla-ciebie-najwazniejsze-wydarzenia-z-wczoraj-zobacz-nasza-prasowke/ar/c1p1-19960897",
+            "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 28.09. Sprawd\u017a, czy nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego. Czy czyta\u0142e\u015b artyku\u0142: \u201ePoznaniacy ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.U-Vp0xK7SYVhjnH4oToWdw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "zabytkowe+przedmioty",
+            "date": "G\u0142os Wielkopolski40 min",
+            "source": "G\u0142os Wielkopolski",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Kradzie\u017c market s\u0142awno",
+            "link": "https://slawno.naszemiasto.pl/tag/kradziez-market-slawno",
+            "description": "Do niecodziennego zdarzenia dosz\u0142o w S\u0142awnie. Policjanci otrzymali zg\u0142oszenie o kradzie\u017cy samochodu marki Mercedes. - Jak si\u0119 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "S\u0142awno Nasze Miasto31 min",
+            "source": "S\u0142awno Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -362,7 +426,7 @@
             "description": "Polska kryje w sobie prawdziwe skarby \u2013 zar\u00f3wno te stworzone przez natur\u0119, jak i przez cz\u0142owieka. \u015awiatowa Lista Dziedzictwa ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.QF00mRcccf5RT0c84rCQKS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Super Express on MSN13 godz.",
+            "date": "Super Express on MSN16 godz.",
             "source": "Super Express on MSN",
             "article_content": ""
         }
@@ -378,7 +442,7 @@
             "description": "Muzeum Archeologiczne w Krakowie w przededniu 175. rocznicy powstania (2025 r.) otworzy\u0142o now\u0105 wystaw\u0119 sta\u0142\u0105 po\u015bwi\u0119con\u0105 najdawniejszym dziejom regionu. Warto wspomnie\u0107, \u017ce po raz pierwszy zabytki ...",
             "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w3 godz.",
+            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w6 godz.",
             "source": "Oficjalny serwis miejski - Magiczny Krak\u00f3w",
             "article_content": "Szlak \u017cywego Muzeum Witra\u017cu\n\nW Muzeum Witra\u017cu przestrzenie ekspozycyjne przeplataj\u0105 si\u0119 z mieszcz\u0105ca si\u0119 tu od 1902 roku pracowni\u0105 witra\u017cy. Podczas zwiedzania mo\u017cna obserwowa\u0107 niezmieniony od setek lat proces powstawania witra\u017cy. Struktura kamienicy, w kt\u00f3rej..."
         }
@@ -389,14 +453,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Masa\u017ce krak\u00f3w",
-            "link": "https://krakow.naszemiasto.pl/tag/masaze-krakow",
-            "description": "Coraz wi\u0119ksz\u0105 popularno\u015bci\u0105 ciesz\u0105 si\u0119 urlopy oko\u0142o\u015bwi\u0105teczne. Zima to wyj\u0105tkowy czas, by na\u0142adowa\u0107 baterie i odpocz\u0105\u0107 od ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Mszana Dolna: abp Marek J\u0119draszewski ustanowi\u0142 nowe sanktuarium w archidiecezji krakowskiej",
+            "link": "https://www.ekai.pl/mszana-dolna-abp-marek-jedraszewski-ustanowil-nowe-sanktuarium-w-archidiecezji-krakowskiej/",
+            "description": "Abp Marek J\u0119draszewski ustanowi\u0142 diecezjalne sanktuarium \u015bw. Micha\u0142a Archanio\u0142a w ko\u015bciele parafialnym \u015bw. Micha\u0142a Archanio\u0142a ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.DsU2KDKdZuTbznSl7sTRfi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Krak\u00f3w Nasze Miasto10 godz.",
-            "source": "Krak\u00f3w Nasze Miasto",
-            "article_content": "Content not available"
+            "date": "eKAI9 godz.",
+            "source": "eKAI",
+            "article_content": "Abp Marek J\u0119draszewski ustanowi\u0142 diecezjalne sanktuarium \u015bw. Micha\u0142a Archanio\u0142a w ko\u015bciele parafialnym \u015bw. Micha\u0142a Archanio\u0142a w Mszanie Dolnej. Uroczysta Msza \u015bw., w czasie kt\u00f3rej odczytano dekret o sanktuarium sprawowana by\u0142a w niedziel\u0119 28 wrze\u015bnia.\n\nAbp Marek J\u0119draszewski przewodniczy\u0142 uroczystej Eucharystii, w czasie kt\u00f3rej zaznaczy\u0142, \u017ce dzieje anio\u0142\u00f3w i ludzi naznaczone s\u0105 \u201ejednym wielkim zmaganiem o wierno\u015b\u0107 Bogu\u201d. \u2013 W obliczu tego zmagania, tej walki, kt\u00f3ra jest na ziemi, po kt\u00f3rej stronie staniemy? Czy po stronie z g\u00f3ry przegranej \u2013 a taka jest droga tych, kt\u00f3rzy zbuntowali si\u0119 przeciwko Bogu, czy po stronie, kt\u00f3ra b\u0119dzie cieszy\u0107 si\u0119 ostatecznym zwyci\u0119stwem? \u2013 pyta\u0142 krakowski hierarcha.\n\nArcybiskup okre\u015bli\u0142 3 warunki, kt\u00f3re \u2013 jak wyja\u015bni\u0142 \u2013 nale\u017cy spe\u0142ni\u0107, by stan\u0105\u0107 po stronie zwyci\u0119skiego Boga i anio\u0142\u00f3w pod wodz\u0105 \u015bw. Micha\u0142a. \u2013 Najpierw musimy uwierzy\u0107 w Boga i zawierzy\u0107 wszystko Bogu. Po wt\u00f3re, by\u0107 \u015bwiadomym, \u017ce nasze \u017cycie jest jednym wielkim zmaganiem. I mie\u0107 nie tylko \u015bwiadomo\u015b\u0107 tych zmaga\u0144, ale by\u0107 gotowym w tych zmaganiach wzi\u0105\u0107 udzia\u0142 \u2013 wyja\u015bni\u0142 abp J\u0119draszewski.\n\nBiskup Krakowa zwr\u00f3ci\u0142 uwag\u0119 na zmagania o wierno\u015b\u0107 Bogu w \u015bwiecie wsp\u00f3\u0142czesnym. \u2013 Czy jeste\u015bcie gotowi zwyci\u0119\u017ca\u0107? Czy jeste\u015bcie gotowi postawi\u0107 wszystko na Boga? Czy wiecie, \u017ce to wi\u0105\u017ce si\u0119 z konieczno\u015bci\u0105 dania \u015bwiadectwa? Czy chcecie da\u0107 to \u015bwiadectwo? W czasach, kiedy na nowo walczy si\u0119 z Bogiem, usuwaj\u0105c religi\u0119 ze szk\u00f3\u0142. Wprowadzaj\u0105c przedmiot, kt\u00f3ry w gruncie rzeczy niesie za sob\u0105 k\u0142amstwo, a na pewno nieprawd\u0119 na temat godno\u015bci cz\u0142owieka jako kobiety i m\u0119\u017cczyzny. I kt\u00f3ry chce deprawowa\u0107 serca niewinnych dzieci. Czy jeste\u015bcie m\u00f3wi\u0107 temu zdecydowanie \u201enie\u201d \u2013 pyta\u0142 abp J\u0119draszewski. Przywo\u0142a\u0142 te\u017c posta\u0107 b\u0142. ks. Micha\u0142a Rapacza i \u015bw. Jana Paw\u0142a II, jako tych, kt\u00f3rzy zwyci\u0119\u017cyli, bo postawili na Boga.\n\nDekret o ustanowieniu archidiecezjalnego sanktuarium \u015awi\u0119tego Micha\u0142a Archanio\u0142a w ko\u015bciele parafialnym pw. \u015awi\u0119tego Micha\u0142a Archanio\u0142a w Mszanie Dolnej odczyta\u0142 ks. Micha\u0142 Mroszczak, Notariusz Kurii Metropolitalnej w Krakowie. \u201eDzi\u015b miejsce to, uznawane nie tylko przez wiernych parafii, ale i w\u0142adze miejskie jako szczeg\u00f3lne po\u015bwi\u0119cone Ksi\u0119ciu Zast\u0119p\u00f3w Anielskich, wype\u0142niaj\u0105 pro\u015bby do Boga za jego wstawiennictwem. Codziennie odmawiana jest Modlitwa Papie\u017ca Leona XIII do \u015bwi\u0119tego Micha\u0142a Archanio\u0142a, ka\u017cdy wtorek po\u015bwi\u0119cony jest Jego szczeg\u00f3lnej czci, a w czwartki wierni adoruj\u0105 w tym miejscu Pana Jezusa w Naj\u015bwi\u0119tszym Sakramencie O\u0142tarza. Atmosfera modlitwy przywiod\u0142a wielu parafian i pielgrzym\u00f3w do przyj\u0119cia Szkaplerza \u015awi\u0119tego Micha\u0142a Archanio\u0142a i obfitego korzystania z \u0142aski mi\u0142osierdzia Bo\u017cego w parafialnych konfesjona\u0142ach. Aby trwa\u0142y i rozwija\u0142y si\u0119 owoce zaszczepione przez pokolenia pok\u0142adaj\u0105ce swoj\u0105 ufno\u015b\u0107 w Pierwszym z Archanio\u0142\u00f3w, zgodnie z kan. 1230 Kodeksu Prawa Kanonicznego ustanawiam Archidiecezjalne Sanktuarium \u015awi\u0119tego Micha\u0142a Archanio\u0142a w ko\u015bciele parafialnym pw. \u015awi\u0119tego Micha\u0142a Archanio\u0142a w Mszanie Dolnej\u201d \u2013 odczyta\u0142 ks. Micha\u0142 Mroszczak.\n\nPo odczytaniu dekretu ks. Micha\u0142 Mroczczak przekaza\u0142 dokument abp Markowi J\u0119draszewskiemu, a z ten z kolei wr\u0119czy\u0142 go ks. proboszczowi Janowi Anto\u0142owi.\n\nW czasie Eucharystii abp Marek J\u0119draszewski po\u015bwi\u0119ci\u0142 sztandar Stowarzyszenia G\u00f3rali Zag\u00f3rza\u0144skich, kt\u00f3ry wyrazili metropolicie wielk\u0105 wdzi\u0119czno\u015b\u0107 za ten akt. S\u0142owa pozdrowienia do Biskupa Krakowa skierowali r\u00f3wnie\u017c przedstawiciele w\u0142adz samorz\u0105dowych na czele z burmistrz miasta Agnieszk\u0105 Orze\u0142 i starost\u0105 limanowskim Mieczys\u0142awem Uryg\u0105. W uroczysto\u015bciach wzi\u0119li udzia\u0142 przedstawiciele r\u00f3\u017cnych instytucji, organizacji, szk\u00f3\u0142, policji, stra\u017cy. Niekt\u00f3re mia\u0142y swoje reprezentacje z pocztami sztandarowymi.\n\nPodczas uroczysto\u015bci wsp\u00f3lnie razem gra\u0142y w nowym sanktuarium dwie orkiestry d\u0119te, z Mszany Dolnej i Mszany G\u00f3rnej. \u015apiewa\u0142 te\u017c Ch\u00f3r M\u0119ski im. ks. Jana Hajduka, kt\u00f3ry obchodzi w 2025 r. swoje 80-lecie.\n\nUroczysto\u015b\u0107 zako\u0144czy\u0142a si\u0119 procesj\u0105 wok\u00f3\u0142 \u015bwi\u0105tyni, baldachim nie\u015bli g\u00f3rale w strojach regionalnych, a z kolei g\u00f3ralki nios\u0142y feretrony, w tym jeden z postaci\u0105 \u015bw. Micha\u0142a Archanio\u0142a. Dzieci sypa\u0142y kwiaty. Opr\u00f3cz wiernych z parafii na uroczysto\u015bci przybyli kap\u0142ani z okolicznych wsp\u00f3lnot. Byli obecni ksi\u0119\u017ca pochodz\u0105cy z Mszany Dolnej, dawni duszpasterze, siostry zakonne.\n\nProboszcz parafii \u015bw. Micha\u0142a Archanio\u0142a w Mszanie Dolnej ks. Jan Anto\u0142 dzi\u0119kuj\u0105c wszystkim za obecno\u015b\u0107, a wcze\u015bniej za organizacj\u0119 ca\u0142ego wydarzenia, podkre\u015bla\u0142 wielkie znaczenie uroczysto\u015bci. \u2013 Wyra\u017cam nadziej\u0119, \u017ce \u015bw. Micha\u0142 Archanio\u0142, ju\u017c teraz odbieraj\u0105cy szeroko cze\u015b\u0107 w naszym ko\u015bciele, oddawan\u0105 nie tylko przez parafian, ale mieszka\u0144c\u00f3w ca\u0142ego regionu \u2013 b\u0119dzie odbiera\u0142 j\u0105 tak\u017ce w archidiecezji, przez przybywaj\u0105cych pielgrzym\u00f3w i go\u015bci zwiedzaj\u0105cych t\u0119 \u015bwi\u0105tyni\u0119 \u2013 m\u00f3wi\u0142 ks. Jan Anto\u0142.\n\nUstanowienie nowego sanktuarium poprzedzi\u0142y rekolekcje, kt\u00f3re g\u0142osi\u0142 ks. Adrian Jakubiak, duszpasterz m\u0142odzie\u017cy diecezji radomskiej.\n\nKult \u015bw. Micha\u0142a na prze\u0142omie XVII / XVIII wieku rozprzestrzenia\u0142 si\u0119 po ca\u0142ym terytorium Galicji, kt\u00f3rej Archanio\u0142 by\u0142 patronem. Na skutek tego, z up\u0142ywem czasu, 29 czerwca 1826 roku zmieniono tak\u017ce wezwanie parafii w Mszanie Dolnej, kt\u00f3ra dot\u0105d przyzywa\u0142a wstawiennictwa Naj\u015bwi\u0119tszej Maryi Panny Wniebowzi\u0119tej. Trwa\u0142ym przypiecz\u0119towaniem nabo\u017ce\u0144stwa lokalnej ludno\u015bci do \u015bw. Micha\u0142a Archanio\u0142a by\u0142a rozpocz\u0119ta w 1891 roku budowa nowego ko\u015bcio\u0142a pod Jego wezwaniem oraz konsekracja \u015bwi\u0105tyni, dokonana w dniu 17 lipca 1898 roku przez bp. Ignacego \u0141obosa. O piel\u0119gnowanie kultu patrona przez nast\u0119pne ponad 100 lat dbali wszyscy proboszczowie. O sile duchowej nowego sanktuarium \u015bwiadczy cho\u0107by fakt odpustu parafialnego z dnia 29 wrze\u015bnia 1958 \u2013 wtedy to bp Karol Wojty\u0142a tutaj zdecydowa\u0142 si\u0119 odprawi\u0107 swoj\u0105 pierwsz\u0105 Msz\u0119 \u015awi\u0119t\u0105 jako biskup, dzie\u0144 po przyj\u0119tych \u015bwi\u0119ceniach episkopatu.\n\nDostrzegaj\u0105c ci\u0105g\u0142o\u015b\u0107, trwa\u0142o\u015b\u0107 i wielopokoleniowo\u015b\u0107 praktyk religijnych, zwi\u0105zanych z postaci\u0105 \u015bw. Micha\u0142a, burmistrz Tadeusz Filipiak wraz z Rad\u0105 Miasta, po uprzedniej zgodzie ks. proboszcza Jerzego Ra\u017anego i ks. proboszcza Stanis\u0142awa Parzygnata, wsp\u00f3lnie podj\u0119li starania o nadanie ca\u0142emu miastu Mszana Dolna patronatu \u015bw. Micha\u0142a Archanio\u0142a, na co Stolica Apostolska wyrazi\u0142a zgod\u0119 21 listopada 2009 roku. W obecnej kadencji samorz\u0105d przyj\u0105\u0142 Rezolucj\u0119, w kt\u00f3rej okre\u015blono posta\u0107 \u015bw. Micha\u0142a Archanio\u0142a jako lokalnie \u201eodbieraj\u0105c\u0105 wielowiekow\u0105 cze\u015b\u0107\u201d.\n\n\u2013 \u015awi\u0105tynia odwiedzana jest przez wielu turyst\u00f3w przyby\u0142ych z Polski i zza granicy, kt\u00f3rzy niejednokrotnie wyra\u017cali zachwyt nad tym szczeg\u00f3lnym miejscem kultu, szczeg\u00f3lnie podziwiaj\u0105c m.in. zabytkowy obraz zwi\u0105zany z naszym patronem \u2013 \u015bw. Micha\u0142a Archanio\u0142a pokonuj\u0105cego szatana, autorstwa Jacoba Mertensa, powsta\u0142y oko\u0142o roku 1600 \u2013 dodaje ks. proboszcz.\n\nHistoria parafii i ko\u015bcio\u0142a w Mszanie Dolnej si\u0119ga XIV wieku. Obecny murowany ko\u015bci\u00f3\u0142 wzniesiono w latach 1891\u20131901 wed\u0142ug projektu krakowskiego architekta Wincentego Wdowskiego. \u015awi\u0105tynia powsta\u0142a w stylu nawi\u0105zuj\u0105cym do tzw. gotyku nadwi\u015bla\u0144skiego. Uroczystego po\u015bwi\u0119cenia ko\u015bcio\u0142a w 1901 roku dokona\u0142 arcybiskup Leon Wa\u0142\u0119ga. W XX wieku \u015bwi\u0105tynia by\u0142a wielokrotnie rozbudowywana i modernizowana. W latach 1918\u20131920 wykonano polichromi\u0119 \u015bcian i sklepienia autorstwa Juliana Makarewicza. W kolejnych latach pojawi\u0142y si\u0119 witra\u017ce w pracowni Gabriela \u017bele\u0144skiego, powi\u0119kszono organy oraz przebudowano o\u0142tarze boczne. W latach 20. XX wieku emigranci z Mszany Dolnej ufundowali cztery dzwony.\n\nW czasie II wojny \u015bwiatowej ko\u015bci\u00f3\u0142 zosta\u0142 uszkodzony \u2013 zniszczeniu uleg\u0142 dach oraz cz\u0119\u015b\u0107 witra\u017cy. Po wojnie rozpocz\u0119to ich rekonstrukcj\u0119, a w latach 50. przeprowadzono szeroko zakrojone prace remontowe i modernizacyjne. W kolejnych dekadach wymieniano pokrycie dachowe, rozbudowano przedsionki, wprowadzano nowe instalacje i wyposa\u017cenie liturgiczne. Na pocz\u0105tku XXI wieku wykonano m.in. drena\u017c i izolacj\u0119 fundament\u00f3w, modernizacj\u0119 ch\u00f3ru, wymian\u0119 posadzki na marmurow\u0105 oraz prace porz\u0105dkowe wok\u00f3\u0142 ko\u015bcio\u0142a, w tym budow\u0119 parkingu i instalacj\u0119 o\u015bwietlenia."
         }
     },
     {
@@ -405,45 +469,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Historia O\u015bwi\u0119cimia wci\u0105ga m\u0142odych ludzi. Jest jak pasjonuj\u0105ca powie\u015b\u0107. Zag\u0142\u0119biaj\u0105 si\u0119 w przesz\u0142o\u015b\u0107 miasta i porz\u0105dkuj\u0105 jej \u015blady",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/historia-o%C5%9Bwi%C4%99cimia-wci%C4%85ga-m%C5%82odych-ludzi-jest-jak-pasjonuj%C4%85ca-powie%C5%9B%C4%87-zag%C5%82%C4%99biaj%C4%85-si%C4%99-w-przesz%C5%82o%C5%9B%C4%87-miasta-i-porz%C4%85dkuj%C4%85-jej-%C5%9Blady/ar-AA1NrLy0?ocid=BingNewsVerp",
-            "description": "Dzieje O\u015bwi\u0119cimia stanowi\u0105 pasjonuj\u0105c\u0105 opowie\u015b\u0107 i dotyczy to r\u00f3\u017cnych okres\u00f3w. Do poznania historii zwi\u0105zanej z II wojn\u0105 \u015bwiatow\u0105 i niemieck\u0105 okupacj\u0105 zach\u0119ca m\u0142odych ludzi Stowarzyszenie na Rzecz ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.XL5bGs_n6w06Ok0ARb1y3Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Krakowska on MSN19 godz.",
-            "source": "Gazeta Krakowska on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Gdzie wyrzuci\u0107 sztuczne kwiaty",
-            "link": "https://olsztyn.naszemiasto.pl/tag/gdzie-wyrzucic-sztuczne-kwiaty",
-            "description": "Wszystkich \u015awi\u0119tych kojarzy si\u0119 nam g\u0142\u00f3wnie ze zniczami i chryzantemami. W niekt\u00f3rych regionach Polski mo\u017cna spotka\u0107 te\u017c ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Olsztyn Nasze Miasto4 godz.",
-            "source": "Olsztyn Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Tyle teraz p\u0142ac\u0105 za stare monety. Niekt\u00f3re s\u0105 warte spore pieni\u0105dze",
-            "link": "https://www.msn.com/pl-pl/finanse/og%C3%B3lne/tyle-teraz-p%C5%82ac%C4%85-za-stare-monety-niekt%C3%B3re-s%C4%85-warte-spore-pieni%C4%85dze/ar-AA1Nra76?ocid=BingNewsVerp",
-            "description": "Je\u015bli posiadasz stare monety, warto sprawdzi\u0107 ich warto\u015b\u0107. Niekt\u00f3re z nich mog\u0105 by\u0107 warte nawet kilka tysi\u0119cy z\u0142otych.",
-            "image_url": "https://www.bing.pl/th?id=OVFT.wYVzALyOeiSlpm0a2INZzi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Taka 5 z\u0142ot\u00f3wka i inne monety s\u0105 w cenie z\u0142ota. Sprawd\u017a, ile mo\u017cna na nich zarobi\u0107!",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/taka-5-z%C5%82ot%C3%B3wka-i-inne-monety-s%C4%85-w-cenie-z%C5%82ota-sprawd%C5%BA-ile-mo%C5%BCna-na-nich-zarobi%C4%87/ar-AA1N7dxE?ocid=BingNewsVerp",
+            "description": "W naszych domach mog\u0105 si\u0119 kry\u0107 prawdziwe skarby. Warto przejrze\u0107 pud\u0142a ze starymi rzeczami, pami\u0105tkami, pawlacze i schowki, ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.HWzaOzIrx_ukoLz1Y0QaDC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Nowa Trybuna Opolska on MSN22 godz.",
-            "source": "Nowa Trybuna Opolska on MSN",
+            "date": "Gazeta Pomorska on MSN8 godz.",
+            "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
     },
@@ -458,25 +490,9 @@
             "description": "Na pierwszy rzut oka niczym nie r\u00f3\u017cni si\u0119 od tysi\u0119cy innych, kt\u00f3re kr\u0105\u017cy\u0142y w obiegu w czasach PRL. Dzi\u015b jednak jej warto\u015b\u0107 przyprawia o ...",
             "image_url": "https://www.bing.pl/th?id=ODF.W5Y4MI3IF_FGCvkznSbrPQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "BiznesINFO.pl7 godz.",
+            "date": "BiznesINFO.pl10 godz.",
             "source": "BiznesINFO.pl",
             "article_content": "Ta moneta z PRL bije wszystkie rekordy. Kolekcjonerzy p\u0142ac\u0105 za ni\u0105 maj\u0105tek\n\nNa pierwszy rzut oka niczym nie r\u00f3\u017cni si\u0119 od tysi\u0119cy innych, kt\u00f3re kr\u0105\u017cy\u0142y w obiegu w czasach PRL. Dzi\u015b jednak jej warto\u015b\u0107 przyprawia o zawr\u00f3t g\u0142owy. Co sprawi\u0142o, \u017ce tak pospolity bilon sta\u0142 si\u0119 przedmiotem po\u017c\u0105dania i osi\u0105gn\u0105\u0142 status numizmatycznej pere\u0142ki? Rynek kolekcjonerski nie przestaje zaskakiwa\u0107, a ka\u017cdy nowy rekord udowadnia, \u017ce historia mo\u017ce kry\u0107 si\u0119 w najmniej spodziewanych miejscach. Czy w Twoim domu r\u00f3wnie\u017c znajduje si\u0119 taki skarb?\n\nDlaczego monety z PRL wci\u0105\u017c budz\u0105 tak du\u017ce emocje?\n\nCho\u0107 czasy Polskiej Rzeczpospolitej Ludowej kojarz\u0105 si\u0119 raczej z pustymi p\u00f3\u0142kami i gospodark\u0105 planow\u0105 ni\u017c z bogactwem, to w\u0142a\u015bnie z tego okresu pochodzi wiele przedmiot\u00f3w, kt\u00f3re dzisiaj maj\u0105 nieocenion\u0105 warto\u015b\u0107 kolekcjonersk\u0105. W\u015br\u00f3d nich znajduj\u0105 si\u0119 monety obiegowe, kt\u00f3re jeszcze kilkadziesi\u0105t lat temu ka\u017cdy nosi\u0142 w kieszeni.\n\nNumizmatyka to pasja, kt\u00f3ra od lat przyci\u0105ga ludzi gotowych wyda\u0107 fortun\u0119 na unikatowy egzemplarz. To rynek, na kt\u00f3rym nawet drobne detale potrafi\u0105 przes\u0105dzi\u0107 o warto\u015bci ca\u0142ej kolekcji. Monety z PRL s\u0105 szczeg\u00f3lnie cenione, bo mimo ogromnych nak\u0142ad\u00f3w, niekt\u00f3re warianty czy b\u0142\u0119dy mennicze uczyni\u0142y je dzi\u015b prawdziwymi bia\u0142ymi krukami.\n\nCo ciekawe, wiele os\u00f3b wci\u0105\u017c nie zdaje sobie sprawy, \u017ce w ich domach mog\u0105 znajdowa\u0107 si\u0119 monety, kt\u00f3re kolekcjonerzy s\u0105 gotowi wylicytowa\u0107 za astronomiczne kwoty. A wszystko przez szczeg\u00f3\u0142y, kt\u00f3re w codziennym obiegu pozosta\u0142yby niezauwa\u017cone.\n\nFot. Fot. Pixabay/FUHMariaM\n\nSekrety ukryte w drobnym bilonie\n\nWielu kolekcjoner\u00f3w podkre\u015bla, \u017ce to w\u0142a\u015bnie detale na monetach czyni\u0105 je wyj\u0105tkowymi. Drobny b\u0142\u0105d w procesie produkcji albo brak charakterystycznego oznaczenia potrafi diametralnie zmieni\u0107 ich warto\u015b\u0107. Dlatego nawet najzwyklejsza dziesi\u0119ciogrosz\u00f3wka sprzed p\u00f3\u0142 wieku mo\u017ce dzi\u015b by\u0107 warta znacznie wi\u0119cej, ni\u017c ktokolwiek m\u00f3g\u0142by przypuszcza\u0107.\n\nEksperci rynku numizmatycznego zaznaczaj\u0105, \u017ce du\u017ca cz\u0119\u015b\u0107 takich monet powstawa\u0142a poza granicami Polski \u2013 w okresach zwi\u0119kszonego zapotrzebowania polskie bilony bito mi\u0119dzy innymi w czechos\u0142owackiej mennicy w Kremnicy. To w\u0142a\u015bnie tam, w wyniku technologicznego niedopatrzenia, mog\u0142y powsta\u0107 egzemplarze bez oznaczenia menniczego.\n\nJeszcze kilka lat temu my\u015bl, \u017ce moneta z PRL mo\u017ce kosztowa\u0107 tyle, co samoch\u00f3d, wydawa\u0142a si\u0119 abstrakcyjna. Jednak kolejne aukcje dowodz\u0105, \u017ce dla pasjonat\u00f3w historia zamkni\u0119ta w kawa\u0142ku metalu bywa bezcenna. Jak du\u017ce kwoty wchodz\u0105 tu w gr\u0119?\n\nRekordowa dziesi\u0119ciogrosz\u00f3wka i astronomiczna cena\n\nOdpowied\u017a przysz\u0142a w 2023 roku, kiedy na jednej z aukcji numizmatycznych sprzedano 10-grosz\u00f3wk\u0119 z 1973 roku za zawrotn\u0105 kwot\u0119 33 tysi\u0119cy z\u0142otych. Po doliczeniu op\u0142at ko\u0144cowych cena si\u0119gn\u0119\u0142a niemal 39 tysi\u0119cy z\u0142otych \u2013 tyle, ile mo\u017cna zap\u0142aci\u0107 za u\u017cywane auto w dobrym stanie. To absolutny rekord, je\u015bli chodzi o pieni\u0105dze obiegowe z okresu PRL.\n\nCo przes\u0105dzi\u0142o o tak wysokiej warto\u015bci? Na rewersie monety brakuje znaku mennicy, kt\u00f3ry standardowo powinien znajdowa\u0107 si\u0119 pod lew\u0105 \u0142ap\u0105 or\u0142a. To w\u0142a\u015bnie ten rzadki defekt uczyni\u0142 zwyk\u0142y bilon prawdziwym skarbem.\n\nFot. Arkadiusz Ziolek/East News\n\nJeszcze w 2020 roku podobny egzemplarz zosta\u0142 wylicytowany za 29,9 tys. z\u0142. Dzisiejsze wyniki jasno pokazuj\u0105, \u017ce zainteresowanie monetami PRL w\u015br\u00f3d kolekcjoner\u00f3w stale ro\u015bnie. Co ciekawe, w\u0142a\u015bcicielem rekordu nie by\u0142 zawodowy numizmatyk, a osoba, kt\u00f3ra odziedziczy\u0142a klaser po krewnym. Dopiero wycena spadku w domu aukcyjnym ujawni\u0142a, \u017ce w plastikowej kieszonce od lat spoczywa\u0142 prawdziwy rarytas.\n\nHistoria ta jest najlepszym dowodem na to, \u017ce skarb numizmatyczny mo\u017ce kry\u0107 si\u0119 nawet w pozornie zwyczajnym domowym albumie. Drobny detal sprawi\u0142, \u017ce przedmiot o warto\u015bci groszy sta\u0142 si\u0119 obiektem po\u017c\u0105dania, a nowy w\u0142a\u015bciciel zap\u0142aci\u0142 za niego kwot\u0119, kt\u00f3ra wielu przyprawia o zawr\u00f3t g\u0142owy.\n\nPrzypadek rekordowej dziesi\u0119ciogrosz\u00f3wki pokazuje, \u017ce monety PRL to nie tylko pami\u0105tka po minionej epoce, ale tak\u017ce potencjalna inwestycja. Rynek numizmatyczny ma swoj\u0105 dynamik\u0119, a ceny potrafi\u0105 rosn\u0105\u0107 w b\u0142yskawicznym tempie. Je\u015bli wi\u0119c w starym albumie wci\u0105\u017c trzymasz bilon sprzed p\u00f3\u0142 wieku, warto sprawdzi\u0107, czy nie kryje si\u0119 tam egzemplarz, kt\u00f3ry odmieni domowy bud\u017cet."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Taka 5 z\u0142ot\u00f3wka i inne monety s\u0105 w cenie z\u0142ota. Sprawd\u017a, ile mo\u017cna na nich zarobi\u0107!",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/taka-5-z%C5%82ot%C3%B3wka-i-inne-monety-s%C4%85-w-cenie-z%C5%82ota-sprawd%C5%BA-ile-mo%C5%BCna-na-nich-zarobi%C4%87/ar-AA1N7dxE?ocid=BingNewsVerp",
-            "description": "W naszych domach mog\u0105 si\u0119 kry\u0107 prawdziwe skarby. Warto przejrze\u0107 pud\u0142a ze starymi rzeczami, pami\u0105tkami, pawlacze i schowki, ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.HWzaOzIrx_ukoLz1Y0QaDC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+numizmatyka",
-            "date": "Gazeta Pomorska on MSN5 godz.",
-            "source": "Gazeta Pomorska on MSN",
-            "article_content": ""
         }
     },
     {
@@ -490,7 +506,7 @@
             "description": "Przygotowali\u015bmy dla Ciebie tygodniow\u0105 pras\u00f3wk\u0119. Je\u015bli w mijaj\u0105cym tygodniu by\u0142e\u015b zbyt zaj\u0119ty, by nad\u0105\u017cy\u0107 za informacjami z Katowic, zobacz teraz artyku\u0142y, kt\u00f3re inni czytelnicy czytali najch\u0119tniej mi\u0119 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.waTvG9_emdLbHMzcAnsfoA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Katowice Nasze Miasto18 godz.",
+            "date": "Katowice Nasze Miasto21 godz.",
             "source": "Katowice Nasze Miasto",
             "article_content": "Content not available"
         }
