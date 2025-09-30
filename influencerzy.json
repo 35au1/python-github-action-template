@@ -5,13 +5,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Pchli targ przy M1 w niedziel\u0119, 28 wrze\u015bnia",
-            "link": "https://gloswielkopolski.pl/poznaniacy-ruszyli-na-zakupy-pod-golym-niebem-w-niedziele-pchli-targ-przy-m1-znow-przyciagnal-tlumy-zobacz-zdjecia/ar/c1p2-28025321",
-            "description": "W niedziel\u0119, 28 wrze\u015bnia, przed centrum handlowym M1 w Poznaniu zn\u00f3w zrobi\u0142o si\u0119 t\u0142oczno. Parking wype\u0142nili sprzedawcy, ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.cSuP1N55rZPjjLRTFXnzbS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Pras\u00f3wka 30.09.2025. Zobacz zestawienie najwa\u017cniejszych informacji z wczoraj z naszego wojew\u00f3dztwa",
+            "link": "https://wspolczesna.pl/prasowka-30-09-2025-zobacz-zestawienie-najwazniejszych-informacji-z-wczoraj-z-naszego-wojewodztwa/ar/c1p1-19960917",
+            "description": "27 wrze\u015bnia, w rocznic\u0119 powstania Polskiego Pa\u0144stwa Podziemnego, obchodzone jest \u015awi\u0119to Wojsk Obrony Terytorialnej, kt\u00f3re w ci\u0105gu zaledwie kilku lat sta\u0142o si\u0119 nieod\u0142\u0105czn\u0105 cz\u0119\u015bci\u0105 Si\u0142 Zbrojnych ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.J2HjYlW7BWiryFifLql_kw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "G\u0142os Wielkopolski9 godz.",
-            "source": "G\u0142os Wielkopolski",
+            "date": "Gazeta Wsp\u00f3\u0142czesna38 min",
+            "source": "Gazeta Wsp\u00f3\u0142czesna",
             "article_content": "Content not available"
         }
     },
@@ -26,7 +26,7 @@
             "description": "W Tarnobrzegu rodzice i pe\u0142noletni uczniowie masowo rezygnuj\u0105 z przedmiotu edukacja zdrowotna. W szko\u0142ach podstawowych i ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.iKKDQtkqxNOcOogA72kCby&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Echo Dnia on MSN11 godz.",
+            "date": "Echo Dnia on MSN14 godz.",
             "source": "Echo Dnia on MSN",
             "article_content": ""
         }
@@ -38,13 +38,29 @@
         },
         "body": {
             "title": "Strefy Czystego Transportu to problem dla co pi\u0105tego auta w Polsce. Zaskakuj\u0105cy raport",
-            "link": "https://www.msn.com/pl-pl/motoryzacja/wiadomosci/strefy-czystego-transportu-to-problem-dla-co-pi%C4%85tego-auta-w-polsce-zaskakuj%C4%85cy-raport/ar-AA1NvUiH?ocid=BingNewsVerp",
+            "link": "https://www.msn.com/pl-pl/motoryzacja/og%C3%B3lne/strefy-czystego-transportu-to-problem-dla-co-pi%C4%85tego-auta-w-polsce-zaskakuj%C4%85cy-raport/ar-AA1NvUiH?ocid=BingNewsVerp",
             "description": "Wprowadzenie Stref Czystego Transportu (SCT) w polskich miastach staje si\u0119 faktem, a dla setek tysi\u0119cy kierowc\u00f3w oznacza to realne wykluczenie z mo\u017cliwo\u015bci wjazdu do centr\u00f3w aglomeracji. Najnowsza ana ...",
             "image_url": "https://www.bing.pl/th?id=ODF.G8n5UeUCrlSRMgFosHuevA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "naTemat.pl on MSN14 godz.",
+            "date": "naTemat.pl on MSN17 godz.",
             "source": "naTemat.pl on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pchli targ przy M1 w niedziel\u0119, 28 wrze\u015bnia",
+            "link": "https://gloswielkopolski.pl/poznaniacy-ruszyli-na-zakupy-pod-golym-niebem-w-niedziele-pchli-targ-przy-m1-znow-przyciagnal-tlumy-zobacz-zdjecia/ar/c1p2-28025321",
+            "description": "W niedziel\u0119, 28 wrze\u015bnia, przed centrum handlowym M1 w Poznaniu zn\u00f3w zrobi\u0142o si\u0119 t\u0142oczno. Parking wype\u0142nili sprzedawcy, ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.cSuP1N55rZPjjLRTFXnzbS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "G\u0142os Wielkopolski12 godz.",
+            "source": "G\u0142os Wielkopolski",
+            "article_content": "Content not available"
         }
     },
     {
@@ -58,25 +74,9 @@
             "description": "W niedziel\u0119, 28 wrze\u015bnia, przed centrum handlowym M1 w Poznaniu zn\u00f3w zrobi\u0142o si\u0119 t\u0142oczno. Parking wype\u0142nili sprzedawcy, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.B41av0wRo9vaNUveNyt_Vi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Pozna\u0144 Nasze Miasto on MSN17 godz.",
+            "date": "Pozna\u0144 Nasze Miasto on MSN20 godz.",
             "source": "Pozna\u0144 Nasze Miasto on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Pras\u00f3wka z W\u0142oc\u0142awka 29.09.2025. Przegl\u0105d prasy - zestawienie najwa\u017cniejszych informacji",
-            "link": "https://wloclawek.naszemiasto.pl/prasowka-z-wloclawka-29-09-2025-przeglad-prasy-zestawienie-najwazniejszych-informacji/ar/c1p1-19738625",
-            "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 28.09, we ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.jQpBgJuoeLi7ZvjxwvIQtS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "W\u0142oc\u0142awek Nasze Miasto21 godz.",
-            "source": "W\u0142oc\u0142awek Nasze Miasto",
-            "article_content": "Content not available"
         }
     },
     {
@@ -90,7 +90,7 @@
             "description": "Rzadko\u015b\u0107 \u2013 im mniej egzemplarzy danej monety istnieje, tym jest ona bardziej warto\u015bciowa. Dotyczy to zar\u00f3wno niskiego nak\u0142adu ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.njJ0Yh_7CJ-wOZdpeC4xcC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Nowa Trybuna Opolska on MSN11 godz.",
+            "date": "Nowa Trybuna Opolska on MSN14 godz.",
             "source": "Nowa Trybuna Opolska on MSN",
             "article_content": ""
         }
@@ -106,25 +106,9 @@
             "description": "Pieni\u0105dze w fizycznej formie s\u0105 coraz cz\u0119\u015bciej zast\u0119powane przez p\u0142atno\u015bci bezgot\u00f3wkowe. Banknoty i monety jednak mog\u0105 ulec ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.ADdV__p8Uj8LzoKTNdMNWS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Gazeta Pomorska on MSN7 godz.",
+            "date": "Gazeta Pomorska on MSN10 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Tymi banknotami i monetami ju\u017c nie zap\u0142acisz w pa\u017adzierniku. NBP jasno wskazuje co robi\u0107",
-            "link": "https://pomorska.pl/tymi-banknotami-i-monetami-juz-nie-zaplacisz-w-pazdzierniku-nbp-jasno-wskazuje-co-robic/ar/c1p2-27761411",
-            "description": "Pieni\u0105dze w fizycznej formie s\u0105 coraz cz\u0119\u015bciej zast\u0119powane przez p\u0142atno\u015bci bezgot\u00f3wkowe. Banknoty i monety jednak mog\u0105 ulec ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.ADdV__p8Uj8LzoKTNdMNWS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "Gazeta Pomorska17 godz.",
-            "source": "Gazeta Pomorska",
-            "article_content": "Content not available"
         }
     },
     {
@@ -138,7 +122,7 @@
             "description": "Czy w Twojej starej szufladzie, puszce po herbacie lub zapomnianej szkatu\u0142ce le\u017c\u0105 monety z czas\u00f3w PRL? Je\u015bli tak, to mo\u017cesz ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.hRS1gw70mhzpuJwvk2bWqy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Pomorza on MSN13 godz.",
+            "date": "G\u0142os Pomorza on MSN16 godz.",
             "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
         }
@@ -149,14 +133,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Stare telefony kom\u00f3rkowe, kt\u00f3re dzi\u015b s\u0105 warte fortun\u0119. Masz takie? 29.09.2025",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/stare-telefony-kom%C3%B3rkowe-kt%C3%B3re-dzi%C5%9B-s%C4%85-warte-fortun%C4%99-masz-takie-29092025/ar-AA1Hsewg?ocid=BingNewsVerp",
-            "description": "W erze superszybkich smartfon\u00f3w z potr\u00f3jnymi aparatami, ekranami AMOLED i sztuczn\u0105 inteligencj\u0105 na pok\u0142adzie, ma\u0142o kto ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.OXE2420uQ6nCkpyyIn4GGy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Notabene Flow: stabilne monety dla biznesu z tradycyjnym bezpiecze\u0144stwem",
+            "link": "https://bitgate.pl/notabene-flow-stabilne-monety-dla-biznesu-z-tradycyjnym-bezpieczenstwem/",
+            "description": "Notabene Flow rewolucjonizuje p\u0142atno\u015bci B2B stablecoinami, \u0142\u0105cz\u0105c szybko\u015b\u0107 krypto z bezpiecze\u0144stwem TradFi. Odkryj przysz\u0142o\u015b\u0107 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.8eZwL85pJmsDabCnltDqnC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Pomorza on MSN13 godz.",
-            "source": "G\u0142os Pomorza on MSN",
-            "article_content": ""
+            "date": "bitgate2 godz.",
+            "source": "bitgate",
+            "article_content": "Rozwijaj\u0105cy si\u0119 krajobraz finansowania aktyw\u00f3w cyfrowych przechodzi znacz\u0105c\u0105 ewolucj\u0119 wraz z wprowadzeniem Notabene Flow, nowej platformy maj\u0105cej na celu u\u0142atwienie wysokowarto\u015bciowych transakcji stablecoin mi\u0119dzy firmami (B2B). Ta innowacja firmy Notabene, specjalizuj\u0105cej si\u0119 w zgodno\u015bci regulacyjnej dla kryptowalut, ma na celu wype\u0142nienie luki mi\u0119dzy inherentn\u0105 szybko\u015bci\u0105 walut cyfrowych a ugruntowanymi mechanizmami zaufania tradycyjnych finans\u00f3w. Integruj\u0105c kluczowe funkcje, takie jak autoryzacja p\u0142atno\u015bci, fakturowanie i rozwi\u0105zywanie spor\u00f3w, Notabene Flow adresuje od dawna istniej\u0105ce niedoci\u0105gni\u0119cia w obecnych infrastrukturach p\u0142atno\u015bci kryptowalutowych, czyni\u0105c transfery stablecoin bardziej solidnymi i operacyjnie wykonalnymi do u\u017cytku instytucjonalnego.\n\nWype\u0142nianie Luki Mi\u0119dzy Szybko\u015bci\u0105 Krypto a Bezpiecze\u0144stwem TradFi\n\nWprowadzenie Notabene Flow stanowi kluczowy krok w kierunku uczynienia stablecoin\u00f3w praktycznym narz\u0119dziem do transakcji na poziomie korporacyjnym. Tradycyjne systemy finansowe, cho\u0107 cz\u0119sto krytykowane za powolne i z\u0142o\u017cone procesy transgraniczne, oferuj\u0105 niezb\u0119dne zabezpieczenia, takie jak odwracanie p\u0142atno\u015bci i zapobieganie oszustwom. Kryptowaluty, w przeciwie\u0144stwie do nich, dzia\u0142a\u0142y w du\u017cej mierze w modelu \u201etylko push\u201d, pozostawiaj\u0105c firmy bezbronne. Notabene Flow bezpo\u015brednio stawia czo\u0142a temu wyzwaniu, wprowadzaj\u0105c mo\u017cliwo\u015bci p\u0142atno\u015bci \u201epull\u201d, umo\u017cliwiaj\u0105c cykliczne rozliczenia i promuj\u0105c standaryzowan\u0105, bezpieczn\u0105 koordynacj\u0119 mi\u0119dzy zweryfikowanymi uczestnikami w swojej sieci ponad 2000 regulowanych podmiot\u00f3w.\n\nTa rozszerzona funkcjonalno\u015b\u0107 jest wspierana przez Protok\u00f3\u0142 Autoryzacji Transakcji, otwarty standard zaprojektowany do dzia\u0142ania podobnie do ugruntowanych system\u00f3w wymiany komunikat\u00f3w mi\u0119dzybankowych. Kluczowym elementem tego protoko\u0142u jest jego oparcie na weryfikacji podmiotu zakotwiczonej w globalnie rozpoznawalnym standardzie Legal Entity Identifier (LEI), u\u0142atwianej dzi\u0119ki partnerstwu z Global Legal Entity Identifier Foundation (GLEIF). Takie podej\u015bcie tworzy niezawodn\u0105 podstaw\u0119 dla zaufania kontrahent\u00f3w, co jest kluczowym elementem u\u0142atwiaj\u0105cym bezpieczne i wysokowarto\u015bciowe transakcje mi\u0119dzy firmami.\n\nAdopcja Instytucjonalna i Przysz\u0142o\u015b\u0107 P\u0142atno\u015bci Stablecoin\n\nPotencja\u0142 Notabene Flow podkre\u015blaj\u0105 jego pierwsi u\u017cytkownicy, w tym znacz\u0105ce firmy instytucjonalne, takie jak Zodia Custody, Bitso i Borderless. Podmioty te aktywnie poszukuj\u0105 sposob\u00f3w na wykorzystanie szybko\u015bci transakcyjnej stablecoin\u00f3w, jednocze\u015bnie przestrzegaj\u0105c rygorystycznych standard\u00f3w zgodno\u015bci oczekiwanych na tradycyjnych rynkach finansowych. Trend ten wpisuje si\u0119 w szersze rozw\u00f3j w sektorze p\u0142atno\u015bci stablecoin, takie jak nadchodz\u0105cy system stablecoin oparty na blockchainie firmy Swift, wskazuj\u0105c na rosn\u0105cy konsensus co do potrzeby bezpiecznych i regulowanych rozwi\u0105za\u0144 p\u0142atno\u015bci cyfrowych dla firm.\n\nPelle Braendgaard, CEO Notabene, podkre\u015bli\u0142 transformacyjny potencja\u0142 stablecoin\u00f3w dla transgranicznych p\u0142atno\u015bci B2B, stwierdzaj\u0105c: \u201eTransgraniczne p\u0142atno\u015bci B2B zawsze by\u0142y powolne, drogie i skomplikowane. Stablecoiny to pierwsza prawdziwa szansa na zmian\u0119 tego stanu rzeczy, ale te wysokowarto\u015bciowe p\u0142atno\u015bci potrzebuj\u0105 ram zaufania, aby odnie\u015b\u0107 sukces na du\u017c\u0105 skal\u0119. Notabene Flow dostarcza te ramy.\u201d Ten pogl\u0105d podkre\u015bla fundamentalne wyzwanie, kt\u00f3re Notabene Flow stara si\u0119 rozwi\u0105za\u0107: umo\u017cliwienie skalowalno\u015bci i szerokiego przyj\u0119cia stablecoin\u00f3w do u\u017cytku korporacyjnego poprzez wprowadzenie niezb\u0119dnych ram zaufania i operacyjnych.\n\nMarek Tutko to autor news\u00f3w na bitgate.pl, kt\u00f3ry wnosi do \u015bwiata kryptowalut sporo humoru i \u015bwie\u017cego podej\u015bcia. Jego teksty \u0142\u0105cz\u0105 w sobie precyzyjn\u0105 analiz\u0119 rynku z nut\u0105 ironii \u2013 potrafi znale\u017a\u0107 \u015bmieszne analogie nawet w najbardziej zmiennych notowaniach. Dla Marka ka\u017cda zmiana kursu to okazja do \u017cartobliwego komentarza, a wykresy zamienia w opowie\u015bci pe\u0142ne nieoczekiwanych zwrot\u00f3w akcji. Jego artyku\u0142y to nie tylko \u017ar\u00f3d\u0142o rzetelnych informacji, ale tak\u017ce dawka pozytywnej energii, kt\u00f3ra sprawia, \u017ce nawet \u015bwiat kryptowalut staje si\u0119 bardziej przyjazny."
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Rusza kaucyjna rewolucja. Co ka\u017cdy powinien wiedzie\u0107 o systemie kaucyjnym?",
+            "link": "https://www.bankier.pl/wiadomosc/Rusza-system-kaucyjny-Co-musisz-o-nim-wiedziec-Oto-najwazniejsze-zasady-9016491.html",
+            "description": "1 pa\u017adziernika wchodzi w \u017cycie kaucyjna rewolucja. Od tego dnia zmieniaj\u0105 si\u0119 zasady przyjmowania opakowa\u0144 i wyp\u0142acania ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.ZbQOfmZVaM6P3zTUKvhYVS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "Bankier.pl24 min",
+            "source": "Bankier.pl",
+            "article_content": "1 pa\u017adziernika wchodzi w \u017cycie kaucyjna rewolucja. Od tego dnia zmieniaj\u0105 si\u0119 zasady przyjmowania opakowa\u0144 i wyp\u0142acania kaucji. Mimo \u017ce system zacznie obowi\u0105zywa\u0107 lada dzie\u0144, wci\u0105\u017c budzi wiele pyta\u0144. A my przynosimy na nie odpowiedzi. O czym trzeba pami\u0119ta\u0107 i czego nie mo\u017cna robi\u0107? Jak nie pope\u0142ni\u0107 b\u0142\u0119du?\n\nfot. Ivan Zelenin / / shutterstock\n\nCzas do startu systemu kaucyjnego mo\u017cna odlicza\u0107 w godzinach. Od 1 pa\u017adziernika okre\u015blone punkty sprzeda\u017cy b\u0119d\u0105 przyjmowa\u0142y opakowania na zupe\u0142nie innych zasadach ni\u017c teraz.\n\nSprzedawcy, jak i konsumenci maj\u0105 wiele w\u0105tpliwo\u015bci dotycz\u0105cych nowego systemu. Jakich opakowa\u0144 nowe prawo nie obejmie? W jakiej formie i gdzie b\u0119dzie mo\u017cna odebra\u0107 kaucje? Kt\u00f3re sklepie nie znajd\u0105 si\u0119 w systemie? Wszystkie sporne kwestie wyja\u015bniamy poni\u017cej.\n\nSystem kaucyjny: jakie opakowania obejmie?\n\nOd 1 pa\u017adziernika system i zwrot kaucji b\u0119dzie obejmowa\u0142:\n\nbutelki plastikowe o pojemno\u015bci do 3 litr\u00f3w (kaucja w wysoko\u015bci 50 gr )\n\n(kaucja w wysoko\u015bci ) metalowe puszki do 1 litra (kaucja w wysoko\u015bci 50 gr).\n\nNatomiast od 1 stycznia 2026 r. system obejmowa\u0107 b\u0119dzie tak\u017ce szklane butelki wielorazowego u\u017cytku o pojemno\u015bci do 1,5 litra (kaucja 1 z\u0142).\n\nCzy te opakowania b\u0119d\u0105 mia\u0142y specjalne oznaczenie?\n\nW ramach systemu w sprzeda\u017cy pojawi\u0105 si\u0119 napoje w opakowaniach, kt\u00f3re b\u0119d\u0105 mia\u0142y specjalny kod i logotyp. Opr\u00f3cz tego b\u0119dzie na nich widoczna informacja o wysoko\u015bci kaucji \u2013 50 gr lub 1 z\u0142.\n\nSystem kaucyjny rusza 1 pa\u017adziernika - zgodnie z planem! Chcemy, aby by\u0142 wygodny i powszechny. Najwa\u017cniejszy dla konsumenta b\u0119dzie znak kaucji z kwot\u0105 na opakowaniu. To prosta wskaz\u00f3wka: je\u015bli jest znak, to b\u0119dziemy mogli odzyska\u0107 pieni\u0105dze. pic.twitter.com/ou1ey23KFB \u2014 Ministerstwo Klimatu i \u015arodowiska (@MKiS_GOV_PL) September 17, 2025\n\nKt\u00f3re punkty b\u0119d\u0105 odbiera\u0142y opakowania?\n\nOd 1 pa\u017adziernika obowi\u0105zek odbierania pustych opakowa\u0144 i oddawania klientom kaucji b\u0119d\u0105 mia\u0142y sklepy o powierzchni powy\u017cej 200 m kw., kt\u00f3re sprzedaj\u0105 napoje w wy\u017cej wymienionych butelkach i puszkach.\n\nSystem obejmie tak\u017ce mniejsze punkty sprzeda\u017cy, w kt\u00f3rych mo\u017cna naby\u0107 szklane butelki wielokrotnego u\u017cytku. Natomiast w\u0142a\u015bciciele pozosta\u0142ych mniejszych sklep\u00f3w mog\u0105 sami zdecydowa\u0107, czy chc\u0105 do\u0142\u0105czy\u0107 do systemu.\n\nOpakowania b\u0119dzie mo\u017cna zwr\u00f3ci\u0107 r\u00f3wnie\u017c w automatach kaucyjnych, kt\u00f3re b\u0119d\u0105 dost\u0119pne w miastach i gminach. Opr\u00f3cz nich mog\u0105 pojawi\u0107 si\u0119 dodatkowe miejsca zbi\u00f3rki. Wed\u0142ug zapewnie\u0144 ministerstwa klimatu, w ka\u017cdej gminie znajdzie si\u0119 co najmniej jeden punkt odbioru opakowa\u0144.\n\nW jakiej formie mog\u0119 dosta\u0107 kaucj\u0119 za opakowanie?\n\nKonsument mo\u017ce otrzyma\u0107 za opakowanie zwrot: w got\u00f3wce, na kart\u0119 lub w formie bonu. Wprawdzie w ustawie wpisany zosta\u0142 wym\u00f3g, aby konsument otrzymywa\u0142 zwrot w formie pieni\u0119\u017cnej (got\u00f3wka lub na kart\u0119), jednak dwa tygodnie temu ministerstwo klimatu potwierdzi\u0142o mo\u017cliwo\u015b\u0107 zwrotu w formie bonu, kt\u00f3ry potem mo\u017cna wymieni\u0107 na got\u00f3wk\u0119.\n\nTaka opcja zosta\u0142a wprowadzona z uwagi na automaty. Dzi\u0119ki bonom nie trzeba b\u0119dzie zaopatrywa\u0107 automat\u00f3w w monety. Konsument b\u0119dzie otrzymywa\u0142 bon, z kt\u00f3rym powinien uda\u0107 si\u0119 do kasy. Tam otrzyma za niego got\u00f3wk\u0119.\n\nCzy chc\u0105c zwr\u00f3ci\u0107 opakowanie, musz\u0119 mie\u0107 paragon?\n\nOsoba zwracaj\u0105ca w sklepie opakowanie nie b\u0119dzie mia\u0142a obowi\u0105zku posiadania paragonu. Warto jednak pami\u0119ta\u0107 o tym, aby opakowanie nie by\u0142o zgniecione. Powinno mie\u0107 czyteln\u0105 etykiet\u0119 oraz kod kreskowy.\n\nDzi\u0119ki temu, \u017ce system kaucyjny jest bezparagonowy, konsument b\u0119dzie m\u00f3g\u0142 odda\u0107 butelk\u0119 do dowolnego punktu zbi\u00f3rki. Zwrot opakowania nie b\u0119dzie oznacza\u0142 konieczno\u015bci dokonania zakup\u00f3w.\n\nCzy dostan\u0119 zwrot za butelki bez logo programu?\n\nNiekt\u00f3re osoby zastanawiaj\u0105 si\u0119, czy uzyskaj\u0105 kaucj\u0119 za obecnie posiadane butelki lub puszki. Odpowiadamy: kaucja b\u0119dzie zwracana tylko za opakowania, kt\u00f3re s\u0105 oznaczone logo systemu. Stare opakowania nie maj\u0105 takiego oznaczenia, wi\u0119c kaucji za nie otrzyma\u0107 nie mo\u017cna. Logo i kody kresowe b\u0119d\u0105 mia\u0142y wszystkie nowe opakowania obj\u0119te systemem.\n\nWarto doda\u0107, \u017ce system kaucyjny nie obejmie opakowa\u0144 po mleku, jogurtach i innych pitnych produktach mlecznych, a tak\u017ce szklanych opakowa\u0144 jednokrotnego u\u017cytku. W systemie nie b\u0119dzie te\u017c opakowa\u0144 wielomateria\u0142owych - kartonik\u00f3w po mleku i sokach.\n\nCo z opakowaniami, za kt\u00f3re nie b\u0119dzie wyp\u0142acana kaucja?\n\nOpakowania, za kt\u00f3re nie nale\u017cy si\u0119 kaucja, nie znikn\u0105 ze sklep\u00f3w. Ustawodawca przewidzia\u0142 okres przej\u015bciowy - do ko\u0144ca 2025 r. Oznacza on, \u017ce przez najbli\u017csze trzy miesi\u0105ce w sklepach b\u0119dziemy mogli spotka\u0107 produkty w opakowaniach bez oznacze\u0144, wyprodukowane przed wej\u015bciem w \u017cycie systemu kaucyjnego.\n\nPrzez ten pierwszy kwarta\u0142 funkcjonowania systemu, a wi\u0119c ostatni kwarta\u0142 tego roku, mo\u017cemy mie\u0107 sytuacj\u0119 tak\u0105, \u017ce na p\u00f3\u0142kach w sklepie b\u0119d\u0105 znajdowa\u0107 si\u0119 te same napoje, tych samych producent\u00f3w w opakowaniach obj\u0119tych systemem kaucyjnym z oznaczeniem systemu kaucyjnego i bez. Z wiadomych wzgl\u0119d\u00f3w nie chcemy producent\u00f3w nara\u017ca\u0107 na dodatkowe koszty. Chcemy, \u017ceby wyczerpali zapasy i ten okres przej\u015bciowy b\u0119dzie obowi\u0105zywa\u0142 do ko\u0144ca tego roku \u2013 m\u00f3wi minister klimatu i \u015brodowiska Paulina Hennig-Kloska.\n\nCo nale\u017cy zrobi\u0107 z opakowaniami, kt\u00f3re nie s\u0105 obj\u0119te systemem?\n\nOpakowania, kt\u00f3re nie zosta\u0142y uwzgl\u0119dnione w systemie kaucyjnym, nadal b\u0119dzie mo\u017cna wyrzuca\u0107 do odpowiedniego pojemnika na odpady. Plastikowe i metalowe oraz wielomateria\u0142owe opakowania \u2013 takie jak kartoniki po sokach czy mleku \u2013 powinno si\u0119 wrzuca\u0107 do \u017c\u00f3\u0142tego pojemnika.\n\nCzy system kaucyjny b\u0119dzie obowi\u0105zywa\u0142 w restauracjach?\n\nZwrot za opakowanie b\u0119dzie doliczany do ceny nie tylko w sklepach prowadz\u0105cych sprzeda\u017c napoj\u00f3w obj\u0119tych systemem. Kaucja b\u0119dzie pobierana tak\u017ce przez restauracje oraz punkty oferuj\u0105ce sprzeda\u017c produkt\u00f3w na wynos.\n\nZasady systemu zna mniej ni\u017c po\u0142owa Polak\u00f3w\n\nJak wynika z badania IBRiS przeprowadzonego na zlecenie Clear Communication Group, mniej ni\u017c po\u0142owa Polak\u00f3w (47%) deklaruje, \u017ce wie, jak b\u0119dzie dzia\u0142a\u0142 w Polsce system kaucyjny. Kolejne 25% respondent\u00f3w s\u0142ysza\u0142o o systemie, jednak nie zna jego szczeg\u00f3\u0142\u00f3w. To oznacza, \u017ce pozosta\u0142a cz\u0119\u015b\u0107 (28%) nie zetkn\u0119\u0142a si\u0119 z tematem wprowadzenia systemu kaucyjnego. A ten startuje lada chwila."
         }
     },
     {
@@ -170,9 +170,25 @@
             "description": "Porcelana z czas\u00f3w PRL-u jest obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli posiadasz wazony, zastawy sto\u0142owe czy figurki z lat 60., 70. czy 80., warto przyjrze\u0107 si\u0119 i ...",
             "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN11 godz.",
+            "date": "Gazeta Pomorska on MSN13 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pras\u00f3wka 30.09.2025 - najwa\u017cniejsze wydarzenia. Przygotowali\u015bmy przegl\u0105d prasy z wczoraj",
+            "link": "https://pomorska.pl/prasowka-30-09-2025-najwazniejsze-wydarzenia-przygotowalismy-przeglad-prasy-z-wczoraj/ar/c1p1-19960903",
+            "description": "Tomasz Fornal spe\u0142ni\u0142 swoje dzieci\u0119ce marzenie, nabywaj\u0105c sportowy samoch\u00f3d, kt\u00f3rego wi\u0119kszo\u015b\u0107 z nas mo\u017ce tylko podziwia\u0107.",
+            "image_url": "https://www.bing.pl/th?id=OVFT.bBXVMyYr2mnE4gOwLV7wwi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stara+porcelana",
+            "date": "Gazeta Pomorska39 min",
+            "source": "Gazeta Pomorska",
+            "article_content": "Content not available"
         }
     },
     {
@@ -186,9 +202,25 @@
             "description": "Organizacja Netblocks twierdzi, \u017ce w Afganistanie dosz\u0142o do powa\u017cnych zak\u0142\u00f3ce\u0144 w \u0142\u0105czno\u015bci telekomunikacyjnej i dzia\u0142aniu ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.C2QWo1SUpKbgbDNGaNTwFC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Kresy.pl2 godz.",
+            "date": "Kresy.pl5 godz.",
             "source": "Kresy.pl",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Upad\u0142o\u015b\u0107 Marwitu. Polska legenda \u015bwie\u017cych sok\u00f3w wyprzedaje maj\u0105tek",
+            "link": "https://kresy.pl/wydarzenia/upadlosc-marwitu-polska-legenda-swiezych-sokow-wyprzedaje-majatek/",
+            "description": "Marwit, dawny lider bran\u017cy spo\u017cywczej, pozbywa si\u0119 ostatnich aktyw\u00f3w \u2013 pod m\u0142otek trafi\u0142y nieruchomo\u015bci i znak towarowy.",
+            "image_url": "https://www.bing.pl/th?id=OVFT.7QhljUh0iQ-NgssTnNwLfS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stara+porcelana",
+            "date": "Kresy.pl17 godz.",
+            "source": "Kresy.pl",
+            "article_content": "Firma, kt\u00f3ra zrewolucjonizowa\u0142a rynek sok\u00f3w jednodniowych, ko\u0144czy dzia\u0142alno\u015b\u0107 po prawie 30 latach. Marwit, dawny lider bran\u017cy spo\u017cywczej, pozbywa si\u0119 ostatnich aktyw\u00f3w \u2013 pod m\u0142otek trafi\u0142y nieruchomo\u015bci i znak towarowy.\n\nPo blisko trzech dekadach dzia\u0142alno\u015bci Marwit, niegdy\u015b czo\u0142owy producent sok\u00f3w niepasteryzowanych w Polsce, og\u0142osi\u0142 upad\u0142o\u015b\u0107. Firma z okolic Torunia, kt\u00f3rej produkty przez lata mo\u017cna by\u0142o znale\u017a\u0107 niemal w ka\u017cdym sklepie, od 2021 roku stopniowo wyprzedaje maj\u0105tek. Najnowsza licytacja obj\u0119\u0142a kolejne grunty oraz znak towarowy \u2013 informuje serwis RMF FM.\n\nMarka zosta\u0142a za\u0142o\u017cona w 1993 roku przez 20-letniego Macieja J\u00f3\u017awickiego i szybko zyska\u0142a pozycj\u0119 lidera. W najlepszym okresie Marwit kontrolowa\u0142 a\u017c 70 proc. rynku sok\u00f3w jednodniowych, a jego oferta obejmowa\u0142a tak\u017ce sur\u00f3wki i napoje smoothie.\n\nProblemy firmy zacz\u0119\u0142y si\u0119 wraz z wybuchem pandemii \u2013 zerwane \u0142a\u0144cuchy dostaw i ograniczenia logistyczne doprowadzi\u0142y do coraz wi\u0119kszych trudno\u015bci finansowych. D\u0142ugi si\u0119gn\u0119\u0142y 180 mln z\u0142otych, a w 2020 roku sp\u00f3\u0142ka zawiesi\u0142a dzia\u0142alno\u015b\u0107. Ostatecznie, w lipcu 2021 roku, s\u0105d og\u0142osi\u0142 upad\u0142o\u015b\u0107 zar\u00f3wno Marwit Sp. z o.o., jak i Marwit Foods Sp. z o.o.\n\nPrzeczytaj: Upada polska fabryka porcelany z ponad 160-letni\u0105 tradycj\u0105\n\nZobacz: Zak\u0142ad \u201ePafal\u201d w \u015awidnicy ma zosta\u0107 zlikwidowany po 128 latach dzia\u0142alno\u015bci\n\n\u201eSoki jednodniowe, czyli \u015bwie\u017co wyciskane i niepasteryzowane, by\u0142y wspania\u0142ym pomys\u0142em, kt\u00f3ry przez kilka dobrych lat \u015bwi\u0119ci\u0142 triumfy na rynku spo\u017cywczym. Przedsi\u0119wzi\u0119cie, w kt\u00f3rym pionierem by\u0142a firma Marwit, by\u0142o jednak bardzo skomplikowane i drogie. Przede wszystkim trudna by\u0142a technologia produkcji, poniewa\u017c wymaga\u0142a du\u017cego re\u017cimu technologicznego, higienicznego i logistycznego. Soki jednodniowe wymaga\u0142y transportu, magazynowania i ekspozycji w sklepach w warunkach ch\u0142odniczych\u201d \u2013 t\u0142umaczy\u0142a w rozmowie z serwisem portalspozywczy.pl Barbara Groele, sekretarz generalna Stowarzyszenia Krajowa Unia Producent\u00f3w Sok\u00f3w.\n\nObecnie trwa likwidacja maj\u0105tku firmy. Jak poda\u0142 portal superbiz.se.pl, 4 wrze\u015bnia wystawiono na sprzeda\u017c dzia\u0142ki o \u0142\u0105cznej powierzchni ponad 11,45 ha, po\u0142o\u017cone w P\u0119dzewie w powiecie toru\u0144skim. Cena wywo\u0142awcza wynosi 1 476 000 z\u0142 netto. Zgodnie z operatem szacunkowym z 2022 roku, teren ten nie jest obj\u0119ty miejscowym planem zagospodarowania przestrzennego.\n\nSprzedawany jest r\u00f3wnie\u017c znak towarowy \u201eOgrody Natury\u201d \u2013 cena minimalna to 69 000 z\u0142 netto \u2013 oraz wszystkie udzia\u0142y w sp\u00f3\u0142ce Biogaz\u2013Invest Sp. z o.o., wystawione za co najmniej 84 000 z\u0142. Oferty na zakup tych aktyw\u00f3w mo\u017cna sk\u0142ada\u0107 do 8 pa\u017adziernika, do godziny 15:00.\n\nZobacz tak\u017ce: Fabryka porcelany w Wa\u0142brzychu w r\u0119kach ukrai\u0144skiego w\u0142a\u015bciciela. Na jej miejscu mog\u0105 powsta\u0107 mieszkania i lokale us\u0142ugowe\n\nrmf.fm / Kresy.pl"
         }
     },
     {
@@ -202,7 +234,7 @@
             "description": "Kiedy w tym roku wypadnie Wielkanoc? \u015awi\u0119ta Wielkiej Nocy b\u0119dziemy w tym roku obchodzi\u0107 20 i 21 kwietnia 2025 roku. Czasami obchodzimy Wielkanoc wcze\u015bniej,... Jest taka miejscowo\u015b\u0107 w Polsce, kt\u00f3ra ...",
             "image_url": "https://www.bing.pl/th?id=ODF.XL5bGs_n6w06Ok0ARb1y3Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "Gazeta Krakowska2 godz.",
+            "date": "Gazeta Krakowska5 godz.",
             "source": "Gazeta Krakowska",
             "article_content": "Content not available"
         }
@@ -218,7 +250,7 @@
             "description": "W niedziel\u0119, 28 wrze\u015bnia, przed centrum handlowym M1 w Poznaniu zn\u00f3w zrobi\u0142o si\u0119 t\u0142oczno. Parking wype\u0142nili sprzedawcy, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.cSuP1N55rZPjjLRTFXnzbS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "G\u0142os Wielkopolski9 godz.",
+            "date": "G\u0142os Wielkopolski12 godz.",
             "source": "G\u0142os Wielkopolski",
             "article_content": "Content not available"
         }
@@ -234,7 +266,7 @@
             "description": "W Tarnobrzegu rodzice i pe\u0142noletni uczniowie masowo rezygnuj\u0105 z przedmiotu edukacja zdrowotna. W szko\u0142ach podstawowych i ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.iKKDQtkqxNOcOogA72kCby&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Echo Dnia on MSN11 godz.",
+            "date": "Echo Dnia on MSN14 godz.",
             "source": "Echo Dnia on MSN",
             "article_content": ""
         }
@@ -250,9 +282,25 @@
             "description": "W niedziel\u0119, 28 wrze\u015bnia, przed centrum handlowym M1 w Poznaniu zn\u00f3w zrobi\u0142o si\u0119 t\u0142oczno. Parking wype\u0142nili sprzedawcy, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.B41av0wRo9vaNUveNyt_Vi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Pozna\u0144 Nasze Miasto on MSN17 godz.",
+            "date": "Pozna\u0144 Nasze Miasto on MSN20 godz.",
             "source": "Pozna\u0144 Nasze Miasto on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pras\u00f3wka 30.09.2025 - wydarzenia dnia, podsumowanie z wczoraj - sprawd\u017a, czy nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego",
+            "link": "https://kurierlubelski.pl/prasowka-30-09-2025-wydarzenia-dnia-podsumowanie-z-wczoraj-sprawdz-czy-nie-minelo-cie-nic-waznego/ar/c1p1-19960905",
+            "description": "Wspania\u0142a uroczysto\u015b\u0107 jubileuszowa odby\u0142a si\u0119 w sobot\u0119, 27 wrze\u015bnia, w Gminnym O\u015brodku Kultury w Paw\u0142owie. Tego dnia 9 par ma\u0142\u017ce\u0144skich z Rejowca Fabrycznego \u015bwi\u0119towa\u0142o 50-lecie po\u017cycia ma\u0142\u017ce\u0144skiego, ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.lto-jgjLT22CJn-xbZRKjA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "targ+staroci",
+            "date": "Kurier Lubelski39 min",
+            "source": "Kurier Lubelski",
+            "article_content": "Content not available"
         }
     },
     {
@@ -266,24 +314,8 @@
             "description": "W Poznaniu znajdziesz wiele restauracji godnych polecenia, w kt\u00f3rych dominuje r\u00f3\u017cnorodna kuchnia: polska, w\u0142oska, francuska, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.i_9VYUxAagUt6J30bxXZbS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "G\u0142os Wielkopolski19 godz.",
+            "date": "G\u0142os Wielkopolski22 godz.",
             "source": "G\u0142os Wielkopolski",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Parkowanie kazimierz",
-            "link": "https://dziennikpolski24.pl/tag/parkowanie-kazimierz",
-            "description": "Mieszka\u0144cy s\u0105 podzieleni w sprawie Strefy Czystego Transportu na placu Nowym i okolicznych ulicach. Urz\u0119dnicy chc\u0105 j\u0105 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.4Jy1n8CZRo2PSjmlLIVOaS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "targ+staroci",
-            "date": "Dziennik Polski1 godz.",
-            "source": "Dziennik Polski",
             "article_content": "Content not available"
         }
     },
@@ -298,7 +330,7 @@
             "description": "S\u0105decczyzn\u0119 nawiedzi\u0142a dzi\u015b gwa\u0142towna burza, kt\u00f3rej towarzyszy\u0142y opady deszczu, ale tak\u017ce gradu. Najgorsza sytuacja by\u0142a w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.Qe_Ru3USMdCrrIzZ0Ok0bi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Gazeta Krakowska1 godz.",
+            "date": "Gazeta Krakowska4 godz.",
             "source": "Gazeta Krakowska",
             "article_content": "Content not available"
         }
@@ -314,7 +346,7 @@
             "description": "Na potrzeby Holywood jako pierwsi na \u015bwiecie skonstruowali wolumetryczne studio pod wod\u0105. Za swoj\u0105 prac\u0119 byli nominowani do ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.Qsy8fvpiMyJMrBf3IROnGi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Polskie Radio17 godz.",
+            "date": "Polskie Radio20 godz.",
             "source": "Polskie Radio",
             "article_content": "Pod rzeszowskim rynkiem dzia\u0142a Podziemna Trasa Turystyczna Foto: Albin Marciniak/East News\n\nHistoria Rzeszowskich Piwnic si\u0119ga \u015bredniowiecza. Podziemia rynku skrywa w swoich korytarzach wiele opowie\u015bci zwi\u0105zanych z rozwojem miasta, handlem i codziennym \u017cyciem. Jak przekonuj\u0105 zarz\u0105dzaj\u0105cy miejscem, to niezwyk\u0142a podr\u00f3\u017c w czasie \u2013 od XIV wieku a\u017c po wsp\u00f3\u0142czesno\u015b\u0107. Szlakiem podziemnych korytarzy oprowadza\u0142 S\u0142uchaczy Jakub Paw\u0142owski, historyk.\n\n>>> Pos\u0142uchaj audycji \"Kwadrans bes muyzki\"\n\nHistoria rzeszowskich podziemi\n\nPodziemia dawniej stanowi\u0142y symbol bogactwa, potem popad\u0142y w zapomnienie. Sie\u0107 piwnic s\u0142u\u017cy\u0142a dawniej g\u0142\u00f3wnie jako magazyny i tzw. sklepy ziemne. Piwnice i panuj\u0105ce w nich warunki chroni\u0142y towary przed zepsuciem, po\u017carami i kradzie\u017c\u0105. Historia udowodni\u0142a te\u017c, \u017ce w razie zagro\u017ce\u0144 np. najazd\u00f3w czy kataklizm\u00f3w piwnice stanowi\u0142y schronienie dla mieszka\u0144c\u00f3w. W czasie wojny bezpieczne miejsce znale\u017ali tam miejscowi \u017bydzi.\n\nCzytaj tak\u017ce:\n\nTurystyczna trasa w podziemiach miasta\n\nPrace zabezpieczaj\u0105ce pod nadzorem konserwatorsko-archeologicznym w rzeszowskich podziemiach zacz\u0119to prowadzi\u0107 ju\u017c w latach 80. i 90. XX wieku. Projekt zosta\u0142 zako\u0144czony w 2000 roku, a rok p\u00f3\u017aniej zaproszono turyst\u00f3w do zwiedzania Podziemnej Trasy Turystycznej. Rzeszowskie Piwnice licz\u0105 sobie wtedy 213 metr\u00f3w d\u0142ugo\u015bci i obejmuj\u0105c\u0105 34 komory oraz korytarze. Najg\u0142\u0119bsza z nich si\u0119ga\u0142a niemal 10 metr\u00f3w, a najw\u0119\u017cszym miejscem by\u0142 \"korytarz tatarski\" o szeroko\u015bci 70 cm.\n\nW 2007 roku tras\u0119 wyd\u0142u\u017cono do 369 metr\u00f3w. W trakcie prowadzonych tam prac odkryto m.in. relikty zabudowy z XVI\u2013XVIII wieku oraz \u015blady wielkiego po\u017caru miasta z 1842 roku.\n\n***\n\nTytu\u0142 audycji: Kwadrans bez muzyki\n\nPrzygotowanie: Jakub Kukla\n\nData emisji: 14.08.2025\n\nGodz. emisji: 11.00\n\npg/zch"
         }
@@ -330,7 +362,7 @@
             "description": "Podziemia Starego Miasta w O\u015bwi\u0119cimiu kryj\u0105 jeszcze wiele tajemnic. Kr\u0105\u017c\u0105 o nich r\u00f3\u017cne opowie\u015bci i legendy. Tylko cz\u0119\u015b\u0107 jest ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.k3ImpFMjh3YX3KGd6Zpkii&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Gazeta Krakowska on MSN13 godz.",
+            "date": "Gazeta Krakowska on MSN15 godz.",
             "source": "Gazeta Krakowska on MSN",
             "article_content": ""
         }
@@ -346,7 +378,7 @@
             "description": "Nim wyruszysz w drog\u0119, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 04 pa\u017adziernika w O\u015bwi\u0119cimiu ma by\u0107 12\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 05 pa\u017adziernika w O\u015bwi\u0119cimiu ma by\u0107 13\u00b0C. Prawdopodobie\u0144stwo ...",
             "image_url": "https://www.bing.pl/th?id=ODF.hU9b0B80CrRL-uqx7ot5XQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "O\u015bwi\u0119cim Nasze Miasto11 godz.",
+            "date": "O\u015bwi\u0119cim Nasze Miasto14 godz.",
             "source": "O\u015bwi\u0119cim Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -362,9 +394,41 @@
             "description": "Ciekawym odkryciem podzieli\u0142 si\u0119 Dolno\u015bl\u0105ski Wojew\u00f3dzki Konserwator Zabytk\u00f3w. W Zespole Szkolnym Urszulanek na pl. Nankiera 16 (dawniej klasztor Klarysek) trwa remont. Podczas sprawdzania wieku warstw ...",
             "image_url": "https://www.bing.pl/th?id=ODF.p9YO103MXreScWBGsL62IA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Gazeta Wroc\u0142awska on MSN20 godz.",
+            "date": "Gazeta Wroc\u0142awska on MSN23 godz.",
             "source": "Gazeta Wroc\u0142awska on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Cmentarz Wojownik\u00f3w Mieszka I-go z X w. Inowroc\u0142aw Borkowo",
+            "link": "https://bezpiecznapodroz.org/2025/09/30/cmentarz-wojownikow-mieszka-i-go-z-x-w-inowroclaw-borkowo/",
+            "description": "Cmentarz Wojownik\u00f3w Mieszka pod Inowroc\u0142awiem - Ci m\u0119\u017cczy\u017ani byli prawdziwymi \"olbrzymami\" tamtej epoki i mieli bogate ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.44M39OJ8CV6u4rXXbQ4NPy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Radio Bezpieczna Podr\u00f3\u017c43 min",
+            "source": "Radio Bezpieczna Podr\u00f3\u017c",
+            "article_content": "Sensacyjne odkrycie pod Inowroc\u0142awiem! Znaleziono cmentarzysko wojownik\u00f3w z czas\u00f3w Mieszka I! Ci m\u0119\u017cczy\u017ani byli prawdziwymi \"olbrzymami\" tamtej epoki i mieli bogate wyposa\u017cenie grob\u00f3w! Co to oznacza dla historii Kujaw i jak wygl\u0105da\u0142o \u017cycie \u00f3wczesnej elity? Omawiamy, co zdradzaj\u0105 \u015blady dentystyczne i dlaczego ich poch\u00f3wki mia\u0142y poga\u0144ski charakter, mimo chrystianizacji. Czytaj o tym fascynuj\u0105cym odkryciu w naszym najnowszym artykule!\n\nCmentarz Wojownik\u00f3w Mieszka. W Borkowie pod Inowroc\u0142awiem \u2013 wie\u015b Borkowo, w wojew\u00f3dztwie kujawsko-pomorskim, archeolodzy dokonali sensacyjnego odkrycia. Podczas rutynowej budowy gazoci\u0105gu natrafiono na cmentarzysko. Cmentarzysko pochodzi z X wieku naszej ery, czyli z czas\u00f3w panowania Mieszka I. O odkryciu niezw\u0142ocznie poinformowano Wojew\u00f3dzki Urz\u0105d Ochrony Zabytk\u00f3w. Na miejsce natychmiast przybyli konserwatorzy i antropolodzy. Badacze znale\u017ali oko\u0142o dwudziestu szkielet\u00f3w oraz bardzo bogate wyposa\u017cenie grob\u00f3w. Piotr Alagierski, kieruj\u0105cy pracami archeologicznymi, podkre\u015bla wyj\u0105tkowo\u015b\u0107 tego znaleziska. Nieopodal cmentarzyska znajdowa\u0142a si\u0119 bowiem osada. To pozwala historykom po\u0142\u0105czy\u0107 miejsce poch\u00f3wku z miejscem zamieszkania \u00f3wczesnej ludno\u015bci.\n\nCmentarz Wojownik\u00f3w Mieszka pod Inowroc\u0142awiem wie\u015b Borkowo\n\nPochowani m\u0119\u017cczy\u017ani wyr\u00f3\u017cniali si\u0119 niezwyk\u0142ym, jak na tamte czasy, wzrostem. Wielu z nich mierzy\u0142o oko\u0142o metra osiemdziesi\u0119ciu, a niekt\u00f3rzy nawet metr osiemdziesi\u0105t pi\u0119\u0107 centymetr\u00f3w. To by\u0142y prawdziwe olbrzymy tamtej epoki. Wed\u0142ug ekspert\u00f3w byli to specjalnie wyselekcjonowani wojownicy. Por\u00f3wnuj\u0105 ich do wsp\u00f3\u0142czesnej kompanii reprezentacyjnej Wojska Polskiego. Analiza ich ko\u015bci wykaza\u0142a, \u017ce m\u0119\u017cczy\u017ani byli niezwykle wysportowani. Mieli oni \u015bwietnie rozwini\u0119te \u0142opatki, \u015bwiadcz\u0105ce o du\u017cej sile fizycznej. Niekt\u00f3rzy z nich nosili \u015blady zwyrodnie\u0144 typowych dla os\u00f3b, kt\u00f3re cz\u0119sto je\u017adzi\u0142y konno. Badania ko\u015bci maluj\u0105 obraz silnych, doskonale wyszkolonych m\u0119\u017c\u00f3w. Cmentarz Wojownik\u00f3w Mieszka to dow\u00f3d \u017ce o \u015bredniowieczu wiemy niewiele.\n\nozdoby ze srebra i importowanych kamieni\n\nCmentarz Wojownik\u00f3w Mieszka I-go. W grobach odkryto niezwykle cenne przedmioty. Znaleziono mi\u0119dzy innymi ozdoby ze srebra i importowanych kamieni. Odkryto tak\u017ce \u017celazne groty do strza\u0142 od \u0142uku oraz bojowe topory. Wszystkie te znaleziska bardzo wyra\u017anie \u015bwiadcz\u0105 o wysokim statusie spo\u0142ecznym pochowanych. Potwierdzaj\u0105, \u017ce \u00f3wczesna elita wojownik\u00f3w \u017cy\u0142a na wyj\u0105tkowo wysokim poziomie. Badacze zwracaj\u0105 r\u00f3wnie\u017c uwag\u0119 na wyra\u017ane \u015blady zabieg\u00f3w dentystycznych u zmar\u0142ych. To dodatkowo potwierdza ich du\u017c\u0105 zamo\u017cno\u015b\u0107 i dost\u0119p do zaawansowanej opieki. To jest dow\u00f3d na istnienie dobrze rozwini\u0119tej, zamo\u017cnej spo\u0142eczno\u015bci.\n\nCmentarz Wojownik\u00f3w Mieszka pod Inowroc\u0142awiem\n\nMimo, \u017ce w X wieku na Kujawach post\u0119powa\u0142a ju\u017c chrystianizacja, zmar\u0142ych wyposa\u017cono w dary grobowe. Zrobiono to zgodnie ze star\u0105, dawn\u0105 poga\u0144sk\u0105 tradycj\u0105. To pokazuje, \u017ce proces przechodzenia na now\u0105 wiar\u0119 by\u0142 stopniowy. Stare zwyczaje mia\u0142y nadal silny wp\u0142yw na praktyki pogrzebowe. Polska sp\u00f3\u0142ka gazownictwa zapewnia, \u017ce sensacyjne odkrycie nie zagra\u017ca pracom przy budowie gazoci\u0105gu Latkowo-Wrzosy. To bardzo dobra wiadomo\u015b\u0107 dla projektu. Warto wspomnie\u0107, \u017ce to nie jest pierwsze takie znalezisko na trasie budowy. W sierpniu w Or\u0142owie archeolodzy odkryli mezolityczny gr\u00f3b sprzed kilku tysi\u0119cy lat.\n\nSkarby ukryte na Kujawach\n\nWystawa archeologiczna Ska\u0142kalic dokumentuje ponad siedem i p\u00f3\u0142 tysi\u0105ca lat historii Kujawy Inowroc\u0142awskich. Mo\u017cna tam podziwia\u0107 setki zabytk\u00f3w. Pochodz\u0105 one z wykopalisk archeologicznych z terenu Inowroc\u0142awia oraz okolic. Wystawione s\u0105 tam na przyk\u0142ad fragmenty czternastowiecznej konstrukcji muru obronnego Inowroc\u0142awia. Jest to jeden z dw\u00f3ch znanych fragment\u00f3w tych fortyfikacji. Pod polsk\u0105 ziemi\u0105 mo\u017cna znale\u017a\u0107 naprawd\u0119 wiele ciekawych i nieoczekiwanych rzeczy. Te odkrycia nie tylko ciesz\u0105, ale tak\u017ce dostarczaj\u0105 nam bezcennej wiedzy o \u017cyciu naszych przodk\u00f3w. Kujawy skrywaj\u0105 w sobie bogat\u0105 histori\u0119.\n\nCmentarz Wojownik\u00f3w Mieszka pod Inowroc\u0142awiem\n\nSensacyjne odkrycie pod Inowroc\u0142awiem! Znaleziono cmentarzysko wojownik\u00f3w z czas\u00f3w Mieszka I! Ci m\u0119\u017cczy\u017ani byli prawdziwymi \u201eolbrzymami\u201d tamtej epoki i mieli bogate wyposa\u017cenie grob\u00f3w! Co to oznacza dla historii Kujaw i jak wygl\u0105da\u0142o \u017cycie \u00f3wczesnej elity? Omawiamy, co zdradzaj\u0105 \u015blady dentystyczne i dlaczego ich poch\u00f3wki mia\u0142y poga\u0144ski charakter, mimo chrystianizacji. Czytaj o tym fascynuj\u0105cym odkryciu w naszym najnowszym artykule!\n\n#BezpiecznaPodr\u00f3\u017c #Archeologia #Inowroc\u0142aw #WojeMieszka"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pras\u00f3wka 30.09.2025. Zobacz zestawienie najwa\u017cniejszych informacji z wczoraj z naszego wojew\u00f3dztwa",
+            "link": "https://wspolczesna.pl/prasowka-30-09-2025-zobacz-zestawienie-najwazniejszych-informacji-z-wczoraj-z-naszego-wojewodztwa/ar/c1p1-19960917",
+            "description": "27 wrze\u015bnia, w rocznic\u0119 powstania Polskiego Pa\u0144stwa Podziemnego, obchodzone jest \u015awi\u0119to Wojsk Obrony Terytorialnej, kt\u00f3re w ci\u0105gu zaledwie kilku lat sta\u0142o si\u0119 nieod\u0142\u0105czn\u0105 cz\u0119\u015bci\u0105 Si\u0142 Zbrojnych ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.J2HjYlW7BWiryFifLql_kw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "zabytkowe+przedmioty",
+            "date": "Gazeta Wsp\u00f3\u0142czesna38 min",
+            "source": "Gazeta Wsp\u00f3\u0142czesna",
+            "article_content": "Content not available"
         }
     },
     {
@@ -378,7 +442,7 @@
             "description": "Utrzymaj nasze wiadomo\u015bci wolne od reklam i p\u0142atnych mur\u00f3w, dokonuj\u0105c wp\u0142aty wsparcia naszej pracy! Notes from Poland prowadzone jest przez ma\u0142y zesp\u00f3\u0142 redakcyjny i jest publikowane przez niezale\u017cn\u0105, ...",
             "image_url": "https://www.bing.pl/th?id=ODF.LREvtbf_49_1yNa1b-9ojw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "liganews3 godz.",
+            "date": "liganews6 godz.",
             "source": "liganews",
             "article_content": "Utrzymaj nasze wiadomo\u015bci wolne od reklam i p\u0142atnych mur\u00f3w, dokonuj\u0105c wp\u0142aty wsparcia naszej pracy! Notes from Poland prowadzone jest przez ma\u0142y zesp\u00f3\u0142 redakcyjny i jest publikowane przez niezale\u017cn\u0105, non-profitow\u0105 fundacj\u0119, finansowan\u0105 poprzez datki naszych czytelnik\u00f3w. Nie mo\u017cemy robi\u0107 tego, co robimy, bez wsparcia.\n\n\n\nPolska og\u0142osi\u0142a zwrot czterech kolejnych historycznych obiekt\u00f3w, kt\u00f3re znikn\u0119\u0142y w czasie II wojny \u015bwiatowej w\u015br\u00f3d setek tysi\u0119cy dzie\u0142 artystycznych i naukowych, wiele z kt\u00f3rych nadal jest niewyja\u015bnionych. Obiekty zosta\u0142y odzyskane po zostaniem zauwa\u017conymi na aukcji.\n\n\u00e2\u20ac\u0153Stopniowo odzyskujemy elementy polskiego dziedzictwa, kt\u00f3re zosta\u0142y zdobyte podczas II wojny \u015bwiatowej,\u00e2\u20ac o\u015bwiadczy\u0142a minister kultury Marta Cienkowska, prezentuj\u0105c cztery prace. \u00e2\u20ac\u0153Do tej pory odzyskano ponad 800 obiekt\u00f3w z ca\u0142ego \u015bwiata, a kolejne 190 jest w trakcie restytucji.\u00e2\u20ac\n\nJednak\u017ce podkre\u015bli\u0142a tak\u017ce, \u017ce publiczna baza danych ministerstwa prac, kt\u00f3re uznano za zaginione, nadal zawiera oko\u0142o 70 000 przedmiot\u00f3w, i zach\u0119ca\u0142a ludzi do pomocy w ich odnalezieniu i zapewnieniu ich zwrotu. Wiele innych przedmiot\u00f3w zosta\u0142o celowo zniszczonych przez niemieckich okupant\u00f3w.\n\nKolejne odzyskane dzie\u0142a wr\u00f3ci\u0142y do polskich zbior\u00f3w Cztery zabytkowe obiekty utracone w czasie II wojny \u015bwiatowej zosta\u0142y odzyskane dzi\u0119ki dzia\u0142aniom restytucyjnym Ministerstwa Kultury i Dziedzictwa Narodowego. Do Muzeum Narodowego w Poznaniu trafi\u0142y dwa obrazy Micha\u0142a pic.twitter.com/dYcLwKG9wL \u00e2\u20ac\u201d Ministerstwo Kultury i Dziedzictwa Narodowego (@kultura_gov_pl) 25 wrze\u015bnia 2025\n\nW\u015br\u00f3d obiekt\u00f3w, kt\u00f3re teraz zosta\u0142y zwr\u00f3cone, s\u0105 dwa obrazy polskiego artysty pejza\u017cysty Micha\u0142a Gorstkin Wywi\u00f3rskiego, kt\u00f3re znikn\u0119\u0142y z Muzeum Miejskiego w Poznaniu podczas wojny: Nadchodz\u0105ca wiosna, malowana wczesnym XX wieku oraz Autoportret na \u015bwie\u017cym powietrzu z 1913 roku.\n\nPodczas wojny obie prace zosta\u0142y oznaczone niemieckimi numerami inwentarzowymi i opatrzone piecz\u0119ciami niemieckiego biura kultury, kt\u00f3re nadzorowa\u0142o przej\u0119cie muzeum. Nast\u0119pnie zbiory muzeum by\u0142y przenoszone kilkakrotnie podczas wojny, r\u00f3wnie\u017c podczas wyzwolenia Polski w 1945 roku.\n\nW 1945 roku z muzeum znikn\u0119\u0142o oko\u0142o 250 obraz\u00f3w. Niekt\u00f3re z nich p\u00f3\u017aniej odnaleziono w Zwi\u0105zku Radzieckim. Jednak kiedy pozosta\u0142e zbiory Muzeum Miejskiego zosta\u0142y przetransferowane do Muzeum Narodowego w Poznaniu w 1953 roku, kilkadziesi\u0105t prac \u2013 w\u0142\u0105czaj\u0105c w to prace Wywi\u00f3rskiego \u2013 nadal by\u0142o zaginionych.\n\nDwa obrazy zosta\u0142y odkryte po wystawieniu ich na aukcji w Polsce w 2024 roku. W\u00f3wczas ministerstwo kultury interweniowa\u0142o i zabezpieczy\u0142o ich zwrot od w\u0142a\u015bciciela, kt\u00f3ry nie zosta\u0142 wymieniony. Dzie\u0142a zosta\u0142y teraz przekazane do Muzeum Narodowego w Poznaniu.\n\n\u00c2\n\nKolejnym odzyskanym przedmiotem jest flamandzka tkanina z prze\u0142omu XVII i XVIII wieku, kt\u00f3ra wcze\u015bniej by\u0142a cz\u0119\u015bci\u0105 zbior\u00f3w Zamku w Go\u0142a\u0144czu ko\u0142o Poznania.\n\nKr\u00f3tko przed wybuchem wojny, najcenniejsze zbiory zamku zosta\u0142y ewakuowane do Warszawy i tam ukryte. Jednak w 1941 roku skarbiec zosta\u0142 odkryty i skonfiskowany przez Niemc\u00f3w, kt\u00f3rzy p\u00f3\u017aniej przenie\u015bli go do Austrii, gdzie cz\u0119\u015b\u0107 z niego nast\u0119pnie zagin\u0119\u0142a.\n\nW tym roku tkanina pojawi\u0142a si\u0119 na aukcji internetowej (ministerstwo nie poda\u0142o, gdzie) i sprzeda\u017c zosta\u0142a zatrzymana po interwencji ministerstwa. Po negocjacjach w\u0142a\u015bciciel przedmiotu zgodzi\u0142 si\u0119 na jego zwrot, a teraz ponownie znajduje si\u0119 w Zamku w Go\u0142a\u0144czu.\n\nW 2023 roku r\u00f3wnie\u017c dwa historyczne obrazy, kt\u00f3re by\u0142y cz\u0119\u015bci\u0105 zbior\u00f3w Go\u0142a\u0144czu, zosta\u0142y zwr\u00f3cone do zamku po odnalezieniu ich w muzeum w Hiszpanii.\n\nDwa historyczne obrazy skradzione z Polski podczas niemiecko-nazistowskiej okupacji II wojny \u015bwiatowej i kt\u00f3re nast\u0119pnie przepad\u0142y na dekady, wr\u00f3ci\u0142y po odnalezieniu w muzeum w Hiszpanii https://t.co/QP5ls2ESYX \u00e2\u20ac\u201d Notes from Poland \u00f0\u0178\u2021\u00b5\u00f0\u0178\u2021\u00b1 (@notesfrompoland) 26 stycznia 2023\n\nW\u015br\u00f3d nowo og\u0142oszonych przedmiot\u00f3w zwr\u00f3conych do Polski, czwartym i ostatnim jest druk z 1745 roku dzie\u0142a lekarza i chemika Johanna Albrechta Gesnera. Znajdowa\u0142 si\u0119 on w zbiorach r\u00f3\u017cnych instytucji publicznych w Poznaniu przed wojn\u0105, w tym w bibliotece uniwersyteckiej.\n\nMinisterstwo kultury uwa\u017ca, \u017ce w 1945 roku zosta\u0142 on nielegalnie sprzedany i wywieziony z Polski. Niedawno odkryli go pracownicy biblioteki uniwersyteckiej po jego wystawieniu na sprzeda\u017c przez w\u0142a\u015bciciela antykwariatu w Niemczech, kt\u00f3ry zgodzi\u0142 si\u0119 na jego zwrot po dowiedzeniu si\u0119 o jego pochodzeniu.\n\nPolska w ostatnich latach intensyfikuje wysi\u0142ki w celu odzyskania zabytk\u00f3w i przedmiot\u00f3w kultury skradzionych w czasie niemieckiej i sowieckiej okupacji.\n\nW 2022 roku Polska zwr\u00f3ci\u0142a si\u0119 do UNESCO o pomoc w odzyskaniu zabytk\u00f3w kultury, kt\u00f3re pozostaj\u0105 zaginione po kradzie\u017cy przez Niemcy nazistowskie. R\u00f3wnie\u017c rozpocz\u0119\u0142a kampani\u0119 w celu odzyskania tysi\u0119cy przedmiot\u00f3w, kt\u00f3re po wojnie trafi\u0142y do Rosji.\n\nPrezydent Polski @NawrockiKn wezwa\u0142 Niemcy do wyp\u0142acenia Polsce reparacji wojennych podczas rozm\u00f3w w Berlinie z Kanclerzem @_FriedrichMerz. W odpowiedzi, Niemcy ponownie podkre\u015blili, \u017ce uwa\u017caj\u0105 t\u0119 kwesti\u0119 za prawnie zako\u0144czon\u0105 i nie s\u0105 winne reparacji https://t.co/sX07qtCFRL \u00e2\u20ac\u201d Notes from Poland \u00f0\u0178\u2021\u00b5\u00f0\u0178\u2021\u00b1 (@notesfrompoland) 16 wrze\u015bnia 2025\n\n\u00c2\n\n\n\nNotes from Poland prowadzone jest przez ma\u0142y zesp\u00f3\u0142 redakcyjny i publikowane jest przez niezale\u017cn\u0105, non-profitow\u0105 fundacj\u0119, finansowan\u0105 poprzez datki od naszych czytelnik\u00f3w. Nie mo\u017cemy robi\u0107 tego, co robimy, bez waszego wsparcia.\n\n<span style=\"width: 0px;overflow: hidden;line-height: 0\" data-mce-type=\"bookmark\" class=\"mce_SELRES_start\"></span>\n\nZdj\u0119cie g\u0142\u00f3wne: MKiDN (licencja CC BY-NC-ND 3.0 PL)"
         }
@@ -389,13 +453,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Ruiny zamku w Szubinie zagospodarowane zostan\u0105 turystycznie. Prace rusz\u0105 lada dzie\u0144. Finisz w maju 2026 r.",
-            "link": "https://pomorska.pl/ruiny-zamku-w-szubinie-zagospodarowane-zostana-turystycznie-prace-rusza-lada-dzien-finisz-w-maju-2026-r/ar/c7p2-28026467",
-            "description": "Ruiny zamku S\u0119dziwoja to jedna z atrakcji turystycznych Szubina. W\u0142adze miasta chc\u0105 maksymalnie wykorzysta\u0107 zabytek do ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.hzJ2lX96EGUyUHSR8PD5aS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Pras\u00f3wka 30.09.2025 - wydarzenia dnia, podsumowanie z wczoraj - sprawd\u017a, czy nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego",
+            "link": "https://gloswielkopolski.pl/prasowka-30-09-2025-wydarzenia-dnia-podsumowanie-z-wczoraj-sprawdz-czy-nie-minelo-cie-nic-waznego/ar/c1p1-19960897",
+            "description": "Niebawem nast\u0105pi przebudowa trzech wielkopolskich fragment\u00f3w drogi krajowej nr 25 (DK25) mi\u0119dzy Koninem a Kokaninem pod Kaliszem. GDDKiA wybra\u0142a wykonawc\u00f3w trzech odcink\u00f3w. Znana jest tak\u017ce wst\u0119pna ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.U-Vp0xK7SYVhjnH4oToWdw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Pomorska18 godz.",
-            "source": "Gazeta Pomorska",
+            "date": "G\u0142os Wielkopolski39 min",
+            "source": "G\u0142os Wielkopolski",
             "article_content": "Content not available"
         }
     },
@@ -405,46 +469,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Zmar\u0142a profesor El\u017cbieta Pilecka z Torunia. Osieroci\u0142a wiele swoich wychowanek i wychowank\u00f3w",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/zmar%C5%82a-profesor-el%C5%BCbieta-pilecka-z-torunia-osieroci%C5%82a-wiele-swoich-wychowanek-i-wychowank%C3%B3w/ar-AA1NwY35?ocid=BingNewsVerp",
-            "description": "Uniwersytet Miko\u0142aja Kopernika, a przede wszystkim Wydzia\u0142 Sztuk Pi\u0119knych UMK, pogr\u0105\u017cy\u0142 si\u0119 w \u017ca\u0142obie. Umar\u0142a profesor ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.ee1K9unzlHhUCVscHszxuC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN10 godz.",
-            "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Stan wojenny rocznica 2020",
-            "link": "https://warszawa.naszemiasto.pl/tag/stan-wojenny-rocznica-2020",
-            "description": "Stan wojenny trwa\u0142 do 22 lipca 1983 roku (w sumie 586 dni). W czasie jego trwania z r\u0105k milicji oraz SB zgin\u0119\u0142o kilkadziesi\u0105t ...",
+            "title": "Najgorsze auta",
+            "link": "https://lodz.naszemiasto.pl/tag/najgorsze-auta",
+            "description": "Ogrody Geyera w \u0141odzi zamieni\u0142y si\u0119 w motoryzacyjne centrum regionu. \u0141DZ Amcar Show zgromadzi\u0142 mi\u0142o\u015bnik\u00f3w ameryka\u0144skich aut, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Warszawa Nasze Miasto1 godz.",
-            "source": "Warszawa Nasze Miasto",
+            "date": "\u0141\u00f3d\u017a Nasze Miasto50 min",
+            "source": "\u0141\u00f3d\u017a Nasze Miasto",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Rewitalizacja to nie jest \u0142atwa mi\u0142o\u015b\u0107",
-            "link": "https://www.propertynews.pl/opinie/rewitalizacja-to-nie-jest-latwa-milosc,192782.html",
-            "description": "W rewitalizacji mo\u017cna si\u0119 zakocha\u0107, ale to nie jest \u0142atwa mi\u0142o\u015b\u0107, tylko kawa\u0142 ci\u0119\u017ckiej pracy. To te\u017c biznes, kt\u00f3ry bywa misj\u0105 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.pabRIdvEEvX1ldZB3_SEby&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "PropertyNews8 godz.",
-            "source": "PropertyNews",
-            "article_content": "W rewitalizacji mo\u017cna si\u0119 zakocha\u0107, ale to nie jest \u0142atwa mi\u0142o\u015b\u0107, tylko kawa\u0142 ci\u0119\u017ckiej pracy. To te\u017c biznes, kt\u00f3ry bywa misj\u0105, zw\u0142aszcza, gdy ratuje si\u0119 budynki, w kt\u00f3re nikt przez lata nie chcia\u0142 zainwestowa\u0107.\n\nRados\u0142aw G\u00f3rski, Atlas Ward: Rewitalizacja cz\u0119sto przypomina wykopaliska archeologiczne.\n\nPiotr Grochowski, Arche: Adaptacja jednego budynku cz\u0119sto o\u017cywia okolic\u0119 i lokaln\u0105 spo\u0142eczno\u015b\u0107.\n\nKatarzyna Kopszak-Dziurnikowska, Apsys: Ka\u017cdy kto zajmuje si\u0119 rewitalizacj\u0105 powinien mie\u0107 misj\u0119 przywracania lokalnej spo\u0142eczno\u015bci fragmentu miasta.\n\nSzymon Wojciechowski, APA Wojciechowski: Absolutnym imperatywem rewitalizacji jest projektowanie otwarte na przysz\u0142o\u015b\u0107.\n\nAda Walentek, Nhood: Obiekt odporny na zmiany rynkowe i otwarty na elastyczno\u015b\u0107 funkcji utrzyma warto\u015b\u0107 w d\u0142u\u017cszym horyzoncie czasu, bo jest w gotowo\u015bci na transformacj\u0119.\n\nSesja Property Forum \u201eRewitalizacja 2.0. Jak w starych murach zbudowa\u0107 warto\u015b\u0107 na zmieniaj\u0105cym si\u0119 rynku nieruchomo\u015bci?\u201d Fot. PTWP/MN.\n\nRewitalizacja to nie tylko ratowanie zabytkowych mur\u00f3w, ale te\u017c zagospodarowanie brzydkich pustostan\u00f3w, kt\u00f3re szpec\u0105 miasto. To tak\u017ce modernizacje i rozbudowy istniej\u0105cych obiekt\u00f3w, ale te\u017c rozbi\u00f3rki i wyburzenia.\n\nRewitalizacja bywa pu\u0142apk\u0105\n\nArchitekci prawie zawsze m\u00f3wi\u0105, \u017ce rewitalizacja jest trudniejsza ni\u017c budowanie na greenfieldzie. A jak to wygl\u0105da z perspektywy generalnego wykonawcy? Czy rzeczywi\u015bcie tylko inwestor ryzykuje i p\u0142aci za ca\u0142y ewentualny ba\u0142agan?\n\n\u2013 Inwestorzy zawsze staraj\u0105 si\u0119 podpisa\u0107 z wykonawc\u0105 umow\u0119 na rycza\u0142 z zamkni\u0119t\u0105 kwot\u0105, \u017ceby przenie\u015b\u0107 na niego cz\u0119\u015b\u0107 ryzyka. Tymczasem cz\u0119sto takie prace przypominaj\u0105 wykopaliska archeologiczne. Nigdy nie wiemy, na co natrafimy w trakcie realizacji obiektu \u2013 t\u0142umaczy Rados\u0142aw G\u00f3rski, dyrektor operacyjny, cz\u0142onek zarz\u0105du Atlas Ward.\n\nRados\u0142aw G\u00f3rski, dyrektor operacyjny, cz\u0142onek zarz\u0105du Atlas Ward podczas sesji Property Forum \u201eRewitalizacja 2.0. Jak w starych murach zbudowa\u0107 warto\u015b\u0107 na zmieniaj\u0105cym si\u0119 rynku nieruchomo\u015bci?\u201d Fot. PTWP/MN.\n\nProjekty przygotowane na wst\u0119pnym etapie, jak podkre\u015bla ekspert, nie uwzgl\u0119dniaj\u0105 wielu rzeczy, kt\u00f3re pojawiaj\u0105 si\u0119 w trakcie rozbi\u00f3rek. Skrajnym przypadkiem by\u0142a przebudowa zabytkowej kamienicy na ul. Jasnej w Warszawie. Warto\u015b\u0107 kontraktu opiewa\u0142a na ok. 16 mln z\u0142.\n\nW trakcie prac okaza\u0142o si\u0119, \u017ce konstrukcja jest spr\u00f3chnia\u0142a. Trzeba by\u0142o usun\u0105\u0107 wszystkie stropy. Na koniec okaza\u0142o si\u0119, \u017ce zosta\u0142a tylko \u015bciana fasadowa. Wszystko ze \u015brodka trzeba by\u0142o wywali\u0107. Ca\u0142o\u015b\u0107 kosztowa\u0142a 32 mln z\u0142. Ryzyko i koszt poni\u00f3s\u0142 generalny wykonawca.\n\n\u2013 Przy rewitalizacji obiekt\u00f3w zabytkowych i przebudowach inwestor musi by\u0107 \u015bwiadomy tego, \u017ce wst\u0119pny bud\u017cet w wielu przypadkach niestety nie pokryje wszystkich koszt\u00f3w zwi\u0105zanych z pracami, kt\u00f3re pojawi\u0105 si\u0119 w trakcie \u2013 t\u0142umaczy Rados\u0142aw G\u00f3rski.\n\nEkspert dodaje, \u017ce takie projekty powinny by\u0107 kalkulowane zasadzie open book, albo rozlicze\u0144 podwykonawczych.\n\n\u2013 Inwestor powinien tworzy\u0107 rezerwy w wysoko\u015bci 20-30 proc. na prac\u0119 nieprzewidzian\u0105. Generalni wykonawcy cz\u0119sto nie s\u0105 \u015bwiadomi koszt\u00f3w dodatkowych, kt\u00f3re zwi\u0105zane s\u0105 z tego typu pracami \u2013 podkre\u015bla Rados\u0142aw G\u00f3rski, dyrektor operacyjny, cz\u0142onek zarz\u0105du Atlas Ward.\n\nRatowa\u0107 budynki, kt\u00f3rych nikt nie chce\n\nRewitalizacja niesie ze sob\u0105 nie tylko efekt w postaci adaptacji jednego budynku, ale cz\u0119sto o\u017cywia te\u017c okolic\u0119 i lokaln\u0105 spo\u0142eczno\u015b\u0107.\n\nPiotr Grochowski, g\u0142\u00f3wny architekt grupy Arche podczas sesji Property Forum \u201eRewitalizacja 2.0. Jak w starych murach zbudowa\u0107 warto\u015b\u0107 na zmieniaj\u0105cym si\u0119 rynku nieruchomo\u015bci?\u201d Fot. PTWP/MN.\n\n\u2013 Dlatego podejmujemy si\u0119 takich niemo\u017cliwych projekt\u00f3w, jak cho\u0107by elektrownia w Bytomiu, w kt\u00f3r\u0105 nikt nie chcia\u0142 zainwestowa\u0107. My widzimy w niej potencja\u0142. Czujemy, \u017ce wystarczy ziarenko, z kt\u00f3rego wykie\u0142kuje ro\u015blinka, a ona zacznie p\u0105czkowa\u0107 i zrodzi wi\u0119cej aktywno\u015bci \u2013 t\u0142umaczy Piotr Grochowski, g\u0142\u00f3wny architekt grupy Arche.\n\nRewitalizacja nie tylko dla turyst\u00f3w\n\nRatowanie zabytk\u00f3w kocha te\u017c Apsys.\u2013 Ale to nie jest \u0142atwa mi\u0142o\u015b\u0107. To kawa\u0142 naprawd\u0119 trudnej pracy \u2013 opisuje Katarzyna Kopszak-Dziurnikowska, Head of Development Department, Board Member Apsys Polska.\n\nZawsze trzeba, jak dodaje ekspertka, my\u015ble\u0107 o tym, jak rewitalizacja wp\u0142ynie na spo\u0142eczno\u015b\u0107 lokaln\u0105. Dlatego np. w hali targowej w Gda\u0144sku, nad kt\u00f3r\u0105 obecnie Apsys pracuje, utrzymana zostanie podstawowa funkcja, czyli handel.\n\nKatarzyna Kopszak-Dziurnikowska, Head of Development Department, Board Member Apsys Polska podczas sesji Property Forum \u201eRewitalizacja 2.0. Jak w starych murach zbudowa\u0107 warto\u015b\u0107 na zmieniaj\u0105cym si\u0119 rynku nieruchomo\u015bci?\u201d Fot. PTWP/MN.\n\n\u2013 Rozmawiamy z s\u0105siadami i handlarzami z 20-letnim sta\u017cem w tym obiekcie, pytaj\u0105c, co zrobi\u0107, \u017ceby im si\u0119 \u017cy\u0142o i pracowa\u0142o lepiej \u2013 przyznaje Katarzyna Kopszak-Dziurnikowska.\n\nChodzi o to, by rewitalizacja odpowiada\u0142a na prawdziwe potrzeby mieszka\u0144c\u00f3w.\n\n\u2013 Robimy przecie\u017c projekt dla mieszka\u0144c\u00f3w, nie tylko dla turyst\u00f3w. S\u0105dz\u0119, \u017ce ka\u017cdy kto zajmuje si\u0119 rewitalizacj\u0105 powinien mie\u0107 misj\u0119 przywr\u00f3cenia lokalnej spo\u0142eczno\u015bci fragmentu miasta \u2013 podkre\u015bla Katarzyna Kopszak-Dziurnikowska.\n\nNie wszystko nadaje si\u0119 do rewitalizacji\n\nRewitalizacja ma dzisiaj tak\u017ce wa\u017cn\u0105 misj\u0119 \u015brodowiskow\u0105. Nowa filozofia budowania, kt\u00f3r\u0105 powinni\u015bmy wdra\u017ca\u0107, je\u015bli chcemy rozwija\u0107 nasze miasta w spos\u00f3b zr\u00f3wnowa\u017cony, brzmi: \u201eNigdy nie burzy\u0107, nie usuwa\u0107, zawsze dodawa\u0107, przekszta\u0142ca\u0107, wykorzysta\u0107 ponownie.\u201d\n\nTymczasem w Polsce na pot\u0119g\u0119 burzone s\u0105 m.in. 20-letnie biurowce. Ich transformacja, jak twierdz\u0105 w\u0142a\u015bciciele, jest nieop\u0142acalna lub zbyt kosztowna. Z drugiej strony rodzi si\u0119 pytanie, czy budynki w Polsce nie s\u0105 zbyt lekk\u0105 r\u0119k\u0105 burzone, tylko dlatego, \u017ce nowy obiekt wi\u0119cej zarobi, bo deweloper wyci\u015bnie z dzia\u0142ki wi\u0119cej PUMU?\n\nSzymon Wojciechowski, prezes zarz\u0105du APA Wojciechowski Architekci podczas sesji Property Forum \u201eRewitalizacja 2.0. Jak w starych murach zbudowa\u0107 warto\u015b\u0107 na zmieniaj\u0105cym si\u0119 rynku nieruchomo\u015bci?\u201d Fot. PTWP/MN.\n\n\u2013 Opcj\u0105 pierwsz\u0105 jest zachowywanie, czyli przywracanie \u017cycia, ale nie za wszelk\u0105 cen\u0119. Tymczasem bardzo cz\u0119sto w budynkach nie ma \u017cycia, dlatego \u017ce zosta\u0142y \u017ale zaprojektowane. Niekt\u00f3rych obiekt\u00f3w po prostu si\u0119 nie da zrewitalizowa\u0107 \u2013 przyznaje Szymon Wojciechowski, prezes zarz\u0105du APA Wojciechowski Architekci.\n\nArchitekt wielokrotnie zwraca\u0142 uwag\u0119 na to, \u017ce o jako\u015bci naszego codziennego \u017cycia najlepiej \u015bwiadcz\u0105: zwyk\u0142a mieszkani\u00f3wka, biurowiec, czy szko\u0142a. Tymczasem my si\u0119 zachwycamy, nagradzamy i nazywamy pere\u0142kami projekty z wy\u017cszej p\u00f3\u0142ki, najcz\u0119\u015bciej rewitalizacyjne przedsi\u0119wzi\u0119cia.\n\nW niekt\u00f3rych miastach mamy nawet do czynienia ze zjawiskiem gentryfikacji, kt\u00f3re zamienia zaniedbane miejskie zau\u0142ki w oazy bogactwa i biznesu, wyp\u0119dzaj\u0105c ubo\u017cszych mieszka\u0144c\u00f3w na przedmie\u015bcia.\n\n\u2013 Nie m\u00f3wi\u0119, \u017ce tego zjawiska nie ma, ale wydaje mi si\u0119, \u017ce to jest troch\u0119 proces naturalny. Jeste\u015bmy spo\u0142ecze\u0144stwem, w kt\u00f3rym r\u00f3\u017cnice nie s\u0105 a\u017c takie du\u017ce, w zwi\u0105zku z tym ja gentryfikacji na pe\u0142n\u0105 skal\u0119 nie widz\u0119 \u2013 przyznaje Szymon Wojciechowski.\n\nGalerie handlowe nie do uratowania\n\nNie tylko biurowce s\u0105 burzone na pot\u0119g\u0119 \u2013 na celowniku s\u0105 te\u017c stare galerie handlowe: np. Dom Mody Klif, Galeria Bemowo i CH Land. S\u0105 w troch\u0119 gorszej sytuacji ni\u017c biurowce, bo jeszcze trudniej je przerobi\u0107 na mieszkania, akademik czy hotel.\n\nW wi\u0119kszym stopniu marnuj\u0105 bezcenny grunt, kt\u00f3ry \u2013 m.in. dzi\u0119ki procedurze lex deweloper \u2013 mo\u017cna zagospodarowa\u0107 projektem mixed-use, z du\u017cym udzia\u0142em mieszkani\u00f3wki, jak to si\u0119 dzieje w przypadku chocia\u017cby CH Klif.\n\nAda Walentek, Head of Market, Property & Asset Services, Nhood Services Poland podczas sesji Property Forum \u201eRewitalizacja 2.0. Jak w starych murach zbudowa\u0107 warto\u015b\u0107 na zmieniaj\u0105cym si\u0119 rynku nieruchomo\u015bci?\u201d Fot. PTWP/MN.\n\nCzy ten trend nale\u017cy t\u0142umaczy\u0107 tym, \u017ce wsp\u00f3\u0142czesne miasto potrzebuje takich transformacji, czyli lepiej zmiksowanych funkcji na \u015br\u00f3dmiejskich adresach, czy to mo\u017ce handel w pewnym sensie potrzebuje rewitalizacji, bo gigantomania ju\u017c si\u0119 nie sprawdza?\n\n\u2013 Zapewne jedno i drugie. By\u0107 mo\u017ce to bana\u0142, ale wsp\u00f3\u0142czesny \u015bwiat bardzo przyspieszy\u0142. Widzimy, \u017ce te budynki nie odpowiadaj\u0105 lokalnym spo\u0142eczno\u015bciom, ani najemcom, czy klientom \u2013 przyznaje Ada Walentek, Head of Market, Property & Asset Services, Nhood Services Poland.\n\nNie zawsze da si\u0119 je uratowa\u0107, ale bardzo cz\u0119sto mo\u017cna rewitalizowa\u0107.\n\n\u2013 Nhood przeprowadzi\u0142 w ostatnich latach 10 modernizacji centr\u00f3w handlowych drugiej generacji. To s\u0105 te pierwsze na naszym rynku centra z du\u017cym hipermarketem i galeri\u0105 handlow\u0105. Starali\u015bmy przeprowadzi\u0107 ten proces na r\u00f3\u017cnych poziomach \u2013 zar\u00f3wno architektonicznie i funkcjonalnie, jak i w kontakcie z lokaln\u0105 spo\u0142eczno\u015bci\u0105. Zadbali\u015bmy te\u017c o tereny wok\u00f3\u0142 obiekt\u00f3w \u2013 wylicza Ada Walentek.\n\nNhood zadba\u0142 to, by dostosowa\u0107 powierzchnie do obecnych potrzeb najemc\u00f3w, kt\u00f3rzy dzi\u0119ki temu lepiej odpowiedz\u0105 na oczekiwania klient\u00f3w.\n\nJak podkre\u015bla Ada Walentek, tylko obiekt odporny na zmiany rynkowe i otwarty na elastyczno\u015b\u0107 funkcji ma szans\u0119 na utrzymanie warto\u015bci w d\u0142u\u017cszym horyzoncie czasu, bo jest w ci\u0105g\u0142ej gotowo\u015bci na ewentualn\u0105 transformacj\u0119.\n\n\u2013 To w\u0142a\u015bnie jest absolutny imperatyw rewitalizacji, czyli projektowanie otwarte na przysz\u0142o\u015b\u0107 \u2013 dodaje Szymon Wojciechowski, prezes zarz\u0105du, APA Wojciechowski Architekci."
         }
     },
     {
@@ -458,7 +490,7 @@
             "description": "Rzadko\u015b\u0107 \u2013 im mniej egzemplarzy danej monety istnieje, tym jest ona bardziej warto\u015bciowa. Dotyczy to zar\u00f3wno niskiego nak\u0142adu ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.njJ0Yh_7CJ-wOZdpeC4xcC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Nowa Trybuna Opolska on MSN11 godz.",
+            "date": "Nowa Trybuna Opolska on MSN14 godz.",
             "source": "Nowa Trybuna Opolska on MSN",
             "article_content": ""
         }
@@ -474,7 +506,7 @@
             "description": "Czy w Twojej starej szufladzie, puszce po herbacie lub zapomnianej szkatu\u0142ce le\u017c\u0105 monety z czas\u00f3w PRL? Je\u015bli tak, to mo\u017cesz ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.hRS1gw70mhzpuJwvk2bWqy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Pomorza on MSN13 godz.",
+            "date": "G\u0142os Pomorza on MSN16 godz.",
             "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
         }
@@ -490,7 +522,7 @@
             "description": "Archeolodzy odkryli skarb. Jeden z najwi\u0119kszych w kraju Archeolodzy z Uniwersytetu w Hajfie dokonali spektakularnego odkrycia ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.F7HkMcww5SN2Pooo5XFk6S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "wykopano+zabytkowe",
-            "date": "GeekWeek w INTERIA.PL on MSN14 godz.",
+            "date": "GeekWeek w INTERIA.PL on MSN17 godz.",
             "source": "GeekWeek w INTERIA.PL on MSN",
             "article_content": ""
         }
