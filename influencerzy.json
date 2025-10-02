@@ -5,12 +5,28 @@
             "Content-Type": "application/json"
         },
         "body": {
+            "title": "S\u0105 tylko dwie takie monety w Polsce. Ten skarb wykopano na polu",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/s%C4%85-tylko-dwie-takie-monety-w-polsce-ten-skarb-wykopano-na-polu/ar-AA1NIxpK?ocid=BingNewsVerp",
+            "description": "Ten skarb wykopano na polu 42 lata temu. Moneta jest bezcenna. Wybity przez Boles\u0142awa Chrobrego srebrny denar z lat 992-997 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.Vg6zGKUpGhv6j8Haa3GxES&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Wielkopolskie Nasze Miasto on MSN8 godz.",
+            "source": "Wielkopolskie Nasze Miasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
             "title": "Warzywa jesienne targ",
             "link": "https://gniezno.naszemiasto.pl/tag/warzywa-jesienne-targ",
             "description": "Jesie\u0144 na dobre zago\u015bci\u0142a na targowisku w Gnie\u017anie. Ju\u017c s\u0105 tanie warzywa pochodz\u0105ce od rolnik\u00f3w. Ko\u0144czy si\u0119 niestety sezon na ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Gniezno Nasze Miasto6 min",
+            "date": "Gniezno Nasze Miasto3 godz.",
             "source": "Gniezno Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -26,25 +42,9 @@
             "description": "Jesie\u0144 na dobre zago\u015bci\u0142a na targowisku w Gnie\u017anie. Ju\u017c s\u0105 tanie warzywa pochodz\u0105ce od rolnik\u00f3w. Ko\u0144czy si\u0119 niestety sezon na ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Gniezno Nasze Miasto6 min",
+            "date": "Gniezno Nasze Miasto3 godz.",
             "source": "Gniezno Nasze Miasto",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "S\u0105 tylko dwie takie monety w Polsce. Ten skarb wykopano na polu",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/s%C4%85-tylko-dwie-takie-monety-w-polsce-ten-skarb-wykopano-na-polu/ar-AA1NIxpK?ocid=BingNewsVerp",
-            "description": "Ten skarb wykopano na polu 42 lata temu. Moneta jest bezcenna. Wybity przez Boles\u0142awa Chrobrego srebrny denar z lat 992-997 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.Vg6zGKUpGhv6j8Haa3GxES&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "Wielkopolskie Nasze Miasto on MSN4 godz.",
-            "source": "Wielkopolskie Nasze Miasto on MSN",
-            "article_content": ""
         }
     },
     {
@@ -58,7 +58,7 @@
             "description": "Powoli zanurzamy si\u0119 w jesienn\u0105 aur\u0119 i wkraczamy w pa\u017adziernik, a to oznacza r\u00f3wnie\u017c powr\u00f3t do miasta student\u00f3w. Z tej okazji szykuje si\u0119 wielka Parada Uczelni.",
             "image_url": "https://www.bing.pl/th?id=ODF.TioSfvyB6Ie4qA25KB6RoA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "Trojmiasto.pl4 godz.",
+            "date": "Trojmiasto.pl8 godz.",
             "source": "Trojmiasto.pl",
             "article_content": "Content not available"
         }
@@ -74,7 +74,7 @@
             "description": "Ju\u017c 21 czerwca 2025 roku Wroc\u0142aw stanie si\u0119 aren\u0105 niezwyk\u0142ego wydarzenia \u2013 charytatywnej wyprawy Positive Ways. Na Pergoli ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.-hbElLTfT5ufTMBp1lCNPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Gazeta Wroc\u0142awska4 godz.",
+            "date": "Gazeta Wroc\u0142awska7 godz.",
             "source": "Gazeta Wroc\u0142awska",
             "article_content": "Content not available"
         }
@@ -90,7 +90,7 @@
             "description": "Posiadasz w domu stare monety? Warto sprawdzi\u0107 ich warto\u015b\u0107! Niekt\u00f3re z nich mog\u0105 by\u0107 warte nawet kilka tysi\u0119cy z\u0142otych.",
             "image_url": "https://www.bing.pl/th?id=OVFT.z3y2M8Vdh1WkhdQUKQqcmy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Nowa Trybuna Opolska on MSN5 godz.",
+            "date": "Nowa Trybuna Opolska on MSN9 godz.",
             "source": "Nowa Trybuna Opolska on MSN",
             "article_content": ""
         }
@@ -106,7 +106,7 @@
             "description": "Ten skarb wykopano na polu 42 lata temu. Moneta jest bezcenna. Wybity przez Boles\u0142awa Chrobrego srebrny denar z lat 992-997 znajduje si\u0119 obecnie w Muzeum Pomorza \u015arodkowego w S\u0142upsku. W Polsce s\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.y_dEta6k5L6Idskh7fVTtA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "Nasze Miasto on MSN3 godz.",
+            "date": "Nasze Miasto on MSN7 godz.",
             "source": "Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -122,7 +122,7 @@
             "description": "Czy w Twojej starej szufladzie, puszce po herbacie lub zapomnianej szkatu\u0142ce le\u017c\u0105 monety z czas\u00f3w PRL? Je\u015bli tak, to mo\u017cesz ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.oVqztmPez25FbZBKjdRUYi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Pomorza on MSN4 godz.",
+            "date": "G\u0142os Pomorza on MSN8 godz.",
             "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
         }
@@ -138,7 +138,7 @@
             "description": "S\u0142awie\u0144skie Stowarzyszenie Eksploracyjne znalaz\u0142o monet\u0119 z 1924 r. - z wizerunkiem k\u0142os\u00f3w. To moneta z okresu Republiki Weimarskiej (Rentmarka). Wykonana z br\u0105zu-aluminium. Na rewersie ma napis: ...",
             "image_url": "https://www.bing.pl/th?id=ODF.iRLYqTfF1CLBfsylGj2TLQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "S\u0142awno Nasze Miasto6 godz.",
+            "date": "S\u0142awno Nasze Miasto10 godz.",
             "source": "S\u0142awno Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -149,13 +149,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Stare telefony kom\u00f3rkowe, kt\u00f3re dzi\u015b s\u0105 warte fortun\u0119. Masz takie? 02.10.2025",
-            "link": "https://gp24.pl/stare-telefony-komorkowe-ktore-dzis-sa-warte-fortune-masz-takie-02-10-2025/ar/c12p2-27723793",
-            "description": "W erze superszybkich smartfon\u00f3w z potr\u00f3jnymi aparatami, ekranami AMOLED i sztuczn\u0105 inteligencj\u0105 na pok\u0142adzie, ma\u0142o kto ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.WMpbLvgSELJWoXZ0TE25tS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Kto uczy edukacji zdrowotnej",
+            "link": "https://gdynia.naszemiasto.pl/tag/kto-uczy-edukacji-zdrowotnej",
+            "description": "Zbli\u017caj\u0105cy si\u0119 rok szkolny oznacza, \u017ce czas przygotowa\u0107 si\u0119 na nowy etap edukacyjny. Plecak szkolny odgrywa kluczow\u0105 rol\u0119 w ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Pomorza4 godz.",
-            "source": "G\u0142os Pomorza",
+            "date": "Gdynia Nasze Miasto6 godz.",
+            "source": "Gdynia Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -167,11 +167,27 @@
         "body": {
             "title": "Zwi\u0105zek Walki Zbrojnej",
             "link": "https://bydgoszcz.naszemiasto.pl/tag/zwiazek-walki-zbrojnej",
-            "description": "Chodzi\u0142 w mundurze oficera Wojska Polskiego, okazywa\u0142 fa\u0142szywe dokumenty funkcjonariusza bezpieki. Wkracza\u0142 do komisariat\u00f3w ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "description": "Chodzi\u0142 w mundurze oficera Wojska Polskiego, okazywa\u0142 fa\u0142szywe dokumenty funkcjonariusza bezpieki. Wkracza\u0142 do komisariat\u00f3w MO i katowni UB. Filmowy pu\u0142kownik... Z czas\u00f3w PRL wspomina si\u0119 g\u0142\u00f3wnie ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.2nPbtyoAS_WXYOaRWpOPhw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "Bydgoszcz Nasze Miasto7 godz.",
+            "date": "Bydgoszcz Nasze Miasto11 godz.",
             "source": "Bydgoszcz Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pras\u00f3wka z wrze\u015bnia 2025. Sprawd\u017a, co dzia\u0142o si\u0119 w Dzier\u017coniowie. Czy jeste\u015b na bie\u017c\u0105co?",
+            "link": "https://dzierzoniow.naszemiasto.pl/prasowka-z-wrzesnia-2025-sprawdz-co-dzialo-sie-w-dzierzoniowie-czy-jestes-na-biezaco/ar/c1p1-28036623",
+            "description": "Oto lista najpopularniejszych wiadomo\u015bci z wrze\u015bnia 2025 roku. Czy mia\u0142a\u015b b\u0105d\u017a mia\u0142e\u015b okazj\u0119 przeczyta\u0107 je wszystkie? \ud83d\udce2 Wrzosowy rarytas i b\u0142awatkowe nowo\u015bci. Trwa przemkowskie \u015bwi\u0119to miodu i wina. W ...",
+            "image_url": "https://www.bing.plNo image",
+            "category": "stara+porcelana",
+            "date": "dzierzoniow.naszemiasto1 dni",
+            "source": "dzierzoniow.naszemiasto",
             "article_content": "Content not available"
         }
     },
@@ -183,27 +199,11 @@
         "body": {
             "title": "Historia Polski",
             "link": "https://walbrzych.naszemiasto.pl/tag/historia-polski",
-            "description": "Najnowsza historia Polski zosta\u0142a opisana ju\u017c w wielu syntezach. Po co wi\u0119c powsta\u0142a kolejna ksi\u0105\u017cka? Odpowiedzi\u0105 na to jest ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "description": "Wincenty Witos pochodzi\u0142 z ubogiej rodziny z Wierzchos\u0142awic, do wszystkiego doszed\u0142 w\u0142asn\u0105 prac\u0105. Szybko dostrze\u017cono w nim \u201epolityczny talent'. Trzykrotnie by\u0142... \u201eHistoria polskiego komiksu' w ...",
+            "image_url": "https://www.bing.plNo image",
             "category": "stara+porcelana",
-            "date": "Wa\u0142brzych Nasze Miasto9 godz.",
-            "source": "Wa\u0142brzych Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Pa\u017adziernik 2025 w Wa\u0142brzychu: Przegl\u0105d najwa\u017cniejszych wydarze\u0144 wrze\u015bnia 2025",
-            "link": "https://walbrzych.naszemiasto.pl/pazdziernik-2025-w-walbrzychu-przeglad-najwazniejszych-wydarzen-wrzesnia-2025/ar/c1p1-28036411",
-            "description": "Wa\u0142brzyska Gie\u0142da Ceramiki i Porcelany 2025 trwa 13 wrze\u015bnia na terenie Starej Kopalni. Czwarta edycja wydarzenia pod has\u0142em \"Uroda kszta\u0142t\u00f3w i barw\" przyci\u0105gn\u0119\u0142a rekordow\u0105 liczb\u0119 odwiedzaj\u0105cych.",
-            "image_url": "https://www.bing.pl/th?id=ODF.b7cDqWcxCJUoLca1qpYJLg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stara+porcelana",
-            "date": "Wa\u0142brzych Nasze Miasto21 godz.",
-            "source": "Wa\u0142brzych Nasze Miasto",
+            "date": "walbrzych.naszemiasto13 godz.",
+            "source": "walbrzych.naszemiasto",
             "article_content": "Content not available"
         }
     },
@@ -218,7 +218,7 @@
             "description": "Jesie\u0144 na dobre zago\u015bci\u0142a na targowisku w Gnie\u017anie. Ju\u017c s\u0105 tanie warzywa pochodz\u0105ce od rolnik\u00f3w. Ko\u0144czy si\u0119 niestety sezon na ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Gniezno Nasze Miasto6 min",
+            "date": "Gniezno Nasze Miasto3 godz.",
             "source": "Gniezno Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -234,7 +234,7 @@
             "description": "Jesie\u0144 na dobre zago\u015bci\u0142a na targowisku w Gnie\u017anie. Ju\u017c s\u0105 tanie warzywa pochodz\u0105ce od rolnik\u00f3w. Ko\u0144czy si\u0119 niestety sezon na ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Gniezno Nasze Miasto6 min",
+            "date": "Gniezno Nasze Miasto3 godz.",
             "source": "Gniezno Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -246,12 +246,12 @@
         },
         "body": {
             "title": "Targi Rzeczy \u0141adnych Wroc\u0142aw 2025",
-            "link": "https://gazetawroclawska.pl/tag/targi-rzeczy-ladnych-wroclaw-2025",
-            "description": "Ju\u017c 21 czerwca 2025 roku Wroc\u0142aw stanie si\u0119 aren\u0105 niezwyk\u0142ego wydarzenia \u2013 charytatywnej wyprawy Positive Ways. Na Pergoli ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.-hbElLTfT5ufTMBp1lCNPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "link": "https://jeleniagora.naszemiasto.pl/tag/targi-rzeczy-ladnych-wroclaw-2025",
+            "description": "W sobotni wiecz\u00f3r, 9 sierpnia 2025 roku, Bastion Sakwowy ponownie sta\u0142 si\u0119 t\u0119tni\u0105cym \u017cyciem centrum kulturalnym Wroc\u0142awia.",
+            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Gazeta Wroc\u0142awska4 godz.",
-            "source": "Gazeta Wroc\u0142awska",
+            "date": "Jelenia G\u00f3ra Nasze Miasto5 min",
+            "source": "Jelenia G\u00f3ra Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -266,7 +266,7 @@
             "description": "Gie\u0142da Staroci Pchli Targ przy Centrum Handlowym M1 odbywa si\u0119 w ka\u017cd\u0105 niedziel\u0119 w godzinach od 6 do 14. Ka\u017cdy znajdzie tam ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.R5UQWsACZa1FLToeMIb0SC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Pozna\u0144 Nasze Miasto on MSN6 godz.",
+            "date": "Pozna\u0144 Nasze Miasto on MSN10 godz.",
             "source": "Pozna\u0144 Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -277,14 +277,46 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Kwiaty i znicze na Wszystkich \u015awi\u0119tych w Tarnobrzegu - ruszy\u0142a sprzeda\u017c przy miejskim targowisku. Ogromny wyb\u00f3r, zaskakuj\u0105ce ceny",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/kwiaty-i-znicze-na-wszystkich-%C5%9Bwi%C4%99tych-w-tarnobrzegu-ruszy%C5%82a-sprzeda%C5%BC-przy-miejskim-targowisku-ogromny-wyb%C3%B3r-zaskakuj%C4%85ce-ceny/ar-AA1NFEPl?ocid=BingNewsVerp",
-            "description": "Przygotowania do Wszystkich \u015awi\u0119tych nabieraj\u0105 tempa. Od 1 pa\u017adziernika przy miejskim targowisku w Tarnobrzegu trwa sprzeda\u017c cmentarnego asortymentu. Trawnik przy Kwiatkowskiego tonie w kolorowych ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.xmtGTJHQSE_v4D-CWxbvsQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Samobie\u017cne kraby",
+            "link": "https://nowiny24.pl/tag/samobiezne-kraby",
+            "description": "Huta Stalowa Wola rusza z produkcj\u0105 seryjn\u0105 nowoczesnego sprz\u0119tu artyleryjskiego czyli samobie\u017cnych krab\u00f3w i rak\u00f3w. Sanepid ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.rVZQTBFsMyVqtBMwXvAMly&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Echo Dnia on MSN23 godz.",
-            "source": "Echo Dnia on MSN",
-            "article_content": ""
+            "date": "Nowiny 2423 godz.",
+            "source": "Nowiny 24",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Nordic walking do 1 km od Ko\u0142obrzegu. Pomys\u0142y na odrobin\u0119 ruchu na powietrzu w weekend 4 - 5 pa\u017adziernika",
+            "link": "https://kolobrzeg.naszemiasto.pl/nordic-walking-do-1-km-od-kolobrzegu-pomysly-na-odrobine-ruchu-na-powietrzu-w-weekend-4-5-pazdziernika/ar/c7p1-22319027",
+            "description": "W sobot\u0119 4 pa\u017adziernika wed\u0142ug prognozy pogody ma by\u0107 11\u00b0C. Prawdopodobie\u0144stwo wyst\u0105pienia deszczu wynosi 40%. W niedziel\u0119 5 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.m7BYKYDtKfMuEHXA_-NnRC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "Ko\u0142obrzeg Nasze Miasto2 godz.",
+            "source": "Ko\u0142obrzeg Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Rowerem do 1 km od Jaworzna. Pomys\u0142y na jednodniow\u0105 wypraw\u0119. Gdzie w weekend 4 - 5 pa\u017adziernika?",
+            "link": "https://jaworzno.naszemiasto.pl/rowerem-do-1-km-od-jaworzna-pomysly-na-jednodniowa-wyprawe-gdzie-w-weekend-4-5-pazdziernika/ar/c7p1-21831473",
+            "description": "Nim wyruszysz w drog\u0119, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 04 pa\u017adziernika w Jaworznie ma by\u0107 12\u00b0C. Nie powinno pada\u0107. W ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.9yeAymnYfVvNefmeV_ae7i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "Jaworzno Nasze Miasto2 godz.",
+            "source": "Jaworzno Nasze Miasto",
+            "article_content": "Content not available"
         }
     },
     {
@@ -298,7 +330,7 @@
             "description": "Je\u017celi kto\u015b my\u015bli, \u017ce donosicielstwo i zrzucanie na w\u0142adz\u0119 odpowiedzialno\u015bci za w\u0142asne \u017cycie to relikty s\u0142usznie minionej przesz\u0142o\u015bci, to mam z\u0142\u0105 wiadomo\u015b\u0107: \u201enajlepsze' dopiero przed nami\u2026 Wrzesie\u0144 20 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.u2EFZCN0YiLJYTG74tIcwg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "PCH24.pl4 godz.Opinion",
+            "date": "PCH24.pl8 godz.Opinion",
             "source": "PCH24.pl",
             "article_content": "Je\u017celi kto\u015b my\u015bli, \u017ce donosicielstwo i zrzucanie na w\u0142adz\u0119 odpowiedzialno\u015bci za w\u0142asne \u017cycie to relikty s\u0142usznie minionej przesz\u0142o\u015bci, to mam z\u0142\u0105 wiadomo\u015b\u0107: \u201enajlepsze\u201d dopiero przed nami\u2026\n\nWrzesie\u0144 2025 roku by\u0142 bardzo intensywny pod k\u0105tem emocji politycznych i konfrontacji \u015bwiatopogl\u0105dowych. Ledwie przebrzmia\u0142y spory wyborcze, a ju\u017c uraczono nas sporem o \u201eedukacj\u0119 zdrowotn\u0105\u201d, a potem zbiorow\u0105 histeri\u0105 z powodu dron\u00f3w przekierowanych na nasz teren (celowo czy nie \u2013 nie wnikam) przez Ukrai\u0144c\u00f3w.\n\nPrzy okazji wysz\u0142a na jaw istotna s\u0142abo\u015b\u0107 du\u017cej cz\u0119\u015bci Polak\u00f3w, r\u00f3wnie\u017c tych o pogl\u0105dach konserwatywnych. Okaza\u0142o si\u0119, \u017ce w dobie upadku autorytetu wci\u0105\u017c jednak szukamy os\u00f3b i instytucji, na kt\u00f3rych mogliby\u015bmy si\u0119 oprze\u0107, by poczu\u0107 si\u0119 lepiej w niepewnym \u015bwiecie. Jeste\u015bmy pod tym wzgl\u0119dem podobni bardziej do bezwolnego ludu, kt\u00f3remu pan (ewentualnie proboszcz) m\u00f3wi, co ma my\u015ble\u0107 i jak \u017cy\u0107 ni\u017c nie do wolnego i \u015bwiadomego narodu.\n\nWesprzyj nas ju\u017c teraz! 25 z\u0142 50 z\u0142 100 z\u0142 Wspieram\n\nI tak \u2013 list\u0119 wad przysz\u0142ego prezydenta przygotowa\u0142a nam ABW, szko\u0142a zdj\u0119\u0142a z nas obowi\u0105zek podj\u0119cia z dzie\u0107mi \u201etrudnych temat\u00f3w\u201d zwi\u0105zanych ze sfer\u0105 intymn\u0105, a rozmaite o\u015brodki \u201eeksperckie\u201d, operuj\u0105ce specjalistycznym s\u0142ownikiem militarnym, skutecznie uwolni\u0142y nas od samodzielnego my\u015blenia, daj\u0105c niez\u0142omn\u0105 wiar\u0119 w suflowan\u0105 wersj\u0119 wydarze\u0144, nawet je\u017celi nie znalaz\u0142a ona pokrycia w faktach.\n\nDo tego zn\u00f3w s\u0142yszymy, \u017ce niedobra, by Polak kupowa\u0142 alkohol po dwudziestej drugiej\u2026 W\u0142adza uraczy\u0142a nas kolejnym pomys\u0142em, jak zadba\u0107 o nasze \u201edobro\u201d, decyduj\u0105c za nas, kiedy i gdzie b\u0119dziemy kupowali alkohol. Ka\u017cdy, kto u\u017cywa\u0142 w tej sprawie rozumu i zdrowego rozs\u0105dku by\u0142 atakowany, jak cho\u0107by red. \u0141ukasz Warzecha, kt\u00f3remu oberwa\u0142o si\u0119 i za alkohol i za to, \u017ce skrytykowa\u0142 donosicielstwo przy okazji parkowania samochod\u00f3w na blokowisku.\n\nDlaczego boimy si\u0119 odpowiedzialno\u015bci? Aby odpowiedzie\u0107 na to pytanie, postanowi\u0142em wyj\u015b\u0107 poza kr\u0105g temat\u00f3w politycznych i si\u0119gn\u0105\u0107 po przyk\u0142ady bli\u017csze i bardziej przyziemne. Wrzesie\u0144 AD 2025 obfitowa\u0142 dla mnie w konfrontacje nie tylko w temacie edukacji seksualnej i uwa\u017cam, \u017ce te przyk\u0142ady z dziennego \u017cycia s\u0105 wa\u017cne, bo pokazuj\u0105, jak g\u0142\u0119boko nasza mentalno\u015b\u0107 zosta\u0142a przeorana przez b\u0142\u0119dy etatyzmu i pozytywizmu prawnego.\n\nSystem faworyzuje konfident\u00f3w\n\nSpokojne wrze\u015bniowe popo\u0142udnie. Wracam sobie z pracy i nagle na w\u0105skiej dr\u00f3\u017cce wiejskiego osiedla wyrasta przede mn\u0105\u2026 rowerzysta. Jedzie \u015brodkiem drogi i zatrzymuje ruch. Czekam \u2013 nie zje\u017cd\u017ca. Podje\u017cd\u017cam troch\u0119 bli\u017cej \u2013 nie zje\u017cd\u017ca. Tr\u0105bi\u0119 \u2013 nie zje\u017cd\u017ca. Krzycz\u0119, \u017ceby si\u0119 przesun\u0105\u0142 \u2013 nie ma odzewu. No to w ko\u0144cu nie wytrzyma\u0142em, korzystaj\u0105c z kawa\u0142ka przecznicy, wyprzedzi\u0142em delikwenta, zajecha\u0142em mu drog\u0119 i podj\u0105\u0142em pr\u00f3b\u0119 wydobycia z niego, co nim kierowa\u0142o, kiedy jecha\u0142 \u015brodkiem drogi, tamuj\u0105c ruch.\n\nNie ma sensu przytacza\u0107 ca\u0142ej rozmowy, wa\u017cna jest bowiem istota pogl\u0105du mojego adwersarza. Ot\u00f3\u017c, prosz\u0119 sobie wyobrazi\u0107, \u017ce jecha\u0142 on \u015brodkiem drogi, poniewa\u017c\u2026 \u201eMIA\u0141 PRAWO\u201d, a ja jako kierowca mia\u0142em\u2026 \u201eOBOWI\u0104ZEK\u201d jecha\u0107 za nim i nie jest to zatrzymywanie ruchu, bo\u2026 \u201eCzy zna pan definicj\u0119 zatrzymania ruchu?\u201d. Po czym zagrozi\u0142 mi donosem na policj\u0119, a na ko\u0144cu mia\u0142 pretensje (jak typowy \u201ep\u0142atek \u015bniegu\u201d), \u017ce\u2026 nazwa\u0142em go konfidentem. Zgodnie z prawd\u0105.\n\nW ka\u017cdym razie nie pomog\u0142y \u017cadne argumenty. Ani to, \u017ce on jedzie 10 na godzin\u0119, a ja mam prawo jecha\u0107 szybciej, wi\u0119c ze zwyk\u0142ej uprzejmo\u015bci m\u00f3g\u0142by nawet zatrzyma\u0107 si\u0119 na moment i mnie pu\u015bci\u0107. Ani to, \u017ce krety\u0144ski przepis napisany przez urz\u0119dnika za biurkiem (kt\u00f3ry pewnie nigdy nie postawi\u0142 stopy na naszym osiedlu) nie uprawnia go do zwyk\u0142ego chamstwa, jakim jest uniemo\u017cliwianie innym poruszania si\u0119 po drodze. Ani to, \u017ce poza przepisami istnieje jeszcze co\u015b takiego, jak prawo obyczajowe, kt\u00f3re reguluje stosunki mi\u0119dzyludzkie w ma\u0142ej spo\u0142eczno\u015bci. Nie dociera\u0142o nic. Odpowied\u017a by\u0142a jednoznaczna: ROBI\u0118 I B\u0118D\u0118 ROBI\u0141 RESZCIE SPO\u0141ECZE\u0143STWA NA Z\u0141O\u015a\u0106\u2026 BO MOG\u0118. TAK MI DOPOM\u00d3\u017b, OPIEKU\u0143CZA W\u0141ADZUCHNO I POWSZECHNA POLAKA DO POLAKA POGARDO.\n\nI druga sytuacja. Miejscowo\u015b\u0107 gminna. Ma\u0142a spo\u0142eczno\u015b\u0107, w kt\u00f3rej wszyscy si\u0119 znaj\u0105 i nikt nikomu nie wchodzi w drog\u0119. Podje\u017cd\u017cam z dzie\u0107mi do apteki odebra\u0107 leki dla ci\u0119\u017carnej \u017cony. Wszystkie miejsca zaj\u0119te. Parkuj\u0119 wi\u0119c na chwil\u0119 na chodniku. Tak robi\u0105 wszyscy i nikomu to nie przeszkadza. No, prawie nikomu. Bo, niestety, w gminie pojawia si\u0119 coraz wi\u0119cej elementu nap\u0142ywowego z Krakowa, kt\u00f3ry pr\u00f3buje wprowadza\u0107 wielkomiejskie \u201eobyczaje\u201d\u2026\n\nPodje\u017cd\u017ca br\u0105zowa Dacia z pomara\u0144czowym kogutem na dachu (c\u00f3\u017c to za kogut, nie wiem). Szyba schodzi w d\u00f3\u0142: \u201eProsz\u0119 przestawi\u0107 samoch\u00f3d, bo\u2026 tutaj SI\u0118 [sic!] nie parkuje\u201d. \u201ePrzestawi\u0119, jak za\u0142atwi\u0119 sprawy\u201d \u2013 spokojnie odpowiadam. I w tym momencie ju\u017c bez ogr\u00f3dek i \u017cadnej \u201egry wst\u0119pnej\u201d s\u0142ysz\u0119\u2026 gro\u017cenie donosem na policj\u0119. Tak, na wsi. W ma\u0142ej, przyjaznej spo\u0142eczno\u015bci. Na chwil\u0119 mnie zatka\u0142o i stoj\u0119 jak wryty, po czym \u2013 co wi\u0119cej mog\u0119 zrobi\u0107? \u2013 nazywam konfidenta konfidentem. Konfident odje\u017cd\u017ca, a mnie spotyka szcz\u0119\u015bcie w nieszcz\u0119\u015bciu: s\u0142ysz\u0119 \u015bmiech\u2026 z dachu. Okazuje si\u0119, \u017ce robotnicy prowadz\u0105cy prace na wysoko\u015bci byli \u015bwiadkami zdarzenia i jeden z nich odzywa si\u0119: \u201eMy\u015bli, \u017ce ma pomara\u0144czowego koguta, to jest z milicji\u201d. Tak prosty cz\u0142owiek pracy daje \u015bwiadectwo normalno\u015bci i zrozumienia, \u017ce B\u00f3g da\u0142 cz\u0142owiekowi panowanie nad \u015bwiatem, by sam, bez pomocy urz\u0119dnik\u00f3w, urz\u0105dza\u0142 swoj\u0105 najbli\u017csz\u0105 rzeczywisto\u015b\u0107.\n\nTo jest wojna cywilizacji, kt\u00f3rej nie wolno nam zbagatelizowa\u0107, je\u017celi nie chcemy stoczy\u0107 si\u0119 do poziomu zamordyzmu, jaki panuje w krajach skandynawskich. Z jednej strony mamy cywilizacj\u0119 klasyczn\u0105, \u0142aci\u0144sk\u0105, zachodni\u0105 \u2013 opart\u0105 na poszanowaniu dla obiektywnej rzeczywisto\u015bci z jej niezmiennymi prawami oraz na rozs\u0105dku prawa rzymskiego; z drugiej \u2013 post-rewolucyjne, wywodz\u0105ce si\u0119 z XIX-wiecznego etatyzmu i zakute w dyby pozytywizmu prawniczego, barbarzy\u0144stwo. Dla przedstawicieli tego drugiego nurtu nie istnieje co\u015b takiego, jak samodzielne decydowanie o kszta\u0142cie otaczaj\u0105cego nas \u015bwiata, nie istnieje \u017caden porz\u0105dek naturalny wyprzedzaj\u0105cy uroszczenia w\u0142adzy do ingerowania w ka\u017cd\u0105 dziedzin\u0119 naszego \u017cycia. Miar\u0105 tego, co dobre i z\u0142e, nie jest prawo naturalne, lecz przepisy pisane przez biurokrat\u00f3w. Przepisy, nad s\u0142uszno\u015bci\u0105 kt\u00f3rych nie wolno si\u0119 zastanawia\u0107. One s\u0105 i maj\u0105 by\u0107: absolutne i niepodwa\u017calne.\n\nO ile nie zaczniemy reagowa\u0107 i d\u0105\u017cy\u0107 do zmiany kultury prawnej, to system III RP na naszych oczach wyprodukuje kolejne pokolenia donosicieli. Nawet je\u017celi nie b\u0119d\u0105 to donosiciele post-peerelowscy, to niewielkie to pocieszenie \u2013 mamy wszak nowe \u201ewzorce\u201d w Skandynawii czy Szwajcarii, gdzie (autentyczna historia) s\u0105siad potrafi donie\u015b\u0107 na s\u0105siada, poniewa\u017c ten przejecha\u0142 pi\u0119tna\u015bcie metr\u00f3w \u201epod pr\u0105d\u201d, by dosta\u0107 si\u0119 szybciej do domu po pustej wiejskiej drodze. I to jeszcze nie jest najgorsze, bo na ko\u0144cu okazuje si\u0119, \u017ce ten, na kt\u00f3rego zrobiono donos\u2026 nie ma pretensji. Bo\u2026 \u201eprzecie\u017c z\u0142ama\u0142 przepisy\u201d.\n\nCentrum Terapii i Mediacji \u201eSO\u0141TYS\u201d\u2026?\n\nCzy zastanawiali si\u0119 Pa\u0144stwo po co istnieje urz\u0105d so\u0142tysa? Wed\u0142ug ustawy o samorz\u0105dzie gminnym jest on organem w\u0142adzy wykonawczej we wsi i jako taki ma wdra\u017ca\u0107 postanowienia zebrania wiejskiego, dba\u0107 o mienie so\u0142eckie i prowadzi\u0107 w imieniu wsi kontakty z w\u0142adzami gminy. Mo\u017ce wi\u0119c na przyk\u0142ad nadzorowa\u0107 inwestycj\u0119 w boisko albo plac zabaw albo zabiega\u0107 o to, by gmina raczy\u0142a przekaza\u0107 pieni\u0105dze na kanalizacj\u0119 i asfalt we wsi.\n\nTyle teoria. A praktyka? Tu zn\u00f3w historia autentyczna: do so\u0142tysa przychodzi mieszkaniec wsi i sk\u0142ada skarg\u0119 na s\u0105siada o to, \u017ce\u2026 jego pies zrobi\u0142 mu kup\u0119 pod bram\u0105. Co wi\u0119c zrobi\u0142 so\u0142tys? Postanowi\u0142 z poczuciem humoru sprowadzi\u0107 spraw\u0119 do absurdu. Poszed\u0142 z miote\u0142k\u0105 i szufelk\u0105 pod dom \u201eposzkodowanego\u201d obywatela i zapyta\u0142, czy ma posprz\u0105ta\u0107. Obywatel na to: \u201eNo, chyba pan sobie \u017carty robi\u201d. \u201eNie, to pan sobie \u017carty robi\u201d \u2013 celnie skwitowa\u0142 so\u0142tys.\n\nBy\u0142aby to jedynie zabawna osobliwo\u015b\u0107, gdybym nie s\u0142ysza\u0142 ilu\u015b podobnych opowie\u015bci od naszego (by\u0142ego ju\u017c) so\u0142tysa. I jestem przekonany, \u017ce problem jest znacznie powa\u017cniejszy i nie rozwi\u0105\u017ce go skserowanie i rozdanie mieszka\u0144com artyku\u0142u 36 Ustawy o samorz\u0105dzie gminnym\u2026\n\nPodam inny przyk\u0142ad. Gdy wprowadzili\u015bmy si\u0119 na wie\u015b, poprzednia w\u0142a\u015bcicielka domu nie raczy\u0142a nas poinformowa\u0107, \u017ce wyprowadzi\u0142a na lewo rur\u0119 z szamba do rowu. W pewnym momencie wychodzimy z domu i na ustach zastyga nam pytanie: \u201eCo tak \u015bmierdzi?\u201d. By\u0142a to dla nas zagadka. Ale nie dla naszych s\u0105siad\u00f3w! Oni dobrze wiedzieli, \u017ce taki proceder by\u0142 praktykowany przez wielu mieszka\u0144c\u00f3w. I co zrobili? Przyszli do nas, by powiedzie\u0107, co si\u0119 dzieje? Bynajmniej! Ot\u00f3\u017c, nagle od so\u0142tysa, a potem ju\u017c formalnie z gminy, dowiedzieli\u015bmy si\u0119, \u017ce wp\u0142ywaj\u0105 na nas donosy w zwi\u0105zku z szambem.\n\nBo po co, prosz\u0119 Pa\u0144stwa, przyj\u015b\u0107 do s\u0105siada i powiedzie\u0107: \u201eMa pan problem z szambem, mo\u017ce potrzebuje pan pomocy\u201d? Nie. Lepiej zrobi\u0107 donos! Tym bardziej, \u017ce \u00f3w s\u0105siad (czyli ja) jest z urodzenia mieszczuchem i nie ma zielonego poj\u0119cia o obj\u0119to\u015bciach szamba i o tym, jak cz\u0119sto nale\u017cy je opr\u00f3\u017cnia\u0107. Wezwa\u0142em po prostu szambiarza i spokojnie czeka\u0142em, a\u017c si\u0119 zapcha i wezw\u0119 jeszcze raz.\n\nM\u00f3g\u0142bym podawa\u0107 wi\u0119cej przyk\u0142ad\u00f3w, jak ludzie wol\u0105 obgadywa\u0107 s\u0105siad\u00f3w za plecami albo wr\u0119cz donosi\u0107 na nich do w\u0142adz, ewentualnie ucieka\u0107 si\u0119 do mediacji so\u0142tysa, zamiast po prostu wykaza\u0107 si\u0119 minimaln\u0105 odwag\u0105 cywiln\u0105, podej\u015b\u0107 do p\u0142otu i powiedzie\u0107, co im na sercu le\u017cy. My\u015bl\u0119, \u017ce Pa\u0144stwo r\u00f3wnie\u017c s\u0142yszeli albo do\u015bwiadczyli tej tch\u00f3rzliwej postawy.\n\nCzy naprawd\u0119 chcemy \u017cy\u0107 w rzeczywisto\u015bci, w kt\u00f3rej donosicielstwo jest zinstytucjonalizowan\u0105 \u201enorm\u0105\u201d? W kt\u00f3rej cz\u0142owiek zapomina, \u017ce jest sam za siebie odpowiedzialny, a problemy z innymi lud\u017ami powinien rozwi\u0105zywa\u0107 bez po\u015brednik\u00f3w, a ju\u017c na pewno bez po\u015brednika w postaci w\u0142adzy? Czy naprawd\u0119 chcemy utrzyma\u0107 w sobie przekonanie, \u017ce przedstawiciel w\u0142adzy wykonawczej we wsi jest jednocze\u015bnie psychologiem, terapeut\u0105 i mediatorem? Je\u017celi kto\u015b tak uwa\u017ca, to powinien jako pierwszy za\u0142o\u017cy\u0107 fundusz na dodatek psychologiczny dla so\u0142tysa i zach\u0119ca\u0107 innych do regularnych wp\u0142at.\n\nDom wariat\u00f3w?\n\nGdy o tym pisz\u0119, przypomina mi si\u0119 doskona\u0142y motyw z kultowego niegdy\u015b serialu Przystanek Alaska. W jednym z odcink\u00f3w rada miejska z inspiracji post\u0119powej Maggie O\u2019Connell wysz\u0142a z propozycj\u0105, by wyw\u00f3z \u015bmieci by\u0142 organizowany przez lokaln\u0105 w\u0142adz\u0119. Dotychczas ludzie robili to sami (po to Amerykanom z prowincji pickupy?). I co si\u0119 wydarzy\u0142o? No\u2026 nic si\u0119 nie wydarzy\u0142o. Bo ludzie po prostu na to nie pozwolili. Natychmiast podni\u00f3s\u0142 si\u0119 stanowczy sprzeciw, poniewa\u017c Amerykanin (czytaj: wolny i \u015bwiadomy obywatel) rozumie to, \u017ce je\u017celi powierzy jak\u0105\u015b dziedzin\u0119 swego \u017cycia w\u0142adzy, to w\u0142adza tym ch\u0119tniej si\u0119gnie po kolejne dziedziny, a w ko\u0144cu zacznie uzurpowa\u0107 sobie prawo do dyktowania nam, jak mamy \u017cy\u0107. Dlatego w konserwatywnych ameryka\u0144skich stanach NORMALNO\u015a\u0106 jest wci\u0105\u017c realnym punktem odniesienia.\n\nW normalnej rzeczywisto\u015bci to konfident jest karany (a przynajmniej upominany) za to, \u017ce niszczy standardy \u017cycia spo\u0142ecznego i zawraca g\u0142ow\u0119 policji. W normalnej rzeczywisto\u015bci cz\u0142owiek ceni sobie to, \u017ce jest panem na w\u0142asnej dzia\u0142ce i \u017ce w jego otoczeniu bardziej czu\u0107 wp\u0142yw przekazywanego z pokolenia na pokolenie prawa obyczajowego ni\u017c pisanych za urz\u0119dniczym biurkiem przepis\u00f3w. W normalnej rzeczywisto\u015bci zwyk\u0142a ludzka \u017cyczliwo\u015b\u0107 i my\u015blenie o sobie nawzajem s\u0105 powodem, dla kt\u00f3rego rowerzysta ust\u0119puje miejsca kierowcy samochodu.\n\nPytanie tylko, czy chcemy \u017cy\u0107 normalnie? Je\u017celi tak, to musimy zacz\u0105\u0107 o to walczy\u0107, bo wariat\u00f3w jest wok\u00f3\u0142 nas coraz wi\u0119cej i z uporem godnym lepszej sprawy pr\u00f3buj\u0105 oni wprowadza\u0107 wielkomiejskie zepsucie obyczaj\u00f3w na wie\u015b. Je\u017celi b\u0119dziemy bierni, to sami przyczynimy si\u0119 do ich zwyci\u0119stwa, a o prostej, codziennej normalno\u015bci b\u0119dziemy mogli naszym dzieciom i wnukom jedynie opowiada\u0107 albo pokazywa\u0107 im j\u0105 w starych filmach\u2026\n\nFilip Obara\n\nZobacz tak\u017ce:"
         }
@@ -309,46 +341,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Te dokumenty z czas\u00f3w PRL-u mog\u0105 by\u0107 warte krocie. Koniecznie przeszukaj szuflady",
-            "link": "https://www.biznesinfo.pl/te-dokumenty-z-czasow-prl-u-moga-byc-warte-krocie-koniecznie-przeszukaj-szuflady-jc-wzk-011025",
-            "description": "Cho\u0107 czasy Polskiej Rzeczpospolitej Ludowej dawno min\u0119\u0142y, wci\u0105\u017c w polskich domach zalegaj\u0105 cenne, ale cz\u0119sto zapomniane ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.9qubW_FJug5Q-lOI86NE-y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Gdzie na nordic walking do 77 km od Koszalina. Pomys\u0142y na sportowy dzie\u0144 w weekend 4 - 5 pa\u017adziernika",
+            "link": "https://koszalin.naszemiasto.pl/gdzie-na-nordic-walking-do-77-km-od-koszalina-pomysly-na-sportowy-dzien-w-weekend-4-5-pazdziernika/ar/c7p1-22318903",
+            "description": "Zauroczeni w\u0119dr\u00f3wkami przez piaszczyste g\u00f3ry wybrze\u017ca, tym razem wyruszyli\u015bmy na spotkanie z madwinami rozci\u0105gaj\u0105cymi si\u0119 mi\u0119dzy Rowami a Czo\u0142pinem. 23,5 kilometrowa trasa pozwoli\u0142a zobaczy\u0107 ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.2lnLIQe5bnM9ixvXVTSDQg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "BiznesINFO.pl18 godz.",
-            "source": "BiznesINFO.pl",
-            "article_content": "Te dokumenty z czas\u00f3w PRL-u mog\u0105 by\u0107 warte krocie. Koniecznie przeszukaj szuflady\n\nCho\u0107 czasy Polskiej Rzeczpospolitej Ludowej dawno min\u0119\u0142y, wci\u0105\u017c w polskich domach zalegaj\u0105 cenne, ale cz\u0119sto zapomniane dokumenty, kt\u00f3re mog\u0105 by\u0107 warte niema\u0142e pieni\u0105dze. Te relikty przesz\u0142o\u015bci mog\u0105 zapewni\u0107 sowite wsparcie finansowe, o ile ich posiadacze spe\u0142ni\u0105 szereg warunk\u00f3w.\n\nTen niepozorny dokument mo\u017ce by\u0107 skarbnic\u0105\n\nKsi\u0105\u017ceczka mieszkaniowa to jeden z najbardziej powszechnych relikt\u00f3w PRL-u, kt\u00f3ry \u2013 wbrew pozorom \u2013 nie jest jedynie pami\u0105tk\u0105. Mo\u017ce ona stanowi\u0107 cenne wsparcie przy realizacji cel\u00f3w mieszkaniowych, a jej warto\u015b\u0107 si\u0119ga nawet 16 000 z\u0142otych. \u015arednia wysoko\u015b\u0107 wyp\u0142acanej premii gwarancyjnej, wed\u0142ug danych z I p\u00f3\u0142rocza jednego z ostatnich lat, to oko\u0142o 19 000 z\u0142.\n\nFot. Arkadiusz Ziolek/East News\n\nTrzeba jednak pami\u0119ta\u0107, \u017ce mowa tu o premii gwarancyjnej (rekompensacie finansowanej z bud\u017cetu pa\u0144stwa) przys\u0142uguj\u0105cej posiadaczom ksi\u0105\u017ceczek za\u0142o\u017conych do 23 pa\u017adziernika 1990 roku, kt\u00f3ra ma zrekompensowa\u0107 utrat\u0119 realnej warto\u015bci oszcz\u0119dno\u015bci w wyniku inflacji. Kwota ta nie jest sta\u0142a; zale\u017cy od wysoko\u015bci dokonanych wp\u0142at, ceny metra kwadratowego powierzchni u\u017cytkowej lokalu mieszkalnego w momencie wp\u0142aty i tu\u017c przed z\u0142o\u017ceniem wniosku o likwidacj\u0119 ksi\u0105\u017ceczki. Warto jednak wiedzie\u0107, \u017ce sam fakt posiadania takiego dokumentu, to dopiero pocz\u0105tek drogi do uzyskania funduszy.\n\nJak zdoby\u0107 \u015brodki za ksi\u0105\u017ceczk\u0119 mieszkaniow\u0105?\n\nK\u0142opot w tym, \u017ce wk\u0142adu i premii gwarancyjnej nie dostaniemy jako got\u00f3wki \"do r\u0119ki\". Bank wyp\u0142aci \u015brodki wy\u0142\u0105cznie jako wsparcie konkretnej inwestycji mieszkaniowej. Lista cel\u00f3w, kt\u00f3re uprawniaj\u0105 do wyp\u0142aty premii jest \u015bci\u015ble okre\u015blona ustaw\u0105 i obejmuje mi\u0119dzy innymi: uzyskanie sp\u00f3\u0142dzielczego prawa do lokalu, nabycie w\u0142asno\u015bci mieszkania lub domu, budow\u0119 w\u0142asnego domu jednorodzinnego, przebudow\u0119 lub rozbudow\u0119 budynku mieszkalnego (np. uzyskanie odr\u0119bnej w\u0142asno\u015bci lokalu powsta\u0142ego w drodze przebudowy), ca\u0142kowit\u0105 sp\u0142at\u0119 kredytu obci\u0105\u017caj\u0105cego lokal oraz dokonanie wp\u0142aty na partycypacj\u0119 w TBS. Co ciekawe, od 2021 roku katalog uprawniaj\u0105cych czynno\u015bci zosta\u0142 rozszerzony o wydatki na termomodernizacj\u0119 mieszkania lub domu (o warto\u015bci co najmniej 6 tys. z\u0142) oraz pokrycie op\u0142aty z tytu\u0142u przekszta\u0142cenia prawa u\u017cytkowania wieczystego gruntu w prawo w\u0142asno\u015bci przez co najmniej 5 lat.\n\nPomimo atrakcyjnej \u015bredniej kwoty premii gwarancyjnej, wielu Polak\u00f3w (szacuje si\u0119, \u017ce nawet milion os\u00f3b, kt\u00f3rych ksi\u0105\u017ceczki nie zosta\u0142y zlikwidowane) nadal nie skorzysta\u0142o z tego uprawnienia. Biuro Rzecznika Praw Obywatelskich zwraca uwag\u0119, \u017ce nie jest \u0142atwo spe\u0142ni\u0107 warunki \u015bci\u015ble okre\u015blone w ustawie. Ponadto, od 19 stycznia 2021 roku wprowadzono obowi\u0105zek rejestracji ksi\u0105\u017ceczki w banku prowadz\u0105cym jej obs\u0142ug\u0119, a brak rejestracji np. do ko\u0144ca 2022 roku skutkowa\u0142 niemo\u017cno\u015bci\u0105 natychmiastowej likwidacji. Pieni\u0105dze mo\u017cna wyp\u0142aci\u0107 dopiero od 1 stycznia roku nast\u0119puj\u0105cego po roku rejestracji i dokonania czynno\u015bci uprawniaj\u0105cej do premii, a wniosek o likwidacj\u0119 nale\u017cy z\u0142o\u017cy\u0107 w terminie 90 dni od dnia dokonania czynno\u015bci uprawniaj\u0105cej do premii. Osoby, kt\u00f3re nie dope\u0142ni\u0142y tego obowi\u0105zku i z\u0142o\u017c\u0105 wniosek o wyp\u0142at\u0119 teraz, mog\u0105 liczy\u0107 na pieni\u0105dze dopiero w kolejnym roku. Z problemami mierz\u0105 si\u0119 posiadacze r\u00f3wnie\u017c innego dokumentu, kt\u00f3ry w za\u0142o\u017ceniu mia\u0142 zapewni\u0107 przyp\u0142yw got\u00f3wki.\n\nZobacz te\u017c: Przylecia\u0142 do Krakowa z Dubaju. Trudno uwierzy\u0107, co przewozi\u0142 w baga\u017cu. Grozi mu kara grzywny\n\nRz\u0105d chce wygasi\u0107 program, z kt\u00f3rego korzysta\u0142o wielu Polak\u00f3w\n\nKsi\u0105\u017ceczki mieszkaniowe nie s\u0105 jedynymi dokumentami z czas\u00f3w PRL-u, kt\u00f3re mog\u0105 mie\u0107 dzi\u015b realn\u0105 warto\u015b\u0107. Warto przeszuka\u0107 szuflady tak\u017ce w poszukiwaniu bon\u00f3w samochodowych. Bony te, a w\u0142a\u015bciwie przedp\u0142aty na popularnego Fiata 126p (tzw. \u201eMalucha\u201d), r\u00f3wnie\u017c dotkn\u0119\u0142a hiperinflacja. Osoby, kt\u00f3re w okresie PRL-u dokona\u0142y wp\u0142aty na zakup pojazdu, lecz go nie otrzyma\u0142y, maj\u0105 prawo do rekompensaty finansowej. Cho\u0107 temat Fiata nie jest ju\u017c tak medialny jak ksi\u0105\u017ceczki mieszkaniowe, to i w tym przypadku rz\u0105d zamierza wygasi\u0107 program. Rekompensata za nieodebrane pojazdy jest wyp\u0142acana na podstawie warto\u015bci rynkowej samochodu z dnia zawarcia umowy oraz wp\u0142aconej kwoty. W\u0142a\u015bciciele takich bon\u00f3w mog\u0105 liczy\u0107 na sowite wsparcie, cho\u0107 szczeg\u00f3\u0142y dotycz\u0105ce procedur wyp\u0142aty s\u0105 znacznie mniej nag\u0142o\u015bnione ni\u017c w przypadku ksi\u0105\u017ceczek mieszkaniowych.\n\nWracaj\u0105c do ksi\u0105\u017ceczek, Ministerstwo Rozwoju i Technologii (MRiT) na bie\u017c\u0105co monitoruje tempo ich likwidacji i rozwa\u017ca r\u00f3\u017cne propozycje dzia\u0142a\u0144. Resort, odpowiadaj\u0105c na interwencje Rzecznika Praw Obywatelskich, kt\u00f3ry zwraca uwag\u0119 na nierozwi\u0105zany problem znacz\u0105cej grupy posiadaczy nie mog\u0105cych skorzysta\u0107 z premii, przyznaje, \u017ce ka\u017cda zmiana b\u0119dzie wymaga\u0107 pog\u0142\u0119bionej analizy ze wzgl\u0119du na wp\u0142yw na wydatki bud\u017cetu pa\u0144stwa oraz kwestie spo\u0142eczne. Niska liczba faktycznie zlikwidowanych ksi\u0105\u017ceczek (w 2022 roku by\u0142o to 9174 sztuk) w stosunku do miliona potencjalnych beneficjent\u00f3w sk\u0142ania do my\u015blenia o konieczno\u015bci przyspieszenia realizacji procesu likwidacji. W 2024 roku pojawi\u0142y si\u0119 wzmianki o projektach, kt\u00f3rych celem mia\u0142o by\u0107 ca\u0142o\u015bciowe wygaszenie programu ksi\u0105\u017ceczek mieszkaniowych, cho\u0107 na chwil\u0119 obecn\u0105 nie wesz\u0142y one w \u017cycie i pozostaj\u0105 w sferze analiz."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Trasy na rower do 1 km od Jaworzna. Podpowiadamy pomys\u0142y na wypraw\u0119. Gdzie w weekend 4 - 5 pa\u017adziernika?",
-            "link": "https://jaworzno.naszemiasto.pl/trasy-na-rower-do-1-km-od-jaworzna-podpowiadamy-pomysly-na-wyprawe-gdzie-w-weekend-4-5-pazdziernika/ar/c7p1-21831473",
-            "description": "Zanim wyruszysz w drog\u0119, sprawd\u017a, jaka b\u0119dzie pogoda. W sobot\u0119 04 pa\u017adziernika w Jaworznie ma by\u0107 12\u00b0C. Prawdopodobie\u0144stwo ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.HTEvELHu8LuqE8VKma_tji&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "Jaworzno Nasze Miasto23 godz.",
-            "source": "Jaworzno Nasze Miasto",
+            "date": "Koszalin Nasze Miasto1 godz.",
+            "source": "Koszalin Nasze Miasto",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Podziemia Starego Miasta w O\u015bwi\u0119cimiu. Kryj\u0105 wiele tajemnic. Tylko cz\u0119\u015b\u0107 jest udost\u0119pnionych do zwiedzania",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/podziemia-starego-miasta-w-o%C5%9Bwi%C4%99cimiu-kryj%C4%85-wiele-tajemnic-tylko-cz%C4%99%C5%9B%C4%87-jest-udost%C4%99pnionych-do-zwiedzania/ar-AA1NpmPC?ocid=BingNewsVerp",
-            "description": "Podziemia Starego Miasta w O\u015bwi\u0119cimiu kryj\u0105 jeszcze wiele tajemnic. Kr\u0105\u017c\u0105 o nich r\u00f3\u017cne opowie\u015bci i legendy. Tylko cz\u0119\u015b\u0107 jest ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.k3ImpFMjh3YX3KGd6Zpkii&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "Gazeta Krakowska on MSN22 godz.",
-            "source": "Gazeta Krakowska on MSN",
-            "article_content": ""
         }
     },
     {
@@ -362,7 +362,7 @@
             "description": "G\u00f3rzno, ma\u0142e miasteczko w powiecie brodnickim, zamieszkane przez kilka tysi\u0119cy os\u00f3b, urzeka zar\u00f3wno swoj\u0105 bogat\u0105 histori\u0105, jak i urokliwym po\u0142o\u017ceniem w otoczeniu jezior i las\u00f3w. Zgodnie z najnowszym r ...",
             "image_url": "https://www.bing.pl/th?id=ODF.YuOETPJFXiTOUZLNTGGMIw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Eska Regiony on MSN9 godz.",
+            "date": "Eska Regiony on MSN13 godz.",
             "source": "Eska Regiony on MSN",
             "article_content": ""
         }
@@ -373,14 +373,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "To jest zakazane na balkonie. Niewiele os\u00f3b wie, \u017ce grozi za to mandat 500 z\u0142",
-            "link": "https://nieruchomosci.dziennik.pl/artykuly/9933435,to-jest-zakazane-na-balkonie-niewiele-osob-wie-ze-grozi-za-to-mandat.html",
-            "description": "Balkon \u2013 miejsce relaksu, miniogr\u00f3d, strefa \u015bwie\u017cego powietrza w mieszkaniu \u2013 wydaje si\u0119 stref\u0105 prywatn\u0105, w kt\u00f3rej mo\u017cna ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.WLL8N1TskJ1Bc3PPzx2gsC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Ruiny zamku w Szubinie wypi\u0119kniej\u0105 za milion z\u0142otych! Tak wygl\u0105da atrakcja w Grodzie Pelikana",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/ruiny-zamku-w-szubinie-wypi%C4%99kniej%C4%85-za-milion-z%C5%82otych-tak-wygl%C4%85da-atrakcja-w-grodzie-pelikana/ar-AA1NvieV?ocid=BingNewsVerp",
+            "description": "Pi\u0119\u0107 lat temu ruiny zamku w Szubinie przesz\u0142y kapitaln\u0105 rewitalizacj\u0119, by ch\u0119tniej zachodzili tu mieszka\u0144cy i tury\u015bci ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.hzJ2lX96EGUyUHSR8PD5aS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Nieruchomo\u015bci - Dziennik.pl19 min",
-            "source": "Nieruchomo\u015bci - Dziennik.pl",
-            "article_content": "Grillowanie - co m\u00f3wi na ten temat prawo?\n\nFormalnie polskie prawo nie zawiera jednoznacznego zakazu grillowania na balkonie. Jednak u\u017cycie tradycyjnego grilla w\u0119glowego (gdzie pojawiaj\u0105 si\u0119 otwarte p\u0142omienie, iskry i dym) bywa uznane za stwarzanie zagro\u017cenia przeciwpo\u017carowego lub naruszenie porz\u0105dku s\u0105siedzkiego. W dodatku wiele regulamin\u00f3w wsp\u00f3lnot mieszkaniowych lub sp\u00f3\u0142dzielni zabrania grilla na balkonie \u2013 i takie postanowienia s\u0105 wi\u0105\u017c\u0105ce dla mieszka\u0144c\u00f3w.\n\nReklama\n\nJakie kary mog\u0105 grozi\u0107 za grillowanie na balkonie?\n\nJe\u017celi dym lub zapachy grillowanego jedzenia przenikaj\u0105 do mieszka\u0144 s\u0105siad\u00f3w i zak\u0142\u00f3caj\u0105 ich komfort \u2013 mo\u017cna zosta\u0107 ukaranym mandatem do 500 z\u0142 ze wzgl\u0119du na naruszenie porz\u0105dku lub regu\u0142y immisji (Kodeks wykrocze\u0144).\n\nW przypadku, gdy grill powoduje po\u017car albo ogie\u0144 rozprzestrzenia si\u0119 poza balkon \u2013 mo\u017ce by\u0107 wszcz\u0119te post\u0119powanie karne, a gro\u017aba kary to nawet pozbawienie wolno\u015bci.\n\nCi\u0119\u017ckie donice, kwiaty, podlewanie \u2013 nie wszystko wolno\n\nCi\u0119\u017ckie donice wieszane na balustradach balkonu (na zewn\u0105trz) bywaj\u0105 problematyczne \u2014 wiatr, drgania czy niew\u0142a\u015bciwa konstrukcja mog\u0105 spowodowa\u0107, \u017ce donica spadnie i narazi przechodnia na obra\u017cenia. W takiej sytuacji mo\u017cna otrzyma\u0107 mandat w wysoko\u015bci do 500 z\u0142 lub kar\u0119 nagany.\n\nPodlewanie ro\u015blin bez nale\u017cytej ostro\u017cno\u015bci, wylewanie nadmiaru wody czy pozwolenie, by krople spada\u0142y na balkon poni\u017cej, to kolejne zagro\u017cenia. Mo\u017cna w\u00f3wczas ponie\u015b\u0107 odpowiedzialno\u015b\u0107 finansow\u0105 (do 500 z\u0142) lub by\u0107 poci\u0105gni\u0119tym do odpowiedzialno\u015bci, je\u015bli szkody s\u0105 powa\u017cne.\n\nPrzechowywanie substancji niebezpiecznych\n\nReklama\n\nNa balkonie nie mo\u017cna przechowywa\u0107 rzeczy \u0142atwopalnych lub niebezpiecznych \u2014 np. butli z gazem, kanistr\u00f3w z paliwem, rozpuszczalnik\u00f3w, farb agresywnych chemicznie, petard. Takie przechowywanie mo\u017ce prowadzi\u0107 do odpowiedzialno\u015bci karnej lub grzywny, zw\u0142aszcza gdy stwarza ryzyko po\u017caru lub wybuchu.\n\nHa\u0142as, imprezy, nago\u015b\u0107\n\nCisza nocna i porz\u0105dek publiczny\n\nCisza nocna obowi\u0105zuje tak\u017ce na balkonach \u2013 z regu\u0142y od godziny 22:00 do 6:00 (czasem inaczej w zale\u017cno\u015bci od lokalnych regulacji). G\u0142o\u015bna muzyka, ha\u0142a\u015bliwe rozmowy, imprezy balkonowe mog\u0105 skutkowa\u0107 mandatem do 500 z\u0142 lub interwencj\u0105 policji.\n\nOpalanie si\u0119 i nago\u015b\u0107 \u2013 kiedy staje si\u0119 wykroczeniem\n\nOpalanie si\u0119 na balkonie generalnie nie jest zabronione. Jednak opalanie topless lub ca\u0142kowita nago\u015b\u0107 mo\u017ce zosta\u0107 uznane za nieobyczajny wybryk i naruszenie porz\u0105dku publicznego. W takim przypadku mandaty si\u0119gaj\u0105 nawet 1 500 z\u0142.\n\n\u015amiecenie, trzepanie dywan\u00f3w, samowolne prace\n\nTak\u017ce wyrzucanie \u015bmieci lub innych przedmiot\u00f3w przez balkon jest traktowane jako \u015bmiecenie za kt\u00f3re grozi mandat do 500 z\u0142. Trzepanie dywan\u00f3w nie mo\u017ce powodowa\u0107 za\u015bmiecania przestrzeni pod balkonem lub dla s\u0105siad\u00f3w.\n\nZ kolei samowolna zabudowa balkonu czy malowanie zewn\u0119trznych element\u00f3w elewacji cz\u0119sto wymaga formalnej zgody wsp\u00f3lnoty, sp\u00f3\u0142dzielni lub urz\u0119du (w przypadku budynk\u00f3w zabytkowych). Bez takiej zgody mo\u017cna narazi\u0107 si\u0119 na problemy prawne."
+            "date": "Gazeta Pomorska on MSN2 godz.",
+            "source": "Gazeta Pomorska on MSN",
+            "article_content": ""
         }
     },
     {
@@ -394,7 +394,7 @@
             "description": "Ju\u017c 21 czerwca 2025 roku Wroc\u0142aw stanie si\u0119 aren\u0105 niezwyk\u0142ego wydarzenia \u2013 charytatywnej wyprawy Positive Ways. Na Pergoli ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.-hbElLTfT5ufTMBp1lCNPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Wroc\u0142awska4 godz.",
+            "date": "Gazeta Wroc\u0142awska8 godz.",
             "source": "Gazeta Wroc\u0142awska",
             "article_content": "Content not available"
         }
@@ -410,7 +410,7 @@
             "description": "Odkryj ulic\u0119 Colon w Cebu \u2013 najstarsz\u0105 ulic\u0119 na Filipinach. Poznaj lokalny klimat, zabytkowe budynki i codzienne \u017cycie tej wyj\u0105tkowej cz\u0119\u015bci miasta.",
             "image_url": "https://www.bing.plNo image",
             "category": "zabytkowe+przedmioty",
-            "date": "Wanderlust Travel Videos on MSN3 godz.",
+            "date": "Wanderlust Travel Videos on MSN7 godz.",
             "source": "Wanderlust Travel Videos on MSN",
             "article_content": ""
         }
@@ -421,14 +421,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Kiedy b\u0119dzie pada\u0107",
-            "link": "https://wloclawek.naszemiasto.pl/tag/kiedy-bedzie-padac",
-            "description": "Susza w Polsce mo\u017ce si\u0119 okaza\u0107 kolejnym powa\u017cnym kryzysem, na kt\u00f3ry b\u0119dziemy potrzebowali sporych nak\u0142ad\u00f3w finansowych.",
-            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "To jest zakazane na balkonie. Niewiele os\u00f3b wie, \u017ce grozi za to mandat 500 z\u0142",
+            "link": "https://nieruchomosci.dziennik.pl/artykuly/9933435,to-jest-zakazane-na-balkonie-niewiele-osob-wie-ze-grozi-za-to-mandat.html",
+            "description": "Balkon \u2013 miejsce relaksu, miniogr\u00f3d, strefa \u015bwie\u017cego powietrza w mieszkaniu \u2013 wydaje si\u0119 stref\u0105 prywatn\u0105, w kt\u00f3rej mo\u017cna ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.WLL8N1TskJ1Bc3PPzx2gsC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "W\u0142oc\u0142awek Nasze Miasto1 godz.",
-            "source": "W\u0142oc\u0142awek Nasze Miasto",
-            "article_content": "Content not available"
+            "date": "Nieruchomo\u015bci - Dziennik.pl4 godz.",
+            "source": "Nieruchomo\u015bci - Dziennik.pl",
+            "article_content": "Grillowanie - co m\u00f3wi na ten temat prawo?\n\nFormalnie polskie prawo nie zawiera jednoznacznego zakazu grillowania na balkonie. Jednak u\u017cycie tradycyjnego grilla w\u0119glowego (gdzie pojawiaj\u0105 si\u0119 otwarte p\u0142omienie, iskry i dym) bywa uznane za stwarzanie zagro\u017cenia przeciwpo\u017carowego lub naruszenie porz\u0105dku s\u0105siedzkiego. W dodatku wiele regulamin\u00f3w wsp\u00f3lnot mieszkaniowych lub sp\u00f3\u0142dzielni zabrania grilla na balkonie \u2013 i takie postanowienia s\u0105 wi\u0105\u017c\u0105ce dla mieszka\u0144c\u00f3w.\n\nReklama\n\nJakie kary mog\u0105 grozi\u0107 za grillowanie na balkonie?\n\nJe\u017celi dym lub zapachy grillowanego jedzenia przenikaj\u0105 do mieszka\u0144 s\u0105siad\u00f3w i zak\u0142\u00f3caj\u0105 ich komfort \u2013 mo\u017cna zosta\u0107 ukaranym mandatem do 500 z\u0142 ze wzgl\u0119du na naruszenie porz\u0105dku lub regu\u0142y immisji (Kodeks wykrocze\u0144).\n\nW przypadku, gdy grill powoduje po\u017car albo ogie\u0144 rozprzestrzenia si\u0119 poza balkon \u2013 mo\u017ce by\u0107 wszcz\u0119te post\u0119powanie karne, a gro\u017aba kary to nawet pozbawienie wolno\u015bci.\n\nCi\u0119\u017ckie donice, kwiaty, podlewanie \u2013 nie wszystko wolno\n\nCi\u0119\u017ckie donice wieszane na balustradach balkonu (na zewn\u0105trz) bywaj\u0105 problematyczne \u2014 wiatr, drgania czy niew\u0142a\u015bciwa konstrukcja mog\u0105 spowodowa\u0107, \u017ce donica spadnie i narazi przechodnia na obra\u017cenia. W takiej sytuacji mo\u017cna otrzyma\u0107 mandat w wysoko\u015bci do 500 z\u0142 lub kar\u0119 nagany.\n\nPodlewanie ro\u015blin bez nale\u017cytej ostro\u017cno\u015bci, wylewanie nadmiaru wody czy pozwolenie, by krople spada\u0142y na balkon poni\u017cej, to kolejne zagro\u017cenia. Mo\u017cna w\u00f3wczas ponie\u015b\u0107 odpowiedzialno\u015b\u0107 finansow\u0105 (do 500 z\u0142) lub by\u0107 poci\u0105gni\u0119tym do odpowiedzialno\u015bci, je\u015bli szkody s\u0105 powa\u017cne.\n\nPrzechowywanie substancji niebezpiecznych\n\nReklama\n\nNa balkonie nie mo\u017cna przechowywa\u0107 rzeczy \u0142atwopalnych lub niebezpiecznych \u2014 np. butli z gazem, kanistr\u00f3w z paliwem, rozpuszczalnik\u00f3w, farb agresywnych chemicznie, petard. Takie przechowywanie mo\u017ce prowadzi\u0107 do odpowiedzialno\u015bci karnej lub grzywny, zw\u0142aszcza gdy stwarza ryzyko po\u017caru lub wybuchu.\n\nHa\u0142as, imprezy, nago\u015b\u0107\n\nCisza nocna i porz\u0105dek publiczny\n\nCisza nocna obowi\u0105zuje tak\u017ce na balkonach \u2013 z regu\u0142y od godziny 22:00 do 6:00 (czasem inaczej w zale\u017cno\u015bci od lokalnych regulacji). G\u0142o\u015bna muzyka, ha\u0142a\u015bliwe rozmowy, imprezy balkonowe mog\u0105 skutkowa\u0107 mandatem do 500 z\u0142 lub interwencj\u0105 policji.\n\nOpalanie si\u0119 i nago\u015b\u0107 \u2013 kiedy staje si\u0119 wykroczeniem\n\nOpalanie si\u0119 na balkonie generalnie nie jest zabronione. Jednak opalanie topless lub ca\u0142kowita nago\u015b\u0107 mo\u017ce zosta\u0107 uznane za nieobyczajny wybryk i naruszenie porz\u0105dku publicznego. W takim przypadku mandaty si\u0119gaj\u0105 nawet 1 500 z\u0142.\n\n\u015amiecenie, trzepanie dywan\u00f3w, samowolne prace\n\nTak\u017ce wyrzucanie \u015bmieci lub innych przedmiot\u00f3w przez balkon jest traktowane jako \u015bmiecenie za kt\u00f3re grozi mandat do 500 z\u0142. Trzepanie dywan\u00f3w nie mo\u017ce powodowa\u0107 za\u015bmiecania przestrzeni pod balkonem lub dla s\u0105siad\u00f3w.\n\nZ kolei samowolna zabudowa balkonu czy malowanie zewn\u0119trznych element\u00f3w elewacji cz\u0119sto wymaga formalnej zgody wsp\u00f3lnoty, sp\u00f3\u0142dzielni lub urz\u0119du (w przypadku budynk\u00f3w zabytkowych). Bez takiej zgody mo\u017cna narazi\u0107 si\u0119 na problemy prawne."
         }
     },
     {
@@ -437,14 +437,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Matka Boska Cz\u0119stochowska",
-            "link": "https://krakow.naszemiasto.pl/tag/matka-boska-czestochowska",
-            "description": "Jeden z mieszka\u0144c\u00f3w centrum Krakowa i radni Dzielnicy I zwracaj\u0105 uwag\u0119, \u017ce wizerunek Matki Boskiej Cz\u0119stochowskiej na ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Kard. Parolin: Stolica Apostolska u boku budowniczych pokoju - Vatican News",
+            "link": "https://www.onet.pl/informacje/crimestorypl/bylo-spokojne-marcowe-popoludnie-1997-r-w-jednym-z-mediolanskich-mieszkan-40-letni/hy405mc,30bc1058",
+            "description": "By\u0142o spokojne, marcowe popo\u0142udnie 1997 r. W jednym z mediola\u0144skich mieszka\u0144 40-letni Gaspare i 57-letnia Franceska sp\u0119dzali ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.Ejmg9GfKDcoGHPspFhCT_i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Krak\u00f3w Nasze Miasto3 godz.",
-            "source": "Krak\u00f3w Nasze Miasto",
-            "article_content": "Content not available"
+            "date": "Onet1 godz.",
+            "source": "Onet",
+            "article_content": "By\u0142o spokojne, marcowe popo\u0142udnie 1997 r. W jednym z mediola\u0144skich mieszka\u0144 40-letni Gaspare i 57-letnia Franceska sp\u0119dzali beztrosko czas na niezobowi\u0105zuj\u0105cych rozmowach. \u2014 Wiesz, co musisz zrobi\u0107 \u2014 powiedzia\u0142a w pewnym momencie kobieta. Jej s\u0142owa zapewne dotyczy\u0142y jakiej\u015b b\u0142ahostki, w uszach m\u0119\u017cczyzny nabra\u0142y jednak zupe\u0142nie innego znaczenia. Uzna\u0142 je za wezwanie do rozpocz\u0119cia misji oczyszczania \u015bwiata i ratowania ludzkich dusz.\n\nhttps://www.onet.pl/informacje/crimestorypl/upiorny-czysciciel-polowal-na-ofiary-i-zabijal-je-mlotkiem/wmqgj3e,30bc1058"
         }
     },
     {
@@ -453,12 +453,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Mo\u017cna na nich zarobi\u0107 du\u017ce pieni\u0105dze. Nie uwierzysz, ile s\u0105 warte",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/mo%C5%BCna-na-nich-zarobi%C4%87-du%C5%BCe-pieni%C4%85dze-nie-uwierzysz-ile-s%C4%85-warte/ar-AA1Nra76?ocid=BingNewsVerp",
-            "description": "Na warto\u015b\u0107 monety wp\u0142ywa kilka kluczowych czynnik\u00f3w, z kt\u00f3rych ka\u017cdy mo\u017ce znacz\u0105co podnie\u015b\u0107 lub obni\u017cy\u0107 cen\u0119 na rynku ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.njJ0Yh_7CJ-wOZdpeC4xcC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Za te monety kolekcjonerzy p\u0142ac\u0105 grube tysi\u0105ce. Lepiej sprawd\u017a czy masz je w domu",
+            "link": "https://www.msn.com/pl-pl/finanse/og%C3%B3lne/za-te-monety-kolekcjonerzy-p%C5%82ac%C4%85-grube-tysi%C4%85ce-lepiej-sprawd%C5%BA-czy-masz-je-w-domu/ar-AA1Nra76?ocid=BingNewsVerp",
+            "description": "Posiadasz w domu stare monety? Warto sprawdzi\u0107 ich warto\u015b\u0107! Niekt\u00f3re z nich mog\u0105 by\u0107 warte nawet kilka tysi\u0119cy z\u0142otych.",
+            "image_url": "https://www.bing.pl/th?id=OVFT.0hS6lXT8QlJYNg7kFF6p6i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Nowa Trybuna Opolska on MSN6 godz.",
+            "date": "Nowa Trybuna Opolska on MSN1 godz.",
             "source": "Nowa Trybuna Opolska on MSN",
             "article_content": ""
         }
@@ -474,7 +474,7 @@
             "description": "Czy w Twojej starej szufladzie, puszce po herbacie lub zapomnianej szkatu\u0142ce le\u017c\u0105 monety z czas\u00f3w PRL? Je\u015bli tak, to mo\u017cesz ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.oVqztmPez25FbZBKjdRUYi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Pomorza on MSN4 godz.",
+            "date": "G\u0142os Pomorza on MSN8 godz.",
             "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
         }
@@ -490,7 +490,7 @@
             "description": "Wystawa plenerowa na terenie dawnego niemieckiego nazistowskiego obozu pracy i koncentracyjnego Plaszow. Pomi\u0119dzy ul. Kamie\u0144skiego i Wielick\u0105, w miejscach wa\u017cnych dla historii obozu ustawiono 19 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w14 godz.",
+            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w18 godz.",
             "source": "Oficjalny serwis miejski - Magiczny Krak\u00f3w",
             "article_content": "Szukaj wydarzenia\n\nKategoria: -- wszystkie -- Spektakle teatralne Spektakle taneczne Spacery i zwiedzanie Akcje czytelnicze Muzyka rozrywkowa Wystawy czasowe Targi i kiermasze Festiwale Festiwale sztuk wizualnych Muzyka klasyczna Wyk\u0142ady, spacery i warsztaty artystyczne Kabaret W gminach Metropolii Festiwale i przegl\u0105dy filmowe Festiwale muzyczne Inne przedstawienia Dzieci\u0119ce r\u00f3\u017cno\u015bci Spotkania i slajdowiska Pozosta\u0142e Festiwale teatralne Inne koncerty Cykle filmowe Muzyka klubowa Wydarzenia sportowe Wystawy sta\u0142e Spotkania i wyk\u0142ady literackie Inne wydarzenia literackie Pokazy filmowe"
         }
@@ -506,7 +506,7 @@
             "description": "Ten skarb wykopano na polu 42 lata temu. Moneta jest bezcenna. Wybity przez Boles\u0142awa Chrobrego srebrny denar z lat 992-997 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.Vg6zGKUpGhv6j8Haa3GxES&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "wykopano+zabytkowe",
-            "date": "Wroc\u0142aw Nasze Miasto on MSN4 godz.",
+            "date": "Wroc\u0142aw Nasze Miasto on MSN8 godz.",
             "source": "Wroc\u0142aw Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -517,13 +517,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "fortepian plenerowy w Toruniu",
-            "link": "https://torun.naszemiasto.pl/tag/fortepian-plenerowy-w-toruniu",
-            "description": "Fortepian plenerowy w Toruniu okaza\u0142 si\u0119 przebojem sezonu. Od czerwca codziennie odbywaj\u0105 si\u0119 przy nim spontaniczne koncerty ...",
+            "title": "Edukacja zdrowotna program",
+            "link": "https://sopot.naszemiasto.pl/tag/edukacja-zdrowotna-program",
+            "description": "Edukacja zdrowotna to nowy przedmiot, kt\u00f3ry do szk\u00f3\u0142 wszed\u0142 1 wrze\u015bnia tego roku. Od samego pocz\u0105tku nowy projekt ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "wykopano+zabytkowe",
-            "date": "Toru\u0144 Nasze Miasto3 godz.",
-            "source": "Toru\u0144 Nasze Miasto",
+            "date": "Sopot Nasze Miasto3 godz.",
+            "source": "Sopot Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -534,11 +534,11 @@
         },
         "body": {
             "title": "W\u0119dkarz szuka\u0142 robak\u00f3w. Dokona\u0142 niezwyk\u0142ego odkrycia",
-            "link": "https://www.msn.com/pl-pl/historia-i-kultura-spo%C5%82ecze%C5%84stwa/historia/w%C4%99dkarz-szuka%C5%82-robak%C3%B3w-dokona%C5%82-niezwyk%C5%82ego-odkrycia/ar-AA1NGgq7?ocid=BingNewsVerp",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/w%C4%99dkarz-szuka%C5%82-robak%C3%B3w-dokona%C5%82-niezwyk%C5%82ego-odkrycia/ar-AA1NGgq7?ocid=BingNewsVerp",
             "description": "W\u0119dkarz poszukuj\u0105cy niedaleko Sztokholmu robak\u00f3w na przyn\u0119t\u0119, przypadkowo natrafi\u0142 na prawdziwy skarb. Odkry\u0142 20 tys. monet ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.caQo12Z6kUw7xOql5z0_sC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "WPROST.pl on MSN19 godz.",
+            "date": "WPROST.pl on MSN23 godz.",
             "source": "WPROST.pl on MSN",
             "article_content": ""
         }
