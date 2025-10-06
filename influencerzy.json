@@ -10,7 +10,7 @@
             "description": "W niedziel\u0119, 5 pa\u017adziernika 2025 roku, na Pchlim Targu we W\u0142oc\u0142awku przy alei Kazimierza Wielkiego pogoda sprzyja\u0142a klientom.",
             "image_url": "https://www.bing.pl/th?id=OVFT.5qYAcHQz9FEGOqkcd-j_ni&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN7 godz.",
+            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN11 godz.",
             "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -21,13 +21,45 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Pchli Targ w niedziel\u0119 - 5 pa\u017adziernika 2025. Kwiaty, wi\u0105zanki, znicze, ubrania i starocie. Zdj\u0119cia, ceny, wideo",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/pchli-targ-w-niedziel%C4%99-5-pa%C5%BAdziernika-2025-kwiaty-wi%C4%85zanki-znicze-ubrania-i-starocie-zdj%C4%99cia-ceny-wideo/ar-AA1NTff9?ocid=BingNewsVerp",
-            "description": "W niedziel\u0119, 5 pa\u017adziernika 2025 roku, na Pchlim Targu we W\u0142oc\u0142awku przy alei Kazimierza Wielkiego pogoda sprzyja\u0142a klientom. Wielu mieszka\u0144c\u00f3w W\u0142oc\u0142awka i okolicznych powiat\u00f3w odwiedzi\u0142o popularny ba ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.Bm8piDnsAoinfeChI0AgCw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Bombki PRL to rarytas dla kolekcjoner\u00f3w. Takie stare ozdoby choinkowe s\u0105 teraz poszukiwane",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/bombki-prl-to-rarytas-dla-kolekcjoner%C3%B3w-takie-stare-ozdoby-choinkowe-s%C4%85-teraz-poszukiwane/ar-AA1NW6bb?ocid=BingNewsVerp",
+            "description": "Stare bombki choinkowe z PRL-u wracaj\u0105 do \u0142ask i dzi\u015b s\u0105 prawdziwym rarytasem dla kolekcjoner\u00f3w. Najbardziej poszukiwane modele z lat 60., 70. i 80. osi\u0105gaj\u0105 wysokie ceny \u2013 nawet kilkaset z\u0142otych za k ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.qEcc-ZyVkvSOSXNTGhpADA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN7 godz.",
-            "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
+            "date": "Gazeta Pomorska on MSN31 min",
+            "source": "Gazeta Pomorska on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Jesienny pchli targ u J\u0119druli. Obok kompozycji na 1 listopada pojawi\u0142y si\u0119 ju\u017c bo\u017conarodzeniowe ozdoby",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/jesienny-pchli-targ-u-j%C4%99druli-obok-kompozycji-na-1-listopada-pojawi%C5%82y-si%C4%99-ju%C5%BC-bo%C5%BConarodzeniowe-ozdoby/ar-AA1NTAta?ocid=BingNewsVerp",
+            "description": "Plac przy inowroc\u0142awskiej skarb\u00f3wce, gdzie regularnie organizowany jest bazar, zn\u00f3w sta\u0142 si\u0119 centrum niedzielnego handlu.",
+            "image_url": "https://www.bing.pl/th?id=OVFT.cfRj0pLUZiDNVupjxYR4YC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Inowroc\u0142aw Nasze Miasto on MSN2 godz.",
+            "source": "Inowroc\u0142aw Nasze Miasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Wi\u0105zanki, stroiki, chryzantemy na Wszystkich \u015awi\u0119tych 2025. Ceny na gie\u0142dzie przy Andersa",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/wi%C4%85zanki-stroiki-chryzantemy-na-wszystkich-%C5%9Bwi%C4%99tych-2025-ceny-na-gie%C5%82dzie-przy-andersa/ar-AA1NTQdW?ocid=BingNewsVerp",
+            "description": "Wi\u0105zanki, stroiki, kwiaty w doniczkach, chryzantemy - cho\u0107 do 1 listopada pozosta\u0142o jeszcze troch\u0119 czasu, sprzedawcy ju\u017c ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.rAzOqF50DQrq5KbJRVUyKS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Gazeta Wsp\u00f3\u0142czesna on MSN20 godz.",
+            "source": "Gazeta Wsp\u00f3\u0142czesna on MSN",
             "article_content": ""
         }
     },
@@ -42,7 +74,7 @@
             "description": "Oto lista najpopularniejszych wczoraj wiadomo\u015bci. Czy mia\u0142e\u015b okazje przeczyta\u0107 je wszystkie?",
             "image_url": "https://www.bing.pl/th?id=ODF.Bm8piDnsAoinfeChI0AgCw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "W\u0142oc\u0142awek Nasze Miasto36 min",
+            "date": "W\u0142oc\u0142awek Nasze Miasto4 godz.",
             "source": "W\u0142oc\u0142awek Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -53,29 +85,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Wi\u0105zanki, stroiki, chryzantemy na Wszystkich \u015awi\u0119tych 2025. Ceny na gie\u0142dzie przy Andersa",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/wi%C4%85zanki-stroiki-chryzantemy-na-wszystkich-%C5%9Bwi%C4%99tych-2025-ceny-na-gie%C5%82dzie-przy-andersa/ar-AA1NTQdW?ocid=BingNewsVerp",
-            "description": "Wi\u0105zanki, stroiki, kwiaty w doniczkach, chryzantemy - cho\u0107 do 1 listopada pozosta\u0142o jeszcze troch\u0119 czasu, sprzedawcy ju\u017c ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.rAzOqF50DQrq5KbJRVUyKS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "Gazeta Wsp\u00f3\u0142czesna on MSN16 godz.",
-            "source": "Gazeta Wsp\u00f3\u0142czesna on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Pras\u00f3wka 6.10.2025 - wydarzenia dnia, podsumowanie z wczoraj - sprawd\u017a, czy nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego",
-            "link": "https://poranny.pl/prasowka-6-10-2025-wydarzenia-dnia-podsumowanie-z-wczoraj-sprawdz-czy-nie-minelo-cie-nic-waznego/ar/c1p1-19960907",
-            "description": "W pi\u0105tek (3.10) odby\u0142y si\u0119 w Suwa\u0142kach uroczysto\u015bci pogrzebowe \u015bp. Rafa\u0142a Kotnarowskiego, \u017co\u0142nierza Wojsk Specjalnych, ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.pWbR19-5QzUEcEAS55InhC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "Kurier Poranny39 min",
-            "source": "Kurier Poranny",
+            "title": "Te stare monety obiegowe mog\u0105 by\u0107 wiele warte. Sprawd\u017a, bo mo\u017cesz naprawd\u0119 dobrze zarobi\u0107",
+            "link": "https://nto.pl/te-stare-monety-obiegowe-moga-byc-wiele-warte-sprawdz-bo-mozesz-naprawde-dobrze-zarobic/ar/c1p2-28022573",
+            "description": "Masz w domu stare monety obiegowe? Obejrzyj je dok\u0142adnie, bo mo\u017ce si\u0119 okaza\u0107, \u017ce ich warto\u015b\u0107 jest znacznie wy\u017csza, ni\u017c ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.njJ0Yh_7CJ-wOZdpeC4xcC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "Nowa Trybuna Opolska1 godz.",
+            "source": "Nowa Trybuna Opolska",
             "article_content": "Content not available"
         }
     },
@@ -90,7 +106,7 @@
             "description": "Monety z okres PRL s\u0105 cz\u0119sto poszukiwane przez kolekcjoner\u00f3w. Mog\u0105 by\u0107 warte du\u017ce pieni\u0105dze. Mo\u017ce je masz! Jej kilka cech, kt\u00f3re decyduj\u0105 o ich sporej warto\u015bci. Sprawd\u017a!",
             "image_url": "https://www.bing.pl/th?id=ODF.5s2nDicEFNR6T9e5rt0xCA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "Dziennik Ba\u0142tycki on MSN12 godz.",
+            "date": "Dziennik Ba\u0142tycki on MSN16 godz.",
             "source": "Dziennik Ba\u0142tycki on MSN",
             "article_content": ""
         }
@@ -101,13 +117,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Tych monet i banknot\u00f3w szukaj\u0105 kolekcjonerzy. Masz takie w domu? P\u0142ac\u0105 za nie nawet 40 tysi\u0119cy z\u0142otych. Mo\u017cna du\u017co zarobi\u0107 05.10.2025",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/tych-monet-i-banknot%C3%B3w-szukaj%C4%85-kolekcjonerzy-masz-takie-w-domu-p%C5%82ac%C4%85-za-nie-nawet-40-tysi%C4%99cy-z%C5%82otych-mo%C5%BCna-du%C5%BCo-zarobi%C4%87-27092025/ar-AA1NoG6q?ocid=BingNewsVerp",
-            "description": "Je\u015bli my\u015blisz, \u017ce wszystkie monety z PRL s\u0105 warte tylko kilka groszy, to jeste\u015b w b\u0142\u0119dzie. Istniej\u0105 konkretne egzemplarze, ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.SUM6EoymQzlvGiI-SK2Fgy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Masz takie monety w domu? Sprawd\u017a, bo mo\u017cesz naprawd\u0119 dobrze zarobi\u0107",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/masz-takie-monety-w-domu-sprawd%C5%BA-bo-mo%C5%BCesz-naprawd%C4%99-dobrze-zarobi%C4%87/ar-AA1Nra76?ocid=BingNewsVerp",
+            "description": "Masz w domu stare monety? Obejrzyj je dok\u0142adnie, bo mo\u017ce si\u0119 okaza\u0107, \u017ce ich warto\u015b\u0107 jest znacznie wy\u017csza, ni\u017c przypuszczasz.",
+            "image_url": "https://www.bing.pl/th?id=OVFT.4_NQBU-8jj5GYIaNNKeBSS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Pomorza on MSN22 godz.",
-            "source": "G\u0142os Pomorza on MSN",
+            "date": "Nowa Trybuna Opolska on MSN1 godz.",
+            "source": "Nowa Trybuna Opolska on MSN",
             "article_content": ""
         }
     },
@@ -117,46 +133,46 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Rzadkie monety z PRL poszukiwane przez kolekcjoner\u00f3w. Sprawd\u017a, kt\u00f3re s\u0105 najdro\u017csze i ile mo\u017cna za nie zarobi\u0107! 05.10.2025",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/rzadkie-monety-z-prl-poszukiwane-przez-kolekcjoner%C3%B3w-sprawd%C5%BA-kt%C3%B3re-s%C4%85-najdro%C5%BCsze-i-ile-mo%C5%BCna-za-nie-zarobi%C4%87-27092025/ar-AA1NoBej?ocid=BingNewsVerp",
+            "title": "Rzadkie monety z PRL poszukiwane przez kolekcjoner\u00f3w. Kt\u00f3re s\u0105 najdro\u017csze i ile mo\u017cna za nie zarobi\u0107! SPRAWD\u0179 06.10.2025",
+            "link": "https://gp24.pl/rzadkie-monety-z-prl-poszukiwane-przez-kolekcjonerow-ktore-sa-najdrozsze-i-ile-mozna-za-nie-zarobic-sprawdz-06102025/ar/c1-17275689",
             "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
             "image_url": "https://www.bing.pl/th?id=OVFT._V-rWLu6pRQ3UWKHtZMwMi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Nasze Miasto on MSN22 godz.",
-            "source": "Nasze Miasto on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "10 groszy z PRL warte nawet 33 tys. z\u0142. \"Najrzadsza moneta\". Trzeba zwr\u00f3ci\u0107 uwag\u0119 na jeden szczeg\u00f3\u0142",
-            "link": "https://next.gazeta.pl/next/7,151003,32301619,10-groszy-z-prl-warte-nawet-33-tys-zl-najrzadsza-moneta.html",
-            "description": "10 groszy z PRL to najdro\u017csza i najbardziej po\u017c\u0105dana moneta z tego okresu Polski. Podczas jednej aukcji zosta\u0142a sprzedana za ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.QQU1oq4iNxHbwDnVN4R2Li&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "Next Gazeta4 godz.",
-            "source": "Next Gazeta",
-            "article_content": "10 groszy z PRL warte fortun\u0119. Wa\u017cny drobny szczeg\u00f3\u0142\n\nMonety o nominale 10 groszy wybite w 1973 roku mog\u0105 posiada\u0107 astronomiczn\u0105 warto\u015b\u0107, ale tylko pod warunkiem, \u017ce nie posiadaj\u0105 znaku mennicy. W okolicach szpon\u00f3w or\u0142a, gdzie zwykle znajduj\u0105 si\u0119 wybite litery \"MW\", kt\u00f3re oznaczaj\u0105 Mennic\u0119 Warszawsk\u0105, powinna by\u0107 pusta przestrze\u0144. Ten drobny szczeg\u00f3\u0142 sprawia, \u017ce 10-groszowa moneta uzyska\u0142a wyj\u0105tkow\u0105 warto\u015b\u0107 w oczach kolekcjoner\u00f3w.\n\nREKLAMA\n\nMoneta 10 groszy z 1973 r. bez znaku mennicy \u0179r\u00f3d\u0142o: Dom Aukcyjny Marciniak\n\nMoneta 10 groszy bez znaku mennicy sprzedana za 33 tys. z\u0142\n\nPodczas aukcji w maju 2023 r. w Domu Aukcyjnym Marciniak s\u0142ynna moneta 10 groszy z 1973 r. bez znaku mennicy zosta\u0142a sprzedana za 33 tysi\u0105ce z\u0142otych. - Poznali\u015bmy now\u0105, historycznie najdro\u017csz\u0105 monet\u0119 obiegow\u0105 okresu PRL - komentowa\u0142 w\u00f3wczas Damian Marciniak z domu aukcyjnego w rozmowie z money.pl. Poprzedni rekord pad\u0142 w kwietniu 2020 r. gdy tak\u0105 sam\u0105 monet\u0119 sprzedano za 29,9 tys. z\u0142. - Jest to najrzadsza moneta obiegowa okresu PRL. Na rynku kolekcjonerskim moneta ta pojawia si\u0119 nadzwyczaj rzadko - doda\u0142 Marciniak. Szacuje si\u0119, \u017ce jej nak\u0142ad wynosi\u0142 80 mln sztuk.\n\nZobacz wideo Czy banknot o nominale 1000 z\u0142 wejdzie do u\u017cytku?\n\nStare monety nie zawsze s\u0105 warte fortun\u0119\n\nDamian Marciniak t\u0142umaczy\u0142 w rozmowie z serwisem o2.pl, \u017ce moneta 10-groszowa z PRL sprzedana za rekordow\u0105 kwot\u0119 nale\u017ca\u0142a do osoby, kt\u00f3ra odziedziczy\u0142a klasery po swoim przodku kolekcjonerze. Doda\u0142, \u017ce wiele os\u00f3b znajduje stare monety i cz\u0119sto b\u0142\u0119dnie zak\u0142ada ich ogromn\u0105 warto\u015b\u0107. - Polecam sprawdza\u0107 zako\u0144czone ju\u017c aukcje w internecie, np. na Allegro. Istotne, by zwraca\u0107 uwag\u0119, ile os\u00f3b bra\u0142o udzia\u0142 w takiej licytacji - podkre\u015bli\u0142. Monet\u0119 10-grosz\u0105 z 1973 r. bez znaku mennicy mo\u017cna znale\u017a\u0107 w og\u0142oszeniu w serwisie Allegro, gdzie zosta\u0142a wystawiona za 6 100 z\u0142.\n\nCzytaj r\u00f3wnie\u017c: \"Kraj UE wycofuje monety i zaokr\u0105gla ceny w sklepach. To samo czeka Polsk\u0119?\".\n\n\n\n\u0179r\u00f3d\u0142a:Dom Aukcyjny, money.pl, o2.pl"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Kolekcjonowanie monet - co to jest?",
-            "link": "https://gloswielkopolski.pl/rzadkie-monety-z-prl-poszukiwane-przez-kolekcjonerow-sprawdz-ktore-sa-najdrozsze-i-ile-mozna-za-nie-zarobic-05102025/ar/c1-17275689",
-            "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ich pojawienia si\u0119 na rynku. Najcz\u0119\u015bciej poszukiwane monety przez kolekcjone ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.U-Vp0xK7SYVhjnH4oToWdw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stare+monety",
-            "date": "G\u0142os Wielkopolski22 godz.",
-            "source": "G\u0142os Wielkopolski",
+            "date": "G\u0142os Pomorza2 godz.",
+            "source": "G\u0142os Pomorza",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "10 groszy z PRL-u mo\u017ce by\u0107 warte fortun\u0119. Kluczowy jest jeden szczeg\u00f3\u0142",
+            "link": "https://www.biznesinfo.pl/10-groszy-z-prl-u-moze-byc-warte-fortune-kluczowy-jest-jeden-szczegol-sm-wzk-061025",
+            "description": "Niepozorna, ma\u0142a i od lat zapomniana \u2013 dzi\u015b potrafi rozpali\u0107 emocje kolekcjoner\u00f3w i osi\u0105gn\u0105\u0107 warto\u015b\u0107, o kt\u00f3rej przeci\u0119tny ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.8CzN95iG9Z_mMWF6pKP6zC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "BiznesINFO.pl11 min",
+            "source": "BiznesINFO.pl",
+            "article_content": "10 groszy z PRL-u mo\u017ce by\u0107 warte fortun\u0119. Kluczowy jest jeden szczeg\u00f3\u0142\n\nNiepozorna, ma\u0142a i od lat zapomniana \u2013 dzi\u015b potrafi rozpali\u0107 emocje kolekcjoner\u00f3w i osi\u0105gn\u0105\u0107 warto\u015b\u0107, o kt\u00f3rej przeci\u0119tny posiadacz nigdy by nie pomy\u015bla\u0142. Co sprawia, \u017ce ta moneta z czas\u00f3w PRL budzi tak ogromne zainteresowanie?\n\nDlaczego zwyk\u0142e monety z PRL nagle zyskuj\u0105 na warto\u015bci?\n\nCho\u0107 na co dzie\u0144 rzadko zwracamy uwag\u0119 na drobne pieni\u0105dze w portfelu, niekt\u00f3re z nich skrywaj\u0105 niezwyk\u0142e historie. Monety z okresu PRL, kt\u00f3re dla przeci\u0119tnego obywatela by\u0142y jedynie \u015brodkiem p\u0142atniczym, dzi\u015b przyci\u0105gaj\u0105 spojrzenia kolekcjoner\u00f3w i pasjonat\u00f3w historii. Ich warto\u015b\u0107 nie wynika z samego metalu, z kt\u00f3rego zosta\u0142y wykonane, ani z nomina\u0142u, lecz z rzadko\u015bci i unikalnych detali w projekcie monety.\n\nW \u015bwiecie numizmatyki nawet drobny szczeg\u00f3\u0142 mo\u017ce decydowa\u0107 o tym, czy dana moneta pozostanie zwyk\u0142ym gad\u017cetem, czy zamieni si\u0119 w prawdziwy skarb. Co wi\u0119cej, zainteresowanie starymi monetami z PRL ro\u015bnie nie tylko w Polsce, ale r\u00f3wnie\u017c w\u015br\u00f3d zagranicznych kolekcjoner\u00f3w, kt\u00f3rzy dostrzegaj\u0105 w nich unikalne elementy historyczne i estetyczne.\n\nFot. ARKADIUSZ ZIOLEK/East News\n\nCo sprawia, \u017ce kolekcjonerzy szukaj\u0105 konkretnych egzemplarzy latami?\n\nNie ka\u017cda stara moneta ma szans\u0119 sta\u0107 si\u0119 przedmiotem po\u017c\u0105dania. Kolekcjonerzy dok\u0142adnie analizuj\u0105 detale wykonania, rok emisji i ewentualne b\u0142\u0119dy mennicze, kt\u00f3re mog\u0105 znacz\u0105co podnie\u015b\u0107 warto\u015b\u0107. Czasem to w\u0142a\u015bnie niewielka r\u00f3\u017cnica w wygl\u0105dzie, pomini\u0119ty znak mennicy czy drobny b\u0142\u0105d w rysunku or\u0142a, decyduje o tym, \u017ce moneta staje si\u0119 obiektem po\u017c\u0105dania.\n\nDodatkowo, wra\u017cenie rzadko\u015bci pot\u0119guje fakt, \u017ce niekt\u00f3re monety pojawiaj\u0105 si\u0119 na rynku niezwykle rzadko. Damian Marciniak z Domu Aukcyjnego Marciniak podkre\u015bla\u0142:\n\nNa rynku kolekcjonerskim moneta ta pojawia si\u0119 nadzwyczaj rzadko. Jest to najrzadsza moneta obiegowa okresu PRL.\n\nEksperci zalecaj\u0105 r\u00f3wnie\u017c ostro\u017cno\u015b\u0107 przy ocenianiu warto\u015bci starych monet. Jak zauwa\u017ca Marciniak:\n\nPolecam sprawdza\u0107 zako\u0144czone ju\u017c aukcje w internecie, np. na Allegro. Istotne, by zwraca\u0107 uwag\u0119, ile os\u00f3b bra\u0142o udzia\u0142 w takiej licytacji.\n\nTo wszystko pokazuje, \u017ce wycena monet PRL nie jest spraw\u0105 prost\u0105 i wymaga do\u015bwiadczenia oraz wiedzy historycznej. Wiele os\u00f3b znajduje stare pieni\u0105dze w domowych zbiorach i od razu zak\u0142ada ich ogromn\u0105 warto\u015b\u0107 \u2013 jednak w rzeczywisto\u015bci wi\u0119kszo\u015b\u0107 z nich nie przekracza kilkudziesi\u0119ciu z\u0142otych.\n\nTa moneta z PRL-u jest warta krocie\n\nNajdro\u017csza moneta obiegowa PRL to 10 groszy z 1973 roku, ale nie ka\u017cda z tych monet osi\u0105ga astronomiczne ceny. Kluczowy jest jeden, ma\u0142y detal \u2013 brak znaku mennicy \u201eMW\u201d przy szponach or\u0142a. To w\u0142a\u015bnie pusta przestrze\u0144 zamiast liter oznaczaj\u0105cych Mennic\u0119 Warszawsk\u0105 sprawia, \u017ce egzemplarz zyskuje wyj\u0105tkow\u0105 warto\u015b\u0107 w oczach kolekcjoner\u00f3w.\n\nPodczas aukcji w maju 2023 roku w Domu Aukcyjnym Marciniak moneta zosta\u0142a sprzedana za 33 tysi\u0105ce z\u0142otych. Damian Marciniak skomentowa\u0142 to w\u00f3wczas:\n\nPoznali\u015bmy now\u0105, historycznie najdro\u017csz\u0105 monet\u0119 obiegow\u0105 okresu PRL. Poprzedni rekord pad\u0142 w kwietniu 2020 r., gdy tak\u0105 sam\u0105 monet\u0119 sprzedano za 29,9 tys. z\u0142.\n\nFot. Pixabay/FUHMariaM\n\nMoneta o nominale 10 groszy bez znaku mennicy by\u0142a cz\u0119\u015bci\u0105 klasycznego zbioru odziedziczonego po przodku kolekcjonerze. Cho\u0107 szacowany nak\u0142ad monet 10-groszowych z 1973 roku wynosi\u0142 oko\u0142o 80 milion\u00f3w sztuk, wersje bez oznaczenia mennicy pojawiaj\u0105 si\u0119 nadzwyczaj rzadko, co czyni je prawdziwym rarytasem.\n\nCo ciekawe, nawet po zako\u0144czonej aukcji niekt\u00f3re egzemplarze tej monety pojawiaj\u0105 si\u0119 na Allegro \u2013 przyk\u0142adowo, jedna z nich by\u0142a wystawiona za 6 100 z\u0142, pokazuj\u0105c, \u017ce zainteresowanie kolekcjoner\u00f3w nie maleje, a rynek starych monet wci\u0105\u017c przyci\u0105ga zar\u00f3wno inwestor\u00f3w, jak i pasjonat\u00f3w historii.\n\nDzi\u0119ki takim rekordowym transakcjom, stare monety z PRL nie tylko zdobywaj\u0105 warto\u015b\u0107 finansow\u0105, ale te\u017c staj\u0105 si\u0119 \u015bwiadectwem epoki i przedmiotem fascynacji historyk\u00f3w oraz numizmatyk\u00f3w. Ka\u017cdy detal, nawet tak niepozorny jak brak kilku liter, mo\u017ce zmieni\u0107 zwyk\u0142\u0105 monet\u0119 w prawdziwy skarb wart dziesi\u0105tki tysi\u0119cy z\u0142otych."
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Dziki Zach\u00f3d Uznam. Zim\u0105 1945 ludzie w polskich mundurach z MO i SB s\u0105 panami \u017cycia i \u015bmierci",
+            "link": "https://szczecin.wyborcza.pl/szczecin/7,34939,6948083,dziki-zachod-uznam.html",
+            "description": "Wszyscy tylko chc\u0105 Niemc\u00f3w wyka\u0144cza\u0107, a do kopania grob\u00f3w ch\u0119tnych nie ma - narzeka\u0142 naczelnik aresztu w \u015awinouj\u015bciu J\u00f3zef ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.w_WX13T7jEcIV1z9BlV15S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stara+porcelana",
+            "date": "Szczecin Wyborcza.pl1 godz.",
+            "source": "Szczecin Wyborcza.pl",
+            "article_content": ""
         }
     },
     {
@@ -170,7 +186,7 @@
             "description": "Donald Trump traci poparcie w grupach, kt\u00f3re nap\u0119dzi\u0142y jego sukces wyborczy w 2024 r. \u2013 wynika z bada\u0144. Chodzi przede ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.GtSzipYVKYeRCLY5tez7iS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Newsweek Polska13 godz.",
+            "date": "Newsweek Polska17 godz.",
             "source": "Newsweek Polska",
             "article_content": "W 2020 r. Demokraci wygrali w\u015br\u00f3d pokolenia Z r\u00f3\u017cnic\u0105 25 punkt\u00f3w (61 proc. do 36 proc.), w\u015br\u00f3d czarnych wyborc\u00f3w a\u017c 83 punktami (91 proc. \u2013 8 proc.), a w\u015br\u00f3d Latynos\u00f3w 28 punktami (63 proc. \u2013 35 proc.) \u2013 wed\u0142ug danych AP VoteCast. Cztery lata p\u00f3\u017aniej Trump znacz\u0105co zmniejszy\u0142 te r\u00f3\u017cnice: pokolenie Z podzieli\u0142o si\u0119 prawie po r\u00f3wno (51 proc. do 47 proc.), w\u015br\u00f3d czarnych wyborc\u00f3w 83 proc. popar\u0142o kandydatk\u0119 Demokrat\u00f3w, a Trumpa 16 proc., z kolei w\u015br\u00f3d Latynos\u00f3w ta proporcja wynosi\u0142a 55 proc. do 43. By\u0142y to jedne z najwi\u0119kszych zmian demograficznych w wyborach: przewaga Demokrat\u00f3w w\u015br\u00f3d pokolenia Z spad\u0142a o 21 punkt\u00f3w, a w\u015br\u00f3d Latynos\u00f3w \u2013 o 16 punkt\u00f3w.\n\nDane pokazuj\u0105, \u017ce ten zwrot w prawo w du\u017cej mierze nap\u0119dzany by\u0142 przez m\u0119\u017cczyzn. W\u015br\u00f3d m\u0119\u017cczyzn z pokolenia Z przewaga Demokrat\u00f3w zmniejszy\u0142a si\u0119 z +7 pkt proc. w 2020 r. do przewagi Republikan\u00f3w -8 pkt proc. w 2024 r., co oznacza zmian\u0119 o 15 pkt. Czarnosk\u00f3rzy m\u0119\u017cczy\u017ani przesun\u0119li si\u0119 jeszcze wyra\u017aniej \u2013 z przewagi Demokrat\u00f3w +75 do +49, czyli a\u017c o 26 pkt proc. w stron\u0119 Republikan\u00f3w. Latynoscy m\u0119\u017cczy\u017ani odnotowali zmian\u0119 o 19 pkt. \u2013 przewaga Demokrat\u00f3w spad\u0142a z +21 pkt. do zaledwie +2.\n\nNie tylko badanie Marist wskazuje, \u017ce Trump mo\u017ce traci\u0107 poparcie, kt\u00f3re zyska\u0142 w tych grupach. Dotyczy to zw\u0142aszcza Latynos\u00f3w. Organizacja Somos Votantes, zajmuj\u0105ca si\u0119 mobilizacj\u0105 latynoskich wyborc\u00f3w, przeprowadzi\u0142a we wrze\u015bniu sonda\u017c, kt\u00f3ry pokaza\u0142, \u017ce wska\u017anik aprobaty dla Trumpa w\u015br\u00f3d latynoskich m\u0119\u017cczyzn spad\u0142 o 8 pkt. w ci\u0105gu ostatnich 8 miesi\u0119cy \u2013 z poziomu dodatniego do -6 pkt.\n\nWed\u0142ug sonda\u017cu YMRP z maja, jedynie 14 proc. m\u0142odych Latynos\u00f3w-m\u0119\u017cczyzn mia\u0142o \u201ebardzo pozytywn\u0105\u201d opini\u0119 o Trumpie, a 19 procent \u201eraczej pozytywn\u0105\u201d.\n\nPokolenie Z zaniepokojone polityk\u0105 klimatyczn\u0105 Trumpa\n\nDlaczego Trump traci w\u015br\u00f3d m\u0142odych? Peter Loge, profesor komunikacji politycznej na Uniwersytecie George\u2019a Washingtona, powiedzia\u0142 \u201eNewsweekowi\u201d, \u017ce dzieje si\u0119 tak, poniewa\u017c wyborcy z pokolenia Z s\u0105 \u201ebardzo zaniepokojeni zmianami klimatycznymi\u201d, podczas gdy Trump \u201ecofa, a w niekt\u00f3rych przypadkach sabotuje wysi\u0142ki na rzecz walki z kryzysem klimatycznym\u201d.\n\nJego dzia\u0142ania i retoryka potwierdzaj\u0105 te obawy. W niedawnym przem\u00f3wieniu do Zgromadzenia Og\u00f3lnego ONZ Trump nazwa\u0142 zmiany klimatu \u201enajwi\u0119kszym oszustwem, jakie kiedykolwiek pope\u0142niono\u201d i odrzuci\u0142 mi\u0119dzynarodowe wysi\u0142ki klimatyczne jako b\u0142\u0119dne. Obieca\u0142 r\u00f3wnie\u017c cofni\u0119cie wielu polityk i regulacji maj\u0105cych na celu ograniczenie emisji gaz\u00f3w cieplarnianych, rozw\u00f3j czystej energii czy zmniejszenie zanieczyszcze\u0144 z paliw kopalnych.\n\nW kraju jego administracja stara si\u0119 znie\u015b\u0107 lub os\u0142abi\u0107 federalne zabezpieczenia le\u017c\u0105ce u podstaw polityki klimatycznej. Jednym z najwa\u017cniejszych dzia\u0142a\u0144 by\u0142a pr\u00f3ba uchylenia tzw. \u201eendangerment finding\u201d \u2013 ustalenia EPA z 2009 r., \u017ce gazy cieplarniane stanowi\u0105 zagro\u017cenie dla zdrowia publicznego i mog\u0105 by\u0107 regulowane na podstawie Clean Air Act.\n\nNa arenie mi\u0119dzynarodowej Trump zapowiedzia\u0142, \u017ce ponownie wycofa USA z Porozumienia Paryskiego, twierdz\u0105c, \u017ce Ameryka powinna uwolni\u0107 si\u0119 od \u201eniesprawiedliwych i obci\u0105\u017caj\u0105cych\u201d zobowi\u0105za\u0144 globalnych.\n\nSonda\u017ce pokazuj\u0105, \u017ce te dzia\u0142ania s\u0105 szczeg\u00f3lnie niepopularne w\u015br\u00f3d pokolenia Z. W najnowszym badaniu YouGov/Economist a\u017c 60 proc. os\u00f3b w wieku 18\u201329 lat wyrazi\u0142o dezaprobat\u0119 wobec polityki Trumpa w sprawie klimatu \u2013 najwi\u0119cej spo\u015br\u00f3d wszystkich grup wiekowych.\n\n\u201eWyborcy pokolenia Z m\u00f3wi\u0105 ankieterom, \u017ce s\u0105 bardzo zaniepokojeni zmianami klimatu, a prezydent Trump cofa, a czasem wr\u0119cz atakuje dzia\u0142ania maj\u0105ce na celu ich zwalczanie. To dok\u0142adne przeciwie\u0144stwo tego, czego chc\u0105 m\u0142odzi wyborcy\u201d \u2013 podkre\u015bla Loge.\n\nRetoryka Donalda Trumpa budzi strach\n\nJednak dla czarnych i latynoskich wyborc\u00f3w to retoryka Trumpa jest kluczowa \u2013 zauwa\u017ca Loge.\n\nOdni\u00f3s\u0142 si\u0119 on do sytuacji sprzed kilku dni, gdy Trump udost\u0119pni\u0142 \u201erasistowski wpis w mediach spo\u0142eczno\u015bciowych\u201d. Prezydent opublikowa\u0142 wideo stworzone przez sztuczn\u0105 inteligencj\u0119, kpi\u0105ce z przyw\u00f3dcy Demokrat\u00f3w w Izbie Reprezentant\u00f3w Hakeema Jeffriesa oraz lidera mniejszo\u015bci w Senacie Chucka Schumera \u2013 nied\u0142ugo po ich spotkaniu z nim w sprawie gro\u017c\u0105cego rz\u0105dowi zamkni\u0119cia.\n\nNa nagraniu Jeffries, kt\u00f3ry jest Afroamerykaninem, wyst\u0119puje w sombrero i z w\u0105sem, a Schumer przemawia sztucznym g\u0142osem, domagaj\u0105c si\u0119 darmowej opieki zdrowotnej dla nielegalnych imigrant\u00f3w. W tle gra zesp\u00f3\u0142 meksyka\u0144skich mariachi.\n\nJeffries nazwa\u0142 klip \u201erasistowskim\u201d i napisa\u0142 na X: \u201eBigoteria do niczego ci\u0119 nie zaprowadzi. Zatrzymajcie ci\u0119cia. Obni\u017ccie koszty. Ocalcie opiek\u0119 zdrowotn\u0105. NIE ust\u0105pimy.\u201d\n\nTrump odpowiedzia\u0142 kolejnym nagraniem, w kt\u00f3rym ponownie doda\u0142 sombrero i w\u0105sy Jeffriesowi, a w tle wyst\u0119powa\u0142 zesp\u00f3\u0142 mariachi z\u0142o\u017cony z czterech... wygenerowanych przez AI Trump\u00f3w.\n\nWideo wywo\u0142a\u0142o fal\u0119 oburzenia w\u015br\u00f3d Demokrat\u00f3w i dzia\u0142aczy czarnosk\u00f3rych oraz latynoskich.\n\nPrzewodnicz\u0105cy Kongresowego Klubu Latynoskiego, Adriano Espaillat, nazwa\u0142 filmik \u201eobra\u017aliwym\u201d, dodaj\u0105c, \u017ce pokazuje on, i\u017c Trump jest \u201eoderwany od rzeczywistych problem\u00f3w zwi\u0105zanych z opiek\u0105 zdrowotn\u0105 w USA\u201d.\n\nPrzewodnicz\u0105ca Kongresowego Klubu Kobiet Demokratycznych, Teresa Leger Fern\u00e1ndez, skomentowa\u0142a: \u201eto nie jest spos\u00f3b na osi\u0105gni\u0119cie porozumienia. Wygl\u0105da to raczej na wybuch sze\u015bciolatka\u201d.\n\nZ kolei szefowa Kongresowego Klubu Czarnosk\u00f3rych, Yvette Clarke, stwierdzi\u0142a: \u201edziecinne zachowanie p\u0142yn\u0105ce z Bia\u0142ego Domu nie powinno by\u0107 usprawiedliwiane przez \u017cadnego Amerykanina\u201d.\n\nNaloty s\u0142u\u017cb imigracyjnych budz\u0105 strach w\u015br\u00f3d Latynos\u00f3w w USA\n\nLoge zwr\u00f3ci\u0142 r\u00f3wnie\u017c uwag\u0119, \u017ce naloty imigracyjne Trumpa sprawi\u0142y, \u017ce \u201ewielu Latynos\u00f3w jest mocno zaniepokojonych\u201d.\n\nOd pocz\u0105tku drugiej kadencji Trump drastycznie zaostrzy\u0142 egzekwowanie prawa imigracyjnego. Jego administracja rozpocz\u0119\u0142a masowe deportacje, wznowi\u0142a tysi\u0105ce starych spraw i zwi\u0119kszy\u0142a liczb\u0119 nalot\u00f3w w \u201emiastach-sanktuariach\u201d. Finansowanie federalne na walk\u0119 z migracj\u0105 wzros\u0142o do 45 mld dol., co pozwoli\u0142o rozbudowa\u0107 o\u015brodki ICE i stworzy\u0107 obozy detencyjne, w tym kontrowersyjny o\u015brodek na Florydzie, nazwany \u201eAligatorowym Alcatraz\u201d.\n\nBadania sugeruj\u0105, \u017ce polityka ta wywo\u0142uje niepok\u00f3j i sprzeciw polityczny w\u015br\u00f3d spo\u0142eczno\u015bci latynoskiej. Wed\u0142ug ankiety Pew Research z marca 42 proc. doros\u0142ych Latynos\u00f3w obawia si\u0119, \u017ce oni lub kto\u015b im bliski mo\u017ce zosta\u0107 deportowany \u2013 znacznie wi\u0119cej ni\u017c w populacji og\u00f3lnej.\n\nPoza polityk\u0105 dzia\u0142ania administracji maj\u0105 te\u017c skutki gospodarcze. \u201eFinancial Times\u201d poinformowa\u0142, \u017ce nasilone obawy przed deportacj\u0105, w po\u0142\u0105czeniu z rosn\u0105cymi kosztami \u017cycia, ograniczaj\u0105 wydatki konsumenckie Latynos\u00f3w. Firmy takie jak Colgate-Palmolive czy Constellation Brands (producent piwa Modelo) odnotowa\u0142y spadki sprzeda\u017cy w stanach przygranicznych. Detali\u015bci, jak Walmart i Shoe Carnival, r\u00f3wnie\u017c donosz\u0105 o s\u0142abszych wydatkach w\u015br\u00f3d latynoskich klient\u00f3w o niskich dochodach. Analitycy twierdz\u0105, \u017ce inflacja i polityka imigracyjna wypychaj\u0105 wielu nieudokumentowanych imigrant\u00f3w z \u017cycia publicznego i os\u0142abiaj\u0105 ich udzia\u0142 w gospodarce.\n\nDzieje si\u0119 to w czasie, gdy ca\u0142a ameryka\u0144ska gospodarka prze\u017cywa trudno\u015bci. Cho\u0107 w drugim kwartale 2025 r. wzros\u0142a w tempie 3,8 procent w skali rocznej po wcze\u015bniejszym spadku, prognozy wskazuj\u0105 na s\u0142aby wzrost w ca\u0142ym roku \u2013 oko\u0142o 1,7 proc. Sytuacja na rynku pracy r\u00f3wnie\u017c nie jest najlepsza: we wrze\u015bniu sektor prywatny straci\u0142 32 tys. miejsc pracy, bezrobocie wzros\u0142o do 4,3 procent, a liczba ofert zatrudnienia pozostaje bez zmian.\n\n\u201eCzarni i Latynosi chc\u0105 uczciwej szansy na dobr\u0105 prac\u0119, chc\u0105 m\u00f3c p\u00f3j\u015b\u0107 do lekarza i wierzy\u0107, \u017ce jutro b\u0119dzie lepsze ni\u017c dzi\u015b\u201d \u2013 m\u00f3wi Loge. Tymczasem \u201ebezrobocie ro\u015bnie, polityka wydaje si\u0119 chaotyczna\u2026 mniej pracy i wi\u0119cej chaosu. To fatalne dla partii u w\u0142adzy\u201d.\n\nLatynosi, kt\u00f3rzy od 2019 r. przyczynili si\u0119 do ponad 30 proc. wzrostu PKB USA i dysponuj\u0105 si\u0142\u0105 nabywcz\u0105 na poziomie 2,4 bln dol., s\u0105 szczeg\u00f3lnie nara\u017ceni na te napi\u0119cia. Dane spisowe pokazuj\u0105, \u017ce w gospodarstwach domowych Latynos\u00f3w mediana dochodu to ok. 65 tys. 500 dol. \u2013 znacznie mniej ni\u017c \u015brednia 93 tys. 900 dol. w\u015br\u00f3d bia\u0142ych gospodarstw. Wed\u0142ug danych Rezerwy Federalnej 17 proc. Latynos\u00f3w do\u015bwiadcza niestabilno\u015bci dochod\u00f3w. Spo\u0142eczno\u015b\u0107 ta jest tak\u017ce silnie skoncentrowana w zawodach robotniczych, us\u0142ugowych i budowlanych \u2013 wyj\u0105tkowo wra\u017cliwych na inflacj\u0119, wysokie stopy procentowe i zmiany w polityce imigracyjnej.\n\nWielu popiera\u0142o Trumpa, poniewa\u017c \u201eobieca\u0142 naprawi\u0107 to, co uwa\u017cali za upadaj\u0105c\u0105 gospodark\u0119\u201d \u2013 m\u00f3wi prof. Loge. Ale wraz z \u201enarastaj\u0105cym niepokojem gospodarczym\u201d i tym, \u017ce \u201eprezydent wci\u0105\u017c powtarza, jak fatalna jest sytuacja kraju\u201d, spadek jego poparcia \u201enie jest zaskakuj\u0105cy\u201d.\n\nTekst opublikowany w ameryka\u0144skim \"Newsweeku\". Tytu\u0142, lead i \u015br\u00f3dtytu\u0142y od redakcji \"Newsweek Polska\"."
         }
@@ -186,7 +202,7 @@
             "description": "Targ Staroci w B\u0119dzinie, to obowi\u0105zkowy punkt dla wszystkich \u0142owc\u00f3w antyk\u00f3w, retro gad\u017cet\u00f3w i przedmiot\u00f3w z dusz\u0105.",
             "image_url": "https://www.bing.pl/th?id=OVFT.2L9-0vDUIRKmClJnWJAHnS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "B\u0119dzin Nasze Miasto on MSN9 godz.",
+            "date": "B\u0119dzin Nasze Miasto on MSN13 godz.",
             "source": "B\u0119dzin Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -202,7 +218,7 @@
             "description": "W niedziel\u0119, 5 pa\u017adziernika 2025 roku, na Pchlim Targu we W\u0142oc\u0142awku przy alei Kazimierza Wielkiego pogoda sprzyja\u0142a klientom.",
             "image_url": "https://www.bing.pl/th?id=OVFT.5qYAcHQz9FEGOqkcd-j_ni&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN7 godz.",
+            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN11 godz.",
             "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -218,7 +234,7 @@
             "description": "Niedzielne targi w Poznaniu ciesz\u0105 coraz wi\u0119ksz\u0105 popularno\u015bci\u0105. Dzisiaj po raz pierwszy na Franowie ruszy\u0142 Pyra Targ. To ju\u017c ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.yjO4L5cBASvcZO-u9YUIoi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "G\u0142os Wielkopolski13 godz.",
+            "date": "G\u0142os Wielkopolski17 godz.",
             "source": "G\u0142os Wielkopolski",
             "article_content": "Content not available"
         }
@@ -234,7 +250,7 @@
             "description": "W niedziel\u0119, 5 pa\u017adziernika 2025 roku, na Pchlim Targu we W\u0142oc\u0142awku przy alei Kazimierza Wielkiego pogoda sprzyja\u0142a klientom. Wielu mieszka\u0144c\u00f3w W\u0142oc\u0142awka i okolicznych powiat\u00f3w odwiedzi\u0142o popularny ba ...",
             "image_url": "https://www.bing.pl/th?id=ODF.Bm8piDnsAoinfeChI0AgCw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN7 godz.",
+            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN11 godz.",
             "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -245,14 +261,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Pras\u00f3wka Pozna\u0144 6.10.2025 - wydarzenia dnia. Podsumowanie z wczoraj - sprawd\u017a, czy w Poznaniu nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego",
-            "link": "https://poznan.naszemiasto.pl/prasowka-poznan-6-10-2025-wydarzenia-dnia-podsumowanie-z-wczoraj-sprawdz-czy-w-poznaniu-nie-minelo-cie-nic-waznego/ar/c1p1-19738363",
-            "description": "W niedziel\u0119, 5 pa\u017adziernika na Placu Wolno\u015bci w Poznaniu odby\u0142o si\u0119 wydarzenie upami\u0119tniaj\u0105ce dzieci, kt\u00f3re zgin\u0119\u0142y w Strefie ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.5RGrE5_om2QW9ZypI6i2Cy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Nowy pozna\u0144ski targ wystartowa\u0142. Przyci\u0105gn\u0105\u0142 mn\u00f3stwo ludzi!",
+            "link": "https://epoznan.pl/news-news-168391-nowy_poznanski_targ_wystartowal_przyciagnal_mnostwo_ludzi",
+            "description": "Zgodnie z wcze\u015bniejszymi zapowiedziami, w niedziel\u0119 ruszy\u0142 pierwszy Pyra Targ. Pyra Targ to nowo\u015b\u0107, kt\u00f3ra zacz\u0119\u0142a dzia\u0142a\u0107 w ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.M1H_Tx5fQvWvuJffklltHy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Pozna\u0144 Nasze Miasto29 min",
-            "source": "Pozna\u0144 Nasze Miasto",
-            "article_content": "Content not available"
+            "date": "epoznan.pl1 godz.",
+            "source": "epoznan.pl",
+            "article_content": "Zgodnie z wcze\u015bniejszymi zapowiedziami, w niedziel\u0119 ruszy\u0142 pierwszy Pyra Targ.\n\nPyra Targ to nowo\u015b\u0107, kt\u00f3ra zacz\u0119\u0142a dzia\u0142a\u0107 w niedziel\u0119, 5 pa\u017adziernika. Ma odbywa\u0107 si\u0119 w ka\u017cd\u0105 niedziel\u0119 na parkingu Homepark Franowo, a wi\u0119c blisko IKEA. Targ ma by\u0107 otwarty w godzinach 7:00 - 14:00. Pierwsza edycja okaza\u0142a si\u0119 frekwencyjnym sukcesem. Pojawi\u0142o si\u0119 wielu sprzedaj\u0105cych i kupuj\u0105cych.\n\nLokalizacja wydaje si\u0119 by\u0107 dobra. Dlaczego? Od niedawna po s\u0105siedzku, na parkingu CH M1, ponownie odbywa si\u0119 Gie\u0142da Staroci - Pchli Targ. W ramach jednego dojazdu klienci mog\u0105 wi\u0119c odwiedzi\u0107 dwa miejsca.\n\nWci\u0105\u017c nie wiadomo, co z Niedzielnym Targiem, kt\u00f3ry z okolic Avenidy przeni\u00f3s\u0142 si\u0119 na plac przy ulicy Baraniaka. Co najmniej do 12 pa\u017adziernika wydarzenie ma si\u0119 nie odbywa\u0107. Organizatorzy nie podali jednak jeszcze, co dalej."
         }
     },
     {
@@ -266,9 +282,9 @@
             "description": "Wed\u0142ug analizy przedstawionej podczas Mi\u0119dzynarodowego Kongresu Astronautycznego w Sydney stare rakiety kr\u0105\u017c\u0105ce ...",
             "image_url": "https://www.bing.pl/th?id=ODF.gtCY47_G86Q7QER3nYV5aw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "ANDROID.COM.PL13 godz.",
+            "date": "ANDROID.COM.PL17 godz.",
             "source": "ANDROID.COM.PL",
-            "article_content": "Wed\u0142ug analizy przedstawionej podczas Mi\u0119dzynarodowego Kongresu Astronautycznego w Sydney usuni\u0119cie zaledwie 50 najgro\u017aniejszych obiekt\u00f3w z niskiej orbity oko\u0142oziemskiej mog\u0142oby o po\u0142ow\u0119 zmniejszy\u0107 ryzyko kolizji z kosmicznymi \u015bmieciami.\n\nStare rakiety i zagro\u017cenie w kosmosie\n\nNowe badanie kierowane przez Darrena McKnighta z firmy LeoLabs ujawnia, \u017ce wi\u0119kszo\u015b\u0107 najbardziej ryzykownych obiekt\u00f3w na orbicie to relikty z ubieg\u0142ego wieku. Z 50 element\u00f3w uznanych za najbardziej niebezpieczne a\u017c 76% powsta\u0142o przed rokiem 2000, a 88% to martwe cz\u0142ony rakiet, kt\u00f3re po zako\u0144czeniu misji pozosta\u0142y na orbicie. Te masywne konstrukcje poruszaj\u0105ce si\u0119 z pr\u0119dko\u015bci\u0105 oko\u0142o 8 kilometr\u00f3w na sekund\u0119, wci\u0105\u017c kr\u0105\u017c\u0105 mi\u0119dzy 700 a 1000 kilometr\u00f3w nad powierzchni\u0105 Ziemi \u2013 w jednym z najbardziej zat\u0142oczonych pas\u00f3w orbity.\n\nPrzeczytaj tak\u017ce: Jaki smartfon do 1000 z\u0142otych wybra\u0107? Ranking polecanych telefon\u00f3w\n\nZderzenie nawet z niewielkim od\u0142amkiem przy takich pr\u0119dko\u015bciach mog\u0142oby spowodowa\u0107 efekt domina, znany jako syndrom Kesslera \u2013 lawinowe namna\u017canie si\u0119 nowych fragment\u00f3w \u015bmieci, kt\u00f3re uniemo\u017cliwi\u0142yby bezpieczne korzystanie z przestrzeni kosmicznej. Najwi\u0119cej obiekt\u00f3w z listy pochodzi z Rosji i by\u0142ego Zwi\u0105zku Radzieckiego \u2013 a\u017c 34. Na dalszych miejscach znalaz\u0142y si\u0119 Chiny (10), Stany Zjednoczone (3), Europa (2) i Japonia (1). Dominuj\u0105 zw\u0142aszcza rosyjskie rakiety typu SL-16 i SL-8, kt\u00f3re odpowiadaj\u0105 za 30 z 50 najbardziej niebezpiecznych szcz\u0105tk\u00f3w.\n\nWed\u0142ug analizy McKnighta samo usuni\u0119cie 10 najbardziej ryzykownych obiekt\u00f3w mog\u0142oby zmniejszy\u0107 og\u00f3lne zagro\u017cenie o 30%, a oczyszczenie orbity z ca\u0142ej pi\u0119\u0107dziesi\u0105tki a\u017c o po\u0142ow\u0119. To pierwszy raz, gdy naukowcy przedstawili konkretne wyliczenia pokazuj\u0105ce realny wp\u0142yw dzia\u0142a\u0144 oczyszczaj\u0105cych na bezpiecze\u0144stwo orbity.\n\nOkazje wybrane dla Ciebie REKLAMA\n\nNowe \u015bmieci z nowych misji\n\nCho\u0107 wi\u0119kszo\u015b\u0107 problem\u00f3w pochodzi z przesz\u0142o\u015bci, wsp\u00f3\u0142czesne misje r\u00f3wnie\u017c dok\u0142adaj\u0105 swoje. Jak zauwa\u017ca Ars Technica \u2013 tylko od pocz\u0105tku 2024 roku na niskiej orbicie znalaz\u0142o si\u0119 26 nowych g\u00f3rnych cz\u0142on\u00f3w rakiet, kt\u00f3re pozostan\u0105 tam d\u0142u\u017cej ni\u017c 25 lat \u2013 czyli znacznie powy\u017cej mi\u0119dzynarodowego limitu uzgodnionego przez mi\u0119dzyagencyjny komitet IADC. Najwi\u0119cej z nich, bo a\u017c 21 pochodzi z Chin.\n\nWynika to g\u0142\u00f3wnie z intensywnych prac nad chi\u0144skimi konstelacjami Guowang i Thousand Sails \u2013 odpowiednikami Starlinka Elona Muska. Cho\u0107 same satelity s\u0105 stosunkowo ma\u0142e i manewrowe, to rakiety, kt\u00f3re je wynosz\u0105, cz\u0119sto pozostaj\u0105 na orbicie bez mo\u017cliwo\u015bci deorbitacji. Niekt\u00f3re nowsze chi\u0144skie systemy, jak rakieta D\u0142ugi Marsz 5 z modu\u0142em YZ-2 potrafi\u0105 samodzielnie zej\u015b\u0107 z orbity, jednak wi\u0119kszo\u015b\u0107 misji wci\u0105\u017c wykorzystuje starsze modele, kt\u00f3re po prostu dryfuj\u0105 w przestrzeni.\n\nWed\u0142ug McKnighta, je\u015bli Chiny utrzymaj\u0105 obecne tempo w ci\u0105gu kilku lat mog\u0105 pozostawi\u0107 w przestrzeni ponad 100 niekontrolowanych cz\u0142on\u00f3w rakietowych. To oznacza, \u017ce mimo rosn\u0105cej \u015bwiadomo\u015bci ekologicznej w kosmosie, problem \u015bmieci wci\u0105\u017c narasta.\n\nGad\u017cety i sprz\u0119ty polecane przez nasz\u0105 redakcj\u0119 (linki afiliacyjne prowadz\u0105 do sklepu partnera)\n\n\u0179r\u00f3d\u0142o: Ars Technica, opracowanie w\u0142asne. Zdj\u0119cie otwieraj\u0105ce: Premium Resource / Adobe Stock\n\nCz\u0119\u015b\u0107 odno\u015bnik\u00f3w to linki afiliacyjne lub linki do ofert naszych partner\u00f3w. Po klikni\u0119ciu mo\u017cesz zapozna\u0107 si\u0119 z cen\u0105 i dost\u0119pno\u015bci\u0105 wybranego przez nas produktu \u2013 nie ponosisz \u017cadnych koszt\u00f3w, a jednocze\u015bnie wspierasz niezale\u017cno\u015b\u0107 zespo\u0142u redakcyjnego."
+            "article_content": "Wed\u0142ug analizy przedstawionej podczas Mi\u0119dzynarodowego Kongresu Astronautycznego w Sydney usuni\u0119cie zaledwie 50 najgro\u017aniejszych obiekt\u00f3w z niskiej orbity oko\u0142oziemskiej mog\u0142oby o po\u0142ow\u0119 zmniejszy\u0107 ryzyko kolizji z kosmicznymi \u015bmieciami.\n\nStare rakiety i zagro\u017cenie w kosmosie\n\nNowe badanie kierowane przez Darrena McKnighta z firmy LeoLabs ujawnia, \u017ce wi\u0119kszo\u015b\u0107 najbardziej ryzykownych obiekt\u00f3w na orbicie to relikty z ubieg\u0142ego wieku. Z 50 element\u00f3w uznanych za najbardziej niebezpieczne a\u017c 76% powsta\u0142o przed rokiem 2000, a 88% to martwe cz\u0142ony rakiet, kt\u00f3re po zako\u0144czeniu misji pozosta\u0142y na orbicie. Te masywne konstrukcje poruszaj\u0105ce si\u0119 z pr\u0119dko\u015bci\u0105 oko\u0142o 8 kilometr\u00f3w na sekund\u0119, wci\u0105\u017c kr\u0105\u017c\u0105 mi\u0119dzy 700 a 1000 kilometr\u00f3w nad powierzchni\u0105 Ziemi \u2013 w jednym z najbardziej zat\u0142oczonych pas\u00f3w orbity.\n\nPrzeczytaj tak\u017ce: Jaki smartfon do 1000 z\u0142otych wybra\u0107? Ranking polecanych telefon\u00f3w\n\nZderzenie nawet z niewielkim od\u0142amkiem przy takich pr\u0119dko\u015bciach mog\u0142oby spowodowa\u0107 efekt domina, znany jako syndrom Kesslera \u2013 lawinowe namna\u017canie si\u0119 nowych fragment\u00f3w \u015bmieci, kt\u00f3re uniemo\u017cliwi\u0142yby bezpieczne korzystanie z przestrzeni kosmicznej. Najwi\u0119cej obiekt\u00f3w z listy pochodzi z Rosji i by\u0142ego Zwi\u0105zku Radzieckiego \u2013 a\u017c 34. Na dalszych miejscach znalaz\u0142y si\u0119 Chiny (10), Stany Zjednoczone (3), Europa (2) i Japonia (1). Dominuj\u0105 zw\u0142aszcza rosyjskie rakiety typu SL-16 i SL-8, kt\u00f3re odpowiadaj\u0105 za 30 z 50 najbardziej niebezpiecznych szcz\u0105tk\u00f3w.\n\nWed\u0142ug analizy McKnighta samo usuni\u0119cie 10 najbardziej ryzykownych obiekt\u00f3w mog\u0142oby zmniejszy\u0107 og\u00f3lne zagro\u017cenie o 30%, a oczyszczenie orbity z ca\u0142ej pi\u0119\u0107dziesi\u0105tki a\u017c o po\u0142ow\u0119. To pierwszy raz, gdy naukowcy przedstawili konkretne wyliczenia pokazuj\u0105ce realny wp\u0142yw dzia\u0142a\u0144 oczyszczaj\u0105cych na bezpiecze\u0144stwo orbity.\n\nProdukty wybrane dla Ciebie REKLAMA\n\nNowe \u015bmieci z nowych misji\n\nCho\u0107 wi\u0119kszo\u015b\u0107 problem\u00f3w pochodzi z przesz\u0142o\u015bci, wsp\u00f3\u0142czesne misje r\u00f3wnie\u017c dok\u0142adaj\u0105 swoje. Jak zauwa\u017ca Ars Technica \u2013 tylko od pocz\u0105tku 2024 roku na niskiej orbicie znalaz\u0142o si\u0119 26 nowych g\u00f3rnych cz\u0142on\u00f3w rakiet, kt\u00f3re pozostan\u0105 tam d\u0142u\u017cej ni\u017c 25 lat \u2013 czyli znacznie powy\u017cej mi\u0119dzynarodowego limitu uzgodnionego przez mi\u0119dzyagencyjny komitet IADC. Najwi\u0119cej z nich, bo a\u017c 21 pochodzi z Chin.\n\nWynika to g\u0142\u00f3wnie z intensywnych prac nad chi\u0144skimi konstelacjami Guowang i Thousand Sails \u2013 odpowiednikami Starlinka Elona Muska. Cho\u0107 same satelity s\u0105 stosunkowo ma\u0142e i manewrowe, to rakiety, kt\u00f3re je wynosz\u0105, cz\u0119sto pozostaj\u0105 na orbicie bez mo\u017cliwo\u015bci deorbitacji. Niekt\u00f3re nowsze chi\u0144skie systemy, jak rakieta D\u0142ugi Marsz 5 z modu\u0142em YZ-2 potrafi\u0105 samodzielnie zej\u015b\u0107 z orbity, jednak wi\u0119kszo\u015b\u0107 misji wci\u0105\u017c wykorzystuje starsze modele, kt\u00f3re po prostu dryfuj\u0105 w przestrzeni.\n\nWed\u0142ug McKnighta, je\u015bli Chiny utrzymaj\u0105 obecne tempo w ci\u0105gu kilku lat mog\u0105 pozostawi\u0107 w przestrzeni ponad 100 niekontrolowanych cz\u0142on\u00f3w rakietowych. To oznacza, \u017ce mimo rosn\u0105cej \u015bwiadomo\u015bci ekologicznej w kosmosie, problem \u015bmieci wci\u0105\u017c narasta.\n\n\u0179r\u00f3d\u0142o: Ars Technica, opracowanie w\u0142asne. Zdj\u0119cie otwieraj\u0105ce: Premium Resource / Adobe Stock\n\nCz\u0119\u015b\u0107 odno\u015bnik\u00f3w to linki afiliacyjne lub linki do ofert naszych partner\u00f3w. Po klikni\u0119ciu mo\u017cesz zapozna\u0107 si\u0119 z cen\u0105 i dost\u0119pno\u015bci\u0105 wybranego przez nas produktu \u2013 nie ponosisz \u017cadnych koszt\u00f3w, a jednocze\u015bnie wspierasz niezale\u017cno\u015b\u0107 zespo\u0142u redakcyjnego."
         }
     },
     {
@@ -277,14 +293,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Z miasta",
-            "link": "https://zawiercie.naszemiasto.pl/wiadomosci/z-miasta/5",
-            "description": "Odznaczony wieloma zas\u0142ugami krajowymi oraz lokalnymi zawiercia\u0144ski pisarz i poeta, tw\u00f3rca \u017cycia kulturalnego miasta, Bogdan ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Akt terroru czy heroizmu? Zamach bombowy w Opolu w 1971 roku",
+            "link": "https://polskieradio24.pl/artykul/3589045,akt-terroru-czy-heroizmu-zamach-bombowy-w-opolu-w-1971-roku",
+            "description": "W nocy z 5 na 6 pa\u017adziernika 1971 roku aula Wy\u017cszej Szko\u0142y Pedagogicznej w Opolu zosta\u0142a zniszczona przez wybuch bomby pod\u0142o\u017conej przez Jerzego Kowalczyka, kt\u00f3ry korzysta\u0142 z po\u015bredniej pomocy brata Ry ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.6-uLd_K6WpebCCUwQajA9A&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Zawiercie Nasze Miasto5 godz.",
-            "source": "Zawiercie Nasze Miasto",
-            "article_content": "Content not available"
+            "date": "Polskie Radio 241 godz.",
+            "source": "Polskie Radio 24",
+            "article_content": "Kryptonim \"Mrowisko\"\n\nWybuch nast\u0105pi\u0142 o godzinie 0.40 w \u015brod\u0119 6 pa\u017adziernika 1971 roku. \u0141adunek trotylu pod\u0142o\u017cony w kanale centralnego ogrzewania pod aul\u0105 oraz w korytarzu wysadzi\u0142 w powietrze ca\u0142\u0105 powierzchni\u0119 audytorium, w kt\u00f3rym dodatkowo wybi\u0142 poka\u017an\u0105 dziur\u0119 w dachu. Doszcz\u0119tnie zniszczone zosta\u0142y tak\u017ce pomieszczenia archiwum, biblioteki i bufetu. Si\u0142a wybuchu wybi\u0142a szyby w oknach. \u015aciany no\u015bne budynku pozosta\u0142y nienaruszone, ale aula Wy\u017cszej Szko\u0142y Pedagogicznej w Opolu mog\u0142a ponownie pe\u0142ni\u0107 swoj\u0105 rol\u0119 dopiero po generalnym remoncie.\n\nOd pocz\u0105tku by\u0142o jasne, \u017ce by\u0142 to akt dywersji wymierzony w jeden z fundament\u00f3w PRL. 7 pa\u017adziernika 1971 roku, w 27. rocznic\u0119 powo\u0142ania MO, w auli WSP mia\u0142y odby\u0107 si\u0119 obchody dorocznego \u015awi\u0119ta Milicji Obywatelskiej i S\u0142u\u017cby Bezpiecze\u0144stwa, podczas kt\u00f3rego zgodnie z PRL-owsk\u0105 tradycj\u0105 wr\u0119czano funkcjonariuszom pa\u0144stwowe odznaczenia i nagrody. Wysadzenie budynku w powietrze uniemo\u017cliwi\u0142o organizacj\u0119 opolskiej imprezy.\n\nDla milicji i SB to by\u0142 policzek. Od razu wszcz\u0119to \u015bledztwo pod kryptonimem \"Mrowisko\" maj\u0105ce na celu namierzenie sprawc\u00f3w zamachu, ale z pocz\u0105tku s\u0142u\u017cby gubi\u0142y si\u0119 w domys\u0142ach i wytypowa\u0142y a\u017c 200 podejrzanych. Po czasie ograniczy\u0142y ten kr\u0105g do 80 os\u00f3b, ale to wci\u0105\u017c nie zbli\u017cy\u0142o ich do rozwi\u0105zania zagadki. B\u0142\u0119dnie za\u0142o\u017cono w\u00f3wczas, \u017ce bomba by\u0142a dzie\u0142em \u015al\u0105zaka maj\u0105cego rodzin\u0119 w RFN. Do konserwatora Jerzego Czoka przes\u0142uchuj\u0105cy esbecy krzyczeli: \"przyznaj si\u0119, ty Goebbelsie!\".\n\nW\u015bciek\u0142o\u015b\u0107 w\u0142adz wywo\u0142a\u0142a postawa mjra Edwarda Go\u0142\u0119biowskiego, zast\u0119pcy naczelnika III wydzia\u0142u Komendy Wojew\u00f3dzkiej MO w Opolu, kt\u00f3ry ju\u017c w kwietniu 1970 roku dowiedzia\u0142 si\u0119 z dokument\u00f3w operacyjnych, \u017ce w jego rejonie \"pewna osoba czyni starania\" w celu \"zdobycia broni, \u015brodk\u00f3w chemicznych, map wojskowych i wykrywacza min oraz zamierza drog\u0105 nielegaln\u0105 przedosta\u0107 si\u0119 za granic\u0119\". Materia\u0142, zbagatelizowany w\u00f3wczas przez oficera SB, m\u00f3g\u0142 ju\u017c kilkana\u015bcie miesi\u0119cy wcze\u015bniej doprowadzi\u0107 do powstrzymania zamachu.\n\nZrujnowane przez eksplozj\u0119 wn\u0119trze auli WSP w Opolu. Fot. PAP/Ryszard Oko\u0144ski\n\nOskar\u017ceni i skazani\n\nGdy \u015bledczy odkryli przew\u00f3d, za pomoc\u0105 kt\u00f3rego zosta\u0142y uruchomione zapalniki bomby w auli WSP, a kt\u00f3ry ci\u0105gn\u0105\u0142 si\u0119 do piwnic budynku Katedry Fizyki Do\u015bwiadczalnej, wykrycie sprawc\u00f3w sta\u0142o si\u0119 kwesti\u0105 czasu. Pods\u0142uchy za\u0142o\u017cone pracownikom WSP szybko zaw\u0119zi\u0142y kr\u0105g podejrzanych. W ko\u0144cu SB uzna\u0142o, \u017ce tw\u00f3rcami bomby byli dwaj bracia - Jerzy Kowalczyk (ur. 1942), zatrudniony na WSP jako \u015blusarz mechanik, oraz Ryszard Kowalczyk (1937-2017), pracownik naukowy WSP, kt\u00f3ry niedawno obroni\u0142 doktorat i zdoby\u0142 posad\u0119 adiunkta w Katedrze Fizyki Do\u015bwiadczalnej.\n\n\"To ich rozmowy bezwiedne, bez \u015bwiadomo\u015bci, \u017ce s\u0105 pods\u0142uchiwani, doprowadzi\u0142y do zguby. Okaza\u0142y si\u0119 one p\u00f3\u017aniej dowodem koronnym. Rozmawiali niefrasobliwie, chocia\u017c pow\u015bci\u0105gliwie, raczej zdaniami niepe\u0142nymi, a jednak na podstawie tych rozm\u00f3w SB zorientowa\u0142a si\u0119, \u017ce to oni mogli zniszczy\u0107 pomieszczenie\" \u2013 pisa\u0142 Jacek Wegner w swojej ksi\u0105\u017cce \"Bez \u015bwiadk\u00f3w obrony. Historia Jerzego i Ryszarda Kowalczyk\u00f3w\".\n\nSwoj\u0105 rol\u0119 w rozpracowaniu sprawy odegra\u0142a r\u00f3wnie\u017c atrakcyjna TW \"Kasia\", 21-letnia kosmetyczka, kt\u00f3rej zadaniem by\u0142o zawr\u00f3cenie w g\u0142owie Jerzemu Kowalczykowi (wyjechali nawet - pod czujnym okiem SB - na kilka dni do Karpacza). Pozyskane przez ni\u0105 informacje potwierdzi\u0142y przypuszczenia \u015bledczych. To Jerzy Kowalczyk by\u0142 tym, kt\u00f3ry pod\u0142o\u017cy\u0142 bomb\u0119 pod aul\u0105 WSP.\n\n29 lutego 1972 roku, niespe\u0142na pi\u0119\u0107 miesi\u0119cy po zamachu, obaj bracia Kowalczykowie zostali zatrzymani przez milicj\u0119 i trafili do tymczasowego aresztu. Wprawdzie Prokuratura Wojew\u00f3dzka nie chcia\u0142a wyda\u0107 zgody na aresztowanie Ryszarda Kowalczyka z uwagi na brak dowod\u00f3w winy, ale s\u0142u\u017cby by\u0142y przekonane, \u017ce \"prosty\" \u015blusarz nie by\u0142by w stanie skonstruowa\u0107 bomby bez pomocy wykszta\u0142conego brata. W ko\u0144cu SB poskar\u017cy\u0142o si\u0119 MSW i po interwencji ministerstwa prokuratorzy byli zmuszeni zmieni\u0107 zdanie.\n\nFragment zniszczonego po wybuchu budynku WSP w Opolu. Fot. PAP/Ryszard Oko\u0144ski\n\nMaj\u0105c w gar\u015bci obu braci Kowalczyk\u00f3w, PRL mog\u0142a odebra\u0107 jeden ze swych ulubionych spektakli, czyli pokazowy proces ku przestrodze \"prowokator\u00f3w czy szale\u0144c\u00f3w, kt\u00f3ry odwa\u017c\u0105 si\u0119 podnie\u015b\u0107 r\u0119k\u0119 przeciw w\u0142adzy ludowej\" (jak to w 1956 roku uj\u0105\u0142 premier J\u00f3zef Cyrankiewicz). Dzi\u0119ki najzdolniejszym specjalistom od codziennych wyczerpuj\u0105cych przes\u0142ucha\u0144 SB od obu uzyska\u0142a przyznanie si\u0119 do winy, decyzja s\u0105du by\u0142 wi\u0119c ju\u017c tylko formalno\u015bci\u0105. A poniewa\u017c chodzi\u0142o o ludzi, kt\u00f3rzy o\u015bmieszyli PRL-owskie s\u0142u\u017cby, s\u0119dziowie pod dyktando w\u0142adz wydali naprawd\u0119 drako\u0144skie wyroki.\n\n8 wrze\u015bnia 1972 roku Jerzego Kowalczyka skazano na kar\u0119 \u015bmierci, a Ryszarda Kowalczyka na 25 lat pozbawienia wolno\u015bci. Wywo\u0142a\u0142o to oburzenie wielu Polak\u00f3w. Zebrano 6 tysi\u0119cy podpis\u00f3w pod petycj\u0105 o zmian\u0119 wyrok\u00f3w (w\u015br\u00f3d sygnatariuszy znale\u017ali si\u0119 m.in. Antoni S\u0142onimski, Marian Brandys, Jacek Kuro\u0144, Jan J\u00f3zef Lipski, Adam Michnik, Jan Olszewski). Wobec masy tego protestu Rada Pa\u0144stwa ugi\u0119\u0142a si\u0119 ju\u017c w styczniu 1973 roku. Zamieniono kar\u0119 \u015bmierci dla Jerzego Kowalczyka na 25 lat wi\u0119zienia.\n\nNiemal dekad\u0119 p\u00f3\u017aniej, podczas \"karnawa\u0142u Solidarno\u015bci\", spo\u0142ecze\u0144stwo zacz\u0119\u0142o wysuwa\u0107 \u017c\u0105dania uwolnienia Kowalczyk\u00f3w. W\u0142adze postanowi\u0142y przychyli\u0107 si\u0119 do tych postulat\u00f3w dopiero po stanie wojennym. Ryszarda Kowalczyka zwolniono warunkowo w sierpniu 1983 roku, a Jerzego Kowalczyka prawie dwa lata p\u00f3\u017aniej. Obu jednak wypuszczano pod gro\u017ab\u0105, \u017ce w ka\u017cdej chwili mog\u0105 zosta\u0107 ponownie uwi\u0119zieni.\n\nW 1993 roku prezydent Lech Wa\u0142\u0119sa nakaza\u0142 wykre\u015blenie Kowalczyk\u00f3w z Centralnego Rejestru Skazanych, czego skutkiem by\u0142o zatarcie obu wyrok\u00f3w i przywr\u00f3cenie braciom praw obywatelskich. W 2016 roku prezydent Andrzej Duda nada\u0142 Jerzemu i Ryszardowi Kowalczykom Krzy\u017ce Kawalerskie Orderu Odrodzenia Polski.\n\nKrak\u00f3w, 27 maja 1981 roku. Marsz protestacyjny Komitetu Obrony Wi\u0119zionych za Przekonania z transparentem \"Wolno\u015b\u0107 dla braci Kowalczyk\u00f3w\". Fot. PAP/Jerzy Ocho\u0144ski\n\nBracia Kowalczykowie. Fakty i mity\n\nZ tego kr\u00f3tkiego przedstawienia kilku najwa\u017cniejszych informacji o sprawie wybuchu bomby w auli WSP w Opolu i losach braci Kowalczyk\u00f3w wy\u0142ania si\u0119 obraz do\u015b\u0107 typowy dla wi\u0119kszo\u015bci narracji o PRL - opowie\u015b\u0107 o pot\u0119dze komunistycznego re\u017cimu z \u015bcieraj\u0105cego si\u0119 z garstk\u0105 opozycjonist\u00f3w heroicznie walcz\u0105cych o wolno\u015b\u0107 i demokracj\u0119. Czyn braci Kowalczyk\u00f3w by\u0142 na pewno spektakularnym aktem politycznego oporu wobec systemu, kt\u00f3ry opiera\u0142 si\u0119 na zbrodni, k\u0142amstwie, cwaniactwie i konformizmie - ale czy da si\u0119 go w pe\u0142ni usprawiedliwi\u0107 w perspektywie walki niepodleg\u0142o\u015bciowej, jak to dzi\u015b zazwyczaj si\u0119 dzieje?\n\nNie ulega w\u0105tpliwo\u015bci, \u017ce Jerzy i Ryszard Kowalczykowie zostali potraktowani skrajnie niesprawiedliwie przez ludowe w\u0142adze, kt\u00f3re forsowa\u0142y fa\u0142szywe twierdzenia o ich motywacjach. Przede wszystkim na nieprawdzie oparte jest postawienie w jednym szeregu obydwu braci. To Jerzy Kowalczyk ukry\u0142 trotyl w budynku auli WSP, skonstruowa\u0142 zapalnik, a nast\u0119pnie w nocy z 5 na 6 pa\u017adziernika 1971 roku zdalnie uruchomi\u0142 bomb\u0119, doprowadzaj\u0105c do niszcz\u0105cej eksplozji.\n\nRyszard Kowalczyk jako fizyk pom\u00f3g\u0142 bratu wykona\u0107 niezb\u0119dne obliczenia, ale po pierwsze nie wierzy\u0142, \u017ce Jerzy naprawd\u0119 d\u0105\u017cy do zamachu, po drugie wielokrotnie pr\u00f3bowa\u0142 odwie\u015b\u0107 go od tego zamiaru (obaj potwierdzili to podczas przes\u0142ucha\u0144). W \u015bwietle prawa trudno uzna\u0107 go za wsp\u00f3lnika zamachu, ca\u0142\u0105 jego \"win\u0105\" by\u0142o raczej zaniechanie bardziej zdecydowanego oporu wzgl\u0119dem plan\u00f3w brata.\n\nKolejnym k\u0142amstwem s\u0142u\u017cb by\u0142o oskar\u017cenie Kowalczyk\u00f3w o ch\u0119\u0107 zamordowania ludzi przebywaj\u0105cych w auli. Opinii publicznej przedstawiono w 1972 roku wersj\u0119, zgodnie z kt\u00f3r\u0105 nocna eksplozja mia\u0142a by\u0107 b\u0142\u0119dem, przedwczesn\u0105 reakcj\u0105 zapalnika, a bomba mia\u0142a wybuchn\u0105\u0107 w chwili, gdy audytorium wype\u0142ni si\u0119 lud\u017ami. By\u0142y to opinie ca\u0142kowicie niezgodne z zeznaniami obu oskar\u017conych.\n\nJerzy Kowalczyk celowo dokona\u0142 swego czynu w \u015brodku nocy, by mie\u0107 pewno\u015b\u0107, \u017ce nikogo nie skrzywdzi. Co wi\u0119cej - przed odpaleniem bomby sprawdzi\u0142 dok\u0142adnie, czy nikogo nie ma w budynku i w jego pobli\u017cu. \u0141adunki umie\u015bci\u0142 tak, by fala uderzeniowa posz\u0142a do g\u00f3ry. Wiedzia\u0142, \u017ce eksplozja w innej cz\u0119\u015bci gmachu mog\u0142aby dokona\u0107 wi\u0119kszych zniszcze\u0144, ale mia\u0142by nad ni\u0105 zarazem mniejsz\u0105 kontrol\u0119. Wybra\u0142 opcj\u0119 \"bezpieczniejsz\u0105\".\n\nZniszczenie auli WSP w Opolu. Fot. PAP/Ryszard Oko\u0144ski\n\nPrzedstawianie Kowalczyk\u00f3w jako terroryst\u00f3w nie licz\u0105cych si\u0119 z ludzkim \u017cyciem by\u0142o na r\u0119k\u0119 komunistom, kt\u00f3rzy na u\u017cytek wewn\u0119trznej propagandy ch\u0119tnie korzystali z tego spreparowanego antyprzyk\u0142adu. Wydaje si\u0119 wi\u0119c, \u017ce tworzenie przeciwnego mitu bohaterstwa braci by\u0142o zupe\u0142nie naturaln\u0105 reakcj\u0105 opozycji demokratycznej. W \u015brodowisku tym nie jednak ma zgody co do oceny wydarzenia z 1971 roku.\n\nNiekt\u00f3rym nie podoba\u0142o si\u0119 to, \u017ce swoim dzia\u0142aniem Jerzy Kowalczyk doprowadzi\u0142 do zniszczenia infrastruktury Wy\u017cszej Szko\u0142y Pedagogicznej, kt\u00f3ra na co dzie\u0144 s\u0142u\u017cy\u0142a nauce, a nie milicyjnym \u015bwi\u0119tom. Zwracano uwag\u0119, \u017ce op\u00f3r polityczny mo\u017cna wyra\u017ca\u0107 na wiele sposob\u00f3w, nie uciekaj\u0105c si\u0119 wcale do akt\u00f3w terroru. W zwi\u0105zku z tym m.in. cz\u0142onkowie NSZZ \"Solidarno\u015b\u0107\" Pracownik\u00f3w Wymiaru Sprawiedliwo\u015bci w Opolu ju\u017c w 1981 roku, gdy obaj Kowalczykowie nadal siedzieli w wi\u0119zieniu, wyst\u0105pi\u0142a przeciw uznaniu braci za wi\u0119\u017ani\u00f3w politycznych, a wi\u0119c zarazem przeciw idealizowaniu ich czynu sprzed dekady.\n\nTo musia\u0142o bulwersowa\u0107 tych, kt\u00f3rzy podkre\u015blali, \u017ce przecie\u017c zamach ten, jednocze\u015bnie bezkrwawy i wymowny, mia\u0142 by\u0107 wyrazem sprzeciwu wobec honorowania i nagradzania morderc\u00f3w, czyli funkcjonariuszy MO i SB, kt\u00f3rzy w grudniu 1970 roku strzelali do polskich robotnik\u00f3w na Wybrze\u017cu. Bowiem - powtarzano - to w\u0142a\u015bnie mia\u0142o si\u0119 wydarzy\u0107 w auli WSP w dniu 7 pa\u017adziernika 1971 roku, nieca\u0142e 10 miesi\u0119cy po grudniowych zbrodniach. Okoliczno\u015b\u0107 ta, jak utrzymywali obro\u0144cy braci (z Ann\u0105 Walentynowicz na czele, kt\u00f3ra o dramacie Kowalczyk\u00f3w m\u00f3wi\u0142a najg\u0142o\u015bniej) ca\u0142kowicie rozgrzesza ich z winy wysadzenia auli WSP.\n\nDo tej interpretacji odnosi si\u0119 tablica ods\u0142oni\u0119ta w 2016 roku w Opolskim Urz\u0119dzie Wojew\u00f3dzkim (co ciekawe, w\u0142adze Uniwersytetu Opolskiego, kt\u00f3ry jest spadkobierc\u0105 WSP, nie zgodzi\u0142y si\u0119 na tego rodzaju upami\u0119tnienie ze wzgl\u0119du na wci\u0105\u017c nie gasn\u0105ce kontrowersje). Jego tre\u015b\u0107 brzmi:\n\n\"W nocy z 5 na 6 pa\u017adziernika 1971 r. bracia Jerzy i Ryszard Kowalczykowie wysadzili aul\u0119 Wy\u017cszej Szko\u0142y Pedagogicznej w Opolu ku przestrodze i opami\u0119taniu zbrodniarzy z SB, MO, LWP i ich mocodawc\u00f3w z PZPR, sprawc\u00f3w masakry robotnik\u00f3w Wybrze\u017ca w grudniu 1970 r. Czynem tym uniemo\u017cliwili maj\u0105c\u0105 odby\u0107 si\u0119 nast\u0119pnego dnia celebracj\u0119 wr\u0119czenia zbrodniarzom nagr\u00f3d i order\u00f3w za przelanie polskiej krwi\".\n\n5 pa\u017adziernika 2016 roku. Ryszard Kowalczyk podczas uroczysto\u015bci ods\u0142oni\u0119cia tablicy i nadania nazwy sali im. Jerzego i Ryszarda Kowalczyk\u00f3w w Opolskim Urz\u0119dzie Wojew\u00f3dzkim. Fot. PAP/Krzysztof \u015awiderski\n\nRzecz jest jednak bardziej skomplikowana, a prawda tworzy tu przedziwn\u0105 mieszank\u0119 z mitologi\u0105. Po pierwsze nie ma dokument\u00f3w, kt\u00f3re potwierdza\u0142yby, \u017ce podczas \u015awi\u0119ta MO i SB w Opolu zamierzano nagradza\u0107 tych, kt\u00f3rzy zabijali ludzi w grudniu 1970 roku. Ekipa Gierka by\u0142a \u015bwiadoma, \u017ce po tragedii, kt\u00f3ra wydarzy\u0142a si\u0119 w Szczecinie, Gdyni, Gda\u0144sku i Elbl\u0105gu, taki gest m\u00f3g\u0142by wywo\u0142a\u0107 gwa\u0142town\u0105 reakcj\u0119 spo\u0142eczn\u0105.\n\nBy\u0142a jednak osoba, kt\u00f3ra \u0142\u0105czy\u0142a oba wydarzenia - to p\u0142k Julian Urant\u00f3wka, od 20 wrze\u015bnia 1971 roku komendant wojew\u00f3dzki MO w Opolu, kt\u00f3ry wcze\u015bniej, pe\u0142ni\u0105 analogiczn\u0105 funkcj\u0119 w Szczecinie, wyda\u0142 bezpo\u015bredni rozkaz otwarcia ognia do strajkuj\u0105cych stoczniowc\u00f3w. Zn\u00f3w jednak \u2013 z dokument\u00f3w nie wynika, by mia\u0142 zosta\u0107 odznaczony w zwi\u0105zku z wydarzeniami grudniowymi. Z dokument\u00f3w wynika wr\u0119cz, \u017ce przeniesienie Urant\u00f3wki do Opola mia\u0142o by\u0107 form\u0105 za\u0142agodzenia k\u0142opotliwej sytuacji, w kt\u00f3rej znienawidzony przez ludno\u015b\u0107 oficer pozosta\u0142by na swym stanowisku.\n\nNa te kwestie zwr\u00f3ci\u0142 uwag\u0119 zajmuj\u0105cy si\u0119 publicystyk\u0105 historyczn\u0105 by\u0142y opozycjonista opolski Zbigniew Bereszy\u0144ski, m.in. w tek\u015bcie \" Sprawa braci Kowalczyk\u00f3w jako przyk\u0142ad mitologizacji historii\" z 2022 roku. Przypomnia\u0142, \u017ce Jerzy Kowalczyk nie zacz\u0105\u0142 planowa\u0107 zamachu dopiero po grudniu 1970 roku ani - tym bardziej - po przeniesieniu Juliana Urant\u00f3wki do Opola we wrze\u015bniu 1971 roku (nawet zak\u0142adaj\u0105c, \u017ce zna\u0142 szczeg\u00f3\u0142y jego odpowiedzialno\u015bci za masakr\u0119 robotnik\u00f3w). Gdyby tak by\u0142o, nie zd\u0105\u017cy\u0142by przed pa\u017adziernikiem.\n\nSam Jerzy Kowalczyk, jak mo\u017cna wyczyta\u0107 z jego zezna\u0144 z\u0142o\u017conych w 1972 roku, zradykalizowa\u0142 si\u0119 ju\u017c 1968 roku w obliczu wydarze\u0144 marcowych oraz inwazji wojsk Uk\u0142adu Warszawskiego na Czechos\u0142owacj\u0119. Materia\u0142y pirotechniczne, g\u0142\u00f3wnie w formie wojennych niewybuch\u00f3w, kolekcjonowa\u0142 jednak ju\u017c wcze\u015bniej, cho\u0107 bez konkretnego planu. Ten zacz\u0105\u0142 si\u0119 krystalizowa\u0107 w jego g\u0142owie pod koniec lat 60., na d\u0142ugo przed grudniowymi zdarzeniami. Ju\u017c w listopadzie 1970 roku worki ze zgromadzonym przez lata trotylem Kowalczyk ukry\u0142 w swoim opolskim mieszkaniu oraz w jednym z budynk\u00f3w WSP.\n\nNie znaczy to oczywi\u015bcie, \u017ce tragedia ta nie wp\u0142yn\u0119\u0142a na jego zamiary. Mo\u017cna zak\u0142ada\u0107, \u017ce tylko utwierdzi\u0142a go w przekonaniu, \u017ce trzeba jako\u015b wstrz\u0105sn\u0105\u0107 spo\u0142ecze\u0144stwem pogr\u0105\u017conym w marazmie i koniunkturalizmie. Ryszard Kowalczyk w wywiadzie udzielonym w 20026 roku \"Nowej Trybunie Opolskiej\" wyzna\u0142: \"my\u015bmy bardzo bole\u015bnie prze\u017cyli masakr\u0119 na Wybrze\u017cu\", nie powt\u00f3rzy\u0142 jednak popularnego twierdzenia o \"orderach za przelanie polskiej krwi\".\n\nZreszt\u0105 Jerzy Kowalczyk d\u0142ugo wybiera\u0142 dat\u0119 swego \"wybuchowego manifestu\". Pierwotnie nie my\u015bla\u0142 wcale o milicyjnym \u015bwi\u0119cie. Chcia\u0142 wykorzysta\u0107 okazj\u0119 przy innych g\u0142o\u015bnych imprezach w 1971 roku. Najpierw mia\u0142o to by\u0107 spotkanie z by\u0142ym premierem J\u00f3zefem Cyrankiewiczem. Wtedy jednak Ryszard Kowalczyk by\u0142 tu\u017c przed obron\u0105 pracy doktorskiej i ub\u0142aga\u0142 brata, by si\u0119 jeszcze wstrzyma\u0142. P\u00f3\u017aniej Jerzy Kowalczyk zamierza\u0142 uniemo\u017cliwi\u0107 centralne uroczysto\u015bci do\u017cynkowe, te jednak zosta\u0142y przeniesione na stadion \"Odry\".\n\nI dlatego ostatecznie pad\u0142o na \u015awi\u0119to MO i SB. \"Pierwszym naszym zamys\u0142em by\u0142o o\u015bmieszenie tych wszystkich, kt\u00f3rzy si\u0119 zbierali w tej auli - milicjant\u00f3w, SB-k\u00f3w, dygnitarzy. Chcieli\u015bmy zdetonowa\u0107 petard\u0119, jaki\u015b niewielki \u0142adunek ponad ich g\u0142owami. Chcieli\u015bmy ich o\u015bmieszy\u0107 i wystraszy\u0107\" \u2013 wspomina\u0142 Ryszard Kowalczyk w \"Nowej Trybunie Opolskiej\". \u2013 \"Jednak wtedy nie mo\u017cna by\u0142o petard kupi\u0107. Jurek, ch\u0142opak zdecydowany i konsekwentny, zacz\u0105\u0142 poszukiwa\u0107 \u0142adunk\u00f3w wybuchowych\".\n\n5 pa\u017adziernika 2016 roku. Ryszard Kowalczyk odznaczany przez sekretarza stanu w Kancelarii Prezydenta RP Andrzeja Der\u0119 Krzy\u017cem Kawalerskim Orderu Odrodzenia Polski. Fot. PAP/Krzysztof \u015awiderski\n\nCo ciekawe, z up\u0142ywem lat to w\u0142a\u015bnie Ryszard sta\u0142 si\u0119 \"twarz\u0105\" braci Kowalczyk\u00f3w. Jerzy niech\u0119tnie wraca\u0142 do przesz\u0142o\u015bci. Zaszy\u0142 si\u0119 w okolicach Rz\u0105\u015bnika na Mazowszu, rodzinnej wsi Kowalczyk\u00f3w. Mieszka tam do dzi\u015b. Nie zjawi\u0142 si\u0119 w Opolu w 2016 roku, gdy uroczy\u015bcie ods\u0142oni\u0119to wspomnian\u0105 tablic\u0119 w Opolskim Urz\u0119dzie Wojew\u00f3dzkim i uhonorowano obu braci Krzy\u017cami Kawalerskimi Orderu Odrodzenia Polski. Obecny by\u0142 tam tylko Ryszard Kowalczyk.\n\nStarszy z braci zmar\u0142 w pa\u017adzierniku 2017 roku. Ironi\u0105 losu, a zarazem kolej\u0105 cegie\u0142k\u0105 kontrowersji w sprawie zamachu i legendy Kowalczyk\u00f3w, by\u0142 fakt, \u017ce w tym samym roku IPN ujawni\u0142 dokumenty z tzw. zbioru zastrze\u017conego. W\u015br\u00f3d zgromadzonych tam zapis\u00f3w znale\u017a\u0107 mo\u017cna by\u0142o informacje, \u017ce Ryszard Kowalczyk by\u0142 zarejestrowany w latach 80. jako TW \"Seep\" i, najprawdopodobniej z obawy przed powrotem do wi\u0119zienia i z troski o brata, kt\u00f3ry wi\u0119zienia jeszcze nie opu\u015bci\u0142, przekazywa\u0142 SB informacje o opolskich dzia\u0142aczach opozycyjnych.\n\nTa rysa na wizerunku okaza\u0142a si\u0119 jednak nieznacz\u0105ca dla ludzi piel\u0119gnuj\u0105cych mit o bohaterstwie braci Kowalczyk\u00f3w, dla wielu innych za\u015b stanowi ona przyk\u0142ad tego, jak ryzykowna by\u0142a dzia\u0142alno\u015b\u0107 opozycyjna w epoce PRL, jak niekiedy trudne i kontrowersyjne decyzje trzeba by\u0142o podj\u0105\u0107 w imi\u0119 wyznawanych warto\u015bci lub na rzecz jakiego\u015b idealnego dobra.\n\nDramat Jerzego i Ryszarda Kowalczyk\u00f3w, kt\u00f3rych w\u0142adza zamierza\u0142a psychicznie zmia\u017cd\u017cy\u0107 drako\u0144skimi wyrokami wi\u0119zienia, jest niezaprzeczalny, lecz sp\u00f3r o to, czy obrali \"w\u0142a\u015bciw\u0105\" drog\u0119 protestu wobec komunistycznej rzeczywisto\u015bci, zapewne d\u0142ugo jeszcze nie wyga\u015bnie.\n\n\u0179r\u00f3d\u0142o: Polskie Radio/Micha\u0142 Czy\u017cewski\n\nBibliografia:"
         }
     },
     {
@@ -298,7 +314,7 @@
             "description": "Wyjazd z Powsina, \u015awi\u0105tynia Opaczno\u015bci Bo\u017cej, a w niej Panteon Wielkich Polak\u00f3w. Przejazd mostem Siekierkowskim, a dalej ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.9yeAymnYfVvNefmeV_ae7i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Pleszew Nasze Miasto13 godz.",
+            "date": "Pleszew Nasze Miasto18 godz.",
             "source": "Pleszew Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -314,7 +330,7 @@
             "description": "Przepisy ruchu drogowego i wszystkie zwi\u0105zane z nimi poboczne w\u0105tki, jak np. wzory znak\u00f3w drogowych, ewoluuj\u0105 z wiatrem historii. P\u00f3\u0142 wieku to wystarczaj\u0105co du\u017co czasu, aby posprz\u0105ta\u0107 wszystkie relikt ...",
             "image_url": "https://www.bing.pl/th?id=ODF.9Ff8zYr7jwUcHOiRffZ2Eg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Autoblog.pl on MSN11 godz.",
+            "date": "Autoblog.pl on MSN15 godz.",
             "source": "Autoblog.pl on MSN",
             "article_content": ""
         }
@@ -325,13 +341,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Trasy nordic walking do 1 km od Ko\u0142obrzegu. Pomys\u0142y na odrobin\u0119 ruchu na powietrzu w weekend 4 - 5 pa\u017adziernika",
-            "link": "https://kolobrzeg.naszemiasto.pl/trasy-nordic-walking-do-1-km-od-kolobrzegu-pomysly-na-odrobine-ruchu-na-powietrzu-w-weekend-4-5-pazdziernika/ar/c7p1-22319027",
-            "description": "Kamienny Szaniec - zbudowany w latach 1832-1836 do obrony wybrze\u017ca i portu od wschodu. W ko\u0144cu XIX w. przebudowany na cele gastronomiczne. Fort Uj\u015bcie - budowany w latach 1770-1774 wed\u0142ug wzor\u00f3w ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.xGyVXoJ9b0zlcu2rTPA_6w&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Z miasta",
+            "link": "https://zawiercie.naszemiasto.pl/wiadomosci/z-miasta/5",
+            "description": "Odznaczony wieloma zas\u0142ugami krajowymi oraz lokalnymi zawiercia\u0144ski pisarz i poeta, tw\u00f3rca \u017cycia kulturalnego miasta, Bogdan ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Ko\u0142obrzeg Nasze Miasto14 godz.",
-            "source": "Ko\u0142obrzeg Nasze Miasto",
+            "date": "Zawiercie Nasze Miasto9 godz.",
+            "source": "Zawiercie Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -341,14 +357,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Pras\u00f3wka 6.10.2025 - wydarzenia dnia, podsumowanie z wczoraj - sprawd\u017a, czy nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego",
-            "link": "https://poranny.pl/prasowka-6-10-2025-wydarzenia-dnia-podsumowanie-z-wczoraj-sprawdz-czy-nie-minelo-cie-nic-waznego/ar/c1p1-19960907",
-            "description": "W pi\u0105tek (3.10) odby\u0142y si\u0119 w Suwa\u0142kach uroczysto\u015bci pogrzebowe \u015bp. Rafa\u0142a Kotnarowskiego, \u017co\u0142nierza Wojsk Specjalnych, ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.pWbR19-5QzUEcEAS55InhC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Tajemnice krypt w Kazimierzu Biskupim. Naukowcy odkryli liczne trumny i ludzkie szcz\u0105tki",
+            "link": "https://wiadomosci.onet.pl/poznan/tajemnice-krypt-w-kazimierzu-biskupim-naukowcy-odkryli-trumny-i-ludzkie-szczatki/x441b73",
+            "description": "Rozpocz\u0105\u0142 si\u0119 kolejny etap bada\u0144 krypt pod ko\u015bcio\u0142em w zespole klasztornym Misjonarzy \u015awi\u0119tej Rodziny w Kazimierzu Biskupim w ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.by7W6sccWhrDdTyxE6GLRC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Kurier Poranny39 min",
-            "source": "Kurier Poranny",
-            "article_content": "Content not available"
+            "date": "Wiadomo\u015bci Onet2 min",
+            "source": "Wiadomo\u015bci Onet",
+            "article_content": "W krypcie naukowcy odkryli do tej pory trzy warstwy trumien z co najmniej sze\u015bcioma poch\u00f3wkami. Pierwsze prace maj\u0105ce na celu wydobycie ich na powierzchni\u0119 ju\u017c si\u0119 rozpocz\u0119\u0142y. \u2014 Musimy je delikatnie wyjmowa\u0107. Te dwie pod spodem nie trzymaj\u0105 si\u0119 \u015bcian. Gdy zdejmiemy t\u0119 najwi\u0119ksz\u0105, to oka\u017ce si\u0119, jaki jest stan zachowania tych dolnych \u2014 powiedzia\u0142a na pocz\u0105tku prac prof. dr hab. Ma\u0142gorzata Grupa z UMK w Toruniu.\n\nPierwsza warstwa trumien ustawiona zosta\u0142a na metalowych pr\u0119tach. Jak powiedzia\u0142a PAP prof. Grupa, \u015bwiadczy\u0107 to mo\u017ce o tym, \u017ce w tym miejscu istnia\u0142 ju\u017c wcze\u015bniejszy poch\u00f3wek. \u2014 Musia\u0142a to by\u0107 znaczna posta\u0107, skoro nie chciano bezpo\u015brednio na trumnie tej osoby postawi\u0107 tych kolejnych trumien. To si\u0119 czasami zdarza, ale z tak czyteln\u0105 sytuacj\u0105 mamy w Polsce do czynienia po raz pierwszy \u2014 powiedzia\u0142a prof. Grupa.\n\nKrypta pe\u0142na niespodzianek\n\nTo niejedyna niespodzianka, na kt\u00f3r\u0105 natkn\u0119li si\u0119 badacze. Dwie trumny pokryte by\u0142y dziegciem. W przypadku jednej z nich substancj\u0119 nak\u0142adano na przemian z kolejnymi poziomami tkanin, tworz\u0105c tym samym jednocentymetrow\u0105 warstw\u0119. \u2014 Takiej warstwowej kanapki z tkaniny i dziegciu nie mieli\u015bmy do tej pory w \u017cadnych badaniach, przynajmniej moich. Z \u017cadnej publikacji nie znam takiego przypadku \u2014 przyzna\u0142a prof. Grupa.\n\nOtwarcie zamurowanej krypty pod ko\u015bcio\u0142em klasztornym pobernardy\u0144skim w Kazimierzu Biskupim Bartosz Skonieczny / PAP\n\nJej zdaniem taki uk\u0142ad dziegciu i tkanin mo\u017ce \u015bwiadczy\u0107 o tym, \u017ce bardzo d\u0142ugo czekano z celebracj\u0105 pogrzebu, co spowodowa\u0142o potrzeb\u0119 dok\u0142adania kolejnych warstw tkanin. Mo\u017cliwe jest r\u00f3wnie\u017c, \u017ce zmar\u0142a osoba wieziona by\u0142a z daleka. Dziegciu w przesz\u0142o\u015bci u\u017cywano do uszczelniania trumien, by zapobiega\u0107 si\u0119 wydostawaniu z nich po\u015bmiertnych zapach\u00f3w.\n\nDotychczas nie wiadomo, z jakiego okresu pochodz\u0105 poch\u00f3wki ani czyje szcz\u0105tki znajduj\u0105 si\u0119 w trumnach. Naukowcy chcieliby przebada\u0107 je pod k\u0105tem DNA, by zweryfikowa\u0107, czy m\u00f3g\u0142 by\u0107 to poch\u00f3wek rodzinny. Okres, z kt\u00f3rego pochodz\u0105 trumny, pom\u00f3c okre\u015bli\u0107 mog\u0105 znalezione w nich szkielety i przedmioty.\n\nOtwarcie zamurowanej krypty pod ko\u015bcio\u0142em klasztornym pobernardy\u0144skim w Kazimierzu Biskupim Bartosz Skonieczny / PAP\n\nBadania w Kazimierzu Biskupim\n\nBadana krypta znajduje si\u0119 pod o\u0142tarzem ko\u015bcio\u0142a pw. \u015bw. Jana Chrzciciela i Pi\u0119ciu Braci M\u0119czennik\u00f3w. Do tej pory by\u0142a zamurowana, cho\u0107, jak stwierdzi\u0142a prof. Grupa, prawdopodobnie od czasu jej wybudowania by\u0142a ju\u017c otwierana. By ponownie si\u0119 do niej dosta\u0107, trzeba by\u0142o wydr\u0105\u017cy\u0107 metod\u0105 g\u00f3rnicz\u0105 siedmiometrowy tunel. Prace trwa\u0142y ponad miesi\u0105c.\n\nBadania podziemi kazimierskiego klasztoru rozpocz\u0119\u0142y si\u0119 w 2022 r. W pierwszym etapie z krypt wydobyto kilkadziesi\u0105t trumien ze szcz\u0105tkami co najmniej 100 os\u00f3b. W podziemiach ko\u015bcio\u0142a chowani byli prawdopodobnie bernardyni, do kt\u00f3rych przez lata nale\u017ca\u0142 kazimierski klasztor, oraz zas\u0142u\u017ceni dla klasztoru miejscowi notable, kt\u00f3rych rejestr zgon\u00f3w zachowa\u0142 si\u0119 do dzi\u015b. W\u015br\u00f3d zidentyfikowanych os\u00f3b znale\u017ali si\u0119 m.in. Barbara Lipska, matka gen. J\u00f3zefa Lipskiego, uczestnika insurekcji ko\u015bciuszkowskiej i dow\u00f3dcy powstania wielkopolskiego z 1806 r. oraz prawdopodobnie, pisarz z Radziejowa Antoni Bogus\u0142awski. Zgodnie z ustaleniami zespo\u0142u badawczego poch\u00f3wki w kryptach rozpocz\u0119\u0142y si\u0119 w XVII w.\n\nW wydobytych trumnach odnaleziono r\u00f3wnie\u017c pozosta\u0142o\u015bci ubra\u0144, m.in. dw\u00f3ch damskich sukni, czechmanu, ornat\u00f3w, a tak\u017ce drobne elementy innych stroj\u00f3w. Cz\u0119\u015b\u0107 odzie\u017cy uda\u0142o si\u0119 zrekonstruowa\u0107.\n\nBogata historia klasztoru\n\nBadane przed trzema laty krypty zosta\u0142y ju\u017c cz\u0119\u015bciowo odnowione. Wykonano m.in. wej\u015bcie do nich od strony kru\u017cgank\u00f3w, oczyszczono ceg\u0142y i po\u0142o\u017cono posadzk\u0119. Docelowo pomieszczenia maj\u0105 zosta\u0107 udost\u0119pnione do zwiedzania. W\u0142adze gminy zamierzaj\u0105 prezentowa\u0107 w podziemiach odnalezione w nich zabytki. Ludzkie szcz\u0105tki zostan\u0105 pochowane we wsp\u00f3lnej mogile w jednej z bocznych krypt.\n\nBernardyni do Kazimierza Biskupiego sprowadzeni zostali w 1514 r. przez biskupa Jana Lubra\u0144skiego. W ci\u0105gu kolejnych sze\u015bciu lat w miejscowo\u015bci wybudowany zosta\u0142 ko\u015bci\u00f3\u0142 oraz kompleks budynk\u00f3w klasztornych. Pod koniec XIX w. nast\u0105pi\u0142a kasata kazimierskiego konwentu przez w\u0142adze carskie; jednym z powod\u00f3w by\u0142a pomoc bernardyn\u00f3w dla powsta\u0144c\u00f3w styczniowych.\n\nW 1921 r. klasztor i ko\u015bci\u00f3\u0142 zosta\u0142y przej\u0119te przez Zgromadzenie Misjonarzy \u015awi\u0119tej Rodziny i pozostaje pod ich zarz\u0105dem do dzi\u015b. Obecnie w klasztorze mie\u015bci si\u0119 Wy\u017csze Seminarium Duchowne zgromadzenia. Swoj\u0105 siedzib\u0119 ma w nim r\u00f3wnie\u017c Bractwo \u015awi\u0119tych Pi\u0119ciu M\u0119czennik\u00f3w, kt\u00f3rych Kazimierz Biskupi jest miejscem kultu."
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "By\u0142y ukryte przez wieki. Sensacyjne odkrycie w krypcie pod klasztorem",
+            "link": "https://www.rmf24.pl/regiony/poznan/news-byly-ukryte-przez-wieki-sensacyjne-odkrycie-w-krypcie-pod-kl,nId,8027993",
+            "description": "W Kazimierzu Biskupim (woj. wielkopolskie) rozpocz\u0105\u0142 si\u0119 kolejny, prze\u0142omowy etap bada\u0144 podziemi ko\u015bcio\u0142a pw. \u015bw. Jana ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.ba2f6pq2sB4QK68R2G88ny&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "RMF2419 min",
+            "source": "RMF24",
+            "article_content": "W Kazimierzu Biskupim (woj. wielkopolskie) rozpocz\u0105\u0142 si\u0119 kolejny, prze\u0142omowy etap bada\u0144 podziemi ko\u015bcio\u0142a pw. \u015bw. Jana Chrzciciela i Pi\u0119ciu Braci M\u0119czennik\u00f3w. Zesp\u00f3\u0142 naukowc\u00f3w wszed\u0142 do zamkni\u0119tej dot\u0105d krypty pod o\u0142tarzem, odkrywaj\u0105c nieznane poch\u00f3wki i zaskakuj\u0105ce praktyki pogrzebowe, kt\u00f3re mog\u0105 rzuci\u0107 nowe \u015bwiat\u0142o na histori\u0119 tego miejsca.\n\nBadania zamkni\u0119tej krypty pod ko\u015bcio\u0142em w Kazimierzu Biskupim / PAP/Bartosz Skonieczny / PAP/EPA\n\nPodczas prac badawczych archeolodzy natrafili na trzy warstwy trumien, w kt\u00f3rych spoczywa co najmniej sze\u015b\u0107 os\u00f3b. Pierwsze dzia\u0142ania zwi\u0105zane z wydobyciem szcz\u0105tk\u00f3w ju\u017c si\u0119 rozpocz\u0119\u0142y.\n\nJak podkre\u015bla prof. dr hab. Ma\u0142gorzata Grupa z Uniwersytetu Miko\u0142aja Kopernika w Toruniu, konieczna jest wyj\u0105tkowa ostro\u017cno\u015b\u0107.\n\nMusimy je delikatnie wyjmowa\u0107. Te dwie pod spodem nie trzymaj\u0105 si\u0119 \u015bcian. Gdy zdejmiemy najwi\u0119ksz\u0105, oka\u017ce si\u0119, jaki jest stan zachowania tych dolnych - przekaza\u0142a.\n\nNajwy\u017csza warstwa trumien zosta\u0142a umieszczona na metalowych pr\u0119tach, co wed\u0142ug badaczy mo\u017ce \u015bwiadczy\u0107 o istnieniu wcze\u015bniejszego, szczeg\u00f3lnie wa\u017cnego poch\u00f3wku.\n\nMusia\u0142a to by\u0107 znaczna posta\u0107, skoro nie chciano bezpo\u015brednio na trumnie tej osoby postawi\u0107 kolejnych trumien. To si\u0119 czasami zdarza, ale z tak czyteln\u0105 sytuacj\u0105 mamy w Polsce do czynienia po raz pierwszy - wyja\u015bnia prof. Grupa.\n\nNiezwyk\u0142a \"kanapka\" z dziegciu i tkanin\n\nJednym z najbardziej sensacyjnych odkry\u0107 s\u0105 dwie trumny pokryte warstwami dziegciu. W przypadku jednej z nich substancja ta by\u0142a nak\u0142adana naprzemiennie z tkaninami, tworz\u0105c oko\u0142o centymetrow\u0105, wielowarstwow\u0105 pow\u0142ok\u0119.\n\nTakiej warstwowej kanapki z tkaniny i dziegciu nie mieli\u015bmy do tej pory w \u017cadnych badaniach, przynajmniej moich. Z \u017cadnej publikacji nie znam takiego przypadku - przyznaje prof. Grupa.\n\nNaukowcy przypuszczaj\u0105, \u017ce taki spos\u00f3b zabezpieczenia trumny m\u00f3g\u0142 by\u0107 zwi\u0105zany z d\u0142ugim oczekiwaniem na pogrzeb lub konieczno\u015bci\u0105 transportu zw\u0142ok z daleka. Dziegciu u\u017cywano w przesz\u0142o\u015bci do uszczelniania trumien, by zapobiega\u0107 wydostawaniu si\u0119 nieprzyjemnych zapach\u00f3w.\n\nKim byli pochowani w krypcie?\n\nNa razie nie wiadomo, z jakiego okresu pochodz\u0105 odkryte poch\u00f3wki ani kim by\u0142y osoby spoczywaj\u0105ce w trumnach. Badacze planuj\u0105 przeprowadzi\u0107 analizy DNA, by sprawdzi\u0107, czy mamy do czynienia z poch\u00f3wkiem rodzinnym.\n\nPomocne w okre\u015bleniu wieku trumien mog\u0105 by\u0107 r\u00f3wnie\u017c znalezione w nich szkielety oraz przedmioty.\n\nKrypta, w kt\u00f3rej prowadzone s\u0105 badania, przez lata by\u0142a zamurowana. Prof. Grupa przypuszcza jednak, \u017ce od czasu jej powstania by\u0142a ju\u017c wcze\u015bniej otwierana. Aby dosta\u0107 si\u0119 do zamkni\u0119tego pomieszczenia, konieczne by\u0142o wydr\u0105\u017cenie siedmiometrowego tunelu metod\u0105 g\u00f3rnicz\u0105 - prace te trwa\u0142y ponad miesi\u0105c.\n\nHistoria i wcze\u015bniejsze odkrycia\n\nBadania podziemi klasztoru w Kazimierzu Biskupim rozpocz\u0119\u0142y si\u0119 w 2022 roku. W pierwszym etapie z krypt wydobyto kilkadziesi\u0105t trumien ze szcz\u0105tkami ponad 100 os\u00f3b. W\u015br\u00f3d pochowanych byli prawdopodobnie bernardyni, do kt\u00f3rych przez wieki nale\u017ca\u0142 klasztor, oraz zas\u0142u\u017ceni mieszka\u0144cy regionu.\n\nW rejestrach zgon\u00f3w zachowa\u0142y si\u0119 m.in. nazwiska Barbary Lipskiej, matki gen. J\u00f3zefa Lipskiego, uczestnika insurekcji ko\u015bciuszkowskiej i dow\u00f3dcy powstania wielkopolskiego z 1806 roku, a tak\u017ce prawdopodobnie pisarza z Radziejowa Antoniego Bogus\u0142awskiego.\n\nWed\u0142ug ustale\u0144 zespo\u0142u badawczego poch\u00f3wki w kryptach rozpocz\u0119\u0142y si\u0119 w XVII wieku. W wydobytych trumnach znaleziono r\u00f3wnie\u017c fragmenty ubra\u0144, w tym dwie damskie suknie, czechman, ornaty oraz drobne elementy innych stroj\u00f3w. Cz\u0119\u015b\u0107 odzie\u017cy uda\u0142o si\u0119 zrekonstruowa\u0107.\n\nKrypty badane trzy lata temu zosta\u0142y ju\u017c cz\u0119\u015bciowo odnowione. Wykonano wej\u015bcie od strony kru\u017cgank\u00f3w, oczyszczono ceg\u0142y i po\u0142o\u017cono now\u0105 posadzk\u0119. W\u0142adze gminy planuj\u0105 udost\u0119pni\u0107 podziemia do zwiedzania, a odnalezione zabytki maj\u0105 by\u0107 prezentowane w specjalnej ekspozycji. Szcz\u0105tki ludzkie zostan\u0105 pochowane we wsp\u00f3lnej mogile w jednej z bocznych krypt.\n\nBernardyni zostali sprowadzeni do Kazimierza Biskupiego w 1514 roku przez biskupa Jana Lubra\u0144skiego. W ci\u0105gu kilku lat powsta\u0142 tu ko\u015bci\u00f3\u0142 oraz kompleks klasztorny. Pod koniec XIX wieku klasztor zosta\u0142 zlikwidowany przez w\u0142adze carskie, m.in. za pomoc udzielan\u0105 powsta\u0144com styczniowym. W 1921 roku obiekty przej\u0119\u0142o Zgromadzenie Misjonarzy \u015awi\u0119tej Rodziny, kt\u00f3re zarz\u0105dza nimi do dzi\u015b. Obecnie w klasztorze mie\u015bci si\u0119 Wy\u017csze Seminarium Duchowne oraz Bractwo \u015awi\u0119tych Pi\u0119ciu M\u0119czennik\u00f3w."
         }
     },
     {
@@ -362,7 +394,7 @@
             "description": "W niedziel\u0119, 5 pa\u017adziernika, ulicami Wroc\u0142awia przeszed\u0142 Marsz dla \u017bycia i Rodziny. Wydarzenie zgromadzi\u0142o oko\u0142o 400 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.hLVPISn5bL8XeQ_6kf2AdS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Wroc\u0142awska39 min",
+            "date": "Gazeta Wroc\u0142awska4 godz.",
             "source": "Gazeta Wroc\u0142awska",
             "article_content": "Content not available"
         }
@@ -373,30 +405,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Przegl\u0105d prasy 6.10.2025. Zestawili\u015bmy dla Ciebie najwa\u017cniejsze wydarzenia z wczoraj. Zobacz nasz\u0105 pras\u00f3wk\u0119",
-            "link": "https://wspolczesna.pl/przeglad-prasy-6-10-2025-zestawilismy-dla-ciebie-najwazniejsze-wydarzenia-z-wczoraj-zobacz-nasza-prasowke/ar/c1p1-19960917",
-            "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 5.10. Sprawd\u017a, czy nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego. Czy czyta\u0142e\u015b artyku\u0142: \u201e48-letnia kobieta ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.J2HjYlW7BWiryFifLql_kw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Trudna walka o Europ\u0119",
+            "link": "https://dorzeczy.pl/ekonomia/788394/moldawia-jacek-przybylski-trudna-walka-o-europe.html",
+            "description": "GLOBALNE OCH\u0141ODZENIE | Mo\u0142dawia. Pi\u0119kne, lecz wyj\u0105tkowo biedne pa\u0144stwo, kt\u00f3re nie do\u015b\u0107, \u017ce jest s\u0142abo rozwini\u0119te, to jest ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.nSXNbFFeGGVPqTpBVk6rbi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Wsp\u00f3\u0142czesna38 min",
-            "source": "Gazeta Wsp\u00f3\u0142czesna",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Odkrycie dokonane na Jedwabnym Szlaku przed ponad stu laty wywr\u00f3ci\u0142o do g\u00f3ry nogami europejskie wyobra\u017cenie o historii \u015bwiata.",
-            "link": "https://wyborcza.pl/7,75517,32178372,odkrycie-jak-z-filmow-o-indianie-jonesie-a-jednak-sie-wydarzylo.html",
-            "description": "Odkrycie dokonane na Jedwabnym Szlaku przed ponad stu laty wywr\u00f3ci\u0142o do g\u00f3ry nogami europejskie wyobra\u017cenie o historii \u015bwiata ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.VaiwSbdFblHQFMMONAql0y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Wyborcza38 min",
-            "source": "Gazeta Wyborcza",
-            "article_content": ""
+            "date": "Do Rzeczy18 godz.",
+            "source": "Do Rzeczy",
+            "article_content": "GLOBALNE OCH\u0141ODZENIE | Mo\u0142dawia. Pi\u0119kne, lecz wyj\u0105tkowo biedne pa\u0144stwo, kt\u00f3re nie do\u015b\u0107, \u017ce jest s\u0142abo rozwini\u0119te, to jest jeszcze silnie uzale\u017cnione od importu paliw i surowc\u00f3w. \u015arednie wynagrodzenie wynosi\u0142o tu w drugim kwartale 2025 r. r\u00f3wnowarto\u015b\u0107 ok. 3 tys. z\u0142. Mn\u00f3stwo ambitnych ludzi za dobrze p\u0142atn\u0105 prac\u0105 emigruje wi\u0119c do innych kraj\u00f3w.\n\nKiszyni\u00f3w \u2013 mo\u0142dawska stolica \u2013 mocno przypomina Warszaw\u0119 z lat 90. ubieg\u0142ego stulecia. Nowoczesne biurowce, nowobogackie wille i apartamentowce stoj\u0105 obok nielicznych zabytk\u00f3w i wielu typowych socrealistycznych blok\u00f3w. Na ulicach b\u0142yszcz\u0105ce porsche mijaj\u0105 rozklekotane auta rodem z ZSRS."
         }
     },
     {
@@ -410,9 +426,41 @@
             "description": "Otwarcie wystawy \"120 lat Muzeum w Gliwicach\" zaplanowano na czwartek, 9 pa\u017adziernika. Wernisa\u017c rozpocznie si\u0119 o godzinie ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.32pOgdNejdaOzx9pYv6fwC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "24GLIWICE2 godz.",
+            "date": "24GLIWICE6 godz.",
             "source": "24GLIWICE",
             "article_content": "Mija 120 lat od za\u0142o\u017cenia Oberschlesisches Museum in Gleiwitz \u2013 instytucjonalnego antenata Muzeum w Gliwicach. W zwi\u0105zku z rocznic\u0105, w Willi Caro przygotowana zosta\u0142a wystawa \u2013 przedmiotem ekspozycji jest samo Muzeum i jego historia.\n\nGliwickie Muzeum jest jednym z najstarszych muze\u00f3w na G\u00f3rnym \u015al\u0105sku oraz najstarszym w G\u00f3rno\u015bl\u0105skim Okr\u0119gu Przemys\u0142owym. Starsze od niego s\u0105 tylko muzea w Nysie (1897) i Opolu (1900).\n\nOtwarcie wystawy \u201e120 lat Muzeum w Gliwicach\u201d w Willi Caro (ul. Dolnych Wa\u0142\u00f3w 8a) odb\u0119dzie si\u0119 w czwartek, 9 pa\u017adziernika. Wydarzenie rozpocznie si\u0119 wernisa\u017cem, kt\u00f3ry zaplanowano na godzin\u0119 17:00. Wst\u0119p wolny. Na ekspozycji znajd\u0105 si\u0119 nie tylko dawne ksi\u0119gi inwentarzowe, pierwsze katalogi Muzeum, dokumenty, archiwalne zdj\u0119cia z dawnych wystaw, ale te\u017c prezentacja wybranych zabytk\u00f3w z ka\u017cdego Dzia\u0142u Muzeum. Kuratorem wystawy jest Damian Rec\u0142aw, kierownik Dzia\u0142u Historii Muzeum w Gliwicach. Ekspozycja potrwa do 21 listopada 2025.\n\nGliwickie Muzeum powsta\u0142o z inicjatywy pasjonat\u00f3w historii, obywateli dumnych ze swojego miasta. G\u0142\u00f3wnym inicjatorem powstania Muzeum i jego organizatorem by\u0142 tajny radca i s\u0119dzia w miejscowym s\u0105dzie Artur Schiller (1858-1945)\n\n\u2013 informuje instytucja.\n\n\u2013 W sk\u0142ad komitetu za\u0142o\u017cycielskiego weszli ponadto: prezydent Gliwic Hermann Mentzel oraz wybitni historycy i regionali\u015bci ks. dr Johann Chrz\u0105szcz, pyskowicki proboszcz oraz prof. Benno Nietsche, autor monumentalnego dzie\u0142a \u201eHistoria Miasta Gliwice\u201d \u2013 kontynuuje MwG.\n\nDzia\u0142alno\u015b\u0107 Muzeum w Gliwicach od samego pocz\u0105tku koncentrowa\u0142a si\u0119 na gromadzeniu obiekt\u00f3w zwi\u0105zanych z regionem \u2013 zabytk\u00f3w dokumentuj\u0105cych histori\u0119 dzie\u0142 sztuki i wyrob\u00f3w rzemios\u0142a artystycznego, przedmiot\u00f3w zwi\u0105zanych z \u017cyciem codziennym i sfer\u0105 sacrum, kultur\u0105, czy wojskowo\u015bci\u0105. Do roku 1922 by\u0142o g\u0142\u00f3wnym punktem kolekcjonerstwa i muzealnictwa na G\u00f3rnym \u015al\u0105sku.\n\nZmiana tego stanu rzeczy nast\u0105pi\u0142a wraz z podzia\u0142em politycznym G\u00f3rnego \u015al\u0105ska pomi\u0119dzy Polsk\u0105 i Niemcami w 1922 roku. Wzgl\u0119dy polityczne zadecydowa\u0142y o tym, \u017ce Polacy i Niemcy powo\u0142ali w\u00f3wczas do \u017cycia wielkie muzea w Katowicach i Bytomiu z du\u017cymi dzia\u0142ami archeologicznymi i historycznymi\n\n\u2013 podkre\u015bla Muzeum.\n\nPowt\u00f3rne narodziny plac\u00f3wki mia\u0142y miejsce na pocz\u0105tku 1945 roku. Pierwszy, polski dyrektor plac\u00f3wki, prof. dr Mieczys\u0142aw G\u0142adysz (1903-1984) przekszta\u0142ci\u0142 Oberschlesisches Museum in Gleiwitz w Muzeum w Gliwicach. W pracach tych aktywnie wspomaga\u0142 go Fryderyk Hayder, pierwszy kustosz w najbardziej znacz\u0105cym w Muzeum Dziale Sztuki i Rzemios\u0142a Artystycznego. Jednak misja i cel polskiej instytucji kulturalnej pozosta\u0142y niezmienione \u2013 jest ni\u0105 ochrona i zachowanie dziedzictwa przyrastaj\u0105cego wraz z up\u0142ywem historii, kt\u00f3ra w istotny spos\u00f3b wp\u0142ywa na dzieje naszego miasta.\n\nWst\u0119p na wernisa\u017c jest wolny, liczba miejsc ograniczona.\n\n(\u017cms)/MwG\n\nfot. mat. organizatora"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Te stare monety obiegowe mog\u0105 by\u0107 wiele warte. Sprawd\u017a, bo mo\u017cesz naprawd\u0119 dobrze zarobi\u0107",
+            "link": "https://nto.pl/te-stare-monety-obiegowe-moga-byc-wiele-warte-sprawdz-bo-mozesz-naprawde-dobrze-zarobic/ar/c1p2-28022573",
+            "description": "Masz w domu stare monety obiegowe? Obejrzyj je dok\u0142adnie, bo mo\u017ce si\u0119 okaza\u0107, \u017ce ich warto\u015b\u0107 jest znacznie wy\u017csza, ni\u017c ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.njJ0Yh_7CJ-wOZdpeC4xcC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+numizmatyka",
+            "date": "Nowa Trybuna Opolska1 godz.",
+            "source": "Nowa Trybuna Opolska",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Masz takie monety w domu? Sprawd\u017a, bo mo\u017cesz naprawd\u0119 dobrze zarobi\u0107",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/masz-takie-monety-w-domu-sprawd%C5%BA-bo-mo%C5%BCesz-naprawd%C4%99-dobrze-zarobi%C4%87/ar-AA1Nra76?ocid=BingNewsVerp",
+            "description": "Masz w domu stare monety? Obejrzyj je dok\u0142adnie, bo mo\u017ce si\u0119 okaza\u0107, \u017ce ich warto\u015b\u0107 jest znacznie wy\u017csza, ni\u017c przypuszczasz.",
+            "image_url": "https://www.bing.pl/th?id=OVFT.4_NQBU-8jj5GYIaNNKeBSS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+numizmatyka",
+            "date": "Nowa Trybuna Opolska on MSN1 godz.",
+            "source": "Nowa Trybuna Opolska on MSN",
+            "article_content": ""
         }
     },
     {
@@ -426,25 +474,9 @@
             "description": "10 groszy z PRL to najdro\u017csza i najbardziej po\u017c\u0105dana moneta z tego okresu Polski. Podczas jednej aukcji zosta\u0142a sprzedana za ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.QQU1oq4iNxHbwDnVN4R2Li&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Next Gazeta4 godz.",
+            "date": "Next Gazeta8 godz.",
             "source": "Next Gazeta",
             "article_content": "10 groszy z PRL warte fortun\u0119. Wa\u017cny drobny szczeg\u00f3\u0142\n\nMonety o nominale 10 groszy wybite w 1973 roku mog\u0105 posiada\u0107 astronomiczn\u0105 warto\u015b\u0107, ale tylko pod warunkiem, \u017ce nie posiadaj\u0105 znaku mennicy. W okolicach szpon\u00f3w or\u0142a, gdzie zwykle znajduj\u0105 si\u0119 wybite litery \"MW\", kt\u00f3re oznaczaj\u0105 Mennic\u0119 Warszawsk\u0105, powinna by\u0107 pusta przestrze\u0144. Ten drobny szczeg\u00f3\u0142 sprawia, \u017ce 10-groszowa moneta uzyska\u0142a wyj\u0105tkow\u0105 warto\u015b\u0107 w oczach kolekcjoner\u00f3w.\n\nREKLAMA\n\nMoneta 10 groszy z 1973 r. bez znaku mennicy \u0179r\u00f3d\u0142o: Dom Aukcyjny Marciniak\n\nMoneta 10 groszy bez znaku mennicy sprzedana za 33 tys. z\u0142\n\nPodczas aukcji w maju 2023 r. w Domu Aukcyjnym Marciniak s\u0142ynna moneta 10 groszy z 1973 r. bez znaku mennicy zosta\u0142a sprzedana za 33 tysi\u0105ce z\u0142otych. - Poznali\u015bmy now\u0105, historycznie najdro\u017csz\u0105 monet\u0119 obiegow\u0105 okresu PRL - komentowa\u0142 w\u00f3wczas Damian Marciniak z domu aukcyjnego w rozmowie z money.pl. Poprzedni rekord pad\u0142 w kwietniu 2020 r. gdy tak\u0105 sam\u0105 monet\u0119 sprzedano za 29,9 tys. z\u0142. - Jest to najrzadsza moneta obiegowa okresu PRL. Na rynku kolekcjonerskim moneta ta pojawia si\u0119 nadzwyczaj rzadko - doda\u0142 Marciniak. Szacuje si\u0119, \u017ce jej nak\u0142ad wynosi\u0142 80 mln sztuk.\n\nZobacz wideo Czy banknot o nominale 1000 z\u0142 wejdzie do u\u017cytku?\n\nStare monety nie zawsze s\u0105 warte fortun\u0119\n\nDamian Marciniak t\u0142umaczy\u0142 w rozmowie z serwisem o2.pl, \u017ce moneta 10-groszowa z PRL sprzedana za rekordow\u0105 kwot\u0119 nale\u017ca\u0142a do osoby, kt\u00f3ra odziedziczy\u0142a klasery po swoim przodku kolekcjonerze. Doda\u0142, \u017ce wiele os\u00f3b znajduje stare monety i cz\u0119sto b\u0142\u0119dnie zak\u0142ada ich ogromn\u0105 warto\u015b\u0107. - Polecam sprawdza\u0107 zako\u0144czone ju\u017c aukcje w internecie, np. na Allegro. Istotne, by zwraca\u0107 uwag\u0119, ile os\u00f3b bra\u0142o udzia\u0142 w takiej licytacji - podkre\u015bli\u0142. Monet\u0119 10-grosz\u0105 z 1973 r. bez znaku mennicy mo\u017cna znale\u017a\u0107 w og\u0142oszeniu w serwisie Allegro, gdzie zosta\u0142a wystawiona za 6 100 z\u0142.\n\nCzytaj r\u00f3wnie\u017c: \"Kraj UE wycofuje monety i zaokr\u0105gla ceny w sklepach. To samo czeka Polsk\u0119?\".\n\n\n\n\u0179r\u00f3d\u0142a:Dom Aukcyjny, money.pl, o2.pl"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Tych monet i banknot\u00f3w szukaj\u0105 kolekcjonerzy. Masz takie w domu? P\u0142ac\u0105 za nie nawet 40 tysi\u0119cy z\u0142otych. Mo\u017cna du\u017co zarobi\u0107 05.10.2025",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/tych-monet-i-banknot%C3%B3w-szukaj%C4%85-kolekcjonerzy-masz-takie-w-domu-p%C5%82ac%C4%85-za-nie-nawet-40-tysi%C4%99cy-z%C5%82otych-mo%C5%BCna-du%C5%BCo-zarobi%C4%87-27092025/ar-AA1NoG6q?ocid=BingNewsVerp",
-            "description": "Je\u015bli my\u015blisz, \u017ce wszystkie monety z PRL s\u0105 warte tylko kilka groszy, to jeste\u015b w b\u0142\u0119dzie. Istniej\u0105 konkretne egzemplarze, ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.SUM6EoymQzlvGiI-SK2Fgy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+numizmatyka",
-            "date": "G\u0142os Pomorza on MSN22 godz.",
-            "source": "G\u0142os Pomorza on MSN",
-            "article_content": ""
         }
     },
     {
@@ -458,7 +490,7 @@
             "description": "W lipcu rze\u017aba zosta\u0142a wpisana do rejestru zabytk\u00f3w ruchomych, ale musia\u0142a czeka\u0107 a\u017c do wrze\u015bnia na zmian\u0119 swojego ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.Tfs5MN09Zz8IOg2lNtmBRi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "wykopano+zabytkowe",
-            "date": "Warszawa Nasze Miasto on MSN16 godz.",
+            "date": "Warszawa Nasze Miasto on MSN20 godz.",
             "source": "Warszawa Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -474,7 +506,7 @@
             "description": "W starej cz\u0119\u015bci cmentarza Grabiszy\u0144skiego stoi wyj\u0105tkowy pomnik, kt\u00f3ry jest po\u015bwi\u0119cony pami\u0119ci wroc\u0142awian pochowanych na nieistniej\u0105cych ju\u017c cmentarzach. Trwa renowacja nazwisk umieszczonych na nagrob ...",
             "image_url": "https://www.bing.pl/th?id=ODF.p9YO103MXreScWBGsL62IA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "wykopano+zabytkowe",
-            "date": "Gazeta Wroc\u0142awska on MSN7 godz.",
+            "date": "Gazeta Wroc\u0142awska on MSN11 godz.",
             "source": "Gazeta Wroc\u0142awska on MSN",
             "article_content": ""
         }
@@ -490,7 +522,7 @@
             "description": "Odkrycie dokonane na Jedwabnym Szlaku przed ponad stu laty wywr\u00f3ci\u0142o do g\u00f3ry nogami europejskie wyobra\u017cenie o historii \u015bwiata ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.VaiwSbdFblHQFMMONAql0y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Gazeta Wyborcza38 min",
+            "date": "Gazeta Wyborcza4 godz.",
             "source": "Gazeta Wyborcza",
             "article_content": ""
         }
@@ -506,7 +538,7 @@
             "description": "W\u0119dkarz w okolicy Nowego Dworu Mazowieckiego wyci\u0105gn\u0105\u0142 z Wis\u0142y rapier z czas\u00f3w potopu szwedzkiego. O sprawie powiadomiono ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.Lo3hO6gfH75Edz5_foQX-i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Historia Wprost16 godz.",
+            "date": "Historia Wprost20 godz.",
             "source": "Historia Wprost",
             "article_content": "Stowarzyszenie Historyczno \u2013 Badawcze Triglav poinformowa\u0142o w mediach spo\u0142eczno\u015bciowych, \u017ce pod koniec wrze\u015bnia jeden z w\u0119dkarzy w okolicy Nowego Dworu Mazowieckiego zamiast dorodnego szczupaka wyci\u0105gn\u0105\u0142 z wody rapier, prawdopodobnie typ Agrippa, charakterystyczny dla XVII wieku.\n\n\u201eBro\u0144 tego rodzaju wyr\u00f3\u017cnia\u0142a si\u0119 bogato profilowan\u0105 r\u0119koje\u015bci\u0105 z ozdobnymi kab\u0142\u0105kami i jelcem, kt\u00f3re zapewnia\u0142y \u015bwietn\u0105 ochron\u0119 d\u0142oni. To bro\u0144 lekka, elegancka i \u015bmierciono\u015bna zarazem \u2013 kwintesencja epoki renesansu\u201d \u2013 podkre\u015blili poszukiwacze.\n\nNowy Dw\u00f3r Mazowiecki. W\u0119dkarz zamiast ryby wy\u0142owi\u0142 z Wis\u0142y rapier z czas\u00f3w potopu szwedzkiego\n\n\u201eMo\u017cemy domniemywa\u0107, \u017ce rapier mo\u017ce mie\u0107 zwi\u0105zek z okresem potopu szwedzkiego (1655\u20131660), kiedy to w rejonie Wis\u0142y zaton\u0119\u0142y barki szwedzkie. By\u0142y to dramatyczne czasy \u2013 p\u0142yn\u0105ce z \u0142upami jednostki cz\u0119sto ko\u0144czy\u0142y na dnie rzeki, pozostawiaj\u0105c \u015blady historii ukryte przez setki lat\u201d \u2013 doda\u0142o SHB Triglav.\n\nO znalezisku archeolodzy poinformowali Mazowieckiego Wojew\u00f3dzkiego Konserwatora Zabytk\u00f3w. Przedmiot po odpowiednim zabezpieczeniu zosta\u0142 przekazany i zdeponowany w Muzeum Kampanii Wrze\u015bniowej i Twierdzy Modlin. \u201eKa\u017cdy taki przedmiot to nie tylko relikt przesz\u0142o\u015bci, ale tak\u017ce no\u015bnik historii, kt\u00f3ra dzi\u015b powraca, by\u015bmy mogli j\u0105 bada\u0107 i lepiej rozumie\u0107\u201d \u2013 podkre\u015bli\u0142o Muzeum.\n\nWoda najlepszym \u015brodowiskiem dla zatopionych obiekt\u00f3w\n\nO ostatecznym miejscu przechowywania znaleziska zadecyduj\u0105 wzgl\u0119dy konserwatorskie. \u201eKorzystaj\u0105c z okazji przypominamy, \u017ce najlepszym \u015brodowiskiem dla zatopionych obiekt\u00f3w jest woda. Nieumiej\u0119tne zabezpieczenie zabytku mo\u017ce doprowadzi\u0107 do jego nieodwracalnego uszkodzenia, a brak profesjonalnej inwentaryzacji miejsca utrat\u0119 warto\u015bci badawczo-naukowych\u201d \u2013 podsumowa\u0142 Mazowiecki Wojew\u00f3dzki Konserwator Zabytk\u00f3w.\n\nCzytaj te\u017c:\n\nW\u0119dkarz szuka\u0142 robak\u00f3w. Dokona\u0142 niezwyk\u0142ego odkryciaCzytaj te\u017c:\n\nPrze\u0142omowe odkrycie dokonane tu\u017c za polsk\u0105 granic\u0105? Archeolodzy nie kryj\u0105 rado\u015bci"
         }
