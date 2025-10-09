@@ -10,7 +10,7 @@
             "description": "Gie\u0142da Kolekcjonerska w Wojew\u00f3dzkim Domu Kultury w Kielcach to wydarzenie, kt\u00f3re odbywa si\u0119 cyklicznie i przyci\u0105ga mi\u0142o\u015bnik\u00f3w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.laCP48JhfCThGOhb3ZEAwS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Echo Dnia on MSN6 godz.",
+            "date": "Echo Dnia on MSN9 godz.",
             "source": "Echo Dnia on MSN",
             "article_content": ""
         }
@@ -26,7 +26,7 @@
             "description": "Plac przy inowroc\u0142awskiej skarb\u00f3wce, gdzie regularnie organizowany jest bazar, zn\u00f3w sta\u0142 si\u0119 centrum niedzielnego handlu.",
             "image_url": "https://www.bing.pl/th?id=OVFT.7kIoESJfuW4cg_lqCz8SZi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Inowroc\u0142aw Nasze Miasto on MSN18 godz.",
+            "date": "Inowroc\u0142aw Nasze Miasto on MSN21 godz.",
             "source": "Inowroc\u0142aw Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -42,25 +42,9 @@
             "description": "Masz w domu takie monety obiegowe? Obejrzyj je lepiej dok\u0142adnie, bo mo\u017ce si\u0119 okaza\u0107, \u017ce ich warto\u015b\u0107 jest znacznie wy\u017csza, ni\u017c ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.sAedr1PLwjwmIbueu_o4Zy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Nowa Trybuna Opolska17 godz.",
+            "date": "Nowa Trybuna Opolska20 godz.",
             "source": "Nowa Trybuna Opolska",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Rzadkie monety z PRL poszukiwane przez kolekcjoner\u00f3w. Kt\u00f3re s\u0105 najdro\u017csze i ile mo\u017cna za nie zarobi\u0107 09.10.2025",
-            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/rzadkie-monety-z-prl-poszukiwane-przez-kolekcjoner%C3%B3w-kt%C3%B3re-s%C4%85-najdro%C5%BCsze-i-ile-mo%C5%BCna-za-nie-zarobi%C4%87-09102025/ar-AA1NVJsH?ocid=BingNewsVerp",
-            "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT._V-rWLu6pRQ3UWKHtZMwMi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "G\u0142os Pomorza on MSN3 godz.",
-            "source": "G\u0142os Pomorza on MSN",
-            "article_content": ""
         }
     },
     {
@@ -74,9 +58,41 @@
             "description": "Masz w domu stare monety obiegowe? Obejrzyj je dok\u0142adnie, bo mo\u017ce si\u0119 okaza\u0107, \u017ce ich warto\u015b\u0107 jest znacznie wy\u017csza, ni\u017c ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.0hS6lXT8QlJYNg7kFF6p6i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Nowa Trybuna Opolska on MSN17 godz.",
+            "date": "Nowa Trybuna Opolska on MSN20 godz.",
             "source": "Nowa Trybuna Opolska on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Rzadkie monety z PRL poszukiwane przez kolekcjoner\u00f3w. Kt\u00f3re s\u0105 najdro\u017csze i ile mo\u017cna za nie zarobi\u0107 09.10.2025",
+            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/rzadkie-monety-z-prl-poszukiwane-przez-kolekcjoner%C3%B3w-kt%C3%B3re-s%C4%85-najdro%C5%BCsze-i-ile-mo%C5%BCna-za-nie-zarobi%C4%87-09102025/ar-AA1NVJsH?ocid=BingNewsVerp",
+            "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT._V-rWLu6pRQ3UWKHtZMwMi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "G\u0142os Pomorza on MSN6 godz.",
+            "source": "G\u0142os Pomorza on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Przegl\u0105d prasy 9.10.2025. Przygotowali\u015bmy zestaw najwa\u017cniejszych informacji z wczoraj. B\u0105d\u017a na bie\u017c\u0105co z wydarzeniami",
+            "link": "https://gp24.pl/przeglad-prasy-9-10-2025-przygotowalismy-zestaw-najwazniejszych-informacji-z-wczoraj-badz-na-biezaco-z-wydarzeniami/ar/c1p1-19960927",
+            "description": "W Centrum Inicjatyw Obywatelskich w S\u0142upsku odby\u0142a si\u0119 V Pozarz\u0105dowa Konferencja Prasowa, stanowi\u0105ca podsumowanie ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.VoSAd6o7d7PxwxU01CXZTi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "G\u0142os Pomorza38 min",
+            "source": "G\u0142os Pomorza",
+            "article_content": "Content not available"
         }
     },
     {
@@ -90,24 +106,8 @@
             "description": "Jeszcze niedawno trafia\u0142y na \u015bmietniki, dzi\u015b osi\u0105gaj\u0105 zaskakuj\u0105ce ceny. Stare meble z czas\u00f3w PRL wr\u00f3ci\u0142y do \u0142ask i sta\u0142y si\u0119 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.U8E9nYz6eJTEBKG9x3EeOC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Nowa Trybuna Opolska on MSN7 godz.",
+            "date": "Nowa Trybuna Opolska on MSN10 godz.",
             "source": "Nowa Trybuna Opolska on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Stare monety z czas\u00f3w PRL-u warte fortun\u0119. Kolekcjonerzy w\u0142a\u015bnie ich szukaj\u0105! [ZDJ\u0118CIA]",
-            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/stare-monety-z-czas%C3%B3w-prl-u-warte-fortun%C4%99-kolekcjonerzy-w%C5%82a%C5%9Bnie-ich-szukaj%C4%85-zdj%C4%99cia/ar-AA1NWeyB?ocid=BingNewsVerp",
-            "description": "Na starych monetach z czas\u00f3w PRL-u mo\u017cna zarobi\u0107 du\u017co pieni\u0119dzy. Wycena monet zale\u017cy od ich stanu zachowania, a dobrze utrzymane egzemplarze s\u0105 szczeg\u00f3lnie cenione. W galerii przedstawiamy za ile sprz ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski on MSN6 godz.",
-            "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
     },
@@ -122,7 +122,7 @@
             "description": "Kryszta\u0142y z czas\u00f3w PRL-u s\u0105 obecnie jednym z najch\u0119tniej poszukiwanych przedmiot\u00f3w kolekcjonerskich. Je\u015bli posiadasz naczynia ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.BhJOVxDb5_jpV1P0maGt7S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska11 godz.",
+            "date": "Gazeta Pomorska14 godz.",
             "source": "Gazeta Pomorska",
             "article_content": "Content not available"
         }
@@ -138,7 +138,7 @@
             "description": "40 os\u00f3b w II etapie Konkursu Chopinowskiego, w tym czterech Polak\u00f3w i 14 Chi\u0144czyk\u00f3w, kt\u00f3rzy rzeczywi\u015bcie na fortepianie ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.O3WsC5BObc__wTy0AeKv8C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Wyborcza17 godz.",
+            "date": "Gazeta Wyborcza20 godz.",
             "source": "Gazeta Wyborcza",
             "article_content": ""
         }
@@ -154,7 +154,7 @@
             "description": "Kiermasz Staroci odb\u0119dzie si\u0119 tradycyjnie na miejskim targowisku przy ulicy Ko\u015bcielnej. W sobot\u0119 11 pa\u017adziernika zacznie si\u0119 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.TisCASETv5RIJSfHxbIVPi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Echo Dnia on MSN6 godz.",
+            "date": "Echo Dnia on MSN9 godz.",
             "source": "Echo Dnia on MSN",
             "article_content": ""
         }
@@ -170,7 +170,7 @@
             "description": "Gie\u0142da Kolekcjonerska w Wojew\u00f3dzkim Domu Kultury w Kielcach to wydarzenie, kt\u00f3re odbywa si\u0119 cyklicznie i przyci\u0105ga mi\u0142o\u015bnik\u00f3w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.laCP48JhfCThGOhb3ZEAwS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Echo Dnia on MSN6 godz.",
+            "date": "Echo Dnia on MSN9 godz.",
             "source": "Echo Dnia on MSN",
             "article_content": ""
         }
@@ -186,25 +186,9 @@
             "description": "Plac przy inowroc\u0142awskiej skarb\u00f3wce, gdzie regularnie organizowany jest bazar, zn\u00f3w sta\u0142 si\u0119 centrum niedzielnego handlu.",
             "image_url": "https://www.bing.pl/th?id=OVFT.7kIoESJfuW4cg_lqCz8SZi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Inowroc\u0142aw Nasze Miasto on MSN18 godz.",
+            "date": "Inowroc\u0142aw Nasze Miasto on MSN21 godz.",
             "source": "Inowroc\u0142aw Nasze Miasto on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Jarmark jadwi\u017ca\u0144ski",
-            "link": "https://walbrzych.naszemiasto.pl/tag/jarmark-jadwizanski",
-            "description": "Jarmark Jadwi\u017ca\u0144ski w Zamku w Le\u015bnicy to wyj\u0105tkowe wydarzenie, kt\u00f3re w ten weekend przyci\u0105ga mi\u0142o\u015bnik\u00f3w tradycji, kultury i ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "targ+staroci",
-            "date": "Wa\u0142brzych Nasze Miasto1 godz.",
-            "source": "Wa\u0142brzych Nasze Miasto",
-            "article_content": "Content not available"
         }
     },
     {
@@ -218,7 +202,7 @@
             "description": "W najbli\u017csz\u0105 niedziel\u0119 (12 pa\u017adziernika) w III LO im. Cypriana Kamila Norwida w Rzeszowie (ul. Szopena 11) odb\u0119dzie si\u0119 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.L9C-QouLcxuFi2dGgUTD2i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Super Nowo\u015bci16 godz.",
+            "date": "Super Nowo\u015bci19 godz.",
             "source": "Super Nowo\u015bci",
             "article_content": "Fot. Mar. organizatora\n\nW najbli\u017csz\u0105 niedziel\u0119 (12 pa\u017adziernika) w III LO im. Cypriana Kamila Norwida w Rzeszowie (ul. Szopena 11) odb\u0119dzie si\u0119 kolejna ju\u017c w tym roku \u2013 tym razem pierwsza jesienna \u2013 Wystawa i Gie\u0142da Staroci.\n\nTo nie lada gratka dla fan\u00f3w wyj\u0105tkowych przedmiot \u0416\u0435\u043d\u0441\u043a\u0438\u0435 \u0431\u0435\u0436\u0435\u0432\u044b\u0435 \u0441\u043d\u0438\u043a\u0435\u0440\u0441\u044b \u043d\u0430 \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0435 \u0442\u0430\u043d\u043a\u0435\u0442\u043a\u0435 \u0437\u0438\u043c\u043d\u0438\u0435 \u043a\u0440\u043e\u0441\u0441\u043e\u0432\u043a\u0438 \u0442\u0435\u043f\u043b\u044b\u0435 \u043d\u0430 \u043c\u0435\u0445\u0443 \u044d\u043a\u043e-\u043a\u043e\u0436\u0430 \u0437\u0438\u043c\u0430 \u2014 \u0446\u0435\u043d\u0430 1480 \u0433\u0440\u043d \u0432 \u043a\u0430\u0442\u0430\u043b\u043e\u0433\u0435 \u0421\u043d\u0438\u043a\u0435\u0440\u044b \u2713 \u041a\u0443\u043f\u0438\u0442\u044c \u0436\u0435\u043d\u0441\u043a\u0438\u0435 \u0432\u0435\u0449\u0438 \u043f\u043e \u0434\u043e\u0441\u0442\u0443\u043f\u043d\u043e\u0439 \u0446\u0435\u043d\u0435 \u043d\u0430 \u0428\u0430\u0444\u0435 , \u0423\u043a\u0440\u0430\u0438\u043d\u0430 #175819778\u00f3w, kt\u00f3re w\u0142a\u015bnie w ten dzie\u0144 b\u0119dzie mo\u017cna naby\u0107 u wystawc\u00f3w na kilkudziesi\u0119ciu stanowiskach air jordan 4 military blue 2024."
         }
@@ -229,13 +213,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "\u015acie\u017cki rowerowe do 1 km od Jaworzna. Pomys\u0142y na jednodniowy wypad. Gdzie w weekend 11 - 12 pa\u017adziernika?",
-            "link": "https://jaworzno.naszemiasto.pl/sciezki-rowerowe-do-1-km-od-jaworzna-pomysly-na-jednodniowy-wypad-gdzie-w-weekend-11-12-pazdziernika/ar/c7p1-21831473",
-            "description": "Zanim wyruszysz na wypraw\u0119, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 11 pa\u017adziernika w Jaworznie ma by\u0107 12\u00b0C. Prawdopodobie\u0144stwo ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.srTx5E8dJWuYCKeq8Y-Oli&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "Jaworzno Nasze Miasto12 godz.",
-            "source": "Jaworzno Nasze Miasto",
+            "title": "Zamek le\u015bnicki",
+            "link": "https://walbrzych.naszemiasto.pl/tag/zamek-lesnicki",
+            "description": "Jarmark Jadwi\u017ca\u0144ski w Zamku w Le\u015bnicy to wyj\u0105tkowe wydarzenie, kt\u00f3re w ten weekend przyci\u0105ga mi\u0142o\u015bnik\u00f3w tradycji, kultury i ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "Wa\u0142brzych Nasze Miasto4 godz.",
+            "source": "Wa\u0142brzych Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -250,9 +234,25 @@
             "description": "W Zielonkach ko\u0142o Krakowa archeolodzy natkn\u0119li si\u0119 na niezwyk\u0142e znaleziska - pozosta\u0142o\u015bci osady z m\u0142odszej epoki kamienia ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.z__LlyCZz73TaTYGqCMSEC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "RMF2411 godz.",
+            "date": "RMF2414 godz.",
             "source": "RMF24",
             "article_content": "W Zielonkach ko\u0142o Krakowa archeolodzy natkn\u0119li si\u0119 na niezwyk\u0142e znaleziska - pozosta\u0142o\u015bci osady z m\u0142odszej epoki kamienia oraz cmentarzysko datowane na wczesne \u015bredniowiecze. W trakcie prac budowlanych ods\u0142oni\u0119to ju\u017c 8 grob\u00f3w, w tym r\u00f3wnie\u017c poch\u00f3wek dziecka. Znalezisko pozwala lepiej zrozumie\u0107 kolejne fazy zasiedlenia przedmie\u015b\u0107 Krakowa - od neolitu a\u017c po czasy, kiedy kszta\u0142towa\u0142o si\u0119 pa\u0144stwo Piast\u00f3w. Trwaj\u0105 szczeg\u00f3\u0142owe badania szcz\u0105tk\u00f3w i artefakt\u00f3w, kt\u00f3re pozwol\u0105 lepiej zrozumie\u0107 \u017cycie dawnych mieszka\u0144c\u00f3w tych ziem. Eksperci podkre\u015blaj\u0105 wzorow\u0105 wsp\u00f3\u0142prac\u0119 pomi\u0119dzy inwestorem a archeologami, dzi\u0119ki kt\u00f3rej uda\u0142o si\u0119 zabezpieczy\u0107 cenne relikty przesz\u0142o\u015bci.\n\nZdj\u0119cie ilustracyjne / Shutterstock\n\nOdkrycie archeologiczne w Zielonkach: Co znale\u017ali naukowcy?\n\nO sprawie informuje \"Dziennik Polski\". W Zielonkach-Marszowcu, zaledwie kilka kilometr\u00f3w od Krakowa, archeolodzy z Pracowni Archeologicznej Gazala natrafili na unikalne \u015blady przesz\u0142o\u015bci. Ods\u0142oni\u0119to fragmenty osady z neolitu oraz wczesno\u015bredniowieczne cmentarzysko, gdzie do tej pory odkryto osiem grob\u00f3w. W\u015br\u00f3d pochowanych znaleziono zar\u00f3wno doros\u0142ych, jak i dziecko. Dotychczas ods\u0142oni\u0119to 8 grob\u00f3w. Charakteryzuje je skromna zawarto\u015b\u0107, g\u0142\u00f3wnie drobne metalowe przedmioty, kt\u00f3re s\u0105 obecnie poddawane konserwacji i analizie, co jest utrudnione przez z\u0142y stan przedmiot\u00f3w.\n\nZnaczenie odkrycia dla historii regionu krakowskiego\n\nEksperci podkre\u015blaj\u0105, \u017ce odkrycie w Zielonkach dostarcza nowych informacji na temat najstarszych etap\u00f3w zasiedlania okolic Krakowa. Neolityczne \u015blady \u015bwiadcz\u0105 o przej\u015bciu tutejszych spo\u0142eczno\u015bci od trybu koczowniczego do osiad\u0142ego, a wczesno\u015bredniowieczne groby potwierdzaj\u0105 ci\u0105g\u0142o\u015b\u0107 osadnictwa a\u017c do czas\u00f3w formowania si\u0119 pa\u0144stwa piastowskiego. Chodzi o okres w historii, kiedy regu\u0142y \u017cycia spo\u0142ecznego i gospodarczego dopiero si\u0119 krystalizowa\u0142y, a wsp\u00f3lnoty osadnicze powstawa\u0142y w okolicach o\u015brodk\u00f3w w\u0142adzy.\n\nTo odkrycie ma ogromne znaczenie dla poznania najdawniejszych dziej\u00f3w okolic Zielonek. Pozwala ono lepiej zrozumie\u0107 proces zasiedlania tych teren\u00f3w oraz \u017cycie dawnych mieszka\u0144c\u00f3w - podkre\u015bla archeolog Grzegorz B\u0105k-Pryc, cytowany przez \"Dziennik Polski\". Ekspert doda\u0142 r\u00f3wnie\u017c, \u017ce \"dalsze prace badawcze i analizy laboratoryjne b\u0119d\u0105 kontynuowane\".\n\nNowoczesna inwestycja i ochrona dziedzictwa: Wzorowa wsp\u00f3\u0142praca\n\nWst\u0119pne ustalenia wskazuj\u0105 na zwi\u0105zek z wczesno\u015bredniowieczn\u0105 osad\u0105 istniej\u0105c\u0105 na tamtych terenach. Prace archeologiczne by\u0142y mo\u017cliwe dzi\u0119ki \u015bcis\u0142ej wsp\u00f3\u0142pracy inwestora ze s\u0142u\u017cbami konserwatorskimi. Archeolodzy chwal\u0105 efektywn\u0105 koordynacj\u0119 prac inwestora i konserwator\u00f3w zabytk\u00f3w, kt\u00f3ra umo\u017cliwi\u0142a jednoczesne prowadzenie bada\u0144 i dalsz\u0105 realizacj\u0119 inwestycji.\n\nTak efektywny uk\u0142ad pokazuje, \u017ce nauka i rozw\u00f3j infrastrukturalny mog\u0105 i\u015b\u0107 ze sob\u0105 w parze, przynosz\u0105c korzy\u015bci zar\u00f3wno lokalnej spo\u0142eczno\u015bci, jak i poznaniu historii regionu - zaznacza B\u0105k-Pryc.\n\nPo zako\u0144czeniu wykopalisk szcz\u0105tki trafi\u0105 do laboratorium, gdzie antropolodzy ustal\u0105 profil demograficzny zmar\u0142ych - ich wiek i p\u0142e\u0107 - oraz spr\u00f3buj\u0105 wyja\u015bni\u0107 okoliczno\u015bci zgonu. Dalsze badania mog\u0105 rzuci\u0107 nowe \u015bwiat\u0142o na \u017cycie i zwyczaje dawnych mieszka\u0144c\u00f3w ziemi krakowskiej."
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "\u015acie\u017cki rowerowe do 1 km od Jaworzna. Pomys\u0142y na jednodniowy wypad. Gdzie w weekend 11 - 12 pa\u017adziernika?",
+            "link": "https://jaworzno.naszemiasto.pl/sciezki-rowerowe-do-1-km-od-jaworzna-pomysly-na-jednodniowy-wypad-gdzie-w-weekend-11-12-pazdziernika/ar/c7p1-21831473",
+            "description": "Zanim wyruszysz na wypraw\u0119, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 11 pa\u017adziernika w Jaworznie ma by\u0107 12\u00b0C. Prawdopodobie\u0144stwo ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.srTx5E8dJWuYCKeq8Y-Oli&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "Jaworzno Nasze Miasto15 godz.",
+            "source": "Jaworzno Nasze Miasto",
+            "article_content": "Content not available"
         }
     },
     {
@@ -266,7 +266,7 @@
             "description": "Szukasz nowych tras do nordic walking w pobli\u017cu Ko\u0142obrzegu? Z Traseo przygotowali\u015bmy dla Ciebie kilka propozycji na ten tydzie\u0144. Je\u015bli to Tw\u00f3j pocz\u0105tek z nordic walking, nie zaczynaj w poniedzia\u0142ek. W ...",
             "image_url": "https://www.bing.pl/th?id=ODF.xGyVXoJ9b0zlcu2rTPA_6w&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Ko\u0142obrzeg Nasze Miasto11 godz.",
+            "date": "Ko\u0142obrzeg Nasze Miasto14 godz.",
             "source": "Ko\u0142obrzeg Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -282,7 +282,7 @@
             "description": "W sobot\u0119 11 pa\u017adziernika wed\u0142ug prognozy pogody ma by\u0107 13\u00b0C. Prawdopodobie\u0144stwo wyst\u0105pienia deszczu wynosi 39%. W niedziel\u0119 12 pa\u017adziernika zgodnie z najnowszymi prognozami pogody ma by\u0107 13\u00b0C w ...",
             "image_url": "https://www.bing.pl/th?id=ODF.2lnLIQe5bnM9ixvXVTSDQg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Koszalin Nasze Miasto11 godz.",
+            "date": "Koszalin Nasze Miasto13 godz.",
             "source": "Koszalin Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -298,7 +298,7 @@
             "description": "Zanim wyruszysz w drog\u0119, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 11 pa\u017adziernika w O\u015bwi\u0119cimiu ma by\u0107 13\u00b0C. Prawdopodobie\u0144stwo wyst\u0105pienia deszczu wynosi 43%. W niedziel\u0119 12 pa\u017adziernika w O\u015bwi\u0119cimiu ma by\u0107 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.hU9b0B80CrRL-uqx7ot5XQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "O\u015bwi\u0119cim Nasze Miasto11 godz.",
+            "date": "O\u015bwi\u0119cim Nasze Miasto14 godz.",
             "source": "O\u015bwi\u0119cim Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -314,7 +314,7 @@
             "description": "Gie\u0142da Kolekcjonerska w Wojew\u00f3dzkim Domu Kultury w Kielcach to wydarzenie, kt\u00f3re odbywa si\u0119 cyklicznie i przyci\u0105ga mi\u0142o\u015bnik\u00f3w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.laCP48JhfCThGOhb3ZEAwS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Echo Dnia on MSN6 godz.",
+            "date": "Echo Dnia on MSN9 godz.",
             "source": "Echo Dnia on MSN",
             "article_content": ""
         }
@@ -325,14 +325,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "W Wa\u0142brzychu rozp\u0119ta\u0142a si\u0119 burza, bo na sprzeda\u017c trafi\u0142a dzia\u0142ka po kopalni uranu. Jest stary dokument, kt\u00f3ry m\u00f3wi, \u017ce nie wolno jej rusza\u0107",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/w-wa%C5%82brzychu-rozp%C4%99ta%C5%82a-si%C4%99-burza-bo-na-sprzeda%C5%BC-trafi%C5%82a-dzia%C5%82ka-po-kopalni-uranu-jest-stary-dokument-kt%C3%B3ry-m%C3%B3wi-%C5%BCe-nie-wolno-jej-rusza%C4%87/ar-AA1O6c2B?ocid=BingNewsVerp",
-            "description": "Spraw\u0105 zainteresowa\u0142 nas wa\u0142brzyski radny Tomasz Maciejowski, ale dalej posz\u0142y parlamentarzystki pos\u0142anka Sylwia Bielawska i ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.w1GD5xoSuJHPYKYzJG0lxS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Przegl\u0105d prasy 9.10.2025. Przygotowali\u015bmy zestaw najwa\u017cniejszych informacji z wczoraj. B\u0105d\u017a na bie\u017c\u0105co z wydarzeniami",
+            "link": "https://gp24.pl/przeglad-prasy-9-10-2025-przygotowalismy-zestaw-najwazniejszych-informacji-z-wczoraj-badz-na-biezaco-z-wydarzeniami/ar/c1p1-19960927",
+            "description": "W Centrum Inicjatyw Obywatelskich w S\u0142upsku odby\u0142a si\u0119 V Pozarz\u0105dowa Konferencja Prasowa, stanowi\u0105ca podsumowanie ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.VoSAd6o7d7PxwxU01CXZTi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Wa\u0142brzych Nasze Miasto on MSN6 godz.",
-            "source": "Wa\u0142brzych Nasze Miasto on MSN",
-            "article_content": ""
+            "date": "G\u0142os Pomorza39 min",
+            "source": "G\u0142os Pomorza",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Przegl\u0105d prasy Zielona G\u00f3ra 9.10.2025. Sprawd\u017a zestawienie najwa\u017cniejszych informacji z wczoraj w Zielonej G\u00f3rze",
+            "link": "https://zielonagora.naszemiasto.pl/przeglad-prasy-zielona-gora-9-10-2025-sprawdz-zestawienie-najwazniejszych-informacji-z-wczoraj-w-zielonej-gorze/ar/c1p1-19738409",
+            "description": "Zmar\u0142 dr Stanis\u0142aw Kowalski, by\u0142y wojew\u00f3dzki konserwator zabytk\u00f3w, wieloletni pracownik Muzeum Ziemi Lubuskiej w Zielonej G\u00f3rze i jej wicedyrektor w latach 1989-1996. Mia\u0142 94 lata. Pogrzeb odb\u0119dzie ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.RJOGHWzYjTst0z6ULRD3Hw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "zabytkowe+przedmioty",
+            "date": "Zielona G\u00f3ra Nasze Miasto37 min",
+            "source": "Zielona G\u00f3ra Nasze Miasto",
+            "article_content": "Content not available"
         }
     },
     {
@@ -346,7 +362,7 @@
             "description": "Na targowisku zewsz\u0105d s\u0142ycha\u0107 rozmowy g\u0142\u00f3wnie na ten temat. Ludzie stoj\u0105, dyskutuj\u0105 o budowie schronu. Wszyscy rozumiej\u0105, \u017ce ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.qinxXFicEgrYhXq6I265Bi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Dzier\u017coni\u00f3w Nasze Miasto on MSN18 godz.",
+            "date": "Dzier\u017coni\u00f3w Nasze Miasto on MSN21 godz.",
             "source": "Dzier\u017coni\u00f3w Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -362,25 +378,9 @@
             "description": "Go\u015b\u0107mi specjalnymi programu byli cz\u0142onkowie stowarzysze\u0144 poszukiwaczy ze Szczecina oraz Lipna, a tak\u017ce aktor Piotr Mr\u00f3z z ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.Qu_8mbEJ5JDydJHnhfRroy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Pomorska on MSN8 godz.",
+            "date": "Gazeta Pomorska on MSN11 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Zaskakuj\u0105ce znalezisko w Zielonkach. Jakie tajemnice skrywa ziemia krakowska?",
-            "link": "https://www.rmf24.pl/regiony/krakow/news-zaskakujace-znalezisko-w-zielonkach-jakie-tajemnice-skrywa-z,nId,8028910",
-            "description": "W Zielonkach ko\u0142o Krakowa archeolodzy natkn\u0119li si\u0119 na niezwyk\u0142e znaleziska - pozosta\u0142o\u015bci osady z m\u0142odszej epoki kamienia ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.z__LlyCZz73TaTYGqCMSEC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "RMF2411 godz.",
-            "source": "RMF24",
-            "article_content": "W Zielonkach ko\u0142o Krakowa archeolodzy natkn\u0119li si\u0119 na niezwyk\u0142e znaleziska - pozosta\u0142o\u015bci osady z m\u0142odszej epoki kamienia oraz cmentarzysko datowane na wczesne \u015bredniowiecze. W trakcie prac budowlanych ods\u0142oni\u0119to ju\u017c 8 grob\u00f3w, w tym r\u00f3wnie\u017c poch\u00f3wek dziecka. Znalezisko pozwala lepiej zrozumie\u0107 kolejne fazy zasiedlenia przedmie\u015b\u0107 Krakowa - od neolitu a\u017c po czasy, kiedy kszta\u0142towa\u0142o si\u0119 pa\u0144stwo Piast\u00f3w. Trwaj\u0105 szczeg\u00f3\u0142owe badania szcz\u0105tk\u00f3w i artefakt\u00f3w, kt\u00f3re pozwol\u0105 lepiej zrozumie\u0107 \u017cycie dawnych mieszka\u0144c\u00f3w tych ziem. Eksperci podkre\u015blaj\u0105 wzorow\u0105 wsp\u00f3\u0142prac\u0119 pomi\u0119dzy inwestorem a archeologami, dzi\u0119ki kt\u00f3rej uda\u0142o si\u0119 zabezpieczy\u0107 cenne relikty przesz\u0142o\u015bci.\n\nZdj\u0119cie ilustracyjne / Shutterstock\n\nOdkrycie archeologiczne w Zielonkach: Co znale\u017ali naukowcy?\n\nO sprawie informuje \"Dziennik Polski\". W Zielonkach-Marszowcu, zaledwie kilka kilometr\u00f3w od Krakowa, archeolodzy z Pracowni Archeologicznej Gazala natrafili na unikalne \u015blady przesz\u0142o\u015bci. Ods\u0142oni\u0119to fragmenty osady z neolitu oraz wczesno\u015bredniowieczne cmentarzysko, gdzie do tej pory odkryto osiem grob\u00f3w. W\u015br\u00f3d pochowanych znaleziono zar\u00f3wno doros\u0142ych, jak i dziecko. Dotychczas ods\u0142oni\u0119to 8 grob\u00f3w. Charakteryzuje je skromna zawarto\u015b\u0107, g\u0142\u00f3wnie drobne metalowe przedmioty, kt\u00f3re s\u0105 obecnie poddawane konserwacji i analizie, co jest utrudnione przez z\u0142y stan przedmiot\u00f3w.\n\nZnaczenie odkrycia dla historii regionu krakowskiego\n\nEksperci podkre\u015blaj\u0105, \u017ce odkrycie w Zielonkach dostarcza nowych informacji na temat najstarszych etap\u00f3w zasiedlania okolic Krakowa. Neolityczne \u015blady \u015bwiadcz\u0105 o przej\u015bciu tutejszych spo\u0142eczno\u015bci od trybu koczowniczego do osiad\u0142ego, a wczesno\u015bredniowieczne groby potwierdzaj\u0105 ci\u0105g\u0142o\u015b\u0107 osadnictwa a\u017c do czas\u00f3w formowania si\u0119 pa\u0144stwa piastowskiego. Chodzi o okres w historii, kiedy regu\u0142y \u017cycia spo\u0142ecznego i gospodarczego dopiero si\u0119 krystalizowa\u0142y, a wsp\u00f3lnoty osadnicze powstawa\u0142y w okolicach o\u015brodk\u00f3w w\u0142adzy.\n\nTo odkrycie ma ogromne znaczenie dla poznania najdawniejszych dziej\u00f3w okolic Zielonek. Pozwala ono lepiej zrozumie\u0107 proces zasiedlania tych teren\u00f3w oraz \u017cycie dawnych mieszka\u0144c\u00f3w - podkre\u015bla archeolog Grzegorz B\u0105k-Pryc, cytowany przez \"Dziennik Polski\". Ekspert doda\u0142 r\u00f3wnie\u017c, \u017ce \"dalsze prace badawcze i analizy laboratoryjne b\u0119d\u0105 kontynuowane\".\n\nNowoczesna inwestycja i ochrona dziedzictwa: Wzorowa wsp\u00f3\u0142praca\n\nWst\u0119pne ustalenia wskazuj\u0105 na zwi\u0105zek z wczesno\u015bredniowieczn\u0105 osad\u0105 istniej\u0105c\u0105 na tamtych terenach. Prace archeologiczne by\u0142y mo\u017cliwe dzi\u0119ki \u015bcis\u0142ej wsp\u00f3\u0142pracy inwestora ze s\u0142u\u017cbami konserwatorskimi. Archeolodzy chwal\u0105 efektywn\u0105 koordynacj\u0119 prac inwestora i konserwator\u00f3w zabytk\u00f3w, kt\u00f3ra umo\u017cliwi\u0142a jednoczesne prowadzenie bada\u0144 i dalsz\u0105 realizacj\u0119 inwestycji.\n\nTak efektywny uk\u0142ad pokazuje, \u017ce nauka i rozw\u00f3j infrastrukturalny mog\u0105 i\u015b\u0107 ze sob\u0105 w parze, przynosz\u0105c korzy\u015bci zar\u00f3wno lokalnej spo\u0142eczno\u015bci, jak i poznaniu historii regionu - zaznacza B\u0105k-Pryc.\n\nPo zako\u0144czeniu wykopalisk szcz\u0105tki trafi\u0105 do laboratorium, gdzie antropolodzy ustal\u0105 profil demograficzny zmar\u0142ych - ich wiek i p\u0142e\u0107 - oraz spr\u00f3buj\u0105 wyja\u015bni\u0107 okoliczno\u015bci zgonu. Dalsze badania mog\u0105 rzuci\u0107 nowe \u015bwiat\u0142o na \u017cycie i zwyczaje dawnych mieszka\u0144c\u00f3w ziemi krakowskiej."
         }
     },
     {
@@ -394,7 +394,7 @@
             "description": "Masz w domu takie monety obiegowe? Obejrzyj je lepiej dok\u0142adnie, bo mo\u017ce si\u0119 okaza\u0107, \u017ce ich warto\u015b\u0107 jest znacznie wy\u017csza, ni\u017c ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.sAedr1PLwjwmIbueu_o4Zy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Nowa Trybuna Opolska17 godz.",
+            "date": "Nowa Trybuna Opolska20 godz.",
             "source": "Nowa Trybuna Opolska",
             "article_content": "Content not available"
         }
@@ -410,24 +410,8 @@
             "description": "Masz w domu stare monety obiegowe? Obejrzyj je dok\u0142adnie, bo mo\u017ce si\u0119 okaza\u0107, \u017ce ich warto\u015b\u0107 jest znacznie wy\u017csza, ni\u017c ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.0hS6lXT8QlJYNg7kFF6p6i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Nowa Trybuna Opolska on MSN17 godz.",
+            "date": "Nowa Trybuna Opolska on MSN20 godz.",
             "source": "Nowa Trybuna Opolska on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Monety z czas\u00f3w PRL. Zobacz, kt\u00f3re s\u0105 warte fortun\u0119! 08.10",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/monety-z-czas%C3%B3w-prl-zobacz-kt%C3%B3re-s%C4%85-warte-fortun%C4%99-6102025/ar-AA1NXzpp?ocid=BingNewsVerp",
-            "description": "Monety z czas\u00f3w Polskiej Rzeczpospolitej Ludowej ciesz\u0105 si\u0119 coraz wi\u0119kszym zainteresowaniem oraz wzrasta ich warto\u015b\u0107, najcz\u0119\u015bciej zale\u017cna od ilo\u015bci zachowanych egzemplarzy oraz stanu zachowania.",
-            "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stare+numizmatyka",
-            "date": "G\u0142os Koszali\u0144ski on MSN21 godz.",
-            "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
     },
@@ -442,7 +426,7 @@
             "description": "Je\u015bli my\u015blisz, \u017ce wszystkie monety z PRL s\u0105 warte tylko kilka groszy, to jeste\u015b w b\u0142\u0119dzie. Istniej\u0105 konkretne egzemplarze, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.F_3y802YdHWKqn_aR32xHC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Pomorza on MSN3 godz.",
+            "date": "G\u0142os Pomorza on MSN6 godz.",
             "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
         }
@@ -458,7 +442,7 @@
             "description": "Nie ka\u017cdy banknot jest warty dok\u0142adnie tyle, ile wynosi jego nomina\u0142. W \u015bwiecie kolekcjoner\u00f3w istnieje mn\u00f3stwo banknot\u00f3w, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.yH5r3gFwJOecJBV6kwy02y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Nowa Trybuna Opolska on MSN18 godz.",
+            "date": "Nowa Trybuna Opolska on MSN21 godz.",
             "source": "Nowa Trybuna Opolska on MSN",
             "article_content": ""
         }
@@ -469,14 +453,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Niesamowite odkrycie pod Krakowem. W Zielonkach natrafiono na pozosta\u0142o\u015bci pradziejowej osady i wczesno\u015bredniowiecznego cmentarzyska",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/niesamowite-odkrycie-pod-krakowem-w-zielonkach-natrafiono-na-pozosta%C5%82o%C5%9Bci-pradziejowej-osady-i-wczesno%C5%9Bredniowiecznego-cmentarzyska/ar-AA1O1sT5?ocid=BingNewsVerp",
-            "description": "W trakcie prac zwi\u0105zanych z realizacj\u0105 inwestycji budowlanej w Zielonkach-Marszowcu, kilka kilometr\u00f3w od p\u00f3\u0142nocnych granic ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.hdSIUoWA-Ox7fWm6FE5X5i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Gazeta Krakowska on MSN21 godz.",
-            "source": "Gazeta Krakowska on MSN",
-            "article_content": ""
+            "title": "Odsiecz wiede\u0144ska moneta",
+            "link": "https://gdansk.naszemiasto.pl/tag/odsiecz-wiedenska-moneta",
+            "description": "Narodowy Bank Polski wprowadza do obiegu z\u0142ote i srebrne monety, kt\u00f3re maj\u0105 upami\u0119tnia\u0107 jedn\u0105 z najwi\u0119kszych bitew XVII-wiecznej Europy. Pieni\u0105dze lubi ka\u017cdy. A je\u015bli jeszcze mo\u017cna na nich zarobi\u0107 ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.boOkKdH-T8isceS81-32Lg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stare+numizmatyka",
+            "date": "Gda\u0144sk Nasze Miasto15 godz.",
+            "source": "Gda\u0144sk Nasze Miasto",
+            "article_content": "Content not available"
         }
     },
     {
@@ -490,9 +474,25 @@
             "description": "W Zielonkach ko\u0142o Krakowa archeolodzy natkn\u0119li si\u0119 na niezwyk\u0142e znaleziska - pozosta\u0142o\u015bci osady z m\u0142odszej epoki kamienia ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.z__LlyCZz73TaTYGqCMSEC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "RMF2411 godz.",
+            "date": "RMF2414 godz.",
             "source": "RMF24",
             "article_content": "W Zielonkach ko\u0142o Krakowa archeolodzy natkn\u0119li si\u0119 na niezwyk\u0142e znaleziska - pozosta\u0142o\u015bci osady z m\u0142odszej epoki kamienia oraz cmentarzysko datowane na wczesne \u015bredniowiecze. W trakcie prac budowlanych ods\u0142oni\u0119to ju\u017c 8 grob\u00f3w, w tym r\u00f3wnie\u017c poch\u00f3wek dziecka. Znalezisko pozwala lepiej zrozumie\u0107 kolejne fazy zasiedlenia przedmie\u015b\u0107 Krakowa - od neolitu a\u017c po czasy, kiedy kszta\u0142towa\u0142o si\u0119 pa\u0144stwo Piast\u00f3w. Trwaj\u0105 szczeg\u00f3\u0142owe badania szcz\u0105tk\u00f3w i artefakt\u00f3w, kt\u00f3re pozwol\u0105 lepiej zrozumie\u0107 \u017cycie dawnych mieszka\u0144c\u00f3w tych ziem. Eksperci podkre\u015blaj\u0105 wzorow\u0105 wsp\u00f3\u0142prac\u0119 pomi\u0119dzy inwestorem a archeologami, dzi\u0119ki kt\u00f3rej uda\u0142o si\u0119 zabezpieczy\u0107 cenne relikty przesz\u0142o\u015bci.\n\nZdj\u0119cie ilustracyjne / Shutterstock\n\nOdkrycie archeologiczne w Zielonkach: Co znale\u017ali naukowcy?\n\nO sprawie informuje \"Dziennik Polski\". W Zielonkach-Marszowcu, zaledwie kilka kilometr\u00f3w od Krakowa, archeolodzy z Pracowni Archeologicznej Gazala natrafili na unikalne \u015blady przesz\u0142o\u015bci. Ods\u0142oni\u0119to fragmenty osady z neolitu oraz wczesno\u015bredniowieczne cmentarzysko, gdzie do tej pory odkryto osiem grob\u00f3w. W\u015br\u00f3d pochowanych znaleziono zar\u00f3wno doros\u0142ych, jak i dziecko. Dotychczas ods\u0142oni\u0119to 8 grob\u00f3w. Charakteryzuje je skromna zawarto\u015b\u0107, g\u0142\u00f3wnie drobne metalowe przedmioty, kt\u00f3re s\u0105 obecnie poddawane konserwacji i analizie, co jest utrudnione przez z\u0142y stan przedmiot\u00f3w.\n\nZnaczenie odkrycia dla historii regionu krakowskiego\n\nEksperci podkre\u015blaj\u0105, \u017ce odkrycie w Zielonkach dostarcza nowych informacji na temat najstarszych etap\u00f3w zasiedlania okolic Krakowa. Neolityczne \u015blady \u015bwiadcz\u0105 o przej\u015bciu tutejszych spo\u0142eczno\u015bci od trybu koczowniczego do osiad\u0142ego, a wczesno\u015bredniowieczne groby potwierdzaj\u0105 ci\u0105g\u0142o\u015b\u0107 osadnictwa a\u017c do czas\u00f3w formowania si\u0119 pa\u0144stwa piastowskiego. Chodzi o okres w historii, kiedy regu\u0142y \u017cycia spo\u0142ecznego i gospodarczego dopiero si\u0119 krystalizowa\u0142y, a wsp\u00f3lnoty osadnicze powstawa\u0142y w okolicach o\u015brodk\u00f3w w\u0142adzy.\n\nTo odkrycie ma ogromne znaczenie dla poznania najdawniejszych dziej\u00f3w okolic Zielonek. Pozwala ono lepiej zrozumie\u0107 proces zasiedlania tych teren\u00f3w oraz \u017cycie dawnych mieszka\u0144c\u00f3w - podkre\u015bla archeolog Grzegorz B\u0105k-Pryc, cytowany przez \"Dziennik Polski\". Ekspert doda\u0142 r\u00f3wnie\u017c, \u017ce \"dalsze prace badawcze i analizy laboratoryjne b\u0119d\u0105 kontynuowane\".\n\nNowoczesna inwestycja i ochrona dziedzictwa: Wzorowa wsp\u00f3\u0142praca\n\nWst\u0119pne ustalenia wskazuj\u0105 na zwi\u0105zek z wczesno\u015bredniowieczn\u0105 osad\u0105 istniej\u0105c\u0105 na tamtych terenach. Prace archeologiczne by\u0142y mo\u017cliwe dzi\u0119ki \u015bcis\u0142ej wsp\u00f3\u0142pracy inwestora ze s\u0142u\u017cbami konserwatorskimi. Archeolodzy chwal\u0105 efektywn\u0105 koordynacj\u0119 prac inwestora i konserwator\u00f3w zabytk\u00f3w, kt\u00f3ra umo\u017cliwi\u0142a jednoczesne prowadzenie bada\u0144 i dalsz\u0105 realizacj\u0119 inwestycji.\n\nTak efektywny uk\u0142ad pokazuje, \u017ce nauka i rozw\u00f3j infrastrukturalny mog\u0105 i\u015b\u0107 ze sob\u0105 w parze, przynosz\u0105c korzy\u015bci zar\u00f3wno lokalnej spo\u0142eczno\u015bci, jak i poznaniu historii regionu - zaznacza B\u0105k-Pryc.\n\nPo zako\u0144czeniu wykopalisk szcz\u0105tki trafi\u0105 do laboratorium, gdzie antropolodzy ustal\u0105 profil demograficzny zmar\u0142ych - ich wiek i p\u0142e\u0107 - oraz spr\u00f3buj\u0105 wyja\u015bni\u0107 okoliczno\u015bci zgonu. Dalsze badania mog\u0105 rzuci\u0107 nowe \u015bwiat\u0142o na \u017cycie i zwyczaje dawnych mieszka\u0144c\u00f3w ziemi krakowskiej."
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Malownicze miasto sto kilometr\u00f3w od Warszawy. Jesieni\u0105 wygl\u0105da najpi\u0119kniej. Te miejsca warto tu odwiedzi\u0107",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/malownicze-miasto-sto-kilometr%C3%B3w-od-warszawy-jesieni%C4%85-wygl%C4%85da-najpi%C4%99kniej-te-miejsca-warto-tu-odwiedzi%C4%87/ar-AA1NRhvh?ocid=BingNewsVerp",
+            "description": "To jedno z wi\u0119kszych miast wojew\u00f3dztwa mazowieckiego, ale mieszka\u0144cy naszego regionu wiedz\u0105 o nim niewiele - zdecydowanie ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.wUzmWzzrZgmMkc_98QPtdS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "odkrycie+zabytkowe+przedmiot",
+            "date": "Warszawa Nasze Miasto on MSN17 godz.",
+            "source": "Warszawa Nasze Miasto on MSN",
+            "article_content": ""
         }
     }
 ]
