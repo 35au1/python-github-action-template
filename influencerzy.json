@@ -10,7 +10,7 @@
             "description": "Plac przy inowroc\u0142awskiej skarb\u00f3wce, gdzie regularnie organizowany jest bazar, zn\u00f3w sta\u0142 si\u0119 centrum niedzielnego handlu.",
             "image_url": "https://www.bing.pl/th?id=OVFT.cfRj0pLUZiDNVupjxYR4YC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Inowroc\u0142aw Nasze Miasto on MSN18 godz.",
+            "date": "Inowroc\u0142aw Nasze Miasto on MSN20 godz.",
             "source": "Inowroc\u0142aw Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -26,7 +26,7 @@
             "description": "Ceny ropy naftowej odbijaj\u0105 po ostatnich spadkach. Inwestorzy przygl\u0105daj\u0105 si\u0119 planom nowych sankcji Unii Europejskiej wobec ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.3eoQtikE6G1i3Kek0VfuOS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Gazeta Lubuska3 godz.",
+            "date": "Gazeta Lubuska6 godz.",
             "source": "Gazeta Lubuska",
             "article_content": "Content not available"
         }
@@ -42,24 +42,8 @@
             "description": "Masz w domu takie monety obiegowe? Sprawd\u017a je lepiej dok\u0142adnie, bo mo\u017ce si\u0119 okaza\u0107, \u017ce ich warto\u015b\u0107 jest znacznie wy\u017csza, ni\u017c ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.z3y2M8Vdh1WkhdQUKQqcmy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Nowa Trybuna Opolska on MSN19 godz.",
+            "date": "Nowa Trybuna Opolska on MSN21 godz.",
             "source": "Nowa Trybuna Opolska on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Rzadkie monety z PRL poszukiwane przez kolekcjoner\u00f3w. Kt\u00f3re s\u0105 najdro\u017csze i ile mo\u017cna za nie zarobi\u0107 10.10.2025",
-            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/rzadkie-monety-z-prl-poszukiwane-przez-kolekcjoner%C3%B3w-kt%C3%B3re-s%C4%85-najdro%C5%BCsze-i-ile-mo%C5%BCna-za-nie-zarobi%C4%87-10102025/ar-AA1NVJsH?ocid=BingNewsVerp",
-            "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.klhONzCXuEcupRNZfCdKmy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "G\u0142os Pomorza on MSN2 godz.",
-            "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
         }
     },
@@ -74,8 +58,24 @@
             "description": "Na starych monetach z czas\u00f3w PRL-u mo\u017cna zarobi\u0107 du\u017co pieni\u0119dzy. Wycena monet zale\u017cy od ich stanu zachowania, a dobrze utrzymane egzemplarze s\u0105 szczeg\u00f3lnie cenione. W galerii przedstawiamy za ile ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski on MSN20 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN23 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Rzadkie monety z PRL poszukiwane przez kolekcjoner\u00f3w. Kt\u00f3re s\u0105 najdro\u017csze i ile mo\u017cna za nie zarobi\u0107 10.10.2025",
+            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/rzadkie-monety-z-prl-poszukiwane-przez-kolekcjoner%C3%B3w-kt%C3%B3re-s%C4%85-najdro%C5%BCsze-i-ile-mo%C5%BCna-za-nie-zarobi%C4%87-10102025/ar-AA1NVJsH?ocid=BingNewsVerp",
+            "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.klhONzCXuEcupRNZfCdKmy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "G\u0142os Pomorza on MSN5 godz.",
+            "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
         }
     },
@@ -90,7 +90,7 @@
             "description": "Trzymasz ci\u0105gle stare monety obiegowe? Lepiej je sprawd\u017a, ich warto\u015b\u0107 jest dzisiaj znacznie wy\u017csza, ni\u017c przypuszczasz. Niekt\u00f3re egzemplarze osi\u0105gaj\u0105 ceny si\u0119gaj\u0105ce kilku tysi\u0119cy z\u0142otych. Przedstawiamy ...",
             "image_url": "https://www.bing.pl/th?id=ODF.U7tHWt6afQwcI4sCY6tjaA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "Nowa Trybuna Opolska13 godz.",
+            "date": "Nowa Trybuna Opolska16 godz.",
             "source": "Nowa Trybuna Opolska",
             "article_content": "Content not available"
         }
@@ -106,7 +106,7 @@
             "description": "Je\u015bli my\u015blisz, \u017ce wszystkie monety z PRL s\u0105 warte tylko kilka groszy, to jeste\u015b w b\u0142\u0119dzie. Istniej\u0105 konkretne egzemplarze, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.F_3y802YdHWKqn_aR32xHC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Pomorza on MSN2 godz.",
+            "date": "G\u0142os Pomorza on MSN5 godz.",
             "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
         }
@@ -122,7 +122,7 @@
             "description": "Kielczanin Marek Cecu\u0142a jest jednym z najs\u0142ynniejszych na \u015bwiecie ceramik\u00f3w i jednym z najbardziej znanych na \u015bwiecie Kielczan. Ods\u0142oni\u0119cie instalacji - lustra \"Niebo Kielc\" w pa\u017adzierniku 2025 roku s ...",
             "image_url": "https://www.bing.pl/th?id=ODF.xmtGTJHQSE_v4D-CWxbvsQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stara+porcelana",
-            "date": "Echo Dnia on MSN19 godz.",
+            "date": "Echo Dnia on MSN22 godz.",
             "source": "Echo Dnia on MSN",
             "article_content": ""
         }
@@ -138,7 +138,7 @@
             "description": "Niedzielne targi w Poznaniu ciesz\u0105 coraz wi\u0119ksz\u0105 popularno\u015bci\u0105. Dzisiaj po raz pierwszy na Franowie ruszy\u0142 Pyra Targ. To ju\u017c drugi pchli targ w tej lokalizacji. Gie\u0142da Staroci Pchli Targ przy Centrum ...",
             "image_url": "https://www.bing.pl/th?id=ODF.Cya7j59Rws2Si6qfmk5ljw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Pozna\u0144 Nasze Miasto on MSN16 godz.",
+            "date": "Pozna\u0144 Nasze Miasto on MSN19 godz.",
             "source": "Pozna\u0144 Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -154,7 +154,7 @@
             "description": "W najbli\u017cszy weekend, 10\u201311 pa\u017adziernika 2025 roku, w Pasa\u017cu \u0141\u00f3dzkim przy al. Jana Paw\u0142a II zago\u015bci jesienna edycja \u2014 Targ\u00f3w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.xaHX5FihQ8Sr2SQH7HEh8C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Express Ilustrowany on MSN11 godz.",
+            "date": "Express Ilustrowany on MSN13 godz.",
             "source": "Express Ilustrowany on MSN",
             "article_content": ""
         }
@@ -170,7 +170,7 @@
             "description": "Plac przy inowroc\u0142awskiej skarb\u00f3wce, gdzie regularnie organizowany jest bazar, zn\u00f3w sta\u0142 si\u0119 centrum niedzielnego handlu.",
             "image_url": "https://www.bing.pl/th?id=OVFT.cfRj0pLUZiDNVupjxYR4YC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Inowroc\u0142aw Nasze Miasto on MSN18 godz.",
+            "date": "Inowroc\u0142aw Nasze Miasto on MSN20 godz.",
             "source": "Inowroc\u0142aw Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -186,7 +186,7 @@
             "description": "Znajdziesz tu meble, ubrania, zabawki, maskotki, ksi\u0105\u017cki, obrazy, zastaw\u0119 sto\u0142ow\u0105, sprz\u0119t AGD, instrumenty, narz\u0119dzia i mn\u00f3stwo innych skarb\u00f3w. W\u015br\u00f3d nich unikaty z dusz\u0105 i charakterem, kt\u00f3re dodadz\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.IhgZImmTh-bvHE5axSKU5g&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Lublin Nasze Miasto on MSN14 godz.",
+            "date": "Lublin Nasze Miasto on MSN17 godz.",
             "source": "Lublin Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -202,7 +202,7 @@
             "description": "W czwartek 11 wrze\u015bnia 2025 w \u017baganiu ruszy\u0142o \u015bwi\u0119to 11 Lubuskiej Dywizji Kawalerii Pancernej. Przyjechali go\u015bcie z ca\u0142ego ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.3eoQtikE6G1i3Kek0VfuOS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Gazeta Lubuska7 godz.",
+            "date": "Gazeta Lubuska10 godz.",
             "source": "Gazeta Lubuska",
             "article_content": "Content not available"
         }
@@ -213,13 +213,29 @@
             "Content-Type": "application/json"
         },
         "body": {
+            "title": "Z katedry w Opolu po remoncie znikn\u0119\u0142y stare, granitowe p\u0142yty. Wierni krytykuj\u0105: \"Nowa posadzka wygl\u0105da jak w galerii handlowej\"",
+            "link": "https://opole.wyborcza.pl/opole/7,35086,32313160,wierni-pytaja-o-los-granitowych-plyt-z-katedry-w-opolu-nowa.html",
+            "description": "Po trzech latach modernizacji ko\u015bcio\u0142a granitowa posadzka nie wr\u00f3ci\u0142a ju\u017c na swoje miejsce. - P\u0142yty nie mia\u0142y charakteru zabytkowego - t\u0142umacz\u0105 si\u0119 przedstawiciele Kurii Diecezjalnej.",
+            "image_url": "https://www.bing.pl/th?id=ODF.VUzCeUcNss-KcamGhJ18Qg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "relikty",
+            "date": "Wyborcza Opole11 min",
+            "source": "Wyborcza Opole",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
             "title": "Interstellarne Cia\u0142o 3I/ATLAS: 10-Miliardowa Czaszka z Przesz\u0142o\u015bci Wszech\u015bwiata",
             "link": "https://gazeta-lokalna.pl/interstellarne-cialo-3i-atlas-10-miliardowa-czaszka-z-przeszlosci-wszechswiata/",
-            "description": "W ostatnich tygodniach astronomowie z ca\u0142ego \u015bwiata z zapartym tchem obserwowali niezwyk\u0142e zjawisko \u2013 przelot komety ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.zxyMykdFNwBYhffuZKrdOS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "description": "W ostatnich tygodniach astronomowie z ca\u0142ego \u015bwiata z zapartym tchem obserwowali niezwyk\u0142e zjawisko \u2013 przelot komety mi\u0119dzygwiezdnej 3I/ATLAS. To nie tylko kolejny obiekt w naszym kosmicznym ...",
+            "image_url": "https://www.bing.plNo image",
             "category": "relikty",
-            "date": "Gazeta Lokalna3 godz.",
-            "source": "Gazeta Lokalna",
+            "date": "gazeta-lokalna6 godz.",
+            "source": "gazeta-lokalna",
             "article_content": "W ostatnich tygodniach astronomowie z ca\u0142ego \u015bwiata z zapartym tchem obserwowali niezwyk\u0142e zjawisko \u2013 przelot komety mi\u0119dzygwiezdnej 3I/ATLAS. To nie tylko kolejny obiekt w naszym kosmicznym s\u0105siedztwie, ale prawdziwy skarb z przesz\u0142o\u015bci Wszech\u015bwiata, kt\u00f3ry mo\u017ce mie\u0107 a\u017c 10 miliard\u00f3w lat! Co sprawia, \u017ce ta kometa jest tak wyj\u0105tkowa? Przyjrzyjmy si\u0119 bli\u017cej jej tajemnicom.\n\nCo to jest 3I/ATLAS i dlaczego jest wa\u017cna?\n\n3I/ATLAS to kometa, kt\u00f3ra przyby\u0142a do naszego Uk\u0142adu S\u0142onecznego z odleg\u0142ych zak\u0105tk\u00f3w kosmosu. Jej nazwa, 3I/ATLAS, wskazuje na to, \u017ce zosta\u0142a odkryta przez teleskopy ATLAS (Asteroid Terrestrial-impact Last Alert System). Ale co czyni j\u0105 tak interesuj\u0105c\u0105? Przede wszystkim wiek \u2013 szacuje si\u0119, \u017ce ma oko\u0142o 10 miliard\u00f3w lat, co oznacza, \u017ce jest reliktem z czas\u00f3w, gdy nasz Wszech\u015bwiat by\u0142 jeszcze m\u0142ody. To jak otwarcie kapsu\u0142y czasu, kt\u00f3ra mo\u017ce dostarczy\u0107 nam cennych informacji o pocz\u0105tkach kosmosu.\n\nJakie obserwacje przeprowadzono?\n\nW trakcie przelotu 3I/ATLAS, Europejska Agencja Kosmiczna (ESA) wykorzysta\u0142a swoje misje ExoMars i Mars Express do zarejestrowania tego niezwyk\u0142ego wydarzenia. Dzi\u0119ki zaawansowanej technologii, naukowcy byli w stanie uchwyci\u0107 szczeg\u00f3\u0142y dotycz\u0105ce sk\u0142adu chemicznego komety oraz jej struktury. Obserwacje te s\u0105 kluczowe dla zrozumienia, jak powsta\u0142y komety i jakie materia\u0142y by\u0142y dost\u0119pne w czasach ich formowania.\n\nDlaczego komety s\u0105 wa\u017cne dla nauki?\n\nRelikty z przesz\u0142o\u015bci: Komety s\u0105 jak czaszki z przesz\u0142o\u015bci, kt\u00f3re przechowuj\u0105 informacje o wczesnym Wszech\u015bwiecie.\n\nKomety s\u0105 jak czaszki z przesz\u0142o\u015bci, kt\u00f3re przechowuj\u0105 informacje o wczesnym Wszech\u015bwiecie. Sk\u0142ad chemiczny: Analiza ich sk\u0142adu pozwala naukowcom zrozumie\u0107, jakie materia\u0142y by\u0142y obecne w czasie formowania si\u0119 planet.\n\nAnaliza ich sk\u0142adu pozwala naukowcom zrozumie\u0107, jakie materia\u0142y by\u0142y obecne w czasie formowania si\u0119 planet. Mo\u017cliwo\u015bci \u017cycia: Komety mog\u0105 dostarcza\u0107 kluczowych informacji na temat tego, jak \u017cycie mog\u0142o powsta\u0107 na Ziemi i innych planetach.\n\nW miar\u0119 jak 3I/ATLAS zbli\u017ca\u0142a si\u0119 do Marsa, astronomowie mieli szans\u0119 na rzadkie spojrzenie na ten mi\u0119dzygwiezdny obiekt. Obserwacje te nie tylko wzbogacaj\u0105 nasz\u0105 wiedz\u0119 o kometach, ale r\u00f3wnie\u017c otwieraj\u0105 nowe mo\u017cliwo\u015bci badawcze dla przysz\u0142ych misji kosmicznych.\n\nW obliczu tak fascynuj\u0105cych odkry\u0107, mo\u017cemy tylko czeka\u0107 na kolejne wie\u015bci z kosmosu."
         }
     },
@@ -234,7 +250,7 @@
             "description": "W sobot\u0119 11 pa\u017adziernika wed\u0142ug prognozy pogody ma by\u0107 13\u00b0C. Prawdopodobie\u0144stwo wyst\u0105pienia deszczu wynosi 36%. W niedziel\u0119 12 pa\u017adziernika zgodnie z najnowszymi prognozami pogody ma by\u0107 14\u00b0C w ...",
             "image_url": "https://www.bing.pl/th?id=ODF.2lnLIQe5bnM9ixvXVTSDQg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Koszalin Nasze Miasto11 godz.",
+            "date": "Koszalin Nasze Miasto14 godz.",
             "source": "Koszalin Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -250,7 +266,7 @@
             "description": "Nim wyruszysz, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 11 pa\u017adziernika w woj. zachodniopomorskim ma by\u0107 od 12\u00b0C do 14\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 12 pa\u017adziernika w woj. zachodniopomorskim ma by\u0107 od ...",
             "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "G\u0142os Szczeci\u0144ski11 godz.",
+            "date": "G\u0142os Szczeci\u0144ski14 godz.",
             "source": "G\u0142os Szczeci\u0144ski",
             "article_content": "Content not available"
         }
@@ -262,11 +278,11 @@
         },
         "body": {
             "title": "Cmentarz Jedenastu Wsi. Co naprawd\u0119 kryj\u0105 nagrobki z 1639 roku?",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/cmentarz-jedenastu-wsi-co-naprawd%C4%99-kryj%C4%85-nagrobki-z-1639-roku/ar-AA1O9rvZ?ocid=BingNewsVerp",
-            "description": "---- ---- Cmentarz Jedenastu Wsi w \u017belichowie to jedno z najbardziej niezwyk\u0142ych miejsc na \u017bu\u0142awach. To nie tylko stara ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.HZ8EfO4rtyGbNJmGMiqC1S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/other/cmentarz-jedenastu-wsi-co-naprawd%C4%99-kryj%C4%85-nagrobki-z-1639-roku/ar-AA1O9rvZ?ocid=BingNewsVerp",
+            "description": "Cmentarz Jedenastu Wsi w \u017belichowie to jedno z najbardziej niezwyk\u0142ych miejsc na \u017bu\u0142awach. To nie tylko stara nekropolia, ale ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.p6eLxO4cZieYD8tgQJQJri&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Chillizet on MSN12 godz.",
+            "date": "Chillizet on MSN14 godz.",
             "source": "Chillizet on MSN",
             "article_content": ""
         }
@@ -277,14 +293,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "\u017bycie w Architekturze 2025. Ekspozycja relikt\u00f3w palatium Mieszka I na Ostrowie Tumskim w Poznaniu. Pracownia Projektowa J. P. Wo\u017any",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/%C5%BCycie-w-architekturze-2025-ekspozycja-relikt%C3%B3w-palatium-mieszka-i-na-ostrowie-tumskim-w-poznaniu-pracownia-projektowa-j-p-wo%C5%BAny/ar-AA1O8UnC?ocid=BingNewsVerp",
-            "description": "Lista zg\u0142osze\u0144 do najwi\u0119kszego w Polsce niezale\u017cnego konkursu architektonicznego zosta\u0142a zamkni\u0119ta. Prezentujemy zg\u0142oszenie Ekspozycji relikt\u00f3w palatium Mieszka I na Ostrowie Tumskim w Poznaniu, autor ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.8NA_WSNpNqYL7adK-HIRyg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "relikty",
-            "date": "Architektura-Murator on MSN15 godz.",
-            "source": "Architektura-Murator on MSN",
+            "title": "Do Auschwitz i Energylandii. Szkolne wycieczki zamiast uczy\u0107, budz\u0105 niesmak, traum\u0119 albo nud\u0119",
+            "link": "https://katowice.wyborcza.pl/katowice/7,35063,32312190,do-auschwitz-i-energylandii-szkolne-wycieczki-zamiast-uczyc.html",
+            "description": "Pierwsze tygodnie roku szkolnego to sezon szkolnych wycieczek. Nauczyciele narzekaj\u0105, \u017ce nie dostaj\u0105 za nie wynagrodzenia, a ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.ljAhG-n99sLyG9BlJpwVli&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Katowice.Wyborcza.pl29 min",
+            "source": "Katowice.Wyborcza.pl",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Przegl\u0105d prasy 10.10.2025. Przygotowali\u015bmy zestaw najwa\u017cniejszych informacji z wczoraj. B\u0105d\u017a na bie\u017c\u0105co z wydarzeniami",
+            "link": "https://gp24.pl/przeglad-prasy-10-10-2025-przygotowalismy-zestaw-najwazniejszych-informacji-z-wczoraj-badz-na-biezaco-z-wydarzeniami/ar/c1p1-19960927",
+            "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 9.10. Sprawd\u017a, czy nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego. Czy czyta\u0142e\u015b artyku\u0142: \u201eHoroskop dzienny ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "zabytkowe+przedmioty",
+            "date": "G\u0142os Pomorza38 min",
+            "source": "G\u0142os Pomorza",
+            "article_content": "Content not available"
         }
     },
     {
@@ -298,7 +330,7 @@
             "description": "Paryski salon Rothschild\u00f3w zachwyca, mimo \u017ce tonie w p\u00f3\u0142mroku. Wszystko jest tu oryginalne - parkiet, francuskie \u017cyrandole.",
             "image_url": "https://www.bing.pl/th?id=OVFT.idxykDtaWM6mvNhbJaniPC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Dziennik Zachodni on MSN8 godz.",
+            "date": "Dziennik Zachodni on MSN11 godz.",
             "source": "Dziennik Zachodni on MSN",
             "article_content": ""
         }
@@ -314,7 +346,7 @@
             "description": "Pewnie wielu z Was by\u0142o w Tauron Arenie Krak\u00f3w na niejednym koncercie. Ale z pewno\u015bci\u0105 nikt nie by\u0142 jeszcze na dachu tego ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Krak\u00f3w Nasze Miasto2 godz.",
+            "date": "Krak\u00f3w Nasze Miasto5 godz.",
             "source": "Krak\u00f3w Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -330,57 +362,9 @@
             "description": "W \u015brod\u0119 Rada Miasta w O\u015bwi\u0119cimiu przeg\u0142osowa\u0142a uchwa\u0142\u0119 w sprawie ulgi dla krwiodawc\u00f3w w komunikacji miejskiej. Dzi\u0119ki temu od ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "O\u015bwi\u0119cim Nasze Miasto6 godz.",
+            "date": "O\u015bwi\u0119cim Nasze Miasto9 godz.",
             "source": "O\u015bwi\u0119cim Nasze Miasto",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Deweloper pozwa\u0142 spo\u0142ecznika. S\u0105d nie dopatrzy\u0142 si\u0119 jego winy",
-            "link": "https://tvn24.pl/poznan/deweloper-pozwal-spolecznika-sad-nie-dopatrzyl-sie-jego-winy-st8691573",
-            "description": "S\u0105d nie dopatrzy\u0142 si\u0119 znies\u0142awienia we wpisach Tomasza Hejny dotycz\u0105cych reklamy wisz\u0105cej na jednym z budynk\u00f3w w centrum Poznania. Spo\u0142ecznik, kt\u00f3ry od lat walczy z nielegalnymi reklamami, podkre\u015bla\u0142, ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.64zms-dqm9CeVRcHtHJOtA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "zabytkowe+przedmioty",
-            "date": "TVN2410 godz.",
-            "source": "TVN24",
-            "article_content": "Deweloper pozywa spo\u0142ecznika. Tomasz Hejna: ja musz\u0119 wywo\u0142ywa\u0107 presj\u0119 przez moje social media \u0179r\u00f3d\u0142o: TVN24\n\nPos\u0142uchaj artyku\u0142u Wykup subskrypcj\u0119 TVN24+, aby pos\u0142ucha\u0107 artyku\u0142u.\n\n\n\nMasz subskrypcj\u0119? Zaloguj si\u0119. Dowiedz si\u0119 wi\u0119cej Udost\u0119pnij Facebook Kopiuj link\n\nO sprawie reklamy na budynku przy ul. P\u00f3\u0142wiejskiej - jak i wielu innych reklam - Tomasz Hejna pisa\u0142 na swoim fanpage'u Gemela Pozna\u0144ska. Jak podkre\u015bla\u0142, wisi ona mimo braku zgody ze strony miejskiego konserwatora zabytk\u00f3w na jej zawieszenie\n\nW postach czytamy m.in.: \"To jeden z najbardziej jaskrawych przyk\u0142ad\u00f3w gwa\u0142tu na chronionej konserwatorsko przestrzeni, z kt\u00f3rym \u017caden urz\u0119dnik nic nie zrobi\u0142\", \"prezes dok\u0142ada si\u0119 do dewastacji krajobrazu Poznania - i tak ju\u017c mocno przez reklamiarzy zdewastowanego\".\n\nPo serii post\u00f3w Hejny prezes firmy deweloperskiej Andrzej Marsza\u0142ek z\u0142o\u017cy\u0142 przeciwko niemu prywatny akt oskar\u017cenia. Twierdzi, \u017ce zosta\u0142 przez niego znies\u0142awiony.\n\nNa czwartek s\u0105d wyznaczy\u0142 posiedzenie w celu rozpatrzenia wniosku prokuratora o warunkowe umorzenie post\u0119powania. Hejna na takie rozwi\u0105zanie nie zamierza\u0142 przysta\u0107, bo - jak t\u0142umaczy jego prawnik - umorzenie post\u0119powania oznacza, \u017ce s\u0105d uznaje, i\u017c zosta\u0142o pope\u0142nione przest\u0119pstwo, jednak ze wzgl\u0119du na nisk\u0105 wag\u0119 nie wymierza kary. - Tu mamy sytuacj\u0119 tak\u0105, gdzie ewidentnie m\u00f3j klient nie pope\u0142ni\u0142 \u017cadnego przest\u0119pstwa znies\u0142awienia, o kt\u00f3rym m\u00f3wi artyku\u0142 212 Kodeksu karnego, i b\u0119dziemy \u017c\u0105da\u0107 rozpoznania tej sprawy w normalnym trybie i uniewinnienia - podkre\u015bla\u0142 Jaros\u0142aw Pucek, pe\u0142nomocnik Hejny.\n\n\"Jedyne, o co wnosz\u0119, to, \u017ceby Tomasz Hejna przesta\u0142 k\u0142ama\u0107\"\n\nPrzed wej\u015bciem na sal\u0119 Andrzej Marsza\u0142ek, prezes firmy Inwestycje Wielkopolskie, by\u0142 pewny siebie. - Pan Tomasz Hejna od kilku lat w swoich postach pos\u0142uguj\u0105c si\u0119 k\u0142amstwem i to delikatnie rzecz ujmuj\u0105c, pomawia mnie osobi\u015bcie i moj\u0105 firm\u0119 o nielegalne dzia\u0142ania i to te\u017c delikatnie rzecz ujmuj\u0105c. Skala tych pom\u00f3wie\u0144, a tak\u017ce szerz\u0105ca si\u0119, niestety, za tym fala hejtu przejawiaj\u0105ca si\u0119 w komentarzach internaut\u00f3w, kt\u00f3rzy komentuj\u0105 te wpisy, sprawi\u0142a, \u017ce zdecydowa\u0142em si\u0119 podj\u0105\u0107 te kroki prawne - t\u0142umaczy\u0142 tvn24.pl.\n\nI dodawa\u0142: - Jedyne, o co wnosz\u0119, to, \u017ceby Tomasz Hejna przesta\u0142 k\u0142ama\u0107 na m\u00f3j temat. Wydaje si\u0119, \u017ce od ludzi wyedukowanych, kulturalnych, wykszta\u0142conych nie jest to oczekiwanie zbyt daleko id\u0105ce.\n\nZapytany o to, na czym polega\u0107 ma to k\u0142amstwo, wyja\u015bni\u0142, \u017ce chodzi o zarzut, \u017ce nielegalnie powiesi\u0142 reklam\u0119 i czerpie z niej nielegalne zyski.\n\nPrzypomnijmy, na reklam\u0119 na szczycie budynku przy ulicy P\u00f3\u0142wiejskiej w Poznaniu urz\u0119dnicy nie powinni wyda\u0107 pozwolenia, bo do wniosku nie do\u0142\u0105czono zgody Biura Miejskiego Konserwatora Zabytk\u00f3w, a miejsce, w kt\u00f3rym si\u0119 znajduje, le\u017cy w obszarze ochrony konserwatorskiej. \u017baden z urz\u0119dnik\u00f3w nie zauwa\u017cy\u0142 braku i nie odpowiedzia\u0142 wnioskodawcy. W efekcie, po 21 dniach pozwolenie sta\u0142o si\u0119 prawomocne.\n\n- Ja tego nie wiem - twierdzi Marsza\u0142ek.\n\nDeweloper: To nie s\u0105 no\u015bniki zwi\u0105zane ze mn\u0105, to nie m\u00f3j budynek\n\nPrezes Inwestycji Wielkopolskich podkre\u015bla te\u017c, \u017ce to nie on wiesza\u0142 t\u0119 reklam\u0119. - Nigdy tam nie by\u0142y \u017cadne no\u015bniki zwi\u0105zane ze mn\u0105 i z moj\u0105 firm\u0105 - m\u00f3wi\u0142.\n\nJak te\u017c twierdzi, budynek nie jest jego w\u0142asno\u015bci\u0105, a wsp\u00f3lnoty mieszkaniowej, kt\u00f3rej zreszt\u0105 nie jest cz\u0142onkiem.\n\n- To jaka\u015b dzisiejsza nowo\u015b\u0107. Je\u017celi ten budynek do niego nie nale\u017cy, to na jakiej podstawie Polski Zwi\u0105zek Firm Deweloperskich prowadzi\u0142 w tej zakresie post\u0119powanie i z tego, co wiemy, zwr\u00f3ci\u0142 si\u0119 do inwestora, aby jednak zdj\u0105\u0142 t\u0119 reklam\u0119? - nie kry\u0142 zaskoczenia Jaros\u0142aw Pucek, pe\u0142nomocnik Tomasza Hejny. - By\u0107 mo\u017ce jest to jakie\u015b ko\u0142o ratunkowe, kt\u00f3re prawnicy podrzucili panu oskar\u017cycielowi, poniewa\u017c te zarzuty, m\u00f3wi\u0105c kr\u00f3tko, s\u0105 zwyczajnie d\u0119te - oceni\u0142.\n\nPrzypomnijmy, kilka tygodni temu komisja etyki Polskiego Zwi\u0105zku Firm Deweloperskich wyznaczy\u0142a firmie Inwestycje Wielkopolski czas na zdj\u0119cie reklamy do ko\u0144ca listopada. Andrzej Marsza\u0142ek twierdzi, \u017ce \"nic o tym nie wie\". - Nie komentuj\u0119 tego - odpar\u0142.\n\nSpo\u0142ecznik: Racja jest po mojej stronie\n\nSam Hejna przed rozpraw\u0105 nie kry\u0142 zdenerwowania. - Ka\u017cdemu cz\u0142owiekowi, kt\u00f3ry znajduje si\u0119 w s\u0105dzie jako oskar\u017cony, jakie\u015b nerwy towarzysz\u0105, ale jednocze\u015bnie wiem, \u017ce s\u0142usznie podnosi\u0142em temat tej reklamy, jak i wielu innych reklam w przestrzeni miasta. Racja jest po mojej stronie - m\u00f3wi\u0142 przed wej\u015bciem na sal\u0119.\n\nNa t\u0119 dziennikarzy nie wpuszczono, bo posiedzenie mia\u0142o jedynie charakter organizacyjny. Po kilkunastu minutach strony opu\u015bci\u0142y sal\u0119 i czeka\u0142y na dalsze decyzje s\u0105du.\n\nPo oko\u0142o godzinie s\u0119dzia poinformowa\u0142a, \u017ce sprawa nie b\u0119dzie mia\u0142a dalszego ci\u0105gu. - Post\u0119powanie zosta\u0142o umorzone, s\u0119dzia stwierdzi\u0142a, \u017ce nie pope\u0142ni\u0142em \u017cadnego czynu zabronionego - przekaza\u0142 Hejna.\n\nZapytany, czy jest zadowolony z takiego obrotu spraw, odpowiedzia\u0142: - Wola\u0142bym, \u017ceby w og\u00f3le tej sprawy nie by\u0142o, \u017ceby miasto by\u0142o wolne od nielegalnych i nachalnych reklam.\n\nDecyzja jest nieprawomocna, stronom przys\u0142uguje odwo\u0142anie.\n\nKim jest Tomasz Hejna?\n\nTomasz Hejna z ba\u0142aganem w mie\u015bcie i chaosem reklamowym walczy od 13 lat. - Ceni\u0119 sobie \u0142ad przestrzenny i estetyk\u0119. Zawsze uwa\u017ca\u0142em, \u017ce warto powalczy\u0107 o pi\u0119kne miasto i poprawia\u0107 rzeczy, z kt\u00f3rymi nie radzi sobie samorz\u0105d lub pa\u0144stwo. Dlatego podj\u0105\u0142em t\u0119 nier\u00f3wn\u0105 walk\u0119. W Poznaniu wieloletnie zaniedbania ze strony miasta doprowadzi\u0142y do tego, \u017ce wszystkie historyczne dzielnice s\u0105 oblepione nielegalnym reklamami, nie wspominaj\u0105c ju\u017c o niedochodzeniu nale\u017cno\u015bci za reklamy stoj\u0105ce nawet 25 lat na terenach komunalnych, rzekomo bez wiedzy urz\u0119dnik\u00f3w - m\u00f3wi.\n\nTomasz Hejna od lat walczy z nielegalnymi reklamami \u0179r\u00f3d\u0142o: facebook.com/gemelapoznanska\n\nCho\u0107 bardzo ceni\u0142 dzia\u0142aj\u0105ce w\u00f3wczas w mie\u015bcie stowarzyszenie Ulepsz Pozna\u0144, zdecydowa\u0142 si\u0119 walczy\u0107 jako \"samotny wilk\".\n\nPod lup\u0119 wzi\u0105\u0142 ponad 1500 reklam r\u00f3\u017cnego typu w Poznaniu. - By\u0142em na miejscu, sfotografowa\u0142em, sprawdzi\u0142em w systemie informacji przestrzennej, zweryfikowa\u0142em w jednostkach miejskich, czy s\u0105 wydane odpowiednie pozwolenia i zgody.\n\nEfekt kontroli spo\u0142ecznej? Ponad 90 procent reklam w mie\u015bcie to samowole budowlane.\n\nDzi\u0119ki dzia\u0142alno\u015bci Hejny z Poznania znikn\u0119\u0142y dziesi\u0105tki nielegalnych reklam.\n\nNie wszystkie i nie tylko moje inicjatywy, ale w znakomitej wi\u0119kszo\u015bci moje tematy Posted by Gemela pozna\u0144ska on Tuesday, September 16, 2025 Rozwi\u0144\n\nJednocze\u015bnie Hejna udziela si\u0119 spo\u0142ecznie. By\u0142 radnym najpierw na osiedlu So\u0142acz, a obecnie drug\u0105 kadencj\u0119 jest radnym na osiedlu Pi\u0105tkowo P\u00f3\u0142noc. W 2024 roku m\u00f3wi\u0142o si\u0119 o jego starcie w wyborach na prezydenta miasta. Ostatecznie zdecydowa\u0142 si\u0119 jedynie na start do rady miasta z listy Spo\u0142ecznego Poznania. Komitet nie uzyska\u0142 \u017cadnego mandatu.\n\nOGL\u0104DAJ: TVN24 HD"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "10 PA\u0179DZIERNIKA 2025",
-            "link": "https://www.krakow.pl/kalendarium/1919,shw,2025-10-10,7,day.html",
-            "description": "Wystawa upami\u0119tnia dziedzictwo Tadeusza Ko\u015bciuszki, ale jest skierowana w du\u017cej mierze do ludzi m\u0142odych. Aby trafi\u0107 do nowego, m\u0142odego odbiorcy, zastosowano nowoczesne narz\u0119dzia wystawiennicze, ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "zabytkowe+przedmioty",
-            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w3 godz.",
-            "source": "Oficjalny serwis miejski - Magiczny Krak\u00f3w",
-            "article_content": "Szukaj wydarzenia\n\nKategoria: -- wszystkie -- Spektakle teatralne Spacery i zwiedzanie Spektakle taneczne Akcje czytelnicze Muzyka rozrywkowa Wystawy czasowe Targi i kiermasze Festiwale Festiwale sztuk wizualnych Muzyka klasyczna Wyk\u0142ady, spacery i warsztaty artystyczne Kabaret W gminach Metropolii Festiwale muzyczne Festiwale i przegl\u0105dy filmowe Inne koncerty Inne przedstawienia Spotkania i slajdowiska Pozosta\u0142e Dzieci\u0119ce r\u00f3\u017cno\u015bci Festiwale teatralne Muzyka klubowa Wydarzenia sportowe Cykle filmowe Wystawy sta\u0142e Inne wydarzenia literackie Spotkania i wyk\u0142ady literackie Pokazy filmowe"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Tych rzadkich banknot\u00f3w i monet szukaj\u0105 kolekcjonerzy. Masz je w domu? P\u0142ac\u0105 za nie nawet 40 tysi\u0119cy z\u0142otych 10.10.2025 10.10.2025",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/tych-rzadkich-banknot%C3%B3w-i-monet-szukaj%C4%85-kolekcjonerzy-masz-je-w-domu-p%C5%82ac%C4%85-za-nie-nawet-40-tysi%C4%99cy-z%C5%82otych-10102025-10102025/ar-AA1NoG6q?ocid=BingNewsVerp",
-            "description": "Je\u015bli my\u015blisz, \u017ce wszystkie monety z PRL s\u0105 warte tylko kilka groszy, to jeste\u015b w b\u0142\u0119dzie. Istniej\u0105 konkretne egzemplarze, ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.F_3y802YdHWKqn_aR32xHC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+numizmatyka",
-            "date": "G\u0142os Pomorza on MSN2 godz.",
-            "source": "G\u0142os Pomorza on MSN",
-            "article_content": ""
         }
     },
     {
@@ -394,7 +378,7 @@
             "description": "Sprawd\u017a, ile mog\u0105 kosztowa\u0107 szk\u0142a i kryszta\u0142y z czas\u00f3w PRL-u. Wyj\u0105tkowe wazony, talerze, misy i inne wyroby ze szk\u0142a z czas\u00f3w poprzedniego ustroju. Kolekcjonerzy skupuj\u0105 szk\u0142o i kryszta\u0142y z czas\u00f3w PRL ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Koszali\u0144ski on MSN20 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN23 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
@@ -406,11 +390,11 @@
         },
         "body": {
             "title": "Zdziwisz si\u0119 ile mog\u0105 by\u0107 warte te stare monety. Ich ceny si\u0119gaj\u0105 wielu tysi\u0119cy z\u0142otych",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/zdziwisz-si%C4%99-ile-mog%C4%85-by%C4%87-warte-te-stare-monety-ich-ceny-si%C4%99gaj%C4%85-wielu-tysi%C4%99cy-z%C5%82otych/ar-AA1Nra76?ocid=BingNewsVerp",
-            "description": "Masz w domu takie monety obiegowe? Sprawd\u017a je lepiej dok\u0142adnie, bo mo\u017ce si\u0119 okaza\u0107, \u017ce ich warto\u015b\u0107 jest znacznie wy\u017csza, ni\u017c ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.z3y2M8Vdh1WkhdQUKQqcmy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/nie-uwierzysz-ile-mog%C4%85-by%C4%87-warte-te-stare-monety-ceny-si%C4%99gaj%C4%85-wielu-tysi%C4%99cy-z%C5%82otych/ar-AA1Nra76?ocid=BingNewsVerp",
+            "description": "Masz w domu takie monety obiegowe? Sprawd\u017a je lepiej dok\u0142adnie, bo mo\u017ce si\u0119 okaza\u0107, \u017ce ich warto\u015b\u0107 jest znacznie wy\u017csza, ni\u017c przypuszczasz. Niekt\u00f3re egzemplarze osi\u0105gaj\u0105 ceny si\u0119gaj\u0105ce kilku tysi\u0119cy ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.U7tHWt6afQwcI4sCY6tjaA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "Nowa Trybuna Opolska on MSN19 godz.",
+            "date": "Nowa Trybuna Opolska on MSN21 godz.",
             "source": "Nowa Trybuna Opolska on MSN",
             "article_content": ""
         }
@@ -421,13 +405,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Taki banknot mo\u017ce by\u0107 warty o wiele wi\u0119cej, ni\u017c my\u015blisz. Lepiej sprawd\u017a dobrze sw\u00f3j portfel",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/taki-banknot-mo%C5%BCe-by%C4%87-warty-o-wiele-wi%C4%99cej-ni%C5%BC-my%C5%9Blisz-lepiej-sprawd%C5%BA-dobrze-sw%C3%B3j-portfel/ar-AA1NW4EW?ocid=BingNewsVerp",
-            "description": "Najwi\u0119kszym zainteresowaniem ciesz\u0105 si\u0119 tzw. solidy i radary \u2013 banknoty o wyj\u0105tkowo rzadkich numerach seryjnych, kt\u00f3rych ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.zgEQXw8eFD1AnXxD1OZjcy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Tych rzadkich banknot\u00f3w i monet szukaj\u0105 kolekcjonerzy. Masz je w domu? P\u0142ac\u0105 za nie nawet 40 tysi\u0119cy z\u0142otych 10.10.2025 10.10.2025",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/tych-rzadkich-banknot%C3%B3w-i-monet-szukaj%C4%85-kolekcjonerzy-masz-takie-w-domu-p%C5%82ac%C4%85-za-nie-nawet-40-tysi%C4%99cy-z%C5%82otych/ar-AA1NoG6q?ocid=BingNewsVerp",
+            "description": "1. 10 z\u0142otych z 1973 roku z Mieszkiem I i D\u0105br\u00f3wk\u0105 (z napisem PR\u00d3BA) To jedna z najrzadszych monet PRL. Wybita zosta\u0142a jako pr\u00f3ba technologiczna i nigdy nie trafi\u0142a do masowego obiegu. Dzi\u015b jej ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "Nowa Trybuna Opolska on MSN13 godz.",
-            "source": "Nowa Trybuna Opolska on MSN",
+            "date": "G\u0142os Pomorza on MSN5 godz.",
+            "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
         }
     },
@@ -442,7 +426,7 @@
             "description": "Na starych monetach z czas\u00f3w PRL-u mo\u017cna zarobi\u0107 du\u017co pieni\u0119dzy. Wycena monet zale\u017cy od ich stanu zachowania, a dobrze utrzymane egzemplarze s\u0105 szczeg\u00f3lnie cenione. W galerii przedstawiamy za ile ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Koszali\u0144ski on MSN20 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN23 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
@@ -453,13 +437,29 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "G\u00f3ry z\u0142ota jesie\u0144",
-            "link": "https://slawno.naszemiasto.pl/tag/gory-zlota-jesien",
-            "description": "Velo Czorsztyn, czyli \u015bcie\u017cka rowerowa wok\u00f3\u0142 Jeziora Czorszty\u0144skiego to jedna z najpi\u0119kniejszych tras rowerowych w Polsce. To ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Taki banknot mo\u017ce by\u0107 warty o wiele wi\u0119cej, ni\u017c my\u015blisz. Lepiej sprawd\u017a dobrze sw\u00f3j portfel",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/taki-banknot-mo%C5%BCe-by%C4%87-warty-o-wiele-wi%C4%99cej-ni%C5%BC-my%C5%9Blisz-lepiej-sprawd%C5%BA-dobrze-sw%C3%B3j-portfel/ar-AA1NW4EW?ocid=BingNewsVerp",
+            "description": "Najwi\u0119kszym zainteresowaniem ciesz\u0105 si\u0119 tzw. solidy i radary \u2013 banknoty o wyj\u0105tkowo rzadkich numerach seryjnych, kt\u00f3rych uk\u0142ad cyfr przyci\u0105ga uwag\u0119 i znacz\u0105co podnosi warto\u015b\u0107. Cenne s\u0105 te\u017c te z ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.U7tHWt6afQwcI4sCY6tjaA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stare+numizmatyka",
+            "date": "Nowa Trybuna Opolska on MSN16 godz.",
+            "source": "Nowa Trybuna Opolska on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Przegl\u0105d prasy 10.10.2025. Zestawili\u015bmy dla Ciebie najwa\u017cniejsze wydarzenia z wczoraj. Zobacz nasz\u0105 pras\u00f3wk\u0119",
+            "link": "https://dziennikbaltycki.pl/przeglad-prasy-10-10-2025-zestawilismy-dla-ciebie-najwazniejsze-wydarzenia-z-wczoraj-zobacz-nasza-prasowke/ar/c1p1-19960899",
+            "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 9.10. Sprawd\u017a, czy nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego. Czy czyta\u0142e\u015b artyku\u0142: \u201eHoroskop dzienny ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.5s2nDicEFNR6T9e5rt0xCA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "wykopano+zabytkowe",
-            "date": "S\u0142awno Nasze Miasto29 min",
-            "source": "S\u0142awno Nasze Miasto",
+            "date": "Dziennik Ba\u0142tycki40 min",
+            "source": "Dziennik Ba\u0142tycki",
             "article_content": "Content not available"
         }
     },
@@ -474,7 +474,7 @@
             "description": "Droga Pieni\u0144ska \u0142\u0105cz\u0105ca Szczawnic\u0119 i s\u0142owacki Czerwony Klasztor to jeden z najpi\u0119kniejszych szlak\u00f3w pieszych i rowerowych w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "wykopano+zabytkowe",
-            "date": "S\u0142awno Nasze Miasto1 godz.",
+            "date": "S\u0142awno Nasze Miasto3 godz.",
             "source": "S\u0142awno Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -485,14 +485,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Literacka Nagroda Nobla: To oni maj\u0105 najwi\u0119ksze szanse",
-            "link": "https://www.rmf24.pl/nauka/news-literacka-nagroda-nobla-to-oni-maja-najwieksze-szanse,nId,8029445",
-            "description": "Kto w tym roku otrzyma Nagrod\u0119 Nobla w dziedzinie literatury? Dowiemy si\u0119 tego ju\u017c dzi\u015b o godzinie 13:00. W\u00f3wczas sekretarz ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.d5lnpJTjAQSTia0wiA1rUC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Przegl\u0105d prasy 10.10.2025. Zestawili\u015bmy dla Ciebie najwa\u017cniejsze wydarzenia z wczoraj. Zobacz nasz\u0105 pras\u00f3wk\u0119",
+            "link": "https://dziennikpolski24.pl/przeglad-prasy-10-10-2025-zestawilismy-dla-ciebie-najwazniejsze-wydarzenia-z-wczoraj-zobacz-nasza-prasowke/ar/c1p1-19960929",
+            "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 9.10.",
+            "image_url": "https://www.bing.pl/th?id=OVFT.t7AjBzDQoSmT35vmjEkgSi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "RMF2418 godz.",
-            "source": "RMF24",
-            "article_content": "Kto w tym roku otrzyma Nagrod\u0119 Nobla w dziedzinie literatury? Dowiemy si\u0119 tego ju\u017c dzi\u015b o godzinie 13:00. W\u00f3wczas sekretarz Akademii Szwedzkiej og\u0142osi nazwisko laureata b\u0105d\u017a laureatki. Je\u015bli potwierdzi si\u0119 niepisana zasada wyr\u00f3\u017cniania na przemian kobiet i m\u0119\u017cczyzn, w tym roku mo\u017cemy spodziewa\u0107 si\u0119 noblisty. Jak zawsze wielkie emocje budzi typowanie nazwisk potencjalnych kandydat\u00f3w - w\u015br\u00f3d nich znajdziemy m.in. artyst\u00f3w z Australii, W\u0119gier czy Meksyku.\n\nMuzeum Nagrody Nobla w Sztokholmie / Shutterstock\n\nNagroda Nobla w dziedzinie w literatury: Gdzie i kiedy?\n\nLaureat Literackiej Nagrody Nobla zostanie og\u0142oszony ju\u017c dzi\u015b o godz. 13:00. O tym, kto do\u0142\u0105czy do wyr\u00f3\u017cnionych artyst\u00f3w obok m.in. Olgi Tokarczuk, Wis\u0142awy Szymborskiej i Czes\u0142awa Mi\u0142osza, powie nam sekretarz Akademii Szwedzkiej. Natomiast w Oslo (Norwegia), ju\u017c jutro og\u0142oszony zostanie laureat Pokojowej Nagrody Nobla.\n\nW odr\u00f3\u017cnieniu od poprzednich dziedzin, Literack\u0105 Nagrod\u0119 Nobla og\u0142osi sekretarz Akademii Szwedzkiej. Specjalna konferencja zaplanowana jest na godz. 13:00. Dowiemy si\u0119 w\u00f3wczas jaki artysta - pisarz, poeta lub dramaturg - otrzyma to presti\u017cowe wyr\u00f3\u017cnienie. Transmisj\u0119 z og\u0142oszenia tegorocznego laureata mo\u017cna ogl\u0105da\u0107 m.in. na portalu Youtube.\n\nWideo youtube\n\nKto ma najwi\u0119ksze szanse?\n\nJak co roku, pojawia si\u0119 wiele spekulacji, kto zostanie laureatem Nagrody Nobla. Atmosfer\u0119 rozgrzewa fakt, \u017ce nie funkcjonuje oficjalna lista \"kandydat\u00f3w\" do Nobla. Nazwiska nominowanych s\u0105 obj\u0119te tajemnic\u0105 na 50 lat, w zwi\u0105zku z tym typowanie nazwisk potencjalnych wyr\u00f3\u017cnionych budzi wiele emocji.\n\nNa podstawie notowa\u0144 bukmacher\u00f3w z ko\u0144ca wrze\u015bnia, \"Rzeczpospolita\" przygotowa\u0142a list\u0119 potencjalnych laureat\u00f3w:\n\nGerald Murnane z Australii,\n\nz Australii, L\u00e1szl\u00f3 Krasznahorkai z W\u0119gier,\n\nz W\u0119gier, Cristina Rivera Garza z Meksyku,\n\nz Meksyku, Mircea C\u0103rt\u0103rescu z Rumunii,\n\nz Rumunii, Can Xue z Chin,\n\nz Chin, Anne Carson z Kanady,\n\nz Kanady, Thomas Pynchon z USA.\n\nTrzeba jednak zwr\u00f3ci\u0107 uwag\u0119, \u017ce niekt\u00f3rzy z wymienionych autor\u00f3w s\u0105 typowani przez d\u0142u\u017cszy czas - przyk\u0142adowo Gerald Murnane jest faworytem od dw\u00f3ch lat. W takiej sytuacji wielu obserwator\u00f3w wskazuje, \u017ce szanse na otrzymanie nagrody si\u0119 zmniejszaj\u0105.\n\nHarmonogram og\u0142aszania pozosta\u0142ych laureat\u00f3w\n\nJak co roku Tydzie\u0144 Noblowski wi\u0105\u017ce si\u0119 z du\u017cym poruszeniem w \u015bwiecie nauki i sztuki. Poznali\u015bmy ju\u017c laureat\u00f3w nagr\u00f3d w 3 z 6 kategorii. Susumu Kitagawa, Richard Robson i Omar M. Yaghi otrzymali wczoraj nagrod\u0119 w dziedzinie chemii. Z fizyki nagrodzono we wtorek Johna Clarke\u2019a, Michela H. Devoreta i Johna M. Martinisa. Z kolei w dziedzinie medycyny wyr\u00f3\u017cniono Mary E. Brunkow, Freda Ramsdella i Shimona Sakaguchi.\n\nNagrod\u0119 Nobla przyznaje si\u0119 w pi\u0119ciu kategoriach, sz\u00f3sta - ekonomia, nie by\u0142a wskazana w testamencie fundatora. Oficjalnie nazywamy j\u0105 Nagrod\u0105 Banku Szwecji im. Alfreda Nobla w dziedzinie ekonomii. Pozosta\u0142y jeszcze 3 dziedziny, w kt\u00f3rych nie og\u0142oszono laureat\u00f3w - literatura, ekonomia oraz Pokojowa Nagroda Nobla. Zaplanowano specjalne konferencje, podczas kt\u00f3rych og\u0142oszone zostan\u0105 nazwiska wyr\u00f3\u017cnionych w poszczeg\u00f3lnych dziedzinach:\n\n9 pa\u017adziernika (czwartek), godz. 13:00 - literatura (Akademia Szwedzka, zabytkowy budynek gie\u0142dy na Starym Mie\u015bcie, Sztokholm);\n\n(Akademia Szwedzka, zabytkowy budynek gie\u0142dy na Starym Mie\u015bcie, Sztokholm); 10 pa\u017adziernika (pi\u0105tek), godz. 11:00 - Pokojowa Nagroda Nobla (Komitet Noblowski w Oslo; w tym roku spo\u015br\u00f3d 338 zg\u0142osze\u0144);\n\n(Komitet Noblowski w Oslo; w tym roku spo\u015br\u00f3d 338 zg\u0142osze\u0144); 13 pa\u017adziernika (poniedzia\u0142ek), godz. 11:45 - ekonomia - Nagroda Banku Szwecji im. Alfreda Nobla w dziedzinie ekonomii.\n\nTydzie\u0144 Noblowski na p\u00f3\u0142metku\n\nWczoraj og\u0142oszono laureat\u00f3w w dziedzinie chemii - Susumu Kitagawa, Richard Robson i Omar M. Yaghi do\u0142\u0105czyli do m.in. Marii Sk\u0142odowskiej-Curie."
+            "date": "Dziennik Polski38 min",
+            "source": "Dziennik Polski",
+            "article_content": "Content not available"
         }
     }
 ]
