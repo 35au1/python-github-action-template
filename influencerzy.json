@@ -5,14 +5,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "To wydarzenie jest tylko raz w miesi\u0105cu. Zawsze \u015bci\u0105ga t\u0142umy. Co przyci\u0105ga do Falenicy \u0142owc\u00f3w pere\u0142ek?",
-            "link": "https://warszawa.naszemiasto.pl/to-wydarzenie-jest-tylko-raz-w-miesiacu-zawsze-sciaga-tlumy-co-przyciaga-do-falenicy-lowcow-perelek/ar/c13p2-28070423",
-            "description": "Na Targowisku Falenica przy ul. Trocinowej 1 w Warszawie regularnie odbywa si\u0119 Falenicka Gie\u0142da Staroci. To Kultowa wyprzeda\u017c ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.OnuO2OqDSsVtPv8Ln8L0SC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "W Tumie zako\u0144czy\u0142y si\u0119 badania archeologiczne. Znaleziono groby sprzed tysi\u0105ca lat",
+            "link": "https://dzienniklodzki.pl/w-tumie-zakonczyly-sie-badania-archeologiczne-znaleziono-groby-sprzed-tysiaca-lat/ar/c1p2-28102515",
+            "description": "Badania wykopaliskowe w Tumie zako\u0144czy\u0142y si\u0119 we wtorek, 21 pa\u017adziernika. Archeolodzy pracowali w s\u0105siedztwie tumskiej ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.kSEy17bX7MJeTg9yKrDqKS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Warszawa Nasze Miasto21 godz.",
-            "source": "Warszawa Nasze Miasto",
+            "date": "Dziennik \u0141\u00f3dzki2 godz.",
+            "source": "Dziennik \u0141\u00f3dzki",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Kielczanka zn\u00f3w w programie - \u0141owcy Skarb\u00f3w. Kto da wi\u0119cej. Maryla Kr\u00f3l zdradza kulisy powstawania programu oraz histori\u0119 niezwyk\u0142ej mi\u0142o\u015bci",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/kielczanka-zn%C3%B3w-w-programie-%C5%82owcy-skarb%C3%B3w-kto-da-wi%C4%99cej-maryla-kr%C3%B3l-zdradza-kulisy-powstawania-programu-oraz-histori%C4%99-niezwyk%C5%82ej-mi%C5%82o%C5%9Bci/ar-AA1OYej3?ocid=BingNewsVerp",
+            "description": "Maryla Nina Kr\u00f3l, przedsi\u0119biorczyni z Kielc, od kilkudziesi\u0119ciu lat zajmuj\u0105ca si\u0119 sprzeda\u017c\u0105 staroci i antyk\u00f3w, ponownie ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.kw3p1bhenLgINIrAr1_2yi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Echo Dnia on MSN35 min",
+            "source": "Echo Dnia on MSN",
+            "article_content": ""
         }
     },
     {
@@ -26,7 +42,7 @@
             "description": "Do poszukiwanych rzeczy vintage nale\u017c\u0105 sprz\u0119t audio (gramofony, radia lampowe, wzmacniacze Unitra, Diora), odzie\u017c i dodatki z ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.xP0h3uCuzKZ8dXW9KFehKi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Gazeta Pomorska on MSN17 godz.",
+            "date": "Gazeta Pomorska on MSN21 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -42,7 +58,7 @@
             "description": "Bardzo udany wtorek na targowisku miejskim w S\u0142awnie - 21.01.2025 r. Sprawdzili\u015bmy ceny owc\u00f3w, warzyw, czy samowaru. Ten ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "S\u0142awno Nasze Miasto18 godz.",
+            "date": "S\u0142awno Nasze Miasto22 godz.",
             "source": "S\u0142awno Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -58,25 +74,9 @@
             "description": "Film z gry World of Warcraft: Mists of Pandaria prezentuj\u0105cy kluczowe elementy cechuj\u0105ce najnowszy dodatek do gry World of ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.JsW7RkFQS_2KS7BgTmwZgC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "GRY-OnLine.pl10 godz.",
+            "date": "GRY-OnLine.pl14 godz.",
             "source": "GRY-OnLine.pl",
             "article_content": "[4] Je\u015bli pandaria jest tak zajebista to ciekawe czemu ma ocen\u0119 s\u0142absz\u0105 o bodaj\u017ce 2 oceny od GW 2? WoW si\u0119 wypala i tyle, jeszcze troch\u0119 i us\u0142yszymy jak w przypadku SW:TOR \u017ce przechodzi na F2P. A jak walisz z autoattacku to Good luck ziom, wida\u0107 nie ogarniasz GW2 :(. Ehh ta zazdro\u015b\u0107 \u017ce gra F2P jest lepsza od gry z abonamentem. P.S. Gra\u0142em w wowa i po wprowadzeniu Cata wow stracil sw\u00f3j urok, nalot z powietrza na orgri, chwila i bossa nie ma bo nim si\u0119 zorientujesz boss le\u017cy, to samo w ally w SW, \u017ca\u0142osne kiedy\u015b zdoby\u0107 For the Alliance << achievement ba\u0107 \"For the Horde\" to by\u0142 wyczyn."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Super Tokyo HD Combo - Super Potato!",
-            "link": "https://www.gry-online.pl/video/super-tokyo-hd-combo-sklep-z-retro-grami/ze26f",
-            "description": "Odwiedzamy Super Potato - najwi\u0119kszy na \u015bwiecie sklep z retro grami i sprz\u0119tem do gier. \u015bwi\u0105tynia dla graczy w sercu ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.Sn1IFmixsytiA2P21cHw9S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "GRY-OnLine.pl19 godz.",
-            "source": "GRY-OnLine.pl",
-            "article_content": "Oto dlaczego z ca\u0142\u0105 klas\u0105 gra\u0142e\u015b w Metina 2\n\nCzy zastanawiali\u015bcie si\u0119 kiedy\u015b, sk\u0105d do diaska wzi\u0105\u0142 si\u0119 Metin 2? Smoczy postanowi\u0142 dog\u0142\u0119bnie sprawdzi\u0107 histori\u0119 tej gry. Od pierwszej ods\u0142ony, przez ciekawostki z Korei, prywatne serwery, fenomen w Polsce, po schy\u0142ek popularno\u015bci dw\u00f3jki. No to lecimy! Film powsta\u0142 we wsp\u00f3\u0142pracy reklamowej z firm\u0105 SHARP. Sprawd\u017a telewizor gamingowy: https://www.sharpconsumer.pl/electronics/tv/?web_filter_recomended%5B%5D=Gaming+TV"
         }
     },
     {
@@ -90,7 +90,7 @@
             "description": "Na starych monetach z czas\u00f3w PRL-u mo\u017cna zarobi\u0107 du\u017co pieni\u0119dzy. Wycena monet zale\u017cy od ich stanu zachowania, a dobrze ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.ACm41xAt-ckCESAEZVdUXy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski3 godz.",
+            "date": "G\u0142os Koszali\u0144ski8 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
         }
@@ -106,7 +106,7 @@
             "description": "Czy w Twojej starej szufladzie, puszce po herbacie lub zapomnianej szkatu\u0142ce le\u017c\u0105 monety z czas\u00f3w PRL? Je\u015bli tak, to mo\u017cesz ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.TN8O8YbW7edIS8XstNEhqi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Pomorza2 godz.",
+            "date": "G\u0142os Pomorza6 godz.",
             "source": "G\u0142os Pomorza",
             "article_content": "Content not available"
         }
@@ -122,9 +122,25 @@
             "description": "Kolekcjonowanie monet - co to jest? Kolekcjonowanie jest to hobby, kt\u00f3re cieszy si\u0119 ogromn\u0105 popularno\u015bci\u0105 nie tylko w Polsce, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT._V-rWLu6pRQ3UWKHtZMwMi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Pomorza on MSN2 godz.",
+            "date": "G\u0142os Pomorza on MSN6 godz.",
             "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Banknoty trac\u0105 wa\u017cno\u015b\u0107! Tymi pieni\u0119dzmi ju\u017c nie zap\u0142acisz w 2025 roku, trzeba je szybko wymieni\u0107",
+            "link": "https://pomorska.pl/banknoty-traca-waznosc-tymi-pieniedzmi-juz-nie-zaplacisz-w-2025-roku-trzeba-je-szybko-wymienic/ar/c1p2-27972805",
+            "description": "Nie wszystkie banknoty i monety zachowuj\u0105 wa\u017cno\u015b\u0107 bez ko\u0144ca. W 2025 roku cz\u0119\u015b\u0107 z nich nie b\u0119dzie ju\u017c pe\u0142noprawnym \u015brodkiem ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.Lwm_VzjKXQKu2psAMgUXCi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "Gazeta Pomorska45 min",
+            "source": "Gazeta Pomorska",
+            "article_content": "Content not available"
         }
     },
     {
@@ -138,25 +154,9 @@
             "description": "Sprawd\u017a, ile mog\u0105 kosztowa\u0107 szk\u0142a i kryszta\u0142y z czas\u00f3w PRL-u. Wyj\u0105tkowe wazony, talerze, misy i inne wyroby ze szk\u0142a z czas\u00f3w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.jM-JjPT_RXGe5uOBVIZrui&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski3 godz.",
+            "date": "G\u0142os Koszali\u0144ski8 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Takie banknoty trac\u0105 wa\u017cno\u015b\u0107! Tymi pieni\u0119dzmi ju\u017c nie zap\u0142acisz w 2025 roku, trzeba je szybko wymieni\u0107",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/takie-banknoty-trac%C4%85-wa%C5%BCno%C5%9B%C4%87-tymi-pieni%C4%99dzmi-ju%C5%BC-nie-zap%C5%82acisz-w-2025-roku-trzeba-je-szybko-wymieni%C4%87/ar-AA1MESlA?ocid=BingNewsVerp",
-            "description": "Nie wszystkie banknoty i monety zachowuj\u0105 wa\u017cno\u015b\u0107 bez ko\u0144ca. W 2025 roku cz\u0119\u015b\u0107 z nich nie b\u0119dzie ju\u017c pe\u0142noprawnym \u015brodkiem ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.Lwm_VzjKXQKu2psAMgUXCi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "Gazeta Pomorska on MSN3 godz.",
-            "source": "Gazeta Pomorska on MSN",
-            "article_content": ""
         }
     },
     {
@@ -170,7 +170,7 @@
             "description": "Do poszukiwanych rzeczy vintage nale\u017c\u0105 sprz\u0119t audio (gramofony, radia lampowe, wzmacniacze Unitra, Diora), odzie\u017c i dodatki z ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.xP0h3uCuzKZ8dXW9KFehKi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN17 godz.",
+            "date": "Gazeta Pomorska on MSN21 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -186,24 +186,8 @@
             "description": "Czy s\u0105 planowane wy\u0142\u0105czenia pr\u0105du w pomorskim 22.10? W artykule znajdziesz list\u0119 miejsc, w kt\u00f3rych mog\u0105 nast\u0105pi\u0107 przerwy w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.uCXHnHCdo-evRtxLmXFyki&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Dziennik Ba\u0142tycki5 godz.",
+            "date": "Dziennik Ba\u0142tycki9 godz.",
             "source": "Dziennik Ba\u0142tycki",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "To wydarzenie jest tylko raz w miesi\u0105cu. Zawsze \u015bci\u0105ga t\u0142umy. Co przyci\u0105ga do Falenicy \u0142owc\u00f3w pere\u0142ek?",
-            "link": "https://warszawa.naszemiasto.pl/to-wydarzenie-jest-tylko-raz-w-miesiacu-zawsze-sciaga-tlumy-co-przyciaga-do-falenicy-lowcow-perelek/ar/c13p2-28070423",
-            "description": "Na Targowisku Falenica przy ul. Trocinowej 1 w Warszawie regularnie odbywa si\u0119 Falenicka Gie\u0142da Staroci. To Kultowa wyprzeda\u017c ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.OnuO2OqDSsVtPv8Ln8L0SC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "targ+staroci",
-            "date": "Warszawa Nasze Miasto21 godz.",
-            "source": "Warszawa Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -218,7 +202,7 @@
             "description": "Bardzo udany wtorek na targowisku miejskim w S\u0142awnie - 21.01.2025 r. Sprawdzili\u015bmy ceny owc\u00f3w, warzyw, czy samowaru. Ten ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "S\u0142awno Nasze Miasto18 godz.",
+            "date": "S\u0142awno Nasze Miasto22 godz.",
             "source": "S\u0142awno Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -229,9 +213,25 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Halloween w \u017baganiu",
-            "link": "https://gazetalubuska.pl/tag/halloween-w-zaganiu",
-            "description": "W powiecie \u017caga\u0144skim trwaj\u0105 wielkie \u0107wiczenia obrony cywilnej. W \u015brod\u0119 8 pa\u017adziernika 2025 s\u0142u\u017cby \u0107wiczy\u0142y po\u017car w \u017baga\u0144skim ...",
+            "title": "Moraj kupi\u0142 40 ha terenu inwestycyjnego w Rybniku",
+            "link": "https://www.naszraciborz.pl/site/art/1-aktualnosci/0-/119678-moraj-kupil-40-ha-terenu-inwestycyjnego-w-rybniku",
+            "description": "Rozstrzygni\u0119ty zosta\u0142 przetarg nieograniczony na sprzeda\u017c terenu inwestycyjnego o powierzchni 40 hektar\u00f3w. Jest to najwi\u0119kszy ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.P_JtFru0dW2tmJ8P8339gC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "Nasz Racib\u00f3rz52 min",
+            "source": "Nasz Racib\u00f3rz",
+            "article_content": "Rozstrzygni\u0119ty zosta\u0142 przetarg nieograniczony na sprzeda\u017c terenu inwestycyjnego o powierzchni 40 hektar\u00f3w. Jest to najwi\u0119kszy teren inwestycyjny oferowany w przetargu organizowanym przez rybnicki ratusz.\n\nNabywc\u0105 terenu zosta\u0142a firma Moraj, cena osi\u0105gni\u0119ta w przetargu wynios\u0142a 16 346 850,00 z\u0142 netto (20 087 592,47 z\u0142 brutto). Kolejnym krokiem b\u0119dzie podpisanie umowy sprzeda\u017cy w formie aktu notarialnego, co powinno nast\u0105pi\u0107 na prze\u0142omie roku.\n\n- To bardzo du\u017cy teren inwestycyjny, zlokalizowany w pobli\u017cu Drogi Regionalnej Racib\u00f3rz-Pszczyna (DW 935). Po zakupie nieruchomo\u015bci inwestora czeka proces projektowania i uzgodnie\u0144, ale wierz\u0119, \u017ce za kilka lat w tym miejscu b\u0119dziemy mie\u0107 kolejn\u0105 stref\u0119 gospodarcz\u0105 w mie\u015bcie i nowe miejsca pracy \u2013 powiedzia\u0142 Prezydent Rybnika, Piotr Kuczera.\n\nSprzedany teren w miejscowym planie zagospodarowania przestrzennego w przewa\u017caj\u0105cej cz\u0119\u015bci przeznaczony jest pod zabudow\u0119 produkcyjn\u0105 i us\u0142ugow\u0105. Zgodnie z tre\u015bci\u0105 og\u0142oszonego przetargu, inwestor b\u0119dzie zobowi\u0105zany do zabudowy terenu w okre\u015blonych terminach. Planowana jest m.in. budowa centrum logistycznego."
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "T\u0119\u017cnia w parku",
+            "link": "https://gazetalubuska.pl/tag/teznia-w-parku",
+            "description": "T\u0119\u017cnia cieszy oczy w \u017caga\u0144skim parku od kilku dni. Niekt\u00f3rzy narzekaj\u0105, \u017ce jest bardzo ma\u0142a i por\u00f3wnuj\u0105 j\u0105 do t\u0119\u017cni w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.3eoQtikE6G1i3Kek0VfuOS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
             "date": "Gazeta Lubuska2 godz.",
@@ -245,9 +245,9 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Dom strach\u00f3w w \u017baganiu",
-            "link": "https://gazetalubuska.pl/tag/dom-strachow-w-zaganiu",
-            "description": "W powiecie \u017caga\u0144skim trwaj\u0105 wielkie \u0107wiczenia obrony cywilnej. W \u015brod\u0119 8 pa\u017adziernika 2025 s\u0142u\u017cby \u0107wiczy\u0142y po\u017car w \u017baga\u0144skim ...",
+            "title": "T\u0119\u017cnia w \u017baganiu",
+            "link": "https://gazetalubuska.pl/tag/teznia-w-zaganiu",
+            "description": "T\u0119\u017cnia cieszy oczy w \u017caga\u0144skim parku od kilku dni. Niekt\u00f3rzy narzekaj\u0105, \u017ce jest bardzo ma\u0142a i por\u00f3wnuj\u0105 j\u0105 do t\u0119\u017cni w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.3eoQtikE6G1i3Kek0VfuOS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
             "date": "Gazeta Lubuska2 godz.",
@@ -261,14 +261,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Pras\u00f3wka 22.10.2025 - wydarzenia dnia, podsumowanie z wczoraj - sprawd\u017a, czy nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego",
-            "link": "https://nowiny24.pl/prasowka-22-10-2025-wydarzenia-dnia-podsumowanie-z-wczoraj-sprawdz-czy-nie-minelo-cie-nic-waznego/ar/c1p1-19960915",
-            "description": "Do tragicznego odkrycia dosz\u0142o w poniedzia\u0142ek, 20 pa\u017adziernika w miejscowo\u015bci Zalesie, w pobli\u017cu stacji paliw i stacji kolejowej w Targowiskach (gm. Miejsce Piastowe). Jak informuje portal ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.f1I8bJbwcln8vUrU0W00ww&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Kolejne zderzenie pojazd\u00f3w na ostrym zakr\u0119cie na Piaskowej",
+            "link": "https://www.naszraciborz.pl/site/art/1-aktualnosci/0-/48629-kolejne-zderzenie-pojazdow-na-ostrym-zakrecie-na-piaskowej",
+            "description": "AKTUALIZACJA. Oko\u0142o 12.30 na Piaskowej, na wysoko\u015bci ostrego zakr\u0119tu na dwupasm\u00f3wce, zderzy\u0142y si\u0119 fiat punto oraz seat. Co prawda trzy osoby trafi\u0142y do szpitala, ale obra\u017cenia okaza\u0142y si\u0119 niegro\u017ane. Z ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.zyHZryUb3Zd_dbBzzJoUdQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Nowiny 244 godz.",
-            "source": "Nowiny 24",
-            "article_content": "Content not available"
+            "date": "Nasz Racib\u00f3rz28 min",
+            "source": "Nasz Racib\u00f3rz",
+            "article_content": "Aktualno\u015bci10 marca 201613:25 10 marca 201613:25\n\nKolejne zderzenie pojazd\u00f3w na ostrym zakr\u0119cie na Piaskowej\n\n0\n\nReklama\n\nPowiat: AKTUALIZACJA. Oko\u0142o 12.30 na Piaskowej, na wysoko\u015bci ostrego zakr\u0119tu na dwupasm\u00f3wce, zderzy\u0142y si\u0119 fiat punto oraz seat. Co prawda trzy osoby trafi\u0142y do szpitala, ale obra\u017cenia okaza\u0142y si\u0119 niegro\u017ane. Zdarzenie zakwalifikowano jako kolizj\u0119. Sprawc\u0105 jest 22-latek z Raciborza, kierowca fiata, kt\u00f3ry nie dostosowa\u0142 pr\u0119dko\u015bci do warunk\u00f3w na drodze. Zosta\u0142 ukarany mandatem karnym. Poszkodowany to 57-latek z Raciborza, kierowca seata. Straty oszacowano na kwot\u0119 12 tys. z\u0142."
         }
     },
     {
@@ -282,7 +282,7 @@
             "description": "Rachunki za pr\u0105d w 2025 roku zn\u00f3w rosn\u0105, a wielu Polak\u00f3w zastanawia si\u0119, jak realnie obni\u017cy\u0107 koszty energii elektrycznej.",
             "image_url": "https://www.bing.pl/th?id=OVFT.tzWm6lrKHf-Kh2cvwXWLMC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "G\u0142os Szczeci\u0144ski on MSN2 godz.",
+            "date": "G\u0142os Szczeci\u0144ski on MSN6 godz.",
             "source": "G\u0142os Szczeci\u0144ski on MSN",
             "article_content": ""
         }
@@ -293,14 +293,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Niezwyk\u0142e odkrycie w Bukowcu Wielkim",
-            "link": "https://gazetaolsztynska.pl/artykul/niezwykle-odkrycie-w-n2063260",
-            "description": "Podczas prac rolniczych w Bukowcu Wielkim (gm. Janowiec Ko\u015bcielny, pow. nidzicki) natrafiono na skarb 162 srebrnych monet z lat 1660\u20131679. Zabytek przekazano ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.przNePaFFwex_atL1j0FuA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Jak sztuczna inteligencja i technologie cyfrowe zmieniaj\u0105 nasz \u015bwiat? 14. edycja Patchlab Digital Art Festival w Krakowie",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/jak-sztuczna-inteligencja-i-technologie-cyfrowe-zmieniaj%C4%85-nasz-%C5%9Bwiat-14-edycja-patchlab-digital-art-festival-w-krakowie/ar-AA1OYiwE?ocid=BingNewsVerp",
+            "description": "Sztuczna inteligencja wkroczy\u0142a w \u015bwiat sztuki, zmieniaj\u0105c spos\u00f3b, w jaki tworzymy i odbieramy rzeczywisto\u015b\u0107. Od 23 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.u0zvZJOQCIPzHwSLMZKf_C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Gazeta Olszty\u0144ska23 godz.",
-            "source": "Gazeta Olszty\u0144ska",
-            "article_content": "Content not available"
+            "date": "Gazeta Krakowska on MSN50 min",
+            "source": "Gazeta Krakowska on MSN",
+            "article_content": ""
         }
     },
     {
@@ -309,13 +309,29 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Wawel za darmo i to przez ca\u0142y miesi\u0105c! Muzealnicy szykuj\u0105 tu kolejny hit. Jest te\u017c pretekst do wycieczki do stolicy na darmowe zwiedzanie",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/wawel-za-darmo-i-to-przez-ca%C5%82y-miesi%C4%85c-muzealnicy-szykuj%C4%85-tu-kolejny-hit-jest-te%C5%BC-pretekst-do-wycieczki-do-stolicy-na-darmowe-zwiedzanie/ar-AA1OSK0q?ocid=BingNewsVerp",
-            "description": "W ostatni weekend listopada w ca\u0142kowicie nowej ods\u0142onie Zamek Kr\u00f3lewski na Wawelu zaprezentuje Kr\u00f3lewsk\u0105 Zbrojowni\u0119 - jedno z ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.YjsQ2DMfzRrUYc5-18Z3AS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Na G\u00f3rze Kr\u00f3lowej Bony pod \u0141om\u017c\u0105 ruszy\u0142y kolejne wykopaliska!",
+            "link": "https://www.msn.com/pl-pl/historia-i-kultura-spo%C5%82ecze%C5%84stwa/historia/na-g%C3%B3rze-kr%C3%B3lowej-bony-pod-%C5%82om%C5%BC%C4%85-ruszy%C5%82y-kolejne-wykopaliska/ar-AA1OY94I?ocid=BingNewsVerp",
+            "description": "Archeolodzy wr\u00f3cili na grodzisko pod \u0141om\u017c\u0105. Ruszy\u0142 tam kolejny etap prac wykopaliskowych. Tegoroczna ekspedycja potrwa oko\u0142o tygodnia. G\u00f3ra Kr\u00f3lowej Bony do ko\u0144ca XIII wieku by\u0142a centrum osadniczym na ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.YePdwxSPxGsIciaM0veDtA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Gazeta Krakowska on MSN21 godz.",
-            "source": "Gazeta Krakowska on MSN",
+            "date": "Eska Regiony on MSN4 godz.",
+            "source": "Eska Regiony on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Staro\u017cytny basen pe\u0142en niespodzianek. Archeologiczne odkrycie z okolic Rzymu",
+            "link": "https://www.msn.com/pl-pl/historia-i-kultura-spo%C5%82ecze%C5%84stwa/historia/staro%C5%BCytny-basen-pe%C5%82en-niespodzianek-archeologiczne-odkrycie-z-okolic-rzymu/ar-AA1OXTkT?ocid=BingNewsVerp",
+            "description": "Archeolodzy odkryli konstrukcj\u0119 z czas\u00f3w staro\u017cytnego Rzymu. Nie jest to jednak \u015bwi\u0105tynia czy relikty domostwa, ale\u2026 basen. W ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.SfJVszm0iB15ks8xRQR2pS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "National Geographic Polska on MSN3 godz.",
+            "source": "National Geographic Polska on MSN",
             "article_content": ""
         }
     },
@@ -330,7 +346,7 @@
             "description": "Badania archeologiczne na G\u00f3rze Kr\u00f3lowej Bony nie tylko b\u0119d\u0105 kontynuowane w tym roku, ale tak\u017ce planowane s\u0105 na lata kolejne ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.cp_hG_-uGTbt49DbEkJ-Hy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Polskie Radio Bia\u0142ystok16 godz.",
+            "date": "Polskie Radio Bia\u0142ystok21 godz.",
             "source": "Polskie Radio Bia\u0142ystok",
             "article_content": "Rozkopana G\u00f3ra Kr\u00f3lowej Bony. Badania prowadz\u0105 studenci archeologii UW\n\nBadania archeologiczne na G\u00f3rze Kr\u00f3lowej Bony nie tylko b\u0119d\u0105 kontynuowane w tym roku, ale tak\u017ce planowane s\u0105 na lata kolejne - poinformowano we wtorek (21.10) podczas konferencji prasowej w Starej \u0141om\u017cy.\n\nBadania archeologiczne na G\u00f3rze Kr\u00f3lowej Bony b\u0119d\u0105 prowadzone, fot. Adam D\u0105browski\n\nTo tam rok temu prace wykopaliskowe rozpocz\u0119li studenci archeologii Uniwersytetu Warszawskiego, zaproszeni przez Muzeum P\u00f3\u0142nocno- Mazowieckie.\n\n\n\n\n\nW ubieg\u0142ym roku badali\u015bmy przede wszystkim podgrodzie i ciesz\u0119 si\u0119, \u017ce mo\u017cemy kontynuowa\u0107 te prace, poniewa\u017c to grodzisko jest wyj\u0105tkowo skomplikowane. Trzeba wi\u0119c co najmniej kilku lat bada\u0144, \u017ceby odkry\u0107 przynajmniej cz\u0119\u015b\u0107 jego tajemnic - m\u00f3wi opiekun naukowy archeolog\u00f3w dr S\u0142awomir Wadyl.\n\n\n\n\n\nJak informuje naukowiec dotychczasowe znaleziska to przede wszystkim fragmenty ceramiki, prz\u0119\u015bliki, no\u017cyki i kilka grot\u00f3w strza\u0142 wbitych pod k\u0105tem wskazuj\u0105cym, \u017ce gr\u00f3d by\u0142 ostrzeliwany od strony zachodniej wysoczyzny.\n\nWi\u0119cej odpowiedzi przynios\u0105 wyniki datowania radiow\u0119glowego, kt\u00f3re maj\u0105 by\u0107 znane na prze\u0142omie pa\u017adziernika i listopada.\n\nBadania sfinansowano z bud\u017cetu miasta, poniewa\u017c ich w\u0142adzom, podobnie jak w\u0142adzom gminy \u0141om\u017ca, na kt\u00f3rej terenie znajduje si\u0119 grodzisko, zale\u017cy na tym, \u017ceby dowiedzie\u0107 si\u0119 jak najwi\u0119cej o grodzie, kt\u00f3ry da\u0142 pocz\u0105tek obecnemu miastu.\n\n\n\n\n\n| red: at"
         }
@@ -341,14 +357,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Gdzie na nordic walking do 5 km od Ko\u0142obrzegu. Podpowiadamy, gdzie warto si\u0119 wybra\u0107 w weekend 25 - 26 pa\u017adziernika",
-            "link": "https://kolobrzeg.naszemiasto.pl/gdzie-na-nordic-walking-do-5-km-od-kolobrzegu-podpowiadamy-gdzie-warto-sie-wybrac-w-weekend-25-26-pazdziernika/ar/c7p1-22319027",
-            "description": "Szukasz ciekawych \u015bcie\u017cek nordic walking niedaleko Ko\u0142obrzegu? Razem z Traseo mamy dla Ciebie kilka podpowiedzi na ten ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.9e1v3wOCki99V58cYHiGMC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "Ko\u0142obrzeg Nasze Miasto18 godz.",
-            "source": "Ko\u0142obrzeg Nasze Miasto",
-            "article_content": "Content not available"
+            "title": "Czy Muzeum Dzieci Zamojszczyzny powstanie? Na razie podpisano list intencyjny w tej sprawie",
+            "link": "https://www.msn.com/pl-pl/og%C3%B3lne/og%C3%B3lne/czy-muzeum-dzieci-zamojszczyzny-powstanie-na-razie-podpisano-list-intencyjny-w-tej-sprawie/ar-AA1OXZmp?ocid=BingNewsVerp",
+            "description": "- Musimy o tych tragicznych wydarzeniach pami\u0119ta\u0107. Nie tylko. Chcieliby\u015bmy w przysz\u0142o\u015bci utworzy\u0107 w Zamo\u015bciu muzeum ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.T6MZRI01WjA_ge9i07Ngey&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Nasze Miasto on MSN1 godz.",
+            "source": "Nasze Miasto on MSN",
+            "article_content": ""
         }
     },
     {
@@ -357,12 +373,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Niepe\u0142nosprawni w Che\u0142m\u017cy maj\u0105 ju\u017c schodo\u0142az! \"Nawet o tym nie marzyli\u015bmy. S\u0105 \u0142zy...\"",
+            "title": "Niepe\u0142nosprawni w Che\u0142m\u017cy maj\u0105 ju\u017c schodo\u0142az! \"Nawet o tym nie marzyli\u015bmy o tym sprz\u0119cie w tak kr\u00f3tkim czasie. S\u0105 \u0142zy szcz\u0119\u015bcia\"",
             "link": "https://www.msn.com/pl-pl/technologia/og%C3%B3lne/niepe%C5%82nosprawni-w-che%C5%82m%C5%BCy-maj%C4%85-ju%C5%BC-schodo%C5%82az-nawet-o-tym-nie-marzyli%C5%9Bmy-o-tym-sprz%C4%99cie-w-tak-kr%C3%B3tkim-czasie-s%C4%85-%C5%82zy-szcz%C4%99%C5%9Bcia/ar-AA1OWXZw?ocid=BingNewsVerp",
             "description": "Wystarczy\u0142 miesi\u0105c, zryw ludzkich serc i uda\u0142o si\u0119 uzbiera\u0107 12 tysi\u0119cy z\u0142otych na zakup schodo\u0142azu! Niepe\u0142nosprawni ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.xR8wyRb-Us4l_9HgvnJriS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN1 godz.",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN5 godz.",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
             "article_content": ""
         }
@@ -373,13 +389,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "To wydarzenie jest tylko raz w miesi\u0105cu. Zawsze \u015bci\u0105ga t\u0142umy. Co przyci\u0105ga do Falenicy \u0142owc\u00f3w pere\u0142ek?",
-            "link": "https://warszawa.naszemiasto.pl/to-wydarzenie-jest-tylko-raz-w-miesiacu-zawsze-sciaga-tlumy-co-przyciaga-do-falenicy-lowcow-perelek/ar/c13p2-28070423",
-            "description": "Na Targowisku Falenica przy ul. Trocinowej 1 w Warszawie regularnie odbywa si\u0119 Falenicka Gie\u0142da Staroci. To Kultowa wyprzeda\u017c ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.OnuO2OqDSsVtPv8Ln8L0SC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "W Tumie zako\u0144czy\u0142y si\u0119 badania archeologiczne. Znaleziono groby sprzed tysi\u0105ca lat",
+            "link": "https://dzienniklodzki.pl/w-tumie-zakonczyly-sie-badania-archeologiczne-znaleziono-groby-sprzed-tysiaca-lat/ar/c1p2-28102515",
+            "description": "Badania wykopaliskowe w Tumie zako\u0144czy\u0142y si\u0119 we wtorek, 21 pa\u017adziernika. Archeolodzy pracowali w s\u0105siedztwie tumskiej ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.kSEy17bX7MJeTg9yKrDqKS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Warszawa Nasze Miasto21 godz.",
-            "source": "Warszawa Nasze Miasto",
+            "date": "Dziennik \u0141\u00f3dzki2 godz.",
+            "source": "Dziennik \u0141\u00f3dzki",
             "article_content": "Content not available"
         }
     },
@@ -394,7 +410,7 @@
             "description": "O nowych odkryciach import\u00f3w rzymskich w Polsce m\u00f3wiono w dniach 16\u201317 pa\u017adziernika w Muzeum imienia Jacka Malczewskiego oraz ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.w4xQHF7rVZtYQR4aJSKk7C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Echo Dnia on MSN2 godz.",
+            "date": "Echo Dnia on MSN7 godz.",
             "source": "Echo Dnia on MSN",
             "article_content": ""
         }
@@ -410,25 +426,9 @@
             "description": "Podczas prac rolniczych ma\u0142\u017ce\u0144stwo z Bukowca Wielkiego (woj. warmi\u0144sko-mazurskie) dokona\u0142o niecodziennego odkrycia, kt\u00f3re ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.DNJwa6WvdvcM4IWpuq_kvS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "WP Wiadomo\u015bci3 godz.",
+            "date": "WP Wiadomo\u015bci7 godz.",
             "source": "WP Wiadomo\u015bci",
             "article_content": "Pobieranie, zwielokrotnianie, przechowywanie lub jakiekolwiek inne wykorzystywanie tre\u015bci dost\u0119pnych w niniejszym serwisie - bez wzgl\u0119du na ich charakter i spos\u00f3b wyra\u017cenia (w szczeg\u00f3lno\u015bci lecz nie wy\u0142\u0105cznie: s\u0142owne, s\u0142owno-muzyczne, muzyczne, audiowizualne, audialne, tekstowe, graficzne i zawarte w nich dane i informacje, bazy danych i zawarte w nich dane) oraz form\u0119 (np. literackie, publicystyczne, naukowe, kartograficzne, programy komputerowe, plastyczne, fotograficzne) wymaga uprzedniej i jednoznacznej zgody Wirtualna Polska Media Sp\u00f3\u0142ka Akcyjna z siedzib\u0105 w Warszawie, b\u0119d\u0105cej w\u0142a\u015bcicielem niniejszego serwisu, bez wzgl\u0119du na spos\u00f3b ich eksploracji i wykorzystan\u0105 metod\u0119 (manualn\u0105 lub zautomatyzowan\u0105 technik\u0119, w tym z u\u017cyciem program\u00f3w uczenia maszynowego lub sztucznej inteligencji). Powy\u017csze zastrze\u017cenie nie dotyczy wykorzystywania jedynie w celu u\u0142atwienia ich wyszukiwania przez wyszukiwarki internetowe oraz korzystania w ramach stosunk\u00f3w umownych lub dozwolonego u\u017cytku okre\u015blonego przez w\u0142a\u015bciwe przepisy prawa.\n\nSzczeg\u00f3\u0142owa tre\u015b\u0107 dotycz\u0105ca niniejszego zastrze\u017cenia znajduje si\u0119 tutaj."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Chcia\u0142 pozbiera\u0107 kamienie, okaza\u0142o si\u0119, \u017ce to cenne monety",
-            "link": "https://tvn24.pl/olsztyn/bukowiec-wielki-cenne-znaleziska-z-xvii-wieku-na-polu-rolnika-znalazl-je-przez-przypadek-st8712553",
-            "description": "Rolnicy z Bukowca Wielkiego (Warmi\u0144sko-Mazurskie) znale\u017ali na swoim polu niezwykle cenne znalezisko. To srebrne monety z XVII ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.Klpmh5PIk0Io0t8gWv-X8S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "TVN242 godz.",
-            "source": "TVN24",
-            "article_content": "Na polu w Bukowcu Wielkim odkryto skarb srebrnych monet z XVII wieku \u0179r\u00f3d\u0142o: Gmina Janowiec Ko\u015bcielny\n\nPos\u0142uchaj artyku\u0142u Wykup subskrypcj\u0119 TVN24+, aby pos\u0142ucha\u0107 artyku\u0142u.\n\n\n\nMasz subskrypcj\u0119? Zaloguj si\u0119. Dowiedz si\u0119 wi\u0119cej Udost\u0119pnij Facebook Kopiuj link\n\nMonety znale\u017ali rolnicy z Bukowca Wielkiego w powiecie nidzickim. Znajdowa\u0142y si\u0119 na polu Beaty i Romualda J\u00f3\u017awiak\u00f3w. Za po\u015brednictwem w\u00f3jta gminy Janowiec Ko\u015bcielny przekazali go warmi\u0144sko-mazurskiemu wojew\u00f3dzkiemu konserwatorowi zabytk\u00f3w.\n\n- M\u0105\u017c odnawia\u0142 \u0142\u0105k\u0119. Chcia\u0142 pozbiera\u0107 wyorane kamienie. Okaza\u0142o si\u0119, \u017ce s\u0105 to monety \u2013 powiedzia\u0142a pani Beata.\n\nSkarby z XVII wieku\n\nO cennym odkryciu poinformowa\u0142 archeolog Damian Swat z firmy Archeoskop, pod kt\u00f3rego kierownictwem w miejscu znalezienia skarbu zosta\u0142y przeprowadzone ratownicze badania wykopaliskowe. Podczas tych bada\u0144 odkryto kolejne monety i fragmenty naczynia, w kt\u00f3rym skarb zosta\u0142 pierwotnie zdeponowany.\n\nW Bukowcu Wielkim znaleziono niezwyk\u0142y skarb srebrnych monet z XVII wieku !!! Do niecodziennego odkrycia dosz\u0142o... Posted by Archeoskop - us\u0142ugi archeologiczne - konserwacja zabytk\u00f3w on Monday, October 20, 2025 Rozwi\u0144\n\nW sumie to 162 srebrne monety datowane na lata 1660-1679. S\u0105 w\u015br\u00f3d nich dwie sztuki monet o nominale 2/3 talara, 20 tymf\u00f3w, 27 ort\u00f3w i 113 sz\u00f3stak\u00f3w.\n\nArcheolog przekaza\u0142, \u017ce za pomoc\u0105 wykrywaczy metali przeszukano r\u00f3wnie\u017c du\u017cy obszar pola wok\u00f3\u0142 miejsca odkrycia znaleziska. Jak zaznaczy\u0142, by\u0142o to mo\u017cliwe dzi\u0119ki cz\u0142onkom Stowarzyszenia Historyczno-Eksploracyjne Nibork, kt\u00f3rzy pomogli te\u017c w identyfikacji monet. W badaniach brali udzia\u0142 r\u00f3wnie\u017c cz\u0142onkowie Stowarzyszenia Grupa Rekonstrukcji Historycznej \"Allenstein\".\n\nNa polu w Bukowcu Wielkim odkryto skarb srebrnych monet z XVII wieku \u0179r\u00f3d\u0142o: Gmina Janowiec Ko\u015bcielny\n\nW trakcie bada\u0144 archeologicznych natrafiono te\u017c na pozosta\u0142o\u015bci konstrukcji kamiennych po dawnym folwarku, z po\u0142owy XVII w. Znaleziono fragmenty naczy\u0144 ceramicznych, pier\u015bcionki wykonane ze stopu miedzi, medalik z Matk\u0105 Bo\u017c\u0105 Cz\u0119stochowsk\u0105 i Anio\u0142em Str\u00f3\u017cem, kule o\u0142owiane do broni czarnoprochowej, guziki i inne przedmioty codziennego u\u017cytku.\n\nW ocenie Damiana Swata, jednym z ciekawszych znalezisk jest fragment kobiecej klamry do pasa; podobne klamry znajduj\u0105 si\u0119 m.in. w Perlebergu w Brandenburgii i na zamku na Hradczanach w Pradze.\n\nNa polu w Bukowcu Wielkim odkryto skarb srebrnych monet z XVII wieku \u0179r\u00f3d\u0142o: Gmina Janowiec Ko\u015bcielny\n\nTrafi\u0142y do muzeum\n\nZnalezione w Bukowcu Wielkim zabytki trafi\u0142y do Muzeum Pogranicza w Dzia\u0142dowie. Dyrektor muzeum Patryk Koz\u0142owski powiedzia\u0142, \u017ce trwa jeszcze konserwacja monet i zwiedzaj\u0105cy b\u0119d\u0105 je mogli ogl\u0105da\u0107 na wystawie sta\u0142ej na pocz\u0105tku przysz\u0142ego roku.\n\nW Bukowcu Wielkim znaleziono niezwyk\u0142y skarb srebrnych monet z XVII wieku !!! Do niecodziennego odkrycia dosz\u0142o... Posted by Archeoskop - us\u0142ugi archeologiczne - konserwacja zabytk\u00f3w on Monday, October 20, 2025 Rozwi\u0144\n\n- Dla naszego muzeum jest to bardzo cenne znalezisko. Cieszymy si\u0119, \u017ce trafi\u0142o do nas, bo jeste\u015bmy m\u0142odym muzeum i nasze kolekcje nie s\u0105 rozbudowane \u2013 wyja\u015bni\u0142.\n\nOkolica, w kt\u00f3rej odkryto skarb, le\u017ca\u0142a kiedy\u015b na pograniczu mazowiecko-pruskim. By\u0142a zaludniona w znacznym stopniu przez drobn\u0105 szlacht\u0119. Wie\u015b Bukowiec zosta\u0142a za\u0142o\u017cona w XIII lub XIV w., nale\u017ca\u0142a do parafii Janowiec Ko\u015bcielny. Prawdopodobnie w XVI w. zosta\u0142a podzielona na Bukowiec Wielki i Ma\u0142y, a folwarki o takich nazwach funkcjonowa\u0142y jeszcze w XIX w\n\nOGL\u0104DAJ: TVN24 HD"
         }
     },
     {
@@ -442,7 +442,7 @@
             "description": "Sprawd\u017a, ile mog\u0105 kosztowa\u0107 szk\u0142a i kryszta\u0142y z czas\u00f3w PRL-u. Wyj\u0105tkowe wazony, talerze, misy i inne wyroby ze szk\u0142a z czas\u00f3w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.jM-JjPT_RXGe5uOBVIZrui&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Koszali\u0144ski3 godz.",
+            "date": "G\u0142os Koszali\u0144ski8 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
         }
@@ -458,7 +458,7 @@
             "description": "Na starych monetach z czas\u00f3w PRL-u mo\u017cna zarobi\u0107 du\u017co pieni\u0119dzy. Wycena monet zale\u017cy od ich stanu zachowania, a dobrze ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.ACm41xAt-ckCESAEZVdUXy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Koszali\u0144ski3 godz.",
+            "date": "G\u0142os Koszali\u0144ski8 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
         }
@@ -474,25 +474,9 @@
             "description": "Czy w Twojej starej szufladzie, puszce po herbacie lub zapomnianej szkatu\u0142ce le\u017c\u0105 monety z czas\u00f3w PRL? Je\u015bli tak, to mo\u017cesz ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.TN8O8YbW7edIS8XstNEhqi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Pomorza2 godz.",
+            "date": "G\u0142os Pomorza6 godz.",
             "source": "G\u0142os Pomorza",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Zaprezentuj\u0105 swoje skarby! IX Pleszewskie Spotkania Kolekcjonerskie odb\u0119d\u0105 si\u0119 26 pa\u017adziernika. Co b\u0119dzie dzia\u0142o si\u0119 w hali \u201eTr\u00f3jki'?",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/zaprezentuj%C4%85-swoje-skarby-ix-pleszewskie-spotkania-kolekcjonerskie-odb%C4%99d%C4%85-si%C4%99-26-pa%C5%BAdziernika-co-b%C4%99dzie-dzia%C5%82o-si%C4%99-w-hali-tr%C3%B3jki/ar-AA1OSq3r?ocid=BingNewsVerp",
-            "description": "26 pa\u017adziernika 2025 roku odb\u0119d\u0105 si\u0119 IX Pleszewskie Spotkania Kolekcjonerskie. Blisko 80 pasjonat\u00f3w poka\u017ce swoje skarby.",
-            "image_url": "https://www.bing.pl/th?id=OVFT.9RlxihPZQEOSbWNV9V-AYS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+numizmatyka",
-            "date": "Pleszew Nasze Miasto on MSN21 godz.",
-            "source": "Pleszew Nasze Miasto on MSN",
-            "article_content": ""
         }
     },
     {
@@ -506,7 +490,7 @@
             "description": "Wystawa mie\u015bci si\u0119 w dawnym budynku administracyjnym Fabryki Emalia Oskara Schindlera przy ul. Lipowej 4 i jest opowie\u015bci\u0105 o Krakowie i losach jego polskich i \u017cydowskich mieszka\u0144c\u00f3w w czasie II wojny ...",
             "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w9 godz.",
+            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w14 godz.",
             "source": "Oficjalny serwis miejski - Magiczny Krak\u00f3w",
             "article_content": "Szlak \u017cywego Muzeum Witra\u017cu\n\nW Muzeum Witra\u017cu przestrzenie ekspozycyjne przeplataj\u0105 si\u0119 z mieszcz\u0105ca si\u0119 tu od 1902 roku pracowni\u0105 witra\u017cy. Podczas zwiedzania mo\u017cna obserwowa\u0107 niezmieniony od setek lat proces powstawania witra\u017cy. Struktura kamienicy, w kt\u00f3rej..."
         }
@@ -522,7 +506,7 @@
             "description": "Osada Got\u00f3w w Piasznie (powiat bytowski) by\u0142a kiedy\u015b najwi\u0119kszym prywatnym skansenem w Polsce. Trafi\u0142a tak\u017ce do Polskiej ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "wykopano+zabytkowe",
-            "date": "W\u0142oc\u0142awek Nasze Miasto3 godz.",
+            "date": "W\u0142oc\u0142awek Nasze Miasto7 godz.",
             "source": "W\u0142oc\u0142awek Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -533,30 +517,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Sensacyjne odkrycie w Bukowcu Wielkim. To skarb z XVII w.",
-            "link": "https://www.onet.pl/styl-zycia/ppo-aipap/sensacyjne-odkrycie-w-bukowcu-wielkim-to-skarb-z-xvii-w/q2wmrpp,0666d3f1",
-            "description": "Podczas prac rolniczych w Bukowcu Wielkim, wojew\u00f3dztwo warmi\u0144sko-mazurskie, odkryto skarb srebrnych monet z XVII w. Beata i ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.7DVk1buuI8F5ZkEJaS9Egy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Niezwyk\u0142e znalezisko w woj. mazowieckim. Archeolog: \"Symbolika magiczna\"",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/niezwyk%C5%82e-znalezisko-w-woj-mazowieckim-archeolog-symbolika-magiczna/ar-AA1OTxhn?ocid=BingNewsVerp",
+            "description": "Na stanowisku \"\u0141ysa G\u00f3ra\" na Mazowszu archeolodzy znale\u017ali rzadkie narz\u0119dzie. Odkrycie to pozwala lepiej zrozumie\u0107 dzieje ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.yXi8XReC3ayeQJgRGRh5Ei&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Onet23 godz.",
-            "source": "Onet",
-            "article_content": "Podczas prac rolniczych w Bukowcu Wielkim (woj. warmi\u0144sko-mazurskie) znaleziono srebrne monety z XVII w. Zabytkowe znalezisko b\u0119dzie prezentowane od pocz\u0105tku przysz\u0142ego roku na wystawie w Muzeum Pogranicza w Dzia\u0142dowie.\n\nPodczas prac rolniczych w Bukowcu Wielkim (woj. warmi\u0144sko-mazurskie) znaleziono skarb z XVII wieku. Zabytkowe znalezisko b\u0119dzie prezentowane od pocz\u0105tku przysz\u0142ego roku na wystawie w Muzeum Pogranicza w Dzia\u0142dowie.\n\nPoznaj kontekst z AI Gdzie znaleziono skarb srebrnych monet?\n\nKiedy b\u0119dzie wystawa skarbu w Muzeum Pogranicza?\n\nIle monet znaleziono w Bukowcu Wielkim?\n\nKto przekaza\u0142 skarb do konserwatora zabytk\u00f3w?\n\nreklama\n\nPrzekazanie skarbu i badania archeologiczne\n\nZnalazcy skarbu \u2014 Beata i Romuald J\u00f3\u017awiak \u2014 przekazali go za po\u015brednictwem w\u00f3jta gminy Janowiec Ko\u015bcielny do Warmi\u0144sko-Mazurskiego Wojew\u00f3dzkiego Konserwatora Zabytk\u00f3w.\n\n\u2014 M\u0105\u017c odnawia\u0142 \u0142\u0105k\u0119. Chcia\u0142 pozbiera\u0107 wyorane kamienie. Okaza\u0142o si\u0119, \u017ce s\u0105 to monety \u2014 powiedzia\u0142a PAP pani Beata.\n\nO cennym odkryciu poinformowa\u0142 PAP archeolog Damian Swat z firmy Archeoskop, pod kt\u00f3rego kierownictwem w miejscu znalezienia skarbu zosta\u0142y przeprowadzone ratownicze badania wykopaliskowe. Podczas tych bada\u0144 odkryto kolejne monety i fragmenty naczynia, w kt\u00f3rym skarb zosta\u0142 pierwotnie zdeponowany.\n\nSzczeg\u00f3\u0142y odkrycia\n\nW sumie to 162 srebrne monety datowane na lata 1660-1679. S\u0105 w\u015br\u00f3d nich dwie sztuki monet o nominale 2/3 talara, 20 tymf\u00f3w, 27 ort\u00f3w i 113 sz\u00f3stak\u00f3w.\n\nArcheolog przekaza\u0142, \u017ce za pomoc\u0105 wykrywaczy metali przeszukano r\u00f3wnie\u017c du\u017cy obszar pola wok\u00f3\u0142 miejsca odkrycia znaleziska. Jak zaznaczy\u0142, by\u0142o to mo\u017cliwe dzi\u0119ki cz\u0142onkom Stowarzyszenia Historyczno-Eksploracyjne Nibork, kt\u00f3rzy pomogli te\u017c w identyfikacji monet. W badaniach brali udzia\u0142 r\u00f3wnie\u017c cz\u0142onkowie Stowarzyszenia Grupa Rekonstrukcji Historycznej \"Allenstein\".\n\nDodatkowe znaleziska i ich znaczenie\n\nW trakcie bada\u0144 archeologicznych natrafiono te\u017c na pozosta\u0142o\u015bci konstrukcji kamiennych po dawnym folwarku, z po\u0142owy XVII w. Znaleziono fragmenty naczy\u0144 ceramicznych, pier\u015bcionki wykonane ze stopu miedzi, medalik z Matk\u0105 Bo\u017c\u0105 Cz\u0119stochowsk\u0105 i Anio\u0142em Str\u00f3\u017cem, kule o\u0142owiane do broni czarnoprochowej, guziki i inne przedmioty codziennego u\u017cytku.\n\nW ocenie Damiana Swata jednym z ciekawszych znalezisk jest fragment kobiecej klamry do pasa; podobne klamry znajduj\u0105 si\u0119 m.in. w Perlebergu w Brandenburgii i na zamku na Hradczanach w Pradze.\n\nPrzysz\u0142o\u015b\u0107 znaleziska\n\nZnalezione w Bukowcu Wielkim zabytki trafi\u0142y do Muzeum Pogranicza w Dzia\u0142dowie. Dyrektor muzeum Patryk Koz\u0142owski powiedzia\u0142 PAP, \u017ce trwa jeszcze konserwacja monet i zwiedzaj\u0105cy b\u0119d\u0105 je mogli ogl\u0105da\u0107 na wystawie sta\u0142ej na pocz\u0105tku przysz\u0142ego roku.\n\n\u2014 Dla naszego muzeum jest to bardzo cenne znalezisko. Cieszymy si\u0119, \u017ce trafi\u0142o do nas, bo jeste\u015bmy m\u0142odym muzeum i nasze kolekcje nie s\u0105 rozbudowane \u2014 wyja\u015bni\u0142.\n\nreklama\n\nHistoryczne t\u0142o odkrycia\n\nOkolica, w kt\u00f3rej odkryto skarb, le\u017ca\u0142a kiedy\u015b na pograniczu mazowiecko-pruskim. By\u0142a zaludniona w znacznym stopniu przez drobn\u0105 szlacht\u0119. Wie\u015b Bukowiec zosta\u0142a za\u0142o\u017cona w XIII lub XIV w., nale\u017ca\u0142a do parafii Janowiec Ko\u015bcielny. Prawdopodobnie w XVI w. zosta\u0142a podzielona na Bukowiec Wielki i Ma\u0142y, a folwarki o takich nazwach funkcjonowa\u0142y jeszcze w XIX w.\n\nOdkryciecsrebrnych monet w Bukowcu Wielkim to nie tylko sensacyjne znalezisko, ale tak\u017ce wa\u017cny wk\u0142ad w histori\u0119 regionu. Dzi\u0119ki zaanga\u017cowaniu lokalnych archeolog\u00f3w i pasjonat\u00f3w historii znalezisko zostanie odpowiednio zabezpieczone i udost\u0119pnione publiczno\u015bci. Wystawa w Muzeum Pogranicza w Dzia\u0142dowie b\u0119dzie doskona\u0142\u0105 okazj\u0105 do zapoznania si\u0119 z tym niezwyk\u0142ym odkryciem.\n\n\u0179r\u00f3d\u0142o informacji: Polska Agencja Prasowa"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Rolnik znalaz\u0142 skarb wart fortun\u0119. Niezwyk\u0142e odkrycie na Mazurach",
-            "link": "https://www.rmf24.pl/regiony/olsztyn/news-rolnik-znalazl-skarb-wart-fortune-niezwykle-odkrycie-na-mazu,nId,8033265",
-            "description": "Niezwyk\u0142e odkrycie na Mazurach. Podczas rutynowych prac polowych w Bukowcu Wielkim odnaleziono skarb srebrnych monet sprzed ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.zcpaZQQmBL6b9_64x8A0EC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "RMF2421 godz.",
-            "source": "RMF24",
-            "article_content": "Niezwyk\u0142e odkrycie na Mazurach. Podczas rutynowych prac polowych w Bukowcu Wielkim odnaleziono skarb srebrnych monet sprzed ponad trzystu lat. Znalezisko ju\u017c niebawem b\u0119dzie mo\u017cna podziwia\u0107 w Muzeum Pogranicza w Dzia\u0142dowie.\n\nSkarb z XVII wieku odkryty w Bukowcu Wielkim! Srebrne monety ju\u017c wkr\u00f3tce na wystawie w Dzia\u0142dowie / \u017ar\u00f3d\u0142o: Shutterstock/Gmina Janowiec Ko\u015bcielny/Facebook /\n\nRolnik z Bukowca Wielkiego na Mazurach odkry\u0142 skarb - 162 srebrne monety z XVII wieku!\n\nW\u015br\u00f3d znalezisk s\u0105 m.in. talary, tymfy, fragmenty naczy\u0144, pier\u015bcionki, medalik i unikatowa kobieca klamra do pasa.\n\nWszystkie eksponaty trafi\u0142y do Muzeum Pogranicza w Dzia\u0142dowie, gdzie ju\u017c trwaj\u0105 prace konserwatorskie.\n\nB\u0105d\u017a na bie\u017c\u0105co! Wejd\u017a na stron\u0119 g\u0142\u00f3wn\u0105 RMF24.pl\n\nNiespodziewany skarb w\u015br\u00f3d kamieni\n\nBukowiec Wielki, niewielka miejscowo\u015b\u0107 w wojew\u00f3dztwie warmi\u0144sko-mazurskim, sta\u0142a si\u0119 aren\u0105 sensacyjnego odkrycia archeologicznego. Podczas prac rolniczych Beata i Romuald J\u00f3\u017awiak natrafili na skarb, kt\u00f3ry przez stulecia spoczywa\u0142 pod warstw\u0105 ziemi. Jak relacjonuje pani Beata: M\u0105\u017c odnawia\u0142 \u0142\u0105k\u0119. Chcia\u0142 pozbiera\u0107 wyorane kamienie. Okaza\u0142o si\u0119, \u017ce s\u0105 to monety.\n\nZnalazcy zachowali si\u0119 wzorowo - poprzez w\u00f3jta gminy Janowiec Ko\u015bcielny przekazali znalezisko do Warmi\u0144sko-Mazurskiego Wojew\u00f3dzkiego Konserwatora Zabytk\u00f3w. To w\u0142a\u015bnie tam rozpocz\u0119\u0142a si\u0119 dalsza historia tych niezwyk\u0142ych monet.\n\nArcheolodzy na tropie tajemnicy\n\nO odkryciu poinformowa\u0142 archeolog Damian Swat z firmy Archeoskop, pod kt\u00f3rego kierunkiem przeprowadzono ratownicze badania wykopaliskowe. Szybko okaza\u0142o si\u0119, \u017ce pierwsze monety to dopiero pocz\u0105tek. Podczas dalszych prac znaleziono kolejne srebrne monety oraz fragmenty glinianego naczynia, w kt\u00f3rym skarb zosta\u0142 pierwotnie ukryty.\n\nW sumie archeolodzy doliczyli si\u0119 a\u017c 162 srebrnych monet z okresu 1660-1679. W\u015br\u00f3d nich znalaz\u0142y si\u0119 dwie monety o nominale 2/3 talara, 20 tymf\u00f3w, 27 ort\u00f3w oraz a\u017c 113 sz\u00f3stak\u00f3w. Wszystko wskazuje na to, \u017ce skarb zosta\u0142 zdeponowany w burzliwych czasach drugiej po\u0142owy XVII wieku - okresie niepokoj\u00f3w i licznych wojen na pograniczu mazowiecko-pruskim.\n\nDo poszukiwa\u0144 w\u0142\u0105czyli si\u0119 cz\u0142onkowie Stowarzyszenia Historyczno-Eksploracyjnego Nibork, kt\u00f3rzy przy u\u017cyciu wykrywaczy metali przeszukali szeroki obszar wok\u00f3\u0142 miejsca odkrycia. Pomogli r\u00f3wnie\u017c w identyfikacji monet. W badaniach uczestniczyli tak\u017ce pasjonaci ze Stowarzyszenia Grupa Rekonstrukcji Historycznej \"Allenstein\".\n\nSkarby codzienno\u015bci - nie tylko monety\n\nTeren wok\u00f3\u0142 skarbu okaza\u0142 si\u0119 prawdziw\u0105 kopalni\u0105 wiedzy o \u017cyciu dawnych mieszka\u0144c\u00f3w Bukowca. W trakcie bada\u0144 archeologicznych natrafiono na pozosta\u0142o\u015bci konstrukcji kamiennych z po\u0142owy XVII wieku - \u015bwiadectwo istnienia dawnego folwarku. W\u015br\u00f3d licznych znalezisk znalaz\u0142y si\u0119 fragmenty naczy\u0144 ceramicznych, pier\u015bcionki ze stopu miedzi, medalik z wizerunkiem Matki Bo\u017cej Cz\u0119stochowskiej i Anio\u0142a Str\u00f3\u017ca, kule o\u0142owiane do broni czarnoprochowej, guziki i inne drobne przedmioty codziennego u\u017cytku.\n\nJednym z najciekawszych odkry\u0107 - jak podkre\u015bla archeolog Damian Swat - jest fragment kobiecej klamry do pasa. Podobne klamry znajduj\u0105 si\u0119 m.in. w Perlebergu w Brandenburgii i na zamku na Hradczanach w Pradze - zaznacza Swat. To \u015bwiadectwo szerokich kontakt\u00f3w i wymiany kulturowej, jakie toczy\u0142y si\u0119 w tej cz\u0119\u015bci Europy.\n\nSkarb trafi do Muzeum Pogranicza\n\nWszystkie odkryte zabytki zosta\u0142y przekazane do Muzeum Pogranicza w Dzia\u0142dowie. Tam obecnie trwaj\u0105 prace konserwatorskie, kt\u00f3re maj\u0105 przywr\u00f3ci\u0107 monetom dawny blask. Dyrektor plac\u00f3wki, Patryk Koz\u0142owski, nie kryje zadowolenia z tego wyj\u0105tkowego nabytku.\n\nDla naszego muzeum jest to bardzo cenne znalezisko. Cieszymy si\u0119, \u017ce trafi\u0142o do nas, bo jeste\u015bmy m\u0142odym muzeum i nasze kolekcje nie s\u0105 rozbudowane - powiedzia\u0142.\n\nJu\u017c na pocz\u0105tku przysz\u0142ego roku wszyscy zainteresowani b\u0119d\u0105 mogli zobaczy\u0107 skarb z Bukowca Wielkiego na w\u0142asne oczy - monety i pozosta\u0142e artefakty zostan\u0105 wyeksponowane na wystawie sta\u0142ej. To niepowtarzalna okazja, by przenie\u015b\u0107 si\u0119 w czasie do XVII wieku i poczu\u0107 atmosfer\u0119 dawnych pograniczy.\n\nBukowiec Wielki - historia ukryta pod ziemi\u0105\n\nOkolica, w kt\u00f3rej dosz\u0142o do odkrycia, to teren o bogatej i burzliwej historii. Wie\u015b Bukowiec zosta\u0142a za\u0142o\u017cona w XIII lub XIV wieku i nale\u017ca\u0142a do parafii Janowiec Ko\u015bcielny. W XVI wieku zosta\u0142a podzielona na Bukowiec Wielki i Ma\u0142y, a folwarki o tych nazwach funkcjonowa\u0142y jeszcze w XIX wieku. Region ten le\u017ca\u0142 na granicy Mazowsza i Prus, a w przesz\u0142o\u015bci zamieszkiwa\u0142a go g\u0142\u00f3wnie drobna szlachta.\n\nOdnaleziony skarb to nie tylko cenne monety, ale tak\u017ce wyj\u0105tkowe \u015bwiadectwo historii, kt\u00f3ra przez wieki ukrywa\u0142a si\u0119 tu\u017c pod naszymi stopami. Ju\u017c wkr\u00f3tce ka\u017cdy b\u0119dzie m\u00f3g\u0142 zobaczy\u0107 fragment tej historii na w\u0142asne oczy."
+            "date": "Wiadomo\u015bci Radio ZET on MSN21 godz.",
+            "source": "Wiadomo\u015bci Radio ZET on MSN",
+            "article_content": ""
         }
     }
 ]
