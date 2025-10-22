@@ -5,12 +5,28 @@
             "Content-Type": "application/json"
         },
         "body": {
+            "title": "Ostatnia szansa w tym roku, by kupi\u0107 te cacka! Fina\u0142owa edycja popularnego jarmarku staroci",
+            "link": "https://www.msn.com/pl-pl/hobby-i-zainteresowania/og%C3%B3lne/ostatnia-szansa-w-tym-roku-by-kupi%C4%87-te-cacka-fina%C5%82owa-edycja-popularnego-jarmarku-staroci/ar-AA1OYHL9?ocid=BingNewsVerp",
+            "description": "Przed Wami ostatni moment w 2025 r., \u017ceby wpa\u015b\u0107 na Nowosolski Jarmark Staroci i kupi\u0107 rzeczy od wystawc\u00f3w. Niekt\u00f3re to ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.eoV4u5-BxkIxEywWVKjFnC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Nowa S\u00f3l Nasze Miasto on MSN1 godz.",
+            "source": "Nowa S\u00f3l Nasze Miasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
             "title": "W Tumie zako\u0144czy\u0142y si\u0119 badania archeologiczne. Znaleziono groby sprzed tysi\u0105ca lat",
             "link": "https://dzienniklodzki.pl/w-tumie-zakonczyly-sie-badania-archeologiczne-znaleziono-groby-sprzed-tysiaca-lat/ar/c1p2-28102515",
             "description": "Badania wykopaliskowe w Tumie zako\u0144czy\u0142y si\u0119 we wtorek, 21 pa\u017adziernika. Archeolodzy pracowali w s\u0105siedztwie tumskiej ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.kSEy17bX7MJeTg9yKrDqKS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Dziennik \u0141\u00f3dzki2 godz.",
+            "date": "Dziennik \u0141\u00f3dzki5 godz.",
             "source": "Dziennik \u0141\u00f3dzki",
             "article_content": "Content not available"
         }
@@ -22,45 +38,13 @@
         },
         "body": {
             "title": "Kielczanka zn\u00f3w w programie - \u0141owcy Skarb\u00f3w. Kto da wi\u0119cej. Maryla Kr\u00f3l zdradza kulisy powstawania programu oraz histori\u0119 niezwyk\u0142ej mi\u0142o\u015bci",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/kielczanka-zn%C3%B3w-w-programie-%C5%82owcy-skarb%C3%B3w-kto-da-wi%C4%99cej-maryla-kr%C3%B3l-zdradza-kulisy-powstawania-programu-oraz-histori%C4%99-niezwyk%C5%82ej-mi%C5%82o%C5%9Bci/ar-AA1OYej3?ocid=BingNewsVerp",
+            "link": "https://www.msn.com/pl-pl/rozrywka/tv/kielczanka-zn%C3%B3w-w-programie-%C5%82owcy-skarb%C3%B3w-kto-da-wi%C4%99cej-maryla-kr%C3%B3l-zdradza-kulisy-powstawania-programu-oraz-histori%C4%99-niezwyk%C5%82ej-mi%C5%82o%C5%9Bci/ar-AA1OYej3?ocid=BingNewsVerp",
             "description": "Maryla Nina Kr\u00f3l, przedsi\u0119biorczyni z Kielc, od kilkudziesi\u0119ciu lat zajmuj\u0105ca si\u0119 sprzeda\u017c\u0105 staroci i antyk\u00f3w, ponownie ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.kw3p1bhenLgINIrAr1_2yi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Echo Dnia on MSN35 min",
+            "date": "Echo Dnia on MSN4 godz.",
             "source": "Echo Dnia on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Vintage poszukiwane przez kolekcjoner\u00f3w. Na tym mo\u017cna dzi\u015b sporo zarobi\u0107",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/vintage-poszukiwane-przez-kolekcjoner%C3%B3w-na-tym-mo%C5%BCna-dzi%C5%9B-sporo-zarobi%C4%87/ar-AA1OTP4v?ocid=BingNewsVerp",
-            "description": "Do poszukiwanych rzeczy vintage nale\u017c\u0105 sprz\u0119t audio (gramofony, radia lampowe, wzmacniacze Unitra, Diora), odzie\u017c i dodatki z ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.xP0h3uCuzKZ8dXW9KFehKi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "Gazeta Pomorska on MSN21 godz.",
-            "source": "Gazeta Pomorska on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "wtorek targ slawno",
-            "link": "https://slawno.naszemiasto.pl/tag/wtorek-targ-slawno",
-            "description": "Bardzo udany wtorek na targowisku miejskim w S\u0142awnie - 21.01.2025 r. Sprawdzili\u015bmy ceny owc\u00f3w, warzyw, czy samowaru. Ten ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "S\u0142awno Nasze Miasto22 godz.",
-            "source": "S\u0142awno Nasze Miasto",
-            "article_content": "Content not available"
         }
     },
     {
@@ -74,7 +58,7 @@
             "description": "Film z gry World of Warcraft: Mists of Pandaria prezentuj\u0105cy kluczowe elementy cechuj\u0105ce najnowszy dodatek do gry World of ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.JsW7RkFQS_2KS7BgTmwZgC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "GRY-OnLine.pl14 godz.",
+            "date": "GRY-OnLine.pl18 godz.",
             "source": "GRY-OnLine.pl",
             "article_content": "[4] Je\u015bli pandaria jest tak zajebista to ciekawe czemu ma ocen\u0119 s\u0142absz\u0105 o bodaj\u017ce 2 oceny od GW 2? WoW si\u0119 wypala i tyle, jeszcze troch\u0119 i us\u0142yszymy jak w przypadku SW:TOR \u017ce przechodzi na F2P. A jak walisz z autoattacku to Good luck ziom, wida\u0107 nie ogarniasz GW2 :(. Ehh ta zazdro\u015b\u0107 \u017ce gra F2P jest lepsza od gry z abonamentem. P.S. Gra\u0142em w wowa i po wprowadzeniu Cata wow stracil sw\u00f3j urok, nalot z powietrza na orgri, chwila i bossa nie ma bo nim si\u0119 zorientujesz boss le\u017cy, to samo w ally w SW, \u017ca\u0142osne kiedy\u015b zdoby\u0107 For the Alliance << achievement ba\u0107 \"For the Horde\" to by\u0142 wyczyn."
         }
@@ -90,7 +74,7 @@
             "description": "Na starych monetach z czas\u00f3w PRL-u mo\u017cna zarobi\u0107 du\u017co pieni\u0119dzy. Wycena monet zale\u017cy od ich stanu zachowania, a dobrze ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.ACm41xAt-ckCESAEZVdUXy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski8 godz.",
+            "date": "G\u0142os Koszali\u0144ski11 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
         }
@@ -106,7 +90,7 @@
             "description": "Czy w Twojej starej szufladzie, puszce po herbacie lub zapomnianej szkatu\u0142ce le\u017c\u0105 monety z czas\u00f3w PRL? Je\u015bli tak, to mo\u017cesz ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.TN8O8YbW7edIS8XstNEhqi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Pomorza6 godz.",
+            "date": "G\u0142os Pomorza10 godz.",
             "source": "G\u0142os Pomorza",
             "article_content": "Content not available"
         }
@@ -122,25 +106,9 @@
             "description": "Kolekcjonowanie monet - co to jest? Kolekcjonowanie jest to hobby, kt\u00f3re cieszy si\u0119 ogromn\u0105 popularno\u015bci\u0105 nie tylko w Polsce, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT._V-rWLu6pRQ3UWKHtZMwMi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Pomorza on MSN6 godz.",
+            "date": "G\u0142os Pomorza on MSN10 godz.",
             "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Banknoty trac\u0105 wa\u017cno\u015b\u0107! Tymi pieni\u0119dzmi ju\u017c nie zap\u0142acisz w 2025 roku, trzeba je szybko wymieni\u0107",
-            "link": "https://pomorska.pl/banknoty-traca-waznosc-tymi-pieniedzmi-juz-nie-zaplacisz-w-2025-roku-trzeba-je-szybko-wymienic/ar/c1p2-27972805",
-            "description": "Nie wszystkie banknoty i monety zachowuj\u0105 wa\u017cno\u015b\u0107 bez ko\u0144ca. W 2025 roku cz\u0119\u015b\u0107 z nich nie b\u0119dzie ju\u017c pe\u0142noprawnym \u015brodkiem ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.Lwm_VzjKXQKu2psAMgUXCi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "Gazeta Pomorska45 min",
-            "source": "Gazeta Pomorska",
-            "article_content": "Content not available"
         }
     },
     {
@@ -154,7 +122,7 @@
             "description": "Sprawd\u017a, ile mog\u0105 kosztowa\u0107 szk\u0142a i kryszta\u0142y z czas\u00f3w PRL-u. Wyj\u0105tkowe wazony, talerze, misy i inne wyroby ze szk\u0142a z czas\u00f3w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.jM-JjPT_RXGe5uOBVIZrui&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski8 godz.",
+            "date": "G\u0142os Koszali\u0144ski11 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
         }
@@ -165,14 +133,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Vintage poszukiwane przez kolekcjoner\u00f3w. Na tym mo\u017cna dzi\u015b sporo zarobi\u0107",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/vintage-poszukiwane-przez-kolekcjoner%C3%B3w-na-tym-mo%C5%BCna-dzi%C5%9B-sporo-zarobi%C4%87/ar-AA1OTP4v?ocid=BingNewsVerp",
-            "description": "Do poszukiwanych rzeczy vintage nale\u017c\u0105 sprz\u0119t audio (gramofony, radia lampowe, wzmacniacze Unitra, Diora), odzie\u017c i dodatki z ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.xP0h3uCuzKZ8dXW9KFehKi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stara+porcelana",
-            "date": "Gazeta Pomorska on MSN21 godz.",
-            "source": "Gazeta Pomorska on MSN",
-            "article_content": ""
+            "title": "Banknoty trac\u0105 wa\u017cno\u015b\u0107! Tymi pieni\u0119dzmi ju\u017c nie zap\u0142acisz w 2025 roku, trzeba je szybko wymieni\u0107",
+            "link": "https://pomorska.pl/banknoty-traca-waznosc-tymi-pieniedzmi-juz-nie-zaplacisz-w-2025-roku-trzeba-je-szybko-wymienic/ar/c1p2-27972805",
+            "description": "Nie wszystkie banknoty i monety zachowuj\u0105 wa\u017cno\u015b\u0107 bez ko\u0144ca. W 2025 roku cz\u0119\u015b\u0107 z nich nie b\u0119dzie ju\u017c pe\u0142noprawnym \u015brodkiem ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.Lwm_VzjKXQKu2psAMgUXCi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "Gazeta Pomorska4 godz.",
+            "source": "Gazeta Pomorska",
+            "article_content": "Content not available"
         }
     },
     {
@@ -186,7 +154,7 @@
             "description": "Czy s\u0105 planowane wy\u0142\u0105czenia pr\u0105du w pomorskim 22.10? W artykule znajdziesz list\u0119 miejsc, w kt\u00f3rych mog\u0105 nast\u0105pi\u0107 przerwy w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.uCXHnHCdo-evRtxLmXFyki&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Dziennik Ba\u0142tycki9 godz.",
+            "date": "Dziennik Ba\u0142tycki13 godz.",
             "source": "Dziennik Ba\u0142tycki",
             "article_content": "Content not available"
         }
@@ -197,14 +165,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "wtorek targ slawno",
-            "link": "https://slawno.naszemiasto.pl/tag/wtorek-targ-slawno",
-            "description": "Bardzo udany wtorek na targowisku miejskim w S\u0142awnie - 21.01.2025 r. Sprawdzili\u015bmy ceny owc\u00f3w, warzyw, czy samowaru. Ten ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Nintendo Switch Najnowsze wiadomo\u015bci (143)",
+            "link": "https://www.gry-online.pl/newsroom/news/switch/?PAGE=143",
+            "description": "W tym tygodniu w ni\u017cszych cenach mo\u017cna naby\u0107 cyfrowe wersje takich tytu\u0142\u00f3w jak Assassin's Creed Origins, God of War, Elex, Shadow of the Colossus, Metro Exodus, We Happy Few, Watch Dogs Legion, The ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.SlkachxxdRcMFI-CbWu_lg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "S\u0142awno Nasze Miasto22 godz.",
-            "source": "S\u0142awno Nasze Miasto",
-            "article_content": "Content not available"
+            "date": "GRY-OnLine.pl9 min",
+            "source": "GRY-OnLine.pl",
+            "article_content": "Dystrybucja cyfrowa na weekend (m.in. Metro Exodus, God of War i SnowRunner)\n\nW tym tygodniu w ni\u017cszych cenach mo\u017cna naby\u0107 cyfrowe wersje takich tytu\u0142\u00f3w jak Assassin's Creed Origins, God of War, Elex, Shadow of the Colossus, Metro Exodus, We Happy Few, Watch Dogs Legion, The Outer Worlds, SnowRunner i Left 4 Dead."
         }
     },
     {
@@ -218,7 +186,7 @@
             "description": "Rozstrzygni\u0119ty zosta\u0142 przetarg nieograniczony na sprzeda\u017c terenu inwestycyjnego o powierzchni 40 hektar\u00f3w. Jest to najwi\u0119kszy ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.P_JtFru0dW2tmJ8P8339gC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Nasz Racib\u00f3rz52 min",
+            "date": "Nasz Racib\u00f3rz4 godz.",
             "source": "Nasz Racib\u00f3rz",
             "article_content": "Rozstrzygni\u0119ty zosta\u0142 przetarg nieograniczony na sprzeda\u017c terenu inwestycyjnego o powierzchni 40 hektar\u00f3w. Jest to najwi\u0119kszy teren inwestycyjny oferowany w przetargu organizowanym przez rybnicki ratusz.\n\nNabywc\u0105 terenu zosta\u0142a firma Moraj, cena osi\u0105gni\u0119ta w przetargu wynios\u0142a 16 346 850,00 z\u0142 netto (20 087 592,47 z\u0142 brutto). Kolejnym krokiem b\u0119dzie podpisanie umowy sprzeda\u017cy w formie aktu notarialnego, co powinno nast\u0105pi\u0107 na prze\u0142omie roku.\n\n- To bardzo du\u017cy teren inwestycyjny, zlokalizowany w pobli\u017cu Drogi Regionalnej Racib\u00f3rz-Pszczyna (DW 935). Po zakupie nieruchomo\u015bci inwestora czeka proces projektowania i uzgodnie\u0144, ale wierz\u0119, \u017ce za kilka lat w tym miejscu b\u0119dziemy mie\u0107 kolejn\u0105 stref\u0119 gospodarcz\u0105 w mie\u015bcie i nowe miejsca pracy \u2013 powiedzia\u0142 Prezydent Rybnika, Piotr Kuczera.\n\nSprzedany teren w miejscowym planie zagospodarowania przestrzennego w przewa\u017caj\u0105cej cz\u0119\u015bci przeznaczony jest pod zabudow\u0119 produkcyjn\u0105 i us\u0142ugow\u0105. Zgodnie z tre\u015bci\u0105 og\u0142oszonego przetargu, inwestor b\u0119dzie zobowi\u0105zany do zabudowy terenu w okre\u015blonych terminach. Planowana jest m.in. budowa centrum logistycznego."
         }
@@ -234,7 +202,7 @@
             "description": "T\u0119\u017cnia cieszy oczy w \u017caga\u0144skim parku od kilku dni. Niekt\u00f3rzy narzekaj\u0105, \u017ce jest bardzo ma\u0142a i por\u00f3wnuj\u0105 j\u0105 do t\u0119\u017cni w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.3eoQtikE6G1i3Kek0VfuOS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Gazeta Lubuska2 godz.",
+            "date": "Gazeta Lubuska6 godz.",
             "source": "Gazeta Lubuska",
             "article_content": "Content not available"
         }
@@ -250,7 +218,7 @@
             "description": "T\u0119\u017cnia cieszy oczy w \u017caga\u0144skim parku od kilku dni. Niekt\u00f3rzy narzekaj\u0105, \u017ce jest bardzo ma\u0142a i por\u00f3wnuj\u0105 j\u0105 do t\u0119\u017cni w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.3eoQtikE6G1i3Kek0VfuOS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Gazeta Lubuska2 godz.",
+            "date": "Gazeta Lubuska6 godz.",
             "source": "Gazeta Lubuska",
             "article_content": "Content not available"
         }
@@ -261,14 +229,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Kolejne zderzenie pojazd\u00f3w na ostrym zakr\u0119cie na Piaskowej",
-            "link": "https://www.naszraciborz.pl/site/art/1-aktualnosci/0-/48629-kolejne-zderzenie-pojazdow-na-ostrym-zakrecie-na-piaskowej",
-            "description": "AKTUALIZACJA. Oko\u0142o 12.30 na Piaskowej, na wysoko\u015bci ostrego zakr\u0119tu na dwupasm\u00f3wce, zderzy\u0142y si\u0119 fiat punto oraz seat. Co prawda trzy osoby trafi\u0142y do szpitala, ale obra\u017cenia okaza\u0142y si\u0119 niegro\u017ane. Z ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.zyHZryUb3Zd_dbBzzJoUdQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Pras\u00f3wka 22.10.2025 - wydarzenia dnia, podsumowanie z wczoraj - sprawd\u017a, czy nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego",
+            "link": "https://nowiny24.pl/prasowka-22-10-2025-wydarzenia-dnia-podsumowanie-z-wczoraj-sprawdz-czy-nie-minelo-cie-nic-waznego/ar/c1p1-19960915",
+            "description": "Do tragicznego odkrycia dosz\u0142o w poniedzia\u0142ek, 20 pa\u017adziernika w miejscowo\u015bci Zalesie, w pobli\u017cu stacji paliw i stacji kolejowej w Targowiskach (gm. Miejsce Piastowe). Jak informuje portal ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.f1I8bJbwcln8vUrU0W00ww&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Nasz Racib\u00f3rz28 min",
-            "source": "Nasz Racib\u00f3rz",
-            "article_content": "Aktualno\u015bci10 marca 201613:25 10 marca 201613:25\n\nKolejne zderzenie pojazd\u00f3w na ostrym zakr\u0119cie na Piaskowej\n\n0\n\nReklama\n\nPowiat: AKTUALIZACJA. Oko\u0142o 12.30 na Piaskowej, na wysoko\u015bci ostrego zakr\u0119tu na dwupasm\u00f3wce, zderzy\u0142y si\u0119 fiat punto oraz seat. Co prawda trzy osoby trafi\u0142y do szpitala, ale obra\u017cenia okaza\u0142y si\u0119 niegro\u017ane. Zdarzenie zakwalifikowano jako kolizj\u0119. Sprawc\u0105 jest 22-latek z Raciborza, kierowca fiata, kt\u00f3ry nie dostosowa\u0142 pr\u0119dko\u015bci do warunk\u00f3w na drodze. Zosta\u0142 ukarany mandatem karnym. Poszkodowany to 57-latek z Raciborza, kierowca seata. Straty oszacowano na kwot\u0119 12 tys. z\u0142."
+            "date": "Nowiny 2412 godz.",
+            "source": "Nowiny 24",
+            "article_content": "Content not available"
         }
     },
     {
@@ -282,7 +250,7 @@
             "description": "Rachunki za pr\u0105d w 2025 roku zn\u00f3w rosn\u0105, a wielu Polak\u00f3w zastanawia si\u0119, jak realnie obni\u017cy\u0107 koszty energii elektrycznej.",
             "image_url": "https://www.bing.pl/th?id=OVFT.tzWm6lrKHf-Kh2cvwXWLMC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "G\u0142os Szczeci\u0144ski on MSN6 godz.",
+            "date": "G\u0142os Szczeci\u0144ski on MSN10 godz.",
             "source": "G\u0142os Szczeci\u0144ski on MSN",
             "article_content": ""
         }
@@ -298,7 +266,7 @@
             "description": "Sztuczna inteligencja wkroczy\u0142a w \u015bwiat sztuki, zmieniaj\u0105c spos\u00f3b, w jaki tworzymy i odbieramy rzeczywisto\u015b\u0107. Od 23 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.u0zvZJOQCIPzHwSLMZKf_C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Gazeta Krakowska on MSN50 min",
+            "date": "Gazeta Krakowska on MSN4 godz.",
             "source": "Gazeta Krakowska on MSN",
             "article_content": ""
         }
@@ -309,13 +277,29 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Na G\u00f3rze Kr\u00f3lowej Bony pod \u0141om\u017c\u0105 ruszy\u0142y kolejne wykopaliska!",
-            "link": "https://www.msn.com/pl-pl/historia-i-kultura-spo%C5%82ecze%C5%84stwa/historia/na-g%C3%B3rze-kr%C3%B3lowej-bony-pod-%C5%82om%C5%BC%C4%85-ruszy%C5%82y-kolejne-wykopaliska/ar-AA1OY94I?ocid=BingNewsVerp",
-            "description": "Archeolodzy wr\u00f3cili na grodzisko pod \u0141om\u017c\u0105. Ruszy\u0142 tam kolejny etap prac wykopaliskowych. Tegoroczna ekspedycja potrwa oko\u0142o tygodnia. G\u00f3ra Kr\u00f3lowej Bony do ko\u0144ca XIII wieku by\u0142a centrum osadniczym na ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.YePdwxSPxGsIciaM0veDtA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "\u015acie\u017cki nordic walking do 1 km od Ko\u0142obrzegu. Pomys\u0142y na odrobin\u0119 ruchu - weekend 25 - 26 pa\u017adziernika",
+            "link": "https://kolobrzeg.naszemiasto.pl/sciezki-nordic-walking-do-1-km-od-kolobrzegu-pomysly-na-odrobine-ruchu-weekend-25-26-pazdziernika/ar/c7p1-22319027",
+            "description": "Rozgl\u0105dasz si\u0119 za ciekawymi \u015bcie\u017ckami nordic walking w okolicy Ko\u0142obrzegu? Wsp\u00f3lnie z Traseo przygotowali\u015bmy dla Ciebie gar\u015b\u0107 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.1uQ0RHyXexlXbSnNNnmT0S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Eska Regiony on MSN4 godz.",
-            "source": "Eska Regiony on MSN",
+            "date": "Ko\u0142obrzeg Nasze Miasto2 godz.",
+            "source": "Ko\u0142obrzeg Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Najbrzydszy zamek w wojew\u00f3dztwie \u015bl\u0105skim. To efekt Disneylandu i utrata autentyczno\u015bci",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/najbrzydszy-zamek-w-wojew%C3%B3dztwie-%C5%9Bl%C4%85skim-to-efekt-disneylandu-i-utrata-autentyczno%C5%9Bci/ar-AA1OwxdV?ocid=BingNewsVerp",
+            "description": "Wojew\u00f3dztwo \u015bl\u0105skie s\u0142ynie z imponuj\u0105cych zamk\u00f3w, pa\u0142ac\u00f3w i warowni, b\u0119d\u0105c drugim w Polsce pod wzgl\u0119dem ich liczby. Niestety, w\u015br\u00f3d nich znajduje si\u0119 zamek, kt\u00f3ry sztuczna inteligencja okre\u015bla mianem ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.9iHLF3wjpSX94sISYnTbFQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "relikty",
+            "date": "\u015al\u0105skie Radio ESKA on MSN1 godz.",
+            "source": "\u015al\u0105skie Radio ESKA on MSN",
             "article_content": ""
         }
     },
@@ -330,7 +314,7 @@
             "description": "Archeolodzy odkryli konstrukcj\u0119 z czas\u00f3w staro\u017cytnego Rzymu. Nie jest to jednak \u015bwi\u0105tynia czy relikty domostwa, ale\u2026 basen. W ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.SfJVszm0iB15ks8xRQR2pS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "National Geographic Polska on MSN3 godz.",
+            "date": "National Geographic Polska on MSN6 godz.",
             "source": "National Geographic Polska on MSN",
             "article_content": ""
         }
@@ -341,14 +325,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Rozkopana G\u00f3ra Kr\u00f3lowej Bony. Badania prowadz\u0105 studenci archeologii UW",
-            "link": "https://www.radio.bialystok.pl/wiadomosci/index/id/254962",
-            "description": "Badania archeologiczne na G\u00f3rze Kr\u00f3lowej Bony nie tylko b\u0119d\u0105 kontynuowane w tym roku, ale tak\u017ce planowane s\u0105 na lata kolejne ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.cp_hG_-uGTbt49DbEkJ-Hy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "Polskie Radio Bia\u0142ystok21 godz.",
-            "source": "Polskie Radio Bia\u0142ystok",
-            "article_content": "Rozkopana G\u00f3ra Kr\u00f3lowej Bony. Badania prowadz\u0105 studenci archeologii UW\n\nBadania archeologiczne na G\u00f3rze Kr\u00f3lowej Bony nie tylko b\u0119d\u0105 kontynuowane w tym roku, ale tak\u017ce planowane s\u0105 na lata kolejne - poinformowano we wtorek (21.10) podczas konferencji prasowej w Starej \u0141om\u017cy.\n\nBadania archeologiczne na G\u00f3rze Kr\u00f3lowej Bony b\u0119d\u0105 prowadzone, fot. Adam D\u0105browski\n\nTo tam rok temu prace wykopaliskowe rozpocz\u0119li studenci archeologii Uniwersytetu Warszawskiego, zaproszeni przez Muzeum P\u00f3\u0142nocno- Mazowieckie.\n\n\n\n\n\nW ubieg\u0142ym roku badali\u015bmy przede wszystkim podgrodzie i ciesz\u0119 si\u0119, \u017ce mo\u017cemy kontynuowa\u0107 te prace, poniewa\u017c to grodzisko jest wyj\u0105tkowo skomplikowane. Trzeba wi\u0119c co najmniej kilku lat bada\u0144, \u017ceby odkry\u0107 przynajmniej cz\u0119\u015b\u0107 jego tajemnic - m\u00f3wi opiekun naukowy archeolog\u00f3w dr S\u0142awomir Wadyl.\n\n\n\n\n\nJak informuje naukowiec dotychczasowe znaleziska to przede wszystkim fragmenty ceramiki, prz\u0119\u015bliki, no\u017cyki i kilka grot\u00f3w strza\u0142 wbitych pod k\u0105tem wskazuj\u0105cym, \u017ce gr\u00f3d by\u0142 ostrzeliwany od strony zachodniej wysoczyzny.\n\nWi\u0119cej odpowiedzi przynios\u0105 wyniki datowania radiow\u0119glowego, kt\u00f3re maj\u0105 by\u0107 znane na prze\u0142omie pa\u017adziernika i listopada.\n\nBadania sfinansowano z bud\u017cetu miasta, poniewa\u017c ich w\u0142adzom, podobnie jak w\u0142adzom gminy \u0141om\u017ca, na kt\u00f3rej terenie znajduje si\u0119 grodzisko, zale\u017cy na tym, \u017ceby dowiedzie\u0107 si\u0119 jak najwi\u0119cej o grodzie, kt\u00f3ry da\u0142 pocz\u0105tek obecnemu miastu.\n\n\n\n\n\n| red: at"
+            "title": "Takie antyki s\u0105 warte fortun\u0119. Takich cennych staroci poszukuj\u0105 kolekcjonerzy",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/takie-antyki-s%C4%85-warte-fortun%C4%99-takich-cennych-staroci-poszukuj%C4%85-kolekcjonerzy/ar-AA1OwCnL?ocid=BingNewsVerp",
+            "description": "Antyki to dzi\u015b jedne z najbardziej po\u017c\u0105danych przedmiot\u00f3w kolekcjonerskich. Je\u015bli posiadasz takie rzeczy, warto przyjrze\u0107 si\u0119 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.sEW4X_SgWaRP2K0HydCT5y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Gazeta Pomorska on MSN1 godz.",
+            "source": "Gazeta Pomorska on MSN",
+            "article_content": ""
         }
     },
     {
@@ -358,12 +342,28 @@
         },
         "body": {
             "title": "Czy Muzeum Dzieci Zamojszczyzny powstanie? Na razie podpisano list intencyjny w tej sprawie",
-            "link": "https://www.msn.com/pl-pl/og%C3%B3lne/og%C3%B3lne/czy-muzeum-dzieci-zamojszczyzny-powstanie-na-razie-podpisano-list-intencyjny-w-tej-sprawie/ar-AA1OXZmp?ocid=BingNewsVerp",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/czy-muzeum-dzieci-zamojszczyzny-powstanie-na-razie-podpisano-list-intencyjny-w-tej-sprawie/ar-AA1OXZmp?ocid=BingNewsVerp",
             "description": "- Musimy o tych tragicznych wydarzeniach pami\u0119ta\u0107. Nie tylko. Chcieliby\u015bmy w przysz\u0142o\u015bci utworzy\u0107 w Zamo\u015bciu muzeum ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.T6MZRI01WjA_ge9i07Ngey&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Nasze Miasto on MSN1 godz.",
+            "date": "Nasze Miasto on MSN4 godz.",
             "source": "Nasze Miasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Archeolodzy wracaj\u0105 na g\u00f3r\u0119 Kr\u00f3lowej Bony w Starej \u0141om\u017cy",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/archeolodzy-wracaj%C4%85-na-g%C3%B3r%C4%99-kr%C3%B3lowej-bony-w-starej-%C5%82om%C5%BCy/ar-AA1OYssA?ocid=BingNewsVerp",
+            "description": "Archeolodzy z Uniwersytetu Warszawskiego ponownie prowadz\u0105 badania na g\u00f3rze Kr\u00f3lowej Bony w Starej \u0141om\u017cy. Miejsce mo\u017ce by\u0107 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.P71lAy8WZaIm8wvko5lodC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Gazeta Wsp\u00f3\u0142czesna on MSN2 godz.",
+            "source": "Gazeta Wsp\u00f3\u0142czesna on MSN",
             "article_content": ""
         }
     },
@@ -378,7 +378,7 @@
             "description": "Wystarczy\u0142 miesi\u0105c, zryw ludzkich serc i uda\u0142o si\u0119 uzbiera\u0107 12 tysi\u0119cy z\u0142otych na zakup schodo\u0142azu! Niepe\u0142nosprawni ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.xR8wyRb-Us4l_9HgvnJriS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN5 godz.",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN9 godz.",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
             "article_content": ""
         }
@@ -389,46 +389,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "W Tumie zako\u0144czy\u0142y si\u0119 badania archeologiczne. Znaleziono groby sprzed tysi\u0105ca lat",
-            "link": "https://dzienniklodzki.pl/w-tumie-zakonczyly-sie-badania-archeologiczne-znaleziono-groby-sprzed-tysiaca-lat/ar/c1p2-28102515",
-            "description": "Badania wykopaliskowe w Tumie zako\u0144czy\u0142y si\u0119 we wtorek, 21 pa\u017adziernika. Archeolodzy pracowali w s\u0105siedztwie tumskiej ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.kSEy17bX7MJeTg9yKrDqKS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "\u015acie\u017cki nordic walking w woj. wielkopolskim. Gdzie i\u015b\u0107 w weekend 25 - 26 pa\u017adziernika. 3 najlepsze trasy",
+            "link": "https://gloswielkopolski.pl/sciezki-nordic-walking-w-woj-wielkopolskim-gdzie-isc-w-weekend-25-26-pazdziernika-3-najlepsze-trasy/ar/c7p1-22327319",
+            "description": "Nordic walking w woj. wielkopolskim da si\u0119 uprawia\u0107 prawie wsz\u0119dzie. Mimo to zach\u0119camy do wybrania tras, kt\u00f3re polecaj\u0105 inni.",
+            "image_url": "https://www.bing.pl/th?id=OVFT.9e1v3wOCki99V58cYHiGMC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Dziennik \u0141\u00f3dzki2 godz.",
-            "source": "Dziennik \u0141\u00f3dzki",
+            "date": "G\u0142os Wielkopolski2 godz.",
+            "source": "G\u0142os Wielkopolski",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Og\u00f3lnopolska konferencja archeologiczna w Muzeum imienia Jacka Malczewskiego w Radomiu",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/og%C3%B3lnopolska-konferencja-archeologiczna-w-muzeum-imienia-jacka-malczewskiego-w-radomiu/ar-AA1OWp3n?ocid=BingNewsVerp",
-            "description": "O nowych odkryciach import\u00f3w rzymskich w Polsce m\u00f3wiono w dniach 16\u201317 pa\u017adziernika w Muzeum imienia Jacka Malczewskiego oraz ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.w4xQHF7rVZtYQR4aJSKk7C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Echo Dnia on MSN7 godz.",
-            "source": "Echo Dnia on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Przypadkowe odkrycie rolnika. Skarb z XVII wieku na Mazurach",
-            "link": "https://wiadomosci.wp.pl/przypadkowe-odkrycie-rolnika-skarb-z-xvii-wieku-na-mazurach-7213524678583937v",
-            "description": "Podczas prac rolniczych ma\u0142\u017ce\u0144stwo z Bukowca Wielkiego (woj. warmi\u0144sko-mazurskie) dokona\u0142o niecodziennego odkrycia, kt\u00f3re ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.DNJwa6WvdvcM4IWpuq_kvS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "WP Wiadomo\u015bci7 godz.",
-            "source": "WP Wiadomo\u015bci",
-            "article_content": "Pobieranie, zwielokrotnianie, przechowywanie lub jakiekolwiek inne wykorzystywanie tre\u015bci dost\u0119pnych w niniejszym serwisie - bez wzgl\u0119du na ich charakter i spos\u00f3b wyra\u017cenia (w szczeg\u00f3lno\u015bci lecz nie wy\u0142\u0105cznie: s\u0142owne, s\u0142owno-muzyczne, muzyczne, audiowizualne, audialne, tekstowe, graficzne i zawarte w nich dane i informacje, bazy danych i zawarte w nich dane) oraz form\u0119 (np. literackie, publicystyczne, naukowe, kartograficzne, programy komputerowe, plastyczne, fotograficzne) wymaga uprzedniej i jednoznacznej zgody Wirtualna Polska Media Sp\u00f3\u0142ka Akcyjna z siedzib\u0105 w Warszawie, b\u0119d\u0105cej w\u0142a\u015bcicielem niniejszego serwisu, bez wzgl\u0119du na spos\u00f3b ich eksploracji i wykorzystan\u0105 metod\u0119 (manualn\u0105 lub zautomatyzowan\u0105 technik\u0119, w tym z u\u017cyciem program\u00f3w uczenia maszynowego lub sztucznej inteligencji). Powy\u017csze zastrze\u017cenie nie dotyczy wykorzystywania jedynie w celu u\u0142atwienia ich wyszukiwania przez wyszukiwarki internetowe oraz korzystania w ramach stosunk\u00f3w umownych lub dozwolonego u\u017cytku okre\u015blonego przez w\u0142a\u015bciwe przepisy prawa.\n\nSzczeg\u00f3\u0142owa tre\u015b\u0107 dotycz\u0105ca niniejszego zastrze\u017cenia znajduje si\u0119 tutaj."
         }
     },
     {
@@ -442,7 +410,7 @@
             "description": "Sprawd\u017a, ile mog\u0105 kosztowa\u0107 szk\u0142a i kryszta\u0142y z czas\u00f3w PRL-u. Wyj\u0105tkowe wazony, talerze, misy i inne wyroby ze szk\u0142a z czas\u00f3w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.jM-JjPT_RXGe5uOBVIZrui&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Koszali\u0144ski8 godz.",
+            "date": "G\u0142os Koszali\u0144ski11 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
         }
@@ -458,7 +426,7 @@
             "description": "Na starych monetach z czas\u00f3w PRL-u mo\u017cna zarobi\u0107 du\u017co pieni\u0119dzy. Wycena monet zale\u017cy od ich stanu zachowania, a dobrze ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.ACm41xAt-ckCESAEZVdUXy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Koszali\u0144ski8 godz.",
+            "date": "G\u0142os Koszali\u0144ski11 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
         }
@@ -474,7 +442,7 @@
             "description": "Czy w Twojej starej szufladzie, puszce po herbacie lub zapomnianej szkatu\u0142ce le\u017c\u0105 monety z czas\u00f3w PRL? Je\u015bli tak, to mo\u017cesz ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.TN8O8YbW7edIS8XstNEhqi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Pomorza6 godz.",
+            "date": "G\u0142os Pomorza10 godz.",
             "source": "G\u0142os Pomorza",
             "article_content": "Content not available"
         }
@@ -490,7 +458,7 @@
             "description": "Wystawa mie\u015bci si\u0119 w dawnym budynku administracyjnym Fabryki Emalia Oskara Schindlera przy ul. Lipowej 4 i jest opowie\u015bci\u0105 o Krakowie i losach jego polskich i \u017cydowskich mieszka\u0144c\u00f3w w czasie II wojny ...",
             "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w14 godz.",
+            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w17 godz.",
             "source": "Oficjalny serwis miejski - Magiczny Krak\u00f3w",
             "article_content": "Szlak \u017cywego Muzeum Witra\u017cu\n\nW Muzeum Witra\u017cu przestrzenie ekspozycyjne przeplataj\u0105 si\u0119 z mieszcz\u0105ca si\u0119 tu od 1902 roku pracowni\u0105 witra\u017cy. Podczas zwiedzania mo\u017cna obserwowa\u0107 niezmieniony od setek lat proces powstawania witra\u017cy. Struktura kamienicy, w kt\u00f3rej..."
         }
@@ -506,7 +474,7 @@
             "description": "Osada Got\u00f3w w Piasznie (powiat bytowski) by\u0142a kiedy\u015b najwi\u0119kszym prywatnym skansenem w Polsce. Trafi\u0142a tak\u017ce do Polskiej ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "wykopano+zabytkowe",
-            "date": "W\u0142oc\u0142awek Nasze Miasto7 godz.",
+            "date": "W\u0142oc\u0142awek Nasze Miasto11 godz.",
             "source": "W\u0142oc\u0142awek Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -517,13 +485,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Niezwyk\u0142e znalezisko w woj. mazowieckim. Archeolog: \"Symbolika magiczna\"",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/niezwyk%C5%82e-znalezisko-w-woj-mazowieckim-archeolog-symbolika-magiczna/ar-AA1OTxhn?ocid=BingNewsVerp",
-            "description": "Na stanowisku \"\u0141ysa G\u00f3ra\" na Mazowszu archeolodzy znale\u017ali rzadkie narz\u0119dzie. Odkrycie to pozwala lepiej zrozumie\u0107 dzieje ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.yXi8XReC3ayeQJgRGRh5Ei&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Rolnik na Mazurach odkry\u0142 skarb. \"M\u0105\u017c odnawia\u0142 \u0142\u0105k\u0119. Chcia\u0142 pozbiera\u0107 wyorane kamienie\"",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/rolnik-na-mazurach-odkry%C5%82-skarb-m%C4%85%C5%BC-odnawia%C5%82-%C5%82%C4%85k%C4%99-chcia%C5%82-pozbiera%C4%87-wyorane-kamienie/ar-AA1OYRAb?ocid=BingNewsVerp",
+            "description": "Przy okazji prac polowych rolnik odkry\u0142 skarb. A\u017c 162 srebrne monety oraz inne cenne artefakty przez stulecia spoczywa\u0142y pod ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.B-HDAMSVZgNWpFI1Y11_Ti&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Wiadomo\u015bci Radio ZET on MSN21 godz.",
-            "source": "Wiadomo\u015bci Radio ZET on MSN",
+            "date": "Business Insider Polska on MSN1 godz.",
+            "source": "Business Insider Polska on MSN",
             "article_content": ""
         }
     }
