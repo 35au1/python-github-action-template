@@ -5,12 +5,28 @@
             "Content-Type": "application/json"
         },
         "body": {
+            "title": "Wroc\u0142aw wydarzeni",
+            "link": "https://walbrzych.naszemiasto.pl/tag/wroclaw-wydarzeni",
+            "description": "Nadchodz\u0105cy weekend we Wroc\u0142awiu oferuje ponad sto r\u00f3\u017cnorodnych wydarze\u0144 na miar\u0119 jesieni. W\u015br\u00f3d nich targi Dobry Design w ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Wa\u0142brzych Nasze Miasto28 min",
+            "source": "Wa\u0142brzych Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
             "title": "Stare monety z czas\u00f3w PRL-u warte fortun\u0119. Kolekcjonerzy w\u0142a\u015bnie ich szukaj\u0105! [ZDJ\u0118CIA] 23.10.2025",
             "link": "https://gk24.pl/stare-monety-z-czasow-prl-u-warte-fortune-kolekcjonerzy-wlasnie-ich-szukaja-zdjecia-23-10-2025/ar/c3p2-28049553",
             "description": "Na starych monetach z czas\u00f3w PRL-u mo\u017cna zarobi\u0107 du\u017co pieni\u0119dzy. Wycena monet zale\u017cy od ich stanu zachowania, a dobrze ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.ACm41xAt-ckCESAEZVdUXy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski11 godz.",
+            "date": "G\u0142os Koszali\u0144ski15 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
         }
@@ -26,7 +42,7 @@
             "description": "Nawet kilka tysi\u0119cy z\u0142otych za bransoletk\u0119, kolczyki lub pier\u015bcionek. Na starej bi\u017cuterii z czas\u00f3w PRL-u mo\u017cna zarobi\u0107 du\u017co ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.NjHkJoxJLCtpCk0AVQSLIC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski11 godz.",
+            "date": "G\u0142os Koszali\u0144ski15 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
         }
@@ -37,14 +53,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Banknoty, kt\u00f3re musisz wymieni\u0107! Nimi ju\u017c nie zap\u0142acisz w 2025 roku, one trac\u0105 teraz wa\u017cno\u015b\u0107",
-            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/takimi-pieni%C4%99dzy-z-portfela-mo%C5%BCesz-nie-zap%C5%82aci%C4%87-ju%C5%BC-w-2025-roku-te-banknoty-trac%C4%85-wa%C5%BCno%C5%9B%C4%87-160925/ar-AA1MESlA?ocid=BingNewsVerp",
+            "title": "Banknoty, kt\u00f3re musisz wymieni\u0107! Nimi ju\u017c nie zap\u0142acisz w 2025 roku, trac\u0105 teraz wa\u017cno\u015b\u0107",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/banknoty-kt%C3%B3re-musisz-wymieni%C4%87-nimi-ju%C5%BC-nie-zap%C5%82acisz-w-2025-roku-trac%C4%85-teraz-wa%C5%BCno%C5%9B%C4%87/ar-AA1MESlA?ocid=BingNewsVerp",
             "description": "Nie wszystkie banknoty i monety zachowuj\u0105 wa\u017cno\u015b\u0107 bez ko\u0144ca. W 2025 roku cz\u0119\u015b\u0107 z nich nie b\u0119dzie ju\u017c pe\u0142noprawnym \u015brodkiem ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.qMjAq4fWjzX12GoKQSZgfS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Gazeta Pomorska on MSN4 godz.",
+            "date": "Gazeta Pomorska on MSN3 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Krypta mieszcza\u0144ska jak podziemny cmentarz pod katedr\u0105 w Tarnowie",
+            "link": "https://gazetakrakowska.pl/tajemnicza-krypta-w-podziemiach-katedry-w-tarnowie-o-ktorej-istnieniu-dotad-nie-wiedziano-jej-odkrycie-to-duze-zaskoczenie-dla-badaczy/ar/c1p2-28108089",
+            "description": "Wszystko wskazuje na to, \u017ce w sarkofagu w krypcie rodowej Ostrogskich pod posadzk\u0105 tarnowskiej katedry spoczywa nie pierwsza, ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.t_mVp9bCe-VXMU0n28DpQC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "Gazeta Krakowska1 godz.",
+            "source": "Gazeta Krakowska",
+            "article_content": "Content not available"
         }
     },
     {
@@ -58,7 +90,7 @@
             "description": "HOROSKOP dzienny na \u015brod\u0119 22 pa\u017adziernika 2025 roku dla ka\u017cdego znaku zodiaku. Sprawd\u017a sw\u00f3j horoskop na dzi\u015b i zobacz, co ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.Pax9kdFWm3lHotO56V_tHS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Nowa Trybuna Opolska12 godz.",
+            "date": "Nowa Trybuna Opolska16 godz.",
             "source": "Nowa Trybuna Opolska",
             "article_content": "Content not available"
         }
@@ -69,28 +101,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Wojenne groby",
-            "link": "https://walbrzych.naszemiasto.pl/tag/wojenne-groby",
-            "description": "Cykliczne wydarzenie ekologiczne \"Gazety Wroc\u0142awskiej\" w jesiennej ods\u0142onie za nami. 400 du\u017cych, kwitn\u0105cych, pi\u0119knych ...",
+            "title": "Wroc\u0142aw wydarzeni",
+            "link": "https://walbrzych.naszemiasto.pl/tag/wroclaw-wydarzeni",
+            "description": "Nadchodz\u0105cy weekend we Wroc\u0142awiu oferuje ponad sto r\u00f3\u017cnorodnych wydarze\u0144 na miar\u0119 jesieni. W\u015br\u00f3d nich targi Dobry Design w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "Wa\u0142brzych Nasze Miasto1 godz.",
-            "source": "Wa\u0142brzych Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Tribute to Soyka",
-            "link": "https://walbrzych.naszemiasto.pl/tag/tribute-to-soyka",
-            "description": "Ju\u017c w najbli\u017csz\u0105 niedziel\u0119 w Starej Kopalni wyj\u0105tkowe wydarzenie muzyczne \u2013 koncert \u201eTribute to Stanis\u0142aw Soyka'. B\u0119dzie to okazja do wspominania wybitnego... Znany jest ju\u017c termin tegorocznego ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.b7cDqWcxCJUoLca1qpYJLg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stara+porcelana",
-            "date": "Wa\u0142brzych Nasze Miasto23 godz.",
+            "category": "targ+staroci",
+            "date": "Wa\u0142brzych Nasze Miasto28 min",
             "source": "Wa\u0142brzych Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -106,7 +122,7 @@
             "description": "Tej jesieni najwi\u0119ksze targi rzemios\u0142a zawitaj\u0105 do stolicy! Ju\u017c 25 i 26 pa\u017adziernika w EXPO XXI mo\u017cecie odwiedzi\u0107 premierow\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.MEn6OQ3OlYsyvipbZZnCdC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Warszawa Nasze Miasto18 godz.",
+            "date": "Warszawa Nasze Miasto22 godz.",
             "source": "Warszawa Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -122,7 +138,7 @@
             "description": "W pi\u0105tek 3 pa\u017adziernika 2025, w wieku 46 lat odszed\u0142 ksi\u0105dz Adam \u017bygad\u0142o, wikariusz parafii pod wezwaniem Wniebowzi\u0119cia NMP w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.3eoQtikE6G1i3Kek0VfuOS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Gazeta Lubuska6 godz.",
+            "date": "Gazeta Lubuska10 godz.",
             "source": "Gazeta Lubuska",
             "article_content": "Content not available"
         }
@@ -138,25 +154,9 @@
             "description": "W pi\u0105tek 3 pa\u017adziernika 2025, w wieku 46 lat odszed\u0142 ksi\u0105dz Adam \u017bygad\u0142o, wikariusz parafii pod wezwaniem Wniebowzi\u0119cia NMP w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.3eoQtikE6G1i3Kek0VfuOS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Gazeta Lubuska6 godz.",
+            "date": "Gazeta Lubuska10 godz.",
             "source": "Gazeta Lubuska",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "ECHO Z DNIA. Hitowe produkty na targach w Kielcach. Musicie je zobaczy\u0107!",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/echo-z-dnia-hitowe-produkty-na-targach-w-kielcach-musicie-je-zobaczy%C4%87/ar-AA1OZua2?ocid=BingNewsVerp",
-            "description": "W programie ECHO Z DNIA, newsowym przegl\u0105dzie dnia, w \u015brod\u0119, 22 pa\u017adziernika mi\u0119dzy innymi: Targi Marek W\u0142asnych w Kielcach ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.xgJI3Y6JGZGLhwNP8RydDy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "targ+staroci",
-            "date": "Echo Dnia on MSN21 godz.",
-            "source": "Echo Dnia on MSN",
-            "article_content": ""
         }
     },
     {
@@ -170,8 +170,24 @@
             "description": "W dobie zakup\u00f3w online, ogromnych galerii handlowych i samoobs\u0142ugowych kas, s\u0105 jeszcze miejsca, gdzie handel ma zupe\u0142nie inny charakter. Tu budzisz si\u0119 wcze\u015bnie, rozmawiasz ze sprzedawc\u0105, targujesz si ...",
             "image_url": "https://www.bing.pl/th?id=ODF.73GKiv_kwPXUhIas-a0ZXQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Dziennik Zachodni on MSN12 godz.",
+            "date": "Dziennik Zachodni on MSN16 godz.",
             "source": "Dziennik Zachodni on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Rosjanie za\u0142o\u017cyli peleryny niewidki i ruszyli na Ukrai\u0144c\u00f3w. Jest nagranie",
+            "link": "https://www.msn.com/pl-pl/wojna-i-konflikty/wydarzenia-wojenne/rosjanie-za%C5%82o%C5%BCyli-peleryny-niewidki-i-ruszyli-na-ukrai%C5%84c%C3%B3w-jest-nagranie/ar-AA1P43mU?ocid=BingNewsVerp",
+            "description": "W ostatnich miesi\u0105cach, rosyjska armia eksperymentowa\u0142a z zaawansowanymi pelerynami kamufla\u017cowymi, maj\u0105cymi zapewni\u0107 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.4QfcG0Zl0UvF8H9GjAJdVy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "GeekWeek w INTERIA.PL on MSN1 godz.",
+            "source": "GeekWeek w INTERIA.PL on MSN",
             "article_content": ""
         }
     },
@@ -186,7 +202,7 @@
             "description": "W tym quizie sprawdzisz swoj\u0105 wiedz\u0119 o zapomnianych narz\u0119dziach, kt\u00f3re przez dekady u\u0142atwia\u0142y \u017cycie codzienne. Pami\u0119tasz, jak ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.v2SkiUOKsp5FPajZrAcily&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Komputer \u015awiat3 godz.",
+            "date": "Komputer \u015awiat7 godz.",
             "source": "Komputer \u015awiat",
             "article_content": "Rozpocznij quiz\n\nPytanie 1/15 \u017br\u00f3d\u0142o: Creative Commons / Jacek Halicki 1. Co to za przyrz\u0105d? linijka suwak logarytmiczny prototyp cyrkla instrument muzyczny Poprawna odpowied\u017a: suwak logarytmiczny Suwak logarytmiczny to przyrz\u0105d u\u017cywany do wykonywania oblicze\u0144, szczeg\u00f3lnie w kontek\u015bcie mno\u017cenia, dzielenia oraz pot\u0119gowania. Zosta\u0142 wynaleziony w XVII w., a jego rozw\u00f3j przypisuje si\u0119 Williamowi Oughtredowi, kt\u00f3ry zainspirowa\u0142 si\u0119 wcze\u015bniejszymi narz\u0119dziami, takimi jak linijka logarytmiczna Edmunda Guntera. Nast\u0119pne pytanie\n\nPytanie 2/15 2. Co to jest astrolabium? staro\u017cytny instrument muzyczny przyrz\u0105d astronomiczny typ \u015bredniowiecznej broni narz\u0119dzie nawigacyjne u\u017cywane przez pilot\u00f3w Poprawna odpowied\u017a: przyrz\u0105d astronomiczny Astrolabium to przyrz\u0105d astronomiczny u\u017cywany w \u015bredniowieczu do okre\u015blania czasu i pozycji cia\u0142 niebieskich. By\u0142 poprzednikiem sekstantu i oktantu, kt\u00f3re z kolei zosta\u0142y wyparte przez nowoczesne technologie nawigacyjne. \u017br\u00f3d\u0142o: Shutterstock / phsalesr Nast\u0119pne pytanie\n\nPytanie 3/15 3. Popularne w czasach rzymskich i \u015bredniowieczu konstrukcje, kt\u00f3rymi transportowano wod\u0119 do miast to: akwedukty pompy parowe norie apsydy Poprawna odpowied\u017a: akwedukty Akwedukty wykorzystywa\u0142y materia\u0142y dost\u0119pne lokalnie, takie jak kamie\u0144 i ceg\u0142a. Wiele z nich mia\u0142o form\u0119 most\u00f3w, kt\u00f3re prowadzi\u0142y wod\u0119 nad dolinami i rzekami. \u017br\u00f3d\u0142o: Shutterstock / BreizhAtao Nast\u0119pne pytanie\n\nPytanie 4/15 4. Co to jest stereoskop? urz\u0105dzenie do nagrywania d\u017awi\u0119ku typ kamery filmowej przyrz\u0105d do ogl\u0105dania zdj\u0119\u0107 tr\u00f3jwymiarowych wczesny model radia Poprawna odpowied\u017a: przyrz\u0105d do ogl\u0105dania zdj\u0119\u0107 tr\u00f3jwymiarowych Stereoskop to urz\u0105dzenie, kt\u00f3re pozwala\u0142o na ogl\u0105danie par zdj\u0119\u0107 jako jednego tr\u00f3jwymiarowego obrazu, co dawa\u0142o iluzj\u0119 g\u0142\u0119bi. By\u0142o popularne w XIX i na pocz\u0105tku XX w. \u017br\u00f3d\u0142o: Creative Commons / Hannes Grobe Nast\u0119pne pytanie\n\nPytanie 5/15 5. Kierat to: staro\u017cytne ko\u0142o tortur urz\u0105dzenie do podnoszenia wody typ \u015bredniowiecznego wozu narz\u0119dzie rolnicze do orania Poprawna odpowied\u017a: urz\u0105dzenie do podnoszenia wody Kierat to urz\u0105dzenie wykorzystuj\u0105ce si\u0142\u0119 zwierz\u0105t do podnoszenia wody z rzek lub studni. Stosowano je w rolnictwie przed wynalezieniem nowoczesnych pomp. \u017br\u00f3d\u0142o: Creative Commons / Rj1979 Nast\u0119pne pytanie\n\nPytanie 6/15 6. Jak nazywa\u0142 si\u0119 przyrz\u0105d stosowany do wyrobu we\u0142ny, kt\u00f3ry mia\u0142 posta\u0107 du\u017cego ko\u0142a z wrzecionem? krosno ko\u0142owrotek ig\u0142a r\u0119kawica Poprawna odpowied\u017a: ko\u0142owrotek Ko\u0142owrotek to urz\u0105dzenie, kt\u00f3re odgrywa kluczow\u0105 rol\u0119 w procesie prz\u0119dzenia w\u0142\u00f3kien, zar\u00f3wno ro\u015blinnych, jak i zwierz\u0119cych. Jego historia si\u0119ga XVI w., kiedy to zacz\u0119to go szerzej stosowa\u0107 w Polsce. Ko\u0142owrotek umo\u017cliwia wytwarzanie prz\u0119dzy z surowc\u00f3w takich jak we\u0142na, len czy konopie, co jest niezb\u0119dne do dalszej produkcji tkanin. \u017br\u00f3d\u0142o: Shutterstock / Alexandr Popel Nast\u0119pne pytanie\n\nPytanie 7/15 7. Co to jest fonograf? wczesny model radia urz\u0105dzenie do nagrywania i odtwarzania d\u017awi\u0119ku typ gramofonu instrument muzyczny Poprawna odpowied\u017a: urz\u0105dzenie do nagrywania i odtwarzania d\u017awi\u0119ku Fonograf to pierwsze urz\u0105dzenie, kt\u00f3re umo\u017cliwia\u0142o nagrywanie i odtwarzanie d\u017awi\u0119ku. Wynaleziony przez Thomasa Edisona w 1877 r., by\u0142 poprzednikiem gramofonu. \u017br\u00f3d\u0142o: Shutterstock / Caglayan Ceylan Nast\u0119pne pytanie\n\nPytanie 8/15 8. Daguerrotypia to: technika malarska jeden z pierwszych antybiotyk\u00f3w proces fotograficzny oparty na srebrze rodzaj rze\u017aby religijnej Poprawna odpowied\u017a: proces fotograficzny oparty na srebrze Daguerrotypia to wczesny proces fotograficzny opracowany przez Louisa Daguerre'a w 1839 r. Polega\u0142 na utrwalaniu obrazu na powierzchni pokrytej jodem srebrem, co dawa\u0142o bardzo szczeg\u00f3\u0142owe, cho\u0107 jednorazowe zdj\u0119cia. \u017br\u00f3d\u0142o: Creative Commons / Daguerre Nast\u0119pne pytanie\n\nPytanie 9/15 9. Najwi\u0119kszy instrument smyczkowy, jaki kiedykolwiek skonstruowano, to: oktobas tuba pochette klawesyn Poprawna odpowied\u017a: oktobas Oktobas to instrument strunowy z grupy smyczkowych, kt\u00f3ry zosta\u0142 wynaleziony przez francuskiego lutnika Jean-Baptiste Vuillaume w 1849 r. Ma ponad 3,5 m wysoko\u015bci i posiada trzy struny. Oktobas jest znany z tego, \u017ce potrafi wydobywa\u0107 ekstremalnie niskie d\u017awi\u0119ki, kt\u00f3re cz\u0119sto s\u0105 poza zakresem s\u0142yszalnym dla ludzkiego ucha. Amazing Grace, Amazing Octobass Nast\u0119pne pytanie\n\nPytanie 10/15 \u017br\u00f3d\u0142o: Shutterstock / DNB STOCK 10. Jakie urz\u0105dzenie s\u0142u\u017cy\u0142o do przechowywania informacji przed wynalezieniem dyskietek? ta\u015bma perforowana karta dziurkowana ta\u015bma magnetyczna wszystkie powy\u017csze Poprawna odpowied\u017a: wszystkie powy\u017csze Przed er\u0105 dyskietek i dysk\u00f3w twardych informacje komputerowe przechowywano na r\u00f3\u017cnych no\u015bnikach. Ta\u015bma perforowana to papierowa ta\u015bma z dziurkami reprezentuj\u0105cymi dane. Karty dziurkowane to z kolei prostok\u0105tne karty z otworami koduj\u0105cymi informacje. Ta\u015bmy magnetyczne, podobne do kaset audio, przechowywa\u0142y dane w formie magnetycznych impuls\u00f3w. Wszystkie te no\u015bniki by\u0142y u\u017cywane w r\u00f3\u017cnych okresach rozwoju technologii komputerowej, zanim zosta\u0142y zast\u0105pione przez bardziej pojemne i wygodne no\u015bniki. Nast\u0119pne pytanie\n\nPytanie 11/15 11. Popularny, szczeg\u00f3lnie w PRL, rodzaj wagi sklepowej to: waga szalkowa waga platformowa waga zegarowa waga o\u0142owiana Poprawna odpowied\u017a: waga szalkowa Waga szalkowa by\u0142a popularna w Polsce w epoce PRL i odgrywa\u0142a istotn\u0105 rol\u0119 w codziennym \u017cyciu. Powszechnie stosowano j\u0105 w sklepach spo\u017cywczych oraz na rynkach, gdzie u\u017cywano jej do wa\u017cenia r\u00f3\u017cnych produkt\u00f3w sypkich, takich jak cukier, m\u0105ka czy ry\u017c. stara waga sklepowa Nast\u0119pne pytanie\n\nPytanie 12/15 12. Narz\u0119dzie to s\u0142u\u017cy\u0142o do oddzielania ziarna od plew: siewnik m\u0142ocarnia cep m\u0142ynek \u017carnowy Poprawna odpowied\u017a: m\u0142ocarnia M\u0142ocarnia zosta\u0142a wynaleziona przez szkockiego in\u017cyniera Andrew Meikle w 1796 r. By\u0142a to jedna z pierwszych maszyn, kt\u00f3re zautomatyzowa\u0142y proces m\u0142\u00f3cenia. \u017br\u00f3d\u0142o: Creative Commons / Wikipedia Nast\u0119pne pytanie\n\nPytanie 13/15 13. Przeno\u015bne urz\u0105dzenie, kt\u00f3re umo\u017cliwia\u0142o odbieranie kr\u00f3tkich wiadomo\u015bci, najcz\u0119\u015bciej w formie numer\u00f3w telefon\u00f3w lub kr\u00f3tkich tekst\u00f3w, nazywa\u0142o si\u0119: fax pager rejestrator ta\u015bmowy Game Boy Poprawna odpowied\u017a: pager Pager by\u0142 szeroko stosowany przed powszechnym dost\u0119pem do telefon\u00f3w kom\u00f3rkowych, zw\u0142aszcza w latach 80. i 90. Dzia\u0142a\u0142 na zasadzie wysy\u0142ania sygna\u0142u radiowego do konkretnego urz\u0105dzenia, kt\u00f3re nast\u0119pnie wy\u015bwietla\u0142o otrzyman\u0105 wiadomo\u015b\u0107. \u017br\u00f3d\u0142o: Shutterstock / Sergei Gorin Nast\u0119pne pytanie\n\nPytanie 14/15 14. Pionowy s\u0142up lub pr\u0119t, kt\u00f3rego cie\u0144 s\u0142u\u017cy\u0142 do okre\u015blania pozycji s\u0142o\u0144ca i mierzenia czasu, nazywa\u0142 si\u0119: globus niebieski armilla kwadrant gnomon Poprawna odpowied\u017a: gnomon Gnomon to staro\u017cytne narz\u0119dzie astronomiczne, kt\u00f3re sk\u0142ada si\u0119 z pionowego s\u0142upa lub pr\u0119ta. Jego cie\u0144 s\u0142u\u017cy\u0142 do okre\u015blania pozycji s\u0142o\u0144ca na niebie, mierzenia czasu oraz ustalania p\u00f3r roku. Gnomon by\u0142 szczeg\u00f3lnie przydatny do obserwacji r\u00f3wnonocy i przesile\u0144, co umo\u017cliwia\u0142o astronomom dok\u0142adniejsze zrozumienie ruch\u00f3w cia\u0142 niebieskich. \u017br\u00f3d\u0142o: Shutterstock / PICTOR PICTURES Nast\u0119pne pytanie\n\nPytanie 15/15 \u017br\u00f3d\u0142o: Shutterstock / mrMR 15. Pojazd ze zdj\u0119cia to: drezyna aeromotowagon maglew d\u017awignica Poprawna odpowied\u017a: drezyna Pierwsza drezyna zosta\u0142a zaprezentowana w 1817 r. przez Karla Draisa jako dwuko\u0142owy welocyped. W Polsce istnieje kilka kolejek drezynowych, kt\u00f3re wykorzystuj\u0105 pojazdy do cel\u00f3w turystycznych, zw\u0142aszcza na nieczynnych liniach kolejowych\n\nBrakuje jeszcze 15 odpowiedzi Wype\u0142nij odpowiedzi na wszystkie pytania, \u017ceby zobaczy\u0107 wynik"
         }
@@ -202,41 +218,9 @@
             "description": "Rachunki za pr\u0105d w 2025 roku zn\u00f3w rosn\u0105, a wielu Polak\u00f3w zastanawia si\u0119, jak realnie obni\u017cy\u0107 koszty energii elektrycznej.",
             "image_url": "https://www.bing.pl/th?id=OVFT.tzWm6lrKHf-Kh2cvwXWLMC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "G\u0142os Szczeci\u0144ski on MSN11 godz.",
+            "date": "G\u0142os Szczeci\u0144ski on MSN14 godz.",
             "source": "G\u0142os Szczeci\u0144ski on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Trasy nordic walking do 1 km od Ko\u0142obrzegu. Pomys\u0142y na odrobin\u0119 ruchu - weekend 25 - 26 pa\u017adziernika",
-            "link": "https://kolobrzeg.naszemiasto.pl/trasy-nordic-walking-do-1-km-od-kolobrzegu-pomysly-na-odrobine-ruchu-weekend-25-26-pazdziernika/ar/c7p1-22319027",
-            "description": "Rozgl\u0105dasz si\u0119 za nowymi \u015bcie\u017ckami nordic walking niedaleko Ko\u0142obrzegu? Wsp\u00f3lnie z Traseo przygotowali\u015bmy dla Ciebie gar\u015b\u0107 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.XWNm1ym3vJ8EMYkoG3R_VC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "Ko\u0142obrzeg Nasze Miasto2 godz.",
-            "source": "Ko\u0142obrzeg Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Rowerem do 18 km od O\u015bwi\u0119cimia. Pomys\u0142y na jednodniow\u0105 wypraw\u0119. Gdzie w weekend 25 - 26 pa\u017adziernika?",
-            "link": "https://oswiecim.naszemiasto.pl/rowerem-do-18-km-od-oswiecimia-pomysly-na-jednodniowa-wyprawe-gdzie-w-weekend-25-26-pazdziernika/ar/c7p1-21831633",
-            "description": "Zanim wyruszysz na wypraw\u0119, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 25 pa\u017adziernika w O\u015bwi\u0119cimiu ma by\u0107 11\u00b0C. Nie powinno ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.eZlCkQXQhT1dz2I6uCWBPS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "O\u015bwi\u0119cim Nasze Miasto3 godz.",
-            "source": "O\u015bwi\u0119cim Nasze Miasto",
-            "article_content": "Content not available"
         }
     },
     {
@@ -250,9 +234,89 @@
             "description": "Ciekawych odkry\u0107 dokonali wawelscy archeolodzy przy okazji tocz\u0105cego si\u0119 remontu Bastionu W\u0142adys\u0142awa IV Wazy ze stoj\u0105cym na ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.JqxqmnXJL8sLnY5AQivo5y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Dziennik Polski on MSN11 godz.",
+            "date": "Dziennik Polski on MSN15 godz.",
             "source": "Dziennik Polski on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Rowerem do 18 km od O\u015bwi\u0119cimia. Pomys\u0142y na jednodniow\u0105 wypraw\u0119. Gdzie w weekend 25 - 26 pa\u017adziernika?",
+            "link": "https://oswiecim.naszemiasto.pl/rowerem-do-18-km-od-oswiecimia-pomysly-na-jednodniowa-wyprawe-gdzie-w-weekend-25-26-pazdziernika/ar/c7p1-21831633",
+            "description": "Zanim wyruszysz na wypraw\u0119, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 25 pa\u017adziernika w O\u015bwi\u0119cimiu ma by\u0107 11\u00b0C. Nie powinno ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.eZlCkQXQhT1dz2I6uCWBPS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "O\u015bwi\u0119cim Nasze Miasto6 godz.",
+            "source": "O\u015bwi\u0119cim Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Szokuj\u0105ce ustalenia po kradzie\u017cy klejnot\u00f3w w Luwrze",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/szokuj%C4%85ce-ustalenia-po-kradzie%C5%BCy-klejnot%C3%B3w-w-luwrze/ar-AA1P488M?ocid=BingNewsVerp",
+            "description": "Z paryskiego Luwru skradziono bezcenne klejnoty koron francuskich. Z\u0142odzieje wdarli si\u0119 do muzeum w bia\u0142y dzie\u0144. Na jaw ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.uR62p4gOLnB_0SWdxLmAci&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Do Rzeczy on MSN1 godz.",
+            "source": "Do Rzeczy on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Krypta mieszcza\u0144ska jak podziemny cmentarz pod katedr\u0105 w Tarnowie",
+            "link": "https://gazetakrakowska.pl/tajemnicza-krypta-w-podziemiach-katedry-w-tarnowie-o-ktorej-istnieniu-dotad-nie-wiedziano-jej-odkrycie-to-duze-zaskoczenie-dla-badaczy/ar/c1p2-28108089",
+            "description": "Wszystko wskazuje na to, \u017ce w sarkofagu w krypcie rodowej Ostrogskich pod posadzk\u0105 tarnowskiej katedry spoczywa nie pierwsza, ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.t_mVp9bCe-VXMU0n28DpQC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Gazeta Krakowska1 godz.",
+            "source": "Gazeta Krakowska",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "\"Skok stulecia\" w Luwrze. S\u0105 nowe informacje i dowody",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/skok-stulecia-w-luwrze-s%C4%85-nowe-informacje-i-dowody/ar-AA1P3viA?ocid=BingNewsVerp",
+            "description": "Francuscy \u015bledczy, kt\u00f3ry staraj\u0105 si\u0119 z\u0142apa\u0107 cz\u0142onk\u00f3w gangu, kt\u00f3ry dopu\u015bci\u0142 si\u0119 zuchwa\u0142ej kradzie\u017cy w Luwrze, znale\u017ali \u015blady ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.r5ZLpsI4gOKmpxexi0k53S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Business Insider Polska on MSN4 godz.",
+            "source": "Business Insider Polska on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Odkryto skarb w Bukowcu Wielkim. To srebrne monety z XVII wieku",
+            "link": "https://kronika24.pl/odkryto-skarb-w-bukowcu-wielkim-to-srebrne-monety-z-xvii-wieku/",
+            "description": "W Bukowcu Wielkim (Warmi\u0144sko-Mazurskie) podczas prac rolniczych dokonano wyj\u0105tkowego odkrycia \u2013 natrafiono na skarb ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.wbyoqsVzaE2_4PZVYx-PkC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Kronika24.pl2 godz.",
+            "source": "Kronika24.pl",
+            "article_content": "W Bukowcu Wielkim (Warmi\u0144sko-Mazurskie) podczas prac rolniczych dokonano wyj\u0105tkowego odkrycia \u2013 natrafiono na skarb zawieraj\u0105cy a\u017c 162 srebrne monety z drugiej po\u0142owy XVII wieku!\n\nW sk\u0142ad znaleziska wchodz\u0105:\n\n-2 sztuki monet o nominale \u2154 talara,\n\n-20 tymf\u00f3w,\n\n-27 ort\u00f3w,\n\n-113 sz\u00f3stak\u00f3w.\n\nMonety datowane s\u0105 na lata 1660\u20131679 i stanowi\u0105 cenny materia\u0142 \u017ar\u00f3d\u0142owy dla badaczy historii regionu.\n\nSkarb zosta\u0142 odnaleziony przez mieszka\u0144c\u00f3w, kt\u00f3rzy wykazali si\u0119 wyj\u0105tkow\u0105 postaw\u0105 obywatelsk\u0105, przekazuj\u0105c znalezisko do Warmi\u0144sko-Mazurskiego Wojew\u00f3dzkiego Konserwatora Zabytk\u00f3w za po\u015brednictwem W\u00f3jta Gminy Janowiec Ko\u015bcielny \u2013 Piotra Rakoczego.\n\nW miejscu odkrycia w lipcu br. przeprowadzono ratownicze badania wykopaliskowe pod kierownictwem Damiana Swata z firmy Archeoskop \u2013 us\u0142ugi archeologiczne \u2013 konserwacja zabytk\u00f3w. Opr\u00f3cz monet odnaleziono r\u00f3wnie\u017c fragmenty naczynia, w kt\u00f3rym skarb pierwotnie zdeponowano. Z pomoc\u0105 wykrywaczy metalu przeszukano r\u00f3wnie\u017c szerszy obszar pola, co by\u0142o mo\u017cliwe dzi\u0119ki zaanga\u017cowaniu cz\u0142onk\u00f3w Stowarzyszenie Historyczno-Eksploracyjne Nibork oraz Grupa Rekonstrukcji Historycznej \u201eAllenstein\u201d. Obie grupy wnios\u0142y cenny wk\u0142ad w przebieg bada\u0144 i identyfikacj\u0119 znalezisk.\n\nTo jednak nie koniec odkry\u0107. W trakcie bada\u0144 natrafiono r\u00f3wnie\u017c na pozosta\u0142o\u015bci zabudowy dawnego folwarku z po\u0142owy XVII wieku. W\u015br\u00f3d znalezisk znalaz\u0142y si\u0119 m.in.\n\n-fragmenty ceramiki,\n\n-pier\u015bcionki z miedzi,\n\n-medalik z wizerunkiem Matki Bo\u017cej Cz\u0119stochowskiej i Anio\u0142a Str\u00f3\u017ca, guziki, o\u0142owiane kule do broni czarnoprochowej, klamry do pasa i inne przedmioty codziennego u\u017cytku.\n\nSzczeg\u00f3ln\u0105 uwag\u0119 archeolog\u00f3w przyku\u0142 fragment kobiecej klamry, kt\u00f3ry ma swoje analogie w znaleziskach z Perleberg (Brandenburgia) oraz z zamku na Hradczanach w Pradze.\n\nWszystkie odkryte artefakty zosta\u0142y przekazane do Muzeum Pogranicza w Dzia\u0142dowie. Zbiory b\u0119dzie mo\u017cna ogl\u0105da\u0107 ju\u017c na pocz\u0105tku przysz\u0142ego roku.\n\nTo niezwyk\u0142e odkrycie nie tylko wzbogaca wiedz\u0119 o historii regionu, ale tak\u017ce stanowi cenny wk\u0142ad w dziedzictwo kulturowe naszego kraju. Serdecznie dzi\u0119kujemy wszystkim osobom i instytucjom zaanga\u017cowanym w zabezpieczenie i dokumentacj\u0119 znaleziska.\n\nTa historia i jej podobne przypominaj\u0105, \u017ce przypadkowo skarb znale\u017a\u0107 mo\u017cemy w sytuacji, gdy kompletnie si\u0119 tego nie spodziewamy.\n\nZasady post\u0119powania w takim przypadku okre\u015bla ustawa o ochronie zabytk\u00f3w i opiece nad zabytkami."
         }
     },
     {
@@ -266,73 +330,9 @@
             "description": "Cho\u0107 zdj\u0119cia do filmowej \"Lalki\" na Krakowskim Przedmie\u015bciu w Warszawie dobieg\u0142y ko\u0144ca, a ekipa przenios\u0142a si\u0119 do \u0141azienek, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.1K0ESqkJFzG3q5VC5mIcRC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Polska Agencja Prasowa2 godz.",
+            "date": "Polska Agencja Prasowa6 godz.",
             "source": "Polska Agencja Prasowa",
             "article_content": "Sklep Wokulskiego, cz\u0119\u015b\u0107 scenografii do filmu \u201eLalka\u201d, zostaje w Warszawie na d\u0142u\u017cej\n\nCho\u0107 zdj\u0119cia do filmowej \"Lalki\" na Krakowskim Przedmie\u015bciu w Warszawie dobieg\u0142y ko\u0144ca, a ekipa przenios\u0142a si\u0119 do \u0141azienek, cz\u0119\u015b\u0107 dekoracji przy Trakcie Kr\u00f3lewskim zostanie na d\u0142u\u017cej. Do po\u0142owy lutego b\u0119dzie mo\u017cna ogl\u0105da\u0107 z zewn\u0105trz tzw. sklep Wokulskiego.\n\nSklep Wokulskiego, fot. PAP/Szymon Pulcyn\n\nZobacz galeri\u0119 (4)\n\nZdj\u0119cia do \u201eLalki\u201d ruszy\u0142y w Warszawie\n\nZdj\u0119cia do kinowej adaptacji \"Lalki\" ruszy\u0142y w Warszawie w lipcu, a zako\u0144cz\u0105 si\u0119 20 grudnia. Ale duch powie\u015bci Boles\u0142awa Prusa b\u0119dzie si\u0119 jeszcze unosi\u0142 nad stolic\u0105 przez jaki\u015b czas. Produkcja wzbudzi\u0142a tak du\u017ce zainteresowanie, \u017ce zdecydowano o tym, i\u017c filmowy sklep Wokulskiego, wzniesiony w pobli\u017cu pomnika Kopernika, zostanie na Krakowskim Przedmie\u015bciu do po\u0142owy lutego.\n\nWi\u0119cej Opublikowano zdj\u0119cia z planu serialowej \u201eLalki\u201d. Produkcja kr\u0119cona jest w Lublinie\n\nFilmowy sklep Wokulskiego zostaje d\u0142u\u017cej\n\n\u201eSklep Wokulskiego cieszy si\u0119 ogromnym zainteresowaniem mieszka\u0144c\u00f3w, dlatego wsp\u00f3lnie z producentem i tw\u00f3rcami filmu postanowili\u015bmy, \u017ce pozostanie na Krakowskim Przedmie\u015bciu na d\u0142u\u017cej. Zadania wyeksponowania obiektu do po\u0142owy lutego podj\u0119\u0142a si\u0119 Sto\u0142eczna Estrada, za co bardzo dzi\u0119kuj\u0119. Zapraszamy mieszka\u0144c\u00f3w i turyst\u00f3w do zobaczenia cz\u0119\u015bci filmowej dekoracji, a przy okazji przej\u015bcia si\u0119 ulicami, kt\u00f3rymi niegdy\u015b przechadza\u0142 si\u0119 autor \u00bbLalki \u00ab\u201d \u2013 przekaza\u0142 prezydent Warszawy, Rafa\u0142 Trzaskowski.\n\nPrace nad ekspozycj\u0105 filmowego obiektu\n\nObecnie trwaj\u0105 prace nad wyeksponowaniem obiektu, tak, by przechadzaj\u0105ce si\u0119 tamt\u0119dy osoby mog\u0142y z zewn\u0105trz zobaczy\u0107 jak najwi\u0119cej z filmowego planu \u2013 ca\u0142kowite otwarcie wn\u0119trza jest niemo\u017cliwe. Podczas zdj\u0119\u0107 sklep wype\u0142nia\u0142y autentyczne, zabytkowe przedmioty, kt\u00f3re musz\u0105 wr\u00f3ci\u0107 do swoich w\u0142a\u015bcicieli, ale scenografowie \u201epostaraj\u0105 si\u0119, aby nastr\u00f3j wn\u0119trza oddawa\u0142 filmowy klimat\u201d.\n\nWi\u0119cej Zobacz galeri\u0119 (5) Prace na planie filmowym na Krakowskim Przedmie\u015bciu w Warszawie. Fot. PAP/Szymon Pulcyn W nowej ekranizacji \u201eLalki\u201d Krakowskie Przedmie\u015bcie zagra samo siebie. Pomog\u0105 w tym dekoracje\n\nImponuj\u0105ca obsada filmowej adaptacji\n\n\"Lalka\" w re\u017cyserii Macieja Kawalskiego mo\u017ce imponowa\u0107 nie tylko scenografi\u0105, ale i obsad\u0105 aktorsk\u0105. W Izabel\u0119 \u0141\u0119ck\u0105 wciela si\u0119 Kamila Urz\u0119dowska, Stanis\u0142awa Wokulskiego gra Marcin Doroci\u0144ski, a Ignacego Rzeckiego, po wielu latach aktorskiej emerytury - Marek Kondrat. Na ekranie widzowie zobacz\u0105 tak\u017ce Andrzeja Seweryna, Agat\u0119 Kulesz\u0119, Krystyn\u0119 Jand\u0119, Maj\u0119 Komorowsk\u0105, Borysa Szyca, Maj\u0119 Ostaszewsk\u0105, Mateusza Dami\u0119ckiego i Cezarego \u017baka. (PAP Life)\n\nmdn/ag/ep/"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "\"Skok stulecia\" w Luwrze. S\u0105 nowe informacje i dowody",
-            "link": "https://www.msn.com/pl-pl/news/other/skok-stulecia-w-luwrze-s%C4%85-nowe-informacje-i-dowody/ar-AA1P3viA?ocid=BingNewsVerp",
-            "description": "Francuscy \u015bledczy, kt\u00f3ry staraj\u0105 si\u0119 z\u0142apa\u0107 cz\u0142onk\u00f3w gangu, kt\u00f3ry dopu\u015bci\u0142 si\u0119 zuchwa\u0142ej kradzie\u017cy w Luwrze, znale\u017ali \u015blady ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.aeu86W6t-rXyzQaVrWjdKS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Business Insider Polska on MSN56 min",
-            "source": "Business Insider Polska on MSN",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Plan filmowy \"Lalki\" odmieni\u0142 Krakowskie Przedmie\u015bcie. Sklep Wokulskiego zostanie na d\u0142u\u017cej",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/plan-filmowy-lalki-odmieni%C5%82-krakowskie-przedmie%C5%9Bcie-sklep-wokulskiego-zostanie-na-d%C5%82u%C5%BCej/ar-AA1P2VbS?ocid=BingNewsVerp",
-            "description": "W Warszawie trwaj\u0105 zdj\u0119cia do nowej, kinowej adaptacji \"Lalki\" Boles\u0142awa Prusa. Tw\u00f3rcy pracowali ju\u017c m.in. na Krakowskim Przedmie\u015bciu, gdzie stan\u0119\u0142a spektakularna scenografia, ciesz\u0105ca si\u0119 ogromnym za ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.LC6ZJEycVuCnutN0oFpk4A&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "zabytkowe+przedmioty",
-            "date": "Warszawa Radio ESKA on MSN3 godz.",
-            "source": "Warszawa Radio ESKA on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Wycieczki rowerowe do 1 km od Che\u0142ma. Pomys\u0142y na jednodniowy wypad. Gdzie w weekend 25 - 26 pa\u017adziernika?",
-            "link": "https://chelm.naszemiasto.pl/wycieczki-rowerowe-do-1-km-od-chelma-pomysly-na-jednodniowy-wypad-gdzie-w-weekend-25-26-pazdziernika/ar/c7p1-21831529",
-            "description": "Zanim wyruszysz w tras\u0119, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 25 pa\u017adziernika w Che\u0142mie ma by\u0107 10\u00b0C. Prawdopodobie\u0144stwo ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.srTx5E8dJWuYCKeq8Y-Oli&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Che\u0142m Nasze Miasto2 godz.",
-            "source": "Che\u0142m Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Kolejna krypta i skarby pod tarnowsk\u0105 katedr\u0105",
-            "link": "https://rdn.pl/389729/kolejna-krypta-i-skarby-pod-tarnowska-katedra/",
-            "description": "Zobacz zdj\u0119cia: Na istnienie dziewi\u0105tej krypty w podziemiach tarnowskiej katedry natkn\u0119\u0142a si\u0119 grupa naukowc\u00f3w pracuj\u0105ca w ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.hCdFFSM2aBUJEnv51T19TC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Radio RDN3 godz.",
-            "source": "Radio RDN",
-            "article_content": "Zobacz zdj\u0119cia:\n\n63f12bd0-2ad8-456a-8269-4d3083173f10 Zdj\u0119cie 1 z 12\n\n\u2013 Wyj\u0105tkow\u0105 rzecz\u0105 by\u0142o to, \u017ce znale\u017ali\u015bmy krypt\u0119 w krypcie, tak jakby krypt\u0119 drugiego poziomu. T\u0119 krypt\u0119 odkryli\u015bmy noc\u0105, by\u0142o to dla nas bardzo tajemnicze, zacz\u0119\u0142o nam co\u015b stuka\u0107 pod \u0142opat\u0105. To nie jest du\u017ce pomieszczenie. Prawdopodobnie by\u0142a to krypta, mo\u017ce na jeden, mo\u017ce na dwa poch\u00f3wki. Teraz jest ona wype\u0142niona ko\u015b\u0107mi, teraz jest z niej zrobione ossuarium\n\n\u2013 m\u00f3wi\u0142a kieruj\u0105ca pracami prof. dr hab. Anna Dr\u0105\u017ckowska, pracownik naukowy w Instytucie Archeologii Uniwersytetu Miko\u0142aja Kopernika w Toruniu, specjalistka w zakresie archeologii i konserwacji zabytk\u00f3w archeologicznych.\n\nTo wa\u017cne odkrycie \u2013 tak o istnieniu dziewi\u0105tej krypty m\u00f3wi zast\u0119pca dyrektora Muzeum Diecezjalnego w Tarnowie ks. Sebastian Musia\u0142, pomys\u0142odawca badania krypt w bazylice.\n\n\u2013 Odkrycie tej dziewi\u0105tej krypty jest bardzo wa\u017cnym elementem naszych bada\u0144, poniewa\u017c jest ogromnym zaskoczeniem, tym bardziej, \u017ce nie potwierdzaj\u0105 tego dotychczasowe \u017ar\u00f3d\u0142a, kt\u00f3re przebada\u0142em. Ani te XIX-wieczne, ani XX-wieczne nie m\u00f3wi\u0105 nic o tym, \u017ce jest \u015bwiat podziemny pod \u015bwiatem podziemnym, tym bardziej, \u017ce ka\u017cdy, kto tam wchodzi, m\u00f3wi \u017ce widzi tylko to, co my na pocz\u0105tku, czyli trumny i du\u017c\u0105 powierzchni\u0119. Z ca\u0142\u0105 \u015bwiadomo\u015bci\u0105 twierdz\u0119, \u017ce jest to odkrycie spektakularne i bardzo wa\u017cne, przede wszystkim pokazuje, \u017ce katedra jest pe\u0142na niespodzianek.\n\nArcheolog z Krakowa Monika \u0141yczak podkre\u015bla, \u017ce krypta mieszczan jest bardzo du\u017ca i dobrze zachowana.\n\n\u2013 Ma prawie 10 metr\u00f3w d\u0142ugo\u015bci i ponad 4 metry szeroko\u015bci, jest te\u017c dosy\u0107 wysoka. Jest ona bardzo dobrze zachowana, wygl\u0105da spektakularnie. Jest du\u017ca, przestronna, g\u0142\u0119boka, to si\u0119 naprawd\u0119 rzadko zdarza. W wi\u0119kszo\u015bci przypadk\u00f3w to s\u0105 pomieszczenia bardzo ciasne. Praca by\u0142a wyj\u0105tkowo komfortowa.\n\nW krypcie znaleziono m.in. medaliki i krzy\u017cyki.\n\n\u2013 To, co uda\u0142o si\u0119 znale\u017a\u0107 z takich drobniejszych rzeczy, to przede wszystkim dewocjonalia, kilkana\u015bcie medalik\u00f3w, s\u0105 krzy\u017cyki, spory drewniany krzy\u017cyk z pasyjk\u0105, no i oczywi\u015bcie monety. Szcz\u0105tk\u00f3w trumien by\u0142o bardzo du\u017co, niestety bardzo zniszczone. Uda\u0142o nam si\u0119 zidentyfikowa\u0107 cz\u0119\u015bci dekorowane trumien, malowane, zar\u00f3wno w postaci krzy\u017cy, kt\u00f3re by\u0142y malowane na wiekach, jak i element\u00f3w dekoracyjnych, kwiatowych, to szczeg\u00f3lnie na trumience dzieci\u0119cej.\n\nNaukowcy weszli tak\u017ce do krypty, w kt\u00f3rej spoczywa ks. Wojciech Kaszewicz. Znaleziono w niej paten\u0119 i kielich.\n\nWszystkie przedmioty pojad\u0105 do pracowni konserwatorskiej do Torunia, gdzie zostan\u0105 zabezpieczone, zbadane i opisane.\n\nCelem eksploracji krypt jest ich przebadanie i uporz\u0105dkowanie. W planach jest po\u0142\u0105czenie kilku krypt i stworzenie podziemnej trasy turystycznej."
         }
     },
     {
@@ -346,24 +346,8 @@
             "description": "Na starych monetach z czas\u00f3w PRL-u mo\u017cna zarobi\u0107 du\u017co pieni\u0119dzy. Wycena monet zale\u017cy od ich stanu zachowania, a dobrze ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.ACm41xAt-ckCESAEZVdUXy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Koszali\u0144ski11 godz.",
+            "date": "G\u0142os Koszali\u0144ski15 godz.",
             "source": "G\u0142os Koszali\u0144ski",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Wojenne groby",
-            "link": "https://walbrzych.naszemiasto.pl/tag/wojenne-groby",
-            "description": "Cykliczne wydarzenie ekologiczne \"Gazety Wroc\u0142awskiej\" w jesiennej ods\u0142onie za nami. 400 du\u017cych, kwitn\u0105cych, pi\u0119knych ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "wykopano+zabytkowe",
-            "date": "Wa\u0142brzych Nasze Miasto1 godz.",
-            "source": "Wa\u0142brzych Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -378,7 +362,7 @@
             "description": "Planujesz lot do Egiptu, by zobaczy\u0107 s\u0142ynne atrakcje i zabytki? Lepiej si\u0119 pospiesz. Grobowiec Tutenchamona, zdaniem ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.jgq_N-ffZU5x9WI3vdZgYC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "wykopano+zabytkowe",
-            "date": "Planeta on MSN7 godz.",
+            "date": "Planeta on MSN11 godz.",
             "source": "Planeta on MSN",
             "article_content": ""
         }
@@ -389,14 +373,30 @@
             "Content-Type": "application/json"
         },
         "body": {
+            "title": "G\u00f3rski trekking",
+            "link": "https://wloclawek.naszemiasto.pl/tag/gorski-trekking",
+            "description": "Osada Got\u00f3w w Piasznie (powiat bytowski) by\u0142a kiedy\u015b najwi\u0119kszym prywatnym skansenem w Polsce. Trafi\u0142a tak\u017ce do Polskiej ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "wykopano+zabytkowe",
+            "date": "W\u0142oc\u0142awek Nasze Miasto13 godz.",
+            "source": "W\u0142oc\u0142awek Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
             "title": "Niezwyk\u0142e odkrycia na Wawelu w Krakowie. Czy\u015bcili Ko\u015bciuszk\u0119, a pod pomnikiem odkopano baszt\u0119 i pier\u015bcie\u0144 ze \u015bredniowiecza",
-            "link": "https://gazetakrakowska.pl/niezwykle-odkrycia-na-wawelu-w-krakowie-czyscili-kosciuszke-a-pod-pomnikiem-odkopano-baszte-i-pierscien-ze-sredniowiecza/ar/c1p2-28104167",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/znaleziska-na-wawelu-w-krakowie-czy%C5%9Bcili-ko%C5%9Bciuszk%C4%99-a-pod-pomnikiem-odkopano-baszt%C4%99-i-pier%C5%9Bcie%C5%84-ze-%C5%9Bredniowiecza/ar-AA1P109b?ocid=BingNewsVerp",
             "description": "Wn\u0119trze zachowanych i odkopanych teraz mur\u00f3w \u015bredniowiecznej baszty wype\u0142nia\u0142 p\u00f3\u017aniejszy zasyp. Zosta\u0142 on przesiany przez ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.zlkjBWchvPkKzIatvRa0OS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Gazeta Krakowska11 godz.",
-            "source": "Gazeta Krakowska",
-            "article_content": "Content not available"
+            "date": "Dziennik Polski on MSN15 godz.",
+            "source": "Dziennik Polski on MSN",
+            "article_content": ""
         }
     },
     {
@@ -410,7 +410,7 @@
             "description": "W Bukowcu Wielkim rolnik podczas orania pola przypadkiem na trafi\u0142 na skarb sprzed niemal 400 lat. Datowane na XVII wiek ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.oFSgDjEfDVgtU0_pqOZ9lS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "odkrycie+zabytkowe+przedmiot",
-            "date": "Biznes w INTERIA.PL on MSN11 godz.",
+            "date": "Biznes w INTERIA.PL on MSN15 godz.",
             "source": "Biznes w INTERIA.PL on MSN",
             "article_content": ""
         }
