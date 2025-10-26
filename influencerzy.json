@@ -10,7 +10,7 @@
             "description": "W niedziel\u0119, 26 pa\u017adziernika 2025 roku na tradycyjnym Pchlim Targu we W\u0142oc\u0142awku przy alei Kazimierza Wielkiego jesienna ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.usQ9nxbusfwlSGxD0jsrCC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN3 godz.",
+            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN7 godz.",
             "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -26,24 +26,8 @@
             "description": "Za kilka chwil \u2013 Dzie\u0144 Wszystkich \u015awi\u0119tych - b\u0119dziemy odwiedzali cmentarze i groby bliskich. Od tygodnia na gie\u0142dzie przy ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.dbg2XfvSWHgonXZbUvUiLS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Kurier Poranny4 godz.",
+            "date": "Kurier Poranny8 godz.",
             "source": "Kurier Poranny",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Przegl\u0105d prasy z tygodnia 26.10.2025. Co dzia\u0142o si\u0119 w Lipnie. Zobacz, jakie wydarzenia przeoczy\u0142e\u015b",
-            "link": "https://lipno.naszemiasto.pl/przeglad-prasy-z-tygodnia-26-10-2025-co-dzialo-sie-w-lipnie-zobacz-jakie-wydarzenia-przeoczyles/ar/c1p1-28114287",
-            "description": "18 pa\u017adziernika 2025 roku w wyj\u0105tkowych wn\u0119trzach warszawskiego Hotelu Renaissance odby\u0142a si\u0119 szesnasta edycja Gali Luksusowa ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.qb0n_pAizEjdbxKjsALK7S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "Lipno Nasze Miasto7 godz.",
-            "source": "Lipno Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -58,7 +42,7 @@
             "description": "W parafii \u015bw. Jana Paw\u0142a II w Odolionie odby\u0142a si\u0119 uroczysto\u015b\u0107 odpustowa po\u0142\u0105czona z bierzmowaniem. Sakramentu dojrza\u0142o\u015bci ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.hLVPISn5bL8XeQ_6kf2AdS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Aleksandr\u00f3w Kujawski Nasze Miasto9 godz.",
+            "date": "Aleksandr\u00f3w Kujawski Nasze Miasto13 godz.",
             "source": "Aleksandr\u00f3w Kujawski Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -69,12 +53,28 @@
             "Content-Type": "application/json"
         },
         "body": {
+            "title": "Przegl\u0105d prasy z tygodnia 26.10.2025. Co dzia\u0142o si\u0119 w Lipnie. Zobacz, jakie wydarzenia przeoczy\u0142e\u015b",
+            "link": "https://lipno.naszemiasto.pl/przeglad-prasy-z-tygodnia-26-10-2025-co-dzialo-sie-w-lipnie-zobacz-jakie-wydarzenia-przeoczyles/ar/c1p1-28114287",
+            "description": "18 pa\u017adziernika 2025 roku w wyj\u0105tkowych wn\u0119trzach warszawskiego Hotelu Renaissance odby\u0142a si\u0119 szesnasta edycja Gali Luksusowa ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.qb0n_pAizEjdbxKjsALK7S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Lipno Nasze Miasto11 godz.",
+            "source": "Lipno Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
             "title": "Na Targowisku przy ul. Kaliskiej we W\u0142oc\u0142awku - tanie chryzantemy i wie\u0144ce. S\u0105 te\u017c grzyby! 25 pa\u017adziernika 2025. Zdj\u0119cia, ceny, wideo",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/na-targowisku-przy-ul-kaliskiej-we-w%C5%82oc%C5%82awku-tanie-chryzantemy-i-wie%C5%84ce-s%C4%85-te%C5%BC-grzyby-25-pa%C5%BAdziernika-2025-zdj%C4%99cia-ceny-wideo/ar-AA1PaWPa?ocid=BingNewsVerp",
+            "link": "https://www.msn.com/pl-pl/kuchnia/wiadomosci-o-zywieniu/na-targowisku-przy-ul-kaliskiej-we-w%C5%82oc%C5%82awku-tanie-chryzantemy-i-wie%C5%84ce-s%C4%85-te%C5%BC-grzyby-25-pa%C5%BAdziernika-2025-zdj%C4%99cia-ceny-wideo/ar-AA1PaPOU?ocid=BingNewsVerp",
             "description": "We W\u0142oc\u0142awku dzia\u0142aj\u0105 dwa targowiska miejskie oraz niedzielny pchli targ. Jedno z targowisk mie\u015bci si\u0119 przy ul. Kaliskiej, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.Qr6VtZy870EvCaWiEuWj8S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN22 godz.",
+            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN23 godz.",
             "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -90,7 +90,7 @@
             "description": "Na starych monetach z czas\u00f3w PRL-u mo\u017cna zarobi\u0107 du\u017co pieni\u0119dzy. Wycena monet zale\u017cy od ich stanu zachowania, a dobrze ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.0qowG_2RHnDFLYejpDfxZy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski on MSN10 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN14 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
@@ -106,7 +106,7 @@
             "description": "Wci\u0105\u017c trzymasz w domu stare monety obiegowe? Lepiej obejrzyj je dok\u0142adnie, ich warto\u015b\u0107 jest dzisiaj znacznie wi\u0119ksza, ni\u017c przypuszczasz. Niekt\u00f3re egzemplarze osi\u0105gaj\u0105 ceny si\u0119gaj\u0105ce kilku tysi\u0119cy ...",
             "image_url": "https://www.bing.pl/th?id=ODF.U7tHWt6afQwcI4sCY6tjaA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "Nowa Trybuna Opolska on MSN5 godz.",
+            "date": "Nowa Trybuna Opolska on MSN9 godz.",
             "source": "Nowa Trybuna Opolska on MSN",
             "article_content": ""
         }
@@ -117,14 +117,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Oto najstarsze polskie monety. A s\u0105 w zasi\u0119gu portfela ka\u017cdego kolekcjonera",
-            "link": "https://nto.pl/oto-najstarsze-polskie-monety-a-sa-w-zasiegu-portfela-kazdego-kolekcjonera/ar/c1p2-28076981",
-            "description": "Zajrzyj do galerii i zobacz, jak wygl\u0105daj\u0105 najstarsze polskie monety, kt\u00f3re mo\u017cna mie\u0107 w swojej kolekcji bez wydawania ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.-8fIpqWwMjCDjnnWtrtExS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Te okoliczno\u015bciowe dwuz\u0142ot\u00f3wki s\u0105 teraz wiele warte. Tyle p\u0142ac\u0105 za nie kolekcjonerzy",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/te-okoliczno%C5%9Bciowe-dwuz%C5%82ot%C3%B3wki-s%C4%85-teraz-wiele-warte-tyle-p%C5%82ac%C4%85-za-nie-kolekcjonerzy/ar-AA1PdLQX?ocid=BingNewsVerp",
+            "description": "Emisj\u0119 zako\u0144czono w 2014 roku, gdy zast\u0105pi\u0142y je okoliczno\u015bciowe pi\u0119cioz\u0142ot\u00f3wki. Od tego czasu ceny niekt\u00f3rych dwuz\u0142ot\u00f3wek ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.H6fqr3R61NQDDaIBI_C1aS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Nowa Trybuna Opolska5 godz.",
-            "source": "Nowa Trybuna Opolska",
-            "article_content": "Content not available"
+            "date": "Nowa Trybuna Opolska on MSN2 godz.",
+            "source": "Nowa Trybuna Opolska on MSN",
+            "article_content": ""
         }
     },
     {
@@ -138,7 +138,7 @@
             "description": "Nawet kilka tysi\u0119cy z\u0142otych za bransoletk\u0119, kolczyki lub pier\u015bcionek. Na starej bi\u017cuterii z czas\u00f3w PRL-u mo\u017cna zarobi\u0107 du\u017co ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.E74w9YbkdhtCekfCCqgb6C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski11 godz.",
+            "date": "G\u0142os Koszali\u0144ski15 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
         }
@@ -149,13 +149,29 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Takimi pieni\u0119dzmi nie zap\u0142acisz",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/te-banknoty-musisz-wymieni%C4%87-jeszcze-w-2025-roku-tymi-pieni%C4%99dzmi-ju%C5%BC-nie-zap%C5%82acisz-trac%C4%85-wa%C5%BCno%C5%9B%C4%87/ar-AA1MESlA?ocid=BingNewsVerp",
-            "description": "Nie wszystkie banknoty i monety zachowuj\u0105 wa\u017cno\u015b\u0107 bez ko\u0144ca. W 2025 roku cz\u0119\u015b\u0107 z nich nie b\u0119dzie ju\u017c pe\u0142noprawnym \u015brodkiem ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.8sQ32zMsL7rndO6C3rGgSy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Oto najstarsze polskie monety. S\u0105 w zasi\u0119gu portfela ka\u017cdego kolekcjonera",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/oto-najstarsze-polskie-monety-s%C4%85-w-zasi%C4%99gu-portfela-ka%C5%BCdego-kolekcjonera/ar-AA1OxuAF?ocid=BingNewsVerp",
+            "description": "Wiele os\u00f3b my\u015bli, \u017ce kolekcjonowanie \u015bredniowiecznych i nowo\u017cytnych numizmat\u00f3w to hobby tylko dla bogaczy, prawda jest jednak zupe\u0142nie inna. Cz\u0119\u015b\u0107 z tych niezwyk\u0142ych monet, maj\u0105cych po kilkaset lat, m ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.U7tHWt6afQwcI4sCY6tjaA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "Gazeta Pomorska on MSN23 godz.",
-            "source": "Gazeta Pomorska on MSN",
+            "date": "Nowa Trybuna Opolska on MSN8 godz.",
+            "source": "Nowa Trybuna Opolska on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pa\u017adziernikowy pchli targ w Tarnobrzegu i jego skarby",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/pa%C5%BAdziernikowy-pchli-targ-w-tarnobrzegu-i-jego-skarby-mi%C5%82o%C5%9Bnicy-rzeczy-z-dusz%C4%85-ruszyli-na-niedzielne-zakupy-byli-nawet-kaczy%C5%84ski-i-tusk/ar-AA1PcHWI?ocid=BingNewsVerp",
+            "description": "Mimo ch\u0142odu na targu nie brakuje wystawc\u00f3w ani kupuj\u0105cych. Wielu z nich pojawia si\u0119 tu co miesi\u0105c, traktuj\u0105c pchli targ jako sta\u0142y punkt w kalendarzu. W tym gronie mo\u017cna spotka\u0107 zar\u00f3wno kolekcjoner\u00f3w, ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.xmtGTJHQSE_v4D-CWxbvsQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "targ+staroci",
+            "date": "Echo Dnia on MSN10 godz.",
+            "source": "Echo Dnia on MSN",
             "article_content": ""
         }
     },
@@ -170,25 +186,9 @@
             "description": "W niedziel\u0119, 26 pa\u017adziernika 2025 roku na tradycyjnym Pchlim Targu we W\u0142oc\u0142awku przy alei Kazimierza Wielkiego jesienna ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.usQ9nxbusfwlSGxD0jsrCC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN3 godz.",
+            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN7 godz.",
             "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Pa\u017adziernikowy pchli targ w Tarnobrzegu i jego skarby",
-            "link": "https://echodnia.eu/podkarpackie/pazdziernikowy-pchli-targ-w-tarnobrzegu-i-jego-skarby-milosnicy-rzeczy-z-dusza-ruszyli-na-niedzielne-zakupy-byli-nawet-kaczynski-i-tusk/ar/c1p2-28113881",
-            "description": "Tradycyjnie ju\u017c stoiska wype\u0142ni\u0142y si\u0119 r\u00f3\u017cnorodnymi przedmiotami \u2013 od porcelany, szk\u0142a i winyli, po militaria, obrazy i meble z dusz\u0105. Nie brakuje tak\u017ce drobiazg\u00f3w dla najm\u0142odszych oraz stoisk rodzinny ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.xmtGTJHQSE_v4D-CWxbvsQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "targ+staroci",
-            "date": "Echo Dnia6 godz.",
-            "source": "Echo Dnia",
-            "article_content": "Content not available"
         }
     },
     {
@@ -202,7 +202,7 @@
             "description": "Dworzec \u015awiebodzki to dobrze znane miejsce na zakupowej mapie Wroc\u0142awia. Targowisko, kt\u00f3re powsta\u0142o w miejscu nieczynnego ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.LdeaaoB-gDlbMmHcTpieUS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Gazeta Wroc\u0142awska8 godz.",
+            "date": "Gazeta Wroc\u0142awska12 godz.",
             "source": "Gazeta Wroc\u0142awska",
             "article_content": "Content not available"
         }
@@ -213,14 +213,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Pa\u017adziernikowy pchli targ w Tarnobrzegu i jego skarby. Mi\u0142o\u015bnicy rzeczy z dusz\u0105 ruszyli na niedzielne zakupy. Byli nawet Kaczy\u0144ski i Tusk",
-            "link": "https://www.msn.com/pl-pl/shopping/og%C3%B3lne/pa%C5%BAdziernikowy-pchli-targ-w-tarnobrzegu-i-jego-skarby-mi%C5%82o%C5%9Bnicy-rzeczy-z-dusz%C4%85-ruszyli-na-niedzielne-zakupy-byli-nawet-kaczy%C5%84ski-i-tusk/ar-AA1PcHWI?ocid=BingNewsVerp",
-            "description": "Cho\u0107 ostatnia pa\u017adziernikowa niedziela przywita\u0142a Tarnobrzeg ch\u0142odnym powietrzem i pochmurnym niebem, na targowisku miejskim przy ulicy Kwiatkowskiego od rana gwar i handel. Tarnobrzeski Pchli Targ po ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.xmtGTJHQSE_v4D-CWxbvsQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Jarmark Bo\u017conarodzeniowy w Raciborzu potrwa trzy weekendy",
+            "link": "https://www.naszraciborz.pl/site/art/1-aktualnosci/0-/119750-jarmark-bozonarodzeniowy-w-raciborzu-potrwa-trzy-weekendy",
+            "description": "Tegoroczny Jarmark Bo\u017conarodzeniowy w Raciborzu potrwa trzy weekendy \u2013 od 5 do 7, od 12 do 14 oraz 19 do 21 grudnia 2025 roku ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.GFg22a5Am0VnsMuakqTFly&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Echo Dnia on MSN6 godz.",
-            "source": "Echo Dnia on MSN",
-            "article_content": ""
+            "date": "Nasz Racib\u00f3rz1 godz.",
+            "source": "Nasz Racib\u00f3rz",
+            "article_content": "W sobot\u0119, 25 pa\u017adziernika na boisku przy ulicy Kozielskiej w Ku\u017ani Raciborskiej odby\u0142o si\u0119 spotkanie B klasy podokr\u0119gu Racib\u00f3rz, w kt\u00f3rym miejscowa Stal podejmowa\u0142a dru\u017cyn\u0119 z Pszowa. Pogoda dopisa\u0142a, a na trybunach pojawi\u0142a si\u0119 spora grupa kibic\u00f3w, licz\u0105cych na emocjonuj\u0105ce widowisko. Od pierwszego gwizdka by\u0142o wida\u0107, \u017ce obie ekipy przyjecha\u0142y po trzy punkty - mecz rozpocz\u0105\u0142 si\u0119 w szybkim tempie, a akcje przenosi\u0142y si\u0119 z jednej strony boiska na drug\u0105."
         }
     },
     {
@@ -229,14 +229,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "T\u0142umy na niedzielnej gie\u0142dzie w Koszalinie. Zobacz, co znale\u017ali\u015bmy na stoiskach [ZDJ\u0118CIA]",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/t%C5%82umy-na-niedzielnej-gie%C5%82dzie-w-koszalinie-zobacz-co-znale%C5%BAli%C5%9Bmy-na-stoiskach-zdj%C4%99cia/ar-AA1PcNyg?ocid=BingNewsVerp",
-            "description": "Tradycyjnie na koszali\u0144skiej gie\u0142dzie znale\u017a\u0107 mo\u017cemy praktycznie wszystko. Je\u015bli potrzebujesz nowej garderoby, na gie\u0142dzie ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.piQ9zfTfQi3KopLiOQ4flS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Jarmark Bo\u017conarodzeniowy w Raciborzu potrwa dwa weekendy",
+            "link": "https://www.naszraciborz.pl/site/art/1-aktualnosci/0-/119750-jarmark-bozonarodzeniowy-w-raciborzu-potrwa-dwa-weekendy",
+            "description": "Tegoroczny Jarmark Bo\u017conarodzeniowy w Raciborzu potrwa dwa weekendy \u2013 od 5 do 7 grudnia oraz od 12 do 14 grudnia 2025 roku.",
+            "image_url": "https://www.bing.pl/th?id=OVFT.GFg22a5Am0VnsMuakqTFly&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "G\u0142os Koszali\u0144ski on MSN6 godz.",
-            "source": "G\u0142os Koszali\u0144ski on MSN",
-            "article_content": ""
+            "date": "Nasz Racib\u00f3rz2 godz.",
+            "source": "Nasz Racib\u00f3rz",
+            "article_content": "W sobot\u0119, 25 pa\u017adziernika na boisku przy ulicy Kozielskiej w Ku\u017ani Raciborskiej odby\u0142o si\u0119 spotkanie B klasy podokr\u0119gu Racib\u00f3rz, w kt\u00f3rym miejscowa Stal podejmowa\u0142a dru\u017cyn\u0119 z Pszowa. Pogoda dopisa\u0142a, a na trybunach pojawi\u0142a si\u0119 spora grupa kibic\u00f3w, licz\u0105cych na emocjonuj\u0105ce widowisko. Od pierwszego gwizdka by\u0142o wida\u0107, \u017ce obie ekipy przyjecha\u0142y po trzy punkty - mecz rozpocz\u0105\u0142 si\u0119 w szybkim tempie, a akcje przenosi\u0142y si\u0119 z jednej strony boiska na drug\u0105."
         }
     },
     {
@@ -250,25 +250,9 @@
             "description": "Niesamowita ruina wygl\u0105daj\u0105ca jak pozosta\u0142o\u015bci po le\u015bnej warowni. Tymczasem to relikt nowoczesnego obiektu, kt\u00f3ry powsta\u0142 100 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.J4aiB35A_D5pRg16uej0wS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Gazeta Wroc\u0142awska on MSN7 godz.",
+            "date": "Gazeta Wroc\u0142awska on MSN11 godz.",
             "source": "Gazeta Wroc\u0142awska on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Kij\u00f3w szykuje si\u0119 na najgorsze. Rosja mo\u017ce chcie\u0107 wyko\u0144czy\u0107 Ukrain\u0119 fal\u0105 zimowego terroru",
-            "link": "https://wiadomosci.onet.pl/swiat/tak-rosja-chce-wykonczyc-ukraine-kijow-szykuje-sie-na-najgorsze/2zv52sz",
-            "description": "Zmasowane rosyjskie ataki na infrastruktur\u0119 energetyczn\u0105 i cywiln\u0105 mog\u0105 zwiastowa\u0107 wyj\u0105tkowo trudn\u0105 zim\u0119 w Ukrainie. Wielu ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.hglMe_uVKzPjOh5SGUoPGi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "Wiadomo\u015bci Onet2 godz.",
-            "source": "Wiadomo\u015bci Onet",
-            "article_content": "Pierwsz\u0105 rzecz\u0105, jak\u0105 zrobi\u0142am, kiedy zacz\u0119\u0142am pisa\u0107 o przygotowaniach Kijowa do kolejnej zimy wojny, by\u0142o sporz\u0105dzenie listy podstawowych zakup\u00f3w, kt\u00f3rych dokona\u0142am od wiosny 2022 r. W Kijowie mo\u017ce by\u0107 znacznie spokojniej ni\u017c w Charkowie, Sumach czy Chersoniu, ale nadal warto by\u0107 przygotowanym na ataki.\n\nLatarka z portem USB i wieloma trybami, od o\u015blepiaj\u0105cego \u015bwiat\u0142a po bardziej subtelne, jest niezb\u0119dna, je\u015bli chcesz unikn\u0105\u0107 z\u0142amania karku podczas d\u0142ugich zimowych nocy w Kijowie, kiedy nie ma o\u015bwietlenia ulicznego. Jest to znacznie bardziej praktyczne ni\u017c o\u015bwietlanie drogi smartfonem.\n\nPotrzebna b\u0119dzie r\u00f3wnie\u017c latarka czo\u0142owa, podobna do tej noszonej przez g\u00f3rnik\u00f3w. Moja ma tak\u017ce port USB, dzi\u0119ki czemu mo\u017cna j\u0105 \u0142adowa\u0107 z powerbanku lub laptopa. Co najwa\u017cniejsze, dzi\u0119ki niej masz wolne r\u0119ce, co jest szczeg\u00f3lnie wa\u017cne w nocy dla matek z dzie\u0107mi, je\u015bli musz\u0105 biec do schronu, parkingu lub stacji metra, aby unikn\u0105\u0107 ostrza\u0142u.\n\nKolejnym niezb\u0119dnym elementem jest ta\u015bma odblaskowa z warstw\u0105 rzepu. Najlepiej przymocowa\u0107 kilka kawa\u0142k\u00f3w do torby i ubrania. Kierowcy twierdz\u0105, \u017ce znacznie u\u0142atwia to \u017cycie, poniewa\u017c mog\u0105 dostrzec pieszych na przej\u015bciu z daleka.\n\nPowerbanki to kolejny niezb\u0119dny element wyposa\u017cenia. Im wi\u0119cej, tym lepiej. U\u017cywaj ich do \u0142adowania telefon\u00f3w, ale tak\u017ce ma\u0142ych lampek z portami USB, kt\u00f3re ludzie umieszczaj\u0105 w swoich mieszkaniach, aby stworzy\u0107 pozory normalnego o\u015bwietlenia wieczornego.\n\nPodobnie jak wiele os\u00f3b uwa\u017cam, \u017ce po d\u0142ugich zimowych wieczorach sp\u0119dzonych w ca\u0142kowitej ciemno\u015bci \u2014 \u015bwiat\u0142o ekranu telefonu kom\u00f3rkowego si\u0119 nie liczy! \u2014 oczy zaczynaj\u0105 bole\u0107 i pojawia si\u0119 melancholia. Zanim znalaz\u0142am lepsze rozwi\u0105zania, u\u017cywa\u0142am chi\u0144skich lampek choinkowych i kilku s\u0142abych lamp sto\u0142owych.\n\nDodatkowym wyposa\u017ceniem mo\u017ce by\u0107 przeno\u015bne radio zasilane bateriami. Je\u015bli po\u0142\u0105czenie internetowe zostanie przerwane i nie mo\u017cna czyta\u0107 wiadomo\u015bci na telefonie ani pyta\u0107 znajomych na Facebooku, te relikty naprawd\u0119 si\u0119 przydaj\u0105.\n\nDalszy ci\u0105g artyku\u0142u pod materia\u0142em wideo\n\nPrzetrwa\u0107 ataki\n\nDbam r\u00f3wnie\u017c o to, aby mie\u0107 dwa lub trzy grube dresy z kapturem wyprodukowane w Ukrainie. W takich sytuacjach niezwykle wa\u017cne jest wspieranie krajowych producent\u00f3w i sugeruj\u0119 wybiera\u0107 dresy raczej wi\u0119ksze, poniewa\u017c dobrze jest mie\u0107 wystarczaj\u0105co du\u017co miejsca, aby za\u0142o\u017cy\u0107 pod sp\u00f3d sweter i spodnie. W nocy, kiedy nie ma rosyjskiego ostrza\u0142u, ale centralne ogrzewanie pozostaje wy\u0142\u0105czone z powodu ataku rakietowego, ludzie cz\u0119sto \u015bpi\u0105 w domu ubrani w ten spos\u00f3b. Jednak podczas nocy sp\u0119dzanej w schronie przeciwbombowym, zazwyczaj na stacji metra lub parkingu, potrzebny jest \u015bpiw\u00f3r, materac lub rozk\u0142adane \u0142\u00f3\u017cko.\n\nAle dlaczego nie jeden dres? Kiedy infrastruktura jest atakowana, z regu\u0142y najpierw brakuje wody, wi\u0119c nie mo\u017cna pra\u0107 rzeczy tak cz\u0119sto, jak by si\u0119 chcia\u0142o. W Kijowie nie ma problemu z zakupem wody butelkowanej, ale na wszelki wypadek zawsze warto mie\u0107 w domu dwa du\u017ce plastikowe wiadra z pokrywkami, wype\u0142nione wod\u0105. Jeszcze lepiej jest zaopatrzy\u0107 si\u0119 w 35-litrowy plastikowy zbiornik, je\u015bli masz miejsce w \u0142azience.\n\nJe\u015bli chodzi o pr\u0105d, zainstalowanie generatora w daczy mo\u017ce zapewni\u0107 ci odrobin\u0119 raju, o ile pozwoli na to wojna. Ci, kt\u00f3rzy \u017cyj\u0105 w mieszkaniach, nie maj\u0105 tyle szcz\u0119\u015bcia, a stra\u017cacy zdecydowanie odradzaj\u0105 instalowanie generator\u00f3w na balkonie. W niekt\u00f3rych kompleksach wie\u017cowc\u00f3w zarz\u0105d budynku zakupi\u0142 pot\u0119\u017cny generator, aby zapewni\u0107 dzia\u0142anie wind i o\u015bwietlenie do czasu wprowadzenia godziny policyjnej i blackoutu.\n\nJe\u015bli chodzi o rzeczy, kt\u00f3re mam w zapasie, ale kt\u00f3rych nie musia\u0142am jeszcze u\u017cywa\u0107 \u2014 przes\u0105d powstrzymuje mnie przed napisaniem \"jak dot\u0105d\" \u2014 to czarna plastikowa walizka z przeno\u015bn\u0105 kuchenk\u0105 gazow\u0105 i butl\u0105 gazow\u0105. W domu mamy kuchenk\u0119 gazow\u0105 i na razie konsumenci gazu w Kijowie nie mieli \u017cadnych problem\u00f3w. Jednak butle s\u0105 obecnie ratunkiem dla mieszka\u0144c\u00f3w stolicy posiadaj\u0105cych piekarniki elektryczne.\n\nGenerator na ulicy w Kijowie, 24 pa\u017adziernika 2025 r. GENYA SAVILOV / AFP\n\nMiejskie przygotowanie\n\nMam te\u017c dwie nieotwarte torby z elektrycznymi prze\u015bcierad\u0142ami i kocami. W 2022 r. po raz pierwszy zda\u0142am sobie spraw\u0119, \u017ce m\u00f3j blok w jednej z najbardziej bombardowanych dzielnic stolicy mo\u017ce w \u0142atwy spos\u00f3b zosta\u0107 pozbawiony ogrzewania i posz\u0142am na zakupy. Nigdy jednak nie wyobra\u017ca\u0142am sobie, \u017ce strac\u0119 jednocze\u015bnie pr\u0105d i ogrzewanie. Teraz, gdy zbli\u017camy si\u0119 do czwartej rocznicy inwazji Rosji, mamy znacznie lepsze wyobra\u017cenie o tym, jak przetrwa\u0107 zim\u0119 w najgorszym scenariuszu.\n\nPrzechodz\u0105c od spraw prywatnych do bardziej og\u00f3lnych, kilka s\u0142\u00f3w o tym, co robi pa\u0144stwo, aby chroni\u0107 \u017cycie ludzi i gospodark\u0119 kraju, gdy zbli\u017ca si\u0119 kolejna zima, kt\u00f3ra za spraw\u0105 Rosji b\u0119dzie dla nas tak trudna, jak to tylko mo\u017cliwe.\n\nAplikacja Kyiv Digital informuje mieszka\u0144c\u00f3w miasta o tym, co dzieje si\u0119 podczas nalot\u00f3w, i aktualizuje szczeg\u00f3\u0142ow\u0105 interaktywn\u0105 map\u0119 pokazuj\u0105c\u0105 lokalizacj\u0119 ok. 400 punkt\u00f3w \u0142adowania telefon\u00f3w w r\u00f3\u017cnych cz\u0119\u015bciach stolicy, a tak\u017ce miejsc, gdzie mo\u017cna napi\u0107 si\u0119 gor\u0105cej herbaty i si\u0119 ogrza\u0107. Chocia\u017c szczyt zimy jest jeszcze daleko, warto unika\u0107 zimna i deszczu. W pobli\u017cu mojego domu s\u0105 co najmniej trzy takie punkty.\n\nDruga mapa pokazuje miejskie pompy, kt\u00f3re dzia\u0142aj\u0105 nawet w przypadku awarii pr\u0105du, poniewa\u017c maj\u0105 w\u0142asne generatory. Trzecia mapa, kt\u00f3ra jest stale aktualizowana, pokazuje schrony przeciwlotnicze.\n\nW ostatnich tygodniach i miesi\u0105cach drony i pociski nie dawa\u0142y spokoju. Rzadko zdarza si\u0119 noc bez syren alarmowych, kt\u00f3re rozbrzmiewaj\u0105 a\u017c do rana, kiedy zaczyna kursowa\u0107 transport publiczny, otwieraj\u0105 si\u0119 sklepy, a dzieci id\u0105 do szko\u0142y.\n\nTo mo\u017ce by\u0107 preludium\n\nAtak z 10 pa\u017adziernika jest ju\u017c postrzegany jako jeden z najgorszych w historii sektora energetycznego kraju. Ukrai\u0144skie si\u0142y powietrzne poinformowa\u0142y, \u017ce w ci\u0105gu jednej nocy Rosja wystrzeli\u0142a 32 pociski i 465 dron\u00f3w, jasno pokazuj\u0105c swoje zamiary poprzez zniszczenie obiekt\u00f3w energetycznych w momencie nadej\u015bcia ch\u0142od\u00f3w.\n\nCa\u0142y lewy brzeg stolicy pozosta\u0142 bez pr\u0105du i wody, a sie\u0107 metra mog\u0142a funkcjonowa\u0107 tylko cz\u0119\u015bciowo na niekt\u00f3rych odcinkach. Wobec braku po\u0142\u0105cze\u0144 metrem mi\u0119dzy prawym a lewym brzegiem autobusy, minibusy i taks\u00f3wki powoli przemierza\u0142y mosty w korkach.\n\nUkrai\u0144ska firma energetyczna DTEK jasno pokaza\u0142a, jak powa\u017cna by\u0142a sytuacja energetyczna, pisz\u0105c na swojej oficjalnej stronie na Facebooku: \"Rosja zaatakowa\u0142a elektrownie cieplne DTEK. Sprz\u0119t jest powa\u017cnie uszkodzony. Zajmujemy si\u0119 konsekwencjami\".\n\nLokalne media ustali\u0142y nast\u0119pnie, \u017ce zaatakowano r\u00f3wnie\u017c kijowsk\u0105 elektrociep\u0142owni\u0119, kt\u00f3ra wytwarza zar\u00f3wno energi\u0119 elektryczn\u0105, jak i ciep\u0142o do centralnego ogrzewania i zaopatrzenia w ciep\u0142\u0105 wod\u0119. Miasto dopiero co w\u0142\u0105czy\u0142o ogrzewanie w szpitalach, szko\u0142ach i przedszkolach. In\u017cynierowie rozpocz\u0119li naprawy zaraz po zako\u0144czeniu atak\u00f3w.\n\nTego popo\u0142udnia DTEK poinformowa\u0142o: \"270 tys. rodzin w Kijowie ma ponownie pr\u0105d po ostrzale. Sytuacja pozostaje z\u0142o\u017cona. Pracujemy nad tym\". Niekt\u00f3rzy ludzie wyrazili wdzi\u0119czno\u015b\u0107 w komentarzach: \"Jeste\u015bcie bohaterami! Jeste\u015bcie tytanami!\". Jednak wi\u0119kszo\u015b\u0107 by\u0142a zirytowana i domaga\u0142a si\u0119 informacji, jak d\u0142ugo potrwaj\u0105 naprawy, na co firma odpowiedzia\u0142a: \"Uszkodzenia s\u0105 bardzo powa\u017cne i priorytetowo traktujemy dostawy do obiekt\u00f3w infrastruktury krytycznej. Ekipy remontowe pracuj\u0105 po godzinach\".\n\nMieszka\u0144cy po rosyjskim ataku na Kij\u00f3w, 26 pa\u017adziernika 2025 r. Tetiana Dzhafarova / AFP\n\nCzwarta zima wojny\n\nCzy mo\u017cna by\u0142o unikn\u0105\u0107 konsekwencji ataku z 10 pa\u017adziernika w Kijowie? Jak dobrze lokalne w\u0142adze przygotowa\u0142y si\u0119 na oczywiste pr\u00f3by Rosji pozbawienia mieszka\u0144c\u00f3w stolicy ogrzewania i energii elektrycznej wraz z nadej\u015bciem zimy?\n\nNiewystarczaj\u0105co dobrze \u2014 twierdzi O\u0142eksij Kuczerenko, deputowany do ukrai\u0144skiego parlamentu i by\u0142y minister ds. mieszkalnictwa i us\u0142ug komunalnych. Polityk m\u00f3wi ukrai\u0144skiemu serwisowi internetowemu Telegraf, \u017ce niewystarczaj\u0105co zabezpieczone transformatory uleg\u0142y uszkodzeniu, i obwinia za to w\u0142adze miasta.\n\nChocia\u017c atak z 10 pa\u017adziernika by\u0142 niew\u0105tpliwie ogromny, systemy obrony powietrznej zrobi\u0142y wszystko, co w ich mocy, aby broni\u0107 miasta \u2014 podkre\u015bla Kuczerenko, dodaj\u0105c, \u017ce nie mo\u017cna tego samego powiedzie\u0107 o ochronie transformator\u00f3w.\n\nWed\u0142ug doniesie\u0144 tylko 3 pa\u017adziernika Ukraina straci\u0142a ok. 60 proc. swoich mocy produkcyjnych gazu w wyniku masowych rosyjskich nalot\u00f3w na regiony Charkowa i Po\u0142tawy. Je\u015bli informacje te si\u0119 potwierdz\u0105, eksperci przewiduj\u0105, \u017ce Ukrai\u0144c\u00f3w czeka bardzo trudna zima, cho\u0107 obecnie jest to norma. Jest to czwarta zima tej wojny na pe\u0142n\u0105 skal\u0119, kt\u00f3r\u0105 z g\u00f3ry nazwano fataln\u0105."
         }
     },
     {
@@ -282,7 +266,7 @@
             "description": "Fairey Delta 2 by\u0142 prawdziwym demonem pr\u0119dko\u015bci, kt\u00f3ry w latach 50. XX w. szokowa\u0142 \u015bwiat, bij\u0105c kolejne rekordy. Brytyjczycy ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.-rpeSLNnpE0g_YR4o2yLHC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Komputer \u015awiat9 godz.",
+            "date": "Komputer \u015awiat13 godz.",
             "source": "Komputer \u015awiat",
             "article_content": "Pod koniec lat 40. XX w. Kr\u00f3lewskie Si\u0142y Powietrzne szuka\u0142y nowych projekt\u00f3w maszyn, kt\u00f3re mog\u0142yby zast\u0105pi\u0107 starsze samoloty bojowe. Uwag\u0119 zwr\u00f3cono na technologi\u0119 skrzyde\u0142 delta, kt\u00f3ra mia\u0142y ogromny potencja\u0142 w kontek\u015bcie budowy odrzutowych jednostek nadd\u017awi\u0119kowych. Odpowiedzialna za nie firma Fairey zaprojektowa\u0142a i zbudowa\u0142a na bazie specyfikacji wydanej przez ministerstwo lotnictwa eksperymentalny samolot Delta 1, kt\u00f3ry wyj\u0105tkowo przypad\u0142 do gustu politykom i wojskowym.\n\nZ dalszego rozwoju tego projektu mog\u0142oby jednak nic nie wyj\u015b\u0107, gdyby nie wojna korea\u0144ska i szybki rozw\u00f3j samolot\u00f3w nadd\u017awi\u0119kowych. Brytyjczycy, maj\u0105cy ju\u017c w\u0142asne samoloty odrzutowe, wys\u0142ali do Korei tradycyjne konstrukcje turbo\u015bmig\u0142owe, kt\u00f3re wypad\u0142y tam wyj\u0105tkowo blado na tle radzieckich odrzutowc\u00f3w MiG-15. Przewaga tych ostatnich by\u0142a gigantyczna i przy nich maszyny Kr\u00f3lewskich Si\u0142 Powietrznych wygl\u0105da\u0142y jak relikty przesz\u0142o\u015bci. Co gorsze, nawet najnowocze\u015bniejszy brytyjski my\u015bliwiec DeHavilland Vampire mia\u0142 znacznie gorsze osi\u0105gi ni\u017c wspomniany model z ZSRR.\n\nTo da\u0142o Brytyjczykom do my\u015blenia, a sytuacj\u0119 wykorzysta\u0142a idealnie firma Fairey. Po udanym projekcie Delta 1 zaproponowali ministerstwu lotnictwa co\u015b, co zwali\u0142o urz\u0119dnik\u00f3w z n\u00f3g. Projekt Delta 2 mia\u0142 by\u0107 nowym Spitfire\u2019em swoich czas\u00f3w, przywracaj\u0105c Wielkiej Brytanii supremacj\u0119 w powietrzu. Mia\u0142 przesuwa\u0107 wszelkie granice i by\u0107 prawdziwym demonem szybko\u015bci. Ministerstwo by\u0142o tak zachwycone przedstawionym planem, \u017ce od razu zleci\u0142o budow\u0119 dw\u00f3ch prototyp\u00f3w.\n\nProblemem sta\u0142o si\u0119 jednak to, \u017ce Fairey nigdy nie s\u0142yn\u0105\u0142 z tworzenia zaawansowanych technicznie maszyn. Wiedza in\u017cynier\u00f3w firmy o tworzeniu szybkich samolot\u00f3w by\u0142a mocno ograniczona, dlatego w\u0142adze przedsi\u0119biorstwa postanowi\u0142y sprowadzi\u0107 do tej pracy prawdziwego eksperta \u2014 sir Roberta Lickleya z Hawker Aviation, kt\u00f3remu Delta 2 zawdzi\u0119cza w\u0142a\u015bciwie wszystko to, co najlepsze.\n\nFairey Delta 2 Tony Hisgett / Wiki Commons\n\nNiestety szybko okaza\u0142o si\u0119, \u017ce budowa Delty 2 nie b\u0119dzie taka prosta. Przedsi\u0119biorstwo musia\u0142o si\u0119 bowiem skupi\u0107 na programie Gannet, z kt\u00f3rym nowa Delta musia\u0142a walczy\u0107 o zasoby. Sam dost\u0119p do potrzebnego sprz\u0119tu nie by\u0142 \u0142atwy, bo wiele komponent\u00f3w trzeba by\u0142o zaprojektowa\u0107 typowo pod ten konkretny model samolotu. Fairey stawia\u0142 sobie za cel stworzenie najszybszego samolotu \u015bwiata, kt\u00f3ry na dodatek m\u00f3g\u0142by zosta\u0107 szybko wdro\u017cony do s\u0142u\u017cby na pierwszej linii.\n\nPrawdziwy cud techniki\n\nKonstruktorzy Delty 2 nie szli na \u0142atwizn\u0119 i postawili na technologicznie najnowocze\u015bniejsze rozwi\u0105zania. Pierwszym by\u0142y nowe skrzyd\u0142a delta o k\u0105cie natarcia 60 st., kt\u00f3rym towarzyszy\u0142 ostro zako\u0144czony kad\u0142ub. Sercem samolotu by\u0142 pot\u0119\u017cny silnik Rolls-Royce Avon RA.14R., kt\u00f3ry jednak nie by\u0142 projektowany do pr\u0119dko\u015bci, jakie firma planowa\u0142a osi\u0105gn\u0105\u0107. Ciekawym elementem by\u0142 ruchomy dzi\u00f3b (droop-snoot), kt\u00f3rego po\u0142o\u017cenie zmienia\u0142o si\u0119 w zale\u017cno\u015bci od wymaga\u0144 dotycz\u0105cych poprawy aerodynamiki oraz widoczno\u015bci. Sekcj\u0119 nosow\u0105, \u0142\u0105cznie z kokpitem, mo\u017cna by\u0142o opu\u015bci\u0107 o 10 st. za pomoc\u0105 mechanizmu uruchamianego hydraulicznie. Co ciekawe, dok\u0142adnie ten sam system zostanie w przysz\u0142o\u015bci wykorzystywany w samolotach odrzutowych Concorde.\n\nDo test\u00f3w maszyny wybrano do\u015bwiadczonego pilota testowego Petera Twissa, kt\u00f3ry od samego pocz\u0105tku zakocha\u0142 si\u0119 w konstrukcji. Cho\u0107 ta by\u0142a niewygodna i zapewnia\u0142a bardzo ma\u0142o miejsca, to r\u00f3wnocze\u015bnie dawa\u0142a sporo rado\u015bci z pilota\u017cu. Szybko okaza\u0142o si\u0119, \u017ce jednostka nie jest bez wad. W listopadzie 1954 r. zaledwie pi\u0119\u0107 tygodni po pierwszym locie samolotu dosz\u0142o do powa\u017cnej awarii silnik\u00f3w na wysoko\u015bci 30000 st\u00f3p. Twiss musia\u0142 walczy\u0107 o \u017cycie, pr\u00f3buj\u0105c r\u00f3wnocze\u015bnie wyl\u0105dowa\u0107 bez silnika. Ta sztuka mu si\u0119 uda\u0142a nawet pomimo faktu, \u017ce tylne ko\u0142a odm\u00f3wi\u0142y wsp\u00f3\u0142pracy.\n\nPetera Twiss w samolocie Fairey Delta 2 Evening Standard/Stringer / Getty Images\n\nTestowy model Delty 2 zosta\u0142 powa\u017cnie uszkodzony i wy\u0142\u0105czony z test\u00f3w do sierpnia kolejnego roku. Gdy jednak ponownie trafi\u0142 w r\u0119ce Twissa zacz\u0119\u0142a dzia\u0107 si\u0119 magia. Po naprawie prototyp WG774 sterowany przez do\u015bwiadczonego pilota bez problem\u00f3w przekroczy\u0142 barier\u0119 d\u017awi\u0119ku. Zrobi\u0142 to na dodatek bez u\u017cycia dopalacza. Twiss wiedzia\u0142, \u017ce to jeszcze nie koniec i w Delcie 2 drzemie ogromny potencja\u0142. I jak si\u0119 okaza\u0142o, nie myli\u0142 si\u0119.\n\nNim jednak dosz\u0142o do rekordowego lotu Fairey pr\u00f3bowa\u0142 przebi\u0107 si\u0119 przez gruby mur urz\u0119dnik\u00f3w ministerstwa lotnictwa, kt\u00f3re nieprzychylnie patrzy\u0142o na potencjalne testy. Ju\u017c wtedy bowiem wojsko pr\u00f3bowa\u0142o odwr\u00f3ci\u0107 si\u0119 od za\u0142ogowych samolot\u00f3w wojskowych na rzecz pocisk\u00f3w kierowanych. W nowej doktrynie dla Delty 2 nie by\u0142oby po prostu miejsca. Mimo pocz\u0105tkowego sprzeciwu Fairey otrzyma\u0142 zezwolenie, ale nie udzieli\u0142o firmie \u017cadnego wsparcia finansowego. Co wi\u0119cej, obci\u0105\u017cono podmiot za korzystanie z aktywu RAF i wymuszono wykupienie drogiego ubezpieczenia. Na drodze stan\u0105\u0142 te\u017c Rolls-Royce, producent silnika, kt\u00f3ry twierdzi\u0142, \u017ce przy zak\u0142adanych pr\u0119dko\u015bciach konstrukcja mia\u0142aby si\u0119 rozlecie\u0107.\n\nDelta 2 bije rekord pr\u0119dko\u015bci lotu\n\nPo trudnej walce z urz\u0119dnikami i budowie specyficznego systemu do pomiaru pr\u0119dko\u015bci Fairey by\u0142 gotowy do testu. Dok\u0142adnie 10 marca 1956 r. za sterami jednostki znowu zasiad\u0142 kapitan Twiss i odpali\u0142 silniki. Tym razem jednak test prowadzono nie na brytyjskiej, a na francuskiej ziemi. Wcze\u015bniej bowiem firma podpisa\u0142a porozumienie z Dassault Aviation, unikaj\u0105c w ten spos\u00f3b ogranicze\u0144 dotycz\u0105cych lot\u00f3w nad Wielk\u0105 Brytani\u0105. Do tej wsp\u00f3\u0142pracy zreszt\u0105 jeszcze wr\u00f3cimy. Delta 2 wystrzeli\u0142a z lotniska przy bazie Ch\u00e2teauroux i zacz\u0119\u0142a si\u0119 rozp\u0119dza\u0107. Szybko pad\u0142a bariera d\u017awi\u0119ku, ale do limitu by\u0142o jeszcze daleko. Po chwili na przyrz\u0105dach odnotowano wynik, kt\u00f3ry by\u0142 szokuj\u0105cy. Delta 2 osi\u0105gn\u0119\u0142a bowiem pr\u0119dko\u015b\u0107 1132 mil na godz., czyli a\u017c 1811 km na godz. (1,73 Macha).\n\nBy lepiej nakre\u015bli\u0107 kontekst, jak niezwyk\u0142e by\u0142o to osi\u0105gni\u0119cie, nale\u017cy zaznaczy\u0107, \u017ce w ten spos\u00f3b pobito poprzedni rekord ustanowiony przez ameryka\u0144ski samolot F-100 Super Sabre o 310 mil na godz., czyli o 37 proc. Nigdy wcze\u015bniej rekord \u015bwiata w pr\u0119dko\u015bci lotu nie zosta\u0142 pobity w tak du\u017cym stopniu. Wydarzenie sta\u0142o si\u0119 wyj\u0105tkowo medialne i trafi\u0142o na pierwsze strony gazet na ca\u0142ym \u015bwiecie. Wielka Brytania mia\u0142a w r\u0119kach prawdziwy diament, kt\u00f3ry trzeba by\u0142o jedynie oszlifowa\u0107. In\u017cynierzy z USA i Francji byli tak zszokowani rezultatem, \u017ce poprosili o dog\u0142\u0119bne przebadanie p\u0142atowca. Francuzi poszli nawet dalej, bo wprowadzili plan znacz\u0105cej przebudowy samolot\u00f3w wojskowych tylko na podstawie tego opisanego testu. Sam rekord przetrwa\u0142 do 12 grudnia 1957 r., gdy zosta\u0142 pobity przez samolot McDonnell JF-101A Voodoo Si\u0142 Powietrznych Stan\u00f3w Zjednoczonych.\n\nNieoczekiwana pomoc\n\nTego samego roku Wielka Brytania strzeli\u0142a sobie w stop\u0119. Minister obrony Duncan Sandys og\u0142osi\u0142, \u017ce kraj skupia si\u0119 na rozwoju pocisk\u00f3w kierowanych, co by\u0142o spodziewane od dawna. Projekt Delta 2 mia\u0142 wi\u0119c trafi\u0107 na technologiczny cmentarz. In\u017cynierowie i projektanci Faireya byli zdruzgotani \u2014 firma b\u0142aga\u0142a urz\u0119dnik\u00f3w o wsparcie, przedstawia\u0142a nowe propozycje projekt\u00f3w bazuj\u0105cych na opracowanej ju\u017c technologii, a w przyp\u0142ywie desperacji zaoferowa\u0142a sw\u00f3j projekt Niemcom. Wygra\u0142 jednak lobbing i dzia\u0142ania korupcyjne firmy Lockhead, kt\u00f3re wp\u0142yn\u0119\u0142y na niemieckich dysydent\u00f3w, by ci wybrali ameryka\u0144ski my\u015bliwiec Lockheed F-104G Starfighter zamiast nowej wersji Delty 2.\n\nZ pomocn\u0105 d\u0142oni\u0105 wyszli ponownie Francuzi, a konkretnie wspomniana ju\u017c firma Dassault Aviation. Francuscy partnerzy zbadali projekt Delta 2 i wykorzystali uzyskane w ten spos\u00f3b dane do potwierdzenia zasadno\u015bci prac dna swoim w\u0142asnym my\u015bliwcem z podobnym uk\u0142adem. Cz\u0119\u015b\u0107 pracownik\u00f3w Fairey znalaz\u0142a prac\u0119 w zak\u0142adach we Francji. Brytyjski odrzutowiec sta\u0142 si\u0119 tym samym kluczowym elementem rozwoju jednego z najlepszych europejskich my\u015bliwc\u00f3w w historii \u2014 konstrukcji Mirage III. Cho\u0107 cz\u0119\u015b\u0107 os\u00f3b pr\u00f3buje podwa\u017cy\u0107 te twierdzenia, to sam Marcel Dassault, szef francuskiego przedsi\u0119biorstwa, wskazuje, \u017ce by\u0142o inaczej. Jeden z jego cytat\u00f3w najlepiej to potwierdza i jest przy okazji pi\u0119kn\u0105 szpilk\u0105 wbit\u0105 w Brytyjczyk\u00f3w:\n\nGdyby nie nieporadno\u015b\u0107 w dzia\u0142aniach Wielkiej Brytanii, sami mogliby\u015bcie zbudowa\u0107 w\u0142asnego Mirage\u2019a.\n\nWarto wspomnie\u0107, \u017ce Fairey Delta 2 mia\u0142 te\u017c ogromny wp\u0142yw na to, jak wygl\u0105da\u0142 Concorde. Samolot testowy by\u0142 niezb\u0119dny do weryfikacji oblicze\u0144 projektowych i wynik\u00f3w bada\u0144 w tunelu aerodynamicznym dla Concorde'a ze skrzyd\u0142em typu \"ogee delta\", dlatego jeden z samolot\u00f3w Delta 2 zosta\u0142 gruntownie przebudowany i otrzyma\u0142 oznaczenie BAC 221. Wykorzystywano go w testach mi\u0119dzy 1964 r. i 1973 r., sprawdzaj\u0105c r\u00f3\u017cne konfiguracje silnik\u00f3w i usprawnienia dotycz\u0105ce aerodynamiki."
         }
@@ -298,7 +282,7 @@
             "description": "Zanim wyruszysz w drog\u0119, sprawd\u017a, jaka b\u0119dzie pogoda. W sobot\u0119 01 listopada w Koszalinie ma by\u0107 15\u00b0C. Prawdopodobie\u0144stwo ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.zwkB4oNQtQ5nn4GTc6w0ZS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Koszalin Nasze Miasto1 godz.",
+            "date": "Koszalin Nasze Miasto5 godz.",
             "source": "Koszalin Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -314,7 +298,7 @@
             "description": "Wie\u017ca wyci\u0105gowa szybu Krystyna (do 1945 roku niem. F\u00f6rderturm Kaiser-Wilhelm-Schacht) \u2013 murowana, oparta na konstrukcji ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.lDjN2Tj7WlQTLcLKdaqgOS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Jaworzno Nasze Miasto1 godz.",
+            "date": "Jaworzno Nasze Miasto5 godz.",
             "source": "Jaworzno Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -325,13 +309,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "\u015acie\u017cki na spacer w woj. lubuskim. Gdzie wybra\u0107 si\u0119 w weekend 25 - 26 pa\u017adziernika? 10 najciekawszych tras",
-            "link": "https://gazetalubuska.pl/sciezki-na-spacer-w-woj-lubuskim-gdzie-wybrac-sie-w-weekend-25-26-pazdziernika-10-najciekawszych-tras/ar/c7p1-22116493",
-            "description": "23 maja wybra\u0142em si\u0119 na \u0141ys\u0105 G\u00f3r\u0119. Na Prze\u0142\u0119cz Widok wjecha\u0142em autobusem. Spacer (Nordic Walking) do Mikrostacji Sport\u00f3w Zimowych i Letnich. I dalej do Jeleniej G\u00f3ry przez G\u00f3r\u0119 Szybowcow\u0105. Trasa ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.6oXJf1KayPglPY9d412pqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Lubuska2 godz.",
-            "source": "Gazeta Lubuska",
+            "title": "Trasy na rower do 13 km od O\u015bwi\u0119cimia. Podpowiedzi jednodniowych wypraw. Gdzie w weekend 25 - 26 pa\u017adziernika?",
+            "link": "https://oswiecim.naszemiasto.pl/trasy-na-rower-do-13-km-od-oswiecimia-podpowiedzi-jednodniowych-wypraw-gdzie-w-weekend-25-26-pazdziernika/ar/c7p1-21831633",
+            "description": "Rozgl\u0105dasz si\u0119 za pomys\u0142em na wypraw\u0119 rowerow\u0105 z O\u015bwi\u0119cimia? Podpowiadamy, gdzie warto si\u0119 wybra\u0107. Wybrali\u015bmy 5 ciekawych ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.C1Zc1eZMPIFBkV9GvRhiIy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "O\u015bwi\u0119cim Nasze Miasto5 godz.",
+            "source": "O\u015bwi\u0119cim Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -346,7 +330,7 @@
             "description": "Podczas prac rolniczych w Bukowcu Wielkim (woj. warmi\u0144sko-mazurskie) znaleziono skarb srebrnych monet z XVII wieku. Zabytkowe ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.xuRmfeV5Z-XxMsZHFaxDYS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Bankier.pl8 godz.",
+            "date": "Bankier.pl12 godz.",
             "source": "Bankier.pl",
             "article_content": "Podczas prac rolniczych w Bukowcu Wielkim (woj. warmi\u0144sko-mazurskie) znaleziono skarb srebrnych monet z XVII wieku. Zabytkowe znalezisko b\u0119dzie prezentowane od pocz\u0105tku przysz\u0142ego roku na wystawie w Muzeum Pogranicza w Dzia\u0142dowie.\n\n/ Gmina Janowiec Ko\u015bcielny\n\nZnalazcy skarbu - Beata i Romuald J\u00f3\u017awiak - przekazali go za po\u015brednictwem w\u00f3jta gminy Janowiec Ko\u015bcielny do Warmi\u0144sko-Mazurskiego Wojew\u00f3dzkiego Konserwatora Zabytk\u00f3w.\n\n- M\u0105\u017c odnawia\u0142 \u0142\u0105k\u0119. Chcia\u0142 pozbiera\u0107 wyorane kamienie. Okaza\u0142o si\u0119, \u017ce s\u0105 to monety \u2013 powiedzia\u0142a PAP pani Beata.\n\nO cennym odkryciu poinformowa\u0142 PAP archeolog Damian Swat z firmy Archeoskop, pod kt\u00f3rego kierownictwem w miejscu znalezienia skarbu zosta\u0142y przeprowadzone ratownicze badania wykopaliskowe. Podczas tych bada\u0144 odkryto kolejne monety i fragmenty naczynia, w kt\u00f3rym skarb zosta\u0142 pierwotnie zdeponowany.\n\nW sumie to 162 srebrne monety datowane na lata 1660-1679. S\u0105 w\u015br\u00f3d nich dwie sztuki monet o nominale 2/3 talara, 20 tymf\u00f3w, 27 ort\u00f3w i 113 sz\u00f3stak\u00f3w.\n\nArcheolog przekaza\u0142, \u017ce za pomoc\u0105 wykrywaczy metali przeszukano r\u00f3wnie\u017c du\u017cy obszar pola wok\u00f3\u0142 miejsca odkrycia znaleziska. Jak zaznaczy\u0142, by\u0142o to mo\u017cliwe dzi\u0119ki cz\u0142onkom Stowarzyszenia Historyczno-Eksploracyjne Nibork, kt\u00f3rzy pomogli te\u017c w identyfikacji monet. W badaniach brali udzia\u0142 r\u00f3wnie\u017c cz\u0142onkowie Stowarzyszenia Grupa Rekonstrukcji Historycznej \u201eAllenstein\u201d.\n\nW trakcie bada\u0144 archeologicznych natrafiono te\u017c na pozosta\u0142o\u015bci konstrukcji kamiennych po dawnym folwarku, z po\u0142owy XVII w. Znaleziono fragmenty naczy\u0144 ceramicznych, pier\u015bcionki wykonane ze stopu miedzi, medalik z Matk\u0105 Bo\u017c\u0105 Cz\u0119stochowsk\u0105 i Anio\u0142em Str\u00f3\u017cem, kule o\u0142owiane do broni czarnoprochowej, guziki i inne przedmioty codziennego u\u017cytku.\n\nW ocenie Damiana Swata, jednym z ciekawszych znalezisk jest fragment kobiecej klamry do pasa; podobne klamry znajduj\u0105 si\u0119 m.in. w Perlebergu w Brandenburgii i na zamku na Hradczanach w Pradze.\n\nZnalezione w Bukowcu Wielkim zabytki trafi\u0142y do Muzeum Pogranicza w Dzia\u0142dowie. Dyrektor muzeum Patryk Koz\u0142owski powiedzia\u0142 PAP, \u017ce trwa jeszcze konserwacja monet i zwiedzaj\u0105cy b\u0119d\u0105 je mogli ogl\u0105da\u0107 na wystawie sta\u0142ej na pocz\u0105tku przysz\u0142ego roku.\n\n- Dla naszego muzeum jest to bardzo cenne znalezisko. Cieszymy si\u0119, \u017ce trafi\u0142o do nas, bo jeste\u015bmy m\u0142odym muzeum i nasze kolekcje nie s\u0105 rozbudowane \u2013 wyja\u015bni\u0142.\n\nOkolica, w kt\u00f3rej odkryto skarb, le\u017ca\u0142a kiedy\u015b na pograniczu mazowiecko-pruskim. By\u0142a zaludniona w znacznym stopniu przez drobn\u0105 szlacht\u0119. Wie\u015b Bukowiec zosta\u0142a za\u0142o\u017cona w XIII lub XIV w., nale\u017ca\u0142a do parafii Janowiec Ko\u015bcielny. Prawdopodobnie w XVI w. zosta\u0142a podzielona na Bukowiec Wielki i Ma\u0142y, a folwarki o takich nazwach funkcjonowa\u0142y jeszcze w XIX w. (PAP)\n\nmbo/ dki/"
         }
@@ -362,9 +346,41 @@
             "description": "Jedziemy kilka kilometr\u00f3w na po\u0142udnie drog\u0105 nr 964, po czym skr\u0119camy w lewo, w kierunku Raciechowic. Za mostem czeka nas do\u015b\u0107 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.RZLo0apguS4XyXSLDl4luS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Niepo\u0142omice Nasze Miasto1 godz.",
+            "date": "Niepo\u0142omice Nasze Miasto5 godz.",
             "source": "Niepo\u0142omice Nasze Miasto",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "\u015acie\u017cki na spacer w woj. lubuskim. Gdzie wybra\u0107 si\u0119 w weekend 25 - 26 pa\u017adziernika? 10 najciekawszych tras",
+            "link": "https://gazetalubuska.pl/sciezki-na-spacer-w-woj-lubuskim-gdzie-wybrac-sie-w-weekend-25-26-pazdziernika-10-najciekawszych-tras/ar/c7p1-22116493",
+            "description": "23 maja wybra\u0142em si\u0119 na \u0141ys\u0105 G\u00f3r\u0119. Na Prze\u0142\u0119cz Widok wjecha\u0142em autobusem. Spacer (Nordic Walking) do Mikrostacji Sport\u00f3w Zimowych i Letnich. I dalej do Jeleniej G\u00f3ry przez G\u00f3r\u0119 Szybowcow\u0105. Trasa ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.6oXJf1KayPglPY9d412pqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "zabytkowe+przedmioty",
+            "date": "Gazeta Lubuska6 godz.",
+            "source": "Gazeta Lubuska",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Te okoliczno\u015bciowe dwuz\u0142ot\u00f3wki s\u0105 teraz wiele warte. Tyle p\u0142ac\u0105 za nie kolekcjonerzy",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/te-okoliczno%C5%9Bciowe-dwuz%C5%82ot%C3%B3wki-s%C4%85-teraz-wiele-warte-tyle-p%C5%82ac%C4%85-za-nie-kolekcjonerzy/ar-AA1PdLQX?ocid=BingNewsVerp",
+            "description": "Emisj\u0119 zako\u0144czono w 2014 roku, gdy zast\u0105pi\u0142y je okoliczno\u015bciowe pi\u0119cioz\u0142ot\u00f3wki. Od tego czasu ceny niekt\u00f3rych dwuz\u0142ot\u00f3wek ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.H6fqr3R61NQDDaIBI_C1aS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+numizmatyka",
+            "date": "Nowa Trybuna Opolska on MSN2 godz.",
+            "source": "Nowa Trybuna Opolska on MSN",
+            "article_content": ""
         }
     },
     {
@@ -378,25 +394,9 @@
             "description": "Ma\u0142o kto zdaje sobie spraw\u0119, \u017ce stare zestawy klock\u00f3w LEGO mog\u0105 dzi\u015b by\u0107 warte naprawd\u0119 du\u017ce pieni\u0105dze. Zabawki, kt\u00f3re ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.0bLR9NsibaVzRWYGoTkK8S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Nowa Trybuna Opolska on MSN5 godz.",
+            "date": "Nowa Trybuna Opolska on MSN9 godz.",
             "source": "Nowa Trybuna Opolska on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Oto najstarsze polskie monety. A s\u0105 w zasi\u0119gu portfela ka\u017cdego kolekcjonera",
-            "link": "https://nto.pl/oto-najstarsze-polskie-monety-a-sa-w-zasiegu-portfela-kazdego-kolekcjonera/ar/c1p2-28076981",
-            "description": "Zajrzyj do galerii i zobacz, jak wygl\u0105daj\u0105 najstarsze polskie monety, kt\u00f3re mo\u017cna mie\u0107 w swojej kolekcji bez wydawania ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.-8fIpqWwMjCDjnnWtrtExS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+numizmatyka",
-            "date": "Nowa Trybuna Opolska5 godz.",
-            "source": "Nowa Trybuna Opolska",
-            "article_content": "Content not available"
         }
     },
     {
@@ -410,8 +410,24 @@
             "description": "Monety z czas\u00f3w Polskiej Rzeczpospolitej Ludowej ciesz\u0105 si\u0119 coraz wi\u0119kszym zainteresowaniem oraz wzrasta ich warto\u015b\u0107, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.fcXjXaU4f1Plmh2aSfsj8y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Koszali\u0144ski11 godz.",
+            "date": "G\u0142os Koszali\u0144ski15 godz.",
             "source": "G\u0142os Koszali\u0144ski",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Oto najstarsze polskie monety. A s\u0105 w zasi\u0119gu portfela ka\u017cdego kolekcjonera",
+            "link": "https://nto.pl/oto-najstarsze-polskie-monety-a-sa-w-zasiegu-portfela-kazdego-kolekcjonera/ar/c1p2-28076981",
+            "description": "Zajrzyj do galerii i zobacz, jak wygl\u0105daj\u0105 najstarsze polskie monety, kt\u00f3re mo\u017cna mie\u0107 w swojej kolekcji bez wydawania ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.-8fIpqWwMjCDjnnWtrtExS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+numizmatyka",
+            "date": "Nowa Trybuna Opolska9 godz.",
+            "source": "Nowa Trybuna Opolska",
             "article_content": "Content not available"
         }
     }
