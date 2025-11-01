@@ -5,12 +5,28 @@
             "Content-Type": "application/json"
         },
         "body": {
+            "title": "Fontanna, nied\u017awied\u017a i jele\u0144 na jarmarku",
+            "link": "https://www.trojmiasto.pl/tv/Fontanna-niedzwiedz-i-jelen-na-jarmarku-02-08-2024-video-92736.html",
+            "description": "Nowo\u015bci to mo\u017cna policzy\u0107 na palcach jednej r\u0119ki. Moj\u0105 uwag\u0119 zwr\u00f3ci\u0142a budowla przy kole widokowym nie mia\u0142em czasu zaj\u015b\u0107 ale odwiedz\u0119 ciekawe czy zaskocz\u0105 czym\u015b. Ceny jedzenia powalaj\u0105. Przyk\u0142adowo w ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.TioSfvyB6Ie4qA25KB6RoA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "starocie",
+            "date": "Trojmiasto.pl11 min",
+            "source": "Trojmiasto.pl",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
             "title": "sztuczne kwiaty cmentarz",
             "link": "https://slawno.naszemiasto.pl/tag/sztuczne-kwiaty-cmentarz",
             "description": "W pi\u0105tek - 31.10.2025 r. w S\u0142awnie na targowisku bardzo du\u017cy wyb\u00f3r kwiat\u00f3w - sztucznych i doniczkowych, czy te\u017c stroik\u00f3w na ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "S\u0142awno Nasze Miasto15 godz.",
+            "date": "S\u0142awno Nasze Miasto18 godz.",
             "source": "S\u0142awno Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -26,7 +42,7 @@
             "description": "W nocy z 30 wrze\u015bnia na 1 pa\u017adziernika 2025 roku zmar\u0142 Bogus\u0142aw Fornalczyk, wybitny polski kolarz i honorowy obywatel miasta ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "B\u0119dzin Nasze Miasto16 godz.",
+            "date": "B\u0119dzin Nasze Miasto19 godz.",
             "source": "B\u0119dzin Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -42,7 +58,7 @@
             "description": "Na starych monetach z czas\u00f3w PRL-u mo\u017cna zarobi\u0107 du\u017co pieni\u0119dzy. Wycena monet zale\u017cy od ich stanu zachowania, a dobrze ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.ACm41xAt-ckCESAEZVdUXy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski on MSN21 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN23 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
@@ -58,7 +74,7 @@
             "description": "Kolekcjonowanie bardzo starych numizmat\u00f3w to hobby nie tylko dla bogaczy. Cz\u0119\u015b\u0107 z tych niezwyk\u0142ych monet, maj\u0105cych po ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.I9Aq3I7GAKhJKbOrFdmbDC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Nowa Trybuna Opolska on MSN10 godz.",
+            "date": "Nowa Trybuna Opolska on MSN13 godz.",
             "source": "Nowa Trybuna Opolska on MSN",
             "article_content": ""
         }
@@ -74,7 +90,7 @@
             "description": "Dwuz\u0142ot\u00f3wki okoliczno\u015bciowe, kt\u00f3re przez lata wypuszcza\u0142 NBP, wygl\u0105daj\u0105 jak zwyk\u0142e monety, ale niekt\u00f3re z nich osi\u0105gaj\u0105 na ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.H6fqr3R61NQDDaIBI_C1aS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Nowa Trybuna Opolska on MSN10 godz.",
+            "date": "Nowa Trybuna Opolska on MSN13 godz.",
             "source": "Nowa Trybuna Opolska on MSN",
             "article_content": ""
         }
@@ -85,12 +101,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Wazony, dzbanki, misy i inne kryszta\u0142y z PRL-u warte tysi\u0105ce. Szk\u0142o kosztuje nawet kilkana\u015bcie tysi\u0119cy z\u0142otych 31.10",
-            "link": "https://www.msn.com/pl-pl/historia-i-kultura-spo%C5%82ecze%C5%84stwa/pop-kultura/wazony-dzbanki-mise-i-inne-kryszta%C5%82y-z-prl-u-warte-tysi%C4%85ce-szk%C5%82o-kosztuje-nawet-kilkana%C5%9Bcie-tysi%C4%99cy-z%C5%82otych-27-10/ar-AA1P6Hdy?ocid=BingNewsVerp",
-            "description": "Fascynacja kryszta\u0142ami i szk\u0142em z czas\u00f3w PRL zyskuje na popularno\u015bci w\u015br\u00f3d kolekcjoner\u00f3w. Na starych wazonach, talerzach czy ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.y4lq6gmrW6p7u8BHRjE0Gi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Bi\u017cuteria z czas\u00f3w PRL-u warta maj\u0105tek! Masz takie kolczyki, bransolety czy wisiorki? S\u0105 du\u017co warte 31.10",
+            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/bi%C5%BCuteria-z-czas%C3%B3w-prl-u-warta-maj%C4%85tek-masz-takie-kolczyki-bransolety-czy-wisiorki-s%C4%85-du%C5%BCo-warte-26102025/ar-AA1O2mgf?ocid=BingNewsVerp",
+            "description": "Nawet kilka tysi\u0119cy z\u0142otych za bransoletk\u0119, kolczyki lub pier\u015bcionek. Na starej bi\u017cuterii z czas\u00f3w PRL-u mo\u017cna zarobi\u0107 du\u017co ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.NjHkJoxJLCtpCk0AVQSLIC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski on MSN21 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN23 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
@@ -106,7 +122,7 @@
             "description": "Przyczyn\u0105 \u015bmierci Bronis\u0142awa Geremka by\u0142y obra\u017cenia odniesione w wypadku samochodowym, a nie zawa\u0142 serca. Biegli b\u0119d\u0105 dalej ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "szczecin.naszemiasto3 godz.",
+            "date": "szczecin.naszemiasto5 godz.",
             "source": "szczecin.naszemiasto",
             "article_content": "Content not available"
         }
@@ -122,7 +138,7 @@
             "description": "W nocy z 30 wrze\u015bnia na 1 pa\u017adziernika 2025 roku zmar\u0142 Bogus\u0142aw Fornalczyk, wybitny polski kolarz i honorowy obywatel miasta ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "B\u0119dzin Nasze Miasto16 godz.",
+            "date": "B\u0119dzin Nasze Miasto19 godz.",
             "source": "B\u0119dzin Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -135,10 +151,10 @@
         "body": {
             "title": "Europos\u0142anka buszowa\u0142a na pchlim targu. Na kilka przedmiot\u00f3w Marta Wcis\u0142o wyda\u0142a spore pieni\u0105dze",
             "link": "https://www.msn.com/pl-pl/wiadomosci/other/europos%C5%82anka-buszowa%C5%82a-na-pchlim-targu-na-kilka-przedmiot%C3%B3w-marta-wcis%C5%82o-wyda%C5%82a-spore-pieni%C4%85dze/ar-AA1Ptc4l?ocid=BingNewsVerp",
-            "description": "Lubelska Gie\u0142da Staroci odbywa si\u0119 wy\u0142\u0105cznie w ostatni\u0105 niedziel\u0119 miesi\u0105ca. Marta Wcis\u0142o (56 l.), mi\u0142o\u015bniczka przedmiot\u00f3w z histori\u0105, cz\u0119sto jest tam obecna, szukaj\u0105c unikalnych skarb\u00f3w. \u2013 Ostatnio ku ...",
+            "description": "Lubelska Gie\u0142da Staroci odbywa si\u0119 wy\u0142\u0105cznie w ostatni\u0105 niedziel\u0119 miesi\u0105ca. Marta Wcis\u0142o (56 l.), zafascynowana przedmiotami z histori\u0105, cz\u0119sto odwiedza to miejsce w poszukiwaniu unikalnych skarb\u00f3w. \u2013 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.9TyPvEv4AXy1DBnNLZf6_Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Polityka on MSN22 godz.",
+            "date": "Polityka on MSN1 godz.",
             "source": "Polityka on MSN",
             "article_content": ""
         }
@@ -154,7 +170,7 @@
             "description": "W dobie zakup\u00f3w online, ogromnych galerii handlowych i samoobs\u0142ugowych kas, s\u0105 jeszcze miejsca, gdzie handel ma zupe\u0142nie inny ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.C-yCJai3D-0nYMFOPu_sYS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Dziennik Zachodni on MSN14 godz.",
+            "date": "Dziennik Zachodni on MSN17 godz.",
             "source": "Dziennik Zachodni on MSN",
             "article_content": ""
         }
@@ -170,24 +186,8 @@
             "description": "W parku przy al. Zwyci\u0119stwa na Anio\u0142kach, na terenie za pomnikiem-czo\u0142giem, wyci\u0119to 10 blisko stuletnich drzew. Zdaniem ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.c3ZIqlVMJPB7GVpkTwSNjy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Trojmiasto.pl2 godz.Opinion",
+            "date": "Trojmiasto.pl5 godz.Opinion",
             "source": "Trojmiasto.pl",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Bud\u017cet 2026 a zabytki wojew\u00f3dztwa \u015bl\u0105skiego. Tysi\u0105ce obiekt\u00f3w do ochrony, a pieni\u0119dzy wci\u0105\u017c ma\u0142o",
-            "link": "https://dziennikzachodni.pl/budzet-2026-a-zabytki-wojewodztwa-slaskiego-tysiace-obiektow-do-ochrony-a-pieniedzy-wciaz-malo/ar/c1p2-28128335",
-            "description": "Dziedzictwo \u015al\u0105ska i ca\u0142ego wojew\u00f3dztwa zn\u00f3w \u015bciera si\u0119 z bud\u017cetow\u0105 arytmetyk\u0105. Cho\u0107 w rejestrze zabytk\u00f3w region ma ponad ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.sXF6tBdPgrhvp3Je-hKWBC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "Dziennik Zachodni21 godz.Opinion",
-            "source": "Dziennik Zachodni",
             "article_content": "Content not available"
         }
     },
@@ -202,7 +202,7 @@
             "description": "Zanim wyruszysz na wypraw\u0119, sprawd\u017a, jaka b\u0119dzie pogoda. W sobot\u0119 01 listopada w O\u015bwi\u0119cimiu ma by\u0107 18\u00b0C. Nie powinno pada\u0107. W ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.2t0erq3HvZkNJqoJGwn9hS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "O\u015bwi\u0119cim Nasze Miasto11 godz.",
+            "date": "O\u015bwi\u0119cim Nasze Miasto13 godz.",
             "source": "O\u015bwi\u0119cim Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -218,7 +218,7 @@
             "description": "Przed Dniem Wszystkich \u015awi\u0119tych przypominamy histori\u0119 jeleniog\u00f3rskich cmentarzy. Z kilkunastu nekropolii, kt\u00f3re by\u0142y w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.EFOMdmTMQbE-rqpjmoYQzy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Jelenia G\u00f3ra Nasze Miasto on MSN18 godz.",
+            "date": "Jelenia G\u00f3ra Nasze Miasto on MSN21 godz.",
             "source": "Jelenia G\u00f3ra Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -234,7 +234,7 @@
             "description": "W woj. zachodniopomorskim nie brakuje tras spacerowych. Zebrali\u015bmy dla Was 10 sugestii. Mo\u017cecie nam\u00f3wi\u0107 rodzin\u0119 i wsp\u00f3lnie ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.oUSE_8V9RKpDRDzMTymc-i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "G\u0142os Szczeci\u0144ski11 godz.",
+            "date": "G\u0142os Szczeci\u0144ski14 godz.",
             "source": "G\u0142os Szczeci\u0144ski",
             "article_content": "Content not available"
         }
@@ -245,12 +245,28 @@
             "Content-Type": "application/json"
         },
         "body": {
+            "title": "Nordic walking do 1 km od Ko\u0142obrzegu. Pomys\u0142y na odrobin\u0119 ruchu na powietrzu w weekend 1 - 2 listopada",
+            "link": "https://kolobrzeg.naszemiasto.pl/nordic-walking-do-1-km-od-kolobrzegu-pomysly-na-odrobine-ruchu-na-powietrzu-w-weekend-1-2-listopada/ar/c7p1-22319027",
+            "description": "W sobot\u0119 1 listopada wed\u0142ug prognozy pogody ma by\u0107 15\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 2 listopada zgodnie z najnowszymi prognozami pogody ma by\u0107 14\u00b0C w najcieplejszym momencie dnia.",
+            "image_url": "https://www.bing.pl/th?id=ODF.xGyVXoJ9b0zlcu2rTPA_6w&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "relikty",
+            "date": "Ko\u0142obrzeg Nasze Miasto14 godz.",
+            "source": "Ko\u0142obrzeg Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
             "title": "Dyrektorki szk\u00f3\u0142 za\u0142o\u017cy\u0142y mafi\u0119. W tle martwi uczniowie",
-            "link": "https://www.portalsamorzadowy.pl/edukacja/dyrektorki-szkol-w-mafijnej-siatce-w-tle-martwi-uczniowie-i-duze-pieniadze,636121.html",
+            "link": "https://www.portalsamorzadowy.pl/edukacja/dyrektorki-szkol-zalozyly-mafie-w-tle-martwi-uczniowie,636121.html",
             "description": "Prokuratura postawi\u0142a zarzuty udzia\u0142 w zorganizowanej grupie przest\u0119pczej i wy\u0142udzenia dotacji dyrektorkom szk\u00f3\u0142 z 10 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.9w9ARhbQckur8JodmNEJ-y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Portal Samorz\u0105dowy12 godz.",
+            "date": "Portal Samorz\u0105dowy17 godz.",
             "source": "Portal Samorz\u0105dowy",
             "article_content": "Prokuratura postawi\u0142a zarzuty udzia\u0142 w zorganizowanej grupie przest\u0119pczej i wy\u0142udzenia dotacji dyrektorkom szk\u00f3\u0142 z 10 wojew\u00f3dztw. Szko\u0142y wymienia\u0142y si\u0119 danymi osobowymi domniemanych s\u0142uchaczy i wykazywa\u0142y fikcyjne, a nawet martwe osoby.\n\n14 dyrektorek niepublicznych szk\u00f3\u0142 z 10 wojew\u00f3dztw us\u0142ysza\u0142o zarzut udzia\u0142u w zorganizowanej grupie przest\u0119pczej i wy\u0142udzenia prawie 40 mln z\u0142 dotacji.\n\nSzko\u0142y kierowane przez dyrektorki wykazywa\u0142y m.in. osoby fikcyjne, przebywaj\u0105ce od lat za granic\u0105, kt\u00f3re nie kontynuowa\u0142y nauki, a nawet osoby zmar\u0142e - m\u00f3wi rzecznik prokuratury Krzysztof Kopania.\n\nWymienia\u0142y si\u0119 te\u017c danymi osobowymi domniemanych s\u0142uchaczy i te same osoby wykazywane by\u0142y jako uczniowie kilku plac\u00f3wek - zaznacza.\n\n14 dyrektorek niepublicznych szk\u00f3\u0142 z zarzutami wy\u0142udzenia 40 mln z\u0142 dotacji\n\n14 dyrektorek niepublicznych szk\u00f3\u0142 z 10 wojew\u00f3dztw us\u0142ysza\u0142o zarzut udzia\u0142u w zorganizowanej grupie przest\u0119pczej i wy\u0142udzenia dotacji.\n\nO zarzutach poinformowa\u0142a Prokuratura Regionalna w \u0141odzi.\n\nUstalili\u015bmy, \u017ce szko\u0142y kierowane przez podejrzane dyrektorki wykazywa\u0142y m.in. osoby fikcyjne, przebywaj\u0105ce od wielu lat za granic\u0105, takie, kt\u00f3re faktycznie nie kontynuowa\u0142y nauki, a nawet zmar\u0142e. Wymienia\u0142y si\u0119 te\u017c danymi osobowymi domniemanych s\u0142uchaczy i te same osoby wykazywane by\u0142y jako uczniowie kilku plac\u00f3wek\n\n- opisa\u0142 dzia\u0142anie grupy przest\u0119pczej rzecznik Prokuratury Regionalnej w \u0141odzi prok. Krzysztof Kopania.\n\nPodejrzane pochodz\u0105 z wojew\u00f3dztw:\n\n\u0142\u00f3dzkiego,\n\nwielkopolskiego,\n\nma\u0142opolskiego,\n\ndolno\u015bl\u0105skiego,\n\nlubuskiego,\n\nmazowieckiego,\n\n\u015bl\u0105skiego,\n\nzachodniopomorskiego,\n\npomorskiego,\n\npodlaskiego.\n\nPolicjanci zatrzymali 13 kobiet w wieku od 30 do 70 lat, a jedna sama zg\u0142osi\u0142a si\u0119 do prokuratury.\n\nRozbito gang dyrektorek szk\u00f3\u0142. Grozi im 15 lat wi\u0119zienia\n\nWszystkie kobiety us\u0142ysza\u0142y zarzut udzia\u0142u w zorganizowanej grupie przest\u0119pczej, po\u015bwiadczenia nieprawdy w dokumentach i wy\u0142udzenia dotacji przyznawanych przez gminy niepublicznym plac\u00f3wkom o\u015bwiatowym w \u0142\u0105cznej kwocie co najmniej 39,5 mln z\u0142. Podejrzanym gro\u017c\u0105 kary do 15 lat pozbawienia wolno\u015bci\n\n- powiedzia\u0142 Kopania.\n\nDyrektorki zawy\u017ca\u0142y liczb\u0119 uczni\u00f3w i wy\u0142udza\u0142y dotacje dla szk\u00f3\u0142\n\nPodejrzane to dyrektorki niepublicznych lice\u00f3w, szk\u00f3\u0142 policealnych, a tak\u017ce podstawowych i gimnazj\u00f3w dla doros\u0142ych. Zarzuty dotycz\u0105 lat 2017-2023. Zebrane dowody da\u0142y podstawy do przyj\u0119cia, \u017ce podejrzane uczyni\u0142y z przest\u0119pczego procederu sta\u0142e \u017ar\u00f3d\u0142o dochod\u00f3w.\n\nDzia\u0142anie grupy polega\u0142o na tym, \u017ce dyrektorki po\u015bwiadcza\u0142y nieprawd\u0119 w dokumentach, zawy\u017caj\u0105c faktyczn\u0105 liczb\u0119 uczni\u00f3w i dzi\u0119ki temu wy\u0142udza\u0142y dotacje przyznawane szko\u0142om niepublicznym przez gminy.\n\nKobietom przedstawiono zarzuty pope\u0142nienia \u0142\u0105cznie 79 przest\u0119pstw\n\nKobietom przedstawiono zarzuty pope\u0142nienia \u0142\u0105cznie 79 przest\u0119pstw, a na potrzeby \u015bledztwa zabezpieczona zosta\u0142a dokumentacja szkolna i ksi\u0119gowa, dokumenty zwi\u0105zane z ubieganiem si\u0119 o dotacje, a tak\u017ce komputery i telefony podejrzanych.\n\nWszystkie podejrzane maj\u0105 doz\u00f3r policyjny. Musia\u0142y wp\u0142aci\u0107 por\u0119czenia maj\u0105tkowe. Dosta\u0142y te\u017c zakaz opuszczania kraju.\n\nW maju Prokuratura Regionalna w \u0141odzi postawi\u0142a zarzuty pi\u0119ciu osobom podejrzanym o pranie pieni\u0119dzy (ponad 8 mln z\u0142) uzyskanych dzi\u0119ki wy\u0142udzeniu dotacji dla szk\u00f3\u0142 niepublicznych. Prokurator Kopania powiedzia\u0142 wtedy, \u017ce sp\u00f3\u0142ki prowadz\u0105ce plac\u00f3wki o\u015bwiatowe by\u0142y powi\u0105zane osobowo, a na stanowiska ich prezes\u00f3w werbowano przypadkowe osoby, tzw. s\u0142upy. Zarzut kierowania grup\u0105 przest\u0119pcz\u0105 us\u0142ysza\u0142 52-letni fotograf, mieszkaniec \u0141odzi.\n\nWed\u0142ug prokuratora, aby zalegalizowa\u0107 pieni\u0105dze pochodz\u0105ce z przest\u0119pczego procederu, podejrzani kupowali nieruchomo\u015bci, samochody i inne warto\u015bciowe przedmioty, m.in. zabytkowe luksusowe pojazdy.\n\nO podejrzeniu wy\u0142udzania dofinansowania prokuratur\u0119 powiadomi\u0142 Wydzia\u0142 Edukacji Urz\u0119du Miasta \u0141odzi. Do jednego \u015bledztwa dotycz\u0105cego pi\u0119ciu plac\u00f3wek szkolnych do\u0142\u0105czono 17 kolejnych tocz\u0105cych si\u0119 ju\u017c w prokuraturach rejonowych.\n\nWed\u0142ug prokuratury \u015bledztwo ma charakter rozwojowy.\n\nTAGI"
         }
@@ -266,7 +282,7 @@
             "description": "Nie ka\u017cdy zdaje sobie spraw\u0119, \u017ce stare zestawy klock\u00f3w LEGO mog\u0105 dzi\u015b by\u0107 warte tak du\u017co pieni\u0119dzy. Zabawki, kt\u00f3re jeszcze kilkana\u015bcie lat temu kupowano dzieciom pod choink\u0119, sta\u0142y si\u0119 przedmiotem ...",
             "image_url": "https://www.bing.pl/th?id=ODF.U7tHWt6afQwcI4sCY6tjaA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "Nowa Trybuna Opolska on MSN10 godz.",
+            "date": "Nowa Trybuna Opolska on MSN13 godz.",
             "source": "Nowa Trybuna Opolska on MSN",
             "article_content": ""
         }
@@ -282,7 +298,7 @@
             "description": "Kolekcjonowanie bardzo starych numizmat\u00f3w to hobby nie tylko dla bogaczy. Cz\u0119\u015b\u0107 z tych niezwyk\u0142ych monet, maj\u0105cych po ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.I9Aq3I7GAKhJKbOrFdmbDC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Nowa Trybuna Opolska on MSN10 godz.",
+            "date": "Nowa Trybuna Opolska on MSN13 godz.",
             "source": "Nowa Trybuna Opolska on MSN",
             "article_content": ""
         }
