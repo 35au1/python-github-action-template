@@ -10,9 +10,41 @@
             "description": "Na Pchlim Targu we W\u0142oc\u0142awku mo\u017cna znale\u017a\u0107 niemal wszystko \u2013 od odzie\u017cy eleganckiej i roboczej, przez obuwie, bi\u017cuteri\u0119, warzywa i owoce, po drobne AGD i RTV, narz\u0119dzia oraz kosmetyki. Ka\u017cdy, kto ...",
             "image_url": "https://www.bing.pl/th?id=ODF.Bm8piDnsAoinfeChI0AgCw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN1 godz.",
+            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN5 godz.",
             "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Niedzielna gie\u0142da rolno-towarowa przy Andersa w Bia\u0142ymstoku. Zobacz ceny produkt\u00f3w",
+            "link": "https://poranny.pl/niedzielna-gielda-rolno-towarowa-przy-andersa-w-bialymstoku-zobacz-ceny-produktow/ar/c1p2-28137483",
+            "description": "W niedziel\u0119 przy ulicy Andersa w Bia\u0142ymstoku odby\u0142a si\u0119 kolejna edycja gie\u0142dy rolno-towarowej. Cho\u0107 ludzi by\u0142o mniej ni\u017c ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.jl5ZF-e-6CvAIRaUeJh30S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Kurier Poranny5 godz.",
+            "source": "Kurier Poranny",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Zaduszki 2025",
+            "link": "https://dabrowagornicza.naszemiasto.pl/tag/zaduszki-2025",
+            "description": "Drugi dzie\u0144 listopada, Dzie\u0144 Zaduszny \u2013 to czas, gdy intensywno\u015b\u0107 modlitwy przenosi si\u0119 ze \u015bwiat\u0142a chwa\u0142y na g\u0142\u0119bok\u0105 pro\u015bb\u0119 o ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "dabrowagornicza.naszemiasto2 godz.",
+            "source": "dabrowagornicza.naszemiasto",
+            "article_content": "Content not available"
         }
     },
     {
@@ -26,24 +58,8 @@
             "description": "Zobaczcie fotorelacj\u0119 z sobotniej imprezy w klubie Venus Planet w Konecku, kt\u00f3ra odby\u0142a si\u0119 11 pa\u017adziernika 2025 roku. To ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.ouJwp-18bZiTIKllzeU__i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Lipno Nasze Miasto18 godz.",
+            "date": "Lipno Nasze Miasto21 godz.",
             "source": "Lipno Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Przegl\u0105d prasy z pa\u017adziernika 2025. Zestaw najwa\u017cniejszych wydarze\u0144 miesi\u0105ca. Co dzia\u0142o si\u0119 we W\u0142oc\u0142awku?",
-            "link": "https://wloclawek.naszemiasto.pl/przeglad-prasy-z-pazdziernika-2025-zestaw-najwazniejszych-wydarzen-miesiaca-co-dzialo-sie-we-wloclawku/ar/c1p1-28135113",
-            "description": "W niedziel\u0119, 26 pa\u017adziernika 2025 roku na tradycyjnym Pchlim Targu we W\u0142oc\u0142awku przy alei Kazimierza Wielkiego jesienna pogoda sprzyja\u0142a sprzedaj\u0105cym i kupuj\u0105cym. Zobaczcie na zdj\u0119ciach i wideo, co ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.Bm8piDnsAoinfeChI0AgCw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "starocie",
-            "date": "W\u0142oc\u0142awek Nasze Miasto21 godz.",
-            "source": "W\u0142oc\u0142awek Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -58,7 +74,7 @@
             "description": "Na starych monetach z czas\u00f3w PRL-u mo\u017cna zarobi\u0107 du\u017co pieni\u0119dzy. Wycena monet zale\u017cy od ich stanu zachowania, a dobrze utrzymane egzemplarze s\u0105 szczeg\u00f3lnie cenione. W galerii przedstawiamy za ile ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski7 godz.",
+            "date": "G\u0142os Koszali\u0144ski11 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
         }
@@ -74,7 +90,7 @@
             "description": "W 2025 roku stare banknoty i monety z czas\u00f3w PRL sta\u0142y si\u0119 prawdziwym hitem w\u015br\u00f3d kolekcjoner\u00f3w. Nie m\u00f3wimy tu tylko o ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.WiLOrT2bb5xgTdO-Q2z5Ei&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN3 godz.",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN50 min",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
             "article_content": ""
         }
@@ -85,12 +101,28 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Kolekcjonerzy poluj\u0105 na te pieni\u0105dze z czas\u00f3w PRL. Niekt\u00f3re stare banknoty i monety warte s\u0105 krocie [2.11.2025]",
-            "link": "https://www.msn.com/pl-pl/finanse/og%C3%B3lne/kolekcjonerzy-poluj%C4%85-na-te-pieni%C4%85dze-z-czas%C3%B3w-prl-niekt%C3%B3re-stare-banknoty-i-monety-warte-s%C4%85-krocie-2-11-2025/ar-AA1PEyEV?ocid=BingNewsVerp",
+            "title": "Kolekcjonerzy poluj\u0105 na te pieni\u0105dze z czas\u00f3w PRL. Niekt\u00f3re stare banknoty i monety warte s\u0105 krocie",
+            "link": "https://www.msn.com/pl-pl/finanse/inwestycja/kolekcjonerzy-poluj%C4%85-na-te-pieni%C4%85dze-z-czas%C3%B3w-prl-niekt%C3%B3re-stare-banknoty-i-monety-warte-s%C4%85-krocie/ar-AA1PEyEV?ocid=BingNewsVerp",
             "description": "W 2025 roku banknoty i monety z lat PRL ciesz\u0105 si\u0119 popularno\u015bci\u0105 i s\u0105 poszukiwane przez kolekcjoner\u00f3w. Je\u015bli masz takie w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.c_QjgL9j3rwRhEbt05tXri&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Express Bydgoski on MSN3 godz.",
+            "date": "Express Bydgoski on MSN46 min",
+            "source": "Express Bydgoski on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Antyki w cenie z\u0142ota. Tyle kosztuj\u0105 starze rzeczy z dom\u00f3w w listopadzoe 2025 - potrafi\u0105 by\u0107 warte krocie",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/antyki-w-cenie-z%C5%82ota-tyle-kosztuj%C4%85-starze-rzeczy-z-dom%C3%B3w-w-listopadzoe-2025-potrafi%C4%85-by%C4%87-warte-krocie/ar-AA1PEkQF?ocid=BingNewsVerp",
+            "description": "W 2025 roku antyki ciesz\u0105 si\u0119 popularno\u015bci\u0105 i s\u0105 poszukiwane przez kolekcjoner\u00f3w. Je\u015bli masz jeszcze takie w domu, przyjrzyj si\u0119 im dok\u0142adnie. Mo\u017ce si\u0119 okaza\u0107, \u017ce w szufladach, na strychu czy piwnicy ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.lSvQ7lbnEp30GW9jilHB-Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stare+monety",
+            "date": "Express Bydgoski on MSN47 min",
             "source": "Express Bydgoski on MSN",
             "article_content": ""
         }
@@ -106,24 +138,8 @@
             "description": "Kobiety trzymaj\u0105 cenn\u0105 bi\u017cuteri\u0119 z tych czas\u00f3w, kt\u00f3ra by\u0142a odzwierciedleniem stylu, bogactwa oraz mo\u017cliwo\u015bci. Du\u017co cenniejsze s\u0105 unikatowe wzory, kt\u00f3re zosta\u0142y wyprodukowane w ma\u0142ych ilo\u015bciach i s\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski7 godz.",
+            "date": "G\u0142os Koszali\u0144ski11 godz.",
             "source": "G\u0142os Koszali\u0144ski",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Stare telefony kom\u00f3rkowe, kt\u00f3re dzi\u015b s\u0105 warte fortun\u0119. Masz takie? 02.11.2025",
-            "link": "https://gp24.pl/stare-telefony-komorkowe-ktore-dzis-sa-warte-fortune-masz-takie-02-11-2025/ar/c12p2-27723793",
-            "description": "Pokolenie dzisiejszych 30- i 40-latk\u00f3w dorasta\u0142o z pierwszymi kom\u00f3rkami w r\u0119kach. D\u017awi\u0119k kultowego dzwonka Nokii 3310, gry w ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.OXE2420uQ6nCkpyyIn4GGy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "G\u0142os Pomorza6 godz.",
-            "source": "G\u0142os Pomorza",
             "article_content": "Content not available"
         }
     },
@@ -138,9 +154,25 @@
             "description": "Kolejna niedziela - 2 listopada - i kolejny pchli targ odby\u0142 si\u0119 na parkingu przy ulicy Grudzi\u0105dzkiej w Toruniu.",
             "image_url": "https://www.bing.pl/th?id=OVFT.P0nBauc3VmIHYTlBgfCUGy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN1 godz.",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN5 godz.",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Zaduszki 2025",
+            "link": "https://dabrowagornicza.naszemiasto.pl/tag/zaduszki-2025",
+            "description": "Drugi dzie\u0144 listopada, Dzie\u0144 Zaduszny \u2013 to czas, gdy intensywno\u015b\u0107 modlitwy przenosi si\u0119 ze \u015bwiat\u0142a chwa\u0142y na g\u0142\u0119bok\u0105 pro\u015bb\u0119 o ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "dabrowagornicza.naszemiasto2 godz.",
+            "source": "dabrowagornicza.naszemiasto",
+            "article_content": "Content not available"
         }
     },
     {
@@ -154,7 +186,7 @@
             "description": "Targowisko Miejskie w B\u0119dzinie Godziny otwarcia: \u015broda 6:00 \u2013 13:00 sobota 6:00 \u2013 13:00 Targowisko Miejskie po\u0142o\u017cone jest przy ul. Gzichowskiej w B\u0119dzinie. Dojazd komunikacj\u0105 miejsk\u0105 (autobusy): B\u0119dzi ...",
             "image_url": "https://www.bing.pl/th?id=ODF.73GKiv_kwPXUhIas-a0ZXQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Dziennik Zachodni5 godz.",
+            "date": "Dziennik Zachodni9 godz.",
             "source": "Dziennik Zachodni",
             "article_content": "Content not available"
         }
@@ -170,7 +202,7 @@
             "description": "W niedziel\u0119, 18 pa\u017adziernika 2025 roku, parking przed Centrum Handlowym M1 t\u0119tni\u0142 \u017cyciem za spraw\u0105 gie\u0142dy, kt\u00f3ra jak zawsze przyci\u0105gn\u0119\u0142a t\u0142umy odwiedzaj\u0105cych. Na setkach stoisk czeka\u0142y r\u0119kodzie\u0142o, ...",
             "image_url": "https://www.bing.pl/th?id=ODF.Cya7j59Rws2Si6qfmk5ljw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Pozna\u0144 Nasze Miasto19 godz.",
+            "date": "Pozna\u0144 Nasze Miasto23 godz.",
             "source": "Pozna\u0144 Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -181,28 +213,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Zagadkowe odkrycie polskich archeolog\u00f3w. Znale\u017ali cia\u0142a dzieci. \"Nietypowy zwyczaj\"",
-            "link": "https://wiadomosci.radiozet.pl/polska/zagadkowe-odkrycie-polskich-archeologow-znalezli-ciala-dzieci-nietypowy-zwyczaj",
-            "description": "Wawrzy\u0144ca mog\u0142a by\u0107 miejscem kultu, a w p\u00f3\u017aniejszym czasie o\u015brodkiem chrze\u015bcija\u0144skim. Prof. Chudziak zaznacza, \u017ce znalezione tam relikty kamiennej bazyliki \u015bwiadcz\u0105 o jego wyj\u0105tkowym znaczeniu. - Na ...",
-            "image_url": "https://www.bing.plNo image",
+            "title": "Zabawki z Kinder Niespodzianki z lat 90. i PRL-u osi\u0105gaj\u0105 zawrotne kwoty. Mo\u017cesz mie\u0107 takie w domu!",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/zabawki-z-kinder-niespodzianki-z-lat-90-i-prl-u-osi%C4%85gaj%C4%85-zawrotne-kwoty-mo%C5%BCesz-mie%C4%87-takie-w-domu/ar-AA1PEfxf?ocid=BingNewsVerp",
+            "description": "Niepozorne zabawki z czekoladowych jajek to dzi\u015b prawdziwy rarytas dla kolekcjoner\u00f3w. Figurki z Kinder Niespodzianki ze ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.XlvxOAqsbc1MJKDMe-K7WC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Radio ZET29 min",
-            "source": "Radio ZET",
-            "article_content": "Z tego artyku\u0142u dowiesz si\u0119: Jakiego odkrycia dokonano w Ka\u0142dusie ko\u0142o Che\u0142mna.\n\nDlaczego znalezisko w Ka\u0142dusie uznaje si\u0119 za nietypowe.\n\nKt\u00f3re kultury historyczne zwi\u0105zane s\u0105 z odkryciem.\n\nCo sugeruj\u0105 skr\u0119powane szcz\u0105tki dzieci w grodzisku.\n\nArcheolodzy odkryli poch\u00f3wki dzieci z okresu wczesnej epoki \u017celaza\n\nArcheolodzy z Instytutu Archeologii UMK w Toruniu odkryli w Ka\u0142dusie ko\u0142o Che\u0142mna (woj. kujawsko-pomorskie) poch\u00f3wki szkieletowe dzieci datowane na wczesn\u0105 epok\u0119 \u017celaza, zwi\u0105zane z kultur\u0105 \u0142u\u017cyck\u0105. Jak przekaza\u0142 PAP dr Ryszard Ka\u017amierczak, cia\u0142a by\u0142y pierwotnie skr\u0119powane, co mo\u017ce sugerowa\u0107 ofiary rytualne, cho\u0107 ostateczne wnioski przynios\u0105 dopiero analizy antropologiczne. - Odkryli\u015bmy poch\u00f3wki szkieletowe dzieci w najwi\u0119kszym obni\u017ceniu wn\u0119trza grodu majdanu, w okolicach najpewniej studni. S\u0105 to poch\u00f3wki z okresu kultury \u0142u\u017cyckiej. To nietypowy zwyczaj pogrzebowy, gdy\u017c dominowa\u0142a wtedy kremacja. By\u0107 mo\u017ce s\u0105 to ofiary. Tym bardziej \u017ce te cia\u0142a by\u0142y pierwotnie skr\u0119powane, zwi\u0105zane \u2013 powiedzia\u0142 naukowiec.\n\nBadania prowadzone s\u0105 na terenie G\u00f3ry \u015bw. Wawrzy\u0144ca, najwi\u0119kszego na ziemi che\u0142mi\u0144skiej wielokulturowego grodziska. Archeolodzy koncentruj\u0105 si\u0119 obecnie na rozpoznaniu tr\u00f3jcz\u0142onowego wczesno\u015bredniowiecznego grodu. - Odkrycie w tym miejscu szkielet\u00f3w z wczesnej epoki \u017celaza jest do\u015b\u0107 zaskakuj\u0105ce. Szcz\u0105tki ludzkie zostan\u0105 poddane analizie antropologicznej. By\u0107 mo\u017ce dopiero w\u00f3wczas b\u0119dziemy mogli o tym znalezisku wi\u0119cej powiedzie\u0107 \u2013 zaznaczy\u0142 dr Ka\u017amierczak, dodaj\u0105c, \u017ce jedno dziecko znaleziono w pozycji embrionalnej, drugie by\u0142o skr\u0119powane.\n\nDyrektor Instytutu Archeologii UMK, prof. Wojciech Chudziak, podkre\u015bla, \u017ce obecnie nie ma ju\u017c w\u0105tpliwo\u015bci, i\u017c zesp\u00f3\u0142 osadniczy w Ka\u0142dusie zwi\u0105zany z G\u00f3r\u0105 \u015bw. Wawrzy\u0144ca to miejsce, gdzie przez kilka stuleci funkcjonowa\u0142o historyczne Che\u0142mno przedlokacyjne. - Ju\u017c w okresie plemiennym, przedpa\u0144stwowym, by\u0142 to zapewne g\u0142\u00f3wny o\u015brodek spo\u0142eczno-kulturowy i religijny w zachodniej cz\u0119\u015bci mi\u0119dzyrzecza Wis\u0142y, Drw\u0119cy i Osy \u2013 podkre\u015bli\u0142 profesor. Jak doda\u0142, od czas\u00f3w pierwszych Piast\u00f3w by\u0142o to centrum polityczne i gospodarcze regionu.\n\nG\u00f3ra \u015bw. Wawrzy\u0144ca we wsi Ka\u0142dus\n\nKa\u0142dus, rozci\u0105gaj\u0105cy si\u0119 na ponad 15 hektarach, to jedno z najwi\u0119kszych znanych grodzisk w regionie. W jego sk\u0142ad wchodzi G\u00f3ra \u015bw. Wawrzy\u0144ca, tr\u00f3jcz\u0142onowe grodzisko o powierzchni ponad 3 hektar\u00f3w oraz rozleg\u0142a osada podgrodowa z cmentarzyskiem, na kt\u00f3rym odkryto ponad 1400 grob\u00f3w. Wed\u0142ug prof. Chudziaka \"stratygrafia kulturowa stanowi\u0105ca zapis historii tego miejsca przypomina troch\u0119 wielowarstwowy tort imieninowy, kt\u00f3rego najni\u017csze warstwy si\u0119gaj\u0105 5-6 metr\u00f3w poni\u017cej wsp\u00f3\u0142czesnego poziomu gruntu\".\n\nW\u015br\u00f3d licznych znalezisk archeolodzy natrafili na ponad 400 monet pochodz\u0105cych z r\u00f3\u017cnych cz\u0119\u015bci Europy, w tym dirhamy arabskie z IX\u2013X wieku, monety niemieckie, czeskie, w\u0119gierskie, angielskie, du\u0144skie i polskie. - Mamy ca\u0142y przegl\u0105d w\u0142adc\u00f3w piastowskich, emitent\u00f3w srebrnego pieni\u0105dza monetarnego \u2013 m\u00f3wi\u0142 prof. Chudziak, wymieniaj\u0105c m.in. denar Boles\u0142awa Chrobrego oraz monety W\u0142adys\u0142awa Hermana i Boles\u0142awa Krzywoustego.\n\nZdaniem badaczy G\u00f3ra \u015bw. Wawrzy\u0144ca mog\u0142a by\u0107 miejscem kultu, a w p\u00f3\u017aniejszym czasie o\u015brodkiem chrze\u015bcija\u0144skim. Prof. Chudziak zaznacza, \u017ce znalezione tam relikty kamiennej bazyliki \u015bwiadcz\u0105 o jego wyj\u0105tkowym znaczeniu. - Na tym stanowisku jest wszystko, czyli \u015blady cz\u0142owieka sprzed kilku tysi\u0119cy lat, jak i pozosta\u0142o\u015bci m\u0142odsze z czas\u00f3w historycznych. Jak to si\u0119 m\u00f3wi w archeologii, jest to pod wieloma wzgl\u0119dami \"terra incognita\" - podsumowa\u0142 dr Ka\u017amierczak.\n\n\u0179r\u00f3d\u0142o: Radio ZET/PAP"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Zabawki z Kinder Niespodzianki z lat 90. i PRL-u osi\u0105gaj\u0105 zawrotne kwoty. Mo\u017cesz mie\u0107 takie w domu! [2.11.2025]",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/zabawki-z-kinder-niespodzianki-z-lat-90-i-prl-u-osi%C4%85gaj%C4%85-zawrotne-kwoty-mo%C5%BCesz-mie%C4%87-takie-w-domu-2112025/ar-AA1PEfxf?ocid=BingNewsVerp",
-            "description": "Sprawd\u017a, czy masz jeszcze w domu stare figurki z Kinder Niespodzianka. Na niekt\u00f3rych kolekcjach po wielu latach mo\u017cna sporo zarobi\u0107. Od czego zale\u017cy ich cena w 2025 roku? Czego najbardziej poszukuj\u0105 k ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.lSvQ7lbnEp30GW9jilHB-Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "relikty",
-            "date": "Express Bydgoski on MSN3 godz.",
+            "date": "Express Bydgoski on MSN47 min",
             "source": "Express Bydgoski on MSN",
             "article_content": ""
         }
@@ -213,13 +229,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "To miejsce kochaj\u0105 poznaniacy. 1 listopada jest tu szczeg\u00f3lnie pi\u0119knie. Tak wygl\u0105da Cytadela roz\u015bwietlona p\u0142omieniami zniczy",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/to-miejsce-kochaj%C4%85-poznaniacy-1-listopada-jest-tu-szczeg%C3%B3lnie-pi%C4%99knie-tak-wygl%C4%85da-cytadela-roz%C5%9Bwietlona-p%C5%82omieniami-zniczy/ar-AA1PD8yk?ocid=BingNewsVerp",
-            "description": "Pozna\u0144ska Cytadela to nie tylko ogromny, ponad 100-hektarowy park w sercu miasta, miejsce spacer\u00f3w, odpoczynku czy koncert\u00f3w.",
-            "image_url": "https://www.bing.pl/th?id=OVFT.am66o4Kz6vo1x328kjZqHS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Zagadkowe odkrycie polskich archeolog\u00f3w. Znale\u017ali cia\u0142a dzieci. \"Nietypowy zwyczaj\"",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/zagadkowe-odkrycie-polskich-archeolog%C3%B3w-znale%C5%BAli-cia%C5%82a-dzieci-nietypowy-zwyczaj/ar-AA1PEKIF?ocid=BingNewsVerp",
+            "description": "Archeolodzy z UMK w Toruniu odkryli w Ka\u0142dusie ko\u0142o Che\u0142mna poch\u00f3wki szkieletowe dzieci z wczesnej epoki \u017celaza. Nietypowe ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.ZC-rllhLBj4xqCI9CfFy-S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "G\u0142os Wielkopolski on MSN2 godz.",
-            "source": "G\u0142os Wielkopolski on MSN",
+            "date": "Wiadomo\u015bci Radio ZET on MSN3 godz.",
+            "source": "Wiadomo\u015bci Radio ZET on MSN",
             "article_content": ""
         }
     },
@@ -229,14 +245,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Kamionek. Deweloper w dawnej fabryce Perun burzy stare zabudowania pod nowe osiedle",
-            "link": "https://warszawa.wyborcza.pl/warszawa/7,54420,32367096,czas-rozbiorek-na-terenie-d-fabryki-perun.html",
-            "description": "Ci\u0119\u017cki sprz\u0119t budowlany burzy stare - ale nie te zabytkowe - zabudowania na terenie dawnej fabryki Perun na Kamionku. W tym miejscu ma powsta\u0107 osiedle w trybie lex deweloper ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.hGSuZUH1fKDOGwcDaIGMcg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Trasy nordic walking do 1 km od Ko\u0142obrzegu. Urokliwe trasy na weekend 1 - 2 listopada",
+            "link": "https://kolobrzeg.naszemiasto.pl/trasy-nordic-walking-do-1-km-od-kolobrzegu-urokliwe-trasy-na-weekend-1-2-listopada/ar/c7p1-22319027",
+            "description": "Rozgl\u0105dasz si\u0119 za ciekawymi \u015bcie\u017ckami nordic walking w pobli\u017cu Ko\u0142obrzegu? Z Traseo przygotowali\u015bmy dla Ciebie kilka podpowiedzi na ten tydzie\u0144. Je\u017celi to Tw\u00f3j pocz\u0105tek z nordic walking, nie zaczynaj ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.xGyVXoJ9b0zlcu2rTPA_6w&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Warszawa.Wyborcza.pl18 godz.",
-            "source": "Warszawa.Wyborcza.pl",
-            "article_content": ""
+            "date": "Ko\u0142obrzeg Nasze Miasto2 godz.",
+            "source": "Ko\u0142obrzeg Nasze Miasto",
+            "article_content": "Content not available"
         }
     },
     {
@@ -245,14 +261,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Jaka jest idealna ilo\u015b\u0107 mebli vintage w domu?",
-            "link": "https://www.msn.com/pl-pl/dom-i-ogr%C3%B3d/dekorowanie-wn%C4%99trz/jaka-jest-idealna-ilo%C5%9B%C4%87-mebli-vintage-w-domu/ar-AA1PDoXs?ocid=BingNewsVerp",
-            "description": "W\u0142\u0105czenie mebli vintage do wystroju wn\u0119trz to jeden z najskuteczniejszych sposob\u00f3w na stworzenie przestrzeni pe\u0142nej ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.x54UxMz7kNXu6Dmpbklrui&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "\u015acie\u017cki rowerowe do 10 km od O\u015bwi\u0119cimia. Pomys\u0142y na jednodniow\u0105 wypraw\u0119. Gdzie w weekend 1 - 2 listopada?",
+            "link": "https://oswiecim.naszemiasto.pl/sciezki-rowerowe-do-10-km-od-oswiecimia-pomysly-na-jednodniowa-wyprawe-gdzie-w-weekend-1-2-listopada/ar/c7p1-21831633",
+            "description": "Zamek w Mosznej jest jedn\u0105 z najwi\u0119kszych atrakcji Opolszczyzny i jednym z najciekawszych zamk\u00f3w w Polsce. Swoj\u0105 s\u0142aw\u0119 zawdzi\u0119cza bajkowemu wygl\u0105dowi - ma 365 pomieszcze\u0144, 99 wie\u017c i wie\u017cyczek. Do 30 ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.hU9b0B80CrRL-uqx7ot5XQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Decor Style on MSN15 godz.",
-            "source": "Decor Style on MSN",
-            "article_content": ""
+            "date": "O\u015bwi\u0119cim Nasze Miasto46 min",
+            "source": "O\u015bwi\u0119cim Nasze Miasto",
+            "article_content": "Content not available"
         }
     },
     {
@@ -261,14 +277,46 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Antyki w cenie z\u0142ota. Tyle kosztuj\u0105 starze rzeczy z dom\u00f3w w lipcu 2025 - potrafi\u0105 by\u0107 warte krocie [2.11.2025]",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/antyki-w-cenie-z%C5%82ota-tyle-kosztuj%C4%85-starze-rzeczy-z-dom%C3%B3w-w-lipcu-2025-potrafi%C4%85-by%C4%87-warte-krocie-2112025/ar-AA1PEkQF?ocid=BingNewsVerp",
+            "title": "Gdzie na spacer do 6 km od Ko\u0142obrzegu. Urokliwe trasy na weekend 1 - 2 listopada",
+            "link": "https://kolobrzeg.naszemiasto.pl/gdzie-na-spacer-do-6-km-od-kolobrzegu-urokliwe-trasy-na-weekend-1-2-listopada/ar/c7p1-22115647",
+            "description": "We wsp\u00f3\u0142pracy z Traseo wybrali\u015bmy dla Was 3 trasy na spacer oddalonych maksymalnie o 6 km od Ko\u0142obrzegu, kt\u00f3re polecaj\u0105 inni spacerowicze. Wybierz najlepsz\u0105 dla siebie. Zanim wyruszysz w tras\u0119, ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.xGyVXoJ9b0zlcu2rTPA_6w&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "relikty",
+            "date": "Ko\u0142obrzeg Nasze Miasto2 godz.",
+            "source": "Ko\u0142obrzeg Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Antyki w cenie z\u0142ota. Tyle kosztuj\u0105 starze rzeczy z dom\u00f3w w listopadzoe 2025 - potrafi\u0105 by\u0107 warte krocie",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/antyki-w-cenie-z%C5%82ota-tyle-kosztuj%C4%85-starze-rzeczy-z-dom%C3%B3w-w-listopadzoe-2025-potrafi%C4%85-by%C4%87-warte-krocie/ar-AA1PEkQF?ocid=BingNewsVerp",
             "description": "W 2025 roku antyki ciesz\u0105 si\u0119 popularno\u015bci\u0105 i s\u0105 poszukiwane przez kolekcjoner\u00f3w. Je\u015bli masz jeszcze takie w domu, przyjrzyj si\u0119 im dok\u0142adnie. Mo\u017ce si\u0119 okaza\u0107, \u017ce w szufladach, na strychu czy piwnicy ...",
             "image_url": "https://www.bing.pl/th?id=ODF.lSvQ7lbnEp30GW9jilHB-Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "Express Bydgoski on MSN3 godz.",
+            "date": "Express Bydgoski on MSN47 min",
             "source": "Express Bydgoski on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Trasy na rower do 2 km od Niepo\u0142omic. Podpowiedzi jednodniowych wypraw. Gdzie w weekend 1 - 2 listopada?",
+            "link": "https://niepolomice.naszemiasto.pl/trasy-na-rower-do-2-km-od-niepolomic-podpowiedzi-jednodniowych-wypraw-gdzie-w-weekend-1-2-listopada/ar/c7p1-21832069",
+            "description": "Opu\u015bcili Sadowie, ale ta kl\u0105twa pod\u0105\u017cy\u0142a za nimi. Na przyk\u0142ad ci, kt\u00f3rzy mieszkali w trzecim domu od g\u0142\u00f3wnej drogi, kupili ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.K51SCeQthu2ur_tRjAdODy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Niepo\u0142omice Nasze Miasto1 godz.",
+            "source": "Niepo\u0142omice Nasze Miasto",
+            "article_content": "Content not available"
         }
     },
     {
@@ -282,7 +330,7 @@
             "description": "Jesie\u0144 na Dolnym \u015al\u0105sku jest naprawd\u0119 pi\u0119kna. Tylko o tej porze roku mamy szans\u0119 podziwia\u0107 malownicze widoki w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.3IigU-LCd40Rj_5cwxZzAS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Wroc\u0142awska on MSN15 godz.",
+            "date": "Gazeta Wroc\u0142awska on MSN19 godz.",
             "source": "Gazeta Wroc\u0142awska on MSN",
             "article_content": ""
         }
@@ -293,29 +341,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Pras\u00f3wka z pa\u017adziernika 2025. Sprawd\u017a, co dzia\u0142o si\u0119 w Warszawie. Czy jeste\u015b na bie\u017c\u0105co?",
-            "link": "https://warszawa.naszemiasto.pl/prasowka-z-pazdziernika-2025-sprawdz-co-dzialo-sie-w-warszawie-czy-jestes-na-biezaco/ar/c1p1-28135045",
-            "description": "R\u00f3wno rok temu, 29 pa\u017adziernika 2024 roku, tramwaje wr\u00f3ci\u0142y na Wilan\u00f3w. Inwestycja, na kt\u00f3r\u0105 warszawiacy czekali latami, szybko sta\u0142a si\u0119 jednym z najcz\u0119\u015bciej wybieranych po\u0142\u0105cze\u0144 w mie\u015bcie. W ci\u0105gu ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.RiSZ6cVK2kGKUBp4PkSDCg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "zabytkowe+przedmioty",
-            "date": "Warszawa Nasze Miasto21 godz.",
-            "source": "Warszawa Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "\u015acie\u017cki nordic walking w woj. \u015bl\u0105skim. Gdzie i\u015b\u0107 w weekend 1 - 2 listopada. 3 najciekawsze trasy",
-            "link": "https://dziennikzachodni.pl/sciezki-nordic-walking-w-woj-slaskim-gdzie-isc-w-weekend-1-2-listopada-3-najciekawsze-trasy/ar/c7p1-22302727",
-            "description": "Nordic walking w woj. \u015bl\u0105skim da si\u0119 trenowa\u0107 w wielu miejscach. Ale zach\u0119camy do wybrania \u015bcie\u017cek sprawdzonych przez innych. We wsp\u00f3\u0142pracy z Traseo przygotowali\u015bmy dla Was 3 interesuj\u0105ce szlaki nordi ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.73GKiv_kwPXUhIas-a0ZXQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "zabytkowe+przedmioty",
-            "date": "Dziennik Zachodni22 godz.",
-            "source": "Dziennik Zachodni",
+            "title": "Barbara Wrzesi\u0144ska",
+            "link": "https://expressbydgoski.pl/tag/barbara-wrzesinska",
+            "description": "Gra\u0142, \u015bpiewa\u0142, kocha\u0142 i bawi\u0142 miliony Polak\u00f3w. Dzi\u015b \u017cyje spokojnie \u2013 ale jego historia to gotowy scenariusz filmowy! Zobacz, ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.UPIdYyjGwKCIelijzimeVy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+numizmatyka",
+            "date": "expressbydgoski59 min",
+            "source": "expressbydgoski",
             "article_content": "Content not available"
         }
     }
