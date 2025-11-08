@@ -10,7 +10,7 @@
             "description": "Jakie promocje znajdziesz dzi\u015b w sklepach firmy LPP (Reserved, Cropp, Mohito i House)? Zobacz, co mo\u017cesz znale\u017a\u0107 aktualnie (8 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.1QJorxJyX6UU41HsrGd-2C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Nasze Miasto15 godz.",
+            "date": "Nasze Miasto19 godz.",
             "source": "Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -26,25 +26,9 @@
             "description": "Zobacz video recenzj\u0119 gry, kt\u00f3ra pod wieloma wzgl\u0119dami odrywa si\u0119 od utartych standard\u00f3w. Na dobre i na z\u0142e - Mirror's Edge ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.qiNU0K8TWQXdIYdxCBIrIi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "GRY-OnLine.pl13 godz.",
+            "date": "GRY-OnLine.pl17 godz.",
             "source": "GRY-OnLine.pl",
             "article_content": "Nie bez powodu gra otrzyma\u0142a tak\u0105 wysok\u0105 ocene, po przej\u015bciu Mirror's edge'a stwierdzam \u017ce to na prawde najlepsza gra w jak\u0105 gra\u0142em. Eksperymentalna? Owszem ale to i dobrze bo sie wyroznia. B\u0142edy tworcow jakie wspomina Krzysiek naprawde malo znacza w gameplay'u. \u017badna gra nie dala mi tyle przyjemno\u015bci i satysfakcji, i ten klimat... mmm W zasadzie to sam trenuje parkour, ale nawet bez tego gra po prostu smakuje :D Jedyne co moge zarzucic tworcom to tylko to \u017ce troszke za krotka linia fabularna im wysz\u0142a, dlatego czekam na kolejn\u0105 ods\u0142one, i tak jak powiedzial Krzysiek, mam nadzieje ze tworcy dadza nam do dyspozycji otwarte miasto do eksploracji. Polecam wszystkim i pozdrawiam."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Zobacz od czego zale\u017cy prawdziwa warto\u015b\u0107 monety 5 z\u0142. Nie ka\u017cda \u201epi\u0105tka' jest taka zwyk\u0142a!",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/zobacz-od-czego-zale%C5%BCy-prawdziwa-warto%C5%9B%C4%87-monety-5-z%C5%82-nie-ka%C5%BCda-pi%C4%85tka-jest-taka-zwyk%C5%82a/ar-AA1PHDth?ocid=BingNewsVerp",
-            "description": "Moneta 5 z\u0142 mo\u017ce by\u0107 warta nawet 100 tysi\u0119cy z\u0142otych. To sprawia, \u017ce coraz wi\u0119cej os\u00f3b zaczyna patrze\u0107 na drobne z nowym zaciekawieniem i nadziej\u0105 na znalezienie prawdziwego skarbu. Zastanawia\u0142e\u015b si\u0119 ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.csLl8ZFonfuC8KKWalWEGg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stare+monety",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN2 godz.",
-            "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
-            "article_content": ""
         }
     },
     {
@@ -58,8 +42,24 @@
             "description": "Fascynacja kryszta\u0142ami i szk\u0142em z czas\u00f3w PRL zyskuje na popularno\u015bci w\u015br\u00f3d kolekcjoner\u00f3w. Na starych wazonach, talerzach czy ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.VcrWIT5NBZKMERYLm0QSSC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski on MSN11 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN15 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Od tego zale\u017cy prawdziwa warto\u015b\u0107 monety 5 z\u0142. Nie ka\u017cda \u201epi\u0105tka' jest taka zwyk\u0142a!",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/od-tego-zale%C5%BCy-prawdziwa-warto%C5%9B%C4%87-monety-5-z%C5%82-nie-ka%C5%BCda-pi%C4%85tka-jest-taka-zwyk%C5%82a/ar-AA1PHDth?ocid=BingNewsVerp",
+            "description": "Moneta 5 z\u0142 mo\u017ce by\u0107 warta nawet 100 tysi\u0119cy z\u0142otych. To sprawia, \u017ce coraz wi\u0119cej os\u00f3b zaczyna patrze\u0107 na drobne z nowym ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.mbbp73Maq-oUZppDCWkE4y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN11 godz.",
+            "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
             "article_content": ""
         }
     },
@@ -74,7 +74,7 @@
             "description": "Fascynacja kryszta\u0142ami i szk\u0142em z czas\u00f3w PRL przybiera na sile, a pasja ta staje si\u0119 coraz popularniejsza w\u015br\u00f3d kolekcjoner\u00f3w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.E74w9YbkdhtCekfCCqgb6C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski11 godz.",
+            "date": "G\u0142os Koszali\u0144ski15 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
         }
@@ -90,7 +90,7 @@
             "description": "Trwaj\u0105 ju\u017c przygotowania do tegorocznego Jarmarku Bo\u017conarodzeniowego w Opolu. Wydarzenie rozpocznie si\u0119 28 listopada i potrwa ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.uXqeOmNUqyOljzlDEJx1KS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Nowa Trybuna Opolska12 godz.",
+            "date": "Nowa Trybuna Opolska16 godz.",
             "source": "Nowa Trybuna Opolska",
             "article_content": "Content not available"
         }
@@ -106,7 +106,7 @@
             "description": "Do tragicznego w skutkach wypadku dosz\u0142o w czwartkowy (6 listopada) wiecz\u00f3r w Bydgoszczy. Na przej\u015bciu dla pieszych w pobli\u017cu ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.pWbR19-5QzUEcEAS55InhC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Express Bydgoski12 godz.",
+            "date": "Express Bydgoski16 godz.",
             "source": "Express Bydgoski",
             "article_content": "Content not available"
         }
@@ -122,7 +122,7 @@
             "description": "Listopadowe ch\u0142ody i pochmurne niebo nie odstraszy\u0142y mi\u0142o\u015bnik\u00f3w staroci i wyj\u0105tkowych znalezisk \u2013 w sobot\u0119, 8 listopada, nad jeziorem w Chmielnikach po raz kolejny odby\u0142 si\u0119 Pchli Targ, kt\u00f3ry mimo ...",
             "image_url": "https://www.bing.pl/th?id=ODF.2nPbtyoAS_WXYOaRWpOPhw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Bydgoszcz Nasze Miasto on MSN2 godz.",
+            "date": "Bydgoszcz Nasze Miasto on MSN6 godz.",
             "source": "Bydgoszcz Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -138,7 +138,7 @@
             "description": "Le\u015bny jarmark w Kiernusach to wyj\u0105tkowe wydarzenie, kt\u00f3re przyci\u0105ga mi\u0142o\u015bnik\u00f3w antyk\u00f3w, r\u0119kodzie\u0142a i tradycyjnych wyrob\u00f3w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.PH5K9lXJQJJZRAP-ctnxei&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Kurier Poranny on MSN4 godz.",
+            "date": "Kurier Poranny on MSN8 godz.",
             "source": "Kurier Poranny on MSN",
             "article_content": ""
         }
@@ -154,7 +154,7 @@
             "description": "W niedziel\u0119 7 grudnia, tu\u017c po wieczornym Oliwskim Jarmarku \u015awi\u0105tecznym, zapraszamy na tradycyjny Pchli Targ w Oliwie w godz.",
             "image_url": "https://www.bing.pl/th?id=OVFT.VSwdb2LBuBf0_8HjrW4r8i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Trojmiasto.pl17 min",
+            "date": "Trojmiasto.pl4 godz.",
             "source": "Trojmiasto.pl",
             "article_content": "Content not available"
         }
@@ -170,7 +170,7 @@
             "description": "Lubelska Gie\u0142da Staroci organizowana jest tylko w ostatni\u0105 niedziel\u0119 ka\u017cdego miesi\u0105ca. A jako, \u017ce Marta Wcis\u0142o (56 l.) uwielbia przedmioty z dusz\u0105, to zwykle mo\u017cna j\u0105 spotka\u0107 jak wypatruje kolejnych p ...",
             "image_url": "https://www.bing.pl/th?id=ODF.9TyPvEv4AXy1DBnNLZf6_Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Polityka on MSN13 godz.",
+            "date": "Polityka on MSN17 godz.",
             "source": "Polityka on MSN",
             "article_content": ""
         }
@@ -186,7 +186,7 @@
             "description": "Kamienny Szaniec - zbudowany w latach 1832-1836 do obrony wybrze\u017ca i portu od wschodu. W ko\u0144cu XIX w. przebudowany na cele ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.XWNm1ym3vJ8EMYkoG3R_VC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Ko\u0142obrzeg Nasze Miasto2 godz.",
+            "date": "Ko\u0142obrzeg Nasze Miasto6 godz.",
             "source": "Ko\u0142obrzeg Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -202,24 +202,8 @@
             "description": "Zanim wyruszysz w tras\u0119, sprawd\u017a, jaka b\u0119dzie pogoda. W sobot\u0119 08 listopada w Ko\u0142obrzegu ma by\u0107 13\u00b0C. Nie powinno pada\u0107. W ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.PrF1lCyxomgMf0XBJwXwXC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Ko\u0142obrzeg Nasze Miasto2 godz.",
+            "date": "Ko\u0142obrzeg Nasze Miasto6 godz.",
             "source": "Ko\u0142obrzeg Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Trasy nordic walking do 16 km od Ko\u015bcierzyny. Urocze miejsca na kr\u00f3tk\u0105 tras\u0119 w weekend 8 - 9 listopada",
-            "link": "https://koscierzyna.naszemiasto.pl/trasy-nordic-walking-do-16-km-od-koscierzyny-urocze-miejsca-na-krotka-trase-w-weekend-8-9-listopada/ar/c7p1-22319215",
-            "description": "Wsp\u00f3lnie z Traseo wybrali\u015bmy 3 \u015bcie\u017cki nordic walking oddalone maksymalnie o 16 km od Ko\u015bcierzyny. Zobacz, czy \u015bcie\u017cka ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.-TpfZGOhtBpxu_Nm9wZM5i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "Ko\u015bcierzyna Nasze Miasto2 godz.",
-            "source": "Ko\u015bcierzyna Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -234,8 +218,24 @@
             "description": "Nim wyruszysz, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 08 listopada w woj. zachodniopomorskim ma by\u0107 od 3\u00b0C do 11\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 09 listopada w woj. zachodniopomorskim ma by\u0107 od ...",
             "image_url": "https://www.bing.pl/th?id=ODF.SitARwEXBdZclx1NlnwzDw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "G\u0142os Szczeci\u0144ski2 godz.",
+            "date": "G\u0142os Szczeci\u0144ski5 godz.",
             "source": "G\u0142os Szczeci\u0144ski",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Trasy nordic walking do 16 km od Ko\u015bcierzyny. Urocze miejsca na kr\u00f3tk\u0105 tras\u0119 w weekend 8 - 9 listopada",
+            "link": "https://koscierzyna.naszemiasto.pl/trasy-nordic-walking-do-16-km-od-koscierzyny-urocze-miejsca-na-krotka-trase-w-weekend-8-9-listopada/ar/c7p1-22319215",
+            "description": "Wsp\u00f3lnie z Traseo wybrali\u015bmy 3 \u015bcie\u017cki nordic walking oddalone maksymalnie o 16 km od Ko\u015bcierzyny. Zobacz, czy \u015bcie\u017cka ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.-TpfZGOhtBpxu_Nm9wZM5i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "Ko\u015bcierzyna Nasze Miasto6 godz.",
+            "source": "Ko\u015bcierzyna Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -250,7 +250,7 @@
             "description": "Podczas prac archeologicznych na ul. Twardej w Warszawie odkryto ceramiczne formy do wyrobu pralinek i papierowe naklejki na ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.FI1tzqC7JGthxAFWuW-1Mi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "DlaHandlu.pl5 godz.",
+            "date": "DlaHandlu.pl9 godz.",
             "source": "DlaHandlu.pl",
             "article_content": "Odkryto formy do pralinek i naklejki z dawnej Fabryki Czekolady \u201eVenus\u201d\n\nPrace prowadzone s\u0105 pod inwestycj\u0119 kulturaln\u0105 Tw\u00f3rcza Twarda\n\nWarszawa by\u0142a kiedy\u015b centrum produkcji s\u0142odyczy i czekolady\n\n\"W przedwojennej Warszawie fabryk produkuj\u0105cych s\u0142odycze i czekolad\u0119 by\u0142o sporo. Dzi\u0119ki pracom archeologicznym zleconym przez miasto przy ul. Twardej odkryto pozosta\u0142o\u015bci jednej z nich\" - napisa\u0142 na Facebooku sto\u0142eczny konserwator zabytk\u00f3w.\n\nOdkrycie ceramicznych form i naklejek\n\nPodkre\u015bli\u0142, \u017ce znalezisko jest niezwyk\u0142e, bowiem odkopano ceramiczne formy do wyrobu pralinek czekoladowych i papierowe naklejki na opakowania.\n\n\"To pozosta\u0142o\u015bci po zapomnianej Fabryce Czekolady \"Venus\" H. Szpiro, pod \u00f3wczesnym adresem Twarda 10. Fabryk\u0119 za\u0142o\u017cono na pocz\u0105tku XX wieku naprzeciwko synagogi No\u017cyk\u00f3w. W fundamentach fabryki znaleziono tak\u017ce garnki, butelki, fragmenty wyrob\u00f3w szklanych czy piec\u00f3w kaflowych. W pomieszczeniach oficjalnych - raczej nie produkcyjnych - na pod\u0142odze widoczne s\u0105 posadzki u\u0142o\u017cone z ceramicznych p\u0142ytek. W jednym z nich znajduje si\u0119 niezwykle ozdobna bordiura w formie fali w kolorze bordowym na bia\u0142ym tle\" - przekaza\u0142.\n\nPlany inwestycji kulturalnej na Twardej\n\nPrace wykopaliskowe prowadzone s\u0105 na terenie, na kt\u00f3rym planowana jest inwestycja dzielnicy \u015ar\u00f3dmie\u015bcie - nowe centrum kultury \"Tw\u00f3rcza Twarda\".\n\n\"Przedwojenni warszawiacy lubowali si\u0119 w s\u0142odyczach. W Warszawie chodzi\u0142o si\u0119 do kawiarni Loursa, Wedla, Semanediego, Bliklego, a cukiernicy wymy\u015blali coraz to nowe s\u0142odkie przysmaki. Jak podaje legenda, napoleonka zosta\u0142a wymy\u015blona przez cukiernika, kt\u00f3ry sw\u00f3j lokal mia\u0142 przy pl. Napoleona (dzi\u015b Powsta\u0144c\u00f3w Warszawy)\" - przekaza\u0142a Magdalena \u0141a\u0144 z biura sto\u0142ecznego konserwatora.\n\nHistoria warszawskich fabryk s\u0142odyczy\n\nZaznaczy\u0142a, \u017ce popyt na s\u0142odko\u015bci by\u0142 tak du\u017cy, \u017ce trzeba by\u0142o go zaspokaja\u0107 ju\u017c nie tylko produktami wytwarzanymi w cukierniach, ale wr\u0119cz w fabrykach, nazywanych fabrykami cukr\u00f3w lub czekolady. \"Tych w Warszawie by\u0142o sporo, a do naszych czas\u00f3w przetrwa\u0142y relikty czterech oraz jedna w ca\u0142o\u015bci\" - doda\u0142a.\n\nPo I wojnie \u015bwiatowej na budow\u0119 swoich s\u0142odkich imperi\u00f3w zdecydowali si\u0119 liczni przedsi\u0119biorcy: Anczewski, Doma\u0144ski, Fruzi\u0144ski, I\u0142owieccy, Kie\u0142basi\u0144scy, Wedlowie.\n\nNajwi\u0119ksz\u0105 i najstarsz\u0105, istniej\u0105c\u0105 do dzi\u015b fabryk\u0105 czekolady jest zak\u0142ad Wedla przy ul. Zamoyskiego 28/30. \"Firma zaczyna\u0142a przy ul. Miodowej (1851 r.), potem dzia\u0142a\u0142a przy ul. Szpitalnej 8 (1870 r.) do momentu wybudowania na dzia\u0142ce przepi\u0119knej kamienicy. Wreszcie na prze\u0142omie lat 20.i 30 przenios\u0142a si\u0119 do super nowoczesnej fabryki na Kamionku - przekaza\u0142a \u0141a\u0144.\n\nTak\u017ce na prawym brzegu w 1922 r. trzej bracia Kie\u0142basi\u0144scy zbudowali Fabryk\u0119 Cukr\u00f3w i Czekolady \"Franboli\" przy ul. \u015anie\u017cnej 3-4. Jako jedyni w jej nazwie nie wykorzystali swego nazwiska kojarz\u0105cego si\u0119 zgo\u0142a z inn\u0105 bran\u017c\u0105 spo\u017cywcz\u0105. U\u017cyli inicja\u0142\u00f3w swoich imion: Franciszek, Boles\u0142aw, Ignacy. Rozwijali si\u0119 bardzo pr\u0119\u017cnie, por\u00f3wnywani byli nawet z Wedlem. Pozosta\u0142o\u015bci ich fabryki mo\u017cna jeszcze ogl\u0105da\u0107 na Pradze.\n\nInne znane fabryki czekolady w Warszawie\n\nTak\u017ce w 1922 r. rozpocz\u0119\u0142a dzia\u0142alno\u015b\u0107 fabryka, a w\u0142a\u015bciwie fabryczka, czekolady Jana Grabowskiego. Wytw\u00f3rnia mie\u015bci\u0142a si\u0119 w niewielkiej oficynie w g\u0142\u0119bi podw\u00f3rza przy ul. Narbutta 25a/27 na Mokotowie. Sw\u00f3j zak\u0142ad w\u0142a\u015bciciel rozbudowywa\u0142 do 1931 roku, a czekolad\u0119 produkowa\u0142 tam do wojny. Pozosta\u0142o\u015bci fabryczki mo\u017cna ogl\u0105da\u0107 do dzi\u015b.\n\nTak\u017ce na Mokotowie przy ul. Chocimskiej 5 w 1928 r. Fabryk\u0119 Kakao, Czekolady i Cukierk\u00f3w za\u0142o\u017cy\u0142 Jan Fruzi\u0144ski. Mia\u0142 bardzo szerok\u0105 ofert\u0119. \"W sklepach mo\u017cna by\u0142o kupi\u0107 firmowe czekoladki, praliny, cukierki, a nawet torty. Reklamowa\u0142 si\u0119, \u017ce jego \u015bwie\u017ce wyroby mo\u017cna dosta\u0107 na stacjach kolei pa\u0144stwowych. Fruzi\u0144ski by\u0142 najwi\u0119kszym rywalem Wedla\" - zaznaczy\u0142a \u0141a\u0144. Cz\u0119\u015b\u0107 budynk\u00f3w fabryki stoi nadal przy Chocimskiej 5.\n\nNajstarsz\u0105 wytw\u00f3rni\u0105 s\u0142odyczy, w kt\u00f3rej czekolad\u0119 produkowano jako jeden z wielu produkt\u00f3w, by\u0142a Fabryka Cukr\u00f3w Franciszka Anczewskiego. Fabryka mia\u0142a kilku w\u0142a\u015bcicieli, ale zawsze figurowa\u0142a pod nazwiskiem tego pierwszego. Rozwin\u0119\u0142a skrzyd\u0142a w 1929 r. kiedy przej\u0105\u0142 j\u0105 cukiernik Skorupka. Produkowane w fabryce wyroby z powodzeniem sprzedawa\u0142y si\u0119 w \u015br\u00f3dmiejskich sklepach. Cz\u0119\u015b\u0107 budynk\u00f3w zak\u0142adu przy ul. 11 Listopada 10 zbudowanych w 1865 r. wpisano do rejestru zabytk\u00f3w w 2020 roku.\n\nW latach 20. na Powi\u015blu Franciszek Fuks i synowie zbudowali przy ul. Topiel 12 wielk\u0105 fabryk\u0119 czekolady. Zajmowa\u0142a a\u017c trzy posesje. Rozmiarom fabryki dor\u00f3wnywa\u0142 jej asortyment. Produkowano czekolady deserowe ciemne, mleczne, wielosmakowe, figurki czekoladowe, dra\u017ce, herbatniki, pierniki.\n\n\"W reklamie Fuks przekonywa\u0142, \u017ce jego czekoladki s\u0105 najmniej t\u0142uste i si\u0119 po nich nie tyje. Po wojnie zak\u0142ad zosta\u0142 upa\u0144stwowiony i pod nazw\u0105 \"Syrena\" nadal produkowa\u0142 s\u0142odko\u015bci\" - przekaza\u0142a \u0141a\u0144. Niestety w 2006 roku budynek przedwojennej fabryki zosta\u0142 zburzony.\n\n\n\n\u017ar\u00f3d\u0142o: PAP"
         }
@@ -266,7 +266,7 @@
             "description": "W pi\u0119knie odrestaurowanych piwnicach Pa\u0142acu Biskupa Erazma Cio\u0142ka mo\u017cemy ogl\u0105da\u0107 800 fragment\u00f3w najcenniejszych rze\u017ab architektonicznych z ca\u0142ej Polski, pochodz\u0105cych m.in. z ko\u015bcio\u0142a Mariackiego, ...",
             "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w17 godz.",
+            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w21 godz.",
             "source": "Oficjalny serwis miejski - Magiczny Krak\u00f3w",
             "article_content": "Krak\u00f3w \u2013 czas okupacji 1939-1945\n\nWystawa mie\u015bci si\u0119 w dawnym budynku administracyjnym Fabryki Emalia Oskara Schindlera przy ul. Lipowej 4 i jest opowie\u015bci\u0105 o Krakowie i losach jego polskich i \u017cydowskich mieszka\u0144c\u00f3w w czasie II wojny \u015bwiatowej, ale te\u017c o Niemcach \u2013 okupantach,..."
         }
@@ -282,7 +282,7 @@
             "description": "Moneta 5 z\u0142 mo\u017ce by\u0107 warta nawet 100 tysi\u0119cy z\u0142otych. To sprawia, \u017ce coraz wi\u0119cej os\u00f3b zaczyna patrze\u0107 na drobne z nowym ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.-XPQC0aCLdgiZ6gP74xE_S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN2 godz.",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN1 godz.",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
             "article_content": ""
         }
