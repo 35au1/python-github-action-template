@@ -5,28 +5,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Pras\u00f3wka 11.11.2025 G\u0142og\u00f3w. Zestaw najwa\u017cniejszych informacji z wczoraj. Sprawd\u017a nasz przegl\u0105d prasy z G\u0142ogowa",
-            "link": "https://glogow.naszemiasto.pl/prasowka-11-11-2025-glogow-zestaw-najwazniejszych-informacji-z-wczoraj-sprawdz-nasz-przeglad-prasy-z-glogowa/ar/c1p1-19738679",
-            "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 10.11, w ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.Z4P0TUkQ9_x9hM2fMwyTCy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "G\u0142og\u00f3w Nasze Miasto4 godz.",
-            "source": "G\u0142og\u00f3w Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
             "title": "Przegl\u0105d prasy z Lubina. Sprawd\u017a najwa\u017cniejsze informacje z wczoraj. Pras\u00f3wka 11.11.2025",
             "link": "https://lubin.naszemiasto.pl/przeglad-prasy-z-lubina-sprawdz-najwazniejsze-informacje-z-wczoraj-prasowka-11-11-2025/ar/c1p1-19738669",
             "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 10.11, w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.NrS0vuvErcMhl3RUFJQqMy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Lubin Nasze Miasto3 godz.",
+            "date": "Lubin Nasze Miasto7 godz.",
             "source": "Lubin Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -42,8 +26,24 @@
             "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 10.11, w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.7HBWUlxjT2EEWwZdgSOnxi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Wa\u0142brzych Nasze Miasto3 godz.",
+            "date": "Wa\u0142brzych Nasze Miasto7 godz.",
             "source": "Wa\u0142brzych Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pras\u00f3wka 11.11.2025 G\u0142og\u00f3w. Zestaw najwa\u017cniejszych informacji z wczoraj. Sprawd\u017a nasz przegl\u0105d prasy z G\u0142ogowa",
+            "link": "https://glogow.naszemiasto.pl/prasowka-11-11-2025-glogow-zestaw-najwazniejszych-informacji-z-wczoraj-sprawdz-nasz-przeglad-prasy-z-glogowa/ar/c1p1-19738679",
+            "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 10.11, w ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.Z4P0TUkQ9_x9hM2fMwyTCy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "G\u0142og\u00f3w Nasze Miasto8 godz.",
+            "source": "G\u0142og\u00f3w Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -58,7 +58,7 @@
             "description": "Przed g\u0142\u00f3wnym Legnickim Biegu Niepodleg\u0142o\u015bci odby\u0142y si\u0119 biegi dzieci, m\u0142odzie\u017cy, os\u00f3b niepe\u0142nosprawnych, marsz Nordic Walking ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.8nZtkGx03MWigDASNoSGTC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Legnica Nasze Miasto3 godz.",
+            "date": "Legnica Nasze Miasto7 godz.",
             "source": "Legnica Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -74,9 +74,73 @@
             "description": "Wojew\u00f3dzki Dom Kultury w Kielcach rozb\u0142ysn\u0105\u0142 w narodowych barwach, tworz\u0105c wyj\u0105tkow\u0105 opraw\u0119 tegorocznych obchod\u00f3w \u015awi\u0119ta ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.OlAu1bnOzeBTIhhXx8Eu3y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Echo Dnia17 godz.",
+            "date": "Echo Dnia22 godz.",
             "source": "Echo Dnia",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Stare monety s\u0105 w cenie. Sprawd\u017a swoje szuflady. Na tych monetach mo\u017cesz zarobi\u0107!",
+            "link": "https://koscierzyna.naszemiasto.pl/stare-monety-sa-w-cenie-sprawdz-swoje-szuflady-na-tych-monetach-mozesz-zarobic/ar/c1p2-27348837",
+            "description": "Ten skarb wykopano na polu 42 lata temu. Moneta jest bezcenna. Wybity przez Boles\u0142awa Chrobrego srebrny denar z lat 992-997 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.J6nENLlrsCWn7QXVYhhFji&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "Ko\u015bcierzyna Nasze Miasto4 godz.",
+            "source": "Ko\u015bcierzyna Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Za te stare monety kolekcjonerzy p\u0142ac\u0105 teraz wiele pieni\u0119dzy",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/za-te-stare-monety-kolekcjonerzy-p%C5%82ac%C4%85-teraz-wiele-pieni%C4%99dzy/ar-AA1Nra76?ocid=BingNewsVerp",
+            "description": "Obejrzyj lepiej dok\u0142adnie monety, kt\u00f3re masz w domu. Ich warto\u015b\u0107 jest dzisiaj znacznie wi\u0119ksza, ni\u017c przypuszczasz. Niekt\u00f3re ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.8dtwSkHXLhWwG4C-W8CaIy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "Nowa Trybuna Opolska on MSN3 godz.",
+            "source": "Nowa Trybuna Opolska on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Te monety z PRL s\u0105 teraz w cenie. Mo\u017cna na nich nie\u017ale zarobi\u0107",
+            "link": "https://nto.pl/te-monety-z-prl-sa-teraz-w-cenie-mozna-na-nich-niezle-zarobic/ar/c1p2-28073737",
+            "description": "W wielu polskich domach wci\u0105\u017c le\u017c\u0105 stare monety okoliczno\u015bciowe z czas\u00f3w PRL. Teraz s\u0105 warte znacznie wi\u0119cej, ni\u017c mo\u017cna by ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.SnD7ms8VijzfMAUMTEaxaC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "Nowa Trybuna Opolska3 godz.",
+            "source": "Nowa Trybuna Opolska",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Nie ka\u017cda \u201epi\u0105tka' jest taka zwyk\u0142a! Zobacz, od czego zale\u017cy prawdziwa warto\u015b\u0107 monety 5 z\u0142",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/nie-ka%C5%BCda-pi%C4%85tka-jest-taka-zwyk%C5%82a-zobacz-od-czego-zale%C5%BCy-prawdziwa-warto%C5%9B%C4%87-monety-5-z%C5%82/ar-AA1PHDth?ocid=BingNewsVerp",
+            "description": "Moneta 5 z\u0142 mo\u017ce by\u0107 warta nawet 100 tysi\u0119cy z\u0142otych. To sprawia, \u017ce coraz wi\u0119cej os\u00f3b zaczyna patrze\u0107 na drobne z nowym ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.mbbp73Maq-oUZppDCWkE4y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN1 godz.",
+            "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
+            "article_content": ""
         }
     },
     {
@@ -88,91 +152,11 @@
             "title": "Oto stare telefony kom\u00f3rkowe warte maj\u0105tek. Nie ka\u017cdy stary telefon jest ma\u0142o warty.",
             "link": "https://www.msn.com/pl-pl/wiadomosci/other/oto-stare-telefony-kom%C3%B3rkowe-warte-maj%C4%85tek-nie-ka%C5%BCdy-stary-telefon-jest-ma%C5%82o-warty/ar-AA1QaH9B?ocid=BingNewsVerp",
             "description": "Zabytkowe telefony kom\u00f3rkowe wracaj\u0105 do \u0142ask - i to w imponuj\u0105cym stylu. Ich ceny szybuj\u0105 w g\u00f3r\u0119, a niekt\u00f3re egzemplarze ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.WBhH9cXSgHDgZqGUQLBBYC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "image_url": "https://www.bing.pl/th?id=OVFT.LAFMc0gNOxwGxk4mEBW-QC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Gazeta Pomorska on MSN12 godz.",
+            "date": "Gazeta Pomorska on MSN17 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Przegl\u0105d prasy (11.11.2025). Zobacz pras\u00f3wk\u0119 z najwa\u017cniejszymi wydarzeniami z wczoraj. B\u0105d\u017a na bie\u017c\u0105co",
-            "link": "https://nto.pl/przeglad-prasy-11-11-2025-zobacz-prasowke-z-najwazniejszymi-wydarzeniami-z-wczoraj-badz-na-biezaco/ar/c1p1-19960921",
-            "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 10.11.",
-            "image_url": "https://www.bing.pl/th?id=OVFT.hLVPISn5bL8XeQ_6kf2AdS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "Nowa Trybuna Opolska4 godz.",
-            "source": "Nowa Trybuna Opolska",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Nie ka\u017cda \u201epi\u0105tka' jest taka zwyk\u0142a! Od tego zale\u017cy prawdziwa warto\u015b\u0107 monety 5 z\u0142",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/nie-ka%C5%BCda-pi%C4%85tka-jest-taka-zwyk%C5%82a-od-tego-zale%C5%BCy-prawdziwa-warto%C5%9B%C4%87-monety-5-z%C5%82/ar-AA1PHDth?ocid=BingNewsVerp",
-            "description": "Moneta 5 z\u0142 mo\u017ce by\u0107 warta nawet 100 tysi\u0119cy z\u0142otych. To sprawia, \u017ce coraz wi\u0119cej os\u00f3b zaczyna patrze\u0107 na drobne z nowym zaciekawieniem i nadziej\u0105 na znalezienie prawdziwego skarbu.",
-            "image_url": "https://www.bing.pl/th?id=ODF.csLl8ZFonfuC8KKWalWEGg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stare+monety",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN13 godz.",
-            "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Ta bi\u017cuteria z PRL jest warta maj\u0105tek! Zobacz, ile kosztuj\u0105 pier\u015bcionki i naszyjniki z PRL. B\u0119dziesz zaskoczony! 10.11.2025",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/ta-bi%C5%BCuteria-z-prl-jest-warta-maj%C4%85tek-zobacz-ile-kosztuj%C4%85-pier%C5%9Bcionki-i-naszyjniki-z-prl-b%C4%99dziesz-zaskoczony-10112025/ar-AA1Q8UkL?ocid=BingNewsVerp",
-            "description": "Przedmioty z PRL ciesz\u0105 si\u0119 du\u017c\u0105 popularno\u015bci\u0105 w\u015br\u00f3d Polak\u00f3w, nie tylko s\u0105 ch\u0119tnie poszukiwane, ale i cz\u0119sto osi\u0105gaj\u0105 na ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.gU-CLwOfkthrUJb2yR2lAy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski on MSN21 godz.",
-            "source": "G\u0142os Koszali\u0144ski on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Przegl\u0105d prasy 11.11.2025. Przygotowali\u015bmy zestaw najwa\u017cniejszych informacji z wczoraj. B\u0105d\u017a na bie\u017c\u0105co z wydarzeniami",
-            "link": "https://gk24.pl/przeglad-prasy-11-11-2025-przygotowalismy-zestaw-najwazniejszych-informacji-z-wczoraj-badz-na-biezaco-z-wydarzeniami/ar/c1p1-19960923",
-            "description": "Sze\u015b\u0107 os\u00f3b bra\u0142o udzia\u0142 w wypadku drogowym, do kt\u00f3rego dosz\u0142o w poniedzia\u0142ek po po\u0142udniu na trasie S6 w okolicach MOP Jarkowo ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.yDLrQvb0czD1cuawhZGlWC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski4 godz.",
-            "source": "G\u0142os Koszali\u0144ski",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Pras\u00f3wka 11.11.2025 G\u0142og\u00f3w. Zestaw najwa\u017cniejszych informacji z wczoraj. Sprawd\u017a nasz przegl\u0105d prasy z G\u0142ogowa",
-            "link": "https://glogow.naszemiasto.pl/prasowka-11-11-2025-glogow-zestaw-najwazniejszych-informacji-z-wczoraj-sprawdz-nasz-przeglad-prasy-z-glogowa/ar/c1p1-19738679",
-            "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 10.11, w ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.Z4P0TUkQ9_x9hM2fMwyTCy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "targ+staroci",
-            "date": "G\u0142og\u00f3w Nasze Miasto4 godz.",
-            "source": "G\u0142og\u00f3w Nasze Miasto",
-            "article_content": "Content not available"
         }
     },
     {
@@ -186,7 +170,7 @@
             "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 10.11, w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.NrS0vuvErcMhl3RUFJQqMy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Lubin Nasze Miasto3 godz.",
+            "date": "Lubin Nasze Miasto7 godz.",
             "source": "Lubin Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -202,8 +186,24 @@
             "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 10.11, w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.7HBWUlxjT2EEWwZdgSOnxi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Wa\u0142brzych Nasze Miasto3 godz.",
+            "date": "Wa\u0142brzych Nasze Miasto7 godz.",
             "source": "Wa\u0142brzych Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pras\u00f3wka 11.11.2025 G\u0142og\u00f3w. Zestaw najwa\u017cniejszych informacji z wczoraj. Sprawd\u017a nasz przegl\u0105d prasy z G\u0142ogowa",
+            "link": "https://glogow.naszemiasto.pl/prasowka-11-11-2025-glogow-zestaw-najwazniejszych-informacji-z-wczoraj-sprawdz-nasz-przeglad-prasy-z-glogowa/ar/c1p1-19738679",
+            "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 10.11, w ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.Z4P0TUkQ9_x9hM2fMwyTCy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "G\u0142og\u00f3w Nasze Miasto8 godz.",
+            "source": "G\u0142og\u00f3w Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -218,7 +218,7 @@
             "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 10.11.",
             "image_url": "https://www.bing.pl/th?id=OVFT.iEufurYbaWdtIfXsGeFc7S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Gazeta Wsp\u00f3\u0142czesna4 godz.",
+            "date": "Gazeta Wsp\u00f3\u0142czesna8 godz.",
             "source": "Gazeta Wsp\u00f3\u0142czesna",
             "article_content": "Content not available"
         }
@@ -234,7 +234,7 @@
             "description": "Przed g\u0142\u00f3wnym Legnickim Biegu Niepodleg\u0142o\u015bci odby\u0142y si\u0119 biegi dzieci, m\u0142odzie\u017cy, os\u00f3b niepe\u0142nosprawnych, marsz Nordic Walking ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.8nZtkGx03MWigDASNoSGTC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Legnica Nasze Miasto3 godz.",
+            "date": "Legnica Nasze Miasto7 godz.",
             "source": "Legnica Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -250,7 +250,7 @@
             "description": "Zanim wyruszysz w tras\u0119, sprawd\u017a, jaka b\u0119dzie pogoda. W sobot\u0119 15 listopada w Che\u0142mku ma by\u0107 10\u00b0C. Prawdopodobie\u0144stwo ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.RZLo0apguS4XyXSLDl4luS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Nasze Miasto Che\u0142mek17 godz.",
+            "date": "Nasze Miasto Che\u0142mek21 godz.",
             "source": "Nasze Miasto Che\u0142mek",
             "article_content": "Content not available"
         }
@@ -266,7 +266,7 @@
             "description": "Zanim wyruszysz w tras\u0119, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 15 listopada w O\u015bwi\u0119cimiu ma by\u0107 11\u00b0C. Prawdopodobie\u0144stwo ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.a-ZIiiS4NNTodlrGZNipoC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "O\u015bwi\u0119cim Nasze Miasto17 godz.",
+            "date": "O\u015bwi\u0119cim Nasze Miasto22 godz.",
             "source": "O\u015bwi\u0119cim Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -282,24 +282,8 @@
             "description": "Binda\u017c grabowy - urokliwa aleja \u015bci\u015ble obsadzona grabami, kt\u00f3rych korony splataj\u0105 si\u0119 ze sob\u0105 tworz\u0105c rodzaj sklepienia.",
             "image_url": "https://www.bing.pl/th?id=OVFT.PrF1lCyxomgMf0XBJwXwXC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Ko\u0142obrzeg Nasze Miasto18 godz.",
+            "date": "Ko\u0142obrzeg Nasze Miasto22 godz.",
             "source": "Ko\u0142obrzeg Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Pras\u00f3wka 11.11.2025 G\u0142og\u00f3w. Zestaw najwa\u017cniejszych informacji z wczoraj. Sprawd\u017a nasz przegl\u0105d prasy z G\u0142ogowa",
-            "link": "https://glogow.naszemiasto.pl/prasowka-11-11-2025-glogow-zestaw-najwazniejszych-informacji-z-wczoraj-sprawdz-nasz-przeglad-prasy-z-glogowa/ar/c1p1-19738679",
-            "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 10.11, w ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.Z4P0TUkQ9_x9hM2fMwyTCy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "G\u0142og\u00f3w Nasze Miasto4 godz.",
-            "source": "G\u0142og\u00f3w Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -314,8 +298,24 @@
             "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 10.11, w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.NrS0vuvErcMhl3RUFJQqMy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Lubin Nasze Miasto3 godz.",
+            "date": "Lubin Nasze Miasto7 godz.",
             "source": "Lubin Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pras\u00f3wka 11.11.2025 G\u0142og\u00f3w. Zestaw najwa\u017cniejszych informacji z wczoraj. Sprawd\u017a nasz przegl\u0105d prasy z G\u0142ogowa",
+            "link": "https://glogow.naszemiasto.pl/prasowka-11-11-2025-glogow-zestaw-najwazniejszych-informacji-z-wczoraj-sprawdz-nasz-przeglad-prasy-z-glogowa/ar/c1p1-19738679",
+            "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 10.11, w ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.Z4P0TUkQ9_x9hM2fMwyTCy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "G\u0142og\u00f3w Nasze Miasto8 godz.",
+            "source": "G\u0142og\u00f3w Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -330,7 +330,7 @@
             "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 10.11, w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.7HBWUlxjT2EEWwZdgSOnxi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Wa\u0142brzych Nasze Miasto3 godz.",
+            "date": "Wa\u0142brzych Nasze Miasto7 godz.",
             "source": "Wa\u0142brzych Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -346,7 +346,7 @@
             "description": "Przed g\u0142\u00f3wnym Legnickim Biegu Niepodleg\u0142o\u015bci odby\u0142y si\u0119 biegi dzieci, m\u0142odzie\u017cy, os\u00f3b niepe\u0142nosprawnych, marsz Nordic Walking ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.8nZtkGx03MWigDASNoSGTC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Legnica Nasze Miasto3 godz.",
+            "date": "Legnica Nasze Miasto7 godz.",
             "source": "Legnica Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -362,7 +362,7 @@
             "description": "Nordic walking w woj. \u015bl\u0105skim warto uprawia\u0107 niemal wsz\u0119dzie. Ale zach\u0119camy do wybrania tras polecanych przez innych.",
             "image_url": "https://www.bing.pl/th?id=OVFT.pEufXaU-ILYM-Sbvv0ycsS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Dziennik Zachodni18 godz.",
+            "date": "Dziennik Zachodni22 godz.",
             "source": "Dziennik Zachodni",
             "article_content": "Content not available"
         }
@@ -373,12 +373,44 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Nie ka\u017cda \u201epi\u0105tka' jest taka zwyk\u0142a! Od tego zale\u017cy prawdziwa warto\u015b\u0107 monety 5 z\u0142",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/nie-ka%C5%BCda-pi%C4%85tka-jest-taka-zwyk%C5%82a-od-tego-zale%C5%BCy-prawdziwa-warto%C5%9B%C4%87-monety-5-z%C5%82/ar-AA1PHDth?ocid=BingNewsVerp",
-            "description": "Moneta 5 z\u0142 mo\u017ce by\u0107 warta nawet 100 tysi\u0119cy z\u0142otych. To sprawia, \u017ce coraz wi\u0119cej os\u00f3b zaczyna patrze\u0107 na drobne z nowym zaciekawieniem i nadziej\u0105 na znalezienie prawdziwego skarbu.",
-            "image_url": "https://www.bing.pl/th?id=ODF.csLl8ZFonfuC8KKWalWEGg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Te monety z PRL s\u0105 teraz w cenie. Mo\u017cna na nich nie\u017ale zarobi\u0107",
+            "link": "https://nto.pl/te-monety-z-prl-sa-teraz-w-cenie-mozna-na-nich-niezle-zarobic/ar/c1p2-28073737",
+            "description": "W wielu polskich domach wci\u0105\u017c le\u017c\u0105 stare monety okoliczno\u015bciowe z czas\u00f3w PRL. Teraz s\u0105 warte znacznie wi\u0119cej, ni\u017c mo\u017cna by ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.SnD7ms8VijzfMAUMTEaxaC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN13 godz.",
+            "date": "Nowa Trybuna Opolska3 godz.",
+            "source": "Nowa Trybuna Opolska",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Te okoliczno\u015bciowe dwuz\u0142ot\u00f3wki s\u0105 teraz wiele warte. Mo\u017cesz na nich nie\u017ale zarobi\u0107",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/te-okoliczno%C5%9Bciowe-dwuz%C5%82ot%C3%B3wki-s%C4%85-teraz-wiele-warte-mo%C5%BCesz-na-nich-nie%C5%BAle-zarobi%C4%87/ar-AA1PdLQX?ocid=BingNewsVerp",
+            "description": "Te dwuz\u0142ot\u00f3wki przez wiele lat wypuszcza\u0142 Narodowy Bank Polski, a Polacy kupowali je na pot\u0119g\u0119. Niekt\u00f3re z nich osi\u0105gaj\u0105 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.JKgjNOSAzZtZSt4NJKqSiC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+numizmatyka",
+            "date": "Nowa Trybuna Opolska on MSN3 godz.",
+            "source": "Nowa Trybuna Opolska on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Nie ka\u017cda \u201epi\u0105tka' jest taka zwyk\u0142a! Zobacz, od czego zale\u017cy prawdziwa warto\u015b\u0107 monety 5 z\u0142",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/nie-ka%C5%BCda-pi%C4%85tka-jest-taka-zwyk%C5%82a-zobacz-od-czego-zale%C5%BCy-prawdziwa-warto%C5%9B%C4%87-monety-5-z%C5%82/ar-AA1PHDth?ocid=BingNewsVerp",
+            "description": "Moneta 5 z\u0142 mo\u017ce by\u0107 warta nawet 100 tysi\u0119cy z\u0142otych. To sprawia, \u017ce coraz wi\u0119cej os\u00f3b zaczyna patrze\u0107 na drobne z nowym ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.mbbp73Maq-oUZppDCWkE4y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+numizmatyka",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN1 godz.",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
             "article_content": ""
         }
