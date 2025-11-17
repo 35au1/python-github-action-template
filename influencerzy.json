@@ -5,14 +5,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Tak by\u0142o na Pchlim Targu we W\u0142oc\u0142awku - 16 listopada 2025. Starocie, ozdoby \u015bwi\u0105teczne i choinki. Zdj\u0119cia, ceny, wideo",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/tak-by%C5%82o-na-pchlim-targu-we-w%C5%82oc%C5%82awku-16-listopada-2025-starocie-ozdoby-%C5%9Bwi%C4%85teczne-i-choinki-zdj%C4%99cia-ceny-wideo/ar-AA1QxhYb?ocid=BingNewsVerp",
-            "description": "W niedziel\u0119, 16 listopada 2025 roku, mimo ch\u0142odnej i deszczowej aury, na Pchlim Targu we W\u0142oc\u0142awku przy alei Kazimierza ...",
+            "title": "Pchli Targ we W\u0142oc\u0142awku - 16 listopada 2025. Starocie, ozdoby \u015bwi\u0105teczne i choinki. Zdj\u0119cia, ceny, wideo",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/pchli-targ-we-w%C5%82oc%C5%82awku-16-listopada-2025-starocie-ozdoby-%C5%9Bwi%C4%85teczne-i-choinki-zdj%C4%99cia-ceny-wideo/ar-AA1QxhYb?ocid=BingNewsVerp",
+            "description": "W niedziel\u0119, 16 listopada 2025 roku, mimo ch\u0142odnej i deszczowej aury na Pchlim Targu we W\u0142oc\u0142awku przy alei Kazimierza ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.FTOUFxzBIPQ_nv-087bRhS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN1 godz.",
+            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN4 godz.",
             "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Z\u0142ota r\u0105czka",
+            "link": "https://poznan.naszemiasto.pl/tag/zlota-raczka",
+            "description": "W Wielkopolsce nie brakuje pi\u0119knych pa\u0142ac\u00f3w i dwork\u00f3w na sprzeda\u017c. Cz\u0119\u015b\u0107 z nich jest gotowa do zamieszkania, inne wymagaj\u0105 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Pozna\u0144 Nasze Miasto2 godz.",
+            "source": "Pozna\u0144 Nasze Miasto",
+            "article_content": "Content not available"
         }
     },
     {
@@ -26,7 +42,7 @@
             "description": "Mimo niesprzyjaj\u0105cej aury Podlaskie Centrum Rolno Towarowe S. A. w Bia\u0142ymstoku przyci\u0105gn\u0119\u0142o w niedziel\u0119 wielu odwiedzaj\u0105cych.",
             "image_url": "https://www.bing.pl/th?id=OVFT.wxNrmLmAl-pwcLw9Wx6yZC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Kurier Poranny on MSN6 godz.",
+            "date": "Kurier Poranny on MSN12 godz.",
             "source": "Kurier Poranny on MSN",
             "article_content": ""
         }
@@ -39,10 +55,10 @@
         "body": {
             "title": "Sporo poszukiwaczy skarb\u00f3w na Targu Staroci w Podkarpackim Centrum Hurtowym AGROHURT S.A. w Rzeszowie!",
             "link": "https://rzeszow.naszemiasto.pl/sporo-poszukiwaczy-skarbow-na-targu-staroci-w-podkarpackim-centrum-hurtowym-agrohurt-s-a-w-rzeszowie/ar/c3p2-28178891",
-            "description": "Pasjonaci starych przedmiot\u00f3w zn\u00f3w pojawili si\u0119 na Targu Staroci, kt\u00f3re odby\u0142y si\u0119 w niedzielny poranek, 16 listopada 2025 r.",
-            "image_url": "https://www.bing.pl/th?id=OVFT.ZeJuoCUGW85gP0VXooclLy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "description": "Pasjonaci starych przedmiot\u00f3w zn\u00f3w pojawili si\u0119 na Targu Staroci, kt\u00f3re odby\u0142y si\u0119 w niedzielny poranek, 16 listopada 2025 r. w Podkarpackim Centrum Hurtowym AGROHURT S.A. Pierwsze zakupy mo\u017cna by\u0142o ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.1HhmRsrjdzWJFwhlDAHRNw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "Rzesz\u00f3w Nasze Miasto5 godz.",
+            "date": "Rzesz\u00f3w Nasze Miasto10 godz.",
             "source": "Rzesz\u00f3w Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -54,29 +70,13 @@
         },
         "body": {
             "title": "Ma\u0142gorzata Niezabitowska",
-            "link": "https://kielce.naszemiasto.pl/tag/malgorzata-niezabitowska",
+            "link": "https://echodnia.eu/swietokrzyskie/tag/malgorzata-niezabitowska",
             "description": "Dwa \u015bwiaty, dwie biografie, jedna przyja\u017a\u0144 trwaj\u0105ca niemal pi\u0119\u0107 dekad. W niedziel\u0119, 16 listopada, w Galerii Winda w Kielcach ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "image_url": "https://www.bing.pl/th?id=OVFT.OlAu1bnOzeBTIhhXx8Eu3y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Kielce Nasze Miasto2 godz.",
-            "source": "Kielce Nasze Miasto",
+            "date": "Echo Dnia3 godz.",
+            "source": "Echo Dnia",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Seniorzy siedz\u0105 w sieci, nakr\u0119caj\u0105 si\u0119, wietrz\u0105 spiski. \"Atmosfera jak w stanie wojennym\"",
-            "link": "https://www.newsweek.pl/polska/spoleczenstwo/seniorzy-w-sieci-rodzice-zyja-jakby-juz-nic-ich-nie-laczylo/pbyr05l",
-            "description": "Matka z telefonem w r\u0119ku chwali przem\u00f3wienie Tuska, ojciec \u015bledzi na smartfonie Marsz Niepodleg\u0142o\u015bci. \u2014 \u015acisz to! Przecie\u017c ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.0zUeHyzZiESFyTbdcyKW1i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "Newsweek Polska16 godz.",
-            "source": "Newsweek Polska",
-            "article_content": "Denerwuje si\u0119, bo rodzice \u017cyj\u0105, jakby ju\u017c nic ich nie \u0142\u0105czy\u0142o. Matka brzydzi si\u0119 tym, co podaj\u0105 prawicowe media, wi\u0119c gardzi ojcem, kt\u00f3ry to czyta, a ojciec gardzi matk\u0105, bo da\u0142a si\u0119 omota\u0107 \"tuskozdrajcom\". Prawie nie rozmawiaj\u0105, tylko \u015bcieraj\u0105 si\u0119 w mediach spo\u0142eczno\u015bciowych. \u2014 Gdy matka napisze, \u017ce jest za zmianami wprowadzanymi przez rz\u0105d Tuska, ojciec od razu zaznacza, \u017ce jest przeciw temu, co robi \"rz\u0105d ry\u017cego\".\n\nOstatnio pod informacj\u0105 o tym, \u017ce szczepienie na HPV stanie si\u0119 obowi\u0105zkowe, matka wrzuci\u0142a komentarz, \u017ce w ko\u0144cu, \u017ce bardzo dobrze, bo w krajach, gdzie jest to powszechne, nie ma problemu raka szyjki macicy. Ojciec tym, kt\u00f3rzy s\u0105 za powszechnym szczepieniem, doradzi\u0142 najpierw zaszczepi\u0107 m\u00f3zg. \u2014 Zostawia lajki pod wpisami szurii, kt\u00f3ra radzi m\u0142odym, \u017ceby wybierali na \u017con\u0119 dziewczyn\u0119 niezaszczepion\u0105, bo te zaszczepione mog\u0105 by\u0107 owrzodzone i rozwi\u0105z\u0142e. Je\u015bli kto\u015b na Facebooku poda, \u017ce si\u0119 zaszczepi\u0142, ojciec wpisuje: \"Anielski orszak niech tw\u0105 dusz\u0119 przyjmie\" \u2014 m\u00f3wi Magda.\n\nMartwi si\u0119, bo o ile matka jeszcze czasami w\u0142o\u017cy telefon do kieszeni i wyskoczy do znajomych albo na zakupy, ojciec coraz mniej jest w realnym \u015bwiecie.\n\nKonta siwych g\u0142\u00f3w\n\nW internecie jest 67 proc. os\u00f3b w wieku od 55 do 64 lat, po\u0142owa tych, kt\u00f3rzy maj\u0105 od 65 do 74, a w\u015br\u00f3d najstarszych co trzeci \u2014 takie s\u0105 dane CBOS.\n\nSilversi (50+) to grupa, kt\u00f3ra ostatnio ros\u0142a w sieci najdynamiczniej. Z raportu Social Media 2025 (dane z og\u00f3lnopolskich bada\u0144 Mediapanel i GemiusAdReal) wynika, \u017ce w mediach spo\u0142eczno\u015bciowych to ich jest najwi\u0119cej: na Facebooku ponad 6,2 mln, na YouTubie \u2014 5,7 mln, TikToku \u2014 2,4 mln, niemal tyle samo na platformie X. Prawie milion ma jeszcze konto na LinkedInie, \u0107wier\u0107 miliona korzysta ze Snapchata, 107 tys. wykorzystuje Threads, a 50 tys. Twitcha \u2014 platform\u0119, kt\u00f3ra udost\u0119pnia wideo strumieniowe.\n\n\u2014 Ci\u0105gle s\u0142yszeli, \u017ce powinni nad\u0105\u017ca\u0107, \u017ce trzeba by\u0107 nowoczesnym i obecnym w sieci, wi\u0119c s\u0105. Je\u017celi kto\u015b liczy\u0142 na to, \u017ce z racji wieku i \u017cyciowej m\u0105dro\u015bci b\u0119d\u0105 ostro\u017cniejsi ni\u017c m\u0142odzi i bardziej ni\u017c m\u0142odzi b\u0119d\u0105 kontrolowa\u0107 czas sp\u0119dzany w internecie, to si\u0119 grubo pomyli\u0142. Starsze osoby maj\u0105 wi\u0119cej czasu ni\u017c m\u0142odsze, aktywne zawodowo, wi\u0119c mog\u0105 by\u0107 d\u0142u\u017cej w sieci \u2014 m\u00f3wi socjolog problem\u00f3w spo\u0142ecznych dr Maciej D\u0119bski z Instytutu Socjologii Uniwersytetu Gda\u0144skiego. Jest prezesem fundacji Dbam o M\u00f3j Z@si\u0119g, od lat przygl\u0105da si\u0119, ile czasu jeste\u015bmy w sieci oraz co tam robimy. I cho\u0107 grupa 60+ w wi\u0119kszo\u015bci bada\u0144 deklaruje, \u017ce sp\u0119dza w mediach spo\u0142eczno\u015bciowych nie wi\u0119cej ni\u017c 1,5 godziny dziennie, a z ChatGPT \u015brednio 73 minuty, to nie da si\u0119 wykluczy\u0107, \u017ce cz\u0119\u015b\u0107 pr\u00f3buje ukry\u0107 rzeczywisty czas bycia online. Dr D\u0119bski m\u00f3wi, \u017ce silversi te\u017c coraz cz\u0119\u015bciej nadu\u017cywaj\u0105 nowych technologii.\n\n\u2014 Zapewne s\u0105 tacy, kt\u00f3rzy pocz\u0105tkowo nawet nie chcieli si\u0119 anga\u017cowa\u0107. Sami z siebie w og\u00f3le by do internetu nie weszli, ale zostali zmotywowani instytucjonalnie. Coraz wi\u0119cej us\u0142ug publicznych wymaga \u015bci\u0105gni\u0119cia aplikacji, zalogowania si\u0119, wi\u0119c \u017ceby za\u0142atwi\u0107 sprawy urz\u0119dowe czy zarejestrowa\u0107 si\u0119 u lekarza, zacz\u0119li korzysta\u0107 z sieci. Tak odkryli miejsce, w kt\u00f3rym poza mn\u00f3stwem informacji, bod\u017ac\u00f3w i pokus jest du\u017co pu\u0142apek \u2014 m\u00f3wi dr Rafa\u0142 Jaros, psycholog spo\u0142eczny, ekspert Instytutu Nauk Spo\u0142eczno-Ekonomicznych.\n\nStarsi mog\u0105 wpada\u0107 w pu\u0142apki cz\u0119\u015bciej ni\u017c m\u0142odzi. \u2014 Mamy dwa systemy my\u015blenia, co \u015bwietnie opisa\u0142 Kahneman: szybki, intuicyjny oraz analityczny, wymagaj\u0105cy namys\u0142u. Z wiekiem ten drugi, kt\u00f3ry jest szczeg\u00f3lnie potrzebny do obrony przed fake newsami, trikami i manipulacj\u0105, zaczyna si\u0119 degradowa\u0107 \u2014 t\u0142umaczy dr Jaros.\n\nNakr\u0119caj\u0105 si\u0119, spiskuj\u0105\n\n\u2014 W\u015br\u00f3d moich znajomych wi\u0119kszo\u015b\u0107 s\u0142abo sobie radzi z tym, \u017ceby kupi\u0107 w sieci bilet do kina czy na poci\u0105g, g\u0142\u00f3wnie scrolluj\u0105. Wchodz\u0105 w to, co im podsun\u0105 algorytmy, a te najcz\u0119\u015bciej podsuwaj\u0105 tre\u015bci wzbudzaj\u0105ce skrajne emocje, polaryzuj\u0105ce \u2014 m\u00f3wi Olga (67 lat, do niedawna prowadzi\u0142a agencj\u0119 nieruchomo\u015bci). Ostatnio zerwa\u0142a kontakty z kuzynem, bo zacz\u0105\u0142 si\u0119 zachowywa\u0107 jak zaprogramowany, powtarza\u0107, \u017ce jest \u017ale, a b\u0119dzie jeszcze gorzej.\n\n\u2014 Dosta\u0142 emerytur\u0119 nie tak wysok\u0105, na jak\u0105 liczy\u0142, ale oczywi\u015bcie \u2014 jego zdaniem \u2014 nie dlatego, \u017ce s\u0142abo zarabia\u0142, tylko \"przez imigrant\u00f3w, Niemc\u00f3w i tego ry\u017cego, kt\u00f3ry okrada emeryt\u00f3w\" \u2014 m\u00f3wi Olga. Poniewa\u017c ona nie podejrzewa Tuska o podbieranie pieni\u0119dzy emerytom ani o to, \u017ce sprzeda\u0142 Polsk\u0119 Niemcom, z niekt\u00f3rymi osobami w swoim wieku nie ma ju\u017c o czym rozmawia\u0107.\n\n\u2014 Siedz\u0105 w sieci, nakr\u0119caj\u0105 si\u0119, wietrz\u0105 spiski \u2014 opowiada Olga. Szczeg\u00f3lnie zdumia\u0142a j\u0105 przyjaci\u00f3\u0142ka z czas\u00f3w licealnych.\n\n\u2014 Znamy si\u0119 p\u00f3\u0142 wieku, siedzia\u0142y\u015bmy w jednej \u0142awce, by\u0142y\u015bmy jak siostry, mia\u0142y\u015bmy te same upodobania i zdrowy rozs\u0105dek. Dowiedzia\u0142am si\u0119, \u017ce popiera prawic\u0119, a teraz jeszcze zacz\u0119\u0142a g\u0142osi\u0107 teorie spiskowe. Kilka razy si\u0119 o to po\u017car\u0142y\u015bmy tak strasznie, \u017ce pomy\u015bla\u0142am: mi\u0119dzy nami ju\u017c koniec \u2014 m\u00f3wi Olga. \u2014 W ko\u0144cu zadzwoni\u0142am do niej, bo przecie\u017c \u0142\u0105czy nas tyle wspomnie\u0144, szkoda, \u017ceby to wszystko zosta\u0142o przekre\u015blone przez polityk\u0119 i bzdury, kt\u00f3rych naczyta si\u0119 w sieci. Zaproponowa\u0142am zgod\u0119 \u2014 opowiada Olga. Ale gdy zacz\u0119\u0142y si\u0119 kontaktowa\u0107, zn\u00f3w by\u0142o spi\u0119cie.\n\nDziel\u0105 si\u0119 i okopuj\u0105\n\n\u2014 Mam 84 lata, rozmawiam z ekranem, bo tak na \u017cywo nie mam z kim. Wielu koleg\u00f3w przenios\u0142o si\u0119 na drug\u0105 stron\u0119, a z tymi, kt\u00f3rzy jeszcze s\u0105, i tak nie by\u0142oby rozmowy. Od razu by\u0142aby k\u0142\u00f3tnia \u2014 m\u00f3wi pan Henryk z Radomia. By\u0142 nauczycielem zawodu w szkole przy Radosk\u00f3rze. Gdy przeszed\u0142 na emerytur\u0119, regularnie spotyka\u0142 si\u0119 z kolegami, grywali w remika. Z czasem coraz mniej by\u0142o gry, coraz wi\u0119cej politykowania. \u2014 Podzielili\u015bmy si\u0119 na dwa polityczne obozy, po r\u00f3wno: dw\u00f3ch w jednym, dw\u00f3ch w drugim. W rodzinie te\u017c zrobi\u0142 si\u0119 podzia\u0142, jakby kto\u015b j\u0105 przeci\u0105\u0142 na p\u00f3\u0142 i tak ju\u017c zosta\u0142o. Nie ma rozmowy, ka\u017cdy okopa\u0142 si\u0119 na swoich pozycjach. Atmosfera jak w stanie wojennym \u2014 opowiada pan Henryk.\n\nMagda, ilekro\u0107 wchodzi do rodzic\u00f3w, od razu ma ochot\u0119 wyj\u015b\u0107.\n\n\u2014 Wpad\u0142am na chwil\u0119 11 listopada. Matka ma oczy wbite w telefon, czyta komentarze po przem\u00f3wieniu premiera, kt\u00f3ry by\u0142 na marszu w Gda\u0144sku. Ojciec \u015bledzi przebieg marszu w Warszawie, chwali przem\u00f3wienie prezydenta, podziwia B\u0105kiewicza \u2014 m\u00f3wi Magda.\n\n\u2014 \u015acisz to! Przecie\u017c tych krzyk\u00f3w s\u0142ucha\u0107 si\u0119 nie da! \u2014 apeluje matka. Ojciec robi jeszcze g\u0142o\u015bniej.\n\n\u2014 Kretyn \u2014 m\u00f3wi matka.\n\n\u2014 Debilka.\n\n\u2014 Matka podsuwa mi relacje z Gda\u0144ska. \"Zobacz \u2014 m\u00f3wi \u2014 ludzie u\u015bmiechni\u0119ci. Nikt si\u0119 nie drze, nikogo nie obra\u017ca, nie ma rac ani osi\u0142k\u00f3w zakrywaj\u0105cych twarz. Mo\u017cna? Mo\u017cna\". Ojciec na to, \u017ce matka rozum postrada\u0142a, skoro podoba jej si\u0119 \u015awi\u0119to Niepodleg\u0142o\u015bci w Danzig i Tusk, kt\u00f3ry przecie\u017c w sercu ma Niemcy, nie Polsk\u0119. Je\u017celi by\u0142by polskim patriot\u0105, maszerowa\u0142by razem z prezydentem w Warszawie, ale Judasz stch\u00f3rzy\u0142, bo tu ju\u017c by go odpowiednio powitali \u2014 przekonuje ojciec.\n\n\u2014 Pokolenie 60+ jest najbardziej spolaryzowane ze wszystkich grup wiekowych. Wytrwale podtrzymuje podzia\u0142 na dwa obozy i nie ma mi\u0119dzy nimi najmniejszej ch\u0119ci rozmowy. Je\u015bli masz pogl\u0105dy inne ni\u017c moje, jeste\u015b g\u0142upkiem, koniec kropka, nie ma o czym dyskutowa\u0107 \u2014 t\u0142umaczy socjolo\u017cka Dorota Peretiatkowicz z teamu socjolozki.pl.\n\nPolaryzacja si\u0119 pog\u0142\u0119bia.\n\nLewaki do budy\n\n\u2014 Ta radykalizacja i podatno\u015b\u0107 na teorie spiskowe, to wszystko przez starzenie si\u0119? \u2014 pytam prof. Tomasza Gabryelewicza, psychiatr\u0119 z Centrum Terapii Dialog, kt\u00f3ry zajmuje si\u0119 pacjentami z zaburzeniami funkcji poznawczych.\n\n\u2014 Zwi\u0119kszona podejrzliwo\u015b\u0107, nieufno\u015b\u0107, sk\u0142onno\u015b\u0107 do interpretowania zachowa\u0144 innych ludzi jako wrogich \u2014 czyli to, co mo\u017ce sk\u0142ania\u0107 do wiary w teorie spiskowe \u2014 nie zale\u017cy od tego, ile ma si\u0119 lat \u2014 t\u0142umaczy prof. Gabryelewicz. Bardziej od osobowo\u015bci, poczucia krzywdy, bezradno\u015bci.\n\nW psychologii m\u00f3wi si\u0119 \"mentalno\u015b\u0107 spiskowa\". Z bada\u0144 psychologa spo\u0142ecznego, profesora UW Micha\u0142a Bilewicza wynika, \u017ce przekonanie, i\u017c wszystko jest ukartowane, nosimy jako spo\u0142ecze\u0144stwo od czas\u00f3w II wojny \u015bwiatowej. Po okupacji ludzie byli w traumie, l\u0119kowi, nieufni. To musia\u0142o mie\u0107 wp\u0142yw na to, jakim spo\u0142ecze\u0144stwem si\u0119 stali\u015bmy. Cz\u0119\u015b\u0107 ma silne objawy traumy transpokoleniowej \u2014 te osoby znacznie \u0142atwiej przyjmuj\u0105 teorie spiskowe. Mentalno\u015b\u0107 spiskowa \u2014 jak dowodzi prof. Bilewicz \u2014 nap\u0119dza polaryzacj\u0119 polityczn\u0105. Tych, z kt\u00f3rymi politycznie si\u0119 nie zgadzamy, zaczynamy traktowa\u0107 jak wrog\u00f3w, zdrajc\u00f3w.\n\n\u2014 M\u00f3j 78-letni ojciec nigdy nie by\u0142 a\u017c tak radykalny jak teraz. Gdy powsta\u0142 Ruch Obrony Granic i samozwa\u0144cze patrole B\u0105kiewicza zacz\u0119\u0142y sprawdza\u0107, kto do nas wje\u017cd\u017ca od strony Niemiec, ojciec naprawd\u0119 uwierzy\u0142, \u017ce najwi\u0119ksze zagro\u017cenie mo\u017ce spa\u015b\u0107 na Polsk\u0119 w\u0142a\u015bnie z tamtej strony. A wiadomo, kto trzyma z Niemcami. Zacz\u0105\u0142 jeszcze bardziej pot\u0119pia\u0107 \"tego niemieckiego Tuska\". Za to coraz bardziej chwali B\u0105kiewicza \u2014 wzdycha Magda. Wcze\u015bniej si\u0119 nim nie interesowa\u0142, teraz obserwuje go w sieci, lajkuje. I ju\u017c m\u00f3wi jego j\u0119zykiem.\n\nPo tym jak B\u0105kiewicz wys\u0142a\u0142 patrole na zachodni\u0105 granic\u0119, IBRiS w sonda\u017cu dla \"Rzeczpospolitej\" zapyta\u0142 Polak\u00f3w, co o tym s\u0105dz\u0105. Najbardziej spodoba\u0142o si\u0119 dw\u00f3m grupom wiekowym: 30-49 lat i 70+.\n\nB\u0105kiewicz buduje teraz struktury, prowadzi nab\u00f3r, zach\u0119ca, \u017ceby si\u0119 przy\u0142\u0105cza\u0107. Odwo\u0142uje si\u0119 do tego, co jeszcze \u2014 poza pilnowaniem granicy z Niemcami \u2014 mog\u0142oby emeryt\u00f3w poruszy\u0107. Rzuca tematy: germanizacja, laicyzacja, komunizm, Unia.\n\nJe\u015bli chodzi o Uni\u0119, to zanim uda si\u0119 zniszczy\u0107 t\u0119 \"patologi\u0119\", nale\u017cy rozpocz\u0105\u0107 \"realny op\u00f3r\", twierdzi B\u0105kiewicz. A je\u015bli nie b\u0119dzie innego wyj\u015bcia \u2014 rozwa\u017cy\u0107 opuszczenie Unii i budow\u0119 na jej gruzach \"alternatywnego \u0142adu europejskiego\".\n\nStraszy laicyzacj\u0105, twierdzi, \u017ce lewica i \"pseudolibera\u0142owie\" nie ogranicz\u0105 si\u0119 do zdejmowania krzy\u017cy czy likwidacji lekcji religii, ale \"skorzystaj\u0105 z ca\u0142ej tradycji komunistycznej\" \u2014 je\u015bli si\u0119 ich nie powstrzyma, wr\u00f3c\u0105 czasy, gdy katolicy \"nale\u017celi do najni\u017cszej kasty, byli pariasami, pozbawiani pracy, inwigilowani\".\n\nGdy jedzie na Wybrze\u017ce, krzyczy: \"Skandal! Za naszymi plecami, cz\u0119sto przy cichym wsparciu w\u0142adz spod znaku Tuska, trwa gwa\u0142towna regermanizacja Gda\u0144ska i ca\u0142ego obszaru ziem odzyskanych!\". I rzuca pytanie: \"Czy zuchwa\u0142e niemieckie plany zak\u0142adaj\u0105 aneksj\u0119 terytorialn\u0105 tych teren\u00f3w?\".\n\n\u2014 W tym, co m\u00f3wi do starszych os\u00f3b, jest bardzo du\u017co warstw. To nie tylko si\u0119 \"klika\", to przemawia do ich wyobra\u017ani: zagro\u017cenie, ojczyzna, nierozlanie si\u0119 w niebycie, tradycja, Ko\u015bci\u00f3\u0142 \u2014 zauwa\u017ca Dorota Peretiatkowicz.\n\nOsoby w wieku 60+ to pot\u0119ga: oko\u0142o 10 mln wyborc\u00f3w.\n\n\u2014 S\u0105 coraz wi\u0119ksz\u0105 grup\u0105 w sieci i od tego, co tam znajd\u0105, kto ich tam do siebie przyci\u0105gnie, zale\u017cy, jak b\u0119d\u0105 my\u015ble\u0107 i kogo popiera\u0107 \u2014 m\u00f3wi prof. Gabryelewicz.\n\nB\u0105kiewicz m\u00f3wi do emeryt\u00f3w i z emerytami si\u0119 pokazuje.\n\nGdy w pa\u017adzierniku, podczas wiecu PiS w Warszawie, trzymaj\u0105c w r\u0119ku symboliczn\u0105 kos\u0119 na sztorc, krzycza\u0142, \u017ce trzeba z polskiej ziemi powyrywa\u0107 chwasty i napalm na t\u0119 ziemi\u0119 rzuca\u0107, \u017ceby nigdy nie odros\u0142y \u2014 sta\u0142 przy nim Jacek Wrona, emerytowany policjant, zaciek\u0142y wr\u00f3g \"lewactwa\". \"Ekspertem\" Ruchu Obrony Granic jest Marian Pi\u0142ka, dawniej pose\u0142, zwi\u0105zany kolejno z ZChN, Przymierzem Prawicy, PiS, kt\u00f3ry ma 71 lat i cz\u0119sto j\u0119zyk ostrzejszy nawet od B\u0105kiewicza.\n\nB\u0105kiewicz je\u017adzi teraz po Polsce \u2014 ma za sob\u0105 Szczecinek, Koszalin, Aleksandr\u00f3w \u0141\u00f3dzki, Radom. Przychodz\u0105 g\u0142\u00f3wnie siwe g\u0142owy, dostaje brawa na stoj\u0105co. Gdy wrzuca zdj\u0119cia z tych spotka\u0144 na swoje profile, zaczyna si\u0119 walka na komentarze: jedni \u015bmiej\u0105 si\u0119, \u017ce nikt go nie chce s\u0142ucha\u0107, tylko kluby \"Gazety Polskiej\", geriatria, starocie. A drudzy dzi\u0119kuj\u0105 Bogu za B\u0105kiewicza, pisz\u0105: \"Lewaki do budy!\" i \u017ce trzeba \"stan\u0105\u0107 do boju\", \"pogoni\u0107 ten niemiecki rz\u0105d\", nie ma co przejmowa\u0107 si\u0119 \"szczekaniem tuskowych zjeb\u00f3w\", \"ci, co s\u0105 za Tuskiem, to nie s\u0105 Polacy, to unijne \u015bmieci\"."
         }
     },
     {
@@ -90,7 +90,7 @@
             "description": "Na starych monetach z czas\u00f3w PRL-u mo\u017cna zarobi\u0107 du\u017co pieni\u0119dzy. Wycena monet zale\u017cy od ich stanu zachowania, a dobrze ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.0qowG_2RHnDFLYejpDfxZy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski15 godz.",
+            "date": "G\u0142os Koszali\u0144ski20 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
         }
@@ -106,7 +106,7 @@
             "description": "W 2025 roku stare banknoty i monety z czas\u00f3w PRL sta\u0142y si\u0119 prawdziwym hitem w\u015br\u00f3d kolekcjoner\u00f3w. Nie m\u00f3wimy tu tylko o ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.WiLOrT2bb5xgTdO-Q2z5Ei&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Express Bydgoski on MSN15 min",
+            "date": "Express Bydgoski on MSN5 godz.",
             "source": "Express Bydgoski on MSN",
             "article_content": ""
         }
@@ -122,7 +122,7 @@
             "description": "Kobiety trzymaj\u0105 cenn\u0105 bi\u017cuteri\u0119 z tych czas\u00f3w, kt\u00f3ra by\u0142a odzwierciedleniem stylu, bogactwa oraz mo\u017cliwo\u015bci. Du\u017co cenniejsze ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.E74w9YbkdhtCekfCCqgb6C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski15 godz.",
+            "date": "G\u0142os Koszali\u0144ski20 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
         }
@@ -138,7 +138,7 @@
             "description": "Pokolenie dzisiejszych 30- i 40-latk\u00f3w dorasta\u0142o z pierwszymi kom\u00f3rkami w r\u0119kach. D\u017awi\u0119k kultowego dzwonka Nokii 3310, gry w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.OXE2420uQ6nCkpyyIn4GGy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Pomorza on MSN10 godz.",
+            "date": "G\u0142os Pomorza on MSN16 godz.",
             "source": "G\u0142os Pomorza on MSN",
             "article_content": ""
         }
@@ -151,10 +151,10 @@
         "body": {
             "title": "Sporo poszukiwaczy skarb\u00f3w na Targu Staroci w Podkarpackim Centrum Hurtowym AGROHURT S.A. w Rzeszowie!",
             "link": "https://rzeszow.naszemiasto.pl/sporo-poszukiwaczy-skarbow-na-targu-staroci-w-podkarpackim-centrum-hurtowym-agrohurt-s-a-w-rzeszowie/ar/c3p2-28178891",
-            "description": "Pasjonaci starych przedmiot\u00f3w zn\u00f3w pojawili si\u0119 na Targu Staroci, kt\u00f3re odby\u0142y si\u0119 w niedzielny poranek, 16 listopada 2025 r.",
-            "image_url": "https://www.bing.pl/th?id=OVFT.ZeJuoCUGW85gP0VXooclLy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "description": "Pasjonaci starych przedmiot\u00f3w zn\u00f3w pojawili si\u0119 na Targu Staroci, kt\u00f3re odby\u0142y si\u0119 w niedzielny poranek, 16 listopada 2025 r. w Podkarpackim Centrum Hurtowym AGROHURT S.A. Pierwsze zakupy mo\u017cna by\u0142o ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.1HhmRsrjdzWJFwhlDAHRNw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "Rzesz\u00f3w Nasze Miasto5 godz.",
+            "date": "Rzesz\u00f3w Nasze Miasto10 godz.",
             "source": "Rzesz\u00f3w Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -170,7 +170,7 @@
             "description": "Rozwadowski Targ Staroci zorganizowany w Stalowej Woli 16 listopada by\u0142 ostatnim w tym roku. Deszczowa aura i ch\u0142\u00f3d nie ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.swDl4WymySdm-ahb4-gsVi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Nasze Miasto on MSN8 godz.",
+            "date": "Nasze Miasto on MSN13 godz.",
             "source": "Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -182,13 +182,29 @@
         },
         "body": {
             "title": "Sporo poszukiwaczy skarb\u00f3w na Targu Staroci w Podkarpackim Centrum Hurtowym AGROHURT S.A. w Rzeszowie!",
-            "link": "https://rzeszow.naszemiasto.pl/sporo-poszukiwaczy-skarbow-na-targu-staroci-w-podkarpackim-centrum-hurtowym-agrohurt-s-a-w-rzeszowie/ar/c3p2-28178891",
-            "description": "Pasjonaci starych przedmiot\u00f3w zn\u00f3w pojawili si\u0119 na Targu Staroci, kt\u00f3re odby\u0142y si\u0119 w niedzielny poranek, 16 listopada 2025 r.",
-            "image_url": "https://www.bing.pl/th?id=OVFT.ZeJuoCUGW85gP0VXooclLy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/sporo-poszukiwaczy-skarb%C3%B3w-na-targu-staroci-w-podkarpackim-centrum-hurtowym-agrohurt-s-a-w-rzeszowie/ar-AA1QxD0m?ocid=BingNewsVerp",
+            "description": "Kolejny Targ Staroci w Podkarpackim Centrum Hurtowym AGROHURT S.A. w Rzeszowie odby\u0142y si\u0119 w niedziel\u0119, 16 listopada 2025 r.",
+            "image_url": "https://www.bing.pl/th?id=OVFT.SrJZ_m-3bBkRo8IiL6defS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Rzesz\u00f3w Nasze Miasto5 godz.",
-            "source": "Rzesz\u00f3w Nasze Miasto",
-            "article_content": "Content not available"
+            "date": "Rzesz\u00f3w Nasze Miasto on MSN9 godz.",
+            "source": "Rzesz\u00f3w Nasze Miasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pchli Targ we W\u0142oc\u0142awku - 16 listopada 2025. Starocie, ozdoby \u015bwi\u0105teczne i choinki. Zdj\u0119cia, ceny, wideo",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/pchli-targ-we-w%C5%82oc%C5%82awku-16-listopada-2025-starocie-ozdoby-%C5%9Bwi%C4%85teczne-i-choinki-zdj%C4%99cia-ceny-wideo/ar-AA1QxhYb?ocid=BingNewsVerp",
+            "description": "W niedziel\u0119, 16 listopada 2025 roku, mimo ch\u0142odnej i deszczowej aury na Pchlim Targu we W\u0142oc\u0142awku przy alei Kazimierza ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.FTOUFxzBIPQ_nv-087bRhS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN4 godz.",
+            "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
+            "article_content": ""
         }
     },
     {
@@ -202,24 +218,8 @@
             "description": "Pchli targ przy M1 zn\u00f3w przyci\u0105gn\u0105\u0142 t\u0142umy. Setki stoisk i tysi\u0105ce przedmiot\u00f3w na wyci\u0105gni\u0119cie r\u0119ki, tak wygl\u0105da\u0142a niedziela, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.wRdCrAYUZvRGuXD2f7RloC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Pozna\u0144 Nasze Miasto on MSN1 godz.",
+            "date": "Pozna\u0144 Nasze Miasto on MSN7 godz.",
             "source": "Pozna\u0144 Nasze Miasto on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Tak by\u0142o na Pchlim Targu we W\u0142oc\u0142awku - 16 listopada 2025. Starocie, ozdoby \u015bwi\u0105teczne i choinki. Zdj\u0119cia, ceny, wideo",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/tak-by%C5%82o-na-pchlim-targu-we-w%C5%82oc%C5%82awku-16-listopada-2025-starocie-ozdoby-%C5%9Bwi%C4%85teczne-i-choinki-zdj%C4%99cia-ceny-wideo/ar-AA1QxhYb?ocid=BingNewsVerp",
-            "description": "W niedziel\u0119, 16 listopada 2025 roku, mimo ch\u0142odnej i deszczowej aury, na Pchlim Targu we W\u0142oc\u0142awku przy alei Kazimierza ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.FTOUFxzBIPQ_nv-087bRhS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "targ+staroci",
-            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN1 godz.",
-            "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
             "article_content": ""
         }
     },
@@ -234,25 +234,9 @@
             "description": "Dwa \u015bwiaty, dwie biografie, jedna przyja\u017a\u0144 trwaj\u0105ca niemal pi\u0119\u0107 dekad. W niedziel\u0119, 16 listopada, w Galerii Winda w Kielcach ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Kielce Nasze Miasto2 godz.",
+            "date": "Kielce Nasze Miasto7 godz.",
             "source": "Kielce Nasze Miasto",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Tusk o akcie dywersji. Zawrza\u0142o po planach aukcji w Niemczech [SKR\u00d3T DNIA]",
-            "link": "https://wiadomosci.wp.pl/tusk-o-akcie-dywersji-zawrzalo-po-planach-aukcji-w-niemczech-skrot-dnia-7222538803952576a",
-            "description": "Skandaliczna aukcja w Niemczech wywo\u0142a\u0142a ostry sprzeciw w Polsce oraz na arenie mi\u0119dzynarodowej. Uszkodzenie torowiska na ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.tjKWsjp5B40x7q0MAEA7My&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "WP Wiadomo\u015bci2 godz.",
-            "source": "WP Wiadomo\u015bci",
-            "article_content": "Zapraszamy na skr\u00f3t dnia, czyli najwa\u017cniejsze i najciekawsze materia\u0142y wybrane przez redakcj\u0119 Wirtualnej Polski. Znajdziesz go codziennie o 20:30 na stronie g\u0142\u00f3wnej WP.\n\nUszkodzone torowisko. Premier zabiera g\u0142os\n\nRano na trasie D\u0119blin-Warszawa dosz\u0142o do zniszczenia fragmentu torowiska. Maszynista poci\u0105gu zauwa\u017cy\u0142 nieprawid\u0142owo\u015bci i zg\u0142osi\u0142 to odpowiednim s\u0142u\u017cbom. W reakcji miejsce zosta\u0142o zabezpieczone, a ruch poci\u0105g\u00f3w odbywa si\u0119 obecnie po jednym torze. Spraw\u0105 zajmuje si\u0119 policja, prokuratura i komisja kolejowa.\n\nDonald Tusk, premier Polski, podkre\u015bli\u0142 w mediach spo\u0142eczno\u015bciowych, \u017ce jest w sta\u0142ym kontakcie z ministrem spraw wewn\u0119trznych i \u017ce niewykluczone, i\u017c incydent ma charakter dywersji. Premier zaznaczy\u0142 r\u00f3wnie\u017c, \u017ce \u015bledztwo w tej sprawie jest w toku, a ca\u0142o\u015b\u0107 badana jest przez policj\u0119 i prokuratur\u0119, kt\u00f3re szukaj\u0105 dowod\u00f3w na ewentualne celowe dzia\u0142anie.\n\nWst\u0119pne ustalenia wskazuj\u0105 na uszkodzenie szyny, co spowodowa\u0142o zatrzymanie poci\u0105gu. Szef MSWiA Karolina Ga\u0142ecka, wyrazi\u0142a ostro\u017cno\u015b\u0107 w ocenach, twierdz\u0105c, \u017ce obecnie brak jest podstaw do stwierdzenia udzia\u0142u os\u00f3b trzecich.\n\nSkandaliczna aukcji artefakt\u00f3w z Auschwitz\n\nW Niemczech ponownie wybuch\u0142a afera zwi\u0105zana z planowan\u0105 aukcj\u0105 dokument\u00f3w i przedmiot\u00f3w pochodz\u0105cych z czas\u00f3w II wojny \u015bwiatowej. Dom Aukcyjny Felzmann w Neuss zamierza\u0142 sprzeda\u0107 m.in. listy wi\u0119\u017ani\u00f3w z Auschwitz oraz inne relikty z oboz\u00f3w koncentracyjnych. Ministerstwo Kultury i Dziedzictwa Narodowego, reprezentowane przez Mart\u0119 Cienkowsk\u0105, stanowczo pot\u0119pi\u0142o te dzia\u0142ania.\n\nPo interwencji ministra oraz MSZ Rados\u0142awa Sikorskiego aukcja zosta\u0142a wstrzymana, a oferowane przedmioty znikn\u0119\u0142y z internetowej oferty. Interwencje by\u0142y wynikiem zar\u00f3wno presji ze strony instytucji polskich, jak i zagranicznych. Szef MSZ zaznaczy\u0142, \u017ce decyzje te s\u0105 kluczowe dla ochrony pami\u0119ci o zbrodniach wojennych i ich ofiarach.\n\nInstytut Pami\u0119ci Narodowej uzna\u0142 dzia\u0142ania niemieckiego domu aukcyjnego za niedopuszczalne i podkre\u015bli\u0142, \u017ce takie artefakty musz\u0105 znajdowa\u0107 si\u0119 w muzeach, aby s\u0142u\u017cy\u0107 edukacji i upami\u0119tnieniu ofiar Holokaustu.\n\nPrzyzna\u0142 si\u0119 do gro\u017cenia prezydentowi\n\nW niedziel\u0119 odby\u0142y si\u0119 czynno\u015bci procesowe zwi\u0105zane z gro\u017abami kierowanymi wobec prezydenta Karola Nawrockiego. 19-letni mieszkaniec Warszawy przyzna\u0142 si\u0119 do kierowania gr\u00f3\u017ab karalnych, wykorzystuj\u0105c media spo\u0142eczno\u015bciowe.\n\nGro\u017aby pojawi\u0142y si\u0119 jako odpowied\u017a na zdj\u0119cie z meczu Polska-Holandia. Prokurator Piotr Antoni Skiba potwierdzi\u0142, \u017ce m\u0142ody m\u0119\u017cczyzna z\u0142o\u017cy\u0142 wyja\u015bnienia i przyzna\u0142 si\u0119 do winy. Z powodu powagi zarzut\u00f3w s\u0105d na\u0142o\u017cy\u0142 na niego nadzorcze \u015brodki ostro\u017cno\u015bci, w tym doz\u00f3r policyjny.\n\nUSA naciskaj\u0105 na UE ws. ce\u0142\n\nStany Zjednoczone zarzuci\u0142y Unii Europejskiej op\u00f3\u017anienia w realizacji uzgodnie\u0144 dotycz\u0105cych ci\u0119\u0107 celnych i redukcji barier w handlu. Jak podaje \"Financial Times\", administracja USA mocno krytykuje powolne tempo wprowadzania zmian, kt\u00f3re zosta\u0142y ustalone podczas lipcowego spotkania prezydenta Donalda Trumpa z szefow\u0105 Komisji Europejskiej Ursul\u0105 von der Leyen. USA argumentuj\u0105, \u017ce unijne c\u0142a wci\u0105\u017c s\u0105 zbyt wysokie, ograniczaj\u0105c dost\u0119p ameryka\u0144skich produkt\u00f3w do rynku UE.\n\nNegocjator USA, Jamieson Greer, podkre\u015bli\u0142, \u017ce niezmiennie wysokie c\u0142a utrudniaj\u0105 ameryka\u0144ski eksport do Europy. USA podj\u0119\u0142y ju\u017c konkretne kroki i przekaza\u0142y Brukseli list z zastrze\u017ceniami, naciskaj\u0105c na przyspieszenie procesu.\n\nWsp\u00f3\u0142praca z Grecj\u0105 ma otworzy\u0107 dla Ukrainy nowe kierunki dostaw, co jest kluczowe, aby przeciwdzia\u0142a\u0107 planom Rosji.\n\nIga \u015awi\u0105tek zapewni\u0142a zwyci\u0119stwo Polsce!\n\nReprezentacja Polski zdoby\u0142a drugi punkt w starciu z Rumuni\u0105 i zapewni\u0142a sobie wyst\u0119p w kwalifikacjach do turnieju fina\u0142owego Pucharu Billie Jean King. Iga \u015awi\u0105tek tak samo, jak Linda Klimovicova nie da\u0142a \u017cadnych szans swojej rywalce.\n\nSkandal podczas lotu na Malt\u0119. Polacy b\u0142yskawicznie skazani\n\nDw\u00f3ch polskich kibic\u00f3w zosta\u0142o aresztowanych tu\u017c po l\u0105dowaniu samolotu na Malcie. W rozmowie z WP SportoweFakty malta\u0144ska policja potwierdzi\u0142a, \u017ce zapad\u0142 ju\u017c wyrok w ich sprawie.\n\nUkraina z nowym porozumieniem gazowym z Grecj\u0105"
         }
     },
     {
@@ -266,7 +250,7 @@
             "description": "Od dekad zak\u0142adamy, \u017ce Wszech\u015bwiat jest w miar\u0119 przewidywalny. No, w\u0142a\u015bnie nie bardzo. Astronomowie twierdz\u0105, \u017ce nasze uk\u0142ady ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.orRYfyYAYgnldGAbUHGqLi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Antyweb1 godz.",
+            "date": "Antyweb7 godz.",
             "source": "Antyweb",
             "article_content": "Od dekad zak\u0142adamy, \u017ce Wszech\u015bwiat jest w miar\u0119 przewidywalny. No, w\u0142a\u015bnie nie bardzo. Astronomowie twierdz\u0105, \u017ce nasze uk\u0142ady odniesienia \u2014 S\u0142o\u0144ce, planety, wszystko \u2014 p\u0119dz\u0105 przez kosmos ponad trzykrotnie szybciej, ni\u017c powinny. Nie chodzi o pomy\u0142k\u0119 w obliczeniach. Mo\u017cliwe, \u017ce nasz model kosmologiczny jest w ci\u0119\u017ckim b\u0142\u0119dzie.\n\nZesp\u00f3\u0142 Lukasa B\u00f6hmego wykorzysta\u0142 sie\u0107 radioteleskop\u00f3w LOFAR i dwa inne instrumenty, by stworzy\u0107 map\u0119 rozmieszczenia galaktyk radiowych \u2014 obiekt\u00f3w emituj\u0105cych pot\u0119\u017cne sygna\u0142y radiowe z rozleg\u0142ych ob\u0142ok\u00f3w gazu i plazmy. To \u015bwietny materia\u0142 por\u00f3wnawczy: fale radiowe prze\u015blizguj\u0105 si\u0119 przez kosmiczny py\u0142, wi\u0119c ich sygna\u0142 \u0142atwiej uporz\u0105dkowa\u0107 ni\u017c sygna\u0142y z widzialnego dla nas zakresu.\n\nReklama\n\nW kierunku, w kt\u00f3rym si\u0119 poruszamy, powinno by\u0107 minimalnie wi\u0119cej \u017ar\u00f3de\u0142 radiowych. Minimalnie \u2014 czyli na granicy wykrywalno\u015bci. Ale gdy naukowcy policzyli r\u00f3\u017cnice, liczby wyskoczy\u0142y ponad sufit obowi\u0105zuj\u0105cego modelu. Zamiast kosmetycznych odchyle\u0144 otrzymali wynik 3,7 razy wi\u0119kszy, ni\u017c przewiduje teoria. Lepiej nie mie\u0107 takiej niespodzianki, je\u015bli buduje si\u0119 model opisuj\u0105cy ca\u0142y Wszech\u015bwiat. To jak odkry\u0107, \u017ce Twoja nawigacja uparcie twierdzi, \u017ce jeste\u015b w innym mie\u015bcie \u2014 a w dodatku kilka satelit\u00f3w to potwierdza.\n\nZderzenie z modelem standardowym\n\nModel standardowy to kr\u0119gos\u0142up wsp\u00f3\u0142czesnej astrofizyki, a w nim znajduj\u0105 si\u0119: ekspansja kosmosu, ciemna materia, relikty Wielkiego Wybuchu. Wielka narracja, kt\u00f3ra t\u0142umaczy nam 13,8 miliarda lat historii. Tyle \u017ce model zak\u0142ada pewn\u0105 r\u00f3wnomierno\u015b\u0107 \u2014 przynajmniej w du\u017cej skali.\n\nA tu nagle okazuje si\u0119, \u017ce rozk\u0142ad radiogalaktyk jest mniej jednorodny, ni\u017c zak\u0142adano, lub... ca\u0142y Uk\u0142ad S\u0142oneczny sunie przez przestrze\u0144 znacznie szybciej, ni\u017c wynika\u0142oby z obserwacji promieniowania mikrofalowego t\u0142a. Oba scenariusze podwa\u017caj\u0105 co\u015b istotnego. Albo (czaso)przestrze\u0144 jest mniej \"g\u0142adka\", albo nie wiemy, jak szybko p\u0119dzimy. Jedno i drugie jest dla nauki niewygodne \u2014 zw\u0142aszcza dla teorii, kt\u00f3ra lubi elegancj\u0119 i symetri\u0119.\n\nKwazary potwierdzaj\u0105 trend\n\nWyniki z LOFAR-a to w\u0142a\u015bciwie kolejny taki trop. Od lat m\u00f3wi si\u0119 o podobnym efekcie w danych z kwazar\u00f3w obserwowanych w podczerwieni. Kwazary to supermasywne czarne dziury, kt\u00f3re \u015bwiec\u0105 ja\u015bniej ni\u017c ca\u0142e galaktyki \u2014 trudno o lepsze latarnie w bezmiarze kosmosu. To, \u017ce dwa zupe\u0142nie r\u00f3\u017cne typy obiekt\u00f3w wykazuj\u0105 ten sam charakter naszego b\u0142\u0119du, zmienia nasze podejrzenia z \"b\u0142\u0119du w pomiarze\" na \"damn, to mo\u017ce by\u0107 prawda\". Nauka nie lubi przypadk\u00f3w. Przypadek wyst\u0119puje niezmiernie rzadko.\n\nCzytaj r\u00f3wnie\u017c: Model standardowy mo\u017ce by\u0107\u2026 b\u0142\u0119dny! Trz\u0119sienie ziemi w badaniach Wszech\u015bwiata\n\nNajbardziej pesymistyczna opcja jest taka: obecne modele faktycznie mijaj\u0105 si\u0119 z rzeczywisto\u015bci\u0105, bo zak\u0142adaj\u0105 wi\u0119ksz\u0105 jednorodno\u015b\u0107 kosmosu, ni\u017c w nim naprawd\u0119 jest. Taka zmiana poci\u0105gn\u0119\u0142aby za sob\u0105 konieczno\u015b\u0107 zmiany istotnych prawide\u0142 \u2014 od interpretacji mikrofalowego t\u0142a po obliczenia dotycz\u0105ce ciemnej materii. A jaka jest optymistyczna? Instrumenty s\u0105 ju\u017c tak czu\u0142e, \u017ce zaczynaj\u0105 wychwytywa\u0107 subtelno\u015bci, o kt\u00f3rych wcze\u015bniej nie mieli\u015bmy poj\u0119cia. Co nie musi oznacza\u0107 przewrotu, ale jedynie korekt\u0119. Wtedy w teorii pojawi si\u0119 wi\u0119cej niuans\u00f3w. Gorzej, je\u017celi tych niuans\u00f3w b\u0119dzie tak du\u017co, \u017ce obecna teoria po prostu si\u0119 wykrzaczy."
         }
@@ -277,13 +261,29 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Trasy spacerowe w woj. zachodniopomorskim. Gdzie warto i\u015b\u0107 w weekend 15 - 16 listopada? Lista 10 tras",
-            "link": "https://gs24.pl/trasy-spacerowe-w-woj-zachodniopomorskim-gdzie-warto-isc-w-weekend-15-16-listopada-lista-10-tras/ar/c7p1-22116477",
-            "description": "W woj. zachodniopomorskim nie brakuje miejsc do spacerowania. Mamy dla Was 10 propozycji. Mo\u017cecie nam\u00f3wi\u0107 rodzin\u0119 lub ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.n2qRKN7oOM1mQ8QdQ0FSqi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Tusk o akcie dywersji. Zawrza\u0142o po planach aukcji w Niemczech [SKR\u00d3T DNIA]",
+            "link": "https://wiadomosci.wp.pl/tusk-o-akcie-dywersji-zawrzalo-po-planach-aukcji-w-niemczech-skrot-dnia-7222538803952576a",
+            "description": "Skandaliczna aukcja w Niemczech wywo\u0142a\u0142a ostry sprzeciw w Polsce oraz na arenie mi\u0119dzynarodowej. Uszkodzenie torowiska na ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.tjKWsjp5B40x7q0MAEA7My&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "G\u0142os Szczeci\u0144ski6 godz.",
-            "source": "G\u0142os Szczeci\u0144ski",
+            "date": "WP Wiadomo\u015bci8 godz.",
+            "source": "WP Wiadomo\u015bci",
+            "article_content": "Zapraszamy na skr\u00f3t dnia, czyli najwa\u017cniejsze i najciekawsze materia\u0142y wybrane przez redakcj\u0119 Wirtualnej Polski. Znajdziesz go codziennie o 20:30 na stronie g\u0142\u00f3wnej WP.\n\nUszkodzone torowisko. Premier zabiera g\u0142os\n\nRano na trasie D\u0119blin-Warszawa dosz\u0142o do zniszczenia fragmentu torowiska. Maszynista poci\u0105gu zauwa\u017cy\u0142 nieprawid\u0142owo\u015bci i zg\u0142osi\u0142 to odpowiednim s\u0142u\u017cbom. W reakcji miejsce zosta\u0142o zabezpieczone, a ruch poci\u0105g\u00f3w odbywa si\u0119 obecnie po jednym torze. Spraw\u0105 zajmuje si\u0119 policja, prokuratura i komisja kolejowa.\n\nDonald Tusk, premier Polski, podkre\u015bli\u0142 w mediach spo\u0142eczno\u015bciowych, \u017ce jest w sta\u0142ym kontakcie z ministrem spraw wewn\u0119trznych i \u017ce niewykluczone, i\u017c incydent ma charakter dywersji. Premier zaznaczy\u0142 r\u00f3wnie\u017c, \u017ce \u015bledztwo w tej sprawie jest w toku, a ca\u0142o\u015b\u0107 badana jest przez policj\u0119 i prokuratur\u0119, kt\u00f3re szukaj\u0105 dowod\u00f3w na ewentualne celowe dzia\u0142anie.\n\nWst\u0119pne ustalenia wskazuj\u0105 na uszkodzenie szyny, co spowodowa\u0142o zatrzymanie poci\u0105gu. Szef MSWiA Karolina Ga\u0142ecka, wyrazi\u0142a ostro\u017cno\u015b\u0107 w ocenach, twierdz\u0105c, \u017ce obecnie brak jest podstaw do stwierdzenia udzia\u0142u os\u00f3b trzecich.\n\nSkandaliczna aukcji artefakt\u00f3w z Auschwitz\n\nW Niemczech ponownie wybuch\u0142a afera zwi\u0105zana z planowan\u0105 aukcj\u0105 dokument\u00f3w i przedmiot\u00f3w pochodz\u0105cych z czas\u00f3w II wojny \u015bwiatowej. Dom Aukcyjny Felzmann w Neuss zamierza\u0142 sprzeda\u0107 m.in. listy wi\u0119\u017ani\u00f3w z Auschwitz oraz inne relikty z oboz\u00f3w koncentracyjnych. Ministerstwo Kultury i Dziedzictwa Narodowego, reprezentowane przez Mart\u0119 Cienkowsk\u0105, stanowczo pot\u0119pi\u0142o te dzia\u0142ania.\n\nPo interwencji ministra oraz MSZ Rados\u0142awa Sikorskiego aukcja zosta\u0142a wstrzymana, a oferowane przedmioty znikn\u0119\u0142y z internetowej oferty. Interwencje by\u0142y wynikiem zar\u00f3wno presji ze strony instytucji polskich, jak i zagranicznych. Szef MSZ zaznaczy\u0142, \u017ce decyzje te s\u0105 kluczowe dla ochrony pami\u0119ci o zbrodniach wojennych i ich ofiarach.\n\nInstytut Pami\u0119ci Narodowej uzna\u0142 dzia\u0142ania niemieckiego domu aukcyjnego za niedopuszczalne i podkre\u015bli\u0142, \u017ce takie artefakty musz\u0105 znajdowa\u0107 si\u0119 w muzeach, aby s\u0142u\u017cy\u0107 edukacji i upami\u0119tnieniu ofiar Holokaustu.\n\nPrzyzna\u0142 si\u0119 do gro\u017cenia prezydentowi\n\nW niedziel\u0119 odby\u0142y si\u0119 czynno\u015bci procesowe zwi\u0105zane z gro\u017abami kierowanymi wobec prezydenta Karola Nawrockiego. 19-letni mieszkaniec Warszawy przyzna\u0142 si\u0119 do kierowania gr\u00f3\u017ab karalnych, wykorzystuj\u0105c media spo\u0142eczno\u015bciowe.\n\nGro\u017aby pojawi\u0142y si\u0119 jako odpowied\u017a na zdj\u0119cie z meczu Polska-Holandia. Prokurator Piotr Antoni Skiba potwierdzi\u0142, \u017ce m\u0142ody m\u0119\u017cczyzna z\u0142o\u017cy\u0142 wyja\u015bnienia i przyzna\u0142 si\u0119 do winy. Z powodu powagi zarzut\u00f3w s\u0105d na\u0142o\u017cy\u0142 na niego nadzorcze \u015brodki ostro\u017cno\u015bci, w tym doz\u00f3r policyjny.\n\nUSA naciskaj\u0105 na UE ws. ce\u0142\n\nStany Zjednoczone zarzuci\u0142y Unii Europejskiej op\u00f3\u017anienia w realizacji uzgodnie\u0144 dotycz\u0105cych ci\u0119\u0107 celnych i redukcji barier w handlu. Jak podaje \"Financial Times\", administracja USA mocno krytykuje powolne tempo wprowadzania zmian, kt\u00f3re zosta\u0142y ustalone podczas lipcowego spotkania prezydenta Donalda Trumpa z szefow\u0105 Komisji Europejskiej Ursul\u0105 von der Leyen. USA argumentuj\u0105, \u017ce unijne c\u0142a wci\u0105\u017c s\u0105 zbyt wysokie, ograniczaj\u0105c dost\u0119p ameryka\u0144skich produkt\u00f3w do rynku UE.\n\nNegocjator USA, Jamieson Greer, podkre\u015bli\u0142, \u017ce niezmiennie wysokie c\u0142a utrudniaj\u0105 ameryka\u0144ski eksport do Europy. USA podj\u0119\u0142y ju\u017c konkretne kroki i przekaza\u0142y Brukseli list z zastrze\u017ceniami, naciskaj\u0105c na przyspieszenie procesu.\n\nWsp\u00f3\u0142praca z Grecj\u0105 ma otworzy\u0107 dla Ukrainy nowe kierunki dostaw, co jest kluczowe, aby przeciwdzia\u0142a\u0107 planom Rosji.\n\nIga \u015awi\u0105tek zapewni\u0142a zwyci\u0119stwo Polsce!\n\nReprezentacja Polski zdoby\u0142a drugi punkt w starciu z Rumuni\u0105 i zapewni\u0142a sobie wyst\u0119p w kwalifikacjach do turnieju fina\u0142owego Pucharu Billie Jean King. Iga \u015awi\u0105tek tak samo, jak Linda Klimovicova nie da\u0142a \u017cadnych szans swojej rywalce.\n\nSkandal podczas lotu na Malt\u0119. Polacy b\u0142yskawicznie skazani\n\nDw\u00f3ch polskich kibic\u00f3w zosta\u0142o aresztowanych tu\u017c po l\u0105dowaniu samolotu na Malcie. W rozmowie z WP SportoweFakty malta\u0144ska policja potwierdzi\u0142a, \u017ce zapad\u0142 ju\u017c wyrok w ich sprawie.\n\nUkraina z nowym porozumieniem gazowym z Grecj\u0105"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "\u015acie\u017cki rowerowe do 174 km od Pleszewa. Pomys\u0142y na jednodniowy wypad. Gdzie w weekend 15 - 16 listopada?",
+            "link": "https://pleszew.naszemiasto.pl/sciezki-rowerowe-do-174-km-od-pleszewa-pomysly-na-jednodniowy-wypad-gdzie-w-weekend-15-16-listopada/ar/c7p1-21831917",
+            "description": "Wyjazd z Powsina, \u015awi\u0105tynia Opaczno\u015bci Bo\u017cej, a w niej Panteon Wielkich Polak\u00f3w. Przejazd mostem Siekierkowskim, a dalej ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.2t0erq3HvZkNJqoJGwn9hS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "Pleszew Nasze Miasto11 godz.",
+            "source": "Pleszew Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -298,7 +298,7 @@
             "description": "Nowe symulacje i obserwacje umo\u017cliwi\u0142y naukowcom wyja\u015bnienie, jak pot\u0119\u017cne fale uderzeniowe powstaj\u0105ce podczas zderze\u0144 gromad ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.XlWOALWQaemnUcGmnngAgS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Urania - Post\u0119py Astronomii6 godz.",
+            "date": "Urania - Post\u0119py Astronomii12 godz.",
             "source": "Urania - Post\u0119py Astronomii",
             "article_content": "Nowe symulacje i obserwacje umo\u017cliwi\u0142y naukowcom wyja\u015bnienie, jak pot\u0119\u017cne fale uderzeniowe powstaj\u0105ce podczas zderze\u0144 gromad galaktyk prowadz\u0105 do powstawania olbrzymich struktur emisyjnych zwanych radiowymi reliktami.\n\nGromady galaktyk nale\u017c\u0105 do najwi\u0119kszych struktur we Wszech\u015bwiecie, a ich spektakularne zderzenia generuj\u0105 fale uderzeniowe na niespotykan\u0105 skal\u0119. To w\u0142a\u015bnie te fale \u2013 przemieszczaj\u0105c si\u0119 przez gor\u0105cy gaz mi\u0119dzygalaktyczny \u2013 wzmacniaj\u0105 pole magnetyczne i nadaj\u0105 elektronom energi\u0119, dzi\u0119ki czemu powstaj\u0105 gigantyczne \u0142uki radiowe, czyli tzw. radiowe relikty. Owe relikty mog\u0105 rozci\u0105ga\u0107 si\u0119 nawet na sze\u015b\u0107 milion\u00f3w lat \u015bwietlnych, obejmuj\u0105c przestrze\u0144 wi\u0119ksz\u0105 ni\u017c 60 galaktyk Drogi Mlecznej ustawionych w szeregu.\n\nDotychczasowe obserwacje relikt\u00f3w rodzi\u0142y wiele pyta\u0144: dlaczego mierzone tam pole magnetyczne jest a\u017c tak silne? Czemu si\u0142a fali uderzeniowej wydaje si\u0119 inna w promieniowaniu radiowym ni\u017c w rentgenowskim? I czy faktycznie wszystkie fale uderzeniowe s\u0105 wystarczaj\u0105co silne, by nap\u0119dzi\u0107 emisj\u0119 radiow\u0105?\n\nBadacze z AIP, pod kierunkiem dr. Josepha Whittinghama, rozwi\u0105zali te zagadki dzi\u0119ki zaawansowanym symulacjom komputerowym \u0142\u0105cz\u0105cym perspektyw\u0119 kosmologiczn\u0105 z fizyk\u0105 proces\u00f3w na skali pojedynczych elektron\u00f3w. Zesp\u00f3\u0142 wykaza\u0142, \u017ce w pobli\u017cu kraw\u0119dzi gromad fale uderzeniowe zderzaj\u0105 si\u0119 z ch\u0142odnym, nap\u0142ywaj\u0105cym gazem, tworz\u0105c szereg wt\u00f3rnych fal i turbulentnych region\u00f3w. Te procesy kompresuj\u0105 gaz i \u201eskr\u0119caj\u0105\u201d oraz wzmacniaj\u0105 pole magnetyczne \u2013 wyja\u015bniaj\u0105c jego niespodziewan\u0105 si\u0142\u0119.\n\nGdy fala przechodzi przez g\u0119ste skupiska gazu, jej front lokalnie wzrasta, intensyfikuj\u0105c emisj\u0119 radiow\u0105. W tym samym czasie promieniowanie rentgenowskie odzwierciedla \u015bredni\u0105 si\u0142\u0119 ca\u0142ego frontu, st\u0105d pozornie sprzeczne wyniki w r\u00f3\u017cnych zakresach promieniowania. Takie podej\u015bcie pozwoli\u0142o wyja\u015bni\u0107, dlaczego te r\u00f3\u017cnice nie zaprzeczaj\u0105 teorii mechanizmu przyspieszania elektron\u00f3w.\n\nOdkrycie AIP stanowi wa\u017cny krok w zrozumieniu najbardziej ekstremalnych proces\u00f3w zachodz\u0105cych w gromadach galaktyk oraz natury radiowych relikt\u00f3w, motywuj\u0105c dalsze badania nad zagadkowymi strukturami widzianymi w najwi\u0119kszych laboratoriach kosmosu.\n\nOpracowanie:\n\nAgnieszka Nowak\n\n\n\nWi\u0119cej informacji:\n\n\u0179r\u00f3d\u0142o: AIP\n\nNa ilustracji: Podczas \u0142\u0105czenia si\u0119 gromad galaktyk fale uderzeniowe o kszta\u0142cie \u0142uku rozchodz\u0105 si\u0119 na zewn\u0105trz, przekszta\u0142caj\u0105c ogromn\u0105 ilo\u015b\u0107 energii w ciep\u0142o. Lewy obraz przedstawia g\u0119sto\u015b\u0107 gazu, a prawy rozproszon\u0105 energi\u0119 z wyra\u017anie widocznymi frontami fali uderzeniowej. \u0179r\u00f3d\u0142o: AIP/J. Whittingham"
         }
@@ -309,13 +309,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "\u015acie\u017cki rowerowe do 174 km od Pleszewa. Pomys\u0142y na jednodniowy wypad. Gdzie w weekend 15 - 16 listopada?",
-            "link": "https://pleszew.naszemiasto.pl/sciezki-rowerowe-do-174-km-od-pleszewa-pomysly-na-jednodniowy-wypad-gdzie-w-weekend-15-16-listopada/ar/c7p1-21831917",
-            "description": "Wyjazd z Powsina, \u015awi\u0105tynia Opaczno\u015bci Bo\u017cej, a w niej Panteon Wielkich Polak\u00f3w. Przejazd mostem Siekierkowskim, a dalej ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.2t0erq3HvZkNJqoJGwn9hS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Gdzie na nordic walking do 46 km od Gryfic. Podpowiedzi ciekawych tras na weekend 15 - 16 listopada",
+            "link": "https://gryfice.naszemiasto.pl/gdzie-na-nordic-walking-do-46-km-od-gryfic-podpowiedzi-ciekawych-tras-na-weekend-15-16-listopada/ar/c7p1-22319401",
+            "description": "Wsp\u00f3lnie z Traseo wybrali\u015bmy 3 trasy nordic walking oddalone maksymalnie o 46 km od Gryfic. Sprawd\u017a, czy trasa polecana przez ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.djG9Tt6mubEpjYTGuOBa8S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Pleszew Nasze Miasto5 godz.",
-            "source": "Pleszew Nasze Miasto",
+            "date": "Gryfice Nasze Miasto10 godz.",
+            "source": "Gryfice Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -330,7 +330,7 @@
             "description": "Jeleniog\u00f3rscy policjanci zatrzymali 30-letniego m\u0119\u017cczyzn\u0119 podejrzanego o pr\u00f3b\u0119 porwania nastolatki. Do zdarzenia mia\u0142o doj\u015b\u0107 w gminie Podg\u00f3rzyn.",
             "image_url": "https://www.bing.pl/th?id=ODF.o1Uq0vSsy0aqc_7xbpCiKQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "Lubin Nasze Miasto11 godz.",
+            "date": "Lubin Nasze Miasto17 godz.",
             "source": "Lubin Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -346,25 +346,9 @@
             "description": "Moneta 5 z\u0142 mo\u017ce by\u0107 warta nawet 100 tysi\u0119cy z\u0142otych. To sprawia, \u017ce coraz wi\u0119cej os\u00f3b zaczyna patrze\u0107 na drobne z nowym ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.-XPQC0aCLdgiZ6gP74xE_S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN12 godz.",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN17 godz.",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "'BY CL\u00d6DIE' KLAUDIA TRZEPIZUR",
-            "link": "https://www.firma.egospodarka.pl/raporty-o-firmach/firma,18458618,by-cl-die-klaudia-trzepizur.html",
-            "description": "Wczoraj USA og\u0142osi\u0142y 50 proc. c\u0142a na import z Brazylii, co stanowi w tym momencie bezprecedensowy poziom taryf i otwiera w pewnym stopniu nowy rozdzia\u0142 w polityce handlowej Donalda Trumpa. Dotychczas ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.QA9Sayc3rs-inzuyRVlvug&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stare+numizmatyka",
-            "date": "Firma eGospodarka.pl22 godz.Opinion",
-            "source": "Firma eGospodarka.pl",
-            "article_content": "28 kwietnia T-Mobile wprowadzi\u0142 now\u0105 ods\u0142on\u0119 swojej oferty na kart\u0119. W cenie 50 z\u0142 miesi\u0119cznie z ofertami GO! XL i Rok Internetu klienci otrzymuj\u0105 ponad 833 GB miesi\u0119cznie co \u0142\u0105cznie zapewnia dost\u0119p do niemal 10 tysi\u0119cy gigabajt\u00f3w ...\n\n56 proc. Polak\u00f3w wyda na \u015bwi\u0105teczne zakupy wi\u0119cej ni\u017c 500 z\u0142 - wynika z badania \"\u015awi\u0105teczne finanse Polak\u00f3w 2024\" przeprowadzonego na panelu Ariadna na zlecenie KRUK S.A. Ile b\u0119d\u0105 kosztowa\u0107 prezenty, dekoracje i \u015bwi\u0105teczne potrawy?\n\nRanking prezentuje najpopularniejsze konta bankowe w Polsce, kt\u00f3re oferuj\u0105 najwy\u017csze premie i bonusy dla nowych klient\u00f3w. Suma wszystkich mo\u017cliwych do zdobycia bonus\u00f3w wynosi a\u017c 4330 z\u0142, co czyni to zestawienie wyj\u0105tkowo atrakcyjnym dla ...\n\nPolacy coraz ch\u0119tniej odk\u0142adaj\u0105 pieni\u0105dze \u2013 z badania \u201eFinanse Polak\u00f3w\u201d wynika, \u017ce do regularnego gromadzenia oszcz\u0119dno\u015bci przyznaje si\u0119 a\u017c 75% ankietowanych. To nie tylko rezerwa na \u201eczarn\u0105 godzin\u0119\u201d, ale te\u017c \u017ar\u00f3d\u0142o ...\n\nNadchodz\u0105ce \u015bwi\u0119ta Bo\u017cego Narodzenia - tradycyjnie ju\u017c - s\u0105 powodem wzmo\u017conych wydatk\u00f3w. W\u015br\u00f3d Polak\u00f3w panuje jednak zdroworozs\u0105dkowe podej\u015bcie do tej kwestii - jak wynika z badania zrealizowanego dla ANG Odpowiedzialne Finanse, w tym ...\n\nZ danych pozyskanych w minionym roku przez ZPF i Fundacj\u0119 Trampki wynika, \u017ce ponad 70% polskich nastolatk\u00f3w otrzymuje kieszonkowe. Cz\u0119\u015b\u0107 tych pieni\u0119dzy trafia do internetowych sprzedawc\u00f3w i us\u0142ugodawc\u00f3w, ale okazuje si\u0119, \u017ce niekiedy nie ...\n\nSmartfon Infinix HOT 50 Pro+ jest ju\u017c dost\u0119pny w sprzeda\u017cy w Polsce. Ma 6,8 mm grubo\u015bci i wa\u017cy 162 gramy. Smartfon ma zakrzywiony wy\u015bwietlacz SlimEdge chroniony szk\u0142em Corning\u00ae Gorilla\u00ae. Jest py\u0142oszczelny i odporny na zachlapania zgodnie z ...\n\n\"Uwaga, moje konto zosta\u0142o przej\u0119te - nie klikajcie w \u017cadne linki!\" - coraz cz\u0119\u015bciej widzimy podobne posty na Instagramie czy Facebooku. Kiedy ofiar\u0105 cyberataku pada nasz znajomy, powinni\u015bmy zada\u0107 sobie pytanie: czy ja te\u017c jestem ...\n\n123456 - to nie jest wyliczanka, to najpopularniejsze has\u0142o u\u017cywane w ubieg\u0142ym roku na \u015bwiecie. W Polsce by\u0142o podobnie, wynika z analizy NordPass. Has\u0142o kr\u00f3tkie, proste i \u0142atwe do zapami\u0119tania jest wymarzonym dla haker\u00f3w. Potrzebuj\u0105 oni ...\n\nAktywni cyfrowo seniorzy coraz cz\u0119\u015bciej si\u0119gaj\u0105 po p\u0142atno\u015bci bezgot\u00f3wkowe. Blisko 9 na 10 z nich p\u0142aci kart\u0105 za codzienne zakupy, a 4 na 10 wsz\u0119dzie tam, gdzie to jest mo\u017cliwe - wynika z najnowszej edycji badania pt. \"Seniorzy w \u015bwiecie ..."
         }
     }
 ]
