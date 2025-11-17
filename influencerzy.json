@@ -10,7 +10,7 @@
             "description": "W niedziel\u0119, 16 listopada 2025 roku, mimo ch\u0142odnej i deszczowej aury na Pchlim Targu we W\u0142oc\u0142awku przy alei Kazimierza ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.FTOUFxzBIPQ_nv-087bRhS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN7 godz.",
+            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN11 godz.",
             "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -21,13 +21,45 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Z\u0142ota r\u0105czka",
-            "link": "https://poznan.naszemiasto.pl/tag/zlota-raczka",
-            "description": "W Wielkopolsce nie brakuje pi\u0119knych pa\u0142ac\u00f3w i dwork\u00f3w na sprzeda\u017c. Cz\u0119\u015b\u0107 z nich jest gotowa do zamieszkania, inne wymagaj\u0105 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Tak by\u0142o na Pchlim Targu we W\u0142oc\u0142awku 16 listopada 2025. Ubrania, starocie, ozdoby \u015bwi\u0105teczne i choinki. Zdj\u0119cia, ceny, wideo",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/tak-by%C5%82o-na-pchlim-targu-we-w%C5%82oc%C5%82awku-16-listopada-2025-ubrania-starocie-ozdoby-%C5%9Bwi%C4%85teczne-i-choinki-zdj%C4%99cia-ceny-wideo/ar-AA1QxcZ0?ocid=BingNewsVerp",
+            "description": "W niedziel\u0119 (16.11.2025), mimo ch\u0142odnej, deszczowej i pochmurnej aury, na Pchlim Targu we W\u0142oc\u0142awku przy alei Kazimierza ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.jVmlnTRrWkmBd6_CQ3v9HS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Pozna\u0144 Nasze Miasto4 godz.",
-            "source": "Pozna\u0144 Nasze Miasto",
+            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN13 godz.",
+            "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Przegl\u0105d prasy Aleksandr\u00f3w Kujawski (17.11) - najwa\u017cniejsze informacje z niedzieli",
+            "link": "https://aleksandrowkujawski.naszemiasto.pl/przeglad-prasy-aleksandrow-kujawski-17-11-najwazniejsze-informacje-z-niedzieli/ar/c1p1-19739803",
+            "description": "W sobot\u0119, 15 listopada w \u0141azie\u0144cu odby\u0142y si\u0119 kolejne \u015bwi\u0105teczne warsztaty organizowane przez so\u0142ectwo oraz Stowarzyszenie ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.jqCkW6Gz4HWJDZte3Q4IJC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Aleksandr\u00f3w Kujawski Nasze Miasto4 godz.",
+            "source": "Aleksandr\u00f3w Kujawski Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pras\u00f3wka 17.11.2025 - wydarzenia dnia, podsumowanie z wczoraj - sprawd\u017a, czy nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego",
+            "link": "https://pomorska.pl/prasowka-17-11-2025-wydarzenia-dnia-podsumowanie-z-wczoraj-sprawdz-czy-nie-minelo-cie-nic-waznego/ar/c1p1-19960903",
+            "description": "Rz\u0105d ujawni\u0142 pierwsze szczeg\u00f3\u0142y dotycz\u0105ce waloryzacji emerytur i rent, kt\u00f3ra zostanie przeprowadzona w marcu 2026 roku. Z ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.YE60NAQrdT9i1gWowhjCrS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Gazeta Pomorska4 godz.",
+            "source": "Gazeta Pomorska",
             "article_content": "Content not available"
         }
     },
@@ -42,7 +74,7 @@
             "description": "Mimo niesprzyjaj\u0105cej aury Podlaskie Centrum Rolno Towarowe S. A. w Bia\u0142ymstoku przyci\u0105gn\u0119\u0142o w niedziel\u0119 wielu odwiedzaj\u0105cych.",
             "image_url": "https://www.bing.pl/th?id=OVFT.wxNrmLmAl-pwcLw9Wx6yZC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Kurier Poranny on MSN14 godz.",
+            "date": "Kurier Poranny on MSN18 godz.",
             "source": "Kurier Poranny on MSN",
             "article_content": ""
         }
@@ -53,61 +85,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Sporo poszukiwaczy skarb\u00f3w na Targu Staroci w Podkarpackim Centrum Hurtowym AGROHURT S.A. w Rzeszowie!",
-            "link": "https://rzeszow.naszemiasto.pl/sporo-poszukiwaczy-skarbow-na-targu-staroci-w-podkarpackim-centrum-hurtowym-agrohurt-s-a-w-rzeszowie/ar/c3p2-28178891",
-            "description": "Pasjonaci starych przedmiot\u00f3w zn\u00f3w pojawili si\u0119 na Targu Staroci, kt\u00f3re odby\u0142y si\u0119 w niedzielny poranek, 16 listopada 2025 r. w Podkarpackim Centrum Hurtowym AGROHURT S.A. Pierwsze zakupy mo\u017cna by\u0142o ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.1HhmRsrjdzWJFwhlDAHRNw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "starocie",
-            "date": "Rzesz\u00f3w Nasze Miasto13 godz.",
-            "source": "Rzesz\u00f3w Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Ma\u0142gorzata Niezabitowska",
-            "link": "https://echodnia.eu/swietokrzyskie/tag/malgorzata-niezabitowska",
-            "description": "Dwa \u015bwiaty, dwie biografie, jedna przyja\u017a\u0144 trwaj\u0105ca niemal pi\u0119\u0107 dekad. W niedziel\u0119, 16 listopada, w Galerii Winda w Kielcach ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.OlAu1bnOzeBTIhhXx8Eu3y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "Echo Dnia6 godz.",
-            "source": "Echo Dnia",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Stare monety z czas\u00f3w PRL-u warte fortun\u0119. Kolekcjonerzy w\u0142a\u015bnie ich szukaj\u0105! [ZDJ\u0118CIA] 16.11.2025",
-            "link": "https://gk24.pl/stare-monety-z-czasow-prl-u-warte-fortune-kolekcjonerzy-wlasnie-ich-szukaja-zdjecia-16-11-2025/ar/c3p2-28049553",
+            "title": "Stare monety z czas\u00f3w PRL-u warte fortun\u0119. Kolekcjonerzy w\u0142a\u015bnie ich szukaj\u0105! [ZDJ\u0118CIA] 17.11.2025",
+            "link": "https://gk24.pl/stare-monety-z-czasow-prl-u-warte-fortune-kolekcjonerzy-wlasnie-ich-szukaja-zdjecia-17-11-2025/ar/c3p2-28049553",
             "description": "Na starych monetach z czas\u00f3w PRL-u mo\u017cna zarobi\u0107 du\u017co pieni\u0119dzy. Wycena monet zale\u017cy od ich stanu zachowania, a dobrze ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.0qowG_2RHnDFLYejpDfxZy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski23 godz.",
+            "date": "G\u0142os Koszali\u0144ski3 godz.",
             "source": "G\u0142os Koszali\u0144ski",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Na starych ksi\u0105\u017ckach mo\u017cna zarobi\u0107 fortun\u0119. Warto sprawdzi\u0107 p\u00f3\u0142ki i strychy",
-            "link": "https://nto.pl/na-starych-ksiazkach-mozna-zarobic-fortune-warto-sprawdzic-polki-i-strychy/ar/c1p2-28176557",
-            "description": "Ogromn\u0105 popularno\u015bci\u0105 ciesz\u0105 si\u0119 pierwsze wydania znanych powie\u015bci. To w\u0142a\u015bnie takie egzemplarze najcz\u0119\u015bciej osi\u0105gaj\u0105 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.mCodK1oh5e7SOwEpzpcbVC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "Nowa Trybuna Opolska1 godz.",
-            "source": "Nowa Trybuna Opolska",
             "article_content": "Content not available"
         }
     },
@@ -122,7 +106,7 @@
             "description": "W 2025 roku stare banknoty i monety z czas\u00f3w PRL sta\u0142y si\u0119 prawdziwym hitem w\u015br\u00f3d kolekcjoner\u00f3w. Nie m\u00f3wimy tu tylko o ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.WiLOrT2bb5xgTdO-Q2z5Ei&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Express Bydgoski on MSN8 godz.",
+            "date": "Express Bydgoski on MSN1 godz.",
             "source": "Express Bydgoski on MSN",
             "article_content": ""
         }
@@ -133,12 +117,28 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Bi\u017cuteria z czas\u00f3w PRL-u warta maj\u0105tek! Masz takie kolczyki, bransolety czy wisiorki? S\u0105 du\u017co warte 16.11.2025",
-            "link": "https://gk24.pl/bizuteria-z-czasow-prl-u-warta-majatek-masz-takie-kolczyki-bransolety-czy-wisiorki-sa-duzo-warte-16-11-2025/ar/c3p2-28055853",
-            "description": "Kobiety trzymaj\u0105 cenn\u0105 bi\u017cuteri\u0119 z tych czas\u00f3w, kt\u00f3ra by\u0142a odzwierciedleniem stylu, bogactwa oraz mo\u017cliwo\u015bci. Du\u017co cenniejsze ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.E74w9YbkdhtCekfCCqgb6C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Na starych ksi\u0105\u017ckach mo\u017cna zarobi\u0107 fortun\u0119. Warto sprawdzi\u0107 p\u00f3\u0142ki i strychy",
+            "link": "https://nto.pl/na-starych-ksiazkach-mozna-zarobic-fortune-warto-sprawdzic-polki-i-strychy/ar/c1p2-28176557",
+            "description": "Ogromn\u0105 popularno\u015bci\u0105 ciesz\u0105 si\u0119 pierwsze wydania znanych powie\u015bci. To w\u0142a\u015bnie takie egzemplarze najcz\u0119\u015bciej osi\u0105gaj\u0105 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.mCodK1oh5e7SOwEpzpcbVC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski23 godz.",
+            "date": "Nowa Trybuna Opolska5 godz.",
+            "source": "Nowa Trybuna Opolska",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Wazony, dzbanki, misy i inne kryszta\u0142y z PRL-u warte tysi\u0105ce. Szk\u0142o kosztuje nawet kilkana\u015bcie tysi\u0119cy z\u0142otych 17.11.2025",
+            "link": "https://gk24.pl/wazony-dzbanki-misy-i-inne-krysztaly-z-prl-u-warte-tysiace-szklo-kosztuje-nawet-kilkanascie-tysiecy-zlotych-17-11-2025/ar/c9p2-28109447",
+            "description": "Fascynacja kryszta\u0142ami i szk\u0142em z czas\u00f3w PRL zyskuje na popularno\u015bci w\u015br\u00f3d kolekcjoner\u00f3w. Na starych wazonach, talerzach czy ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.VcrWIT5NBZKMERYLm0QSSC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "G\u0142os Koszali\u0144ski3 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
         }
@@ -149,13 +149,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Stare telefony kom\u00f3rkowe, kt\u00f3re dzi\u015b s\u0105 warte fortun\u0119. Masz takie? 16.11.2025",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/stare-telefony-kom%C3%B3rkowe-kt%C3%B3re-dzi%C5%9B-s%C4%85-warte-fortun%C4%99-masz-takie-16112025/ar-AA1OXkNT?ocid=BingNewsVerp",
-            "description": "Pokolenie dzisiejszych 30- i 40-latk\u00f3w dorasta\u0142o z pierwszymi kom\u00f3rkami w r\u0119kach. D\u017awi\u0119k kultowego dzwonka Nokii 3310, gry w ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.OXE2420uQ6nCkpyyIn4GGy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Nie ka\u017cda \u201epi\u0105tka' to zwyk\u0142a moneta. Takie egzemplarze osi\u0105gaj\u0105 zawrotne ceny!",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/nie-ka%C5%BCda-pi%C4%85tka-to-zwyk%C5%82a-moneta-takie-egzemplarze-osi%C4%85gaj%C4%85-zawrotne-ceny/ar-AA1PHDth?ocid=BingNewsVerp",
+            "description": "Moneta 5 z\u0142 mo\u017ce by\u0107 warta nawet 100 tysi\u0119cy z\u0142otych. To sprawia, \u017ce coraz wi\u0119cej os\u00f3b zaczyna patrze\u0107 na drobne z nowym zaciekawieniem i nadziej\u0105 na znalezienie prawdziwego skarbu.",
+            "image_url": "https://www.bing.pl/th?id=ODF.csLl8ZFonfuC8KKWalWEGg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "G\u0142os Pomorza on MSN18 godz.",
-            "source": "G\u0142os Pomorza on MSN",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN1 godz.",
+            "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
             "article_content": ""
         }
     },
@@ -170,7 +170,7 @@
             "description": "Rozwadowski Targ Staroci zorganizowany w Stalowej Woli 16 listopada by\u0142 ostatnim w tym roku. Deszczowa aura i ch\u0142\u00f3d nie ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.swDl4WymySdm-ahb4-gsVi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Nasze Miasto on MSN16 godz.",
+            "date": "Nasze Miasto on MSN20 godz.",
             "source": "Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -186,8 +186,24 @@
             "description": "Kolejny Targ Staroci w Podkarpackim Centrum Hurtowym AGROHURT S.A. w Rzeszowie odby\u0142y si\u0119 w niedziel\u0119, 16 listopada 2025 r.",
             "image_url": "https://www.bing.pl/th?id=OVFT.SrJZ_m-3bBkRo8IiL6defS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Rzesz\u00f3w Nasze Miasto on MSN12 godz.",
+            "date": "Rzesz\u00f3w Nasze Miasto on MSN16 godz.",
             "source": "Rzesz\u00f3w Nasze Miasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pchli targ przy M1. Co mo\u017cna by\u0142o znale\u017a\u0107?",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/w-niedziel%C4%99-16-listopada-2025-pchli-targ-przy-m1-zn%C3%B3w-przyci%C4%85gn%C4%85%C5%82-t%C5%82umy-zobaczcie-zdj%C4%99cia-i-sprawd%C5%BAcie-co-tym-razem-mo%C5%BCna-by%C5%82o-upolowa%C4%87/ar-AA1Qy27z?ocid=BingNewsVerp",
+            "description": "Pchli targ przy M1 gromadzi mi\u0142o\u015bnik\u00f3w zakup\u00f3w w plenerze. Du\u017cy wyb\u00f3r, mo\u017cliwo\u015b\u0107 negocjacji cen i r\u00f3\u017cnorodno\u015b\u0107 sprzedawc\u00f3w sprawiaj\u0105, \u017ce wydarzenie cieszy si\u0119 sta\u0142ym zainteresowaniem. Niedzielna ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.Cya7j59Rws2Si6qfmk5ljw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "targ+staroci",
+            "date": "Pozna\u0144 Nasze Miasto on MSN56 min",
+            "source": "Pozna\u0144 Nasze Miasto on MSN",
             "article_content": ""
         }
     },
@@ -202,7 +218,7 @@
             "description": "W niedziel\u0119, 16 listopada 2025 roku, mimo ch\u0142odnej i deszczowej aury na Pchlim Targu we W\u0142oc\u0142awku przy alei Kazimierza ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.FTOUFxzBIPQ_nv-087bRhS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN7 godz.",
+            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN11 godz.",
             "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -213,29 +229,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Pchli targ przy M1. Co mo\u017cna by\u0142o znale\u017a\u0107?",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/w-niedziel%C4%99-16-listopada-pchli-targ-przy-m1-zn%C3%B3w-przyci%C4%85gn%C4%85%C5%82-t%C5%82umy-zobaczcie-zdj%C4%99cia-i-sprawd%C5%BAcie-co-tym-razem-mo%C5%BCna-by%C5%82o-upolowa%C4%87/ar-AA1Qy27z?ocid=BingNewsVerp",
-            "description": "Pchli targ przy M1 zn\u00f3w przyci\u0105gn\u0105\u0142 t\u0142umy. Setki stoisk i tysi\u0105ce przedmiot\u00f3w na wyci\u0105gni\u0119cie r\u0119ki, tak wygl\u0105da\u0142a niedziela, ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.wRdCrAYUZvRGuXD2f7RloC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Pras\u00f3wka Rzesz\u00f3w 17.11.2025 - wydarzenia dnia. Podsumowanie z wczoraj - sprawd\u017a, czy w Rzeszowie nie min\u0119\u0142o Ci\u0119 nic wa\u017cnego",
+            "link": "https://rzeszow.naszemiasto.pl/prasowka-rzeszow-17-11-2025-wydarzenia-dnia-podsumowanie-z-wczoraj-sprawdz-czy-w-rzeszowie-nie-minelo-cie-nic-waznego/ar/c1p1-19738391",
+            "description": "\u015aledczy potwierdzili to\u017csamo\u015b\u0107 kobiety, kt\u00f3rej cia\u0142o wy\u0142owiono w sobot\u0119, 15 listopada, ze zbiornika wodnego \u017bwirownia przy ul ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.bzi0_rpfn1eh8LEyhrJDLS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Pozna\u0144 Nasze Miasto on MSN10 godz.",
-            "source": "Pozna\u0144 Nasze Miasto on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Ma\u0142gorzata Niezabitowska",
-            "link": "https://kielce.naszemiasto.pl/tag/malgorzata-niezabitowska",
-            "description": "Dwa \u015bwiaty, dwie biografie, jedna przyja\u017a\u0144 trwaj\u0105ca niemal pi\u0119\u0107 dekad. W niedziel\u0119, 16 listopada, w Galerii Winda w Kielcach ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "targ+staroci",
-            "date": "Kielce Nasze Miasto10 godz.",
-            "source": "Kielce Nasze Miasto",
+            "date": "Rzesz\u00f3w Nasze Miasto4 godz.",
+            "source": "Rzesz\u00f3w Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -250,7 +250,7 @@
             "description": "Od dekad zak\u0142adamy, \u017ce Wszech\u015bwiat jest w miar\u0119 przewidywalny. No, w\u0142a\u015bnie nie bardzo. Astronomowie twierdz\u0105, \u017ce nasze uk\u0142ady ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.orRYfyYAYgnldGAbUHGqLi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Antyweb9 godz.",
+            "date": "Antyweb13 godz.",
             "source": "Antyweb",
             "article_content": "Od dekad zak\u0142adamy, \u017ce Wszech\u015bwiat jest w miar\u0119 przewidywalny. No, w\u0142a\u015bnie nie bardzo. Astronomowie twierdz\u0105, \u017ce nasze uk\u0142ady odniesienia \u2014 S\u0142o\u0144ce, planety, wszystko \u2014 p\u0119dz\u0105 przez kosmos ponad trzykrotnie szybciej, ni\u017c powinny. Nie chodzi o pomy\u0142k\u0119 w obliczeniach. Mo\u017cliwe, \u017ce nasz model kosmologiczny jest w ci\u0119\u017ckim b\u0142\u0119dzie.\n\nZesp\u00f3\u0142 Lukasa B\u00f6hmego wykorzysta\u0142 sie\u0107 radioteleskop\u00f3w LOFAR i dwa inne instrumenty, by stworzy\u0107 map\u0119 rozmieszczenia galaktyk radiowych \u2014 obiekt\u00f3w emituj\u0105cych pot\u0119\u017cne sygna\u0142y radiowe z rozleg\u0142ych ob\u0142ok\u00f3w gazu i plazmy. To \u015bwietny materia\u0142 por\u00f3wnawczy: fale radiowe prze\u015blizguj\u0105 si\u0119 przez kosmiczny py\u0142, wi\u0119c ich sygna\u0142 \u0142atwiej uporz\u0105dkowa\u0107 ni\u017c sygna\u0142y z widzialnego dla nas zakresu.\n\nReklama\n\nW kierunku, w kt\u00f3rym si\u0119 poruszamy, powinno by\u0107 minimalnie wi\u0119cej \u017ar\u00f3de\u0142 radiowych. Minimalnie \u2014 czyli na granicy wykrywalno\u015bci. Ale gdy naukowcy policzyli r\u00f3\u017cnice, liczby wyskoczy\u0142y ponad sufit obowi\u0105zuj\u0105cego modelu. Zamiast kosmetycznych odchyle\u0144 otrzymali wynik 3,7 razy wi\u0119kszy, ni\u017c przewiduje teoria. Lepiej nie mie\u0107 takiej niespodzianki, je\u015bli buduje si\u0119 model opisuj\u0105cy ca\u0142y Wszech\u015bwiat. To jak odkry\u0107, \u017ce Twoja nawigacja uparcie twierdzi, \u017ce jeste\u015b w innym mie\u015bcie \u2014 a w dodatku kilka satelit\u00f3w to potwierdza.\n\nZderzenie z modelem standardowym\n\nModel standardowy to kr\u0119gos\u0142up wsp\u00f3\u0142czesnej astrofizyki, a w nim znajduj\u0105 si\u0119: ekspansja kosmosu, ciemna materia, relikty Wielkiego Wybuchu. Wielka narracja, kt\u00f3ra t\u0142umaczy nam 13,8 miliarda lat historii. Tyle \u017ce model zak\u0142ada pewn\u0105 r\u00f3wnomierno\u015b\u0107 \u2014 przynajmniej w du\u017cej skali.\n\nA tu nagle okazuje si\u0119, \u017ce rozk\u0142ad radiogalaktyk jest mniej jednorodny, ni\u017c zak\u0142adano, lub... ca\u0142y Uk\u0142ad S\u0142oneczny sunie przez przestrze\u0144 znacznie szybciej, ni\u017c wynika\u0142oby z obserwacji promieniowania mikrofalowego t\u0142a. Oba scenariusze podwa\u017caj\u0105 co\u015b istotnego. Albo (czaso)przestrze\u0144 jest mniej \"g\u0142adka\", albo nie wiemy, jak szybko p\u0119dzimy. Jedno i drugie jest dla nauki niewygodne \u2014 zw\u0142aszcza dla teorii, kt\u00f3ra lubi elegancj\u0119 i symetri\u0119.\n\nKwazary potwierdzaj\u0105 trend\n\nWyniki z LOFAR-a to w\u0142a\u015bciwie kolejny taki trop. Od lat m\u00f3wi si\u0119 o podobnym efekcie w danych z kwazar\u00f3w obserwowanych w podczerwieni. Kwazary to supermasywne czarne dziury, kt\u00f3re \u015bwiec\u0105 ja\u015bniej ni\u017c ca\u0142e galaktyki \u2014 trudno o lepsze latarnie w bezmiarze kosmosu. To, \u017ce dwa zupe\u0142nie r\u00f3\u017cne typy obiekt\u00f3w wykazuj\u0105 ten sam charakter naszego b\u0142\u0119du, zmienia nasze podejrzenia z \"b\u0142\u0119du w pomiarze\" na \"damn, to mo\u017ce by\u0107 prawda\". Nauka nie lubi przypadk\u00f3w. Przypadek wyst\u0119puje niezmiernie rzadko.\n\nCzytaj r\u00f3wnie\u017c: Model standardowy mo\u017ce by\u0107\u2026 b\u0142\u0119dny! Trz\u0119sienie ziemi w badaniach Wszech\u015bwiata\n\nNajbardziej pesymistyczna opcja jest taka: obecne modele faktycznie mijaj\u0105 si\u0119 z rzeczywisto\u015bci\u0105, bo zak\u0142adaj\u0105 wi\u0119ksz\u0105 jednorodno\u015b\u0107 kosmosu, ni\u017c w nim naprawd\u0119 jest. Taka zmiana poci\u0105gn\u0119\u0142aby za sob\u0105 konieczno\u015b\u0107 zmiany istotnych prawide\u0142 \u2014 od interpretacji mikrofalowego t\u0142a po obliczenia dotycz\u0105ce ciemnej materii. A jaka jest optymistyczna? Instrumenty s\u0105 ju\u017c tak czu\u0142e, \u017ce zaczynaj\u0105 wychwytywa\u0107 subtelno\u015bci, o kt\u00f3rych wcze\u015bniej nie mieli\u015bmy poj\u0119cia. Co nie musi oznacza\u0107 przewrotu, ale jedynie korekt\u0119. Wtedy w teorii pojawi si\u0119 wi\u0119cej niuans\u00f3w. Gorzej, je\u017celi tych niuans\u00f3w b\u0119dzie tak du\u017co, \u017ce obecna teoria po prostu si\u0119 wykrzaczy."
         }
@@ -266,7 +266,7 @@
             "description": "Skandaliczna aukcja w Niemczech wywo\u0142a\u0142a ostry sprzeciw w Polsce oraz na arenie mi\u0119dzynarodowej. Uszkodzenie torowiska na ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.tjKWsjp5B40x7q0MAEA7My&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "WP Wiadomo\u015bci10 godz.",
+            "date": "WP Wiadomo\u015bci14 godz.",
             "source": "WP Wiadomo\u015bci",
             "article_content": "Zapraszamy na skr\u00f3t dnia, czyli najwa\u017cniejsze i najciekawsze materia\u0142y wybrane przez redakcj\u0119 Wirtualnej Polski. Znajdziesz go codziennie o 20:30 na stronie g\u0142\u00f3wnej WP.\n\nUszkodzone torowisko. Premier zabiera g\u0142os\n\nRano na trasie D\u0119blin-Warszawa dosz\u0142o do zniszczenia fragmentu torowiska. Maszynista poci\u0105gu zauwa\u017cy\u0142 nieprawid\u0142owo\u015bci i zg\u0142osi\u0142 to odpowiednim s\u0142u\u017cbom. W reakcji miejsce zosta\u0142o zabezpieczone, a ruch poci\u0105g\u00f3w odbywa si\u0119 obecnie po jednym torze. Spraw\u0105 zajmuje si\u0119 policja, prokuratura i komisja kolejowa.\n\nDonald Tusk, premier Polski, podkre\u015bli\u0142 w mediach spo\u0142eczno\u015bciowych, \u017ce jest w sta\u0142ym kontakcie z ministrem spraw wewn\u0119trznych i \u017ce niewykluczone, i\u017c incydent ma charakter dywersji. Premier zaznaczy\u0142 r\u00f3wnie\u017c, \u017ce \u015bledztwo w tej sprawie jest w toku, a ca\u0142o\u015b\u0107 badana jest przez policj\u0119 i prokuratur\u0119, kt\u00f3re szukaj\u0105 dowod\u00f3w na ewentualne celowe dzia\u0142anie.\n\nWst\u0119pne ustalenia wskazuj\u0105 na uszkodzenie szyny, co spowodowa\u0142o zatrzymanie poci\u0105gu. Szef MSWiA Karolina Ga\u0142ecka, wyrazi\u0142a ostro\u017cno\u015b\u0107 w ocenach, twierdz\u0105c, \u017ce obecnie brak jest podstaw do stwierdzenia udzia\u0142u os\u00f3b trzecich.\n\nSkandaliczna aukcji artefakt\u00f3w z Auschwitz\n\nW Niemczech ponownie wybuch\u0142a afera zwi\u0105zana z planowan\u0105 aukcj\u0105 dokument\u00f3w i przedmiot\u00f3w pochodz\u0105cych z czas\u00f3w II wojny \u015bwiatowej. Dom Aukcyjny Felzmann w Neuss zamierza\u0142 sprzeda\u0107 m.in. listy wi\u0119\u017ani\u00f3w z Auschwitz oraz inne relikty z oboz\u00f3w koncentracyjnych. Ministerstwo Kultury i Dziedzictwa Narodowego, reprezentowane przez Mart\u0119 Cienkowsk\u0105, stanowczo pot\u0119pi\u0142o te dzia\u0142ania.\n\nPo interwencji ministra oraz MSZ Rados\u0142awa Sikorskiego aukcja zosta\u0142a wstrzymana, a oferowane przedmioty znikn\u0119\u0142y z internetowej oferty. Interwencje by\u0142y wynikiem zar\u00f3wno presji ze strony instytucji polskich, jak i zagranicznych. Szef MSZ zaznaczy\u0142, \u017ce decyzje te s\u0105 kluczowe dla ochrony pami\u0119ci o zbrodniach wojennych i ich ofiarach.\n\nInstytut Pami\u0119ci Narodowej uzna\u0142 dzia\u0142ania niemieckiego domu aukcyjnego za niedopuszczalne i podkre\u015bli\u0142, \u017ce takie artefakty musz\u0105 znajdowa\u0107 si\u0119 w muzeach, aby s\u0142u\u017cy\u0107 edukacji i upami\u0119tnieniu ofiar Holokaustu.\n\nPrzyzna\u0142 si\u0119 do gro\u017cenia prezydentowi\n\nW niedziel\u0119 odby\u0142y si\u0119 czynno\u015bci procesowe zwi\u0105zane z gro\u017abami kierowanymi wobec prezydenta Karola Nawrockiego. 19-letni mieszkaniec Warszawy przyzna\u0142 si\u0119 do kierowania gr\u00f3\u017ab karalnych, wykorzystuj\u0105c media spo\u0142eczno\u015bciowe.\n\nGro\u017aby pojawi\u0142y si\u0119 jako odpowied\u017a na zdj\u0119cie z meczu Polska-Holandia. Prokurator Piotr Antoni Skiba potwierdzi\u0142, \u017ce m\u0142ody m\u0119\u017cczyzna z\u0142o\u017cy\u0142 wyja\u015bnienia i przyzna\u0142 si\u0119 do winy. Z powodu powagi zarzut\u00f3w s\u0105d na\u0142o\u017cy\u0142 na niego nadzorcze \u015brodki ostro\u017cno\u015bci, w tym doz\u00f3r policyjny.\n\nUSA naciskaj\u0105 na UE ws. ce\u0142\n\nStany Zjednoczone zarzuci\u0142y Unii Europejskiej op\u00f3\u017anienia w realizacji uzgodnie\u0144 dotycz\u0105cych ci\u0119\u0107 celnych i redukcji barier w handlu. Jak podaje \"Financial Times\", administracja USA mocno krytykuje powolne tempo wprowadzania zmian, kt\u00f3re zosta\u0142y ustalone podczas lipcowego spotkania prezydenta Donalda Trumpa z szefow\u0105 Komisji Europejskiej Ursul\u0105 von der Leyen. USA argumentuj\u0105, \u017ce unijne c\u0142a wci\u0105\u017c s\u0105 zbyt wysokie, ograniczaj\u0105c dost\u0119p ameryka\u0144skich produkt\u00f3w do rynku UE.\n\nNegocjator USA, Jamieson Greer, podkre\u015bli\u0142, \u017ce niezmiennie wysokie c\u0142a utrudniaj\u0105 ameryka\u0144ski eksport do Europy. USA podj\u0119\u0142y ju\u017c konkretne kroki i przekaza\u0142y Brukseli list z zastrze\u017ceniami, naciskaj\u0105c na przyspieszenie procesu.\n\nWsp\u00f3\u0142praca z Grecj\u0105 ma otworzy\u0107 dla Ukrainy nowe kierunki dostaw, co jest kluczowe, aby przeciwdzia\u0142a\u0107 planom Rosji.\n\nIga \u015awi\u0105tek zapewni\u0142a zwyci\u0119stwo Polsce!\n\nReprezentacja Polski zdoby\u0142a drugi punkt w starciu z Rumuni\u0105 i zapewni\u0142a sobie wyst\u0119p w kwalifikacjach do turnieju fina\u0142owego Pucharu Billie Jean King. Iga \u015awi\u0105tek tak samo, jak Linda Klimovicova nie da\u0142a \u017cadnych szans swojej rywalce.\n\nSkandal podczas lotu na Malt\u0119. Polacy b\u0142yskawicznie skazani\n\nDw\u00f3ch polskich kibic\u00f3w zosta\u0142o aresztowanych tu\u017c po l\u0105dowaniu samolotu na Malcie. W rozmowie z WP SportoweFakty malta\u0144ska policja potwierdzi\u0142a, \u017ce zapad\u0142 ju\u017c wyrok w ich sprawie.\n\nUkraina z nowym porozumieniem gazowym z Grecj\u0105"
         }
@@ -282,7 +282,7 @@
             "description": "W woj. zachodniopomorskim nie brakuje miejsc do spacerowania. Mamy dla Was 10 propozycji. Mo\u017cecie nam\u00f3wi\u0107 rodzin\u0119 lub ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.n2qRKN7oOM1mQ8QdQ0FSqi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "G\u0142os Szczeci\u0144ski14 godz.",
+            "date": "G\u0142os Szczeci\u0144ski18 godz.",
             "source": "G\u0142os Szczeci\u0144ski",
             "article_content": "Content not available"
         }
@@ -298,7 +298,7 @@
             "description": "Wyjazd z Powsina, \u015awi\u0105tynia Opaczno\u015bci Bo\u017cej, a w niej Panteon Wielkich Polak\u00f3w. Przejazd mostem Siekierkowskim, a dalej ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.2t0erq3HvZkNJqoJGwn9hS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Pleszew Nasze Miasto13 godz.",
+            "date": "Pleszew Nasze Miasto17 godz.",
             "source": "Pleszew Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -314,7 +314,7 @@
             "description": "Nowe symulacje i obserwacje umo\u017cliwi\u0142y naukowcom wyja\u015bnienie, jak pot\u0119\u017cne fale uderzeniowe powstaj\u0105ce podczas zderze\u0144 gromad ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.XlWOALWQaemnUcGmnngAgS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Urania - Post\u0119py Astronomii14 godz.",
+            "date": "Urania - Post\u0119py Astronomii18 godz.",
             "source": "Urania - Post\u0119py Astronomii",
             "article_content": "Nowe symulacje i obserwacje umo\u017cliwi\u0142y naukowcom wyja\u015bnienie, jak pot\u0119\u017cne fale uderzeniowe powstaj\u0105ce podczas zderze\u0144 gromad galaktyk prowadz\u0105 do powstawania olbrzymich struktur emisyjnych zwanych radiowymi reliktami.\n\nGromady galaktyk nale\u017c\u0105 do najwi\u0119kszych struktur we Wszech\u015bwiecie, a ich spektakularne zderzenia generuj\u0105 fale uderzeniowe na niespotykan\u0105 skal\u0119. To w\u0142a\u015bnie te fale \u2013 przemieszczaj\u0105c si\u0119 przez gor\u0105cy gaz mi\u0119dzygalaktyczny \u2013 wzmacniaj\u0105 pole magnetyczne i nadaj\u0105 elektronom energi\u0119, dzi\u0119ki czemu powstaj\u0105 gigantyczne \u0142uki radiowe, czyli tzw. radiowe relikty. Owe relikty mog\u0105 rozci\u0105ga\u0107 si\u0119 nawet na sze\u015b\u0107 milion\u00f3w lat \u015bwietlnych, obejmuj\u0105c przestrze\u0144 wi\u0119ksz\u0105 ni\u017c 60 galaktyk Drogi Mlecznej ustawionych w szeregu.\n\nDotychczasowe obserwacje relikt\u00f3w rodzi\u0142y wiele pyta\u0144: dlaczego mierzone tam pole magnetyczne jest a\u017c tak silne? Czemu si\u0142a fali uderzeniowej wydaje si\u0119 inna w promieniowaniu radiowym ni\u017c w rentgenowskim? I czy faktycznie wszystkie fale uderzeniowe s\u0105 wystarczaj\u0105co silne, by nap\u0119dzi\u0107 emisj\u0119 radiow\u0105?\n\nBadacze z AIP, pod kierunkiem dr. Josepha Whittinghama, rozwi\u0105zali te zagadki dzi\u0119ki zaawansowanym symulacjom komputerowym \u0142\u0105cz\u0105cym perspektyw\u0119 kosmologiczn\u0105 z fizyk\u0105 proces\u00f3w na skali pojedynczych elektron\u00f3w. Zesp\u00f3\u0142 wykaza\u0142, \u017ce w pobli\u017cu kraw\u0119dzi gromad fale uderzeniowe zderzaj\u0105 si\u0119 z ch\u0142odnym, nap\u0142ywaj\u0105cym gazem, tworz\u0105c szereg wt\u00f3rnych fal i turbulentnych region\u00f3w. Te procesy kompresuj\u0105 gaz i \u201eskr\u0119caj\u0105\u201d oraz wzmacniaj\u0105 pole magnetyczne \u2013 wyja\u015bniaj\u0105c jego niespodziewan\u0105 si\u0142\u0119.\n\nGdy fala przechodzi przez g\u0119ste skupiska gazu, jej front lokalnie wzrasta, intensyfikuj\u0105c emisj\u0119 radiow\u0105. W tym samym czasie promieniowanie rentgenowskie odzwierciedla \u015bredni\u0105 si\u0142\u0119 ca\u0142ego frontu, st\u0105d pozornie sprzeczne wyniki w r\u00f3\u017cnych zakresach promieniowania. Takie podej\u015bcie pozwoli\u0142o wyja\u015bni\u0107, dlaczego te r\u00f3\u017cnice nie zaprzeczaj\u0105 teorii mechanizmu przyspieszania elektron\u00f3w.\n\nOdkrycie AIP stanowi wa\u017cny krok w zrozumieniu najbardziej ekstremalnych proces\u00f3w zachodz\u0105cych w gromadach galaktyk oraz natury radiowych relikt\u00f3w, motywuj\u0105c dalsze badania nad zagadkowymi strukturami widzianymi w najwi\u0119kszych laboratoriach kosmosu.\n\nOpracowanie:\n\nAgnieszka Nowak\n\n\n\nWi\u0119cej informacji:\n\n\u0179r\u00f3d\u0142o: AIP\n\nNa ilustracji: Podczas \u0142\u0105czenia si\u0119 gromad galaktyk fale uderzeniowe o kszta\u0142cie \u0142uku rozchodz\u0105 si\u0119 na zewn\u0105trz, przekszta\u0142caj\u0105c ogromn\u0105 ilo\u015b\u0107 energii w ciep\u0142o. Lewy obraz przedstawia g\u0119sto\u015b\u0107 gazu, a prawy rozproszon\u0105 energi\u0119 z wyra\u017anie widocznymi frontami fali uderzeniowej. \u0179r\u00f3d\u0142o: AIP/J. Whittingham"
         }
@@ -330,7 +330,7 @@
             "description": "Jeleniog\u00f3rscy policjanci zatrzymali 30-letniego m\u0119\u017cczyzn\u0119 podejrzanego o pr\u00f3b\u0119 porwania nastolatki. Do zdarzenia mia\u0142o doj\u015b\u0107 w gminie Podg\u00f3rzyn.",
             "image_url": "https://www.bing.pl/th?id=ODF.o1Uq0vSsy0aqc_7xbpCiKQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "Lubin Nasze Miasto19 godz.",
+            "date": "Lubin Nasze Miasto23 godz.",
             "source": "Lubin Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -341,12 +341,28 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Nie ka\u017cda \u201epi\u0105tka' to zwyk\u0142a moneta. Takie egzemplarze osi\u0105gaj\u0105 zawrotne ceny!",
-            "link": "https://www.msn.com/pl-pl/finanse/og%C3%B3lne/nie-ka%C5%BCda-pi%C4%85tka-to-zwyk%C5%82a-moneta-takie-egzemplarze-osi%C4%85gaj%C4%85-zawrotne-ceny/ar-AA1PHDth?ocid=BingNewsVerp",
-            "description": "Moneta 5 z\u0142 mo\u017ce by\u0107 warta nawet 100 tysi\u0119cy z\u0142otych. To sprawia, \u017ce coraz wi\u0119cej os\u00f3b zaczyna patrze\u0107 na drobne z nowym ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.-XPQC0aCLdgiZ6gP74xE_S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Monety z czas\u00f3w PRL. Zobacz, kt\u00f3re s\u0105 warte fortun\u0119! 17.11.2025",
+            "link": "https://gk24.pl/monety-z-czasow-prl-zobacz-ktore-sa-warte-fortune-17-11-2025/ar/c1p2-28051177",
+            "description": "Monety z czas\u00f3w Polskiej Rzeczpospolitej Ludowej ciesz\u0105 si\u0119 coraz wi\u0119kszym zainteresowaniem oraz wzrasta ich warto\u015b\u0107, ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.jM-JjPT_RXGe5uOBVIZrui&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN20 godz.",
+            "date": "G\u0142os Koszali\u0144ski3 godz.",
+            "source": "G\u0142os Koszali\u0144ski",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Nie ka\u017cda \u201epi\u0105tka' to zwyk\u0142a moneta. Takie egzemplarze osi\u0105gaj\u0105 zawrotne ceny!",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/nie-ka%C5%BCda-pi%C4%85tka-to-zwyk%C5%82a-moneta-takie-egzemplarze-osi%C4%85gaj%C4%85-zawrotne-ceny/ar-AA1PHDth?ocid=BingNewsVerp",
+            "description": "Moneta 5 z\u0142 mo\u017ce by\u0107 warta nawet 100 tysi\u0119cy z\u0142otych. To sprawia, \u017ce coraz wi\u0119cej os\u00f3b zaczyna patrze\u0107 na drobne z nowym zaciekawieniem i nadziej\u0105 na znalezienie prawdziwego skarbu.",
+            "image_url": "https://www.bing.pl/th?id=ODF.csLl8ZFonfuC8KKWalWEGg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stare+numizmatyka",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN1 godz.",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
             "article_content": ""
         }
