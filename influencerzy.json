@@ -5,12 +5,28 @@
             "Content-Type": "application/json"
         },
         "body": {
+            "title": "Nie ma ch\u0119tnych na zakup zabytkowego hotelu Hutnik w Stalowej Woli. B\u0119dzie kolejny przetarg",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/nie-ma-ch%C4%99tnych-na-zakup-zabytkowego-hotelu-hutnik-w-stalowej-woli-b%C4%99dzie-kolejny-przetarg/ar-AA1QFxX0?ocid=BingNewsVerp",
+            "description": "Kiedy\u015b \u201eDom Go\u015bcinny Dyrekcji Zak\u0142ad\u00f3w Przemys\u0142owych' dzi\u015b Hotel i Restauracja Hutnik. Historia budowy \u201eDomu Go\u015bcinnego' ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.om1eKVlv3XlEMfP5A2ts0i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Echo Dnia on MSN2 godz.",
+            "source": "Echo Dnia on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
             "title": "Zmiany w kierownictwie TVP1 i \"Wiadomo\u015bci\"",
             "link": "https://media2.pl/l/n/85994",
             "description": "Iwona Schymalla przesta\u0142a kierowa\u0107 telewizyjn\u0105 Jedynk\u0105. Nowy dyrektor anteny zostanie powo\u0142any do ko\u0144ca 2011 roku. Wraz ze ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.Ml4a4A9FzL97cAz7-9rfwy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "media2.pl4 godz.",
+            "date": "media2.pl8 godz.",
             "source": "media2.pl",
             "article_content": "Content not available"
         }
@@ -26,9 +42,25 @@
             "description": "Na starych monetach z czas\u00f3w PRL-u mo\u017cna zarobi\u0107 du\u017co pieni\u0119dzy. Wycena monet zale\u017cy od ich stanu zachowania, a dobrze ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.0qowG_2RHnDFLYejpDfxZy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski8 godz.",
+            "date": "G\u0142os Koszali\u0144ski11 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Tyle kolekcjonerzy p\u0142ac\u0105 teraz za stare polskie monety",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/tyle-kolekcjonerzy-p%C5%82ac%C4%85-teraz-za-stare-polskie-monety/ar-AA1Nra76?ocid=BingNewsVerp",
+            "description": "Obejrzyj lepiej bardzo dok\u0142adnie monety, kt\u00f3re masz w domu. Ich warto\u015b\u0107 jest dzisiaj najpewniej znacznie wi\u0119ksza, ni\u017c przypuszczasz. Niekt\u00f3re egzemplarze osi\u0105gaj\u0105 ceny si\u0119gaj\u0105ce tysi\u0119cy z\u0142otych.",
+            "image_url": "https://www.bing.pl/th?id=ODF.U7tHWt6afQwcI4sCY6tjaA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "stare+monety",
+            "date": "Nowa Trybuna Opolska on MSN4 godz.",
+            "source": "Nowa Trybuna Opolska on MSN",
+            "article_content": ""
         }
     },
     {
@@ -42,41 +74,9 @@
             "description": "W polskich domach wci\u0105\u017c le\u017c\u0105 stare monety z czas\u00f3w PRL. Teraz s\u0105 warte znacznie wi\u0119cej, ni\u017c mo\u017cna by si\u0119 spodziewa\u0107. W\u015br\u00f3d ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.SnD7ms8VijzfMAUMTEaxaC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Nowa Trybuna Opolska on MSN2 godz.",
+            "date": "Nowa Trybuna Opolska on MSN6 godz.",
             "source": "Nowa Trybuna Opolska on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Tyle kolekcjonerzy p\u0142ac\u0105 teraz za stare polskie monety",
-            "link": "https://www.msn.com/pl-pl/finanse/og%C3%B3lne/tyle-kolekcjonerzy-p%C5%82ac%C4%85-teraz-za-stare-polskie-monety/ar-AA1Nra76?ocid=BingNewsVerp",
-            "description": "Obejrzyj lepiej bardzo dok\u0142adnie monety, kt\u00f3re masz w domu. Ich warto\u015b\u0107 jest dzisiaj najpewniej znacznie wi\u0119ksza, ni\u017c ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.LQmBa9ooVwdgKy5n3Bk2oy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "Nowa Trybuna Opolska on MSN17 min",
-            "source": "Nowa Trybuna Opolska on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Te pospolite dwuz\u0142ot\u00f3wki s\u0105 teraz warte ogromne pieni\u0105dze",
-            "link": "https://nto.pl/te-pospolite-dwuzlotowki-sa-teraz-warte-ogromne-pieniadze/ar/c1p2-28109229",
-            "description": "Te dwuz\u0142ot\u00f3wki jeszcze kilka lat temu by\u0142y kupowane przez Polak\u00f3w na pot\u0119g\u0119. Obecnie niekt\u00f3re z nich osi\u0105gaj\u0105 na aukcjach ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.ZqcHehJPh_T6TBNq9TUpFS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "Nowa Trybuna Opolska1 godz.",
-            "source": "Nowa Trybuna Opolska",
-            "article_content": "Content not available"
         }
     },
     {
@@ -90,9 +90,25 @@
             "description": "Monety z PRL mog\u0105 by\u0107 jeszcze bardziej warto\u015bciowe, zw\u0142aszcza te z ma\u0142ych nak\u0142ad\u00f3w lub wydania pr\u00f3bne. Na przyk\u0142ad popularne ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.h_Q9PYUpiOcMcFymhWJeJi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski3 godz.",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski7 godz.",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "To najstarsze monety w historii Polski. Tyle s\u0105 teraz warte",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/to-najstarsze-monety-w-historii-polski-tyle-s%C4%85-teraz-warte/ar-AA1OxuAF?ocid=BingNewsVerp",
+            "description": "Zbieranie \u015bredniowiecznych i nowo\u017cytnych numizmat\u00f3w to hobby nie tylko dla bogaczy. Cz\u0119\u015b\u0107 z tych niezwyk\u0142ych monet, maj\u0105cych ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.I9Aq3I7GAKhJKbOrFdmbDC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "Nowa Trybuna Opolska on MSN41 min",
+            "source": "Nowa Trybuna Opolska on MSN",
+            "article_content": ""
         }
     },
     {
@@ -106,7 +122,7 @@
             "description": "Przys\u0142owiowym strza\u0142em w dziesi\u0105tk\u0119 okaza\u0142y si\u0119 targi \u201eVintage & Craft \u2013 Rzemios\u0142o i Drugie \u017bycie', zorganizowane w Starej ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.eALW_cw19TF329e0umlECy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Wa\u0142brzych Nasze Miasto19 godz.",
+            "date": "Wa\u0142brzych Nasze Miasto22 godz.",
             "source": "Wa\u0142brzych Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -122,24 +138,8 @@
             "description": "Stara Kopalnia w Wa\u0142brzychu ma 10 lat. To Centrum Nauki, Kultury i Sztuki otwarto uroczy\u015bcie w 2014 roku, po zako\u0144czeniu ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.eALW_cw19TF329e0umlECy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Wa\u0142brzych Nasze Miasto19 godz.",
+            "date": "Wa\u0142brzych Nasze Miasto22 godz.",
             "source": "Wa\u0142brzych Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Targ staroci agrohurt",
-            "link": "https://nowiny24.pl/tag/targ-staroci-agrohurt",
-            "description": "Kolejny Targ Staroci w Podkarpackim Centrum Hurtowym AGROHURT S.A. w Rzeszowie odby\u0142y si\u0119 w niedziel\u0119, 16 listopada 2025 r.",
-            "image_url": "https://www.bing.pl/th?id=OVFT.rVZQTBFsMyVqtBMwXvAMly&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "targ+staroci",
-            "date": "Nowiny 2422 godz.",
-            "source": "Nowiny 24",
             "article_content": "Content not available"
         }
     },
@@ -154,7 +154,7 @@
             "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 17.11.",
             "image_url": "https://www.bing.pl/th?id=OVFT.WSSYneOftTj0y7fVQjE7yy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Nowiny 248 godz.",
+            "date": "Nowiny 2412 godz.",
             "source": "Nowiny 24",
             "article_content": "Content not available"
         }
@@ -165,13 +165,45 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Na Podkarpaciu buduj\u0105 wa\u017cn\u0105 drog\u0119. Odkryli gigantyczne sk\u0142ady amunicji",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/na-podkarpaciu-buduj%C4%85-wa%C5%BCn%C4%85-drog%C4%99-odkryli-gigantyczne-sk%C5%82ady-amunicji/ar-AA1QF1T2?ocid=BingNewsVerp",
-            "description": "Podczas rozpoczynania ka\u017cdej z inwestycji niezb\u0119dne jest przeprowadzenie rozeznania saperskiego. Dochodzi do niego po wydaniu ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.pVjkJGJZuG8fvywjw1dUZi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "\u015acie\u017cki na spacer w woj. zachodniopomorskim. Gdzie warto i\u015b\u0107 w weekend 22 - 23 listopada? 10 najciekawszych tras",
+            "link": "https://gs24.pl/sciezki-na-spacer-w-woj-zachodniopomorskim-gdzie-warto-isc-w-weekend-22-23-listopada-10-najciekawszych-tras/ar/c7p1-22116477",
+            "description": "Nim wyruszysz, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 22 listopada w woj. zachodniopomorskim ma by\u0107 od -3\u00b0C do 2\u00b0C. Nie ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.KRe_-u3HNFXBNvg3PmSjFy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Motoryzacja w INTERIA.PL on MSN2 godz.",
-            "source": "Motoryzacja w INTERIA.PL on MSN",
+            "date": "G\u0142os Szczeci\u0144ski2 godz.",
+            "source": "G\u0142os Szczeci\u0144ski",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Niezwyk\u0142e odkrycie w Toruniu: drewniane konstrukcje z XIII w.",
+            "link": "https://www.onet.pl/styl-zycia/ppo-aipap/niezwykle-odkrycie-w-toruniu-drewniane-konstrukcje-z-xiii-w/egw3ljt,0666d3f1",
+            "description": "W sierpniu rozpocz\u0119to prace archeologiczne na dziedzi\u0144cu Domu Miko\u0142aja Kopernika w Toruniu. We wtorek archeolodzy ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.Yj2FI6h-mLe929C2x-QiIy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "Onet1 godz.",
+            "source": "Onet",
+            "article_content": "Podczas bada\u0144 archeologicznych na dziedzi\u0144cu Domu Miko\u0142aja Kopernika w Toruniu odkryto wcze\u015bniej nieznane drewniane konstrukcje z XIII wieku. To jedne z najstarszych takich znalezisk w mie\u015bcie. Konstrukcje trafi\u0105 do konserwacji i stan\u0105 si\u0119 elementem przysz\u0142ej wystawy sta\u0142ej.\n\nNiezwyk\u0142e znalezisko w Toruniu\n\nPAP informowa\u0142a w sierpniu o rozpocz\u0119ciu prac archeologicznych w tym miejscu. We wtorek archeolodzy przekazali, \u017ce dokonano \u2014 nawet jak na toru\u0144skie warunki miasta wpisanego na \u015bwiatow\u0105 list\u0119 dziedzictwa UNESCO \u2014 niezwyk\u0142ego znaleziska.\n\nPoznaj kontekst z AI Gdzie dok\u0142adnie dokonano odkrycia drewnianych konstrukcji?\n\nJakie s\u0105 plany dotycz\u0105ce konserwacji odkrytych relikt\u00f3w?\n\nCzy poznano dat\u0119 budowy drewnianych konstrukcji?\n\nJakie znaczenie maj\u0105 te odkrycia dla historii Torunia?\n\n\u2014 Potwierdzam, archeolodzy odnale\u017ali konstrukcje z XIII wieku, a mo\u017ce i starsze, co pomog\u0105 ustali\u0107 badania dendrochronologiczne \u2014 powiedzia\u0142 PAP kustosz Domu Miko\u0142aja Kopernika Micha\u0142 K\u0142osi\u0144ski.\n\nreklama\n\nHistoria odkrycia\n\nPod wsp\u00f3\u0142czesnymi i nowo\u017cytnymi nawarstwieniami, o kt\u00f3rych ju\u017c w sierpniu informowa\u0142a, zesp\u00f3\u0142 archeolog\u00f3w natrafi\u0142 na pozosta\u0142o\u015bci dawnej zabudowy drewnianej sprzed roku 1370, zanim na parceli pojawi\u0142 si\u0119 murowany dom, kt\u00f3ry w latach 1462\u20131480 by\u0142 w\u0142asno\u015bci\u0105 rodziny Kopernik\u00f3w.\n\n\u2014 Na wysoko\u015bci \u015brodkowej oficyny ods\u0142oni\u0119to zarys drewnianej konstrukcji wzniesionej w technice wie\u0144cowej, z niezwykle dobrze zachowanym w\u0119g\u0142em \u0142\u0105czonym \"na zak\u0142adk\u0119\". To rzadko\u015b\u0107. Relikty drewnianych budowli mieszkalnych z najwcze\u015bniejszych faz Torunia praktycznie si\u0119 nie zachowa\u0142y. Dlatego znalezisko ma znaczenie wyj\u0105tkowe nie tylko dla historii Domu Miko\u0142aja Kopernika, lecz tak\u017ce dla bada\u0144 nad najwcze\u015bniejsz\u0105 zabudow\u0105 miasta. Ods\u0142oni\u0119ta konstrukcja ukazuje nam obraz parceli zanim zacz\u0119\u0142y dominowa\u0107 murowane kamienice: wczesne drewniane domy i warsztaty \u2014 poinformowali przedstawiciele Domu Miko\u0142aja Kopernika, aktualnie interaktywnego muzeum.\n\nZnaczenie odkrycia\n\nPozosta\u0142o\u015bci budowli by\u0142y najpewniej zorientowane na osi wsch\u00f3d\u2013zach\u00f3d, czyli prostopadle do obecnego uk\u0142adu: kamienicy i oficyn w uk\u0142adzie p\u00f3\u0142noc\u2013po\u0142udnie. Ujawnia to zupe\u0142nie odmienn\u0105 organizacj\u0119 parceli przed drug\u0105 po\u0142ow\u0105 XIV wieku.\n\nW tym momencie archeolodzy nie przes\u0105dzaj\u0105, czy m\u00f3g\u0142 to by\u0107 budynek mieszkalny czy zabudowania gospodarcze.\n\n\u2014 Teoretycznie mog\u0142aby to by\u0107 forma masywnej cysterny na wod\u0119, ale znane toru\u0144skie cembrowiny drewniane z XIV \u2014XV wieku s\u0105 mniejsze. Z wi\u0119kszym prawdopodobie\u0144stwem badacze sk\u0142aniaj\u0105 si\u0119 wi\u0119c ku interpretacji, \u017ce jest to budowla mieszkalna lub warsztatowa zwi\u0105zana z najwcze\u015bniejszym u\u017cytkowaniem tej parceli \u2014 dowiadujemy si\u0119 z informacji z muzeum.\n\nPlany na przysz\u0142o\u015b\u0107\n\nW najbli\u017cszym czasie fragmenty drewna zostan\u0105 poddane badaniom dendrochronologicznym, co pozwoli na precyzyjne okre\u015blenie ich wieku. W muzeum zapewniono, \u017ce trwaj\u0105 prace nad zapewnieniem mo\u017cliwo\u015bci konserwacji ca\u0142ej konstrukcji. Ma by\u0107 ona elementem przysz\u0142ej, kolejnej wystawy sta\u0142ej. W planach jest ekspozycja \"in situ\", czyli w miejscu znalezienia.\n\n\u2014 Za\u0142o\u017cenia przewiduj\u0105 ekspozycje \"in situ\", ale przy za\u0142o\u017ceniu wyj\u0119cia relikt\u00f3w, wykonania niezb\u0119dnych prac zabezpieczaj\u0105cych na zewn\u0105trz. Nast\u0119pnie dojdzie do otworzenia uk\u0142adu odkrytej budowli w przygotowanym wcze\u015bniej wn\u0119trzu \u2014 informuj\u0105 przedstawiciele Domu Miko\u0142aja Kopernika.\n\nKonieczne b\u0119dzie stworzenie nowej przestrzeni ekspozycyjnej do prezentacji najstarszych drewnianych relikt\u00f3w Torunia. Obecne badania archeologiczne zwi\u0105zane s\u0105 z konieczno\u015bci\u0105 przeprowadzenia prac stabilizuj\u0105cych oficyny i XV-wiecznego muru granicznego. Obie te kwestie musz\u0105 zosta\u0107 pogodzone.\n\nWyzwania i perspektywy\n\n\u2014 Walczymy o zachowanie tego dziedzictwa, jako materialnego \u015bwiadectwa narodzin miasta. Starajmy si\u0119 obecnie o to, aby te XIII\u2014 i XIV-wieczne fragmenty przetrwa\u0142y nie w magazynach, lecz w miejscu swojego odkrycia, dost\u0119pne dla zwiedzaj\u0105cych i przysz\u0142ych pokole\u0144. To jednak ogromne wyzwanie. Konserwacja drewna licz\u0105cego ponad 700 lat, jego zabezpieczenie, stworzenie stabilnych warunk\u00f3w ekspozycyjnych oraz przebudowa przestrzeni dziedzi\u0144ca to przedsi\u0119wzi\u0119cia wymagaj\u0105ce znacznych nak\u0142ad\u00f3w finansowych i organizacyjnych.\n\nreklama\n\nNie jest to droga \u0142atwa, ale to dziedzictwo jest tego warte. Odkrycie tak wyj\u0105tkowych relikt\u00f3w zdarza si\u0119 raz na wiele lat, czasem raz na pokolenie. Naszym obowi\u0105zkiem jest zrobi\u0107 wszystko, by je ochroni\u0107, zachowa\u0107 i udost\u0119pni\u0107 \u2014 dodali przedstawiciele muzeum.\n\nZnaczenie bada\u0144 archeologicznych\n\nKierownik bada\u0144, archeolog Leszek Kucharski, podkre\u015bli\u0142 w rozmowie z PAP ju\u017c w sierpniu, \u017ce zaplecza s\u0105 najciekawszymi miejscami do bada\u0144. \u2014 Zaplecza s\u0105 u\u017cytkowane, ale je\u017celi s\u0105 zabudowywane, to najcz\u0119\u015bciej nietrwa\u0142\u0105, a przede wszystkim nieschodz\u0105c\u0105 w d\u00f3\u0142 zabudow\u0105. Zawsze s\u0105 wi\u0119c du\u017ce szanse, \u017ce nawarstwienia kulturowe, najwcze\u015bniejsze, s\u0105 nienaruszone \u2014 oceni\u0142.\n\nPrzypomnia\u0142, \u017ce badania w piwnicy oficyny prowadzi\u0142a w 1972 roku prof. Jadwiga Chudziakowa. P\u00f3\u017aniej by\u0142y nadzory archeologiczne w 1999 i 2004 roku. \u2014 Mamy pewno\u015b\u0107, \u017ce nawarstwienia s\u0105 w du\u017cym stopniu nienaruszone. Mamy do czynienia z r\u00f3\u017cnymi konstrukcjami drewnianymi, prawdopodobnie z XIII wieku. Mamy zlokalizowane co najmniej dwie latryny \u2014 w tym jedn\u0105 datowan\u0105 na pierwsz\u0105 po\u0142ow\u0119 XV wieku, czyli bardzo interesuj\u0105cy nas okres \u2014 m\u00f3wi\u0142 w\u00f3wczas Kucharski.\n\nDom Miko\u0142aja Kopernika\n\nP\u00f3\u017anogotycka kamienica mieszcza\u0144ska przy ul. Kopernika w Toruniu to miejsce szczeg\u00f3lne dla wszystkich os\u00f3b zainteresowanych \u017cyciem wybitnego polskiego astronoma. Dom Miko\u0142aja Kopernika to unikalna na skal\u0119 og\u00f3lnopolsk\u0105 instytucja zajmuj\u0105ca si\u0119 propagowaniem wiedzy o najbardziej znanym na \u015bwiecie torunianinie.\n\nTa p\u00f3\u017anogotycka kamienica mieszcza\u0144ska nale\u017ca\u0142a do rodziny Kopernik\u00f3w w drugiej po\u0142owie XV wieku. W literaturze okre\u015bla si\u0119 takie budowle mianem domu-sk\u0142adu. To dom mieszcza\u0144ski ukazuj\u0105cy ca\u0142e bogactwo kultury p\u00f3\u017ano\u015bredniowiecznego Torunia, w kt\u00f3rym dorasta\u0142 Kopernik. Przyszed\u0142 on na \u015bwiat w rodzinie mieszcza\u0144skiej, w niej si\u0119 wychowywa\u0142 i na toru\u0144skiej Star\u00f3wce rozegra\u0142o si\u0119 jego dzieci\u0144stwo."
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Archeolodzy przecierali oczy. To odkrycie to rzadko\u015b\u0107. \"Jedne z najstarszych relikt\u00f3w\"",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/archeolodzy-przecierali-oczy-to-odkrycie-to-rzadko%C5%9B%C4%87-jedne-z-najstarszych-relikt%C3%B3w/ar-AA1QFMxw?ocid=BingNewsVerp",
+            "description": "Wyj\u0105tkowe odkrycie podczas prac archeologicznych w Domu Miko\u0142aja Kopernika w Toruniu. Badacze natrafili na pozosta\u0142o\u015bci ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.QrdDyDVNUzANri-XX2Fdby&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "Wiadomo\u015bci Radio ZET on MSN2 godz.",
+            "source": "Wiadomo\u015bci Radio ZET on MSN",
             "article_content": ""
         }
     },
@@ -181,14 +213,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Przegl\u0105d prasy 18.11.2025. Zestawili\u015bmy dla Ciebie najwa\u017cniejsze wydarzenia z wczoraj. Zobacz nasz\u0105 pras\u00f3wk\u0119",
-            "link": "https://to.com.pl/przeglad-prasy-18-11-2025-zestawilismy-dla-ciebie-najwazniejsze-wydarzenia-z-wczoraj-zobacz-nasza-prasowke/ar/c1p1-19960931",
-            "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 17.11.",
-            "image_url": "https://www.bing.pl/th?id=OVFT.B797TEGGu_Xvxkgp2YEONi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Na dziedzi\u0144cu Domu Miko\u0142aja Kopernika w Toruniu odkryto drewniane konstrukcje z XIII wieku [zdj\u0119cia]",
+            "link": "https://www.radiopik.pl/2,134221,na-dziedzincu-domu-mikolaja-kopernika-w-toruniu-odkryto-drewniane-konstrukcje-z-xiii-wieku-zdjec",
+            "description": "To jedno z najstarszych takich znalezisk w mie\u015bcie. Konstrukcje trafi\u0105 do konserwacji i stan\u0105 si\u0119 elementem przysz\u0142ej wystawy sta\u0142ej. Badania archeologiczne trwaj\u0105 w tym miejscu od sierpnia.",
+            "image_url": "https://www.bing.pl/th?id=ODF.Hvqnk8dTAXFkTFgqefVz6Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Tygodnik Ostro\u0142\u0119cki8 godz.",
-            "source": "Tygodnik Ostro\u0142\u0119cki",
-            "article_content": "Content not available"
+            "date": "Polskie Radio PiK11 min",
+            "source": "Polskie Radio PiK",
+            "article_content": "Na dziedzi\u0144cu Domu Miko\u0142aja Kopernika w Toruniu odkryto drewniane konstrukcje z XIII wieku/Dom Miko\u0142aja Kopernika/Facebook\n\nTo jedno z najstarszych takich znalezisk w mie\u015bcie. Konstrukcje trafi\u0105 do konserwacji i stan\u0105 si\u0119 elementem przysz\u0142ej wystawy sta\u0142ej. Badania archeologiczne trwaj\u0105 w tym miejscu od sierpnia.\n\n\u2013 Potwierdzam, archeolodzy odnale\u017ali konstrukcje z XIII wieku, a mo\u017ce i starsze, co pomog\u0105 ustali\u0107 badania dendrochronologiczne \u2013 powiedzia\u0142 kustosz Domu Miko\u0142aja Kopernika, Micha\u0142 K\u0142osi\u0144ski.\n\n\n\nPod wsp\u00f3\u0142czesnymi i nowo\u017cytnymi nawarstwieniami, zesp\u00f3\u0142 archeolog\u00f3w natrafi\u0142 na pozosta\u0142o\u015bci dawnej zabudowy drewnianej sprzed roku 1370, zanim na parceli pojawi\u0142 si\u0119 murowany dom, kt\u00f3ry w latach 1462\u20131480 by\u0142 w\u0142asno\u015bci\u0105 rodziny Kopernik\u00f3w.\n\n\n\n\u2013 Na wysoko\u015bci \u015brodkowej oficyny ods\u0142oni\u0119to zarys drewnianej konstrukcji wzniesionej w technice wie\u0144cowej, z niezwykle dobrze zachowanym w\u0119g\u0142em \u0142\u0105czonym \u201ena zak\u0142adk\u0119\u201d. To rzadko\u015b\u0107. Relikty drewnianych budowli mieszkalnych z najwcze\u015bniejszych faz Torunia praktycznie si\u0119 nie zachowa\u0142y. Dlatego znalezisko ma znaczenie wyj\u0105tkowe nie tylko dla historii Domu Miko\u0142aja Kopernika, lecz tak\u017ce dla bada\u0144 nad najwcze\u015bniejsz\u0105 zabudow\u0105 miasta. Ods\u0142oni\u0119ta konstrukcja ukazuje nam obraz parceli zanim zacz\u0119\u0142y dominowa\u0107 murowane kamienice: wczesne drewniane domy i warsztaty \u2013 poinformowali przedstawiciele Domu Miko\u0142aja Kopernika, aktualnie interaktywnego muzeum.\n\n\n\nPozosta\u0142o\u015bci budowli by\u0142y najpewniej zorientowane na osi wsch\u00f3d\u2013zach\u00f3d, czyli prostopadle do obecnego uk\u0142adu: kamienicy i oficyn w uk\u0142adzie p\u00f3\u0142noc\u2013po\u0142udnie. Ujawnia to zupe\u0142nie odmienn\u0105 organizacj\u0119 parceli przed drug\u0105 po\u0142ow\u0105 XIV wieku.\n\n\n\nW tym momencie archeolodzy nie przes\u0105dzaj\u0105, czy m\u00f3g\u0142 to by\u0107 budynek mieszkalny czy zabudowania gospodarcze.\n\n\n\n\u2013 Teoretycznie mog\u0142aby to by\u0107 forma masywnej cysterny na wod\u0119, ale znane toru\u0144skie cembrowiny drewniane z XIV\u2013XV wieku s\u0105 mniejsze. Z wi\u0119kszym prawdopodobie\u0144stwem badacze sk\u0142aniaj\u0105 si\u0119 wi\u0119c ku interpretacji, \u017ce jest to budowla mieszkalna lub warsztatowa zwi\u0105zana z najwcze\u015bniejszym u\u017cytkowaniem tej parceli \u2013 dowiadujemy si\u0119 z informacji z muzeum.\n\n\n\nW najbli\u017cszym czasie fragmenty drewna zostan\u0105 poddane badaniom dendrochronologicznym, co pozwoli na precyzyjne okre\u015blenie ich wieku. W muzeum zapewniono, \u017ce trwaj\u0105 prace nad zapewnieniem mo\u017cliwo\u015bci konserwacji ca\u0142ej konstrukcji. Ma by\u0107 ona elementem przysz\u0142ej, kolejnej wystawy sta\u0142ej. W planach jest ekspozycja \u201ein situ\u201d, czyli w miejscu znalezienia.\n\n\n\n\u2013 Za\u0142o\u017cenia przewiduj\u0105 ekspozycje \u201ein situ\u201d, ale przy za\u0142o\u017ceniu wyj\u0119cia relikt\u00f3w, wykonania niezb\u0119dnych prac zabezpieczaj\u0105cych na zewn\u0105trz. Nast\u0119pnie dojdzie do otworzenia uk\u0142adu odkrytej budowli w przygotowanym wcze\u015bniej wn\u0119trzu \u2013 informuj\u0105 przedstawiciele Domu Miko\u0142aja Kopernika.\n\n\n\nKonieczne b\u0119dzie stworzenie nowej przestrzeni ekspozycyjnej do prezentacji najstarszych drewnianych relikt\u00f3w Torunia. Obecne badania archeologiczne zwi\u0105zane s\u0105 z konieczno\u015bci\u0105 przeprowadzenia prac stabilizuj\u0105cych oficyny i XV-wiecznego muru granicznego. Obie te kwestie musz\u0105 zosta\u0107 pogodzone.\n\n\n\n\u2013 Walczymy o zachowanie tego dziedzictwa, jako materialnego \u015bwiadectwa narodzin miasta. Starajmy si\u0119 obecnie o to, aby te XIII- i XIV-wieczne fragmenty przetrwa\u0142y nie w magazynach, lecz w miejscu swojego odkrycia, dost\u0119pne dla zwiedzaj\u0105cych i przysz\u0142ych pokole\u0144. To jednak ogromne wyzwanie. Konserwacja drewna licz\u0105cego ponad 700 lat, jego zabezpieczenie, stworzenie stabilnych warunk\u00f3w ekspozycyjnych oraz przebudowa przestrzeni dziedzi\u0144ca to przedsi\u0119wzi\u0119cia wymagaj\u0105ce znacznych nak\u0142ad\u00f3w finansowych i organizacyjnych.\n\n\n\nNie jest to droga \u0142atwa, ale to dziedzictwo jest tego warte. Odkrycie tak wyj\u0105tkowych relikt\u00f3w zdarza si\u0119 raz na wiele lat, czasem raz na pokolenie. Naszym obowi\u0105zkiem jest zrobi\u0107 wszystko, by je ochroni\u0107, zachowa\u0107 i udost\u0119pni\u0107 \u2013 dodali przedstawiciele muzeum.\n\n\n\nKierownik bada\u0144, archeolog Leszek Kucharski, podkre\u015bli\u0142 w rozmowie z PAP ju\u017c w sierpniu, \u017ce zaplecza s\u0105 najciekawszymi miejscami do bada\u0144. \u2013 Zaplecza s\u0105 u\u017cytkowane, ale je\u017celi s\u0105 zabudowywane, to najcz\u0119\u015bciej nietrwa\u0142\u0105, a przede wszystkim nieschodz\u0105c\u0105 w d\u00f3\u0142 zabudow\u0105. Zawsze s\u0105 wi\u0119c du\u017ce szanse, \u017ce nawarstwienia kulturowe, najwcze\u015bniejsze, s\u0105 nienaruszone \u2013 oceni\u0142.\n\n\n\nPrzypomnia\u0142, \u017ce badania w piwnicy oficyny prowadzi\u0142a w 1972 roku prof. Jadwiga Chudziakowa. P\u00f3\u017aniej by\u0142y nadzory archeologiczne w 1999 i 2004 roku. \u2013 Mamy pewno\u015b\u0107, \u017ce nawarstwienia s\u0105 w du\u017cym stopniu nienaruszone. Mamy do czynienia z r\u00f3\u017cnymi konstrukcjami drewnianymi, prawdopodobnie z XIII wieku. Mamy zlokalizowane co najmniej dwie latryny \u2013 w tym jedn\u0105 datowan\u0105 na pierwsz\u0105 po\u0142ow\u0119 XV wieku, czyli bardzo interesuj\u0105cy nas okres \u2013 m\u00f3wi\u0142 w\u00f3wczas Kucharski.\n\n\n\nP\u00f3\u017anogotycka kamienica mieszcza\u0144ska przy ul. Kopernika w Toruniu to miejsce szczeg\u00f3lne dla wszystkich os\u00f3b zainteresowanych \u017cyciem wybitnego polskiego astronoma. Dom Miko\u0142aja Kopernika to unikalna na skal\u0119 og\u00f3lnopolsk\u0105 instytucja zajmuj\u0105ca si\u0119 propagowaniem wiedzy o najbardziej znanym na \u015bwiecie torunianinie.\n\n\n\nTa p\u00f3\u017anogotycka kamienica mieszcza\u0144ska nale\u017ca\u0142a do rodziny Kopernik\u00f3w w drugiej po\u0142owie XV wieku. W literaturze okre\u015bla si\u0119 takie budowle mianem domu-sk\u0142adu. To dom mieszcza\u0144ski ukazuj\u0105cy ca\u0142e bogactwo kultury p\u00f3\u017ano\u015bredniowiecznego Torunia, w kt\u00f3rym dorasta\u0142 Kopernik. Przyszed\u0142 on na \u015bwiat w rodzinie mieszcza\u0144skiej, w niej si\u0119 wychowywa\u0142 i na toru\u0144skiej Star\u00f3wce rozegra\u0142o si\u0119 jego dzieci\u0144stwo."
         }
     },
     {
@@ -197,46 +229,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Rowerem do 10 km od O\u015bwi\u0119cimia. Pomys\u0142y na jednodniowy wypad. Gdzie w weekend 22 - 23 listopada?",
-            "link": "https://oswiecim.naszemiasto.pl/rowerem-do-10-km-od-oswiecimia-pomysly-na-jednodniowy-wypad-gdzie-w-weekend-22-23-listopada/ar/c7p1-21831633",
-            "description": "Zanim wyruszysz na wypraw\u0119, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 22 listopada w O\u015bwi\u0119cimiu ma by\u0107 1\u00b0C. Prawdopodobie\u0144stwo ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.aS2Ewb9N11zer5GoLoYrVy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Odkrycie w Polsce. Skarb sprzed wiek\u00f3w, budowa wstrzymana",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/odkrycie-w-polsce-skarb-sprzed-wiek%C3%B3w-budowa-wstrzymana/ar-AA1QFFL5?ocid=BingNewsVerp",
+            "description": "Szczecin, sensacyjne odkrycie archeologiczne. Budowa Teatru Wsp\u00f3\u0142czesnego na terenie \u0141asztowni zosta\u0142a wstrzymana. Jak ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.ULoRL6DwD9frvb3Dk3eHuS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "O\u015bwi\u0119cim Nasze Miasto22 godz.",
-            "source": "O\u015bwi\u0119cim Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Odkryli zaginion\u0105 technologi\u0119 Rzymian. Zdradza now\u0105 histori\u0119 Imperium",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/odkryli-zaginion%C4%85-technologi%C4%99-rzymian-zdradza-now%C4%85-histori%C4%99-imperium/ar-AA1QB4Sn?ocid=BingNewsVerp",
-            "description": "Wielkie znalezisko pod staro\u017cytnymi ruinami Grupa portugalskich naukowc\u00f3w dokonywa\u0142a rutynowych bada\u0144 przy jednym z mur\u00f3w ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.-N-OGwbyMyrynT3yWFQ7YS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "GeekWeek w INTERIA.PL on MSN23 godz.",
-            "source": "GeekWeek w INTERIA.PL on MSN",
+            "date": "Planeta on MSN2 godz.",
+            "source": "Planeta on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Gdzie na nordic walking do 5 km od Ko\u0142obrzegu. Podpowiadamy, gdzie warto si\u0119 wybra\u0107 w weekend 22 - 23 listopada",
-            "link": "https://kolobrzeg.naszemiasto.pl/gdzie-na-nordic-walking-do-5-km-od-kolobrzegu-podpowiadamy-gdzie-warto-sie-wybrac-w-weekend-22-23-listopada/ar/c7p1-22319027",
-            "description": "W sobot\u0119 22 listopada wed\u0142ug prognozy pogody ma by\u0107 3\u00b0C. Prawdopodobie\u0144stwo wyst\u0105pienia deszczu wynosi 25%. W niedziel\u0119 23 listopada zgodnie z najnowszymi prognozami pogody ma by\u0107 1\u00b0C w najcieplejszym ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.xGyVXoJ9b0zlcu2rTPA_6w&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "relikty",
-            "date": "Ko\u0142obrzeg Nasze Miasto22 godz.",
-            "source": "Ko\u0142obrzeg Nasze Miasto",
-            "article_content": "Content not available"
         }
     },
     {
@@ -250,9 +250,25 @@
             "description": "W 2025 roku antyki ciesz\u0105 si\u0119 popularno\u015bci\u0105 i s\u0105 poszukiwane przez kolekcjoner\u00f3w. Je\u015bli masz jeszcze takie w domu, przyjrzyj ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.8plFAqIwQ0-oo8PU3zOHly&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Express Bydgoski on MSN5 godz.",
+            "date": "Express Bydgoski on MSN9 godz.",
             "source": "Express Bydgoski on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Premier: Ustalili\u015bmy dane sprawc\u00f3w akt\u00f3w dywersji",
+            "link": "https://expressbydgoski.pl/nie-uwierzysz-ile-sa-warte-te-stare-przedmioty-z-prl-antyki-w-listopadzie-2025-osiagaja-zawrotne-ceny/gh/c1p2-27738583/4",
+            "description": "Horoskop mi\u0142osny na tydzie\u0144 dla wszystkich znak\u00f3w zodiaku. Panna, Waga, Ryby, Lew ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.lSvQ7lbnEp30GW9jilHB-Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "category": "zabytkowe+przedmioty",
+            "date": "Express Bydgoski3 godz.",
+            "source": "Express Bydgoski",
+            "article_content": "Content not available"
         }
     },
     {
@@ -266,7 +282,7 @@
             "description": "Sukces netflixowego serialu o \"Heweliuszu\" sprawi\u0142, \u017ce o katastrofie sprzed 30 lat m\u00f3wi dzi\u015b ca\u0142a Polska. Widzowie, kt\u00f3rzy ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.PPhU9_D5f35eLnDr6jS75y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Trojmiasto.pl5 godz.",
+            "date": "Trojmiasto.pl9 godz.",
             "source": "Trojmiasto.pl",
             "article_content": "Content not available"
         }
@@ -282,9 +298,25 @@
             "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 17.11.",
             "image_url": "https://www.bing.pl/th?id=OVFT.IuUY7M84a9xuCK-i1auZ9C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Wroc\u0142awska9 godz.",
+            "date": "Gazeta Wroc\u0142awska12 godz.",
             "source": "Gazeta Wroc\u0142awska",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Za tyle mo\u017cna obecnie sprzeda\u0107 stare medale i ordery. Mo\u017cna nie\u017ale zarobi\u0107",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/za-tyle-mo%C5%BCna-obecnie-sprzeda%C4%87-stare-medale-i-ordery-mo%C5%BCna-nie%C5%BAle-zarobi%C4%87/ar-AA1QgT2Y?ocid=BingNewsVerp",
+            "description": "Stare ordery i medale budz\u0105 teraz ogromne zainteresowanie znawc\u00f3w i kolekcjoner\u00f3w. Cho\u0107 przez wiele lat le\u017ca\u0142y zapomniane w ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.qlWcFaoZIL6Z_aKLmJKB8C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+numizmatyka",
+            "date": "Nowa Trybuna Opolska on MSN2 godz.",
+            "source": "Nowa Trybuna Opolska on MSN",
+            "article_content": ""
         }
     },
     {
@@ -298,7 +330,7 @@
             "description": "Te dwuz\u0142ot\u00f3wki jeszcze kilka lat temu by\u0142y kupowane przez Polak\u00f3w na pot\u0119g\u0119. Obecnie niekt\u00f3re z nich osi\u0105gaj\u0105 na aukcjach ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.ZqcHehJPh_T6TBNq9TUpFS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Nowa Trybuna Opolska1 godz.",
+            "date": "Nowa Trybuna Opolska5 godz.",
             "source": "Nowa Trybuna Opolska",
             "article_content": "Content not available"
         }
@@ -309,12 +341,28 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Za te monety okoliczno\u015bciowe z PRL p\u0142ac\u0105 teraz fortun\u0119",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/za-te-monety-okoliczno%C5%9Bciowe-z-prl-p%C5%82ac%C4%85-teraz-fortun%C4%99/ar-AA1OnUsp?ocid=BingNewsVerp",
-            "description": "W polskich domach wci\u0105\u017c le\u017c\u0105 stare monety z czas\u00f3w PRL. Teraz s\u0105 warte znacznie wi\u0119cej, ni\u017c mo\u017cna by si\u0119 spodziewa\u0107. W\u015br\u00f3d ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.SnD7ms8VijzfMAUMTEaxaC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Kolekcjonerzy zwr\u00f3cili uwag\u0119, \u017ce co\u015b jest nie tak z nowym banknotem. Jest komentarz Narodowego Banku Polskiego",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/kolekcjonerzy-zwr%C3%B3cili-uwag%C4%99-%C5%BCe-co%C5%9B-jest-nie-tak-z-nowym-banknotem-jest-komentarz-narodowego-banku-polskiego/ar-AA1QFuDo?ocid=BingNewsVerp",
+            "description": "Mi\u0142o\u015bnicy pieni\u0105dza papierowego rzucili si\u0119 do zakup\u00f3w nowego banknotu kolekjonerskiego o nominale 20 z\u0142 z wizerunkiem ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.Iz_BvbOcAn7aoUzdMQ3HRC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Nowa Trybuna Opolska on MSN2 godz.",
+            "date": "Gazeta Krakowska on MSN3 godz.",
+            "source": "Gazeta Krakowska on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "To najstarsze monety w historii Polski. Tyle s\u0105 teraz warte",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/to-najstarsze-monety-w-historii-polski-tyle-s%C4%85-teraz-warte/ar-AA1OxuAF?ocid=BingNewsVerp",
+            "description": "Zbieranie \u015bredniowiecznych i nowo\u017cytnych numizmat\u00f3w to hobby nie tylko dla bogaczy. Cz\u0119\u015b\u0107 z tych niezwyk\u0142ych monet, maj\u0105cych ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.I9Aq3I7GAKhJKbOrFdmbDC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+numizmatyka",
+            "date": "Nowa Trybuna Opolska on MSN41 min",
             "source": "Nowa Trybuna Opolska on MSN",
             "article_content": ""
         }
@@ -330,24 +378,8 @@
             "description": "Monety z czas\u00f3w Polskiej Rzeczpospolitej Ludowej ciesz\u0105 si\u0119 coraz wi\u0119kszym zainteresowaniem oraz wzrasta ich warto\u015b\u0107, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.jM-JjPT_RXGe5uOBVIZrui&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Koszali\u0144ski on MSN8 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN11 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Te \"pi\u0105tki\" s\u0105 warte wi\u0119cej ni\u017c my\u015blisz! Zobacz, kt\u00f3re egzemplarze bij\u0105 rekordy",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/te-pi%C4%85tki-s%C4%85-warte-wi%C4%99cej-ni%C5%BC-my%C5%9Blisz-zobacz-kt%C3%B3re-egzemplarze-bij%C4%85-rekordy/ar-AA1PHDth?ocid=BingNewsVerp",
-            "description": "Moneta 5 z\u0142 mo\u017ce by\u0107 warta nawet 100 tysi\u0119cy z\u0142otych. To sprawia, \u017ce coraz wi\u0119cej os\u00f3b zaczyna patrze\u0107 na drobne z nowym ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.-XPQC0aCLdgiZ6gP74xE_S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+numizmatyka",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN5 godz.",
-            "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
             "article_content": ""
         }
     }
