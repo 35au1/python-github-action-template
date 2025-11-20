@@ -5,12 +5,28 @@
             "Content-Type": "application/json"
         },
         "body": {
+            "title": "Sklep motoryzacyjny kielce",
+            "link": "https://echodnia.eu/swietokrzyskie/tag/sklep-motoryzacyjny-kielce",
+            "description": "Najstarszy sklep motoryzacyjny w Kielcach, legendarny punkt przy ulicy \u017bytniej, po kilkudziesi\u0119ciu latach dzia\u0142alno\u015bci zosta\u0142 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.OlAu1bnOzeBTIhhXx8Eu3y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Echo Dnia2 godz.",
+            "source": "Echo Dnia",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
             "title": "Miasto planuje zmiany na miejskim bazarze. Czy dojdzie do likwidacji targowiska?",
             "link": "https://www.msn.com/pl-pl/wiadomosci/polska/miasto-planuje-zmiany-na-miejskim-bazarze-czy-dojdzie-do-likwidacji-targowiska/ar-AA1QKqpT?ocid=BingNewsVerp",
             "description": "Jeszcze kilka lat temu t\u0119tni\u0142 \u017cyciem, dzi\u015b coraz cz\u0119\u015bciej \u015bwieci pustkami. Bazar Miejski w Suwa\u0142kach powoli traci swoje ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.7k5GFfy5uHQopKMBzboQFi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Suwa\u0142ki Nasze Miasto on MSN3 godz.",
+            "date": "Suwa\u0142ki Nasze Miasto on MSN9 godz.",
             "source": "Suwa\u0142ki Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -26,25 +42,9 @@
             "description": "Na targowisku miejskim w Tarnobrzegu s\u0142oneczny, lecz ch\u0142odny \u015brodowy poranek przywita\u0142 kupuj\u0105cych bogat\u0105 ofert\u0105 i spor\u0105 dawk\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.JZQoW7cF7INNG6DNKyloJS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Echo Dnia on MSN8 godz.",
+            "date": "Echo Dnia on MSN13 godz.",
             "source": "Echo Dnia on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Psy w historii",
-            "link": "https://slawno.naszemiasto.pl/tag/psy-w-historii",
-            "description": "Ro\u015bnie liczba os\u00f3b podr\u00f3\u017cuj\u0105cych poci\u0105gami ze swoimi psami i kotami. W pierwszej po\u0142owie 2025 roku PKP Intercity przewioz\u0142o ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "S\u0142awno Nasze Miasto2 godz.",
-            "source": "S\u0142awno Nasze Miasto",
-            "article_content": "Content not available"
         }
     },
     {
@@ -58,7 +58,7 @@
             "description": "Znany antykwariat na warszawskiej Pradze przenosi si\u0119 wkr\u00f3tce w nowe miejsce. W zwi\u0105zku z wyprowadzk\u0105 organizuje wielk\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.a8ihyg4Xme4WRr8extQmWS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Warszawa Nasze Miasto16 godz.",
+            "date": "Warszawa Nasze Miasto21 godz.",
             "source": "Warszawa Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -69,14 +69,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Pan Babcia z Rybnika, czyli Micha\u0142 Froehlich. Jak \u015bl\u0105ska autentyczno\u015b\u0107 i babciny fartuch podbi\u0142y internet",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/pan-babcia-z-rybnika-czyli-micha%C5%82-froehlich-jak-%C5%9Bl%C4%85ska-autentyczno%C5%9B%C4%87-i-babciny-fartuch-podbi%C5%82y-internet/ar-AA1QINa5?ocid=BingNewsVerp",
-            "description": "Micha\u0142 Froehlich, znany w sieci jako \u201ePan Babcia', to 23-letni rybniczanin, kt\u00f3ry w babcinym fartuchu gotuje po \u015bl\u0105sku, m\u00f3wi gwar\u0105 i przywo\u0142uje klimat lat 70.\u201380. Dzi\u0119ki autentyczno\u015bci i lokalnej trad ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.9iHLF3wjpSX94sISYnTbFQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "title": "Psy w historii",
+            "link": "https://slawno.naszemiasto.pl/tag/psy-w-historii",
+            "description": "Ro\u015bnie liczba os\u00f3b podr\u00f3\u017cuj\u0105cych poci\u0105gami ze swoimi psami i kotami. W pierwszej po\u0142owie 2025 roku PKP Intercity przewioz\u0142o ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "\u015al\u0105skie Radio ESKA on MSN11 godz.",
-            "source": "\u015al\u0105skie Radio ESKA on MSN",
-            "article_content": ""
+            "date": "S\u0142awno Nasze Miasto7 godz.",
+            "source": "S\u0142awno Nasze Miasto",
+            "article_content": "Content not available"
         }
     },
     {
@@ -87,10 +87,10 @@
         "body": {
             "title": "Tyle kolekcjonerzy p\u0142ac\u0105 teraz za stare polskie monety. Mo\u017cna sporo zarobi\u0107",
             "link": "https://nto.pl/tyle-kolekcjonerzy-placa-teraz-za-stare-polskie-monety-mozna-sporo-zarobic/ar/c1p2-28022573",
-            "description": "Obejrzyj lepiej dok\u0142adnie monety, kt\u00f3re masz w domu. Ich warto\u015b\u0107 jest dzisiaj najpewniej znacznie wi\u0119ksza, ni\u017c przypuszczasz.",
-            "image_url": "https://www.bing.pl/th?id=OVFT.8dtwSkHXLhWwG4C-W8CaIy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "description": "Obejrzyj lepiej dok\u0142adnie monety, kt\u00f3re masz w domu. Ich warto\u015b\u0107 jest dzisiaj najpewniej znacznie wi\u0119ksza, ni\u017c przypuszczasz. Niekt\u00f3re egzemplarze osi\u0105gaj\u0105 ceny tysi\u0119cy z\u0142otych. Przedstawiamy ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.U7tHWt6afQwcI4sCY6tjaA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "Nowa Trybuna Opolska9 godz.",
+            "date": "Nowa Trybuna Opolska14 godz.",
             "source": "Nowa Trybuna Opolska",
             "article_content": "Content not available"
         }
@@ -103,10 +103,10 @@
         "body": {
             "title": "Stare monety z czas\u00f3w PRL-u warte fortun\u0119. Kolekcjonerzy w\u0142a\u015bnie ich szukaj\u0105! [ZDJ\u0118CIA] 19.11.2025",
             "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/stare-monety-z-czas%C3%B3w-prl-u-warte-fortun%C4%99-kolekcjonerzy-w%C5%82a%C5%9Bnie-ich-szukaj%C4%85-zdj%C4%99cia/ar-AA1QKM0p?ocid=BingNewsVerp",
-            "description": "Na starych monetach z czas\u00f3w PRL-u mo\u017cna zarobi\u0107 du\u017co pieni\u0119dzy. Wycena monet zale\u017cy od ich stanu zachowania, a dobrze ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.ACm41xAt-ckCESAEZVdUXy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "description": "Na starych monetach z czas\u00f3w PRL-u mo\u017cna zarobi\u0107 du\u017co pieni\u0119dzy. Wycena monet zale\u017cy od ich stanu zachowania, a dobrze utrzymane egzemplarze s\u0105 szczeg\u00f3lnie cenione. W galerii przedstawiamy za ile ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski on MSN1 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN6 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
@@ -119,10 +119,10 @@
         "body": {
             "title": "Oto monety okoliczno\u015bciowe z PRL, za kt\u00f3re p\u0142ac\u0105 teraz grube pieni\u0105dze",
             "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/oto-monety-okoliczno%C5%9Bciowe-z-prl-za-kt%C3%B3re-p%C5%82ac%C4%85-teraz-grube-pieni%C4%85dze/ar-AA1OnUsp?ocid=BingNewsVerp",
-            "description": "Czy w twoim domu wci\u0105\u017c le\u017c\u0105 stare monety z czas\u00f3w PRL? Lepiej to sprawd\u017a, bo teraz s\u0105 warte znacznie wi\u0119cej, ni\u017c mo\u017cna by si\u0119 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.wL8w8AH-uzdWD1xd7QB-VC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "description": "Czy w twoim domu wci\u0105\u017c le\u017c\u0105 stare monety z czas\u00f3w PRL? Lepiej to sprawd\u017a, bo teraz s\u0105 warte znacznie wi\u0119cej, ni\u017c mo\u017cna by si\u0119 spodziewa\u0107. W\u015br\u00f3d nich s\u0105 cz\u0119sto prawdziwe kolekcjonerskie pere\u0142ki, ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.U7tHWt6afQwcI4sCY6tjaA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "Nowa Trybuna Opolska on MSN12 godz.",
+            "date": "Nowa Trybuna Opolska on MSN17 godz.",
             "source": "Nowa Trybuna Opolska on MSN",
             "article_content": ""
         }
@@ -135,10 +135,10 @@
         "body": {
             "title": "Bezp\u0142atna wycena starych monet i banknot\u00f3w. Wielu mieszka\u0144c\u00f3w Krakowa przekona\u0142o si\u0119 ju\u017c, \u017ce maj\u0105 w swoich domach warto\u015bciowe skarby",
             "link": "https://www.msn.com/pl-pl/wiadomosci/polska/bezp%C5%82atna-wycena-starych-monet-i-banknot%C3%B3w-wielu-mieszka%C5%84c%C3%B3w-krakowa-przekona%C5%82o-si%C4%99-ju%C5%BC-%C5%BCe-maj%C4%85-w-swoich-domach-warto%C5%9Bciowe-skarby/ar-AA1QK7dF?ocid=BingNewsVerp",
-            "description": "\u2013 Liczba odwiedzaj\u0105cych jest naprawd\u0119 imponuj\u0105ca, ze spotkania na spotkanie zainteresowanie przerasta nasze oczekiwania.",
-            "image_url": "https://www.bing.pl/th?id=OVFT.yln5FScWqGeanO8IuFko_y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "description": "\u2013 Liczba odwiedzaj\u0105cych jest naprawd\u0119 imponuj\u0105ca, ze spotkania na spotkanie zainteresowanie przerasta nasze oczekiwania. Ostatnio pojawi\u0142o si\u0119 ponad 100 os\u00f3b z monetami i banknotami. Spotkania w ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.XL5bGs_n6w06Ok0ARb1y3Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "Gazeta Krakowska on MSN6 godz.",
+            "date": "Gazeta Krakowska on MSN12 godz.",
             "source": "Gazeta Krakowska on MSN",
             "article_content": ""
         }
@@ -154,7 +154,7 @@
             "description": "Obejrzyj lepiej bardzo dok\u0142adnie monety, kt\u00f3re masz w domu. Ich warto\u015b\u0107 jest dzisiaj najpewniej znacznie wi\u0119ksza, ni\u017c przypuszczasz. Niekt\u00f3re egzemplarze osi\u0105gaj\u0105 ceny si\u0119gaj\u0105ce tysi\u0119cy z\u0142otych. Przed ...",
             "image_url": "https://www.bing.pl/th?id=ODF.U7tHWt6afQwcI4sCY6tjaA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "Nowa Trybuna Opolska on MSN8 godz.",
+            "date": "Nowa Trybuna Opolska on MSN13 godz.",
             "source": "Nowa Trybuna Opolska on MSN",
             "article_content": ""
         }
@@ -170,7 +170,7 @@
             "description": "Dziennik Wschodni - Aktualne wiadomo\u015bci z Lublina, Lubelszczyzny i wschodniej Polski. Codzienne informacje o polityce, samorz\u0105dzie, sporcie, kulturze i biznesie. B\u0105d\u017a na bie\u017c\u0105co z najwa\u017cniejszymi wyda ...",
             "image_url": "https://www.bing.pl/th?id=ODF.gIAxhpE-eTseHxNqAv8hIg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Dziennik Wschodni8 godz.",
+            "date": "Dziennik Wschodni13 godz.",
             "source": "Dziennik Wschodni",
             "article_content": "Od jutra utrudnienia w \u015bcis\u0142ym centrum miasta. T\u0119dy nie przejedziemy\n\nOd soboty 25 maja do wtorku 28 maja w Lublinie zamkni\u0119ty zostanie plac Zamkowy. Nie b\u0119dzie tam mo\u017cna ani wjecha\u0107 ani zaparkowa\u0107. Utrudnienia dotyczy\u0107 b\u0119d\u0105 tak\u017ce innych ulic w okolicy Starego Miasta."
         }
@@ -186,7 +186,7 @@
             "description": "Prokuratura Rejonowa w Bia\u0142ymstoku wszcz\u0119\u0142a \u015bledztwo w sprawie nielegalnego posiadania amunicji. Dw\u00f3ch m\u0119\u017cczyzn \u2013 60-latek i 37-latek \u2013 us\u0142ysza\u0142o zarzuty po tym, jak funkcjonariusze S\u0142u\u017cby Celno-Skarb ...",
             "image_url": "https://www.bing.pl/th?id=ODF.z8szwJPfOZTDo97HvHYzSw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Kurier Poranny on MSN8 godz.",
+            "date": "Kurier Poranny on MSN13 godz.",
             "source": "Kurier Poranny on MSN",
             "article_content": ""
         }
@@ -202,7 +202,7 @@
             "description": "Orange Warsaw Festival rozgrzewa atmosfer\u0119 przed edycj\u0105 2026! 17 listopada pojawi\u0142y si\u0119 d\u0142ugo wyczekiwane og\u0142oszenia ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Warszawa Nasze Miasto9 godz.",
+            "date": "Warszawa Nasze Miasto14 godz.",
             "source": "Warszawa Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -213,14 +213,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Jaros\u0142awskie moto miko\u0142aje",
-            "link": "https://nowiny24.pl/tag/jaroslawskie-moto-mikolaje",
-            "description": "Po raz si\u00f3dmy w Jaros\u0142awiu motocykli\u015bci i wolontariusze zorganizuj\u0105 akcj\u0119 \u201eJaros\u0142awskie Moto Miko\u0142aje Dzieciom'. W tym roku ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.rVZQTBFsMyVqtBMwXvAMly&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "targ+staroci",
-            "date": "Nowiny 2422 godz.",
-            "source": "Nowiny 24",
-            "article_content": "Content not available"
+            "title": "Jak po\u0142\u0105czy\u0107 email marketing z SEO dla maksymalnego zwrotu z inwestycji.",
+            "link": "https://gazeta-lokalna.pl/jak-polaczyc-email-marketing-z-seo-dla-maksymalnego-zwrotu-z-inwestycji/",
+            "description": "W dobie wszechobecnej sztucznej inteligencji i b\u0142yskawicznych wiadomo\u015bci na platformach spo\u0142eczno\u015bciowych, wielu analityk\u00f3w ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.V434BY_9-OYlWf_tt2Ivoi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "Gazeta Lokalna21 godz.",
+            "source": "Gazeta Lokalna",
+            "article_content": "W dobie wszechobecnej sztucznej inteligencji i b\u0142yskawicznych wiadomo\u015bci na platformach spo\u0142eczno\u015bciowych, wielu analityk\u00f3w prorokuje rych\u0142y koniec SEO i marketingu e-mailowego. Czy\u017cby najwi\u0119ksi gracze rynkowi mylili si\u0119, uparcie inwestuj\u0105c w te \u201eprzestarza\u0142e\u201d kana\u0142y? Dane m\u00f3wi\u0105 jasno: rankingi w wyszukiwarkach oraz skrzynki odbiorcze wcale nie s\u0105 martwe, lecz generuj\u0105 astronomiczne ROI.\n\nCzy e-mail i SEO to relikty cyfrowej przesz\u0142o\u015bci, kt\u00f3re nadal rz\u0105dz\u0105 rynkiem?\n\nSp\u00f3jrzmy prawdzie w oczy: gdyby\u015b dzi\u015b zapyta\u0142 marketingowc\u00f3w o najbardziej dochodowe strategie, cz\u0119\u015b\u0107 z nich z pewno\u015bci\u0105 wskaza\u0142aby na TikToka lub najnowsze algorytmy AI zast\u0119puj\u0105ce tradycyjne zapytania w Google. Nic bardziej mylnego, je\u015bli m\u00f3wimy o skali biznesowej. Najnowszy raport HubSpot, The State of Marketing 2025, brutalnie obna\u017ca te mity. Dla marek B2B to SEO, strony internetowe i blogi pozostaj\u0105 kluczowymi kana\u0142ami. Z kolei w sferze B2C, to w\u0142a\u015bnie marketing e-mailowy wygenerowa\u0142 najlepszy zwrot z inwestycji. A jako za\u0142o\u017cyciel platformy do e-mail marketingu, widzia\u0142em na w\u0142asne oczy, jak 80% dominacji poczty elektronicznej w komunikacji wychodz\u0105cej (wed\u0142ug bada\u0144 Selzy) przek\u0142ada si\u0119 na realne wyniki. Klucz tkwi w synergii, a nie w rezygnacji z jednego na rzecz drugiego. Poni\u017cej przedstawiam cztery sprawdzone metody, aby zintegrowa\u0107 dynamiczny e-mail marketing z solidn\u0105 strategi\u0105 SEO.\n\nBudowanie bazy subskrybent\u00f3w: Twoja strona internetowa jako magnes na leady\n\nNie oszukujmy si\u0119, skuteczny e-mail marketing bez zaanga\u017cowanej bazy subskrybent\u00f3w to tylko marnotrawstwo zasob\u00f3w. Kto lepiej nadaje si\u0119 na Tw\u00f3j zas\u00f3b ni\u017c osoby, kt\u00f3re ju\u017c po\u015bwi\u0119ci\u0142y czas na konsumpcj\u0119 tre\u015bci na Twojej stronie? Twoje najlepsze posty na blogu czy artyku\u0142y poradnikowe pe\u0142ni\u0105 funkcj\u0119 niemego sprzedawcy newslettera. W zasadzie oferujesz odwiedzaj\u0105cym mo\u017cliwo\u015b\u0107 \u201edrugiej porcji\u201d warto\u015bciowych tre\u015bci prosto do ich skrzynek.\n\nTo tutaj wchodzi do gry lead magnet. Prosty, ale warto\u015bciowy checklist lub dog\u0142\u0119bny przewodnik nie tylko zbierze adresy e-mail, ale sam w sobie mo\u017ce sta\u0107 si\u0119 \u2013 po niewielkiej adaptacji \u2013 kolejnym elementem Twojego arsena\u0142u SEO. Co wi\u0119cej, ta taktyka radykalnie poprawia segmentacj\u0119. Subskrybent, kt\u00f3ry zapisa\u0142 si\u0119 przez stron\u0119 dedykowan\u0105 konkretnemu produktowi, oczekuje spersonalizowanych wiadomo\u015bci dotycz\u0105cych tej kategorii \u2013 to z automatu zwi\u0119ksza zaanga\u017cowanie i retencj\u0119.\n\nE-mail jako tajna bro\u0144 w badaniu s\u0142\u00f3w kluczowych: Omijanie trudno\u015bci\n\nCho\u0107 wsp\u00f3\u0142czesne podej\u015bcie do SEO k\u0142adzie nacisk na autentyczno\u015b\u0107, do\u015bwiadczenie, ekspertyz\u0119 i wiarygodno\u015b\u0107 (E-E-A-T), s\u0142owa kluczowe nadal stanowi\u0105 ko\u015bci szkieletowe widoczno\u015bci. Oczywi\u015bcie, narz\u0119dzia takie jak Semrush czy Ahrefs s\u0105 niezb\u0119dne, ale zapominamy, \u017ce nasza skrzynka odbiorcza to \u017cywe laboratorium badawcze.\n\nJak zamieni\u0107 e-mail w narz\u0119dzie do keyword researchu? Obserwuj tematy, kt\u00f3re rezonuj\u0105 z Twoimi odbiorcami. Skup si\u0119 na analizie temat\u00f3w przewodnich i fraz, kt\u00f3re generuj\u0105 najwy\u017csze wska\u017aniki otwar\u0107. To s\u0105 przecie\u017c s\u0142owa, kt\u00f3re natychmiast przyci\u0105gn\u0119\u0142y uwag\u0119 Twojej grupy docelowej. Mo\u017cesz p\u00f3j\u015b\u0107 o krok dalej i zastosowa\u0107 podej\u015bcie bezpo\u015brednie. Ankiety dla subskrybent\u00f3w, pytaj\u0105ce, o czym chcieliby dowiedzie\u0107 si\u0119 wi\u0119cej, to podw\u00f3jna korzy\u015b\u0107: budujesz zaanga\u017cowanie i generujesz idealne pomys\u0142y na content pod SEO. Pami\u0119taj, \u017ce cho\u0107 narz\u0119dzia SEO s\u0105 wa\u017cne, w tym kontek\u015bcie mo\u017cesz zignorowa\u0107 wska\u017anik \u201etrudno\u015bci s\u0142owa kluczowego\u201d. Celem jest tworzenie tre\u015bci, o kt\u00f3rych Twoi odbiorcy chc\u0105 czyta\u0107, a niekoniecznie wyprzedzanie gigant\u00f3w w danym temacie.\n\nUser-Generated Content: Dow\u00f3d spo\u0142eczny i niewykorzystane frazy SEO\n\nMarketingowy potencja\u0142 e-maila jako dwukierunkowego kana\u0142u komunikacji jest cz\u0119sto niedoceniany, szczeg\u00f3lnie gdy koncentrujemy si\u0119 na nim jako narz\u0119dziu do masowego wysy\u0142ania ofert. To idealny wehiku\u0142 do pozyskiwania social proof, kt\u00f3ry bezpo\u015brednio wspiera E-E-A-T Twojej marki.\n\nW praktyce oznacza to proste e-maile z pro\u015bb\u0105 o recenzj\u0119 po ostatnim zakupie lub pro\u015bb\u0119 skierowan\u0105 do u\u017cytkownik\u00f3w SaaS o ocen\u0119 niedawnej interakcji z platform\u0105. Zanim jednak opublikujesz te opinie, koniecznie uzyskaj pisemn\u0105 zgod\u0119 \u2013 i znowu, e-mail jest do tego najprostszym narz\u0119dziem. Co ciekawe, kr\u00f3tka recenzja, cho\u0107 ograniczona do kilku zda\u0144, cz\u0119sto zawiera frazy wyszukiwane przez potencjalnych klient\u00f3w. Recenzja przestaje by\u0107 tylko sygna\u0142em zaufania, staj\u0105c si\u0119 fragmentem tre\u015bci bogatym w s\u0142owa kluczowe. Nie ograniczaj si\u0119 tylko do w\u0142asnych klient\u00f3w. Dlaczego by nie zaadresowa\u0107 spersonalizowanego e-maila do influencer\u00f3w z bran\u017cy po wprowadzeniu nowego produktu? Taka wiadomo\u015b\u0107 ma potencja\u0142 nie tylko na zdobycie warto\u015bciowej wzmianki, ale i na uzyskanie cennego \u201ebacklinka\u201d.\n\nPonowne wykorzystanie tre\u015bci: Optymalizacja wysi\u0142ku, maksymalizacja zasi\u0119gu\n\nNiezale\u017cnie od tego, czy pracujesz nad agresywn\u0105 kampani\u0105 e-mailow\u0105, czy d\u0105\u017cysz do poprawy swojej widoczno\u015bci w wynikach wyszukiwania, potrzebujesz contentu. Cho\u0107 format e-maila r\u00f3\u017cni si\u0119 od d\u0142ugiego artyku\u0142u blogowego, pierwotny przekaz mo\u017ce by\u0107 uniwersalny.\n\nMo\u017cesz w newsletterze zawrze\u0107 streszczenie najwa\u017cniejszych wniosk\u00f3w z najnowszego case study lub artyku\u0142u na stronie, a nast\u0119pnie zamie\u015bci\u0107 link do pe\u0142nej wersji, efektywnie kieruj\u0105c ruch z powrotem na swoj\u0105 domen\u0119. To dzia\u0142a tak\u017ce w drug\u0105 stron\u0119. Warto wzi\u0105\u0107 topowy e-mail, kt\u00f3ry osi\u0105gn\u0105\u0142 \u015bwietne wyniki, i rozbudowa\u0107 go, publikuj\u0105c jako artyku\u0142 na swojej stronie lub jako tre\u015b\u0107 na stronie docelowej (landing page). Je\u017celi wydaje si\u0119 to zbyt czasoch\u0142onne, po prostu udost\u0119pnij najlepsze e-maile w publicznym archiwum online. To nie tylko pomo\u017ce Twojej stronie zyska\u0107 rankingi dla okre\u015blonych fraz, ale tak\u017ce zach\u0119ci odwiedzaj\u0105cych do subskrypcji, gdy zobacz\u0105 jako\u015b\u0107 regularnie dostarczanych tre\u015bci. Efektywny marketing wymaga ci\u0105g\u0142ej r\u00f3wnowagi mi\u0119dzy akwizycj\u0105 (SEO) a retencj\u0105 (e-mail). Kiedy Twoje materia\u0142y SEO i kampanie e-mailowe m\u00f3wi\u0105 tym samym j\u0119zykiem i poruszaj\u0105 sp\u00f3jne tematy, marka staje si\u0119 automatycznie kojarzona z okre\u015blon\u0105 wiedz\u0105 eksperck\u0105."
         }
     },
     {
@@ -234,7 +234,7 @@
             "description": "Na dziedzi\u0144cu Domu Kopernika w Toruniu odkryto drewniane relikty jednego z najstarszych dom\u00f3w, datowanych na XIII w. To ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.6GzSPjker3Jta1cdLOQVjC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "WP Turystyka9 godz.",
+            "date": "WP Turystyka14 godz.",
             "source": "WP Turystyka",
             "article_content": "Archeolodzy prowadz\u0105cy badania przy Domu Kopernika w Toruniu dokonali niezwyk\u0142ego odkrycia. Ujawnione drewniane struktury datowane s\u0105 na XIII w., co wskazuje, \u017ce w tym regionie zbudowano domy wcze\u015bniej, ni\u017c dotychczas s\u0105dzono. Leszek Kucharski z Muzeum Okr\u0119gowego w Toruniu, b\u0119d\u0105cy kierownikiem bada\u0144, zaznaczy\u0142, \u017ce odkrycie zmienia dotychczasowe wyobra\u017cenia o lokacji miasta.\n\nHistoria, kt\u00f3ra zmienia nasze postrzeganie\n\nDo tej pory uwa\u017cano, \u017ce pierwsze budowle w Toruniu by\u0142y murowane, a przed nimi w tym miejscu nic nie by\u0142o. Nowe znaleziska podwa\u017caj\u0105 t\u0119 teori\u0119. Leszek Kucharski w rozmowie z PAP wyja\u015bni\u0142, \u017ce odnalezione relikty to pozosta\u0142o\u015bci jednego z najstarszych toru\u0144skich dom\u00f3w. Ich obecno\u015b\u0107 mo\u017ce wskazywa\u0107 na zupe\u0142nie inny uk\u0142ad zabudowy ni\u017c ten znany z p\u00f3\u017aniejszych wiek\u00f3w.\n\n- Sk\u0142aniamy si\u0119 coraz bardziej ku zdaniu, \u017ce mamy tu do czynienia z domem. D\u0142ugo si\u0119 wahali\u015bmy, bo wed\u0142ug historyk\u00f3w podzia\u0142 dzia\u0142ek w tym miejscu by\u0142 od pocz\u0105tku taki sam. Tutaj udowodnili\u015bmy, \u017ce tak nie by\u0142o, a obecny podzia\u0142 dzia\u0142ek w tym miejscu jest bardziej wsp\u00f3\u0142czesny, a kiedy\u015b zabudowa by\u0142a zupe\u0142nie inna - powiedzia\u0142 PAP Kucharski.\n\nMiejsce tylko dla rodzin z dzie\u0107mi. \"To jest najpi\u0119kniejsze\"\n\nArcheolodzy odkryli ponadto w pobli\u017cu drewnianych relikt\u00f3w domu zagrod\u0119 dla zwierz\u0105t. - Najpewniej by\u0142a to zagroda dla jakich\u015b zwierz\u0105t - \u015bwi\u0144 czy k\u00f3z. To by\u0142 taki kompleks gospodarczy. Do niedawna by\u0142o domniemanie, \u017ce przyszli Krzy\u017cacy i zacz\u0119li stawia\u0107 budowle murowane, a tu okazuje si\u0119, \u017ce nie. Datowania dok\u0142adnie b\u0119dziemy mieli dzi\u0119ki badaniom dendrochronologicznym. W tej chwili oceniamy, \u017ce poruszamy si\u0119 w okresie XIII w., do po\u0142owy XIV w. i budowy kamienicy domu Kopernik\u00f3w - wyja\u015bni\u0142 archeolog.\n\nRozwi\u0144\n\nWyj\u0105tkowe odkrycie i przysz\u0142e plany\n\nDrewniana \u015bciana ci\u0105gnie si\u0119 pod murem otaczaj\u0105cym Dom Kopernika, jednak badania musz\u0105 by\u0107 przerwane z uwagi na ryzyko zawalenia. - Dalej i\u015b\u0107 nie mo\u017cemy obecnie, bo grozi to katastrof\u0105 budowlan\u0105. To s\u0105 negatywne elementy kopania w miastach, gdzie jeste\u015bmy ograniczeni bardzo miejscem i zabudow\u0105 - doda\u0142."
         }
@@ -250,40 +250,8 @@
             "description": "- To cenne elementy konstrukcyjne obronnego wa\u0142u z czas\u00f3w Kazimierza Odnowiciela - m\u00f3wi prof. Wojciech Chudziak. - Wa\u0142 zosta\u0142 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.xQd7gycs0kHl0pWPxvOZzi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Bydgoszcz.Wyborcza.pl4 godz.",
+            "date": "Bydgoszcz.Wyborcza.pl9 godz.",
             "source": "Bydgoszcz.Wyborcza.pl",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Jak po\u0142\u0105czy\u0107 email marketing z SEO dla maksymalnego zwrotu z inwestycji.",
-            "link": "https://gazeta-lokalna.pl/jak-polaczyc-email-marketing-z-seo-dla-maksymalnego-zwrotu-z-inwestycji/",
-            "description": "W dobie wszechobecnej sztucznej inteligencji i b\u0142yskawicznych wiadomo\u015bci na platformach spo\u0142eczno\u015bciowych, wielu analityk\u00f3w ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.V434BY_9-OYlWf_tt2Ivoi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "Gazeta Lokalna15 godz.",
-            "source": "Gazeta Lokalna",
-            "article_content": "W dobie wszechobecnej sztucznej inteligencji i b\u0142yskawicznych wiadomo\u015bci na platformach spo\u0142eczno\u015bciowych, wielu analityk\u00f3w prorokuje rych\u0142y koniec SEO i marketingu e-mailowego. Czy\u017cby najwi\u0119ksi gracze rynkowi mylili si\u0119, uparcie inwestuj\u0105c w te \u201eprzestarza\u0142e\u201d kana\u0142y? Dane m\u00f3wi\u0105 jasno: rankingi w wyszukiwarkach oraz skrzynki odbiorcze wcale nie s\u0105 martwe, lecz generuj\u0105 astronomiczne ROI.\n\nCzy e-mail i SEO to relikty cyfrowej przesz\u0142o\u015bci, kt\u00f3re nadal rz\u0105dz\u0105 rynkiem?\n\nSp\u00f3jrzmy prawdzie w oczy: gdyby\u015b dzi\u015b zapyta\u0142 marketingowc\u00f3w o najbardziej dochodowe strategie, cz\u0119\u015b\u0107 z nich z pewno\u015bci\u0105 wskaza\u0142aby na TikToka lub najnowsze algorytmy AI zast\u0119puj\u0105ce tradycyjne zapytania w Google. Nic bardziej mylnego, je\u015bli m\u00f3wimy o skali biznesowej. Najnowszy raport HubSpot, The State of Marketing 2025, brutalnie obna\u017ca te mity. Dla marek B2B to SEO, strony internetowe i blogi pozostaj\u0105 kluczowymi kana\u0142ami. Z kolei w sferze B2C, to w\u0142a\u015bnie marketing e-mailowy wygenerowa\u0142 najlepszy zwrot z inwestycji. A jako za\u0142o\u017cyciel platformy do e-mail marketingu, widzia\u0142em na w\u0142asne oczy, jak 80% dominacji poczty elektronicznej w komunikacji wychodz\u0105cej (wed\u0142ug bada\u0144 Selzy) przek\u0142ada si\u0119 na realne wyniki. Klucz tkwi w synergii, a nie w rezygnacji z jednego na rzecz drugiego. Poni\u017cej przedstawiam cztery sprawdzone metody, aby zintegrowa\u0107 dynamiczny e-mail marketing z solidn\u0105 strategi\u0105 SEO.\n\nBudowanie bazy subskrybent\u00f3w: Twoja strona internetowa jako magnes na leady\n\nNie oszukujmy si\u0119, skuteczny e-mail marketing bez zaanga\u017cowanej bazy subskrybent\u00f3w to tylko marnotrawstwo zasob\u00f3w. Kto lepiej nadaje si\u0119 na Tw\u00f3j zas\u00f3b ni\u017c osoby, kt\u00f3re ju\u017c po\u015bwi\u0119ci\u0142y czas na konsumpcj\u0119 tre\u015bci na Twojej stronie? Twoje najlepsze posty na blogu czy artyku\u0142y poradnikowe pe\u0142ni\u0105 funkcj\u0119 niemego sprzedawcy newslettera. W zasadzie oferujesz odwiedzaj\u0105cym mo\u017cliwo\u015b\u0107 \u201edrugiej porcji\u201d warto\u015bciowych tre\u015bci prosto do ich skrzynek.\n\nTo tutaj wchodzi do gry lead magnet. Prosty, ale warto\u015bciowy checklist lub dog\u0142\u0119bny przewodnik nie tylko zbierze adresy e-mail, ale sam w sobie mo\u017ce sta\u0107 si\u0119 \u2013 po niewielkiej adaptacji \u2013 kolejnym elementem Twojego arsena\u0142u SEO. Co wi\u0119cej, ta taktyka radykalnie poprawia segmentacj\u0119. Subskrybent, kt\u00f3ry zapisa\u0142 si\u0119 przez stron\u0119 dedykowan\u0105 konkretnemu produktowi, oczekuje spersonalizowanych wiadomo\u015bci dotycz\u0105cych tej kategorii \u2013 to z automatu zwi\u0119ksza zaanga\u017cowanie i retencj\u0119.\n\nE-mail jako tajna bro\u0144 w badaniu s\u0142\u00f3w kluczowych: Omijanie trudno\u015bci\n\nCho\u0107 wsp\u00f3\u0142czesne podej\u015bcie do SEO k\u0142adzie nacisk na autentyczno\u015b\u0107, do\u015bwiadczenie, ekspertyz\u0119 i wiarygodno\u015b\u0107 (E-E-A-T), s\u0142owa kluczowe nadal stanowi\u0105 ko\u015bci szkieletowe widoczno\u015bci. Oczywi\u015bcie, narz\u0119dzia takie jak Semrush czy Ahrefs s\u0105 niezb\u0119dne, ale zapominamy, \u017ce nasza skrzynka odbiorcza to \u017cywe laboratorium badawcze.\n\nJak zamieni\u0107 e-mail w narz\u0119dzie do keyword researchu? Obserwuj tematy, kt\u00f3re rezonuj\u0105 z Twoimi odbiorcami. Skup si\u0119 na analizie temat\u00f3w przewodnich i fraz, kt\u00f3re generuj\u0105 najwy\u017csze wska\u017aniki otwar\u0107. To s\u0105 przecie\u017c s\u0142owa, kt\u00f3re natychmiast przyci\u0105gn\u0119\u0142y uwag\u0119 Twojej grupy docelowej. Mo\u017cesz p\u00f3j\u015b\u0107 o krok dalej i zastosowa\u0107 podej\u015bcie bezpo\u015brednie. Ankiety dla subskrybent\u00f3w, pytaj\u0105ce, o czym chcieliby dowiedzie\u0107 si\u0119 wi\u0119cej, to podw\u00f3jna korzy\u015b\u0107: budujesz zaanga\u017cowanie i generujesz idealne pomys\u0142y na content pod SEO. Pami\u0119taj, \u017ce cho\u0107 narz\u0119dzia SEO s\u0105 wa\u017cne, w tym kontek\u015bcie mo\u017cesz zignorowa\u0107 wska\u017anik \u201etrudno\u015bci s\u0142owa kluczowego\u201d. Celem jest tworzenie tre\u015bci, o kt\u00f3rych Twoi odbiorcy chc\u0105 czyta\u0107, a niekoniecznie wyprzedzanie gigant\u00f3w w danym temacie.\n\nUser-Generated Content: Dow\u00f3d spo\u0142eczny i niewykorzystane frazy SEO\n\nMarketingowy potencja\u0142 e-maila jako dwukierunkowego kana\u0142u komunikacji jest cz\u0119sto niedoceniany, szczeg\u00f3lnie gdy koncentrujemy si\u0119 na nim jako narz\u0119dziu do masowego wysy\u0142ania ofert. To idealny wehiku\u0142 do pozyskiwania social proof, kt\u00f3ry bezpo\u015brednio wspiera E-E-A-T Twojej marki.\n\nW praktyce oznacza to proste e-maile z pro\u015bb\u0105 o recenzj\u0119 po ostatnim zakupie lub pro\u015bb\u0119 skierowan\u0105 do u\u017cytkownik\u00f3w SaaS o ocen\u0119 niedawnej interakcji z platform\u0105. Zanim jednak opublikujesz te opinie, koniecznie uzyskaj pisemn\u0105 zgod\u0119 \u2013 i znowu, e-mail jest do tego najprostszym narz\u0119dziem. Co ciekawe, kr\u00f3tka recenzja, cho\u0107 ograniczona do kilku zda\u0144, cz\u0119sto zawiera frazy wyszukiwane przez potencjalnych klient\u00f3w. Recenzja przestaje by\u0107 tylko sygna\u0142em zaufania, staj\u0105c si\u0119 fragmentem tre\u015bci bogatym w s\u0142owa kluczowe. Nie ograniczaj si\u0119 tylko do w\u0142asnych klient\u00f3w. Dlaczego by nie zaadresowa\u0107 spersonalizowanego e-maila do influencer\u00f3w z bran\u017cy po wprowadzeniu nowego produktu? Taka wiadomo\u015b\u0107 ma potencja\u0142 nie tylko na zdobycie warto\u015bciowej wzmianki, ale i na uzyskanie cennego \u201ebacklinka\u201d.\n\nPonowne wykorzystanie tre\u015bci: Optymalizacja wysi\u0142ku, maksymalizacja zasi\u0119gu\n\nNiezale\u017cnie od tego, czy pracujesz nad agresywn\u0105 kampani\u0105 e-mailow\u0105, czy d\u0105\u017cysz do poprawy swojej widoczno\u015bci w wynikach wyszukiwania, potrzebujesz contentu. Cho\u0107 format e-maila r\u00f3\u017cni si\u0119 od d\u0142ugiego artyku\u0142u blogowego, pierwotny przekaz mo\u017ce by\u0107 uniwersalny.\n\nMo\u017cesz w newsletterze zawrze\u0107 streszczenie najwa\u017cniejszych wniosk\u00f3w z najnowszego case study lub artyku\u0142u na stronie, a nast\u0119pnie zamie\u015bci\u0107 link do pe\u0142nej wersji, efektywnie kieruj\u0105c ruch z powrotem na swoj\u0105 domen\u0119. To dzia\u0142a tak\u017ce w drug\u0105 stron\u0119. Warto wzi\u0105\u0107 topowy e-mail, kt\u00f3ry osi\u0105gn\u0105\u0142 \u015bwietne wyniki, i rozbudowa\u0107 go, publikuj\u0105c jako artyku\u0142 na swojej stronie lub jako tre\u015b\u0107 na stronie docelowej (landing page). Je\u017celi wydaje si\u0119 to zbyt czasoch\u0142onne, po prostu udost\u0119pnij najlepsze e-maile w publicznym archiwum online. To nie tylko pomo\u017ce Twojej stronie zyska\u0107 rankingi dla okre\u015blonych fraz, ale tak\u017ce zach\u0119ci odwiedzaj\u0105cych do subskrypcji, gdy zobacz\u0105 jako\u015b\u0107 regularnie dostarczanych tre\u015bci. Efektywny marketing wymaga ci\u0105g\u0142ej r\u00f3wnowagi mi\u0119dzy akwizycj\u0105 (SEO) a retencj\u0105 (e-mail). Kiedy Twoje materia\u0142y SEO i kampanie e-mailowe m\u00f3wi\u0105 tym samym j\u0119zykiem i poruszaj\u0105 sp\u00f3jne tematy, marka staje si\u0119 automatycznie kojarzona z okre\u015blon\u0105 wiedz\u0105 eksperck\u0105."
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Tury\u015bci na szczycie Wielkiego Szyszaka, wspi\u0119li si\u0119 na pomnik. KPN: Brak odpowiedzialno\u015bci i wyobra\u017ani",
-            "link": "https://wroclaw.wyborcza.pl/wroclaw/7,142076,32403729,turysci-na-szczycie-wielkiego-szyszaka-wspieli-sie-na-pomnik.html",
-            "description": "Wielki Szyszak to czwarty pod wzgl\u0119dem wysoko\u015bci szczyt Karkonoszy. S\u0105 tam chronione organizmy pi\u0119tra alpejskiego, ale nie ma ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.-ZddSVuN_kafGilwA06G3i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "Wroc\u0142aw.Wyborcza.pl5 godz.",
-            "source": "Wroc\u0142aw.Wyborcza.pl",
             "article_content": ""
         }
     },
@@ -298,9 +266,41 @@
             "description": "Zanim wyruszysz w drog\u0119, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 22 listopada w Sieradzu ma by\u0107 1\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.aS2Ewb9N11zer5GoLoYrVy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Sieradz Nasze Miasto5 godz.",
+            "date": "Sieradz Nasze Miasto10 godz.",
             "source": "Sieradz Nasze Miasto",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Trasy nordic walking do 5 km od Ko\u0142obrzegu. Urokliwe trasy na weekend 22 - 23 listopada",
+            "link": "https://kolobrzeg.naszemiasto.pl/trasy-nordic-walking-do-5-km-od-kolobrzegu-urokliwe-trasy-na-weekend-22-23-listopada/ar/c7p1-22319027",
+            "description": "Szukasz ciekawych tras do nordic walking w pobli\u017cu Ko\u0142obrzegu? Wsp\u00f3lnie z Traseo przygotowali\u015bmy dla Ciebie gar\u015b\u0107 propozycji ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.UbqukOCtCJAT8ExLf-yb_S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "Ko\u0142obrzeg Nasze Miasto11 godz.",
+            "source": "Ko\u0142obrzeg Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Ma\u0142y Pary\u017c. S\u0142awno Pary\u017c p\u00f3\u0142nocy. Zobaczcie niezwyk\u0142e rzeczy z miasta na Pomorzu. Zdj\u0119cia",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/ma%C5%82y-pary%C5%BC-s%C5%82awno-pary%C5%BC-p%C3%B3%C5%82nocy-zobaczcie-niezwyk%C5%82e-rzeczy-z-miasta-na-pomorzu-zdj%C4%99cia/ar-AA1QLlSV?ocid=BingNewsVerp",
+            "description": "Ma\u0142y Pary\u017c, Pary\u017c p\u00f3\u0142nocy... Oto niesamowite pami\u0105tki - stare zdj\u0119cia ze S\u0142awna sprzed II wojny \u015bwiatowej, z jej czas\u00f3w i po ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.VNXIAC04K3R3Y2-FRE09nC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "S\u0142awno Naszemiasto on MSN3 godz.",
+            "source": "S\u0142awno Naszemiasto on MSN",
+            "article_content": ""
         }
     },
     {
@@ -314,7 +314,7 @@
             "description": "Nordic walking w woj. \u015bl\u0105skim da si\u0119 trenowa\u0107 w wielu miejscach. Ale zach\u0119camy do wybrania \u015bcie\u017cek, kt\u00f3re polecaj\u0105 inni ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.irT4TBKmJTEdEbjdsa1cAy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Dziennik Zachodni6 godz.",
+            "date": "Dziennik Zachodni11 godz.",
             "source": "Dziennik Zachodni",
             "article_content": "Content not available"
         }
@@ -327,10 +327,10 @@
         "body": {
             "title": "Tyle kolekcjonerzy p\u0142ac\u0105 teraz za stare polskie monety. Mo\u017cna sporo zarobi\u0107",
             "link": "https://nto.pl/tyle-kolekcjonerzy-placa-teraz-za-stare-polskie-monety-mozna-sporo-zarobic/ar/c1p2-28022573",
-            "description": "Obejrzyj lepiej dok\u0142adnie monety, kt\u00f3re masz w domu. Ich warto\u015b\u0107 jest dzisiaj najpewniej znacznie wi\u0119ksza, ni\u017c przypuszczasz. Niekt\u00f3re egzemplarze osi\u0105gaj\u0105 ceny tysi\u0119cy z\u0142otych. Przedstawiamy ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.U7tHWt6afQwcI4sCY6tjaA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "description": "Obejrzyj lepiej dok\u0142adnie monety, kt\u00f3re masz w domu. Ich warto\u015b\u0107 jest dzisiaj najpewniej znacznie wi\u0119ksza, ni\u017c przypuszczasz.",
+            "image_url": "https://www.bing.pl/th?id=OVFT.8dtwSkHXLhWwG4C-W8CaIy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Nowa Trybuna Opolska9 godz.",
+            "date": "Nowa Trybuna Opolska14 godz.",
             "source": "Nowa Trybuna Opolska",
             "article_content": "Content not available"
         }
@@ -343,10 +343,10 @@
         "body": {
             "title": "Bezp\u0142atna wycena starych monet i banknot\u00f3w. Wielu mieszka\u0144c\u00f3w Krakowa przekona\u0142o si\u0119 ju\u017c, \u017ce maj\u0105 w swoich domach warto\u015bciowe skarby",
             "link": "https://www.msn.com/pl-pl/wiadomosci/polska/bezp%C5%82atna-wycena-starych-monet-i-banknot%C3%B3w-wielu-mieszka%C5%84c%C3%B3w-krakowa-przekona%C5%82o-si%C4%99-ju%C5%BC-%C5%BCe-maj%C4%85-w-swoich-domach-warto%C5%9Bciowe-skarby/ar-AA1QK7dF?ocid=BingNewsVerp",
-            "description": "\u2013 Liczba odwiedzaj\u0105cych jest naprawd\u0119 imponuj\u0105ca, ze spotkania na spotkanie zainteresowanie przerasta nasze oczekiwania. Ostatnio pojawi\u0142o si\u0119 ponad 100 os\u00f3b z monetami i banknotami. Spotkania w ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.XL5bGs_n6w06Ok0ARb1y3Q&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "description": "\u2013 Liczba odwiedzaj\u0105cych jest naprawd\u0119 imponuj\u0105ca, ze spotkania na spotkanie zainteresowanie przerasta nasze oczekiwania.",
+            "image_url": "https://www.bing.pl/th?id=OVFT.yln5FScWqGeanO8IuFko_y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Krakowska on MSN6 godz.",
+            "date": "Gazeta Krakowska on MSN12 godz.",
             "source": "Gazeta Krakowska on MSN",
             "article_content": ""
         }
@@ -359,10 +359,10 @@
         "body": {
             "title": "Oto monety okoliczno\u015bciowe z PRL, za kt\u00f3re p\u0142ac\u0105 teraz grube pieni\u0105dze",
             "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/oto-monety-okoliczno%C5%9Bciowe-z-prl-za-kt%C3%B3re-p%C5%82ac%C4%85-teraz-grube-pieni%C4%85dze/ar-AA1OnUsp?ocid=BingNewsVerp",
-            "description": "Czy w twoim domu wci\u0105\u017c le\u017c\u0105 stare monety z czas\u00f3w PRL? Lepiej to sprawd\u017a, bo teraz s\u0105 warte znacznie wi\u0119cej, ni\u017c mo\u017cna by si\u0119 spodziewa\u0107. W\u015br\u00f3d nich s\u0105 cz\u0119sto prawdziwe kolekcjonerskie pere\u0142ki, ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.U7tHWt6afQwcI4sCY6tjaA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "description": "Czy w twoim domu wci\u0105\u017c le\u017c\u0105 stare monety z czas\u00f3w PRL? Lepiej to sprawd\u017a, bo teraz s\u0105 warte znacznie wi\u0119cej, ni\u017c mo\u017cna by si\u0119 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.wL8w8AH-uzdWD1xd7QB-VC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Nowa Trybuna Opolska on MSN12 godz.",
+            "date": "Nowa Trybuna Opolska on MSN17 godz.",
             "source": "Nowa Trybuna Opolska on MSN",
             "article_content": ""
         }
@@ -374,13 +374,13 @@
         },
         "body": {
             "title": "Monety z czas\u00f3w PRL. Zobacz, kt\u00f3re s\u0105 warte fortun\u0119! 19.11.2025",
-            "link": "https://gk24.pl/monety-z-czasow-prl-zobacz-ktore-sa-warte-fortune-19-11-2025/ar/c1p2-28051177",
-            "description": "Monety z czas\u00f3w Polskiej Rzeczpospolitej Ludowej ciesz\u0105 si\u0119 coraz wi\u0119kszym zainteresowaniem oraz wzrasta ich warto\u015b\u0107, najcz\u0119\u015bciej zale\u017cna od ilo\u015bci zachowanych egzemplarzy oraz stanu zachowania.",
-            "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/monety-z-czas%C3%B3w-prl-zobacz-kt%C3%B3re-s%C4%85-warte-fortun%C4%99/ar-AA1QCiZX?ocid=BingNewsVerp",
+            "description": "Monety z czas\u00f3w Polskiej Rzeczpospolitej Ludowej ciesz\u0105 si\u0119 coraz wi\u0119kszym zainteresowaniem oraz wzrasta ich warto\u015b\u0107, ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.jM-JjPT_RXGe5uOBVIZrui&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Koszali\u0144ski15 godz.",
-            "source": "G\u0142os Koszali\u0144ski",
-            "article_content": "Content not available"
+            "date": "G\u0142os Koszali\u0144ski on MSN21 godz.",
+            "source": "G\u0142os Koszali\u0144ski on MSN",
+            "article_content": ""
         }
     },
     {
@@ -389,14 +389,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Taka 5 z\u0142ot\u00f3wka i inne monety s\u0105 w cenie z\u0142ota. Sprawd\u017a, ile mo\u017cna na nich zarobi\u0107!",
-            "link": "https://www.msn.com/pl-pl/historia-i-kultura-spo%C5%82ecze%C5%84stwa/historia/taka-5-z%C5%82ot%C3%B3wka-i-inne-monety-s%C4%85-w-cenie-z%C5%82ota-sprawd%C5%BA-ile-mo%C5%BCna-na-nich-zarobi%C4%87/ar-AA1QGOd9?ocid=BingNewsVerp",
-            "description": "W naszych domach mog\u0105 si\u0119 kry\u0107 prawdziwe skarby. Warto przejrze\u0107 pud\u0142a ze starymi rzeczami, pami\u0105tkami, pawlacze i schowki, ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.HWzaOzIrx_ukoLz1Y0QaDC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Filmowa Jesie\u0144 z Histori\u0105 Wis\u0142y",
+            "link": "https://dziennikpolski24.pl/tag/filmowa-jesien-z-historia-wisly",
+            "description": "To ju\u017c trzecia Filmowa Jesie\u0144 z Histori\u0105 Wis\u0142y. Tym razem w Kinie Agrafka mogli\u015bmy zobaczy\u0107 dokument zatytu\u0142owany \u201eZakochany ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.36QWaaeD08Zles_1E7kBgC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Pomorska on MSN23 godz.",
-            "source": "Gazeta Pomorska on MSN",
-            "article_content": ""
+            "date": "Dziennik Polski3 godz.",
+            "source": "Dziennik Polski",
+            "article_content": "Content not available"
         }
     }
 ]
