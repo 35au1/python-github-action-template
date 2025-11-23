@@ -5,13 +5,29 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Pchli targ w Toruniu. Oto oferta z przedostatniego w listopadzie!",
-            "link": "https://www.msn.com/pl-pl/shopping/og%C3%B3lne/pchli-targ-w-toruniu-oto-oferta-z-przedostatniego-w-listopadzie/ar-AA1QZbUK?ocid=BingNewsVerp",
-            "description": "A wracaj\u0105c do pchlego targu z niedzieli 23 listopada - na stoiskach wielu oferta szeroka by\u0142a. W\u0119druj\u0105cy od jednego do ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.92Yz-amhTUpBD2Sp0CVLki&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Pchli Targ we W\u0142oc\u0142awku - 23 listopada 2025. Du\u017co staroci i \u015bwi\u0105tecznych ozd\u00f3b. Zdj\u0119cia, ceny, wideo",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/pchli-targ-we-w%C5%82oc%C5%82awku-23-listopada-2025-du%C5%BCo-staroci-i-%C5%9Bwi%C4%85tecznych-ozd%C3%B3b-zdj%C4%99cia-ceny-wideo/ar-AA1QZcFL?ocid=BingNewsVerp",
+            "description": "Na Pchlim Targu ka\u017cdy znajdzie co\u015b dla siebie \u2013 nie inaczej by\u0142o w niedziel\u0119, 23 listopada 2025 roku. Targowisko przy alei ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.ZP9bZUXCwXUfoIqQY6nzly&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN37 min",
-            "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
+            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN3 godz.",
+            "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Listopadowa gie\u0142da samochodowa w Bia\u0142ymstoku. Zobacz, jakie auta pojawi\u0142y si\u0119 w ofercie sprzedaj\u0105cych",
+            "link": "https://www.msn.com/pl-pl/motoryzacja/wiadomosci/listopadowa-gie%C5%82da-samochodowa-w-bia%C5%82ymstoku-zobacz-jakie-auta-pojawi%C5%82y-si%C4%99-w-ofercie-sprzedaj%C4%85cych/ar-AA1QZsZW?ocid=BingNewsVerp",
+            "description": "Niedzielne targowisko przy ul. Andersa w Bia\u0142ymstoku tradycyjnie przyci\u0105gn\u0119\u0142o mi\u0142o\u015bnik\u00f3w motoryzacji. W weekend sprzedaj\u0105cy ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.2EyDoHXnzrhU-fQcApqPGS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Kurier Poranny on MSN2 godz.",
+            "source": "Kurier Poranny on MSN",
             "article_content": ""
         }
     },
@@ -26,8 +42,24 @@
             "description": "We W\u0142oc\u0142awku funkcjonuj\u0105 dwa targowiska miejskie \u2013 przy ul. Kaliskiej oraz przy ul. Zwi\u0105zk\u00f3w Zawodowych \u2013 a tak\u017ce niedzielny ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.pXezvODzoG0FDsmWKj9KTC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN14 godz.",
+            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN18 godz.",
             "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pchli targ w Toruniu. Oto oferta z przedostatniego w listopadzie!",
+            "link": "https://www.msn.com/pl-pl/shopping/og%C3%B3lne/pchli-targ-w-toruniu-oto-oferta-z-przedostatniego-w-listopadzie/ar-AA1QZbUK?ocid=BingNewsVerp",
+            "description": "A wracaj\u0105c do pchlego targu z niedzieli 23 listopada - na stoiskach wielu oferta szeroka by\u0142a. W\u0119druj\u0105cy od jednego do ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.fa412-58gEV8G_hfS_3apy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN4 godz.",
+            "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
             "article_content": ""
         }
     },
@@ -42,24 +74,8 @@
             "description": "W poniedzia\u0142ek, 17 listopada 2025 roku w Chodczu uroczy\u015bcie wr\u0119czono nauczycielom odznaczenia pa\u0144stwowe i resortowe. Ponadto ...",
             "image_url": "https://www.bing.pl/th?id=OVFT._w06QzInkXFXZS1K-LVgWy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Lipno Nasze Miasto4 godz.",
+            "date": "Lipno Nasze Miasto7 godz.",
             "source": "Lipno Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Pras\u00f3wka 23.11.2025 z ca\u0142ego tygodnia w Aleksandrowie Kujawskim. B\u0105d\u017a na bie\u017c\u0105co z wydarzeniami",
-            "link": "https://aleksandrowkujawski.naszemiasto.pl/prasowka-23-11-2025-z-calego-tygodnia-w-aleksandrowie-kujawskim-badz-na-biezaco-z-wydarzeniami/ar/c1p1-28200675",
-            "description": "Od 14 grudnia na lini\u0119 245 Aleksandr\u00f3w Kujawski \u2013 Ciechocinek wracaj\u0105 regularne po\u0142\u0105czenia kolejowe. Samorz\u0105d wojew\u00f3dztwa uruchomi trzyna\u015bcie par poci\u0105g\u00f3w dziennie, a modernizacja trasy i peron\u00f3w ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.Dri2kk9yKZipv1EaLoNOQA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "starocie",
-            "date": "Aleksandr\u00f3w Kujawski Nasze Miasto5 godz.",
-            "source": "Aleksandr\u00f3w Kujawski Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -74,24 +90,8 @@
             "description": "Kolekcjonerzy s\u0105 gotowi p\u0142aci\u0107 wysokie kwoty za stare polskie monety, kt\u00f3re potrafi\u0105 osi\u0105ga\u0107 cen\u0119 nawet kilku tysi\u0119cy z\u0142otych ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.VUpFusXtBVhk0UoJknWtVS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski on MSN7 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN10 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Takie stare banknoty i monety warte s\u0105 krocie. Peerelowskie skarby w naszych szuflach",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/takie-stare-banknoty-i-monety-warte-s%C4%85-krocie-peerelowskie-skarby-w-naszych-szuflach/ar-AA1QWOgA?ocid=BingNewsVerp",
-            "description": "W 2025 roku stare banknoty i monety z czas\u00f3w PRL sta\u0142y si\u0119 prawdziwym hitem w\u015br\u00f3d kolekcjoner\u00f3w. Nie m\u00f3wimy tu tylko o ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.mQG5QxXLu04zPzSEQrJ8Gi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "Gazeta Pomorska on MSN20 godz.",
-            "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
     },
@@ -106,8 +106,24 @@
             "description": "Na starych monetach z czas\u00f3w PRL-u mo\u017cna zarobi\u0107 du\u017co pieni\u0119dzy. Wycena monet zale\u017cy od ich stanu zachowania, a dobrze utrzymane egzemplarze s\u0105 szczeg\u00f3lnie cenione. W galerii przedstawiamy za ile ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski on MSN6 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN10 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Skarby ukryte w domowych szufladach. Te stare monety osi\u0105gaj\u0105 ogromne ceny",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/skarby-ukryte-w-domowych-szufladach-te-stare-monety-osi%C4%85gaj%C4%85-ogromne-ceny/ar-AA1QZkxQ?ocid=BingNewsVerp",
+            "description": "Monety z szuflady zaskakuj\u0105 cenami: Te drobniaki bij\u0105 rekordy na aukcjach Po denominacji z 1990 roku w wielu polskich domach ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.GM4wk20n4UqfdA5BPQ3n0C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "Biznes w INTERIA.PL on MSN2 godz.",
+            "source": "Biznes w INTERIA.PL on MSN",
             "article_content": ""
         }
     },
@@ -122,7 +138,7 @@
             "description": "Monety z PRL mog\u0105 by\u0107 jeszcze bardziej warto\u015bciowe, zw\u0142aszcza te z ma\u0142ych nak\u0142ad\u00f3w lub wydania pr\u00f3bne. Na przyk\u0142ad popularne ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.h_Q9PYUpiOcMcFymhWJeJi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Gazeta Pomorska on MSN17 godz.",
+            "date": "Gazeta Pomorska on MSN21 godz.",
             "source": "Gazeta Pomorska on MSN",
             "article_content": ""
         }
@@ -138,7 +154,7 @@
             "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ...",
             "image_url": "https://www.bing.pl/th?id=OVFT._V-rWLu6pRQ3UWKHtZMwMi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Pomorza7 godz.",
+            "date": "G\u0142os Pomorza10 godz.",
             "source": "G\u0142os Pomorza",
             "article_content": "Content not available"
         }
@@ -154,7 +170,7 @@
             "description": "Po ostatnich ulewach w okolicy S\u0142awna na budowie ekspresowej drogi S6 mamy te\u017c \"sprawdzian\" systemu odprowadzaj\u0105cego ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.2tR6-sPsPxt42kNQ3Un9xy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "S\u0142awno Nasze Miasto on MSN4 godz.",
+            "date": "S\u0142awno Nasze Miasto on MSN7 godz.",
             "source": "S\u0142awno Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -170,7 +186,7 @@
             "description": "W Zdu\u0144skiej Woli jest ustawionych dla kot\u00f3w wolno \u017cyj\u0105cych 19 domk\u00f3w pojedynczych oraz 8 dwupoziomowych i 8 pi\u0119trowych.",
             "image_url": "https://www.bing.pl/th?id=OVFT.DwRce5TDesNOXflEeySAZC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Zdu\u0144ska Wola Nasze Miasto on MSN16 godz.",
+            "date": "Zdu\u0144ska Wola Nasze Miasto on MSN20 godz.",
             "source": "Zdu\u0144ska Wola Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -181,13 +197,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Pchli targ nad Jeziorem w Chmielnikach pod Bydgoszcz\u0105. Tak by\u0142o 22 listopada 2025 - Zobaczcie zdj\u0119cia i wideo",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/pchli-targ-nad-jeziorem-w-chmielnikach-pod-bydgoszcz%C4%85-tak-by%C5%82o-22-listopada-2025-zobaczcie-zdj%C4%99cia-i-wideo/ar-AA1QWwlw?ocid=BingNewsVerp",
-            "description": "Listopadowe ch\u0142ody i pochmurne niebo nie odstraszy\u0142y mi\u0142o\u015bnik\u00f3w staroci i wyj\u0105tkowych znalezisk \u2013 w sobot\u0119, 22 listopada, nad ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.OLV2Fo3dKJMpew3SpLmyxS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Pchli Targ we W\u0142oc\u0142awku - 23 listopada 2025. Du\u017co staroci i \u015bwi\u0105tecznych ozd\u00f3b. Zdj\u0119cia, ceny, wideo",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/pchli-targ-we-w%C5%82oc%C5%82awku-23-listopada-2025-du%C5%BCo-staroci-i-%C5%9Bwi%C4%85tecznych-ozd%C3%B3b-zdj%C4%99cia-ceny-wideo/ar-AA1QZcFL?ocid=BingNewsVerp",
+            "description": "Na Pchlim Targu ka\u017cdy znajdzie co\u015b dla siebie \u2013 nie inaczej by\u0142o w niedziel\u0119, 23 listopada 2025 roku. Targowisko przy alei ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.ZP9bZUXCwXUfoIqQY6nzly&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Bydgoszcz Nasze Miasto on MSN22 godz.",
-            "source": "Bydgoszcz Nasze Miasto on MSN",
+            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN3 godz.",
+            "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
             "article_content": ""
         }
     },
@@ -202,7 +218,7 @@
             "description": "Niedzielny Targ wraca do Poznania w nowej ods\u0142onie. Od 30 listopada wydarzenie b\u0119dzie dzia\u0142a\u0107 na parkingu Wielkopolskiej ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.bPelMYkF17EBkvIbfaBXnC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "G\u0142os Wielkopolski on MSN5 godz.",
+            "date": "G\u0142os Wielkopolski on MSN8 godz.",
             "source": "G\u0142os Wielkopolski on MSN",
             "article_content": ""
         }
@@ -213,13 +229,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Prawdziwe skarby na targu staroci w B\u0119dzinie! Od winyli Beatles\u00f3w po kryszta\u0142y i meble. Zobacz ZDJ\u0118CIA. Jest w czym wybiera\u0107...",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/dom-i-ogrod/prawdziwe-skarby-na-targu-staroci-w-b%C4%99dzinie-od-winyli-beatles%C3%B3w-po-kryszta%C5%82y-i-meble-zobacz-zdj%C4%99cia-jest-w-czym-wybiera%C4%87/ar-AA1QXaAT?ocid=BingNewsVerp",
-            "description": "B\u0119dzi\u0144skie targowisko to nie tylko \u015bwie\u017ce warzywa i owoce. Tu\u017c obok stragan\u00f3w z \u017cywno\u015bci\u0105 rozkwita prawdziwy raj dla ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.3lMNomy-OyfmWd_67RENvS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Zdrowa \u017cywno\u015b\u0107, lokalni dostawcy, r\u0119kodzie\u0142o. Targowisko Bartosz\u00f3w zachwyca. Zobacz na zdj\u0119ciach co mo\u017cna tu kupi\u0107 i za ile",
+            "link": "https://www.msn.com/pl-pl/shopping/og%C3%B3lne/zdrowa-%C5%BCywno%C5%9B%C4%87-lokalni-dostawcy-r%C4%99kodzie%C5%82o-targowisko-bartosz%C3%B3w-zachwyca-zobacz-na-zdj%C4%99ciach-co-mo%C5%BCna-tu-kupi%C4%87-i-za-ile/ar-AA1QZjxH?ocid=BingNewsVerp",
+            "description": "Mi\u0119dzynarodowy Dzie\u0144 Psa przypada 26 sierpnia. Na pomys\u0142 uhonorowania tych zwierz\u0105t w \u017cyciu cz\u0142owieka wpad\u0142a amerykanka ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.-DGMi5JwFi-Xkarv2egoEi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "B\u0119dzin Nasze Miasto on MSN20 godz.",
-            "source": "B\u0119dzin Nasze Miasto on MSN",
+            "date": "Nasze Miasto on MSN2 godz.",
+            "source": "Nasze Miasto on MSN",
             "article_content": ""
         }
     },
@@ -234,7 +250,7 @@
             "description": "W niedziel\u0119 (23 listopada) odby\u0142 si\u0119 kolejny Bazar na tarnowskiej Star\u00f3wce. Mimo \u015bnie\u017cnej aury na popularnych pchlim targu ...",
             "image_url": "https://www.bing.pl/th?id=OVFT._i-Pw7zU4RcqTXkbtkcq-y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Tarn\u00f3w Nasze Miasto on MSN1 godz.",
+            "date": "Tarn\u00f3w Nasze Miasto on MSN5 godz.",
             "source": "Tarn\u00f3w Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -250,7 +266,7 @@
             "description": "W niedziel\u0119 (23 listopada) przy ulicy Andersa w Bia\u0142ymstoku odby\u0142a si\u0119 kolejna ods\u0142ona gie\u0142dy rolno-towarowej. Mimo niskich ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.l5pY1cq6iNSBgdaI1IP9hC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Kurier Poranny on MSN1 godz.",
+            "date": "Kurier Poranny on MSN5 godz.",
             "source": "Kurier Poranny on MSN",
             "article_content": ""
         }
@@ -261,14 +277,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Rakieta V-2 wykopana po 80 latach! Niezwyk\u0142e odkrycie w Bli\u017anie",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/rakieta-v-2-wykopana-po-80-latach-niezwyk%C5%82e-odkrycie-w-bli%C5%BAnie/ar-AA1QYiX5?ocid=BingNewsVerp",
-            "description": "W Parku Historycznym Blizna im. Wywiadu Armii Krajowej rozpocz\u0119\u0142y si\u0119 prace zwi\u0105zane z konserwacj\u0105 szcz\u0105tk\u00f3w rakiety V - 2 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.NYsqa5bD5EABPzfnKpTaPS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "\u015acie\u017cki nordic walking do 77 km od Koszalina. Podpowiadamy, gdzie warto si\u0119 wybra\u0107 w weekend 22 - 23 listopada",
+            "link": "https://koszalin.naszemiasto.pl/sciezki-nordic-walking-do-77-km-od-koszalina-podpowiadamy-gdzie-warto-sie-wybrac-w-weekend-22-23-listopada/ar/c7p1-22318903",
+            "description": "Zauroczeni w\u0119dr\u00f3wkami przez piaszczyste g\u00f3ry wybrze\u017ca, tym razem wyruszyli\u015bmy na spotkanie z madwinami rozci\u0105gaj\u0105cymi si\u0119 mi\u0119dzy Rowami a Czo\u0142pinem. 23,5 kilometrowa trasa pozwoli\u0142a zobaczy\u0107 ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.2lnLIQe5bnM9ixvXVTSDQg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Nowiny 24 on MSN7 godz.",
-            "source": "Nowiny 24 on MSN",
-            "article_content": ""
+            "date": "Koszalin Nasze Miasto57 min",
+            "source": "Koszalin Nasze Miasto",
+            "article_content": "Content not available"
         }
     },
     {
@@ -277,12 +293,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Trasy na rower do 10 km od O\u015bwi\u0119cimia. Pomys\u0142y na jednodniow\u0105 wypraw\u0119. Gdzie w weekend 22 - 23 listopada?",
-            "link": "https://oswiecim.naszemiasto.pl/trasy-na-rower-do-10-km-od-oswiecimia-pomysly-na-jednodniowa-wyprawe-gdzie-w-weekend-22-23-listopada/ar/c7p1-21831633",
-            "description": "Nim wyruszysz w drog\u0119, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 22 listopada w O\u015bwi\u0119cimiu ma by\u0107 1\u00b0C. Nie powinno pada\u0107. W ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.K51SCeQthu2ur_tRjAdODy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Wycieczki rowerowe do 10 km od O\u015bwi\u0119cimia. Podpowiadamy pomys\u0142y na wypraw\u0119. Gdzie w weekend 22 - 23 listopada?",
+            "link": "https://oswiecim.naszemiasto.pl/wycieczki-rowerowe-do-10-km-od-oswiecimia-podpowiadamy-pomysly-na-wyprawe-gdzie-w-weekend-22-23-listopada/ar/c7p1-21831633",
+            "description": "Zamek w Mosznej jest jedn\u0105 z najwi\u0119kszych atrakcji Opolszczyzny i jednym z najciekawszych zamk\u00f3w w Polsce. Swoj\u0105 s\u0142aw\u0119 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.v9pXy4w14J_q8BG9Gt7PPC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "O\u015bwi\u0119cim Nasze Miasto22 godz.",
+            "date": "O\u015bwi\u0119cim Nasze Miasto1 godz.",
             "source": "O\u015bwi\u0119cim Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -293,12 +309,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Nordic walking do 5 km od Ko\u0142obrzegu. Pomys\u0142y na odrobin\u0119 ruchu na powietrzu w weekend 22 - 23 listopada",
-            "link": "https://kolobrzeg.naszemiasto.pl/nordic-walking-do-5-km-od-kolobrzegu-pomysly-na-odrobine-ruchu-na-powietrzu-w-weekend-22-23-listopada/ar/c7p1-22319027",
-            "description": "Baszta Lontowa - przekornie nazywana Baszt\u0105 Prochow\u0105. Jest to jedyny obiekt, kt\u00f3ry pozosta\u0142 po \u015bredniowiecznym systemie ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.m7BYKYDtKfMuEHXA_-NnRC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "\u015acie\u017cki spacerowe do 6 km od Ko\u0142obrzegu. Urokliwe trasy na weekend 22 - 23 listopada",
+            "link": "https://kolobrzeg.naszemiasto.pl/sciezki-spacerowe-do-6-km-od-kolobrzegu-urokliwe-trasy-na-weekend-22-23-listopada/ar/c7p1-22115647",
+            "description": "We wsp\u00f3\u0142pracy z Traseo wybrali\u015bmy dla Was 3 trasy na spacer w odleg\u0142o\u015bci do 6 km od Ko\u0142obrzegu, kt\u00f3re polecaj\u0105 inni ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.1uQ0RHyXexlXbSnNNnmT0S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Ko\u0142obrzeg Nasze Miasto22 godz.",
+            "date": "Ko\u0142obrzeg Nasze Miasto2 godz.",
             "source": "Ko\u0142obrzeg Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -309,14 +325,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Jak dba\u0107 o k\u0142opotliwe dziedzictwo. Bydgoszcz musi wreszcie wzi\u0105\u0107 odpowiedzialno\u015b\u0107 za sw\u00f3j wa\u0142",
-            "link": "https://bydgoszcz.wyborcza.pl/bydgoszcz/7,48722,32408356,bydgoszcz-musi-wziac-odpowiedzialnosc-za-swoj-wal-pomyslow.html",
-            "description": "- Bydgoski wa\u0142 z czas\u00f3w Kazimierza Odnowiciela od niemal 20. lat jest w Toruniu, bo nie by\u0142o pomys\u0142u, co z nim zrobi\u0107.",
-            "image_url": "https://www.bing.pl/th?id=OVFT.nv9sM01gSgUoKed9P3ftPy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "\u015acie\u017cki rowerowe do 30 km od Grodziska Mazowieckiego. Podpowiedzi jednodniowych wypraw. Gdzie w weekend 22 - 23 listopada?",
+            "link": "https://grodziskmazowiecki.naszemiasto.pl/sciezki-rowerowe-do-30-km-od-grodziska-mazowieckiego-podpowiedzi-jednodniowych-wypraw-gdzie-w-weekend-22-23-listopada/ar/c7p1-21831681",
+            "description": "Zanim wyruszysz w tras\u0119, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 29 listopada w Grodzisku Mazowieckim ma by\u0107 1\u00b0C. Nie powinno pada\u0107 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.N1SlzBm60JdIFiK56kgHqi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Bydgoszcz.Wyborcza.pl16 godz.Opinion",
-            "source": "Bydgoszcz.Wyborcza.pl",
-            "article_content": ""
+            "date": "Grodzisk Mazowiecki Nasze Miasto3 godz.",
+            "source": "Grodzisk Mazowiecki Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Trasy spacerowe do 65 km od Gryfic. Urokliwe \u015bcie\u017cki na weekend 22 - 23 listopada",
+            "link": "https://gryfice.naszemiasto.pl/trasy-spacerowe-do-65-km-od-gryfic-urokliwe-sciezki-na-weekend-22-23-listopada/ar/c7p1-22116005",
+            "description": "Nie masz pomys\u0142u na ciekaw\u0105 tras\u0119 spacerow\u0105 z Gryfic? Podpowiadamy, gdzie mo\u017cna si\u0119 wybra\u0107. Przygotowali\u015bmy 3 ciekawe trasy.",
+            "image_url": "https://www.bing.pl/th?id=OVFT.XjR3OZRg99pPS4pL9HYeFi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "Gryfice Nasze Miasto48 min",
+            "source": "Gryfice Nasze Miasto",
+            "article_content": "Content not available"
         }
     },
     {
@@ -330,7 +362,7 @@
             "description": "W trakcie przeszukania mieszkania policjanci z \u017bagania przez przypadek natrafili na zabytkowe przedmioty, w tym zwi\u0105zane z II ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.PWpnK3mJPOJUBff07yehby&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Radio Zach\u00f3d4 godz.",
+            "date": "Radio Zach\u00f3d7 godz.",
             "source": "Radio Zach\u00f3d",
             "article_content": "W trakcie przeszukania mieszkania policjanci z \u017bagania przez przypadek natrafili na zabytkowe przedmioty, w tym zwi\u0105zane z II wojn\u0105 \u015bwiatow\u0105. 40-letn w\u0142a\u015bciciel przyzna\u0142, \u017ce znalaz\u0142 je w ziemi przy pomocy wykrywacza metali.\n\nMieszkanie w zwi\u0105zku z inn\u0105 spraw\u0105 przeszukiwali policjanci z pionu kryminalnego. W trakcie akcji natrafili na fragmenty zardzewia\u0142ej broni palnej oraz kilkana\u015bcie innych, historycznych przedmiot\u00f3w takich jak: klamry od paska, przypinki, medialiony i kastet.\n\nNa cz\u0119\u015bci przedmiot\u00f3w widoczne s\u0105 symbole faszystowskie. Mog\u0105 one pochodzi\u0107 z czasu II wojny \u015bwiatowej\n\n\u2013 poinformowa\u0142 podkom. Arkadiusz Szlachetko z Komendy Powiatowej Policji w \u017baganiu.\n\nWszystkie ujawnione rzeczy zosta\u0142y zabezpieczone przez mundurowych i zostan\u0105 poddane ocenie bieg\u0142ego z zakresu ochrony zabytk\u00f3w. Policjanci ustalili, \u017ce 40-letni m\u0119\u017cczyzna nie posiada wymaganych pozwole\u0144 na prowadzenie poszukiwa\u0144.\n\nZgodnie z ustaw\u0105 o ochronie zabytk\u00f3w, prowadzenie poszukiwa\u0144 zabytk\u00f3w bez pozwolenia, przy u\u017cyciu wszelkiego rodzaju urz\u0105dze\u0144 elektronicznych i technicznych oraz sprz\u0119tu do nurkowania jest nielegalne. W przypadku znalezienia takich przedmiot\u00f3w nale\u017cy niezw\u0142ocznie powiadomi\u0107 o tym konserwatora zabytk\u00f3w. Po wykonaniu ogl\u0119dzin zabezpieczonych rzeczy i potwierdzeniu, \u017ce s\u0105 zabytkiem, ich znalazca mo\u017ce us\u0142ysze\u0107 zarzut, kt\u00f3ry jest zagro\u017cony kar\u0105 do dw\u00f3ch lat pozbawienia wolno\u015bci\n\n\u2013 przypomina Szlachetko."
         }
@@ -341,14 +373,62 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Takie stare banknoty i monety warte s\u0105 krocie. Peerelowskie skarby w naszych szuflach",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/takie-stare-banknoty-i-monety-warte-s%C4%85-krocie-peerelowskie-skarby-w-naszych-szuflach/ar-AA1QWOgA?ocid=BingNewsVerp",
-            "description": "W 2025 roku stare banknoty i monety z czas\u00f3w PRL sta\u0142y si\u0119 prawdziwym hitem w\u015br\u00f3d kolekcjoner\u00f3w. Nie m\u00f3wimy tu tylko o ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.mQG5QxXLu04zPzSEQrJ8Gi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "\u015acie\u017cki nordic walking w woj. ma\u0142opolskim. Gdzie wybra\u0107 si\u0119 w weekend 22 - 23 listopada. 3 najciekawsze trasy",
+            "link": "https://gazetakrakowska.pl/sciezki-nordic-walking-w-woj-malopolskim-gdzie-wybrac-sie-w-weekend-22-23-listopada-3-najciekawsze-trasy/ar/c7p1-22323641",
+            "description": "Nordic walking w woj. ma\u0142opolskim da si\u0119 uprawia\u0107 w wielu miejscach. Ale zach\u0119camy do wybrania \u015bcie\u017cek, kt\u00f3re zosta\u0142y ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.mvrgYkTBKr9uVbxLhlijUC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Gazeta Krakowska2 godz.",
+            "source": "Gazeta Krakowska",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Trasy na rower do 2 km od Niepo\u0142omic. Podpowiedzi jednodniowych wypraw. Gdzie w weekend 22 - 23 listopada?",
+            "link": "https://niepolomice.naszemiasto.pl/trasy-na-rower-do-2-km-od-niepolomic-podpowiedzi-jednodniowych-wypraw-gdzie-w-weekend-22-23-listopada/ar/c7p1-21832069",
+            "description": "Rozgl\u0105dasz si\u0119 za pomys\u0142em na wypraw\u0119 rowerow\u0105 w okolicy Niepo\u0142omic? Podpowiadamy, gdzie warto si\u0119 wybra\u0107. Mamy 5 ciekawych ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.SmdR6GYKjkTF4QRGhy_RjC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Niepo\u0142omice Nasze Miasto1 godz.",
+            "source": "Niepo\u0142omice Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Bezp\u0142atna wycena monet i banknot\u00f3w przyci\u0105gn\u0119\u0142a numizmatyczne skarby. Kolekcjoner z Tarnowa i jego 800 monet z okresu II RP",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/bezp%C5%82atna-wycena-monet-i-banknot%C3%B3w-przyci%C4%85gn%C4%99%C5%82a-numizmatyczne-skarby-kolekcjoner-z-tarnowa-i-jego-800-monet-z-okresu-ii-rp/ar-AA1QZkxu?ocid=BingNewsVerp",
+            "description": "W pi\u0105tek, 21 listopada, w Krakowie odby\u0142a si\u0119 kolejna bezp\u0142atna sesja wycen starych monet i banknot\u00f3w organizowana przez ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.IJY8G6luTPn_QK11QOSBhy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Gazeta Pomorska on MSN20 godz.",
-            "source": "Gazeta Pomorska on MSN",
+            "date": "Gazeta Krakowska on MSN1 godz.",
+            "source": "Gazeta Krakowska on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Jak przechowywa\u0107 monety, by nie straci\u0142y na warto\u015bci. To najcz\u0119stsze b\u0142\u0119dy",
+            "link": "https://nto.pl/jak-przechowywac-monety-by-nie-stracily-na-wartosci-to-najczestsze-bledy/ar/c1p2-28193289",
+            "description": "Monety potrafi\u0105 zyskiwa\u0107 na warto\u015bci z ka\u017cdym rokiem, ale tylko wtedy, gdy s\u0105 odpowiednio traktowane. Nawet naj\u0142adniejszy ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.MGSzRnirzBoB-eI2zJ3z0C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+numizmatyka",
+            "date": "Nowa Trybuna Opolska1 godz.",
+            "source": "Nowa Trybuna Opolska",
+            "article_content": "Content not available"
         }
     },
     {
@@ -362,7 +442,7 @@
             "description": "S\u0105 eleganckie, symboliczne i wyj\u0105tkowo efektowne, dlatego \u015bwietnie sprawdzaj\u0105 si\u0119 jako upominek dla bliskiej osoby. Mog\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.J8bARSfHPclrYlbjqoO94S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Nowa Trybuna Opolska on MSN19 godz.",
+            "date": "Nowa Trybuna Opolska on MSN22 godz.",
             "source": "Nowa Trybuna Opolska on MSN",
             "article_content": ""
         }
@@ -378,7 +458,7 @@
             "description": "Fascynacja kryszta\u0142ami i szk\u0142em z czas\u00f3w PRL zyskuje na popularno\u015bci w\u015br\u00f3d kolekcjoner\u00f3w. Na starych wazonach, talerzach czy ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.VcrWIT5NBZKMERYLm0QSSC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Koszali\u0144ski7 godz.",
+            "date": "G\u0142os Koszali\u0144ski11 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
         }
