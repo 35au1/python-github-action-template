@@ -10,7 +10,7 @@
             "description": "Podczas ostatniego listopadowego Pchlego Targu we W\u0142oc\u0142awku na wielu stoiskach dominowa\u0142y elementy ze zbli\u017caj\u0105cymi si\u0119 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.gcDI2WvUv2X7HFI_NSlbfC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN8 godz.",
+            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN13 godz.",
             "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -26,9 +26,25 @@
             "description": "W niedziel\u0119, 30 listopada na placu targowym przy ulicy Kwiatkowskiego w Tarnobrzegu ruszy\u0142 ostatni w 2025 roku pchli targ.",
             "image_url": "https://www.bing.pl/th?id=OVFT.DnMLKaqg0h7VlATxtXAWLC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Echo Dnia on MSN9 godz.",
+            "date": "Echo Dnia on MSN15 godz.",
             "source": "Echo Dnia on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pchli targ w Szczecinku. Zobaczcie, co mo\u017cna by\u0142o znale\u017a\u0107 na stoiskach [ZDJ\u0118CIA]",
+            "link": "https://gk24.pl/pchli-targ-w-szczecinku-zobaczcie-co-mozna-bylo-znalezc-na-stoiskach-zdjecia/ar/c1p2-28223695",
+            "description": "Szczecinecki pchli targ na sta\u0142e wpisa\u0142 si\u0119 ju\u017c do kalendarza miejskich wydarze\u0144. Odbywa si\u0119 on regularnie w ka\u017cd\u0105 ostatni\u0105 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.02OfmxlSF40QyRVAMc5PTS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "G\u0142os Koszali\u0144ski12 godz.",
+            "source": "G\u0142os Koszali\u0144ski",
+            "article_content": "Content not available"
         }
     },
     {
@@ -42,7 +58,7 @@
             "description": "Niedzielna gie\u0142da staroci we Wroc\u0142awiu przyci\u0105gn\u0119\u0142a pod iglic\u0119 nie tylko wroc\u0142awian, ale te\u017c turyst\u00f3w. I to mimo mro\u017anej pogody. Ko\u0142o Hali Stulecia na stoiskach wystawc\u00f3w mo\u017cna obejrze\u0107 i kupi\u0107 wiele ...",
             "image_url": "https://www.bing.pl/th?id=ODF.p9YO103MXreScWBGsL62IA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "Gazeta Wroc\u0142awska on MSN7 godz.",
+            "date": "Gazeta Wroc\u0142awska on MSN13 godz.",
             "source": "Gazeta Wroc\u0142awska on MSN",
             "article_content": ""
         }
@@ -58,24 +74,8 @@
             "description": "We wtorek, 25 listopada 2025 roku w Pa\u0142acyku Gozdawa w \u0141ochocinie odby\u0142a si\u0119 wyj\u0105tkowa uroczysto\u015b\u0107 zwi\u0105zana z 100. rocznic\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.rlXX4x9zhZHKAGYxM8r9fS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Lipno Nasze Miasto11 godz.",
+            "date": "Lipno Nasze Miasto17 godz.",
             "source": "Lipno Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Pras\u00f3wka 30.11.2025 z ca\u0142ego tygodnia w Aleksandrowie Kujawskim. B\u0105d\u017a na bie\u017c\u0105co z wydarzeniami",
-            "link": "https://aleksandrowkujawski.naszemiasto.pl/prasowka-30-11-2025-z-calego-tygodnia-w-aleksandrowie-kujawskim-badz-na-biezaco-z-wydarzeniami/ar/c1p1-28223069",
-            "description": "16-letnia Amelia Kolibaj z Aleksandrowa Kujawskiego zosta\u0142a jedn\u0105 z kandydatek do tytu\u0142u Polska Miss Nastolatek 2025. Jak ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.Yn3RAkAKN7tyLFoqyMszHy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "Aleksandr\u00f3w Kujawski Nasze Miasto13 godz.",
-            "source": "Aleksandr\u00f3w Kujawski Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -90,7 +90,7 @@
             "description": "Kolekcjonerzy s\u0105 gotowi p\u0142aci\u0107 wysokie kwoty za stare polskie monety, kt\u00f3re potrafi\u0105 osi\u0105ga\u0107 cen\u0119 nawet kilku tysi\u0119cy z\u0142otych ...",
             "image_url": "https://www.bing.pl/th?id=OVFT._VPgEXcM3dtR7HZcxrJPCC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski on MSN14 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN20 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
@@ -101,12 +101,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Oto stare telefony kom\u00f3rkowe warte maj\u0105tek. Ceny starych telefon\u00f3w mog\u0105 naprawd\u0119 szokowa\u0107",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/oto-stare-telefony-kom%C3%B3rkowe-warte-maj%C4%85tek-ceny-starych-telefon%C3%B3w-mog%C4%85-naprawd%C4%99-szokowa%C4%87/ar-AA1QXsDR?ocid=BingNewsVerp",
+            "title": "Oto stare telefony kom\u00f3rkowe warte maj\u0105tek. Ceny starych telefon\u00f3w mog\u0105 naprawd\u0119 szokowa\u0107 [1.12.2025]",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/oto-stare-telefony-kom%C3%B3rkowe-warte-maj%C4%85tek-ceny-starych-telefon%C3%B3w-mog%C4%85-naprawd%C4%99-szokowa%C4%87-1122025/ar-AA1QXsDR?ocid=BingNewsVerp",
             "description": "W 2025 roku rynek kolekcjonerski elektroniki rozwija si\u0119 b\u0142yskawicznie. Stare telefony kom\u00f3rkowe osi\u0105gaj\u0105 zawrotne ceny nie ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.LAFMc0gNOxwGxk4mEBW-QC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "image_url": "https://www.bing.pl/th?id=OVFT.JWZvRZ1QMeWe8joWFv7OnS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN12 godz.",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN5 godz.",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
             "article_content": ""
         }
@@ -117,14 +117,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Bi\u017cuteria z czas\u00f3w PRL-u warta maj\u0105tek! Masz takie kolczyki, bransolety czy wisiorki? S\u0105 du\u017co warte 30.11",
-            "link": "https://gk24.pl/bizuteria-z-czasow-prl-u-warta-majatek-masz-takie-kolczyki-bransolety-czy-wisiorki-sa-duzo-warte-30-11/ar/c3p2-28055853",
-            "description": "Nawet kilka tysi\u0119cy z\u0142otych za bransoletk\u0119, kolczyki lub pier\u015bcionek. Na starej bi\u017cuterii z czas\u00f3w PRL-u mo\u017cna zarobi\u0107 du\u017co ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.NjHkJoxJLCtpCk0AVQSLIC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Stare telefony kom\u00f3rkowe, kt\u00f3re dzi\u015b s\u0105 warte fortun\u0119. Masz takie? 01.12.2025",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/stare-telefony-kom%C3%B3rkowe-kt%C3%B3re-dzi%C5%9B-s%C4%85-warte-fortun%C4%99-masz-takie-01122025/ar-AA1OXkNT?ocid=BingNewsVerp",
+            "description": "Pokolenie dzisiejszych 30- i 40-latk\u00f3w dorasta\u0142o z pierwszymi kom\u00f3rkami w r\u0119kach. D\u017awi\u0119k kultowego dzwonka Nokii 3310, gry w ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.kQor35RUik_fedtS68tsQy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski12 godz.",
-            "source": "G\u0142os Koszali\u0144ski",
-            "article_content": "Content not available"
+            "date": "G\u0142os Pomorza on MSN4 godz.",
+            "source": "G\u0142os Pomorza on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Wazony, dzbanki, misy i inne kryszta\u0142y z PRL-u warte tysi\u0105ce. Szk\u0142o kosztuje nawet kilkana\u015bcie tysi\u0119cy z\u0142otych 30.11",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/wazony-dzbanki-misy-i-inne-kryszta%C5%82y-z-prl-u-warte-tysi%C4%85ce-szk%C5%82o-kosztuje-nawet-kilkana%C5%9Bcie-tysi%C4%99cy-z%C5%82otych-3011/ar-AA1R0Y0o?ocid=BingNewsVerp",
+            "description": "Fascynacja kryszta\u0142ami i szk\u0142em z czas\u00f3w PRL zyskuje na popularno\u015bci w\u015br\u00f3d kolekcjoner\u00f3w. Na starych wazonach, talerzach czy ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.VPxGkTy0pMtwLlkOp7Txni&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "G\u0142os Koszali\u0144ski on MSN17 godz.",
+            "source": "G\u0142os Koszali\u0144ski on MSN",
+            "article_content": ""
         }
     },
     {
@@ -138,7 +154,7 @@
             "description": "Przez wiele lat wiele z tych przedmiot\u00f3w le\u017ca\u0142o zapomnianych na strychach, w piwnicach czy starych szafach, dzi\u015b jednak w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.si-Te6M31oKhlTVABkFLfy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Nowa Trybuna Opolska on MSN9 godz.",
+            "date": "Nowa Trybuna Opolska on MSN15 godz.",
             "source": "Nowa Trybuna Opolska on MSN",
             "article_content": ""
         }
@@ -149,28 +165,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Pchli targ w Toruniu. Tak by\u0142o na ostatnim przed d\u0142u\u017csz\u0105 przerw\u0105",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/pchli-targ-w-toruniu-tak-by%C5%82o-na-ostatnim-przed-d%C5%82u%C5%BCsz%C4%85-przerw%C4%85/ar-AA1RqWWE?ocid=BingNewsVerp",
-            "description": "W niedziel\u0119 andrzejkowego weekendu, czyli t\u0119 przypadaj\u0105c\u0105 30 listopada, pchli targ na parkingu Centrum Handlowego \"Kometa\" ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.qGhT7GgNmlRDLf8yqTMpKS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN6 godz.",
-            "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
             "title": "B\u0119dzie licytacja ruin \"Trupiej Czaszki\"",
-            "link": "https://www.trojmiasto.pl/historia/Bedzie-licytacja-ruin-Trupiej-Czaszki-n211204.html?strona=0&sort=up",
+            "link": "https://www.trojmiasto.pl/historia/Bedzie-licytacja-ruin-Trupiej-Czaszki-n211204.html?sort=down&strona=0",
             "description": "Ruiny spichlerza \"Trupia Czaszka\" pomi\u0119dzy odnowionymi budynkami i zespo\u0142em spichlerzy, kt\u00f3re te\u017c czekaj\u0105 na odrestaurowanie.",
             "image_url": "https://www.bing.pl/th?id=OVFT.qrj5NfrByl8Y-P9hcjZ40S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Trojmiasto.pl5 godz.Opinion",
+            "date": "Trojmiasto.pl11 godz.Opinion",
             "source": "Trojmiasto.pl",
             "article_content": "Na 28 stycznia 2026 r. zaplanowany zosta\u0142 przetarg ustny na sprzeda\u017c dzia\u0142ki przy ul. Chmielnej 58 nad Mot\u0142aw\u0105, na Wyspie Spichrz\u00f3w. Licytacja rozpocznie si\u0119 od kwoty 4,5 mln z\u0142. Obecnie po istniej\u0105cym tam spichlerzu Trupia Czaszka pozosta\u0142y ju\u017c tylko ruiny.\n\nRuiny spichlerzy to dobre miejsca na inwestycje? tak, s\u0105 atrakcyjnie po\u0142o\u017cone i maj\u0105 sw\u00f3j klimat nie, trudno jest pogodzi\u0107 oczekiwania konserwatora, biznesowe i zmie\u015bci\u0107 si\u0119 w bud\u017cecie Ruiny spichlerzy to dobre miejsca na inwestycje? tak, s\u0105 atrakcyjnie po\u0142o\u017cone i maj\u0105 sw\u00f3j klimat 70% nie, trudno jest pogodzi\u0107 oczekiwania konserwatora, biznesowe i zmie\u015bci\u0107 si\u0119 w bud\u017cecie 30%\n\n4,5 mln z\u0142 i kto da wi\u0119cej?\n\nNieznana historia \"Trupiej Czaszki\"\n\nMiejscowy plan pozwala, by na dw\u00f3ch dzia\u0142kach o \u0142\u0105cznej powierzchni 577 m kw. m\u00f3g\u0142 powsta\u0107 budynek us\u0142ugowy do wysoko\u015bci 30 m. Na gruncie o powierzchni 495 m kw. znajduj\u0105 si\u0119 mury zabytku, za\u015b druga dzia\u0142ka o powierzchni zaledwie 82 m kw. da przysz\u0142emu w\u0142a\u015bcicielowi dost\u0119p do brzeg\u00f3w Mot\u0142awy.Oczywi\u015bcie wszelkie prace b\u0119d\u0105 musia\u0142y uzyska\u0107 zgod\u0119 wojew\u00f3dzkiego konserwatora zabytk\u00f3w.Pocz\u0105tkowo miasto planowa\u0142o przeprowadzi\u0107 licytacj\u0119 jeszcze w tym roku, ale ostatecznie wybrano inny termin - 28 stycznia 2026 r. Ka\u017cdy, kto wp\u0142aci wadium w wysoko\u015bci 500 tys. z\u0142, b\u0119dzie m\u00f3g\u0142 wzi\u0105\u0107 udzia\u0142 w przetargu ustnym i podbija\u0107 cen\u0119 wyj\u015bciow\u0105 ustalon\u0105 na 4,5 mln z\u0142.Trudno ustali\u0107 jednoznaczn\u0105 dat\u0119 powstania Trupiej Czaszki. Jedne \u017ar\u00f3d\u0142a podaj\u0105, \u017ce by\u0142 to rok 1643. Z kolei na budynku do dzisiaj widnieje cz\u0119\u015bciowo zachowany kartusz z monogramem i dat\u0105 1755.Po wojnie spichlerz Trupia Czaszka nie zosta\u0142 odbudowany jak s\u0105siaduj\u0105ce z nim spichrze nr 59 \"Krone\" - Pod Koron\u0105, 60 \"Toru\u0144\", 61 \"Elbl\u0105g\" i 62 \"Gda\u0144sk\", kt\u00f3re pracowa\u0142y jeszcze przez wiele lat."
         }
@@ -186,7 +186,7 @@
             "description": "Podczas ostatniego listopadowego Pchlego Targu we W\u0142oc\u0142awku na wielu stoiskach dominowa\u0142y elementy ze zbli\u017caj\u0105cymi si\u0119 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.gcDI2WvUv2X7HFI_NSlbfC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN8 godz.",
+            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN13 godz.",
             "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -202,7 +202,7 @@
             "description": "Dziennik Wschodni - Aktualne wiadomo\u015bci z Lublina, Lubelszczyzny i wschodniej Polski. Codzienne informacje o polityce, samorz\u0105dzie, sporcie, kulturze i biznesie. B\u0105d\u017a na bie\u017c\u0105co z najwa\u017cniejszymi wyda ...",
             "image_url": "https://www.bing.pl/th?id=ODF.gIAxhpE-eTseHxNqAv8hIg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Dziennik Wschodni4 godz.",
+            "date": "Dziennik Wschodni10 godz.",
             "source": "Dziennik Wschodni",
             "article_content": "Sobotni Targ Staroci w \u015awidniku. Mr\u00f3z odstraszy\u0142 kupuj\u0105cych?\n\nJest zimno i ludzi te\u017c nie jest za du\u017co \u2013 oceni\u0142 jeden ze sprzedawc\u00f3w, kt\u00f3ry przyjecha\u0142 na sobotni Targ Staroci do \u015awidnika. By\u0142 na miejscu ju\u017c o godz. 4 nad ranem. \u2013 Przy okazji spaceru przysz\u0142y\u015bmy zobaczy\u0107 co maj\u0105 ciekawego, ale nic nie kupi\u0142y\u015bmy \u2013 przyzna\u0142a pani Krystyna, kt\u00f3ra ogl\u0105da\u0142a wystawione przedmioty razem ze swoj\u0105 kole\u017cank\u0105."
         }
@@ -218,7 +218,7 @@
             "description": "Pchli targ przy M1 ponownie cieszy\u0142 si\u0119 du\u017cym zainteresowaniem. W niedziel\u0119, 30 listopada 2025 roku, na parkingu przed ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.hdU9i2BEZZIvUhILM_F4US&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Pozna\u0144 Nasze Miasto on MSN6 godz.",
+            "date": "Pozna\u0144 Nasze Miasto on MSN11 godz.",
             "source": "Pozna\u0144 Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -234,7 +234,7 @@
             "description": "W niedziel\u0119, 30 listopada na placu targowym przy ulicy Kwiatkowskiego w Tarnobrzegu ruszy\u0142 ostatni w 2025 roku pchli targ.",
             "image_url": "https://www.bing.pl/th?id=OVFT.DnMLKaqg0h7VlATxtXAWLC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Echo Dnia on MSN9 godz.",
+            "date": "Echo Dnia on MSN15 godz.",
             "source": "Echo Dnia on MSN",
             "article_content": ""
         }
@@ -250,7 +250,7 @@
             "description": "Mi\u0119dzynarodowy Dzie\u0144 Psa przypada 26 sierpnia. Na pomys\u0142 uhonorowania tych zwierz\u0105t w \u017cyciu cz\u0142owieka wpad\u0142a amerykanka ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.ucpDtIy_x2uxfFeAWq4WOS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Legnica Nasze Miasto on MSN7 godz.",
+            "date": "Legnica Nasze Miasto on MSN13 godz.",
             "source": "Legnica Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -266,7 +266,7 @@
             "description": "Tras\u0119 dla rowerzyst\u00f3w ze Zdu\u0144skiej Woli poleca Jac.wos ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.2t0erq3HvZkNJqoJGwn9hS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Zdu\u0144ska Wola Nasze Miasto7 godz.",
+            "date": "Zdu\u0144ska Wola Nasze Miasto12 godz.",
             "source": "Zdu\u0144ska Wola Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -282,7 +282,7 @@
             "description": "Szukasz pomys\u0142u na wypraw\u0119 rowerow\u0105 z Jaworzna? Podpowiadamy, gdzie warto si\u0119 wybra\u0107. Mamy 5 ciekawych propozycji tras. S\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.srTx5E8dJWuYCKeq8Y-Oli&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Jaworzno Nasze Miasto5 godz.",
+            "date": "Jaworzno Nasze Miasto11 godz.",
             "source": "Jaworzno Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -298,7 +298,7 @@
             "description": "Zauroczeni w\u0119dr\u00f3wkami przez piaszczyste g\u00f3ry wybrze\u017ca, tym razem wyruszyli\u015bmy na spotkanie z madwinami rozci\u0105gaj\u0105cymi si\u0119 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.JtCMosdtbUqjVFqKrRqWHC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Koszalin Nasze Miasto5 godz.",
+            "date": "Koszalin Nasze Miasto10 godz.",
             "source": "Koszalin Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -314,7 +314,7 @@
             "description": "Przegrywanie w grach przesta\u0142o oznacza\u0107 frustracj\u0119. Roguelike\u2019i sprawi\u0142y, \u017ce \u015bmier\u0107 sta\u0142a si\u0119 pocz\u0105tkiem \u2013 momentem nauki, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.iNRXR81IPnsbAw1yV0-kgy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "GRY-OnLine.pl6 godz.",
+            "date": "GRY-OnLine.pl12 godz.",
             "source": "GRY-OnLine.pl",
             "article_content": "Cho\u0107 m\u0142odszemu pokoleniu graczy mo\u017ce by\u0107 w to trudniej uwierzy\u0107, istnia\u0142y kiedy\u015b czasy, gdy napisy ko\u0144cowe nie obwieszcza\u0142y mo\u017cliwo\u015bci od\u0142o\u017cenia gry na p\u00f3\u0142k\u0119, wr\u0119cz przeciwnie \u2013 by\u0142y zach\u0119t\u0105 do ponownego sprawdzenia swoich si\u0142. Wirtualna \u015bmier\u0107 stanowi\u0142a wtedy synonim kl\u0119ski \u2013 by\u0142a kar\u0105 za b\u0142\u0105d, sygna\u0142em, \u017ce zrobili\u015bmy co\u015b niezgodnie z planem tw\u00f3rc\u00f3w i musimy gra\u0107 od nowa, by powt\u00f3rzy\u0107 t\u0119 jedn\u0105 sekwencj\u0119 idealnie, klatka po klatce. W tym starym wzorcu pora\u017cka by\u0142a po prostu momentem, w kt\u00f3rym nale\u017ca\u0142o zacz\u0105\u0107 wszystko jeszcze raz, a my czuli\u015bmy frustracj\u0119 wynikaj\u0105c\u0105 z konieczno\u015bci powtarzania tego samego fragmentu a\u017c do skutku. Dzi\u015b wi\u0119kszo\u015b\u0107 wsp\u00f3\u0142czesnych gier nie ka\u017ce gracza w ten spos\u00f3b \u2013 jasne, po zgonie trzeba wczyta\u0107 ostatni zapis, ale zazwyczaj gracz albo nie musi przejmowa\u0107 si\u0119 zapisem w og\u00f3le, albo ma do dyspozycji nielimitowan\u0105 liczb\u0119 szybkich save\u2019\u00f3w, co trywializuje element pora\u017cki. Na szcz\u0119\u015bcie, coraz cz\u0119\u015bciej mamy okazj\u0119 obserwowa\u0107 odwrotn\u0105 sytuacj\u0119 \u2013 gracze si\u0119gaj\u0105 po gry trudne i wiele od nich wymagaj\u0105ce, takie, kt\u00f3re testuj\u0105 ich cierpliwo\u015b\u0107 oraz umiej\u0119tno\u015bci, a jednocze\u015bnie pokazuj\u0105, jak istotny w grach jest element pora\u017cki.\n\nTekst premium Tre\u015bci premium wymagaj\u0105 wi\u0119cej czasu oraz wysi\u0142ku i mog\u0105 powstawa\u0107 g\u0142\u00f3wnie dzi\u0119ki Waszemu wsparciu jako czytelnik\u00f3w GRYOnline.pl. Je\u015bli chcecie czyta\u0107 podobnego rodzaju artyku\u0142y, rozwa\u017ccie wykupienie abonamentu!\n\nW ostatnich latach obserwujemy fundamentaln\u0105 zmian\u0119, kt\u00f3ra wywraca zasady karania gracza (i nie tylko) do g\u00f3ry nogami. Gatunek roguelike\u2019\u00f3w, o kt\u00f3rym dzisiaj przeczytacie, jeszcze niedawno uchodzi\u0142 za nisz\u0119 dla najbardziej wytrwa\u0142ych, a dzi\u015b wdar\u0142 si\u0119 do g\u0142\u00f3wnego nurtu i ca\u0142kowicie zmieni\u0142 nasz\u0105 relacj\u0119 z przegrywaniem. W nowoczesnym designie gier \u2013 od niezale\u017cnych hit\u00f3w po wysokobud\u017cetowe eksperymenty czy najnowsze produkcje FromSoftware, jak np. Elden Ring: Nightreign \u2013 \u015bmier\u0107 przesta\u0142a by\u0107 ko\u0144cem przygody lub chwilow\u0105 przerw\u0105. Zamiast tego sta\u0142a si\u0119 jej integraln\u0105 cz\u0119\u015bci\u0105, zasobem i walut\u0105, za kt\u00f3r\u0105 kupujemy najwa\u017cniejsz\u0105 rzecz w grach wideo \u2013 wiedz\u0119.\n\nEden Ring: Nightreign stoi bardzo blisko klasycznego roguelike\u2019a.\n\nDzi\u015b roguelike oraz jego ewoluuj\u0105ca forma, czyli roguelite, to nie tylko konkretne ramy gatunkowe, ale przede wszystkim filozofia projektowania oparta na uk\u0142adzie z odbiorc\u0105. Tw\u00f3rcy zabieraj\u0105 nam zdobyty ekwipunek i cofaj\u0105 nas do punktu startowego, ale w zamian daj\u0105 szans\u0119 na zrozumienie, jak ten \u015bwiat faktycznie funkcjonuje. Zamiast po prostu przechodzi\u0107 gr\u0119 poziom po poziomie, uczymy si\u0119 jej system\u00f3w, zale\u017cno\u015bci i ukrytych mechanik. W tym uj\u0119ciu progresja nie jest zapisana w postaci rosn\u0105cych cyferek statystyk, tylko zachodzi bezpo\u015brednio w naszych g\u0142owach. To my stajemy si\u0119 lepsi, dostrzegaj\u0105c wzorce, rozumiej\u0105c synergie i przewiduj\u0105c zagro\u017cenia, co przynosi satysfakcj\u0119 niepor\u00f3wnywaln\u0105 z prostym wbiciem kolejnego poziomu do\u015bwiadczenia.\n\nDlaczego ten model tak mocno na nas dzia\u0142a i dlaczego zamiast rzuci\u0107 pad w k\u0105t po utracie godziny post\u0119p\u00f3w, z u\u015bmiechem rozpoczynamy kolejn\u0105 pr\u00f3b\u0119? Poniewa\u017c losowo\u015b\u0107 (RNG), kt\u00f3ra w tradycyjnych RPG bywa \u017ar\u00f3d\u0142em irytacji, tutaj staje si\u0119 motorem nap\u0119dowym regrywalno\u015bci i adaptacji. Gry te rzucaj\u0105 nam pod nogi losowe wyzwania, nietypowe uk\u0142ady map czy zestawy przedmiot\u00f3w, a naszym zadaniem nie jest optymalizacja postaci przed walk\u0105, tylko rozwi\u0105zanie tej dynamicznej \u0142amig\u0142\u00f3wki w trakcie jej trwania. W \u015bwiecie produkcji, kt\u00f3re coraz cz\u0119\u015bciej prowadz\u0105 nas za r\u0119k\u0119, rogueliki przywracaj\u0105 nam pe\u0142n\u0105 sprawczo\u015b\u0107 i s\u0105 dowodem na to, \u017ce pora\u017cka mo\u017ce by\u0107 najlepszym paliwem, a losowo\u015b\u0107 kluczem do osi\u0105gni\u0119cia prawdziwej satysfakcji.\n\nDwie twarze progresji\n\nAby w pe\u0142ni zrozumie\u0107 fenomen tego gatunku, musimy dokona\u0107 fundamentalnego rozr\u00f3\u017cnienia, kt\u00f3re cz\u0119sto pojawia si\u0119 w potocznych dyskusjach. Mowa o podziale na hardcore\u2019owe rogueliki oraz ich bardziej przyst\u0119pn\u0105 ewolucj\u0119 \u2013 roguelite\u2019y. Cho\u0107 oba nurty czerpi\u0105 z tego samego \u017ar\u00f3d\u0142a, ich podej\u015bcie do nagradzania gracza jest diametralnie r\u00f3\u017cne. Pierwszy z nich to surowa szko\u0142a \u017cycia, w kt\u00f3rej jedynym trwa\u0142ym elementem przenoszonym pomi\u0119dzy kolejnymi pr\u00f3bami jest sam gracz.\n\nW tym klasycznym modelu, gdy nasza posta\u0107 ginie, tracimy absolutnie wszystko \u2013 ekwipunek, zasoby, poziomy do\u015bwiadczenia. Gra resetuje si\u0119 do stanu fabrycznego, a my stajemy przed wyzwaniem z dok\u0142adnie takimi samymi statystykami jak za pierwszym razem. To podej\u015bcie wydaje si\u0119 brutalne, ale w rzeczywisto\u015bci jest ho\u0142dem dla ludzkiej zdolno\u015bci uczenia si\u0119. Doskona\u0142y przyk\u0142ad tej filozofii w nowoczesnym wydaniu stanowi Elden Ring: Nightreign. Ta produkcja odchodzi od klasycznej dla RPG progresji opartej na zbieraniu coraz lepszego ekwipunku czy istotnych bonusach po \u015bmierci. Zamiast tego przywraca filozofi\u0119 gier sprzed ery metaprogresji \u2013 w tamtych czasach najwa\u017cniejszym realnym ulepszeniem mi\u0119dzy pr\u00f3bami by\u0142o to, \u017ce stawali\u015bmy si\u0119 m\u0105drzejsi ni\u017c godzin\u0119 temu.\n\nGracze lubi\u0105 wybory w grach.\n\nW Nightreign progres nie oznacza, \u017ce nasza posta\u0107 uderza mocniej dzi\u0119ki odblokowaniu statystyki w menu g\u0142\u00f3wnym. Progres oznacza, \u017ce my, jako gracze, wiemy ju\u017c, kt\u00f3rego bossa w danej fazie runu warto zabi\u0107, a kt\u00f3rego lepiej omin\u0105\u0107 szerokim \u0142ukiem. Uczymy si\u0119 optymalnie planowa\u0107 tras\u0119 przez map\u0119 i dostosowywa\u0107 zestaw broni do konkretnego scenariusza. W tym systemie dost\u0119pne w grze relikty (mimo wszystko dobierane pomi\u0119dzy runami), cho\u0107 oferuj\u0105 przydatne wzmocnienia, pe\u0142ni\u0105 funkcj\u0119 jedynie drobnych narz\u0119dzi \u2013 pomagaj\u0105, ale same z siebie nie wygrywaj\u0105 gry. Je\u015bli nie zrozumiemy mechanik i nie nauczymy si\u0119 reagowa\u0107 na zagro\u017cenia, nawet najlepszy relikt nam nie pomo\u017ce. To sprawia, \u017ce \u015bmier\u0107 przestaje by\u0107 utrat\u0105 \u201epost\u0119pu\u201d w klasycznym sensie, poniewa\u017c prawdziwym post\u0119pem jest nasze zrozumienie gry.\n\nJednak ten model, cho\u0107 niezwykle satysfakcjonuj\u0105cy dla weteran\u00f3w, bywa odrzucaj\u0105cy dla szerszego grona odbiorc\u00f3w. Wi\u0119kszo\u015b\u0107 graczy, przyzwyczajonych do system\u00f3w RPG, potrzebuje namacalnego dowodu, \u017ce ich czas nie zosta\u0142 zmarnowany. Tutaj na scen\u0119 wkracza roguelite \u2013 ewolucja gatunku, kt\u00f3ra zdominowa\u0142a rynek dzi\u0119ki wprowadzeniu metaprogresji.\n\nRoguelite zmienia podstawow\u0105 zasad\u0119 \u2013 po \u015bmierci tracimy post\u0119p w danej sesji, ale zachowujemy walut\u0119, kt\u00f3r\u0105 mo\u017cemy wyda\u0107 na trwa\u0142e ulepszenia. Mo\u017ce to by\u0107 odblokowanie nowej klasy postaci, zwi\u0119kszenie bazowego zdrowia czy dodanie szansy na lepszy \u0142up w przysz\u0142o\u015bci. To podej\u015bcie dzia\u0142a jak amortyzator. Nawet najbardziej katastrofalny run, kt\u00f3ry ko\u0144czy si\u0119 po pi\u0119ciu minutach, daje poczucie jakiegokolwiek sensu, poniewa\u017c zebrali\u015bmy do\u015b\u0107 zasob\u00f3w, by kupi\u0107 cho\u0107by jedno drobne ulepszenie.\n\nNiekt\u00f3rzy powiedz\u0105, \u017ce wszystko zacz\u0119\u0142o si\u0119 od Isaaca.\n\nTo w\u0142a\u015bnie ten mechanizm jest kluczem do masowej popularno\u015bci gatunku. Roguelite \u0142\u0105czy ekscytacj\u0119 wynikaj\u0105c\u0105 z losowo\u015bci i ryzyka z bezpieczn\u0105 siatk\u0105 asekuracyjn\u0105 znan\u0105 z RPG. Gracz czuje, \u017ce nawet je\u015bli brakuje mu zr\u0119czno\u015bci czy taktycznego zmys\u0142u, dzi\u0119ki samej wytrwa\u0142o\u015bci i \u201egrindowaniu\u201d ulepsze\u0144 w ko\u0144cu stanie si\u0119 na tyle silny, by pokona\u0107 przeszkod\u0119. W przeciwie\u0144stwie do modelu opartego na wiedzy, gdzie gra wymaga od nas stawania si\u0119 lepszymi, roguelite pozwala na to, by to gra stawa\u0142a si\u0119 matematycznie \u0142atwiejsza z ka\u017cd\u0105 kolejn\u0105 godzin\u0105. To subtelna, ale fundamentalna r\u00f3\u017cnica \u2013 w jednym przypadku przechodzimy gr\u0119 dzi\u0119ki inteligencji i adaptacji, w drugim cz\u0119sto dzi\u0119ki cierpliwo\u015bci i statystyce. Obie te drogi maj\u0105 swoich zwolennik\u00f3w, ale to w\u0142a\u015bnie ta druga, oferuj\u0105ca iluzj\u0119 ci\u0105g\u0142ego wzrostu, pozwoli\u0142a mechanice permanentnej \u015bmierci trafi\u0107 na salony.\n\nPsychologia losowo\u015bci\n\nAby jeszcze lepiej zrozumie\u0107, dlaczego gatunek ten tak skutecznie uzale\u017cnia, musimy zag\u0142\u0119bi\u0107 si\u0119 w sam\u0105 natur\u0119 przypadku i rozr\u00f3\u017cni\u0107 dwa fundamentalne typy losowo\u015bci, kt\u00f3re w game designie odgrywaj\u0105 kluczow\u0105 rol\u0119. Pierwszym z nich, cz\u0119sto znienawidzonym przez graczy, jest \u201eoutput randomness\u201d, czyli losowo\u015b\u0107 wyniku \u2013 to moment, w kt\u00f3rym podejmujemy dobr\u0105 decyzj\u0119, ale wirtualna ko\u015b\u0107 decyduje, \u017ce nasz atak chybi\u0142 mimo 95-procentowej szansy na trafienie. To mechanizm, kt\u00f3ry odbiera sprawczo\u015b\u0107. Rogueliki w swoim najlepszym wydaniu opieraj\u0105 si\u0119 jednak na czym\u015b zupe\u0142nie odwrotnym \u2013 na \u201einput randomness\u201d, czyli losowo\u015bci wej\u015bciowej.\n\nW tym modelu gra rzuca nam wyzwanie, zanim jeszcze podejmiemy jak\u0105kolwiek decyzj\u0119. Losowy jest uk\u0142ad mapy, wylosowana na starcie bro\u0144 czy zestaw przeciwnik\u00f3w w komnacie, do kt\u00f3rej w\u0142a\u015bnie weszli\u015bmy. To ca\u0142kowicie zmienia spos\u00f3b my\u015blenia gracza \u2013 zamiast podchodzi\u0107 do gry z gotowym planem i zoptymalizowanym buildem, jak ma to miejsce w typowych RPG, musimy nieustannie korzysta\u0107 z tego, co akurat mamy pod r\u0119k\u0105. Wymusza to ci\u0105g\u0142\u0105 adaptacj\u0119 i sprawia, \u017ce nie mo\u017cemy polega\u0107 na wyuczonych schematach. \u015awietnie wida\u0107 to na przyk\u0142adzie Elden Ringa: Nightreign, gdzie mimo sta\u0142ej mapy zmienne punkty startowe i losowi bossowie oraz przedmioty sprawiaj\u0105, \u017ce ka\u017cda sesja wymaga innego podej\u015bcia. Nie mo\u017cemy po prostu w\u0142\u0105czy\u0107 autopilota, poniewa\u017c gra nieustannie zmienia warunki, w jakich operujemy.\n\n\u201eRoguelitowo\u015b\u0107\u201d ma r\u00f3\u017cne formy.\n\nTo w\u0142a\u015bnie ta nieprzewidywalno\u015b\u0107 rodzi jeden z najsilniejszych mechanizm\u00f3w psychologicznych w grach wideo \u2013 mit \u201egod runu\u201d, czyli boskiego przej\u015bcia. Ka\u017cde nowe podej\u015bcie staje si\u0119 dla gracza obietnic\u0105. Nadziej\u0105, \u017ce tym razem RNG u\u0142o\u017cy si\u0119 idealnie, \u017ce trafimy na t\u0119 jedn\u0105 pot\u0119\u017cn\u0105 synergi\u0119 przedmiot\u00f3w, kt\u00f3ra pozwoli poczu\u0107 si\u0119 jak niszczyciel \u015bwiat\u00f3w. To specyficzna forma hazardu, ale taka, w kt\u00f3rej ostateczny wynik zale\u017cy od naszych umiej\u0119tno\u015bci. Szcz\u0119\u015bcie rozdaje karty, jednak to my musimy wiedzie\u0107, jak nimi zagra\u0107, by rozbi\u0107 bank. Ta pogo\u0144 za idealnym uk\u0142adem sprawia, \u017ce syndrom \u201ejeszcze jednego razu\u201d okazuje si\u0119 tu tak silny.\n\nWarto te\u017c zwr\u00f3ci\u0107 uwag\u0119 na to, jak ten system przywraca warto\u015b\u0107 samym przedmiotom, co stanowi jaskrawy kontrast wzgl\u0119dem wsp\u00f3\u0142czesnych RPG opartych na loocie. Sp\u00f3jrzmy na Diablo IV. Cho\u0107 gra bazuje na zbieraniu przedmiot\u00f3w, \u201elegendarno\u015b\u0107\u201d nic w niej nie znaczy. Setki najrzadszych teoretycznie item\u00f3w wypadaj\u0105 tam masowo, a przez system skalowania i losowych afiks\u00f3w wi\u0119kszo\u015b\u0107 z nich staje si\u0119 bezu\u017cytecznym \u015bmieciem, kt\u00f3ry mielemy na materia\u0142y. Zdobycie \u201elegendy\u201d nie wywo\u0142uje ekscytacji, bo wiemy, \u017ce za chwil\u0119 znajdziemy kolejn\u0105. W roguelike\u2019u jest inaczej \u2013 poniewa\u017c run trwa zazwyczaj od 30 do 60 minut, znalezienie rzadkiego przedmiotu zmienia absolutnie wszystko w trakcie najbli\u017cszej godziny. Nie musi on by\u0107 zbalansowany w kontek\u015bcie setek godzin rozgrywki, mo\u017ce by\u0107 absurdalnie pot\u0119\u017cny. Dzi\u0119ki temu, \u017ce jest tymczasowy, tw\u00f3rcy mog\u0105 sobie pozwoli\u0107 na popsucie gry z korzy\u015bci\u0105 dla nas, co zapewnia ekscytacj\u0119, kt\u00f3rej pr\u00f3\u017cno szuka\u0107 w bardziej zbalansowanych us\u0142ugowych produkcjach.\n\nRoguelike jako element innych gatunk\u00f3w\n\nAle fenomen mechanik roguelike\u2019\u00f3w polega nie tylko na tym, \u017ce stworzy\u0142y one osobny, pot\u0119\u017cny gatunek. By\u0107 mo\u017ce jeszcze wa\u017cniejsz\u0105 ich funkcj\u0105 jest to, \u017ce dzia\u0142aj\u0105 jak \u201eprzyprawa\u201d w przypadku innych, cz\u0119sto skostnia\u0142ych, form rozgrywki. Doskona\u0142ym przyk\u0142adem gatunku, kt\u00f3ry od lat zmaga si\u0119 z problemem powtarzalno\u015bci, s\u0105 klasyczne beat \u2019em upy. Ich rdze\u0144, cho\u0107 nostalgiczny i satysfakcjonuj\u0105cy w kr\u00f3tkich sesjach, jest niezwykle p\u0142ytki \u2013 idziemy w prawo, wciskamy jeden lub dwa przyciski ataku, pokonujemy klony tych samych wrog\u00f3w, powtarzamy proces. W tradycyjnym wydaniu, kiedy nasza posta\u0107 jest statyczna i niezmienna, taka rozgrywka potrafi b\u0142yskawicznie znu\u017cy\u0107, poniewa\u017c po pierwszej godzinie wiemy, \u017ce widzieli\u015bmy ju\u017c wszystko, a dalsza gra to czysta pami\u0119\u0107 mi\u0119\u015bniowa pozbawiona decyzyjno\u015bci.\n\nW\u0142a\u015bnie tutaj wkracza magia hybrydy, kt\u00f3r\u0105 przetestowa\u0142em ostatnio na przyk\u0142adzie gry Absolum. To beat \u2019em up, kt\u00f3ry na poziomie walki nie wymy\u015bla ko\u0142a na nowo \u2013 nadal \u201eklepiemy\u201d wrog\u00f3w i idziemy przed siebie. Jednak obudowanie tej prostej mechaniki struktur\u0105 roguelite\u2019a ca\u0142kowicie zmienia odbi\u00f3r ca\u0142o\u015bci. Gra, zamiast by\u0107 liniowym do\u015bwiadczeniem, staje si\u0119 seri\u0105 taktycznych wybor\u00f3w. Pomi\u0119dzy kolejnymi planszami musimy dobiera\u0107 ulepszenia do naszej postaci, a \u015bmier\u0107 przenosi nas do huba, gdzie za zebran\u0105 walut\u0119 kupujemy bonusy, takie jak zwi\u0119kszenie paska zdrowia czy obra\u017ce\u0144 sojusznik\u00f3w.\n\nAbsolum to jedno z moich najwi\u0119kszych zaskocze\u0144 tego roku.\n\nTe wybory s\u0105 w gruncie rzeczy banalne, momentami wr\u0119cz zbyt banalne, a same elementy roguelike\u2019owe zosta\u0142y tu mocno uproszczone wzgl\u0119dem takich gigant\u00f3w jak np. Hades. A jednak \u2013 ich obecno\u015b\u0107 sprawia, \u017ce chce mi si\u0119 gra\u0107 w gatunek, kt\u00f3ry normalnie porzuci\u0142bym po dw\u00f3ch poziomach. Dlaczego? Poniewa\u017c wprowadzenie losowo\u015bci i progresji nadaje sens ka\u017cdemu podej\u015bciu. Bezmy\u015blne klepanie przycisk\u00f3w zamienia si\u0119 w taktyczne zarz\u0105dzanie. Gdy stajemy przed wyborem nagrody, musimy zada\u0107 sobie pytanie \u2013 czy bierzemy leczenie, bo mamy ma\u0142o HP i mo\u017cemy nie prze\u017cy\u0107 walki z bossem, czy ryzykujemy i decydujemy si\u0119 na zwi\u0119kszenie obra\u017ce\u0144, licz\u0105c, \u017ce zr\u0119czno\u015b\u0107 wystarczy?\n\nW klasycznym beat \u2019em upie ten dylemat nie istnieje \u2013 po prostu idziemy dalej i walczymy z kolejnymi falami wrog\u00f3w. W Absolum, dzi\u0119ki strukturze roguelite\u2019a, gracz odzyskuje sprawczo\u015b\u0107. Musimy dostosowywa\u0107 styl walki do wylosowanych bonus\u00f3w \u2013 je\u015bli gra da\u0142a nam pot\u0119\u017cne ataki obszarowe, b\u0119dziemy d\u0105\u017cy\u0107 do grupowania wrog\u00f3w; je\u015bli wzmocni\u0142a nasze ataki dystansowe, zmienimy pozycjonowanie. To dow\u00f3d na to, \u017ce elementy roguelike\u2019a potrafi\u0105 od\u015bwie\u017cy\u0107 nawet najbardziej archaiczne schematy. Dodaj\u0105 warstw\u0119 decyzyjno\u015bci tam, gdzie jej brakowa\u0142o, sprawiaj\u0105c, \u017ce nawet prosta mechanika walki zyskuje g\u0142\u0119bi\u0119, bo staje si\u0119 cz\u0119\u015bci\u0105 wi\u0119kszego planu przetrwania. W ten spos\u00f3b \u201eprzyprawa\u201d w postaci losowo\u015bci i metaprogresji zmienia danie, kt\u00f3re wszyscy znamy na pami\u0119\u0107, w co\u015b, co smakuje zaskakuj\u0105co \u015bwie\u017co.\n\nKiedy progresja zabija zabaw\u0119\n\nJednak implementacja mechanik roguelike\u2019a to st\u0105panie po cienkim lodzie. Istnieje w game designie pu\u0142apka, w kt\u00f3r\u0105 wpadaj\u0105 niedo\u015bwiadczeni tw\u00f3rcy, mylnie zak\u0142adaj\u0105c, \u017ce \u201ewi\u0119cej znaczy lepiej\u201d. W teorii odblokowywanie nowych przedmiot\u00f3w powinno by\u0107 nagrod\u0105. W praktyce, je\u015bli deweloper wrzuci do puli za du\u017co item\u00f3w s\u0142abych, nudnych lub sytuacyjnych, ka\u017cde takie odblokowanie paradoksalnie os\u0142abi nasz\u0105 posta\u0107 w przysz\u0142ych runach. Zamiast zwi\u0119ksza\u0107 szans\u0119 na znalezienie pot\u0119\u017cnych synergii, zmniejszamy j\u0105, za\u015bmiecaj\u0105c pul\u0119 losowania bezu\u017cytecznym z\u0142omem. To jednak problem dotycz\u0105cy balansu. Znacznie gorsz\u0105 sytuacj\u0105 jest ta, w kt\u00f3rej systemy gry aktywnie ze sob\u0105 walcz\u0105, karz\u0105c gracza za ch\u0119\u0107 korzystania z mechanik roguelike\u2019a.\n\nIdealnym przyk\u0142adem tego, jak nie projektowa\u0107 ekonomii w grze z elementami losowymi, jest nowy Painkiller. Tw\u00f3rcy, chc\u0105c nada\u0107 swemu dzie\u0142u g\u0142\u0119bi\u0119 i zwi\u0119kszy\u0107 regrywalno\u015b\u0107, zaimplementowali system kart tarota, kt\u00f3ry w teorii mia\u0142 pozwala\u0107 na tworzenie ciekawych build\u00f3w na kolejne misje. System ten zak\u0142ada\u0142, \u017ce przed rozpocz\u0119ciem zadania mo\u017cemy wyposa\u017cy\u0107 posta\u0107 w karty daj\u0105ce okre\u015blone bonusy. Brzmi jak standardowy element roguelite\u2019a, prawda? Diabe\u0142 tkwi jednak w fatalnie zaprojektowanej ekonomii.\n\nZ\u0142a implementacja takich element\u00f3w mo\u017ce zgubi\u0107 tw\u00f3rc\u00f3w.\n\nKarty tarota w Painkillerze s\u0105 towarem deficytowym i co najgorsze \u2013 jednorazowym. Zu\u017cywaj\u0105 si\u0119 po jednym podej\u015bciu niezale\u017cnie od tego, czy misja zako\u0144czy\u0142a si\u0119 sukcesem, czy pora\u017ck\u0105. Aby skorzysta\u0107 z nich ponownie lub wylosowa\u0107 nowe, musimy zap\u0142aci\u0107 walut\u0105 zdobywan\u0105 w grze. I tu pojawia si\u0119 powa\u017cny konflikt interes\u00f3w \u2013 ta sama waluta, kt\u00f3r\u0105 wydajemy na te tymczasowe, znikaj\u0105ce bonusy, s\u0142u\u017cy r\u00f3wnie\u017c do trwa\u0142ego ulepszania broni. Gra stawia nas wi\u0119c przed wyborem, kt\u00f3ry z punktu widzenia optymalizacji jest oczywisty, a z punktu widzenia zabawy \u2013 tragiczny.\n\nCzy gracz powinien wyda\u0107 ci\u0119\u017cko zarobione z\u0142oto na sta\u0142e ulepszenie strzelby, kt\u00f3re zostanie z nim na zawsze i u\u0142atwi ca\u0142\u0105 reszt\u0119 gry? Czy mo\u017ce powinien zmarnowa\u0107 te \u015brodki na jednorazow\u0105 kart\u0119 o w\u0105tpliwej przydatno\u015bci, kt\u00f3ra za 15 minut zniknie z ekwipunku? Odpowied\u017a nasuwa si\u0119 sama. System ekonomiczny gry aktywnie zniech\u0119ca do eksperymentowania i korzystania z mechanik roguelite\u2019a. Zamiast przyci\u0105ga\u0107 do zabawy losowo\u015bci\u0105, karze za ni\u0105 spowolnieniem trwa\u0142ego rozwoju postaci.\n\nW efekcie mechanika, kt\u00f3ra mia\u0142a by\u0107 motorem regrywalno\u015bci, staje si\u0119 martwym, irytuj\u0105cym dodatkiem, kt\u00f3ry wi\u0119kszo\u015b\u0107 graczy po prostu ignoruje. Elementy roguelike\u2019a musz\u0105 wsp\u00f3\u0142gra\u0107 z ekonomi\u0105 gry, a nie z ni\u0105 rywalizowa\u0107. Je\u015bli gracz czuje, \u017ce eksperymentowanie jest nieop\u0142acalne, oznacza to, \u017ce system progresji nie tylko nie dzia\u0142a, ale wr\u0119cz zabija zabaw\u0119, zamieniaj\u0105c potencjaln\u0105 ekscytacj\u0119 w nudn\u0105 kalkulacj\u0119.\n\nPodsumowanie\n\nPatrz\u0105c na ewolucj\u0119 roguelike\u2019\u00f3w i roguelite\u2019\u00f3w, staje si\u0119 jasne, \u017ce nie mamy do czynienia z chwilow\u0105 mod\u0105, tylko z trwa\u0142\u0105 zmian\u0105 w filozofii projektowania gier. Sukces tego gatunku wynika z faktu, \u017ce jako jeden z nielicznych szanuje nie tylko czas gracza, lecz przede wszystkim jego inteligencj\u0119. W erze gier-us\u0142ug, kt\u00f3re cz\u0119sto sprowadzaj\u0105 si\u0119 do bezmy\u015blnego \u201egrindowania\u201d cyferek i odhaczania list zada\u0144, roguelike stawia spraw\u0119 jasno \u2013 je\u015bli chcemy wygra\u0107, musimy si\u0119 zaadaptowa\u0107. Nie wystarczy po\u015bwi\u0119cenie setek godzin \u017cmudnemu nabijaniu poziom\u00f3w \u2013 trzeba zrozumie\u0107 systemy, po\u0142\u0105czy\u0107 fakty i w locie reagowa\u0107 na zmieniaj\u0105ce si\u0119 warunki. To design, kt\u00f3ry nagradza zaanga\u017cowanie, a nie tylko mechaniczn\u0105 wytrwa\u0142o\u015b\u0107.\n\nTytu\u0142y takie jak Elden Ring: Nightreign czy Absolum pokazuj\u0105, jak szerokie spektrum do\u015bwiadcze\u0144 potrafi pokry\u0107 ta mechanika. Z jednej strony mamy podej\u015bcie prawie surowe, reprezentowane przez produkcje FromSoftware, gdzie progresja oparta jest niemal wy\u0142\u0105cznie na wiedzy. Tutaj satysfakcja wynika z faktu, \u017ce to my stali\u015bmy si\u0119 lepsi \u2013 nauczyli\u015bmy si\u0119 mapy, ruch\u00f3w boss\u00f3w i optymalizacji trasy. Z drugiej strony mamy l\u017cejsze podej\u015bcie Absolum, gdzie warstwa roguelite\u2019a z metaprogresj\u0105 s\u0142u\u017cy jako o\u017cywczy zastrzyk dla skostnia\u0142ego gatunku beat \u2019em up, nadaj\u0105c taktyczny sens ka\u017cdemu, nawet najprostszemu, starciu.\n\nNiezale\u017cnie od tego, czy wolimy surow\u0105 szko\u0142\u0119 przetrwania, czy relaksuj\u0105ce zbieranie trwa\u0142ych ulepsze\u0144, mechanika ta wygrywa z konkurencj\u0105 dzi\u0119ki jednemu, kluczowemu, elementowi \u2013 poczuciu sprawczo\u015bci. W grze liniowej wszyscy prze\u017cywamy t\u0119 sam\u0105 histori\u0119, ogl\u0105damy te same przerywniki i pokonujemy boss\u00f3w tym samym sposobem. W dobrym roguelike\u2019u ka\u017cda rozgrywka jest nasz\u0105 w\u0142asn\u0105, unikaln\u0105 opowie\u015bci\u0105. To historia o tym jednym runie, w kt\u00f3rym wylosowali\u015bmy absurdalnie pot\u0119\u017cn\u0105 kombinacj\u0119 przedmiot\u00f3w; o tej walce, kt\u00f3r\u0105 wygrali\u015bmy z jednym punktem \u017cycia dzi\u0119ki ryzykownej decyzji podj\u0119tej pi\u0119\u0107 minut wcze\u015bniej. I w\u0142a\u015bnie dlatego wci\u0105\u017c odpalamy kolejny run \u2013 nie po to, by powt\u00f3rzy\u0107 to, co ju\u017c by\u0142o, ale by napisa\u0107 zupe\u0142nie now\u0105 histori\u0119 zwyci\u0119stwa i zmierzy\u0107 si\u0119 z kolejnym wyzwaniem."
         }
@@ -330,7 +330,7 @@
             "description": "Pchli targ w Ostrowcu \u015awi\u0119tokrzyskim to miejsce, w kt\u00f3rym mo\u017cna kupi\u0107 prawdziwe cuda. Porcelana, obrazy, monety, znaczki ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.-fSKBzHGqbdctJb9GbC3cy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Nasze Miasto on MSN8 godz.",
+            "date": "Nasze Miasto on MSN14 godz.",
             "source": "Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -346,7 +346,7 @@
             "description": "Hal\u0105 Expo w \u0141odzi przy al. Politechniki na ca\u0142y weekend 29 i 30 listopada zaw\u0142adn\u0119li kolekcjonerzy rzeczy unikatowych, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.gnI2Zr60YCGEeilgAfLXYC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Express Ilustrowany on MSN3 godz.",
+            "date": "Express Ilustrowany on MSN9 godz.",
             "source": "Express Ilustrowany on MSN",
             "article_content": ""
         }
@@ -362,25 +362,9 @@
             "description": "Nordic walking w woj. \u015bl\u0105skim da si\u0119 trenowa\u0107 prawie wsz\u0119dzie. Ale zach\u0119camy do wybrania tras sprawdzonych przez innych.",
             "image_url": "https://www.bing.pl/th?id=OVFT.4cdXvNO_23EASFBSxwGIZi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Dziennik Zachodni5 godz.",
+            "date": "Dziennik Zachodni11 godz.",
             "source": "Dziennik Zachodni",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "30 LISTOPADA 2025",
-            "link": "https://www.krakow.pl/kalendarium/1919,shw,2025-11-30,9,day.html",
-            "description": "Muzeum Archeologiczne w Krakowie w przededniu 175. rocznicy powstania (2025 r.) otworzy\u0142o now\u0105 wystaw\u0119 sta\u0142\u0105 po\u015bwi\u0119con\u0105 najdawniejszym dziejom regionu. Warto wspomnie\u0107, \u017ce po raz pierwszy zabytki ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "zabytkowe+przedmioty",
-            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w21 godz.",
-            "source": "Oficjalny serwis miejski - Magiczny Krak\u00f3w",
-            "article_content": "Szukaj wydarzenia\n\nKategoria: -- wszystkie -- Spektakle teatralne Wystawy sta\u0142e Muzyka klasyczna Muzyka rozrywkowa Spacery i zwiedzanie Kabaret Akcje czytelnicze Spektakle taneczne Inne koncerty Inne przedstawienia Inne wydarzenia literackie W gminach Metropolii Spotkania i slajdowiska Muzyka klubowa Dzieci\u0119ce warsztaty Wystawy czasowe Targi i kiermasze Pozosta\u0142e Spotkania i wyk\u0142ady literackie Wydarzenia sportowe Festiwale teatralne Festiwale Wyk\u0142ady, spacery i warsztaty artystyczne Pokazy filmowe Widowiska plenerowe i happeningi Festiwale sztuk wizualnych Festiwale muzyczne Cykle filmowe"
         }
     },
     {
@@ -394,7 +378,7 @@
             "description": "W 1675 r. pod kaplic\u0105 po\u0142udniow\u0105 pochowano ksi\u0119\u017cn\u0105 Zofi\u0119 z Opali\u0144skich Lubomirsk\u0105. Na jej sarkofagu, wykonanym z czarnego marmuru, znajduje si\u0119 rze\u017aba postaci zmar\u0142ej, odlana z cyny i o\u0142owiu. Sarkofag ...",
             "image_url": "https://www.bing.pl/th?id=ODF.lto-jgjLT22CJn-xbZRKjA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "wykopano+zabytkowe",
-            "date": "Kurier Lubelski on MSN13 godz.",
+            "date": "Kurier Lubelski on MSN19 godz.",
             "source": "Kurier Lubelski on MSN",
             "article_content": ""
         }
