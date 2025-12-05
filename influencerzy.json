@@ -5,12 +5,12 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Retro Jarmark na Wodzie w Bydgoszczy po raz trzeci. Zobacz, co przygotowano w programie wydarzenia",
-            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/retro-jarmark-na-wodzie-w-bydgoszczy-po-raz-trzeci-zobacz-co-przygotowano-w-programie-wydarzenia/ar-AA1RFRMJ?ocid=BingNewsVerp",
+            "title": "Retro Jarmark na Wodzie w Bydgoszczy po raz trzeci. Zobacz, co przygotowano w programie",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/retro-jarmark-na-wodzie-w-bydgoszczy-po-raz-trzeci-zobacz-co-przygotowano-w-programie/ar-AA1RFRMJ?ocid=BingNewsVerp",
             "description": "W najbli\u017cszy weekend po raz trzeci w Bydgoszczy odb\u0119dzie si\u0119 Retro Jarmark na Wodzie. W sobot\u0119 i niedziel\u0119 (6-7 grudnia) na ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.PJIzr9GPOQnG4jmye_hNty&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Express Bydgoski on MSN22 godz.",
+            "date": "Express Bydgoski on MSN1 godz.",
             "source": "Express Bydgoski on MSN",
             "article_content": ""
         }
@@ -26,7 +26,7 @@
             "description": "Nowy zarz\u0105d Telewizji Polskiej zapowiedzia\u0142 wprowadzenie od wiosnnej ram\u00f3wki powa\u017cnych zmian programowych. Dodatkowo w TVP ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.ySOrs6qfwaGy4wXuJbhZzS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "media2.pl6 godz.",
+            "date": "media2.pl10 godz.",
             "source": "media2.pl",
             "article_content": "Content not available"
         }
@@ -42,9 +42,41 @@
             "description": "Wi\u0119ksza liczba kana\u0142\u00f3w telewizyjnych w lepszej jako\u015bci - to g\u0142\u00f3wny pow\u00f3d, dla kt\u00f3rego decydujemy si\u0119 przej\u015b\u0107 z telewizji analogowej na cyfrow\u0105. Je\u015bli dodatkowo jeste\u015bmy zainteresowani odbiorem kana\u0142\u00f3w ...",
             "image_url": "https://www.bing.pl/th?id=ODF.I7vwNTufYngJ2QBd5LWsvg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "media2.pl18 godz.",
+            "date": "media2.pl22 godz.",
             "source": "media2.pl",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Stare monety z czas\u00f3w PRL-u warte fortun\u0119. Kolekcjonerzy w\u0142a\u015bnie ich szukaj\u0105! [ZDJ\u0118CIA] 5.12.2025",
+            "link": "https://gk24.pl/stare-monety-z-czasow-prl-u-warte-fortune-kolekcjonerzy-wlasnie-ich-szukaja-zdjecia-5-12-2025/ar/c3p2-28049553",
+            "description": "Na starych monetach z czas\u00f3w PRL-u mo\u017cna zarobi\u0107 du\u017co pieni\u0119dzy. Wycena monet zale\u017cy od ich stanu zachowania, a dobrze ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.0qowG_2RHnDFLYejpDfxZy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "G\u0142os Koszali\u0144ski3 godz.",
+            "source": "G\u0142os Koszali\u0144ski",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Tyle pieni\u0119dzy p\u0142ac\u0105 kolekcjonerzy za stare polskie monety. Nie do wiary! Mo\u017cna du\u017co na nich zarobi\u0107 5.12.2025",
+            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/tyle-pieni%C4%99dzy-p%C5%82ac%C4%85-kolekcjonerzy-za-stare-polskie-monety-nie-do-wiary-mo%C5%BCna-du%C5%BCo-na-nich-zarobi%C4%87-5122025/ar-AA1QOnQB?ocid=BingNewsVerp",
+            "description": "Kolekcjonerzy s\u0105 gotowi p\u0142aci\u0107 wysokie kwoty za stare polskie monety, kt\u00f3re potrafi\u0105 osi\u0105ga\u0107 cen\u0119 nawet kilku tysi\u0119cy z\u0142otych ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT._VPgEXcM3dtR7HZcxrJPCC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "G\u0142os Koszali\u0144ski on MSN2 godz.",
+            "source": "G\u0142os Koszali\u0144ski on MSN",
+            "article_content": ""
         }
     },
     {
@@ -58,41 +90,9 @@
             "description": "Faktyczna warto\u015b\u0107 starych monet i banknot\u00f3w jest zale\u017cna od kilku czynnik\u00f3w. Przede wszystkim wa\u017cne jest to: ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.33BAn5yYsZQliUItLcamKC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Dziennik Ba\u0142tycki on MSN11 godz.",
+            "date": "Dziennik Ba\u0142tycki on MSN15 godz.",
             "source": "Dziennik Ba\u0142tycki on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Tyle pieni\u0119dzy p\u0142ac\u0105 kolekcjonerzy za stare polskie monety. Nie do wiary! Mo\u017cna du\u017co na nich zarobi\u0107 4.12.2025",
-            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/tyle-pieni%C4%99dzy-p%C5%82ac%C4%85-kolekcjonerzy-za-stare-polskie-monety-nie-do-wiary-mo%C5%BCna-du%C5%BCo-na-nich-zarobi%C4%87/ar-AA1QOnQB?ocid=BingNewsVerp",
-            "description": "Kolekcjonerzy s\u0105 gotowi p\u0142aci\u0107 wysokie kwoty za stare polskie monety, kt\u00f3re potrafi\u0105 osi\u0105ga\u0107 cen\u0119 nawet kilku tysi\u0119cy z\u0142otych ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT._VPgEXcM3dtR7HZcxrJPCC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski on MSN23 godz.",
-            "source": "G\u0142os Koszali\u0144ski on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Stare monety z czas\u00f3w PRL-u warte fortun\u0119. Kolekcjonerzy w\u0142a\u015bnie ich szukaj\u0105! [ZDJ\u0118CIA] 4.12.2025",
-            "link": "https://gk24.pl/stare-monety-z-czasow-prl-u-warte-fortune-kolekcjonerzy-wlasnie-ich-szukaja-zdjecia-4-12-2025/ar/c3p2-28049553",
-            "description": "Na starych monetach z czas\u00f3w PRL-u mo\u017cna zarobi\u0107 du\u017co pieni\u0119dzy. Wycena monet zale\u017cy od ich stanu zachowania, a dobrze utrzymane egzemplarze s\u0105 szczeg\u00f3lnie cenione. W galerii przedstawiamy za ile ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski23 godz.",
-            "source": "G\u0142os Koszali\u0144ski",
-            "article_content": "Content not available"
         }
     },
     {
@@ -106,7 +106,7 @@
             "description": "Stare monety potrafi\u0105 zaskoczy\u0107 nie tylko wygl\u0105dem, ale te\u017c stosunkowo dobr\u0105 dost\u0119pno\u015bci\u0105. Cho\u0107 maj\u0105 po kilkaset lat i ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.I9Aq3I7GAKhJKbOrFdmbDC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Nowa Trybuna Opolska on MSN14 godz.",
+            "date": "Nowa Trybuna Opolska on MSN18 godz.",
             "source": "Nowa Trybuna Opolska on MSN",
             "article_content": ""
         }
@@ -117,14 +117,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Te egzemplarze to prawdziwe numizmatyczne pere\u0142ki. Ich warto\u015b\u0107 ro\u015bnie z roku na rok",
-            "link": "https://nto.pl/te-egzemplarze-to-prawdziwe-numizmatyczne-perelki-ich-wartosc-rosnie-z-roku-na-rok/ar/c1p2-28073737",
-            "description": "W Polskiej Rzeczpospolitej Ludowej monety okoliczno\u015bciowe by\u0142y emitowane z okazji wa\u017cnych rocznic i wydarze\u0144 historycznych.",
-            "image_url": "https://www.bing.pl/th?id=OVFT.wL8w8AH-uzdWD1xd7QB-VC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Takie pieni\u0105dze wymie\u0144 w grudniu 2025. Takie banknoty musisz wymieni\u0107 przed \u015bwi\u0119tami",
+            "link": "https://www.msn.com/pl-pl/zdrowie/nasze-zdrowie/takie-pieni%C4%85dze-wymie%C5%84-w-grudniu-2025-takie-banknoty-musisz-wymieni%C4%87-przed-%C5%9Bwi%C4%99tami/ar-AA1Rh5qu?ocid=BingNewsVerp",
+            "description": "Sprzedawca ma prawo odm\u00f3wi\u0107 przyj\u0119cia banknoty, kt\u00f3ry jest uszkodzony. W takiej sytuacji zniszczony banknot musimy wymieni\u0107, ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.BKLyfLu1hLvFb8IwsbdDfi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Nowa Trybuna Opolska19 godz.",
-            "source": "Nowa Trybuna Opolska",
-            "article_content": "Content not available"
+            "date": "Gazeta Pomorska on MSN2 godz.",
+            "source": "Gazeta Pomorska on MSN",
+            "article_content": ""
         }
     },
     {
@@ -133,14 +133,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "\"Lublin, kt\u00f3rego ju\u017c nie ma\". Zobacz jak wygl\u0105da\u0142o centrum, Wieniawa oraz zak\u0142ady mechaniczne. Oto archiwalne zdj\u0119cia",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/lublin-kt%C3%B3rego-ju%C5%BC-nie-ma-zobacz-jak-wygl%C4%85da%C5%82o-centrum-wieniawa-oraz-zak%C5%82ady-mechaniczne-oto-archiwalne-zdj%C4%99cia/ar-AA1RCtdw?ocid=BingNewsVerp",
+            "title": "\"Lublin, kt\u00f3rego ju\u017c nie ma\". Zobacz, jak wygl\u0105da\u0142o centrum, Wieniawa oraz zak\u0142ady mechaniczne. Oto archiwalne zdj\u0119cia",
+            "link": "https://www.msn.com/pl-pl/historia-i-kultura-spo%C5%82ecze%C5%84stwa/wydarzenia-kulturalne/lublin-kt%C3%B3rego-ju%C5%BC-nie-ma-zobacz-jak-wygl%C4%85da%C5%82o-centrum-wieniawa-oraz-zak%C5%82ady-mechaniczne-oto-archiwalne-zdj%C4%99cia/ar-AA1RCtdw?ocid=BingNewsVerp",
             "description": "\u201eLublin, kt\u00f3rego ju\u017c nie ma' to tytu\u0142 wystawy zorganizowanej przez Archiwum Pa\u0144stwowe w Lublinie we wsp\u00f3\u0142pracy z ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.aF45-1UNK24Qk5ymudJ1by&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "image_url": "https://www.bing.pl/th?id=OVFT.4R8HBRdUooNwICT_Cp689i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Kurier Lubelski on MSN8 godz.",
+            "date": "Kurier Lubelski on MSN40 min",
             "source": "Kurier Lubelski on MSN",
             "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Eksplozje w atmosferze Ziemi by\u0142y cz\u0119stsze. Nie pozostawi\u0142y krater\u00f3w",
+            "link": "https://tech.wp.pl/eksplozje-w-atmosferze-ziemi-byly-czestsze-nie-pozostawily-kraterow,7229094271118272a",
+            "description": "Historia Ziemi by\u0142a znacznie bardziej burzliwa, ni\u017c nam si\u0119 dotychczas wydawa\u0142o. Zesp\u00f3\u0142 naukowc\u00f3w opisa\u0142 w\u0142a\u015bnie seri\u0119 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.t42wfZSXhmDn58SCKg9Qey&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "WP Tech3 godz.",
+            "source": "WP Tech",
+            "article_content": "Autorzy najnowszego opracowania przekonuj\u0105, \u017ce do takich eksplozji jeszcze przed dotarciem meteoroidu do powierzchni Ziemi mo\u017ce dochodzi\u0107 cz\u0119\u015bciej ni\u017c do klasycznych uderze\u0144, po kt\u00f3rych pozostaj\u0105 kratery. Prof. James Kennett z Uniwersytetu Kalifornijskiego w Santa Barbara podkre\u015bla jednocze\u015bnie, \u017ce takie eksplozje w atmosferze mog\u0105 odpowiada\u0107 za rozleg\u0142e zniszczenia spowodowane przez wysokie temperatury i ci\u015bnienie takiej eksplozji, jednocze\u015bnie nie pozostawiaj\u0105c trwa\u0142ych struktur, co utrudnia ich identyfikacj\u0119.\n\nW czterech \u015bwie\u017co opublikowanych artyku\u0142ach naukowych badacze opisali dowody pochodz\u0105ce z r\u00f3\u017cnych okres\u00f3w i miejsc: od g\u0142\u0119bin p\u00f3\u0142nocnego Atlantyku po relikty staro\u017cytnego miasta na Bliskim Wschodzie. Naukowcy bazuj\u0105 tutaj na materiale powstaj\u0105cym tylko w ekstremalnych warunkach, czyli na rzadkich pierwiastkach o pochodzeniu kometarnym, stopionym szkliwie, mikrosferach i kwarcu wstrz\u0105sowym z charakterystycznymi sp\u0119kaniami.\n\nKluczowym w\u0105tkiem w tych badaniach jest hipoteza uderzenia w m\u0142odszym dryasie (YDIH, ang. Younger Dryas Impact Hypothesis). W periodyku naukowym \"PLOS One\" opisano pierwsze dowody morskie tego zdarzenia: wska\u017aniki impaktowe w kilku rdzeniach pozyskanych z Zatoki Baffina, na zach\u00f3d od Grenlandii. To pierwszy przypadek odkrycia dowod\u00f3w na uderzenie obiektu kosmicznego w materiale morskim. To w\u0142a\u015bnie tam znaleziono platyn\u0119, iryd i mikrosfery.\n\nGigantyczna eksplozja, kt\u00f3ra nie pozostawi\u0142a po sobie \u015blad\u00f3w\n\nHipoteza YDIH zak\u0142ada, \u017ce ok. 12,8 tys. lat temu nad Ziemi\u0105 eksplodowa\u0142a rozcz\u0142onkowana kometa, wywo\u0142uj\u0105c och\u0142odzenie M\u0142odszego Dryasu, po\u017cary i odk\u0142adanie si\u0119 tzw. czarnej maty bogatej w w\u0119giel. Materia\u0142 mia\u0142 trafi\u0107 do atmosfery i zdeponowa\u0107 si\u0119 globalnie w szeroko rozproszonych warstwach, tak\u017ce na dnach ocean\u00f3w si\u0119gaj\u0105cych ok. 2 km g\u0142\u0119boko\u015bci.\n\nBadacze wskazuj\u0105 r\u00f3wnie\u017c p\u0142ytkie jezioro sezonowe ko\u0142o Perkins w Luizjanie jako mo\u017cliwy pierwszy znany krater z okresu granicy m\u0142odszego dryasu. Analizy prowadzone do 2024 r. wykaza\u0142y mikrosfery, szkliwo i kwarc wstrz\u0105sowy datowane radiow\u0119glowo na czas M\u0142odszego Dryasu. Autorzy zastrzegaj\u0105 jednak, \u017ce potrzebne s\u0105 dalsze badania, by potwierdzi\u0107 hipotez\u0119 impaktow\u0105 dla tej niecki.\n\nZesp\u00f3\u0142 wr\u00f3ci\u0142 te\u017c do dw\u00f3ch spektakularnych miejsc: Tunguska (1908) i Tall el-Hammam w dolinie Jordanu. W pr\u00f3bkach z Tunguski stwierdzono kwarc wstrz\u0105sowy z planarnymi deformacjami, szkliwo w sp\u0119kaniach, mikrosfery oraz stopione metale i w\u0119giel. W Tall el-Hammam natomiast opisano zr\u00f3\u017cnicowane wzory p\u0119kni\u0119\u0107 kwarcu \u2013 r\u00f3wnoleg\u0142e, siateczkowe, krzywoliniowe i subplanarne \u2013 zgodne z dzia\u0142aniem wysokich ci\u015bnie\u0144 i kierunkowych fal uderzeniowych.\n\nAutorzy sugeruj\u0105, \u017ce tego typu eksplozje w powietrzu mog\u0105 by\u0107 cz\u0119stsze i bardziej rozleg\u0142e w skutkach ni\u017c lokalne uderzenia tworz\u0105ce kratery. Ich zdaniem to argument, by zwi\u0119kszy\u0107 nak\u0142ady na badania tych zjawisk i ich \u015blad\u00f3w w zapisie geologicznym."
         }
     },
     {
@@ -154,7 +170,7 @@
             "description": "Microsoft od lat powtarza, \u017ce lista wspieranych procesor\u00f3w w Windows 11 ma by\u0107 jednoznaczn\u0105 pomoc\u0105 w ocenie kompatybilno\u015bci.",
             "image_url": "https://www.bing.pl/th?id=OVFT.nxdeEkwRq7PF2wnu6qg52S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Antyweb11 godz.",
+            "date": "Antyweb15 godz.",
             "source": "Antyweb",
             "article_content": "Microsoft od lat powtarza, \u017ce lista wspieranych procesor\u00f3w w Windows 11 ma by\u0107 jednoznaczn\u0105 pomoc\u0105 w ocenie kompatybilno\u015bci. Tymczasem najnowsza aktualizacja dokumentacji nie spe\u0142nia swojego za\u0142o\u017cenia: ukry\u0142a konkrety, ods\u0142oni\u0142a chaos i stworzy\u0142a przekonanie, \u017ce stare uk\u0142ady ponownie za\u0142apa\u0142y si\u0119 na list\u0119. To troch\u0119 tak, jak \"moje\" porz\u0105dkowanie szuflad: niby co\u015b tam w nich sprz\u0105tam, ale to ponownie miejsca pe\u0142ne ba\u0142aganu.\n\nNowa lista procesor\u00f3w Intela wygl\u0105da schludnie tylko na pierwszy rzut oka. Zamiast konkretnych modeli, w dokumencie widniej\u0105 pozycje typu \"Intel Core i7 (14. generacja)\" albo \"Intel Core 7000X Series\". Linki prowadz\u0105 do og\u00f3lnych stron Intela, jednak nie do pe\u0142nej listy kompatybilnych chip\u00f3w. I teraz we\u017a tu odgadnij, czy konkretny procesor dogada si\u0119 z Windows 11...\n\nReklama\n\nDochodzimy tu do przykrej sytuacji: u\u017cytkownik z kilkuletnim procesorem nie jest w stanie oceni\u0107, czy jego maszyna jest wspierana, czy nie \u2014 chyba \u017ce zacznie wertowa\u0107 archiwa Intela. To prosta droga do b\u0142\u0119dnych za\u0142o\u017ce\u0144, \u017ce \"skoro dana seria tu jest, to Windows 11 zadzia\u0142a na pewno\". To nie jest takie jednoznaczne. Niekt\u00f3re uk\u0142ady z danej serii s\u0105 wspierane, inne nie \u2014 a dokumentacja dziwnie na ten temat milczy.\n\nMo\u017cna te\u017c podnie\u015b\u0107 raban o to, gdzie znikn\u0119\u0142y procesory normalnie obs\u0142ugiwane. Klasyczny przyk\u0142ad to Intel Core i7-7820HQ, jedyny Kaby Lake oficjalnie dopuszczony do Windows 11\u2026 poniewa\u017c nap\u0119dza Surface Studio 2. Ten model po prostu wypad\u0142 z listy, cho\u0107 urz\u0105dzenie Microsoftu dzia\u0142a na Windows 11 w pe\u0142ni normalnie.\n\nTak, ale jednak nie\n\nNajbardziej absurdalny element dotyczy serii Celeron 3000. Dokumentacja twierdzi, \u017ce jest wspierana. Brzmi \u015bwietnie \u2014 dop\u00f3ki nie zajrzysz g\u0142\u0119biej i nie odkryjesz, \u017ce mowa o uk\u0142adach si\u0119gaj\u0105cych nawet 2015 roku.\n\nZ dziesi\u0119ciu procesor\u00f3w Celeron 3000 tylko jeden: 3867U, kt\u00f3ry spe\u0142nia wymagania Windows 11. Reszta to relikty sprzed dekady, kompletnie niezgodne z Windows 11. Tymczasem spos\u00f3b prezentacji listy sugeruje co\u015b odwrotnego.\n\nMicrosoft wprowadzi\u0142 wi\u0119c kompletny ba\u0142agan uwzgl\u0119dniaj\u0105cy og\u00f3lnikowe nazwy serii, brakuje te\u017c wyszczeg\u00f3lnionych wyj\u0105tk\u00f3w, a wszystko to tworzy fa\u0142szywe poczucie zgodno\u015bci sprz\u0119tu. Przeci\u0119tny u\u017cytkownik mo\u017ce serio doj\u015b\u0107 do wniosku, \u017ce jego stary laptop \"\u0142apie si\u0119\" na Windows 11, a nast\u0119pnie pot\u0119\u017cnie zdziwi\u0107, gdy podczas instalacji system zaprotestuje.\n\nCisza, ale przynajmniej klarowna\n\nCo ciekawe, problem dotyczy wy\u0142\u0105cznie Intela. Listy dla AMD i Qualcomm nadal wymieniaj\u0105 konkretne procesory \u2014 od pierwszego do ostatniego. Ale to nie znaczy, \u017ce s\u0105 w pe\u0142ni aktualne. Brakuje na nich zar\u00f3wno Snapdragona X Elite, jak i najnowszych Ryzen\u00f3w 9000 oraz nowych Threadripper\u00f3w. To niewielki problem, ale brak konsekwencji jest odrobin\u0119 nieprzyjemny.\n\nReklama\n\nMicrosoft t\u0142umaczy, \u017ce nowe generacje s\u0105 uznawane za wspierane, je\u015bli spe\u0142niaj\u0105 ustalone za\u0142o\u017cenia, a listy aktualizowane s\u0105 tylko przy kolejnych og\u00f3lnodost\u0119pnych wersjach Windows. Niby to logiczne. Ale w sytuacji, gdy jeste\u015bmy kr\u00f3tko po rozstaniu si\u0119 z poprzedni\u0105, lubian\u0105 wersj\u0105 Windows - warto by\u0142oby u\u0142atwi\u0107 posiadaczom maszyn ocen\u0119, czy Windows 11 \"da rad\u0119\". A tak: dokumentacja nie pokazuje tego, co powinna \u2014 ani pe\u0142nej listy wspieranych uk\u0142ad\u00f3w, ani jasnej informacji, kt\u00f3re serie s\u0105 w pe\u0142ni kompatybilne, a kt\u00f3re tylko cz\u0119\u015bciowo.\n\nTo ogromnie wa\u017cne. Szczeg\u00f3lnie teraz\n\nWindows 10 straci\u0142 wsparcie w pa\u017adzierniku 2025 roku. Dziesi\u0105tki milion\u00f3w urz\u0105dze\u0144 poszukuje werdyktu: mo\u017cna aktualizowa\u0107 czy nie? To dlatego przejrzysto\u015b\u0107 list kompatybilno\u015bci ma niebagatelne znaczenie. U\u017cytkownicy starszych laptop\u00f3w i desktop\u00f3w pr\u00f3buj\u0105 ustali\u0107, czy musz\u0105 kupi\u0107 nowy sprz\u0119t.\n\nReklama\n\nW tej sytuacji aktualizacja dokumentacji powinna rozja\u015bni\u0107 obraz, a nie go zaciemnia\u0107. Zw\u0142aszcza \u017ce to Microsoft stworzy\u0142 twarde wymagania dla Windowsa 11 \u2014 chodzi o chip TPM 2.0, Secure Boot, i wym\u00f3g konkretnych generacji procesor\u00f3w \u2014 i sam powinien je wyja\u015bnia\u0107 od A do Z. Na razie wygl\u0105da to jednak tak, jakby lista mia\u0142a przede wszystkim nie budzi\u0107 ogromnych kontrowersji, \u017ce tych wspieranych sprz\u0119t\u00f3w jest jednak mniej, ni\u017c Microsoft by tego chcia\u0142.\n\nCzytaj r\u00f3wnie\u017c: Cieszyli\u015bmy si\u0119 z tej zmiany w Windows 11 ledwie dob\u0119. Microsoft zepsu\u0142 i to\n\nGranica kompatybilno\u015bci\n\nOficjalna linia t\u0142umaczenia jest jasna: nowe procesory s\u0105 domy\u015blnie wspierane, nawet je\u015bli jeszcze nie ma ich na li\u015bcie. Problem zaczyna si\u0119 wtedy, gdy lista jednocze\u015bnie dopisuje ca\u0142e serie, w kt\u00f3rych wi\u0119kszo\u015b\u0107 uk\u0142ad\u00f3w wsparcia nie ma \u2014 i nikt nie m\u00f3wi, kt\u00f3re konkretnie modele s\u0105 wspierane, a kt\u00f3re nie. Dokumentacja ma budzi\u0107 zaufanie. A staje si\u0119 ju\u017c kolejnym punktem, za kt\u00f3ry Microsoft jest krytykowany: obok cho\u0107by coraz bardziej \"skopanych\" uaktualnie\u0144 dla Windows 11."
         }
@@ -170,7 +186,7 @@
             "description": "Rozgl\u0105dasz si\u0119 za pomys\u0142em na tras\u0119 rowerow\u0105 w okolicy Zdu\u0144skiej Woli? Podpowiadamy, gdzie warto si\u0119 wybra\u0107. Wybrali\u015bmy 5 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.lDjN2Tj7WlQTLcLKdaqgOS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Zdu\u0144ska Wola Nasze Miasto15 godz.",
+            "date": "Zdu\u0144ska Wola Nasze Miasto19 godz.",
             "source": "Zdu\u0144ska Wola Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -186,25 +202,9 @@
             "description": "Po ponad roku prac renowacyjnych Zamek Kr\u00f3lewski na Wawelu ponownie otworzy\u0142 swoj\u0105 Zbrojowni\u0119, jedn\u0105 z najstarszych i ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.GH6QCuRR6ulqeEd7EycHhS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Polskie Radio19 godz.",
+            "date": "Polskie Radio23 godz.",
             "source": "Polskie Radio",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Wyj\u0105tkowy wyk\u0142ad dr Moniki Kasprzak w B\u0142\u0119kitnym Baranku. Gdzie znajdowa\u0142y si\u0119 najstarsze o\u015brodki w\u0142adzy w Gda\u0144sku?",
-            "link": "https://www.msn.com/pl-pl/rozrywka/news/wyj%C4%85tkowy-wyk%C5%82ad-dr-moniki-kasprzak-w-b%C5%82%C4%99kitnym-baranku-gdzie-znajdowa%C5%82y-si%C4%99-najstarsze-o%C5%9Brodki-w%C5%82adzy-w-gda%C5%84sku/ar-AA1RFTZ7?ocid=BingNewsVerp",
-            "description": "Gdzie znajdowa\u0142y si\u0119 najstarsze o\u015brodki w\u0142adzy w Gda\u0144sku i co na ten temat m\u00f3wi\u0105 najnowsze odkrycia archeologiczne? Ju\u017c 11 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.G9LzP68fBZ0TSuYULs8xMi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "Gda\u0144sk Nasze Miasto on MSN23 godz.",
-            "source": "Gda\u0144sk Nasze Miasto on MSN",
-            "article_content": ""
+            "article_content": "- To nie tylko nowa aran\u017cacja, ale r\u00f3wnie\u017c nowa opowie\u015b\u0107 - podkre\u015bla\u0142 dyrektor Zamku Kr\u00f3lewskiego na Wawelu, prof. Andrzej Betlej, podczas konferencji prasowej. - Nie pokazujemy wy\u0142\u0105cznie mieczy, szpad czy pancerzy, ale tak\u017ce obrazy, tkaniny, obiekty, kt\u00f3re nigdy wcze\u015bniej nie by\u0142y eksponowane. Zmienili\u015bmy perspektyw\u0119 - m\u00f3wimy o znaczeniu tych przedmiot\u00f3w, o ich symbolice i kontek\u015bcie - m\u00f3wi\u0142.\n\n>>> Pos\u0142uchaj audycji \"O wszystkim z kultur\u0105\"\n\nNowa opowie\u015b\u0107 o dawnych or\u0119\u017cach\n\nEfektem wsp\u00f3\u0142pracy ponad dwustu os\u00f3b jest wystawa, na kt\u00f3rej zaprezentowano wydobyte z magazyn\u00f3w rzadkie zbroje i szable. Po raz pierwszy od lat publiczno\u015b\u0107 mo\u017ce zobaczy\u0107 tak\u017ce chor\u0105giew nagrobn\u0105 wojewody krakowskiego Stanis\u0142awa Barziego, zmar\u0142ego w 1571 roku. W\u015br\u00f3d nowo zakupionych eksponat\u00f3w znalaz\u0142a si\u0119 g\u0142ownia papieskiego miecza po\u015bwi\u0119canego, wi\u0105zana z kr\u00f3lem Janem Kazimierzem.\n\nWawel jako twierdza, rezydencja i miejsce triumfu\n\nKurator ekspozycji, Krzysztof J. Czy\u017cewski, zwraca uwag\u0119, \u017ce nowa Zbrojownia \u0142\u0105czy w sobie historyczn\u0105 i symboliczn\u0105 rol\u0119 wzg\u00f3rza wawelskiego. - Odwo\u0142ujemy si\u0119 do Wawelu jako twierdzy i rezydencji kr\u00f3lewskiej, w kt\u00f3rej przechowywano nie tylko szaty cywilne, ale i uzbrojenie monarch\u00f3w. Pokazujemy te\u017c Wawel jako miejsce triumfalne. Przestrze\u0144, gdzie sk\u0142adano wota i \u015bwi\u0119towano zwyci\u0119stwa - podkre\u015bla\u0142.\n\nZgromadzone eksponaty tworz\u0105 wielowarstwow\u0105 opowie\u015b\u0107: od he\u0142mu greckiego hoplity po wsp\u00f3\u0142czesny obraz \u0141ukasza Stok\u0142osy, nawi\u0105zuj\u0105cy do kr\u00f3lewskich militari\u00f3w. W ten spos\u00f3b wystawa po raz pierwszy \u0142\u0105czy antyk i wsp\u00f3\u0142czesno\u015b\u0107, pokazuj\u0105c ci\u0105g\u0142o\u015b\u0107 idei obrony, mocy i pi\u0119kna w sztuce or\u0119\u017ca.\n\nCzytaj tak\u017ce:\n\nPodziemia i odkrycia archeologiczne\n\nNowa Zbrojownia to r\u00f3wnie\u017c dwie udost\u0119pnione przestrzenie w podziemiach Wie\u017cy Du\u0144skiej. W pierwszej z nich mo\u017cna zobaczy\u0107 pier\u015bcie\u0144 sprzed tysi\u0105ca lat, odnaleziony w 2023 roku dok\u0142adnie w miejscu, w kt\u00f3rym jest dzi\u015b eksponowany. Druga kryje relikty roma\u0144skiej wie\u017cy obronnej z pierwszej po\u0142owy XII wieku, jednej z najstarszych murowanych budowli na wzg\u00f3rzu.\n\nHistoria i ci\u0105g\u0142o\u015b\u0107 w wawelskiej Zbrojowni\n\nZbrojownia na Wawelu otwiera si\u0119 na odwiedzaj\u0105cych od 1930 roku. To sta\u0142a ekspozycja, kt\u00f3ra prezentuje polsk\u0105 i europejsk\u0105 sztuk\u0119 militarn\u0105 - od \u015bredniowiecznych mieczy i pancerzy po zdobion\u0105 bro\u0144 paln\u0105. Nowa aran\u017cacja przywraca jej blask i znaczenie - nie tylko jako muzealnej kolekcji, ale te\u017c miejsca refleksji nad histori\u0105, kultur\u0105 i tym, jak zmienia si\u0119 poj\u0119cie obrony w \u015bwiecie dawnym i wsp\u00f3\u0142czesnym.\n\n***\n\nTytu\u0142 audycji: O wszystkim z kultur\u0105\n\nProwadzenie: Ma\u0142gorzata Nieciecka-Mac\n\nGo\u015bcie: Krzysztof J. Czy\u017cewski i dr Rafa\u0142 Och\u0119duszko\n\nData emisji: 3.12.2025\n\nGodz. emisji: 20.00"
         }
     },
     {
@@ -218,25 +218,9 @@
             "description": "\u201eCz\u0142owiek postawi\u0142 \u017cagle, zanim jeszcze osiod\u0142a\u0142 konia. Odpycha\u0142 si\u0119 dr\u0105giem i wios\u0142owa\u0142 po rzekach oraz \u017ceglowa\u0142 po pe\u0142nym morzu, potem dopiero zacz\u0105\u0142 porusza\u0107 si\u0119 po drogach pojazdami ko\u0142owymi. \u0141odz ...",
             "image_url": "https://www.bing.pl/th?id=ODF.nefltlfnBzNp8qiLEiXUaA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "Rzeczpospolita on MSN7 godz.Opinion",
+            "date": "Rzeczpospolita on MSN11 godz.Opinion",
             "source": "Rzeczpospolita on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Miko\u0142ajki w ksi\u0105\u017c\u0119cym ogrodzie sztuk \u2013 Muzeum \u015al\u0105ska Opolskiego otwiera now\u0105 \u015bcie\u017ck\u0119 edukacyjn\u0105 [ZDJ\u0118CIA]",
-            "link": "https://radio.opole.pl/130,917955,mikolajki-w-ksiazecym-ogrodzie-sztuk-muzeum-zapr",
-            "description": "Jak wygl\u0105da\u0142o \u017cycie na ksi\u0105\u017c\u0119cym dworze w Pokoju? Tego b\u0119dzie mo\u017cna si\u0119 dowiedzie\u0107 ju\u017c w najbli\u017csza niedziel\u0119 (07.12) w ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.ANWffGzj27K8IjqsqwJm7i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "zabytkowe+przedmioty",
-            "date": "Radio Opole20 godz.",
-            "source": "Radio Opole",
-            "article_content": "Wystawa \u201eKsi\u0105\u017c\u0119cy ogr\u00f3d sztuk \u2013 w Pokoju Wirtemberg\u00f3w\u201d [fot. Micha\u0142 Grocholski/M\u015aO]\n\nJak wygl\u0105da\u0142o \u017cycie na ksi\u0105\u017c\u0119cym dworze w Pokoju? Tego b\u0119dzie mo\u017cna si\u0119 dowiedzie\u0107 ju\u017c w najbli\u017csza niedziel\u0119 (07.12) w Muzeum \u015al\u0105ska Opolskiego. W samo po\u0142udnie otwarta tam zostanie \u015bcie\u017cka edukacyjna towarzysz\u0105ca wystawie \u201eKsi\u0105\u017c\u0119cy ogr\u00f3d sztuk \u2013 w Pokoju Wirtemberg\u00f3w\u201d, kt\u00f3ra ma po\u0142\u0105czy\u0107 rodzinne zwiedzanie z zabaw\u0105, nauk\u0105 i kreatywno\u015bci\u0105.\n\n\n\nPropozycja adresowana jest do najm\u0142odszych wraz z opiekunami. Na uczestnik\u00f3w czekaj\u0105 zagadki, odkrycia oraz drobne upominki. Wst\u0119p na wydarzenie jest wolny."
         }
     },
     {
@@ -250,7 +234,7 @@
             "description": "W Polskiej Rzeczpospolitej Ludowej monety okoliczno\u015bciowe by\u0142y emitowane z okazji wa\u017cnych rocznic i wydarze\u0144 historycznych.",
             "image_url": "https://www.bing.pl/th?id=OVFT.wL8w8AH-uzdWD1xd7QB-VC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Nowa Trybuna Opolska19 godz.",
+            "date": "Nowa Trybuna Opolska23 godz.",
             "source": "Nowa Trybuna Opolska",
             "article_content": "Content not available"
         }
@@ -266,7 +250,7 @@
             "description": "Stare monety potrafi\u0105 zaskoczy\u0107 nie tylko wygl\u0105dem, ale te\u017c stosunkowo dobr\u0105 dost\u0119pno\u015bci\u0105. Cho\u0107 maj\u0105 po kilkaset lat i ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.I9Aq3I7GAKhJKbOrFdmbDC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Nowa Trybuna Opolska on MSN14 godz.",
+            "date": "Nowa Trybuna Opolska on MSN18 godz.",
             "source": "Nowa Trybuna Opolska on MSN",
             "article_content": ""
         }
@@ -282,41 +266,9 @@
             "description": "Te monety od wielu lat przyci\u0105gaj\u0105 uwag\u0119 zar\u00f3wno pasjonat\u00f3w numizmatyki, jak i tych traktuj\u0105cych je po prostu jako dobr\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.j8X9hzWKCg6yH8hrXTukLC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Nowa Trybuna Opolska on MSN15 godz.",
+            "date": "Nowa Trybuna Opolska on MSN19 godz.",
             "source": "Nowa Trybuna Opolska on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Monety z czas\u00f3w PRL. Zobacz, kt\u00f3re s\u0105 warte fortun\u0119! 4.12.2025",
-            "link": "https://gk24.pl/monety-z-czasow-prl-zobacz-ktore-sa-warte-fortune-4-12-2025/ar/c1p2-28051177",
-            "description": "Monety z czas\u00f3w Polskiej Rzeczpospolitej Ludowej ciesz\u0105 si\u0119 coraz wi\u0119kszym zainteresowaniem oraz wzrasta ich warto\u015b\u0107, ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.fcXjXaU4f1Plmh2aSfsj8y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+numizmatyka",
-            "date": "G\u0142os Koszali\u0144ski23 godz.",
-            "source": "G\u0142os Koszali\u0144ski",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Bi\u017cuteria z czas\u00f3w PRL-u warta maj\u0105tek! Masz takie kolczyki, bransolety czy wisiorki? S\u0105 du\u017co warte 4.12.2025",
-            "link": "https://gk24.pl/bizuteria-z-czasow-prl-u-warta-majatek-masz-takie-kolczyki-bransolety-czy-wisiorki-sa-duzo-warte-4-12-2025/ar/c3p2-28055853",
-            "description": "Nawet kilka tysi\u0119cy z\u0142otych za bransoletk\u0119, kolczyki lub pier\u015bcionek. Na starej bi\u017cuterii z czas\u00f3w PRL-u mo\u017cna zarobi\u0107 du\u017co ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.NjHkJoxJLCtpCk0AVQSLIC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+numizmatyka",
-            "date": "G\u0142os Koszali\u0144ski23 godz.",
-            "source": "G\u0142os Koszali\u0144ski",
-            "article_content": "Content not available"
         }
     }
 ]
