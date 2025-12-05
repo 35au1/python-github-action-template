@@ -5,12 +5,28 @@
             "Content-Type": "application/json"
         },
         "body": {
+            "title": "Zobacz, jak sp\u0119dzi\u0107 weekend 5-7 grudnia w Bydgoszczy. Oto najciekawsze wydarzenia",
+            "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/zobacz-jak-sp%C4%99dzi%C4%87-weekend-5-7-grudnia-w-bydgoszczy-oto-najciekawsze-wydarzenia/ar-AA1RNgTo?ocid=BingNewsVerp",
+            "description": "Koncerty, spektakle, edukacyjne spacery i sportowe emocje - to tylko niekt\u00f3re z atrakcji zaplanowanych na weekend w ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.jUS4_4GiKGySxycjukH0AC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "Express Bydgoski on MSN31 min",
+            "source": "Express Bydgoski on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
             "title": "Retro Jarmark na Wodzie w Bydgoszczy po raz trzeci. Zobacz, co przygotowano w programie",
             "link": "https://www.msn.com/pl-pl/styl-zycia/moda-i-uroda/retro-jarmark-na-wodzie-w-bydgoszczy-po-raz-trzeci-zobacz-co-przygotowano-w-programie/ar-AA1RFRMJ?ocid=BingNewsVerp",
             "description": "W najbli\u017cszy weekend po raz trzeci w Bydgoszczy odb\u0119dzie si\u0119 Retro Jarmark na Wodzie. W sobot\u0119 i niedziel\u0119 (6-7 grudnia) na ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.PJIzr9GPOQnG4jmye_hNty&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Express Bydgoski on MSN5 godz.",
+            "date": "Express Bydgoski on MSN9 godz.",
             "source": "Express Bydgoski on MSN",
             "article_content": ""
         }
@@ -26,7 +42,7 @@
             "description": "Decyzja PKP Intercity o zakupie 50 u\u017cywanych wagon\u00f3w z Niemiec wywo\u0142a\u0142a oburzenie opozycji, kt\u00f3ra zarzuca sp\u00f3\u0142ce ignorowanie ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.u9k374FxlVd4ZADlcwchbC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Wiadomo\u015bci Radio ZET on MSN44 min",
+            "date": "Wiadomo\u015bci Radio ZET on MSN4 godz.",
             "source": "Wiadomo\u015bci Radio ZET on MSN",
             "article_content": ""
         }
@@ -42,24 +58,8 @@
             "description": "Nowy zarz\u0105d Telewizji Polskiej zapowiedzia\u0142 wprowadzenie od wiosnnej ram\u00f3wki powa\u017cnych zmian programowych. Dodatkowo w TVP ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.ySOrs6qfwaGy4wXuJbhZzS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "media2.pl15 godz.",
+            "date": "media2.pl18 godz.",
             "source": "media2.pl",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Te stare monety s\u0105 teraz wiele warte. Lepiej sprawd\u017a, czy masz kt\u00f3r\u0105\u015b w domu",
-            "link": "https://nto.pl/te-stare-monety-sa-teraz-wiele-warte-lepiej-sprawdz-czy-masz-ktoras-w-domu/ar/c1p2-28022573",
-            "description": "Przyjrzyj si\u0119 dok\u0142adnie swoim monetom, kt\u00f3re trzymasz w domu. Ich warto\u015b\u0107 jest najpewniej dzisiaj znacznie wi\u0119ksza, ni\u017c ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.8dtwSkHXLhWwG4C-W8CaIy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "Nowa Trybuna Opolska3 godz.",
-            "source": "Nowa Trybuna Opolska",
             "article_content": "Content not available"
         }
     },
@@ -74,7 +74,7 @@
             "description": "Na starych monetach z czas\u00f3w PRL-u mo\u017cna zarobi\u0107 du\u017co pieni\u0119dzy. Wycena monet zale\u017cy od ich stanu zachowania, a dobrze ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.0qowG_2RHnDFLYejpDfxZy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski7 godz.",
+            "date": "G\u0142os Koszali\u0144ski11 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
         }
@@ -85,14 +85,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Te stare banknoty i monety mog\u0105 by\u0107 warte fortun\u0119 - sprawd\u017a, czy masz je w domu i ile dzi\u015b zap\u0142ac\u0105 kolekcjonerzy",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/te-stare-banknoty-i-monety-mog%C4%85-by%C4%87-warte-fortun%C4%99-sprawd%C5%BA-czy-masz-je-w-domu-i-ile-dzi%C5%9B-zap%C5%82ac%C4%85-kolekcjonerzy/ar-AA1RJhu8?ocid=BingNewsVerp",
-            "description": "Faktyczna warto\u015b\u0107 starych monet i banknot\u00f3w jest zale\u017cna od kilku czynnik\u00f3w. Przede wszystkim wa\u017cne jest to: ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.33BAn5yYsZQliUItLcamKC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Te stare monety s\u0105 teraz wiele warte. Lepiej sprawd\u017a, czy masz kt\u00f3r\u0105\u015b w domu",
+            "link": "https://nto.pl/te-stare-monety-sa-teraz-wiele-warte-lepiej-sprawdz-czy-masz-ktoras-w-domu/ar/c1p2-28022573",
+            "description": "Przyjrzyj si\u0119 dok\u0142adnie swoim monetom, kt\u00f3re trzymasz w domu. Ich warto\u015b\u0107 jest najpewniej dzisiaj znacznie wi\u0119ksza, ni\u017c ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.8dtwSkHXLhWwG4C-W8CaIy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Dziennik Ba\u0142tycki on MSN19 godz.",
-            "source": "Dziennik Ba\u0142tycki on MSN",
-            "article_content": ""
+            "date": "Nowa Trybuna Opolska7 godz.",
+            "source": "Nowa Trybuna Opolska",
+            "article_content": "Content not available"
         }
     },
     {
@@ -106,7 +106,7 @@
             "description": "Kolekcjonerzy s\u0105 gotowi p\u0142aci\u0107 wysokie kwoty za stare polskie monety, kt\u00f3re potrafi\u0105 osi\u0105ga\u0107 cen\u0119 nawet kilku tysi\u0119cy z\u0142otych ...",
             "image_url": "https://www.bing.pl/th?id=OVFT._VPgEXcM3dtR7HZcxrJPCC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski on MSN6 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN10 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
@@ -117,10 +117,26 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Oto monety, kt\u00f3re bij\u0105 rekordy cenowe. Warto sprawdzi\u0107 swoje szuflady",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/oto-monety-kt%C3%B3re-bij%C4%85-rekordy-cenowe-warto-sprawdzi%C4%87-swoje-szuflady/ar-AA1OnUsp?ocid=BingNewsVerp",
-            "description": "Warto zajrze\u0107 do domowych skrytek, szuflad czy starych album\u00f3w po dziadkach. Cz\u0119sto w\u0142a\u015bnie tam le\u017c\u0105 zapomniane monety, kt\u00f3re ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.SnD7ms8VijzfMAUMTEaxaC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Te stare banknoty i monety mog\u0105 by\u0107 warte fortun\u0119 - sprawd\u017a, czy masz je w domu i ile dzi\u015b zap\u0142ac\u0105 kolekcjonerzy",
+            "link": "https://www.msn.com/pl-pl/finanse/og%C3%B3lne/te-stare-banknoty-i-monety-mog%C4%85-by%C4%87-warte-fortun%C4%99-sprawd%C5%BA-czy-masz-je-w-domu-i-ile-dzi%C5%9B-zap%C5%82ac%C4%85-kolekcjonerzy/ar-AA1RJhu8?ocid=BingNewsVerp",
+            "description": "Stare monety i banknoty s\u0105 w cenie. Kolekcjonerzy szukaj\u0105 ich w Polsce i zagranic\u0105 na r\u00f3\u017cnych aukcjach i stronach. Niezwyk\u0142a ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.BQH_AcXHbwqpwbSCcXr_hi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "Dziennik Ba\u0142tycki on MSN23 godz.",
+            "source": "Dziennik Ba\u0142tycki on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "To najdro\u017csze polskie monety. Tyle teraz kosztuj\u0105",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/to-najdro%C5%BCsze-polskie-monety-tyle-teraz-kosztuj%C4%85/ar-AA1PttKd?ocid=BingNewsVerp",
+            "description": "Te monety od wielu lat przyci\u0105gaj\u0105 uwag\u0119 zar\u00f3wno pasjonat\u00f3w numizmatyki, jak i tych traktuj\u0105cych je po prostu jako dobr\u0105 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.Y8e3KR9KU1HusQnpD199eC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
             "date": "Nowa Trybuna Opolska on MSN2 godz.",
             "source": "Nowa Trybuna Opolska on MSN",
@@ -138,7 +154,7 @@
             "description": "Biznesmeni, naukowcy, lekarze, politycy, arty\u015bci. Z okazji jubileuszu 300-lecia I Liceum Og\u00f3lnokszta\u0142c\u0105cego imienia Stefana ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.ooA7kY1RAyzr_4WiziEmhC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stara+porcelana",
-            "date": "Kielce Nasze Miasto on MSN1 godz.",
+            "date": "Kielce Nasze Miasto on MSN5 godz.",
             "source": "Kielce Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -154,7 +170,7 @@
             "description": "\"Podr\u00f3\u017cuj\u0119 po Europie, jestem wolnym cz\u0142owiekiem\" \u2013 m\u00f3wi Zbigniew Ziobro na nagraniu, kt\u00f3re opublikowa\u0142a telewizja wPolsce24.",
             "image_url": "https://www.bing.pl/th?id=OVFT.8ZvIlZHjDNLR7_qh36qNSC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Onet3 godz.",
+            "date": "Onet7 godz.",
             "source": "Onet",
             "article_content": "\"Podr\u00f3\u017cuj\u0119 po Europie, jestem wolnym cz\u0142owiekiem\" \u2013 m\u00f3wi Zbigniew Ziobro na nagraniu, kt\u00f3re opublikowa\u0142a telewizja wPolsce24"
         }
@@ -170,7 +186,7 @@
             "description": "\u201eLublin, kt\u00f3rego ju\u017c nie ma' to tytu\u0142 wystawy zorganizowanej przez Archiwum Pa\u0144stwowe w Lublinie we wsp\u00f3\u0142pracy z ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.4R8HBRdUooNwICT_Cp689i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Kurier Lubelski on MSN4 godz.",
+            "date": "Kurier Lubelski on MSN8 godz.",
             "source": "Kurier Lubelski on MSN",
             "article_content": ""
         }
@@ -181,14 +197,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Eksplozje w atmosferze Ziemi by\u0142y cz\u0119stsze. Nie pozostawi\u0142y krater\u00f3w",
-            "link": "https://tech.wp.pl/eksplozje-w-atmosferze-ziemi-byly-czestsze-nie-pozostawily-kraterow,7229094271118272a",
-            "description": "Historia Ziemi by\u0142a znacznie bardziej burzliwa, ni\u017c nam si\u0119 dotychczas wydawa\u0142o. Zesp\u00f3\u0142 naukowc\u00f3w opisa\u0142 w\u0142a\u015bnie seri\u0119 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.t42wfZSXhmDn58SCKg9Qey&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Gdzie na nordic walking do 1 km od Ko\u0142obrzegu. Podpowiadamy, gdzie warto si\u0119 wybra\u0107 w weekend 6 - 7 grudnia",
+            "link": "https://kolobrzeg.naszemiasto.pl/gdzie-na-nordic-walking-do-1-km-od-kolobrzegu-podpowiadamy-gdzie-warto-sie-wybrac-w-weekend-6-7-grudnia/ar/c7p1-22319027",
+            "description": "Przed drog\u0105 upewnij si\u0119, jaka b\u0119dzie pogoda w Ko\u0142obrzegu. W sobot\u0119 6 grudnia wed\u0142ug prognozy pogody ma by\u0107 4\u00b0C. Nie powinno ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.trXaP2HtLIh5IwX6T0pKxS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "WP Tech7 godz.",
-            "source": "WP Tech",
-            "article_content": "Autorzy najnowszego opracowania przekonuj\u0105, \u017ce do takich eksplozji jeszcze przed dotarciem meteoroidu do powierzchni Ziemi mo\u017ce dochodzi\u0107 cz\u0119\u015bciej ni\u017c do klasycznych uderze\u0144, po kt\u00f3rych pozostaj\u0105 kratery. Prof. James Kennett z Uniwersytetu Kalifornijskiego w Santa Barbara podkre\u015bla jednocze\u015bnie, \u017ce takie eksplozje w atmosferze mog\u0105 odpowiada\u0107 za rozleg\u0142e zniszczenia spowodowane przez wysokie temperatury i ci\u015bnienie takiej eksplozji, jednocze\u015bnie nie pozostawiaj\u0105c trwa\u0142ych struktur, co utrudnia ich identyfikacj\u0119.\n\nW czterech \u015bwie\u017co opublikowanych artyku\u0142ach naukowych badacze opisali dowody pochodz\u0105ce z r\u00f3\u017cnych okres\u00f3w i miejsc: od g\u0142\u0119bin p\u00f3\u0142nocnego Atlantyku po relikty staro\u017cytnego miasta na Bliskim Wschodzie. Naukowcy bazuj\u0105 tutaj na materiale powstaj\u0105cym tylko w ekstremalnych warunkach, czyli na rzadkich pierwiastkach o pochodzeniu kometarnym, stopionym szkliwie, mikrosferach i kwarcu wstrz\u0105sowym z charakterystycznymi sp\u0119kaniami.\n\nKluczowym w\u0105tkiem w tych badaniach jest hipoteza uderzenia w m\u0142odszym dryasie (YDIH, ang. Younger Dryas Impact Hypothesis). W periodyku naukowym \"PLOS One\" opisano pierwsze dowody morskie tego zdarzenia: wska\u017aniki impaktowe w kilku rdzeniach pozyskanych z Zatoki Baffina, na zach\u00f3d od Grenlandii. To pierwszy przypadek odkrycia dowod\u00f3w na uderzenie obiektu kosmicznego w materiale morskim. To w\u0142a\u015bnie tam znaleziono platyn\u0119, iryd i mikrosfery.\n\nGigantyczna eksplozja, kt\u00f3ra nie pozostawi\u0142a po sobie \u015blad\u00f3w\n\nHipoteza YDIH zak\u0142ada, \u017ce ok. 12,8 tys. lat temu nad Ziemi\u0105 eksplodowa\u0142a rozcz\u0142onkowana kometa, wywo\u0142uj\u0105c och\u0142odzenie M\u0142odszego Dryasu, po\u017cary i odk\u0142adanie si\u0119 tzw. czarnej maty bogatej w w\u0119giel. Materia\u0142 mia\u0142 trafi\u0107 do atmosfery i zdeponowa\u0107 si\u0119 globalnie w szeroko rozproszonych warstwach, tak\u017ce na dnach ocean\u00f3w si\u0119gaj\u0105cych ok. 2 km g\u0142\u0119boko\u015bci.\n\nBadacze wskazuj\u0105 r\u00f3wnie\u017c p\u0142ytkie jezioro sezonowe ko\u0142o Perkins w Luizjanie jako mo\u017cliwy pierwszy znany krater z okresu granicy m\u0142odszego dryasu. Analizy prowadzone do 2024 r. wykaza\u0142y mikrosfery, szkliwo i kwarc wstrz\u0105sowy datowane radiow\u0119glowo na czas M\u0142odszego Dryasu. Autorzy zastrzegaj\u0105 jednak, \u017ce potrzebne s\u0105 dalsze badania, by potwierdzi\u0107 hipotez\u0119 impaktow\u0105 dla tej niecki.\n\nZesp\u00f3\u0142 wr\u00f3ci\u0142 te\u017c do dw\u00f3ch spektakularnych miejsc: Tunguska (1908) i Tall el-Hammam w dolinie Jordanu. W pr\u00f3bkach z Tunguski stwierdzono kwarc wstrz\u0105sowy z planarnymi deformacjami, szkliwo w sp\u0119kaniach, mikrosfery oraz stopione metale i w\u0119giel. W Tall el-Hammam natomiast opisano zr\u00f3\u017cnicowane wzory p\u0119kni\u0119\u0107 kwarcu \u2013 r\u00f3wnoleg\u0142e, siateczkowe, krzywoliniowe i subplanarne \u2013 zgodne z dzia\u0142aniem wysokich ci\u015bnie\u0144 i kierunkowych fal uderzeniowych.\n\nAutorzy sugeruj\u0105, \u017ce tego typu eksplozje w powietrzu mog\u0105 by\u0107 cz\u0119stsze i bardziej rozleg\u0142e w skutkach ni\u017c lokalne uderzenia tworz\u0105ce kratery. Ich zdaniem to argument, by zwi\u0119kszy\u0107 nak\u0142ady na badania tych zjawisk i ich \u015blad\u00f3w w zapisie geologicznym."
+            "date": "Ko\u0142obrzeg Nasze Miasto2 godz.",
+            "source": "Ko\u0142obrzeg Nasze Miasto",
+            "article_content": "Content not available"
         }
     },
     {
@@ -197,14 +213,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Nowa lista CPU wspieranych przez Windows 11. S\u0105 zaskoczenia",
-            "link": "https://antyweb.pl/windows-11-kompatybilnosc-cpu",
-            "description": "Microsoft od lat powtarza, \u017ce lista wspieranych procesor\u00f3w w Windows 11 ma by\u0107 jednoznaczn\u0105 pomoc\u0105 w ocenie kompatybilno\u015bci.",
-            "image_url": "https://www.bing.pl/th?id=OVFT.nxdeEkwRq7PF2wnu6qg52S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Nordic walking do 233 km od \u0141odzi. Podpowiadamy, gdzie warto si\u0119 wybra\u0107 w weekend 6 - 7 grudnia",
+            "link": "https://lodz.naszemiasto.pl/nordic-walking-do-233-km-od-lodzi-podpowiadamy-gdzie-warto-sie-wybrac-w-weekend-6-7-grudnia/ar/c7p1-22318833",
+            "description": "Przed drog\u0105 upewnij si\u0119, jaka b\u0119dzie pogoda w \u0141odzi. W sobot\u0119 6 grudnia wed\u0142ug prognozy pogody ma by\u0107 6\u00b0C. Prawdopodobie\u0144stwo ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.trXaP2HtLIh5IwX6T0pKxS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Antyweb20 godz.",
-            "source": "Antyweb",
-            "article_content": "Microsoft od lat powtarza, \u017ce lista wspieranych procesor\u00f3w w Windows 11 ma by\u0107 jednoznaczn\u0105 pomoc\u0105 w ocenie kompatybilno\u015bci. Tymczasem najnowsza aktualizacja dokumentacji nie spe\u0142nia swojego za\u0142o\u017cenia: ukry\u0142a konkrety, ods\u0142oni\u0142a chaos i stworzy\u0142a przekonanie, \u017ce stare uk\u0142ady ponownie za\u0142apa\u0142y si\u0119 na list\u0119. To troch\u0119 tak, jak \"moje\" porz\u0105dkowanie szuflad: niby co\u015b tam w nich sprz\u0105tam, ale to ponownie miejsca pe\u0142ne ba\u0142aganu.\n\nNowa lista procesor\u00f3w Intela wygl\u0105da schludnie tylko na pierwszy rzut oka. Zamiast konkretnych modeli, w dokumencie widniej\u0105 pozycje typu \"Intel Core i7 (14. generacja)\" albo \"Intel Core 7000X Series\". Linki prowadz\u0105 do og\u00f3lnych stron Intela, jednak nie do pe\u0142nej listy kompatybilnych chip\u00f3w. I teraz we\u017a tu odgadnij, czy konkretny procesor dogada si\u0119 z Windows 11...\n\nReklama\n\nDochodzimy tu do przykrej sytuacji: u\u017cytkownik z kilkuletnim procesorem nie jest w stanie oceni\u0107, czy jego maszyna jest wspierana, czy nie \u2014 chyba \u017ce zacznie wertowa\u0107 archiwa Intela. To prosta droga do b\u0142\u0119dnych za\u0142o\u017ce\u0144, \u017ce \"skoro dana seria tu jest, to Windows 11 zadzia\u0142a na pewno\". To nie jest takie jednoznaczne. Niekt\u00f3re uk\u0142ady z danej serii s\u0105 wspierane, inne nie \u2014 a dokumentacja dziwnie na ten temat milczy.\n\nMo\u017cna te\u017c podnie\u015b\u0107 raban o to, gdzie znikn\u0119\u0142y procesory normalnie obs\u0142ugiwane. Klasyczny przyk\u0142ad to Intel Core i7-7820HQ, jedyny Kaby Lake oficjalnie dopuszczony do Windows 11\u2026 poniewa\u017c nap\u0119dza Surface Studio 2. Ten model po prostu wypad\u0142 z listy, cho\u0107 urz\u0105dzenie Microsoftu dzia\u0142a na Windows 11 w pe\u0142ni normalnie.\n\nTak, ale jednak nie\n\nNajbardziej absurdalny element dotyczy serii Celeron 3000. Dokumentacja twierdzi, \u017ce jest wspierana. Brzmi \u015bwietnie \u2014 dop\u00f3ki nie zajrzysz g\u0142\u0119biej i nie odkryjesz, \u017ce mowa o uk\u0142adach si\u0119gaj\u0105cych nawet 2015 roku.\n\nZ dziesi\u0119ciu procesor\u00f3w Celeron 3000 tylko jeden: 3867U, kt\u00f3ry spe\u0142nia wymagania Windows 11. Reszta to relikty sprzed dekady, kompletnie niezgodne z Windows 11. Tymczasem spos\u00f3b prezentacji listy sugeruje co\u015b odwrotnego.\n\nMicrosoft wprowadzi\u0142 wi\u0119c kompletny ba\u0142agan uwzgl\u0119dniaj\u0105cy og\u00f3lnikowe nazwy serii, brakuje te\u017c wyszczeg\u00f3lnionych wyj\u0105tk\u00f3w, a wszystko to tworzy fa\u0142szywe poczucie zgodno\u015bci sprz\u0119tu. Przeci\u0119tny u\u017cytkownik mo\u017ce serio doj\u015b\u0107 do wniosku, \u017ce jego stary laptop \"\u0142apie si\u0119\" na Windows 11, a nast\u0119pnie pot\u0119\u017cnie zdziwi\u0107, gdy podczas instalacji system zaprotestuje.\n\nCisza, ale przynajmniej klarowna\n\nCo ciekawe, problem dotyczy wy\u0142\u0105cznie Intela. Listy dla AMD i Qualcomm nadal wymieniaj\u0105 konkretne procesory \u2014 od pierwszego do ostatniego. Ale to nie znaczy, \u017ce s\u0105 w pe\u0142ni aktualne. Brakuje na nich zar\u00f3wno Snapdragona X Elite, jak i najnowszych Ryzen\u00f3w 9000 oraz nowych Threadripper\u00f3w. To niewielki problem, ale brak konsekwencji jest odrobin\u0119 nieprzyjemny.\n\nReklama\n\nMicrosoft t\u0142umaczy, \u017ce nowe generacje s\u0105 uznawane za wspierane, je\u015bli spe\u0142niaj\u0105 ustalone za\u0142o\u017cenia, a listy aktualizowane s\u0105 tylko przy kolejnych og\u00f3lnodost\u0119pnych wersjach Windows. Niby to logiczne. Ale w sytuacji, gdy jeste\u015bmy kr\u00f3tko po rozstaniu si\u0119 z poprzedni\u0105, lubian\u0105 wersj\u0105 Windows - warto by\u0142oby u\u0142atwi\u0107 posiadaczom maszyn ocen\u0119, czy Windows 11 \"da rad\u0119\". A tak: dokumentacja nie pokazuje tego, co powinna \u2014 ani pe\u0142nej listy wspieranych uk\u0142ad\u00f3w, ani jasnej informacji, kt\u00f3re serie s\u0105 w pe\u0142ni kompatybilne, a kt\u00f3re tylko cz\u0119\u015bciowo.\n\nTo ogromnie wa\u017cne. Szczeg\u00f3lnie teraz\n\nWindows 10 straci\u0142 wsparcie w pa\u017adzierniku 2025 roku. Dziesi\u0105tki milion\u00f3w urz\u0105dze\u0144 poszukuje werdyktu: mo\u017cna aktualizowa\u0107 czy nie? To dlatego przejrzysto\u015b\u0107 list kompatybilno\u015bci ma niebagatelne znaczenie. U\u017cytkownicy starszych laptop\u00f3w i desktop\u00f3w pr\u00f3buj\u0105 ustali\u0107, czy musz\u0105 kupi\u0107 nowy sprz\u0119t.\n\nReklama\n\nW tej sytuacji aktualizacja dokumentacji powinna rozja\u015bni\u0107 obraz, a nie go zaciemnia\u0107. Zw\u0142aszcza \u017ce to Microsoft stworzy\u0142 twarde wymagania dla Windowsa 11 \u2014 chodzi o chip TPM 2.0, Secure Boot, i wym\u00f3g konkretnych generacji procesor\u00f3w \u2014 i sam powinien je wyja\u015bnia\u0107 od A do Z. Na razie wygl\u0105da to jednak tak, jakby lista mia\u0142a przede wszystkim nie budzi\u0107 ogromnych kontrowersji, \u017ce tych wspieranych sprz\u0119t\u00f3w jest jednak mniej, ni\u017c Microsoft by tego chcia\u0142.\n\nCzytaj r\u00f3wnie\u017c: Cieszyli\u015bmy si\u0119 z tej zmiany w Windows 11 ledwie dob\u0119. Microsoft zepsu\u0142 i to\n\nGranica kompatybilno\u015bci\n\nOficjalna linia t\u0142umaczenia jest jasna: nowe procesory s\u0105 domy\u015blnie wspierane, nawet je\u015bli jeszcze nie ma ich na li\u015bcie. Problem zaczyna si\u0119 wtedy, gdy lista jednocze\u015bnie dopisuje ca\u0142e serie, w kt\u00f3rych wi\u0119kszo\u015b\u0107 uk\u0142ad\u00f3w wsparcia nie ma \u2014 i nikt nie m\u00f3wi, kt\u00f3re konkretnie modele s\u0105 wspierane, a kt\u00f3re nie. Dokumentacja ma budzi\u0107 zaufanie. A staje si\u0119 ju\u017c kolejnym punktem, za kt\u00f3ry Microsoft jest krytykowany: obok cho\u0107by coraz bardziej \"skopanych\" uaktualnie\u0144 dla Windows 11."
+            "date": "\u0141\u00f3d\u017a Nasze Miasto37 min",
+            "source": "\u0141\u00f3d\u017a Nasze Miasto",
+            "article_content": "Content not available"
         }
     },
     {
@@ -213,13 +229,61 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Rowerem do 122 km od Zdu\u0144skiej Woli. Podpowiedzi jednodniowych wypraw. Gdzie w weekend 6 - 7 grudnia?",
-            "link": "https://zdunskawola.naszemiasto.pl/rowerem-do-122-km-od-zdunskiej-woli-podpowiedzi-jednodniowych-wypraw-gdzie-w-weekend-6-7-grudnia/ar/c7p1-21831605",
-            "description": "Rozgl\u0105dasz si\u0119 za pomys\u0142em na tras\u0119 rowerow\u0105 w okolicy Zdu\u0144skiej Woli? Podpowiadamy, gdzie warto si\u0119 wybra\u0107. Wybrali\u015bmy 5 ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.lDjN2Tj7WlQTLcLKdaqgOS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Rowerem do 13 km od O\u015bwi\u0119cimia. Pomys\u0142y na jednodniowy wypad. Gdzie w weekend 6 - 7 grudnia?",
+            "link": "https://oswiecim.naszemiasto.pl/rowerem-do-13-km-od-oswiecimia-pomysly-na-jednodniowy-wypad-gdzie-w-weekend-6-7-grudnia/ar/c7p1-21831633",
+            "description": "Nim wyruszysz w drog\u0119, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 06 grudnia w O\u015bwi\u0119cimiu ma by\u0107 6\u00b0C. Nie powinno pada\u0107. W ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.srTx5E8dJWuYCKeq8Y-Oli&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Zdu\u0144ska Wola Nasze Miasto23 godz.",
-            "source": "Zdu\u0144ska Wola Nasze Miasto",
+            "date": "O\u015bwi\u0119cim Nasze Miasto1 godz.",
+            "source": "O\u015bwi\u0119cim Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Rowerem do 174 km od Pleszewa. Pomys\u0142y na jednodniowy wypad. Gdzie w weekend 6 - 7 grudnia?",
+            "link": "https://pleszew.naszemiasto.pl/rowerem-do-174-km-od-pleszewa-pomysly-na-jednodniowy-wypad-gdzie-w-weekend-6-7-grudnia/ar/c7p1-21831917",
+            "description": "Zanim wyruszysz w drog\u0119, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 06 grudnia w Pleszewie ma by\u0107 4\u00b0C. Nie powinno pada\u0107. W ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.aEk26LjO5fVrCWtzCFQAdi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "Pleszew Nasze Miasto1 godz.",
+            "source": "Pleszew Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Trasy na rower do 1 km od Jaworzna. Podpowiadamy pomys\u0142y na wypraw\u0119. Gdzie w weekend 6 - 7 grudnia?",
+            "link": "https://jaworzno.naszemiasto.pl/trasy-na-rower-do-1-km-od-jaworzna-podpowiadamy-pomysly-na-wyprawe-gdzie-w-weekend-6-7-grudnia/ar/c7p1-21831473",
+            "description": "Nim wyruszysz w drog\u0119, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 06 grudnia w Jaworznie ma by\u0107 6\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 07 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.2t0erq3HvZkNJqoJGwn9hS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "Jaworzno Nasze Miasto2 godz.",
+            "source": "Jaworzno Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "\u015acie\u017cki na spacer w woj. lubuskim. Gdzie warto si\u0119 wybra\u0107 w weekend 6 - 7 grudnia? 10 najciekawszych tras",
+            "link": "https://gazetalubuska.pl/sciezki-na-spacer-w-woj-lubuskim-gdzie-warto-sie-wybrac-w-weekend-6-7-grudnia-10-najciekawszych-tras/ar/c7p1-22116493",
+            "description": "Zanim wyruszysz, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 06 grudnia w woj. lubuskim ma by\u0107 od 1\u00b0C do 3\u00b0C. Nie powinno pada\u0107. W ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.pS-FQAn9Qp99eMF41b8uVi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "zabytkowe+przedmioty",
+            "date": "Gazeta Lubuska2 godz.",
+            "source": "Gazeta Lubuska",
             "article_content": "Content not available"
         }
     },
@@ -234,8 +298,24 @@
             "description": "\u201eCz\u0142owiek postawi\u0142 \u017cagle, zanim jeszcze osiod\u0142a\u0142 konia. Odpycha\u0142 si\u0119 dr\u0105giem i wios\u0142owa\u0142 po rzekach oraz \u017ceglowa\u0142 po pe\u0142nym morzu, potem dopiero zacz\u0105\u0142 porusza\u0107 si\u0119 po drogach pojazdami ko\u0142owymi. \u0141odz ...",
             "image_url": "https://www.bing.pl/th?id=ODF.nefltlfnBzNp8qiLEiXUaA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "Rzeczpospolita on MSN15 godz.Opinion",
+            "date": "Rzeczpospolita on MSN19 godz.Opinion",
             "source": "Rzeczpospolita on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "To najdro\u017csze polskie monety. Tyle teraz kosztuj\u0105",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/to-najdro%C5%BCsze-polskie-monety-tyle-teraz-kosztuj%C4%85/ar-AA1PttKd?ocid=BingNewsVerp",
+            "description": "Te monety od wielu lat przyci\u0105gaj\u0105 uwag\u0119 zar\u00f3wno pasjonat\u00f3w numizmatyki, jak i tych traktuj\u0105cych je po prostu jako dobr\u0105 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.Y8e3KR9KU1HusQnpD199eC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+numizmatyka",
+            "date": "Nowa Trybuna Opolska on MSN2 godz.",
+            "source": "Nowa Trybuna Opolska on MSN",
             "article_content": ""
         }
     },
@@ -250,41 +330,9 @@
             "description": "Przyjrzyj si\u0119 dok\u0142adnie swoim monetom, kt\u00f3re trzymasz w domu. Ich warto\u015b\u0107 jest najpewniej dzisiaj znacznie wi\u0119ksza, ni\u017c ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.8dtwSkHXLhWwG4C-W8CaIy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Nowa Trybuna Opolska3 godz.",
+            "date": "Nowa Trybuna Opolska7 godz.",
             "source": "Nowa Trybuna Opolska",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Oto monety, kt\u00f3re bij\u0105 rekordy cenowe. Warto sprawdzi\u0107 swoje szuflady",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/oto-monety-kt%C3%B3re-bij%C4%85-rekordy-cenowe-warto-sprawdzi%C4%87-swoje-szuflady/ar-AA1OnUsp?ocid=BingNewsVerp",
-            "description": "Warto zajrze\u0107 do domowych skrytek, szuflad czy starych album\u00f3w po dziadkach. Cz\u0119sto w\u0142a\u015bnie tam le\u017c\u0105 zapomniane monety, kt\u00f3re ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.SnD7ms8VijzfMAUMTEaxaC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+numizmatyka",
-            "date": "Nowa Trybuna Opolska on MSN2 godz.",
-            "source": "Nowa Trybuna Opolska on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "To najstarsze monety w historii Polski. A mo\u017cna je kupi\u0107 bardzo tanio",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/to-s%C4%85-najstarsze-monety-w-historii-polski-mo%C5%BCne-je-kupi%C4%87-zaskakuj%C4%85co-tanio/ar-AA1OxuAF?ocid=BingNewsVerp",
-            "description": "Stare monety potrafi\u0105 zaskoczy\u0107 nie tylko wygl\u0105dem, ale te\u017c stosunkowo dobr\u0105 dost\u0119pno\u015bci\u0105. Cho\u0107 maj\u0105 po kilkaset lat i ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.I9Aq3I7GAKhJKbOrFdmbDC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+numizmatyka",
-            "date": "Nowa Trybuna Opolska on MSN22 godz.",
-            "source": "Nowa Trybuna Opolska on MSN",
-            "article_content": ""
         }
     }
 ]
