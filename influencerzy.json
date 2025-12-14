@@ -10,7 +10,7 @@
             "description": "W niedziel\u0119, 14 grudnia 2025 roku klient\u00f3w na Pchlim Targu we W\u0142oc\u0142awku przy alei Kazimierza Wielkiego nie brakowa\u0142o, mo\u017cna ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.mAWkm121ksw8P1BKlmZErS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "W\u0142oc\u0142awek Nasze Miasto4 godz.",
+            "date": "W\u0142oc\u0142awek Nasze Miasto8 godz.",
             "source": "W\u0142oc\u0142awek Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -26,8 +26,24 @@
             "description": "W niedziel\u0119 14 grudnia Kieleckie Centrum Kultury sta\u0142o si\u0119 miejscem kolejnej edycji \u015bwi\u0105tecznej wyprzeda\u017cy gara\u017cowej.",
             "image_url": "https://www.bing.pl/th?id=OVFT.nQdEyagNS0to5zezakBJly&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Kielce Nasze Miasto on MSN3 godz.",
+            "date": "Kielce Nasze Miasto on MSN7 godz.",
             "source": "Kielce Nasze Miasto on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pchli Targ we W\u0142oc\u0142awku 14 grudnia 2025 - ci\u0119te choinki, ozdoby \u015bwi\u0105teczne i du\u017co staroci. Zdj\u0119cia, ceny, wideo",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/pchli-targ-we-w%C5%82oc%C5%82awku-14-grudnia-2025-ci%C4%99te-choinki-ozdoby-%C5%9Bwi%C4%85teczne-i-du%C5%BCo-staroci-zdj%C4%99cia-ceny-wideo/ar-AA1SjTsO?ocid=BingNewsVerp",
+            "description": "W niedziel\u0119, 14 grudnia 2025 roku klient\u00f3w na Pchlim Targu we W\u0142oc\u0142awku przy alei Kazimierza Wielkiego nie brakowa\u0142o, mo\u017cna ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.mAWkm121ksw8P1BKlmZErS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "starocie",
+            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN58 min",
+            "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
             "article_content": ""
         }
     },
@@ -42,7 +58,7 @@
             "description": "Tak wygl\u0105da\u0142a grudniowa edycja Falenickiej Gie\u0142dy Staroci w ... Gie\u0142da trwa\u0142a do godziny 15:00 i przez ca\u0142y czas cieszy\u0142a si\u0119 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.CamGHxcjdUeYtrcUl8EuHy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Warszawa Nasze Miasto on MSN2 godz.",
+            "date": "Warszawa Nasze Miasto on MSN6 godz.",
             "source": "Warszawa Nasze Miasto on MSN",
             "article_content": ""
         }
@@ -58,25 +74,9 @@
             "description": "W niedziel\u0119, 14 grudnia, na Targowisku Falenica przy ul. Trocinowej 1 w Warszawie odby\u0142a si\u0119 kolejna edycja Falenickiej ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "starocie",
-            "date": "Warszawa Nasze Miasto1 godz.",
+            "date": "Warszawa Nasze Miasto5 godz.",
             "source": "Warszawa Nasze Miasto",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Jarmark Staroci i \u015awi\u0105teczny w Legnicy! Zobaczcie na zdj\u0119ciach co mo\u017cna tu dzi\u015b kupi\u0107",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/jarmark-staroci-i-%C5%9Bwi%C4%85teczny-w-legnicy-zobaczcie-na-zdj%C4%99ciach-co-mo%C5%BCna-tu-dzi%C5%9B-kupi%C4%87/ar-AA1SkikN?ocid=BingNewsVerp",
-            "description": "Na odwiedzaj\u0105cych Jarmark \u015awi\u0105teczny czeka mn\u00f3stwo atrakcji: stoiska z r\u0119kodzie\u0142em, dekoracjami i naturalnymi produktami, a tak\u017ce regionalne przysmaki i wyj\u0105tkowe prezenty, idealne pod choink\u0119. Ca\u0142o\u015b\u0107 ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.AxDMbgdonp4EyA0Jy8hY-A&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "starocie",
-            "date": "Legnica Nasze Miasto on MSN1 godz.",
-            "source": "Legnica Nasze Miasto on MSN",
-            "article_content": ""
         }
     },
     {
@@ -90,7 +90,7 @@
             "description": "Na starych monetach z czas\u00f3w PRL-u mo\u017cna zarobi\u0107 du\u017co pieni\u0119dzy. Wycena monet zale\u017cy od ich stanu zachowania, a dobrze ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.0qowG_2RHnDFLYejpDfxZy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski11 godz.",
+            "date": "G\u0142os Koszali\u0144ski15 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
         }
@@ -102,13 +102,13 @@
         },
         "body": {
             "title": "Tyle pieni\u0119dzy p\u0142ac\u0105 kolekcjonerzy za stare polskie monety. Nie do wiary! Mo\u017cna du\u017co na nich zarobi\u0107 14.12.2025",
-            "link": "https://gk24.pl/tyle-pieniedzy-placa-kolekcjonerzy-za-stare-polskie-monety-nie-do-wiary-mozna-duzo-na-nich-zarobic-14-12-2025/ar/c3p2-28192103",
+            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/tyle-pieni%C4%99dzy-p%C5%82ac%C4%85-kolekcjonerzy-za-stare-polskie-monety-nie-do-wiary-mo%C5%BCna-du%C5%BCo-na-nich-zarobi%C4%87/ar-AA1QOnQB?ocid=BingNewsVerp",
             "description": "Kolekcjonerzy s\u0105 gotowi p\u0142aci\u0107 wysokie kwoty za stare polskie monety, kt\u00f3re potrafi\u0105 osi\u0105ga\u0107 cen\u0119 nawet kilku tysi\u0119cy z\u0142otych ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.VUpFusXtBVhk0UoJknWtVS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski11 godz.",
-            "source": "G\u0142os Koszali\u0144ski",
-            "article_content": "Content not available"
+            "date": "G\u0142os Koszali\u0144ski on MSN15 godz.",
+            "source": "G\u0142os Koszali\u0144ski on MSN",
+            "article_content": ""
         }
     },
     {
@@ -122,7 +122,7 @@
             "description": "Na drugim biegunie znajduje si\u0119 jod\u0142a kaukaska, cz\u0119sto nazywana \"kr\u00f3low\u0105 trwa\u0142o\u015bci\". To wyb\u00f3r dla tych, kt\u00f3rzy ceni\u0105 wygod\u0119 i ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.ka8cAN1jsnTO1NE8l8jgWS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Nowa Trybuna Opolska9 godz.",
+            "date": "Nowa Trybuna Opolska13 godz.",
             "source": "Nowa Trybuna Opolska",
             "article_content": "Content not available"
         }
@@ -138,8 +138,40 @@
             "description": "Marzysz o \u017cywicznej woni lasu w salonie, ale boisz si\u0119, \u017ce w Wigili\u0119 b\u0119dziesz odkurza\u0107 dywan z igie\u0142? Sprzedawcy cz\u0119sto ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.xVpGCIcnNMugzNuvalmVHy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Nowa Trybuna Opolska on MSN8 godz.",
+            "date": "Nowa Trybuna Opolska on MSN12 godz.",
             "source": "Nowa Trybuna Opolska on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Mitologia s\u0142owia\u0144ska",
+            "link": "https://jeleniagora.naszemiasto.pl/tag/mitologia-slowianska",
+            "description": "S\u0142owia\u0144szczyzna pe\u0142na by\u0142a legend o przera\u017caj\u0105cych demonach - nie inaczej by\u0142o te\u017c w Polsce. Znakomita wi\u0119kszo\u015b\u0107 pochodzi\u0142a ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "Jelenia G\u00f3ra Nasze Miasto1 godz.",
+            "source": "Jelenia G\u00f3ra Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Pchli Targ we W\u0142oc\u0142awku 14 grudnia 2025 - ci\u0119te choinki, ozdoby \u015bwi\u0105teczne i du\u017co staroci. Zdj\u0119cia, ceny, wideo",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/pchli-targ-we-w%C5%82oc%C5%82awku-14-grudnia-2025-ci%C4%99te-choinki-ozdoby-%C5%9Bwi%C4%85teczne-i-du%C5%BCo-staroci-zdj%C4%99cia-ceny-wideo/ar-AA1SjTsO?ocid=BingNewsVerp",
+            "description": "W niedziel\u0119, 14 grudnia 2025 roku klient\u00f3w na Pchlim Targu we W\u0142oc\u0142awku przy alei Kazimierza Wielkiego nie brakowa\u0142o, mo\u017cna ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.mAWkm121ksw8P1BKlmZErS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "W\u0142oc\u0142awek Nasze Miasto on MSN58 min",
+            "source": "W\u0142oc\u0142awek Nasze Miasto on MSN",
             "article_content": ""
         }
     },
@@ -154,7 +186,7 @@
             "description": "Poza tym na cz\u0119\u015b\u0107 placu przed Podlaskim Centrum Rolno-Towarowym w Bia\u0142ymstoku zmieni\u0142a si\u0119 tradycyjnie nie tylko w gie\u0142d\u0119 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.QORJY7gCSarxUrpLJl0xWi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Kurier Poranny on MSN5 godz.",
+            "date": "Kurier Poranny on MSN9 godz.",
             "source": "Kurier Poranny on MSN",
             "article_content": ""
         }
@@ -170,7 +202,7 @@
             "description": "Gie\u0142da Staroci Pchli Targ przy Centrum Handlowym M1 odbywa si\u0119 w ka\u017cd\u0105 niedziel\u0119 w godzinach od 6 do 14. Ka\u017cdy znajdzie tam co\u015b dla siebie. Tym razem niedzielna ods\u0142ona targu mia\u0142a \u015bwi\u0105teczny ...",
             "image_url": "https://www.bing.pl/th?id=ODF.Cya7j59Rws2Si6qfmk5ljw&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "targ+staroci",
-            "date": "Pozna\u0144 Nasze Miasto3 godz.",
+            "date": "Pozna\u0144 Nasze Miasto7 godz.",
             "source": "Pozna\u0144 Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -186,7 +218,7 @@
             "description": "W niedziel\u0119 na placu Podlaskiego Centrum Rolno-Towarowego mo\u017cna kupi\u0107 w\u0142a\u015bciwie wszystko, co potrzeba do jedzenia, ubrania ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.vdpQOuj2G5yPNWIsmypnNS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Gazeta Wsp\u00f3\u0142czesna6 godz.",
+            "date": "Gazeta Wsp\u00f3\u0142czesna10 godz.",
             "source": "Gazeta Wsp\u00f3\u0142czesna",
             "article_content": "Content not available"
         }
@@ -197,30 +229,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Pchli Targ we W\u0142oc\u0142awku 14 grudnia 2025 - choinki, ozdoby \u015bwi\u0105teczne, ryby i starocie. Zdj\u0119cia, ceny, wideo",
-            "link": "https://wloclawek.naszemiasto.pl/pchli-targ-we-wloclawku-14-grudnia-2025-choinki-ozdoby-swiateczne-ryby-i-starocie-zdjecia-ceny-wideo/ar/c8p2-28267477",
-            "description": "W niedziel\u0119, 14 grudnia 2025 roku klient\u00f3w na Pchlim Targu we W\u0142oc\u0142awku przy alei Kazimierza Wielkiego nie brakowa\u0142o, mo\u017cna ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.mAWkm121ksw8P1BKlmZErS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "To wroc\u0142awskie targowisko odwiedzaj\u0105 t\u0142umy. Choinki, karpie i ozdoby \u015bwi\u0105teczne",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/other/to-wroc%C5%82awskie-targowisko-odwiedzaj%C4%85-t%C5%82umy-choinki-karpie-i-ozdoby-%C5%9Bwi%C4%85teczne/ar-AA1SjJe2?ocid=BingNewsVerp",
+            "description": "Targowisko M\u0142yn we Wroc\u0142awiu to jedno z najpopularniejszych miejsc na niedzielne zakupy. T\u0119tni \u017cyciem w ka\u017cd\u0105 niedziel\u0119. Na ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.XJQdQP-CZlcoSTAHu8T50C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "W\u0142oc\u0142awek Nasze Miasto4 godz.",
-            "source": "W\u0142oc\u0142awek Nasze Miasto",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Falenicka ie\u0142da staroci",
-            "link": "https://warszawa.naszemiasto.pl/tag/falenicka-ielda-staroci",
-            "description": "W niedziel\u0119, 14 grudnia, na Targowisku Falenica przy ul. Trocinowej 1 w Warszawie odby\u0142a si\u0119 kolejna edycja Falenickiej ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.7P2vURWC0MEI7TOl1jZ1pC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "targ+staroci",
-            "date": "Warszawa Nasze Miasto2 godz.",
-            "source": "Warszawa Nasze Miasto",
-            "article_content": "Content not available"
+            "date": "Gazeta Wroc\u0142awska on MSN8 godz.",
+            "source": "Gazeta Wroc\u0142awska on MSN",
+            "article_content": ""
         }
     },
     {
@@ -231,10 +247,10 @@
         "body": {
             "title": "Gdzie na nordic walking do 55 km od Koszalina. Podpowiadamy, gdzie warto si\u0119 wybra\u0107 w weekend 13 - 14 grudnia",
             "link": "https://koszalin.naszemiasto.pl/gdzie-na-nordic-walking-do-55-km-od-koszalina-podpowiadamy-gdzie-warto-sie-wybrac-w-weekend-13-14-grudnia/ar/c7p1-22318903",
-            "description": "- Akademia Rycerska - w 1655 r. za\u0142o\u017cy\u0142 j\u0105 Wielki Elektor Fryderyk Wilhelm. By\u0142a to pierwsza szko\u0142a wojskowa w pa\u0144stwie ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.wy443o0-Kl_j7A3R7DmsoC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "description": "- Akademia Rycerska - w 1655 r. za\u0142o\u017cy\u0142 j\u0105 Wielki Elektor Fryderyk Wilhelm. By\u0142a to pierwsza szko\u0142a wojskowa w pa\u0144stwie brandenbursko-pruskim. W 1703 r. przekszta\u0142cono j\u0105 w Szko\u0142\u0119 Kadet\u00f3w, rozwi\u0105zan\u0105 ...",
+            "image_url": "https://www.bing.pl/th?id=ODF.2lnLIQe5bnM9ixvXVTSDQg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Koszalin Nasze Miasto1 godz.",
+            "date": "Koszalin Nasze Miasto4 godz.",
             "source": "Koszalin Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -250,25 +266,9 @@
             "description": "Wsp\u00f3lnie z Traseo wybrali\u015bmy 3 szlaki nordic walking w odleg\u0142o\u015bci do 5 km od Ko\u0142obrzegu. Zobacz, czy \u015bcie\u017cka polecana przez ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.tkEA_fq43a7Zl2TLxuMh-S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Ko\u0142obrzeg Nasze Miasto2 godz.",
+            "date": "Ko\u0142obrzeg Nasze Miasto6 godz.",
             "source": "Ko\u0142obrzeg Nasze Miasto",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Znak, kt\u00f3ry w mie\u015bcie utraci\u0142 sens. Kiedy\u015b by\u0142 niezb\u0119dny",
-            "link": "https://www.msn.com/pl-pl/infrastruktura-miejska/infrastruktura-transportowa/znak-kt%C3%B3ry-w-mie%C5%9Bcie-utraci%C5%82-sens-kiedy%C5%9B-by%C5%82-niezb%C4%99dny/ar-AA1Sk6ga?ocid=BingNewsVerp",
-            "description": "Czy m\u0142odzie\u017c, kt\u00f3ra niedawno zda\u0142a egzamin na prawo jazdy, zastanawia\u0142a si\u0119 mo\u017ce, dlaczego w du\u017cych miastach mo\u017cna spotka\u0107 znaki ograniczenia pr\u0119dko\u015bci do 50 km/h? Ma to jaki\u015b sens? Nie ma \u017cadnego, al ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.9Ff8zYr7jwUcHOiRffZ2Eg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "relikty",
-            "date": "Autoblog.pl on MSN1 godz.",
-            "source": "Autoblog.pl on MSN",
-            "article_content": ""
         }
     },
     {
@@ -282,7 +282,7 @@
             "description": "Niepozorne kawa\u0142ki papieru, kt\u00f3re w PRL-u decydowa\u0142y o dost\u0119pie do podstawowych produkt\u00f3w, zyskuj\u0105 dzi\u015b kolekcjonersk\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.0SCnMSOH5QSzdFnhna1Jly&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "BiznesINFO.pl8 godz.",
+            "date": "BiznesINFO.pl12 godz.",
             "source": "BiznesINFO.pl",
             "article_content": "Kartki z PRL-u s\u0105 dzi\u015b warte krocie. Kolekcjonerzy ich poszukuj\u0105, koniecznie sprawd\u017a szuflady\n\nNiepozorne kawa\u0142ki papieru, kt\u00f3re w PRL-u decydowa\u0142y o dost\u0119pie do podstawowych produkt\u00f3w, zyskuj\u0105 dzi\u015b kolekcjonersk\u0105 warto\u015b\u0107. Zapomniane kartki na \u017cywno\u015b\u0107 staj\u0105 si\u0119 poszukiwanym towarem. Ich ceny na aukcjach potrafi\u0105 zaskoczy\u0107, a kompletne zestawy osi\u0105gaj\u0105 sumy, kt\u00f3re znacznie przekraczaj\u0105 symboliczn\u0105 warto\u015b\u0107 historyczn\u0105. Nadszed\u0142 czas, aby dok\u0142adnie przejrze\u0107 pami\u0105tki po dziadkach i odnale\u017a\u0107 te niepozorne, ale potencjalnie cenne relikty minionej epoki.\n\nKartki na \u017cywno\u015b\u0107 i inne towary w czasach PRL-u\n\nKartki na \u017cywno\u015b\u0107, znane tak\u017ce jako bilety towarowe lub talony, by\u0142y jednym z najbardziej jaskrawych symboli gospodarki niedoboru dominuj\u0105cej w PRL. System reglamentacji, czyli kontrolowanej dystrybucji, wprowadzono w Polsce trzykrotnie: w latach 1944\u20131949, 1951\u20131953 oraz 1976\u20131989. Jego celem by\u0142a kontrola obrotu deficytowymi produktami i pr\u00f3ba sprawiedliwego podzia\u0142u towar\u00f3w w sytuacji, gdy na rynku by\u0142o ich zdecydowanie za ma\u0142o.\n\nPierwsza powojenna reglamentacja, zapocz\u0105tkowana ju\u017c w 1944 roku, pocz\u0105tkowo obejmowa\u0142a chleb, mi\u0119so, t\u0142uszcze, a z czasem r\u00f3wnie\u017c myd\u0142o i naft\u0119. Ostatecznie zrezygnowano z niej 1 stycznia 1949 roku w zwi\u0105zku z przej\u0119ciem przez pa\u0144stwo pe\u0142nej kontroli nad rynkiem wewn\u0119trznym. System powr\u00f3ci\u0142 na pocz\u0105tku lat 50. (konkretnie w 1951 roku), by znikn\u0105\u0107 na ponad dwie dekady. Polacy najmocniej pami\u0119taj\u0105 jednak ostatni, najd\u0142u\u017cszy okres kartkowy, wprowadzony przez w\u0142adze w 1976 roku reglamentacj\u0105 cukru, po nieudanej pr\u00f3bie podwy\u017cki cen.\n\nPocz\u0105tek lat 80. przyni\u00f3s\u0142 za\u0142amanie gospodarcze, kt\u00f3re doprowadzi\u0142o do rozszerzenia listy towar\u00f3w na kartki, a system obj\u0105\u0142 mi\u0119dzy innymi mi\u0119so, mas\u0142o, m\u0105k\u0119, ry\u017c, kasz\u0119, proszek do prania, a nawet alkohol, papierosy i benzyn\u0119. W odr\u00f3\u017cnieniu od bon\u00f3w dolarowych, kartki na \u017cywno\u015b\u0107 i inne towary nie zast\u0119powa\u0142y normalnych pieni\u0119dzy. Stanowi\u0142y jedynie uprawnienie do zakupu okre\u015blonej ilo\u015bci danego produktu, za kt\u00f3ry i tak trzeba by\u0142o zap\u0142aci\u0107. Ostatnie kartki na mi\u0119so i jego przetwory zosta\u0142y zniesione dopiero 1 sierpnia 1989 roku. To symboliczne wydarzenie definitywnie zako\u0144czy\u0142o jeden z najbardziej uci\u0105\u017cliwych aspekt\u00f3w \u017cycia w powojennej Polsce.\n\nFot. Arkadiusz Ziolek/East News\n\nPrzedmioty codziennego u\u017cytku z czas\u00f3w PRL osi\u0105gaj\u0105 zawrotne sumy na aukcjach\n\nWiele przedmiot\u00f3w codziennego u\u017cytku z czas\u00f3w PRL, kt\u00f3re dla \u00f3wczesnych mieszka\u0144c\u00f3w Polski stanowi\u0142y po prostu konieczno\u015b\u0107, dzisiaj sta\u0142o si\u0119 cennymi obiektami kolekcjonerskimi. Nie chodzi ju\u017c tylko o kartki na \u017cywno\u015b\u0107, ale o szerszy trend, w kt\u00f3rym pami\u0105tki z minionej epoki zyskuj\u0105 na warto\u015bci, a sentyment \u0142\u0105czy si\u0119 z rynkow\u0105 cen\u0105. Na aukcjach internetowych i w antykwariatach mo\u017cna spotka\u0107 wiele tego typu relikt\u00f3w, cz\u0119sto osi\u0105gaj\u0105cych zaskakuj\u0105ce kwoty.\n\nNa przyk\u0142ad, kolekcjonerzy s\u0105 sk\u0142onni zap\u0142aci\u0107 wysokie sumy za zabawki. Nawet stare kuchenne gad\u017cety, jak emaliowane czajniki, wracaj\u0105 do \u0142ask jako stylowe dodatki, maj\u0105ce ju\u017c nie tylko warto\u015b\u0107 u\u017cytkow\u0105. Moda na vintage i rosn\u0105ce zainteresowanie histori\u0105 Polski sprawi\u0142y, \u017ce niepozorne przedmioty sta\u0142y si\u0119 atrakcyjne dla szerokiego grona pasjonat\u00f3w i inwestor\u00f3w. O dynamicznym wzro\u015bcie cen decyduje przede wszystkim stan zachowania, kompletno\u015b\u0107, ale i historia konkretnego egzemplarza.\n\nNajcenniejsze s\u0105 te, kt\u00f3re przetrwa\u0142y w idealnej kondycji, cz\u0119sto w oryginalnych opakowaniach. W przypadku kartek reglamentacyjnych oznacza to brak wyrwanych kupon\u00f3w i idealny stan papieru. Warto pami\u0119ta\u0107, \u017ce wiele z tych niegdy\u015b powszechnych przedmiot\u00f3w zosta\u0142o po prostu wyrzuconych po 1989 roku, co czyni te, kt\u00f3re przetrwa\u0142y, rzadkimi unikatami.\n\nZa kartki z PRL-u p\u0142ac\u0105 zawrotne sumy\n\nWielu Polak\u00f3w wci\u0105\u017c trzyma na dnie szuflad lub na strychu pami\u0105tki z czas\u00f3w PRL, nie\u015bwiadomych ich aktualnej warto\u015bci kolekcjonerskiej. Tymczasem komplety oryginalnych kartek, zw\u0142aszcza tych rzadszych, potrafi\u0105 osi\u0105ga\u0107 na aukcjach zaskakuj\u0105ce ceny. Ceny zale\u017c\u0105 od kilku kluczowych czynnik\u00f3w: roku wydania, stanu zachowania i kompletno\u015bci zestawu. Najbardziej poszukiwane s\u0105 egzemplarze z lat 1976\u20131982.\n\nAktualne ceny kszta\u0142tuj\u0105 si\u0119 nast\u0119puj\u0105co: za pojedyncze kartki kolekcjonerzy p\u0142ac\u0105 od 20 do nawet 100 z\u0142otych. Kompletne zestawy kartek na mi\u0119so, najbardziej symboliczny towar reglamentowany, oscyluj\u0105 w przedziale od 60 do 150 z\u0142otych. Najwy\u017csz\u0105 warto\u015b\u0107 maj\u0105 rzadsze odmiany: kartki przeznaczone dla g\u00f3rnik\u00f3w i matek karmi\u0105cych mog\u0105 osi\u0105gn\u0105\u0107 cen\u0119 od 80 do 200 z\u0142otych, a rzadkie wk\u0142adki do dowod\u00f3w osobistych s\u0105 wyceniane na 150\u2013400 z\u0142otych. Nieu\u017cywane kupony z lat 70. potrafi\u0105 kosztowa\u0107 nawet 300 z\u0142otych.\n\nCo wi\u0119cej, kompletny blok kartek z 1981 roku, ze wzgl\u0119du na historyczny kontekst, mo\u017ce osi\u0105ga\u0107 jeszcze wy\u017csze kwoty. Nie tylko kartki na \u017cywno\u015b\u0107 s\u0105 cenne. Na aukcjach mo\u017cna sprzeda\u0107 tak\u017ce pokwitowania z punkt\u00f3w skupu makulatury, uprawniaj\u0105ce do zakupu papieru toaletowego (warte 30\u201380 z\u0142otych), czy kartki na benzyn\u0119 (40\u2013100 z\u0142otych).\n\nAby zmaksymalizowa\u0107 zysk, nale\u017cy zadba\u0107 o nienaganny stan dokument\u00f3w \u2013 kartki powinny by\u0107 czyste, bez plam, zagi\u0119\u0107 i kompletne. Rynek kolekcjonerski w Polsce wyra\u017anie pokazuje, \u017ce te niepozorne pami\u0105tki, b\u0119d\u0105ce kiedy\u015b symbolem niedostatku i kolejek, sta\u0142y si\u0119 teraz cennym \u015bwiadectwem historii, na kt\u00f3rym mo\u017cna niespodziewanie zarobi\u0107."
         }
@@ -298,8 +298,24 @@
             "description": "Nim wyruszysz w drog\u0119, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 20 grudnia w Grodzisku Mazowieckim ma by\u0107 5\u00b0C. Nie powinno pada\u0107. Czas trwania wyprawy: 2 godz. i 7 min. Nasz\u0105 wycieczk\u0119 rozpoczynamy przy ...",
             "image_url": "https://www.bing.pl/th?id=ODF.JAdeQew8uINxzLFHIFMwuQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "relikty",
-            "date": "Grodzisk Mazowiecki Nasze Miasto3 godz.",
+            "date": "Grodzisk Mazowiecki Nasze Miasto7 godz.",
             "source": "Grodzisk Mazowiecki Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Odkryli dziwny \u015blad na Marsie. To\u017c to motyl",
+            "link": "https://spidersweb.pl/2025/12/mars-krater-motyl-esa-nowe-zdjecia.html",
+            "description": "Mars Express sfotografowa\u0142 krater o kszta\u0142cie motyla. Nietypowe skrzyd\u0142a zdradzaj\u0105 obecno\u015b\u0107 lodu pod powierzchni\u0105 Marsa.",
+            "image_url": "https://www.bing.pl/th?id=OVFT.ugy_gKm5ro-nj5NMItkvly&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "Spider\u2019s Web13 godz.",
+            "source": "Spider\u2019s Web",
             "article_content": "Content not available"
         }
     },
@@ -314,7 +330,7 @@
             "description": "Bardzo ciekaw\u0105 relacj\u0119 dla muzeum z\u0142o\u017cy\u0142a Leokadia W\u00f3jcik z K\u0119t, kt\u00f3ra w maju 2025 r. sko\u0144czy\u0142a 100 lat. W czasie II wojny ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.dF0R_M_rRQMSkXh1KvK1vS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "O\u015bwi\u0119cim Nasze Miasto17 godz.",
+            "date": "O\u015bwi\u0119cim Nasze Miasto21 godz.",
             "source": "O\u015bwi\u0119cim Nasze Miasto",
             "article_content": "Content not available"
         }
