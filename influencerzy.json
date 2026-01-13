@@ -5,14 +5,14 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Bia\u0142ystok. Styczniowe zakupy na gie\u0142dzie przy Andersa. Sprawd\u017a, co znajdziemy [ZDJ\u0118CIA]",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/bia%C5%82ystok-styczniowe-zakupy-na-gie%C5%82dzie-przy-andersa-sprawd%C5%BA-co-znajdziemy-zdj%C4%99cia/ar-AA1U3Fdt?ocid=BingNewsVerp",
-            "description": "Podlaskie Centrum Rolno-Towarowe przy ul. Andersa niezale\u017cnie od pogody jest jednym z najpopularniejszych punkt\u00f3w zakupowych ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.h27SSOqGrZXjuknosvg54i&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "starocie",
-            "date": "Bia\u0142ystok Nasze Miasto on MSN23 godz.",
-            "source": "Bia\u0142ystok Nasze Miasto on MSN",
-            "article_content": ""
+            "title": "Tyle p\u0142ac\u0105 teraz za te stare polskie monety. Podajemy konkretne warto\u015bci",
+            "link": "https://nto.pl/tyle-placa-teraz-za-te-stare-polskie-monety-podajemy-konkretne-wartosci/ar/c1p2-28022573",
+            "description": "Warto\u015b\u0107 tych starych monet obiegowych mo\u017ce by\u0107 dzisiaj znacznie wy\u017csza, ni\u017c by\u015b si\u0119 m\u00f3g\u0142 spodziewa\u0107. Niekt\u00f3re egzemplarze ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.8dtwSkHXLhWwG4C-W8CaIy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "Nowa Trybuna Opolska2 godz.",
+            "source": "Nowa Trybuna Opolska",
+            "article_content": "Content not available"
         }
     },
     {
@@ -26,7 +26,7 @@
             "description": "Na starych monetach z czas\u00f3w PRL-u mo\u017cna zarobi\u0107 du\u017co pieni\u0119dzy. Wycena monet zale\u017cy od ich stanu zachowania, a dobrze ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.0qowG_2RHnDFLYejpDfxZy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski on MSN5 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN9 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
@@ -42,9 +42,25 @@
             "description": "Kolekcjonerzy s\u0105 gotowi p\u0142aci\u0107 wysokie kwoty za stare polskie monety, kt\u00f3re potrafi\u0105 osi\u0105ga\u0107 cen\u0119 nawet kilku tysi\u0119cy z\u0142otych ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.VUpFusXtBVhk0UoJknWtVS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski8 godz.",
+            "date": "G\u0142os Koszali\u0144ski12 godz.",
             "source": "G\u0142os Koszali\u0144ski",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Tyle p\u0142ac\u0105 teraz za te stare monety. Podajemy konkretne warto\u015bci",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/tyle-p%C5%82ac%C4%85-teraz-za-te-stare-monety-podajemy-konkretne-warto%C5%9Bci/ar-AA1TrfDX?ocid=BingNewsVerp",
+            "description": "Warto\u015b\u0107 tych starych monet obiegowych mo\u017ce by\u0107 dzisiaj znacznie wy\u017csza, ni\u017c by\u0107 si\u0119 spodziewa\u0142. Niekt\u00f3re egzemplarze osi\u0105gaj\u0105 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.KwoGNKxAdljNO9VQP3GGBi&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "Nowa Trybuna Opolska on MSN1 godz.",
+            "source": "Nowa Trybuna Opolska on MSN",
+            "article_content": ""
         }
     },
     {
@@ -58,41 +74,9 @@
             "description": "Monety z czas\u00f3w II RP znowu bij\u0105 rekordy popularno\u015bci. Szczeg\u00f3lnie te z rzadkich rocznik\u00f3w, kt\u00f3re dzi\u015b osi\u0105gaj\u0105 ceny ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.n1Avogv3MfvcfYMu7UrK9C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Nowa Trybuna Opolska1 godz.",
+            "date": "Nowa Trybuna Opolska5 godz.",
             "source": "Nowa Trybuna Opolska",
             "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Takich dwuz\u0142ot\u00f3wek poszukuj\u0105 teraz kolekcjonerzy. S\u0105 sporo warte",
-            "link": "https://nto.pl/takich-dwuzlotowek-poszukuja-teraz-kolekcjonerzy-sa-sporo-warte/ar/c1p2-28109229",
-            "description": "Te okoliczno\u015bciowe dwuz\u0142ot\u00f3wki jeszcze ca\u0142kiem niedawno by\u0142y kupowane przez tysi\u0105ce Polak\u00f3w na pot\u0119g\u0119, Teraz cz\u0119\u015b\u0107 z nich ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.H6fqr3R61NQDDaIBI_C1aS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "Nowa Trybuna Opolska4 godz.",
-            "source": "Nowa Trybuna Opolska",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Stare telefony kom\u00f3rkowe, kt\u00f3re dzi\u015b s\u0105 warte fortun\u0119. Masz takie? 13.01.2025",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/stare-telefony-kom%C3%B3rkowe-kt%C3%B3re-dzi%C5%9B-s%C4%85-warte-fortun%C4%99-masz-takie-13012025/ar-AA1OXkNT?ocid=BingNewsVerp",
-            "description": "W erze superszybkich smartfon\u00f3w z potr\u00f3jnymi aparatami, ekranami AMOLED i sztuczn\u0105 inteligencj\u0105 na pok\u0142adzie, ma\u0142o kto ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.kQor35RUik_fedtS68tsQy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+monety",
-            "date": "G\u0142os Pomorza on MSN4 godz.",
-            "source": "G\u0142os Pomorza on MSN",
-            "article_content": ""
         }
     },
     {
@@ -106,7 +90,7 @@
             "description": "\u2013 Mimo takich skrajnych warunk\u00f3w koniki polskie \u2013 jedyna polska rasa prymitywnych koni, potomk\u00f3w tarpana \u2013 daj\u0105 sobie ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.jDcv3VbkjgPpR_CRSDH84S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "targ+staroci",
-            "date": "Kurier Lubelski5 godz.",
+            "date": "Kurier Lubelski9 godz.",
             "source": "Kurier Lubelski",
             "article_content": "Content not available"
         }
@@ -117,13 +101,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Pras\u00f3wka 13.01.2026. Zobacz zestawienie najwa\u017cniejszych informacji z wczoraj z naszego wojew\u00f3dztwa",
-            "link": "https://gazetakrakowska.pl/prasowka-13-01-2026-zobacz-zestawienie-najwazniejszych-informacji-z-wczoraj-z-naszego-wojewodztwa/ar/c1p1-19960891",
-            "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 12.01.",
-            "image_url": "https://www.bing.pl/th?id=OVFT.Ulxqez2BjMnz6S-i1HrOGy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "\u015acie\u017cki nordic walking do 1 km od Ko\u0142obrzegu. Pomys\u0142y na odrobin\u0119 ruchu - weekend 17 - 18 stycznia",
+            "link": "https://kolobrzeg.naszemiasto.pl/sciezki-nordic-walking-do-1-km-od-kolobrzegu-pomysly-na-odrobine-ruchu-weekend-17-18-stycznia/ar/c7p1-22319027",
+            "description": "Zanim wyjdziesz, upewnij si\u0119, jaka jest prognoza pogody w Ko\u0142obrzegu. W sobot\u0119 17 stycznia wed\u0142ug prognozy pogody ma by\u0107 3\u00b0C.",
+            "image_url": "https://www.bing.pl/th?id=OVFT.SOYqr3hQG7A0z_SSZ5C3CS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Gazeta Krakowska9 godz.",
-            "source": "Gazeta Krakowska",
+            "date": "Ko\u0142obrzeg Nasze Miasto2 godz.",
+            "source": "Ko\u0142obrzeg Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -133,29 +117,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Przed Krzy\u017cakami i Marienburgiem by\u0142a tutaj Polska, a nie Prusowie? Jacek Albrecht i jego nowa ksi\u0105\u017cka",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/przed-krzy%C5%BCakami-i-marienburgiem-by%C5%82a-tutaj-polska-a-nie-prusowie-jacek-albrecht-i-jego-nowa-ksi%C4%85%C5%BCka/ar-AA1TWEDo?ocid=BingNewsVerp",
-            "description": "Specjali\u015bci uznaliby t\u0119 koncepcj\u0119 za histori\u0119 alternatywn\u0105 albo po prostu legend\u0119. Historia m\u00f3wi przecie\u017c, \u017ce tu, gdzie jest ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.RQjEXAal80cA13ViwuGgrC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "\u015acie\u017cki rowerowe do 127 km od Sieradza. Podpowiedzi jednodniowych wypraw. Gdzie w weekend 17 - 18 stycznia?",
+            "link": "https://sieradz.naszemiasto.pl/sciezki-rowerowe-do-127-km-od-sieradza-podpowiedzi-jednodniowych-wypraw-gdzie-w-weekend-17-18-stycznia/ar/c7p1-21831603",
+            "description": "Zanim wyruszysz w tras\u0119, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 17 stycznia w Sieradzu ma by\u0107 -0\u00b0C. Nie powinno pada\u0107. W ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.pyYsSaNNkbZ_TMUyZm2wzC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Malbork Nasze Miasto on MSN4 godz.",
-            "source": "Malbork Nasze Miasto on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "KRUSZENIE LODU",
-            "link": "https://echodnia.eu/radomskie/tag/kruszenie-lodu",
-            "description": "Ju\u017c dzi\u015b lodo\u0142amacze rozpocz\u0119\u0142y kruszenie lodu na wodach dolnej Wis\u0142y i dolnej Odry. Ma to poprawi\u0107 bezpiecze\u0144stwo ludzi i ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.OlAu1bnOzeBTIhhXx8Eu3y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "Echo Dnia3 godz.",
-            "source": "Echo Dnia",
+            "date": "Sieradz Nasze Miasto1 godz.",
+            "source": "Sieradz Nasze Miasto",
             "article_content": "Content not available"
         }
     },
@@ -165,30 +133,46 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "MROZ RZEKI",
-            "link": "https://echodnia.eu/radomskie/tag/mroz-rzeki",
-            "description": "Ju\u017c dzi\u015b lodo\u0142amacze rozpocz\u0119\u0142y kruszenie lodu na wodach dolnej Wis\u0142y i dolnej Odry. Ma to poprawi\u0107 bezpiecze\u0144stwo ludzi i ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.OlAu1bnOzeBTIhhXx8Eu3y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Rowerem do 3 km od Warszawy. Pomys\u0142y na jednodniow\u0105 wypraw\u0119. Gdzie w weekend 17 - 18 stycznia?",
+            "link": "https://warszawa.naszemiasto.pl/rowerem-do-3-km-od-warszawy-pomysly-na-jednodniowa-wyprawe-gdzie-w-weekend-17-18-stycznia/ar/c7p1-21831391",
+            "description": "Nim wyruszysz w drog\u0119, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 17 stycznia w Warszawie ma by\u0107 -4\u00b0C. Nie powinno pada\u0107. W niedziel\u0119 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.7cVFWleDESv1indqZS5qLy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Echo Dnia3 godz.",
-            "source": "Echo Dnia",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Rowerem do 2 km od Warszawy. Podpowiedzi jednodniowych wypraw. Gdzie w weekend 17 - 18 stycznia?",
-            "link": "https://warszawa.naszemiasto.pl/rowerem-do-2-km-od-warszawy-podpowiedzi-jednodniowych-wypraw-gdzie-w-weekend-17-18-stycznia/ar/c7p1-21831391",
-            "description": "Rozgl\u0105dasz si\u0119 za pomys\u0142em na wycieczk\u0119 rowerow\u0105 w pobli\u017cu Warszawy? Proponujemy, gdzie warto si\u0119 wybra\u0107. Mamy 5 ciekawych ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.QVwFPvTDzMl-gwAu9XT2-y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "Warszawa Nasze Miasto23 godz.",
+            "date": "Warszawa Nasze Miasto3 godz.",
             "source": "Warszawa Nasze Miasto",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Gdzie na spacer do 31 km od Gryfic. Pomys\u0142y na wypoczynek na powietrzu w weekend 17 - 18 stycznia",
+            "link": "https://gryfice.naszemiasto.pl/gdzie-na-spacer-do-31-km-od-gryfic-pomysly-na-wypoczynek-na-powietrzu-w-weekend-17-18-stycznia/ar/c7p1-22116005",
+            "description": "We wsp\u00f3\u0142pracy z Traseo przygotowali\u015bmy dla Was 3 trasy spacerowe oddalonych maksymalnie o 31 km od Gryfic, kt\u00f3re polecaj\u0105 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.LKI4ryuDyIMkqlXO_tyAgC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "Gryfice Nasze Miasto1 godz.",
+            "source": "Gryfice Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Jaskinia z betonu i szk\u0142a. To tu znaleziono Wenus z V\u011bstonic, czyli najstarsz\u0105 figurk\u0119 ceramiczn\u0105 na \u015bwiecie",
+            "link": "https://www.msn.com/pl-pl/podroze/muzea-i-galerie/jaskinia-z-betonu-i-szk%C5%82a-to-tu-znaleziono-wenus-z-v%C4%9Bstonic-czyli-najstarsz%C4%85-figurk%C4%99-ceramiczn%C4%85-na-%C5%9Bwiecie/ar-AA1U83u0?ocid=BingNewsVerp",
+            "description": "Pavlov i Doln\u00ed V\u011bstonice w po\u0142udniowej cz\u0119\u015bci czeskich Moraw to wysoko cenione stanowiska archeologiczne. Uko\u0144czony w 2016 ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.6igjozedp9Cz3lQGU_H17S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "Architektura-Murator on MSN2 godz.",
+            "source": "Architektura-Murator on MSN",
+            "article_content": ""
         }
     },
     {
@@ -202,7 +186,7 @@
             "description": "W tym filmie zobaczysz spacer po katedrze w Akwizgranie \u2013 pokazujemy pi\u0119kne witra\u017ce, zabytkowe przedmioty religijne i ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.dz8SHJboIRJ9UxzsWvmTTy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Wanderlust Travel Videos on MSN3 godz.",
+            "date": "Wanderlust Travel Videos on MSN7 godz.",
             "source": "Wanderlust Travel Videos on MSN",
             "article_content": ""
         }
@@ -218,8 +202,24 @@
             "description": "\u2013 Mimo takich skrajnych warunk\u00f3w koniki polskie \u2013 jedyna polska rasa prymitywnych koni, potomk\u00f3w tarpana \u2013 daj\u0105 sobie ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.jDcv3VbkjgPpR_CRSDH84S&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Kurier Lubelski5 godz.",
+            "date": "Kurier Lubelski9 godz.",
             "source": "Kurier Lubelski",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Tyle p\u0142ac\u0105 teraz za te stare polskie monety. Podajemy konkretne warto\u015bci",
+            "link": "https://nto.pl/tyle-placa-teraz-za-te-stare-polskie-monety-podajemy-konkretne-wartosci/ar/c1p2-28022573",
+            "description": "Warto\u015b\u0107 tych starych monet obiegowych mo\u017ce by\u0107 dzisiaj znacznie wy\u017csza, ni\u017c by\u015b si\u0119 m\u00f3g\u0142 spodziewa\u0107. Niekt\u00f3re egzemplarze ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.8dtwSkHXLhWwG4C-W8CaIy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+numizmatyka",
+            "date": "Nowa Trybuna Opolska2 godz.",
+            "source": "Nowa Trybuna Opolska",
             "article_content": "Content not available"
         }
     },
@@ -234,9 +234,25 @@
             "description": "Monety z czas\u00f3w II RP znowu bij\u0105 rekordy popularno\u015bci. Szczeg\u00f3lnie te z rzadkich rocznik\u00f3w, kt\u00f3re dzi\u015b osi\u0105gaj\u0105 ceny ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.n1Avogv3MfvcfYMu7UrK9C&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "Nowa Trybuna Opolska1 godz.",
+            "date": "Nowa Trybuna Opolska5 godz.",
             "source": "Nowa Trybuna Opolska",
             "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Te monety s\u0105 teraz sporo warte. Kolekcjonerzy ich poszukuj\u0105",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/te-monety-z-prl-s%C4%85-na-topie-w-2026-roku-tyle-mo%C5%BCna-na-nich-zarobi%C4%87/ar-AA1TzUzV?ocid=BingNewsVerp",
+            "description": "Warto zajrze\u0107 do domowych skrytek, szuflad czy starych album\u00f3w po dziadkach. Cz\u0119sto w\u0142a\u015bnie tam le\u017c\u0105 zapomniane monety, kt\u00f3re ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.SnD7ms8VijzfMAUMTEaxaC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+numizmatyka",
+            "date": "Nowa Trybuna Opolska on MSN2 godz.",
+            "source": "Nowa Trybuna Opolska on MSN",
+            "article_content": ""
         }
     },
     {
@@ -250,25 +266,9 @@
             "description": "Monety z czas\u00f3w Polskiej Rzeczpospolitej Ludowej ciesz\u0105 si\u0119 coraz wi\u0119kszym zainteresowaniem oraz wzrasta ich warto\u015b\u0107, ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.jM-JjPT_RXGe5uOBVIZrui&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+numizmatyka",
-            "date": "G\u0142os Koszali\u0144ski on MSN5 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN9 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Takich dwuz\u0142ot\u00f3wek poszukuj\u0105 teraz kolekcjonerzy. S\u0105 sporo warte",
-            "link": "https://nto.pl/takich-dwuzlotowek-poszukuja-teraz-kolekcjonerzy-sa-sporo-warte/ar/c1p2-28109229",
-            "description": "Te okoliczno\u015bciowe dwuz\u0142ot\u00f3wki jeszcze ca\u0142kiem niedawno by\u0142y kupowane przez tysi\u0105ce Polak\u00f3w na pot\u0119g\u0119, Teraz cz\u0119\u015b\u0107 z nich ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.H6fqr3R61NQDDaIBI_C1aS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+numizmatyka",
-            "date": "Nowa Trybuna Opolska4 godz.",
-            "source": "Nowa Trybuna Opolska",
-            "article_content": "Content not available"
         }
     }
 ]
