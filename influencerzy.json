@@ -10,7 +10,7 @@
             "description": "Powiat staszowski. 74-latek potr\u0105ci\u0142 dwoje nastolatk\u00f3w na przej\u015bciu dla pieszych. Po zdarzeniu poszkodowani trafili do szpitala. Sytuacja mia\u0142a miejsce dzi\u015b (28 wrze\u015bnia) oko\u0142o godziny 19.",
             "image_url": "https://www.bing.pl/th?id=ODF.sr2CLDHPdBmKobr18SfpQg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "Radio ESKA31 min",
+            "date": "Radio ESKA4 godz.",
             "source": "Radio ESKA",
             "article_content": ""
         }
@@ -26,7 +26,7 @@
             "description": "Przedstawiamy najbogatsze samorz\u0105dy w 2024 roku w Polsce i wojew\u00f3dztwie \u015bwi\u0119tokrzyskim. Magazyn \"Wsp\u00f3lnota\" udost\u0119pni\u0142 najnowszy ranking. Dzi\u015b prezentujemy najbardziej zamo\u017cne miasteczka regionu. W ...",
             "image_url": "https://www.bing.pl/th?id=ODF.sr2CLDHPdBmKobr18SfpQg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "starocie",
-            "date": "Radio ESKA54 min",
+            "date": "Radio ESKA4 godz.",
             "source": "Radio ESKA",
             "article_content": ""
         }
@@ -42,7 +42,7 @@
             "description": "Nie wiarygodne, \u017ce te stare polskie monety s\u0105 tyle warte! Masz takie w domu? Koniecznie sprawd\u017a w piwnicy lub na strychu.",
             "image_url": "https://www.bing.pl/th?id=OVFT.LhtrCIZHDeyf2zahOQmHGy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski on MSN9 godz.",
+            "date": "G\u0142os Koszali\u0144ski on MSN12 godz.",
             "source": "G\u0142os Koszali\u0144ski on MSN",
             "article_content": ""
         }
@@ -58,8 +58,24 @@
             "description": "Zajrzyj do swojej kolekcji monet. Mo\u017ce si\u0119 okaza\u0107, \u017ce posiadasz cenny egzemplarz, kt\u00f3rego warto\u015b\u0107 jest znacznie wy\u017csza, ni\u017c przypuszczasz. Dowiedz si\u0119, kt\u00f3re monety z okresu II RP, PRL oraz III RP s\u0105 ...",
             "image_url": "https://www.bing.pl/th?id=ODF.76kriaQo9Bf3VkGu5wM7EA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+monety",
-            "date": "G\u0142os Koszali\u0144ski8 godz.",
+            "date": "G\u0142os Koszali\u0144ski12 godz.",
             "source": "G\u0142os Koszali\u0144ski",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Oto monety i banknoty z PRL za kt\u00f3re kolekcjonerzy p\u0142ac\u0105 nawet 40 tysi\u0119cy z\u0142. Masz je w domu? 22.01.2026",
+            "link": "https://gp24.pl/oto-monety-i-banknoty-z-prl-za-ktore-kolekcjonerzy-placa-nawet-40-tysiecy-zl-masz-je-w-domu-22-01-2026/ar/c3p2-27672673",
+            "description": "Czy w Twojej starej szufladzie, puszce po herbacie lub zapomnianej szkatu\u0142ce le\u017c\u0105 monety z czas\u00f3w PRL? Je\u015bli tak, to mo\u017cesz ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.SUM6EoymQzlvGiI-SK2Fgy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+monety",
+            "date": "G\u0142os Pomorza12 godz.",
+            "source": "G\u0142os Pomorza",
             "article_content": "Content not available"
         }
     },
@@ -74,7 +90,7 @@
             "description": "W 2026 roku banknoty i monety z czas\u00f3w PRL s\u0105 popularne i poszukiwane przez kolekcjoner\u00f3w. Je\u015bli posiadasz takie skarby w ...",
             "image_url": "https://www.bing.pl/th?id=ORMS.c7aa1773595ca6e0e98149c029f11fa4&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN6 godz.",
+            "date": "Nowo\u015bci Dziennik Toru\u0144ski on MSN10 godz.",
             "source": "Nowo\u015bci Dziennik Toru\u0144ski on MSN",
             "article_content": ""
         }
@@ -85,61 +101,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Oto monety i banknoty z PRL za kt\u00f3re kolekcjonerzy p\u0142ac\u0105 nawet 40 tysi\u0119cy z\u0142. Masz je w domu? 22.01.2026",
-            "link": "https://gp24.pl/oto-monety-i-banknoty-z-prl-za-ktore-kolekcjonerzy-placa-nawet-40-tysiecy-zl-masz-je-w-domu-22-01-2026/ar/c3p2-27672673",
-            "description": "Czy w Twojej starej szufladzie, puszce po herbacie lub zapomnianej szkatu\u0142ce le\u017c\u0105 monety z czas\u00f3w PRL? Je\u015bli tak, to mo\u017cesz ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.SUM6EoymQzlvGiI-SK2Fgy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Te banknoty s\u0105 do niczego! Musisz je wymieni\u0107 do ko\u0144ca stycznia, bo strac\u0105 wa\u017cno\u015b\u0107 22.01.2026",
+            "link": "https://www.msn.com/pl-pl/finanse/najpopularniejsze-artykuly/te-banknoty-s%C4%85-do-niczego-musisz-je-wymieni%C4%87-do-ko%C5%84ca-stycznia-bo-strac%C4%85-wa%C5%BCno%C5%9B%C4%87-22012026/ar-AA1RoFHO?ocid=BingNewsVerp",
+            "description": "Te banknoty musisz wymieni\u0107 w styczniu 2026. Inaczej b\u0119dziesz mia\u0142 problem z zap\u0142aceniem nimi w sklepie za zakupy. Sprawd\u017a ...",
+            "image_url": "https://www.bing.pl/th?id=ORMS.1c6cde848304cf0549ae1c4face35e61&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "stare+monety",
-            "date": "G\u0142os Pomorza8 godz.",
-            "source": "G\u0142os Pomorza",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Rzadkie monety z PRL poszukiwane przez kolekcjoner\u00f3w. Kt\u00f3re s\u0105 najdro\u017csze i ile mo\u017cna za nie zarobi\u0107 22.01.2026",
-            "link": "https://gp24.pl/rzadkie-monety-z-prl-poszukiwane-przez-kolekcjonerow-ktore-sa-najdrozsze-i-ile-mozna-za-nie-zarobic-22012026/ar/c1-17275689",
-            "description": "Stare, rzadkie i najcenniejsze monety z PRL. Pieni\u0105dze z tego okresu, s\u0105 teraz warte nawet kilkaset razy wi\u0119cej, ni\u017c w dniu ich pojawienia si\u0119 na rynku. Najcz\u0119\u015bciej poszukiwane monety przez kolekcjone ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.tAzrA9gy16ox_ItpnAdmqg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "stare+monety",
-            "date": "G\u0142os Pomorza8 godz.",
-            "source": "G\u0142os Pomorza",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Fina\u0142 WO\u015aP 2026: Niepowtarzalne prze\u017cycia i najbardziej odjechane aukcje na Dolnym \u015al\u0105sku. Zosta\u0144 czo\u0142gist\u0105, pilotem i kowbojem",
-            "link": "https://gazetawroclawska.pl/final-wosp-2026-niepowtarzalne-przezycia-i-najbardziej-odjechane-aukcje-na-dolnym-slasku-zostan-czolgista-pilotem-i-kowbojem/ar/c13p2-28657441",
-            "description": "Fina\u0142 Wielkiej Orkiestry \u015awi\u0105tecznej Pomocy 2026 ju\u017c wkr\u00f3tce. Przy okazji wsp\u00f3lnej zabawy oraz wsparcia dla tego przedsi\u0119wzi\u0119cia mo\u017cna zakupi\u0107 wyj\u0105tkowe niepowtarzalne prze\u017cycia. Sprawdzili\u015bmy, jakie ...",
-            "image_url": "https://www.bing.pl/th?id=ODF.p9YO103MXreScWBGsL62IA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
-            "category": "relikty",
-            "date": "Gazeta Wroc\u0142awska2 godz.",
-            "source": "Gazeta Wroc\u0142awska",
-            "article_content": "Content not available"
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "Prognoza pogody na luty 2026. Czym luty nas zaskoczy? Pogoda w lutym - b\u0119dzie trzaskaj\u0105cy mr\u00f3z, czy wiosna? Zobacz",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/prognoza-pogody-na-luty-2026-czym-luty-nas-zaskoczy-pogoda-w-lutym-b%C4%99dzie-trzaskaj%C4%85cy-mr%C3%B3z-czy-wiosna-zobacz/ar-AA1UFXBT?ocid=BingNewsVerp",
-            "description": "Znana jest ju\u017c prognoza pogody na luty 2026. Sprawdzili\u015bmy, czy b\u0119dzie to aura zimowa, czy raczej taka, jaka kojarzy si\u0119 nam ...",
-            "image_url": "https://www.bing.pl/th?id=ORMS.23e224cf617326fb049d507ca6613c3d&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "Gazeta Wroc\u0142awska on MSN18 godz.",
-            "source": "Gazeta Wroc\u0142awska on MSN",
+            "date": "G\u0142os Szczeci\u0144ski on MSN10 godz.",
+            "source": "G\u0142os Szczeci\u0144ski on MSN",
             "article_content": ""
         }
     },
@@ -149,13 +117,13 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Rowerem do 157.7 km od Zdu\u0144skiej Woli. Pomys\u0142y na jednodniow\u0105 wypraw\u0119. Gdzie w weekend 24 - 25 stycznia?",
-            "link": "https://zdunskawola.naszemiasto.pl/rowerem-do-157-7-km-od-zdunskiej-woli-pomysly-na-jednodniowa-wyprawe-gdzie-w-weekend-24-25-stycznia/ar/c7p1-21831605",
-            "description": "Zanim wyruszysz w drog\u0119, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 24 stycznia w Zdu\u0144skiej Woli ma by\u0107 -0\u00b0C. Nie powinno ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.QVwFPvTDzMl-gwAu9XT2-y&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "relikty",
-            "date": "Zdu\u0144ska Wola Nasze Miasto23 godz.",
-            "source": "Zdu\u0144ska Wola Nasze Miasto",
+            "title": "BIURO OBSLUGI KLIENTA",
+            "link": "https://echodnia.eu/podkarpackie/tag/biuro-obslugi-klienta",
+            "description": "Prezydent Stalowej Woli zaprasza w najbli\u017csz\u0105 niedziel\u0119, 25 czerwca na kolejn\u0105, bezp\u0142atn\u0105 wycieczk\u0119 po Rozwadowie. Spaceruj\u0105c ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.RAy3u057nzjPoZiCpv34yC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "targ+staroci",
+            "date": "Echo Dnia2 godz.",
+            "source": "Echo Dnia",
             "article_content": "Content not available"
         }
     },
@@ -165,12 +133,44 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "\u015acie\u017cki rowerowe do 9.8 km od O\u015bwi\u0119cimia. Podpowiadamy pomys\u0142y na wypraw\u0119. Gdzie w weekend 24 - 25 stycznia?",
-            "link": "https://oswiecim.naszemiasto.pl/sciezki-rowerowe-do-9-8-km-od-oswiecimia-podpowiadamy-pomysly-na-wyprawe-gdzie-w-weekend-24-25-stycznia/ar/c7p1-21831633",
-            "description": "Zanim wyruszysz na wypraw\u0119, sprawd\u017a prognoz\u0119 pogody. W sobot\u0119 24 stycznia w O\u015bwi\u0119cimiu ma by\u0107 1\u00b0C. Prawdopodobie\u0144stwo ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.LIawaCigxMukxo7djAKgrC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Damy kina PRL-u. Rozpoznasz je po samych oczach? [QUIZ]",
+            "link": "https://www.chillizet.pl/kultura/quiz-o-aktorkach-prl-u-rozpoznasz-je-o-oczach",
+            "description": "PRL by\u0142 z\u0142otym okresem dla polskiego kina. By\u0142 okresem, w kt\u00f3rym kinematografia od\u017cywa\u0142a po wojnie i kszta\u0142towa\u0142a kanon. Dzi\u015b ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.jLrVzVX4yWWy7Q-xHSg7tC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "O\u015bwi\u0119cim Nasze Miasto22 godz.",
+            "date": "Chillizet3 godz.",
+            "source": "Chillizet",
+            "article_content": "--1-- --6692ce460b78c935c69696a3--\n\nPRL \u2013 jedni go nienawidz\u0105, inni za\u015b wspominaj\u0105 z ut\u0119sknieniem. \u017bycie w tamtych czasach nie by\u0142o \u0142atwe, ale wi\u0119kszo\u015bci udawa\u0142o si\u0119 jednak wi\u0105za\u0107 koniec z ko\u0144cem. Co wi\u0119cej, relikty dawnej epoki wci\u0105\u017c obecne i \u017cywe s\u0105 w\u015br\u00f3d nas. Gdy jedni wci\u0105\u017c trzymaj\u0105 w szafce prodi\u017c, inni ogl\u0105daj\u0105 filmy powsta\u0142e za komuny. Temu jednak nie mo\u017cna si\u0119 dziwi\u0107 \u2013 w Polskiej Rzeczpospolitej Ludowej w kulturze dzia\u0142o si\u0119 du\u017co i to w\u0142a\u015bnie w tym okresie rozwija\u0142a si\u0119 z\u0142ota era polskiego kina.\n\nQuiz: Aktorki PRL-u. Rozpoznasz je wy\u0142\u0105cznie po oczach? 1/15 Kto jest na zdj\u0119ciu? Ewa Kasprzyk Magdalena Zawadzka Emilia Krakowska Sprawd\u017a odpowied\u017a\n\nWajda, Kie\u015blowski, Kondratiuk, Has, Munk, Zanussi, Bareja, Ch\u0119ci\u0144ski \u2013 to tylko niekt\u00f3re z nazwisk, kt\u00f3re trwale zapisa\u0142y si\u0119 w pami\u0119ci widz\u00f3w. A gdyby wymieni\u0107 do tego plejad\u0119 gwiazd kina, kt\u00f3ra w\u00f3wczas obecna by\u0142a na salonach, nie starczy\u0142oby nam dnia.\n\nRozpoznasz gwiazdy PRL-u po oczach?\n\nPrzygotowali\u015bmy quiz, kt\u00f3rym sprawdzimy twoj\u0105 wiedz\u0119 i pami\u0119\u0107 na temat najpopularniejszych aktorek PRL-u. Kto by\u0142 gwiazd\u0105 \u201eCzterdziestolatka\u201d, a kto \u201eCzterech pancernych i psa\u201d? Test sk\u0142ada si\u0119 15 pyta\u0144, w kt\u00f3rych musisz wskaza\u0107 nazwisko gwiazdy, kt\u00f3ra znajduje si\u0119 na zdj\u0119ciu. Proste, prawda? Dlatego postanowili\u015bmy utrudni\u0107 to zadanie \u2013 za ka\u017cdym razem zobaczysz tylko oczy aktorki.\n\nZdj\u0119cia pojawiaj\u0105ce si\u0119 w quizie to kadry z kultowych film\u00f3w. \u017byczymy powodzenia!\n\n\u0179r\u00f3d\u0142o: CHILLIZET"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Trasy nordic walking do 40.8 km od Koszalina. Podpowiadamy, gdzie warto si\u0119 wybra\u0107 w weekend 24 - 25 stycznia",
+            "link": "https://koszalin.naszemiasto.pl/trasy-nordic-walking-do-40-8-km-od-koszalina-podpowiadamy-gdzie-warto-sie-wybrac-w-weekend-24-25-stycznia/ar/c7p1-22318903",
+            "description": "Rozgl\u0105dasz si\u0119 za nowymi trasami nordic walking w okolicy Koszalina? Z Traseo przygotowali\u015bmy dla Ciebie kilka pomys\u0142\u00f3w na ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.SOYqr3hQG7A0z_SSZ5C3CS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "Koszalin Nasze Miasto53 min",
+            "source": "Koszalin Nasze Miasto",
+            "article_content": "Content not available"
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Rowerem do 9.8 km od O\u015bwi\u0119cimia. Pomys\u0142y na jednodniowy wypad. Gdzie w weekend 24 - 25 stycznia?",
+            "link": "https://oswiecim.naszemiasto.pl/rowerem-do-9-8-km-od-oswiecimia-pomysly-na-jednodniowy-wypad-gdzie-w-weekend-24-25-stycznia/ar/c7p1-21831633",
+            "description": "Zanim wyruszysz w drog\u0119, upewnij si\u0119, jaka b\u0119dzie pogoda. W sobot\u0119 24 stycznia w O\u015bwi\u0119cimiu ma by\u0107 2\u00b0C. Nie powinno pada\u0107. W ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.4V9B_CBpRdauZdkkW3K6TC&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "O\u015bwi\u0119cim Nasze Miasto2 godz.",
             "source": "O\u015bwi\u0119cim Nasze Miasto",
             "article_content": "Content not available"
         }
@@ -181,14 +181,30 @@
             "Content-Type": "application/json"
         },
         "body": {
-            "title": "Dom mieszczan z barokowymi podcieniami",
-            "link": "https://www.rp.pl/nieruchomosci/art9686141-dom-mieszczan-z-barokowymi-podcieniami",
-            "description": "Wytworna kamienica na Rynku w Sandomierzu \u2013 powszechnie uwa\u017cana za najpi\u0119kniejsz\u0105 w mie\u015bcie \u2013 nale\u017cy do najstarszych ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.JgGIUWA7yF7i32chZ1AYji&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "title": "Fina\u0142 WO\u015aP 2026: Niepowtarzalne prze\u017cycia i najbardziej odjechane aukcje na Dolnym \u015al\u0105sku. Zosta\u0144 czo\u0142gist\u0105, pilotem i kowbojem",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/polska/fina%C5%82-wo%C5%9Bp-2026-niepowtarzalne-prze%C5%BCycia-i-najbardziej-odjechane-aukcje-na-dolnym-%C5%9Bl%C4%85sku-zosta%C5%84-czo%C5%82gist%C4%85-pilotem-i-kowbojem/ar-AA1UJeam?ocid=BingNewsVerp",
+            "description": "Fina\u0142 Wielkiej Orkiestry \u015awi\u0105tecznej Pomocy 2026 ju\u017c wkr\u00f3tce. Przy okazji wsp\u00f3lnej zabawy oraz wsparcia dla tego ...",
+            "image_url": "https://www.bing.pl/th?id=ORMS.dbe5faa2224dadbe9d0650440c2b6a72&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "relikty",
-            "date": "Rzeczpospolita6 godz.",
-            "source": "Rzeczpospolita",
-            "article_content": "Wytworna kamienica na Rynku w Sandomierzu \u2013 powszechnie uwa\u017cana za najpi\u0119kniejsz\u0105 w mie\u015bcie \u2013 nale\u017cy do najstarszych i zdecydowanie najlepiej zachowanych zabytk\u00f3w historycznego centrum. Miasto do dzi\u015b ma niezmieniony XIII-wieczny uk\u0142ad przestrzenny ulic. Pi\u0119trowa kamienica budowana z ceg\u0142y, z przestronnym u\u017cytkowym poddaszem, z zewn\u0105trz zachwyca eleganckim szczytem fasady g\u0142\u00f3wnej, a tak\u017ce ozdobnymi pilastrami pomi\u0119dzy du\u017cymi, prostok\u0105tnymi oknami i finezyjn\u0105 balustradk\u0105 w kszta\u0142cie attyki. Charakterystyczny podcie\u0144 jest dzi\u015b \u015bwiadectwem dawnej sztuki budowania. Podobne, otwarte podcienia chroni\u0105ce przed s\u0142o\u0144cem i deszczem mia\u0142y kiedy\u015b wszystkie kamienice przy Rynku.\n\nReklama Reklama\n\nZ\u0142ote czasy\n\nRodow\u00f3d najbardziej znanej sandomierskiej kamienicy, nazywanej Kamienic\u0105 Ole\u015bnickich, od nazwiska jej XVIII-wiecznych w\u0142a\u015bcicieli, si\u0119ga z pewno\u015bci\u0105 z\u0142otych czas\u00f3w panowania kr\u00f3la Zygmunta Starego i Zygmunta Augusta. W\u00f3wczas w\u0142a\u015bcicielem nieruchomo\u015bci by\u0142 wojewoda brzesko-kujawski Andrzej Leszczy\u0144ski. Wiadomo, \u017ce w budynku Leszczy\u0144skiego stoj\u0105cym w p\u00f3\u0142nocno-zachodnim naro\u017cniku Rynku toczy\u0142o si\u0119 \u017cycie polityczne. W 1570 roku w murach domu podpisano wa\u017cny dokument o tolerancji mi\u0119dzy luteranami, kalwinistami i bra\u0107mi czeskimi \u2013 tzw. Zgod\u0119 Sandomiersk\u0105. Kres \u015bwietno\u015bci Sandomierza, uwa\u017canego za drugie po Krakowie miasto Ma\u0142opolski, nast\u0105pi\u0142 wraz z potopem szwedzkim w 1655 roku.\n\nO roli Sandomierza w dawnej Polsce \u015bwiadczy pierwsza wzmianka pochodz\u0105ca z kroniki Galla Anonima. Autor zaliczy\u0142 wtedy Sandomierz, opr\u00f3cz Krakowa i Wroc\u0142awia, do \u201eg\u0142\u00f3wnych stolic Kr\u00f3lestwa\". W 1138 roku Boles\u0142aw Krzywousty w testamencie spisanym przed \u015bmierci\u0105 podzieli\u0142 pa\u0144stwo mi\u0119dzy syn\u00f3w. Pi\u0105temu synowi z kolei przekaza\u0142 pod w\u0142adanie ksi\u0119stwo sandomierskie, potwierdzaj\u0105c tym znaczenie ca\u0142ego regionu. Miasto Sandomierz i okolice przypad\u0142y ksi\u0119ciu Henrykowi zwanemu p\u00f3\u017aniej Sandomierskim. W 1934 roku Jaros\u0142aw Iwaszkiewicz napisa\u0142 o Henryku Sandomierskim powie\u015b\u0107 pt. \u201eCzerwone tarcze\". By\u0142 to rycerz uczestnicz\u0105cy w krucjatach, kt\u00f3ry w 1154 roku broni\u0142 podobno Jerozolimy przed Saracenami.\n\nKamienica dawnych mieszczan w Sandomierzu sp\u0142on\u0119\u0142a w po\u017carze miasta w 1757 roku. Po tym tragicznym wydarzeniu dzia\u0142k\u0119 wraz z ruinami kupi\u0142a rodzina Ole\u015bnickich. Budynek w obecnym kszta\u0142cie powsta\u0142 w latach 1770\u20131780. By\u0107 mo\u017ce wznosz\u0105c nowy obiekt na miejscu starego, zachowano relikty poprzedniej konstrukcji. Autorem projektu odnowionej kamienicy by\u0142 najpewniej ks. J\u00f3zef Kar\u015bnicki, katolicki duchowny i utalentowany architekt, tw\u00f3rca okolicznych ko\u015bcio\u0142\u00f3w ziemi sandomierskiej, dw\u00f3ch fasad klasztoru w Sandomierzu, dworku szlacheckiego w Nikisia\u0142ce Ma\u0142ej oraz pa\u0142acu w Czy\u017cowie. Na charakterystyczny uk\u0142ad wn\u0119trza kamienicy Ole\u015bnickich sk\u0142ada\u0142y si\u0119: du\u017ca sie\u0144, izby w parterze i pokoje na pi\u0119trze.\n\nPodziemne labirynty\n\nPrzez dekady kamienica rodziny Ole\u015bnickich niszcza\u0142a. \u201eSytuacja i upadek gospodarczy miasta w XIX i na pocz\u0105tku XX w. sprawi\u0142y, \u017ce bardzo wiele budowli uleg\u0142o zniszczeniu, za\u015b te, kt\u00f3re przetrwa\u0142y, nie by\u0142y odpowiednio zabezpieczone i konserwowane\", ocenia Juliusz Wendlandt, zas\u0142u\u017cony pracownik Krajowego O\u015brodka Bada\u0144 i Dokumentacji Zabytk\u00f3w. Lepsze czasy nast\u0105pi\u0142y po 1918 roku \u2013 odzyskanie niepodleg\u0142o\u015bci obudzi\u0142o u\u015bpiony potencja\u0142 polskiego miasta. Dodatkowe o\u017cywienie gospodarcze Sandomierza zwi\u0105zane by\u0142o z decyzj\u0105 w\u0142adz Drugiej Rzeczypospolitej o utworzeniu tu stolicy Centralnego Okr\u0119gu Przemys\u0142owego (COP). Rozw\u00f3j ekonomiczny i kulturalny o\u015brodka trwa\u0142 do wybuchu wojny w 1939 roku."
+            "date": "Gazeta Wroc\u0142awska on MSN5 godz.",
+            "source": "Gazeta Wroc\u0142awska on MSN",
+            "article_content": ""
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "NFZ obni\u017ca stawk\u0119 \u017cywieniow\u0105 w szpitalach do 21 z\u0142",
+            "link": "https://kresy.pl/wydarzenia/regiony/polska-regiony/nfz-obniza-stawke-zywieniowa-w-szpitalach-do-21-zl/",
+            "description": "Po zako\u0144czeniu pilota\u017cu \u201eDobry posi\u0142ek' NFZ planuje wprowadzenie ni\u017cszych stawek \u017cywieniowych w szpitalach. Dyrektorzy ...",
+            "image_url": "https://www.bing.pl/th?id=OVFT.AyGvk3mXD3zFjANHXUVUzS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "relikty",
+            "date": "Kresy.pl1 godz.",
+            "source": "Kresy.pl",
+            "article_content": "Content not available"
         }
     },
     {
@@ -202,7 +218,7 @@
             "description": "\u0141om\u017cy\u0144scy kryminalni ustalili i zatrzymali dw\u00f3ch mieszka\u0144c\u00f3w \u0141om\u017cy, kt\u00f3rzy dopu\u015bcili si\u0119 kradzie\u017cy na terenie jednej z firm w ...",
             "image_url": "https://www.bing.pl/th?id=OVFT.uROUwSX6aSx-UbVuKOrtuS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "Gazeta Wsp\u00f3\u0142czesna on MSN17 godz.",
+            "date": "Gazeta Wsp\u00f3\u0142czesna on MSN21 godz.",
             "source": "Gazeta Wsp\u00f3\u0142czesna on MSN",
             "article_content": ""
         }
@@ -218,7 +234,7 @@
             "description": "Przygotowali\u015bmy dla Ciebie porann\u0105 pras\u00f3wk\u0119. Zobacz artyku\u0142y, kt\u00f3re nasi czytelnicy czytali najch\u0119tniej wczoraj, 21.01.",
             "image_url": "https://www.bing.pl/th?id=OVFT.3ahIfQ9gkBs4bUC8zpvlyS&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
             "category": "zabytkowe+przedmioty",
-            "date": "G\u0142os Pomorza9 godz.",
+            "date": "G\u0142os Pomorza12 godz.",
             "source": "G\u0142os Pomorza",
             "article_content": "Content not available"
         }
@@ -234,9 +250,25 @@
             "description": "Eleganckie wej\u015bcie, winda dyskretnie wkomponowana w zabytkow\u0105 klatk\u0119 schodow\u0105, multiteka, mediateka, przyjazna sala edukacyjna dla najm\u0142odszych, tarasy z pi\u0119knym widokiem na Rynek, kawiarenka, a przed ...",
             "image_url": "https://www.bing.pl/th?id=ODF.g3O_SGbSdDgwTMoAcQp_Dg&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "zabytkowe+przedmioty",
-            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w11 godz.",
+            "date": "Oficjalny serwis miejski - Magiczny Krak\u00f3w15 godz.",
             "source": "Oficjalny serwis miejski - Magiczny Krak\u00f3w",
             "article_content": "Krak\u00f3w \u2013 czas okupacji 1939-1945\n\nWystawa mie\u015bci si\u0119 w dawnym budynku administracyjnym Fabryki Emalia Oskara Schindlera przy ul. Lipowej 4 i jest opowie\u015bci\u0105 o Krakowie i losach jego polskich i \u017cydowskich mieszka\u0144c\u00f3w w czasie II wojny \u015bwiatowej, ale te\u017c o Niemcach \u2013 okupantach,..."
+        }
+    },
+    {
+        "method": "POST",
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "body": {
+            "title": "Tyle p\u0142ac\u0105 teraz za te popularne kiedy\u015b dwuz\u0142ot\u00f3wki",
+            "link": "https://www.msn.com/pl-pl/wiadomosci/nauka-i-technika/tyle-p%C5%82ac%C4%85-teraz-za-te-popularne-kiedy%C5%9B-dwuz%C5%82ot%C3%B3wki/ar-AA1PdLQX?ocid=BingNewsVerp",
+            "description": "Te okoliczno\u015bciowe dwuz\u0142ot\u00f3wki jeszcze niedawno by\u0142y kupowane przez Polak\u00f3w na akord, Teraz cz\u0119\u015b\u0107 z nich osi\u0105ga na aukcjach ...",
+            "image_url": "https://www.bing.pl/th?id=ORMS.dd7922f2db6e4a7202f1f9f6276236f7&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
+            "category": "stare+numizmatyka",
+            "date": "Nowa Trybuna Opolska on MSN2 godz.",
+            "source": "Nowa Trybuna Opolska on MSN",
+            "article_content": ""
         }
     },
     {
@@ -250,23 +282,7 @@
             "description": "Rynek numizmatyczny wycenia obecnie wiele z tych monet na niesamowite kwoty. To dlatego, \u017ce niekt\u00f3re z nich trafiaj\u0105 na aukcje niezwykle rzadko, a gdy ju\u017c si\u0119 pojawi\u0105, natychmiast wzbudzaj\u0105 ogromne em ...",
             "image_url": "https://www.bing.pl/th?id=ODF.U7tHWt6afQwcI4sCY6tjaA&pid=news&w=16&h=16&c=14&rs=2&qlt=90",
             "category": "stare+numizmatyka",
-            "date": "Nowa Trybuna Opolska on MSN5 godz.",
-            "source": "Nowa Trybuna Opolska on MSN",
-            "article_content": ""
-        }
-    },
-    {
-        "method": "POST",
-        "headers": {
-            "Content-Type": "application/json"
-        },
-        "body": {
-            "title": "To najwi\u0119ksze b\u0142\u0119dy kolekcjoner\u00f3w monet. Nigdy tego nie r\u00f3b",
-            "link": "https://www.msn.com/pl-pl/wiadomosci/other/to-najwi%C4%99ksze-b%C5%82%C4%99dy-kolekcjoner%C3%B3w-monet-nigdy-tego-nie-r%C3%B3b/ar-AA1UGDJ4?ocid=BingNewsVerp",
-            "description": "Zbieranie monet mo\u017ce by\u0107 dobr\u0105 form\u0105 inwestycji, ale tylko wtedy, gdy s\u0105 odpowiednio przechowywane. Nawet naj\u0142adniejszy ...",
-            "image_url": "https://www.bing.pl/th?id=OVFT.D4d6_E_W_lw3cgzQTjHdFy&pid=News&w=234&h=132&c=14&rs=2&qlt=30",
-            "category": "stare+numizmatyka",
-            "date": "Nowa Trybuna Opolska on MSN16 godz.",
+            "date": "Nowa Trybuna Opolska on MSN9 godz.",
             "source": "Nowa Trybuna Opolska on MSN",
             "article_content": ""
         }
